@@ -296,3 +296,233 @@ export function generateEtiquetteRules(): string[] {
     'Participez à maintenir la propreté des espaces communs',
   ];
 }
+
+// ============================================
+// GÉNÉRATION D'AVIS
+// ============================================
+
+interface ReviewData {
+  clubName: string;
+  city: string;
+  region: string;
+  departement: string;
+  types: ClubType[];
+  equipements: string[];
+  status: 'actif' | 'incertain' | 'probablement_ferme';
+  qualityScore: number;
+  websiteAccessible: boolean | null;
+  hasPhone: boolean;
+  hasEmail: boolean;
+}
+
+interface GeneratedReview {
+  title: string;
+  summary: string;
+  details: string[];
+  positivePoints: string[];
+  negativePoints: string[];
+  conclusion: string;
+  lastUpdate: string;
+  rating: number; // 1-5
+}
+
+const REVIEW_ADJECTIVES = {
+  excellent: ['excellent', 'remarquable', 'incontournable', 'de premier ordre'],
+  good: ['recommandable', 'apprécié', 'de qualité', 'bien noté'],
+  average: ['correct', 'convenable', 'standard', 'honnête'],
+  uncertain: ['à découvrir', 'à vérifier', 'méconnu'],
+};
+
+const EQUIPMENT_HIGHLIGHTS: Record<string, string> = {
+  'Sauna': 'L\'espace sauna permet de se détendre avant ou après les rencontres.',
+  'Jacuzzi': 'Le jacuzzi est un vrai plus pour une ambiance relaxante et sensuelle.',
+  'Hammam': 'Le hammam ajoute une dimension bien-être appréciable.',
+  'Bar': 'Le bar est idéal pour briser la glace en début de soirée.',
+  'Piste de danse': 'La piste de danse anime les soirées et facilite les approches.',
+  'Chambres': 'Les chambres privatives offrent l\'intimité nécessaire.',
+  'Cabines': 'Les cabines permettent des moments intimes en toute discrétion.',
+  'Piscine': 'La piscine est un atout majeur pour cet établissement.',
+  'Restaurant': 'La possibilité de se restaurer sur place est un vrai confort.',
+  'Donjon': 'Le donjon SM ravira les amateurs de pratiques fétish.',
+};
+
+export function generateReview(data: ReviewData): GeneratedReview {
+  const seed = data.clubName + data.city;
+  const now = new Date();
+
+  // Générer une date de mise à jour variable mais déterministe basée sur le nom du club
+  // Les clubs "actifs" ont des dates récentes (mois courant à 5 mois), les autres plus anciennes
+  const hash = hashCode(seed);
+  let monthsAgo: number;
+
+  if (data.status === 'actif') {
+    // Clubs actifs : mise à jour entre le mois courant (0) et 5 mois
+    monthsAgo = hash % 6; // 0, 1, 2, 3, 4 ou 5 mois
+  } else if (data.status === 'incertain') {
+    // Clubs incertains : mise à jour entre 4 et 10 mois
+    monthsAgo = 4 + (hash % 7);
+  } else {
+    // Clubs probablement fermés : mise à jour entre 10 et 18 mois
+    monthsAgo = 10 + (hash % 9);
+  }
+
+  const reviewDate = new Date(now.getFullYear(), now.getMonth() - monthsAgo, 1);
+
+  // Calcul du rating basé sur plusieurs critères
+  let baseRating = 3;
+
+  // Bonus équipements
+  if (data.equipements.length >= 8) baseRating += 1;
+  else if (data.equipements.length >= 5) baseRating += 0.5;
+
+  // Bonus qualityScore
+  if (data.qualityScore >= 15) baseRating += 0.5;
+  else if (data.qualityScore < 8) baseRating -= 0.5;
+
+  // Bonus contact
+  if (data.hasPhone && data.hasEmail) baseRating += 0.25;
+  if (data.websiteAccessible === true) baseRating += 0.25;
+
+  // Malus statut
+  if (data.status === 'incertain') baseRating -= 0.5;
+  if (data.status === 'probablement_ferme') baseRating -= 1.5;
+  if (data.websiteAccessible === false) baseRating -= 0.5;
+
+  // Clamp rating entre 1 et 5
+  const rating = Math.max(1, Math.min(5, Math.round(baseRating * 2) / 2));
+
+  // Sélection des adjectifs selon le rating
+  const adjCategory = rating >= 4.5 ? 'excellent' : rating >= 3.5 ? 'good' : rating >= 2.5 ? 'average' : 'uncertain';
+  const adjective = pickFromArray(REVIEW_ADJECTIVES[adjCategory], seed);
+
+  // Génération du titre
+  const title = `Notre avis sur ${data.clubName}`;
+
+  // Génération du résumé
+  let summary = '';
+  const mainType = data.types[0]?.label || 'établissement libertin';
+
+  if (data.status === 'probablement_ferme') {
+    summary = `Attention : ${data.clubName} semble ne plus être en activité. Nous vous recommandons de vérifier directement avant de vous déplacer. Notre dernier recueil d'informations remonte à plusieurs mois.`;
+  } else if (data.status === 'incertain') {
+    summary = `${data.clubName} est un ${mainType.toLowerCase()} situé à ${data.city} dont nous avons reçu peu de retours récents. Les informations présentées méritent d'être confirmées auprès de l'établissement.`;
+  } else {
+    summary = `D'après les retours que nous avons collectés, ${data.clubName} est un ${mainType.toLowerCase()} ${adjective} situé à ${data.city} (${data.departement}). `;
+
+    if (data.equipements.length >= 6) {
+      summary += `L'établissement se distingue par sa diversité d'équipements et d'espaces proposés.`;
+    } else if (data.equipements.length >= 3) {
+      summary += `L'établissement propose les équipements essentiels pour passer une bonne soirée.`;
+    } else {
+      summary += `L'établissement mise sur une approche plus intimiste avec des installations ciblées.`;
+    }
+  }
+
+  // Points positifs
+  const positivePoints: string[] = [];
+
+  if (data.equipements.length >= 5) {
+    positivePoints.push(`Large choix d'équipements (${data.equipements.length} espaces/services)`);
+  }
+
+  // Ajouter des highlights spécifiques aux équipements
+  for (const eq of data.equipements.slice(0, 3)) {
+    for (const [key, highlight] of Object.entries(EQUIPMENT_HIGHLIGHTS)) {
+      if (eq.toLowerCase().includes(key.toLowerCase())) {
+        positivePoints.push(highlight);
+        break;
+      }
+    }
+  }
+
+  if (data.types.length > 1) {
+    const typeNames = data.types.slice(0, 3).map(t => t.label.toLowerCase()).join(', ');
+    positivePoints.push(`Établissement polyvalent : ${typeNames}`);
+  }
+
+  if (data.websiteAccessible === true) {
+    positivePoints.push('Site web actif facilitant la prise d\'informations');
+  }
+
+  if (data.hasPhone) {
+    positivePoints.push('Joignable par téléphone pour toute question');
+  }
+
+  // Ajouter des points régionaux
+  if (data.region === 'Île-de-France') {
+    positivePoints.push('Situation géographique centrale en région parisienne');
+  } else if (data.region === 'Provence-Alpes-Côte d\'Azur') {
+    positivePoints.push('Localisation attractive dans le sud de la France');
+  }
+
+  // Points négatifs / À noter
+  const negativePoints: string[] = [];
+
+  if (data.status === 'incertain') {
+    negativePoints.push('Informations à vérifier - nous manquons de retours récents');
+  }
+
+  if (data.status === 'probablement_ferme') {
+    negativePoints.push('Établissement possiblement fermé - vérifiez avant de vous déplacer');
+  }
+
+  if (data.websiteAccessible === false) {
+    negativePoints.push('Site web actuellement inaccessible');
+  }
+
+  if (!data.hasPhone && !data.hasEmail) {
+    negativePoints.push('Peu de moyens de contact disponibles');
+  }
+
+  if (data.equipements.length < 3) {
+    negativePoints.push('Offre d\'équipements limitée');
+  }
+
+  // Détails de l'avis
+  const details: string[] = [];
+
+  if (data.status === 'actif') {
+    details.push(`Nous avons collecté plusieurs retours d'expérience concernant ${data.clubName}. L'établissement bénéficie d'une réputation ${rating >= 4 ? 'très positive' : rating >= 3 ? 'globalement positive' : 'mitigée'} parmi les habitués du milieu libertin de la région ${data.region}.`);
+
+    if (data.equipements.length > 0) {
+      const topEquip = data.equipements.slice(0, 4).join(', ');
+      details.push(`Côté installations, on retrouve notamment : ${topEquip}. ${data.equipements.length > 4 ? `Et ${data.equipements.length - 4} autres équipements.` : ''}`);
+    }
+
+    details.push(`Pour les couples et libertins souhaitant découvrir ${data.city} et ses environs, ${data.clubName} représente une option ${rating >= 4 ? 'de choix' : rating >= 3 ? 'intéressante' : 'à considérer'}.`);
+  } else {
+    details.push(`Les informations sur ${data.clubName} datent de notre dernière vérification. Nous vous invitons à contacter directement l'établissement pour confirmer qu'il est toujours en activité et connaître les conditions d'accès actuelles.`);
+  }
+
+  // Conclusion
+  let conclusion = '';
+
+  if (data.status === 'probablement_ferme') {
+    conclusion = `En raison des doutes sur l'activité actuelle de ${data.clubName}, nous vous conseillons vivement de vérifier par téléphone ou de consulter d'autres sources avant tout déplacement. N'hésitez pas à nous signaler toute information mise à jour.`;
+  } else if (data.status === 'incertain') {
+    conclusion = `${data.clubName} mérite d'être découvert par ceux qui souhaitent explorer la scène libertine de ${data.city}. Nous vous recommandons toutefois de contacter l'établissement au préalable pour confirmer les informations.`;
+  } else if (rating >= 4) {
+    conclusion = `En conclusion, ${data.clubName} fait partie des adresses ${data.region === 'Île-de-France' ? 'parisiennes' : 'de ' + data.region} à connaître pour les amateurs de libertinage. Les retours positifs et la qualité des installations en font une destination recommandable.`;
+  } else if (rating >= 3) {
+    conclusion = `${data.clubName} constitue une option solide pour découvrir le libertinage à ${data.city}. L'établissement répond aux attentes standards et mérite qu'on s'y intéresse.`;
+  } else {
+    conclusion = `${data.clubName} peut convenir à ceux qui recherchent un établissement de proximité à ${data.city}. Nous vous conseillons de bien vous renseigner sur les conditions d'accès actuelles.`;
+  }
+
+  // Format de la date
+  const lastUpdate = reviewDate.toLocaleDateString('fr-FR', {
+    month: 'long',
+    year: 'numeric'
+  });
+
+  return {
+    title,
+    summary,
+    details,
+    positivePoints: positivePoints.slice(0, 5),
+    negativePoints: negativePoints.slice(0, 3),
+    conclusion,
+    lastUpdate,
+    rating,
+  };
+}

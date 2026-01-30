@@ -112,7 +112,7 @@ function parseClubTypes(labels: string[]): ClubType[] {
 
 function transformClub(raw: RawClub): Club {
   const nom = cleanText(raw.nom || 'Club sans nom');
-  const ville = cleanText(raw.ville || 'Ville inconnue');
+  const villeRaw = cleanText(raw.ville || '');
   const region = cleanText(raw.region || 'Région inconnue');
   const departement = cleanText(raw.departement_nom || 'Département inconnu');
   const pays = cleanText(raw.pays || 'France');
@@ -122,6 +122,11 @@ function transformClub(raw: RawClub): Club {
   const equipements = raw.equipements || [];
   const departement_code = raw.departement_code || '';
   const code_postal = raw.code_postal || '';
+
+  // Si ville inconnue, utiliser le pays pour l'affichage et le slug
+  const villeIsUnknown = !villeRaw || villeRaw.toLowerCase() === 'ville inconnue' || villeRaw.toLowerCase() === 'inconnue';
+  const ville = villeIsUnknown ? pays : villeRaw;
+  const villeForSlug = villeIsUnknown ? pays : villeRaw;
 
   // Génération du contenu SEO
   const seoTitle = generateSEOTitle(nom, type, ville, departement_code);
@@ -141,14 +146,14 @@ function transformClub(raw: RawClub): Club {
 
   return {
     id: raw.id,
-    slug: raw.slug || slugify(`${nom}-${ville}`), // Utilise le slug personnalisé si présent
+    slug: raw.slug || slugify(`${nom}-${villeForSlug}`), // Utilise le slug personnalisé si présent, sinon nom + ville/pays
     nom,
     type,
     types,
     adresse: cleanText(raw.adresse || ''),
     code_postal,
     ville,
-    villeSlug: slugify(ville),
+    villeSlug: slugify(villeForSlug),
     departement_code,
     departement_nom: departement,
     departementSlug: slugify(departement),
