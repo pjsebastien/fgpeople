@@ -1,0 +1,154 @@
+{
+  "clubs": [
+    {
+      "id": "1",
+      "slug": "le-palace-paris",
+      "name": "Le Palace Paris",
+      "description": "Situé au cœur de Paris, Le Palace Paris est un établissement d'exception qui allie élégance et raffinement. Dans un cadre luxueux et intimiste, découvrez un espace de 500m² entièrement dédié à votre plaisir et votre bien-être. Notre équipe attentionnée vous accueille dans une ambiance chaleureuse et discrète. Le club dispose de plusieurs espaces thématiques, d'un bar lounge, d'une piscine intérieure chauffée et d'un espace détente avec jacuzzi et sauna.",
+      "shortDescription": "Club libertin au cœur de Paris. 500m² d'espaces luxueux avec piscine, jacuzzi et sauna dans une ambiance raffinée et discrète.",
+      "address": "12 Rue de la Paix",
+      "city": "Paris",
+      "citySlug": "paris",
+      "region": "Île-de-France",
+      "regionSlug": "ile-de-france",
+      "postalCode": "75002",
+      "phone": "01 42 00 00 00",
+      "email": "contact@lepalace-paris.fr",
+      "website": "https://www.lepalace-paris.fr",
+      "images": [
+        "/images/libertin.jpg",
+        "/images/libertin (2).jpg",
+        "/images/libertin (3).jpg"
+      ],
+      "features": ["Piscine", "Jacuzzi", "Sauna", "Bar", "Parking", "Vestiaires"],
+      "openingHours": "Mer-Sam: 21h-4h | Dim: 15h-23h",
+      "priceRange": "€€€",
+      "createdAt": "2024-01-15",
+      "featured": true
+    },
+    {
+      "id": "2",
+      "slug": "eden-club-lyon",
+      "name": "Eden Club Lyon",
+      "description": "L'Eden Club Lyon vous invite à découvrir un univers unique dans la capitale des Gaules. Sur plus de 400m², notre établissement propose des espaces variés pour tous les goûts : zone lounge cosy, espace danse avec DJ, et coins intimistes pour plus de tranquillité. La décoration soignée mêle modernité et touches vintage pour une atmosphère incomparable. Notre bar propose une carte de cocktails signatures et notre équipe veille à ce que chaque soirée soit mémorable.",
+      "shortDescription": "Club convivial à Lyon avec espaces lounge, piste de danse et ambiance chaleureuse. Cocktails signatures et soirées thématiques.",
+      "address": "45 Rue de la République",
+      "city": "Lyon",
+      "citySlug": "lyon",
+      "region": "Auvergne-Rhône-Alpes",
+      "regionSlug": "auvergne-rhone-alpes",
+      "postalCode": "69002",
+      "phone": "04 72 00 00 00",
+      "email": "info@edenclub-lyon.fr",
+      "website": "https://www.edenclub-lyon.fr",
+      "images": [
+        "/images/libertin (4).jpg",
+        "/images/libertin (5).jpg"
+      ],
+      "features": ["Bar", "Piste de danse", "Fumoir", "Vestiaires", "Climatisation"],
+      "openingHours": "Ven-Sam: 22h-5h",
+      "priceRange": "€€",
+      "createdAt": "2024-02-20",
+      "featured": true
+    },
+    {
+      "id": "3",
+      "slug": "laquarium-marseille",
+      "name": "L'Aquarium Marseille",
+      "description": "Face à la Méditerranée, L'Aquarium Marseille offre une expérience unique inspirée du monde marin. Notre décoration originale avec aquariums géants et jeux de lumières bleues crée une atmosphère onirique et apaisante. Le club s'étend sur deux niveaux avec terrasse panoramique offrant une vue imprenable sur le Vieux-Port. Espace bien-être avec hammam et massages disponibles sur réservation. Cuisine méditerranéenne servie jusqu'à minuit.",
+      "shortDescription": "Club unique à Marseille avec décor marin, terrasse vue mer et espace bien-être. Hammam et cuisine méditerranéenne.",
+      "address": "8 Quai du Port",
+      "city": "Marseille",
+      "citySlug": "marseille",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "regionSlug": "provence-alpes-cote-dazur",
+      "postalCode": "13002",
+      "phone": "04 91 00 00 00",
+      "images": [
+        "/images/libertin (6).jpg",
+        "/images/libertin (7).jpg",
+        "/images/libertin (8).jpg"
+      ],
+      "features": ["Terrasse", "Hammam", "Restaurant", "Bar", "Vue mer", "Parking"],
+      "openingHours": "Jeu-Sam: 20h-4h | Dim: 14h-22h",
+      "priceRange": "€€€",
+      "createdAt": "2024-03-10",
+      "featured": false
+    },
+    {
+      "id": "4",
+      "slug": "le-boudoir-bordeaux",
+      "name": "Le Boudoir Bordeaux",
+      "description": "Dans le quartier historique de Bordeaux, Le Boudoir vous transporte dans l'atmosphère feutrée des maisons closes du XIXe siècle. Murs tendus de velours rouge, lustres en cristal et mobilier d'époque créent un cadre romantique et sensuel. Notre cave à vins propose une sélection exceptionnelle de grands crus bordelais. Ambiance musicale jazz et lounge pour des soirées tout en élégance. Accès réservé aux membres sur cooptation.",
+      "shortDescription": "Club intimiste à Bordeaux au décor Belle Époque. Cave à vins d'exception et ambiance jazz pour une clientèle sélectionnée.",
+      "address": "23 Cours de l'Intendance",
+      "city": "Bordeaux",
+      "citySlug": "bordeaux",
+      "region": "Nouvelle-Aquitaine",
+      "regionSlug": "nouvelle-aquitaine",
+      "postalCode": "33000",
+      "phone": "05 56 00 00 00",
+      "email": "reservation@leboudoir-bordeaux.fr",
+      "images": [
+        "/images/libertin (9).jpg",
+        "/images/libertin (10).jpg"
+      ],
+      "features": ["Cave à vins", "Fumoir", "Climatisation", "Sur réservation"],
+      "openingHours": "Ven-Sam: 21h-3h",
+      "priceRange": "€€€",
+      "createdAt": "2024-04-05",
+      "featured": true
+    },
+    {
+      "id": "5",
+      "slug": "le-loft-nantes",
+      "name": "Le Loft Nantes",
+      "description": "Installé dans un ancien entrepôt industriel entièrement rénové, Le Loft Nantes incarne le style urbain contemporain. Briques apparentes, structures métalliques et grands volumes caractérisent cet espace atypique de 600m². Le club dispose d'un rooftop aménagé pour les beaux jours, d'une salle de projection privée et d'un espace gaming pour les amateurs. Programmation musicale électro et house avec DJs résidents. Restauration snacking disponible toute la nuit.",
+      "shortDescription": "Club urbain à Nantes dans un loft industriel. Rooftop, salle de projection et ambiance électro dans 600m² d'espaces.",
+      "address": "15 Hangar à Bananes",
+      "city": "Nantes",
+      "citySlug": "nantes",
+      "region": "Pays de la Loire",
+      "regionSlug": "pays-de-la-loire",
+      "postalCode": "44200",
+      "email": "contact@leloft-nantes.fr",
+      "website": "https://www.leloft-nantes.fr",
+      "images": [
+        "/images/libertin (11).jpg",
+        "/images/libertin (12).jpg"
+      ],
+      "features": ["Rooftop", "Salle de projection", "Bar", "Snacking", "Parking gratuit"],
+      "openingHours": "Jeu-Sam: 22h-6h",
+      "priceRange": "€€",
+      "createdAt": "2024-05-12",
+      "featured": false
+    }
+  ],
+  "regions": [
+    {
+      "name": "Île-de-France",
+      "slug": "ile-de-france",
+      "cities": ["paris"]
+    },
+    {
+      "name": "Auvergne-Rhône-Alpes",
+      "slug": "auvergne-rhone-alpes",
+      "cities": ["lyon"]
+    },
+    {
+      "name": "Provence-Alpes-Côte d'Azur",
+      "slug": "provence-alpes-cote-dazur",
+      "cities": ["marseille"]
+    },
+    {
+      "name": "Nouvelle-Aquitaine",
+      "slug": "nouvelle-aquitaine",
+      "cities": ["bordeaux"]
+    },
+    {
+      "name": "Pays de la Loire",
+      "slug": "pays-de-la-loire",
+      "cities": ["nantes"]
+    }
+  ]
+}

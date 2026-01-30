@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install)",
+      "Bash(npm run build:*)",
+      "Bash(npm:*)",
+      "Bash(node:*)",
+      "Bash(npm.cmd run build:*)",
+      "Bash(npx next build)",
+      "Bash(npx tsc:*)",
+      "Bash(tee:*)",
+      "Bash(dir:*)",
+      "WebFetch(domain:www.fgpeople.com)",
+      "Bash(copy:*)",
+      "Bash(cmd /c copy \"c:\\\\Users\\\\pjseb\\\\OneDrive\\\\Desktop\\\\fgpeople\\\\images\\\\favicon-fg.png\" \"c:\\\\Users\\\\pjseb\\\\OneDrive\\\\Desktop\\\\fgpeople\\\\app\\\\icon.png\")",
+      "Bash(cmd /c \"copy \"\"c:\\\\Users\\\\pjseb\\\\OneDrive\\\\Desktop\\\\fgpeople\\\\images\\\\favicon-fg.png\"\" \"\"c:\\\\Users\\\\pjseb\\\\OneDrive\\\\Desktop\\\\fgpeople\\\\app\\\\icon.png\"\" && copy \"\"c:\\\\Users\\\\pjseb\\\\OneDrive\\\\Desktop\\\\fgpeople\\\\images\\\\favicon-fg.png\"\" \"\"c:\\\\Users\\\\pjseb\\\\OneDrive\\\\Desktop\\\\fgpeople\\\\app\\\\apple-icon.png\"\"\")",
+      "Bash(powershell:*)"
+    ]
+  }
+}
