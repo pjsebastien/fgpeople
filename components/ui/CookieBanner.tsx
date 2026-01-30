@@ -66,11 +66,11 @@ export default function CookieBanner() {
   if (!isVisible) return null;
 
   return (
-    <div className="fixed bottom-0 left-0 right-0 z-50 p-4 md:p-6">
-      <div className="max-w-4xl mx-auto bg-bg-secondary border border-border rounded-2xl shadow-2xl overflow-hidden">
+    <div className="fixed bottom-0 left-0 right-0 z-50 p-2 sm:p-4 md:p-6">
+      <div className="max-w-4xl mx-auto bg-bg-secondary border border-border rounded-xl sm:rounded-2xl shadow-2xl overflow-hidden">
         {/* Main Banner */}
-        <div className="p-4 md:p-6">
-          <div className="flex flex-col md:flex-row md:items-start gap-4">
+        <div className="p-3 sm:p-4 md:p-6">
+          <div className="flex flex-col md:flex-row md:items-start gap-3 sm:gap-4">
             {/* Icon */}
             <div className="hidden md:flex w-12 h-12 rounded-full bg-accent-primary/10 items-center justify-center flex-shrink-0">
               <svg
@@ -90,13 +90,11 @@ export default function CookieBanner() {
 
             {/* Content */}
             <div className="flex-1">
-              <h3 className="text-lg font-bold text-text-primary mb-2">
+              <h3 className="text-base sm:text-lg font-bold text-text-primary mb-1 sm:mb-2">
                 Nous respectons votre vie privée
               </h3>
-              <p className="text-text-secondary text-sm leading-relaxed mb-4">
-                Nous utilisons des cookies pour améliorer votre expérience sur notre site,
-                analyser le trafic et personnaliser le contenu. Vous pouvez choisir les cookies
-                que vous acceptez.{' '}
+              <p className="text-text-secondary text-xs sm:text-sm leading-relaxed mb-3 sm:mb-4">
+                Nous utilisons des cookies pour améliorer votre expérience.{' '}
                 <Link
                   href="/confidentialite"
                   className="text-accent-primary hover:underline"
@@ -106,22 +104,22 @@ export default function CookieBanner() {
               </p>
 
               {/* Buttons */}
-              <div className="flex flex-wrap gap-3">
+              <div className="flex flex-col sm:flex-row flex-wrap gap-2 sm:gap-3">
                 <button
                   onClick={handleAcceptAll}
-                  className="px-5 py-2.5 bg-accent-primary text-bg-primary font-semibold rounded-lg hover:bg-accent-hover transition-all duration-200 text-sm"
+                  className="w-full sm:w-auto px-4 sm:px-5 py-2 sm:py-2.5 bg-accent-primary text-bg-primary font-semibold rounded-lg hover:bg-accent-hover transition-all duration-200 text-sm"
                 >
                   Tout accepter
                 </button>
                 <button
                   onClick={handleRejectAll}
-                  className="px-5 py-2.5 bg-transparent border border-border text-text-secondary font-semibold rounded-lg hover:bg-bg-tertiary hover:text-text-primary transition-all duration-200 text-sm"
+                  className="w-full sm:w-auto px-4 sm:px-5 py-2 sm:py-2.5 bg-transparent border border-border text-text-secondary font-semibold rounded-lg hover:bg-bg-tertiary hover:text-text-primary transition-all duration-200 text-sm"
                 >
                   Tout refuser
                 </button>
                 <button
                   onClick={() => setShowDetails(!showDetails)}
-                  className="px-5 py-2.5 bg-transparent text-accent-primary font-semibold rounded-lg hover:bg-accent-primary/10 transition-all duration-200 text-sm flex items-center gap-2"
+                  className="w-full sm:w-auto px-4 sm:px-5 py-2 sm:py-2.5 bg-transparent text-accent-primary font-semibold rounded-lg hover:bg-accent-primary/10 transition-all duration-200 text-sm flex items-center justify-center gap-2"
                 >
                   Personnaliser
                   <svg
@@ -147,45 +145,45 @@ export default function CookieBanner() {
 
         {/* Details Panel */}
         {showDetails && (
-          <div className="border-t border-border bg-bg-tertiary p-4 md:p-6">
-            <div className="space-y-4">
+          <div className="border-t border-border bg-bg-tertiary p-3 sm:p-4 md:p-6">
+            <div className="space-y-3 sm:space-y-4">
               {/* Cookies nécessaires */}
-              <div className="flex items-center justify-between p-3 bg-bg-secondary rounded-lg border border-border">
-                <div className="flex-1 pr-4">
-                  <h4 className="font-semibold text-text-primary text-sm">
-                    Cookies nécessaires
+              <div className="flex items-center justify-between p-2 sm:p-3 bg-bg-secondary rounded-lg border border-border gap-2">
+                <div className="flex-1 min-w-0">
+                  <h4 className="font-semibold text-text-primary text-xs sm:text-sm">
+                    Nécessaires
                   </h4>
-                  <p className="text-text-secondary text-xs mt-1">
-                    Essentiels au fonctionnement du site. Ne peuvent pas être désactivés.
+                  <p className="text-text-secondary text-xs mt-0.5 hidden sm:block">
+                    Essentiels au fonctionnement du site.
                   </p>
                 </div>
-                <div className="w-12 h-6 bg-accent-primary/30 rounded-full flex items-center justify-end px-1 cursor-not-allowed">
-                  <div className="w-4 h-4 bg-accent-primary rounded-full" />
+                <div className="w-10 sm:w-12 h-5 sm:h-6 bg-accent-primary/30 rounded-full flex items-center justify-end px-1 cursor-not-allowed flex-shrink-0">
+                  <div className="w-3 sm:w-4 h-3 sm:h-4 bg-accent-primary rounded-full" />
                 </div>
               </div>
 
               {/* Cookies analytics */}
-              <div className="flex items-center justify-between p-3 bg-bg-secondary rounded-lg border border-border">
-                <div className="flex-1 pr-4">
-                  <h4 className="font-semibold text-text-primary text-sm">
-                    Cookies analytiques
+              <div className="flex items-center justify-between p-2 sm:p-3 bg-bg-secondary rounded-lg border border-border gap-2">
+                <div className="flex-1 min-w-0">
+                  <h4 className="font-semibold text-text-primary text-xs sm:text-sm">
+                    Analytiques
                   </h4>
-                  <p className="text-text-secondary text-xs mt-1">
-                    Nous aident à comprendre comment les visiteurs interagissent avec le site.
+                  <p className="text-text-secondary text-xs mt-0.5 hidden sm:block">
+                    Comprendre l'utilisation du site.
                   </p>
                 </div>
                 <button
                   onClick={() =>
                     setPreferences({ ...preferences, analytics: !preferences.analytics })
                   }
-                  className={`w-12 h-6 rounded-full flex items-center px-1 transition-colors duration-200 ${
+                  className={`w-10 sm:w-12 h-5 sm:h-6 rounded-full flex items-center px-1 transition-colors duration-200 flex-shrink-0 ${
                     preferences.analytics
                       ? 'bg-accent-primary justify-end'
                       : 'bg-bg-tertiary border border-border justify-start'
                   }`}
                 >
                   <div
-                    className={`w-4 h-4 rounded-full transition-colors duration-200 ${
+                    className={`w-3 sm:w-4 h-3 sm:h-4 rounded-full transition-colors duration-200 ${
                       preferences.analytics ? 'bg-bg-primary' : 'bg-text-secondary'
                     }`}
                   />
@@ -193,27 +191,27 @@ export default function CookieBanner() {
               </div>
 
               {/* Cookies marketing */}
-              <div className="flex items-center justify-between p-3 bg-bg-secondary rounded-lg border border-border">
-                <div className="flex-1 pr-4">
-                  <h4 className="font-semibold text-text-primary text-sm">
-                    Cookies marketing
+              <div className="flex items-center justify-between p-2 sm:p-3 bg-bg-secondary rounded-lg border border-border gap-2">
+                <div className="flex-1 min-w-0">
+                  <h4 className="font-semibold text-text-primary text-xs sm:text-sm">
+                    Marketing
                   </h4>
-                  <p className="text-text-secondary text-xs mt-1">
-                    Utilisés pour vous proposer des publicités pertinentes.
+                  <p className="text-text-secondary text-xs mt-0.5 hidden sm:block">
+                    Publicités personnalisées.
                   </p>
                 </div>
                 <button
                   onClick={() =>
                     setPreferences({ ...preferences, marketing: !preferences.marketing })
                   }
-                  className={`w-12 h-6 rounded-full flex items-center px-1 transition-colors duration-200 ${
+                  className={`w-10 sm:w-12 h-5 sm:h-6 rounded-full flex items-center px-1 transition-colors duration-200 flex-shrink-0 ${
                     preferences.marketing
                       ? 'bg-accent-primary justify-end'
                       : 'bg-bg-tertiary border border-border justify-start'
                   }`}
                 >
                   <div
-                    className={`w-4 h-4 rounded-full transition-colors duration-200 ${
+                    className={`w-3 sm:w-4 h-3 sm:h-4 rounded-full transition-colors duration-200 ${
                       preferences.marketing ? 'bg-bg-primary' : 'bg-text-secondary'
                     }`}
                   />
@@ -221,12 +219,12 @@ export default function CookieBanner() {
               </div>
 
               {/* Save button */}
-              <div className="flex justify-end pt-2">
+              <div className="flex justify-end pt-1 sm:pt-2">
                 <button
                   onClick={handleSavePreferences}
-                  className="px-6 py-2.5 bg-accent-primary text-bg-primary font-semibold rounded-lg hover:bg-accent-hover transition-all duration-200 text-sm"
+                  className="w-full sm:w-auto px-4 sm:px-6 py-2 sm:py-2.5 bg-accent-primary text-bg-primary font-semibold rounded-lg hover:bg-accent-hover transition-all duration-200 text-sm"
                 >
-                  Enregistrer mes préférences
+                  Enregistrer
                 </button>
               </div>
             </div>
