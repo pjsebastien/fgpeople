@@ -15,6 +15,7 @@ import {
 import SearchFilters from '@/components/clubs/SearchFilters';
 import Breadcrumb from '@/components/ui/Breadcrumb';
 import RelatedLinks from '@/components/navigation/RelatedLinks';
+import LibertinCTA from '@/components/ui/LibertinCTA';
 import { BreadcrumbJsonLd } from '@/components/seo/JsonLd';
 
 export async function generateStaticParams() {
@@ -84,6 +85,11 @@ export default async function VillePage({
               dans le département {villeData.departement} en {villeData.region}.
             </p>
           </header>
+
+          {/* CTA Rencontres */}
+          <div className="mb-10">
+            <LibertinCTA location={villeData.nom} variant="compact" />
+          </div>
 
           {/* Recherche et filtres */}
           <SearchFilters

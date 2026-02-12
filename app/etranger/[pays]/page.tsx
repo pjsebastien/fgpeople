@@ -14,6 +14,7 @@ import {
 import ClubList from '@/components/clubs/ClubList';
 import Breadcrumb from '@/components/ui/Breadcrumb';
 import RelatedLinks from '@/components/navigation/RelatedLinks';
+import LibertinCTA from '@/components/ui/LibertinCTA';
 import { BreadcrumbJsonLd } from '@/components/seo/JsonLd';
 
 export async function generateStaticParams() {
@@ -97,6 +98,11 @@ export default async function PaysPage({
               Des établissements de qualité pour vos soirées échangistes.
             </p>
           </header>
+
+          {/* CTA Rencontres */}
+          <div className="mb-10">
+            <LibertinCTA location={paysData.nom} variant="compact" />
+          </div>
 
           {/* Liste des clubs */}
           <ClubList

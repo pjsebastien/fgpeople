@@ -9,6 +9,7 @@ import Header from '@/components/layout/Header';
 import Footer from '@/components/layout/Footer';
 import AgeVerification from '@/components/ui/AgeVerification';
 import CookieBanner from '@/components/ui/CookieBanner';
+import FloatingCTA from '@/components/ui/FloatingCTA';
 
 const inter = Inter({
   subsets: ['latin'],
@@ -101,6 +102,7 @@ export default function RootLayout({
         <div className="flex-1">{children}</div>
         <Footer />
         <CookieBanner />
+        <FloatingCTA />
       </body>
     </html>
   );

@@ -16,6 +16,7 @@ import {
 import ClubList from '@/components/clubs/ClubList';
 import Breadcrumb from '@/components/ui/Breadcrumb';
 import RelatedLinks from '@/components/navigation/RelatedLinks';
+import LibertinCTA from '@/components/ui/LibertinCTA';
 import { BreadcrumbJsonLd } from '@/components/seo/JsonLd';
 
 export async function generateStaticParams() {
@@ -103,6 +104,11 @@ export default async function TypeVillePage({
               dans le département {villeData.departement} en {villeData.region}.
             </p>
           </header>
+
+          {/* CTA Rencontres */}
+          <div className="mb-10">
+            <LibertinCTA location={villeData.nom} variant="compact" />
+          </div>
 
           {/* Liste des clubs */}
           <ClubList

@@ -16,6 +16,7 @@ import {
 import SearchFilters from '@/components/clubs/SearchFilters';
 import Breadcrumb from '@/components/ui/Breadcrumb';
 import RelatedLinks from '@/components/navigation/RelatedLinks';
+import LibertinCTA from '@/components/ui/LibertinCTA';
 import { BreadcrumbJsonLd } from '@/components/seo/JsonLd';
 
 export async function generateStaticParams() {
@@ -85,6 +86,11 @@ export default async function DepartementPage({
               en {deptData.region}. Parcourez par ville ou explorez tous les clubs du département.
             </p>
           </header>
+
+          {/* CTA Rencontres */}
+          <div className="mb-10">
+            <LibertinCTA location={deptData.nom} variant="compact" />
+          </div>
 
           {/* Navigation par ville */}
           {villes.length > 0 && (

@@ -9,6 +9,7 @@ import type { Club } from '@/lib/types';
 import { generateTipsForFirstTime, generateEtiquetteRules, generateReview } from '@/lib/utils/seo-content';
 import ClubList from '@/components/clubs/ClubList';
 import Breadcrumb from '@/components/ui/Breadcrumb';
+import LibertinCTA from '@/components/ui/LibertinCTA';
 import { BreadcrumbJsonLd, LocalBusinessJsonLd, FAQPageJsonLd } from '@/components/seo/JsonLd';
 import { CLUB_IMAGES, getImageIndexForClub } from '@/components/clubs/ClubCard';
 
@@ -186,6 +187,9 @@ export default function ClubDetailPage({ club, clubsProximite }: ClubDetailPageP
                   {club.seo.ambianceText}
                 </p>
               </section>
+
+              {/* CTA Rencontres */}
+              <LibertinCTA location={club.ville} />
 
               {/* Notre avis */}
               <section className="bg-bg-secondary rounded-xl border border-border p-6" id="avis">
