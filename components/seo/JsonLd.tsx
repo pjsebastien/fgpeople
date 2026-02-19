@@ -51,8 +51,11 @@ export function LocalBusinessJsonLd({ club }: LocalBusinessJsonLdProps) {
     for (const [jour, horaire] of Object.entries(club.horaires)) {
       const englishDay = dayMapping[jour.toLowerCase()];
       if (englishDay && horaire && horaire.toLowerCase() !== 'fermé') {
+        const horaireStr = horaire as string;
+        // Ignorer les données trop courtes ou sans horaire réel (ex: "au", "a")
+        if (horaireStr.trim().length < 3) continue;
         // Tenter d'extraire les heures au format HH:MM - HH:MM
-        const timeMatch = (horaire as string).match(/(\d{1,2})[h:](\d{2})?\s*[-àa]\s*(\d{1,2})[h:](\d{2})?/);
+        const timeMatch = horaireStr.match(/(\d{1,2})[h:](\d{2})?\s*[-–àa]\s*(\d{1,2})[h:](\d{2})?/);
         if (timeMatch) {
           const opens = `${timeMatch[1].padStart(2, '0')}:${timeMatch[2] || '00'}`;
           const closes = `${timeMatch[3].padStart(2, '0')}:${timeMatch[4] || '00'}`;
@@ -62,14 +65,8 @@ export function LocalBusinessJsonLd({ club }: LocalBusinessJsonLdProps) {
             opens,
             closes,
           });
-        } else {
-          // Fallback : utiliser description si le format n'est pas parsable
-          openingHours.push({
-            '@type': 'OpeningHoursSpecification',
-            dayOfWeek: englishDay,
-            description: horaire as string,
-          });
         }
+        // Si le format n'est pas parsable, on ne l'inclut pas (évite les données garbage)
       }
     }
 

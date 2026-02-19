@@ -59,8 +59,6 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Clubs libertins et échangistes en France - Annuaire complet | FG People',
-    description: 'Annuaire complet des clubs libertins, saunas et spas échangistes en France.',
   },
   robots: {
     index: true,

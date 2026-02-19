@@ -12,6 +12,11 @@ export default function robots(): MetadataRoute.Robots {
       allow: '/',
       disallow: ['/api/', '/admin/'],
     },
-    sitemap: 'https://www.fgpeople.com/sitemap.xml',
+    sitemap: [
+      'https://www.fgpeople.com/sitemap/0.xml',
+      'https://www.fgpeople.com/sitemap/1.xml',
+      'https://www.fgpeople.com/sitemap/2.xml',
+      'https://www.fgpeople.com/sitemap/3.xml',
+    ],
   };
 }
