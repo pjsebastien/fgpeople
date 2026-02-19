@@ -18,7 +18,7 @@ import ClubList from '@/components/clubs/ClubList';
 import Breadcrumb from '@/components/ui/Breadcrumb';
 import RelatedLinks from '@/components/navigation/RelatedLinks';
 import LibertinCTA from '@/components/ui/LibertinCTA';
-import { BreadcrumbJsonLd } from '@/components/seo/JsonLd';
+import { BreadcrumbJsonLd, ItemListJsonLd } from '@/components/seo/JsonLd';
 
 export async function generateStaticParams() {
   return getTypeRegionParams();
@@ -46,7 +46,7 @@ export async function generateMetadata({
     title,
     description,
     alternates: { canonical: `/${category.urlSlug}/region/${regionData.slug}` },
-    openGraph: { title, description, url: `/${category.urlSlug}/region/${regionData.slug}`, type: 'website' },
+    openGraph: { title, description, url: `/${category.urlSlug}/region/${regionData.slug}`, type: 'website', images: [{ url: '/images/og-image.jpg', width: 1200, height: 630, alt: `${category.seoTitle} en ${regionData.nom}` }] },
     ...(clubs.length <= 1 && { robots: { index: false, follow: true } }),
   };
 }
@@ -102,6 +102,11 @@ export default async function TypeRegionPage({
   return (
     <>
       <BreadcrumbJsonLd items={breadcrumbItems} />
+      <ItemListJsonLd
+        clubs={clubs}
+        name={`${category.seoTitle} en ${regionData.nom}`}
+        description={`Liste des ${clubs.length} ${category.seoTitle.toLowerCase()}s en ${regionData.nom}`}
+      />
 
       <main className="py-8 md:py-12">
         <div className="container-custom">

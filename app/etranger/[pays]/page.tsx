@@ -38,6 +38,13 @@ export async function generateMetadata({
     title: `Clubs libertins en ${paysData.nom} - ${paysData.clubCount} établissements`,
     description: `Découvrez les ${paysData.clubCount} clubs libertins et échangistes en ${paysData.nom}. Liste complète avec informations, horaires et tarifs.`,
     alternates: { canonical: `/etranger/${paysData.slug}` },
+    openGraph: {
+      title: `Clubs libertins en ${paysData.nom} - ${paysData.clubCount} établissements`,
+      description: `Découvrez les clubs libertins et échangistes en ${paysData.nom}.`,
+      url: `/etranger/${paysData.slug}`,
+      type: 'website',
+      images: [{ url: '/images/og-image.jpg', width: 1200, height: 630, alt: `Clubs libertins en ${paysData.nom}` }],
+    },
   };
 }
 

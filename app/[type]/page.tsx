@@ -78,6 +78,7 @@ export async function generateMetadata({
         description: typeDesc,
         url: `/${category.urlSlug}`,
         type: 'website',
+        images: [{ url: '/images/og-image.jpg', width: 1200, height: 630, alt: `${category.seoTitle} en France` }],
       },
     };
   }
@@ -94,6 +95,7 @@ export async function generateMetadata({
         description: club.seo.metaDescription,
         type: 'website',
         url: `/${club.slug}`,
+        images: [{ url: '/images/og-image.jpg', width: 1200, height: 630, alt: club.seo.title }],
       },
     };
   }
@@ -216,6 +218,20 @@ export default async function DynamicPage({
               title={`Rechercher parmi les ${category.labelPlural.toLowerCase()}`}
               subtitle="Filtrez par région, département, ville ou équipements"
             />
+
+            {/* Liste complète des clubs pour les crawlers (SEO) */}
+            <noscript>
+              <section className="mt-8">
+                <h2 className="text-xl font-bold mb-4">Liste complète des {category.labelPlural.toLowerCase()}</h2>
+                <ul>
+                  {clubs.map((club) => (
+                    <li key={club.id}>
+                      <a href={`/${club.slug}`}>{club.nom} - {club.ville} ({club.departement_code})</a>
+                    </li>
+                  ))}
+                </ul>
+              </section>
+            </noscript>
 
             {otherTypes.length > 0 && (
               <RelatedLinks

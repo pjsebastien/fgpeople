@@ -62,6 +62,7 @@ export async function generateMetadata({
       description,
       url: `/ville/${villeData.slug}`,
       type: 'website',
+      images: [{ url: '/images/og-image.jpg', width: 1200, height: 630, alt: `Clubs libertins à ${villeName}` }],
     },
     // Noindex pour les villes avec un seul club (thin content)
     ...(villeData.clubCount <= 1 && {

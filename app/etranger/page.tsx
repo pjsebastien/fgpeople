@@ -13,6 +13,13 @@ export const metadata: Metadata = {
   title: 'Clubs libertins à l\'étranger - Belgique, Suisse, Luxembourg, Espagne',
   description: 'Découvrez les clubs libertins et échangistes en Europe : Belgique, Suisse, Luxembourg et Espagne. Liste complète des établissements hors France.',
   alternates: { canonical: '/etranger' },
+  openGraph: {
+    title: 'Clubs libertins à l\'étranger - Belgique, Suisse, Luxembourg, Espagne',
+    description: 'Découvrez les clubs libertins et échangistes en Europe.',
+    url: '/etranger',
+    type: 'website',
+    images: [{ url: '/images/og-image.jpg', width: 1200, height: 630, alt: 'Clubs libertins en Europe' }],
+  },
 };
 
 export default async function EtrangerPage() {

@@ -1,6 +1,7 @@
 /**
  * Sitemap dynamique pour le SEO
  * Génère automatiquement la liste de toutes les URLs du site
+ * Divisé en sous-sitemaps pour une meilleure indexation
  */
 
 import { MetadataRoute } from 'next';
@@ -14,170 +15,231 @@ import {
   getTypeDepartementParams,
   getTypeVilleParams,
   getPaysEtrangers,
+  getRegionsByType,
+  getDepartementsByType,
+  getVillesByType,
 } from '@/lib/data/clubs';
 import { getAllArticleSlugs } from '@/lib/data/blog';
 
-// Date fixe de dernière mise à jour des données
-// À mettre à jour manuellement quand les données clubs changent
-const DATA_LAST_UPDATED = new Date('2025-01-30');
-const ARTICLES_LAST_UPDATED = new Date('2025-01-28');
-const STATIC_PAGES_UPDATED = new Date('2025-01-30');
+// Date dynamique : utilise la date de build pour que Google voie le site comme actif
+const BUILD_DATE = new Date();
 
-export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
+// Seuil minimum de clubs pour inclure une page dans le sitemap
+const MIN_CLUBS_FOR_INDEX = 2; // villes/départements avec <= 1 club sont noindex
+const MIN_CLUBS_TYPE_COMBO = 2; // pages type+lieu avec < 2 clubs exclues du sitemap
+
+/**
+ * Génère un index de sitemaps divisé par catégorie
+ * Produit : /sitemap/0.xml, /sitemap/1.xml, /sitemap/2.xml, /sitemap/3.xml
+ */
+export async function generateSitemaps() {
+  return [
+    { id: 0 }, // Pages principales : accueil, types, régions, articles, étranger
+    { id: 1 }, // Pages géographiques : départements, villes (filtrées)
+    { id: 2 }, // Pages combinées : type+région, type+département, type+ville (filtrées)
+    { id: 3 }, // Pages individuelles : fiches clubs
+  ];
+}
+
+export default async function sitemap({
+  id,
+}: {
+  id: number;
+}): Promise<MetadataRoute.Sitemap> {
   const baseUrl = 'https://www.fgpeople.com';
 
-  // Pages statiques
-  const staticPages: MetadataRoute.Sitemap = [
-    {
-      url: baseUrl,
-      lastModified: DATA_LAST_UPDATED,
-      changeFrequency: 'daily',
-      priority: 1,
-    },
-    {
-      url: `${baseUrl}/conseils`,
-      lastModified: ARTICLES_LAST_UPDATED,
-      changeFrequency: 'weekly',
-      priority: 0.8,
-    },
-    {
-      url: `${baseUrl}/contact`,
-      lastModified: STATIC_PAGES_UPDATED,
-      changeFrequency: 'monthly',
-      priority: 0.3,
-    },
-    {
-      url: `${baseUrl}/mentions-legales`,
-      lastModified: STATIC_PAGES_UPDATED,
-      changeFrequency: 'yearly',
-      priority: 0.2,
-    },
-    {
-      url: `${baseUrl}/confidentialite`,
-      lastModified: STATIC_PAGES_UPDATED,
-      changeFrequency: 'yearly',
-      priority: 0.2,
-    },
-    {
-      url: `${baseUrl}/etranger`,
-      lastModified: DATA_LAST_UPDATED,
-      changeFrequency: 'weekly',
-      priority: 0.7,
-    },
-  ];
+  switch (id) {
+    // ================================================
+    // SITEMAP 0 : Pages principales (haute priorité)
+    // ================================================
+    case 0: {
+      // Pages statiques
+      const staticPages: MetadataRoute.Sitemap = [
+        {
+          url: baseUrl,
+          lastModified: BUILD_DATE,
+          changeFrequency: 'daily',
+          priority: 1,
+        },
+        {
+          url: `${baseUrl}/conseils`,
+          lastModified: BUILD_DATE,
+          changeFrequency: 'weekly',
+          priority: 0.8,
+        },
+        {
+          url: `${baseUrl}/contact`,
+          lastModified: BUILD_DATE,
+          changeFrequency: 'monthly',
+          priority: 0.3,
+        },
+        {
+          url: `${baseUrl}/mentions-legales`,
+          lastModified: BUILD_DATE,
+          changeFrequency: 'yearly',
+          priority: 0.2,
+        },
+        {
+          url: `${baseUrl}/confidentialite`,
+          lastModified: BUILD_DATE,
+          changeFrequency: 'yearly',
+          priority: 0.2,
+        },
+        {
+          url: `${baseUrl}/etranger`,
+          lastModified: BUILD_DATE,
+          changeFrequency: 'weekly',
+          priority: 0.7,
+        },
+      ];
 
-  // Types de clubs (club-libertin, sauna-libertin, etc.)
-  const typeCategories = await getAllTypeCategories();
-  const typePages: MetadataRoute.Sitemap = typeCategories.map((cat) => ({
-    url: `${baseUrl}/${cat.urlSlug}`,
-    lastModified: DATA_LAST_UPDATED,
-    changeFrequency: 'weekly' as const,
-    priority: 0.9,
-  }));
+      // Types de clubs
+      const typeCategories = await getAllTypeCategories();
+      const typePages: MetadataRoute.Sitemap = typeCategories.map((cat) => ({
+        url: `${baseUrl}/${cat.urlSlug}`,
+        lastModified: BUILD_DATE,
+        changeFrequency: 'weekly' as const,
+        priority: 0.9,
+      }));
 
-  // Régions
-  const regions = await getAllRegions();
-  const regionPages: MetadataRoute.Sitemap = regions
-    .filter((r) => r.slug !== 'region-inconnue')
-    .map((r) => ({
-      url: `${baseUrl}/region/${r.slug}`,
-      lastModified: DATA_LAST_UPDATED,
-      changeFrequency: 'weekly' as const,
-      priority: 0.8,
-    }));
+      // Régions (toujours indexées, toujours > 1 club)
+      const regions = await getAllRegions();
+      const regionPages: MetadataRoute.Sitemap = regions
+        .filter((r) => r.slug !== 'region-inconnue')
+        .map((r) => ({
+          url: `${baseUrl}/region/${r.slug}`,
+          lastModified: BUILD_DATE,
+          changeFrequency: 'weekly' as const,
+          priority: 0.8,
+        }));
 
-  // Départements
-  const departements = await getAllDepartements();
-  const deptPages: MetadataRoute.Sitemap = departements
-    .filter((d) => d.nom !== 'Département inconnu')
-    .map((d) => ({
-      url: `${baseUrl}/departement/${d.slug}`,
-      lastModified: DATA_LAST_UPDATED,
-      changeFrequency: 'weekly' as const,
-      priority: 0.7,
-    }));
+      // Articles de blog
+      const articleSlugs = getAllArticleSlugs();
+      const articlePages: MetadataRoute.Sitemap = articleSlugs.map((slug) => ({
+        url: `${baseUrl}/${slug}`,
+        lastModified: BUILD_DATE,
+        changeFrequency: 'monthly' as const,
+        priority: 0.7,
+      }));
 
-  // Villes (exclure les doublons et villes sans intérêt)
-  const villes = await getAllVilles();
-  const villesSeen = new Set<string>();
-  const villePages: MetadataRoute.Sitemap = villes
-    .filter((v) => {
-      if (villesSeen.has(v.slug)) return false;
-      villesSeen.add(v.slug);
-      return true;
-    })
-    .map((v) => ({
-      url: `${baseUrl}/ville/${v.slug}`,
-      lastModified: DATA_LAST_UPDATED,
-      changeFrequency: 'weekly' as const,
-      priority: 0.7,
-    }));
+      // Pays étrangers
+      const paysEtrangers = await getPaysEtrangers();
+      const paysPages: MetadataRoute.Sitemap = paysEtrangers.map((p) => ({
+        url: `${baseUrl}/etranger/${p.slug}`,
+        lastModified: BUILD_DATE,
+        changeFrequency: 'monthly' as const,
+        priority: 0.6,
+      }));
 
-  // Clubs individuels
-  const clubs = await getAllClubs();
-  const clubPages: MetadataRoute.Sitemap = clubs.map((c) => ({
-    url: `${baseUrl}/${c.slug}`,
-    lastModified: DATA_LAST_UPDATED,
-    changeFrequency: 'monthly' as const,
-    priority: 0.6,
-  }));
+      return [...staticPages, ...typePages, ...regionPages, ...articlePages, ...paysPages];
+    }
 
-  // Articles de blog
-  const articleSlugs = getAllArticleSlugs();
-  const articlePages: MetadataRoute.Sitemap = articleSlugs.map((slug) => ({
-    url: `${baseUrl}/${slug}`,
-    lastModified: ARTICLES_LAST_UPDATED,
-    changeFrequency: 'monthly' as const,
-    priority: 0.7,
-  }));
+    // ================================================
+    // SITEMAP 1 : Départements et villes (filtrés)
+    // ================================================
+    case 1: {
+      // Départements : exclure ceux avec <= 1 club (noindex)
+      const departements = await getAllDepartements();
+      const deptPages: MetadataRoute.Sitemap = departements
+        .filter((d) => d.nom !== 'Département inconnu' && d.clubCount >= MIN_CLUBS_FOR_INDEX)
+        .map((d) => ({
+          url: `${baseUrl}/departement/${d.slug}`,
+          lastModified: BUILD_DATE,
+          changeFrequency: 'weekly' as const,
+          priority: 0.7,
+        }));
 
-  // Pages type + région (ex: /club-libertin/region/ile-de-france)
-  const typeRegionParams = await getTypeRegionParams();
-  const typeRegionPages: MetadataRoute.Sitemap = typeRegionParams.map((p) => ({
-    url: `${baseUrl}/${p.type}/region/${p.region}`,
-    lastModified: DATA_LAST_UPDATED,
-    changeFrequency: 'weekly' as const,
-    priority: 0.7,
-  }));
+      // Villes : exclure celles avec <= 1 club (noindex) + dédoublonner
+      const villes = await getAllVilles();
+      const villesSeen = new Set<string>();
+      const villePages: MetadataRoute.Sitemap = villes
+        .filter((v) => {
+          if (v.clubCount < MIN_CLUBS_FOR_INDEX) return false;
+          if (villesSeen.has(v.slug)) return false;
+          villesSeen.add(v.slug);
+          return true;
+        })
+        .map((v) => ({
+          url: `${baseUrl}/ville/${v.slug}`,
+          lastModified: BUILD_DATE,
+          changeFrequency: 'weekly' as const,
+          priority: 0.7,
+        }));
 
-  // Pages type + département
-  const typeDeptParams = await getTypeDepartementParams();
-  const typeDeptPages: MetadataRoute.Sitemap = typeDeptParams.map((p) => ({
-    url: `${baseUrl}/${p.type}/departement/${p.departement}`,
-    lastModified: DATA_LAST_UPDATED,
-    changeFrequency: 'weekly' as const,
-    priority: 0.6,
-  }));
+      return [...deptPages, ...villePages];
+    }
 
-  // Pages type + ville
-  const typeVilleParams = await getTypeVilleParams();
-  const typeVillePages: MetadataRoute.Sitemap = typeVilleParams.map((p) => ({
-    url: `${baseUrl}/${p.type}/ville/${p.ville}`,
-    lastModified: DATA_LAST_UPDATED,
-    changeFrequency: 'weekly' as const,
-    priority: 0.6,
-  }));
+    // ================================================
+    // SITEMAP 2 : Pages combinées type+lieu (filtrées)
+    // ================================================
+    case 2: {
+      const typeCategories = await getAllTypeCategories();
 
-  // Pages pays étrangers
-  const paysEtrangers = await getPaysEtrangers();
-  const paysPages: MetadataRoute.Sitemap = paysEtrangers.map((p) => ({
-    url: `${baseUrl}/etranger/${p.slug}`,
-    lastModified: DATA_LAST_UPDATED,
-    changeFrequency: 'monthly' as const,
-    priority: 0.6,
-  }));
+      // Type + Région : inclure seulement si >= MIN_CLUBS_TYPE_COMBO clubs
+      const typeRegionPages: MetadataRoute.Sitemap = [];
+      for (const cat of typeCategories) {
+        const regions = await getRegionsByType(cat.slug);
+        for (const r of regions) {
+          if (r.clubCount >= MIN_CLUBS_TYPE_COMBO) {
+            typeRegionPages.push({
+              url: `${baseUrl}/${cat.urlSlug}/region/${r.slug}`,
+              lastModified: BUILD_DATE,
+              changeFrequency: 'weekly' as const,
+              priority: 0.7,
+            });
+          }
+        }
+      }
 
-  return [
-    ...staticPages,
-    ...typePages,
-    ...regionPages,
-    ...deptPages,
-    ...villePages,
-    ...typeRegionPages,
-    ...typeDeptPages,
-    ...typeVillePages,
-    ...clubPages,
-    ...articlePages,
-    ...paysPages,
-  ];
+      // Type + Département : inclure seulement si >= MIN_CLUBS_TYPE_COMBO clubs
+      const typeDeptPages: MetadataRoute.Sitemap = [];
+      for (const cat of typeCategories) {
+        const depts = await getDepartementsByType(cat.slug);
+        for (const d of depts) {
+          if (d.clubCount >= MIN_CLUBS_TYPE_COMBO) {
+            typeDeptPages.push({
+              url: `${baseUrl}/${cat.urlSlug}/departement/${d.slug}`,
+              lastModified: BUILD_DATE,
+              changeFrequency: 'weekly' as const,
+              priority: 0.6,
+            });
+          }
+        }
+      }
+
+      // Type + Ville : inclure seulement si >= MIN_CLUBS_TYPE_COMBO clubs
+      const typeVillePages: MetadataRoute.Sitemap = [];
+      for (const cat of typeCategories) {
+        const villes = await getVillesByType(cat.slug);
+        for (const v of villes) {
+          if (v.clubCount >= MIN_CLUBS_TYPE_COMBO) {
+            typeVillePages.push({
+              url: `${baseUrl}/${cat.urlSlug}/ville/${v.slug}`,
+              lastModified: BUILD_DATE,
+              changeFrequency: 'weekly' as const,
+              priority: 0.6,
+            });
+          }
+        }
+      }
+
+      return [...typeRegionPages, ...typeDeptPages, ...typeVillePages];
+    }
+
+    // ================================================
+    // SITEMAP 3 : Fiches clubs individuelles
+    // ================================================
+    case 3: {
+      const clubs = await getAllClubs();
+      return clubs.map((c) => ({
+        url: `${baseUrl}/${c.slug}`,
+        lastModified: BUILD_DATE,
+        changeFrequency: 'monthly' as const,
+        priority: 0.6,
+      }));
+    }
+
+    default:
+      return [];
+  }
 }

@@ -48,6 +48,7 @@ export async function generateMetadata({
       description,
       url: `/region/${regionData.slug}`,
       type: 'website',
+      images: [{ url: '/images/og-image.jpg', width: 1200, height: 630, alt: `Clubs libertins en ${regionData.nom}` }],
     },
   };
 }
@@ -139,6 +140,20 @@ export default async function RegionPage({
             title={`Rechercher un club en ${regionData.nom}`}
             subtitle={`Utilisez les filtres pour trouver l'établissement idéal parmi les ${clubs.length} clubs de la région`}
           />
+
+          {/* Liste complète des clubs pour les crawlers (SEO) */}
+          <noscript>
+            <section className="mt-8">
+              <h2 className="text-xl font-bold mb-4">Tous les clubs libertins en {regionData.nom}</h2>
+              <ul>
+                {clubs.map((club) => (
+                  <li key={club.id}>
+                    <a href={`/${club.slug}`}>{club.nom} - {club.ville} ({club.departement_code})</a>
+                  </li>
+                ))}
+              </ul>
+            </section>
+          </noscript>
 
           {/* Autres régions */}
           <RelatedLinks

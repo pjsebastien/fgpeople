@@ -14,46 +14,73 @@ const TYPE_INTROS: Record<string, string[]> = {
     'Profitez d\'un espace détente avec sauna pour des moments de relaxation et de convivialité.',
     'L\'espace sauna vous invite à la détente dans une atmosphère chaleureuse et propice aux rencontres.',
     'Le sauna de cet établissement offre un cadre idéal pour se relaxer et faire de nouvelles connaissances.',
+    'Le sauna, véritable institution du bien-être libertin, vous accueille dans un environnement chaleureux où la vapeur favorise les échanges.',
+    'Avec son espace sauna soigneusement aménagé, cet établissement vous propose une immersion relaxante propice aux rencontres spontanées.',
+    'L\'expérience sauna proposée ici combine détente corporelle et ouverture aux autres dans un cadre pensé pour le plaisir.',
   ],
   spa: [
     'Un espace wellness complet pour allier bien-être et plaisir dans un cadre raffiné.',
     'Jacuzzi, hammam et espaces détente vous attendent pour des soirées placées sous le signe du bien-être.',
     'L\'espace spa offre une parenthèse de détente avec ses équipements de qualité.',
+    'L\'univers spa de cet établissement marie harmonieusement relaxation et sensualité dans des installations haut de gamme.',
+    'Entre jacuzzi bouillonnant et vapeurs de hammam, l\'espace wellness crée une atmosphère enveloppante idéale pour les rencontres.',
+    'Le spa constitue le point fort de cet établissement, offrant un parcours sensoriel complet aux visiteurs.',
   ],
   bar: [
     'Le bar vous accueille dans une ambiance conviviale pour débuter votre soirée en douceur.',
     'Profitez du bar pour faire connaissance autour d\'un verre dans un cadre détendu.',
     'L\'espace bar est le lieu idéal pour briser la glace et engager la conversation.',
+    'Autour du comptoir, les premières conversations s\'engagent naturellement dans une atmosphère décontractée et bienveillante.',
+    'Le bar, point de ralliement de l\'établissement, permet de socialiser en toute simplicité avant d\'explorer les autres espaces.',
+    'Cocktails et ambiance tamisée font du bar l\'endroit parfait pour entamer votre soirée et rencontrer d\'autres libertins.',
   ],
   sm: [
     'Un espace dédié aux pratiques SM et fétish pour les amateurs de sensations fortes.',
     'Le donjon et les équipements SM permettent d\'explorer vos fantasmes en toute discrétion.',
     'Pour les initiés, l\'espace SM offre un cadre sécurisé pour vos pratiques.',
+    'L\'espace SM, équipé avec soin, propose un terrain de jeu sécurisé pour les adeptes de domination et de soumission.',
+    'Le donjon et ses accessoires sont à la disposition des visiteurs souhaitant s\'adonner à leurs pratiques fétish favorites.',
+    'Conçu pour les amateurs de sensations fortes, l\'espace fétish allie matériel de qualité et ambiance immersive.',
   ],
   gay: [
     'Établissement gay friendly accueillant toutes les orientations dans le respect et la bienveillance.',
     'Un lieu ouvert et inclusif où chacun peut vivre sa sexualité librement.',
     'Ambiance mixte et tolérante pour des rencontres sans préjugés.',
+    'La politique inclusive de cet établissement garantit un accueil chaleureux quelle que soit votre orientation.',
+    'Ouvert à tous, cet espace prône la diversité et le respect mutuel comme valeurs fondamentales de l\'expérience libertine.',
+    'L\'atmosphère bienveillante et sans jugement fait de ce lieu un espace sûr pour explorer librement sa sexualité.',
   ],
   cinema: [
     'L\'espace cinéma ajoute une dimension sensuelle à votre soirée.',
     'Salle vidéo pour des moments de détente et d\'excitation.',
     'Le coin vidéo crée une atmosphère propice aux rencontres.',
+    'La salle de projection, avec son ambiance feutrée, offre un cadre stimulant où les rencontres se font naturellement.',
+    'L\'espace cinéma constitue un lieu de transition idéal entre les différents espaces de l\'établissement.',
+    'Confortablement installé dans l\'espace cinéma, laissez-vous porter par l\'ambiance avant de poursuivre votre soirée.',
   ],
   discotheque: [
     'La piste de danse anime vos soirées dans une ambiance festive.',
     'DJ et musique pour des nuits endiablées et des rencontres sous le signe de la fête.',
     'L\'ambiance discothèque met le feu à vos soirées libertines.',
+    'Le dancefloor, baigné de jeux de lumière, est le cœur battant de l\'établissement où les corps se rapprochent au rythme de la musique.',
+    'L\'énergie de la piste de danse crée une effervescence communicative qui facilite les premiers contacts.',
+    'Entre sets de DJ et ambiance nocturne électrisante, la soirée prend une dimension festive incomparable.',
   ],
   restaurant: [
     'La restauration sur place permet de prolonger votre soirée dans les meilleures conditions.',
     'Savourez un repas avant de profiter des installations de l\'établissement.',
     'L\'offre de restauration vous permet de faire une pause gourmande.',
+    'Le restaurant de l\'établissement propose une cuisine soignée qui transforme votre visite en une véritable expérience gastronomique.',
+    'Dîner sur place avant votre soirée est l\'occasion de socialiser dans un cadre convivial et de partager un moment de gourmandise.',
+    'L\'offre culinaire enrichit votre expérience et fait de votre venue un véritable événement alliant plaisirs de la table et du libertinage.',
   ],
   hebergement: [
     'La possibilité d\'hébergement permet de prolonger l\'expérience en toute sérénité.',
     'Des chambres sont disponibles pour ceux qui souhaitent prolonger la nuit.',
     'L\'hébergement sur place offre confort et discrétion pour votre séjour.',
+    'Les chambres disponibles vous évitent le souci du retour et vous permettent de profiter pleinement de votre soirée.',
+    'L\'option hébergement est idéale pour les visiteurs venant de loin qui souhaitent vivre l\'expérience sans contrainte horaire.',
+    'Prolongez votre séjour dans le confort d\'une chambre sur place et profitez d\'un réveil en toute quiétude.',
   ],
 };
 
@@ -62,11 +89,15 @@ const AMBIANCE_TEMPLATES = [
   'Dans un cadre {adj1}, {name} vous offre une expérience {adj2} et mémorable.',
   'L\'atmosphère {adj1} de {name} crée les conditions parfaites pour {purpose}.',
   '{name} se distingue par son ambiance {adj1} et son souci de {quality}.',
+  'Dès l\'entrée, le caractère {adj1} des lieux met les visiteurs à l\'aise pour {purpose}.',
+  'Le cadre {adj2} et {adj1} de {name} contribue à une expérience unique en son genre.',
+  'Les habitués apprécient le côté {adj1} de {name}, un lieu pensé pour {purpose}.',
+  '{name} a su créer un environnement {adj1} où chaque détail est pensé pour {quality}.',
 ];
 
 const ADJECTIVES = {
-  positive: ['raffiné', 'chaleureux', 'convivial', 'élégant', 'moderne', 'cosy', 'intimiste', 'accueillant'],
-  quality: ['discret', 'propre', 'bien entretenu', 'spacieux', 'confortable', 'soigné'],
+  positive: ['raffiné', 'chaleureux', 'convivial', 'élégant', 'moderne', 'cosy', 'intimiste', 'accueillant', 'sélect', 'tendance', 'glamour', 'feutré'],
+  quality: ['discret', 'propre', 'bien entretenu', 'spacieux', 'confortable', 'soigné', 'immaculé', 'lumineux', 'agréable', 'impeccable'],
 };
 
 const PURPOSES = [
@@ -76,6 +107,10 @@ const PURPOSES = [
   'explorer vos fantasmes',
   'partager des moments complices',
   'passer une soirée mémorable',
+  'se laisser surprendre par de nouvelles expériences',
+  'profiter d\'une parenthèse de plaisir',
+  'rencontrer des esprits libres et ouverts',
+  'vivre une soirée hors du commun',
 ];
 
 const QUALITIES = [
@@ -84,6 +119,9 @@ const QUALITIES = [
   'la qualité de l\'accueil',
   'le respect de chacun',
   'la propreté des lieux',
+  'l\'excellence du service',
+  'le bien-être de sa clientèle',
+  'la satisfaction de ses visiteurs',
 ];
 
 // ============================================
@@ -179,6 +217,22 @@ function pickFromArray<T>(arr: T[], seed: string, index = 0): T {
   return arr[hash % arr.length];
 }
 
+const INTRO_OPENERS = [
+  '{name} est un établissement libertin situé à {city}, en {region}.',
+  'Situé à {city} en {region}, {name} est une adresse incontournable de la scène libertine locale.',
+  'Au cœur de {city}, {name} accueille les libertins dans un cadre soigneusement pensé pour le plaisir.',
+  '{name}, établissement libertin de {city} ({region}), vous ouvre ses portes pour des soirées placées sous le signe de la liberté.',
+  'À {city}, {name} fait figure de référence parmi les établissements libertins de la région {region}.',
+  'Implanté à {city} en {region}, {name} propose une expérience libertine authentique aux couples et célibataires.',
+];
+
+const EQUIPMENT_TRANSITIONS = [
+  'Parmi les équipements disponibles : {equip}.',
+  'L\'établissement met à votre disposition : {equip}.',
+  'Côté infrastructures, vous trouverez notamment : {equip}.',
+  'Les visiteurs profitent entre autres de : {equip}.',
+];
+
 export function generateIntroText(
   clubName: string,
   types: ClubType[],
@@ -187,10 +241,14 @@ export function generateIntroText(
   equipements: string[]
 ): string {
   const seed = clubName + city;
-  const typesSlugs = types.map(t => t.slug);
 
-  // Introduction générale
-  let intro = `${clubName} est un établissement libertin situé à ${city}, en ${region}. `;
+  // Introduction générale variée
+  const opener = pickFromArray(INTRO_OPENERS, seed)
+    .replace('{name}', clubName)
+    .replace('{city}', city)
+    .replace('{region}', region);
+
+  let intro = opener + ' ';
 
   // Ajout de descriptions par type
   const typeIntros: string[] = [];
@@ -207,9 +265,11 @@ export function generateIntroText(
     intro += `Cet établissement vous accueille dans un cadre propice aux rencontres et au libertinage.`;
   }
 
-  // Mention des équipements
+  // Mention des équipements avec transition variée
   if (equipements.length > 3) {
-    intro += ` Parmi les équipements disponibles : ${equipements.slice(0, 4).join(', ')}.`;
+    const transition = pickFromArray(EQUIPMENT_TRANSITIONS, seed + 'equip')
+      .replace('{equip}', equipements.slice(0, 4).join(', '));
+    intro += ` ${transition}`;
   }
 
   return intro;

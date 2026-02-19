@@ -47,15 +47,29 @@ export function LocalBusinessJsonLd({ club }: LocalBusinessJsonLdProps) {
       dimanche: 'Sunday',
     };
 
-    const openingHours: { '@type': string; dayOfWeek: string; description: string }[] = [];
+    const openingHours: Record<string, unknown>[] = [];
     for (const [jour, horaire] of Object.entries(club.horaires)) {
       const englishDay = dayMapping[jour.toLowerCase()];
       if (englishDay && horaire && horaire.toLowerCase() !== 'fermé') {
-        openingHours.push({
-          '@type': 'OpeningHoursSpecification',
-          dayOfWeek: englishDay,
-          description: horaire as string,
-        });
+        // Tenter d'extraire les heures au format HH:MM - HH:MM
+        const timeMatch = (horaire as string).match(/(\d{1,2})[h:](\d{2})?\s*[-àa]\s*(\d{1,2})[h:](\d{2})?/);
+        if (timeMatch) {
+          const opens = `${timeMatch[1].padStart(2, '0')}:${timeMatch[2] || '00'}`;
+          const closes = `${timeMatch[3].padStart(2, '0')}:${timeMatch[4] || '00'}`;
+          openingHours.push({
+            '@type': 'OpeningHoursSpecification',
+            dayOfWeek: englishDay,
+            opens,
+            closes,
+          });
+        } else {
+          // Fallback : utiliser description si le format n'est pas parsable
+          openingHours.push({
+            '@type': 'OpeningHoursSpecification',
+            dayOfWeek: englishDay,
+            description: horaire as string,
+          });
+        }
       }
     }
 
@@ -145,6 +159,14 @@ export function WebsiteJsonLd() {
     inLanguage: 'fr-FR',
     publisher: {
       '@id': 'https://www.fgpeople.com/#organization',
+    },
+    potentialAction: {
+      '@type': 'SearchAction',
+      target: {
+        '@type': 'EntryPoint',
+        urlTemplate: 'https://www.fgpeople.com/club-libertin?q={search_term_string}',
+      },
+      'query-input': 'required name=search_term_string',
     },
   };
 

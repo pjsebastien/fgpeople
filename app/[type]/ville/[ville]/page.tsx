@@ -17,7 +17,7 @@ import ClubList from '@/components/clubs/ClubList';
 import Breadcrumb from '@/components/ui/Breadcrumb';
 import RelatedLinks from '@/components/navigation/RelatedLinks';
 import LibertinCTA from '@/components/ui/LibertinCTA';
-import { BreadcrumbJsonLd } from '@/components/seo/JsonLd';
+import { BreadcrumbJsonLd, ItemListJsonLd } from '@/components/seo/JsonLd';
 
 export async function generateStaticParams() {
   return getTypeVilleParams();
@@ -45,7 +45,7 @@ export async function generateMetadata({
     title,
     description,
     alternates: { canonical: `/${category.urlSlug}/ville/${villeData.slug}` },
-    openGraph: { title, description, url: `/${category.urlSlug}/ville/${villeData.slug}`, type: 'website' },
+    openGraph: { title, description, url: `/${category.urlSlug}/ville/${villeData.slug}`, type: 'website', images: [{ url: '/images/og-image.jpg', width: 1200, height: 630, alt: `${category.seoTitle} à ${villeData.nom}` }] },
     ...(clubs.length <= 1 && { robots: { index: false, follow: true } }),
   };
 }
@@ -94,6 +94,11 @@ export default async function TypeVillePage({
   return (
     <>
       <BreadcrumbJsonLd items={breadcrumbItems} />
+      <ItemListJsonLd
+        clubs={clubs}
+        name={`${category.seoTitle} à ${villeData.nom}`}
+        description={`Liste des ${clubs.length} ${category.seoTitle.toLowerCase()}${clubs.length > 1 ? 's' : ''} à ${villeData.nom} (${villeData.departement_code})`}
+      />
 
       <main className="py-8 md:py-12">
         <div className="container-custom">
