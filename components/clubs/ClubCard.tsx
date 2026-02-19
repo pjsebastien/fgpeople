@@ -9,18 +9,18 @@ import type { Club } from '@/lib/types';
 
 // Liste des images disponibles (exportée pour réutilisation)
 export const CLUB_IMAGES = [
-  '/images/libertin.jpg',
-  '/images/libertin (2).jpg',
-  '/images/libertin (3).jpg',
-  '/images/libertin (4).jpg',
-  '/images/libertin (5).jpg',
-  '/images/libertin (6).jpg',
-  '/images/libertin (7).jpg',
-  '/images/libertin (8).jpg',
-  '/images/libertin (9).jpg',
-  '/images/libertin (10).jpg',
-  '/images/libertin (11).jpg',
-  '/images/libertin (12).jpg',
+  '/images/club-libertin-ambiance-1.jpg',
+  '/images/club-libertin-ambiance-2.jpg',
+  '/images/club-libertin-ambiance-3.jpg',
+  '/images/club-libertin-ambiance-4.jpg',
+  '/images/club-libertin-ambiance-5.jpg',
+  '/images/club-libertin-ambiance-6.jpg',
+  '/images/club-libertin-ambiance-7.jpg',
+  '/images/club-libertin-ambiance-8.jpg',
+  '/images/club-libertin-ambiance-9.jpg',
+  '/images/club-libertin-ambiance-10.jpg',
+  '/images/club-libertin-ambiance-11.jpg',
+  '/images/club-libertin-ambiance-12.jpg',
 ];
 
 interface ClubCardProps {

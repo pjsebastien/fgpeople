@@ -20,7 +20,7 @@ const inter = Inter({
 export const metadata: Metadata = {
   metadataBase: new URL('https://www.fgpeople.com'),
   title: {
-    default: 'Tous les clubs libertins et échangistes en France - 523 établissements',
+    default: 'Clubs libertins et échangistes en France - Annuaire complet | FG People',
     template: '%s | FG People',
   },
   icons: {
@@ -28,17 +28,10 @@ export const metadata: Metadata = {
     apple: '/apple-icon.png',
   },
   description:
-    'Découvrez 523 clubs libertins, saunas et spas en France. Annuaire complet avec horaires, tarifs, équipements et avis pour trouver l\'établissement idéal.',
-  keywords: [
-    'club libertin',
-    'clubs libertins',
-    'club échangiste',
-    'échangisme',
-    'libertin France',
-    'soirées libertines',
-    'sauna libertin',
-    'clubs libertins France',
-  ],
+    'Annuaire complet des clubs libertins, saunas et spas échangistes en France. Horaires, tarifs, équipements et avis pour trouver l\'établissement idéal.',
+  alternates: {
+    canonical: '/',
+  },
   authors: [{ name: 'FG People' }],
   creator: 'FG People',
   publisher: 'FG People',
@@ -52,22 +45,22 @@ export const metadata: Metadata = {
     locale: 'fr_FR',
     url: 'https://www.fgpeople.com',
     siteName: 'FG People',
-    title: 'Tous les clubs libertins et échangistes en France - 523 établissements',
+    title: 'Clubs libertins et échangistes en France - Annuaire complet | FG People',
     description:
-      'Découvrez 523 clubs libertins, saunas et spas en France avec horaires, tarifs et équipements.',
+      'Annuaire complet des clubs libertins, saunas et spas échangistes en France avec horaires, tarifs et équipements.',
     images: [
       {
         url: '/images/og-image.jpg',
         width: 1200,
         height: 630,
-        alt: 'FG People - Clubs Libertins de France',
+        alt: 'FG People - Annuaire des clubs libertins en France',
       },
     ],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Tous les clubs libertins et échangistes en France - 523 établissements',
-    description: 'Découvrez 523 clubs libertins et échangistes, saunas et spas en France. Annuaire complet.',
+    title: 'Clubs libertins et échangistes en France - Annuaire complet | FG People',
+    description: 'Annuaire complet des clubs libertins, saunas et spas échangistes en France.',
   },
   robots: {
     index: true,

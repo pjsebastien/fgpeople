@@ -72,7 +72,7 @@ export default async function HomePage() {
           {/* Background image */}
           <div className="absolute inset-0">
             <Image
-              src="/images/libertin (7).jpg"
+              src="/images/club-libertin-ambiance-7.jpg"
               alt="Ambiance club libertin"
               fill
               className="object-cover"

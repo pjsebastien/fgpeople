@@ -182,4 +182,6 @@ export interface BlogArticle {
     src: string;
     alt: string;
   };
+  datePublished?: string;
+  dateModified?: string;
 }

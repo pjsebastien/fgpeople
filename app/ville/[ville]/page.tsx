@@ -16,7 +16,21 @@ import SearchFilters from '@/components/clubs/SearchFilters';
 import Breadcrumb from '@/components/ui/Breadcrumb';
 import RelatedLinks from '@/components/navigation/RelatedLinks';
 import LibertinCTA from '@/components/ui/LibertinCTA';
-import { BreadcrumbJsonLd } from '@/components/seo/JsonLd';
+import { BreadcrumbJsonLd, ItemListJsonLd } from '@/components/seo/JsonLd';
+
+/** Formate un nom de ville : PARIS → Paris, SAINT-ÉTIENNE → Saint-Étienne */
+function formatVilleName(name: string): string {
+  if (!name) return name;
+  return name
+    .toLowerCase()
+    .split(/(-|\s)/)
+    .map((part) =>
+      part.length > 0 && part !== '-' && part !== ' '
+        ? part.charAt(0).toUpperCase() + part.slice(1)
+        : part
+    )
+    .join('');
+}
 
 export async function generateStaticParams() {
   const slugs = await getAllVilleSlugs();
@@ -35,10 +49,24 @@ export async function generateMetadata({
     return { title: 'Ville non trouvée' };
   }
 
+  const villeName = formatVilleName(villeData.nom);
+  const title = `Club libertin à ${villeName} (${villeData.departement_code}) : ${villeData.clubCount} établissement${villeData.clubCount > 1 ? 's' : ''}`;
+  const description = `Découvrez ${villeData.clubCount} club${villeData.clubCount > 1 ? 's' : ''} libertin${villeData.clubCount > 1 ? 's' : ''} à ${villeName} (${villeData.departement_code}). Liste complète avec adresses, horaires et tarifs en ${villeData.departement}.`;
+
   return {
-    title: `Club libertin à ${villeData.nom} (${villeData.departement_code}) : ${villeData.clubCount} établissement${villeData.clubCount > 1 ? 's' : ''}`,
-    description: `Découvrez ${villeData.clubCount} club${villeData.clubCount > 1 ? 's' : ''} libertin${villeData.clubCount > 1 ? 's' : ''} à ${villeData.nom} (${villeData.departement_code}). Liste complète avec adresses, horaires et tarifs en ${villeData.departement}.`,
+    title,
+    description,
     alternates: { canonical: `/ville/${villeData.slug}` },
+    openGraph: {
+      title,
+      description,
+      url: `/ville/${villeData.slug}`,
+      type: 'website',
+    },
+    // Noindex pour les villes avec un seul club (thin content)
+    ...(villeData.clubCount <= 1 && {
+      robots: { index: false, follow: true },
+    }),
   };
 }
 
@@ -60,16 +88,25 @@ export default async function VillePage({
     getAllTypeCategories(),
   ]);
 
+  const villeName = formatVilleName(villeData.nom);
+
   const breadcrumbItems = [
     { name: 'Accueil', url: '/' },
     { name: villeData.region, url: `/region/${villeData.regionSlug}` },
     { name: `${villeData.departement} (${villeData.departement_code})`, url: `/departement/${villeData.departementSlug}` },
-    { name: villeData.nom, url: `/ville/${villeData.slug}` },
+    { name: villeName, url: `/ville/${villeData.slug}` },
   ];
 
   return (
     <>
       <BreadcrumbJsonLd items={breadcrumbItems} />
+      {clubs.length > 0 && (
+        <ItemListJsonLd
+          clubs={clubs}
+          name={`Clubs libertins à ${villeName}`}
+          description={`Liste des clubs libertins à ${villeName} (${villeData.departement_code})`}
+        />
+      )}
 
       <main className="py-8 md:py-12">
         <div className="container-custom">
@@ -77,18 +114,18 @@ export default async function VillePage({
 
           <header className="mb-10">
             <h1 className="text-3xl md:text-4xl font-bold text-text-primary mb-4">
-              Club libertin à {villeData.nom}
+              Club libertin à {villeName}
               <span className="text-accent-primary ml-2">({villeData.departement_code})</span>
             </h1>
             <p className="text-text-secondary text-lg max-w-3xl">
-              Découvrez {villeData.clubCount === 1 ? 'le club libertin' : `${villeData.clubCount} clubs libertins`} à {villeData.nom},
+              Découvrez {villeData.clubCount === 1 ? 'le club libertin' : `${villeData.clubCount} clubs libertins`} à {villeName},
               dans le département {villeData.departement} en {villeData.region}.
             </p>
           </header>
 
           {/* CTA Rencontres */}
           <div className="mb-10">
-            <LibertinCTA location={villeData.nom} variant="compact" />
+            <LibertinCTA location={villeName} variant="compact" />
           </div>
 
           {/* Recherche et filtres */}
@@ -98,8 +135,8 @@ export default async function VillePage({
             hideRegionFilter={true}
             hideDepartementFilter={true}
             hideVilleFilter={true}
-            title={`${villeData.clubCount === 1 ? 'Le club libertin de' : 'Clubs libertins à'} ${villeData.nom}`}
-            subtitle={`${villeData.clubCount === 1 ? 'Découvrez l\'établissement' : `Utilisez les filtres pour explorer les ${clubs.length} établissements`} de ${villeData.nom}`}
+            title={`${villeData.clubCount === 1 ? 'Le club libertin de' : 'Clubs libertins à'} ${villeName}`}
+            subtitle={`${villeData.clubCount === 1 ? 'Découvrez l\'établissement' : `Utilisez les filtres pour explorer les ${clubs.length} établissements`} de ${villeName}`}
           />
 
           {/* Autres villes du département */}
@@ -117,7 +154,7 @@ export default async function VillePage({
               href={`/departement/${villeData.departementSlug}`}
               className="inline-flex items-center gap-2 text-accent-primary hover:text-accent-hover transition-colors"
             >
-              <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
               </svg>
               Retour à {villeData.departement}

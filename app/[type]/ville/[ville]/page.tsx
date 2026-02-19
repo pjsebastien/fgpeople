@@ -38,10 +38,15 @@ export async function generateMetadata({
 
   const clubs = await getClubsByTypeAndVille(category.slug, ville);
 
+  const title = `${category.seoTitle} à ${villeData.nom} (${villeData.departement_code}) : ${clubs.length} établissement${clubs.length > 1 ? 's' : ''}`;
+  const description = `Découvrez ${clubs.length} ${category.seoTitle.toLowerCase()}${clubs.length > 1 ? 's' : ''} à ${villeData.nom} (${villeData.departement_code}). Liste complète avec adresses, horaires et tarifs.`;
+
   return {
-    title: `${category.seoTitle} à ${villeData.nom} (${villeData.departement_code}) : ${clubs.length} établissement${clubs.length > 1 ? 's' : ''}`,
-    description: `Découvrez ${clubs.length} ${category.seoTitle.toLowerCase()}${clubs.length > 1 ? 's' : ''} à ${villeData.nom} (${villeData.departement_code}). Liste complète avec adresses, horaires et tarifs.`,
+    title,
+    description,
     alternates: { canonical: `/${category.urlSlug}/ville/${villeData.slug}` },
+    openGraph: { title, description, url: `/${category.urlSlug}/ville/${villeData.slug}`, type: 'website' },
+    ...(clubs.length <= 1 && { robots: { index: false, follow: true } }),
   };
 }
 

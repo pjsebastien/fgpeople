@@ -74,6 +74,7 @@ const nextConfig = {
   // Headers de sécurité et cache
   async headers() {
     return [
+      // Headers de sécurité globaux
       {
         source: '/(.*)',
         headers: [
@@ -88,6 +89,34 @@ const nextConfig = {
           {
             key: 'X-XSS-Protection',
             value: '1; mode=block',
+          },
+          {
+            key: 'Referrer-Policy',
+            value: 'strict-origin-when-cross-origin',
+          },
+          {
+            key: 'Strict-Transport-Security',
+            value: 'max-age=31536000; includeSubDomains',
+          },
+        ],
+      },
+      // Cache long pour les images statiques
+      {
+        source: '/images/(.*)',
+        headers: [
+          {
+            key: 'Cache-Control',
+            value: 'public, max-age=31536000, immutable',
+          },
+        ],
+      },
+      // Cache pour les polices et assets Next.js
+      {
+        source: '/_next/static/(.*)',
+        headers: [
+          {
+            key: 'Cache-Control',
+            value: 'public, max-age=31536000, immutable',
           },
         ],
       },

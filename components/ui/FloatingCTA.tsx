@@ -107,7 +107,7 @@ export default function FloatingCTA() {
             <a
               href={AFFILIATE_URL}
               target="_blank"
-              rel="nofollow sponsored"
+              rel="nofollow sponsored noopener"
               className="flex items-center justify-center gap-2 w-full sm:w-auto px-6 py-3 bg-accent-primary rounded-lg hover:brightness-110 transition-all hover:scale-105 shadow-lg shadow-accent-primary/25 whitespace-nowrap"
             >
               <span className="text-white font-bold">Voir les profils</span>

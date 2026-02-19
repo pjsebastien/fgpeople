@@ -7,31 +7,62 @@
 import type { Club, BreadcrumbItem, FAQItem, BlogArticle } from '@/lib/types';
 
 // ============================================
-// LOCAL BUSINESS (Club)
+// LOCAL BUSINESS (Club) - Enrichi
 // ============================================
 interface LocalBusinessJsonLdProps {
   club: Club;
 }
 
 export function LocalBusinessJsonLd({ club }: LocalBusinessJsonLdProps) {
-  const jsonLd = {
+  const jsonLd: Record<string, unknown> = {
     '@context': 'https://schema.org',
     '@type': 'LocalBusiness',
     '@id': `https://www.fgpeople.com/${club.slug}`,
     name: club.nom,
-    description: club.shortDescription,
+    description: club.shortDescription || club.seo?.introText,
+    url: `https://www.fgpeople.com/${club.slug}`,
+    image: `https://www.fgpeople.com/images/club-libertin-ambiance-${((club.nom.split('').reduce((acc: number, c: string) => acc + c.charCodeAt(0), 0) % 12) + 1)}.jpg`,
     address: {
       '@type': 'PostalAddress',
-      streetAddress: club.adresse,
+      streetAddress: club.adresse || undefined,
       addressLocality: club.ville,
       addressRegion: club.region,
       postalCode: club.code_postal,
       addressCountry: club.pays === 'France' ? 'FR' : club.pays,
     },
     ...(club.telephone && { telephone: club.telephone }),
-    ...(club.site_web && { url: club.site_web }),
+    ...(club.site_web && club.websiteAccessible !== false && { sameAs: club.site_web }),
     ...(club.email && { email: club.email }),
   };
+
+  // Horaires d'ouverture structurés
+  if (club.horaires && Object.keys(club.horaires).length > 0) {
+    const dayMapping: Record<string, string> = {
+      lundi: 'Monday',
+      mardi: 'Tuesday',
+      mercredi: 'Wednesday',
+      jeudi: 'Thursday',
+      vendredi: 'Friday',
+      samedi: 'Saturday',
+      dimanche: 'Sunday',
+    };
+
+    const openingHours: { '@type': string; dayOfWeek: string; description: string }[] = [];
+    for (const [jour, horaire] of Object.entries(club.horaires)) {
+      const englishDay = dayMapping[jour.toLowerCase()];
+      if (englishDay && horaire && horaire.toLowerCase() !== 'fermé') {
+        openingHours.push({
+          '@type': 'OpeningHoursSpecification',
+          dayOfWeek: englishDay,
+          description: horaire as string,
+        });
+      }
+    }
+
+    if (openingHours.length > 0) {
+      jsonLd.openingHoursSpecification = openingHours;
+    }
+  }
 
   return (
     <script
@@ -84,20 +115,11 @@ export function ItemListJsonLd({ clubs, name, description }: ItemListJsonLdProps
     name,
     ...(description && { description }),
     numberOfItems: clubs.length,
-    itemListElement: clubs.map((club, index) => ({
+    itemListElement: clubs.slice(0, 30).map((club, index) => ({
       '@type': 'ListItem',
       position: index + 1,
-      item: {
-        '@type': 'LocalBusiness',
-        '@id': `https://www.fgpeople.com/${club.slug}`,
-        name: club.nom,
-        description: club.shortDescription,
-        address: {
-          '@type': 'PostalAddress',
-          addressLocality: club.ville,
-          addressRegion: club.region,
-        },
-      },
+      url: `https://www.fgpeople.com/${club.slug}`,
+      name: club.nom,
     })),
   };
 
@@ -110,7 +132,7 @@ export function ItemListJsonLd({ clubs, name, description }: ItemListJsonLdProps
 }
 
 // ============================================
-// WEBSITE (Page d'accueil)
+// WEBSITE (Page d'accueil) - SearchAction corrigé
 // ============================================
 export function WebsiteJsonLd() {
   const jsonLd = {
@@ -119,19 +141,10 @@ export function WebsiteJsonLd() {
     '@id': 'https://www.fgpeople.com/#website',
     url: 'https://www.fgpeople.com',
     name: 'FG People',
-    description: 'Tous les clubs libertins et échangistes en France et en Europe',
+    description: 'Annuaire complet des clubs libertins et échangistes en France et en Europe',
+    inLanguage: 'fr-FR',
     publisher: {
-      '@type': 'Organization',
-      name: 'FG People',
-      url: 'https://www.fgpeople.com',
-    },
-    potentialAction: {
-      '@type': 'SearchAction',
-      target: {
-        '@type': 'EntryPoint',
-        urlTemplate: 'https://www.fgpeople.com/clubs?search={search_term_string}',
-      },
-      'query-input': 'required name=search_term_string',
+      '@id': 'https://www.fgpeople.com/#organization',
     },
   };
 
@@ -144,7 +157,7 @@ export function WebsiteJsonLd() {
 }
 
 // ============================================
-// ORGANIZATION
+// ORGANIZATION - Corrigé (suppression sameAs vide)
 // ============================================
 export function OrganizationJsonLd() {
   const jsonLd = {
@@ -152,9 +165,14 @@ export function OrganizationJsonLd() {
     '@type': 'Organization',
     '@id': 'https://www.fgpeople.com/#organization',
     name: 'FG People',
+    alternateName: 'For Good People',
     url: 'https://www.fgpeople.com',
-    logo: 'https://www.fgpeople.com/images/logo.png',
-    sameAs: [],
+    logo: {
+      '@type': 'ImageObject',
+      url: 'https://www.fgpeople.com/images/logo.png',
+      width: 512,
+      height: 512,
+    },
   };
 
   return (
@@ -195,13 +213,16 @@ export function FAQPageJsonLd({ faq }: FAQPageJsonLdProps) {
 }
 
 // ============================================
-// ARTICLE (Blog)
+// ARTICLE (Blog) - Avec dates
 // ============================================
 interface ArticleJsonLdProps {
   article: BlogArticle;
 }
 
 export function ArticleJsonLd({ article }: ArticleJsonLdProps) {
+  const publishDate = article.datePublished || '2025-01-28';
+  const modifiedDate = article.dateModified || publishDate;
+
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
@@ -209,6 +230,8 @@ export function ArticleJsonLd({ article }: ArticleJsonLdProps) {
     headline: article.title,
     description: article.metaDescription,
     image: `https://www.fgpeople.com${article.heroImage.src}`,
+    datePublished: publishDate,
+    dateModified: modifiedDate,
     author: {
       '@type': 'Organization',
       name: 'FG People',
@@ -227,6 +250,7 @@ export function ArticleJsonLd({ article }: ArticleJsonLdProps) {
       '@type': 'WebPage',
       '@id': `https://www.fgpeople.com/${article.slug}`,
     },
+    inLanguage: 'fr-FR',
     articleSection: article.category,
     keywords: article.tags.join(', '),
   };

@@ -40,7 +40,7 @@ export default function LibertinCTA({ location, variant = 'default' }: LibertinC
           <a
             href={AFFILIATE_URL}
             target="_blank"
-            rel="nofollow sponsored"
+            rel="nofollow sponsored noopener"
             className="inline-flex items-center justify-center gap-2 px-8 py-4 bg-accent-primary rounded-xl hover:brightness-110 transition-all hover:scale-105 shadow-lg shadow-accent-primary/25 text-lg whitespace-nowrap"
           >
             <span className="text-white font-bold">Voir les profils</span>
@@ -104,7 +104,7 @@ export default function LibertinCTA({ location, variant = 'default' }: LibertinC
           <a
             href={AFFILIATE_URL}
             target="_blank"
-            rel="nofollow sponsored"
+            rel="nofollow sponsored noopener"
             className="group inline-flex items-center justify-center gap-3 w-full px-10 py-4 bg-accent-primary rounded-xl hover:brightness-110 transition-all hover:scale-[1.02] shadow-xl shadow-accent-primary/30"
           >
             <span className="text-xl text-white font-bold">Voir les profils à {location}</span>

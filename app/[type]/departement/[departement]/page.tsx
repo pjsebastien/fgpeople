@@ -39,10 +39,15 @@ export async function generateMetadata({
 
   const clubs = await getClubsByTypeAndDepartement(category.slug, departement);
 
+  const title = `${category.seoTitle} ${deptData.nom} (${deptData.code}) : ${clubs.length} établissements`;
+  const description = `Découvrez ${clubs.length} ${category.seoTitle.toLowerCase()}s dans le ${deptData.nom} (${deptData.code}). Liste complète par ville avec adresses, horaires et tarifs.`;
+
   return {
-    title: `${category.seoTitle} ${deptData.nom} (${deptData.code}) : ${clubs.length} établissements`,
-    description: `Découvrez ${clubs.length} ${category.seoTitle.toLowerCase()}s dans le ${deptData.nom} (${deptData.code}). Liste complète par ville avec adresses, horaires et tarifs.`,
+    title,
+    description,
     alternates: { canonical: `/${category.urlSlug}/departement/${deptData.slug}` },
+    openGraph: { title, description, url: `/${category.urlSlug}/departement/${deptData.slug}`, type: 'website' },
+    ...(clubs.length <= 1 && { robots: { index: false, follow: true } }),
   };
 }
 

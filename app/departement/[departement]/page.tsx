@@ -17,7 +17,7 @@ import SearchFilters from '@/components/clubs/SearchFilters';
 import Breadcrumb from '@/components/ui/Breadcrumb';
 import RelatedLinks from '@/components/navigation/RelatedLinks';
 import LibertinCTA from '@/components/ui/LibertinCTA';
-import { BreadcrumbJsonLd } from '@/components/seo/JsonLd';
+import { BreadcrumbJsonLd, ItemListJsonLd } from '@/components/seo/JsonLd';
 
 export async function generateStaticParams() {
   const slugs = await getAllDepartementSlugs();
@@ -36,10 +36,23 @@ export async function generateMetadata({
     return { title: 'Département non trouvé' };
   }
 
+  const title = `Club libertin ${deptData.nom} (${deptData.code}) : ${deptData.clubCount} établissements`;
+  const description = `Découvrez ${deptData.clubCount} clubs libertins et échangistes dans le ${deptData.nom} (${deptData.code}). Liste complète par ville avec adresses, horaires et tarifs.`;
+
   return {
-    title: `Club libertin ${deptData.nom} (${deptData.code}) : ${deptData.clubCount} établissements`,
-    description: `Découvrez ${deptData.clubCount} clubs libertins et échangistes dans le ${deptData.nom} (${deptData.code}). Liste complète par ville avec adresses, horaires et tarifs.`,
+    title,
+    description,
     alternates: { canonical: `/departement/${deptData.slug}` },
+    openGraph: {
+      title,
+      description,
+      url: `/departement/${deptData.slug}`,
+      type: 'website',
+    },
+    // Noindex pour les départements avec très peu de clubs
+    ...(deptData.clubCount <= 1 && {
+      robots: { index: false, follow: true },
+    }),
   };
 }
 
@@ -71,6 +84,13 @@ export default async function DepartementPage({
   return (
     <>
       <BreadcrumbJsonLd items={breadcrumbItems} />
+      {clubs.length > 0 && (
+        <ItemListJsonLd
+          clubs={clubs}
+          name={`Clubs libertins dans le ${deptData.nom}`}
+          description={`Liste des ${deptData.clubCount} clubs libertins dans le ${deptData.nom} (${deptData.code})`}
+        />
+      )}
 
       <main className="py-8 md:py-12">
         <div className="container-custom">
@@ -142,7 +162,7 @@ export default async function DepartementPage({
               href={`/region/${deptData.regionSlug}`}
               className="inline-flex items-center gap-2 text-accent-primary hover:text-accent-hover transition-colors"
             >
-              <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
               </svg>
               Retour à {deptData.region}

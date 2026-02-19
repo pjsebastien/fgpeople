@@ -27,7 +27,7 @@ import Breadcrumb from '@/components/ui/Breadcrumb';
 import RelatedLinks from '@/components/navigation/RelatedLinks';
 import ArticlePage from '@/components/blog/ArticlePage';
 import ClubDetailPage from '@/components/clubs/ClubDetailPage';
-import { BreadcrumbJsonLd } from '@/components/seo/JsonLd';
+import { BreadcrumbJsonLd, ItemListJsonLd } from '@/components/seo/JsonLd';
 
 export async function generateStaticParams() {
   // Combiner les slugs de types, articles ET clubs
@@ -67,10 +67,18 @@ export async function generateMetadata({
   // 2. Vérifier si c'est une page de type
   const category = await getTypeCategoryByUrlSlug(type);
   if (category) {
+    const typeTitle = `${category.seoTitle} en France : ${category.clubCount} établissements`;
+    const typeDesc = `Découvrez ${category.clubCount} ${category.seoTitle.toLowerCase()}s en France. ${category.description}. Liste complète avec adresses, horaires et tarifs.`;
     return {
-      title: `${category.seoTitle} en France : ${category.clubCount} établissements`,
-      description: `Découvrez ${category.clubCount} ${category.seoTitle.toLowerCase()}s en France. ${category.description}. Liste complète avec adresses, horaires et tarifs.`,
+      title: typeTitle,
+      description: typeDesc,
       alternates: { canonical: `/${category.urlSlug}` },
+      openGraph: {
+        title: typeTitle,
+        description: typeDesc,
+        url: `/${category.urlSlug}`,
+        type: 'website',
+      },
     };
   }
 
@@ -150,6 +158,11 @@ export default async function DynamicPage({
     return (
       <>
         <BreadcrumbJsonLd items={breadcrumbItems} />
+        <ItemListJsonLd
+          clubs={clubs}
+          name={`${category.seoTitle} en France`}
+          description={`Liste des ${category.clubCount} ${category.seoTitle.toLowerCase()}s en France`}
+        />
 
         <main className="py-8 md:py-12">
           <div className="container-custom">

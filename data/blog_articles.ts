@@ -20,9 +20,11 @@ export const blogArticles: BlogArticle[] = [
     tags: ['wyylde', 'site libertin', 'rencontres', 'avis'],
     relatedSlugs: ['quest-ce-que-la-communaute-libertine', 'tenue-club-libertin', 'eviter-les-arnaques-et-les-faux-profils-rencontres-adultes'],
     heroImage: {
-      src: '/images/libertin.jpg',
+      src: '/images/club-libertin-ambiance-1.jpg',
       alt: 'Plateforme Wyylde pour rencontres libertines'
     },
+    datePublished: '2025-01-15',
+    dateModified: '2025-01-28',
     content: [
       {
         id: 'presentation',
@@ -31,7 +33,7 @@ export const blogArticles: BlogArticle[] = [
 
 La plateforme se distingue par sa communauté active et son approche respectueuse du libertinage. Que vous soyez novice ou expérimenté, Wyylde offre un environnement adapté à tous les profils.`,
         image: {
-          src: '/images/libertin (2).jpg',
+          src: '/images/club-libertin-ambiance-2.jpg',
           alt: 'Interface de la plateforme de rencontres libertines'
         }
       },
@@ -136,9 +138,11 @@ Pour ceux qui préfèrent les rencontres en personne, nous vous invitons à cons
     tags: ['tenue', 'dress code', 'club libertin', 'conseils'],
     relatedSlugs: ['quest-ce-que-la-communaute-libertine', 'organiser-une-soiree-echangiste', 'avis-wyylde'],
     heroImage: {
-      src: '/images/libertin (3).jpg',
+      src: '/images/club-libertin-ambiance-3.jpg',
       alt: 'Tenue élégante pour soirée en club libertin'
     },
+    datePublished: '2025-01-16',
+    dateModified: '2025-01-28',
     content: [
       {
         id: 'introduction',
@@ -165,7 +169,7 @@ L'association d'une jupe et d'un corset crée un look à la fois sexy et raffin�
 **Les talons**
 Les talons hauts allongent la silhouette et ajoutent une touche de glamour. Prévoyez éventuellement une paire de rechange plus confortable pour la fin de soirée.`,
         image: {
-          src: '/images/libertin (4).jpg',
+          src: '/images/club-libertin-ambiance-4.jpg',
           alt: 'Tenue féminine élégante pour club libertin'
         }
       },
@@ -267,9 +271,11 @@ N'essayez pas d'être quelqu'un d'autre. Choisissez une tenue qui vous ressemble
     tags: ['soirée échangiste', 'organisation', 'chez soi', 'conseils'],
     relatedSlugs: ['decouvrir-les-differents-styles-dechangisme', 'quest-ce-que-la-communaute-libertine', 'tenue-club-libertin'],
     heroImage: {
-      src: '/images/libertin (5).jpg',
+      src: '/images/club-libertin-ambiance-5.jpg',
       alt: 'Ambiance soirée échangiste intimiste'
     },
+    datePublished: '2025-01-17',
+    dateModified: '2025-01-28',
     content: [
       {
         id: 'introduction',
@@ -317,7 +323,7 @@ Avant d'inviter, rencontrez les couples potentiels pour vérifier le feeling. Un
 **Équilibre hommes/femmes**
 Veillez à maintenir un équilibre. Évitez d'inviter des hommes seuls sauf si c'est explicitement souhaité par tous.`,
         image: {
-          src: '/images/libertin (6).jpg',
+          src: '/images/club-libertin-ambiance-6.jpg',
           alt: 'Couples en soirée libertine privée'
         }
       },
@@ -402,9 +408,11 @@ Consultez notre annuaire des clubs libertins pour trouver un établissement prè
     tags: ['échangisme', 'candaulisme', 'mélangisme', 'triolisme', 'pratiques'],
     relatedSlugs: ['quest-ce-que-la-communaute-libertine', 'organiser-une-soiree-echangiste', 'comment-lechangisme-est-devenu-populaire'],
     heroImage: {
-      src: '/images/libertin (7).jpg',
+      src: '/images/club-libertin-ambiance-7.jpg',
       alt: 'Couple explorant l\'échangisme'
     },
+    datePublished: '2025-01-18',
+    dateModified: '2025-01-28',
     content: [
       {
         id: 'introduction',
@@ -448,7 +456,7 @@ Pour les couples solidement établis, en confiance mutuelle, qui souhaitent vivr
 - Absence de jalousie destructrice
 - Respect mutuel entre tous les participants`,
         image: {
-          src: '/images/libertin (8).jpg',
+          src: '/images/club-libertin-ambiance-8.jpg',
           alt: 'Couples échangistes en soirée libertine'
         }
       },
@@ -544,9 +552,11 @@ Il n'y a pas de progression obligatoire du soft vers le hard. Certains couples r
     tags: ['rencontres', 'plan cul', 'conseils', 'site adulte'],
     relatedSlugs: ['avis-wyylde', 'eviter-les-arnaques-et-les-faux-profils-rencontres-adultes', 'erreurs-a-eviter-profil-sexylib'],
     heroImage: {
-      src: '/images/libertin (9).jpg',
+      src: '/images/club-libertin-ambiance-9.jpg',
       alt: 'Utiliser efficacement un site de rencontres adultes'
     },
+    datePublished: '2025-01-19',
+    dateModified: '2025-01-28',
     content: [
       {
         id: 'comprendre-plateformes',
@@ -577,7 +587,7 @@ Des plateformes comme [planscul.com](https://www.planscul.com) illustrent parfai
 
 Ces éléments doivent apparaître clairement dans votre profil. Plus vous êtes précis, plus vous attirerez des personnes compatibles avec vos attentes.`,
         image: {
-          src: '/images/libertin (10).jpg',
+          src: '/images/club-libertin-ambiance-10.jpg',
           alt: 'Définir ses attentes sur un site de rencontres'
         }
       },
@@ -697,9 +707,11 @@ Les rencontres viendront naturellement, avec des personnes qui partagent votre v
     tags: ['échangisme', 'histoire', 'culture', 'France'],
     relatedSlugs: ['quest-ce-que-la-communaute-libertine', 'decouvrir-les-differents-styles-dechangisme', 'avis-wyylde'],
     heroImage: {
-      src: '/images/libertin (11).jpg',
+      src: '/images/club-libertin-ambiance-11.jpg',
       alt: 'Histoire de l\'échangisme et du libertinage en France'
     },
+    datePublished: '2025-01-20',
+    dateModified: '2025-01-28',
     content: [
       {
         id: 'origines',
@@ -725,7 +737,7 @@ C'est dans ce contexte que les premiers clubs échangistes modernes sont apparus
 **Une pratique marginale**
 Malgré l'évolution des mentalités, l'échangisme restait une pratique confidentielle, réservée à des initiés qui se retrouvaient par le bouche-à-oreille.`,
         image: {
-          src: '/images/libertin (12).jpg',
+          src: '/images/club-libertin-ambiance-12.jpg',
           alt: 'Évolution des clubs libertins en France'
         }
       },
@@ -809,9 +821,11 @@ De plus en plus de couples parlent ouvertement de leur vie libertine, contribuan
     tags: ['sexualité', 'développement personnel', 'connaissance de soi', 'intimité'],
     relatedSlugs: ['decouvrir-les-differents-styles-dechangisme', 'quest-ce-que-la-communaute-libertine', 'gage-sexe'],
     heroImage: {
-      src: '/images/libertin (2).jpg',
+      src: '/images/club-libertin-ambiance-2.jpg',
       alt: 'Exploration de sa sexualité et connaissance de soi'
     },
+    datePublished: '2025-01-21',
+    dateModified: '2025-01-28',
     content: [
       {
         id: 'introduction',
@@ -836,7 +850,7 @@ Des plateformes comme [Entrecoquins](https://www.entrecoquins.com/) offrent un e
 **Accueillir la diversité de ses fantasmes**
 Que vos fantasmes soient conventionnels ou plus originaux, ils font partie de vous. Les reconnaître est le premier pas vers une meilleure compréhension de votre personnalité profonde.`,
         image: {
-          src: '/images/libertin (3).jpg',
+          src: '/images/club-libertin-ambiance-3.jpg',
           alt: 'Identifier ses désirs en toute liberté'
         }
       },
@@ -915,9 +929,11 @@ N'ayez pas peur d'explorer. La connaissance de soi passe aussi par là.`
     tags: ['SM', 'BDSM', 'rencontres', 'fétichisme'],
     relatedSlugs: ['decouvrir-les-differents-styles-dechangisme', 'quest-ce-que-la-communaute-libertine', 'eviter-les-arnaques-et-les-faux-profils-rencontres-adultes'],
     heroImage: {
-      src: '/images/libertin (4).jpg',
+      src: '/images/club-libertin-ambiance-4.jpg',
       alt: 'Univers des rencontres SM et BDSM'
     },
+    datePublished: '2025-01-22',
+    dateModified: '2025-01-28',
     content: [
       {
         id: 'introduction',
@@ -943,7 +959,7 @@ Des plateformes comme Wyylde accueillent aussi des profils orientés SM. Vous po
 - Prenez le temps d'échanger avant de rencontrer
 - Méfiez-vous des profils sans vérification`,
         image: {
-          src: '/images/libertin (5).jpg',
+          src: '/images/club-libertin-ambiance-5.jpg',
           alt: 'Sites de rencontres pour communauté BDSM'
         }
       },
@@ -1056,9 +1072,11 @@ Participez à des ateliers pour apprendre les techniques sécurisées avant de p
     tags: ['communauté libertine', 'codes', 'étiquette', 'valeurs'],
     relatedSlugs: ['decouvrir-les-differents-styles-dechangisme', 'tenue-club-libertin', 'comment-lechangisme-est-devenu-populaire'],
     heroImage: {
-      src: '/images/libertin (6).jpg',
+      src: '/images/club-libertin-ambiance-6.jpg',
       alt: 'La communauté libertine française'
     },
+    datePublished: '2025-01-23',
+    dateModified: '2025-01-28',
     content: [
       {
         id: 'definition',
@@ -1087,7 +1105,7 @@ Ce qui se passe dans le milieu libertin y reste. L'anonymat et la vie privée de
 **Le non-jugement**
 Chacun vit sa sexualité comme il l'entend. On ne juge pas les pratiques des autres, même si elles diffèrent des siennes.`,
         image: {
-          src: '/images/libertin (7).jpg',
+          src: '/images/club-libertin-ambiance-7.jpg',
           alt: 'Valeurs et respect dans le milieu libertin'
         }
       },
@@ -1185,9 +1203,11 @@ Tous les clubs ne se ressemblent pas. Renseignez-vous sur l'ambiance et la clien
     tags: ['arnaques', 'faux profils', 'sécurité', 'rencontres'],
     relatedSlugs: ['comment-bien-utiliser-un-site-de-plan-cul', 'avis-wyylde', 'quest-ce-que-la-communaute-libertine'],
     heroImage: {
-      src: '/images/libertin (8).jpg',
+      src: '/images/club-libertin-ambiance-8.jpg',
       alt: 'Sécurité sur les sites de rencontres adultes'
     },
+    datePublished: '2025-01-24',
+    dateModified: '2025-01-28',
     content: [
       {
         id: 'introduction',
@@ -1214,7 +1234,7 @@ Contradictions dans le récit, horaires de connexion bizarres, niveau de langue 
 **Les demandes d'argent**
 Quelle que soit la raison invoquée (urgence médicale, billet d'avion, problème bancaire), une demande d'argent est quasiment toujours une arnaque.`,
         image: {
-          src: '/images/libertin (9).jpg',
+          src: '/images/club-libertin-ambiance-9.jpg',
           alt: 'Détecter les arnaques sur sites de rencontres'
         }
       },
@@ -1333,9 +1353,11 @@ Changez vos mots de passe si vous avez partagé des informations sensibles.`
     tags: ['gages', 'couple', 'jeux', 'sensuel'],
     relatedSlugs: ['apprendre-a-mieux-se-connaitre-sexualite', 'organiser-une-soiree-echangiste', 'tenue-club-libertin'],
     heroImage: {
-      src: '/images/libertin (10).jpg',
+      src: '/images/club-libertin-ambiance-10.jpg',
       alt: 'Jeux et gages sensuels pour couples'
     },
+    datePublished: '2025-01-25',
+    dateModified: '2025-01-28',
     content: [
       {
         id: 'introduction',
@@ -1377,7 +1399,7 @@ Réalisez un strip-tease pour votre partenaire, même si vous n'êtes pas un(e) 
 **Pourquoi ça fonctionne**
 Se montrer vulnérable et désirable devant l'autre renforce l'intimité. C'est aussi l'occasion de jouer un rôle et de sortir de votre zone de confort.`,
         image: {
-          src: '/images/libertin (11).jpg',
+          src: '/images/club-libertin-ambiance-11.jpg',
           alt: 'Ambiance sensuelle pour jeux de couple'
         }
       },
@@ -1495,7 +1517,7 @@ Racontez un fantasme que vous n'avez jamais osé partager.
 **Pourquoi ça fonctionne**
 Partager ses fantasmes crée une intimité profonde. Même sans les réaliser, en parler nourrit le désir et la complicité.`,
         image: {
-          src: '/images/libertin (12).jpg',
+          src: '/images/club-libertin-ambiance-12.jpg',
           alt: 'Complicité et intimité dans le couple'
         }
       },
@@ -1549,9 +1571,11 @@ Tout ne sera pas parfait, et c'est normal ! Les fous rires font partie du jeu et
     tags: ['lifestyle', 'équilibre', 'bien-être', 'authenticité', 'développement personnel'],
     relatedSlugs: ['apprendre-a-mieux-se-connaitre-sexualite', 'quest-ce-que-la-communaute-libertine', 'gage-sexe'],
     heroImage: {
-      src: '/images/libertin (5).jpg',
+      src: '/images/club-libertin-ambiance-5.jpg',
       alt: 'Lifestyle épanoui et équilibré'
     },
+    datePublished: '2025-01-26',
+    dateModified: '2025-01-28',
     content: [
       {
         id: 'introduction',
@@ -1574,7 +1598,7 @@ Une fois vos valeurs identifiées, organisez votre vie autour d'elles. Cela sign
 **L'alignement quotidien**
 Chaque jour, demandez-vous si vos actions sont en cohérence avec vos valeurs. Cet alignement est la clé d'une vie authentique et épanouissante.`,
         image: {
-          src: '/images/libertin (6).jpg',
+          src: '/images/club-libertin-ambiance-6.jpg',
           alt: 'Se connaître et définir ses priorités'
         }
       },
@@ -1696,9 +1720,11 @@ L'équilibre parfait n'existe pas, mais la recherche de cet équilibre, elle, es
     tags: ['sexylib', 'profil', 'erreurs', 'conseils', 'libertin'],
     relatedSlugs: ['comment-bien-utiliser-un-site-de-plan-cul', 'eviter-les-arnaques-et-les-faux-profils-rencontres-adultes', 'avis-wyylde'],
     heroImage: {
-      src: '/images/libertin (7).jpg',
+      src: '/images/club-libertin-ambiance-7.jpg',
       alt: 'Optimiser son profil Sexylib'
     },
+    datePublished: '2025-01-27',
+    dateModified: '2025-01-28',
     content: [
       {
         id: 'introduction',
@@ -1728,7 +1754,7 @@ Prenez le temps de faire quelques photos dans de bonnes conditions. Un éclairag
 
 Pour approfondir sur les bonnes pratiques des plateformes libertines, consultez [l'avis complet sur Sexylib](https://kinkyee.fr/sexylib-avis/).`,
         image: {
-          src: '/images/libertin (8).jpg',
+          src: '/images/club-libertin-ambiance-8.jpg',
           alt: 'Importance de la photo de profil'
         }
       },
@@ -1849,9 +1875,11 @@ Ces principes simples vous distingueront de la majorité des profils et multipli
     tags: ['sextoys', 'couple', 'intimité', 'plaisir', 'complicité'],
     relatedSlugs: ['gage-sexe', 'apprendre-a-mieux-se-connaitre-sexualite', 'decouvrir-les-differents-styles-dechangisme'],
     heroImage: {
-      src: '/images/libertin (11).jpg',
+      src: '/images/club-libertin-ambiance-11.jpg',
       alt: 'Sextoys pour couples et intimité'
     },
+    datePublished: '2025-01-27',
+    dateModified: '2025-01-28',
     content: [
       {
         id: 'introduction',
@@ -1878,7 +1906,7 @@ Choisir ensemble, découvrir ensemble, expérimenter ensemble : ces moments renf
 
 Des boutiques comme [Concorde Love](https://www.concordelove.fr/) proposent une large gamme de sextoys adaptés aux couples, avec des conseils pour bien choisir.`,
         image: {
-          src: '/images/libertin (12).jpg',
+          src: '/images/club-libertin-ambiance-12.jpg',
           alt: 'Complicité et exploration avec sextoys'
         }
       },
@@ -1976,9 +2004,11 @@ N'ayez pas peur d'essayer. Le pire qui puisse arriver ? Un fou rire partagé. Et
     tags: ['covoiturage', 'club libertin', 'économie', 'transport', 'rencontres'],
     relatedSlugs: ['quest-ce-que-la-communaute-libertine', 'tenue-club-libertin', 'organiser-une-soiree-echangiste'],
     heroImage: {
-      src: '/images/libertin (3).jpg',
+      src: '/images/club-libertin-ambiance-3.jpg',
       alt: 'Covoiturage pour se rendre en club libertin'
     },
+    datePublished: '2025-01-28',
+    dateModified: '2025-01-28',
     content: [
       {
         id: 'introduction',
@@ -2007,7 +2037,7 @@ Moins de voitures sur la route, c'est aussi moins d'émissions. Le covoiturage e
 **Découverte**
 Voyager avec d'autres libertins permet de découvrir des établissements qu'on n'aurait pas forcément choisis seul, comme les [spas libertins](/spa-libertin) ou les [hébergements libertins](/hebergement-libertin).`,
         image: {
-          src: '/images/libertin (4).jpg',
+          src: '/images/club-libertin-ambiance-4.jpg',
           alt: 'Avantages du covoiturage vers les clubs libertins'
         }
       },
@@ -2102,7 +2132,7 @@ Pour les [hébergements libertins](/hebergement-libertin) proposant des séjours
 
 Consultez notre annuaire complet pour trouver les établissements par [département](/departement/paris) ou [région](/region/ile-de-france).`,
         image: {
-          src: '/images/libertin (5).jpg',
+          src: '/images/club-libertin-ambiance-5.jpg',
           alt: 'Destinations populaires pour le covoiturage libertin'
         }
       },
