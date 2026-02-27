@@ -18,6 +18,7 @@ import {
 import ClubCard, { getImageIndexForClub } from '@/components/clubs/ClubCard';
 import AdvancedSearch from '@/components/home/AdvancedSearch';
 import { WebsiteJsonLd, OrganizationJsonLd } from '@/components/seo/JsonLd';
+import WyyldeBanner from '@/components/ui/WyyldeBanner';
 
 const TOTAL_IMAGES = 12;
 
@@ -149,6 +150,13 @@ export default async function HomePage() {
             </div>
           </section>
         )}
+
+        {/* Bannière partenaire Wyylde */}
+        <section className="py-8 md:py-12 bg-bg-primary">
+          <div className="container-custom">
+            <WyyldeBanner variant="leaderboard" />
+          </div>
+        </section>
 
         {/* Types d'établissements */}
         <section id="types" className="py-16 md:py-24 bg-bg-secondary">

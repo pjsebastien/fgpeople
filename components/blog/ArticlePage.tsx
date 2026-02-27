@@ -9,6 +9,7 @@ import type { BlogArticle } from '@/lib/types';
 import { getRelatedArticles } from '@/lib/data/blog';
 import Breadcrumb from '@/components/ui/Breadcrumb';
 import { BreadcrumbJsonLd, ArticleJsonLd } from '@/components/seo/JsonLd';
+import WyyldeBanner from '@/components/ui/WyyldeBanner';
 
 interface ArticlePageProps {
   article: BlogArticle;
@@ -206,6 +207,11 @@ export default function ArticlePage({ article }: ArticlePageProps) {
                 )}
               </section>
             ))}
+
+            {/* Bannière partenaire Wyylde */}
+            <div className="mb-12">
+              <WyyldeBanner variant="large" />
+            </div>
 
             {/* Section FAQ */}
             {article.faq.length > 0 && (

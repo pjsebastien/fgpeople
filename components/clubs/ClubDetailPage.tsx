@@ -11,6 +11,7 @@ import ClubList from '@/components/clubs/ClubList';
 import Breadcrumb from '@/components/ui/Breadcrumb';
 import LibertinCTA from '@/components/ui/LibertinCTA';
 import { BreadcrumbJsonLd, LocalBusinessJsonLd, FAQPageJsonLd } from '@/components/seo/JsonLd';
+import WyyldeBanner from '@/components/ui/WyyldeBanner';
 import { CLUB_IMAGES, getImageIndexForClub } from '@/components/clubs/ClubCard';
 
 interface ClubDetailPageProps {
@@ -528,6 +529,9 @@ export default function ClubDetailPage({ club, clubsProximite }: ClubDetailPageP
                   )}
                 </div>
               </div>
+
+              {/* Bannière partenaire Wyylde */}
+              <WyyldeBanner variant="sidebar" />
 
               {/* Navigation rapide */}
               <div className="bg-bg-secondary rounded-xl border border-border p-6">

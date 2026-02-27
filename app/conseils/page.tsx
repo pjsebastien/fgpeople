@@ -9,6 +9,7 @@ import Image from 'next/image';
 import { getAllArticles, getCategories } from '@/lib/data/blog';
 import Breadcrumb from '@/components/ui/Breadcrumb';
 import { BreadcrumbJsonLd } from '@/components/seo/JsonLd';
+import WyyldeBanner from '@/components/ui/WyyldeBanner';
 
 export const metadata: Metadata = {
   title: 'Conseils Libertins : Articles et Astuces | FG People',
@@ -127,6 +128,11 @@ export default async function ConseilsPage() {
                 </Link>
               </article>
             ))}
+          </div>
+
+          {/* Bannière partenaire Wyylde */}
+          <div className="mb-12">
+            <WyyldeBanner variant="leaderboard" />
           </div>
 
           {/* CTA vers l'annuaire */}
