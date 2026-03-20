@@ -28,7 +28,6 @@ import RelatedLinks from '@/components/navigation/RelatedLinks';
 import ArticlePage from '@/components/blog/ArticlePage';
 import ClubDetailPage from '@/components/clubs/ClubDetailPage';
 import { BreadcrumbJsonLd, ItemListJsonLd } from '@/components/seo/JsonLd';
-import WyyldeBanner from '@/components/ui/WyyldeBanner';
 
 export async function generateStaticParams() {
   // Combiner les slugs de types, articles ET clubs
@@ -194,11 +193,6 @@ export default async function DynamicPage({
                 </div>
               </div>
             </header>
-
-            {/* Bannière partenaire Wyylde */}
-            <div className="mb-8">
-              <WyyldeBanner variant="leaderboard" />
-            </div>
 
             {regionLinks.length > 0 && (
               <RelatedLinks
