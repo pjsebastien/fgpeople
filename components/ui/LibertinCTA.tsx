@@ -8,7 +8,7 @@ interface LibertinCTAProps {
   variant?: 'default' | 'compact';
 }
 
-const AFFILIATE_URL = 'https://k.related-dating.com/?abc=195e2ca4adfa68e9&xa=n&acme=wid.94576&media=seo&tpls=1&v=sexy';
+const AFFILIATE_URL = 'https://k.related-dating.com/?abc=7338b1b95caf2acd&xa=n&acme=wid.94576&media=seo&tpls=3';
 
 export default function LibertinCTA({ location, variant = 'default' }: LibertinCTAProps) {
   if (variant === 'compact') {
