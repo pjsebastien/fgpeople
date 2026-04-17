@@ -8,7 +8,7 @@ interface GayCTAProps {
   variant?: 'default' | 'compact';
 }
 
-const GAY_AFFILIATE_URL = 'https://k.related-dating.com/?abc=b9653873036f3fd1&xa=n&acme=wid.94576&media=seo&tpls=1';
+const GAY_AFFILIATE_URL = 'https://k.related-dating.com/?abc=b9653873036f3fd1&xa=n&acme=wid.94576&media=seo&tpls=4&v=sexy';
 
 export default function GayCTA({ location, variant = 'default' }: GayCTAProps) {
   if (variant === 'compact') {
