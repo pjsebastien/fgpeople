@@ -46,6 +46,16 @@ const blogLinks = [
   { href: '/decouvrir-les-differents-styles-dechangisme', label: 'Styles d\'échangisme' },
 ];
 
+// Liens lieux de drague
+const dragueLinks = [
+  { href: '/lieu-de-drague', label: 'Tous les lieux de drague' },
+  { href: '/lieu-de-drague/region/ile-de-france', label: 'Île-de-France' },
+  { href: '/lieu-de-drague/region/auvergne-rhone-alpes', label: 'Auvergne-Rhône-Alpes' },
+  { href: '/lieu-de-drague/region/provence-alpes-cote-d-azur', label: 'PACA' },
+  { href: '/lieu-de-drague/ville/paris', label: 'Paris' },
+  { href: '/lieu-de-drague/ville/marseille', label: 'Marseille' },
+];
+
 export default function Footer() {
   const currentYear = new Date().getFullYear();
 
@@ -53,7 +63,7 @@ export default function Footer() {
     <footer className="border-t border-border bg-bg-secondary" role="contentinfo">
       <div className="container-custom py-12 md:py-16">
         {/* ====== GRILLE PRINCIPALE ====== */}
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-8 lg:gap-12">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-6 gap-8 lg:gap-10">
           {/* ====== COLONNE 1: À PROPOS ====== */}
           <div className="lg:col-span-1">
             <Link href="/" className="inline-flex items-baseline mb-4">
@@ -91,6 +101,23 @@ export default function Footer() {
             <h3 className="text-text-primary font-semibold mb-4">Par ville</h3>
             <ul className="space-y-2">
               {cityLinks.map((link) => (
+                <li key={link.href}>
+                  <Link
+                    href={link.href}
+                    className="text-text-secondary text-sm hover:text-accent-primary transition-colors"
+                  >
+                    {link.label}
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </div>
+
+          {/* ====== COLONNE: LIEUX DE DRAGUE ====== */}
+          <div>
+            <h3 className="text-text-primary font-semibold mb-4">Lieux de drague</h3>
+            <ul className="space-y-2">
+              {dragueLinks.map((link) => (
                 <li key={link.href}>
                   <Link
                     href={link.href}

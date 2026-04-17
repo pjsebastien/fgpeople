@@ -151,6 +151,14 @@ export default function DesktopNav({ regions, departements, typeCategories }: De
         Étranger
       </Link>
 
+      {/* Lieux de drague */}
+      <Link
+        href="/lieu-de-drague"
+        className="px-4 py-2 text-sm font-medium text-text-secondary hover:text-accent-primary transition-colors rounded-lg hover:bg-bg-secondary"
+      >
+        Lieux de drague
+      </Link>
+
       {/* Conseils */}
       <Link
         href="/conseils"

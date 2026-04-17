@@ -10,6 +10,7 @@ import Footer from '@/components/layout/Footer';
 import AgeVerification from '@/components/ui/AgeVerification';
 import CookieBanner from '@/components/ui/CookieBanner';
 import FloatingCTA from '@/components/ui/FloatingCTA';
+import DelayedPopup from '@/components/ui/DelayedPopup';
 
 const inter = Inter({
   subsets: ['latin'],
@@ -94,6 +95,7 @@ export default function RootLayout({
         <Footer />
         <CookieBanner />
         <FloatingCTA />
+        <DelayedPopup />
       </body>
     </html>
   );

@@ -20,6 +20,11 @@ import {
   getVillesByType,
 } from '@/lib/data/clubs';
 import { getAllArticleSlugs } from '@/lib/data/blog';
+import {
+  getAllDragueRegions,
+  getAllDragueDepartements,
+  getAllDragueVilles,
+} from '@/lib/data/dragues';
 
 // Date dynamique : utilise la date de build pour que Google voie le site comme actif
 const BUILD_DATE = new Date();
@@ -38,6 +43,7 @@ export async function generateSitemaps() {
     { id: 1 }, // Pages géographiques : départements, villes (filtrées)
     { id: 2 }, // Pages combinées : type+région, type+département, type+ville (filtrées)
     { id: 3 }, // Pages individuelles : fiches clubs
+    { id: 4 }, // Section "Lieux de drague" : hub + régions + départements + villes
   ];
 }
 
@@ -237,6 +243,50 @@ export default async function sitemap({
         changeFrequency: 'monthly' as const,
         priority: 0.6,
       }));
+    }
+
+    // ================================================
+    // SITEMAP 4 : Section "Lieux de drague"
+    // ================================================
+    case 4: {
+      const [dragueRegions, dragueDepts, dragueVilles] = await Promise.all([
+        getAllDragueRegions(),
+        getAllDragueDepartements(),
+        getAllDragueVilles(),
+      ]);
+
+      const hubPage: MetadataRoute.Sitemap = [
+        {
+          url: `${baseUrl}/lieu-de-drague`,
+          lastModified: BUILD_DATE,
+          changeFrequency: 'weekly',
+          priority: 0.8,
+        },
+      ];
+
+      const regionPages: MetadataRoute.Sitemap = dragueRegions.map((r) => ({
+        url: `${baseUrl}/lieu-de-drague/region/${r.slug}`,
+        lastModified: BUILD_DATE,
+        changeFrequency: 'weekly' as const,
+        priority: 0.7,
+      }));
+
+      const deptPages: MetadataRoute.Sitemap = dragueDepts.map((d) => ({
+        url: `${baseUrl}/lieu-de-drague/departement/${d.slug}`,
+        lastModified: BUILD_DATE,
+        changeFrequency: 'weekly' as const,
+        priority: 0.6,
+      }));
+
+      // Filtre les villes : on indexe celles avec >= 1 lieu (toutes celles présentes)
+      const villePages: MetadataRoute.Sitemap = dragueVilles.map((v) => ({
+        url: `${baseUrl}/lieu-de-drague/ville/${v.slug}`,
+        lastModified: BUILD_DATE,
+        changeFrequency: 'weekly' as const,
+        priority: 0.5,
+      }));
+
+      return [...hubPage, ...regionPages, ...deptPages, ...villePages];
     }
 
     default:

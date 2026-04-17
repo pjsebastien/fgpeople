@@ -188,6 +188,13 @@ export default function MobileMenu({ regions, departements, typeCategories }: Mo
               </Link>
             </div>
 
+            {/* Lieux de drague */}
+            <div className="border-t border-[#2a2a2a] pt-4">
+              <Link href="/lieu-de-drague" className="block px-4 py-3 rounded-lg text-base font-medium text-gray-400 hover:bg-[#1a1a1a] hover:text-white">
+                Lieux de drague
+              </Link>
+            </div>
+
             {/* Conseils */}
             <div className="border-t border-[#2a2a2a] pt-4">
               <Link href="/conseils" className="block px-4 py-3 rounded-lg text-base font-medium text-gray-400 hover:bg-[#1a1a1a] hover:text-white">

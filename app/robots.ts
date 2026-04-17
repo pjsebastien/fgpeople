@@ -17,6 +17,7 @@ export default function robots(): MetadataRoute.Robots {
       'https://www.fgpeople.com/sitemap/1.xml',
       'https://www.fgpeople.com/sitemap/2.xml',
       'https://www.fgpeople.com/sitemap/3.xml',
+      'https://www.fgpeople.com/sitemap/4.xml',
     ],
   };
 }
