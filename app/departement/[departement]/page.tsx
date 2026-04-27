@@ -17,7 +17,8 @@ import SearchFilters from '@/components/clubs/SearchFilters';
 import Breadcrumb from '@/components/ui/Breadcrumb';
 import RelatedLinks from '@/components/navigation/RelatedLinks';
 import LibertinCTA from '@/components/ui/LibertinCTA';
-import { BreadcrumbJsonLd, ItemListJsonLd } from '@/components/seo/JsonLd';
+import { BreadcrumbJsonLd, ItemListJsonLd, FAQPageJsonLd } from '@/components/seo/JsonLd';
+import { generateDeptIntroRich, generateDeptFAQ, currentYear } from '@/lib/utils/location-seo';
 
 export async function generateStaticParams() {
   const slugs = await getAllDepartementSlugs();
@@ -36,8 +37,9 @@ export async function generateMetadata({
     return { title: 'Département non trouvé' };
   }
 
-  const title = `Club libertin ${deptData.nom} (${deptData.code}) : ${deptData.clubCount} établissements`;
-  const description = `Découvrez ${deptData.clubCount} clubs libertins et échangistes dans le ${deptData.nom} (${deptData.code}). Liste complète par ville avec adresses, horaires et tarifs.`;
+  const year = currentYear();
+  const title = `Club libertin ${deptData.nom} (${deptData.code}) : ${deptData.clubCount} établissement${deptData.clubCount > 1 ? 's' : ''} en ${year}`;
+  const description = `Annuaire ${year} : ${deptData.clubCount} club${deptData.clubCount > 1 ? 's' : ''} libertin${deptData.clubCount > 1 ? 's' : ''} et échangiste${deptData.clubCount > 1 ? 's' : ''} dans le ${deptData.nom} (${deptData.code}). Par ville, adresses, horaires et tarifs.`;
 
   return {
     title,
@@ -50,10 +52,6 @@ export async function generateMetadata({
       type: 'website',
       images: [{ url: '/images/og-image.jpg', width: 1200, height: 630, alt: `Clubs libertins dans le ${deptData.nom}` }],
     },
-    // Noindex pour les départements avec très peu de clubs
-    ...(deptData.clubCount <= 1 && {
-      robots: { index: false, follow: true },
-    }),
   };
 }
 
@@ -82,6 +80,9 @@ export default async function DepartementPage({
     { name: `${deptData.nom} (${deptData.code})`, url: `/departement/${deptData.slug}` },
   ];
 
+  const introRich = generateDeptIntroRich(deptData.nom, deptData.code, deptData.region, deptData.clubCount, villes.length, deptData.slug);
+  const faq = generateDeptFAQ(deptData.nom, deptData.clubCount, deptData.slug, 7);
+
   return (
     <>
       <BreadcrumbJsonLd items={breadcrumbItems} />
@@ -92,6 +93,7 @@ export default async function DepartementPage({
           description={`Liste des ${deptData.clubCount} clubs libertins dans le ${deptData.nom} (${deptData.code})`}
         />
       )}
+      <FAQPageJsonLd faq={faq} />
 
       <main className="py-8 md:py-12">
         <div className="container-custom">
@@ -102,9 +104,8 @@ export default async function DepartementPage({
               Club libertin {deptData.nom}
               <span className="text-accent-primary ml-2">({deptData.code})</span>
             </h1>
-            <p className="text-text-secondary text-lg max-w-3xl">
-              Découvrez {deptData.clubCount} clubs libertins et échangistes dans le {deptData.nom},
-              en {deptData.region}. Parcourez par ville ou explorez tous les clubs du département.
+            <p className="text-text-secondary text-lg max-w-3xl leading-relaxed">
+              {introRich}
             </p>
           </header>
 
@@ -170,6 +171,28 @@ export default async function DepartementPage({
               variant="grid"
             />
           )}
+
+          {/* FAQ */}
+          <section className="my-12 bg-bg-secondary rounded-2xl border border-border p-6 md:p-8">
+            <h2 className="text-2xl font-bold text-text-primary mb-6">
+              Questions fréquentes — {deptData.nom} ({deptData.code})
+            </h2>
+            <div className="space-y-3">
+              {faq.map((q, i) => (
+                <details key={i} className="group bg-bg-tertiary rounded-lg border border-border">
+                  <summary className="flex items-center justify-between p-4 cursor-pointer list-none">
+                    <h3 className="text-text-primary font-medium pr-4">{q.question}</h3>
+                    <svg className="w-5 h-5 text-text-muted transition-transform group-open:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+                    </svg>
+                  </summary>
+                  <div className="px-4 pb-4">
+                    <p className="text-text-secondary leading-relaxed">{q.answer}</p>
+                  </div>
+                </details>
+              ))}
+            </div>
+          </section>
 
           {/* Lien retour */}
           <div className="mt-8 flex flex-wrap gap-4">

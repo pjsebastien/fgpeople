@@ -30,8 +30,10 @@ import {
 const BUILD_DATE = new Date();
 
 // Seuil minimum de clubs pour inclure une page dans le sitemap
-const MIN_CLUBS_FOR_INDEX = 2; // villes/départements avec <= 1 club sont noindex
-const MIN_CLUBS_TYPE_COMBO = 2; // pages type+lieu avec < 2 clubs exclues du sitemap
+// Depuis l'enrichissement SEO des pages "thin content", on inclut toutes les pages
+// avec >= 1 club (contenu enrichi via FAQ, intros variantes et maillage interne)
+const MIN_CLUBS_FOR_INDEX = 1;
+const MIN_CLUBS_TYPE_COMBO = 1;
 
 /**
  * Génère un index de sitemaps divisé par catégorie

@@ -18,7 +18,8 @@ import ClubList from '@/components/clubs/ClubList';
 import Breadcrumb from '@/components/ui/Breadcrumb';
 import RelatedLinks from '@/components/navigation/RelatedLinks';
 import LibertinCTA from '@/components/ui/LibertinCTA';
-import { BreadcrumbJsonLd, ItemListJsonLd } from '@/components/seo/JsonLd';
+import { BreadcrumbJsonLd, ItemListJsonLd, FAQPageJsonLd } from '@/components/seo/JsonLd';
+import { generateDeptIntroRich, generateDeptFAQ, currentYear } from '@/lib/utils/location-seo';
 
 export async function generateStaticParams() {
   return getTypeDepartementParams();
@@ -39,15 +40,15 @@ export async function generateMetadata({
 
   const clubs = await getClubsByTypeAndDepartement(category.slug, departement);
 
-  const title = `${category.seoTitle} ${deptData.nom} (${deptData.code}) : ${clubs.length} établissements`;
-  const description = `Découvrez ${clubs.length} ${category.seoTitle.toLowerCase()}s dans le ${deptData.nom} (${deptData.code}). Liste complète par ville avec adresses, horaires et tarifs.`;
+  const year = currentYear();
+  const title = `${category.seoTitle} ${deptData.nom} (${deptData.code}) : ${clubs.length} établissement${clubs.length > 1 ? 's' : ''} en ${year}`;
+  const description = `Annuaire ${year} des ${clubs.length} ${category.seoTitle.toLowerCase()}${clubs.length > 1 ? 's' : ''} dans le ${deptData.nom} (${deptData.code}). Par ville, adresses, horaires et tarifs.`;
 
   return {
     title,
     description,
     alternates: { canonical: `/${category.urlSlug}/departement/${deptData.slug}` },
     openGraph: { title, description, url: `/${category.urlSlug}/departement/${deptData.slug}`, type: 'website', images: [{ url: '/images/og-image.jpg', width: 1200, height: 630, alt: `${category.seoTitle} dans le ${deptData.nom}` }] },
-    ...(clubs.length <= 1 && { robots: { index: false, follow: true } }),
   };
 }
 
@@ -100,6 +101,11 @@ export default async function TypeDepartementPage({
       count: d.clubCount,
     }));
 
+  // Contenu SEO enrichi (anti thin-content)
+  const introRich = generateDeptIntroRich(deptData.nom, deptData.code, deptData.region, clubs.length, villes.length, `${category.slug}-${deptData.slug}`);
+  const faq = generateDeptFAQ(deptData.nom, clubs.length, `${category.slug}-${deptData.slug}`, 6);
+  // (location=nom du dept seulement pour que la FAQ parle bien du département)
+
   return (
     <>
       <BreadcrumbJsonLd items={breadcrumbItems} />
@@ -108,6 +114,7 @@ export default async function TypeDepartementPage({
         name={`${category.seoTitle} dans le ${deptData.nom}`}
         description={`Liste des ${clubs.length} ${category.seoTitle.toLowerCase()}s dans le ${deptData.nom} (${deptData.code})`}
       />
+      <FAQPageJsonLd faq={faq} />
 
       <main className="py-8 md:py-12">
         <div className="container-custom">
@@ -118,9 +125,8 @@ export default async function TypeDepartementPage({
               {category.seoTitle} {deptData.nom}
               <span className="text-accent-primary ml-2">({deptData.code})</span>
             </h1>
-            <p className="text-text-secondary text-lg max-w-3xl">
-              Découvrez {clubs.length} {category.seoTitle.toLowerCase()}s dans le {deptData.nom},
-              en {deptData.region}. Parcourez par ville ou explorez tous les établissements du département.
+            <p className="text-text-secondary text-lg max-w-3xl leading-relaxed">
+              {introRich}
             </p>
           </header>
 
@@ -169,6 +175,28 @@ export default async function TypeDepartementPage({
               variant="grid"
             />
           )}
+
+          {/* FAQ */}
+          <section className="my-12 bg-bg-secondary rounded-2xl border border-border p-6 md:p-8">
+            <h2 className="text-2xl font-bold text-text-primary mb-6">
+              Questions fréquentes — {category.labelPlural} dans le {deptData.nom}
+            </h2>
+            <div className="space-y-3">
+              {faq.map((q, i) => (
+                <details key={i} className="group bg-bg-tertiary rounded-lg border border-border">
+                  <summary className="flex items-center justify-between p-4 cursor-pointer list-none">
+                    <h3 className="text-text-primary font-medium pr-4">{q.question}</h3>
+                    <svg className="w-5 h-5 text-text-muted transition-transform group-open:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+                    </svg>
+                  </summary>
+                  <div className="px-4 pb-4">
+                    <p className="text-text-secondary leading-relaxed">{q.answer}</p>
+                  </div>
+                </details>
+              ))}
+            </div>
+          </section>
 
           {/* Liens retour */}
           <div className="mt-8 flex flex-wrap gap-4">
