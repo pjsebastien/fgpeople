@@ -13,6 +13,9 @@ import {
   getRelatedDragueDepartements,
   getLieuxByDepartement,
 } from '@/lib/data/dragues';
+import { getReviewsForLieux } from '@/lib/data/reviews';
+
+export const revalidate = 300;
 import {
   generateDragueDeptIntro,
   generateDragueFAQ,
@@ -79,6 +82,7 @@ export default async function DragueDeptPage({
     getLieuxByDepartement(d.slug),
     getRelatedDragueDepartements(d.regionSlug, d.slug, 8),
   ]);
+  const reviewsByLieuId = await getReviewsForLieux(lieux.map((l) => l.id));
 
   // Stats par type pour ce département
   const typeStats = new Map<string, number>();
@@ -103,6 +107,7 @@ export default async function DragueDeptPage({
         lieux={lieux}
         name={`Lieux de drague en ${d.nom} (${d.code}) — ${currentYear()}`}
         description={dragueDeptMeta(d.nom, d.code, d.lieuCount, d.villeSlugs.length)}
+        reviewsByLieuId={reviewsByLieuId}
       />
       <DragueFAQJsonLd faq={faq} />
 
@@ -184,7 +189,7 @@ export default async function DragueDeptPage({
             <h2 className="text-2xl font-bold text-text-primary mb-6">
               Tous les lieux de drague en {d.nom}
             </h2>
-            <DragueFilters lieux={lieux} showVilleFilter={villes.length > 1} defaultOpenCount={3} />
+            <DragueFilters lieux={lieux} showVilleFilter={villes.length > 1} defaultOpenCount={3} reviewsByLieuId={reviewsByLieuId} />
           </section>
 
           {/* Autres départements */}

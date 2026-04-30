@@ -9,16 +9,18 @@ import { useMemo, useState } from 'react';
 import LieuDragueCard from './LieuDragueCard';
 import { avoidAdjacentDuplicateImages } from '@/lib/data/dragues';
 import type { LieuDrague, DragueTypeSlug, DragueOrientation, DragueAffluenceNiveau } from '@/lib/types/drague';
+import type { ReviewsByLieuId } from '@/lib/types/reviews';
 
 interface DragueFiltersProps {
   lieux: LieuDrague[];
   showVilleFilter?: boolean;
   defaultOpenCount?: number;
+  reviewsByLieuId?: ReviewsByLieuId;
 }
 
 type SortKey = 'name-asc' | 'affluence-desc' | 'ville-asc';
 
-export default function DragueFilters({ lieux, showVilleFilter = false, defaultOpenCount = 3 }: DragueFiltersProps) {
+export default function DragueFilters({ lieux, showVilleFilter = false, defaultOpenCount = 3, reviewsByLieuId }: DragueFiltersProps) {
   const [typeFilter, setTypeFilter] = useState<DragueTypeSlug | 'all'>('all');
   const [orientationFilter, setOrientationFilter] = useState<DragueOrientation | 'all'>('all');
   const [affluenceFilter, setAffluenceFilter] = useState<DragueAffluenceNiveau | 'all'>('all');
@@ -188,7 +190,12 @@ export default function DragueFilters({ lieux, showVilleFilter = false, defaultO
       ) : (
         <div className="space-y-3">
           {filtered.map((lieu, index) => (
-            <LieuDragueCard key={lieu.id} lieu={lieu} defaultOpen={index < defaultOpenCount} />
+            <LieuDragueCard
+              key={lieu.id}
+              lieu={lieu}
+              defaultOpen={index < defaultOpenCount}
+              reviewsBundle={reviewsByLieuId?.[lieu.id]}
+            />
           ))}
         </div>
       )}

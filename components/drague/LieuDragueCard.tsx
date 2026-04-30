@@ -5,11 +5,20 @@
 
 import Image from 'next/image';
 import type { LieuDrague } from '@/lib/types/drague';
+import type { LieuReviewsBundle } from '@/lib/types/reviews';
+import ReviewSummary from '@/components/reviews/ReviewSummary';
+import LieuReviews from '@/components/reviews/LieuReviews';
 
 interface LieuDragueCardProps {
   lieu: LieuDrague;
   defaultOpen?: boolean;
+  reviewsBundle?: LieuReviewsBundle;
 }
+
+const EMPTY_BUNDLE: LieuReviewsBundle = {
+  aggregate: { count: 0, average: 0 },
+  reviews: [],
+};
 
 const ORIENTATION_LABELS: Record<string, { label: string; color: string }> = {
   gay: { label: 'Gay', color: 'bg-purple-500/20 text-purple-300 border-purple-500/30' },
@@ -35,11 +44,18 @@ const DISCRETION_LABELS: Record<string, string> = {
   expose: 'Lieu exposé',
 };
 
-export default function LieuDragueCard({ lieu, defaultOpen = false }: LieuDragueCardProps) {
+export default function LieuDragueCard({
+  lieu,
+  defaultOpen = false,
+  reviewsBundle,
+}: LieuDragueCardProps) {
+  const bundle = reviewsBundle || EMPTY_BUNDLE;
   return (
     <details
       open={defaultOpen}
       className="group bg-bg-secondary rounded-xl border border-border overflow-hidden hover:border-accent-primary/40 transition-colors"
+      itemScope
+      itemType="https://schema.org/Place"
     >
       <summary className="cursor-pointer list-none p-4 sm:p-5">
         <div className="flex items-start gap-4">
@@ -58,12 +74,35 @@ export default function LieuDragueCard({ lieu, defaultOpen = false }: LieuDrague
           <div className="flex-1 min-w-0">
             <div className="flex items-start justify-between gap-2 flex-wrap">
               <div className="min-w-0">
-                <h3 className="text-lg font-bold text-text-primary truncate">
+                <h3 className="text-lg font-bold text-text-primary truncate" itemProp="name">
                   {lieu.nom}
                 </h3>
                 <p className="text-text-secondary text-sm">
                   {lieu.typeLabel} · {lieu.localisation.ville} ({lieu.localisation.departement_code})
                 </p>
+                {/* Note moyenne (visible même quand la carte est repliée) */}
+                <div className="mt-1.5">
+                  {bundle.aggregate.count > 0 ? (
+                    <div
+                      itemProp="aggregateRating"
+                      itemScope
+                      itemType="https://schema.org/AggregateRating"
+                    >
+                      <meta itemProp="ratingValue" content={String(bundle.aggregate.average)} />
+                      <meta itemProp="reviewCount" content={String(bundle.aggregate.count)} />
+                      <meta itemProp="bestRating" content="5" />
+                      <meta itemProp="worstRating" content="1" />
+                      <ReviewSummary aggregate={bundle.aggregate} variant="inline" size={14} />
+                    </div>
+                  ) : (
+                    <ReviewSummary
+                      aggregate={bundle.aggregate}
+                      variant="inline"
+                      size={14}
+                      emptyLabel="Pas encore d'avis — sois le premier"
+                    />
+                  )}
+                </div>
               </div>
               <svg
                 className="w-5 h-5 text-text-muted transition-transform group-open:rotate-180 flex-shrink-0 mt-1"
@@ -235,6 +274,15 @@ export default function LieuDragueCard({ lieu, defaultOpen = false }: LieuDrague
             <p className="text-text-secondary text-sm italic">{lieu.notes_contextuelles}</p>
           </div>
         )}
+
+        {/* Avis utilisateurs */}
+        <LieuReviews
+          lieuId={lieu.id}
+          lieuSlug={lieu.slug}
+          villeSlug={lieu.localisation.villeSlug}
+          lieuName={lieu.nom}
+          bundle={bundle}
+        />
 
         {/* Confiance des données */}
         {lieu.confiance_donnees && (

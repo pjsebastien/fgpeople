@@ -6,15 +6,23 @@
 import LieuDragueCard from './LieuDragueCard';
 import { avoidAdjacentDuplicateImages } from '@/lib/data/dragues';
 import type { LieuDrague } from '@/lib/types/drague';
+import type { ReviewsByLieuId } from '@/lib/types/reviews';
 
 interface DragueListProps {
   lieux: LieuDrague[];
   title?: string;
   subtitle?: string;
   defaultOpenCount?: number; // nb de cartes ouvertes par défaut (pour SEO)
+  reviewsByLieuId?: ReviewsByLieuId;
 }
 
-export default function DragueList({ lieux, title, subtitle, defaultOpenCount = 3 }: DragueListProps) {
+export default function DragueList({
+  lieux,
+  title,
+  subtitle,
+  defaultOpenCount = 3,
+  reviewsByLieuId,
+}: DragueListProps) {
   if (lieux.length === 0) {
     return (
       <div className="text-center py-12 bg-bg-secondary rounded-xl border border-border">
@@ -36,7 +44,12 @@ export default function DragueList({ lieux, title, subtitle, defaultOpenCount = 
       )}
       <div className="space-y-3">
         {ordered.map((lieu, index) => (
-          <LieuDragueCard key={lieu.id} lieu={lieu} defaultOpen={index < defaultOpenCount} />
+          <LieuDragueCard
+            key={lieu.id}
+            lieu={lieu}
+            defaultOpen={index < defaultOpenCount}
+            reviewsBundle={reviewsByLieuId?.[lieu.id]}
+          />
         ))}
       </div>
     </section>

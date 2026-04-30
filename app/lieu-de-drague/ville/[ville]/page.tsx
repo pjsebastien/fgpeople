@@ -12,6 +12,10 @@ import {
   getRelatedDragueVilles,
   getLieuxByVille,
 } from '@/lib/data/dragues';
+import { getReviewsForLieux } from '@/lib/data/reviews';
+
+// ISR : ré-rend la page au max toutes les 5 min, et à la demande quand un avis est modéré.
+export const revalidate = 300;
 import {
   generateDragueVilleIntro,
   generateDragueFAQ,
@@ -78,6 +82,7 @@ export default async function DragueVillePage({
     getLieuxByVille(v.slug),
     getRelatedDragueVilles(v.departementSlug, v.slug, 8),
   ]);
+  const reviewsByLieuId = await getReviewsForLieux(lieux.map((l) => l.id));
 
   // Stats par type
   const typeStats = new Map<string, number>();
@@ -103,6 +108,7 @@ export default async function DragueVillePage({
         lieux={lieux}
         name={`Lieux de drague à ${v.nom} — ${currentYear()}`}
         description={dragueVilleMeta(v.nom, v.lieuCount, v.departement)}
+        reviewsByLieuId={reviewsByLieuId}
       />
       <DragueFAQJsonLd faq={faq} />
 
@@ -159,7 +165,7 @@ export default async function DragueVillePage({
                 <h2 className="text-2xl font-bold text-text-primary mb-6">
                   Tous les lieux de drague à {v.nom}
                 </h2>
-                <DragueFilters lieux={lieux} defaultOpenCount={3} />
+                <DragueFilters lieux={lieux} defaultOpenCount={3} reviewsByLieuId={reviewsByLieuId} />
               </>
             ) : (
               <DragueList
@@ -167,6 +173,7 @@ export default async function DragueVillePage({
                 title={`Lieux de drague à ${v.nom}`}
                 subtitle={`${v.lieuCount} spot${v.lieuCount > 1 ? 's' : ''} référencé${v.lieuCount > 1 ? 's' : ''} dans la commune`}
                 defaultOpenCount={Math.min(lieux.length, 5)}
+                reviewsByLieuId={reviewsByLieuId}
               />
             )}
           </section>

@@ -4,6 +4,7 @@
  */
 
 import type { LieuDrague, FAQItem } from '@/lib/types/drague';
+import type { ReviewsByLieuId } from '@/lib/types/reviews';
 
 const BASE_URL = 'https://www.fgpeople.com';
 
@@ -42,9 +43,16 @@ interface DraguePlaceListJsonLdProps {
   lieux: LieuDrague[];
   name: string;
   description?: string;
+  /** Avis indexés par lieu_id pour enrichir avec AggregateRating + Review */
+  reviewsByLieuId?: ReviewsByLieuId;
 }
 
-export function DraguePlaceListJsonLd({ lieux, name, description }: DraguePlaceListJsonLdProps) {
+export function DraguePlaceListJsonLd({
+  lieux,
+  name,
+  description,
+  reviewsByLieuId,
+}: DraguePlaceListJsonLdProps) {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'ItemList',
@@ -70,6 +78,32 @@ export function DraguePlaceListJsonLd({ lieux, name, description }: DraguePlaceL
           latitude: l.localisation.latitude,
           longitude: l.localisation.longitude,
         };
+      }
+      // AggregateRating + Review (5 derniers max) si avis disponibles
+      const bundle = reviewsByLieuId?.[l.id];
+      if (bundle && bundle.aggregate.count > 0) {
+        place.aggregateRating = {
+          '@type': 'AggregateRating',
+          ratingValue: bundle.aggregate.average,
+          reviewCount: bundle.aggregate.count,
+          bestRating: 5,
+          worstRating: 1,
+        };
+        place.review = bundle.reviews.slice(0, 5).map((r) => ({
+          '@type': 'Review',
+          author: {
+            '@type': 'Person',
+            name: r.pseudo || 'Anonyme',
+          },
+          datePublished: r.created_at.slice(0, 10),
+          reviewRating: {
+            '@type': 'Rating',
+            ratingValue: r.rating,
+            bestRating: 5,
+            worstRating: 1,
+          },
+          reviewBody: r.comment.slice(0, 500),
+        }));
       }
       return {
         '@type': 'ListItem',
