@@ -4,6 +4,7 @@
  */
 
 import type { Club } from '@/lib/types';
+import type { ReviewsByEntityId } from '@/lib/types/reviews';
 import ClubCard, { getImageIndexForClub } from './ClubCard';
 
 const TOTAL_IMAGES = 12;
@@ -15,6 +16,7 @@ interface ClubListProps {
   showCount?: boolean;
   columns?: 2 | 3 | 4;
   emptyMessage?: string;
+  reviewsByClubId?: ReviewsByEntityId;
 }
 
 // Calcule les indices d'images pour éviter les répétitions adjacentes
@@ -65,6 +67,7 @@ export default function ClubList({
   showCount = true,
   columns = 3,
   emptyMessage = 'Aucun club trouvé dans cette catégorie.',
+  reviewsByClubId,
 }: ClubListProps) {
   const gridCols = {
     2: 'grid-cols-1 md:grid-cols-2',
@@ -105,7 +108,12 @@ export default function ClubList({
 
       <div className={`grid ${gridCols[columns]} gap-6`}>
         {clubs.map((club, index) => (
-          <ClubCard key={club.id} club={club} imageIndex={imageIndices[index]} />
+          <ClubCard
+            key={club.id}
+            club={club}
+            imageIndex={imageIndices[index]}
+            reviewsBundle={reviewsByClubId?.[club.id]}
+          />
         ))}
       </div>
     </section>

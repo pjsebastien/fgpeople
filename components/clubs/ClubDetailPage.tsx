@@ -6,16 +6,20 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import type { Club } from '@/lib/types';
+import type { LieuReviewsBundle } from '@/lib/types/reviews';
 import { generateTipsForFirstTime, generateEtiquetteRules, generateReview } from '@/lib/utils/seo-content';
 import ClubList from '@/components/clubs/ClubList';
 import Breadcrumb from '@/components/ui/Breadcrumb';
 import LibertinCTA from '@/components/ui/LibertinCTA';
 import { BreadcrumbJsonLd, LocalBusinessJsonLd, FAQPageJsonLd } from '@/components/seo/JsonLd';
 import { CLUB_IMAGES, getImageIndexForClub } from '@/components/clubs/ClubCard';
+import EntityReviewsSection from '@/components/reviews/EntityReviewsSection';
+import ReviewSummary from '@/components/reviews/ReviewSummary';
 
 interface ClubDetailPageProps {
   club: Club;
   clubsProximite: Club[];
+  reviewsBundle?: LieuReviewsBundle;
 }
 
 // Génère un tableau d'indices d'images pour la galerie (4 images différentes)
@@ -31,7 +35,14 @@ function getGalleryImagesForClub(clubName: string): string[] {
   return images;
 }
 
-export default function ClubDetailPage({ club, clubsProximite }: ClubDetailPageProps) {
+const EMPTY_BUNDLE: LieuReviewsBundle = {
+  aggregate: { count: 0, average: 0 },
+  reviews: [],
+  tagStats: {},
+};
+
+export default function ClubDetailPage({ club, clubsProximite, reviewsBundle }: ClubDetailPageProps) {
+  const bundle = reviewsBundle || EMPTY_BUNDLE;
   const tips = generateTipsForFirstTime();
   const etiquette = generateEtiquetteRules();
   const galleryImages = getGalleryImagesForClub(club.nom);
@@ -62,7 +73,7 @@ export default function ClubDetailPage({ club, clubsProximite }: ClubDetailPageP
   return (
     <>
       <BreadcrumbJsonLd items={breadcrumbItems} />
-      <LocalBusinessJsonLd club={club} />
+      <LocalBusinessJsonLd club={club} reviewsBundle={bundle} />
       <FAQPageJsonLd faq={club.seo.faq} />
 
       <main className="py-8 md:py-12">
@@ -124,6 +135,22 @@ export default function ClubDetailPage({ club, clubsProximite }: ClubDetailPageP
                 ))}
               </div>
             )}
+
+            {/* Note moyenne (visible en haut de page) */}
+            <div className="mt-4">
+              {bundle.aggregate.count > 0 ? (
+                <a href="#avis" className="inline-flex items-center hover:opacity-80 transition-opacity">
+                  <ReviewSummary aggregate={bundle.aggregate} variant="inline" size={16} />
+                </a>
+              ) : (
+                <a href="#avis" className="inline-flex items-center gap-1.5 text-sm text-accent-primary hover:underline">
+                  <svg className="w-4 h-4" viewBox="0 0 20 20" aria-hidden="true">
+                    <path d="M10 1.5l2.6 5.27 5.81.84-4.2 4.1.99 5.79L10 14.77l-5.2 2.73.99-5.79-4.2-4.1 5.81-.84L10 1.5z" fill="none" stroke="currentColor" strokeWidth="1.5" />
+                  </svg>
+                  Donne ton avis (anonyme, sans inscription)
+                </a>
+              )}
+            </div>
           </header>
 
           {/* Galerie d'images */}
@@ -598,6 +625,18 @@ export default function ClubDetailPage({ club, clubsProximite }: ClubDetailPageP
               )}
             </aside>
           </div>
+
+          {/* Avis utilisateurs (mise en avant) */}
+          <section className="mt-16 pt-12 border-t border-border">
+            <EntityReviewsSection
+              entityType="club"
+              entityId={club.id}
+              entitySlug={club.slug}
+              villeSlug={club.villeSlug}
+              entityName={club.nom}
+              bundle={bundle}
+            />
+          </section>
 
           {/* Clubs à proximité */}
           {clubsProximite.length > 0 && (

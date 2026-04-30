@@ -14,6 +14,9 @@ import {
   getDepartementsByTypeAndRegion,
   getRegionsByType,
 } from '@/lib/data/clubs';
+import { getReviewsForClubs } from '@/lib/data/reviews';
+
+export const revalidate = 300;
 import ClubList from '@/components/clubs/ClubList';
 import Breadcrumb from '@/components/ui/Breadcrumb';
 import RelatedLinks from '@/components/navigation/RelatedLinks';
@@ -69,6 +72,7 @@ export default async function TypeRegionPage({
     getDepartementsByTypeAndRegion(category.slug, region),
     getRegionsByType(category.slug),
   ]);
+  const reviewsByClubId = await getReviewsForClubs(clubs.map((c) => c.id));
 
   if (clubs.length === 0) {
     notFound();
@@ -157,6 +161,7 @@ export default async function TypeRegionPage({
             clubs={clubs}
             title={`Tous les ${category.labelPlural.toLowerCase()} en ${regionData.nom}`}
             columns={3}
+            reviewsByClubId={reviewsByClubId}
           />
 
           {/* Autres régions */}

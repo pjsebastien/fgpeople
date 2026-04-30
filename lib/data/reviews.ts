@@ -10,9 +10,11 @@ import { createClient, type SupabaseClient } from '@supabase/supabase-js';
 import type {
   Review,
   ReviewStatus,
-  ReviewAggregate,
+  EntityType,
   LieuReviewsBundle,
   ReviewsByLieuId,
+  TagStats,
+  TagCount,
 } from '../types/reviews';
 
 let _client: SupabaseClient | null = null;
@@ -40,42 +42,71 @@ export function isReviewsEnabled(): boolean {
 const EMPTY_BUNDLE: LieuReviewsBundle = {
   aggregate: { count: 0, average: 0 },
   reviews: [],
+  tagStats: {},
 };
 
+const REVIEW_COLUMNS =
+  'id, lieu_id, lieu_slug, ville_slug, entity_type, tags, pseudo, rating, comment, status, created_at, approved_at';
+
 // ============================================
-// REQUÊTES PUBLIQUES (utilisées par les pages)
+// REQUÊTES PUBLIQUES
 // ============================================
 
+/** Calcule les stats agrégées de tags à partir d'une liste de reviews approuvés. */
+function computeTagStats(reviews: Review[]): TagStats {
+  const counts: Record<string, Record<string, number>> = {};
+  for (const r of reviews) {
+    for (const tag of r.tags || []) {
+      const idx = tag.indexOf(':');
+      if (idx === -1) continue;
+      const cat = tag.slice(0, idx);
+      const val = tag.slice(idx + 1);
+      counts[cat] ??= {};
+      counts[cat][val] = (counts[cat][val] || 0) + 1;
+    }
+  }
+  const out: TagStats = {};
+  for (const [cat, valMap] of Object.entries(counts)) {
+    const list: TagCount[] = Object.entries(valMap)
+      .map(([value, count]) => ({ value, count }))
+      .sort((a, b) => b.count - a.count);
+    out[cat] = list;
+  }
+  return out;
+}
+
 /**
- * Charge en une seule requête tous les avis approuvés pour une liste de lieux,
- * puis calcule l'agrégat (moyenne + count) côté JS.
- *
- * Renvoie une Map<lieuId, bundle>. Les lieux sans avis sont absents (utilisez le
- * helper `getBundle` ci-dessous pour avoir un bundle vide par défaut).
+ * Charge en une seule requête tous les avis approuvés pour une liste d'entités d'un type donné,
+ * puis calcule l'agrégat (moyenne + count + tags) côté JS.
  */
-export async function getReviewsForLieux(lieuIds: string[]): Promise<ReviewsByLieuId> {
-  if (!isReviewsEnabled() || lieuIds.length === 0) return {};
+export async function getReviewsForEntities(
+  entityType: EntityType,
+  entityIds: string[]
+): Promise<ReviewsByLieuId> {
+  if (!isReviewsEnabled() || entityIds.length === 0) return {};
   const sb = getClient();
 
   const { data, error } = await sb
     .from('reviews')
-    .select('id, lieu_id, lieu_slug, ville_slug, pseudo, rating, comment, status, created_at, approved_at')
+    .select(REVIEW_COLUMNS)
+    .eq('entity_type', entityType)
     .eq('status', 'approved')
-    .in('lieu_id', lieuIds)
+    .in('lieu_id', entityIds)
     .order('created_at', { ascending: false });
 
   if (error) {
-    console.error('[reviews] getReviewsForLieux error', error);
+    console.error('[reviews] getReviewsForEntities error', error);
     return {};
   }
 
   const out: ReviewsByLieuId = {};
   for (const row of (data || []) as Review[]) {
-    const bundle = out[row.lieu_id] ?? { aggregate: { count: 0, average: 0 }, reviews: [] };
-    bundle.reviews.push(row);
+    // Normalisation des tags (Supabase peut retourner null)
+    const review: Review = { ...row, tags: row.tags || [] };
+    const bundle = out[row.lieu_id] ?? { aggregate: { count: 0, average: 0 }, reviews: [], tagStats: {} };
+    bundle.reviews.push(review);
     out[row.lieu_id] = bundle;
   }
-  // Calcul des agrégats
   for (const id of Object.keys(out)) {
     const bundle = out[id];
     const sum = bundle.reviews.reduce((s, r) => s + r.rating, 0);
@@ -84,13 +115,18 @@ export async function getReviewsForLieux(lieuIds: string[]): Promise<ReviewsByLi
       count,
       average: count > 0 ? Math.round((sum / count) * 10) / 10 : 0,
     };
+    bundle.tagStats = computeTagStats(bundle.reviews);
   }
   return out;
 }
 
+/** Alias rétrocompatibles. */
+export const getReviewsForLieux = (lieuIds: string[]) => getReviewsForEntities('lieu', lieuIds);
+export const getReviewsForClubs = (clubIds: string[]) => getReviewsForEntities('club', clubIds);
+
 /** Helper : renvoie un bundle (vide si absent). Pratique pour les composants. */
-export function getBundle(byId: ReviewsByLieuId, lieuId: string): LieuReviewsBundle {
-  return byId[lieuId] ?? EMPTY_BUNDLE;
+export function getBundle(byId: ReviewsByLieuId, entityId: string): LieuReviewsBundle {
+  return byId[entityId] ?? EMPTY_BUNDLE;
 }
 
 // ============================================
@@ -102,7 +138,7 @@ export async function listReviewsByStatus(status: ReviewStatus, limit = 100): Pr
   const sb = getClient();
   const { data, error } = await sb
     .from('reviews')
-    .select('*')
+    .select(REVIEW_COLUMNS)
     .eq('status', status)
     .order('created_at', { ascending: false })
     .limit(limit);
@@ -110,7 +146,7 @@ export async function listReviewsByStatus(status: ReviewStatus, limit = 100): Pr
     console.error('[reviews] listReviewsByStatus error', error);
     return [];
   }
-  return (data || []) as Review[];
+  return ((data || []) as Review[]).map((r) => ({ ...r, tags: r.tags || [] }));
 }
 
 export async function setReviewStatus(id: string, status: ReviewStatus): Promise<boolean> {
@@ -140,12 +176,14 @@ export async function deleteReview(id: string): Promise<boolean> {
 export async function getReviewById(id: string): Promise<Review | null> {
   if (!isReviewsEnabled()) return null;
   const sb = getClient();
-  const { data, error } = await sb.from('reviews').select('*').eq('id', id).maybeSingle();
+  const { data, error } = await sb.from('reviews').select(REVIEW_COLUMNS).eq('id', id).maybeSingle();
   if (error) {
     console.error('[reviews] getReviewById error', error);
     return null;
   }
-  return (data as Review) || null;
+  if (!data) return null;
+  const r = data as Review;
+  return { ...r, tags: r.tags || [] };
 }
 
 // ============================================
@@ -153,12 +191,14 @@ export async function getReviewById(id: string): Promise<Review | null> {
 // ============================================
 
 interface InsertReviewArgs {
+  entityType: EntityType;
   lieuId: string;
   lieuSlug: string;
   villeSlug: string;
   rating: number;
   comment: string;
   pseudo: string | null;
+  tags: string[];
   ipHash: string | null;
   userAgent: string | null;
 }
@@ -169,23 +209,26 @@ export async function insertPendingReview(args: InsertReviewArgs): Promise<Revie
   const { data, error } = await sb
     .from('reviews')
     .insert({
+      entity_type: args.entityType,
       lieu_id: args.lieuId,
       lieu_slug: args.lieuSlug,
       ville_slug: args.villeSlug,
       rating: args.rating,
       comment: args.comment,
       pseudo: args.pseudo,
+      tags: args.tags,
       ip_hash: args.ipHash,
       user_agent: args.userAgent,
       status: 'pending',
     })
-    .select('*')
+    .select(REVIEW_COLUMNS)
     .single();
   if (error) {
     console.error('[reviews] insertPendingReview error', error);
     return null;
   }
-  return data as Review;
+  const r = data as Review;
+  return { ...r, tags: r.tags || [] };
 }
 
 /** Compte les avis (tous statuts) postés depuis `since` par une même IP. */
@@ -204,10 +247,11 @@ export async function countRecentReviewsByIp(ipHash: string, since: Date): Promi
   return count || 0;
 }
 
-/** Compte les avis (tous statuts) postés depuis `since` par une même IP sur un lieu donné. */
-export async function countRecentReviewsByIpAndLieu(
+/** Compte les avis (tous statuts) postés depuis `since` par une même IP sur une entité donnée. */
+export async function countRecentReviewsByIpAndEntity(
   ipHash: string,
-  lieuId: string,
+  entityType: EntityType,
+  entityId: string,
   since: Date
 ): Promise<number> {
   if (!isReviewsEnabled() || !ipHash) return 0;
@@ -216,10 +260,11 @@ export async function countRecentReviewsByIpAndLieu(
     .from('reviews')
     .select('id', { count: 'exact', head: true })
     .eq('ip_hash', ipHash)
-    .eq('lieu_id', lieuId)
+    .eq('entity_type', entityType)
+    .eq('lieu_id', entityId)
     .gte('created_at', since.toISOString());
   if (error) {
-    console.error('[reviews] countRecentReviewsByIpAndLieu error', error);
+    console.error('[reviews] countRecentReviewsByIpAndEntity error', error);
     return 0;
   }
   return count || 0;

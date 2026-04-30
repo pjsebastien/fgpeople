@@ -5,15 +5,17 @@
  */
 
 import type { Club, BreadcrumbItem, FAQItem, BlogArticle } from '@/lib/types';
+import type { LieuReviewsBundle } from '@/lib/types/reviews';
 
 // ============================================
 // LOCAL BUSINESS (Club) - Enrichi
 // ============================================
 interface LocalBusinessJsonLdProps {
   club: Club;
+  reviewsBundle?: LieuReviewsBundle;
 }
 
-export function LocalBusinessJsonLd({ club }: LocalBusinessJsonLdProps) {
+export function LocalBusinessJsonLd({ club, reviewsBundle }: LocalBusinessJsonLdProps) {
   const jsonLd: Record<string, unknown> = {
     '@context': 'https://schema.org',
     '@type': 'LocalBusiness',
@@ -73,6 +75,32 @@ export function LocalBusinessJsonLd({ club }: LocalBusinessJsonLdProps) {
     if (openingHours.length > 0) {
       jsonLd.openingHoursSpecification = openingHours;
     }
+  }
+
+  // Notes & avis
+  if (reviewsBundle && reviewsBundle.aggregate.count > 0) {
+    jsonLd.aggregateRating = {
+      '@type': 'AggregateRating',
+      ratingValue: reviewsBundle.aggregate.average,
+      reviewCount: reviewsBundle.aggregate.count,
+      bestRating: 5,
+      worstRating: 1,
+    };
+    jsonLd.review = reviewsBundle.reviews.slice(0, 5).map((r) => ({
+      '@type': 'Review',
+      author: {
+        '@type': 'Person',
+        name: r.pseudo || 'Anonyme',
+      },
+      datePublished: r.created_at.slice(0, 10),
+      reviewRating: {
+        '@type': 'Rating',
+        ratingValue: r.rating,
+        bestRating: 5,
+        worstRating: 1,
+      },
+      reviewBody: r.comment.slice(0, 500),
+    }));
   }
 
   return (

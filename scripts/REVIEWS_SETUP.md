@@ -19,7 +19,8 @@ Ce système permet aux visiteurs de laisser un avis (note 1-5 + commentaire) sur
 3. Note le mot de passe de la base (tu n'en auras pas besoin pour ce projet, juste pour info)
 4. Une fois le projet créé, ouvre **SQL Editor** → **New query**
 5. Colle le contenu de [`scripts/supabase-reviews-schema.sql`](./supabase-reviews-schema.sql) et clique **Run**
-6. Vérifie dans **Table Editor** que la table `reviews` est bien créée
+6. **Migration** (étend les avis aux clubs + critères structurés) : ouvre une nouvelle query, colle [`scripts/supabase-reviews-add-entity-type.sql`](./supabase-reviews-add-entity-type.sql) et clique **Run**
+7. Vérifie dans **Table Editor** que la table `reviews` est bien créée et qu'elle contient les colonnes `entity_type` et `tags`
 
 ### 2. Récupérer les clés Supabase
 

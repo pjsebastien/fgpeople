@@ -12,6 +12,9 @@ import {
   getRelatedVilles,
   getAllTypeCategories,
 } from '@/lib/data/clubs';
+import { getReviewsForClubs } from '@/lib/data/reviews';
+
+export const revalidate = 300;
 import SearchFilters from '@/components/clubs/SearchFilters';
 import Breadcrumb from '@/components/ui/Breadcrumb';
 import RelatedLinks from '@/components/navigation/RelatedLinks';
@@ -91,6 +94,7 @@ export default async function VillePage({
     getRelatedVilles(villeData.departementSlug, ville, 12),
     getAllTypeCategories(),
   ]);
+  const reviewsByClubId = await getReviewsForClubs(clubs.map((c) => c.id));
 
   const villeName = formatVilleName(villeData.nom);
 
@@ -145,6 +149,7 @@ export default async function VillePage({
             hideVilleFilter={true}
             title={`${villeData.clubCount === 1 ? 'Le club libertin de' : 'Clubs libertins à'} ${villeName}`}
             subtitle={`${villeData.clubCount === 1 ? 'Découvrez l\'établissement' : `Utilisez les filtres pour explorer les ${clubs.length} établissements`} de ${villeName}`}
+            reviewsByClubId={reviewsByClubId}
           />
 
           {/* Liste complète pour les crawlers (SEO) */}

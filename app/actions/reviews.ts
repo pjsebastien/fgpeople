@@ -12,7 +12,7 @@ import { revalidatePath } from 'next/cache';
 import {
   insertPendingReview,
   countRecentReviewsByIp,
-  countRecentReviewsByIpAndLieu,
+  countRecentReviewsByIpAndEntity,
   setReviewStatus,
   deleteReview as deleteReviewDb,
   getReviewById,
@@ -25,13 +25,18 @@ import {
   getClientIp,
   REVIEW_LIMITS,
 } from '@/lib/utils/review-validation';
+import { sanitizeTags } from '@/lib/utils/review-criteria';
 import { notifyAdminNewReview } from '@/lib/utils/review-email';
 import { requireAdmin } from '@/lib/utils/admin-auth';
-import type { SubmitReviewResult } from '@/lib/types/reviews';
+import type { EntityType, SubmitReviewResult, Review } from '@/lib/types/reviews';
 
 // ============================================
 // SUBMIT (public)
 // ============================================
+
+function parseEntityType(v: FormDataEntryValue | null): EntityType {
+  return v === 'club' ? 'club' : 'lieu';
+}
 
 export async function submitReviewAction(formData: FormData): Promise<SubmitReviewResult> {
   if (!isReviewsEnabled()) {
@@ -46,6 +51,7 @@ export async function submitReviewAction(formData: FormData): Promise<SubmitRevi
   if (antiBotError) return { ok: false, error: antiBotError };
 
   // Champs requis
+  const entityType = parseEntityType(formData.get('entityType'));
   const lieuId = String(formData.get('lieuId') || '').trim();
   const lieuSlug = String(formData.get('lieuSlug') || '').trim();
   const villeSlug = String(formData.get('villeSlug') || '').trim();
@@ -53,13 +59,16 @@ export async function submitReviewAction(formData: FormData): Promise<SubmitRevi
     return { ok: false, error: 'Données invalides.' };
   }
 
-  // Validation
+  // Validation rating + comment + pseudo
   const validated = validateReviewFields({
     rating: formData.get('rating'),
     comment: formData.get('comment'),
     pseudo: formData.get('pseudo'),
   });
   if (!validated.ok) return { ok: false, error: validated.error };
+
+  // Tags (multi-select : on récupère toutes les valeurs du champ "tags")
+  const tags = sanitizeTags(formData.getAll('tags'));
 
   // Rate limit IP
   const h = await headers();
@@ -69,14 +78,14 @@ export async function submitReviewAction(formData: FormData): Promise<SubmitRevi
 
   if (ipHash) {
     const since = new Date(Date.now() - 24 * 60 * 60 * 1000);
-    const [perIpAll, perIpLieu] = await Promise.all([
+    const [perIpAll, perIpEntity] = await Promise.all([
       countRecentReviewsByIp(ipHash, since),
-      countRecentReviewsByIpAndLieu(ipHash, lieuId, since),
+      countRecentReviewsByIpAndEntity(ipHash, entityType, lieuId, since),
     ]);
-    if (perIpLieu >= REVIEW_LIMITS.MAX_PER_IP_LIEU_24H) {
+    if (perIpEntity >= REVIEW_LIMITS.MAX_PER_IP_LIEU_24H) {
       return {
         ok: false,
-        error: 'Tu as déjà laissé un avis sur ce lieu récemment. Reviens dans 24h.',
+        error: 'Tu as déjà laissé un avis sur cet établissement récemment. Reviens dans 24h.',
       };
     }
     if (perIpAll >= REVIEW_LIMITS.MAX_PER_IP_24H) {
@@ -89,12 +98,14 @@ export async function submitReviewAction(formData: FormData): Promise<SubmitRevi
 
   // Insert
   const review = await insertPendingReview({
+    entityType,
     lieuId,
     lieuSlug,
     villeSlug,
     rating: validated.value.rating,
     comment: validated.value.comment,
     pseudo: validated.value.pseudo,
+    tags,
     ipHash,
     userAgent: userAgent ? userAgent.slice(0, 500) : null,
   });
@@ -115,9 +126,24 @@ export async function submitReviewAction(formData: FormData): Promise<SubmitRevi
 // MODÉRATION (admin)
 // ============================================
 
-async function revalidateForReview(villeSlug: string | null) {
-  if (villeSlug) {
-    revalidatePath(`/lieu-de-drague/ville/${villeSlug}`);
+/** Revalide les pages affichant l'entité. */
+function revalidateForReview(review: Review | null) {
+  if (!review) {
+    revalidatePath('/admin/avis');
+    return;
+  }
+  if (review.entity_type === 'club') {
+    // Page détail du club
+    revalidatePath(`/${review.lieu_slug}`);
+    // Pages de listing concernées (la ville suffit en général)
+    if (review.ville_slug) {
+      revalidatePath(`/ville/${review.ville_slug}`);
+    }
+  } else {
+    // Lieu de drague
+    if (review.ville_slug) {
+      revalidatePath(`/lieu-de-drague/ville/${review.ville_slug}`);
+    }
   }
   revalidatePath('/admin/avis');
 }
@@ -128,7 +154,7 @@ export async function approveReviewAction(id: string): Promise<{ ok: boolean; er
   if (!review) return { ok: false, error: 'Avis introuvable' };
   const ok = await setReviewStatus(id, 'approved');
   if (!ok) return { ok: false, error: 'Échec de la mise à jour' };
-  await revalidateForReview(review.ville_slug);
+  revalidateForReview(review);
   return { ok: true };
 }
 
@@ -138,7 +164,7 @@ export async function rejectReviewAction(id: string): Promise<{ ok: boolean; err
   if (!review) return { ok: false, error: 'Avis introuvable' };
   const ok = await setReviewStatus(id, 'rejected');
   if (!ok) return { ok: false, error: 'Échec de la mise à jour' };
-  await revalidateForReview(review.ville_slug);
+  revalidateForReview(review);
   return { ok: true };
 }
 
@@ -147,6 +173,6 @@ export async function deleteReviewAction(id: string): Promise<{ ok: boolean; err
   const review = await getReviewById(id);
   const ok = await deleteReviewDb(id);
   if (!ok) return { ok: false, error: 'Échec de la suppression' };
-  await revalidateForReview(review?.ville_slug || null);
+  revalidateForReview(review);
   return { ok: true };
 }

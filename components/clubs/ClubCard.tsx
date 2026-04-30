@@ -6,6 +6,8 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import type { Club } from '@/lib/types';
+import type { LieuReviewsBundle } from '@/lib/types/reviews';
+import ReviewSummary from '@/components/reviews/ReviewSummary';
 
 // Liste des images disponibles (exportée pour réutilisation)
 export const CLUB_IMAGES = [
@@ -26,6 +28,7 @@ export const CLUB_IMAGES = [
 interface ClubCardProps {
   club: Club;
   imageIndex?: number;
+  reviewsBundle?: LieuReviewsBundle;
 }
 
 // Génère un index d'image basé sur le nom du club (pseudo-aléatoire mais déterministe)
@@ -34,13 +37,19 @@ export function getImageIndexForClub(clubName: string): number {
   return hash % CLUB_IMAGES.length;
 }
 
-export default function ClubCard({ club, imageIndex }: ClubCardProps) {
+export default function ClubCard({ club, imageIndex, reviewsBundle }: ClubCardProps) {
   // Utiliser l'index fourni ou calculer un index basé sur le nom
   const imgIndex = imageIndex !== undefined ? imageIndex : getImageIndexForClub(club.nom);
   const imageSrc = CLUB_IMAGES[imgIndex % CLUB_IMAGES.length];
+  const aggregate = reviewsBundle?.aggregate;
+  const isTopRated = aggregate && aggregate.count >= 3 && aggregate.average >= 4.3;
 
   return (
-    <article className="card group h-full flex flex-col">
+    <article
+      className="card group h-full flex flex-col"
+      itemScope
+      itemType="https://schema.org/LocalBusiness"
+    >
       {/* Vignette avec image */}
       <Link
         href={`/${club.slug}`}
@@ -57,14 +66,22 @@ export default function ClubCard({ club, imageIndex }: ClubCardProps) {
         {/* Overlay gradient */}
         <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/20 to-transparent" />
 
-        {/* Badge status */}
-        {club.status === 'actif' && (
-          <div className="absolute top-3 right-3">
+        {/* Badge status + top noté */}
+        <div className="absolute top-3 right-3 flex flex-col items-end gap-1">
+          {isTopRated && (
+            <span className="px-2 py-1 bg-yellow-400/95 text-black text-xs font-bold rounded-full shadow-md flex items-center gap-1">
+              <svg className="w-3 h-3" viewBox="0 0 20 20" aria-hidden="true">
+                <path d="M10 1.5l2.6 5.27 5.81.84-4.2 4.1.99 5.79L10 14.77l-5.2 2.73.99-5.79-4.2-4.1 5.81-.84L10 1.5z" fill="currentColor" />
+              </svg>
+              Top noté
+            </span>
+          )}
+          {club.status === 'actif' && (
             <span className="px-2 py-1 bg-green-500/90 text-white text-xs font-medium rounded-full">
               Vérifié
             </span>
-          </div>
-        )}
+          )}
+        </div>
 
         {/* Types en badges */}
         <div className="absolute bottom-3 left-3 right-3 flex flex-wrap gap-1">
@@ -87,9 +104,41 @@ export default function ClubCard({ club, imageIndex }: ClubCardProps) {
       {/* Contenu */}
       <div className="p-4 flex-1 flex flex-col">
         {/* Nom du club */}
-        <h3 className="text-lg font-semibold text-text-primary mb-1 group-hover:text-accent-primary transition-colors line-clamp-2">
+        <h3
+          className="text-lg font-semibold text-text-primary mb-1 group-hover:text-accent-primary transition-colors line-clamp-2"
+          itemProp="name"
+        >
           <Link href={`/${club.slug}`}>{club.nom}</Link>
         </h3>
+
+        {/* Note + nb avis */}
+        <div className="mb-2">
+          {aggregate && aggregate.count > 0 ? (
+            <Link
+              href={`/${club.slug}#avis`}
+              className="inline-flex items-center hover:opacity-80 transition-opacity"
+              itemProp="aggregateRating"
+              itemScope
+              itemType="https://schema.org/AggregateRating"
+            >
+              <meta itemProp="ratingValue" content={String(aggregate.average)} />
+              <meta itemProp="reviewCount" content={String(aggregate.count)} />
+              <meta itemProp="bestRating" content="5" />
+              <meta itemProp="worstRating" content="1" />
+              <ReviewSummary aggregate={aggregate} variant="inline" size={14} />
+            </Link>
+          ) : (
+            <Link
+              href={`/${club.slug}#avis`}
+              className="inline-flex items-center gap-1 text-xs text-accent-primary hover:underline"
+            >
+              <svg className="w-3.5 h-3.5" viewBox="0 0 20 20" aria-hidden="true">
+                <path d="M10 1.5l2.6 5.27 5.81.84-4.2 4.1.99 5.79L10 14.77l-5.2 2.73.99-5.79-4.2-4.1 5.81-.84L10 1.5z" fill="none" stroke="currentColor" strokeWidth="1.5" />
+              </svg>
+              Soyez le premier à donner un avis
+            </Link>
+          )}
+        </div>
 
         {/* Localisation */}
         <p className="text-text-secondary text-sm mb-3 flex items-center gap-1">

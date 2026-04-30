@@ -3,6 +3,7 @@
 /**
  * Formulaire de soumission d'avis (client component).
  * - Étoiles interactives (clavier + souris)
+ * - Critères structurés (cases à cocher) optionnels
  * - Honeypot caché (`website`)
  * - Timestamp de chargement (`_t`) pour bloquer les soumissions trop rapides
  * - Server Action pour la soumission
@@ -10,9 +11,11 @@
 
 import { useState, useTransition, useRef } from 'react';
 import { submitReviewAction } from '@/app/actions/reviews';
-import type { SubmitReviewResult } from '@/lib/types/reviews';
+import { CRITERIA, type CriterionCategory } from '@/lib/utils/review-criteria';
+import type { SubmitReviewResult, EntityType } from '@/lib/types/reviews';
 
 interface ReviewFormProps {
+  entityType: EntityType;
   lieuId: string;
   lieuSlug: string;
   villeSlug: string;
@@ -21,11 +24,22 @@ interface ReviewFormProps {
 
 const STARS = [1, 2, 3, 4, 5] as const;
 
-export default function ReviewForm({ lieuId, lieuSlug, villeSlug, lieuName }: ReviewFormProps) {
+function tagId(category: string, value: string) {
+  return `${category}:${value}`;
+}
+
+export default function ReviewForm({
+  entityType,
+  lieuId,
+  lieuSlug,
+  villeSlug,
+  lieuName,
+}: ReviewFormProps) {
   const [rating, setRating] = useState(0);
   const [hover, setHover] = useState(0);
   const [comment, setComment] = useState('');
   const [pseudo, setPseudo] = useState('');
+  const [tags, setTags] = useState<Set<string>>(new Set());
   const [pending, startTransition] = useTransition();
   const [result, setResult] = useState<SubmitReviewResult | null>(null);
   const formRef = useRef<HTMLFormElement>(null);
@@ -33,6 +47,25 @@ export default function ReviewForm({ lieuId, lieuSlug, villeSlug, lieuName }: Re
 
   const displayed = hover || rating;
   const charCount = comment.length;
+
+  const toggleTag = (cat: CriterionCategory, optionValue: string) => {
+    setTags((prev) => {
+      const next = new Set(prev);
+      const id = tagId(cat.key, optionValue);
+      if (next.has(id)) {
+        next.delete(id);
+      } else {
+        if (cat.singleSelect) {
+          // Retirer toutes les autres options de la même catégorie
+          for (const t of Array.from(next)) {
+            if (t.startsWith(`${cat.key}:`)) next.delete(t);
+          }
+        }
+        next.add(id);
+      }
+      return next;
+    });
+  };
 
   const onSubmit = (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
@@ -44,6 +77,9 @@ export default function ReviewForm({ lieuId, lieuSlug, villeSlug, lieuName }: Re
     const fd = new FormData(e.currentTarget);
     fd.set('rating', String(rating));
     fd.set('_t', String(formLoadedAt.current));
+    // Append tags
+    fd.delete('tags');
+    Array.from(tags).forEach((t) => fd.append('tags', t));
     startTransition(async () => {
       const res = await submitReviewAction(fd);
       setResult(res);
@@ -51,6 +87,7 @@ export default function ReviewForm({ lieuId, lieuSlug, villeSlug, lieuName }: Re
         setRating(0);
         setComment('');
         setPseudo('');
+        setTags(new Set());
         formRef.current?.reset();
       }
     });
@@ -74,6 +111,7 @@ export default function ReviewForm({ lieuId, lieuSlug, villeSlug, lieuName }: Re
       className="bg-bg-secondary border border-border rounded-lg p-4 space-y-4"
       aria-label={`Laisser un avis sur ${lieuName}`}
     >
+      <input type="hidden" name="entityType" value={entityType} />
       <input type="hidden" name="lieuId" value={lieuId} />
       <input type="hidden" name="lieuSlug" value={lieuSlug} />
       <input type="hidden" name="villeSlug" value={villeSlug} />
@@ -142,7 +180,7 @@ export default function ReviewForm({ lieuId, lieuSlug, villeSlug, lieuName }: Re
           rows={4}
           value={comment}
           onChange={(e) => setComment(e.target.value)}
-          placeholder="Partage ton expérience : ambiance, fréquentation, conseils..."
+          placeholder="Partage ton expérience : ambiance, accueil, conseils..."
           className="w-full bg-bg-tertiary border border-border rounded-lg px-3 py-2 text-text-primary text-sm focus:border-accent-primary focus:outline-none placeholder:text-text-muted"
         />
         <p className="text-text-muted text-xs mt-1">
@@ -150,6 +188,52 @@ export default function ReviewForm({ lieuId, lieuSlug, villeSlug, lieuName }: Re
           {charCount < 10 && <span className="text-yellow-500">— minimum 10 caractères</span>}
         </p>
       </div>
+
+      {/* Critères structurés (cases à cocher, optionnels) */}
+      <details className="group bg-bg-tertiary rounded-lg border border-border">
+        <summary className="cursor-pointer list-none px-3 py-2 text-sm flex items-center justify-between">
+          <span className="text-text-primary font-medium">
+            Préciser le profil du lieu <span className="text-text-muted font-normal">(optionnel)</span>
+          </span>
+          <svg className="w-4 h-4 text-text-muted transition-transform group-open:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+          </svg>
+        </summary>
+        <div className="px-3 pb-3 pt-1 space-y-3 border-t border-border">
+          {CRITERIA.map((cat) => (
+            <fieldset key={cat.key}>
+              <legend className="text-text-secondary text-xs font-medium mb-1">
+                {cat.label}
+                {cat.hint && <span className="text-text-muted font-normal ml-1">— {cat.hint}</span>}
+              </legend>
+              <div className="flex flex-wrap gap-1.5">
+                {cat.options.map((opt) => {
+                  const id = tagId(cat.key, opt.value);
+                  const checked = tags.has(id);
+                  return (
+                    <label
+                      key={id}
+                      className={`px-2.5 py-1 text-xs rounded-full border cursor-pointer transition-colors select-none ${
+                        checked
+                          ? 'bg-accent-primary/20 border-accent-primary/50 text-accent-primary'
+                          : 'bg-bg-secondary border-border text-text-secondary hover:border-accent-primary/30'
+                      }`}
+                    >
+                      <input
+                        type="checkbox"
+                        className="sr-only"
+                        checked={checked}
+                        onChange={() => toggleTag(cat, opt.value)}
+                      />
+                      {opt.label}
+                    </label>
+                  );
+                })}
+              </div>
+            </fieldset>
+          ))}
+        </div>
+      </details>
 
       {/* Pseudo (optionnel) */}
       <div>

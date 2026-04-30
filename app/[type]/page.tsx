@@ -21,6 +21,9 @@ import {
   getAllClubSlugs,
   getClubsProximite,
 } from '@/lib/data/clubs';
+import { getReviewsForClubs, getBundle } from '@/lib/data/reviews';
+
+export const revalidate = 300;
 import { isArticleSlug, getArticleBySlug, getAllArticleSlugs } from '@/lib/data/blog';
 import SearchFilters from '@/components/clubs/SearchFilters';
 import Breadcrumb from '@/components/ui/Breadcrumb';
@@ -127,6 +130,7 @@ export default async function DynamicPage({
       getDepartementsByType(category.slug),
       getAllTypeCategories(),
     ]);
+    const reviewsByClubId = await getReviewsForClubs(clubs.map((c) => c.id));
 
     const breadcrumbItems = [
       { name: 'Accueil', url: '/' },
@@ -217,6 +221,7 @@ export default async function DynamicPage({
               hideTypeFilter={true}
               title={`Rechercher parmi les ${category.labelPlural.toLowerCase()}`}
               subtitle="Filtrez par région, département, ville ou équipements"
+              reviewsByClubId={reviewsByClubId}
             />
 
             {/* Liste complète des clubs pour les crawlers (SEO) */}
@@ -262,7 +267,14 @@ export default async function DynamicPage({
   const club = await getClubBySlug(type);
   if (club) {
     const clubsProximite = await getClubsProximite(club, 9);
-    return <ClubDetailPage club={club} clubsProximite={clubsProximite} />;
+    const reviewsMap = await getReviewsForClubs([club.id]);
+    return (
+      <ClubDetailPage
+        club={club}
+        clubsProximite={clubsProximite}
+        reviewsBundle={getBundle(reviewsMap, club.id)}
+      />
+    );
   }
 
   // 4. Aucun match trouvé

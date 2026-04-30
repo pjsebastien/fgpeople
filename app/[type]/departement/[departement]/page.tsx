@@ -14,6 +14,9 @@ import {
   getVillesByTypeAndDepartement,
   getDepartementsByType,
 } from '@/lib/data/clubs';
+import { getReviewsForClubs } from '@/lib/data/reviews';
+
+export const revalidate = 300;
 import ClubList from '@/components/clubs/ClubList';
 import Breadcrumb from '@/components/ui/Breadcrumb';
 import RelatedLinks from '@/components/navigation/RelatedLinks';
@@ -70,6 +73,7 @@ export default async function TypeDepartementPage({
     getVillesByTypeAndDepartement(category.slug, departement),
     getDepartementsByType(category.slug),
   ]);
+  const reviewsByClubId = await getReviewsForClubs(clubs.map((c) => c.id));
 
   if (clubs.length === 0) {
     notFound();
@@ -165,6 +169,7 @@ export default async function TypeDepartementPage({
             clubs={clubs}
             title={`Tous les ${category.labelPlural.toLowerCase()} du ${deptData.nom}`}
             columns={3}
+            reviewsByClubId={reviewsByClubId}
           />
 
           {/* Autres départements de la région */}

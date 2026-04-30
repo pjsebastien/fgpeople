@@ -5,6 +5,7 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
+import { getReviewsForClubs } from '@/lib/data/reviews';
 import {
   getClubsByDepartement,
   getDepartementBySlug,
@@ -73,6 +74,7 @@ export default async function DepartementPage({
     getRelatedDepartements(deptData.regionSlug, departement, 8),
     getAllTypeCategories(),
   ]);
+  const reviewsByClubId = await getReviewsForClubs(clubs.map((c) => c.id));
 
   const breadcrumbItems = [
     { name: 'Accueil', url: '/' },
@@ -147,6 +149,7 @@ export default async function DepartementPage({
             hideDepartementFilter={true}
             title={`Rechercher un club dans le ${deptData.nom}`}
             subtitle={`Utilisez les filtres pour trouver l'établissement idéal parmi les ${clubs.length} clubs du département`}
+            reviewsByClubId={reviewsByClubId}
           />
 
           {/* Liste complète des clubs pour les crawlers (SEO) */}

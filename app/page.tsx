@@ -15,9 +15,12 @@ import {
   getAllTypeCategories,
   getAllClubs,
 } from '@/lib/data/clubs';
+import { getReviewsForClubs } from '@/lib/data/reviews';
 import ClubCard, { getImageIndexForClub } from '@/components/clubs/ClubCard';
 import AdvancedSearch from '@/components/home/AdvancedSearch';
 import { WebsiteJsonLd, OrganizationJsonLd } from '@/components/seo/JsonLd';
+
+export const revalidate = 300;
 
 const TOTAL_IMAGES = 12;
 
@@ -54,6 +57,7 @@ export default async function HomePage() {
     getAllTypeCategories(),
     getAllClubs(),
   ]);
+  const reviewsByClubId = await getReviewsForClubs(featuredClubs.map((c) => c.id));
 
   // Filtrer les régions valides (exclure "Région inconnue")
   const regions = allRegions.filter(r => r.nom !== 'Région inconnue' && r.slug !== 'region-inconnue');
@@ -143,7 +147,12 @@ export default async function HomePage() {
 
               <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
                 {featuredClubs.map((club, index) => (
-                  <ClubCard key={club.id} club={club} imageIndex={imageIndices[index]} />
+                  <ClubCard
+                    key={club.id}
+                    club={club}
+                    imageIndex={imageIndices[index]}
+                    reviewsBundle={reviewsByClubId[club.id]}
+                  />
                 ))}
               </div>
             </div>

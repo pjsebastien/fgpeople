@@ -13,6 +13,9 @@ import {
   getVilleBySlug,
   getVillesByTypeAndDepartement,
 } from '@/lib/data/clubs';
+import { getReviewsForClubs } from '@/lib/data/reviews';
+
+export const revalidate = 300;
 import ClubList from '@/components/clubs/ClubList';
 import Breadcrumb from '@/components/ui/Breadcrumb';
 import RelatedLinks from '@/components/navigation/RelatedLinks';
@@ -73,6 +76,8 @@ export default async function TypeVillePage({
     notFound();
   }
 
+  const reviewsByClubId = await getReviewsForClubs(clubs.map((c) => c.id));
+
   const breadcrumbItems = [
     { name: 'Accueil', url: '/' },
     { name: category.labelPlural, url: `/${category.urlSlug}` },
@@ -130,6 +135,7 @@ export default async function TypeVillePage({
             clubs={clubs}
             title={`${clubs.length === 1 ? `Le ${category.label.toLowerCase()} de` : `Tous les ${category.labelPlural.toLowerCase()} de`} ${villeData.nom}`}
             columns={3}
+            reviewsByClubId={reviewsByClubId}
           />
 
           {/* Autres villes du département */}

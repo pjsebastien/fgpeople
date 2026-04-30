@@ -18,6 +18,7 @@ interface LieuDragueCardProps {
 const EMPTY_BUNDLE: LieuReviewsBundle = {
   aggregate: { count: 0, average: 0 },
   reviews: [],
+  tagStats: {},
 };
 
 const ORIENTATION_LABELS: Record<string, { label: string; color: string }> = {

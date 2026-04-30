@@ -5,6 +5,7 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
+import { getReviewsForClubs } from '@/lib/data/reviews';
 import {
   getClubsByRegion,
   getRegionBySlug,
@@ -71,6 +72,7 @@ export default async function RegionPage({
     getRelatedRegions(region, 6),
     getAllTypeCategories(),
   ]);
+  const reviewsByClubId = await getReviewsForClubs(clubs.map((c) => c.id));
 
   const breadcrumbItems = [
     { name: 'Accueil', url: '/' },
@@ -139,6 +141,7 @@ export default async function RegionPage({
             hideRegionFilter={true}
             title={`Rechercher un club en ${regionData.nom}`}
             subtitle={`Utilisez les filtres pour trouver l'établissement idéal parmi les ${clubs.length} clubs de la région`}
+            reviewsByClubId={reviewsByClubId}
           />
 
           {/* Liste complète des clubs pour les crawlers (SEO) */}

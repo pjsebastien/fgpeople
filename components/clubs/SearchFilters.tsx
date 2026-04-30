@@ -27,6 +27,8 @@ interface SearchFiltersProps {
   baseUrl?: string;
   title?: string;
   subtitle?: string;
+  // Avis (passés depuis le serveur)
+  reviewsByClubId?: import('@/lib/types/reviews').ReviewsByEntityId;
 }
 
 // Calcule les indices d'images pour éviter les répétitions adjacentes
@@ -62,6 +64,7 @@ export default function SearchFilters({
   baseUrl = '',
   title = 'Rechercher un établissement',
   subtitle = 'Utilisez les filtres pour affiner votre recherche',
+  reviewsByClubId,
 }: SearchFiltersProps) {
   // États des filtres
   const [searchQuery, setSearchQuery] = useState('');
@@ -416,7 +419,7 @@ export default function SearchFilters({
           <>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
               {displayedClubs.map((club, index) => (
-                <ClubCard key={club.id} club={club} imageIndex={imageIndices[index]} />
+                <ClubCard key={club.id} club={club} imageIndex={imageIndices[index]} reviewsBundle={reviewsByClubId?.[club.id]} />
               ))}
             </div>
 

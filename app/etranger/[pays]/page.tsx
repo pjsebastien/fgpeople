@@ -11,6 +11,9 @@ import {
   getAllPaysSlugsEtranger,
   getPaysEtrangers,
 } from '@/lib/data/clubs';
+import { getReviewsForClubs } from '@/lib/data/reviews';
+
+export const revalidate = 300;
 import ClubList from '@/components/clubs/ClubList';
 import Breadcrumb from '@/components/ui/Breadcrumb';
 import RelatedLinks from '@/components/navigation/RelatedLinks';
@@ -64,6 +67,7 @@ export default async function PaysPage({
     getClubsByPays(pays),
     getPaysEtrangers(),
   ]);
+  const reviewsByClubId = await getReviewsForClubs(clubs.map((c) => c.id));
 
   // Transformer les autres pays en RelatedLinks
   const relatedPays = autresPays
@@ -116,6 +120,7 @@ export default async function PaysPage({
             clubs={clubs}
             title={`${paysData.clubCount === 1 ? 'Le club de' : 'Tous les clubs en'} ${paysData.nom}`}
             columns={3}
+            reviewsByClubId={reviewsByClubId}
           />
 
           {/* Autres pays */}
