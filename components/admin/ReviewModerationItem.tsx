@@ -69,9 +69,10 @@ export default function ReviewModerationItem({ review }: ReviewModerationItemPro
 
       <div className="flex items-center justify-between gap-2 flex-wrap text-xs text-text-muted">
         <span>
-          Lieu : <code className="bg-bg-tertiary px-1.5 py-0.5 rounded">{review.lieu_slug}</code> ·{' '}
+          {review.entity_type === 'club' ? 'Club' : 'Lieu'} :{' '}
+          <code className="bg-bg-tertiary px-1.5 py-0.5 rounded">{review.lieu_slug}</code> ·{' '}
           <a
-            href={`/lieu-de-drague/ville/${review.ville_slug}`}
+            href={review.entity_type === 'club' ? `/${review.lieu_slug}#avis` : `/lieu-de-drague/ville/${review.ville_slug}`}
             target="_blank"
             rel="noopener noreferrer"
             className="text-accent-primary hover:underline"
