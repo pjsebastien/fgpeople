@@ -39,7 +39,8 @@ export default function EntityReviewsSection({
 }: EntityReviewsSectionProps) {
   const { aggregate, reviews, tagStats } = bundle;
   const formId = `avis-form-${entityId}`;
-  const entityLabel = entityType === 'club' ? 'ce club' : 'ce lieu';
+  const entityLabel =
+    entityType === 'club' ? 'ce club' : entityType === 'site' ? 'ce site' : 'ce lieu';
   const hasReviews = aggregate.count > 0;
 
   return (
@@ -49,7 +50,7 @@ export default function EntityReviewsSection({
           Avis & notes
         </h2>
         <p className="text-text-secondary text-sm">
-          Retours d&apos;expérience laissés par d&apos;autres visiteurs — anonymes et modérés.
+          Retours d&apos;expérience laissés par d&apos;autres visiteurs, anonymes et modérés.
         </p>
       </header>
 
@@ -73,7 +74,7 @@ export default function EntityReviewsSection({
               </>
             ) : (
               <>
-                <div className="text-3xl font-bold text-text-muted leading-none">—</div>
+                <div className="text-3xl font-bold text-text-muted leading-none">-</div>
                 <div className="my-2 flex justify-center">
                   <Stars value={0} size={22} />
                 </div>

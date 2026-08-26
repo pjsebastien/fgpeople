@@ -5,7 +5,7 @@
 export type ReviewStatus = 'pending' | 'approved' | 'rejected';
 
 /** Type d'entité auquel un avis se rattache. */
-export type EntityType = 'lieu' | 'club';
+export type EntityType = 'lieu' | 'club' | 'site';
 
 export interface Review {
   id: string;

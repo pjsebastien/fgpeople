@@ -40,6 +40,8 @@ const legalLinks = [
 // Liens conseils/blog
 const blogLinks = [
   { href: '/conseils', label: 'Tous les conseils' },
+  { href: '/comparatif-sites-libertins', label: 'Comparatif des sites' },
+  { href: '/avis-gleese', label: 'Avis Gleese : notre test' },
   { href: '/avis-wyylde', label: 'Avis Wyylde' },
   { href: '/tenue-club-libertin', label: 'Tenue club libertin' },
   { href: '/quest-ce-que-la-communaute-libertine', label: 'Communauté libertine' },

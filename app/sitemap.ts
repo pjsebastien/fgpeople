@@ -20,6 +20,7 @@ import {
   getVillesByType,
 } from '@/lib/data/clubs';
 import { getAllArticleSlugs } from '@/lib/data/blog';
+import { getRankedSiteReviews } from '@/lib/data/site-reviews';
 import {
   getAllDragueRegions,
   getAllDragueDepartements,
@@ -99,7 +100,21 @@ export default async function sitemap({
           changeFrequency: 'weekly',
           priority: 0.7,
         },
+        {
+          url: `${baseUrl}/comparatif-sites-libertins`,
+          lastModified: BUILD_DATE,
+          changeFrequency: 'weekly',
+          priority: 0.9,
+        },
       ];
+
+      // Avis sur les sites de rencontre (pages à fort potentiel commercial)
+      const siteReviewPages: MetadataRoute.Sitemap = getRankedSiteReviews().map((r) => ({
+        url: `${baseUrl}/${r.slug}`,
+        lastModified: new Date(r.updatedAt),
+        changeFrequency: 'monthly' as const,
+        priority: 0.8,
+      }));
 
       // Types de clubs
       const typeCategories = await getAllTypeCategories();
@@ -139,7 +154,14 @@ export default async function sitemap({
         priority: 0.6,
       }));
 
-      return [...staticPages, ...typePages, ...regionPages, ...articlePages, ...paysPages];
+      return [
+        ...staticPages,
+        ...siteReviewPages,
+        ...typePages,
+        ...regionPages,
+        ...articlePages,
+        ...paysPages,
+      ];
     }
 
     // ================================================

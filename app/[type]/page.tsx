@@ -21,7 +21,9 @@ import {
   getAllClubSlugs,
   getClubsProximite,
 } from '@/lib/data/clubs';
-import { getReviewsForClubs, getBundle } from '@/lib/data/reviews';
+import { getReviewsForClubs, getReviewsForEntities, getBundle } from '@/lib/data/reviews';
+import { getSiteReviewBySlug, getAllSiteReviewSlugs } from '@/lib/data/site-reviews';
+import SiteReviewPage from '@/components/site-reviews/SiteReviewPage';
 
 export const revalidate = 300;
 import { isArticleSlug, getArticleBySlug, getAllArticleSlugs } from '@/lib/data/blog';
@@ -33,12 +35,13 @@ import ClubDetailPage from '@/components/clubs/ClubDetailPage';
 import { BreadcrumbJsonLd, ItemListJsonLd } from '@/components/seo/JsonLd';
 
 export async function generateStaticParams() {
-  // Combiner les slugs de types, articles ET clubs
+  // Combiner les slugs de types, avis de sites, articles ET clubs
   const typeSlugs = await getAllTypeUrlSlugs();
+  const siteReviewSlugs = getAllSiteReviewSlugs();
   const articleSlugs = getAllArticleSlugs();
   const clubSlugs = await getAllClubSlugs();
 
-  const allSlugs = [...typeSlugs, ...articleSlugs, ...clubSlugs];
+  const allSlugs = [...typeSlugs, ...siteReviewSlugs, ...articleSlugs, ...clubSlugs];
   return allSlugs.map((type) => ({ type }));
 }
 
@@ -49,7 +52,24 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { type } = await params;
 
-  // 1. Vérifier si c'est un article de blog
+  // 1. Avis sur un site de rencontre
+  const siteReview = getSiteReviewBySlug(type);
+  if (siteReview) {
+    return {
+      title: siteReview.meta.title,
+      description: siteReview.meta.description,
+      alternates: { canonical: `/${siteReview.slug}` },
+      openGraph: {
+        title: siteReview.meta.title,
+        description: siteReview.meta.description,
+        type: 'article',
+        url: `/${siteReview.slug}`,
+        images: [{ url: siteReview.hero.src, alt: siteReview.hero.alt }],
+      },
+    };
+  }
+
+  // 2. Vérifier si c'est un article de blog
   if (isArticleSlug(type)) {
     const article = getArticleBySlug(type);
     if (article) {
@@ -113,7 +133,14 @@ export default async function DynamicPage({
 }) {
   const { type } = await params;
 
-  // 1. Vérifier si c'est un article de blog
+  // 1. Vérifier si c'est un avis sur un site de rencontre
+  const siteReview = getSiteReviewBySlug(type);
+  if (siteReview) {
+    const byId = await getReviewsForEntities('site', [siteReview.slug]);
+    return <SiteReviewPage review={siteReview} reviewsBundle={getBundle(byId, siteReview.slug)} />;
+  }
+
+  // 2. Vérifier si c'est un article de blog
   if (isArticleSlug(type)) {
     const article = getArticleBySlug(type);
     if (article) {
@@ -121,7 +148,7 @@ export default async function DynamicPage({
     }
   }
 
-  // 2. Vérifier si c'est une page de type
+  // 3. Vérifier si c'est une page de type
   const category = await getTypeCategoryByUrlSlug(type);
   if (category) {
     const [clubs, regions, departements, allTypes] = await Promise.all([

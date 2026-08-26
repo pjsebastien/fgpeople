@@ -9,14 +9,27 @@
 import { useState, useEffect } from 'react';
 import { usePathname } from 'next/navigation';
 
-const LIBERTIN_URL = 'https://k.related-dating.com/?abc=195e2ca4adfa68e9&xa=n&acme=wid.94576&media=seo&tpls=1&v=sexy';
-const GAY_URL = 'https://k.related-dating.com/?abc=b9653873036f3fd1&xa=n&acme=wid.94576&media=seo&tpls=4&v=sexy';
+import { LIBERTIN_AFFILIATE, GAY_AFFILIATE, affiliateForPath } from '@/lib/config/affiliates';
+import { trackAffiliateClick } from '@/lib/utils/track-affiliate';
+import { GleeseLogo } from './GleeseBanner';
+import GleeseReviewLink from '@/components/site-reviews/GleeseReviewLink';
 
 const DELAY_MS = 20000; // 20 secondes
+
+/**
+ * Pages d'avis / comparatif : le lecteur y est en train d'évaluer une offre
+ * précise, qui porte déjà notre lien d'affiliation. Interrompre cette lecture
+ * avec une offre concurrente ferait perdre les deux conversions.
+ */
+function isSiteReviewPage(pathname: string | null): boolean {
+  if (!pathname) return false;
+  return pathname.startsWith('/avis-') || pathname === '/comparatif-sites-libertins';
+}
 
 export default function DelayedPopup() {
   const pathname = usePathname();
   const isDrague = pathname?.startsWith('/lieu-de-drague') ?? false;
+  const suppressed = isSiteReviewPage(pathname);
   const variantKey = isDrague ? 'gay' : 'libertin';
   const storageKey = `delayedPopup_dismissed_${variantKey}`;
 
@@ -28,7 +41,7 @@ export default function DelayedPopup() {
   }, []);
 
   useEffect(() => {
-    if (!mounted) return;
+    if (!mounted || suppressed) return;
 
     // Déjà fermé dans cette session pour ce variant ? on n'affiche pas
     if (sessionStorage.getItem(storageKey) === 'true') return;
@@ -38,7 +51,7 @@ export default function DelayedPopup() {
     }, DELAY_MS);
 
     return () => clearTimeout(timer);
-  }, [mounted, storageKey]);
+  }, [mounted, storageKey, suppressed]);
 
   // Re-vérifier quand on change de variant (changement d'URL drague <-> autre)
   useEffect(() => {
@@ -51,12 +64,12 @@ export default function DelayedPopup() {
     sessionStorage.setItem(storageKey, 'true');
   };
 
-  if (!mounted || !isOpen) return null;
+  if (!mounted || !isOpen || suppressed) return null;
 
   // Contenu selon le variant
   const config = isDrague
     ? {
-        url: GAY_URL,
+        url: GAY_AFFILIATE.url,
         accent: 'purple',
         title: 'Rencontres gay & bi près de chez vous',
         baseline: 'Profils géolocalisés actifs maintenant',
@@ -67,15 +80,16 @@ export default function DelayedPopup() {
         ribbonText: 'NOUVEAU',
       }
     : {
-        url: LIBERTIN_URL,
+        url: LIBERTIN_AFFILIATE.url,
         accent: 'red',
-        title: 'Des libertins vous attendent',
+        title: 'Testez sans donner votre carte',
         baseline: 'Couples et célibataires actifs maintenant',
         description:
-          "Ne partez pas seul(e) au club. Rencontrez des couples et célibataires libertins près de chez vous, échangez et organisez vos soirées en toute discrétion.",
-        bullets: ['Profils vérifiés', '100 % discret', 'Inscription gratuite'],
-        cta: 'Voir les profils maintenant',
-        ribbonText: 'GRATUIT',
+          "Ne partez pas seul(e) au club. Gleese est le nouveau réseau libertin français, lancé fin 2024 : toutes les fonctions premium sont débloquées gratuitement, sans carte bancaire, et la communauté est encore loin d'être saturée.",
+        bullets: ['Sans carte bancaire', 'Profils vérifiés par téléphone', 'Modération humaine'],
+        cta: 'Créer mon profil gratuitement',
+        // Gleese est sorti fin 2024 : le dire attire l'œil et c'est vrai
+        ribbonText: 'NOUVEAU',
       };
 
   // Classes dynamiques selon couleur
@@ -130,6 +144,9 @@ export default function DelayedPopup() {
             </span>
           </div>
 
+          {/* Marque — le visiteur sait où il va avant de cliquer */}
+          {!isDrague && <GleeseLogo height={24} className="mb-3" block="popup" />}
+
           {/* Titre */}
           <h3 className="text-2xl font-bold text-white leading-tight">{config.title}</h3>
         </div>
@@ -156,7 +173,10 @@ export default function DelayedPopup() {
               href={config.url}
               target="_blank"
               rel="nofollow sponsored noopener"
-              onClick={handleClose}
+              onClick={() => {
+                trackAffiliateClick(affiliateForPath(pathname).target, 'popup');
+                handleClose();
+              }}
               className={`group flex items-center justify-center gap-2 w-full px-6 py-3.5 ${btnBg} rounded-xl transition-all hover:scale-[1.02] shadow-lg ${btnShadow}`}
             >
               <span className="text-white font-bold text-base">{config.cta}</span>
@@ -164,6 +184,12 @@ export default function DelayedPopup() {
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7l5 5m0 0l-5 5m5-5H6" />
               </svg>
             </a>
+
+            {!isDrague && (
+              <p className="mt-3 text-xs text-center" onClick={handleClose}>
+                <GleeseReviewLink seed="popup-libertin" />
+              </p>
+            )}
 
             <button
               onClick={handleClose}

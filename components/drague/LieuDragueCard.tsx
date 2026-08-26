@@ -100,7 +100,7 @@ export default function LieuDragueCard({
                       aggregate={bundle.aggregate}
                       variant="inline"
                       size={14}
-                      emptyLabel="Pas encore d'avis — sois le premier"
+                      emptyLabel="Pas encore d'avis : sois le premier"
                     />
                   )}
                 </div>

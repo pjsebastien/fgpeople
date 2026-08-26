@@ -1761,7 +1761,7 @@ Pour approfondir sur les bonnes pratiques des plateformes libertines, consultez 
       {
         id: 'erreur-2',
         title: 'Erreur n°2 : Une description vide ou générique',
-        content: `"Couple ouvert, on cherche du fun" — Cette description, vous la voyez partout. Elle ne dit rien de vous et ne vous distingue pas de la masse.
+        content: `"Couple ouvert, on cherche du fun" : cette description, vous la voyez partout. Elle ne dit rien de vous et ne vous distingue pas de la masse.
 
 **Le problème des descriptions génériques**
 Les membres cherchent à savoir qui vous êtes, ce que vous cherchez précisément, quelles sont vos limites et vos envies. Une description vague ne répond à aucune de ces questions.
@@ -2286,7 +2286,7 @@ L\'ergonomie est un vrai plus. Naviguer ressemble à l\'utilisation d\'un résea
 La possibilité de tester gratuitement avant de s\'engager rassure. On peut prendre la mesure de la communauté avant de décider si l\'on souhaite débloquer des fonctionnalités premium.
 
 **Une vraie dynamique communautaire**
-Le format social fait que l\'on revient régulièrement, même sans intention immédiate de rencontre. On consulte son fil, on like, on commente, on échange — et les rencontres naissent souvent naturellement de ces interactions.
+Le format social fait que l\'on revient régulièrement, même sans intention immédiate de rencontre. On consulte son fil, on like, on commente, on échange, et les rencontres naissent souvent naturellement de ces interactions.
 
 **Une discrétion respectée**
 Pas de prélèvement bancaire au nom évocateur, pas d\'emails compromettants. La plateforme prend la confidentialité au sérieux, ce qui rassure les profils discrets.`
@@ -2338,7 +2338,7 @@ Si vous aimez d\'abord discuter, apprendre à connaître l\'autre virtuellement 
         title: 'Notre verdict',
         content: `[Everflirt](https://everflirt.net/) propose une approche rafraîchissante du site de rencontres pour adultes. En misant sur le format réseau social, la plateforme offre une expérience plus riche, plus communautaire et plus authentique que les sites de dating classiques.
 
-L\'inscription gratuite, l\'interface moderne, la diversité des membres et la liberté de ton font partie de ses atouts majeurs. Les quelques limites — concentration urbaine, fonctionnalités premium pour aller loin — sont communes à toutes les plateformes du secteur.
+L\'inscription gratuite, l\'interface moderne, la diversité des membres et la liberté de ton font partie de ses atouts majeurs. Les quelques limites (concentration urbaine, fonctionnalités premium pour aller loin) sont communes à toutes les plateformes du secteur.
 
 Pour qui cherche un espace adulte où l\'on prend le temps d\'échanger, où l\'on construit du lien avant de se rencontrer, c\'est une option à essayer sans hésiter. Et pour ceux qui préfèrent passer directement au concret, n\'oubliez pas de consulter notre annuaire des [clubs libertins en France](/club-libertin) pour des rencontres en personne.`
       }

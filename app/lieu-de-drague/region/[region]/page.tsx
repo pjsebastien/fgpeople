@@ -117,7 +117,7 @@ export default async function DragueRegionPage({
       <DragueBreadcrumbJsonLd items={[{ name: 'Accueil', url: '/' }, ...breadcrumbItems]} />
       <DragueItemListJsonLd
         items={deptItems}
-        name={`Lieux de drague en ${r.nom} par département — ${currentYear()}`}
+        name={`Lieux de drague en ${r.nom} par département ${currentYear()}`}
         description={dragueRegionMeta(r.nom, r.lieuCount, r.departementSlugs.length)}
       />
       <DragueFAQJsonLd faq={faq} />
@@ -254,7 +254,7 @@ export default async function DragueRegionPage({
                 {departements.map((d) => (
                   <li key={d.slug}>
                     <a href={`/lieu-de-drague/departement/${d.slug}`}>
-                      {d.nom} ({d.code}) — {d.lieuCount} lieux
+                      {d.nom} ({d.code}) : {d.lieuCount} lieux
                     </a>
                   </li>
                 ))}
@@ -263,7 +263,7 @@ export default async function DragueRegionPage({
               <ul>
                 {lieux.map((l) => (
                   <li key={l.id}>
-                    {l.nom} — {l.typeLabel} à {l.localisation.ville} ({l.localisation.departement_code})
+                    {l.nom}, {l.typeLabel} à {l.localisation.ville} ({l.localisation.departement_code})
                   </li>
                 ))}
               </ul>

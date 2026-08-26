@@ -23,6 +23,12 @@ const STATUS_BADGE: Record<Review['status'], string> = {
   rejected: 'bg-red-500/20 text-red-300 border-red-500/30',
 };
 
+const ENTITY_LABEL: Record<Review['entity_type'], string> = {
+  lieu: 'Lieu',
+  club: 'Club',
+  site: 'Site',
+};
+
 const STATUS_LABEL: Record<Review['status'], string> = {
   pending: 'En attente',
   approved: 'Approuvé',
@@ -69,10 +75,14 @@ export default function ReviewModerationItem({ review }: ReviewModerationItemPro
 
       <div className="flex items-center justify-between gap-2 flex-wrap text-xs text-text-muted">
         <span>
-          {review.entity_type === 'club' ? 'Club' : 'Lieu'} :{' '}
+          {ENTITY_LABEL[review.entity_type]} :{' '}
           <code className="bg-bg-tertiary px-1.5 py-0.5 rounded">{review.lieu_slug}</code> ·{' '}
           <a
-            href={review.entity_type === 'club' ? `/${review.lieu_slug}#avis` : `/lieu-de-drague/ville/${review.ville_slug}`}
+            href={
+              review.entity_type === 'lieu'
+                ? `/lieu-de-drague/ville/${review.ville_slug}`
+                : `/${review.lieu_slug}#avis`
+            }
             target="_blank"
             rel="noopener noreferrer"
             className="text-accent-primary hover:underline"

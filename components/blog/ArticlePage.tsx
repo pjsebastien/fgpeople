@@ -9,6 +9,7 @@ import type { BlogArticle } from '@/lib/types';
 import { getRelatedArticles } from '@/lib/data/blog';
 import Breadcrumb from '@/components/ui/Breadcrumb';
 import { BreadcrumbJsonLd, ArticleJsonLd } from '@/components/seo/JsonLd';
+import GleeseReviewLink from '@/components/site-reviews/GleeseReviewLink';
 
 interface ArticlePageProps {
   article: BlogArticle;
@@ -263,6 +264,11 @@ export default function ArticlePage({ article }: ArticlePageProps) {
               </div>
             </section>
           )}
+
+          {/* Notre test du moment — ancre variable selon l'article */}
+          <section className="mt-12">
+            <GleeseReviewLink seed={article.slug} variant="card" />
+          </section>
 
           {/* Maillage interne - Pages piliers */}
           <section className="mt-16 bg-bg-secondary rounded-2xl p-6 md:p-8 border border-border">

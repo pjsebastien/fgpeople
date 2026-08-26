@@ -86,13 +86,89 @@ export const CRITERIA: CriterionCategory[] = [
   },
 ];
 
+/**
+ * Critères propres aux SITES de rencontre.
+ * Les clés sont distinctes de celles des lieux/clubs : un tag ne peut donc pas
+ * être interprété avec le mauvais libellé.
+ */
+export const SITE_CRITERIA: CriterionCategory[] = [
+  {
+    key: 'profils',
+    label: 'Qualité des profils',
+    options: [
+      { value: 'authentiques', label: 'Authentiques' },
+      { value: 'mitige', label: 'Mitigé' },
+      { value: 'beaucoup-de-faux', label: 'Beaucoup de faux' },
+    ],
+    singleSelect: true,
+  },
+  {
+    key: 'prix',
+    label: 'Rapport qualité/prix',
+    options: [
+      { value: 'correct', label: 'Correct' },
+      { value: 'cher', label: 'Cher' },
+      { value: 'trop-cher', label: 'Trop cher' },
+    ],
+    singleSelect: true,
+  },
+  {
+    key: 'resultats',
+    label: 'Rencontres obtenues',
+    options: [
+      { value: 'aucune', label: 'Aucune' },
+      { value: 'quelques-unes', label: 'Quelques-unes' },
+      { value: 'beaucoup', label: 'Beaucoup' },
+    ],
+    singleSelect: true,
+  },
+  {
+    key: 'facilite',
+    label: 'Prise en main',
+    options: [
+      { value: 'simple', label: 'Simple' },
+      { value: 'correcte', label: 'Correcte' },
+      { value: 'compliquee', label: 'Compliquée' },
+    ],
+    singleSelect: true,
+  },
+  {
+    key: 'moderation',
+    label: 'Modération / sécurité',
+    options: [
+      { value: 'serieuse', label: 'Sérieuse' },
+      { value: 'moyenne', label: 'Moyenne' },
+      { value: 'absente', label: 'Absente' },
+    ],
+    singleSelect: true,
+  },
+  {
+    key: 'profil',
+    label: 'Tu es',
+    hint: 'Multi-sélection possible',
+    options: [
+      { value: 'couple', label: 'Un couple' },
+      { value: 'homme-seul', label: 'Un homme seul' },
+      { value: 'femme-seule', label: 'Une femme seule' },
+    ],
+  },
+];
+
+/** Union de tous les jeux de critères, pour la validation et l'affichage. */
+export const ALL_CRITERIA: CriterionCategory[] = [...CRITERIA, ...SITE_CRITERIA];
+
+/** Jeu de critères adapté au type d'entité noté. */
+export function getCriteria(entityType: 'lieu' | 'club' | 'site'): CriterionCategory[] {
+  return entityType === 'site' ? SITE_CRITERIA : CRITERIA;
+}
+
 /** Set des paires "categorie:valeur" valides, pour la validation côté serveur. */
 export const VALID_TAGS = new Set<string>(
-  CRITERIA.flatMap((c) => c.options.map((o) => `${c.key}:${o.value}`))
+  ALL_CRITERIA.flatMap((c) => c.options.map((o) => `${c.key}:${o.value}`))
 );
 
 export const CRITERIA_BY_KEY: Record<string, CriterionCategory> = Object.fromEntries(
-  CRITERIA.map((c) => [c.key, c])
+  ALL_CRITERIA.map((c) => [c.key, c])
 );
 
 /** Filtre côté serveur : ne garde que les tags reconnus, déduplique, max 12. */

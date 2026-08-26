@@ -4,7 +4,7 @@
  */
 
 import type { TagStats } from '@/lib/types/reviews';
-import { CRITERIA, CRITERIA_BY_KEY } from '@/lib/utils/review-criteria';
+import { ALL_CRITERIA as CRITERIA, CRITERIA_BY_KEY } from '@/lib/utils/review-criteria';
 
 interface TagsSummaryProps {
   tagStats: TagStats;

@@ -178,7 +178,7 @@ export default async function DepartementPage({
           {/* FAQ */}
           <section className="my-12 bg-bg-secondary rounded-2xl border border-border p-6 md:p-8">
             <h2 className="text-2xl font-bold text-text-primary mb-6">
-              Questions fréquentes — {deptData.nom} ({deptData.code})
+              Questions fréquentes : {deptData.nom} ({deptData.code})
             </h2>
             <div className="space-y-3">
               {faq.map((q, i) => (

@@ -1,14 +1,22 @@
+'use client';
+
 /**
  * GayCTA - Composant CTA affilié orienté rencontres gay
- * Utilisé sur les pages "Lieu de drague"
+ * Utilisé sur les pages "Lieu de drague".
+ *
+ * Conserve le partenaire related-dating : Gleese, qui sert désormais tout le
+ * trafic libertin, ne couvre pas ce segment.
  */
+
+import { GAY_AFFILIATE } from '@/lib/config/affiliates';
+import { trackAffiliateClick } from '@/lib/utils/track-affiliate';
 
 interface GayCTAProps {
   location: string;
   variant?: 'default' | 'compact';
 }
 
-const GAY_AFFILIATE_URL = 'https://k.related-dating.com/?abc=b9653873036f3fd1&xa=n&acme=wid.94576&media=seo&tpls=4&v=sexy';
+const GAY_AFFILIATE_URL = GAY_AFFILIATE.url;
 
 export default function GayCTA({ location, variant = 'default' }: GayCTAProps) {
   if (variant === 'compact') {
@@ -37,6 +45,7 @@ export default function GayCTA({ location, variant = 'default' }: GayCTAProps) {
             href={GAY_AFFILIATE_URL}
             target="_blank"
             rel="nofollow sponsored noopener"
+            onClick={() => trackAffiliateClick(GAY_AFFILIATE.target, 'bloc-gay')}
             className="inline-flex items-center justify-center gap-2 px-8 py-4 bg-purple-500 rounded-xl hover:bg-purple-600 transition-all hover:scale-105 shadow-lg shadow-purple-500/25 text-lg whitespace-nowrap"
           >
             <span className="text-white font-bold">Voir les profils</span>
@@ -97,6 +106,7 @@ export default function GayCTA({ location, variant = 'default' }: GayCTAProps) {
             href={GAY_AFFILIATE_URL}
             target="_blank"
             rel="nofollow sponsored noopener"
+            onClick={() => trackAffiliateClick(GAY_AFFILIATE.target, 'bloc-gay')}
             className="group inline-flex items-center justify-center gap-3 w-full px-10 py-4 bg-purple-500 rounded-xl hover:bg-purple-600 transition-all hover:scale-[1.02] shadow-xl shadow-purple-500/30"
           >
             <span className="text-xl text-white font-bold">Voir les profils près de {location}</span>

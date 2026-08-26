@@ -195,8 +195,11 @@ export default function MobileMenu({ regions, departements, typeCategories }: Mo
               </Link>
             </div>
 
-            {/* Conseils */}
+            {/* Avis sur les sites + Conseils */}
             <div className="border-t border-[#2a2a2a] pt-4">
+              <Link href="/comparatif-sites-libertins" className="block px-4 py-3 rounded-lg text-base font-medium text-gray-400 hover:bg-[#1a1a1a] hover:text-white">
+                Avis sites de rencontre
+              </Link>
               <Link href="/conseils" className="block px-4 py-3 rounded-lg text-base font-medium text-gray-400 hover:bg-[#1a1a1a] hover:text-white">
                 Conseils
               </Link>

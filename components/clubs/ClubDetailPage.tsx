@@ -11,6 +11,7 @@ import { generateTipsForFirstTime, generateEtiquetteRules, generateReview } from
 import ClubList from '@/components/clubs/ClubList';
 import Breadcrumb from '@/components/ui/Breadcrumb';
 import LibertinCTA from '@/components/ui/LibertinCTA';
+import { GleeseSidebarCard } from '@/components/ui/GleeseBanner';
 import { BreadcrumbJsonLd, LocalBusinessJsonLd, FAQPageJsonLd } from '@/components/seo/JsonLd';
 import { CLUB_IMAGES, getImageIndexForClub } from '@/components/clubs/ClubCard';
 import EntityReviewsSection from '@/components/reviews/EntityReviewsSection';
@@ -623,6 +624,10 @@ export default function ClubDetailPage({ club, clubsProximite, reviewsBundle }: 
                   </div>
                 </div>
               )}
+
+              {/* Encart partenaire — en fin de colonne : le visiteur a déjà eu
+                  les informations du club avant de voir la publicité. */}
+              <GleeseSidebarCard block="colonne-club" />
             </aside>
           </div>
 

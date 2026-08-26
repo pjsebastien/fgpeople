@@ -76,7 +76,7 @@ export default async function DragueHubPage() {
       <DragueBreadcrumbJsonLd items={[{ name: 'Accueil', url: '/' }, ...breadcrumbItems]} />
       <DragueItemListJsonLd
         items={regionItems}
-        name={`Lieux de drague en France par région — ${currentYear()}`}
+        name={`Lieux de drague en France par région ${currentYear()}`}
         description={`Annuaire des ${stats.totalLieux} lieux de drague en France répartis sur ${stats.totalRegions} régions`}
       />
       <DragueFAQJsonLd faq={faq} />

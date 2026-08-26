@@ -105,7 +105,7 @@ export default async function DragueDeptPage({
       <DragueBreadcrumbJsonLd items={[{ name: 'Accueil', url: '/' }, ...breadcrumbItems]} />
       <DraguePlaceListJsonLd
         lieux={lieux}
-        name={`Lieux de drague en ${d.nom} (${d.code}) — ${currentYear()}`}
+        name={`Lieux de drague en ${d.nom} (${d.code}) ${currentYear()}`}
         description={dragueDeptMeta(d.nom, d.code, d.lieuCount, d.villeSlugs.length)}
         reviewsByLieuId={reviewsByLieuId}
       />
@@ -215,7 +215,7 @@ export default async function DragueDeptPage({
           {/* FAQ */}
           <section className="mb-12 bg-bg-secondary rounded-2xl p-6 md:p-8 border border-border">
             <h2 className="text-2xl font-bold text-text-primary mb-6">
-              Questions fréquentes — {d.nom}
+              Questions fréquentes : {d.nom}
             </h2>
             <div className="space-y-3">
               {faq.map((q, i) => (
@@ -241,8 +241,8 @@ export default async function DragueDeptPage({
               <ul>
                 {lieux.map((l) => (
                   <li key={l.id}>
-                    <strong>{l.nom}</strong> — {l.typeLabel} à {l.localisation.ville} ({l.localisation.code_postal})
-                    {l.description && <> — {l.description}</>}
+                    <strong>{l.nom}</strong>, {l.typeLabel} à {l.localisation.ville} ({l.localisation.code_postal})
+                    {l.description && <>. {l.description}</>}
                   </li>
                 ))}
               </ul>

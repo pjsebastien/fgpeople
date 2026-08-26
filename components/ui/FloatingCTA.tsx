@@ -7,25 +7,39 @@
 
 import { useState, useEffect } from 'react';
 import { usePathname } from 'next/navigation';
+import { affiliateForPath } from '@/lib/config/affiliates';
+import { trackAffiliateClick } from '@/lib/utils/track-affiliate';
 
-const LIBERTIN_URL = 'https://k.related-dating.com/?abc=195e2ca4adfa68e9&xa=n&acme=wid.94576&media=seo&tpls=1&v=sexy';
-const GAY_URL = 'https://k.related-dating.com/?abc=b9653873036f3fd1&xa=n&acme=wid.94576&media=seo&tpls=4&v=sexy';
+/**
+ * Pages d'avis / comparatif : elles portent déjà le lien d'affiliation du site
+ * testé. Y superposer ce CTA générique mettrait deux offres concurrentes à
+ * l'écran et diluerait la conversion — on s'efface.
+ */
+function isSiteReviewPage(pathname: string | null): boolean {
+  if (!pathname) return false;
+  return pathname.startsWith('/avis-') || pathname === '/comparatif-sites-libertins';
+}
 
 export default function FloatingCTA() {
   const pathname = usePathname();
   const isDrague = pathname?.startsWith('/lieu-de-drague') ?? false;
+  const hidden = isSiteReviewPage(pathname);
 
-  const affiliateUrl = isDrague ? GAY_URL : LIBERTIN_URL;
+  const partner = affiliateForPath(pathname);
+  const affiliateUrl = partner.url;
+
   const expandedTitle = isDrague
     ? 'Hommes gay & bi près de chez vous'
     : 'Des libertins vous attendent près de chez vous';
+  // Côté libertin, l'argument qui déclenche le clic est l'absence de carte
+  // bancaire — pas la promesse de profils, que tous les concurrents font.
   const expandedSubtitle = isDrague
     ? 'Profils géolocalisés disponibles maintenant'
-    : 'Couples et célibataires disponibles maintenant';
+    : 'Tout est débloqué gratuitement, sans carte bancaire';
   const minimizedTitle = isDrague
     ? 'Rencontres gay près de chez vous'
-    : 'Des libertins vous attendent';
-  const buttonLabel = 'Voir les profils';
+    : 'Essai libertin sans carte bancaire';
+  const buttonLabel = isDrague ? 'Voir les profils' : 'Essayer gratuitement';
 
   // Couleurs adaptées
   const accentBg = isDrague ? 'bg-purple-500' : 'bg-accent-primary';
@@ -62,7 +76,7 @@ export default function FloatingCTA() {
     sessionStorage.removeItem('floatingCTA_minimized');
   };
 
-  if (!mounted) return null;
+  if (!mounted || hidden) return null;
 
   // Bouton minimisé
   if (isMinimized) {
@@ -122,6 +136,7 @@ export default function FloatingCTA() {
               href={affiliateUrl}
               target="_blank"
               rel="nofollow sponsored noopener"
+              onClick={() => trackAffiliateClick(partner.target, 'floating-cta')}
               className={`flex items-center justify-center gap-2 w-full sm:w-auto px-6 py-3 ${accentBg} ${accentBgHover} rounded-lg transition-all hover:scale-105 shadow-lg ${accentShadow} whitespace-nowrap`}
             >
               <span className="text-white font-bold">{buttonLabel}</span>

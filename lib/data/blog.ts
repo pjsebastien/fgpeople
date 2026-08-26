@@ -3,8 +3,18 @@
  * Fonctions d'accès aux données des articles
  */
 
-import { blogArticles } from '@/data/blog_articles';
+import { blogArticles as rawArticles } from '@/data/blog_articles';
+import { isSiteReviewSlug } from '@/lib/data/site-reviews';
 import type { BlogArticle, ArticleCategory } from '@/lib/types';
+
+/**
+ * Les avis sur les sites de rencontre ont migré des articles de blog vers le
+ * format dédié (data/site_reviews/), bien plus riche. On les retire ici pour
+ * qu'une même URL ne soit pas revendiquée par les deux systèmes : l'ancienne
+ * version reste dans blog_articles.ts tant que la nouvelle n'a pas repris
+ * l'intégralité de son contenu.
+ */
+const blogArticles = rawArticles.filter((a) => !isSiteReviewSlug(a.slug));
 
 // Liste des slugs d'articles pour vérification rapide
 const articleSlugs = new Set(blogArticles.map(a => a.slug));

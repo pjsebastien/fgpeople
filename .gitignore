@@ -32,6 +32,9 @@ yarn-error.log*
 # Vercel
 .vercel
 
+# Briefs récupérés en local (matière première des avis, pas du code)
+.briefs/
+
 # TypeScript
 *.tsbuildinfo
 next-env.d.ts

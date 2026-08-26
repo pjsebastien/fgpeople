@@ -132,7 +132,11 @@ function revalidateForReview(review: Review | null) {
     revalidatePath('/admin/avis');
     return;
   }
-  if (review.entity_type === 'club') {
+  if (review.entity_type === 'site') {
+    // Page d'avis du site + comparatif (la note moyenne y est affichée)
+    revalidatePath(`/${review.lieu_slug}`);
+    revalidatePath('/comparatif-sites-libertins');
+  } else if (review.entity_type === 'club') {
     // Page détail du club
     revalidatePath(`/${review.lieu_slug}`);
     // Pages de listing concernées (la ville suffit en général)

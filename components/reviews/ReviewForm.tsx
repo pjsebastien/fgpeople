@@ -11,7 +11,7 @@
 
 import { useState, useTransition, useRef } from 'react';
 import { submitReviewAction } from '@/app/actions/reviews';
-import { CRITERIA, type CriterionCategory } from '@/lib/utils/review-criteria';
+import { getCriteria, type CriterionCategory } from '@/lib/utils/review-criteria';
 import type { SubmitReviewResult, EntityType } from '@/lib/types/reviews';
 
 interface ReviewFormProps {
@@ -185,7 +185,7 @@ export default function ReviewForm({
         />
         <p className="text-text-muted text-xs mt-1">
           {charCount}/2000 caractères{' '}
-          {charCount < 10 && <span className="text-yellow-500">— minimum 10 caractères</span>}
+          {charCount < 10 && <span className="text-yellow-500">minimum 10 caractères</span>}
         </p>
       </div>
 
@@ -193,18 +193,19 @@ export default function ReviewForm({
       <details className="group bg-bg-tertiary rounded-lg border border-border">
         <summary className="cursor-pointer list-none px-3 py-2 text-sm flex items-center justify-between">
           <span className="text-text-primary font-medium">
-            Préciser le profil du lieu <span className="text-text-muted font-normal">(optionnel)</span>
+            {entityType === 'site' ? 'Préciser ton expérience' : 'Préciser le profil du lieu'}{' '}
+            <span className="text-text-muted font-normal">(optionnel)</span>
           </span>
           <svg className="w-4 h-4 text-text-muted transition-transform group-open:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
           </svg>
         </summary>
         <div className="px-3 pb-3 pt-1 space-y-3 border-t border-border">
-          {CRITERIA.map((cat) => (
+          {getCriteria(entityType).map((cat) => (
             <fieldset key={cat.key}>
               <legend className="text-text-secondary text-xs font-medium mb-1">
                 {cat.label}
-                {cat.hint && <span className="text-text-muted font-normal ml-1">— {cat.hint}</span>}
+                {cat.hint && <span className="text-text-muted font-normal ml-1">({cat.hint})</span>}
               </legend>
               <div className="flex flex-wrap gap-1.5">
                 {cat.options.map((opt) => {

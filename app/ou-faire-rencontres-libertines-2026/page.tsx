@@ -30,7 +30,7 @@ export default function OuFaireRencontresLibertines2026Page() {
             <p className="text-text-secondary text-lg md:text-xl leading-relaxed">
               Le paysage libertin de 2026 a achevé sa révolution. Nous sommes loin des clichés
               clandestins du passé ; aujourd&apos;hui, le milieu appartient à ceux qui maîtrisent
-              l&apos;art du «&nbsp;slow-sex&nbsp;» — cette montée en tension électrique et cérébrale —
+              l&apos;art du «&nbsp;slow-sex&nbsp;», cette montée en tension électrique et cérébrale,
               et aux espaces hybrides où le luxe côtoie la luxure la plus pure. En tant
               qu&apos;acteur évoluant quotidiennement dans cet univers, je vois les codes
               changer&nbsp;: on ne cherche plus simplement un corps, on cherche une expérience
@@ -90,7 +90,7 @@ export default function OuFaireRencontresLibertines2026Page() {
             <div className="relative w-full h-64 md:h-80 rounded-xl overflow-hidden mt-8">
               <Image
                 src="/images/club-libertin-ambiance-3.jpg"
-                alt="Sauna libertin façon spa de luxe — vapeur et alcôves intimistes"
+                alt="Sauna libertin façon spa de luxe : vapeur et alcôves intimistes"
                 fill
                 className="object-cover"
                 sizes="(max-width: 768px) 100vw, 896px"
@@ -109,7 +109,7 @@ export default function OuFaireRencontresLibertines2026Page() {
             <p className="text-text-secondary leading-relaxed mb-4">
               Les «&nbsp;Secret Mansions&nbsp;» et les locations de villas de luxe pour des
               week-ends thématiques explosent. On se retrouve entre pairs dans des cadres
-              somptueux — souvent des propriétés isolées avec piscine et équipements pros —
+              somptueux, souvent des propriétés isolées avec piscine et équipements pros,
               pour 48 heures de liberté absolue. C&apos;est l&apos;alternative parfaite pour
               ceux qui saturent de la routine des clubs classiques.
             </p>
@@ -194,7 +194,7 @@ export default function OuFaireRencontresLibertines2026Page() {
             <div className="relative w-full h-64 md:h-80 rounded-xl overflow-hidden mt-8">
               <Image
                 src="/images/club-libertin-ambiance-10.jpg"
-                alt="Sélection chirurgicale en ligne — matcher par affinité et fantasmes précis"
+                alt="Sélection chirurgicale en ligne : matcher par affinité et fantasmes précis"
                 fill
                 className="object-cover"
                 sizes="(max-width: 768px) 100vw, 896px"

@@ -106,7 +106,7 @@ export default async function DragueVillePage({
       <DragueBreadcrumbJsonLd items={[{ name: 'Accueil', url: '/' }, ...breadcrumbItems]} />
       <DraguePlaceListJsonLd
         lieux={lieux}
-        name={`Lieux de drague à ${v.nom} — ${currentYear()}`}
+        name={`Lieux de drague à ${v.nom} ${currentYear()}`}
         description={dragueVilleMeta(v.nom, v.lieuCount, v.departement)}
         reviewsByLieuId={reviewsByLieuId}
       />
@@ -227,8 +227,8 @@ export default async function DragueVillePage({
               <ul>
                 {lieux.map((l) => (
                   <li key={l.id}>
-                    <strong>{l.nom}</strong> — {l.typeLabel}
-                    {l.localisation.adresse_ou_description && <> — {l.localisation.adresse_ou_description}</>}
+                    <strong>{l.nom}</strong>, {l.typeLabel}
+                    {l.localisation.adresse_ou_description && <>. {l.localisation.adresse_ou_description}</>}
                   </li>
                 ))}
               </ul>

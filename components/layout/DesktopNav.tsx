@@ -159,6 +159,14 @@ export default function DesktopNav({ regions, departements, typeCategories }: De
         Lieux de drague
       </Link>
 
+      {/* Comparatif des sites de rencontre */}
+      <Link
+        href="/comparatif-sites-libertins"
+        className="px-4 py-2 text-sm font-medium text-text-secondary hover:text-accent-primary transition-colors rounded-lg hover:bg-bg-secondary"
+      >
+        Avis sites
+      </Link>
+
       {/* Conseils */}
       <Link
         href="/conseils"

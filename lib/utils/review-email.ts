@@ -34,7 +34,7 @@ export async function notifyAdminNewReview(review: Review, lieuName?: string): P
   if (!c || !to) return;
 
   const stars = '★'.repeat(review.rating) + '☆'.repeat(5 - review.rating);
-  const subject = `[FG People] Nouvel avis à modérer — ${stars} ${lieuName || review.lieu_slug}`;
+  const subject = `[FG People] Nouvel avis à modérer : ${stars} ${lieuName || review.lieu_slug}`;
   const adminUrl = `${SITE_URL}/admin/avis`;
 
   const html = `
