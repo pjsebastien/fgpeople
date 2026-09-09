@@ -9,9 +9,10 @@
 import { useState, useEffect } from 'react';
 import { usePathname } from 'next/navigation';
 
-import { LIBERTIN_AFFILIATE, GAY_AFFILIATE, affiliateForPath } from '@/lib/config/affiliates';
+import { GAY_AFFILIATE, affiliateForPath, getLibertinPartner } from '@/lib/config/affiliates';
 import { trackAffiliateClick } from '@/lib/utils/track-affiliate';
-import { GleeseLogo } from './GleeseBanner';
+import PartnerBrand from './PartnerBrand';
+import Link from 'next/link';
 import GleeseReviewLink from '@/components/site-reviews/GleeseReviewLink';
 
 const DELAY_MS = 20000; // 20 secondes
@@ -66,6 +67,9 @@ export default function DelayedPopup() {
 
   if (!mounted || !isOpen || suppressed) return null;
 
+  // Partenaire libertin du jour (rotation Carré Libertin / Gleese)
+  const libertin = getLibertinPartner();
+
   // Contenu selon le variant
   const config = isDrague
     ? {
@@ -80,16 +84,15 @@ export default function DelayedPopup() {
         ribbonText: 'NOUVEAU',
       }
     : {
-        url: LIBERTIN_AFFILIATE.url,
+        url: libertin.url,
         accent: 'red',
-        title: 'Testez sans donner votre carte',
+        title: libertin.hook,
         baseline: 'Couples et célibataires actifs maintenant',
-        description:
-          "Ne partez pas seul(e) au club. Gleese est le nouveau réseau libertin français, lancé fin 2024 : toutes les fonctions premium sont débloquées gratuitement, sans carte bancaire, et la communauté est encore loin d'être saturée.",
-        bullets: ['Sans carte bancaire', 'Profils vérifiés par téléphone', 'Modération humaine'],
-        cta: 'Créer mon profil gratuitement',
-        // Gleese est sorti fin 2024 : le dire attire l'œil et c'est vrai
-        ribbonText: 'NOUVEAU',
+        description: `Ne partez pas seul(e) au club. ${libertin.label}, c'est ${libertin.pitch}.`,
+        bullets: libertin.benefits.slice(0, 3).map((b) => b.label),
+        cta: libertin.ctaLabel,
+        // Reprend la pastille du partenaire du jour, jamais une promesse figée
+        ribbonText: libertin.badge || 'GRATUIT',
       };
 
   // Classes dynamiques selon couleur
@@ -145,7 +148,7 @@ export default function DelayedPopup() {
           </div>
 
           {/* Marque — le visiteur sait où il va avant de cliquer */}
-          {!isDrague && <GleeseLogo height={24} className="mb-3" block="popup" />}
+          {!isDrague && <PartnerBrand partner={libertin} height={24} className="mb-3" />}
 
           {/* Titre */}
           <h3 className="text-2xl font-bold text-white leading-tight">{config.title}</h3>
@@ -185,9 +188,19 @@ export default function DelayedPopup() {
               </svg>
             </a>
 
+            {/* Lien éditorial : notre test quand on en a un, sinon le comparatif */}
             {!isDrague && (
               <p className="mt-3 text-xs text-center" onClick={handleClose}>
-                <GleeseReviewLink seed="popup-libertin" />
+                {libertin.reviewSlug === 'avis-gleese' ? (
+                  <GleeseReviewLink seed="popup-libertin" />
+                ) : (
+                  <Link
+                    href="/comparatif-sites-libertins"
+                    className="text-accent-primary hover:text-accent-hover underline underline-offset-2"
+                  >
+                    Notre comparatif des sites libertins testés
+                  </Link>
+                )}
               </p>
             )}
 

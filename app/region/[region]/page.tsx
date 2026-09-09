@@ -20,6 +20,10 @@ import RelatedLinks from '@/components/navigation/RelatedLinks';
 import LibertinCTA from '@/components/ui/LibertinCTA';
 import { BreadcrumbJsonLd, ItemListJsonLd } from '@/components/seo/JsonLd';
 
+// ISR : permet a la rotation quotidienne des partenaires de prendre effet
+// dans les 5 minutes suivant la bascule (voir lib/config/affiliates.ts).
+export const revalidate = 300;
+
 export async function generateStaticParams() {
   const slugs = await getAllRegionSlugs();
   return slugs.map((region) => ({ region }));

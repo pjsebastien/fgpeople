@@ -31,15 +31,15 @@ export default function FloatingCTA() {
   const expandedTitle = isDrague
     ? 'Hommes gay & bi près de chez vous'
     : 'Des libertins vous attendent près de chez vous';
-  // Côté libertin, l'argument qui déclenche le clic est l'absence de carte
-  // bancaire — pas la promesse de profils, que tous les concurrents font.
-  const expandedSubtitle = isDrague
-    ? 'Profils géolocalisés disponibles maintenant'
-    : 'Tout est débloqué gratuitement, sans carte bancaire';
-  const minimizedTitle = isDrague
-    ? 'Rencontres gay près de chez vous'
-    : 'Essai libertin sans carte bancaire';
-  const buttonLabel = isDrague ? 'Voir les profils' : 'Essayer gratuitement';
+  // Côté libertin, l'argument qui déclenche le clic vient du partenaire du
+  // jour : « sans carte bancaire » pour Gleese, « gratuit femmes et couples »
+  // pour Carré Libertin. Promettre le mauvais ferait rebondir le visiteur.
+  const expandedSubtitle = isDrague ? 'Profils géolocalisés disponibles maintenant' : partner.hook;
+  const minimizedTitle = isDrague ? 'Rencontres gay près de chez vous' : partner.hook;
+  // Sur mobile la pastille réduite n'affiche que la marque : l'accroche
+  // complète y débordait et occupait un tiers de l'écran.
+  const minimizedShort = isDrague ? 'Rencontres gay' : partner.label;
+  const buttonLabel = isDrague ? 'Voir les profils' : partner.ctaLabel;
 
   // Couleurs adaptées
   const accentBg = isDrague ? 'bg-purple-500' : 'bg-accent-primary';
@@ -81,19 +81,21 @@ export default function FloatingCTA() {
   // Bouton minimisé
   if (isMinimized) {
     return (
-      <div className="fixed bottom-4 right-4 z-[150]">
+      <div className="fixed bottom-3 right-3 sm:bottom-4 sm:right-4 z-[150]">
         <button
           onClick={handleReopen}
-          className={`group relative flex items-center gap-3 px-5 py-3.5 bg-gradient-to-r ${minimizedFromTo} text-white rounded-xl shadow-xl ${accentShadow} hover:shadow-lg transition-all hover:scale-105 border border-white/20`}
-          aria-label="Voir les profils"
+          className={`group relative flex items-center gap-1.5 sm:gap-3 pl-2.5 pr-3 py-2 sm:px-5 sm:py-3.5 bg-gradient-to-r ${minimizedFromTo} text-white rounded-full sm:rounded-xl shadow-lg ${accentShadow} hover:shadow-xl transition-all hover:scale-105 border border-white/20 opacity-90 hover:opacity-100`}
+          aria-label={`Rouvrir l'offre ${minimizedShort}`}
         >
-          <span className="relative flex h-3 w-3">
+          <span className="relative flex h-2 w-2 sm:h-3 sm:w-3">
             <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-green-400 opacity-75"></span>
-            <span className="relative inline-flex rounded-full h-3 w-3 bg-green-500"></span>
+            <span className="relative inline-flex rounded-full h-2 w-2 sm:h-3 sm:w-3 bg-green-500"></span>
           </span>
-          <span className="font-bold text-base">{minimizedTitle}</span>
-          <svg className="w-5 h-5 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 15l7-7 7 7" />
+          {/* Mobile : la marque seule. Desktop : l'accroche complète. */}
+          <span className="sm:hidden font-semibold text-xs whitespace-nowrap">{minimizedShort}</span>
+          <span className="hidden sm:inline font-bold text-base">{minimizedTitle}</span>
+          <svg className="w-3.5 h-3.5 sm:w-5 sm:h-5 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" strokeWidth={2.5} viewBox="0 0 24 24">
+            <path strokeLinecap="round" strokeLinejoin="round" d="M5 15l7-7 7 7" />
           </svg>
         </button>
       </div>
