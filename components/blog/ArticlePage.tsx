@@ -9,7 +9,8 @@ import type { BlogArticle } from '@/lib/types';
 import { getRelatedArticles } from '@/lib/data/blog';
 import Breadcrumb from '@/components/ui/Breadcrumb';
 import { BreadcrumbJsonLd, ArticleJsonLd } from '@/components/seo/JsonLd';
-import GleeseReviewLink from '@/components/site-reviews/GleeseReviewLink';
+import PartnerReviewLink from '@/components/site-reviews/PartnerReviewLink';
+import { getLibertinPartner } from '@/lib/config/affiliates';
 
 interface ArticlePageProps {
   article: BlogArticle;
@@ -86,6 +87,7 @@ function parseTextWithFormatting(text: string): React.ReactNode[] {
 
 export default function ArticlePage({ article }: ArticlePageProps) {
   const relatedArticles = getRelatedArticles(article.slug, 3);
+  const partnerReviewSlug = getLibertinPartner().reviewSlug;
 
   const breadcrumbItems = [
     { name: 'Accueil', url: '/' },
@@ -265,10 +267,13 @@ export default function ArticlePage({ article }: ArticlePageProps) {
             </section>
           )}
 
-          {/* Notre test du moment — ancre variable selon l'article */}
-          <section className="mt-12">
-            <GleeseReviewLink seed={article.slug} variant="card" />
-          </section>
+          {/* Notre test du moment : suit le partenaire du jour, ancre variable
+              selon l'article pour ne pas répéter le même lien partout. */}
+          {partnerReviewSlug && (
+            <section className="mt-12">
+              <PartnerReviewLink slug={partnerReviewSlug} seed={article.slug} variant="card" />
+            </section>
+          )}
 
           {/* Maillage interne - Pages piliers */}
           <section className="mt-16 bg-bg-secondary rounded-2xl p-6 md:p-8 border border-border">

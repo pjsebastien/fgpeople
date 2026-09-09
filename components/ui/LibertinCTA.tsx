@@ -15,7 +15,7 @@ import Link from 'next/link';
 import { getLibertinPartner, type AffiliatePartner } from '@/lib/config/affiliates';
 import TrackedAffiliateLink from './TrackedAffiliateLink';
 import PartnerBrand from './PartnerBrand';
-import GleeseReviewLink from '@/components/site-reviews/GleeseReviewLink';
+import PartnerReviewLink from '@/components/site-reviews/PartnerReviewLink';
 
 interface LibertinCTAProps {
   location: string;
@@ -63,8 +63,8 @@ function PartnerBadge({ partner }: { partner: AffiliatePartner }) {
  * pour ne jamais perdre le maillage interne.
  */
 function EditorialLink({ partner, seed }: { partner: AffiliatePartner; seed: string }) {
-  if (partner.reviewSlug === 'avis-gleese') {
-    return <GleeseReviewLink seed={seed} />;
+  if (partner.reviewSlug) {
+    return <PartnerReviewLink slug={partner.reviewSlug} seed={seed} />;
   }
   return (
     <Link

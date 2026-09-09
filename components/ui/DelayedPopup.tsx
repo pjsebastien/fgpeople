@@ -13,7 +13,7 @@ import { GAY_AFFILIATE, affiliateForPath, getLibertinPartner } from '@/lib/confi
 import { trackAffiliateClick } from '@/lib/utils/track-affiliate';
 import PartnerBrand from './PartnerBrand';
 import Link from 'next/link';
-import GleeseReviewLink from '@/components/site-reviews/GleeseReviewLink';
+import PartnerReviewLink from '@/components/site-reviews/PartnerReviewLink';
 
 const DELAY_MS = 20000; // 20 secondes
 
@@ -191,8 +191,8 @@ export default function DelayedPopup() {
             {/* Lien éditorial : notre test quand on en a un, sinon le comparatif */}
             {!isDrague && (
               <p className="mt-3 text-xs text-center" onClick={handleClose}>
-                {libertin.reviewSlug === 'avis-gleese' ? (
-                  <GleeseReviewLink seed="popup-libertin" />
+                {libertin.reviewSlug ? (
+                  <PartnerReviewLink slug={libertin.reviewSlug} seed="popup-libertin" />
                 ) : (
                   <Link
                     href="/comparatif-sites-libertins"

@@ -363,6 +363,6 @@ Pour un couple en zone urbaine, la réponse est presque toujours oui : c'est là
 
   publishedAt: '2026-08-14',
   updatedAt: '2026-08-14',
-  rank: 2,
+  rank: 3,
   badge: 'La plus grosse communauté',
 };

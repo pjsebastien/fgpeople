@@ -118,13 +118,14 @@ export const CARRE_LIBERTIN_AFFILIATE: AffiliatePartner = {
   pitch:
     "l'un des plus anciens sites libertins français, avec une communauté installée depuis près de vingt ans",
   benefits: [
-    { label: 'Gratuit femmes et couples', hint: 'accès complet, sans abonnement' },
+    { label: 'Gratuit femmes et couples', hint: 'accès complet, avec 3 photos de profil' },
     { label: 'Communauté installée', hint: 'plus de 500 000 inscrits depuis 2007' },
     { label: 'Annonces et chat', hint: 'dites vos envies, on vous répond' },
     { label: 'Lives et webcams', hint: 'échangez avant de vous déplacer' },
   ],
   ctaLabel: 'Rejoindre Carré Libertin',
-  priceNote: 'Inscription gratuite. Accès complet offert aux femmes et aux couples',
+  priceNote: 'Inscription gratuite. Accès complet offert aux femmes et aux couples (3 photos requises)',
+  reviewSlug: 'avis-carre-libertin',
 };
 
 /**

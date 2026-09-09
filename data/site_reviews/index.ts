@@ -9,6 +9,7 @@
 
 import type { SiteReview } from '@/lib/types/site-review';
 import { gleese } from './gleese';
+import { carreLibertin } from './carre-libertin';
 import { wyylde } from './wyylde';
 
-export const siteReviews: SiteReview[] = [gleese, wyylde];
+export const siteReviews: SiteReview[] = [gleese, carreLibertin, wyylde];

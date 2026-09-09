@@ -16,7 +16,7 @@ import { getLibertinPartner, GLEESE_ASSETS } from '@/lib/config/affiliates';
 import Link from 'next/link';
 import TrackedAffiliateLink from './TrackedAffiliateLink';
 import PartnerBrand from './PartnerBrand';
-import GleeseReviewLink from '@/components/site-reviews/GleeseReviewLink';
+import PartnerReviewLink from '@/components/site-reviews/PartnerReviewLink';
 
 export default function PartnerSidebarCard({ block = 'colonne-club' }: { block?: string }) {
   const partner = getLibertinPartner();
@@ -83,8 +83,8 @@ export default function PartnerSidebarCard({ block = 'colonne-club' }: { block?:
         </TrackedAffiliateLink>
 
         <p className="mt-3 text-xs text-center">
-          {partner.reviewSlug === 'avis-gleese' ? (
-            <GleeseReviewLink seed={`sidebar-${block}`} />
+          {partner.reviewSlug ? (
+            <PartnerReviewLink slug={partner.reviewSlug} seed={`sidebar-${block}`} />
           ) : (
             <Link
               href="/comparatif-sites-libertins"
