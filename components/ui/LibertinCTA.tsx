@@ -2,9 +2,9 @@
  * Bloc CTA libertin : pages régions, départements, villes et fiches clubs.
  *
  * Composant SERVEUR. Il lit le partenaire du jour via getLibertinPartner(),
- * qui alterne Carré Libertin et Gleese un jour sur deux (bascule à 6 h, heure
- * de Paris). Les pages concernées tournent en ISR à 300 s, donc le HTML se
- * régénère dans les cinq minutes qui suivent la bascule.
+ * (Carré Libertin), avec Gleese proposé en petit sous le bouton. Les pages
+ * concernées tournent en ISR à 300 s, donc le HTML se régénère dans les cinq
+ * minutes qui suivent un changement de partenaire.
  *
  * Rester en composant serveur est ce qui rend la rotation fiable : le lien
  * n'est calculé qu'une fois, côté serveur, sans risque d'écart entre le
@@ -15,6 +15,7 @@ import Link from 'next/link';
 import { getLibertinPartner, type AffiliatePartner } from '@/lib/config/affiliates';
 import TrackedAffiliateLink from './TrackedAffiliateLink';
 import PartnerBrand from './PartnerBrand';
+import AlternativePartnerLink from './AlternativePartnerLink';
 import PartnerReviewLink from '@/components/site-reviews/PartnerReviewLink';
 
 interface LibertinCTAProps {
@@ -136,6 +137,7 @@ export default function LibertinCTA({ location, variant = 'default' }: LibertinC
               </svg>
             </TrackedAffiliateLink>
             <p className="text-text-muted text-xs mt-2">{partner.priceNote}</p>
+            <AlternativePartnerLink block="bloc-libertin" className="mt-2" />
             <p className="mt-3 text-xs">
               <EditorialLink partner={partner} seed={`compact-${location}`} />
             </p>
@@ -210,6 +212,8 @@ export default function LibertinCTA({ location, variant = 'default' }: LibertinC
         <p className="text-text-muted text-xs mt-3">
           Inscription en 2 minutes · {partner.priceNote} · Lien partenaire
         </p>
+
+        <AlternativePartnerLink block="bloc-libertin" className="mt-2" />
 
         <p className="mt-4 text-sm">
           <EditorialLink partner={partner} seed={`club-${location}`} />

@@ -46,6 +46,11 @@ export interface AffiliatePartner {
   priceNote: string;
   /** Slug de notre avis, si nous en avons publié un. */
   reviewSlug?: string;
+  /**
+   * Accroche courte quand le partenaire est proposé en alternative, en petit
+   * sous le bouton du partenaire principal.
+   */
+  altPitch?: { lead: string; cta: string };
 }
 
 // ============================================
@@ -84,6 +89,7 @@ export const GLEESE_AFFILIATE: AffiliatePartner = {
   ctaLabel: 'Créer mon profil gratuitement',
   priceNote: 'Puis à partir de 3,75 €/mois, sans engagement',
   reviewSlug: 'avis-gleese',
+  altPitch: { lead: 'Vous préférez un site plus récent ?', cta: 'Essayez Gleese, sans carte bancaire' },
 };
 
 /**
@@ -211,6 +217,14 @@ export function getLibertinPartner(now: Date = new Date()): AffiliatePartner {
   const offset = libertinDayIndex(now) - ROTATION_ANCHOR;
   const index = ((offset % LIBERTIN_ROTATION.length) + LIBERTIN_ROTATION.length) % LIBERTIN_ROTATION.length;
   return LIBERTIN_ROTATION[index];
+}
+
+/**
+ * Partenaire libertin proposé en second, en petit sous le bouton principal.
+ * Gleese tant qu'il n'est pas lui-même le partenaire du jour.
+ */
+export function getLibertinAlternative(now: Date = new Date()): AffiliatePartner | null {
+  return getLibertinPartner(now).target === GLEESE_AFFILIATE.target ? null : GLEESE_AFFILIATE;
 }
 
 /** Choisit le partenaire selon la section du site. */

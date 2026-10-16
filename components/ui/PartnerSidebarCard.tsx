@@ -16,6 +16,7 @@ import { getLibertinPartner, GLEESE_ASSETS } from '@/lib/config/affiliates';
 import Link from 'next/link';
 import TrackedAffiliateLink from './TrackedAffiliateLink';
 import PartnerBrand from './PartnerBrand';
+import AlternativePartnerLink from './AlternativePartnerLink';
 import PartnerReviewLink from '@/components/site-reviews/PartnerReviewLink';
 
 export default function PartnerSidebarCard({ block = 'colonne-club' }: { block?: string }) {
@@ -81,6 +82,8 @@ export default function PartnerSidebarCard({ block = 'colonne-club' }: { block?:
             <path strokeLinecap="round" strokeLinejoin="round" d="M13 7l5 5m0 0l-5 5m5-5H6" />
           </svg>
         </TrackedAffiliateLink>
+
+        <AlternativePartnerLink block={block} className="mt-2 text-center" />
 
         <p className="mt-3 text-xs text-center">
           {partner.reviewSlug ? (
