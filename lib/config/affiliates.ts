@@ -152,10 +152,13 @@ export const GAY_AFFILIATE: AffiliatePartner = {
 // ============================================
 
 /**
- * Les deux partenaires du trafic libertin alternent un jour sur deux.
+ * Partenaires du trafic libertin, servis à tour de rôle un jour chacun.
  * L'ordre du tableau fixe la séquence.
+ *
+ * Depuis le 16/10/2026, Carré Libertin est seul en rotation, donc servi tous
+ * les jours. Pour revenir à l'alternance, rajouter GLEESE_AFFILIATE ici.
  */
-const LIBERTIN_ROTATION: AffiliatePartner[] = [CARRE_LIBERTIN_AFFILIATE, GLEESE_AFFILIATE];
+const LIBERTIN_ROTATION: AffiliatePartner[] = [CARRE_LIBERTIN_AFFILIATE];
 
 /**
  * Heure de bascule, en heure de Paris. À 6 h plutôt qu'à minuit pour que le
