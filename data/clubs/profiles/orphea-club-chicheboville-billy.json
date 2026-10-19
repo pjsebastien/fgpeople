@@ -1,0 +1,892 @@
+{
+  "slug": "orphea-club-chicheboville-billy",
+  "clubId": "424",
+  "researchedAt": "2026-10-16",
+  "display": {
+    "nom": "L'Orphéa Club",
+    "ville": "Chicheboville / Billy"
+  },
+  "status": {
+    "value": "ouvert",
+    "summary": "Le vendredi 16 octobre 2026, jour de notre relevé, l'accueil du site annonçait pour le soir même une « Nuit Bisexuelle » mixte de 21h30 à 3h30, et ses affiches menaient jusqu'au samedi 31 octobre, second acte d'un Halloween en deux soirées. Le 19 octobre, l'accueil affichait déjà horaires et tarifs du week-end des 23 et 24 octobre. La SARL L'ORPHEA, qui exploite le club depuis 2007, est active au registre et a déposé ses comptes 2025 (BODACC du 14 juillet 2026).",
+    "sources": [
+      "s1",
+      "s2",
+      "s32",
+      "s11",
+      "s12"
+    ]
+  },
+  "seo": {
+    "title": "L'Orphéa Club à Chicheboville : avis, photos et prix 2026",
+    "metaDescription": "L'Orphéa Club, près de Caen : nouveau propriétaire depuis l'été 2025, couple 35 € le vendredi, homme seul 42 €, balnéo ouverte la nuit. Avis et photos.",
+    "subtitle": "Club libertin avec discothèque et espace balnéo à Chicheboville, près de Caen (Calvados)",
+    "targetQueries": [
+      "avis sur l'orphéa club",
+      "l'orphéa club avis",
+      "l'orphéa club photos",
+      "photos de l'orphéa club",
+      "orphéa club tarifs",
+      "orphéa club chicheboville"
+    ]
+  },
+  "lead": "L'Orphéa Club ouvre le vendredi en mixte et le samedi aux couples et aux femmes seules, au 15, rue de Navarre à Chicheboville, près de Caen. Sa société exploitante date d'avril 2007, mais le site annonce un « Changement de propriétaire » depuis l'été 2025, suivi d'une nouvelle grille : couple à 35 € le vendredi, femme seule à 10 €, homme seul toujours à 42 €. L'argument maison reste un espace balnéo accessible nu toute la nuit.",
+  "keyFacts": [
+    {
+      "label": "Société exploitante",
+      "value": "SARL L'ORPHEA (SIREN 495 401 986), créée le 28 avril 2007, active",
+      "confidence": "confirme",
+      "sources": [
+        "s11",
+        "s12"
+      ]
+    },
+    {
+      "label": "Propriétaire",
+      "value": "« Changement de propriétaire » affiché depuis l'été 2025, repreneur non nommé",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s25",
+        "s26"
+      ]
+    },
+    {
+      "label": "Jours d'ouverture",
+      "value": "Vendredi et veilles de jours fériés (mixte) ; samedi (couples et femmes seules, certains samedis mixtes)",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "label": "Entrée couple",
+      "value": "35 € le vendredi, 45 € le samedi, une boisson par personne",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s3"
+      ]
+    },
+    {
+      "label": "Entrée homme seul",
+      "value": "42 € avec une boisson, le vendredi et les samedis annoncés mixtes",
+      "confidence": "confirme",
+      "sources": [
+        "s3",
+        "s27",
+        "s32"
+      ]
+    },
+    {
+      "label": "Entrée femme seule",
+      "value": "10 € avec une boisson, le vendredi comme le samedi",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s3"
+      ]
+    },
+    {
+      "label": "Réservation",
+      "value": "Aucune : toutes les soirées sont sans réservation",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s4"
+      ]
+    },
+    {
+      "label": "Paiement",
+      "value": "Carte bancaire ou espèces",
+      "confidence": "confirme",
+      "sources": [
+        "s3"
+      ]
+    },
+    {
+      "label": "Espace balnéo",
+      "value": "Hammam, sauna, jacuzzi et piscine, accessibles nu toute la nuit",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s6"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "vendredi-samedi-tarifs",
+      "title": "Vendredi mixte dès 21h30, samedi couples jusqu'à 4h30 : qui entre, et pour combien",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le club n'ouvre que deux soirs par semaine, plus les veilles de jours fériés. **Le vendredi** et chaque veille de jour férié, la soirée est mixte de 21h30 à 3h30. **Le samedi**, de 22h à 4h30, elle est en principe réservée aux couples et aux femmes seules : la page des tarifs n'y prévoit aucun prix pour l'homme seul.\n\nSeule la page d'accueil signale les exceptions : les samedis 9 août 2025 et 24 janvier 2026 étaient mixtes, comme les samedis 24 et 31 octobre 2026. Le 24 octobre, l'homme seul paie 42 €, le couple 45 € et la femme seule 10 €.\n\nChaque entrée comprend une boisson par personne, le paiement se fait par carte bancaire ou en espèces, et rien ne se réserve."
+        },
+        {
+          "kind": "table",
+          "caption": "L'entrée au fil des grilles publiées par le club",
+          "headers": [
+            "Période",
+            "Couple, vendredi",
+            "Couple, samedi",
+            "Femme seule",
+            "Homme seul, vendredi"
+          ],
+          "rows": [
+            [
+              "2009",
+              "20 €",
+              "40 €",
+              "offerte le vendredi",
+              "40 €"
+            ],
+            [
+              "2013-2015",
+              "28 €",
+              "45 €",
+              "7 €, sans consommation",
+              "42 €"
+            ],
+            [
+              "Avril 2024 à août 2025",
+              "30 €",
+              "45 €",
+              "8 €, sans boisson",
+              "42 €"
+            ],
+            [
+              "Depuis janvier 2026 au plus tard",
+              "35 €",
+              "45 €",
+              "10 €, avec une boisson",
+              "42 €"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "En dix-sept ans, l'entrée du couple le vendredi est passée de 20 à 35 €, quand celle de l'homme seul n'a pris que 2 €. Un homme seul paie donc 7 € de plus qu'un couple entier.\n\nAvant de dépenser ces 42 €, vous pouvez chercher des couples ou des femmes du secteur prêts à accueillir un cavalier : [un site lancé fin 2024 qui n'exige aucune carte bancaire](aff:gleese), Gleese, s'y prête, et chaque profil y est vérifié par téléphone."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s14",
+        "s15",
+        "s16",
+        "s25",
+        "s26",
+        "s27",
+        "s32"
+      ],
+      "icon": "euro",
+      "summary": "Vendredi mixte (couple 35 €, homme seul 42 €), samedi couples à 45 € sauf soirs mixtes ; femme seule 10 €, une boisson comprise. L'homme seul paie 42 € depuis 2013."
+    },
+    {
+      "id": "photos-orphea-club",
+      "title": "Photos de l'Orphéa Club : six rubriques officielles, et des affiches qui n'en sont pas",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "La seule galerie officielle est la page [« Visite du club »](https://www.orpheaclub.com/large-grid) du site, en six rubriques : parking privé et fermé ; bar et discothèque ; coins câlins ; vestiaires, WC et douches ; hammam et sauna ; jacuzzi et piscine. Les images s'y chargent en JavaScript : nous avons consulté les rubriques, pas chaque cliché.\n\nEn 2014, l'ancien site montrait déjà sept rubriques très proches, dont un « bain à remous » et la piscine : ces espaces existaient donc déjà en 2014."
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Ce qui n'est pas une photo du club",
+          "body": "Les affiches des soirées d'octobre 2026 sont des illustrations, pas des vues du lieu. Sur l'accueil, une image de salon aux canapés capitonnés porte un nom de fichier commençant par « Copilot », un outil d'IA : nous la tenons pour une image probablement générée, pas pour une photo des lieux."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s2",
+        "s6",
+        "s29"
+      ],
+      "icon": "camera",
+      "summary": "La galerie officielle « Visite du club » montre six espaces, du parking au jacuzzi ; les affiches de soirées sont des illustrations, pas des photos du lieu."
+    },
+    {
+      "id": "balneo-toute-la-nuit",
+      "title": "Hammam, sauna, jacuzzi et piscine : une balnéo ouverte toute la nuit, à condition d'y être nu",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Chaque annonce de week-end le répète, encore celles des 23 et 24 octobre 2026 : l'espace balnéo reste accessible toute la nuit. Le texte de présentation du club précise que la seule condition pour y entrer est d'être nu. La galerie officielle y montre un hammam, un sauna, un jacuzzi et une piscine.\n\nLe club le dit « aussi grand qu'un sauna club » et « le plus grand de Normandie », deux formules déjà présentes sur son site en 2025. Aucune surface ni comparaison publiée ne les étaye : lisez-les comme une revendication.\n\nLe Petit Futé, dans un descriptif non daté dont les tarifs cités sont ceux de 2013-2015, parlait de 400 m² en trois zones (discothèque, coins câlins, détente) et d'une piscine « qui se découvre aux beaux jours », en notant qu'il y manquait « parfois quelques degrés ».\n\nAutour, le descriptif officiel cite une discothèque avec cage et barres de strip, des coins câlins de thèmes différents, un labyrinthe, une prison, un grand lit et une terrasse fumeur. Le labyrinthe et la prison n'ont pas de rubrique photo à leur nom, et le site ne dit pas sur combien de niveaux tout cela se répartit."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s6",
+        "s24",
+        "s25",
+        "s30",
+        "s32"
+      ],
+      "icon": "spa",
+      "summary": "Hammam, sauna, jacuzzi et piscine restent ouverts toute la nuit, à condition d'être nu ; « la plus grande balnéo de Normandie » est une revendication du club."
+    },
+    {
+      "id": "programme-octobre-2026",
+      "title": "Nuit Bisexuelle, Venin & Jarretelles, Halloween en deux actes : octobre 2026 à l'Orphéa",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le club ne publie plus son programme un mois à l'avance : sa page agenda invoque le « plagiat et pillage » de ses soirées. Horaires et tarifs ne sont détaillés que pour le week-end en cours.\n\nLes affiches, qui donnent le thème, le public et le DJ, vont plus loin : le 16 octobre 2026, elles couvraient la fin du mois."
+        },
+        {
+          "kind": "table",
+          "caption": "Soirées annoncées sur le site officiel au 16 octobre 2026",
+          "headers": [
+            "Date",
+            "Soirée",
+            "Public",
+            "DJ annoncé"
+          ],
+          "rows": [
+            [
+              "Vendredi 16 octobre",
+              "Nuit Bisexuelle",
+              "Mixte",
+              "Tom Angelo"
+            ],
+            [
+              "Samedi 17 octobre",
+              "Transparence (tenue légère)",
+              "Couples et femmes seules",
+              "Fabcast"
+            ],
+            [
+              "Vendredi 23 octobre",
+              "Venin & Jarretelles",
+              "Mixte",
+              "Benoit Sickwest"
+            ],
+            [
+              "Samedi 24 octobre",
+              "Toplesse & nudité absolue",
+              "Mixte",
+              "Fabcast"
+            ],
+            [
+              "Vendredi 30 octobre",
+              "Halloween, acte I : L'éveil des monstres",
+              "Mixte",
+              "Clement"
+            ],
+            [
+              "Samedi 31 octobre",
+              "Halloween, acte II : Le grand sabbat",
+              "Mixte",
+              "Niko Lah"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Pour prévoir une sortie plus tôt que ce que le club dévoile, [un agenda de soirées consultable avec un compte gratuit](aff:wyylde), celui de Wyylde (l'ancien Netéchangisme, rebaptisé en 2018), montre ce que d'autres clubs programment ; nous ne savons pas si l'Orphéa y inscrit les siennes."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s2",
+        "s4"
+      ],
+      "icon": "calendar",
+      "summary": "Octobre 2026 : Nuit Bisexuelle, Transparence, Venin & Jarretelles, Toplesse, puis Halloween les 30 et 31. Le club ne publie plus son agenda un mois à l'avance."
+    },
+    {
+      "id": "themes-recurrents",
+      "title": "Transparence, Lueur Blanche, buffets à 60 € : les soirées qui reviennent depuis 2024",
+      "icon": "sparkles",
+      "summary": "« Transparence » revient depuis janvier 2025, « Lueur Blanche » impose le blanc ; les soirées buffet de 2024-2025 n'apparaissent plus dans les captures de 2026.",
+      "blocks": [
+        {
+          "kind": "list",
+          "items": [
+            "**Transparence** : en janvier 2025, tarif réduit pour les femmes vêtues de transparence (couple à 25 €, femme seule gratuite) ; de nouveau en janvier 2026, puis le 17 octobre 2026, sans réduction affichée.",
+            "**Lueur Blanche** : les 12 et 13 juin 2026, tenue blanche demandée à tous.",
+            "**Pool Mousse Party** : annoncée en juin 2025.",
+            "**Plaisirs & Gâterie** : un week-end d'avril 2024, avec des bracelets fluo pour signaler ses envies de la soirée."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Les « Grandes Soirées Buffets » d'avril 2024 et de janvier 2025 (repas de 20h30 à 22h, couple à 60 €, homme seul à 50 €, femme seule à 15 €) n'apparaissent plus dans les captures de 2026 que nous avons lues.\n\nDJ Niko Lah, qui fêtait au club ses vingt ans de platines le 24 janvier 2026, était déjà à l'affiche en août 2025. Pour le vendredi 27 juin 2025, le club annonçait aussi la venue de ses « confrères » des Amazones, un club du Mans, et de leurs clients."
+        }
+      ],
+      "sources": [
+        "s16",
+        "s24",
+        "s25",
+        "s26",
+        "s27",
+        "s28",
+        "s1"
+      ]
+    },
+    {
+      "id": "tenue-et-charte",
+      "title": "Chemise pour lui, pas de jean pour elle : la tenue exigée et la charte de l'Orphéa",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le code vestimentaire figure sur la page d'accueil comme sur celle des tarifs, et c'est le portier qui l'applique. Les hommes viennent en chemise, polo ou chemisette, sans tee-shirt ni baskets ; un jean passe s'il est habillé et intact, pas un baggy ni un short.\n\nAux femmes, le club recommande la jupe ou une tenue sexy, déconseille le pantalon et prévient : « surtout pas de jeans ». Certaines soirées ajoutent leur consigne, comme le blanc pour « Lueur Blanche ».\n\nLa règle a peu bougé : le jean était interdit aux hommes en 2007, toléré s'il fait habillé dès 2009, et la consigne actuelle reprend presque mot pour mot celle de 2013."
+        },
+        {
+          "kind": "list",
+          "title": "Ce que demande la charte du club",
+          "items": [
+            "Rien n'est obligatoire, et un refus se respecte : on n'insiste pas, ni sur le moment ni plus tard dans la soirée.",
+            "Une porte fermée, même simplement poussée, ou un store tiré signifient que les occupants veulent rester entre eux : on ne pousse pas, on ne frappe pas.",
+            "Pour se joindre à d'autres, on demande d'abord.",
+            "Les femmes présentes ne sont pas « à votre disposition », rappelle la charte, qui s'adresse ici explicitement aux hommes.",
+            "Des préservatifs sont fournis, l'hygiène est obligatoire, la drogue est interdite et l'alcool doit rester modéré."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "L'accès est réservé aux majeurs, rappelle l'avertissement affiché à l'entrée du site."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s3",
+        "s5",
+        "s10",
+        "s13",
+        "s14",
+        "s15",
+        "s28"
+      ],
+      "icon": "shield",
+      "summary": "Chemise, polo ou chemisette pour les hommes, pas de jean pour les femmes ; la charte pose le consentement, interdit la drogue et fournit les préservatifs."
+    },
+    {
+      "id": "acces-et-hebergement",
+      "title": "Une chapelle, puis 300 mètres : rejoindre la rue de Navarre et dormir à Billy",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le club est au 15, rue de Navarre, dans le hameau de Navarre à Chicheboville. Il signe « Chicheboville/Billy », du nom de la commune voisine. Depuis le 1er janvier 2017, Chicheboville est une commune déléguée de Moult-Chicheboville (3 441 habitants en 2023, dans la couronne de Caen), et Billy fait partie de Valambray.\n\nDepuis Caen, le site indique le périphérique puis la RN13 vers Lisieux, sortie Cagny, puis Chicheboville et la direction de Billy. Par l'A13 (Rouen, Le Havre), sortez à l'A813 Bellengreville/Frénouville ; depuis Falaise ou Alençon, prenez la N158. Dernier repère : une chapelle, puis 300 mètres, et le club est sur la gauche, avec un parking privé et fermé.\n\nPour ne pas reprendre la route à 4h30, la page Hébergement propose deux adresses sur réservation, sans prix affichés : un gîte à cinq minutes, avec plusieurs chambres le week-end (« ce n'est pas un lieu libertin », précise le club), et une « Love Room » à Billy, à 1,8 km.\n\nAutour de Caen, notre annuaire recense trois autres établissements : [l'Arc en Ciel](/arc-en-ciel-caen), [L'Open Sauna](/l-open-sauna-caen) et [le Venus Sauna](/venus-sauna-caen). Les autres adresses sont sur [la page des lieux libertins du Calvados](/departement/calvados)."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s6",
+        "s7",
+        "s8",
+        "s11",
+        "s19",
+        "s20"
+      ],
+      "icon": "map",
+      "summary": "Au 15, rue de Navarre, entre Chicheboville et Billy, par la RN13 depuis Caen ; parking privé fermé, gîte et Love Room proches sur réservation."
+    },
+    {
+      "id": "avis-orphea-club",
+      "title": "Avis sur l'Orphéa Club : un 4,2/5 Google cité par un annuaire, un seul avis Petit Futé (2015)",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Au 19 octobre 2026, nous n'avons lu aucune note de nos yeux : la page Facebook officielle ne s'affiche pas sans connexion, et la fiche Google du club n'a pas pu être consultée. Un annuaire, Minuit Libertin, indique 4,2/5 sur Google pour 99 avis, dans une page datée de mai 2025 : chiffre de seconde main, non vérifié.\n\nSur le Petit Futé, un seul avis de membre (4/5, déposé en décembre 2015) recommande le club, tout en regrettant que les couples y restent entre eux."
+        },
+        {
+          "kind": "callout",
+          "tone": "tip",
+          "title": "Lire les avis Google en regardant leur date",
+          "body": "Cherchez « L'Orphéa Club » sur Google Maps, ou ouvrez la [page Facebook du club](https://www.facebook.com/lorphea.club) avec un compte. Notez si chaque avis précède ou suit l'été 2025, quand le site a commencé à afficher « Changement de propriétaire » : un avis plus ancien peut décrire une autre équipe (voir [l'histoire du club](#histoire-orphea))."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s21",
+        "s25",
+        "s26",
+        "s30",
+        "s31"
+      ],
+      "icon": "star",
+      "summary": "Un annuaire cite 4,2/5 sur Google (99 avis, mai 2025), non vérifié ; le Petit Futé n'a qu'un avis, de 2015. Datez-les : le site annonce un changement de propriétaire à l'été 2025."
+    },
+    {
+      "id": "histoire-orphea",
+      "title": "De mars 2007 au « changement de propriétaire » de l'été 2025",
+      "blocks": [
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "Mars 2007",
+              "text": "Le site est déjà en ligne : vendredi mixte, samedi réservé aux couples."
+            },
+            {
+              "date": "28 avril 2007",
+              "text": "Immatriculation de la SARL L'ORPHEA au hameau de Navarre (NAF 93.29Z ; activité déclarée au BODACC : « club libertin de nuit »)."
+            },
+            {
+              "date": "Dès 2007",
+              "text": "Une rubrique « La presse en parle » cite Les Nouvelles de Falaise, Union, France coquine et Le guide du kokin ; les coupures, de simples images, n'ont pas été archivées."
+            },
+            {
+              "date": "2009",
+              "text": "Vendredi à 20 € pour un couple, 40 € pour un homme seul, gratuit pour une femme seule ; samedi de 21h30 à 3h30."
+            },
+            {
+              "date": "20 avril 2013",
+              "text": "Le samedi passe à 22h30-5h. Le site affiche déjà l'adresse du 15, rue de Navarre."
+            },
+            {
+              "date": "Entre 2015 et 2019",
+              "text": "Le site actuel, construit avec Wix, succède à l'ancien : la dernière capture de l'ancien site date de 2015, le nouveau est archivé dès juillet 2019."
+            },
+            {
+              "date": "Février 2024",
+              "text": "Changement de gérant publié au BODACC."
+            },
+            {
+              "date": "Été 2025",
+              "text": "« Changement de propriétaire » apparaît sur l'accueil entre le 23 juin et le 4 août. Le 24 juillet, le registre remplace l'établissement du hameau par celui du 15, rue de Navarre ; le BODACC du 3 août publie un changement de gérant et le transfert du siège."
+            },
+            {
+              "date": "Janvier 2026 au plus tard",
+              "text": "Couple à 35 € le vendredi, femme seule à 10 € boisson comprise, samedi de 22h à 4h30."
+            }
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le site n'en dit pas plus que ces trois mots et ne nomme pas le repreneur. Le registre ne montre ni nouvelle société ni vente du fonds publiée, seulement un changement de gérant au sein de la même SARL.\n\nNous ignorons donc s'il s'agit d'une cession de parts : le lien entre la mention du site et les annonces légales repose sur la concordance des dates.\n\nLa nouvelle adresse au registre ne signale pas un déménagement : même hameau, même enseigne, même téléphone (02 31 38 23 04, inchangé depuis au moins 2009), et le site affichait déjà le 15, rue de Navarre en 2013."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s2",
+        "s9",
+        "s11",
+        "s12",
+        "s13",
+        "s14",
+        "s15",
+        "s17",
+        "s18",
+        "s25",
+        "s26",
+        "s27"
+      ],
+      "icon": "history",
+      "summary": "Site en ligne dès mars 2007, SARL immatriculée en avril 2007 ; changements de gérant en 2024 et 2025, et « Changement de propriétaire » affiché depuis l'été 2025."
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Vendredi": "21h30 – 3h30, soirée mixte",
+      "Samedi": "22h – 4h30, couples et femmes seules (certains samedis mixtes)",
+      "Veilles de jours fériés": "21h30 – 3h30, soirée mixte",
+      "Dimanche au jeudi": "Fermé, sauf veille de jour férié"
+    },
+    "note": "Horaires de la page Horaires et Tarifs et des annonces des 16 et 17 octobre 2026. Les samedis mixtes ne sont signalés que sur la page d'accueil et ses affiches.",
+    "confidence": "confirme",
+    "sources": [
+      "s1",
+      "s2",
+      "s3",
+      "s4"
+    ]
+  },
+  "tarifs": {
+    "rows": {
+      "Vendredi, couple": "35 € (une boisson par personne)",
+      "Vendredi, femme seule": "10 € (une boisson)",
+      "Vendredi, homme seul": "42 € (une boisson)",
+      "Samedi couples, couple": "45 € (une boisson par personne)",
+      "Samedi couples, femme seule": "10 € (une boisson)",
+      "Samedi couples, homme seul": "Non admis",
+      "Samedi mixte, couple": "45 € (une boisson par personne)",
+      "Samedi mixte, femme seule": "10 € (une boisson)",
+      "Samedi mixte, homme seul": "42 € (une boisson)"
+    },
+    "note": "Grille officielle d'octobre 2026, valable aussi les veilles de jours fériés ; tarifs du samedi mixte relevés pour le 24 octobre 2026 (identiques à ceux de janvier 2026). Paiement par carte bancaire ou en espèces.",
+    "confidence": "confirme",
+    "sources": [
+      "s1",
+      "s3",
+      "s27",
+      "s32"
+    ]
+  },
+  "equipements": [
+    "Bar",
+    "Discothèque avec cage et barres de strip",
+    "Coins câlins",
+    "Labyrinthe",
+    "Prison",
+    "Grand lit",
+    "Hammam",
+    "Sauna",
+    "Jacuzzi",
+    "Piscine",
+    "Vestiaires et douches",
+    "Terrasse fumeur",
+    "Parking privé fermé"
+  ],
+  "officialLinks": [
+    {
+      "label": "Site officiel (programme du week-end sur l'accueil)",
+      "url": "https://www.orpheaclub.com/",
+      "kind": "site"
+    },
+    {
+      "label": "Visite du club : galerie en six rubriques (parking, bar-discothèque, coins câlins, vestiaires, hammam-sauna, jacuzzi-piscine)",
+      "url": "https://www.orpheaclub.com/large-grid",
+      "kind": "galerie"
+    },
+    {
+      "label": "Horaires et tarifs",
+      "url": "https://www.orpheaclub.com/horaires-et-tarifs",
+      "kind": "autre"
+    },
+    {
+      "label": "Page agenda (le programme n'est plus publié un mois à l'avance)",
+      "url": "https://www.orpheaclub.com/agenda-des-soires",
+      "kind": "agenda"
+    },
+    {
+      "label": "Hébergement près du club (gîte et Love Room)",
+      "url": "https://www.orpheaclub.com/hebergement",
+      "kind": "autre"
+    },
+    {
+      "label": "Page Facebook (lisible avec un compte)",
+      "url": "https://www.facebook.com/lorphea.club",
+      "kind": "facebook"
+    }
+  ],
+  "corrections": {
+    "adresse": "15, rue de Navarre",
+    "email": "orpheaclub@gmail.com",
+    "site_web": "https://www.orpheaclub.com",
+    "sources": [
+      "s1",
+      "s3",
+      "s11",
+      "s12"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Quels avis trouve-t-on sur l'Orphéa Club ?",
+      "answer": "Nous n'avons lu aucune note de nos yeux au 19 octobre 2026. Un annuaire cite 4,2/5 sur Google pour 99 avis (page de mai 2025, non vérifiée), et le Petit Futé n'affiche qu'un avis de membre, noté 4/5, de décembre 2015. Pour en lire d'autres, cherchez le club sur Google Maps ou ouvrez sa page Facebook avec un compte, et regardez la date de chaque avis : selon le site, le propriétaire a changé à l'été 2025."
+    },
+    {
+      "question": "Où voir des photos de l'Orphéa Club ?",
+      "answer": "Sur la page « Visite du club » du site officiel, en six rubriques, du parking au jacuzzi et à la piscine. Les affiches de soirées sont des illustrations, pas des photos du lieu."
+    },
+    {
+      "question": "Combien coûte l'entrée à l'Orphéa Club ?",
+      "answer": "Le vendredi, 35 € pour un couple, 10 € pour une femme seule, 42 € pour un homme seul ; le samedi, 45 € pour un couple et 10 € pour une femme seule, et 42 € pour un homme seul quand la soirée est mixte. Une boisson par personne est comprise ; carte bancaire ou espèces."
+    },
+    {
+      "question": "Un homme seul peut-il venir le samedi ?",
+      "answer": "Seulement les samedis annoncés « mixte » sur la page d'accueil, comme les 24 et 31 octobre 2026 ; il paie alors 42 €, boisson comprise (tarif affiché pour le 24 octobre). Le vendredi, lui, est toujours mixte."
+    },
+    {
+      "question": "Une femme seule est-elle admise à l'Orphéa Club ?",
+      "answer": "Oui, le vendredi comme le samedi, pour 10 € avec une boisson. Si vous préférez ne pas franchir seule la porte d'un club que vous découvrez, [repérer un couple de confiance avant le jour J](aff:carre-libertin) ne vous coûtera rien sur Carré Libertin : femmes et couples y ont l'accès complet gratuit, moyennant trois photos sur leur profil."
+    },
+    {
+      "question": "Faut-il réserver sa soirée ?",
+      "answer": "Non, toutes les soirées sont sans réservation : présentez-vous à la porte dans une tenue conforme au code vestimentaire."
+    },
+    {
+      "question": "L'Orphéa Club a-t-il changé de propriétaire ?",
+      "answer": "Le site l'annonce depuis l'été 2025, et la SARL L'ORPHEA a publié au même moment un changement de gérant au BODACC. Le repreneur n'est pas nommé, et nous ignorons s'il s'agit d'une cession de parts."
+    }
+  ],
+  "unverified": [
+    "La note Google et le nombre d'avis : seul un annuaire (4,2/5 pour 99 avis, page de mai 2025) les donne, nous ne les avons pas lus sur Google.",
+    "La surface, le nombre de niveaux et la capacité : le club n'en publie aucune ; le chiffre de 400 m² vient d'un descriptif non daté du Petit Futé.",
+    "La date de la première soirée : le site existe en mars 2007 et la société est immatriculée en avril 2007, mais l'ouverture au public n'est pas datée.",
+    "L'identité du repreneur et la nature de l'opération de l'été 2025 (cession de parts ou non).",
+    "Le tarif du samedi 31 octobre 2026 (Halloween, acte II), pas encore affiché au 19 octobre.",
+    "Le contenu des articles cités par l'ancien site (Les Nouvelles de Falaise, Union, France coquine, Le guide du kokin).",
+    "Le compte « orphea14370 » affiché sur la page des partenaires : probablement Instagram, non confirmé.",
+    "Les prix du gîte et de la Love Room recommandés par le club."
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Site officiel de L'Orphéa Club, page d'accueil",
+      "url": "https://www.orpheaclub.com/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s2",
+      "label": "Site officiel, affiches des soirées d'octobre 2026 (page d'accueil)",
+      "url": "https://www.orpheaclub.com/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s3",
+      "label": "Site officiel, page Horaires et Tarifs",
+      "url": "https://www.orpheaclub.com/horaires-et-tarifs",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s4",
+      "label": "Site officiel, page Agenda des soirées",
+      "url": "https://www.orpheaclub.com/agenda-des-soires",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s5",
+      "label": "Site officiel, La charte du libertinage",
+      "url": "https://www.orpheaclub.com/contact",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s6",
+      "label": "Site officiel, galerie Visite du club et ses six rubriques",
+      "url": "https://www.orpheaclub.com/large-grid",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s7",
+      "label": "Site officiel, page Hébergement",
+      "url": "https://www.orpheaclub.com/hebergement",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s8",
+      "label": "Site officiel, pages d'itinéraires (Caen, Falaise, Lisieux, A13)",
+      "url": "https://www.orpheaclub.com/de-caen-la-manche",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s9",
+      "label": "Site officiel, plan du site (dates de mise à jour des pages)",
+      "url": "https://www.orpheaclub.com/pages-sitemap.xml",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s10",
+      "label": "Site officiel, page Mise en garde",
+      "url": "https://www.orpheaclub.com/mise-en-garde",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s11",
+      "label": "Annuaire des entreprises, SARL L'ORPHEA (SIREN 495 401 986)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/495401986",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s12",
+      "label": "BODACC, annonces légales de la SARL L'ORPHEA",
+      "url": "https://annuaire-entreprises.data.gouv.fr/annonces/495401986",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s13",
+      "label": "Site officiel, archive du 13/03/2007 (horaires et tarifs)",
+      "url": "https://web.archive.org/web/20070313184012/http://www.orpheaclub.com/horaires_et_tarifs_010.htm",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s14",
+      "label": "Site officiel, archive du 15/03/2009 (horaires et tarifs)",
+      "url": "https://web.archive.org/web/20090315073752/http://www.orpheaclub.com/horaires_et_tarifs_238.htm",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s15",
+      "label": "Site officiel, archives du 26/05/2013 et du 02/05/2015 (horaires et tarifs)",
+      "url": "https://web.archive.org/web/20130526092848/http://www.orpheaclub.com/horaires_et_tarifs_238.htm",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s16",
+      "label": "Site officiel, archive du 02/04/2024 (accueil)",
+      "url": "https://web.archive.org/web/20240402231728/https://www.orpheaclub.com/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s17",
+      "label": "Site officiel, archive de 2007 (rubrique « La presse en parle »)",
+      "url": "https://web.archive.org/web/20071119101254/http://www.orpheaclub.com/les_nouvelles_de_falaise_128.htm",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s18",
+      "label": "Wayback Machine, index des captures de orpheaclub.com (2007-2026)",
+      "url": "https://web.archive.org/cdx/search/cdx?url=orpheaclub.com",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s19",
+      "label": "Wikipédia, Moult-Chicheboville",
+      "url": "https://fr.wikipedia.org/wiki/Moult-Chicheboville",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s20",
+      "label": "Wikipédia, Billy (Calvados)",
+      "url": "https://fr.wikipedia.org/wiki/Billy_(Calvados)",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s21",
+      "label": "Page Facebook officielle (contenu non lisible sans connexion)",
+      "url": "https://www.facebook.com/lorphea.club",
+      "type": "reseau_social",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s24",
+      "label": "Site officiel, archive du 21/01/2025 (accueil)",
+      "url": "https://web.archive.org/web/20250121095401/https://www.orpheaclub.com/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s25",
+      "label": "Site officiel, archive du 23/06/2025 (accueil)",
+      "url": "https://web.archive.org/web/20250623065837/https://www.orpheaclub.com/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s26",
+      "label": "Site officiel, archive du 04/08/2025 (accueil)",
+      "url": "https://web.archive.org/web/20250804194834/https://www.orpheaclub.com/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s27",
+      "label": "Site officiel, archive du 25/01/2026 (accueil)",
+      "url": "https://web.archive.org/web/20260125004144/https://www.orpheaclub.com/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s28",
+      "label": "Site officiel, archive du 13/06/2026 (accueil)",
+      "url": "https://web.archive.org/web/20260613064947/https://www.orpheaclub.com/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s29",
+      "label": "Site officiel, archives de 2014 (visite du club et partenaires)",
+      "url": "https://web.archive.org/web/2014/http://www.orpheaclub.com/la_visite_du_club_1106.htm",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s30",
+      "label": "Petit Futé, fiche « L'Orphéa Club » (descriptif non daté et un avis de membre de décembre 2015)",
+      "url": "https://www.petitfute.com/v4642-chicheboville-14370/c9998-coquin/c1044-s-amuser-sortir/c206-club-libertin/705468-l-orphea-club.html",
+      "type": "presse",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s31",
+      "label": "Minuit Libertin, fiche « L'Orphéa Club » (annuaire, page datée du 5 mai 2025)",
+      "url": "https://minuitlibertin.com/lorphea-club/",
+      "type": "annuaire",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s32",
+      "label": "Site officiel, page d'accueil, relevé du 19 octobre 2026 (week-end des 23 et 24 octobre)",
+      "url": "https://www.orpheaclub.com/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    }
+  ],
+  "glance": [
+    {
+      "icon": "calendar",
+      "label": "Ouvert",
+      "value": "Ven. 21h30-3h30 · sam. 22h-4h30"
+    },
+    {
+      "icon": "euro",
+      "label": "Entrée couple",
+      "value": "35 € (vendredi) · 45 € (samedi)"
+    },
+    {
+      "icon": "ticket",
+      "label": "Homme seul",
+      "value": "42 € ; le samedi, soirs mixtes seulement"
+    },
+    {
+      "icon": "spa",
+      "label": "Espace balnéo",
+      "value": "Toute la nuit, accès nu uniquement"
+    },
+    {
+      "icon": "history",
+      "label": "Société",
+      "value": "Depuis 2007 ; reprise annoncée été 2025"
+    },
+    {
+      "icon": "info",
+      "label": "Réservation",
+      "value": "Aucune, entrée à la porte"
+    }
+  ],
+  "audience": [
+    {
+      "who": "couples",
+      "status": "oui",
+      "detail": "Vendredi (mixte) et samedi ; une boisson par personne comprise",
+      "price": "35 à 45 €"
+    },
+    {
+      "who": "femmes",
+      "status": "oui",
+      "detail": "Vendredi et samedi, une boisson comprise",
+      "price": "10 €"
+    },
+    {
+      "who": "hommes",
+      "status": "selon",
+      "detail": "Vendredi et veilles de fériés ; le samedi seulement s'il est annoncé mixte",
+      "price": "42 €"
+    }
+  ],
+  "highlights": [
+    "Hommes : chemise, polo ou chemisette, ni tee-shirt ni baskets. Femmes : pas de jean. Le portier refuse les tenues non conformes.",
+    "Le samedi est réservé aux couples et aux femmes seules, sauf quand l'accueil du site l'annonce « mixte » (24 et 31 octobre 2026).",
+    "Le programme n'est publié que sur la page d'accueil, à une ou deux semaines : le club ne diffuse plus d'agenda à un mois.",
+    "Aucune réservation ; paiement par carte bancaire ou en espèces uniquement.",
+    "L'espace balnéo (hammam, sauna, jacuzzi, piscine) reste ouvert toute la nuit, mais on n'y entre que nu."
+  ]
+}

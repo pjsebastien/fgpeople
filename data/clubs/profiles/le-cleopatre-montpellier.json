@@ -1,0 +1,459 @@
+{
+  "slug": "le-cleopatre-montpellier",
+  "clubId": "101",
+  "researchedAt": "2026-10-16",
+  "display": {
+    "nom": "Le Cléopâtre",
+    "ville": "Montpellier"
+  },
+  "status": {
+    "value": "ferme",
+    "summary": "Le 29 mars 2012, le registre des entreprises note au 1 rue de la Victoire de la Marne la fermeture d'une exploitation d'entretien corporel (un code qui couvre saunas et hammams) ouverte en 1992 et, le même jour, l'ouverture de One Sauna, qui s'affiche aujourd'hui « 100 % gay ». Le nom Cléopâtre ne survit que dans des annuaires ; le seul qui date sa fiche ne l'a pas modifiée depuis 2008. Faute d'enseigne dans le registre pour l'exploitation de 1992-2012, l'identifier au Cléopâtre reste une déduction, dont seule la date dépend : au plus tard mars 2012, peut-être plus tôt.",
+    "sources": [
+      "s6",
+      "s7",
+      "s11",
+      "s1",
+      "s2"
+    ]
+  },
+  "seo": {
+    "title": "Le Cléopâtre à Montpellier : fermé, où aller en club libertin ?",
+    "metaDescription": "Repéré en sauna libertin dès 2007, Le Cléopâtre a disparu : One Sauna, « 100 % gay », occupe son adresse près de la Comédie depuis 2012. Où aller à la place.",
+    "subtitle": "Sauna fermé du 1 rue de la Victoire de la Marne, près de la Comédie, à Montpellier (34)",
+    "targetQueries": [
+      "club libertin montpellier",
+      "club echangiste montpellier",
+      "sauna libertin montpellier",
+      "restaurant libertin montpellier",
+      "club bdsm montpellier",
+      "le cleopatre montpellier"
+    ]
+  },
+  "lead": "Le Cléopâtre n'a laissé qu'une ligne d'annuaire : un « sauna libertin » au 1 rue de la Victoire de la Marne, près de la place de la Comédie, relevé dès octobre 2007, sans site ni tarifs. Depuis le 29 mars 2012, l'adresse est exploitée par One Sauna, qui s'affiche aujourd'hui « 100 % gay » : pour un club libertin ouvert à Montpellier, voyez plutôt les lieux actifs présentés plus bas.",
+  "glance": [
+    {
+      "icon": "closed",
+      "label": "Fermé",
+      "value": "Au plus tard en mars 2012",
+      "confidence": "a_verifier"
+    },
+    {
+      "icon": "building",
+      "label": "À l'adresse aujourd'hui",
+      "value": "One Sauna, « 100 % gay », depuis 2012"
+    },
+    {
+      "icon": "history",
+      "label": "Nom attesté",
+      "value": "Annuaires de 2007-2008 seulement",
+      "confidence": "source_unique"
+    },
+    {
+      "icon": "map",
+      "label": "Adresse",
+      "value": "1 rue de la Victoire de la Marne"
+    },
+    {
+      "icon": "info",
+      "label": "Horaires et tarifs",
+      "value": "Jamais publiés sous ce nom"
+    },
+    {
+      "icon": "heart",
+      "label": "Libertin ouvert proche",
+      "value": "Kalyptus by Rex, avenue de Palavas"
+    }
+  ],
+  "highlights": [
+    "Au 1 rue de la Victoire de la Marne, vous trouverez One Sauna, qui s'affiche « 100 % gay » : son site ne mentionne ni couples ni femmes.",
+    "Les annuaires qui listent encore Le Cléopâtre ne donnent ni site, ni horaires, ni tarifs ; la seule fiche datée est inchangée depuis juillet 2008.",
+    "Pour un sauna libertin ouvert aux couples : Kalyptus by Rex à Montpellier et HAAPPYY à Saint-Jean-de-Védas avaient un site actif en octobre 2026.",
+    "Relier Le Cléopâtre au sauna enregistré à l'adresse de 1992 à 2012 reste une déduction : le registre ne lui donne aucun nom."
+  ],
+  "keyFacts": [
+    {
+      "label": "Statut",
+      "value": "Fermé ; l'adresse est exploitée par One Sauna depuis le 29 mars 2012",
+      "confidence": "confirme",
+      "sources": [
+        "s6",
+        "s7",
+        "s11"
+      ]
+    },
+    {
+      "label": "Fin d'activité",
+      "value": "Au plus tard en mars 2012 ; date déduite du registre, qui ne nomme pas l'exploitation fermée",
+      "confidence": "a_verifier",
+      "sources": [
+        "s6",
+        "s2"
+      ]
+    },
+    {
+      "label": "Adresse",
+      "value": "1 rue de la Victoire de la Marne, 34000 Montpellier, à une centaine de mètres de la Comédie",
+      "confidence": "confirme",
+      "sources": [
+        "s2",
+        "s9",
+        "s11"
+      ]
+    },
+    {
+      "label": "Type annoncé",
+      "value": "« Sauna libertin », étiquette d'un seul annuaire ; public jamais décrit",
+      "confidence": "source_unique",
+      "sources": [
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "label": "Première mention du nom",
+      "value": "Octobre 2007, dans une liste d'annuaire archivée",
+      "confidence": "source_unique",
+      "sources": [
+        "s3"
+      ]
+    },
+    {
+      "label": "Entretien corporel enregistré à l'adresse",
+      "value": "Du 1er juin 1992 au 29 mars 2012, sans enseigne déclarée",
+      "confidence": "confirme",
+      "sources": [
+        "s6",
+        "s8"
+      ]
+    },
+    {
+      "label": "Site, horaires, tarifs",
+      "value": "Aucun trouvé, ni en ligne ni dans les archives",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s2",
+        "s20"
+      ]
+    },
+    {
+      "label": "Lien avec One Sauna",
+      "value": "Même adresse, exploitants et téléphones différents ; aucun « ex-Cléopâtre » publié",
+      "confidence": "a_verifier",
+      "sources": [
+        "s7",
+        "s11",
+        "s15",
+        "s16"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "succession-du-29-mars-2012",
+      "title": "29 mars 2012 : une exploitation née en 1992 s'arrête, One Sauna ouvre au même numéro",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le registre des entreprises ne connaît à cette adresse que deux établissements d'entretien corporel, un code qui couvre saunas et hammams. Rattacher Le Cléopâtre, connu par les seuls annuaires, au premier, resté sans enseigne, est une **déduction** : aucune source ne parle de rachat ni de changement de nom, et le téléphone des annuaires n'est pas celui de One Sauna."
+        },
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "1er juin 1992",
+              "text": "Début d'une exploitation d'entretien corporel à l'adresse, sans enseigne."
+            },
+            {
+              "date": "Octobre 2007",
+              "text": "Un annuaire libertin liste « Le Cléopâtre », « sauna libertin » : plus ancienne trace du nom."
+            },
+            {
+              "date": "Juillet 2008",
+              "text": "Dernière capture datée de sa fiche, sans site ni description."
+            },
+            {
+              "date": "29 mars 2012",
+              "text": "L'exploitation de 1992 ferme ; un autre entrepreneur ouvre One Sauna."
+            },
+            {
+              "date": "Juin 2012",
+              "text": "Le site de One Sauna annonce un sauna « gay bi libertin »."
+            },
+            {
+              "date": "Avril 2013",
+              "text": "« Libertin » disparaît de ce site, qui s'affiche aujourd'hui « 100 % gay »."
+            }
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Si le nom circule encore, c'est que l'annuaire libertin d'origine a ajouté One Sauna en 2012 sans retirer la fiche du Cléopâtre : il liste toujours les deux à la même adresse. Deux annuaires généralistes reprennent aussi un « Cleopatre », sans date ni description.\n\nLe site de One Sauna ne mentionne aujourd'hui ni couples ni femmes. Pour un couple, [Carré Libertin, où femmes et couples ont l'accès complet sans payer](aff:carre-libertin) avec trois photos publiées, permet de repérer d'autres couples dans l'Hérault avant de choisir un club. L'établissement actuel a sa page : [la fiche One Sauna de notre annuaire](/one-sauna-montpellier)."
+        }
+      ],
+      "sources": [
+        "s6",
+        "s7",
+        "s8",
+        "s3",
+        "s2",
+        "s9",
+        "s12",
+        "s10",
+        "s11",
+        "s1",
+        "s4",
+        "s5",
+        "s13",
+        "s14"
+      ],
+      "icon": "history",
+      "summary": "Le 29 mars 2012, une exploitation d'entretien corporel ouverte en 1992 ferme et One Sauna ouvre au même numéro ; y rattacher Le Cléopâtre reste une déduction."
+    },
+    {
+      "id": "saunas-libertins-actifs-octobre-2026",
+      "title": "Kalyptus by Rex et HAAPPYY : les saunas libertins vérifiés en ligne le 19 octobre 2026",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Trois guides publiés entre 2021 et mars 2026 recensent les lieux libertins de Montpellier ; aucun ne cite Le Cléopâtre."
+        },
+        {
+          "kind": "table",
+          "caption": "Constats faits sur les sites officiels le 19 octobre 2026",
+          "headers": [
+            "Lieu",
+            "Commune",
+            "Ce que montre son site"
+          ],
+          "rows": [
+            [
+              "[Kalyptus by Rex](/le-kalyptus-montpellier)",
+              "Montpellier",
+              "Se présente comme un « sauna libertin » avec hammam et jacuzzi ; page mise à jour le 18 octobre 2026, vidéos de soirées à thème mises en ligne en septembre"
+            ],
+            [
+              "HAAPPYY (pas encore dans notre annuaire)",
+              "Saint-Jean-de-Védas, 575 rue Théophraste Renaudot",
+              "« Sauna Libertin - Montpellier » ; femme seule 20 €, couple 48 à 70 €, homme seul 53 à 68 € selon le jour ; site daté 2021-2026"
+            ],
+            [
+              "[Koncept Sauna](/le-koncept-sauna-montpellier)",
+              "Montpellier",
+              "Se présente comme « le sauna gay à Montpellier », ouvert à une clientèle mixte lors de certaines soirées ; horaires non vérifiés"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Selon le guide de mars 2026, l'ancien Kalyptus, déjà listé en 2007 à côté du Cléopâtre, a été repris par Rex. Les autres lieux que notre base situe à Montpellier, pas tous vérifiés, sont sur [la page de la ville](/ville/montpellier).\n\nAvant de retenir l'une de ces adresses, le compte gratuit de Wyylde, l'ex-Netéchangisme en ligne depuis 2001, ouvre [un agenda qui recense des soirées de clubs dans toute la France](aff:wyylde) ; les messages reçus s'y lisent sans payer, mais y donner suite suppose de s'abonner."
+        }
+      ],
+      "sources": [
+        "s17",
+        "s18",
+        "s19",
+        "s21",
+        "s22",
+        "s23",
+        "s3"
+      ],
+      "icon": "map",
+      "summary": "Le 19 octobre 2026, Kalyptus by Rex (Montpellier) et HAAPPYY (Saint-Jean-de-Védas) avaient un site actif de sauna libertin ; Koncept Sauna se dit sauna gay."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Le Cléopâtre est-il toujours ouvert à Montpellier ?",
+      "answer": "Non. Depuis le 29 mars 2012, l'adresse est celle de One Sauna, un sauna « 100 % gay ». Les annuaires qui listent encore Le Cléopâtre ne donnent aucune information datée après 2008."
+    },
+    {
+      "question": "Où aller en club libertin ou échangiste à Montpellier en 2026 ?",
+      "answer": "Le 19 octobre 2026, deux saunas libertins avaient un site daté de 2026 : Kalyptus by Rex, à Montpellier, et HAAPPYY, à Saint-Jean-de-Védas, où l'entrée affichée va de 20 € pour une femme seule à 70 € pour un couple le samedi soir. Gleese, lancé fin 2024, compte bien moins de membres que Wyylde, mais [son inscription ne demande aucun moyen de paiement](aff:gleese) : de quoi voir sans dépenser si des libertins montpelliérains y sont actifs."
+    },
+    {
+      "question": "Que proposait Le Cléopâtre : public, horaires, tarifs ?",
+      "answer": "Nous ne le savons pas : en dehors de l'étiquette « sauna libertin » d'un annuaire (2007-2008), aucun horaire, tarif, équipement, avis ni article n'a été trouvé sous ce nom."
+    },
+    {
+      "question": "Existe-t-il un restaurant libertin près de Montpellier ?",
+      "answer": "Aucune source n'évoque de restauration au Cléopâtre. Un guide local d'avril 2021 cite [L'Extasia, à Pinet](/l-extasia-pinet), avec un restaurant ; nous n'avons pas vérifié que ce service existe toujours en 2026."
+    },
+    {
+      "question": "Où trouver un club BDSM autour de Montpellier ?",
+      "answer": "Un guide en ligne daté de mars 2026 mentionne des soirées BDSM au [Privé 34, à Frontignan](/le-prive-34-frontignan). C'est une source unique et faible : vérifiez le programme auprès du club avant de vous déplacer."
+    }
+  ],
+  "unverified": [
+    "Le nom de l'exploitation enregistrée à l'adresse de 1992 à 2012 : le registre ne donne aucune enseigne.",
+    "La date à laquelle Le Cléopâtre a réellement cessé : au plus tard en mars 2012, peut-être bien avant.",
+    "Le public du Cléopâtre (mixte, gay, couples) : « sauna libertin » est une étiquette d'annuaire, aucune source primaire ne le décrit.",
+    "Une éventuelle cession du fonds entre l'exploitant de 1992-2012 et celui de One Sauna : le registre ne l'indique pas.",
+    "Une mention « ex-Cléopâtre » dans la presse régionale, qui prouverait le changement de nom : recherche à relancer.",
+    "L'attribution actuelle du numéro fixe donné par les annuaires : nous ne l'avons pas appelé."
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "sauna-club-libertin.com, fiche « LE CLEOPATRE », version actuelle",
+      "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_3.php?id=101&d=34",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s2",
+      "label": "sauna-club-libertin.com, fiche « LE CLEOPATRE », archive du 08/07/2008",
+      "url": "https://web.archive.org/web/20080708085642/http://www.sauna-club-libertin.com:80/sauna_club_libertin_3.php?id=101&d=34",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s3",
+      "label": "sauna-club-libertin.com, liste de l'Hérault, archive du 13/10/2007",
+      "url": "https://web.archive.org/web/20071013200245/http://sauna-club-libertin.com:80/sauna_club_libertin_2.php?d=34",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s4",
+      "label": "sauna-club-libertin.com, liste actuelle de l'Hérault",
+      "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_2.php?d=34",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s5",
+      "label": "sauna-club-libertin.com, fiche « One Sauna », archive du 14/11/2012",
+      "url": "https://web.archive.org/web/20121114060935/http://sauna-club-libertin.com/sauna_club_libertin_3.php?id=15137&d=34",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s6",
+      "label": "Registre des entreprises : exploitation d'entretien corporel au 1 rue de la Victoire de la Marne (1992-2012)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/387820608",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s7",
+      "label": "Registre des entreprises : établissement à l'enseigne ONE SAUNA (depuis le 29/03/2012)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/341400414",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s8",
+      "label": "Registre des entreprises : établissements enregistrés au 1 rue de la Victoire de la Marne",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=1%20rue%20de%20la%20victoire%20de%20la%20marne&code_postal=34000",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s9",
+      "label": "Site officiel de One Sauna (sauna-one.com), archive du 10/06/2012",
+      "url": "https://web.archive.org/web/20120610190622/http://sauna-one.com/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s10",
+      "label": "Site officiel de One Sauna (sauna-one.com), archive du 15/04/2013",
+      "url": "https://web.archive.org/web/20130415114339/http://sauna-one.com/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s11",
+      "label": "Site officiel de One Sauna : accueil, horaires, tarifs, accès",
+      "url": "https://www.one-sauna.com/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s12",
+      "label": "Historique des archives de one-sauna.com (Wayback Machine)",
+      "url": "https://web.archive.org/cdx/search/cdx?url=one-sauna.com&fl=timestamp,statuscode&collapse=timestamp:6",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s13",
+      "label": "koifaire.com, spas, saunas et hammams à Montpellier",
+      "url": "https://www.koifaire.com/languedoc-roussillon/montpellier-34000/detente/spas,saunas,hammans-262/",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s14",
+      "label": "touteslesadresses.fr, fiche « Cleopatre » (vue en résultat de recherche, site injoignable)",
+      "url": "https://www.touteslesadresses.fr/company-address-phone-company-email-francais-en-ligne/etablissements-de-saunas-hammams/1436409/cleopatre-1-rue-victoire-de-la-marne-herault-montpellier-0467925781",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s15",
+      "label": "PagesJaunes, fiche One Sauna",
+      "url": "https://www.pagesjaunes.fr/pros/53950827",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s16",
+      "label": "gayvoyageur.com, la scène gay de Montpellier",
+      "url": "https://www.gayvoyageur.com/france/guide-gay-montpellier/scene-gay-de-montpellier/",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s17",
+      "label": "saunaclublebali.fr, clubs libertins de Montpellier (06/03/2026)",
+      "url": "https://www.saunaclublebali.fr/clubs-libertins-montpellier/",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s18",
+      "label": "monpetitdate.fr, les clubs libertins à Montpellier",
+      "url": "https://www.monpetitdate.fr/club-libertin-montpellier/",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s19",
+      "label": "leguidemontpellier.fr, les clubs libertins de Montpellier (29/04/2021)",
+      "url": "https://www.leguidemontpellier.fr/les-meilleurs-clubs-libertins-a-montpellier/2244/",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s20",
+      "label": "Domaine lecleopatre.fr, archives de 2008 et 2013 (page de parking)",
+      "url": "https://web.archive.org/web/20081106023020/http://lecleopatre.fr/",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s21",
+      "label": "Kalyptus by Rex, site officiel",
+      "url": "https://kalyptusbyrex.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s22",
+      "label": "HAAPPYY, site officiel, page tarifs",
+      "url": "https://www.haappyy.fr/fr/tarifs/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s23",
+      "label": "Koncept Sauna, site officiel (accueil)",
+      "url": "https://konceptsauna.com/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    }
+  ]
+}

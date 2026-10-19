@@ -175,6 +175,8 @@ export function validateProfile(p, file) {
   if (p.equipements && !(Array.isArray(p.equipements) && p.equipements.every(str))) err('equipements invalide');
 
   for (const [i, r] of (p.externalRatings || []).entries()) {
+    // Une note relayée par un agrégateur n'a pas été vue de ses yeux : elle reste dans le texte, avec sa réserve.
+    if (/\bvia\b|relay|agrég/i.test(r.platform || '')) err(`externalRatings[${i}] : note relayée (« ${r.platform} ») : à citer dans le texte, pas dans ce champ`);
     if (!(r.rating > 0 && r.rating <= r.scale) || !(r.count >= 0) || !DATE.test(r.date || '') || !/^https?:\/\//.test(r.url || '') || !str(r.platform)) {
       err(`externalRatings[${i}] invalide`);
     }

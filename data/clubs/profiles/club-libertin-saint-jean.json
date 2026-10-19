@@ -1,0 +1,969 @@
+{
+  "slug": "club-libertin-saint-jean",
+  "clubId": "FG072",
+  "researchedAt": "2026-10-16",
+  "display": {
+    "nom": "Angély's Club",
+    "ville": "Saint-Jean-d'Angély"
+  },
+  "status": {
+    "value": "ouvert",
+    "summary": "Entre le 16 et le 19 octobre 2026, le club a remanié son agenda en ligne : une soirée à thème chaque samedi du 24 octobre au 26 décembre, des Journées piquantes les dimanches 8 novembre et 6 décembre, puis le réveillon du 31 décembre. Son livre d'or a reçu 37 messages en 2026, le dernier le 26 septembre, et l'établissement du 660 avenue de Jarnac est actif au registre depuis février 2017. La mention « probablement fermé » de PagesJaunes figure sur une fiche au nom de J.A.D, société dont l'établissement à la même adresse, sous l'enseigne « L'Angely's Club », est fermé au registre depuis décembre 2016.",
+    "sources": [
+      "s5",
+      "s6",
+      "s17",
+      "s18",
+      "s20"
+    ]
+  },
+  "seo": {
+    "title": "Angély's Club, Saint-Jean-d'Angély : tarifs, chalets et piscine",
+    "metaDescription": "Couple de 30 à 50 €, femme gratuite, paiement sans CB. Chalets à 60 €, piscine chauffée, agenda publié jusqu'au 31/12/2026 : la grille vérifiée.",
+    "subtitle": "Club privé et sauna libertin de 300 m², avec piscine, chalets et chambres d'hôtes, à Saint-Jean-d'Angély (17)",
+    "targetQueries": [
+      "angelys club",
+      "angely's club saint jean d'angely",
+      "angelys club 17",
+      "club libertin saint jean d'angely",
+      "angelys club tarifs",
+      "angelys club photos",
+      "chalet club libertin charente maritime",
+      "sauna libertin charente maritime"
+    ]
+  },
+  "lead": "Au 660 avenue de Jarnac, l'Angély's Club fêtait déjà ses « 27 ans » avant l'automne 2020 ; Véronique et Jean-Dominique l'ont rouvert en 2017 après une période de fermeture. Le club compte 300 m², avec une balnéo à deux jacuzzis et une piste de danse, une piscine chauffée en terrasse et, pour la nuit, deux chalets sur place et trois chambres d'hôtes à 20 mètres. Le club est ouvert, son agenda court jusqu'au 31 décembre 2026, et l'entrée, gratuite pour les femmes, se règle en espèces ou par chèque.",
+  "glance": [
+    {
+      "icon": "calendar",
+      "label": "Ouvert",
+      "value": "Lun., jeu. à dim. ; fermé mar. et mer."
+    },
+    {
+      "icon": "euro",
+      "label": "Entrée couple",
+      "value": "30 € (lun., jeu.) à 50 € (samedi)"
+    },
+    {
+      "icon": "users",
+      "label": "Homme seul le samedi",
+      "value": "Habitués ou déjà venus un jeudi ou vendredi"
+    },
+    {
+      "icon": "bed",
+      "label": "Dormir sur place",
+      "value": "2 chalets à 60 € · 3 chambres à 80-100 €"
+    },
+    {
+      "icon": "warning",
+      "label": "Paiement",
+      "value": "Espèces ou chèque, pas de carte bancaire"
+    },
+    {
+      "icon": "history",
+      "label": "Ancienneté",
+      "value": "« 27 ans » fêtés avant 2020, repris en 2017"
+    }
+  ],
+  "audience": [
+    {
+      "who": "couples",
+      "status": "oui",
+      "detail": "Tous les jours d'ouverture ; le samedi soir, l'étage des coins câlins leur est réservé",
+      "price": "30 à 50 €"
+    },
+    {
+      "who": "femmes",
+      "status": "oui",
+      "detail": "Entrée gratuite tous les jours ; boissons payantes, café compris"
+    },
+    {
+      "who": "hommes",
+      "status": "selon",
+      "detail": "Lundi, jeudi, vendredi, dimanche ; samedi : habitués ou déjà venus un jeudi ou vendredi soir",
+      "price": "40 à 60 €"
+    },
+    {
+      "who": "trans",
+      "status": "oui",
+      "detail": "Tarif « transgenres » affiché pour le samedi ; autres jours non précisés",
+      "price": "40 €"
+    }
+  ],
+  "highlights": [
+    "Pas de carte bancaire au club : prévoyez des espèces ou un chéquier.",
+    "Homme seul : le samedi soir, seuls entrent les habitués et ceux déjà venus un jeudi ou un vendredi soir.",
+    "Apportez votre serviette pour la balnéo ; à défaut, le club en loue à 2 €.",
+    "Shorts, baskets et tongs sont refusés à l'entrée ; téléphones et appareils photo sont interdits à l'intérieur.",
+    "Les dates des Journées piquantes ont changé entre le 16 et le 19 octobre 2026 : vérifiez la page Les Soirées avant de partir."
+  ],
+  "keyFacts": [
+    {
+      "label": "Statut",
+      "value": "Ouvert, agenda publié jusqu'au 31 décembre 2026",
+      "confidence": "confirme",
+      "sources": [
+        "s5",
+        "s6",
+        "s17"
+      ]
+    },
+    {
+      "label": "Ancienneté",
+      "value": "« 27 ans du club » fêtés avant septembre 2020 ; année de création inconnue",
+      "confidence": "confirme",
+      "sources": [
+        "s12",
+        "s19"
+      ]
+    },
+    {
+      "label": "Reprise",
+      "value": "Par Véronique et Jean-Dominique, nouvel établissement immatriculé le 2 février 2017",
+      "confidence": "confirme",
+      "sources": [
+        "s3",
+        "s16",
+        "s17"
+      ]
+    },
+    {
+      "label": "Jours d'ouverture",
+      "value": "Lundi, jeudi, vendredi, samedi et dimanche ; fermé mardi et mercredi",
+      "confidence": "confirme",
+      "sources": [
+        "s4"
+      ]
+    },
+    {
+      "label": "Public admis",
+      "value": "Couples, femmes seules, hommes seuls : toutes les soirées sont mixtes",
+      "confidence": "confirme",
+      "sources": [
+        "s4",
+        "s6"
+      ]
+    },
+    {
+      "label": "Hommes seuls le samedi",
+      "value": "Habitués ou déjà venus un jeudi ou un vendredi soir",
+      "confidence": "confirme",
+      "sources": [
+        "s3",
+        "s4"
+      ]
+    },
+    {
+      "label": "Surface",
+      "value": "300 m²",
+      "confidence": "confirme",
+      "sources": [
+        "s2",
+        "s19"
+      ]
+    },
+    {
+      "label": "Hébergement",
+      "value": "2 chalets à 60 € et 3 chambres d'hôtes à 20 m (80 à 100 €)",
+      "confidence": "confirme",
+      "sources": [
+        "s2",
+        "s4"
+      ]
+    },
+    {
+      "label": "Paiement",
+      "value": "Espèces ou chèque, pas de carte bancaire",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s4"
+      ]
+    },
+    {
+      "label": "Téléphone",
+      "value": "06 58 99 53 50",
+      "confidence": "confirme",
+      "sources": [
+        "s7",
+        "s20"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "qui-entre-samedi-hommes-seuls",
+      "title": "Femmes gratuites, couples de 30 à 50 € et un samedi filtré pour les hommes seuls",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Toutes les soirées sont mixtes : couples, femmes seules et hommes seuls entrent les mêmes jours, et la grille prévoit un tarif « transgenres » de 40 € le samedi. Les femmes seules ne paient pas l'entrée, mais bien leurs consommations, café compris ; pour les autres, l'entrée inclut deux boissons sans alcool par personne.\n\n**Le prix suit le jour.** Le couple paie de 30 € (lundi, jeudi) à 50 € (samedi), l'homme seul toujours 10 € de plus. Le jeudi, l'après-midi et la soirée se paient séparément, mais revenir le soir après l'après-midi ne coûte que 10 € en couple et 15 € seul."
+        },
+        {
+          "kind": "text",
+          "body": "**Le samedi soir, deux règles s'ajoutent.** Seuls entrent les hommes seuls déjà connus du club, habitués ou clients d'au moins une soirée un jeudi ou un vendredi, afin d'écarter les « indélicats » : un homme qui n'est jamais venu doit donc commencer en semaine. Et l'étage des coins câlins est réservé aux couples, qui peuvent y faire monter un ou plusieurs hommes ; d'autres coins restent ouverts à tous.\n\nUn couple qui préfère arriver avec son invité déjà choisi peut [faire connaissance avec un homme du secteur sur Carré Libertin](aff:carre-libertin), dont l'accès complet est gratuit pour les couples qui publient trois photos. Le règlement du club ne dit pas si un homme venu avec un couple échappe à la règle du samedi : posez la question au 06 58 99 53 50 avant de vous déplacer."
+        },
+        {
+          "kind": "callout",
+          "tone": "tip",
+          "title": "Première visite",
+          "body": "Signalez-vous à l'arrivée : le club propose aux nouveaux venus de leur faire visiter les lieux, ce que racontent plusieurs couples débutants dans le livre d'or de 2026."
+        }
+      ],
+      "sources": [
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ],
+      "icon": "users",
+      "summary": "Femmes seules gratuites, couple de 30 à 50 € selon le jour, homme seul 10 € de plus ; le samedi soir, seuls les hommes déjà connus du club entrent."
+    },
+    {
+      "id": "chalets-et-chambres-ange",
+      "title": "Le Kalinou, le Septième Ciel et trois chambres « Ange » : dormir sur place de 60 à 100 €",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le club loue de quoi passer la nuit, sous deux formes. **Les deux chalets** se louent de 22 h, à l'ouverture des soirées, jusqu'à 12 h le lendemain, avec la douche du club et une salle de petit-déjeuner en libre accès toute la matinée ; même pour plusieurs nuits, il faut libérer à midi. La page Présentation les dit disponibles toute l'année, la grille tarifaire ne cite que les nuits du jeudi au samedi. Le club n'en a que deux et conseille de réserver tôt."
+        },
+        {
+          "kind": "table",
+          "caption": "Prix relevés sur le site officiel le 16 octobre 2026, petit-déjeuner compris",
+          "headers": [
+            "Hébergement",
+            "Personnes",
+            "Équipement",
+            "La nuit"
+          ],
+          "rows": [
+            [
+              "Chalet Le Kalinou",
+              "2",
+              "Grand lit, toilettes, lavabo, chauffage",
+              "60 €"
+            ],
+            [
+              "Chalet Le Septième Ciel",
+              "2",
+              "Mêmes équipements",
+              "60 €"
+            ],
+            [
+              "Chambre Ange 1",
+              "4",
+              "Deux lits, salle de bains, décor marocain",
+              "100 €"
+            ],
+            [
+              "Chambre Ange 2",
+              "2",
+              "Lit de 160, douche à l'italienne, noir et blanc",
+              "80 €"
+            ],
+            [
+              "Chambre Ange 3",
+              "2",
+              "Lit de 160, douche à l'italienne, bohème et bambou",
+              "80 €"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "**Les chambres d'hôtes**, à une vingtaine de mètres du club, sont apparues entre décembre 2023 et août 2024, d'après les grilles archivées. Télévision, petit-déjeuner déposé dans la chambre, arrivée dès 16 h grâce à une boîte à clés, départ à 12 h : elles se réservent par téléphone, au 06 58 99 53 50, le numéro des pages Contact et Présentation ; les mentions légales du site en affichent un autre, le 06 68 82 01 02.\n\nEn 2020, les chalets se vendaient avec l'entrée, de 85 à 110 € la nuit, et une formule camping-car existait. Elle a disparu de la grille, mais le grand parking, que le club dit sécurisé et à l'abri des regards, accueille toujours les camping-cars."
+        }
+      ],
+      "sources": [
+        "s2",
+        "s3",
+        "s4",
+        "s11",
+        "s13",
+        "s29",
+        "s30",
+        "s7",
+        "s8"
+      ],
+      "icon": "bed",
+      "summary": "Deux chalets pour deux à 60 € la nuit (22 h-12 h) et trois chambres d'hôtes à 20 m, à 80 ou 100 €, petit-déjeuner compris, à réserver par téléphone."
+    },
+    {
+      "id": "semaine-et-agenda-fin-2026",
+      "title": "Deux après-midis, trois soirées, un dimanche en continu : l'agenda jusqu'au réveillon 2026",
+      "blocks": [
+        {
+          "kind": "list",
+          "items": [
+            "**Lundi et jeudi, 14 h 30-19 h** : après-midis mixtes, balnéo, coins câlins, ambiance piano-bar.",
+            "**Jeudi, 22 h-2 h** : soirée mixte « sans préavis », piste de danse.",
+            "**Vendredi, 22 h-2 h 30** : DJ et show d'une artiste que le club présente comme une ancienne actrice X.",
+            "**Samedi, 22 h-3 h** : soirée à thème avec DJ et shows à la barre de pole dance.",
+            "**Dimanche, 15 h-22 h en continu** : piano-bar, balnéo et terrasse."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Un dimanche par mois environ, une « Journée piquante » (15 h 30-17 h 30, en salle télé) propose, animées par deux intervenants, démonstrations et initiations au martinet, au fouet et au shibari, l'art japonais du ligotage. La première de la saison a eu lieu le dimanche 18 octobre, au lendemain d'une soirée Topless."
+        },
+        {
+          "kind": "table",
+          "caption": "Programme publié sur le site du club, relevé le 19 octobre 2026",
+          "headers": [
+            "Date",
+            "Rendez-vous"
+          ],
+          "rows": [
+            [
+              "Samedi 24 octobre",
+              "Courbes sensuelles"
+            ],
+            [
+              "Samedi 31 octobre",
+              "Halloween sexy"
+            ],
+            [
+              "Samedi 7 novembre",
+              "Décolleté sexy"
+            ],
+            [
+              "Dimanche 8 novembre",
+              "Journée piquante"
+            ],
+            [
+              "Samedi 14 novembre",
+              "Soirée sexy avec un chapeau"
+            ],
+            [
+              "Samedi 21 novembre",
+              "Résille"
+            ],
+            [
+              "Samedi 28 novembre",
+              "Transparence"
+            ],
+            [
+              "Samedi 5 décembre",
+              "« Orgies romaines »"
+            ],
+            [
+              "Dimanche 6 décembre",
+              "Journée piquante"
+            ],
+            [
+              "Samedi 12 décembre",
+              "Soirée Topless"
+            ],
+            [
+              "Samedi 19 décembre",
+              "Mères Noël"
+            ],
+            [
+              "Samedi 26 décembre",
+              "Chic and class"
+            ],
+            [
+              "Jeudi 31 décembre",
+              "Réveillon : dîner à 19 h sur réservation, soirée ouverte à tous dès 23 h"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le thème du samedi est « non obligatoire mais souhaité », et le programme du réveillon reste « à venir ». Les dates bougent : le 16 octobre, l'agenda plaçait les deux Journées piquantes suivantes les 15 novembre et 13 décembre ; le 19 octobre, il les avait avancées aux 8 novembre et 6 décembre.\n\nLe site du club affiche une bannière Wyylde dans son bloc « Nos partenaires », avec Entrecoquins et NousLibertins ; sans connexion, nous n'avons pas pu voir s'il y annonce ses propres soirées. Pour [comparer ce programme aux soirées des autres clubs sur Wyylde](aff:wyylde), un compte gratuit suffit ; répondre aux messages des membres exige en revanche un abonnement."
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Horaires périmés ailleurs",
+          "body": "Le Petit Futé, Lieux Coquins et Horairesdouverture24 affichent encore un vendredi après-midi, supprimé au plus tard en mars 2023, ou une fermeture tardive le dimanche, alors que la journée se termine à 22 h dans les grilles de 2025 et 2026."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s13",
+        "s14",
+        "s19",
+        "s23",
+        "s26"
+      ],
+      "icon": "calendar",
+      "summary": "Après-midis le lundi et le jeudi, soirées du jeudi au samedi, dimanche de 15 h à 22 h ; un thème chaque samedi jusqu'à Noël, puis le réveillon du 31 décembre."
+    },
+    {
+      "id": "piscine-jacuzzis-300-m2",
+      "title": "Une piscine chauffée à 30 °C, deux jacuzzis et un étage marocain sur 300 m²",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le club annonce 300 m², chiffre repris par le Petit Futé. Sa charte décrit les lieux niveau par niveau ; nous ne les avons pas visités."
+        },
+        {
+          "kind": "list",
+          "items": [
+            "**Rez-de-chaussée** : bar, piste de danse, podium de pole dance, coins câlins fermés ou semi-fermés, espace BDSM, glory hole et salle de projection de films X.",
+            "**Étage** : coins câlins au décor marocain et grand lit rond pour les jeux à plusieurs.",
+            "**Balnéo** : deux jacuzzis, sauna, hammam, table de massage, douches et toilettes accessibles aux personnes handicapées.",
+            "**Dehors** : espace fumeurs couvert et chauffé, terrasse avec transats, piscine chauffée à 30 °C aux beaux jours, coins câlins dans les bambous et croix pour les jeux BDSM."
+          ]
+        },
+        {
+          "kind": "callout",
+          "tone": "info",
+          "title": "Où voir les photos",
+          "body": "La page Présentation du [site officiel](https://www.angelysclub.fr/pr%C3%A9sentation/) sert de galerie : « notre espace romain », chambres d'hôtes, chalets, terrasse et piscine, coins câlins dans les bambous et « le club », sur des photos mises en ligne pour la plupart fin avril 2026, d'après l'horodatage des fichiers ; nous avons lu les légendes sans détailler chaque image."
+        }
+      ],
+      "sources": [
+        "s2",
+        "s3",
+        "s19"
+      ],
+      "icon": "spa",
+      "summary": "Sur 300 m² selon le club : deux jacuzzis, sauna, hammam, piste de danse, étage de coins câlins et, dehors, une piscine chauffée à 30 °C aux beaux jours."
+    },
+    {
+      "id": "charte-un-non-veut-dire-non",
+      "title": "« Un Non veut dire Non », portables interdits, serviettes à apporter : la charte du club",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "La charte accueille toutes les orientations et toutes les pratiques, pourvu que chacun respecte les autres et les lieux. Ses règles, adressées aux « Messieurs » :"
+        },
+        {
+          "kind": "list",
+          "items": [
+            "« Un Non veut dire Non ! » : ni insistance ni grossièreté.",
+            "Portables et appareils photo interdits ; tabac dans l'espace fumeurs seulement.",
+            "Pas de boisson en balnéo ni dans les coins câlins ; nudité et douche obligatoires en balnéo.",
+            "Prostitution, drogue, harcèlement ou violence valent l'expulsion immédiate ; une forte odeur corporelle peut aussi valoir d'être prié de partir."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "**Tenue** : correcte, sexy pour les femmes, sobre pour les hommes ; shorts, baskets et tongs refusés.\n\n**À emporter** : sa serviette de balnéo, que le club demande d'apporter par souci d'hygiène et d'économie d'eau (il en loue à 2 €), et des espèces ou un chéquier, puisque la carte bancaire n'est pas acceptée. Depuis le Covid, le personnel ne garde plus les vêtements : les affaires vont dans un casier en libre-service ou restent dans la voiture."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s6"
+      ],
+      "icon": "shield",
+      "summary": "Shorts, baskets et tongs refusés, téléphones et appareils photo interdits, serviette à apporter, paiement sans carte : la charte tient en quelques règles fermes."
+    },
+    {
+      "id": "avis-petit-fute-pagesjaunes-livre-or",
+      "title": "4,7/5 sur 6 avis au Petit Futé, 5/5 sur PagesJaunes et 227 messages au livre d'or",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Les notes publiques reposent sur peu d'avis. Au 19 octobre 2026, le Petit Futé affiche 4,7/5 sur 6 avis déposés entre 2017 et 2022 et classe le club « Recommandé » ; PagesJaunes donne 5/5 sur 3 avis (2022, 2024 et 2025) qui saluent l'accueil, la propreté et le logement voisin. La note Google de 4,6/5 sur 89 avis, citée par l'annuaire Minuit Libertin sur une page datée de mai 2025 et mise à jour en août 2026, n'a pas été vérifiée par nos soins.\n\n**Le livre d'or**, publié et modéré par le club, compte 227 messages depuis juillet 2020, dont 37 en 2026. Ceux de 2025 et 2026 reviennent sur la visite guidée par les gérants, la propreté, la piste de danse animée par des habitués, des hommes seuls jugés respectueux le jeudi après-midi et la piscine l'été ; plusieurs viennent de couples de passage pendant leurs vacances.\n\n**Seules critiques trouvées** : en août 2020, un couple venu plusieurs fois jugeait les hommes seuls trop nombreux à l'entrée de coins câlins « exigus » et la fréquentation faible face à d'autres clubs ; dans une réponse à un autre client, affichée en tête du livre d'or, la direction dit refuser, filtrer et sélectionner les hommes « indélicats ». En 2019, un avis du Petit Futé trouvait le club « petit », mais joli. Le blog Libertinage sans complexe a publié en août 2021 deux témoignages sans aucune critique, d'un couple et d'un homme seul, qui saluent l'accueil, la propreté et l'hygiène ; la présentation du blog cite aussi la piscine et les chalets."
+        }
+      ],
+      "sources": [
+        "s6",
+        "s12",
+        "s19",
+        "s20",
+        "s21",
+        "s25"
+      ],
+      "icon": "star",
+      "summary": "Peu de notes publiques, toutes élevées (4,7/5 sur 6 avis, 5/5 sur 3) ; le livre d'or, modéré par le club, compte 227 messages, et une critique de 2020 visait les hommes seuls."
+    },
+    {
+      "id": "fiches-voisines-charente-maritime",
+      "title": "L'Antre 2 en ville, Élixyr à Vergné, Néapolis à Mosnac : les fiches voisines",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Notre annuaire recense une seconde adresse dans la ville, [L'Antre 2](/l-antre2-saint-jean-d-angely), que nous n'avons pas étudiée pour cette fiche. Dans le département figurent aussi [Élixyr à Vergné](/club-elixyr-vergne), [le Néapolis de Mosnac](/neapolis-club-libertin-charente), [Plaisir d'O à La Rochelle](/plaisir-d-o-la-rochelle-port-neuf) et [L'Hermaphrodite à Royan](/l-hermaphodite-royan) ; la liste complète est sur [la page des lieux de Charente-Maritime](/departement/charente-maritime). Un annuaire spécialisé cite en outre deux saunas absents de notre annuaire, à La Rochelle et à Aytré, que nous n'avons pas vérifiés."
+        }
+      ],
+      "sources": [
+        "s27"
+      ],
+      "icon": "map",
+      "summary": "À Saint-Jean-d'Angély, notre annuaire recense aussi L'Antre 2 ; Élixyr à Vergné, le Néapolis à Mosnac et Plaisir d'O à La Rochelle sont dans le département."
+    },
+    {
+      "id": "histoire-27-ans-reprise-2017",
+      "title": "« 27 ans » fêtés avant l'automne 2020, deux ans de fermeture, une reprise en février 2017",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "L'année de naissance du club reste inconnue. Avant septembre 2020, la direction remerciait ses clients venus nombreux pour « les 27 ans du club » ; le Petit Futé écrit « depuis 30 ans », sans date. Une ouverture vers 1992 ou 1993 n'est qu'une déduction."
+        },
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "25 août 2009",
+              "text": "Création de la SARL J.A.D, dont l'établissement du 660 avenue de Jarnac porte l'enseigne « L'Angely's Club »."
+            },
+            {
+              "date": "Vers 2015",
+              "text": "Début d'une fermeture d'environ deux ans, selon la radio locale Hélène FM."
+            },
+            {
+              "date": "Septembre 2016",
+              "text": "Le site annonce une ouverture prochaine, avec une soirée gay le dimanche soir et une soirée réservée aux couples le dernier samedi du mois."
+            },
+            {
+              "date": "19 décembre 2016",
+              "text": "L'établissement de J.A.D est fermé au registre."
+            },
+            {
+              "date": "2 février 2017",
+              "text": "Immatriculation du nouvel établissement, rattaché à une entreprise individuelle. Le 27 janvier, Hélène FM annonçait une réouverture début mars par un couple local. La charte présente aujourd'hui un club « entièrement rénové et revisité »."
+            },
+            {
+              "date": "Juin 2018, juin 2019",
+              "text": "Ouverture de la terrasse et de la piscine, puis mise en service d'une « nouvelle piscine »."
+            },
+            {
+              "date": "2020",
+              "text": "Réouverture après le confinement, prévue « normalement le 22 juin » ; le personnel cesse de prendre les vêtements, et la grille de septembre annonce que toutes les soirées sont désormais mixtes."
+            },
+            {
+              "date": "Fin 2023-été 2024",
+              "text": "Arrivée des trois chambres d'hôtes, absentes de la grille de décembre 2023 et présentes dans celle d'août 2024 ; le dimanche passe ensuite de 23 h à 22 h, au plus tard en janvier 2025."
+            }
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le registre ne dit rien des liens entre J.A.D et le couple actuel. Les grilles archivées montrent qu'en dix ans l'entrée la moins chère comme celle du samedi a pris 10 €, et que les prix d'entrée n'ont pas bougé depuis la grille d'août 2024 ; seul le tarif « transgenres » du samedi est passé de 20 à 40 € entre août 2024 et janvier 2025."
+        },
+        {
+          "kind": "table",
+          "caption": "Entrée du jour le moins cher et du samedi, d'après les grilles officielles archivées",
+          "headers": [
+            "Grille",
+            "Couple",
+            "Homme seul"
+          ],
+          "rows": [
+            [
+              "Septembre 2016",
+              "20 à 40 €",
+              "30 à 50 €"
+            ],
+            [
+              "Septembre 2020",
+              "25 à 40 €",
+              "35 à 50 €"
+            ],
+            [
+              "Mars 2023",
+              "28 à 50 €",
+              "38 à 60 €"
+            ],
+            [
+              "Août 2024 à octobre 2026",
+              "30 à 50 €",
+              "40 à 60 €"
+            ]
+          ]
+        },
+        {
+          "kind": "callout",
+          "tone": "info",
+          "title": "« Probablement fermé » sur PagesJaunes ?",
+          "body": "PagesJaunes ne dit pas d'où vient cette mention et invite ses visiteurs à confirmer la fermeture. Sa fiche porte le nom de J.A.D, société dont l'établissement à cette adresse, sous l'enseigne « L'Angely's Club », est fermé au registre depuis le 19 décembre 2016. Les trois avis déposés sur cette même fiche entre 2022 et 2025 portent pourtant sur le club rouvert."
+        }
+      ],
+      "sources": [
+        "s2",
+        "s3",
+        "s6",
+        "s9",
+        "s10",
+        "s11",
+        "s12",
+        "s13",
+        "s14",
+        "s15",
+        "s16",
+        "s17",
+        "s18",
+        "s19",
+        "s20",
+        "s29",
+        "s30",
+        "s31"
+      ],
+      "icon": "history",
+      "summary": "Année de création inconnue : « 27 ans » fêtés avant l'automne 2020, environ deux ans de fermeture, puis une reprise par un couple local en 2017."
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Lundi": "14 h 30 - 19 h",
+      "Mardi": "Fermé",
+      "Mercredi": "Fermé",
+      "Jeudi": "14 h 30 - 19 h et 22 h - 2 h",
+      "Vendredi": "22 h - 2 h 30",
+      "Samedi": "22 h - 3 h",
+      "Dimanche": "15 h - 22 h, en continu"
+    },
+    "note": "Ouvert aussi les veilles de fêtes et certains jours fériés, sauf s'ils tombent un mardi ou un mercredi. Relevé sur le site officiel le 16 octobre 2026, revérifié le 19 octobre.",
+    "confidence": "confirme",
+    "sources": [
+      "s4",
+      "s5"
+    ]
+  },
+  "tarifs": {
+    "rows": {
+      "Femme seule": "Gratuit tous les jours (boissons payantes)",
+      "Couple, lundi ou jeudi": "30 € par séance",
+      "Homme seul, lundi ou jeudi": "40 € par séance",
+      "Couple, vendredi ou dimanche": "38 €",
+      "Homme seul, vendredi ou dimanche": "48 €",
+      "Couple, samedi": "50 €",
+      "Homme seul, samedi": "60 € (habitués ou déjà venus un jeudi ou un vendredi soir)",
+      "Tarif transgenres, samedi": "40 €",
+      "Veilles de fêtes et jours fériés": "38 € le couple, 48 € l'homme seul",
+      "Retour le soir après l'après-midi": "10 € le couple, 15 € l'homme seul, gratuit pour les femmes",
+      "Compris dans l'entrée": "2 boissons sans alcool par personne",
+      "Boissons": "soft 2 €, bière 5 €, coupe de champagne 10 €, bouteille dès 50 €",
+      "Serviette de balnéo": "2 € en location",
+      "Chalet pour deux": "60 € la nuit, petit-déjeuner compris",
+      "Chambre d'hôtes Ange 2 ou Ange 3": "80 € pour deux, petit-déjeuner compris",
+      "Chambre d'hôtes Ange 1": "100 € pour quatre, petit-déjeuner compris"
+    },
+    "note": "Paiement en espèces ou par chèque uniquement. Grille relevée le 16 octobre 2026 et revérifiée le 19 octobre, identique à celle archivée le 18 septembre 2025 ; prix d'entrée inchangés depuis la grille archivée le 7 août 2024.",
+    "confidence": "confirme",
+    "sources": [
+      "s1",
+      "s2",
+      "s3",
+      "s4",
+      "s14",
+      "s29"
+    ]
+  },
+  "equipements": [
+    "Bar",
+    "Piste de danse avec DJ (vendredi et samedi)",
+    "Podium de pole dance",
+    "Coins câlins fermés et semi-fermés",
+    "Grand lit rond collectif à l'étage",
+    "Espace BDSM et croix extérieure",
+    "Glory hole",
+    "Salle de projection de films X",
+    "2 jacuzzis",
+    "Sauna",
+    "Hammam",
+    "Table de massage",
+    "Douches",
+    "Casiers en libre-service",
+    "Toilettes accessibles aux personnes handicapées",
+    "Espace fumeurs couvert et chauffé",
+    "Terrasse avec transats",
+    "Piscine extérieure chauffée",
+    "2 chalets",
+    "3 chambres d'hôtes à 20 m",
+    "Grand parking, camping-cars acceptés"
+  ],
+  "externalRatings": [
+    {
+      "platform": "Petit Futé",
+      "rating": 4.7,
+      "scale": 5,
+      "count": 6,
+      "date": "2026-10-19",
+      "url": "https://www.petitfute.com/v32017-saint-jean-d-angely-17400/c9998-coquin/c1044-s-amuser-sortir/c208-sauna/1602689-l-angely-s-club-sauna.html"
+    },
+    {
+      "platform": "PagesJaunes",
+      "rating": 5,
+      "scale": 5,
+      "count": 3,
+      "date": "2026-10-19",
+      "url": "https://www.pagesjaunes.fr/pros/52059951"
+    }
+  ],
+  "officialLinks": [
+    {
+      "label": "Site officiel angelysclub.fr",
+      "url": "https://www.angelysclub.fr/",
+      "kind": "site"
+    },
+    {
+      "label": "Voir la galerie photo officielle (page Présentation)",
+      "url": "https://www.angelysclub.fr/pr%C3%A9sentation/",
+      "kind": "galerie"
+    },
+    {
+      "label": "Agenda des soirées",
+      "url": "https://www.angelysclub.fr/les-soir%C3%A9es/",
+      "kind": "agenda"
+    },
+    {
+      "label": "Horaires et tarifs officiels",
+      "url": "https://www.angelysclub.fr/horaires-et-tarifs/",
+      "kind": "autre"
+    },
+    {
+      "label": "Contact et réservation des hébergements",
+      "url": "https://www.angelysclub.fr/contact/",
+      "kind": "reservation"
+    }
+  ],
+  "corrections": {
+    "telephone": "06 58 99 53 50",
+    "sources": [
+      "s7",
+      "s2"
+    ]
+  },
+  "faq": [
+    {
+      "question": "L'Angély's Club est-il toujours ouvert en 2026 ?",
+      "answer": "Oui. Au 19 octobre 2026, le site officiel annonce un programme chaque samedi jusqu'au 31 décembre, le livre d'or a reçu un message le 26 septembre et l'établissement est actif au registre des entreprises. La mention « probablement fermé » de PagesJaunes figure sur une fiche au nom de J.A.D, société dont l'établissement à la même adresse est fermé au registre depuis 2016. Le club ferme en revanche chaque mardi et chaque mercredi."
+    },
+    {
+      "question": "Combien coûte l'entrée à l'Angély's Club ?",
+      "answer": "Rien pour les femmes seules, qui paient leurs boissons. Un couple paie 30 € le lundi et le jeudi, 38 € le vendredi et le dimanche, 50 € le samedi ; un homme seul, 40, 48 ou 60 €. Deux boissons sans alcool sont comprises ; espèces ou chèque uniquement."
+    },
+    {
+      "question": "Un homme seul peut-il entrer le samedi soir ?",
+      "answer": "Seulement s'il est un habitué ou s'il est déjà venu un jeudi ou un vendredi soir. Pour une première fois, visez le jeudi soir (40 €), le vendredi soir (48 €) ou les après-midis du lundi et du jeudi. Si vous ne connaissez encore personne dans la région, [explorer Gleese sans communiquer de carte bancaire](aff:gleese) permet de voir qui s'y est inscrit autour de Saint-Jean-d'Angély : la plateforme n'existe que depuis fin 2024 et rassemble moins de monde que ses aînées, mais chaque membre y a fait vérifier son numéro de téléphone."
+    },
+    {
+      "question": "Peut-on dormir sur place ?",
+      "answer": "Oui : deux chalets à 60 € la nuit (de 22 h à 12 h) et trois chambres d'hôtes à 20 mètres, à 80 ou 100 €, petit-déjeuner compris. Réservez tôt par téléphone, au 06 58 99 53 50 : il n'y a que deux chalets."
+    },
+    {
+      "question": "Où trouver des photos de l'Angély's Club ?",
+      "answer": "Sur la page Présentation du site officiel : chambres, chalets, terrasse, piscine et coins câlins dans les bambous, sur des photos mises en ligne pour la plupart fin avril 2026. La page Les Soirées porte aussi des visuels ajoutés en septembre 2026. Nous n'avons pas trouvé d'autre galerie publiée par l'établissement ; à l'intérieur, téléphones et appareils photo sont interdits."
+    },
+    {
+      "question": "Que prévoir pour une première soirée ?",
+      "answer": "Une serviette de bain pour la balnéo, des espèces ou un chéquier, une tenue sans short, baskets ni tongs. Le samedi, le thème (Courbes sensuelles le 24 octobre, Halloween le 31) est souhaité sans être exigé. À l'arrivée, dites que c'est votre première visite : on vous fera faire le tour des lieux."
+    },
+    {
+      "question": "Le club organise-t-il des soirées gay ou réservées aux couples ?",
+      "answer": "Plus aujourd'hui. La grille préparée en 2016 en prévoyait, mais depuis 2020 au moins toutes les soirées sont mixtes. Seul l'étage des coins câlins reste réservé, le samedi soir, aux couples et aux hommes qu'ils invitent."
+    }
+  ],
+  "unverified": [
+    "L'année d'ouverture du club d'origine et le nom de ses exploitants avant 2009.",
+    "Le jour exact de la réouverture de 2017 : le 30 mars 2017 n'apparaît que dans l'extrait d'un annuaire aujourd'hui disparu.",
+    "La note Google (4,6/5 sur 89 avis selon Minuit Libertin, page de mai 2025 mise à jour en août 2026), que nous n'avons pas consultée directement.",
+    "L'origine de la mention « probablement fermé définitivement » sur la fiche PagesJaunes, que le site n'explique pas.",
+    "Si un homme seul venu avec un couple le samedi est soumis à la règle des habitués.",
+    "La location des chalets les nuits du dimanche au mercredi : la page Présentation les dit disponibles toute l'année, la grille ne cite que le jeudi, le vendredi et le samedi.",
+    "Le programme et les tarifs du réveillon du 31 décembre 2026, annoncés « à venir ».",
+    "La page Facebook « angelys club », citée sans lien sur la page Contact, et l'activité du compte X @ClubAngelys, illisible lors de notre recherche.",
+    "Si les numéros 06 68 82 01 02 (mentions légales) et 05 46 59 99 16 (PagesJaunes) joignent encore le club."
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Site officiel, page d'accueil",
+      "url": "https://www.angelysclub.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s2",
+      "label": "Site officiel, page Présentation (galerie, équipements, dress code)",
+      "url": "https://www.angelysclub.fr/pr%C3%A9sentation/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s3",
+      "label": "Site officiel, page Règles de base (charte et description des espaces)",
+      "url": "https://www.angelysclub.fr/r%C3%A8gles-de-base/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s4",
+      "label": "Site officiel, page Horaires et Tarifs",
+      "url": "https://www.angelysclub.fr/horaires-et-tarifs/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s5",
+      "label": "Site officiel, page Les Soirées (agenda octobre-décembre 2026, dates modifiées entre le 16 et le 19 octobre)",
+      "url": "https://www.angelysclub.fr/les-soir%C3%A9es/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s6",
+      "label": "Site officiel, Livre d'or (227 messages, 2020-2026, modérés par le club)",
+      "url": "https://www.angelysclub.fr/livre-d-or/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s7",
+      "label": "Site officiel, page Contact",
+      "url": "https://www.angelysclub.fr/contact/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s8",
+      "label": "Site officiel, page Mentions légales",
+      "url": "https://www.angelysclub.fr/about/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s9",
+      "label": "Site officiel, accueil, archive du 21/09/2016",
+      "url": "https://web.archive.org/web/20160921202259/http://www.angelysclub.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s10",
+      "label": "Site officiel, Horaires et Tarifs, archive du 21/09/2016",
+      "url": "https://web.archive.org/web/20160921202232/http://www.angelysclub.fr:80/horaires-et-tarifs/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s11",
+      "label": "Site officiel, Horaires et Tarifs, archive du 30/09/2020",
+      "url": "https://web.archive.org/web/20200930020151/https://www.angelysclub.fr/horaires-et-tarifs/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s12",
+      "label": "Site officiel, Livre d'or, archive du 30/09/2020",
+      "url": "https://web.archive.org/web/20200930023915/https://www.angelysclub.fr/livre-d-or/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s13",
+      "label": "Site officiel, Horaires et Tarifs, archive du 30/03/2023",
+      "url": "https://web.archive.org/web/20230330202638/https://www.angelysclub.fr/horaires-et-tarifs/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s14",
+      "label": "Site officiel, Horaires et Tarifs, archive du 18/09/2025",
+      "url": "https://web.archive.org/web/20250918053253/https://www.angelysclub.fr/horaires-et-tarifs/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s29",
+      "label": "Site officiel, Horaires et Tarifs, archive du 07/08/2024",
+      "url": "https://web.archive.org/web/20240807150356/https://www.angelysclub.fr/horaires-et-tarifs/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s30",
+      "label": "Site officiel, Horaires et Tarifs, archive du 10/12/2023",
+      "url": "https://web.archive.org/web/20231210164323/https://www.angelysclub.fr/horaires-et-tarifs/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s31",
+      "label": "Site officiel, Horaires et Tarifs, archive du 22/01/2025",
+      "url": "https://web.archive.org/web/20250122104302/https://www.angelysclub.fr/horaires-et-tarifs/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s15",
+      "label": "Historique des captures du site (Wayback Machine)",
+      "url": "https://web.archive.org/cdx/search/cdx?url=www.angelysclub.fr/&fl=timestamp,statuscode",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s16",
+      "label": "Hélène FM, « Erotisme : la réouverture prochaine de l'Angélys Club à Saint-Jean-d'Angély », 27/01/2017",
+      "url": "https://www.helenefm.com/?p=19836",
+      "type": "presse",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s17",
+      "label": "Registre des entreprises, entreprise individuelle exploitant l'établissement « Angely's Club » (SIREN 340 319 102)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/340319102",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s18",
+      "label": "Registre des entreprises, SARL J.A.D (SIREN 514 452 911)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/514452911",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s19",
+      "label": "Petit Futé, « L'Angely's Club-Sauna » (4,7/5 sur 6 avis)",
+      "url": "https://www.petitfute.com/v32017-saint-jean-d-angely-17400/c9998-coquin/c1044-s-amuser-sortir/c208-sauna/1602689-l-angely-s-club-sauna.html",
+      "type": "annuaire",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s20",
+      "label": "PagesJaunes, « L'Angely's Club J.A.D » (5/5 sur 3 avis)",
+      "url": "https://www.pagesjaunes.fr/pros/52059951",
+      "type": "annuaire",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s21",
+      "label": "Minuit Libertin, fiche « Angély's Club » (publiée en mai 2025, mise à jour en août 2026)",
+      "url": "https://minuitlibertin.com/angelys-club/",
+      "type": "annuaire",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s23",
+      "label": "Lieux Coquins, fiche « L'Angely'S Club-Sauna »",
+      "url": "https://www.lieuxcoquins.fr/lieu/langelys-club-sauna/",
+      "type": "annuaire",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s25",
+      "label": "Libertinage sans complexe, « Avis club échangiste : L'Angélys Club Libertin à Saint-Jean d'Angely » (août 2021)",
+      "url": "https://libertinage-sans-complexe.com/avis-langelys-a-st-jean-dangely/",
+      "type": "avis",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s26",
+      "label": "Horairesdouverture24, fiche « Angélys Club - Club Libertin »",
+      "url": "https://www.horairesdouverture24.fr/filiale/Saint-Jean%20d%27Ang%E9ly-Ang%E9lys%20Club%20-%20Club%20Libertin-1797005T.html",
+      "type": "annuaire",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s27",
+      "label": "Sauna Club Le Bali, « Clubs libertins Charente-Maritime »",
+      "url": "https://www.saunaclublebali.fr/clubs-libertins-charente-maritime-17/",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    }
+  ]
+}

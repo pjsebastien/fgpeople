@@ -40,7 +40,19 @@ const dupes = clubs.filter((c) => c !== me && (
 
 const sameCity = clubs.filter((c) => c !== me && c.villeSlug === me.villeSlug && c.raw.pays === r.pays);
 const sameDept = clubs.filter((c) => c !== me && c.villeSlug !== me.villeSlug && c.raw.departement_code === r.departement_code && c.raw.pays === r.pays);
-const fmt = (c) => `- ${c.raw.nom} — ${c.raw.ville} — type « ${c.raw.type} » — lien interne : /${c.slug}${c.hasProfile ? ' (fiche personnalisée)' : ''}`;
+// Statut vérifié d'un voisin : fiche publiée, ou brouillon dont la vérification est enregistrée.
+function verifiedStatus(slug) {
+  for (const file of [`data/clubs/profiles/${slug}.json`, `data/clubs/drafts/${slug}.json`]) {
+    if (!fs.existsSync(file)) continue;
+    if (file.includes('/drafts/') && !fs.existsSync(`data/clubs/verified/${slug}.json`)) continue;
+    try {
+      const p = JSON.parse(fs.readFileSync(file, 'utf8'));
+      return `statut vérifié le ${p.researchedAt} : ${p.status.value} — ${p.status.summary.slice(0, 160)}`;
+    } catch { /* brouillon en cours d'écriture */ }
+  }
+  return 'statut non vérifié (fiche de base)';
+}
+const fmt = (c) => `- ${c.raw.nom} — ${c.raw.ville} — type « ${c.raw.type} » — lien interne : /${c.slug} — ${verifiedStatus(c.slug)}`;
 
 const gsc = priority.find((p) => p.slug === slug);
 const { description, description_originale, ...rest } = r;

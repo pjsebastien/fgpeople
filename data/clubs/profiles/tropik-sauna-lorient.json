@@ -1,0 +1,876 @@
+{
+  "slug": "tropik-sauna-lorient",
+  "clubId": "375",
+  "researchedAt": "2026-10-16",
+  "display": {
+    "nom": "Tropik Sauna",
+    "ville": "Lorient"
+  },
+  "status": {
+    "value": "fermeture_probable",
+    "summary": "Le 12 mars 2026, l'accueil du site officiel invoque un « problème technique » pour annoncer une fermeture temporaire ; le 19 mai, la grille « Horaires 2026 » portait toujours « fermé » du lundi au dimanche. Le 16 octobre 2026, le site est suspendu par son hébergeur et aucune réouverture n'a été annoncée. Le registre des entreprises garde cependant l'établissement actif et le BODACC ne publie aucune procédure : rien ne prouve une fermeture définitive.",
+    "sources": [
+      "s2",
+      "s1",
+      "s20",
+      "s25"
+    ]
+  },
+  "seo": {
+    "title": "Club libertin à Lorient : le Tropik Sauna à l'arrêt depuis mars 2026",
+    "metaDescription": "Sauna libertin de 230 m² rue de Liège, fermé « temporairement » depuis mars 2026 : reprise de 2025, tarifs, règles et adresses encore ouvertes à Lorient.",
+    "subtitle": "Sauna libertin de 230 m², 25 rue de Liège à Lorient (56), fermé depuis mars 2026",
+    "targetQueries": [
+      "club libertin lorient",
+      "sauna libertin lorient",
+      "club echangiste lorient",
+      "libertine lorient",
+      "lorient club libertin",
+      "tropik sauna lorient",
+      "tropik lorient fermé",
+      "tropik sauna avis",
+      "tropik sauna tarifs"
+    ]
+  },
+  "lead": "Au 25 rue de Liège, en plein centre de Lorient, le Tropik Sauna a reçu couples, femmes seules et hommes seuls sur 230 m², autour d'un sauna, d'un hammam et d'un jacuzzi, sans servir d'alcool sous son exploitante historique (2004-2025). Vendu 20 000 € en juin 2025 à un ancien client, il a allongé ses horaires, rendu l'entrée gratuite aux femmes, s'est dit ouvert en janvier 2026, puis a fermé « temporairement » en mars pour un problème technique. Sept mois plus tard, son site est suspendu ; à Lorient, l'autre adresse libertine est le sauna Le Korosko, rue Lazare-Carnot.",
+  "glance": [
+    {
+      "icon": "closed",
+      "label": "Fermé temporairement",
+      "value": "Depuis mars 2026, aucune réouverture annoncée"
+    },
+    {
+      "icon": "map",
+      "label": "Adresse",
+      "value": "25 rue de Liège, centre de Lorient"
+    },
+    {
+      "icon": "spa",
+      "label": "Le lieu",
+      "value": "230 m² : sauna, hammam, jacuzzi, salons",
+      "confidence": "source_unique"
+    },
+    {
+      "icon": "euro",
+      "label": "Entrée (octobre 2025)",
+      "value": "Couple 20 € · homme 40 € · femme 0 €"
+    },
+    {
+      "icon": "history",
+      "label": "En activité",
+      "value": "Depuis 2004 (probable), repris en juin 2025",
+      "confidence": "a_verifier"
+    },
+    {
+      "icon": "heart",
+      "label": "Autre adresse à Lorient",
+      "value": "Le Korosko, 18 rue Lazare-Carnot"
+    }
+  ],
+  "audience": [
+    {
+      "who": "couples",
+      "status": "oui",
+      "detail": "Chaque jour d'ouverture (grille d'octobre 2025) ; journées couples certains dimanches",
+      "price": "20 €"
+    },
+    {
+      "who": "femmes",
+      "status": "oui",
+      "detail": "Entrée gratuite en octobre 2025 ; un vendredi par mois leur était réservé en 2025",
+      "price": "0 €"
+    },
+    {
+      "who": "hommes",
+      "status": "selon",
+      "detail": "Admis en mixte en 2025 ; exclus des soirées couples (samedi 28 février 2026 dès 21 h)",
+      "price": "40 €"
+    }
+  ],
+  "highlights": [
+    "Le Tropik est fermé depuis mars 2026 pour un « problème technique » ; au 16 octobre 2026, son site est suspendu et aucune réouverture n'est annoncée.",
+    "Le 02 97 21 86 03 n'est plus affiché depuis la reprise de 2025 : le dernier numéro publié, en janvier 2026, est le 06 35 35 02 68, sans garantie qu'il réponde.",
+    "tropik-sauna.com est à vendre et tropik-sauna.fr appartient à un tiers depuis 2024 : le dernier site officiel était tropik-sauna.net.",
+    "À Lorient, Le Korosko reçoit couples et femmes en mixte le lundi et le vendredi, et lors de soirées couples deux samedis par mois : appelez avant de venir."
+  ],
+  "keyFacts": [
+    {
+      "label": "Statut",
+      "value": "Fermé « temporairement » depuis mars 2026, aucune réouverture annoncée au 16/10/2026",
+      "confidence": "confirme",
+      "sources": [
+        "s2",
+        "s1"
+      ]
+    },
+    {
+      "label": "Adresse",
+      "value": "25 rue de Liège, 56100 Lorient (centre-ville)",
+      "confidence": "confirme",
+      "sources": [
+        "s13",
+        "s10",
+        "s20",
+        "s9"
+      ]
+    },
+    {
+      "label": "Ouverture",
+      "value": "2004 probablement : exploitante immatriculée le 01/07/2004, « 19 ans » évoqués en octobre 2023",
+      "confidence": "a_verifier",
+      "sources": [
+        "s21",
+        "s9"
+      ]
+    },
+    {
+      "label": "Exploitation",
+      "value": "Même exploitante de juillet 2004 à juin 2025 ; fonds repris le 26/06/2025",
+      "confidence": "confirme",
+      "sources": [
+        "s21",
+        "s22",
+        "s24"
+      ]
+    },
+    {
+      "label": "Surface",
+      "value": "230 m², selon l'exploitante (mars 2024)",
+      "confidence": "source_unique",
+      "sources": [
+        "s9"
+      ]
+    },
+    {
+      "label": "Espaces",
+      "value": "Sauna, hammam, jacuzzi, plusieurs salons",
+      "confidence": "confirme",
+      "sources": [
+        "s13",
+        "s10"
+      ]
+    },
+    {
+      "label": "Alcool",
+      "value": "Aucun selon l'exploitante historique ; boissons sans alcool incluses dans l'entrée jusqu'en 2025",
+      "confidence": "confirme",
+      "sources": [
+        "s9",
+        "s7"
+      ]
+    },
+    {
+      "label": "Public",
+      "value": "Mixte : couples, femmes seules, hommes seuls ; « exclusivement » hétéro en 2026",
+      "confidence": "confirme",
+      "sources": [
+        "s6",
+        "s4"
+      ]
+    },
+    {
+      "label": "Dernier téléphone affiché",
+      "value": "06 35 35 02 68 (novembre 2025 à janvier 2026)",
+      "confidence": "confirme",
+      "sources": [
+        "s5",
+        "s3"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "fermeture-mars-2026",
+      "title": "Fermé « temporairement » en mars 2026, site suspendu en octobre",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le 24 janvier 2026, l'accueil de tropik-sauna.net affichait encore « Votre sauna est ouvert », et le 17 février le club mettait en ligne un programme pour chaque jour du mois. Sur la capture du 12 mars, le message a changé : un problème technique, jamais précisé, oblige l'équipe à fermer temporairement, et elle promet de rouvrir au plus vite. L'arrêt se situe donc entre le 17 février, dernier signe d'activité, et le 12 mars 2026.\n\nLe 19 mai, rien n'a bougé : l'avis est toujours en place, la page « Horaires 2026 » indique « fermé » pour les sept jours, les montants des tarifs ont été effacés et le calendrier des soirées est vide. Au 16 octobre 2026, chaque page du site renvoie l'avis « Service suspendu » de l'hébergeur Webador. Nous n'avons trouvé aucune annonce de réouverture, ni sur le site ni dans ses archives."
+        },
+        {
+          "kind": "callout",
+          "tone": "info",
+          "title": "Pourquoi nous n'écrivons pas « fermé définitivement »",
+          "body": "Le club a lui-même parlé d'une fermeture temporaire. Au registre des entreprises, l'établissement « LE TROPIK » est toujours actif au 16 octobre 2026, et le BODACC ne publie ni radiation ni procédure collective pour son exploitant. Les travaux annoncés pour la fin 2025 et pour 2026 pourraient expliquer un arrêt prolongé, mais aucune source ne l'affirme. La presse locale et les avis Google n'ont pas pu être consultés pour cette fiche."
+        },
+        {
+          "kind": "text",
+          "body": "Pour guetter un retour, deux pistes publiées par le club lui-même : le compte Instagram **@tropiksauna** (7 publications, lisibles seulement avec un compte) et le dernier numéro affiché, le 06 35 35 02 68, sans garantie qu'il réponde encore.\n\nMéfiez-vous en revanche des anciennes adresses web. Le premier site, tropik-sauna.com, est aujourd'hui un nom de domaine à vendre. Le deuxième, tropik-sauna.fr, a servi au club de 2011 à 2022, puis a expiré : un tiers l'a racheté en mars 2024 et ce n'est plus une source sur le Tropik (voir la FAQ)."
+        }
+      ],
+      "sources": [
+        "s3",
+        "s4",
+        "s2",
+        "s1",
+        "s20",
+        "s25",
+        "s5",
+        "s19",
+        "s18",
+        "s16",
+        "s17",
+        "s33"
+      ],
+      "icon": "closed",
+      "summary": "Annoncée le 12 mars 2026 pour un « problème technique », la fermeture dure : grille « fermé » sept jours sur sept en mai, site suspendu le 16 octobre 2026."
+    },
+    {
+      "id": "korosko-bilitis-hot-box",
+      "title": "Le Korosko à Lorient, le Bilitis et le Hot Box dans les Côtes-d'Armor",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "À Lorient, la seule autre adresse que nous ayons trouvée est **Le Korosko**, 18 rue Lazare-Carnot, un sauna dont la société est immatriculée depuis 1999 et qui se présente comme « gays et échangistes ». La clientèle libertine n'y est reçue que certains jours : en mixte le lundi (de 14 h à 20 h) et le vendredi (de 14 h à 1 h), et lors des soirées couples des 1er et 3e samedis du mois, de 21 h à 2 h. Le mardi, le jeudi, le samedi après-midi et le dimanche sont des journées gays, le mercredi est ouvert à toutes les tendances, couples compris. Le Korosko annonce un sauna finlandais, un double hammam, un jacuzzi de 20 à 25 places et, comme le Tropik, un bar sans alcool. Les guides gays Spartacus et Saunas4men ne recensent d'ailleurs que lui à Lorient."
+        },
+        {
+          "kind": "table",
+          "caption": "Tarifs affichés sur le site du Korosko (consulté le 16 octobre 2026)",
+          "headers": [
+            "Créneau",
+            "Couple",
+            "Femme seule",
+            "Homme seul"
+          ],
+          "rows": [
+            [
+              "Lundi, mixte",
+              "17 €",
+              "6 €",
+              "36 €"
+            ],
+            [
+              "Mercredi, toutes tendances",
+              "20 €",
+              "6 €",
+              "20 €"
+            ],
+            [
+              "Vendredi, mixte",
+              "22 €",
+              "6 €",
+              "46 €"
+            ],
+            [
+              "Soirée couples (1er et 3e samedis)",
+              "36 €",
+              "11 €",
+              "Seulement en trio : 72 € à deux hommes et une femme, 47 € à deux femmes et un homme"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le site du Korosko n'affiche aucune année à côté de ses horaires (il annonce une ouverture à 14 h « à partir du 1er octobre ») et nous n'y avons vu aucun événement daté : appelez le 02 97 35 07 50 avant de vous déplacer. Ses soirées couples n'acceptent les hommes qu'au sein de trios « déjà constitués » : un homme seul n'y entre qu'accompagné. Pour [trouver le couple avec qui former ce trio](aff:gleese), Gleese, un réseau libertin français ouvert fin 2024, laisse créer son profil sans carte bancaire et contrôle chaque inscrit par téléphone ; à vous de juger s'il compte déjà assez de membres dans le pays de Lorient."
+        },
+        {
+          "kind": "text",
+          "body": "Hors de Lorient, deux établissements de notre annuaire dont nous avons vérifié l'activité en octobre 2026 se trouvent dans les Côtes-d'Armor :\n\n- [Le Bilitis, à Plounérin](/le-bilitis-plounerin-gare), entre Guingamp et Morlaix : un club qui revendique plus de 700 m², trois fois la surface du Tropik, avec jacuzzi et hammam. Il a fêté le 10 octobre 2026 les deux ans de sa reprise et publiait le 16 octobre son programme de novembre.\n- [Le Hot Box, à Trégueux](/hot-box-tregueux), près de Saint-Brieuc : un sauna gay et libertin avec piscine, spa et hammam, qui a fait, comme le Tropik de l'ancienne exploitante, le choix de ne servir aucun alcool. Son site, modifié le 16 octobre 2026, annonce une soirée de pleine lune pour un samedi 23 janvier.\n\nLes autres établissements de la région figurent sur [notre carte des clubs bretons](/region/bretagne)."
+        }
+      ],
+      "sources": [
+        "s26",
+        "s27",
+        "s28",
+        "s31",
+        "s30",
+        "s29"
+      ],
+      "icon": "heart",
+      "summary": "À Lorient, Le Korosko reçoit les libertins en mixte le lundi et le vendredi et lors de soirées couples deux samedis par mois ; Le Bilitis et le Hot Box sont actifs en octobre 2026."
+    },
+    {
+      "id": "230-m2-sans-alcool",
+      "title": "230 m² rue de Liège : sauna, hammam, jacuzzi, salle « Maryline » et pas d'alcool",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le Tropik n'a jamais eu le gabarit d'un grand club. Son exploitante le chiffrait à 230 m² en mars 2024, pour couper court aux comparaisons avec des établissements deux ou trois fois plus grands. De 2007 à 2025, le club annonce le même trio d'équipements, un sauna, un hammam et un jacuzzi, auxquels s'ajoutent plusieurs salons. L'un d'eux portait un nom, la salle « Maryline », rouverte le 28 juin 2023 après réfection. Le site mentionne aussi des douches, obligatoires avant chaque passage au sauna, au hammam ou au jacuzzi, et un vestiaire.\n\nL'autre marque de fabrique tenait au bar. En octobre 2023, à un couple déçu de ne pouvoir ni danser ni boire, l'exploitante répondait que le Tropik n'avait servi d'alcool à aucun moment en dix-neuf ans et n'avait jamais été une discothèque : on y venait pour se détendre, puis s'amuser si l'envie s'en présentait. Les boissons sans alcool étaient incluses dans l'entrée, ce qui étonnait les touristes de passage selon un message d'août 2023 ; les serviettes, elles, coûtaient 2 € pièce, sauf à apporter les siennes. La nouvelle direction a cessé d'inclure les boissons en octobre 2025, sans préciser si elle sert de l'alcool."
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Équipements retirés de notre fiche",
+          "body": "Notre ancienne fiche reprenait d'un annuaire une barre d'exhib, un lit rond et deux backrooms, dont une fermant à clé. Aucune des pages du club que nous avons lues, de 2007 à 2026, ne les mentionne : nous ne les affichons plus."
+        },
+        {
+          "kind": "text",
+          "body": "Pour l'accès, le centre de Lorient est devenu piéton en 2023, mais la rue de Liège est restée ouverte aux voitures. En novembre 2023, le club signalait que les parkings du centre, dont celui de la place Alsace-Lorraine, étaient gratuits après 18 h : une règle municipale qui a pu changer depuis."
+        }
+      ],
+      "sources": [
+        "s9",
+        "s13",
+        "s10",
+        "s7",
+        "s6",
+        "s32",
+        "s11"
+      ],
+      "icon": "spa",
+      "summary": "Sauna, hammam, jacuzzi et salons sur 230 m² ; jusqu'en 2025, aucun alcool servi, boissons sans alcool comprises dans l'entrée et serviettes à 2 € pièce."
+    },
+    {
+      "id": "patricia-2004-2025",
+      "title": "De 2004 à 2025, le sauna de Patricia et Patrick",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Pendant vingt et un ans, le Tropik a été tenu par la même exploitante, que le club présentait sous son seul prénom. En 2007, c'est à Patricia qu'on s'adressait pour réserver ; en 2016, l'accueil était assuré par « Patricia et son équipe », puis par « Patricia et Patrick » jusqu'en juin 2025. Ses messages, publiés sur les sites successifs, ont fixé le ton de la maison : rappels d'hygiène, mises au point avec les hommes seuls, réponses directes aux critiques."
+        },
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "1er juillet 2004",
+              "text": "Immatriculation de l'entreprise individuelle qui exploitera le sauna du 25 rue de Liège jusqu'en 2025."
+            },
+            {
+              "date": "Avril 2007",
+              "text": "Plus ancienne trace en ligne : tropik-sauna.com présente un « club libertin et échangiste » avec jacuzzi, sauna et hammam, et une soirée à thème chaque troisième jeudi du mois, avec buffet ou dégustation de 21 h à 22 h 30."
+            },
+            {
+              "date": "Novembre 2011",
+              "text": "Première capture de tropik-sauna.fr, dont le menu propose horaires, tarifs, livre d'or, diaporama et une rubrique « La cuisine d'Éros »."
+            },
+            {
+              "date": "Rentrée 2018 au plus tard",
+              "text": "Les vendredis de 20 h à 2 h sont réservés aux couples et aux femmes seules."
+            },
+            {
+              "date": "Janvier 2019",
+              "text": "Le mardi, de 15 h à 19 h, le sauna s'ouvre à « toutes tendances » : gays, bis, lesbiennes et hétéros."
+            },
+            {
+              "date": "2020-2021",
+              "text": "Fermetures administratives liées au Covid, réouvertures sur réservation et avec masque ; retour annoncé pour le mardi 6 juillet 2021."
+            },
+            {
+              "date": "4 juin 2023",
+              "text": "Lancement de tropik-sauna.net, le dernier site officiel."
+            },
+            {
+              "date": "28 juin 2023",
+              "text": "Réouverture de la salle « Maryline » après réfection."
+            },
+            {
+              "date": "Avril 2025",
+              "text": "Le deuxième vendredi de chaque mois devient une journée réservée aux femmes."
+            },
+            {
+              "date": "26 au 30 juin 2025",
+              "text": "Vente du fonds, puis cessation d'activité et radiation de l'exploitante historique."
+            }
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Ces messages laissent aussi deviner les reproches de la clientèle : l'hygiène dans un message antérieur à 2019, l'absence d'alcool et de piste de danse en 2023, la taille du lieu en 2024. Le site affichait par ailleurs un vote d'étoiles : 3,40/5 sur 966 votes en juillet 2025, 3,41/5 sur 1 373 votes en janvier 2026. Hébergé par le club, ouvert à tous et sans aucun avis rédigé, ce compteur ne vaut pas une note indépendante."
+        }
+      ],
+      "sources": [
+        "s21",
+        "s13",
+        "s14",
+        "s15",
+        "s16",
+        "s9",
+        "s7",
+        "s8",
+        "s22",
+        "s23",
+        "s12",
+        "s10"
+      ],
+      "icon": "history",
+      "summary": "De 2004 à juin 2025, une même exploitante, présentée comme « Patricia », tient le sauna et y publie règles et mises au point ; le vote d'étoiles du site affichait 3,41/5."
+    },
+    {
+      "id": "reprise-2025-programme-2026",
+      "title": "Vendu 20 000 € en juin 2025 à un ancien client, relancé avec un programme quotidien",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le 26 juin 2025, un acte notarié transfère le fonds « connu sous le nom commercial TROPIK » à une autre entreprise individuelle, pour 20 000 €, selon l'annonce publiée au BODACC le 10 août 2025. L'activité y est décrite par la formule administrative « massage, cures, remise en forme » : c'est le libellé juridique du fonds, pas une description du lieu. L'ancienne exploitante cesse son activité le 30 juin et elle est radiée ; l'immatriculation du repreneur pour cet établissement paraît au BODACC le 10 mars 2026.\n\nÀ l'automne 2025, l'accueil du site est assuré par « Mickael et Andrea ». Le 10 novembre, le nouveau propriétaire se présente : ancien client du Tropik, il veut lui donner « un coup de neuf » et annonce une fermeture en décembre pour de gros travaux. Le site évoquait déjà un jacuzzi réparé et une rénovation étalée sur la fin 2025 et toute l'année 2026. Nous ne savons pas si la fermeture de décembre a eu lieu ; le 24 janvier 2026, en tout cas, le sauna se dit ouvert."
+        },
+        {
+          "kind": "text",
+          "body": "La nouvelle équipe a d'abord élargi l'amplitude : six jours sur sept, de 15 h à minuit (22 h le dimanche), contre quatre jours en 2024-2025. Elle a ensuite multiplié les rendez-vous. En septembre 2025 : une soirée nudiste le mercredi 10, une soirée disco années 70-80 le samedi 13, une soirée lingerie à tenue sexy obligatoire le samedi 20 ; puis Halloween le samedi 25 octobre, de 18 h à 1 h, déguisement conseillé."
+        },
+        {
+          "kind": "list",
+          "title": "Février 2026, le dernier programme publié",
+          "items": [
+            "« Spa & sensualité », cinq fois dans le mois : un rendez-vous au calme, centré sur les bains (jacuzzi, hammam, sauna), sur fond de lounge.",
+            "« Élégance libertine (Chic & Chill) », surtout le mercredi.",
+            "« Tentations » chaque jeudi, avec des bracelets de couleur.",
+            "« Relax libertin » les dimanches 8 et 22, « Soirée inclusive » les 7 et 20.",
+            "Temps forts : crêpes de la Chandeleur le dimanche 1er, week-end de la Saint-Valentin ouvert à tous du 13 au 15, karaoké avec DJ le samedi 21, blind test le vendredi 27.",
+            "Samedi 28 : mixte de 15 h à 20 h 30, puis couples et femmes seules de 21 h à 2 h."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Nous n'avons retrouvé ce calendrier que dans les archives du site, et celui du Korosko n'annonce aucun événement daté. Pour [savoir si un club breton programme une soirée à thème, et quel soir](aff:wyylde), l'agenda de Wyylde (Netéchangisme jusqu'en 2018) indique la date, le club, le thème et souvent les conditions d'entrée ; une inscription gratuite suffit pour le lire."
+        }
+      ],
+      "sources": [
+        "s22",
+        "s23",
+        "s24",
+        "s6",
+        "s5",
+        "s3",
+        "s4",
+        "s7",
+        "s1",
+        "s26"
+      ],
+      "icon": "calendar",
+      "summary": "Fonds vendu 20 000 € le 26 juin 2025 ; le repreneur ouvre six jours sur sept, multiplie les soirées à thème et publie un programme jour par jour en février 2026."
+    },
+    {
+      "id": "couples-femmes-seules",
+      "title": "Vendredis couples dès 2018, femmes gratuites en 2025 : qui entrait au Tropik",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le Tropik a toujours été mixte : couples, femmes seules et hommes seuls y entraient, mais pas tous à toute heure. Au plus tard à la rentrée 2018, les vendredis de 20 h à 2 h étaient réservés aux couples et aux femmes seules ; en janvier 2019, l'exploitante assurait que les vendredis soir restaient dédiés aux couples. L'ancienne exploitante prévenait aussi qu'elle pouvait refuser l'entrée : trop de monde, client ivre, ou trop d'hommes seuls face aux couples.\n\nEn 2025, deux formules ont visé les femmes. D'abord un vendredi par mois qui leur était réservé, de 15 h à 23 h pour 20 €, par exemple le 9 mai 2025 ; puis, avec la nouvelle direction, l'entrée gratuite pour une femme seule, qui payait 5 € en 2007 et 10 € de 2016 à avril 2025. Les couples avaient leurs dates : une journée « exclusivement couples » le dimanche 7 septembre 2025, une journée « couples et femmes seules » le 21, toutes deux annoncées à 40 €, sans précision sur le prix d'une femme seule, puis la nuit « couples et femmes only » du samedi 28 février 2026. Cette année-là, la direction présentait le lieu comme voué à un libertinage « exclusivement » mixte et hétéro, avec des soirées à thème pensées pour les femmes et les couples."
+        },
+        {
+          "kind": "text",
+          "body": "Tant que la rue de Liège reste fermée, une femme seule ou un couple habitué de ces journées peut [nouer des contacts dans l'agglomération lorientaise](aff:carre-libertin) sur Carré Libertin : ce site en ligne depuis 2007 donne aux femmes et aux couples un accès complet sans abonnement, pourvu que le profil affiche trois photos."
+        }
+      ],
+      "sources": [
+        "s15",
+        "s7",
+        "s8",
+        "s6",
+        "s4",
+        "s13",
+        "s14"
+      ],
+      "icon": "users",
+      "summary": "Couples, femmes seules et hommes seuls entraient, mais pas à toute heure : vendredis soir réservés aux couples dès 2018, femmes seules gratuites en octobre 2025."
+    },
+    {
+      "id": "tarifs-2007-2025",
+      "title": "Homme seul à 45 € en 2007, 40 € en 2025 : vingt ans de prix d'entrée",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Les archives des trois sites successifs permettent de suivre la grille sur près de deux décennies. Le prix d'un homme seul a à peine baissé, celui d'un couple en semaine n'a pas bougé ; ce sont surtout les jours et les heures qui ont changé."
+        },
+        {
+          "kind": "table",
+          "caption": "Horaires et tarifs relevés dans les archives du site officiel",
+          "headers": [
+            "Période",
+            "Jours et heures",
+            "Homme seul",
+            "Femme seule",
+            "Couple"
+          ],
+          "rows": [
+            [
+              "2007",
+              "Lundi à mercredi 15 h-20 h, jeudi et vendredi 15 h-2 h, samedi 19 h-2 h, fermé le dimanche ; l'été, du lundi au samedi 19 h-2 h",
+              "45 €",
+              "5 €",
+              "20 €"
+            ],
+            [
+              "Été 2016",
+              "Lundi 15 h-19 h, jeudi à samedi 20 h-2 h, plus d'entrée après minuit",
+              "45 €",
+              "10 €",
+              "20 € en semaine, 30 € vendredi et samedi"
+            ],
+            [
+              "Mai 2024 à avril 2025",
+              "Mercredi et jeudi 15 h-19 h, vendredi et samedi 16 h-minuit",
+              "40 €",
+              "10 €",
+              "20 €"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Les boissons sans alcool étaient comprises en 2016 comme en 2024-2025, les serviettes facturées 2 € depuis 2023 au moins, et la page d'avril 2025 demandait d'apporter ses préservatifs. La grille d'octobre 2025, reprise dans l'encadré, garde l'homme seul à 40 € et le couple à 20 €, mais rend l'entrée gratuite aux femmes seules et ne compte plus les boissons dans le prix."
+        }
+      ],
+      "sources": [
+        "s13",
+        "s14",
+        "s7",
+        "s9",
+        "s6"
+      ],
+      "icon": "euro",
+      "summary": "L'homme seul paie 45 € en 2007, 40 € en 2024-2025 ; le couple reste à 20 € en semaine ; la femme seule passe de 5 € à 10 €, puis entre gratuitement en octobre 2025."
+    },
+    {
+      "id": "charte-douze-regles",
+      "title": "Une charte en douze règles et la douche avant chaque bain",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "En mars 2025, le site affichait une charte en douze règles, avec une sanction sans appel : tout manquement valait une exclusion définitive. Les messages de l'exploitante en précisaient l'application."
+        },
+        {
+          "kind": "list",
+          "items": [
+            "Respect et courtoisie, aucune remarque déplacée.",
+            "La décision revient aux femmes, et aucun contact sans y avoir été invité.",
+            "Préservatif obligatoire : la page destinée aux couples et aux femmes seules le résumait par « refus de protection = refus de relation ».",
+            "Hygiène : la charte l'exige, et un message de juin 2023 rendait la douche obligatoire avant chaque passage au sauna, au hammam ou au jacuzzi, avec poubelles et désinfectant dans les salles.",
+            "Ni prostitution ni drogue.",
+            "Discrétion : « tout doit rester privé », rappelait l'exploitante en juin 2023."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Les pages de conseils ajoutaient de quoi rassurer pour une première visite : se signaler comme débutant à l'entrée, savoir qu'un refus n'a pas à être justifié, et qu'il est possible de pratiquer le mélangisme, c'est-à-dire s'amuser à côté d'autres couples sans échanger de partenaire."
+        }
+      ],
+      "sources": [
+        "s11",
+        "s9"
+      ],
+      "icon": "shield",
+      "summary": "Douze règles affichées en 2025, sous peine d'exclusion définitive : décision aux femmes, préservatif, hygiène, ni drogue ni prostitution ; douche avant chaque bain."
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Lundi": "Fermé",
+      "Mardi": "15 h - minuit",
+      "Mercredi": "15 h - minuit",
+      "Jeudi": "15 h - minuit",
+      "Vendredi": "15 h - minuit",
+      "Samedi": "15 h - minuit",
+      "Dimanche": "15 h - 22 h"
+    },
+    "note": "Dernière grille chiffrée publiée par le club, en octobre 2025, chaque jour en « mixte hétéro ». Elle ne s'applique plus : le Tropik est fermé depuis mars 2026, et en mai 2026 sa page « Horaires 2026 » indiquait « fermé » pour les sept jours.",
+    "confidence": "a_verifier",
+    "sources": [
+      "s6",
+      "s2"
+    ]
+  },
+  "tarifs": {
+    "rows": {
+      "Couple": "20 €",
+      "Journée couples": "40 €",
+      "Femme seule": "Gratuit",
+      "Homme seul": "40 €",
+      "Boissons": "Non comprises"
+    },
+    "note": "Tarifs affichés en octobre 2025 par la nouvelle direction, préservatifs à apporter. En mai 2026, les montants avaient été retirés du site.",
+    "confidence": "a_verifier",
+    "sources": [
+      "s6",
+      "s2"
+    ]
+  },
+  "equipements": [
+    "Sauna",
+    "Hammam",
+    "Jacuzzi",
+    "Salons, dont la salle « Maryline »",
+    "Douches",
+    "Vestiaire",
+    "Boissons sans alcool (comprises dans l'entrée jusqu'en 2025)"
+  ],
+  "officialLinks": [
+    {
+      "label": "Instagram @tropiksauna (compte cité par le site du club)",
+      "url": "https://www.instagram.com/tropiksauna/",
+      "kind": "instagram"
+    }
+  ],
+  "corrections": {
+    "telephone": "06 35 35 02 68",
+    "email": "",
+    "site_web": "",
+    "sources": [
+      "s5",
+      "s3",
+      "s18",
+      "s1"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Y a-t-il encore un club libertin ouvert à Lorient ?",
+      "answer": "Le Tropik, seule adresse lorientaise de notre annuaire, est fermé depuis mars 2026. En ville, Le Korosko (18 rue Lazare-Carnot, 02 97 35 07 50) reçoit les libertins le lundi et le vendredi en mixte, et les couples les 1er et 3e samedis du mois de 21 h à 2 h ; son site, consulté le 16 octobre 2026, ne date aucun événement, mieux vaut donc appeler. Pour un club au sens propre, il faut viser les Côtes-d'Armor ou consulter [la liste des saunas libertins de l'annuaire](/sauna-libertin)."
+    },
+    {
+      "question": "Le Tropik Sauna va-t-il rouvrir ?",
+      "answer": "Personne ne l'a annoncé. En mars 2026, le club promettait de rouvrir « au plus vite » après un problème technique, mais aucun message n'a suivi dans les sources que nous avons pu lire, et le site est suspendu depuis. L'établissement reste actif au registre des entreprises, ce qui laisse la porte ouverte à une reprise. Pour vérifier : le compte Instagram @tropiksauna ou le 06 35 35 02 68, dernier numéro publié par le club en janvier 2026."
+    },
+    {
+      "question": "Le Tropik était-il un club échangiste ou un sauna gay ?",
+      "answer": "Un sauna libertin mixte, à dominante hétéro. En 2007, il se décrivait comme « club libertin et échangiste » ; en 2026, sa direction revendiquait un libertinage « exclusivement » mixte et hétéro. Seule exception relevée : à partir de janvier 2019, un mardi après-midi ouvert à toutes les orientations. Le Tropik n'apparaît pas dans les guides gays, qui ne citent à Lorient que Le Korosko."
+    },
+    {
+      "question": "Combien coûtait l'entrée au Tropik Sauna ?",
+      "answer": "En dernier lieu, en octobre 2025 : 40 € pour un homme seul, 20 € pour un couple, 40 € pour une « journée couples », entrée gratuite pour une femme seule, boissons en supplément. Auparavant, de mai 2024 à avril 2025, un homme seul payait 40 €, une femme seule 10 € et un couple 20 €, boissons sans alcool comprises. Les serviettes étaient facturées 2 € pièce."
+    },
+    {
+      "question": "Que valent les avis sur le Tropik Sauna ?",
+      "answer": "Le seul chiffre que nous ayons pu relever est le vote d'étoiles du site du club, 3,41/5 sur 1 373 votes en janvier 2026, sans avis rédigé et sans contrôle des votants. La note Google n'a pas pu être consultée. Les messages de l'ancienne exploitante montrent qu'elle répondait publiquement aux critiques, sur l'hygiène, l'absence d'alcool ou la taille du lieu."
+    },
+    {
+      "question": "tropik-sauna.fr est-il le site officiel du club ?",
+      "answer": "Plus depuis des années. Ce domaine a porté le site du Tropik de 2011 à 2022, puis il a expiré ; un tiers anonyme l'a réenregistré le 2 mars 2024. Il reprend d'anciens textes du club et y ajoute des récits inventés, comme un club « fondé par un groupe d'amis » ou un couple d'habitués baptisé « Marc et Léa », sans adresse ni téléphone. Le dernier site officiel était tropik-sauna.net, suspendu en 2026."
+    }
+  ],
+  "unverified": [
+    "La nature du « problème technique » invoqué en mars 2026 et la date exacte du dernier jour d'ouverture.",
+    "La fermeture pour travaux annoncée pour décembre 2025 a-t-elle eu lieu, et quels travaux ont été réalisés ?",
+    "Le compte Instagram @tropiksauna a-t-il annoncé une réouverture ou une fermeture définitive ? Ses publications ne sont pas lisibles sans connexion.",
+    "Le profil Facebook « Tropik Sauna » appartient-il au club ? Aucune page officielle n'y renvoie.",
+    "La note Google et les avis rédigés de 2025-2026.",
+    "Ce que la presse locale (Ouest-France, Le Télégramme) a pu écrire sur la reprise de 2025 ou sur la fermeture de 2026.",
+    "La nouvelle direction servait-elle de l'alcool après octobre 2025 ?",
+    "Le prix d'une femme seule lors des journées « couples et femmes seules » de 2025.",
+    "Les numéros 06 36 48 36 73 (octobre 2025) et 06 35 35 02 68 (novembre 2025 à janvier 2026) répondent-ils encore ?",
+    "La barre d'exhib, le lit rond et les backrooms cités par un annuaire existaient-ils ?"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Site officiel tropik-sauna.net, état au 16/10/2026 : avis « Service suspendu » de l'hébergeur Webador sur toutes les pages",
+      "url": "https://www.tropik-sauna.net/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s2",
+      "label": "Site officiel tropik-sauna.net, archives des 12 mars et 19 mai 2026 : annonce de fermeture temporaire, « Horaires 2026 » fermé tous les jours, tarifs et calendrier vides",
+      "url": "https://web.archive.org/web/20260312112846/https://www.tropik-sauna.net/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s3",
+      "label": "Site officiel tropik-sauna.net, archive du 24/01/2026 : « Votre sauna est ouvert », 06 35 35 02 68",
+      "url": "https://web.archive.org/web/20260124103703/https://www.tropik-sauna.net/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s4",
+      "label": "Site officiel tropik-sauna.net, « Calendrier des soirées » et « Info du jour », archives du 17/02/2026 (programme de février 2026)",
+      "url": "https://web.archive.org/web/20260217203943/https://www.tropik-sauna.net/calendrier-des-soirees",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s5",
+      "label": "Site officiel tropik-sauna.net, « Le petit mot de Mickaël », archive du 10/11/2025 : présentation du repreneur et travaux annoncés",
+      "url": "https://web.archive.org/web/20251110103233/https://www.tropik-sauna.net/le-petit-mot-de-mickael",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s6",
+      "label": "Site officiel tropik-sauna.net, « Horaire et tarifs », accueil et « Info du jour », archives du 10/10/2025 (nouvelle direction)",
+      "url": "https://web.archive.org/web/20251010122618/https://www.tropik-sauna.net/horaire-et-tarifs",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s7",
+      "label": "Site officiel tropik-sauna.net, « Horaire et tarifs », archives de mai 2024 à avril 2025",
+      "url": "https://web.archive.org/web/20250427002422/https://www.tropik-sauna.net/horaire-et-tarifs",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s8",
+      "label": "Site officiel tropik-sauna.net, « Info du jour », archive du 27/04/2025 (vendredi 9 mai réservé aux femmes)",
+      "url": "https://web.archive.org/web/20250427001434/https://www.tropik-sauna.net/info-du-jour",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s9",
+      "label": "Site officiel tropik-sauna.net, « Le petit mot de Patricia », archive du 28/05/2024 (messages de juin 2023 à mai 2024)",
+      "url": "https://web.archive.org/web/20240528004608/https://www.tropik-sauna.net/le-petit-mot-de-patricia",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s10",
+      "label": "Site officiel tropik-sauna.net, accueil, archives des 23/07/2023 et 18/06/2025",
+      "url": "https://web.archive.org/web/20250618104303/https://www.tropik-sauna.net/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s11",
+      "label": "Site officiel tropik-sauna.net, charte et pages de conseils (première fois, hommes seuls, couples et femmes seules), archives de 2025",
+      "url": "https://web.archive.org/web/20250315110059/https://www.tropik-sauna.net/charte-du-tropik",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s12",
+      "label": "Site officiel tropik-sauna.net, page « Avis » (vote d'étoiles hébergé par le club), archives des 08/07/2025 et 24/01/2026",
+      "url": "https://web.archive.org/web/20260124114031/https://www.tropik-sauna.net/avis",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s13",
+      "label": "Ancien site officiel tropik-sauna.com, archives de 2007 et de janvier 2011 (présentation, horaires, tarifs, soirées à thème, contact)",
+      "url": "https://web.archive.org/web/20070509124444/http://tropik-sauna.com:80/presentation.html",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s14",
+      "label": "Ancien site officiel tropik-sauna.fr, archives de 2011 à 2017 (tarifs et horaires de 2016, « Qui sommes-nous »)",
+      "url": "https://web.archive.org/web/20160622062627/http://www.tropik-sauna.fr/Nos-tarifs.html",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s15",
+      "label": "Ancien site officiel tropik-sauna.fr, « Petit commentaire de Patricia », archives de 2021 et 2022 (messages d'avant 2019 à janvier 2022)",
+      "url": "https://web.archive.org/web/20210228090749/https://www.tropik-sauna.fr/petit-commentaire-de-patricia.html",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s16",
+      "label": "Wayback Machine, captures de tropik-sauna.fr de 2011 à 2025 (site du club jusqu'en 2022-2023, site tiers depuis mars 2024)",
+      "url": "https://web.archive.org/web/timemap/link/http://www.tropik-sauna.fr/",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s17",
+      "label": "AFNIC (RDAP), tropik-sauna.fr : domaine réenregistré le 02/03/2024 par un titulaire anonyme ; site actuel sans lien établi avec le club",
+      "url": "https://rdap.nic.fr/domain/tropik-sauna.fr",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s18",
+      "label": "Verisign (RDAP) et état actuel de tropik-sauna.com : domaine réenregistré en 2013, page de vente GoDaddy",
+      "url": "https://rdap.verisign.com/com/v1/domain/tropik-sauna.com",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s19",
+      "label": "Instagram @tropiksauna, compte cité par le site officiel (45 abonnés, 7 publications)",
+      "url": "https://www.instagram.com/tropiksauna/",
+      "type": "reseau_social",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s20",
+      "label": "Registre des entreprises, SIREN 888 753 274 : établissement « LE TROPIK », 25 rue de Liège, créé le 26/06/2025, actif",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/888753274",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s21",
+      "label": "Registre des entreprises, SIREN 453 982 464 : exploitante de 2004 à 2025, établissement fermé le 30/06/2025",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/453982464",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s22",
+      "label": "BODACC A n° 20250152, annonce 1755 du 10/08/2025 : vente du fonds « TROPIK » pour 20 000 €",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202501521755",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s23",
+      "label": "BODACC B n° 20250153, annonce 1674 du 12/08/2025 : radiation de l'ancienne exploitante",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:B202501531674",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s24",
+      "label": "BODACC A n° 20260047, annonce 2247 du 10/03/2026 : immatriculation du repreneur pour l'établissement acquis",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202600472247",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s25",
+      "label": "BODACC, annonces commerciales : recherches « tropik » et par SIREN, aucune procédure collective",
+      "url": "https://bodacc-datadila.opendatasoft.com/explore/dataset/annonces-commerciales/",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s26",
+      "label": "Le Korosko (Lorient), site officiel : jours, horaires et équipements",
+      "url": "https://www.lekorosko.com/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s27",
+      "label": "Le Korosko (Lorient), site officiel : tarifs d'entrée",
+      "url": "https://www.lekorosko.com/tarifs-entrees",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s28",
+      "label": "Registre des entreprises, LE KOROSKO (SIREN 423 127 836), 18 rue Lazare Carnot, créé le 02/10/1999, actif",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/423127836",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s29",
+      "label": "Hot Box (Trégueux), site officiel : accueil et page « Soirées », modifiés le 16/10/2026",
+      "url": "https://www.hot-box.fr/soirees-evenement/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s30",
+      "label": "Le Bilitis (Plounérin), site officiel : blog daté d'octobre 2026 et page « Club libertin Bretagne »",
+      "url": "https://www.bilitis.com/blog",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s31",
+      "label": "Spartacus et Saunas4men, saunas de Lorient (seul Le Korosko y figure)",
+      "url": "https://spartacus.gayguide.travel/saunas/europe/france/lorient",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s32",
+      "label": "sauna-club-libertin.com, fiche « TROPIK SAUNA » (annuaire non daté, source de notre ancienne fiche)",
+      "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_3.php?id=375&d=56",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s33",
+      "label": "tropik-sauna.fr, état au 19/10/2026 : site d'un tiers (dix pages créées le 08/03/2024), anciens textes du club mêlés à des textes inventés, sans adresse ni téléphone",
+      "url": "https://www.tropik-sauna.fr/",
+      "type": "autre",
+      "consulted": "2026-10-19"
+    }
+  ]
+}

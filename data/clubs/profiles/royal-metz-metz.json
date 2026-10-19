@@ -1,0 +1,789 @@
+{
+  "slug": "royal-metz-metz",
+  "clubId": "814",
+  "researchedAt": "2026-10-16",
+  "display": {
+    "nom": "Cinéma Royal",
+    "ville": "Metz"
+  },
+  "status": {
+    "value": "ferme",
+    "summary": "ICI Lorraine annonçait le 28 octobre 2016 la fin du cinéma X pour le 31 décembre suivant ; Tout-Metz a confirmé la date le 16 décembre et le blog Ciné-Façades l'a reprise en 2017. Le site royalmetz.net n'a plus été archivé après août 2016, Yelp signale le commerce comme fermé, et la salle est devenue un lieu de spectacles, recommandé par le Petit Futé dans son édition 2026.",
+    "sources": [
+      "s12",
+      "s13",
+      "s15",
+      "s10",
+      "s22",
+      "s18",
+      "s25"
+    ]
+  },
+  "seo": {
+    "title": "Royal Cruising à Metz : le cinéma libertin fermé fin 2016",
+    "metaDescription": "Au 2 rue Gambetta, le Royal fut cinéma X et lieu de cruising jusqu'au 31 décembre 2016. Son histoire, ses vendredis trav/trans, et où sortir à Metz.",
+    "subtitle": "Ancien cinéma X et lieu de cruising, 2 rue Gambetta à Metz (57), fermé le 31 décembre 2016",
+    "targetQueries": [
+      "club libertin metz",
+      "club echangiste metz",
+      "club échangiste metz",
+      "club libertin a metz",
+      "libertin metz",
+      "sauna libertin metz",
+      "libertine metz",
+      "libertines metz",
+      "meslibertines metz",
+      "rencontre libertine metz",
+      "cinéma X Metz",
+      "Royal Cruising Metz"
+    ]
+  },
+  "lead": "Au 2 rue Gambetta, à cinq minutes à pied de la gare de Metz, le Royal a projeté des films érotiques puis pornographiques de 1969 jusqu'à sa fermeture définitive, le 31 décembre 2016. Ce n'était pas un club échangiste : son site le présentait comme un « Complexe Cruising Libertin Mixte », une salle classée X où l'on venait aussi pour les rencontres, avec une soirée trav/trans chaque vendredi. La salle, logée dans l'Hôtel des Arts et Métiers, accueille depuis 2018 au moins des spectacles et des événements sans rapport avec le libertinage.",
+  "glance": [
+    {
+      "icon": "closed",
+      "label": "Fermé",
+      "value": "Depuis le 31 décembre 2016"
+    },
+    {
+      "icon": "history",
+      "label": "Cinéma X",
+      "value": "Érotique dès 1969, pornographique dès 1990"
+    },
+    {
+      "icon": "map",
+      "label": "Adresse",
+      "value": "2 rue Gambetta, à 5 min de la gare"
+    },
+    {
+      "icon": "sparkles",
+      "label": "Soirée phare",
+      "value": "Vendredi trav/trans, 21 h à 1 h (2013-2016)"
+    },
+    {
+      "icon": "building",
+      "label": "Le lieu aujourd'hui",
+      "value": "Le Royal, salle de spectacles non libertine"
+    },
+    {
+      "icon": "heart",
+      "label": "Autre lieu à Metz",
+      "value": "L'Intim, rue des Ferblantiers, à vérifier",
+      "confidence": "a_verifier"
+    }
+  ],
+  "highlights": [
+    "Le Royal n'existe plus : le cinéma X a fermé le 31 décembre 2016, et la salle accueille des spectacles et des soirées privées sans rapport avec le libertinage.",
+    "Ce n'était pas un club échangiste mais une salle classée X de plus de 500 m² avec balcon, où l'on venait aussi pour les rencontres.",
+    "Ne passez pas par royalmetz.com : le domaine, revendu en 2017, affiche un site d'annonces sexuelles sans lien avec le cinéma.",
+    "Le téléphone et le courriel que donnent encore certains annuaires datent du cinéma, fermé depuis 2016 : nous ne les reprenons pas.",
+    "À Metz, notre annuaire recense L'Intim, rue des Ferblantiers, mais son site n'affichait qu'une page d'attente en octobre 2026 : appelez avant d'y aller."
+  ],
+  "keyFacts": [
+    {
+      "label": "Nature du lieu",
+      "value": "Cinéma pornographique classé X, fréquenté comme lieu de rencontres",
+      "confidence": "confirme",
+      "sources": [
+        "s8",
+        "s12",
+        "s15",
+        "s22"
+      ]
+    },
+    {
+      "label": "Enseignes",
+      "value": "Cinéma Royal, puis « Royal Cruising » (2011-2016)",
+      "confidence": "confirme",
+      "sources": [
+        "s8",
+        "s9",
+        "s3",
+        "s2"
+      ]
+    },
+    {
+      "label": "Fermeture",
+      "value": "31 décembre 2016",
+      "confidence": "confirme",
+      "sources": [
+        "s12",
+        "s13",
+        "s15"
+      ]
+    },
+    {
+      "label": "Adresse",
+      "value": "2 rue Gambetta, 57000 Metz, dans l'Hôtel des Arts et Métiers",
+      "confidence": "confirme",
+      "sources": [
+        "s3",
+        "s20",
+        "s21"
+      ]
+    },
+    {
+      "label": "Public annoncé",
+      "value": "Hommes, femmes, couples, gays, bis, travestis et trans selon le site ; clientèle surtout masculine selon la presse en 2016",
+      "confidence": "source_unique",
+      "sources": [
+        "s2",
+        "s12"
+      ]
+    },
+    {
+      "label": "Salle",
+      "value": "Plus de 500 m², balcon compris, et un bar (site officiel, 2013)",
+      "confidence": "source_unique",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "label": "Exploitant probable",
+      "value": "SARL SIKO, créée en 1994 à cette adresse ; rôle d'exploitant déduit, non attesté",
+      "confidence": "a_verifier",
+      "sources": [
+        "s16",
+        "s17",
+        "s12"
+      ]
+    },
+    {
+      "label": "Depuis 2018",
+      "value": "Le Royal, salle de spectacles et d'événements, sans activité libertine",
+      "confidence": "confirme",
+      "sources": [
+        "s18",
+        "s19",
+        "s20"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "fermeture-31-decembre-2016",
+      "title": "Fermé le 31 décembre 2016, après 47 ans de films érotiques puis X",
+      "icon": "closed",
+      "summary": "Annoncée par ICI Lorraine le 28 octobre 2016, la fermeture du cinéma X a eu lieu le 31 décembre 2016 ; la salle accueille depuis des spectacles et des événements.",
+      "sources": [
+        "s12",
+        "s13",
+        "s15",
+        "s18",
+        "s19",
+        "s20",
+        "s25",
+        "s10",
+        "s11",
+        "s24"
+      ],
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le 28 octobre 2016, ICI Lorraine (Radio France) annonçait que le Royal cesserait le 31 décembre suivant d'être un cinéma X et un lieu de rencontres pour les hommes. Tout-Metz a confirmé la date le 16 décembre 2016, et le blog d'histoire des salles Ciné-Façades l'a reprise en octobre 2017 : le cinéma a bien fermé ce jour-là, au terme de 47 ans de programmation érotique, puis pornographique à partir de 1990.\n\nLe gérant, en place depuis 22 ans selon ICI, imputait le déclin à la pornographie gratuite sur Internet. À l'automne 2016, une quarantaine d'hommes entraient encore chaque jour de semaine, un peu plus le week-end, d'un âge moyen situé entre 30 et 50 ans. Lui-même estimait que le bâtiment « mérite mieux ». Tout-Metz voyait dans le Royal l'un des derniers cinémas X de France."
+        },
+        {
+          "kind": "text",
+          "body": "La salle n'a pas été vidée pour autant. Le projet annoncé fin 2016 prévoyait un cabaret et une salle polyvalente de 250 places assises ou 700 debout, avec balcon et scène de 8 mètres, pour 180 000 € de travaux à partir du 2 janvier 2017. Le 23 février 2018, une soirée swing « Chicago Club » s'y tenait déjà. Le Petit Futé, qui recommande le lieu dans son édition 2026, y signale des spectacles burlesques et transformistes ; le site de la salle met en avant la privatisation et le team building, et le Bureau des congrès de Metz donne sa grande salle pour 400 personnes en cocktail et 260 assises. Si c'est cette salle que vous cherchez, elle a son [propre site](https://www.leroyal.eu/) : elle n'a plus rien de libertin."
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Les anciennes coordonnées ne mènent plus au Royal",
+          "body": "Le nom de domaine royalmetz.com, qui renvoyait vers le site du cinéma jusqu'en 2016, était en vente dès octobre 2017 ; en octobre 2026, il affiche un site d'annonces sexuelles sans aucun lien avec le lieu. L'autre adresse, royalmetz.net, ne répond plus. L'annuaire d'où venait notre ancienne fiche reprend encore ce domaine, un courriel et un téléphone de l'époque, sans date ni horaires : nous les avons retirés de cette page."
+        }
+      ]
+    },
+    {
+      "id": "cinema-de-cruising-500-m2",
+      "title": "Une salle obscure de 500 m² avec balcon : du cruising, pas un club échangiste",
+      "icon": "mask",
+      "summary": "Ni piste ni coins câlins : une salle classée X de plus de 500 m² avec balcon et bar, qui se présentait comme un « Complexe Cruising Libertin Mixte ».",
+      "sources": [
+        "s1",
+        "s2",
+        "s3",
+        "s7",
+        "s8",
+        "s9",
+        "s12",
+        "s23",
+        "s24"
+      ],
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Si vous êtes arrivé ici en cherchant un club libertin à Metz, le Royal n'en était pas un au sens habituel. Aucune des sources consultées ne décrit de piste de danse, d'espaces câlins ou d'entrée réservée aux couples : c'était une salle de cinéma classée X, où l'on venait autant pour les rencontres que pour l'écran.\n\nEn 2007, son site s'intitulait « Cinéma Royal : cinéma pornographique à Metz » et parlait de « Cinéma Libertin ». À partir de 2011, l'enseigne devient « Royal Cruising » et le lieu se décrit comme un « Complexe Cruising Libertin Mixte », le seul de Lorraine selon lui. En 2013, le site annonçait une salle de plus de 500 m², balcon compris, et un nouveau bar."
+        },
+        {
+          "kind": "list",
+          "title": "Ce que le site disait du public, et ce qu'en disait la presse",
+          "items": [
+            "Le site revendiquait des hommes, des femmes, des couples, des gays, des bis, des travestis et des trans, « toutes les sexualités », un public attiré selon lui « depuis plus de 40 ans ».",
+            "ICI décrivait en 2016 un lieu de rencontres pour hommes, avec une quarantaine de clients masculins par jour en semaine.",
+            "Les deux ne se contredisent pas forcément, mais rien ne permet de chiffrer la part des femmes et des couples."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "La salle ouvrait tous les jours dès 14 h (horaires de 2013 dans l'encadré ci-dessous). Le prix d'une entrée ordinaire ne figure sur aucune page archivée du site ; un avis non daté publié sur Unilocal parle de « 12 euros pour la journée entière », avec entrée et sortie libres, mais un autre internaute attribue cet avis élogieux au patron, et nous n'avons pas pu recouper le chiffre. En 2012, une page « Dress code » renvoyait aux règles d'hygiène et de comportement affichées dans la salle, dont le détail n'est plus lisible dans les archives. La galerie du site comptait une quarantaine de photos en juin 2016 ; nous ne les avons pas ouvertes et ne les reproduisons pas.\n\nNotre annuaire, alimenté à l'origine par une fiche tierce qui parlait de « complexe libertin et échangiste », le rangeait parmi les clubs « gay friendly ». C'était inexact : sa place est parmi les [cinémas libertins recensés en France](/cinema-libertin)."
+        }
+      ]
+    },
+    {
+      "id": "metz-apres-le-royal",
+      "title": "Sortir libertin à Metz depuis 2017 : de la rue des Ferblantiers à Marly",
+      "icon": "map",
+      "summary": "Dans Metz, notre annuaire ne recense que L'Intim, dont l'activité reste à vérifier ; les autres adresses sont ailleurs en Moselle, comme Le Labyrinthe à Marly.",
+      "sources": [
+        "s27",
+        "s28"
+      ],
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Dans Metz même, notre annuaire recense [L'Intim, au 4 rue des Ferblantiers](/intim-metz-libertin), où il figure comme sauna libertin. Prudence : le 16 octobre 2026, son site n'affichait qu'une page d'attente générique, et nous n'avons pas vérifié son activité pour cette fiche. Un annuaire tiers place au même numéro un sauna nommé « Le Libertin », peut-être le même établissement sous un ancien nom ; nous ne l'avons pas confirmé. Téléphonez avant de vous déplacer.\n\nHors de la ville, la page des [lieux libertins de Moselle](/departement/moselle) regroupe les autres adresses du département, dont [Le Labyrinthe, à Marly](/le-labyrinthe-marly). Toutes n'ont pas encore été vérifiées en détail comme celle-ci : appelez avant de faire la route. La page [Metz](/ville/metz) reprend les adresses de la ville."
+        },
+        {
+          "kind": "text",
+          "body": "Pour une sortie en club, l'agenda de Wyylde, l'ancien Netéchangisme en ligne depuis 2001, recense des soirées organisées dans les clubs de toute la France, et il se consulte avec un compte gratuit : de quoi [chercher une soirée en Moselle](aff:wyylde) avant de prendre la route. Si un couple messin vous écrit ensuite, vous lirez son message, mais il faudra un abonnement pour lui répondre.\n\nSi c'est la rencontre qui compte plus que le lieu, Gleese, site français lancé fin 2024, s'ouvre sans carte bancaire et fait valider à chaque inscrit son numéro de téléphone. C'est un moyen de [voir sans payer qui s'y inscrit autour de Metz](aff:gleese).\n\nDeux bémols : cette gratuité relève d'une période de lancement dont Gleese ne précise pas la durée, et le réseau, de vingt-trois ans le cadet de Wyylde, n'en a pas encore l'audience."
+        }
+      ]
+    },
+    {
+      "id": "vendredis-trav-trans",
+      "title": "Le vendredi trav/trans, le gang bang de 15 h et la soirée « cougar »",
+      "icon": "calendar",
+      "summary": "Chaque vendredi de 21 h à 1 h, une soirée trav/trans annoncée de 2013 à 2016, à des tarifs contradictoires ; en 2013, aussi un gang bang en journée et une soirée « cougar ».",
+      "sources": [
+        "s1",
+        "s4",
+        "s5",
+        "s6",
+        "s14",
+        "s12"
+      ],
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le rendez-vous le plus régulier du Royal était le vendredi soir consacré aux travestis et aux trans. La page « Agenda » qui l'annonçait chaque semaine, de 21 h à 1 h, est datée du 12 mars 2013 et figurait encore sur le site en juin 2016 : c'est un indice que la soirée a duré, pas une preuve qu'elle se tenait encore cette année-là. Le site affirmait être « le seul lieu de la région » à proposer ce type de rencontre.\n\nSes propres pages ne s'accordaient pas sur le prix. Au printemps 2013, l'accueil annonçait une entrée à 14 € dès 21 h, gratuite pour les travestis et trans, alors que l'agenda, consulté dans les archives à la même période, leur demandait 5 €. En septembre 2013, une annonce leur offrait l'entrée toute la journée du vendredi."
+        },
+        {
+          "kind": "table",
+          "caption": "Soirées annoncées sur le site officiel (pages archivées)",
+          "headers": [
+            "Page et période",
+            "Soirée",
+            "Conditions annoncées"
+          ],
+          "rows": [
+            [
+              "Agenda, de mars 2013 à juin 2016",
+              "Trav/trans, tous les vendredis de 21 h à 1 h",
+              "5 € pour les travestis et trans"
+            ],
+            [
+              "Accueil, avril 2013",
+              "Trav/trans, dès 21 h",
+              "14 € l'entrée, gratuit pour les travestis et trans"
+            ],
+            [
+              "Accueil, avril 2013",
+              "Soirée « cougar »",
+              "Pour les jeunes hommes attirés par les femmes plus âgées ; date et prix non retrouvés"
+            ],
+            [
+              "Formulaire en ligne, avril 2013",
+              "« Gang Bang Voyeur »",
+              "Appel à 15 à 20 hommes de 25 à 40 ans, retenus sur photo"
+            ],
+            [
+              "Prochaine soirée, septembre 2013",
+              "Gang bang le vendredi 13 septembre, dès 15 h",
+              "Conditions non précisées"
+            ],
+            [
+              "Prochaine soirée, septembre 2013",
+              "Trav/trans, chaque vendredi",
+              "Entrée offerte toute la journée aux travestis et trans"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le site annonçait aussi en 2013 une « Association Trav/Trans », dont la page se limitait encore à « A venir » en septembre 2013.\n\nUn tout autre registre a été tenté la même année : LOR'Actu annonçait pour le vendredi 15 mars 2013 un dîner-spectacle « Royal Cabaret » à 65 €, sous réserve de l'avis des pompiers. Nous ne savons pas s'il a eu lieu. L'idée du cabaret est revenue en 2016, cette fois pour remplacer le cinéma."
+        }
+      ]
+    },
+    {
+      "id": "histoire-1909-2018",
+      "title": "1909-2018 : Maison des Corporations, Cinéma Lorrain, Royal classé X, puis salle de spectacles",
+      "icon": "history",
+      "summary": "Cinéma Lorrain en 1919, Royal en 1925, films érotiques en 1969, classé X en 1990, fermé en 2016 : la salle occupe la Maison des Corporations, inaugurée en 1909.",
+      "sources": [
+        "s21",
+        "s15",
+        "s18",
+        "s13",
+        "s12",
+        "s20",
+        "s10",
+        "s8",
+        "s9",
+        "s1",
+        "s14",
+        "s19",
+        "s26",
+        "s25"
+      ],
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le Royal occupait l'ancienne salle des fêtes de l'Hôtel des Arts et Métiers, le Gewerbehaus bâti sous l'annexion allemande. Le bâtiment est inscrit aux monuments historiques depuis 2002 : inscrit, et non classé comme l'écrivent plusieurs guides. Selon le site de la salle actuelle, ses six grandes baies circulaires ont été occultées dès les années 1920, quand la salle des fêtes est devenue cinéma. Elles cachaient environ 200 m² de vitraux aux blasons des corporations fondatrices (menuisiers, serruriers, boulangers…) que, selon Tout-Metz en décembre 2016, l'état des lieux préalable aux travaux venait de remettre au jour.\n\nLa salle n'était pas pour autant restée fermée aux curieux : en octobre 2012, le Royal a participé à la Nuit Blanche messine, et un blog local décrit la longue file d'attente devant l'entrée ce soir-là."
+        },
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "1907-1909",
+              "text": "Construction du Gewerbehaus (Maison des Corporations) par l'architecte Gustave Oberthür, inauguré le 22 septembre 1909."
+            },
+            {
+              "date": "1919",
+              "text": "Ouverture du Cinéma Lorrain dans l'ancienne salle des fêtes."
+            },
+            {
+              "date": "1922-1925",
+              "text": "Fermeture, puis réouverture sous le nom de Royal. La Chambre de métiers s'installe dans le bâtiment en 1923."
+            },
+            {
+              "date": "1932-1941",
+              "text": "Passage au parlant en 1932 ; fermeture en 1940, réouverture en 1941 sous le nom de « Kammer Lichtspiele ». Le nom de Royal revient après la guerre."
+            },
+            {
+              "date": "1949-1957",
+              "text": "Rénovation en 1949, CinemaScope en 1957. La salle de 580 places, avec balcon et loges, programme alors des films familiaux et des comédies."
+            },
+            {
+              "date": "1968-1969",
+              "text": "Bref passage à l'art et essai, puis films érotiques à partir de 1969."
+            },
+            {
+              "date": "1990",
+              "text": "Passage aux films pornographiques ; Ciné-Façades décrit une salle « classée X »."
+            },
+            {
+              "date": "5 novembre 2002",
+              "text": "Inscription de l'Hôtel des Arts et Métiers aux monuments historiques."
+            },
+            {
+              "date": "2005-2007",
+              "text": "Premier site, royalmetz.com, avec forum, chat et galeries ; il se présente en 2007 comme « Cinéma Libertin à Metz »."
+            },
+            {
+              "date": "2011-2012",
+              "text": "Nouvelle enseigne, « Royal Cruising », complexe libertin mixte."
+            },
+            {
+              "date": "Octobre 2012",
+              "text": "Le Royal ouvre ses portes aux visiteurs de la Nuit Blanche 5 de Metz."
+            },
+            {
+              "date": "Mars 2013",
+              "text": "Lancement du site royalmetz.net ; un dîner-spectacle test « Royal Cabaret » est annoncé pour le 15 mars."
+            },
+            {
+              "date": "Août 2016",
+              "text": "Dernière capture du site royalmetz.net dans les archives du web."
+            },
+            {
+              "date": "31 décembre 2016",
+              "text": "Fermeture définitive du cinéma, annoncée par ICI Lorraine le 28 octobre et par Tout-Metz le 16 décembre."
+            },
+            {
+              "date": "2 janvier 2017",
+              "text": "Début annoncé des travaux pour « Le Royal, Lieu d'Art et d'Histoire », appuyés par un appel aux dons de 30 000 €."
+            },
+            {
+              "date": "Mai 2017",
+              "text": "Un avis déposé sur le Petit Futé salue déjà une salle de spectacles qui manquait au quartier impérial."
+            },
+            {
+              "date": "Octobre 2017",
+              "text": "Le domaine royalmetz.com est en vente."
+            },
+            {
+              "date": "23 février 2018",
+              "text": "Soirée swing « Chicago Club » au Royal, devenu salle de spectacles."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "avis-3-7-sur-5",
+      "title": "3,7 sur 5 sur Yelp, mais trois avis seulement et aucun daté",
+      "icon": "star",
+      "summary": "Yelp affiche 3,7 sur 5 sur trois avis non datés, apparemment les mêmes que sur Unilocal ; ils vont de l'éloge des plafonds d'époque à la critique de la propreté.",
+      "sources": [
+        "s22",
+        "s23",
+        "s14",
+        "s26",
+        "s12"
+      ],
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Yelp signale le commerce comme fermé et affiche, au 19 octobre 2026, une note de 3,7 sur 5 calculée sur trois avis, dont aucun n'est daté dans la page consultée. Unilocal affiche la même moyenne sur trois avis, et l'avis qui cite une entrée à 12 € la journée apparaît sur les deux plateformes : ce sont sans doute les mêmes.\n\nSur Unilocal, les trois avis tirent dans deux directions. Deux notes de 5 sur 5 saluent l'une les plafonds d'époque et le prix, l'autre des rénovations et une entrée à 12 € la journée ; la troisième, de 1 sur 5, critique la propreté des sièges et l'absence de tri à l'entrée, et affirme que l'un des avis élogieux vient du patron. Rien ne permet de trancher.\n\nPour le reste, la réputation du lieu tient en quelques mots de la presse et des blogs locaux : LOR'Actu parlait en 2013 d'une « institution à Metz », un blog messin d'un lieu « très mystérieux », et ICI relevait en 2016 une fréquentation en baisse depuis longtemps."
+        }
+      ]
+    },
+    {
+      "id": "sarl-siko-1994",
+      "title": "La SARL SIKO, créée en 1994 au 2 rue Gambetta : exploitante probable, non attestée",
+      "icon": "building",
+      "summary": "Au registre, la SARL SIKO, créée le 1er juillet 1994 au 2 rue Gambetta, est l'exploitante probable du cinéma ; ce rôle est déduit, pas attesté.",
+      "sources": [
+        "s16",
+        "s17",
+        "s12",
+        "s13",
+        "s18"
+      ],
+      "confidence": "a_verifier",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Nous n'avons trouvé au registre aucune société ni enseigne déclarée sous le nom « Royal Cruising ». Deux sociétés sont en revanche liées à l'adresse :"
+        },
+        {
+          "kind": "table",
+          "caption": "Registre national des entreprises, consulté le 16 octobre 2026",
+          "headers": [
+            "Société",
+            "Siren",
+            "Création",
+            "Activité déclarée",
+            "Au 2 rue Gambetta"
+          ],
+          "rows": [
+            [
+              "SARL LE ROYAL",
+              "391 641 206",
+              "1er avril 1993",
+              "Projection de films (ancien code 92.1J)",
+              "Établissement ouvert le 1er avril 1993, fermé le 1er juillet 1994"
+            ],
+            [
+              "SARL SIKO",
+              "398 211 185",
+              "1er juillet 1994",
+              "Débit de boissons (56.30Z)",
+              "Siège et unique établissement, toujours actif"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Que SIKO ait exploité le cinéma de 1994 à 2016 est une déduction, pas un fait établi. Trois indices vont dans ce sens : elle naît le jour même où ferme l'établissement de la SARL LE ROYAL à la même adresse ; le gérant interrogé par ICI en 2016 était en poste depuis 22 ans, donc depuis 1994 ; et Tout-Metz indiquait qu'il devait entrer à hauteur de 20 % dans la société portant le projet de salle de spectacles. En 2026, SIKO est déclarée propriétaire du site du Royal actuel. Les noms des dirigeants, cités par la presse, ne sont pas repris ici."
+        }
+      ]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Lundi": "14 h – minuit",
+      "Mardi": "14 h – minuit",
+      "Mercredi": "14 h – minuit",
+      "Jeudi": "14 h – minuit",
+      "Vendredi": "14 h – 1 h, sous réserve de soirée",
+      "Samedi": "14 h – 1 h, sous réserve de soirée",
+      "Dimanche": "14 h – minuit"
+    },
+    "note": "Horaires relevés en avril 2013 sur le site officiel archivé. Le cinéma a fermé le 31 décembre 2016 : ils ne valent plus que pour mémoire.",
+    "confidence": "source_unique",
+    "sources": [
+      "s3"
+    ]
+  },
+  "tarifs": {
+    "rows": {
+      "Vendredi trav/trans, page Agenda (mars 2013 à juin 2016)": "5 € pour les travestis et trans, de 21 h à 1 h",
+      "Soirée trav/trans, page d'accueil (avril 2013)": "14 € dès 21 h, gratuit pour les travestis et trans",
+      "Vendredi trav/trans (septembre 2013)": "Entrée offerte toute la journée aux travestis et trans"
+    },
+    "note": "Seuls tarifs publiés par le site officiel, aujourd'hui archivé, et contradictoires entre eux au printemps 2013. Le prix d'une entrée ordinaire n'y figurait pas ; un avis non daté, qu'un autre internaute attribue au patron, évoque 12 € la journée.",
+    "confidence": "source_unique",
+    "sources": [
+      "s1",
+      "s5",
+      "s4",
+      "s23"
+    ]
+  },
+  "equipements": [
+    "Salle de cinéma avec balcon",
+    "Bar"
+  ],
+  "externalRatings": [
+    {
+      "platform": "Yelp",
+      "rating": 3.7,
+      "scale": 5,
+      "count": 3,
+      "date": "2026-10-19",
+      "url": "https://www.yelp.fr/biz/cin%C3%A9ma-le-royal-metz"
+    }
+  ],
+  "corrections": {
+    "site_web": "",
+    "email": "",
+    "telephone": "",
+    "sources": [
+      "s10",
+      "s11",
+      "s12",
+      "s13"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Le Royal, à Metz, est-il encore ouvert ?",
+      "answer": "Non. Le cinéma X a fermé le 31 décembre 2016, comme l'avaient annoncé ICI Lorraine et Tout-Metz. Au 2 rue Gambetta, la salle accueille désormais Le Royal, un lieu de spectacles et d'événements sans activité libertine."
+    },
+    {
+      "question": "Reste-t-il un club libertin ou échangiste à Metz ?",
+      "answer": "Notre annuaire recense dans la ville L'Intim, rue des Ferblantiers, mais son site n'affichait qu'une page d'attente le 16 octobre 2026 : appelez avant d'y aller. Les autres adresses de Moselle figurent sur la page du département ; toutes n'ont pas encore été vérifiées en détail."
+    },
+    {
+      "question": "Le Royal était-il un sauna libertin ?",
+      "answer": "Non. C'était une salle de cinéma pornographique de plus de 500 m², avec balcon et bar ; aucune source ne mentionne de sauna, de hammam ni de jacuzzi. À Metz, l'établissement qui figure comme sauna libertin dans notre annuaire est L'Intim, au 4 rue des Ferblantiers, dont l'activité reste à vérifier."
+    },
+    {
+      "question": "Combien coûtait l'entrée au Royal ?",
+      "answer": "Le site officiel n'a laissé que les tarifs de la soirée trav/trans du vendredi, et ils se contredisent : en 2013, la page d'accueil annonçait 14 € dès 21 h avec entrée gratuite pour les travestis et trans, tandis que la page Agenda, restée en ligne jusqu'en 2016, leur demandait 5 €. Pour une entrée ordinaire, seul un avis non daté, qu'un autre internaute attribue au patron, avance 12 € la journée."
+    },
+    {
+      "question": "Où faire des rencontres libertines à Metz depuis la fermeture ?",
+      "answer": "Faute de lieu dont nous ayons vérifié l'ouverture dans Metz même, un site de rencontre permet de prendre contact avant de sortir. Carré Libertin, ouvert en 2007, revendique plus de 500 000 inscrits et [une communauté annoncée à 60 % de femmes et de couples](aff:carre-libertin) : les femmes et les couples y accèdent à tout sans payer dès trois photos publiées, alors qu'un homme seul doit s'abonner pour écrire."
+    },
+    {
+      "question": "Le site royalmetz.com est-il celui du Royal ?",
+      "answer": "Plus depuis 2017 : le domaine était en vente en octobre de cette année-là et affiche en 2026 un site d'annonces sans rapport avec le cinéma. L'autre adresse du lieu, royalmetz.net, ne répond plus. La salle de spectacles actuelle a son propre site, leroyal.eu."
+    },
+    {
+      "question": "Que reste-t-il du cinéma Royal ?",
+      "answer": "Le bâtiment, l'Hôtel des Arts et Métiers, inscrit aux monuments historiques en 2002, et la salle elle-même, transformée en lieu de spectacles. Environ 200 m² de vitraux, masqués depuis les années 1920, ont été remis au jour lors de l'état des lieux qui a précédé les travaux, selon Tout-Metz en décembre 2016."
+    }
+  ],
+  "unverified": [
+    "Le prix d'une entrée ordinaire, hors soirée trav/trans : seul un avis Unilocal non daté, contesté par un autre internaute, parle de 12 € la journée.",
+    "Le vrai tarif de la soirée trav/trans en 2013 (14 € avec gratuité pour les travestis et trans sur l'accueil, 5 € pour eux dans l'agenda) et la tenue effective de cette soirée en 2016.",
+    "Le rôle de la SARL SIKO dans l'exploitation du cinéma entre 1994 et 2016, déduit du registre et de la presse mais jamais attesté.",
+    "La tenue du dîner-spectacle « Royal Cabaret » annoncé pour le 15 mars 2013.",
+    "La phase « club libertin » évoquée par LOR'Actu en 2013 : aucune autre source ne décrit de club distinct du cinéma.",
+    "Le détail des règles affichées dans la salle (page « Dress code » de 2012 illisible dans les archives).",
+    "La date des avis Yelp et Unilocal, et l'article du Républicain Lorrain cité par LOR'Actu, que nous n'avons pas retrouvé."
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Royal Metz, site officiel royalmetz.net, page d'accueil (archive du 11/04/2013)",
+      "url": "https://web.archive.org/web/20130411044713/http://www.royalmetz.net:80/site/index.php",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s2",
+      "label": "royalmetz.net, page « Présentation » (archive du 12/06/2016)",
+      "url": "https://web.archive.org/web/20160612114735/http://www.royalmetz.net:80/site/index.php/presentation",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s3",
+      "label": "royalmetz.net, page « Infos pratiques » (archive du 23/04/2013)",
+      "url": "https://web.archive.org/web/20130423021815/http://www.royalmetz.net:80/site/index.php/infos-pratiques",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s4",
+      "label": "royalmetz.net, page « Agenda », article daté du 12/03/2013 (archives du 15/05/2013, du 20/12/2015 et du 12/06/2016)",
+      "url": "https://web.archive.org/web/20160612134242/http://www.royalmetz.net:80/site/index.php/agenda",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s5",
+      "label": "royalmetz.net, page « Prochaine soirée » (archive du 13/09/2013)",
+      "url": "https://web.archive.org/web/20130913051957/http://www.royalmetz.net:80/site/index.php/prochaine-soiree",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s6",
+      "label": "royalmetz.net, appel à participants « Gang Bang Voyeur » et page « Association Trav/Trans » (archives de 2013)",
+      "url": "https://web.archive.org/web/20130423021722/http://www.royalmetz.net:80/site/gangbang.php",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s7",
+      "label": "royalmetz.net, page « Galerie » (archive du 12/06/2016, images non ouvertes)",
+      "url": "https://web.archive.org/web/20160612094540/http://www.royalmetz.net:80/site/index.php/galerie",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s8",
+      "label": "Cinéma Royal, site officiel royalmetz.com (archive du 12/06/2007)",
+      "url": "https://web.archive.org/web/20070612081232/http://royalmetz.com/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s9",
+      "label": "Royal Cruising, page « Dress code » de royalmetz.com (archive du 27/01/2012)",
+      "url": "https://web.archive.org/web/20120127055915/http://royalmetz.com:80/Dress-code-2012.htm",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s10",
+      "label": "Internet Archive, historique des captures de royalmetz.com (2005-2021) et de royalmetz.net (2013-2016)",
+      "url": "https://web.archive.org/cdx/search/cdx?url=royalmetz.com&fl=timestamp,statuscode&collapse=timestamp:6",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s11",
+      "label": "Vérification directe de royalmetz.com et royalmetz.net le 16/10/2026 (contenu actuel du .com sans rapport avec le cinéma, volontairement non lié)",
+      "url": "https://web.archive.org/cdx/search/cdx?url=royalmetz.com&fl=timestamp,statuscode&from=2022",
+      "type": "autre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s12",
+      "label": "ICI Lorraine (Radio France), « Metz : le cinéma X le Royal se rhabille », 28/10/2016",
+      "url": "https://www.ici.fr/infos/insolite/metz-le-cinema-x-le-royal-se-rhabille-1477670604",
+      "type": "presse",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s13",
+      "label": "Tout-Metz, « Metz : le cinéma X Le Royal change de peau », 16/12/2016",
+      "url": "https://tout-metz.com/projet-cinema-x-le-royal-salle-spectacles-2016-1118",
+      "type": "presse",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s14",
+      "label": "LOR'Actu, « A Metz, quand le cinéma porno veut se transformer en cabaret chic », 14/03/2013",
+      "url": "https://loractu.fr/metz/3519-a-metz-quand-le-cinema-porno-veut-se-transformer-en-cabaret-chic.html",
+      "type": "presse",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s15",
+      "label": "Ciné-Façades, « Royal (Metz - 57) », blog d'histoire des salles, 15/10/2017",
+      "url": "https://sallesdecinemas.blogspot.com/2017/10/royal-metz-57.html",
+      "type": "autre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s16",
+      "label": "Annuaire des entreprises, SARL SIKO (Siren 398 211 185)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/398211185",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s17",
+      "label": "Annuaire des entreprises, SARL LE ROYAL (Siren 391 641 206)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/391641206",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s18",
+      "label": "Le Royal, site de la salle de spectacles actuelle (accueil, histoire, mentions légales)",
+      "url": "https://www.leroyal.eu/",
+      "type": "autre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s19",
+      "label": "Lorraine au cœur, « Soirée Chicago Club au Royal Metz », 23/02/2018",
+      "url": "https://www.lorraineaucoeur.com/evt-23846/soiree-chicago-club-au-royal-metz/moselle-metz/soiree",
+      "type": "autre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s20",
+      "label": "Bureau des Congrès de l'Euro-Métropole de Metz, « Le Royal »",
+      "url": "https://www.congres-metz.com/le-royal/",
+      "type": "autre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s21",
+      "label": "Wikipédia, « Hôtel des Arts et Métiers de Metz » et liste des monuments historiques de Metz",
+      "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel_des_Arts_et_M%C3%A9tiers_de_Metz",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s22",
+      "label": "Yelp, « Cinéma Le Royal » (Metz)",
+      "url": "https://www.yelp.fr/biz/cin%C3%A9ma-le-royal-metz",
+      "type": "avis",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s23",
+      "label": "Unilocal, « Cinéma Le Royal » (Metz)",
+      "url": "https://unilocal.net/france/metz/cinema-le-royal",
+      "type": "avis",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s24",
+      "label": "sauna-club-libertin.com, fiche « ROYAL METZ » (annuaire, non datée)",
+      "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_3.php?id=814&d=57",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s25",
+      "label": "Petit Futé, « Le Royal », cabaret et revue à Metz (mention « Recommandé 2026 »)",
+      "url": "https://www.petitfute.com/v22106-metz-57000/c1169-s-amuser-sortir/c1048-spectacles/c226-cabaret-revue/604790-le-royal.html",
+      "type": "autre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s26",
+      "label": "Blog « Metz où il fait beau et bon vivre... », « Metz / Le Royal... », photos de la Nuit Blanche 5 (commentaires d'octobre 2012, billet republié le 06/05/2013)",
+      "url": "https://marcmetzmoselle.eklablog.com/metz-le-royal-a86865311",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s27",
+      "label": "sauna-club-libertin.com, lieux de Moselle et fiche « LE LIBERTIN » (annuaire)",
+      "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_3.php?id=1338&d=57",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s28",
+      "label": "Site de L'Intim (lintim57.fr), état de la page d'accueil",
+      "url": "http://lintim57.fr/",
+      "type": "autre",
+      "consulted": "2026-10-19"
+    }
+  ]
+}

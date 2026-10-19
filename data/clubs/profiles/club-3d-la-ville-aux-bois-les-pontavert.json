@@ -1,0 +1,917 @@
+{
+  "slug": "club-3d-la-ville-aux-bois-les-pontavert",
+  "clubId": "15395",
+  "researchedAt": "2026-10-16",
+  "display": {
+    "nom": "3D Sauna Club",
+    "ville": "La Ville-aux-Bois-lès-Pontavert"
+  },
+  "status": {
+    "value": "ouvert",
+    "summary": "Au 19 octobre 2026, la soirée des trois ans est affichée pour le samedi 24 octobre 2026, et la page des samedis aligne des affiches datées jusqu'au 28 novembre, plus une Détente party le dimanche 15 novembre. Le livre d'avis du site a reçu son dernier texte le 20 septembre 2026 ; la SAS Z10, exploitante, reste active au registre et a déposé ses comptes en août 2026.",
+    "sources": [
+      "s9",
+      "s10",
+      "s34",
+      "s11",
+      "s20",
+      "s21"
+    ]
+  },
+  "seo": {
+    "title": "3D Sauna Club (ex-Club 3D), La Ville-aux-Bois-lès-Pontavert : tarifs",
+    "metaDescription": "Samedi 21 h-4 h, couple 70 €, homme seul 95 € sur accord, trios, 25 ans minimum : le club libertin entre Laon et Reims et ses soirées jusqu'à fin novembre 2026.",
+    "subtitle": "Club libertin mixte avec sauna et hammam sur la RD 1044, entre Laon et Reims (02)",
+    "targetQueries": [
+      "3d sauna club",
+      "club 3d",
+      "3d sauna club pontavert",
+      "club 3d la ville aux bois",
+      "3d sauna club tarif",
+      "3d sauna club avis",
+      "3d sauna club dress code",
+      "club libertin aisne",
+      "club libertin laon",
+      "club libertin reims",
+      "sauna libertin aisne",
+      "club libertin 02",
+      "club échangiste aisne"
+    ]
+  },
+  "lead": "Connu jusqu'en 2023 sous le nom de Club 3D, le 3D Sauna Club est un club libertin mixte avec sauna et hammam, sur la RD 1044 entre Laon et Reims. Repris en octobre 2023 par la SAS Z10, il ouvre le samedi de 21 h à 4 h, le premier vendredi du mois et certains dimanches, et fête ses trois ans le 24 octobre 2026. Entrée à partir de 25 ans, hommes seuls sur accord téléphonique, tarifs prévus pour les trios.",
+  "glance": [
+    {
+      "icon": "calendar",
+      "label": "Ouvert",
+      "value": "Samedi 21 h-4 h · 1er vendredi 20 h-1 h"
+    },
+    {
+      "icon": "euro",
+      "label": "Entrée couple",
+      "value": "70 € le samedi · 40 € le 1er vendredi"
+    },
+    {
+      "icon": "shield",
+      "label": "Âge minimum",
+      "value": "25 ans, sans exception"
+    },
+    {
+      "icon": "spa",
+      "label": "Sauna et hammam",
+      "value": "Le samedi de 22 h à 2 h"
+    },
+    {
+      "icon": "history",
+      "label": "Repris",
+      "value": "En octobre 2023 (ex-Club 3D)"
+    },
+    {
+      "icon": "map",
+      "label": "Situation",
+      "value": "RD 1044, entre Laon et Reims"
+    }
+  ],
+  "audience": [
+    {
+      "who": "couples",
+      "status": "oui",
+      "detail": "Samedi, 1er vendredi, dimanches annoncés ; sans réservation hors soirées spéciales",
+      "price": "30 à 70 €"
+    },
+    {
+      "who": "femmes",
+      "status": "oui",
+      "detail": "Mêmes soirées que les couples ; robe ou jupe, pantalon refusé",
+      "price": "10 à 25 €"
+    },
+    {
+      "who": "hommes",
+      "status": "selon",
+      "detail": "Sur réservation et après accord téléphonique ; nombre limité",
+      "price": "40 à 95 €"
+    },
+    {
+      "who": "trans",
+      "status": "oui",
+      "detail": "Tarif identique à celui des femmes seules",
+      "price": "10 à 25 €"
+    }
+  ],
+  "highlights": [
+    "Hommes seuls : réservation et accord téléphonique préalables, leur nombre étant limité pour préserver la parité.",
+    "Hommes : chemise ou chemisette obligatoire depuis le 1er juillet 2026 ; baskets, t-shirt, polo et couvre-chef refusés à l'entrée.",
+    "Le vendredi, le club n'ouvre en principe que le premier du mois (20 h-1 h) : appelez le 07 82 02 03 40 avant de venir un autre vendredi.",
+    "Toute sortie est définitive, et téléphones comme appareils photo restent au vestiaire.",
+    "Paiement par carte (relevé au nom de « 3D Sauna Club ») ou en espèces ; chèques refusés."
+  ],
+  "keyFacts": [
+    {
+      "label": "Nom",
+      "value": "3D Sauna Club, anciennement Club 3D",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s20",
+        "s18"
+      ]
+    },
+    {
+      "label": "Exploitant",
+      "value": "SAS Z10, créée le 30 septembre 2023 (SIRET 979 191 434 00013)",
+      "confidence": "confirme",
+      "sources": [
+        "s13",
+        "s20"
+      ]
+    },
+    {
+      "label": "Changement de propriétaire",
+      "value": "Octobre 2023, annoncé sur le site",
+      "confidence": "confirme",
+      "sources": [
+        "s17",
+        "s20"
+      ]
+    },
+    {
+      "label": "Club actif à cette adresse depuis",
+      "value": "2014 au moins (association LE3D déclarée en juillet 2013)",
+      "confidence": "a_verifier",
+      "sources": [
+        "s18",
+        "s23",
+        "s25"
+      ]
+    },
+    {
+      "label": "Jours d'ouverture",
+      "value": "Samedi ; premier vendredi du mois ; certains dimanches après-midi",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s2",
+        "s5"
+      ]
+    },
+    {
+      "label": "Public admis",
+      "value": "Couples, femmes seules, personnes trans, trios ; hommes seuls sur accord téléphonique",
+      "confidence": "confirme",
+      "sources": [
+        "s2",
+        "s3",
+        "s7"
+      ]
+    },
+    {
+      "label": "Âge minimum",
+      "value": "25 ans, sans exception",
+      "confidence": "confirme",
+      "sources": [
+        "s6",
+        "s18"
+      ]
+    },
+    {
+      "label": "Entrée couple le samedi",
+      "value": "70 €, trois boissons alcoolisées et buffet compris",
+      "confidence": "confirme",
+      "sources": [
+        "s2",
+        "s4"
+      ]
+    },
+    {
+      "label": "Sauna et hammam",
+      "value": "De 22 h à 2 h le samedi, de 14 h à 20 h le dimanche",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s4",
+        "s5"
+      ]
+    },
+    {
+      "label": "Paiement",
+      "value": "Carte bancaire ou espèces, chèques refusés",
+      "confidence": "confirme",
+      "sources": [
+        "s2",
+        "s7"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "programme-automne-2026",
+      "title": "Des 3 ans du 24 octobre à la soirée Infirmière du 28 novembre",
+      "icon": "calendar",
+      "summary": "Chaque samedi d'ici fin novembre a son thème, de 21 h à 4 h : 3 ans du club le 24 octobre, Halloween le 31, dépistage du CeGIDD le 28 novembre.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Sur la page « Soirées Samedi » du site, les affiches mises en ligne entre le 6 août et le 12 octobre 2026 donnent un thème à chaque samedi jusqu'à fin novembre, toujours de 21 h à 4 h. L'affiche de l'Open Sex du 17 octobre, vue le 16, a été retirée une fois la date passée."
+        },
+        {
+          "kind": "table",
+          "caption": "Soirées annoncées par le club (affiches relevées le 19 octobre 2026)",
+          "headers": [
+            "Date",
+            "Soirée",
+            "Ce que précise l'affiche"
+          ],
+          "rows": [
+            [
+              "Samedi 24 octobre",
+              "3 ans du club",
+              "Show de strip-tease, goodies, masseur du club, menu à 40 € sur réservation"
+            ],
+            [
+              "Samedi 31 octobre",
+              "Halloween",
+              "Un shooter offert par personne déguisée"
+            ],
+            [
+              "Samedi 7 novembre",
+              "Black & White",
+              "Tenue noire ou blanche, masseur du club présent"
+            ],
+            [
+              "Samedi 14 novembre",
+              "Tigresse party",
+              "Soirée annoncée à l'intention des femmes"
+            ],
+            [
+              "Dimanche 15 novembre",
+              "Détente party (14 h-20 h)",
+              "Sauna, hammam, massage aux pierres chaudes"
+            ],
+            [
+              "Samedi 21 novembre",
+              "Femmes bi",
+              "Jumelée avec un anniversaire"
+            ],
+            [
+              "Samedi 28 novembre",
+              "Infirmière",
+              "Présence du CeGIDD pour un dépistage gratuit et anonyme"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Les trois ans se comptent, selon toute vraisemblance, depuis la reprise d'octobre 2023 : le lieu fonctionnait déjà sous le nom de Club 3D en 2014. Ce soir-là, un menu à 40 € par personne est servi sur réservation, avec 30 % d'acompte (velouté de potiron, volaille au curry, charlottine aux biscuits roses de Reims).\n\nLe club demande d'annoncer sa venue par SMS ou « sur les réseaux sociaux libertins », sans en nommer aucun. Wyylde, l'ex-Netéchangisme, tient un agenda national des soirées en club qu'on peut [feuilleter à l'aide d'un compte gratuit](aff:wyylde) ; nous ignorons si le 3D y publie ses dates. Pour vous annoncer, ce compte gratuit ne mène pas loin : il reçoit les messages sans laisser y répondre, et le SMS au club reste le canal le plus direct."
+        },
+        {
+          "kind": "callout",
+          "tone": "tip",
+          "title": "Un dépistage sur place le 28 novembre",
+          "body": "Le CeGIDD de Laon, centre de dépistage des infections sexuellement transmissibles que le club cite parmi ses partenaires, est annoncé à la soirée Infirmière : dépistage gratuit et anonyme, selon l'affiche."
+        },
+        {
+          "kind": "text",
+          "body": "Les témoignages publiés par le club montrent le même modèle les années passées : Halloween le 2 novembre 2024, effeuillage le 30 novembre 2024, défilé des Miss en octobre 2025, strip-teaseuse au réveillon 2025. Une page sortie du menu décrit encore une soirée LGBT+ mensuelle (20 h-minuit, 18 €, 20 participants minimum), absente des affiches de l'automne."
+        }
+      ],
+      "sources": [
+        "s34",
+        "s9",
+        "s10",
+        "s1",
+        "s11",
+        "s14"
+      ]
+    },
+    {
+      "id": "prix-samedi-trios",
+      "title": "70 € le couple, 95 € l'homme seul, 150 € le trio HHF : ce que dit la grille du samedi",
+      "icon": "euro",
+      "summary": "Samedi : 70 € le couple, 95 € l'homme seul, 25 € la femme ou la personne trans, boissons et buffet compris ; un trio paie 15 € de moins que séparément.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le samedi est la formule complète : trois boissons alcoolisées, softs, buffet froid, plat chaud et dessert. La soirée découverte du premier vendredi coûte 30 € de moins au couple, sans buffet et avec deux boissons. Le dimanche, ouvert aux seules dates annoncées, est le moins cher (30 € le couple, un soft compris) ; proposé aux couples en 2024 (35 € avec deux softs), il est présenté comme mixte en 2026."
+        },
+        {
+          "kind": "text",
+          "body": "Particularité de la grille : des **tarifs trio**, moins chers que les entrées séparées. Le samedi, un trio FFH paie 80 € au lieu de 95 € (couple et femme seule), un trio HHF 150 € au lieu de 165 €, un trio FFF 60 € au lieu de 75 € : 15 € d'écart chaque fois, 10 € le vendredi. Les hommes seuls, eux, paient près de quatre fois l'entrée d'une femme seule (95 € contre 25 €).\n\nEncore faut-il arriver à trois. Un couple qui cherche son ou sa partenaire de soirée peut [publier une annonce de trio sur Carré Libertin](aff:carre-libertin) sans rien payer : depuis 2007, le site ouvre toutes ses fonctions aux couples et aux femmes qui affichent trois photos de profil. Un homme seul devra, lui, s'abonner pour écrire."
+        },
+        {
+          "kind": "list",
+          "title": "Remises et paiement",
+          "items": [
+            "Carte de fidélité : une entrée à moitié prix après dix entrées payantes, hors soirées spéciales.",
+            "Anniversaire : 10 % de remise sur l'entrée si l'anniversaire tombe dans la semaine précédente (sur pièce d'identité), gâteau à 7 € la part dès quatre personnes avec une bouteille de champagne offerte.",
+            "Carte bancaire (« 3D Sauna Club » sur le relevé) ou espèces ; pas de chèque."
+          ]
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Le vendredi : une fois par mois, en principe",
+          "body": "Les pages Tarifs et Soirées Vendredi n'annoncent qu'une ouverture par mois, le **premier vendredi**, de 20 h à 1 h ; les données techniques du site (« Ouvert Vendredi & Samedi ») et un annuaire mis à jour en septembre 2026 mentionnent le vendredi sans préciser qu'il s'agit du premier du mois, et la page Tarifs renvoie à des « dates » à consulter. Selon la règle affichée, les prochaines soirées découverte tombent le 6 novembre et le 4 décembre 2026 ; pour un autre vendredi, appelez le 07 82 02 03 40."
+        }
+      ],
+      "sources": [
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s8",
+        "s17",
+        "s1",
+        "s29"
+      ]
+    },
+    {
+      "id": "regles-entree",
+      "title": "25 ans révolus, chemise depuis le 1er juillet 2026, téléphone au vestiaire",
+      "icon": "shield",
+      "summary": "25 ans minimum, carte de membre gratuite sur pièce d'identité, hommes seuls sur accord téléphonique, chemise exigée et téléphone laissé au vestiaire.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le club refuse toute personne de moins de 25 ans, « sans aucune exception », règle déjà inscrite au règlement de l'association en 2014. À la première visite, une pièce d'identité donne droit à une carte de membre gratuite. Couples et femmes peuvent venir sans réserver, sauf aux soirées spéciales ; les hommes seuls réservent et ne sont admis qu'« après un accord téléphonique », le club disant limiter leur nombre pour préserver la parité."
+        },
+        {
+          "kind": "list",
+          "title": "Le dress code affiché en 2026",
+          "items": [
+            "Hommes : chemise ou chemisette obligatoire depuis le 1er juillet 2026, pantalon élégant (pas de jean usé ou troué), chaussures foncées ; ni t-shirt, ni polo, ni baskets, ni couvre-chef.",
+            "Femmes : robe ou jupe, talons, lingerie ; ni pantalon, ni baskets, ni couvre-chef.",
+            "Le club peut prêter des chaussures selon les pointures disponibles, et l'on peut apporter sa tenue dans un sac pour se changer au vestiaire."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Téléphones et appareils photo restent au vestiaire, toute sortie est définitive, drogues et prostitution valent exclusion immédiate. Serviettes et préservatifs sont fournis ; la nudité est permise, rien n'est obligatoire. Héritée du site associatif, une « Charte Libertine » en dix commandements figure sur chaque page : protéger sa santé, ne pas mentir à son partenaire, rester près de lui la nuit « sauf accord contraire »."
+        }
+      ],
+      "sources": [
+        "s6",
+        "s7",
+        "s18",
+        "s1",
+        "s19"
+      ]
+    },
+    {
+      "id": "espaces-du-club",
+      "title": "Treize coins câlins, une Sex Car, un donjon SM et un jardin éclairé aux LED",
+      "icon": "building",
+      "summary": "Sauna, hammam, 13 coins câlins, dark room, glory holes, Sex Car, playroom SM et jardin éclairé ; le site actuel n'annonce ni spa ni jacuzzi.",
+      "blocks": [
+        {
+          "kind": "list",
+          "title": "Les espaces décrits par le site officiel (surface non communiquée)",
+          "items": [
+            "Sauna et hammam, douches, vestiaires.",
+            "13 coins câlins, ouverts et fermés, et une dark room.",
+            "Deux glory holes et un glory hole féminin, présenté comme une nouveauté dans la galerie.",
+            "Une « Sex Car » dédiée au « live show » et une salle de projection.",
+            "Une piste de danse avec barre transformable en cage, animée le samedi par un DJ.",
+            "Une playroom SM avec accessoires, appelée « Donjon SM » dans la galerie.",
+            "Bar, fumoir, terrasse, climatisation, vente de jouets, accès pour personnes à mobilité réduite."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "La galerie du site compte 23 photos au 19 octobre 2026, d'avril 2024 à début octobre 2026. On y voit un bar aux néons rouges et bleus sous l'enseigne lumineuse « Sauna 3D Club », un escalier vers un niveau supérieur et un jardin clos le long d'un bâtiment en pierre : pelouse bordée de LED, mobilier lumineux, palmiers et plantes en pot, salon sous un parasol de paille."
+        },
+        {
+          "kind": "callout",
+          "tone": "info",
+          "title": "Pas de jacuzzi annoncé",
+          "body": "En 2021, l'ancien site associatif mentionnait un « SPA en terrasse ». Le site actuel ne parle ni de spa ni de jacuzzi, l'aménagement ayant pu changer avec les travaux de la reprise : faites confirmer par téléphone si le bain à remous compte pour vous."
+        }
+      ],
+      "sources": [
+        "s4",
+        "s1",
+        "s6",
+        "s7",
+        "s12",
+        "s19",
+        "s11"
+      ]
+    },
+    {
+      "id": "club-3d-puis-3d-sauna-club",
+      "title": "Du Club 3D associatif, déclaré en 2013, au 3D Sauna Club repris en octobre 2023",
+      "icon": "history",
+      "summary": "Club associatif LE3D déclaré en 2013 et en ligne dès 2014, puis repris en octobre 2023 sous le nom de 3D Sauna Club ; la SAS Z10 l'exploite.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le nom « Club 3D », que reprennent encore des annuaires, renvoie à la première vie du lieu : un club géré par une association loi 1901, LE3D, où l'on entrait par cooptation."
+        },
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "1982-2011",
+              "text": "Un restaurant, Le Relais Sainte Marie, est immatriculé au 10 de la RD 1044, puis dissous. Rien n'établit que le club occupe ce bâtiment (le site indique le 10 bis)."
+            },
+            {
+              "date": "31 juillet 2013",
+              "text": "Déclaration de l'association LE3D à Épernay (premier siège à Plivot, Marne), pour faciliter les rencontres entre adultes « non conformistes » et prévenir les IST."
+            },
+            {
+              "date": "2013 et 2015",
+              "text": "Deux articles de L'Union sur les libertins de la région figurent dans la page « Presse » du club ; nous n'avons pu en lire qu'un chapô."
+            },
+            {
+              "date": "2014",
+              "text": "Domaine club-3d.fr enregistré le 10 mai, site « Club 3D : association club libertin » archivé dès septembre. Cotisation annuelle, cooptation, hommes seuls parrainés par un couple ; ouverture du vendredi au dimanche."
+            },
+            {
+              "date": "Printemps 2020",
+              "text": "Dernier agenda connu (Carnaval le 29 février, Pink Party le 14 mars). L'activité entre 2020 et 2023 n'est pas documentée ; le site associatif reste en ligne jusqu'en janvier 2023 au moins."
+            },
+            {
+              "date": "Septembre-octobre 2023",
+              "text": "Création de la SAS Z10, enseigne « 3D Sauna Club », le 30 septembre ; le site annonce un « changement de propriétaire » en octobre."
+            },
+            {
+              "date": "Printemps 2024",
+              "text": "Nouveau site, domaine transféré le 10 mai. Un témoignage de juillet parle de « réouverture » et de « nombreux travaux »."
+            },
+            {
+              "date": "Juin 2024",
+              "text": "Fermeture exceptionnelle le 22, réouverture le 29. Le premier vendredi est alors une soirée gang bang ouverte aux hommes seuls ; le site annonce aussi des soirées String et Années 80."
+            },
+            {
+              "date": "Août 2025",
+              "text": "Un témoignage évoque la « soirée réouverture » du 2 août, signe probable d'une pause estivale."
+            }
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Aucune annonce légale retrouvée ne documente le passage de l'association à la société, ni cession de fonds ni location-gérance. LE3D reste active au répertoire SIRENE, sans dissolution publiée au Journal officiel ; son rôle actuel nous est inconnu. La SAS Z10 a déposé ses comptes chaque année depuis 2024, sans procédure collective."
+        }
+      ],
+      "sources": [
+        "s24",
+        "s23",
+        "s22",
+        "s19",
+        "s31",
+        "s25",
+        "s18",
+        "s20",
+        "s17",
+        "s16",
+        "s11",
+        "s21"
+      ]
+    },
+    {
+      "id": "temoignages-46-avis",
+      "title": "46 témoignages à 4,87/5 hébergés par le club : propreté, visite guidée et samedis inégaux",
+      "icon": "star",
+      "summary": "46 témoignages publiés par le club, 4,87/5 : propreté et visite des lieux reviennent souvent, quelques samedis sans échanges ; note Google non relevée.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Ni la fiche Google (page de consentement) ni la page Facebook (mur de connexion) n'ont pu être lues. Reste le livre d'avis du site officiel : au 16 octobre 2026, 46 témoignages datés du 8 juin 2024 au 20 septembre 2026, dont 43 à 5/5, soit 4,87 de moyenne. Le club les publie et les modère lui-même : ils prouvent que le lieu fonctionne, pas qu'il fait l'unanimité. Un annuaire avance une note Google de 4,6/5 sur 52 avis, non datée et que nous n'avons pas vue."
+        },
+        {
+          "kind": "list",
+          "title": "Ce qui revient le plus, d'après notre lecture des 46 textes",
+          "items": [
+            "La propreté et l'hygiène, citées dans 19 témoignages.",
+            "Les premières visites : une vingtaine d'auteurs découvraient le club, dont une dizaine de couples novices en club libertin.",
+            "La visite des lieux à l'arrivée, racontée sept fois ; la FAQ du club confirme qu'on peut la demander à l'accueil.",
+            "La musique, le DJ et les jeux de lumière, dans onze avis ; le masseur, dans quatre."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Les réserves sont rares mais précises. En mars 2025, un couple trouve le passage en caisse « un petit long ». En septembre 2025, un autre regrette de ne pas avoir encore engagé la conversation avec des habitués plus aguerris. En novembre 2025, des réguliers souhaitent « plus d'hommes le samedi ». En mars 2026, le seul avis à 2/5 décrit un samedi sans homme seul, où les couples restaient entre eux.\n\nLes avis de septembre 2025 et de mars 2026 disent au fond la même chose : on peut traverser une soirée sans avoir abordé personne. Connaître un couple ou deux avant d'arriver change la donne, et pour [faire connaissance avant le samedi sur Gleese](aff:gleese), aucune carte bancaire n'est demandée ; chaque membre y valide son numéro de téléphone et les photos sont contrôlées à la main. Le site n'existe que depuis fin 2024 : regardez combien de profils il réunit entre Laon et Reims avant d'en attendre beaucoup."
+        }
+      ],
+      "sources": [
+        "s11",
+        "s33",
+        "s32",
+        "s29",
+        "s7"
+      ]
+    },
+    {
+      "id": "rd-1044-acces-hebergement",
+      "title": "Sur la RD 1044, entre Laon et Reims : camping-cars, roulottes et clubs de l'Aisne",
+      "icon": "map",
+      "summary": "Au 10 bis RD 1044, à 22 km de Reims et 24 km de Laon à vol d'oiseau ; parking ouvert aux camping-cars ; seul club de l'Aisne vérifié dans notre annuaire.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le club se trouve au 10 bis RD 1044 (10 route départementale 1044 au registre), sur la route de Laon à Reims, et non « entre Laon et Soissons » comme l'écrit un annuaire. Le site le dit à 2 h de Paris et à 1 h 15 de la frontière belge ; les annuaires comptent 20 à 25 minutes depuis Laon, 25 à 30 depuis Reims. D'après les coordonnées du registre, il est à environ 22 km à vol d'oiseau de Reims et 24 km de Laon."
+        },
+        {
+          "kind": "text",
+          "body": "Le parking accepte les camping-cars, et un témoignage de 2024 indique qu'on peut y dormir jusqu'au matin. Une page sortie du menu propose aussi des roulottes de deux ou quatre couchages chez un voisin, à une centaine de mètres, que nous n'avons pas retrouvé au registre : faites confirmer avant de compter dessus."
+        },
+        {
+          "kind": "text",
+          "body": "Dans notre annuaire, le 3D Sauna Club est le seul établissement de l'[Aisne](/departement/aisne) dont nous ayons vérifié l'activité en 2026. [L'Entre 2, à Moulins](/l-entre-2-moulins), a disparu : sa société exploitante a été liquidée en 2013-2014. Nous n'avons pas encore enquêté sur [Le Lotus, à Lizy](/le-lotus-lizy). Un guide en ligne cite aussi le 3AC-Monkey à Achery, dont le site refusait l'accès le 16 octobre 2026, et, à Reims, Le Must Club et le Sauna Le Lotus. Le reste de la région figure sur la page [Hauts-de-France](/region/hauts-de-france)."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s20",
+        "s26",
+        "s30",
+        "s29",
+        "s11",
+        "s15",
+        "s27",
+        "s28",
+        "s35"
+      ]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Samedi": "21 h – 4 h (sauna et hammam de 22 h à 2 h)",
+      "Premier vendredi du mois": "20 h – 1 h, soirée découverte",
+      "Dimanche, aux dates annoncées": "14 h – 20 h (prochaine : 15 novembre 2026)",
+      "Autres jours": "Fermé"
+    },
+    "note": "Les pages principales du site annoncent un seul vendredi par mois ; ses données techniques et un annuaire parlent de chaque vendredi. Appelez avant de venir un autre vendredi. En 2025, un témoignage situe une réouverture le 2 août, signe d'une pause estivale.",
+    "confidence": "confirme",
+    "sources": [
+      "s1",
+      "s2",
+      "s3",
+      "s5",
+      "s10",
+      "s11"
+    ]
+  },
+  "tarifs": {
+    "rows": {
+      "Samedi – couple": "70 €",
+      "Samedi – femme seule ou trans": "25 €",
+      "Samedi – homme seul (sur réservation)": "95 €",
+      "Samedi – trio FFF / FFH / HHF": "60 € / 80 € / 150 €",
+      "1er vendredi – couple": "40 €",
+      "1er vendredi – femme seule ou trans": "15 €",
+      "1er vendredi – homme seul (sur réservation)": "55 €",
+      "1er vendredi – trio FFF / FFH / HHF": "35 € / 45 € / 85 €",
+      "Dimanche – couple": "30 €",
+      "Dimanche – femme seule ou trans": "10 €",
+      "Dimanche – homme seul (sur réservation)": "40 €"
+    },
+    "note": "Compris : trois boissons alcoolisées, softs et buffet (froid, plat chaud, dessert) le samedi ; deux boissons alcoolisées et softs le vendredi, sans buffet ; une boisson sans alcool le dimanche. Carte bancaire ou espèces. Relevé sur le site officiel le 19 octobre 2026.",
+    "confidence": "confirme",
+    "sources": [
+      "s2",
+      "s3",
+      "s4",
+      "s5"
+    ]
+  },
+  "equipements": [
+    "Sauna",
+    "Hammam",
+    "Douches",
+    "Vestiaires avec casiers",
+    "13 coins câlins ouverts et fermés",
+    "Dark room",
+    "Deux glory holes et un glory hole féminin",
+    "Sex Car pour live show",
+    "Salle de projection",
+    "Piste de danse avec barre transformable en cage",
+    "Playroom / donjon SM avec accessoires",
+    "Bar",
+    "Buffet le samedi",
+    "Fumoir",
+    "Terrasse et jardin clos",
+    "Climatisation",
+    "Vente de jouets",
+    "Accès PMR",
+    "Parking accessible aux camping-cars"
+  ],
+  "officialLinks": [
+    {
+      "label": "Site officiel",
+      "url": "https://www.club-3d.fr/",
+      "kind": "site"
+    },
+    {
+      "label": "Tarifs et horaires",
+      "url": "https://www.club-3d.fr/tarifs/c-21.html",
+      "kind": "autre"
+    },
+    {
+      "label": "Soirées du samedi (affiches de l'automne 2026)",
+      "url": "https://www.club-3d.fr/soiree-samedi/c-17.html",
+      "kind": "agenda"
+    },
+    {
+      "label": "Galerie photo (bar, donjon SM, jardin)",
+      "url": "https://www.club-3d.fr/galerie/c-23.html",
+      "kind": "galerie"
+    },
+    {
+      "label": "Page Facebook",
+      "url": "https://www.facebook.com/club3dlibertin",
+      "kind": "facebook"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Club 3D et 3D Sauna Club, est-ce le même endroit ?",
+      "answer": "Oui. « Club 3D » était le nom du lieu du temps de l'association LE3D, dont le site est resté en ligne jusqu'en janvier 2023 au moins. Depuis la reprise d'octobre 2023, il s'appelle 3D Sauna Club sur son site et au registre, où c'est l'enseigne de la SAS Z10 ; le néon du bar affiche « Sauna 3D Club ». L'adresse reste le 10 bis RD 1044."
+    },
+    {
+      "question": "Combien coûte l'entrée au 3D Sauna Club ?",
+      "answer": "Le samedi, 70 € le couple, 25 € la femme seule ou la personne trans, 95 € l'homme seul, de 60 à 150 € le trio, boissons et buffet compris. Le premier vendredi, 40 €, 15 € et 55 € ; le dimanche après-midi, 30 €, 10 € et 40 €. Tarifs relevés le 16 octobre 2026."
+    },
+    {
+      "question": "Quels jours le 3D Sauna Club est-il ouvert ?",
+      "answer": "Le samedi de 21 h à 4 h, le premier vendredi du mois de 20 h à 1 h (soirée découverte) et certains dimanches de 14 h à 20 h, aux dates annoncées : la prochaine est le 15 novembre 2026. Les données techniques du site évoquent aussi le vendredi sans restriction : appelez le 07 82 02 03 40 avant de venir un autre vendredi."
+    },
+    {
+      "question": "Un homme seul peut-il venir ?",
+      "answer": "Oui, sur réservation et après un accord téléphonique, le club limitant leur nombre. Comptez 95 € le samedi, 55 € le premier vendredi, 40 € le dimanche. Deux hommes et une femme venus ensemble paient 150 € le samedi (tarif HHF), soit 50 € chacun ; le site ne dit pas si l'accord téléphonique vaut aussi pour eux."
+    },
+    {
+      "question": "Quel est le dress code ?",
+      "answer": "Chemise ou chemisette obligatoire pour les hommes depuis le 1er juillet 2026, avec pantalon élégant et chaussures foncées ; robe ou jupe, talons ou lingerie pour les femmes. Baskets, couvre-chefs et t-shirts sont refusés, tout comme le pantalon pour les femmes."
+    },
+    {
+      "question": "Où voir des photos du 3D Sauna Club ?",
+      "answer": "Sur la galerie du site officiel : 23 photos (relevé du 19 octobre 2026) du bar aux néons, de l'escalier, du donjon SM, du glory hole féminin et du jardin clos éclairé. Pendant les soirées, téléphones et appareils photo restent au vestiaire."
+    },
+    {
+      "question": "Peut-on dormir sur place ?",
+      "answer": "Le parking accueille les camping-cars, et un client écrit en 2024 y avoir dormi jusqu'au matin. Le site ne mentionne pas de chambres ; une offre de roulottes chez un voisin figure encore sur une page retirée du menu, sans confirmation récente."
+    },
+    {
+      "question": "Y a-t-il d'autres clubs libertins dans l'Aisne ou près de Laon ?",
+      "answer": "Peu. L'Entre 2, à Moulins, a fermé après la liquidation de sa société en 2013-2014 ; nous n'avons pas encore vérifié Le Lotus, à Lizy. Un guide en ligne cite le 3AC-Monkey à Achery, dont le site refusait l'accès le 16 octobre 2026. Côté Marne, ce même guide cite à Reims Le Must Club et le Sauna Le Lotus, que nous n'avons pas encore vérifiés."
+    }
+  ],
+  "unverified": [
+    "La note Google du club : la page de consentement a bloqué la lecture ; un annuaire cite 4,6/5 sur 52 avis, sans date.",
+    "Le rythme réel des vendredis : premier vendredi du mois seulement, ou chaque semaine ?",
+    "Le menu à 40 € de la soirée des trois ans s'ajoute-t-il au prix d'entrée ?",
+    "L'accord téléphonique demandé aux hommes seuls s'applique-t-il aussi aux trios HHF ?",
+    "La soirée LGBT+ mensuelle décrite sur une page hors menu existe-t-elle encore ?",
+    "Les roulottes de « La Gitane Rie » sont-elles toujours proposées ?",
+    "La date exacte d'ouverture du Club 3D (fin 2013 ou 2014) et l'activité du lieu entre le printemps 2020 et octobre 2023.",
+    "Le lien juridique entre l'association LE3D et la SAS Z10 (cession, location-gérance) : aucune annonce trouvée.",
+    "Le club occupe-t-il l'ancien bâtiment du Relais Sainte Marie (10 contre 10 bis RD 1044) ?",
+    "Les dates de la fermeture estivale en 2026."
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "3D Sauna Club, site officiel : accueil",
+      "url": "https://www.club-3d.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s2",
+      "label": "3D Sauna Club, site officiel : tarifs et horaires",
+      "url": "https://www.club-3d.fr/tarifs/c-21.html",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s3",
+      "label": "3D Sauna Club, site officiel : soirées du vendredi",
+      "url": "https://www.club-3d.fr/soiree-vendredi/c-16.html",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s4",
+      "label": "3D Sauna Club, site officiel : soirées du samedi",
+      "url": "https://www.club-3d.fr/soiree-samedi/c-17.html",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s5",
+      "label": "3D Sauna Club, site officiel : dimanche après-midi",
+      "url": "https://www.club-3d.fr/apres-midi-couple/c-20.html",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s6",
+      "label": "3D Sauna Club, site officiel : dress code et conditions d'accès",
+      "url": "https://www.club-3d.fr/dress-code/c-19.html",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s7",
+      "label": "3D Sauna Club, site officiel : FAQ",
+      "url": "https://www.club-3d.fr/faq/c-28.html",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s8",
+      "label": "3D Sauna Club, site officiel : anniversaire",
+      "url": "https://www.club-3d.fr/anniversaire/c-22.html",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s9",
+      "label": "3D Sauna Club, site officiel : actualité « 3 ans du club » (publiée le 6 août 2026)",
+      "url": "https://www.club-3d.fr/3-ans-du-club/actu-205.html",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s10",
+      "label": "3D Sauna Club, site officiel : affiche de la Détente party du 15 novembre 2026",
+      "url": "https://www.club-3d.fr/lib/tiny_mce/source/detente_(1).jpg",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s11",
+      "label": "3D Sauna Club, site officiel : témoignages (46 avis hébergés par le club)",
+      "url": "https://www.club-3d.fr/temoignage",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s12",
+      "label": "3D Sauna Club, site officiel : galerie",
+      "url": "https://www.club-3d.fr/galerie/c-23.html",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s13",
+      "label": "3D Sauna Club, site officiel : mentions légales",
+      "url": "https://www.club-3d.fr/mentions",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s14",
+      "label": "3D Sauna Club, site officiel : page « Soirée LGBT+ » (hors menu)",
+      "url": "https://www.club-3d.fr/recrutement/c-24.html",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s15",
+      "label": "3D Sauna Club, site officiel : page « Roulottes » (hors menu)",
+      "url": "https://www.club-3d.fr/minibus--oscar-/c-18.html",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s16",
+      "label": "3D Sauna Club, site officiel : plan du site (pages d'actualité de 2024)",
+      "url": "https://www.club-3d.fr/sitemap.xml",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s17",
+      "label": "3D Sauna Club, site officiel, archive du 28/05/2024",
+      "url": "https://web.archive.org/web/20240528160954/http://www.club-3d.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s18",
+      "label": "Club 3D, site de l'association, archives de 2014 (accueil, horaires, règlement)",
+      "url": "https://web.archive.org/web/20140926145904/http://www.club-3d.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s19",
+      "label": "Club 3D, site de l'association, archives de 2021 et du 27/01/2023 (prestations, agenda, presse)",
+      "url": "https://web.archive.org/web/20211027100535/http://www.club-3d.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s20",
+      "label": "Annuaire des entreprises : SAS Z10 (3D Sauna Club), SIREN 979 191 434",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/979191434",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s21",
+      "label": "BODACC : annonces de la SAS Z10 (dépôts des comptes 2024, 2025, 2026)",
+      "url": "https://bodacc-datadila.opendatasoft.com/explore/dataset/annonces-commerciales/table/?q=979191434",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s22",
+      "label": "Annuaire des entreprises : association LE3D, SIREN 811 818 723",
+      "url": "https://annuaire-entreprises.data.gouv.fr/association/811818723",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s23",
+      "label": "Journal officiel des associations : déclaration de LE3D (annonce du 17/08/2013)",
+      "url": "https://www.journal-officiel.gouv.fr/pages/associations-detail/?q.id=id:201300330624",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s24",
+      "label": "Annuaire des entreprises : Le Relais Sainte Marie, SIREN 325 345 882",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/325345882",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s25",
+      "label": "AFNIC (RDAP) : domaine club-3d.fr",
+      "url": "https://rdap.nic.fr/domain/club-3d.fr",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s26",
+      "label": "sauna-club-libertin.com : fiche « Club 3D »",
+      "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_3.php?id=15395&d=02",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s27",
+      "label": "sauna-club-libertin.com : liste de l'Aisne",
+      "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_2.php?d=02",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s28",
+      "label": "minuitlibertin.com : clubs échangistes de l'Aisne (mis à jour le 04/08/2026)",
+      "url": "https://minuitlibertin.com/club-echangiste-dans-laisne-02/",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s29",
+      "label": "minuitlibertin.com : fiche du 3D Sauna Club (mise à jour le 30/09/2026)",
+      "url": "https://minuitlibertin.com/3d-sauna-club-a-la-ville-aux-bois-les-pontavert/",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s30",
+      "label": "saunaclublebali.fr : clubs libertins des Hauts-de-France (19/04/2026)",
+      "url": "https://www.saunaclublebali.fr/clubs-libertins-hauts-de-france/",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s31",
+      "label": "L'Union, « Dans l'intimité des couples libertins de la région », 03/08/2015 (archive)",
+      "url": "https://web.archive.org/web/20150917021003/http://www.lunion.com/521691/article/2015-08-02/video-dans-l-intimite-des-couples-libertins-de-la-region",
+      "type": "presse",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s32",
+      "label": "Page Facebook du club (non lisible sans connexion)",
+      "url": "https://www.facebook.com/club3dlibertin",
+      "type": "reseau_social",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s33",
+      "label": "Google Maps : fiche « 3D Sauna Club » (note non lisible)",
+      "url": "https://www.google.com/maps/place/3D+Sauna+Club/@49.4258047,3.8698525,17z",
+      "type": "carte",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s34",
+      "label": "3D Sauna Club, site officiel : affiches des soirées du 24 octobre au 28 novembre 2026 (page Soirées Samedi)",
+      "url": "https://www.club-3d.fr/soiree-samedi/c-17.html",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s35",
+      "label": "BODACC : SARL TRISTAR (L'Entre 2, Moulins), liquidation judiciaire 2013-2014",
+      "url": "https://bodacc-datadila.opendatasoft.com/explore/dataset/annonces-commerciales/table/?q=403595150",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    }
+  ]
+}

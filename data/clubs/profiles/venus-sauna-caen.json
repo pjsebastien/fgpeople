@@ -1,0 +1,896 @@
+{
+  "slug": "venus-sauna-caen",
+  "clubId": "15542",
+  "researchedAt": "2026-10-16",
+  "display": {
+    "nom": "Venus Sauna",
+    "ville": "Caen"
+  },
+  "status": {
+    "value": "ouvert",
+    "summary": "Cinq affiches de soirées datées du 17 au 31 octobre 2026, mises en ligne les 9 et 10 octobre, et une refonte du site achevée le 11 octobre : le Venus fonctionne. Il a seulement changé d'adresse. Le 1er juin 2025, le registre a fermé l'établissement de l'avenue de Tourville et ouvert celui du 214 rue Verte, à Hérouville-Saint-Clair, devenu siège de la SAS Tourville, toujours active (dernière mise à jour le 25 septembre 2026).",
+    "sources": [
+      "s4",
+      "s18",
+      "s19",
+      "s20",
+      "s27"
+    ]
+  },
+  "seo": {
+    "title": "Venus Sauna Caen : avis, tarifs, photos et nouvelle adresse",
+    "metaDescription": "Rue Verte à Hérouville depuis juin 2025 : sauna mixte 7 j/7, espace masculin l'après-midi, femme 5 €, couple 25 €. Ce que montrent vraiment ses photos.",
+    "subtitle": "Sauna libertin mixte, espace masculin et love shop à Hérouville-Saint-Clair, aux portes de Caen (14)",
+    "targetQueries": [
+      "venus sauna caen photos",
+      "photos de venus sauna caen",
+      "venus sauna caen avis",
+      "avis sur venus sauna caen",
+      "venus sauna caen tarif",
+      "club libertin caen",
+      "libertine caen",
+      "bar libertin caen",
+      "libertinage caen"
+    ]
+  },
+  "lead": "Le Venus Sauna a quitté l'avenue de Tourville : depuis juin 2025, il occupe le 214 rue Verte à Hérouville-Saint-Clair, commune limitrophe de Caen, avec un sauna libertin mixte ouvert tous les jours, un espace masculin l'après-midi et un love shop. Une femme y entre pour 5 €, un couple pour 25 €, un homme pour 40 € (50 € le samedi soir), des prix inchangés depuis au moins 2023. Sept soirées à thème sont affichées pour octobre 2026.",
+  "glance": [
+    {
+      "icon": "map",
+      "label": "Adresse depuis juin 2025",
+      "value": "214 rue Verte, Hérouville-Saint-Clair"
+    },
+    {
+      "icon": "calendar",
+      "label": "Espace mixte",
+      "value": "Tous les jours dès 13 h (14 h le week-end)"
+    },
+    {
+      "icon": "euro",
+      "label": "Entrée mixte",
+      "value": "Femme 5 € · couple 25 € · homme 40 €"
+    },
+    {
+      "icon": "users",
+      "label": "Espace masculin",
+      "value": "13 h-19 h, 18 € (étudiant 10 €)"
+    },
+    {
+      "icon": "sparkles",
+      "label": "Soirées octobre 2026",
+      "value": "7 dates, dont Halloween les 30 et 31"
+    },
+    {
+      "icon": "car",
+      "label": "Stationnement",
+      "value": "Parking privé, camping-cars acceptés"
+    }
+  ],
+  "audience": [
+    {
+      "who": "couples",
+      "status": "oui",
+      "detail": "Espace mixte tous les jours ; 30 € à certaines soirées à thème (mardi, Halloween)",
+      "price": "25 €"
+    },
+    {
+      "who": "femmes",
+      "status": "oui",
+      "detail": "Espace mixte tous les jours ; 8 € aux deux soirées Halloween d'octobre 2026",
+      "price": "5 €"
+    },
+    {
+      "who": "hommes",
+      "status": "oui",
+      "detail": "Mixte 40 €, 50 € le samedi soir et aux soirées ; espace masculin 18 € (13 h-19 h)",
+      "price": "18 à 50 €"
+    }
+  ],
+  "highlights": [
+    "Le Venus n'est plus avenue de Tourville : depuis juin 2025, il est au 214 rue Verte à Hérouville-Saint-Clair. Le bon numéro est le 02 31 72 69 69.",
+    "Homme seul côté mixte : 40 €, mais 50 € le samedi soir et les soirs de soirée à thème. L'espace masculin, à 18 €, ferme à 19 h.",
+    "Aux apéros et buffets offerts des soirées à thème, les boissons restent payantes, précise le club.",
+    "Une bonne partie de la galerie officielle est faite d'illustrations : seules quelques photos de 2025 montrent le vrai lieu.",
+    "Réservé aux 18 ans et plus ; le club prévient que l'entrée peut être refusée « sans aucune explication »."
+  ],
+  "keyFacts": [
+    {
+      "label": "Adresse",
+      "value": "214 rue Verte, 14200 Hérouville-Saint-Clair, depuis juin 2025",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s10",
+        "s19",
+        "s20"
+      ]
+    },
+    {
+      "label": "Ancienne adresse",
+      "value": "57 avenue de Tourville, Caen (janvier 2017 à mai 2025)",
+      "confidence": "confirme",
+      "sources": [
+        "s15",
+        "s17",
+        "s19"
+      ]
+    },
+    {
+      "label": "Téléphone",
+      "value": "02 31 72 69 69, aussi sur WhatsApp",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s5",
+        "s17"
+      ]
+    },
+    {
+      "label": "Société",
+      "value": "SAS Tourville (nom commercial Venus Sauna), créée le 8 janvier 2017, 3 à 5 salariés",
+      "confidence": "confirme",
+      "sources": [
+        "s19",
+        "s20"
+      ]
+    },
+    {
+      "label": "Espaces",
+      "value": "Un espace mixte (couples, femmes, hommes) et un espace masculin, à la même adresse",
+      "confidence": "confirme",
+      "sources": [
+        "s2",
+        "s3",
+        "s5"
+      ]
+    },
+    {
+      "label": "Jours d'ouverture",
+      "value": "Mixte 7 jours sur 7 ; masculin du lundi au samedi, plus les 1er et 3e dimanches",
+      "confidence": "confirme",
+      "sources": [
+        "s2",
+        "s3",
+        "s5"
+      ]
+    },
+    {
+      "label": "Entrée femme / couple",
+      "value": "5 € / 25 € (espace mixte)",
+      "confidence": "confirme",
+      "sources": [
+        "s2",
+        "s5",
+        "s6"
+      ]
+    },
+    {
+      "label": "Entrée homme",
+      "value": "40 € côté mixte, 50 € le samedi soir ; 18 € côté masculin",
+      "confidence": "confirme",
+      "sources": [
+        "s2",
+        "s3",
+        "s6"
+      ]
+    },
+    {
+      "label": "Stationnement",
+      "value": "Parking privé, camping-cars acceptés selon le club",
+      "confidence": "confirme",
+      "sources": [
+        "s5",
+        "s8"
+      ]
+    },
+    {
+      "label": "Âge minimum",
+      "value": "18 ans",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s6"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "photos-galerie-officielle",
+      "title": "Enseigne rose, jacuzzi violet, sauna en lambris : les vraies photos au milieu des illustrations",
+      "icon": "camera",
+      "summary": "La galerie officielle mêle illustrations et quelques vraies photos de 2025 : entrée à l'enseigne rose, jacuzzi violet, sauna en bois, terrasse, spa de la zone masculine.",
+      "confidence": "confirme",
+      "sources": [
+        "s8",
+        "s7",
+        "s4",
+        "s5"
+      ],
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "La [galerie du site officiel](https://venus-sauna.fr/venus-galeries/) compte quatre albums, deux pour Caen et deux pour Évreux. Celui de l'espace mixte de Caen aligne 13 vignettes rangées par pièce, de l'accueil au salon télé, avec un « spa extérieur », un espace « Bdsm » et un massage. Celui de l'espace masculin en compte autant, dont une douche et une « cage ».\n\nUne bonne partie de ces images ne montre pas le lieu. Sur la douzaine que nous avons ouvertes en octobre 2026, plusieurs sont des visuels d'illustration : foule de discothèque, jacuzzi rempli de clients souriants, terrasse frappée du logo « HH » d'un autre établissement, comptoir d'accueil où pend déjà l'affiche d'Halloween.\n\nLes mêmes visuels servent pour Évreux, et la vignette « Piste de danse » reprend celle du vestiaire. La bannière de l'espace masculin, publiée en mai 2026, porte elle-même la mention « AI-generated content »."
+        },
+        {
+          "kind": "list",
+          "title": "Les clichés qui montrent réellement le 214 rue Verte (2025)",
+          "items": [
+            "L'entrée : un bloc sombre surmonté d'une enseigne ronde rose « VENUS », entre des palmiers et de longs murs clairs, devant une vaste cour de stationnement (photo mise en ligne le 31 mai 2025).",
+            "Le jacuzzi intérieur de la zone mixte, éclairé en violet (mai 2025).",
+            "Le sauna habillé de lambris, avec son poêle (mai 2025).",
+            "La terrasse en bois : bains de soleil à coussins sous une pergola, derrière une palissade (août 2025).",
+            "Le spa de la « zone masculin et privée », sous un éclairage rose (août 2025)."
+          ]
+        },
+        {
+          "kind": "callout",
+          "tone": "info",
+          "title": "Annoncé, pas vu",
+          "body": "Le « spa extérieur », l'espace « Bdsm » et le massage n'apparaissent que dans des intitulés ou sur des illustrations ; la terrasse réelle montre des bains de soleil, pas de bassin."
+        }
+      ]
+    },
+    {
+      "id": "avis-livre-d-or",
+      "title": "168 messages au livre d'or, aucune note Google relevée : où en sont les avis",
+      "icon": "star",
+      "summary": "Pas de note Google relevée. Le livre d'or du club, modéré, loue la propreté et l'accueil des débutants, et regrette une fermeture à 1 h et quelques clients « lourdingues ».",
+      "confidence": "source_unique",
+      "sources": [
+        "s14",
+        "s5"
+      ],
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Aucune note Google ni aucun avis publié sur une plateforme indépendante n'a pu être relevé lors de notre recherche d'octobre 2026. Reste le livre d'or du site officiel : 168 messages entre 2017 et le 7 mai 2026, dont 18 en 2025 et 8 en 2026. Il est **modéré par le club** et mêle Caen et Évreux. Avec cette réserve, voici ce qui revient pour Caen."
+        },
+        {
+          "kind": "list",
+          "title": "Les thèmes récurrents",
+          "items": [
+            "**La propreté et l'hygiène** des espaces.",
+            "**L'accueil du patron et de l'équipe**, qui explique le fonctionnement aux débutants (juillet 2024, mars 2026).",
+            "**Le contrôle à l'entrée** : un personnel « vigilant à qui rentre », note un couple de Bayeux en mars 2026.",
+            "**La taille des installations** du nouveau local : « grand jacuzzi » et coins câlins « immense » en juin 2025, « grand sauna sec et grand hammam » côté masculin en juillet 2025."
+          ]
+        },
+        {
+          "kind": "list",
+          "title": "Les réserves exprimées",
+          "items": [
+            "La fermeture à 1 h du matin, jugée dommage par un visiteur caennais (janvier 2025).",
+            "Des couloirs « un peu frais » (janvier 2026).",
+            "Quelques clients « lourdingues », selon un visiteur venu en août 2024."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Les signatures caennaises viennent de tout le Calvados (Caen, Bayeux, Lisieux, Ifs), mais le livre d'or mêle aussi des messages sur Évreux. Pour juger par vous-même, lisez la fiche Google en vérifiant qu'elle porte l'adresse de la rue Verte."
+        },
+        {
+          "kind": "text",
+          "body": "Si la crainte de tomber sur des hommes seuls trop pressants vous retient, venir avec un troisième déjà rencontré règle la question. Sur Carré Libertin, ouvert en 2007, les couples peuvent [repérer en amont un complice dans le Calvados](aff:carre-libertin) sans payer : femmes et couples y ont un accès complet, contre au moins trois photos de profil."
+        }
+      ]
+    },
+    {
+      "id": "espace-mixte-espace-masculin",
+      "title": "Mixte 7 jours sur 7, masculin de 13 h à 19 h : deux espaces et deux grilles au 214 rue Verte",
+      "icon": "users",
+      "summary": "Mixte tous les jours dès 13 h (femme 5 €, couple 25 €, homme 40 €, 50 € le samedi soir) ; masculin de 13 h à 19 h à 18 €, à la même adresse.",
+      "sources": [
+        "s1",
+        "s2",
+        "s3",
+        "s5",
+        "s6",
+        "s7",
+        "s14",
+        "s15",
+        "s16"
+      ],
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le Venus fonctionne comme deux saunas sous un même toit. L'**espace mixte** reçoit « couples, femmes et hommes » chaque jour dès 13 h (14 h le week-end). Il ferme à 1 h le mardi, le jeudi et le vendredi, à 2 h le samedi, mais dès 19 h le lundi et 20 h le mercredi et le dimanche ; en 2023, le mercredi allait encore jusqu'à 23 h.\n\nL'**espace masculin**, présenté comme « Venus Sauna Gay » sur une bannière de mai 2026, dispose de son propre espace à la même adresse. Il n'ouvre que l'après-midi, jusqu'à 19 h, et le dimanche seulement les 1er et 3e du mois : l'affiche d'août 2025 le donnait encore fermé ce jour-là."
+        },
+        {
+          "kind": "text",
+          "body": "Les prix disent à qui s'adresse chaque espace. Côté mixte, l'entrée d'une femme coûte huit fois moins que celle d'un homme, et le samedi soir pénalise encore l'homme seul (50 €).\n\nCôté masculin, l'entrée à 18 € tombe à 10 € pour un étudiant de moins de 26 ans, et à 15 € les dimanches d'ouverture jusqu'au 20 décembre 2026 : un homme y paie moins de la moitié du prix du mixte.\n\nCette grille n'a pas bougé depuis au moins juin 2023 ; en novembre 2017, le couple entrait pour 20 € et l'homme seul pour 30 €. L'entrée reste interdite aux mineurs, et l'affiche du club prévient que chacun peut être refusé sans explication."
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Passe-t-on d'un espace à l'autre ?",
+          "body": "La page d'accueil présente l'espace masculin comme « indépendant de l'espace mixte ». Deux messages du livre d'or disent pourtant le contraire : en juillet 2025, les « bis ou hétéros » vont et viennent dans le côté masculin ; en janvier 2026, on passe librement « du côté mixte à gay ». Posez la question à l'accueil ou par WhatsApp au 02 31 72 69 69."
+        }
+      ]
+    },
+    {
+      "id": "soirees-octobre-2026",
+      "title": "Blackout, Sucrée, Transparente, Halloween : sept soirées dans l'espace mixte en octobre 2026",
+      "icon": "calendar",
+      "summary": "Sept soirées à thème en octobre 2026 côté mixte, le mardi, le vendredi ou le samedi : homme 50 €, couple 25 ou 30 €, femme 5 ou 8 €, boissons non comprises.",
+      "confidence": "confirme",
+      "sources": [
+        "s4",
+        "s5",
+        "s11",
+        "s15",
+        "s16",
+        "s31"
+      ],
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le mixte bascule en soirée à 19 h, surtout le mardi et le samedi, parfois le vendredi. La page Soirées classe les affiches par espace : pour octobre 2026, cinq pour Caen Mixte, et « Aucun flyer affiché pour le moment » pour Caen Masculin."
+        },
+        {
+          "kind": "table",
+          "caption": "Agenda de l'espace mixte, octobre 2026, d'après les affiches du site officiel",
+          "headers": [
+            "Date",
+            "Thème",
+            "Offert",
+            "Horaires du jour"
+          ],
+          "rows": [
+            [
+              "Samedi 10 (passée)",
+              "Trio",
+              "Une coupe aux 10 premiers couples arrivés dès 19 h, un petit goûter",
+              "14 h - 2 h, soirée dès 19 h"
+            ],
+            [
+              "Mardi 13 (passée)",
+              "Spin Me Round : jeu de roue et de cartes",
+              "Un verre par participant",
+              "13 h - 1 h, soirée de 19 h à 1 h"
+            ],
+            [
+              "Samedi 17 (passée)",
+              "Blackout Totale : bandeau sur les yeux",
+              "Une sucette à l'accueil, petit apéro de 19 h 30 à 21 h",
+              "14 h - 2 h"
+            ],
+            [
+              "Mardi 20",
+              "Soirée Sucrée",
+              "Buffet sucré de 19 h à 21 h",
+              "13 h - 1 h"
+            ],
+            [
+              "Samedi 24",
+              "100 % Transparente : voile, dentelle, mesh ou tulle",
+              "Une boisson pour qui vient en tenue transparente",
+              "14 h - 2 h"
+            ],
+            [
+              "Vendredi 30",
+              "Halloween, partie 1 : tenue noire, rouge ou d'Halloween",
+              "Apéro dînatoire de 19 h à 21 h, cadeau aux 10 premiers couples",
+              "14 h - 1 h"
+            ],
+            [
+              "Samedi 31",
+              "Halloween, partie 2 : même dress code, DJ annoncé",
+              "Apéro dînatoire de 19 h 30 à 21 h",
+              "14 h - 2 h"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Ces soirs-là, l'homme paie 50 € quel que soit le jour, le couple 25 € le samedi mais 30 € le mardi et pour Halloween, la femme 5 € (8 € pour Halloween). Apéros et buffets offerts s'entendent **boissons non comprises**."
+        },
+        {
+          "kind": "text",
+          "body": "Le Venus entretient un lien ancien avec Wyylde : son site citait la plateforme parmi ses partenaires en 2017 comme en 2023. Son pied de page pointe aujourd'hui vers une page Wyylde intitulée « venus-sauna-caen », que nous n'avons pas pu lire sans connexion.\n\nPour la consulter, il faut d'abord [ouvrir un compte chez l'ex-Netéchangisme](aff:wyylde) : la formule gratuite affiche l'agenda des soirées, mais il faut s'abonner pour répondre à un message."
+        }
+      ]
+    },
+    {
+      "id": "jacuzzi-bar-love-shop",
+      "title": "Cocktails de 20 cl, love shop au rez-de-chaussée, parking pour camping-cars : le reste de l'adresse",
+      "icon": "drink",
+      "summary": "Spa, hammam, sauna, coins câlins et terrasse, plus un bar, un love shop au rez-de-chaussée et un grand parking privé ; la surface du local n'est pas publiée.",
+      "sources": [
+        "s6",
+        "s7",
+        "s8",
+        "s9",
+        "s11",
+        "s12",
+        "s13",
+        "s14",
+        "s25",
+        "s5"
+      ],
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Pour le nouveau local, l'affiche d'août 2025 énumère spa, hammam, sauna, coins câlins et terrasse ; la bannière de l'espace masculin y ajoute balançoire, piste de danse, bar et fumoir. Ni la surface ni le nombre de niveaux ne sont publiés, alors que le Venus d'Évreux annonce 400 m²."
+        },
+        {
+          "kind": "list",
+          "items": [
+            "**Le bar.** Un couple venu en juin 2025 le décrit comme « très agréable ». Depuis février 2026, le site commun aux deux Venus montre une carte de cocktails d'environ 20 cl (Piña Colada, Mai Tai, Sex on the Beach…) et des assiettes de charcuterie et de fromage, sans prix ni adresse précisée.",
+            "**Le love shop**, au rez-de-chaussée, vend sextoys, huiles de massage, lubrifiants et lingerie. Dominique, que le club présente comme le repreneur de 2017, y reçoit la clientèle.",
+            "**L'arrivée.** La page « Première fois », écrite pour l'ancien local, décrit serviette et bracelet de vestiaire, casiers, préservatifs et lubrifiants à disposition ; rien ne confirme que ce soit identique rue Verte.",
+            "**Le stationnement.** Le club annonce un « immense parking privé » ouvert aux camping-cars ; la photo de l'entrée montre une vaste cour.",
+            "**Les privatisations.** Le formulaire de devis du site propose Caen Mixte et Caen Masculin, pour un anniversaire ou une soirée privée ; à Caen, les créneaux commencent à 19 h et une demande ne vaut pas confirmation."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "histoire-tourville-rue-verte",
+      "title": "Avenue de Tourville en 2017, rue Verte en juin 2025 : neuf ans de Venus",
+      "icon": "history",
+      "summary": "Lancé en janvier 2017 au 57 avenue de Tourville par la SAS Tourville, le Venus a ouvert un second sauna près d'Évreux en 2022, puis déménagé rue Verte en juin 2025.",
+      "sources": [
+        "s8",
+        "s19",
+        "s20",
+        "s21",
+        "s22",
+        "s23",
+        "s14",
+        "s15",
+        "s16",
+        "s17",
+        "s18",
+        "s25",
+        "s1"
+      ],
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le Venus raconte qu'en 2017 Dominique a repris « un ancien sauna » pour en faire un sauna libertin. Le registre et le BODACC confirment la date et l'adresse, et permettent de suivre le déménagement presque jour par jour."
+        },
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "Mars 2015 - juillet 2016",
+              "text": "Au 57-59 avenue de Tourville, la société Spa Mandala exploite un spa avant sa liquidation judiciaire, prononcée le 27 juillet 2016."
+            },
+            {
+              "date": "Novembre 2016",
+              "text": "Le fonds de Spa Mandala, à cette adresse, est vendu 15 000 € à un particulier (BODACC du 7 décembre 2016). Que le Venus lui ait succédé reste une déduction tirée des dates et de l'adresse."
+            },
+            {
+              "date": "8 janvier 2017",
+              "text": "La SAS Tourville démarre à cette adresse après l'achat d'un fonds : hammam, sauna, jacuzzi, club libertin et vente d'articles érotiques."
+            },
+            {
+              "date": "Novembre 2017",
+              "text": "Le site décrit un sauna libertin ouvert à toutes les tendances, fermé le mercredi, avec bain à bulles, salons câlins et espace fumeurs."
+            },
+            {
+              "date": "Vers 2018",
+              "text": "Le love shop Venus s'installe au rez-de-chaussée, après trente ans « à la gare de Caen » selon la page boutique de 2020."
+            },
+            {
+              "date": "Juin 2021",
+              "text": "Un message du livre d'or salue un nouveau jacuzzi."
+            },
+            {
+              "date": "Octobre 2022",
+              "text": "La même société ouvre un second Venus à Guichainville, près d'Évreux, dont elle a acheté le fonds 30 000 €."
+            },
+            {
+              "date": "Juin 2023",
+              "text": "Le site affiche une ouverture 7 jours sur 7, un bar à l'étage, un local « près du port » et la grille de prix actuelle."
+            },
+            {
+              "date": "Mars à mai 2025",
+              "text": "Un message de mars évoque déjà « le nouveau établissement » ; le 22 avril, la page contact donne encore l'avenue de Tourville ; la nouvelle façade apparaît en ligne le 31 mai."
+            },
+            {
+              "date": "Juin 2025",
+              "text": "Le 1er, le registre ferme l'établissement de Caen et ouvre celui du 214 rue Verte, nouveau siège. Le 10, un couple y passe sa « première visite au Venus de Herouville », racontée le lendemain au livre d'or. Le 24, le BODACC publie le transfert."
+            },
+            {
+              "date": "9-11 octobre 2026",
+              "text": "Refonte du site en quatre espaces, deux à Caen et deux à Évreux, avec un « Agent IA » pour les questions."
+            }
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Deux points restent ouverts. Le nom Venus circule dans le commerce érotique caennais bien avant 2017 : rue d'Auge et rue Saint-Martin, le registre recense des sociétés de ce nom de 1996 à 2018, dont l'une déclarait déjà « sauna, jacuzzi, club libertin ». Aucun lien juridique avec la SAS Tourville n'est établi.\n\nQuant au 214 rue Verte, il abrite des établissements de nuit depuis 1987 (Canal Danse-Studio, Le Palais de 2010 à 2017, puis la discothèque 9ine Klub, toujours active au registre) ; nous ignorons si le Venus occupe l'ancienne salle ou un autre bâtiment."
+        }
+      ]
+    },
+    {
+      "id": "club-libertin-caen-alentours",
+      "title": "Club libertin à Caen : le Venus, l'Arc en Ciel, l'Orphéa à Chicheboville et L'Open, fermé en 2017",
+      "icon": "map",
+      "summary": "Désormais à Hérouville-Saint-Clair, à 3 km de son ancien local, le Venus est le seul lieu trouvé dans l'agglomération à réunir sauna mixte, sauna masculin et boutique.",
+      "sources": [
+        "s26",
+        "s24",
+        "s28",
+        "s29",
+        "s30",
+        "s32",
+        "s25",
+        "s2",
+        "s3",
+        "s11"
+      ],
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Si vous cherchez un club libertin à Caen, sachez d'abord que le Venus n'est plus dans la commune : le 214 rue Verte se trouve à Hérouville-Saint-Clair, à environ 3 km au nord-est de l'ancien local, et l'ancien 02 31 26 20 94, encore repris par des annuaires, n'est plus le bon.\n\nC'est le seul lieu de l'agglomération que nous ayons trouvé à réunir sauna libertin mixte quotidien, sauna masculin et boutique. Les autres adresses de [notre sélection caennaise](/ville/caen) jouent une autre partition :\n\n- [L'Arc en Ciel](/arc-en-ciel-caen) se dit « 100 % mecs » sur son site tout en organisant des soirées mixtes ;\n- [l'Orphéa Club, à Chicheboville](/orphea-club-chicheboville-billy), club de nuit du vendredi et du samedi, est bien ouvert : le 19 octobre 2026, son site affichait des soirées datées jusqu'à l'« Acte II » d'Halloween, le samedi 31 octobre ;\n- L'Open, ancien sauna de la rue de Courtonne, a fermé au registre le 1er juin 2017.\n\nLe reste du département figure sur [la page Calvados](/departement/calvados).\n\nLe Venus a un frère dans l'Eure : le [Venus d'Évreux](https://venus-sauna.fr/club-libertin-evreux), à Guichainville, ouvert en octobre 2022 sur 400 m², masculin en semaine et mixte le mardi soir, le vendredi et le week-end.\n\nHors de ces quelques lieux, les rencontres normandes se préparent aussi en ligne. Gleese, site français lancé fin 2024, fait modérer les photos à la main ; [un profil normand vérifié par téléphone](aff:gleese) s'y crée sans carte bancaire, ce qui laisse le temps de juger si la plateforme, encore jeune, compte assez d'inscrits autour de Caen."
+        }
+      ]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Mixte, lundi": "13 h - 19 h",
+      "Mixte, mardi": "13 h - 1 h",
+      "Mixte, mercredi": "13 h - 20 h",
+      "Mixte, jeudi": "13 h - 1 h",
+      "Mixte, vendredi": "13 h - 1 h",
+      "Mixte, samedi": "14 h - 2 h",
+      "Mixte, dimanche": "14 h - 20 h",
+      "Masculin, lundi au vendredi": "13 h - 19 h",
+      "Masculin, samedi": "14 h - 19 h",
+      "Masculin, dimanche": "1er et 3e du mois, 14 h - 19 h"
+    },
+    "note": "Grilles du site officiel au 16 octobre 2026, identiques à l'affiche d'août 2025 sauf pour le dimanche de l'espace masculin. Les soirs de soirée à thème, la partie soirée commence à 19 h.",
+    "confidence": "confirme",
+    "sources": [
+      "s2",
+      "s3",
+      "s5",
+      "s6"
+    ]
+  },
+  "tarifs": {
+    "rows": {
+      "Mixte, femme": "5 €",
+      "Mixte, couple": "25 €",
+      "Mixte, homme": "40 €",
+      "Mixte, homme le samedi soir": "50 €",
+      "Masculin, homme": "18 €",
+      "Masculin, étudiant de moins de 26 ans": "10 €",
+      "Masculin, 1er et 3e dimanches (jusqu'au 20 décembre 2026)": "15 €"
+    },
+    "note": "Prix variables les soirs de soirée à thème : en octobre 2026, homme 50 €, couple 25 € le samedi et 30 € le mardi et pour Halloween, femme 5 € (8 € pour Halloween). Boissons non comprises dans les apéros et buffets offerts.",
+    "confidence": "confirme",
+    "sources": [
+      "s2",
+      "s3",
+      "s4",
+      "s5"
+    ]
+  },
+  "equipements": [
+    "Sauna",
+    "Hammam",
+    "Spa et jacuzzi intérieur",
+    "Coins câlins",
+    "Terrasse",
+    "Bar (cocktails, assiettes)",
+    "Espace fumeur",
+    "Balançoire et piste de danse (espace masculin, selon le club)",
+    "Love shop",
+    "Parking privé, camping-cars acceptés"
+  ],
+  "officialLinks": [
+    {
+      "label": "Site officiel",
+      "url": "https://venus-sauna.fr/",
+      "kind": "site"
+    },
+    {
+      "label": "Galerie officielle (beaucoup d'illustrations, quelques photos réelles de 2025)",
+      "url": "https://venus-sauna.fr/venus-galeries/",
+      "kind": "galerie"
+    },
+    {
+      "label": "Affiches des soirées du mois",
+      "url": "https://venus-sauna.fr/venus-soirees",
+      "kind": "agenda"
+    },
+    {
+      "label": "Horaires et tarifs de l'espace mixte",
+      "url": "https://venus-sauna.fr/venus-caen-mixte/",
+      "kind": "autre"
+    },
+    {
+      "label": "Horaires et tarifs de l'espace masculin",
+      "url": "https://venus-sauna.fr/venus-caen-masculin/",
+      "kind": "autre"
+    }
+  ],
+  "corrections": {
+    "adresse": "214 rue Verte, Hérouville-Saint-Clair",
+    "code_postal": "14200",
+    "telephone": "02 31 72 69 69",
+    "site_web": "https://venus-sauna.fr/",
+    "sources": [
+      "s1",
+      "s10",
+      "s19",
+      "s20"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Le Venus Sauna est-il toujours avenue de Tourville à Caen ?",
+      "answer": "Non. Depuis juin 2025, il est au 214 rue Verte, 14200 Hérouville-Saint-Clair : le registre a fermé l'ancien établissement le 1er juin 2025 et le BODACC a publié le transfert du siège le 24 juin. Le numéro est le 02 31 72 69 69, aussi sur WhatsApp."
+    },
+    {
+      "question": "Quel est le tarif d'entrée au Venus Sauna de Caen ?",
+      "answer": "Côté mixte : femme 5 €, couple 25 €, homme 40 €, homme le samedi soir 50 €. Côté masculin : 18 €, 10 € pour un étudiant de moins de 26 ans, 15 € les 1er et 3e dimanches jusqu'en décembre 2026. Les soirs de soirée à thème, le couple peut payer 30 €."
+    },
+    {
+      "question": "Où voir des photos du Venus Sauna de Caen ?",
+      "answer": "Sur la galerie du site officiel, 13 vignettes par espace. Beaucoup sont des illustrations ; les clichés réels de 2025 montrent la façade à l'enseigne ronde rose, le jacuzzi, le sauna en lambris, la terrasse en bois et le spa de la zone masculine."
+    },
+    {
+      "question": "Que disent les avis sur le Venus Sauna Caen ?",
+      "answer": "Aucune note indépendante n'a été relevée. Le livre d'or, modéré par le club (168 messages de 2017 à mai 2026), loue la propreté, l'accueil des débutants et la taille du jacuzzi, et regrette une fermeture à 1 h, des couloirs frais et quelques clients « lourdingues »."
+    },
+    {
+      "question": "Un homme seul peut-il entrer au Venus ?",
+      "answer": "Oui : 40 € côté mixte, 50 € le samedi soir et les soirs de soirée à thème, ou 18 € côté masculin, ouvert jusqu'à 19 h."
+    },
+    {
+      "question": "Quelles soirées à thème le Venus annonce-t-il pour la fin d'octobre 2026 ?",
+      "answer": "Après Trio (10 octobre), Spin Me Round (13) et Blackout Totale (17), restent la Soirée Sucrée le mardi 20, 100 % Transparente le samedi 24, puis Halloween le vendredi 30 et le samedi 31, toutes dans l'espace mixte. Rien n'est affiché pour l'espace masculin."
+    },
+    {
+      "question": "Peut-on venir en camping-car ?",
+      "answer": "Oui selon le club, qui annonce un « immense parking privé » ouvert aux camping-cars."
+    },
+    {
+      "question": "Peut-on privatiser le Venus pour un anniversaire ?",
+      "answer": "Le site propose un formulaire de devis pour une privatisation, un anniversaire ou une soirée privée, côté mixte comme côté masculin. À Caen, les créneaux commencent à 19 h et s'arrêtent avant la fermeture habituelle ; la demande ne garantit pas la disponibilité."
+    }
+  ],
+  "unverified": [
+    "La note Google de l'établissement de la rue Verte et son nombre d'avis.",
+    "La circulation entre l'espace mixte et l'espace masculin : libre selon un message de janvier 2026, espace « indépendant » selon le site.",
+    "La surface du local de Hérouville-Saint-Clair, son nombre de niveaux et la capacité du jacuzzi.",
+    "L'existence d'un spa extérieur, d'un espace BDSM et d'une prestation de massage, vus seulement dans des intitulés ou sur des illustrations.",
+    "La remise d'une serviette et d'un bracelet de vestiaire dans le nouveau local (page rédigée pour l'avenue de Tourville).",
+    "Les prix du bar, absents de la carte publiée.",
+    "La présence de douches dans le nouveau local, citées seulement comme intitulé de galerie (illustration).",
+    "L'adresse e-mail venus.caen@gmail.com, reprise par les annuaires mais absente du site actuel.",
+    "Le lien entre le love shop actuel et les sociétés Venus de la rue d'Auge (1996-2018).",
+    "Le contenu de la page Wyylde liée par le club, accessible seulement après connexion."
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Venus Sauna, site officiel : page d'accueil (refonte d'octobre 2026)",
+      "url": "https://venus-sauna.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s2",
+      "label": "Venus Sauna, page « Venus Caen Mixte » (horaires, tarifs, affiches du mois)",
+      "url": "https://venus-sauna.fr/venus-caen-mixte/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s3",
+      "label": "Venus Sauna, page « Venus Caen Masculin »",
+      "url": "https://venus-sauna.fr/venus-caen-masculin/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s4",
+      "label": "Venus Sauna, page Soirées et affiches d'octobre 2026",
+      "url": "https://venus-sauna.fr/venus-soirees",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s5",
+      "label": "Venus Sauna, page « Venus Sauna CAEN » (zones, parking, promotions, affiches Trio et Spin Me Round)",
+      "url": "https://venus-sauna.fr/a-propos-club_libertin_caen",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s6",
+      "label": "Venus Sauna, affiche horaires et tarifs « le V Venus Caen » (août 2025)",
+      "url": "https://venus-sauna.fr/wp-content/uploads/2025/08/PREVIEW-This-is-how-it-will-look-like-1.png",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s7",
+      "label": "Venus Sauna, bannière « Venus Sauna Gay » de l'espace masculin (mai 2026)",
+      "url": "https://venus-sauna.fr/wp-content/uploads/2026/05/1000081239.png",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s8",
+      "label": "Venus Sauna, galeries photos officielles",
+      "url": "https://venus-sauna.fr/venus-galeries/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s9",
+      "label": "Venus Sauna, page « Première fois » (rédigée pour l'ancien local)",
+      "url": "https://venus-sauna.fr/debutants-libertin",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s10",
+      "label": "Venus Sauna, page Contact",
+      "url": "https://venus-sauna.fr/contact-venus-sauna-caen",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s11",
+      "label": "Venus Sauna, page « La Boutique »",
+      "url": "https://venus-sauna.fr/la-boutique",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s12",
+      "label": "Venus Sauna, carte des cocktails et des assiettes (février 2026)",
+      "url": "https://venus-sauna.fr/carte",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s13",
+      "label": "Venus Sauna, formulaire « Réservations & devis »",
+      "url": "https://venus-sauna.fr/venus-reservation/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s14",
+      "label": "Venus Sauna, livre d'or (168 messages de 2017 à mai 2026, modérés par le club)",
+      "url": "https://venus-sauna.fr/livre-dor",
+      "type": "avis",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s15",
+      "label": "Site officiel, archive du 21/11/2017 (Wayback Machine)",
+      "url": "https://web.archive.org/web/20171121131318/http://venus-sauna.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s16",
+      "label": "Site officiel, archives de l'accueil de 2023 et 2025 (Wayback Machine)",
+      "url": "https://web.archive.org/web/20230605190240/https://venus-sauna.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s17",
+      "label": "Site officiel, archives des pages Contact (2021-2025) et Boutique (2020)",
+      "url": "https://web.archive.org/web/20200810180225/https://venus-sauna.fr/la-boutique",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s18",
+      "label": "Site officiel, dates de publication et de modification des pages (API WordPress)",
+      "url": "https://venus-sauna.fr/wp-json/wp/v2/pages",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s19",
+      "label": "Annuaire des entreprises : SAS Tourville (Venus Sauna), SIREN 824 775 308",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/824775308",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s20",
+      "label": "BODACC : annonces de la SAS Tourville (2017-2025)",
+      "url": "https://bodacc-datadila.opendatasoft.com/explore/dataset/annonces-commerciales/table/?q=824775308",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s21",
+      "label": "Annuaire des entreprises et BODACC : Spa Mandala, SIREN 809 795 719",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/809795719",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s22",
+      "label": "Annuaire des entreprises : SAS Auge (nom commercial Venus) et Venus 2, sociétés de la rue d'Auge",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/808770432",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s23",
+      "label": "Registre des entreprises : établissements déclarés au 214 rue Verte, Hérouville-Saint-Clair",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=214%20rue%20verte&code_postal=14200",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s24",
+      "label": "sauna-club-libertin.com, fiche Venus sauna (périmée : ancienne adresse et ancien téléphone)",
+      "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_3.php?id=15542&d=14",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s25",
+      "label": "Venus Sauna, page du Venus d'Évreux",
+      "url": "https://venus-sauna.fr/club-libertin-evreux",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s26",
+      "label": "Base Adresse Nationale : 214 rue Verte, Hérouville-Saint-Clair",
+      "url": "https://api-adresse.data.gouv.fr/search/?q=214+rue+verte+herouville-saint-clair",
+      "type": "carte",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s27",
+      "label": "Wayback Machine : historique des captures de venus-sauna.fr (2017-2026)",
+      "url": "https://web.archive.org/cdx/search/cdx?url=venus-sauna.fr",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s28",
+      "label": "Annuaire des entreprises : Caen-Sauna (enseigne L'Open), SIREN 481 872 646",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/481872646",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s29",
+      "label": "Arc en Ciel, site officiel",
+      "url": "https://www.club-arc-en-ciel.com/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s30",
+      "label": "Annuaire des entreprises : L'Orphéa, SIREN 495 401 986",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/495401986",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s31",
+      "label": "Page Wyylde « venus-sauna-caen », liée depuis le pied de page du site officiel (non consultée : connexion requise)",
+      "url": "https://app.wyylde.com/fr-fr/page/47a1cb20-b2fc-11e6-ac23-8b708fc5bd28/venus-sauna-caen/wall",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s32",
+      "label": "L'Orphéa Club, site officiel : page d'accueil (soirées des 23, 24, 30 et 31 octobre 2026) et page Horaires et tarifs",
+      "url": "https://www.orpheaclub.com/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    }
+  ]
+}

@@ -336,12 +336,12 @@
   "query": "81 avenue du 8 mai 1945 13240 SEPTéMES LES VALLONS"
  },
  "venus-sauna-caen": {
-  "lat": 49.184601,
-  "lon": -0.34861,
+  "lat": 49.204924,
+  "lon": -0.317555,
   "precision": "housenumber",
-  "label": "57 Avenue de Tourville 14000 Caen",
-  "score": 0.97,
-  "query": "57 avenue de Tourville 14000 CAEN"
+  "label": "214 Rue Verte 14200 Hérouville-Saint-Clair",
+  "score": 0.78,
+  "query": "214 rue Verte, Hérouville-Saint-Clair 14200 CAEN"
  },
  "sauna-prado-la-couronne": {
   "lat": 45.608228,
@@ -352,12 +352,12 @@
   "query": "16 Avenue de l'Etang des Moines 16400 LA COURONNE"
  },
  "orphea-club-chicheboville-billy": {
-  "lat": 49.098744,
-  "lon": -0.192397,
-  "precision": "street",
-  "label": "Rue de Navarre 14370 Moult-Chicheboville",
-  "score": 0.62,
-  "query": "hameau de navarre 14370 CHICHEBOVILLE / BILLY"
+  "lat": 49.099228,
+  "lon": -0.193796,
+  "precision": "housenumber",
+  "label": "15 Rue de Navarre 14370 Moult-Chicheboville",
+  "score": 0.74,
+  "query": "15, rue de Navarre 14370 CHICHEBOVILLE / BILLY"
  },
  "l-antre2-saint-jean-d-angely": {
   "lat": 45.942749,
@@ -1100,8 +1100,8 @@
   "lon": -2.207248,
   "precision": "housenumber",
   "label": "2 Rue de Saintonge 44600 Saint-Nazaire",
-  "score": 0.81,
-  "query": "2, rue Saintonge 44600 SAINT NAZAIRE"
+  "score": 0.97,
+  "query": "2 rue de Saintonge 44600 SAINT NAZAIRE"
  },
  "le-steamer-nantes": {
   "lat": 47.211135,
@@ -2384,12 +2384,12 @@
   "query": "20 rue Paul Manivet 84000 AVIGNON"
  },
  "le-darjeeling-avignon": {
-  "lat": 43.94814,
-  "lon": 4.795973,
-  "precision": "street",
-  "label": "Chemin de l'Ile Piot 84000 Avignon",
+  "lat": 43.946638,
+  "lon": 4.795245,
+  "precision": "housenumber",
+  "label": "24 Chemin de l'Ile Piot 84000 Avignon",
   "score": 0.97,
-  "query": "chemin de l'ile piot 84000 AVIGNON"
+  "query": "24 chemin de l'Île Piot 84000 AVIGNON"
  },
  "l-ile-aux-plaisir-avignon": {
   "lat": 43.964151,
@@ -2974,5 +2974,21 @@
   "label": "3 Rue des Prés 17330 Vergné",
   "score": 0.93,
   "query": "3 rue des Prés 17330 VERGNÉ"
+ },
+ "le-lotus-d-or-montlucon-domerat": {
+  "lat": 46.338003,
+  "lon": 2.560718,
+  "precision": "housenumber",
+  "label": "45 Avenue des Martyrs 03410 Domérat",
+  "score": 0.69,
+  "query": "45 avenue des Martyrs 03410 MONTLUCON DOMERAT"
+ },
+ "the-strip-saint-ouen-l-aumone": {
+  "lat": 49.052826,
+  "lon": 2.136656,
+  "precision": "housenumber",
+  "label": "23 Avenue de l'Eguillette 95310 Saint-Ouen-l'Aumône",
+  "score": 0.82,
+  "query": "23 ave de l'eguillette 95310 SAINT OUEN L AUMONE"
  }
 }

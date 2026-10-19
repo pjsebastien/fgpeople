@@ -1,0 +1,883 @@
+{
+  "slug": "arles-sauna-club-arles",
+  "clubId": "22",
+  "researchedAt": "2026-10-19",
+  "display": {
+    "nom": "Arles Sauna Club",
+    "ville": "Arles"
+  },
+  "status": {
+    "value": "incertain",
+    "summary": "Le 1er février 2025, une soirée électro se tenait encore au « News Club Sauna », nom pris en 2024 par l'ancien Arles Sauna Club, et son site est resté en ligne jusqu'en août 2025. Depuis, le domaine a été abandonné et nous n'avons trouvé aucune date de soirée, mais la société exploitante, créée en janvier 2025, reste active au registre. Appelez le 04 90 91 59 25 avant de vous déplacer.",
+    "sources": [
+      "s37",
+      "s34",
+      "s35",
+      "s36",
+      "s7",
+      "s38"
+    ]
+  },
+  "seo": {
+    "title": "Sauna libertin à Arles : l'Arles Sauna Club, devenu Le News",
+    "metaDescription": "Liquidé en 2021, le sauna du 6 rue Marc Sangnier a rouvert en Villa Rex puis en Le News. Dernière soirée datée : février 2025. Tarifs, photos, adresses proches.",
+    "subtitle": "Sauna libertin du 6 rue Marc Sangnier, à Arles (13) : Le News depuis 2024, sans activité datée depuis 2025",
+    "targetQueries": [
+      "club libertin arles",
+      "sauna libertin arles",
+      "arles sauna club",
+      "club echangiste arles",
+      "sauna club arles",
+      "libertin arles",
+      "arles sauna club photos",
+      "arles club libertin"
+    ]
+  },
+  "lead": "Au 6 rue Marc Sangnier, l'Arles Sauna Club a été exploité par la même SARL de 1996 à sa liquidation en novembre 2021 ; sa galerie de 2016 montrait une piscine, un sauna, un hammam et deux jacuzzis. Le lieu a ensuite porté le nom de Villa Rex, puis celui de Le News en 2024, sous un nouveau propriétaire ; le fonds avait été revendu en 2022, mais aucune source ne dit que ce repreneur exploitait la Villa Rex. Son site a disparu à l'été 2025 et aucune soirée datée n'apparaît depuis février 2025 : en octobre 2026, le lieu n'est ni confirmé ouvert, ni confirmé fermé.",
+  "glance": [
+    {
+      "icon": "warning",
+      "label": "Statut incertain",
+      "value": "Pas de soirée datée depuis février 2025"
+    },
+    {
+      "icon": "history",
+      "label": "Noms successifs",
+      "value": "Arles Sauna Club, Villa Rex, Le News",
+      "confidence": "a_verifier"
+    },
+    {
+      "icon": "phone",
+      "label": "Dernier numéro publié",
+      "value": "04 90 91 59 25 (Le News)",
+      "confidence": "source_unique"
+    },
+    {
+      "icon": "ticket",
+      "label": "Entrée au News (2025)",
+      "value": "Gratuite pour les femmes et les trans",
+      "confidence": "a_verifier"
+    },
+    {
+      "icon": "spa",
+      "label": "Espaces annoncés en 2024",
+      "value": "Sauna, hammam, jacuzzis, bar, salons"
+    },
+    {
+      "icon": "map",
+      "label": "Lieux datés proches",
+      "value": "Avignon, Castillon-du-Gard, Aix"
+    }
+  ],
+  "audience": [
+    {
+      "who": "femmes",
+      "status": "inconnu",
+      "detail": "Entrée gratuite au News en 2024-2025 ; conditions actuelles non vérifiées"
+    },
+    {
+      "who": "trans",
+      "status": "inconnu",
+      "detail": "Entrée gratuite au News en 2024-2025, comme les femmes ; à confirmer"
+    },
+    {
+      "who": "couples",
+      "status": "inconnu",
+      "detail": "Lieu « ouvert à tous » selon Le News ; tarif couple jamais publié en texte"
+    },
+    {
+      "who": "hommes",
+      "status": "inconnu",
+      "detail": "Tarif non publié par Le News ; 40 € en 2016, mais pas le vendredi et le samedi soir"
+    }
+  ],
+  "highlights": [
+    "Le site le-news-sauna-club-arles.fr a disparu : son domaine a servi à un jeu en ligne fin 2025 et n'est plus enregistré en octobre 2026.",
+    "Le numéro à appeler est le 04 90 91 59 25 (site du News en 2025, Instagram) ; le 04 90 93 15 73 des annuaires date de 2016.",
+    "arlesaunaclub.fr appartient depuis mai 2024 à un tiers sans lien avec le lieu : ses articles ne prouvent pas que le sauna reçoit.",
+    "Au News, en 2024-2025, le téléphone portable était interdit dans l'établissement et une tenue correcte exigée.",
+    "Pour une soirée datée, l'Aphrodite d'Avignon annonce les 22, 23 et 24 octobre, puis ses 37 ans les 5 et 7 novembre 2026."
+  ],
+  "keyFacts": [
+    {
+      "label": "Adresse",
+      "value": "6 rue Marc Sangnier, 13200 Arles",
+      "confidence": "confirme",
+      "sources": [
+        "s12",
+        "s1",
+        "s7",
+        "s38"
+      ]
+    },
+    {
+      "label": "Noms du lieu",
+      "value": "Arles Sauna Club (1996-2021), Villa Rex (dates et exploitant non établis), Le News (depuis 2024)",
+      "confidence": "a_verifier",
+      "sources": [
+        "s1",
+        "s32",
+        "s40",
+        "s37"
+      ]
+    },
+    {
+      "label": "Dernière activité datée",
+      "value": "Soirée du 1er février 2025 ; site du club en ligne jusqu'en août 2025",
+      "confidence": "confirme",
+      "sources": [
+        "s37",
+        "s34",
+        "s35"
+      ]
+    },
+    {
+      "label": "Société à l'adresse",
+      "value": "LE NEWS 13, SASU créée le 21/01/2025, active, sans enseigne déclarée",
+      "confidence": "confirme",
+      "sources": [
+        "s7",
+        "s8"
+      ]
+    },
+    {
+      "label": "Société historique",
+      "value": "SARL Arles Sauna Club, créée en juin 1996, liquidée le 19/11/2021, radiée en juin 2025",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "label": "Reprise du fonds",
+      "value": "DASA 13, le 19/05/2022, pour 15 000 € ; établissement d'Arles fermé le 28/08/2024",
+      "confidence": "confirme",
+      "sources": [
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    {
+      "label": "Téléphone",
+      "value": "04 90 91 59 25, publié par Le News (site 2025, Instagram) ; réponse non testée",
+      "confidence": "source_unique",
+      "sources": [
+        "s33",
+        "s38"
+      ]
+    },
+    {
+      "label": "Entrée au News",
+      "value": "Gratuite pour femmes et trans en 2024-2025 ; autres tarifs non publiés en texte",
+      "confidence": "a_verifier",
+      "sources": [
+        "s32",
+        "s33"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "villa-rex-puis-le-news",
+      "title": "La Villa Rex, puis Le News en 2024 : le sauna rouvert après la liquidation",
+      "icon": "history",
+      "summary": "Après la liquidation de 2021, le lieu s'est appelé Villa Rex, puis Le News en 2024 ; rien ne relie la Villa Rex au repreneur du fonds en mai 2022.",
+      "sources": [
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8",
+        "s32",
+        "s37",
+        "s40",
+        "s41"
+      ],
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "La liquidation de novembre 2021 n'a pas mis fin au lieu. En mai 2022, le liquidateur cède le fonds pour 15 000 € à DASA 13, classée parmi les centres de culture physique."
+        },
+        {
+          "kind": "text",
+          "body": "Un annuaire situe au 6 rue Marc Sangnier une « Villa Rex », dont le site lavillarex.com contient des images datées de mai 2022. Aucune source ne dit que DASA 13 exploitait la Villa Rex : la concordance des dates reste une hypothèse."
+        },
+        {
+          "kind": "text",
+          "body": "En 2024, le lieu change encore de mains. Sur le site du « NEWS Sauna Club Libertin », en ligne à partir de septembre 2024, le nouveau propriétaire, Sofian, raconte avoir racheté la Villa Rex et l'avoir rebaptisée Le News ; il dit connaître l'endroit depuis son enfance."
+        },
+        {
+          "kind": "text",
+          "body": "Au registre, DASA 13 ferme son établissement d'Arles le 28 août 2024 ; LE NEWS 13, une SASU au même objet social que le fonds d'origine, s'immatricule à l'adresse le 21 janvier 2025. Selon societe.com, son président a dirigé DASA 13 en 2024."
+        },
+        {
+          "kind": "text",
+          "body": "Le 1er février 2025, une billetterie en ligne annonce au « News Club Sauna » une soirée électro « gay friendly », ouverte à tous, de 23 h à 6 h. C'est la dernière activité datée que nous ayons trouvée au 6 rue Marc Sangnier."
+        }
+      ]
+    },
+    {
+      "id": "site-disparu-ete-2025",
+      "title": "Août 2025 : dernière capture du site du News, puis plus rien de daté",
+      "icon": "warning",
+      "summary": "Le site du News est archivé pour la dernière fois le 11 août 2025 ; son domaine change ensuite de mains, et un internaute dit en mai 2026 ne plus rien savoir du lieu.",
+      "sources": [
+        "s7",
+        "s34",
+        "s35",
+        "s36",
+        "s38",
+        "s39",
+        "s33"
+      ],
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le site le-news-sauna-club-arles.fr est archivé jusqu'au 11 août 2025. En novembre 2025, le domaine héberge un jeu de stratégie en ligne, puis, de décembre 2025 à mars 2026, la page d'attente d'une application baptisée Black Diamond. En octobre 2026, le nom de domaine n'est plus enregistré."
+        },
+        {
+          "kind": "text",
+          "body": "Le 11 mai 2026, un internaute écrit sur gowork.fr que le site ne fonctionne plus et qu'il ne parvient pas à savoir ce qui s'y passe. Le compte Instagram @lenews.13200 existe toujours, avec 17 publications, mais nous n'avons pas pu en lire les dates sans connexion."
+        },
+        {
+          "kind": "text",
+          "body": "En sens inverse, LE NEWS 13 n'a pas été radiée : le registre la donne active, avec une mise à jour INSEE du 5 décembre 2025. Une société active ne prouve pas que le sauna reçoit, et un site disparu ne prouve pas qu'il a fermé : d'où notre statut « incertain »."
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Avant de faire la route",
+          "body": "Appelez le 04 90 91 59 25, numéro affiché par Le News en 2025 et encore dans la biographie de son Instagram. Le 04 90 93 15 73 que reprennent les annuaires est celui de l'ancien Arles Sauna Club, publié en 2016."
+        },
+        {
+          "kind": "text",
+          "body": "En 2025, le site du News renvoyait aussi vers la page du club sur Wyylde, l'ex-Netéchangisme. Un compte gratuit suffit pour [voir si Le News annonce encore des dates sur Wyylde](aff:wyylde) ; si le club ou l'un de ses habitués vous y écrit, lui répondre passe par un abonnement."
+        }
+      ]
+    },
+    {
+      "id": "regles-du-news",
+      "title": "Femmes et trans gratuites, portable interdit : les règles affichées par Le News",
+      "icon": "shield",
+      "summary": "En 2024-2025, Le News offrait l'entrée aux femmes et aux trans, exigeait une tenue correcte et interdisait le téléphone ; ses autres tarifs n'étaient pas publiés en texte.",
+      "sources": [
+        "s32",
+        "s42",
+        "s33",
+        "s37"
+      ],
+      "confidence": "a_verifier",
+      "blocks": [
+        {
+          "kind": "list",
+          "items": [
+            "**Entrée gratuite pour les femmes et les trans**, avec un soft offert par personne en septembre 2024 et en février 2025 ; la mention du soft disparaît en mai 2025.",
+            "**Téléphone portable interdit** dans l'établissement, au nom de la vie privée de la clientèle.",
+            "**Tenue correcte exigée**, même décontractée hors soirées ; la direction se réserve le droit d'entrée.",
+            "**Préservatifs** à disposition au bar et dans tous les espaces ; drogue et prostitution interdites.",
+            "**Raccompagnement à la voiture** possible, selon la charte du lieu."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le site ne donnait en texte ni horaires ni tarifs pour les couples et les hommes seuls, et les images de sa rubrique « Horaires & Tarifs » n'ont pas été archivées : nous ne les connaissons pas."
+        },
+        {
+          "kind": "text",
+          "body": "Pour la soirée du 1er février 2025, la billetterie affichait 20 € en ligne, 25 € sur place, 12 € pour les moins de 26 ans et 5 € la boisson. Sauna, hammam et jacuzzi étaient fermés ce soir-là ; seules les douches restaient accessibles."
+        }
+      ]
+    },
+    {
+      "id": "lieux-dates-autour-d-arles",
+      "title": "Aphrodite, Darjeeling, New Bora, Lanterne : les lieux datés autour d'Arles en octobre 2026",
+      "icon": "map",
+      "summary": "Faute de date au News, quatre lieux vérifiés publient un programme en octobre 2026 : deux à Avignon, un à Castillon-du-Gard, un à Aix-en-Provence.",
+      "sources": [
+        "s24",
+        "s25",
+        "s26",
+        "s27",
+        "s28",
+        "s29"
+      ],
+      "blocks": [
+        {
+          "kind": "list",
+          "items": [
+            "[L'Aphrodite](/club-aphrodite-avignon), club de soirée avignonnais : mixte le jeudi, réservé aux couples et aux femmes seules le vendredi et le samedi. Son site annonce des soirées les 22, 23 et 24 octobre, puis ses 37 ans les 5 et 7 novembre.",
+            "[Le Darjeeling](/le-darjeeling-avignon), sauna club d'Avignon, dont la page d'accueil annonçait à la mi-octobre des journées sauna mixtes le samedi et le dimanche, de 14 h à 19 h.",
+            "[Le New Bora](/le-new-bora-castillon-du-gard), club échangiste et sauna libertin de Castillon-du-Gard, qui dit avoir fait « peau neuve » en 2026 et admet les hommes seuls selon le nombre de couples et de femmes présents.",
+            "[La Lanterne](/la-lanterne-aix-en-provence), à Aix-en-Provence, qui publie ses soirées semaine par semaine (13, 16 et 17 octobre 2026), avec réservation par téléphone."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le samedi, l'Aphrodite n'ouvre qu'aux couples et aux femmes seules. Sur Carré Libertin, gratuit pour les couples comme pour les femmes à condition de publier trois photos de profil, vous pouvez [trouver un couple du pays d'Arles pour partager la route d'Avignon](aff:carre-libertin). Les autres adresses figurent sur [notre page Bouches-du-Rhône](/departement/bouches-du-rhone), toutes n'étant pas encore vérifiées."
+        }
+      ]
+    },
+    {
+      "id": "grille-arles-sauna-club-2016",
+      "title": "Homme seul 40 €, femme seule offerte : l'Arles Sauna Club en 2016",
+      "icon": "euro",
+      "summary": "Les derniers horaires et tarifs de l'ancien exploitant datent de 2015-2016 : après-midis mixtes, vendredi et samedi soir réservés aux couples, homme seul à 40 €.",
+      "sources": [
+        "s10",
+        "s11",
+        "s13",
+        "s30"
+      ],
+      "confidence": "a_verifier",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Ces conditions sont celles de la SARL liquidée en 2021, avant la Villa Rex et Le News : elles décrivent le lieu tel qu'il était. La page des horaires est restée identique de juin 2016 à avril 2017."
+        },
+        {
+          "kind": "table",
+          "caption": "Horaires publiés en 2016",
+          "headers": [
+            "Créneau",
+            "Horaires",
+            "Public"
+          ],
+          "rows": [
+            [
+              "Après-midi, du lundi au samedi",
+              "14 h - 19 h",
+              "Mixte"
+            ],
+            [
+              "Dimanche",
+              "15 h - minuit",
+              "Mixte"
+            ],
+            [
+              "Lundi soir",
+              "21 h 30 - 1 h",
+              "Couples, hommes et femmes bi"
+            ],
+            [
+              "Mardi au jeudi soir",
+              "21 h 30 - 1 h",
+              "Mixte"
+            ],
+            [
+              "Vendredi et samedi soir",
+              "21 h 30 - 3 h",
+              "Réservé aux couples"
+            ]
+          ]
+        },
+        {
+          "kind": "table",
+          "caption": "Tarifs publiés en 2015 et en 2016",
+          "headers": [
+            "Entrée",
+            "Prix"
+          ],
+          "rows": [
+            [
+              "Homme seul",
+              "40 €"
+            ],
+            [
+              "Couple, vendredi soir, samedi soir, dimanche après-midi",
+              "40 €, buffet offert"
+            ],
+            [
+              "Couple, autres après-midis et soirées mixtes",
+              "30 €"
+            ],
+            [
+              "Femme seule",
+              "Offert ; 10 € le vendredi et le samedi soir"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "L'entrée femme seule à 10 € prévue le vendredi et le samedi soir laisse penser que les femmes seules entraient aussi ces soirs « réservés aux couples », sans que le site l'écrive. En 2016, on réglait par chèque ou en espèces."
+        }
+      ]
+    },
+    {
+      "id": "photos-2016-2025",
+      "title": "Piscine, deux jacuzzis, 29 photos : les galeries de 2016 et du News",
+      "icon": "camera",
+      "summary": "La galerie de 2016 légendait piscine, sauna-hammam, deux jacuzzis et douche à jets ; celle du News, annoncée à 29 photos en 2025, n'est plus en ligne.",
+      "sources": [
+        "s14",
+        "s31",
+        "s32",
+        "s42",
+        "s38"
+      ],
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Il n'existe plus de galerie officielle en ligne. Les archives de juin 2016 et de juin 2017 conservent les légendes de la page « Photos » de l'Arles Sauna Club, dont nous ne reproduisons pas les images :"
+        },
+        {
+          "kind": "list",
+          "items": [
+            "Entrée et salle fumeur",
+            "Bar",
+            "Vestiaire",
+            "Piscine",
+            "Sauna et hammam, sous une seule légende",
+            "« Jacuzzi 1 » et « Jacuzzi 2 »",
+            "Douche à jets",
+            "Coins câlins"
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "En 2024, Le News décrivait un bar, des jacuzzis, un sauna, un hammam, un grand salon, de petits salons et des alcôves ; la piscine n'y est plus citée. Sa galerie de 29 photos, annoncée en 2025, n'a pas été archivée. Reste le compte Instagram @lenews.13200."
+        }
+      ]
+    },
+    {
+      "id": "sarl-1996-2025",
+      "title": "1996-2025 : la SARL Arles Sauna Club, du redressement à la radiation",
+      "icon": "building",
+      "summary": "Créée en juin 1996, la SARL a connu un redressement en 2014, une liquidation sans poursuite d'activité en novembre 2021 et une radiation en juin 2025.",
+      "sources": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s7",
+        "s9",
+        "s15",
+        "s16",
+        "s17",
+        "s18",
+        "s19",
+        "s30",
+        "s32",
+        "s34",
+        "s37",
+        "s41"
+      ],
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "L'adresse accueillait déjà, de 1977 à juin 1996, une entreprise individuelle d'« autres activités récréatives », fermée deux jours après la création de la SARL ; rien ne dit qu'elle exploitait un sauna. Les comptes publiés montrent ensuite une petite affaire déficitaire : 148 705 € de chiffre d'affaires en 2017 pour 11 256 € de perte."
+        },
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "Juin 1996",
+              "text": "Création de la SARL Arles Sauna Club (capital de 50 000 francs), seul établissement au 6 rue Marc Sangnier."
+            },
+            {
+              "date": "Octobre 2007",
+              "text": "Le site arlesaunaclub.fr est en ligne, avec un forum."
+            },
+            {
+              "date": "16 mai 2014",
+              "text": "Redressement judiciaire, avec poursuite d'activité."
+            },
+            {
+              "date": "30 janvier 2015",
+              "text": "Plan de redressement sur dix ans, modifié en octobre 2020."
+            },
+            {
+              "date": "Juillet 2017",
+              "text": "Après des captures complètes jusqu'en juin 2017, le site renvoie une erreur 403, jusqu'en juin 2018."
+            },
+            {
+              "date": "19 novembre 2021",
+              "text": "Le tribunal de commerce de Tarascon prononce la liquidation judiciaire simplifiée, sans poursuite d'activité."
+            },
+            {
+              "date": "19 mai 2022",
+              "text": "Le fonds est cédé à DASA 13 pour 15 000 €."
+            },
+            {
+              "date": "Janvier 2024",
+              "text": "lavillarex.com, le site de la Villa Rex, redirige vers celui d'un sauna de Nîmes."
+            },
+            {
+              "date": "28 août 2024",
+              "text": "DASA 13 ferme son établissement d'Arles."
+            },
+            {
+              "date": "Septembre 2024",
+              "text": "Le site du News est en ligne : « nouveau propriétaire, nouvelles règles »."
+            },
+            {
+              "date": "21 janvier 2025",
+              "text": "Création de LE NEWS 13 à la même adresse."
+            },
+            {
+              "date": "1er février 2025",
+              "text": "Soirée électro au « News Club Sauna »."
+            },
+            {
+              "date": "13 juin 2025",
+              "text": "Clôture de la liquidation pour insuffisance d'actif, puis radiation de la SARL."
+            },
+            {
+              "date": "11 août 2025",
+              "text": "Dernière capture du site du News."
+            },
+            {
+              "date": "12 mars 2026",
+              "text": "Radiation d'office de DASA 13."
+            }
+          ]
+        },
+        {
+          "kind": "callout",
+          "tone": "info",
+          "title": "arlesaunaclub.fr ne parle plus pour le lieu",
+          "body": "Réenregistré le 21 mai 2024 par un titulaire anonyme, l'ancien domaine du club porte un blog générique qui renvoie vers un site de rencontres affilié. Un autre domaine, arles-sauna-club.fr, créé le 22 juin 2026, diffuse des annonces de rencontres tarifées. Aucun des deux n'émane du lieu : nous ne les lions pas."
+        }
+      ]
+    }
+  ],
+  "equipements": [
+    "Sauna",
+    "Hammam",
+    "Jacuzzis (deux en 2016)",
+    "Bar",
+    "Vestiaire",
+    "Douches",
+    "Coins câlins et alcôves",
+    "Grand salon et petits salons (2024)",
+    "Piscine (2016)",
+    "Salle fumeur (2016)",
+    "Douche à jets (2016)"
+  ],
+  "officialLinks": [
+    {
+      "label": "Instagram @lenews.13200 (Le News)",
+      "url": "https://www.instagram.com/lenews.13200/",
+      "kind": "instagram"
+    }
+  ],
+  "corrections": {
+    "telephone": "04 90 91 59 25",
+    "site_web": "",
+    "email": "",
+    "sources": [
+      "s33",
+      "s38",
+      "s17",
+      "s18",
+      "s36"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Y a-t-il un club libertin ou échangiste ouvert à Arles ?",
+      "answer": "Peut-être, sans que nous puissions le confirmer. Le seul lieu arlésien connu, l'ancien Arles Sauna Club devenu Le News, n'a plus de soirée datée depuis février 2025 ni de site depuis l'été 2025. Les lieux datés les plus proches sont à Avignon, Castillon-du-Gard et Aix-en-Provence. Pour rencontrer sans sortir de chez vous, Gleese, site français lancé fin 2024, permet de [voir sans carte bancaire qui s'est inscrit entre Camargue et Alpilles](aff:gleese), avec des profils vérifiés par téléphone."
+    },
+    {
+      "question": "L'Arles Sauna Club est-il fermé ?",
+      "answer": "La société Arles Sauna Club, oui : liquidée en 2021, radiée en 2025. Le lieu, lui, a rouvert sous les noms Villa Rex puis Le News, dont la société exploitante est toujours active au registre en octobre 2026. Sans activité datée depuis plus d'un an, seul un appel au 04 90 91 59 25 permet de savoir s'il reçoit encore."
+    },
+    {
+      "question": "Qu'est-ce que Le News, à Arles ?",
+      "answer": "C'est le nom pris en 2024 par le sauna libertin du 6 rue Marc Sangnier, ex-Arles Sauna Club et ex-Villa Rex. Son site annonçait un bar, un sauna, un hammam, des jacuzzis et des salons, avec entrée gratuite pour les femmes et les trans ; il a disparu à l'été 2025."
+    },
+    {
+      "question": "Où voir des photos de l'Arles Sauna Club ?",
+      "answer": "Plus sur un site officiel. La galerie archivée en 2016 et 2017 légendait une piscine, un sauna-hammam, deux jacuzzis et une douche à jets ; celle du News n'a pas été archivée. Le compte Instagram @lenews.13200 est la seule vitrine encore en ligne. Le site qui occupe arlesaunaclub.fr appartient à un tiers."
+    },
+    {
+      "question": "Combien coûtait l'entrée ?",
+      "answer": "En 2016, 40 € pour un homme seul, 30 ou 40 € pour un couple selon le créneau, et rien pour une femme seule, sauf 10 € le vendredi et le samedi soir. Le News offrait l'entrée aux femmes et aux trans, mais ne publiait pas en texte ses autres tarifs."
+    },
+    {
+      "question": "Un homme seul peut-il entrer ?",
+      "answer": "En 2016, pas le vendredi ni le samedi soir, réservés aux couples ; les autres créneaux étaient mixtes. Le News se disait « ouvert à tous » sans détailler ses conditions. Aux alentours, le New Bora admet les hommes seuls selon le nombre de couples présents, et l'Aphrodite le jeudi seulement."
+    }
+  ],
+  "unverified": [
+    "Si Le News reçoit encore en octobre 2026 : aucune soirée datée trouvée depuis le 1er février 2025.",
+    "Les dates des publications Instagram de @lenews.13200, illisibles sans connexion.",
+    "Les horaires du News et ses tarifs pour les couples et les hommes seuls, jamais publiés en texte.",
+    "Qui exploitait la Villa Rex et à quelles dates exactes : aucune source ne relie explicitement DASA 13 à ce nom.",
+    "Si le 04 90 91 59 25 répond encore.",
+    "Si la piscine de 2016 existe toujours : Le News ne la cite plus.",
+    "Les avis Google et une éventuelle page Facebook, non consultables pour cette vérification."
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Registre des entreprises, ARLES SAUNA CLUB (SIREN 407 756 725) : société cessée, établissement fermé le 13/06/2025, comptes 2017",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/407756725",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s2",
+      "label": "BODACC, annonces de la SARL ARLES SAUNA CLUB (2008-2025) : redressement, plan, liquidation, clôture, radiation",
+      "url": "https://bodacc-datadila.opendatasoft.com/api/explore/v2.1/catalog/datasets/annonces-commerciales/records?where=registre%20like%20%22407756725%22",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s3",
+      "label": "societe.com, fiche ARLES SAUNA CLUB (reprise du RNE, du BODACC et de l'annonce de cession du fonds)",
+      "url": "https://www.societe.com/societe/arles-sauna-club-407756725.html",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s4",
+      "label": "BODACC, annonces de DASA 13 : immatriculation, achat du fonds, radiation",
+      "url": "https://bodacc-datadila.opendatasoft.com/api/explore/v2.1/catalog/datasets/annonces-commerciales/records?where=commercant%20like%20%22DASA%2013%22",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s5",
+      "label": "Registre des entreprises, DASA 13 (SIREN 913 527 198) : établissement d'Arles ouvert du 12/05/2022 au 28/08/2024",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/913527198",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s6",
+      "label": "societe.com, fiche DASA 13 : transfert du siège à Marseille, radiation du 12/03/2026",
+      "url": "https://www.societe.com/societe/dasa-13-913527198.html",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s7",
+      "label": "Registre des entreprises, LE NEWS 13 (SIREN 939 950 200) : SASU active au 6 rue Marc Sangnier, sans enseigne",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/939950200",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s8",
+      "label": "societe.com, fiche LE NEWS 13 : création, objet social, président",
+      "url": "https://www.societe.com/societe/le-news-13-939950200.html",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s9",
+      "label": "Registre des entreprises, recherche par adresse « 6 rue Marc Sangnier, 13200 »",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=6%20rue%20marc%20sangnier&code_postal=13200",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s10",
+      "label": "Site officiel arlesaunaclub.fr, pages Horaires et Tarifs, archives du 02/02/2015",
+      "url": "http://web.archive.org/web/20150202051501/http://arlesaunaclub.fr/horaires_018.htm",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s11",
+      "label": "Site officiel arlesaunaclub.fr, page Horaires, archive du 07/06/2016",
+      "url": "http://web.archive.org/web/20160607080643/http://www.arlesaunaclub.fr:80/horaires_040.htm",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s12",
+      "label": "Site officiel arlesaunaclub.fr, page d'accueil (adresse et téléphone), archive du 06/04/2016",
+      "url": "http://web.archive.org/web/20160406185856/http://www.arlesaunaclub.fr:80/acceuil_031.htm",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s13",
+      "label": "Site officiel arlesaunaclub.fr, page Tarifs, archive du 08/06/2016",
+      "url": "http://web.archive.org/web/20160608214445/http://www.arlesaunaclub.fr:80/tarifs_042.htm",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s14",
+      "label": "Site officiel arlesaunaclub.fr, page Photos et ses légendes, archive du 08/06/2016",
+      "url": "http://web.archive.org/web/20160608214431/http://www.arlesaunaclub.fr:80/photos_043.htm",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s15",
+      "label": "Site officiel arlesaunaclub.fr, page d'entrée et forum, archive du 12/10/2007",
+      "url": "http://web.archive.org/web/20071012042940/http://www.arlesaunaclub.fr/index.html",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s16",
+      "label": "Wayback Machine, historique des captures de arlesaunaclub.fr (2007-2025)",
+      "url": "http://web.archive.org/cdx/search/cdx?url=arlesaunaclub.fr&fl=timestamp,statuscode&collapse=timestamp:6",
+      "type": "autre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s17",
+      "label": "arlesaunaclub.fr, site actuel d'un tiers (blog de référencement), sans lien établi avec le club",
+      "url": "https://www.arlesaunaclub.fr/",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s18",
+      "label": "AFNIC (RDAP), enregistrement du domaine arlesaunaclub.fr le 21/05/2024",
+      "url": "https://rdap.nic.fr/domain/arlesaunaclub.fr",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s19",
+      "label": "AFNIC (RDAP), enregistrement du domaine arles-sauna-club.fr le 22/06/2026 ; page d'accueil du site lue le même jour que la fiche",
+      "url": "https://rdap.nic.fr/domain/arles-sauna-club.fr",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s24",
+      "label": "Le Darjeeling (Avignon), site officiel : page d'accueil modifiée le 02/10/2026",
+      "url": "https://www.ledarjeeling.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s25",
+      "label": "Club Aphrodite (Avignon), site officiel : annonce des 37 ans du club",
+      "url": "https://clubaphrodite.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s26",
+      "label": "Club Aphrodite (Avignon), page « Philosophie » : public admis selon les soirs",
+      "url": "https://clubaphrodite.fr/philosophie/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s27",
+      "label": "Le New Bora (Castillon-du-Gard), site officiel",
+      "url": "https://www.lenewbora.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s28",
+      "label": "La Lanterne (Aix-en-Provence), site officiel, page « Les évènements »",
+      "url": "https://www.lalanterneclub.com/les-evenements",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s29",
+      "label": "Le New Bora (Castillon-du-Gard), agenda officiel : soirée du samedi 17 octobre, page publiée le 16/09/2026",
+      "url": "https://www.lenewbora.fr/events/samedi-17-octobre-open-bar-mojitos/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s30",
+      "label": "Site officiel arlesaunaclub.fr, page Horaires (inchangée depuis 2016), archive du 16/04/2017",
+      "url": "http://web.archive.org/web/20170416131847/http://www.arlesaunaclub.fr:80/horaires_018.htm",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s31",
+      "label": "Site officiel arlesaunaclub.fr, page Photos et ses légendes, archive du 25/06/2017",
+      "url": "http://web.archive.org/web/20170625071713/http://www.arlesaunaclub.fr:80/photos_021.htm",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s32",
+      "label": "Le News, site officiel le-news-sauna-club-arles.fr, archive du 10/09/2024 : histoire du repreneur, charte, entrée gratuite femmes et trans",
+      "url": "https://web.archive.org/web/20240910143310/https://le-news-sauna-club-arles.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s33",
+      "label": "Le News, site officiel, archive du 20/05/2025 : téléphone 04 90 91 59 25, entrée gratuite femmes et trans",
+      "url": "https://web.archive.org/web/20250520230707/https://le-news-sauna-club-arles.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s34",
+      "label": "Le News, site officiel, archive du 11/08/2025 (dernière capture du site du club) : liens vers Instagram et vers la page du club sur Wyylde",
+      "url": "https://web.archive.org/web/20250811045248/https://le-news-sauna-club-arles.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s35",
+      "label": "Wayback Machine, captures de le-news-sauna-club-arles.fr : site du club de septembre 2024 à août 2025, jeu en ligne en novembre 2025, page « Black Diamond » de décembre 2025 à mars 2026",
+      "url": "http://web.archive.org/cdx/search/cdx?url=le-news-sauna-club-arles.fr*&fl=timestamp,original,statuscode",
+      "type": "autre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s36",
+      "label": "AFNIC (RDAP) : le domaine le-news-sauna-club-arles.fr n'est plus enregistré le 19/10/2026",
+      "url": "https://rdap.nic.fr/domain/le-news-sauna-club-arles.fr",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s37",
+      "label": "Billetweb, « La Capricieuse - Party 3 », soirée du 1er février 2025 au « News Club Sauna », 6 rue Marc Sangnier",
+      "url": "https://www.billetweb.fr/la-capricieuse-party-3",
+      "type": "autre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s38",
+      "label": "Instagram @lenews.13200 « Sauna libertin » : biographie (Le News, 6 rue Marc Sangnier, 04 90 91 59 25), 17 publications, relevé du 19/10/2026",
+      "url": "https://www.instagram.com/lenews.13200/",
+      "type": "reseau_social",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s39",
+      "label": "gowork.fr, page « ARLES SAUNA CLUB » : avis du 11/05/2026 signalant un site hors service",
+      "url": "https://gowork.fr/arles-sauna-club-arles",
+      "type": "avis",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s40",
+      "label": "Annuaire beautynailhairsalons.com, fiche « VILLA REX ARLES » : 6 rue Marc Sangnier, site lavillarex.com",
+      "url": "https://www.beautynailhairsalons.com/FR/Arles/101211736001040/VILLA-REX-ARLES",
+      "type": "annuaire",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s41",
+      "label": "Wayback Machine, lavillarex.com : images publiées en mai 2022, redirection vers le site d'un sauna de Nîmes en janvier 2024",
+      "url": "http://web.archive.org/web/20240117040626/https://www.lavillarex.com/",
+      "type": "autre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s42",
+      "label": "Le News, site officiel, archive du 14/02/2025 : entrée gratuite femmes et trans, un soft offert",
+      "url": "https://web.archive.org/web/20250214212855/https://le-news-sauna-club-arles.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    }
+  ]
+}

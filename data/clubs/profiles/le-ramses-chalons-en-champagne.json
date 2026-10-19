@@ -1,0 +1,571 @@
+{
+  "slug": "le-ramses-chalons-en-champagne",
+  "clubId": "475",
+  "researchedAt": "2026-10-16",
+  "display": {
+    "nom": "Le Ramsès",
+    "ville": "Châlons-en-Champagne"
+  },
+  "status": {
+    "value": "ferme",
+    "summary": "Liquidation judiciaire le 17 septembre 2015, clôture pour insuffisance d'actif le 18 février 2016 : la SARL Ramses, débit de boissons du 101 rue des Martyrs-de-la-Résistance et, selon toute vraisemblance, exploitante du bar, n'a plus d'établissement ouvert depuis. Son blog Skyrock était déjà désactivé en mars 2011, et les sources que nous avons pu consulter ne montrent aucune trace d'activité libertine postérieure à 2012.",
+    "sources": [
+      "s8",
+      "s9",
+      "s10",
+      "s7",
+      "s3"
+    ]
+  },
+  "seo": {
+    "title": "Le Ramsès à Châlons-en-Champagne : bar libertin fermé, son histoire",
+    "metaDescription": "Décor de pharaon, nuits gays et lesbiennes le lundi et le vendredi : le Ramsès de Châlons a fermé, sa société liquidée en 2015. Preuves, dates, où sortir.",
+    "subtitle": "Ancien bar libertin avec sauna, au décor égyptien, rue des Martyrs-de-la-Résistance à Châlons-en-Champagne (51)",
+    "targetQueries": [
+      "le ramses chalons en champagne",
+      "ramses chalons",
+      "club libertin chalons en champagne",
+      "ramses sauna chalons",
+      "le ramses fermé",
+      "bar libertin chalons en champagne"
+    ]
+  },
+  "lead": "Derrière une enseigne au néon coiffée d'un masque de pharaon, le Ramsès a été le club libertin de Châlons-en-Champagne à partir de la fin des années 1990, avant que sa créatrice ne le mette en vente en janvier 2010, selon L'Union. Vers 2009-2011, ce bar avec sauna ouvrait l'après-midi en semaine et annonçait ses nuits du lundi et du vendredi « gay, lesbienne », les autres « hetero ». Sa société exploitante présumée a été liquidée en 2015-2016 : le lieu est fermé, et aucun guide récent ne recense d'autre adresse libertine dans la ville.",
+  "glance": [
+    {
+      "icon": "closed",
+      "label": "Fermé",
+      "value": "Au plus tard en 2015-2016"
+    },
+    {
+      "icon": "history",
+      "label": "Club libertin depuis",
+      "value": "La fin des années 1990, selon L'Union",
+      "confidence": "source_unique"
+    },
+    {
+      "icon": "mask",
+      "label": "Décor",
+      "value": "Égyptien : pharaon au néon, sphinx",
+      "confidence": "source_unique"
+    },
+    {
+      "icon": "users",
+      "label": "Nuits (vers 2009-2011)",
+      "value": "Gay et lesbienne lundi et vendredi",
+      "confidence": "source_unique"
+    },
+    {
+      "icon": "euro",
+      "label": "Entrée nuit (2009-2011)",
+      "value": "Couple 20 € · homme seul 40 € · femme 0 €",
+      "confidence": "source_unique"
+    },
+    {
+      "icon": "map",
+      "label": "Cités en 2026 (Marne)",
+      "value": "Le Lotus et le Must Club, à Reims",
+      "confidence": "source_unique"
+    }
+  ],
+  "highlights": [
+    "Les annuaires qui listent encore le Ramsès reprennent une fiche inchangée depuis 2011 : ses horaires et ses tarifs ne valent plus.",
+    "Au 101 rue des Martyrs-de-la-Résistance, le registre ne recense aucun bar ni club depuis 2016, seulement deux entrepreneurs (rénovation, location de logements).",
+    "Le blog Skyrock du club a été désactivé au plus tard en mars 2011, et le 03 26 64 62 30 ne renvoie plus à aucune entreprise sur PagesJaunes.",
+    "Aucun lieu libertin n'est recensé à Châlons en 2026 : le guide de la Marne d'avril 2026 ne cite que deux adresses, à Reims.",
+    "Le Ramsès Libertin du 3 rue Beaurepaire, à Clermont-Ferrand, est un bar homonyme sans lien connu avec celui de Châlons."
+  ],
+  "keyFacts": [
+    {
+      "label": "Statut",
+      "value": "Fermé ; exploitant présumé liquidé en 2015-2016",
+      "confidence": "confirme",
+      "sources": [
+        "s8",
+        "s9",
+        "s7",
+        "s14"
+      ]
+    },
+    {
+      "label": "Exploitant présumé",
+      "value": "SARL Ramses (SIREN 383 184 769), débit de boissons créé en 1991 ; lien déduit du nom et de l'adresse",
+      "confidence": "a_verifier",
+      "sources": [
+        "s8",
+        "s9"
+      ]
+    },
+    {
+      "label": "Club libertin",
+      "value": "Ouvert vers la fin des années 1990 dans un ancien bar de nuit, selon sa créatrice (L'Union, 2009 et 2010)",
+      "confidence": "source_unique",
+      "sources": [
+        "s18",
+        "s19"
+      ]
+    },
+    {
+      "label": "Mise en vente",
+      "value": "Annoncée par L'Union le 21 janvier 2010 ; issue inconnue",
+      "confidence": "source_unique",
+      "sources": [
+        "s18"
+      ]
+    },
+    {
+      "label": "Adresse",
+      "value": "101 rue des Martyrs-de-la-Résistance, 51000 Châlons-en-Champagne",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s2",
+        "s8"
+      ]
+    },
+    {
+      "label": "Formule",
+      "value": "« Sauna libertin » en 2007, « bar libertin » dès février 2009",
+      "confidence": "source_unique",
+      "sources": [
+        "s2",
+        "s4"
+      ]
+    },
+    {
+      "label": "Public des nuits (vers 2009-2011)",
+      "value": "Gay et lesbien lundi et vendredi, hétéro mardi, mercredi, jeudi et samedi",
+      "confidence": "source_unique",
+      "sources": [
+        "s1",
+        "s3"
+      ]
+    },
+    {
+      "label": "Décor",
+      "value": "Égyptien : masque de pharaon sur l'enseigne, sphinx, arcades de brique",
+      "confidence": "source_unique",
+      "sources": [
+        "s6"
+      ]
+    },
+    {
+      "label": "Site officiel",
+      "value": "Blog Skyrock, désactivé par la plateforme au plus tard en mars 2011",
+      "confidence": "confirme",
+      "sources": [
+        "s7"
+      ]
+    },
+    {
+      "label": "Dernière trace libertine",
+      "value": "Fiche d'annuaire mise en ligne vers 2009, archivée inchangée en novembre 2012",
+      "confidence": "source_unique",
+      "sources": [
+        "s3",
+        "s6"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "sortir-depuis-chalons",
+      "title": "Sans club à Châlons, deux adresses rémoises citées en avril 2026",
+      "icon": "map",
+      "summary": "Aucun lieu libertin recensé à Châlons en octobre 2026 ; un guide d'avril 2026 ne retient pour la Marne que Le Lotus et le Must Club, à Reims.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Hormis la fiche figée du Ramsès, ni PagesJaunes ni les guides consultés en octobre 2026 ne recensent de lieu libertin à Châlons-en-Champagne. Le guide des clubs de la Marne publié le 16 avril 2026 par saunaclublebali.fr ne retient que deux adresses, à Reims :"
+        },
+        {
+          "kind": "list",
+          "items": [
+            "le [sauna Le Lotus](/sauna-le-lotus-reims), 33 rue de Witry, déjà cité par club-libertin-france.fr en 2024 ;",
+            "le Must Club, 10 rue Landouzy, absent de notre annuaire, dont le site, en ligne en octobre 2026, annonce une ouverture le dimanche de 20h à 7h et un samedi fermé aux libertins « à partir du 1er octobre », sans préciser l'année."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Deux autres clubs marnais ont une fiche chez nous, [Blue Angel 51 à Moncetz-l'Abbaye](/blue-angel-51-moncetz-l-abbaye) et [L'Atmosphère à Aigny](/club-l-atmosphere-aigny), ce dernier déjà listé à côté du Ramsès en février 2009. Mais l'annuaire qui les cite encore affiche aussi le Ramsès, pourtant fermé, et nous n'avons pas vérifié leur activité. La [page consacrée à la Marne](/departement/marne) regroupe nos fiches du département.\n\nAvant de faire la route, consultez l'agenda de Wyylde, l'ancien Netéchangisme, ouvert aux comptes gratuits : on y cherche [une date annoncée dans la Marne](aff:wyylde), à faire confirmer ensuite par le club."
+        }
+      ],
+      "sources": [
+        "s14",
+        "s12",
+        "s13",
+        "s16",
+        "s5",
+        "s4",
+        "s15"
+      ]
+    },
+    {
+      "id": "formule-2009-2011",
+      "title": "Deux nuits gays et lesbiennes, quatre nuits hétéros : la formule de 2009-2011",
+      "icon": "users",
+      "summary": "Vers 2009-2011 : après-midi en semaine, nuits « gay, lesbienne » le lundi et le vendredi, « hetero » les autres soirs ; homme seul 40 €, couple 20 €.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "En décembre 2007, plus ancienne trace libertine connue, l'annuaire sauna-club-libertin.com décrit un « sauna libertin » ouvert six jours sur sept, souvent dès 14h ou 15h, avec des soirées gang bang le jeudi et le samedi à partir de 21h.\n\nDès février 2009, il le range parmi les « bars libertins ». La fiche suivante, qui annonce une « Nouvel formule ! », décrit un bar ouvert l'après-midi en semaine, puis des nuits dont le public dépendait du jour : « gay, lesbienne » le lundi et le vendredi, « hetero » les quatre autres soirs, jusqu'à 4h le vendredi et le samedi (voir l'encadré des horaires). Rien ne dit si le gang bang de 2007 a survécu au changement.\n\nÀ l'entrée de nuit, les femmes seules ne payaient rien, quand un homme seul réglait 40 €, le double d'un couple, boissons en sus. Le même principe existe en ligne : sur Carré Libertin, site ouvert en 2007, [femmes et couples disposent de tous les outils sans abonnement](aff:carre-libertin), la seule exigence étant d'afficher trois photos ou plus sur leur profil ; de quoi trouver dans le secteur des partenaires pour une sortie à Reims."
+        },
+        {
+          "kind": "text",
+          "body": "Le droit d'entrée était le seul paiement : une fois réglé, « rien ne s'achète, rien ne se vend », insistait la créatrice du club dans L'Union en janvier 2010. Un an plus tôt, le même journal titrait sur « ces petits coquins parisiens », portrait type de sa clientèle selon elle."
+        }
+      ],
+      "sources": [
+        "s2",
+        "s4",
+        "s1",
+        "s3",
+        "s18",
+        "s19"
+      ]
+    },
+    {
+      "id": "decor-pharaon",
+      "title": "Un pharaon au néon, des sphinx et un sauna à gradins",
+      "icon": "camera",
+      "summary": "Huit photos d'annuaire d'avril 2009 montrent un pharaon au néon, des sphinx, des arcades de brique, un sauna à gradins et une chambre avec douche.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Les huit photos de la fiche d'annuaire, mises en ligne vraisemblablement le 27 avril 2009 d'après le nom des fichiers, montrent un décor égyptien :"
+        },
+        {
+          "kind": "list",
+          "items": [
+            "l'enseigne au néon « LE RAMSES », sans accent, surmontée d'un masque de pharaon façon Toutânkhamon ;",
+            "un comptoir bordé de tabourets rouges ;",
+            "une salle aux arcades de brique encadrée de statues de sphinx, avec des fresques de femmes peintes aux murs ;",
+            "une cabine de sauna en bois à gradins ;",
+            "un coin salon à banquettes devant un mur lambrissé ;",
+            "une chambre avec un grand lit et une douche carrelée."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "L'annuaire y ajoute vestiaires, piste de danse avec DJ et lit rond. Nous ignorons qui a pris ces photos, encore visibles sur sauna-club-libertin.com en octobre 2026, et ne les reproduisons pas."
+        },
+        {
+          "kind": "text",
+          "body": "L'Union décrivait en janvier 2010, derrière une façade « un peu austère », le bar à l'accueil, une salle à l'étage et une autre en dessous, avec des alcôves où l'on venait aussi en fin d'après-midi."
+        }
+      ],
+      "sources": [
+        "s6",
+        "s1",
+        "s18"
+      ]
+    },
+    {
+      "id": "registre-1991-2016",
+      "title": "Du bar Saint-Loup au Ramsès, jusqu'à la liquidation de septembre 2015",
+      "icon": "history",
+      "summary": "Un bar d'habitués vers 1990, puis le Sphinx, puis un club libertin ouvert vers la fin des années 1990 ; mis en vente en 2010, son exploitant présumé est liquidé en 2015.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "D'après L'Union du 21 janvier 2010, l'adresse a d'abord abrité un bar d'habitués, le bar Saint-Loup, une vingtaine d'années plus tôt, puis le Sphinx, déjà tourné vers « les choses du charme ». Sa créatrice y a ensuite lancé le club, disant avoir vu une demande des couples. En février 2009, elle datait son enseigne de dix ans et précisait qu'avant, c'était un bar de nuit."
+        },
+        {
+          "kind": "text",
+          "body": "Au registre, la SARL Ramses, société à associé unique, a ouvert en septembre 1991 son établissement du 101 rue des Martyrs-de-la-Résistance, immatriculé comme débit de boissons. Aucune mention légale ne la désigne comme exploitante du club : nous le déduisons du nom, de l'adresse et de l'activité déclarée au BODACC en 2015, « bar, débit de boissons, hôtellerie, entrepreneur de spectacles »."
+        },
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "Vers 1990",
+              "text": "Le bar Saint-Loup, bar d'habitués, selon L'Union ; vient ensuite le Sphinx."
+            },
+            {
+              "date": "Septembre 1991",
+              "text": "Création de la SARL Ramses et ouverture de son établissement de Châlons."
+            },
+            {
+              "date": "Fin des années 1990",
+              "text": "Sa créatrice transforme le lieu en club libertin (« voilà dix ans », dit-elle en février 2009)."
+            },
+            {
+              "date": "21 janvier 2010",
+              "text": "L'Union annonce que la créatrice met le club en vente pour prendre sa retraite."
+            },
+            {
+              "date": "Mars 2015",
+              "text": "Dernier dépôt de comptes annoncé au BODACC (exercice 2014, sous confidentialité)."
+            },
+            {
+              "date": "17 septembre 2015",
+              "text": "Liquidation judiciaire ; cessation des paiements fixée au même jour."
+            },
+            {
+              "date": "18 février 2016",
+              "text": "Clôture pour insuffisance d'actif ; le registre ferme l'établissement."
+            }
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Nous ignorons si la vente annoncée en 2010 a abouti ; la SARL, elle, a déposé ses comptes jusqu'en 2015. Selon societe.com, l'affaire restait modeste : environ 57 000 € de chiffre d'affaires, en recul de 15 % sur un an (exercice non vérifié)."
+        },
+        {
+          "kind": "text",
+          "body": "La cessation des paiements ne date pas la fin des soirées : la société a pu tenir le bar sans elles dans ses dernières années. D'où notre formulation, **fermé au plus tard en 2015-2016**."
+        }
+      ],
+      "sources": [
+        "s18",
+        "s19",
+        "s8",
+        "s9",
+        "s10"
+      ]
+    },
+    {
+      "id": "fiche-figee-depuis-2011",
+      "title": "Encore listé en 2026 sur une fiche restée telle quelle depuis 2011",
+      "icon": "warning",
+      "summary": "La fiche d'annuaire encore en ligne date de 2011 ; le blog a disparu, le numéro ne renvoie à aucune entreprise, et l'issue de la vente annoncée en 2010 reste inconnue.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Si un annuaire présente encore le Ramsès comme actif, c'est que sa fiche n'a pas bougé : sur sauna-club-libertin.com, le texte de 2026 est mot pour mot celui des archives de 2011 et 2012, tarifs et photos compris. Son blog a disparu, son numéro ne renvoie plus à une entreprise, et un homonyme brouille les recherches :"
+        },
+        {
+          "kind": "list",
+          "items": [
+            "le blog Skyrock « ramses-club-sauna », désactivé par la plateforme au plus tard en mars 2011 pour non-respect de ses conditions d'utilisation, n'existe plus, et la Wayback Machine n'a conservé aucune page de son contenu ;",
+            "l'annuaire inversé de PagesJaunes ne renvoie aucune entreprise pour le 03 26 64 62 30 (relevés des 16 et 19 octobre 2026) ;",
+            "le Ramsès Libertin, 3 rue Beaurepaire à Clermont-Ferrand, est un bar homonyme sans lien connu avec celui de Châlons."
+          ]
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Une vente annoncée en 2010, un prix de 50 000 € que rien ne confirme",
+          "body": "En janvier 2010, L'Union annonçait la mise en vente du club par sa créatrice, sans citer de prix ; nous ignorons si elle a abouti. En juillet 2024, un guide en ligne a présenté le Ramsès comme un ancien club « à vendre pour 50 000 € », sans date ni lien.\n\nLe BODACC ne publie aucune vente du fonds au n° 101, et le registre n'y recense plus que deux entreprises individuelles actives, dans la rénovation (depuis 2022) et la location de logements (depuis 2025) : aucun bar ni club déclaré."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s3",
+        "s7",
+        "s15",
+        "s17",
+        "s12",
+        "s9",
+        "s11",
+        "s18"
+      ]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Lundi": "15h-20h ; nuit gay et lesbienne 21h-3h",
+      "Mardi": "15h-20h ; nuit hétéro 21h-3h",
+      "Mercredi": "15h-20h ; nuit hétéro 21h-3h",
+      "Jeudi": "15h-20h ; nuit hétéro 21h-3h",
+      "Vendredi": "15h-20h ; nuit gay et lesbienne 21h-4h",
+      "Samedi": "Nuit hétéro 21h-4h",
+      "Dimanche": "Fermé"
+    },
+    "note": "Horaires historiques, en vigueur vers 2009-2012 selon une fiche d'annuaire restée inchangée depuis. Le lieu est fermé.",
+    "confidence": "a_verifier",
+    "sources": [
+      "s1",
+      "s3"
+    ]
+  },
+  "tarifs": {
+    "rows": {
+      "Femme seule (nuit)": "Gratuit",
+      "Couple (nuit)": "20 €, consommation non comprise",
+      "Homme seul (nuit)": "40 €, consommation non comprise"
+    },
+    "note": "Tarifs historiques relevés sur la même fiche d'annuaire (vers 2009-2012). Paiement par carte ou en espèces. Aucun tarif d'après-midi publié.",
+    "confidence": "a_verifier",
+    "sources": [
+      "s1",
+      "s3"
+    ]
+  },
+  "equipements": [
+    "Sauna",
+    "Douche",
+    "Vestiaires",
+    "Bar",
+    "Piste de danse",
+    "Musique avec DJ",
+    "Lit rond"
+  ],
+  "faq": [
+    {
+      "question": "Le Ramsès à Châlons-en-Champagne est-il encore ouvert ?",
+      "answer": "Non. La SARL Ramses, exploitante probable du bar, a été mise en liquidation judiciaire le 17 septembre 2015, procédure close pour insuffisance d'actif le 18 février 2016. Les annuaires qui l'affichent encore reprennent une fiche figée depuis 2011."
+    },
+    {
+      "question": "Depuis quand le Ramsès était-il un club libertin ?",
+      "answer": "Depuis la fin des années 1990 : en février 2009, sa créatrice datait son enseigne de dix ans, dans un ancien bar de nuit, selon L'Union. La société présumée exploitante, la SARL Ramses, existe, elle, depuis septembre 1991. En janvier 2010, le même journal annonçait la mise en vente du club."
+    },
+    {
+      "question": "Existe-t-il un club libertin à Châlons-en-Champagne ?",
+      "answer": "Pas à notre connaissance : les deux lieux retenus pour la Marne par un guide d'avril 2026 sont à Reims. Sans adresse en ville, Gleese, réseau français lancé fin 2024 qui vérifie chaque profil par téléphone, permet de [s'inscrire sans enregistrer de carte bancaire](aff:gleese) et de voir qui se trouve autour de Châlons ; son principal retard reste le nombre d'inscrits."
+    },
+    {
+      "question": "Le Ramsès était-il un bar gay ?",
+      "answer": "En partie. Selon la fiche d'annuaire restée inchangée depuis au moins novembre 2011, les nuits du lundi et du vendredi étaient annoncées « gay, lesbienne », les quatre autres « hetero ». Aucune autre source ne confirme ce découpage."
+    },
+    {
+      "question": "Où trouver des photos du Ramsès ?",
+      "answer": "À notre connaissance, uniquement sur sa fiche de sauna-club-libertin.com : huit images datées vraisemblablement d'avril 2009 (enseigne, bar, salle aux sphinx, sauna, salon, chambre). Le blog officiel, désactivé en 2011, n'a laissé aucune archive."
+    }
+  ],
+  "unverified": [
+    "La date de la dernière soirée libertine : rien n'est daté après 2012, alors que la société a déposé ses comptes jusqu'en 2015.",
+    "Le lien entre la SARL Ramses et le club, déduit du nom, de l'adresse et de l'activité, faute de mentions légales.",
+    "La date exacte d'ouverture du club libertin, située vers la fin des années 1990 par sa seule créatrice.",
+    "Le prix d'entrée de l'après-midi, absent de la fiche d'annuaire.",
+    "L'issue de la mise en vente annoncée en janvier 2010 : repreneur, date, éventuel changement de formule.",
+    "L'annonce de vente à 50 000 € citée en 2024 : ni date, ni annonceur, ni lien.",
+    "Les avis de clients et d'éventuels réseaux sociaux : non trouvés ; les articles de L'Union de 2009 ne sont connus que par les extraits d'une revue de presse.",
+    "L'activité actuelle de Blue Angel 51 et de L'Atmosphère, non vérifiée ici."
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "sauna-club-libertin.com, fiche « LE RAMSES » (bar libertin)",
+      "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_3.php?id=475&d=51",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s2",
+      "label": "sauna-club-libertin.com, fiche « RAMSES », archive du 06/12/2007",
+      "url": "https://web.archive.org/web/20071206155803/http://sauna-club-libertin.com/sauna_club_libertin_3.php?id=475&d=51",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s3",
+      "label": "sauna-club-libertin.com, fiche « LE RAMSES », archives du 30/11/2011 et du 14/11/2012",
+      "url": "https://web.archive.org/web/20111130190730/http://sauna-club-libertin.com/sauna_club_libertin_3.php?id=475&d=51",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s4",
+      "label": "sauna-club-libertin.com, liste « 51 - Marne », archives du 07/02/2009 et du 15/01/2010",
+      "url": "https://web.archive.org/web/20090207235417/http://sauna-club-libertin.com/sauna_club_libertin_2.php?d=51",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s5",
+      "label": "sauna-club-libertin.com, liste « 51 - Marne » actuelle",
+      "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_2.php?d=51",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s6",
+      "label": "sauna-club-libertin.com, photos de la fiche (fichiers horodatés du 27/04/2009)",
+      "url": "https://www.sauna-club-libertin.com/photos/475_1_270409114310.jpg",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s7",
+      "label": "Blog Skyrock « ramses-club-sauna », archive du 03/03/2011 (blog désactivé)",
+      "url": "https://web.archive.org/web/20110303171655/http://ramses-club-sauna.skyrock.com/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s8",
+      "label": "Annuaire des entreprises, SARL RAMSES (SIREN 383 184 769)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/383184769",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s9",
+      "label": "BODACC, annonces commerciales de RAMSES (RCS Châlons-en-Champagne 383 184 769)",
+      "url": "https://bodacc-datadila.opendatasoft.com/explore/dataset/annonces-commerciales/table/?q=383184769",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s10",
+      "label": "societe.com, SARL RAMSES",
+      "url": "https://www.societe.com/societe/ramses-383184769.html",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s11",
+      "label": "Registre des entreprises, établissements du 101 rue des Martyrs-de-la-Résistance (51000)",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=101%20rue%20des%20martyrs%20de%20la%20resistance&code_postal=51000",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s12",
+      "label": "club-libertin-france.fr, clubs libertins à Châlons-en-Champagne (07/07/2024)",
+      "url": "https://club-libertin-france.fr/club-libertin-chalons-en-champagne/",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s13",
+      "label": "club-libertin-france.fr, clubs libertins à Reims (10/07/2024)",
+      "url": "https://club-libertin-france.fr/club-libertin-reims/",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s14",
+      "label": "saunaclublebali.fr, clubs libertins de la Marne (16/04/2026)",
+      "url": "https://www.saunaclublebali.fr/clubs-libertins-marne-51/",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s15",
+      "label": "PagesJaunes, clubs libertins à Châlons-en-Champagne et annuaire inversé",
+      "url": "https://www.pagesjaunes.fr/annuaire/chalons-en-champagne-51/clubs-libertins",
+      "type": "annuaire",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s16",
+      "label": "Site officiel du Must Club (Reims)",
+      "url": "https://www.lemustclubreims.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s17",
+      "label": "minuitlibertin.com, Le Ramsès Libertin à Clermont-Ferrand (homonyme)",
+      "url": "https://minuitlibertin.com/le-ramses-libertin-a-clermont-ferrand/",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s18",
+      "label": "L'Union, « La créatrice du Ramsès veut passer la main. Club libertin à vendre » (21/01/2010), archive du 09/02/2010",
+      "url": "https://web.archive.org/web/20100209194857/http://www.lunion.presse.fr/article/culture-et-loisirs/la-creatrice-du-ramses-veut-passer-la-main-club-libertin-a-vendre",
+      "type": "presse",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s19",
+      "label": "Le Web libertin, revue de presse « Le Ramsès » : extraits de L'Union de février et mai 2009 et janvier 2010",
+      "url": "https://weblibertin.wordpress.com/tag/le-ramses/",
+      "type": "presse",
+      "consulted": "2026-10-19"
+    }
+  ]
+}

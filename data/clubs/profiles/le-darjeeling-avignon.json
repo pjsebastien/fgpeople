@@ -1,0 +1,393 @@
+{
+  "slug": "le-darjeeling-avignon",
+  "clubId": "782",
+  "researchedAt": "2026-10-16",
+  "display": { "nom": "Le Darjeeling", "ville": "Avignon" },
+  "status": {
+    "value": "ouvert",
+    "summary": "Le 2 octobre 2026, le club a mis à jour sa page d'accueil pour annoncer son week-end, un « Samedi Débauche » et un « Dimanche Pluralité » de 14 h à 19 h, affiches à l'appui. La SARL STANDING, qui exploite le lieu sous l'enseigne Le Darjeeling, reste active au registre, dont la dernière mise à jour date du 24 septembre 2026. Le club ouvre en revanche de moins en moins : six après-midis par semaine jusqu'en septembre 2025, trois en mai 2026, deux en octobre.",
+    "sources": ["s1", "s6", "s3", "s23", "s24"]
+  },
+  "seo": {
+    "title": "Le Darjeeling, sauna club libertin à Avignon : jours et tarifs",
+    "metaDescription": "Club libertin d'après-midi sur l'île Piot, face au Palais des Papes : samedi et dimanche 14 h-19 h, couple 35 €, femme offerte avant 17 h. Point d'octobre 2026.",
+    "subtitle": "Sauna libertin mixte d'après-midi, dans l'ancienne conciergerie du château de l'Île Piot à Avignon (84)",
+    "targetQueries": [
+      "club libertin avignon",
+      "club echangiste avignon",
+      "libertine avignon",
+      "avignon club libertin",
+      "club libertins avignon",
+      "libertinage avignon",
+      "darjeeling avignon",
+      "le darjeeling club avignon",
+      "sauna libertin avignon",
+      "darjeeling avignon tarif"
+    ]
+  },
+  "lead": "Le Darjeeling n'est pas un club de nuit : c'est un sauna libertin mixte qui n'ouvre que l'après-midi, de 14 h à 19 h, dans ce que le club présente comme l'ancienne conciergerie du château de l'Île Piot, face au Palais des Papes. Ouvert au début de 2009, il a renoncé aux soirées à sa réouverture de septembre 2021, puis resserré son calendrier : le 2 octobre 2026, son site n'annonçait plus que le samedi et le dimanche. Un couple y paie 35 €, un homme seul 45 €, et l'entrée est offerte aux femmes jusqu'à 17 h.",
+  "glance": [
+    { "icon": "calendar", "label": "Ouvert", "value": "Samedi et dimanche, 14 h-19 h", "confidence": "source_unique" },
+    { "icon": "euro", "label": "Entrée couple", "value": "35 € (offerte de 14 h à 14 h 30)" },
+    { "icon": "users", "label": "Homme seul · femme seule", "value": "45 € · offerte jusqu'à 17 h, puis 10 €" },
+    { "icon": "spa", "label": "Type de lieu", "value": "Sauna libertin mixte, sans soirée" },
+    { "icon": "history", "label": "Depuis", "value": "Début 2009" },
+    { "icon": "car", "label": "Parking", "value": "Gratuit et surveillé, devant le club" }
+  ],
+  "audience": [
+    { "who": "couples", "status": "oui", "detail": "Samedi et dimanche après-midi ; entrée offerte de 14 h à 14 h 30 (octobre 2026)", "price": "35 €" },
+    { "who": "femmes", "status": "oui", "detail": "Entrée offerte jusqu'à 17 h, 10 € ensuite", "price": "0 à 10 €" },
+    { "who": "hommes", "status": "selon", "detail": "Admis le week-end ; la page Concept parle de « quelques hommes seuls », sans quota chiffré", "price": "45 €" },
+    { "who": "trans", "status": "inconnu", "detail": "Tarif à 20 € jusqu'en septembre 2025, absent des grilles de 2026 sans explication" }
+  ],
+  "highlights": [
+    "Le Darjeeling ferme à 19 h : aucun après-midi ne se prolonge en soirée depuis la réouverture de septembre 2021.",
+    "La page Agenda, figée depuis mai 2026, annonce encore le vendredi ; seule la page d'accueil donne la semaine en cours. Appelez le 06 01 89 50 16.",
+    "Aucune tenue exigée : serviette et tongs sont fournies, mais apportez vos préservatifs, la charte le demande.",
+    "Homme seul : la charte demande d'attendre qu'un couple vous invite et de ne jamais entrer dans un coin coquin sans y être convié.",
+    "Accès par le pont Daladier, direction parking de l'Île Piot, puis suivre le restaurant La Treille ; parking gratuit devant le club."
+  ],
+  "keyFacts": [
+    { "label": "Type de lieu", "value": "Sauna libertin mixte, « hétéro & gay friendly », l'après-midi seulement", "confidence": "confirme", "sources": ["s1", "s2"] },
+    { "label": "Jours d'ouverture", "value": "Samedi et dimanche, 14 h-19 h (site au 2 octobre 2026)", "confidence": "source_unique", "sources": ["s1"] },
+    { "label": "Soirées", "value": "Aucune depuis la réouverture de septembre 2021", "confidence": "confirme", "sources": ["s18", "s19", "s1"] },
+    { "label": "Public admis", "value": "Couples, femmes seules, hommes seuls ; plus de 18 ans", "confidence": "confirme", "sources": ["s1", "s2", "s5"] },
+    { "label": "Entrée", "value": "Couple 35 €, homme seul 45 €, femme seule offerte jusqu'à 17 h", "confidence": "source_unique", "sources": ["s1"] },
+    { "label": "Ouverture", "value": "Début 2009 (7e anniversaire fêté le 13 février 2016)", "confidence": "confirme", "sources": ["s6", "s7", "s11"] },
+    { "label": "Cadre", "value": "Ancienne conciergerie du château de l'Île Piot, selon le club", "confidence": "source_unique", "sources": ["s1", "s7"] },
+    { "label": "Société", "value": "SARL STANDING (SIREN 510 129 885), créée le 9 février 2009", "confidence": "confirme", "sources": ["s6", "s8"] },
+    { "label": "Stationnement", "value": "Parking privé gratuit et surveillé devant le club", "confidence": "confirme", "sources": ["s4", "s7"] }
+  ],
+  "sections": [
+    {
+      "id": "deux-apres-midis-par-semaine",
+      "title": "Samedi et dimanche, 14 h-19 h : six après-midis par semaine en 2025, deux en octobre 2026",
+      "icon": "calendar",
+      "summary": "Du mardi au dimanche jusqu'en septembre 2025, du vendredi au dimanche en mai 2026, samedi et dimanche le 2 octobre 2026 ; les prix n'ont pas bougé depuis 2023.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le Darjeeling ouvre de moins en moins. De septembre 2023 à septembre 2025, chaque capture de son site que nous avons consultée annonce la même formule : tous les après-midis du mardi au dimanche, de 14 h à 19 h. En mai 2026, il n'était plus question que du vendredi, du samedi et du dimanche, avec une ouverture exceptionnelle le jeudi de l'Ascension, le 14 mai. Le 2 octobre 2026, la page d'accueil réduit encore la semaine : l'encadré des horaires comme le bandeau « cette semaine » n'annoncent plus que le samedi et le dimanche."
+        },
+        {
+          "kind": "text",
+          "body": "Ce resserrement ne ressemble pas à une fin d'activité : le site est tenu à jour, les affiches du week-end sont neuves et la société exploitante est active. Il rend en revanche les annuaires trompeurs : l'un annonce encore le jeudi-dimanche, d'autres des soirées disparues depuis 2021. Même la page Agenda du site, inchangée depuis le 7 mai 2026, annonce toujours le vendredi."
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Avant de venir un vendredi",
+          "body": "Le club annonce son programme semaine par semaine, dans un bandeau « cette semaine » de la page d'accueil de ledarjeeling.fr, la seule page du site tenue à jour. Un appel au 06 01 89 50 16, le seul numéro inscrit en texte sur le site, évite de trouver porte close."
+        },
+        {
+          "kind": "table",
+          "caption": "Jours d'ouverture et prix d'entrée relevés sur le site officiel et ses archives",
+          "headers": ["Relevé", "Jours d'ouverture", "Couple", "Homme seul", "Femme seule"],
+          "rows": [
+            ["Janvier 2016", "Après-midis du mardi au vendredi et le dimanche (14 h 30-19 h), soirées vendredi et samedi dès 22 h 30", "Après-midi : 35 € en semaine, 30 € le dimanche", "Après-midi : 40 €", "10 € ; offerte le jeudi et le dimanche après-midi"],
+            ["Octobre 2021", "Après-midis du mardi au dimanche, club fermé le soir", "30 €", "40 €", "Offerte (au moins les mardis, mercredis et vendredis)"],
+            ["Septembre 2023", "Après-midis du mardi au dimanche", "35 €", "45 €", "Offerte"],
+            ["Mai 2025", "Après-midis du mardi au dimanche", "35 €", "45 €", "Offerte jusqu'à 17 h, puis 10 €"],
+            ["Mai 2026", "Vendredi, samedi et dimanche après-midi", "35 €", "45 €", "Offerte jusqu'à 17 h, puis 10 €"],
+            ["2 octobre 2026", "Samedi et dimanche après-midi", "35 €", "45 €", "Offerte jusqu'à 17 h, puis 10 €"]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Les prix, eux, n'ont pas bougé depuis 2023. Seule la catégorie « trans, trav », facturée 10 € en 2021 puis 20 € jusqu'en septembre 2025, a disparu des grilles de mai et d'octobre 2026, sans explication publiée."
+        }
+      ],
+      "sources": ["s1", "s3", "s11", "s18", "s19", "s21", "s23", "s24", "s26", "s27", "s28"]
+    },
+    {
+      "id": "face-aux-autres-adresses-d-avignon",
+      "title": "Fermé à 19 h, sans soirée : Le Darjeeling face aux autres adresses libertines d'Avignon",
+      "icon": "map",
+      "summary": "Le Darjeeling est un sauna d'après-midi ; le soir, le Club Aphrodite ouvre du jeudi au samedi. L'Île aux Plaisirs a disparu et « Le Pearl » reste introuvable.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Les deux lieux libertins d'Avignon dont nous avons vérifié l'activité en octobre 2026 ne se ressemblent guère. Le Darjeeling est un sauna : on laisse ses vêtements au vestiaire, on circule en serviette entre les bassins, les saunas, le lounge et les coins coquins, et tout se joue entre 14 h et 19 h. Le site le décrit comme un « club libertin mixte, hétéro & gay friendly » et emploie aussi, dans ses mots-clés, l'expression de club échangiste. Pour sortir le soir, il faut aller ailleurs : [le Club Aphrodite](/club-aphrodite-avignon) ouvre le jeudi de 21 h à 3 h en soirée mixte, puis le vendredi et le samedi à partir de 22 h 30, réservés aux couples et aux femmes seules."
+        },
+        {
+          "kind": "text",
+          "body": "Deux autres noms circulent et appellent une mise au point. [L'Île aux Plaisirs](/l-ile-aux-plaisir-avignon), sur l'île de la Barthelasse, a disparu de longue date : son site, encore capturé en ligne en mai 2009, renvoie dès juin 2009 vers celui du Vynil's Klub, et n'est plus en 2011 qu'une page parking annonçant le domaine à vendre. Quant au « Pearl », qu'un blog tenu par un établissement concurrent présentait en février 2026 comme un vaste sauna libertin avignonnais, nous ne lui avons trouvé ni adresse, ni site, ni société."
+        },
+        {
+          "kind": "text",
+          "body": "Pour un après-midi en semaine, maintenant que Le Darjeeling se limite au week-end, il faut quitter Avignon. Un annuaire recense dans le Vaucluse [La Licorne d'Or à Carpentras](/la-licorne-d-or-carpentras), [le Sunlight Club à Monteux](/le-sunlight-club-monteux) et Les Thermes de la Nesque à Pernes-les-Fontaines ; leurs jours d'ouverture n'ont pas été vérifiés pour cette fiche. L'ensemble des lieux du secteur figure sur [la page consacrée au Vaucluse](/departement/vaucluse) et sur [celle des adresses d'Avignon](/ville/avignon)."
+        },
+        {
+          "kind": "callout",
+          "tone": "info",
+          "title": "Rien à voir avec la lingerie Darjeeling",
+          "body": "À Avignon, le nom Darjeeling désigne aussi des boutiques de lingerie, rue de la République, avenue Pierre-Sémard et à Auchan Le Pontet : ce sont les seules que PagesJaunes renvoie sous ce nom. Le sauna, lui, n'y a pas de fiche. Il se trouve au 24 chemin de l'Île Piot."
+        }
+      ],
+      "sources": ["s1", "s2", "s29", "s30", "s31", "s32", "s33"]
+    },
+    {
+      "id": "qui-entre-et-la-charte",
+      "title": "Homme seul à 45 €, femme offerte jusqu'à 17 h : qui entre, et ce que la charte demande",
+      "icon": "users",
+      "summary": "Couples 35 €, hommes seuls 45 €, femmes seules offertes jusqu'à 17 h ; la charte impose de respecter le moindre refus et demande aux hommes seuls d'attendre d'être invités.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Sur la page d'accueil, les encadrés du week-end annoncent des après-midis « ouvert aux couples, hommes seuls et filles ». La page Concept est plus nuancée : le sauna y accueille les couples, les femmes seules et « quelques hommes seuls en journée ». Aucun plafond n'est chiffré aujourd'hui ; en 2017, le club parlait d'une « sélection stricte » le soir et d'un nombre limité d'hommes seuls l'après-midi. L'entrée est réservée aux plus de 18 ans."
+        },
+        {
+          "kind": "text",
+          "body": "Le barème avantage nettement les femmes et les couples : l'homme seul paie 45 € à toute heure, 10 € de plus qu'un couple, quand une femme seule n'a rien à régler avant 17 h."
+        },
+        {
+          "kind": "list",
+          "title": "La charte publiée par le club, en six points",
+          "items": [
+            "**Pas de dress code l'après-midi** : chacun circule en serviette, fournie, mais on peut rester habillé au lounge.",
+            "**Un refus clôt la discussion** : au premier non, même d'un simple regard, on cesse et l'on s'éloigne.",
+            "**Portes et rideaux ont un sens** : fermés, ils signalent qu'on veut rester entre soi ; ouverts, ils permettent d'entrer, pas de participer sans y être invité.",
+            "**Aucun commentaire** sur le physique, la tenue ou les pratiques des autres, surtout devant les coins coquins.",
+            "**Préservatifs** à apporter et à utiliser ; drogue interdite, alcool avec modération.",
+            "**Rien de payant entre clients** : tout échange d'argent vaut exclusion immédiate, et le club précise qu'on n'y pratique pas de massage."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Les hommes seuls ont droit à un paragraphe à part : rester discrets, attendre qu'un couple vienne vers eux, et ne pas entrer dans un coin coquin sans être certains d'y être conviés. Un homme qui arrive sans connaître personne dépend donc de l'accueil de la salle. Pour [se faire connaître de couples du Grand Avignon avant le week-end](aff:gleese), Gleese, site libertin français ouvert fin 2024, s'inscrit sans carte bancaire et contrôle chaque profil par un numéro de téléphone ; la plateforme étant jeune, mieux vaut regarder combien de couples vauclusiens y sont actifs avant d'y compter."
+        }
+      ],
+      "sources": ["s1", "s2", "s5", "s13"]
+    },
+    {
+      "id": "apres-midis-a-theme",
+      "title": "Samedi Débauche, Dimanche Pluralité et les bracelets de couleur du samedi",
+      "icon": "sparkles",
+      "summary": "En octobre 2026 : Samedi Débauche et Dimanche Pluralité. Au printemps 2025, le samedi proposait des bracelets de couleur et un coaching pour débutants.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Chaque après-midi porte un nom, qui change au fil des mois. Le week-end annoncé le 2 octobre 2026 s'intitule « Samedi Débauche » et « Dimanche Pluralité », deux après-midis en sauna mixte de 14 h à 19 h. En mai 2026, le samedi s'appelait encore « Samedi Tentation »."
+        },
+        {
+          "kind": "text",
+          "body": "C'est ce samedi-là qui intéressera les débutants. Au printemps 2025, le club y proposait des bracelets de couleur selon ce que chacun recherche, et le présentait comme un coaching « idéal débutants ». Le site d'octobre 2026 ne dit pas si le Samedi Débauche reprend ce système : la question mérite d'être posée par téléphone. Les bracelets règlent les choses une fois sur place ; un couple qui préfère arriver avec un rendez-vous déjà fixé peut [proposer un samedi au sauna à d'autres couples vauclusiens](aff:carre-libertin) sur Carré Libertin. Né en 2007, ce site laisse femmes et couples utiliser toutes ses fonctions gratuitement, pourvu que leur profil affiche trois photos."
+        },
+        {
+          "kind": "list",
+          "title": "Les intitulés relevés depuis la réouverture de 2021",
+          "items": [
+            "**2021** : « Mardi Why not Bi », sauna coquin le mercredi, « Jeudi sans interdit », « Pulsion sexe » le samedi, « Pluralité » le dimanche ; une soirée Fetish annoncée sans date.",
+            "**2023-2024** : « Jeudi sans interdit », gratuit pour les femmes en 2023, puis « Jeudi Pluralité », consacré à la pluralité masculine ; « Dimanche Hot », avec les couples invités de 14 h à 14 h 30.",
+            "**2025** : « Samedis Tentations » avec bracelets et coaching au printemps ; week-ends « Summer Sex » prolongés jusqu'à 20 h l'été, couples invités de 14 h à 15 h ; mardis « Why not Be » (sic) en septembre ; « Dimanche Hot » en mai comme en septembre.",
+            "**2026** : « Samedi Tentation » puis « Samedi Débauche », et « Dimanche Pluralité », avec l'entrée offerte aux couples la première heure en mai (une fois par mois), la première demi-heure en octobre."
+          ]
+        }
+      ],
+      "sources": ["s1", "s18", "s19", "s20", "s21", "s22", "s23", "s24"]
+    },
+    {
+      "id": "bassins-saunas-lounge",
+      "title": "Jacuzzi chromatique, sauna finlandais « géant » et lounge aux murs roses laqués",
+      "icon": "spa",
+      "summary": "Jacuzzi chromatique, jacuzzi extérieur l'été, saunas infrarouge et finlandais, lounge rose et léopard ; le site ne mentionne ni restaurant ni hôtel, et exclut les massages.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le club distingue une partie humide et une partie sèche. Côté balnéo, il annonce un jacuzzi qu'il dit multisensoriel, avec un bassin chromatique à jets et sièges bouillonnants où varient lumière et parfum, un second jacuzzi en extérieur pendant l'été, un sauna infrarouge et un sauna finlandais qualifié de « géant », le tout accompagné d'aromathérapie et de chromothérapie. Cette liste est presque mot pour mot celle du site de 2016, et dès 2009 le club mettait en avant un sauna sec et un sauna finlandais."
+        },
+        {
+          "kind": "text",
+          "body": "Côté sec, le lounge et son bar sont l'endroit où l'on peut rester en vêtements de ville. Le club le décrivait en 2017 « entre pampilles et panthère », avec des murs roses laqués. Les deux mosaïques de photos de la page d'accueil, mises en ligne en juillet 2023, montrent ce décor : murs capitonnés roses, banquettes à motif léopard, lustres à pampilles et canapé baroque noir pour le lounge ; jacuzzi éclairé en bleu, tête de Bouddha et lanterne ajourée pour la partie balnéo. Le site actuel n'a pas de page galerie, et l'image d'un fauteuil rouge qui les accompagne est une illustration, pas une photo du club. Les coins coquins se ferment par une porte ou un rideau, et un patio sert l'été : le site annonçait son ouverture pour le dimanche 22 juin 2025."
+        },
+        {
+          "kind": "callout",
+          "tone": "info",
+          "title": "Ce que le site ne permet pas de confirmer",
+          "body": "Le club affirme suivre un protocole de nettoyage et de désinfection « très rigoureux » et cite « plusieurs magazines étrangers » qui l'auraient érigé en référence de l'hygiène, sans en nommer un seul : nous n'avons rien pu vérifier. Par ailleurs, un annuaire spécialisé prête au Darjeeling un restaurant (il en fait le « premier resto-club-sauna » d'Avignon), un hôtel, un solarium, une piste de danse avec DJ ou des massages. Le site officiel n'en dit rien, et sa charte exclut expressément les massages."
+        }
+      ],
+      "sources": ["s1", "s2", "s5", "s7", "s12", "s15", "s22", "s26"]
+    },
+    {
+      "id": "acces-pont-daladier",
+      "title": "Par le pont Daladier, jusqu'à l'ancienne conciergerie du château de l'Île Piot",
+      "icon": "car",
+      "summary": "Pont Daladier, direction parking de l'Île Piot, puis suivre le restaurant La Treille ; un parking privé, gratuit et surveillé, est devant le club.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le sauna occupe, selon le club, l'ancienne conciergerie du château de l'Île Piot, face au Palais des Papes et à deux minutes du centre-ville ; il l'écrit depuis son premier site, en 2009. Pour s'y rendre, le club indique de franchir le pont Daladier en direction du parking de l'Île Piot, puis de suivre le restaurant La Treille, qu'un annuaire situe juste à côté. Un parking privé, gratuit et surveillé, s'étend devant l'entrée ; le site de 2009 le disait déjà gratuit « nuit & jour »."
+        }
+      ],
+      "sources": ["s1", "s4", "s7", "s26"]
+    },
+    {
+      "id": "histoire-2009-2026",
+      "title": "De février 2009 à octobre 2026 : des nuits « Dirty » au sauna du week-end",
+      "icon": "history",
+      "summary": "Ouvert début 2009 avec après-midis et soirées, fermé pendant le Covid, rouvert en septembre 2021 l'après-midi seulement, puis ramené à deux ou trois jours en 2026.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Les archives du site, capturé en ligne dès le 1er février 2009, permettent de suivre le club presque année par année."
+        },
+        {
+          "kind": "timeline",
+          "items": [
+            { "date": "Février 2009", "text": "Création de la SARL STANDING le 9 février. Premier site : spa multisensoriel avec sauna sec et sauna finlandais, salons privés, « Espace Bar Lounge Salon de Thé Tisanerie », ambiance revendiquée « Cosy and so British ». Le club annonce une « sélection rigoureuse à l'entrée » et un dress code « Sexy - Chic et Soigné »." },
+            { "date": "2014", "text": "Après-midis du mardi au vendredi et le dimanche à partir de 14 h 30, soirées le vendredi et le samedi dès 22 h 30, et un jeudi non-stop de 14 h 30 à 1 h." },
+            { "date": "2015", "text": "Nouveau site, avec des rubriques sauna, lounge, hygiène, sélection et dress code ; l'été, un « Jeudi après-midi GB Deluxe » et des vendredis soir « D.I.R.T.Y » en août." },
+            { "date": "13 février 2016", "text": "7e anniversaire. Le 8e suit le samedi 11 mars 2017. Le soir, la tenue sexy est alors exigée des femmes, sans pantalon ni chaussures plates." },
+            { "date": "Septembre 2019", "text": "Ouverture du mercredi au dimanche l'après-midi ; le vendredi soir « Dirty » et le samedi soir « spécial débutants & femmes seules », dès 22 h 30." },
+            { "date": "Janvier 2021", "text": "Le site affiche une fermeture temporaire « jusqu'à nouvel ordre », liée aux mesures nationales contre le Covid-19." },
+            { "date": "Septembre 2021", "text": "Réouverture tous les après-midis du mardi au dimanche, de 14 h à 19 h, avec masque, gel et patio ouvert. Le site précise que le club reste fermé le soir." },
+            { "date": "Septembre 2023", "text": "Nouveau site, qui affiche le 06 01 89 50 16 ; toujours du mardi au dimanche, 14 h-19 h." },
+            { "date": "Été 2025", "text": "Le site apparaît sous le domaine ledarjeeling.fr (première capture en août 2025) ; patio d'été ouvert le dimanche 22 juin, week-ends « Summer Sex » jusqu'à 20 h." },
+            { "date": "Mai 2026", "text": "Ouverture limitée au vendredi, au samedi et au dimanche, plus le jeudi de l'Ascension, 14 mai." },
+            { "date": "2 octobre 2026", "text": "Samedi et dimanche seulement, selon la page d'accueil." }
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Deux ruptures se dégagent : la crise sanitaire, après laquelle les soirées ne sont pas revenues, et la réduction des jours d'ouverture, engagée entre septembre 2025 et mai 2026."
+        }
+      ],
+      "sources": ["s1", "s3", "s6", "s7", "s9", "s10", "s11", "s12", "s14", "s16", "s17", "s18", "s19", "s22", "s24", "s25"]
+    },
+    {
+      "id": "sarl-standing-et-telephones",
+      "title": "SARL STANDING, un numéro actuel et deux anciens : qui exploite le club et comment le joindre",
+      "icon": "building",
+      "summary": "Exploité par la SARL STANDING (SIREN 510 129 885), active ; le site n'affiche en texte que le 06 01 89 50 16, mais ses affiches portent deux anciens numéros.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le site actuel ne publie aucune mention légale : sa page de conditions générales est un texte de remplissage (« Lorem ipsum »). L'exploitant se retrouve au registre des entreprises. La SARL STANDING (SIREN 510 129 885), créée le 9 février 2009 et toujours active, a son siège et son unique établissement au 24 chemin de l'Île Piot, sous l'enseigne « LE DARJEELING ». Elle est déclarée en « entretien corporel » (code NAF 96.04Z) et sans salarié. Les métadonnées du site signaient déjà « standing concept » en 2009 et « sarl standing » en 2013."
+        },
+        {
+          "kind": "text",
+          "body": "Un seul numéro figure en texte sur toutes les pages : le 06 01 89 50 16, affiché depuis septembre 2023 au moins, avec l'adresse darjeelingclub@gmail.com. Les affiches du week-end publiées le 2 octobre 2026 portent pourtant deux numéros plus anciens, le 04 90 25 99 32 et le 06 20 37 60 45, ainsi que l'ancienne adresse ledarjeeling.com, qui redirige aujourd'hui vers ledarjeeling.fr. Nous n'avons appelé aucun de ces numéros. La page Facebook vers laquelle pointe le site, facebook.com/darjeelingclub, n'est pas lisible sans compte."
+        }
+      ],
+      "sources": ["s1", "s5", "s6", "s7", "s8", "s10", "s12", "s19", "s25"]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Lundi à vendredi": "Pas d'ouverture annoncée",
+      "Samedi": "14 h - 19 h (Samedi Débauche)",
+      "Dimanche": "14 h - 19 h (Dimanche Pluralité)"
+    },
+    "note": "Relevé sur la page d'accueil mise à jour le 2 octobre 2026. La page Agenda du site, inchangée depuis le 7 mai 2026, annonce encore le vendredi : appelez le 06 01 89 50 16 avant de venir.",
+    "confidence": "source_unique",
+    "sources": ["s1", "s3"]
+  },
+  "tarifs": {
+    "rows": {
+      "Couple": "35 € (entrée offerte de 14 h à 14 h 30)",
+      "Homme seul": "45 €",
+      "Femme seule": "Offerte jusqu'à 17 h, puis 10 €",
+      "Compris": "Entrée, installations du sauna sans limite, vestiaire, serviette 70 × 140, tongs",
+      "En supplément": "Serviettes supplémentaires, peignoir"
+    },
+    "note": "Tarifs du samedi et du dimanche affichés le 2 octobre 2026. En mai 2026, l'entrée offerte aux couples courait de 14 h à 15 h, « valable 1 fois/mois » ; la fréquence actuelle n'est pas précisée.",
+    "confidence": "source_unique",
+    "sources": ["s1", "s24"]
+  },
+  "equipements": [
+    "Jacuzzi multisensoriel à bassin chromatique",
+    "Jacuzzi extérieur (en été)",
+    "Sauna infrarouge",
+    "Sauna finlandais",
+    "Lounge avec bar (zone sèche)",
+    "Coins coquins avec portes et rideaux",
+    "Patio d'été",
+    "Vestiaires",
+    "Parking privé gratuit et surveillé"
+  ],
+  "officialLinks": [
+    { "label": "Site officiel (programme de la semaine en page d'accueil)", "url": "https://www.ledarjeeling.fr/", "kind": "site" },
+    { "label": "Charte et équipements (page Concept)", "url": "https://www.ledarjeeling.fr/concept.html", "kind": "autre" },
+    { "label": "Plan d'accès et formulaire de contact", "url": "https://www.ledarjeeling.fr/plan.html", "kind": "autre" },
+    { "label": "Page Facebook darjeelingclub", "url": "https://facebook.com/darjeelingclub", "kind": "facebook" }
+  ],
+  "corrections": {
+    "adresse": "24 chemin de l'Île Piot",
+    "telephone": "06 01 89 50 16",
+    "email": "darjeelingclub@gmail.com",
+    "site_web": "https://www.ledarjeeling.fr/",
+    "sources": ["s1", "s6", "s25"]
+  },
+  "faq": [
+    {
+      "question": "Le Darjeeling est-il un club libertin ou un sauna ?",
+      "answer": "Un sauna libertin mixte : on y passe l'après-midi en serviette entre jacuzzi, saunas, lounge et coins coquins. Le club se dit « hétéro & gay friendly » et n'organise plus de soirée depuis sa réouverture de septembre 2021 ; il ferme à 19 h."
+    },
+    {
+      "question": "Quels jours Le Darjeeling est-il ouvert ?",
+      "answer": "Le samedi et le dimanche de 14 h à 19 h, selon la page d'accueil du 2 octobre 2026, contre trois jours en mai 2026 et six jusqu'en septembre 2025. La page Agenda, figée depuis mai, annonce encore le vendredi : vérifiez au 06 01 89 50 16."
+    },
+    {
+      "question": "Une femme seule peut-elle venir au Darjeeling ?",
+      "answer": "Oui, et elle ne paie rien avant 17 h (10 € ensuite). La charte prévient les hommes que les femmes présentes « ne sont pas ici à votre disposition », et elle vaut pour tous : un simple regard de refus oblige à reculer."
+    },
+    {
+      "question": "Un homme seul est-il admis au Darjeeling ?",
+      "answer": "Oui, pour 45 €, le samedi comme le dimanche selon la page d'accueil d'octobre 2026. Mais la page Concept n'évoque que « quelques hommes seuls en journée », sans chiffre, et la charte leur demande d'attendre qu'un couple les invite."
+    },
+    {
+      "question": "Que faut-il apporter ?",
+      "answer": "Des préservatifs : la charte demande de s'en munir. Aucune tenue particulière : l'après-midi se passe en serviette (70 × 140 cm, fournie avec les tongs) et l'on peut rester habillé au lounge. Peignoir et serviette supplémentaire sont payants."
+    },
+    {
+      "question": "Où sortir le soir à Avignon, puisque Le Darjeeling ferme à 19 h ?",
+      "answer": "À Avignon, le Club Aphrodite ouvre le soir : le jeudi de 21 h à 3 h en mixte, le vendredi et le samedi dès 22 h 30 pour les couples et les femmes seules, selon son site consulté le 16 octobre 2026. Pour une autre date, plus loin dans le Vaucluse ou dans le Gard, on peut [chercher une soirée le long du Rhône dans l'agenda de Wyylde](aff:wyylde), le site de l'ex-Netéchangisme : un compte gratuit suffit pour le consulter, mais converser avec les membres demande un abonnement."
+    }
+  ],
+  "unverified": [
+    "La fréquence actuelle de l'entrée offerte aux couples de 14 h à 14 h 30 : en mai 2026, l'offre était limitée à une fois par mois.",
+    "Le retour éventuel du vendredi : la page Agenda l'annonce encore, la page d'accueil du 2 octobre 2026 non.",
+    "Le nombre d'hommes seuls admis par après-midi, que la page Concept limite à « quelques » sans chiffre.",
+    "La reprise des bracelets de couleur et du coaching débutants du Samedi Tentation dans le Samedi Débauche.",
+    "La validité des numéros 04 90 25 99 32 et 06 20 37 60 45, encore imprimés sur les affiches d'octobre 2026.",
+    "La note du club sur les plateformes d'avis : un guide relaie 4,2/5 sur 30 avis, sans date ni plateforme, que nous n'avons pas pu consulter nous-mêmes.",
+    "Les « magazines étrangers » qui auraient cité le club pour son hygiène, jamais nommés.",
+    "D'éventuels articles de la presse régionale sur le club : cette recherche reste à mener."
+  ],
+  "sources": [
+    { "id": "s1", "label": "Site officiel, page d'accueil (mise à jour du 2 octobre 2026)", "url": "https://www.ledarjeeling.fr/", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s2", "label": "Site officiel, page Concept (public, équipements, charte)", "url": "https://www.ledarjeeling.fr/concept.html", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s3", "label": "Site officiel, page Agenda (modifiée le 7 mai 2026)", "url": "https://www.ledarjeeling.fr/agenda.html", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s4", "label": "Site officiel, page Plan (accès et parking)", "url": "https://www.ledarjeeling.fr/plan.html", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s5", "label": "Site officiel, pages secondaires (avertissement 18 ans, conditions générales factices, images du décor)", "url": "https://www.ledarjeeling.fr/_tos.html", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s6", "label": "Registre des entreprises, SARL STANDING (SIREN 510 129 885)", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/510129885", "type": "registre", "consulted": "2026-10-16" },
+    { "id": "s7", "label": "Site officiel, archive du 01/02/2009", "url": "https://web.archive.org/web/20090201014553/http://ledarjeeling.com/", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s8", "label": "Site officiel, archive du 21/06/2013 (métadonnées « sarl standing »)", "url": "https://web.archive.org/web/20130621005459/http://www.ledarjeeling.com/", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s9", "label": "Site officiel, archive du 21/05/2014 (horaires 2014)", "url": "https://web.archive.org/web/20140521022610/http://lamode.free.fr/", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s10", "label": "Site officiel, page Concept, archive du 05/08/2015", "url": "https://web.archive.org/web/20150805224802/http://www.ledarjeeling.com/?page_id=82", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s11", "label": "Site officiel, page Tarifs, archive du 29/01/2016", "url": "https://web.archive.org/web/20160129105804/http://www.ledarjeeling.com/?page_id=107", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s12", "label": "Site officiel, pages Sauna, Hygiène et Philosophie, archives du 29/01/2016", "url": "https://web.archive.org/web/20160129105855/http://www.ledarjeeling.com/?page_id=89", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s13", "label": "Site officiel, page Sélection, archive du 24/01/2017", "url": "https://web.archive.org/web/20170124050415/http://www.ledarjeeling.com/?page_id=86", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s14", "label": "Site officiel, page FAQ, archive du 22/02/2017 (8e anniversaire)", "url": "https://web.archive.org/web/20170222232039/http://www.ledarjeeling.com/?page_id=122", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s15", "label": "Site officiel, page Lounge, archive du 22/05/2017", "url": "https://web.archive.org/web/20170522184253/http://www.ledarjeeling.com/?page_id=90", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s16", "label": "Site officiel, archive du 01/10/2019", "url": "https://web.archive.org/web/20191001210055/http://www.ledarjeeling.com/", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s17", "label": "Site officiel, billet « Fermeture temporaire », archive du 17/01/2021", "url": "https://web.archive.org/web/20210117144349/http://www.ledarjeeling.com/?p=2103", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s18", "label": "Site officiel, archive du 23/10/2021 (réouverture)", "url": "https://web.archive.org/web/20211023210204/http://www.ledarjeeling.com/index11.php/", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s19", "label": "Site officiel, archive du 23/09/2023", "url": "https://web.archive.org/web/20230923201557/https://ledarjeeling.com/index.html", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s20", "label": "Site officiel, archive du 11/09/2024", "url": "https://web.archive.org/web/20240911203308/http://www.ledarjeeling.com/", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s21", "label": "Site officiel, archive du 15/05/2025", "url": "https://web.archive.org/web/20250515150908/http://www.ledarjeeling.com/", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s22", "label": "Site officiel, archive du 03/08/2025", "url": "https://web.archive.org/web/20250803200719/https://www.ledarjeeling.fr/", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s23", "label": "Site officiel, archive du 05/09/2025", "url": "https://web.archive.org/web/20250905143346/https://www.ledarjeeling.fr/", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s24", "label": "Site officiel, archive du 15/05/2026", "url": "https://web.archive.org/web/20260515191134/https://www.ledarjeeling.fr/", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s25", "label": "Index des captures Wayback de ledarjeeling.com (2009-2025)", "url": "https://web.archive.org/cdx/search/cdx?url=ledarjeeling.com", "type": "autre", "consulted": "2026-10-16" },
+    { "id": "s26", "label": "sauna-club-libertin.com, fiche n° 782 (annuaire non daté)", "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_3.php?id=782&d=84", "type": "annuaire", "consulted": "2026-10-16" },
+    { "id": "s27", "label": "fuxxy.fr, fiche Le Darjeeling (annuaire non daté)", "url": "https://fuxxy.fr/club-libertin/avignon/le-darjeeling", "type": "annuaire", "consulted": "2026-10-16" },
+    { "id": "s28", "label": "kinkyee.fr, Club libertin Avignon (guide non daté)", "url": "https://kinkyee.fr/club-libertin/avignon/", "type": "annuaire", "consulted": "2026-10-16" },
+    { "id": "s29", "label": "saunaclublebali.fr, Clubs libertins dans le Vaucluse (blog d'un établissement concurrent, 14/02/2026)", "url": "https://www.saunaclublebali.fr/clubs-libertins-dans-le-vaucluse-84-panorama-des-etablissements-a-avignon-et-carpentras/", "type": "autre", "consulted": "2026-10-16" },
+    { "id": "s30", "label": "PagesJaunes, recherche « le darjeeling » à Avignon", "url": "https://www.pagesjaunes.fr/recherche/avignon-84/le-darjeeling", "type": "annuaire", "consulted": "2026-10-16" },
+    { "id": "s31", "label": "fuxxy.fr, annuaire des clubs (Vaucluse)", "url": "https://fuxxy.fr/clubs", "type": "annuaire", "consulted": "2026-10-16" },
+    { "id": "s32", "label": "Club Aphrodite, site officiel, page Philosophie (jours et publics)", "url": "https://clubaphrodite.fr/philosophie/", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s33", "label": "Archive de ile-aux-plaisirs.com : redirection vers le Vynil's Klub (16/06/2009), domaine à vendre (29/04/2011)", "url": "https://web.archive.org/cdx/search/cdx?url=ile-aux-plaisirs.com&fl=timestamp,statuscode&collapse=timestamp:6", "type": "autre", "consulted": "2026-10-16" }
+  ]
+}

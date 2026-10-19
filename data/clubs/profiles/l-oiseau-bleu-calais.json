@@ -1,0 +1,753 @@
+{
+  "slug": "l-oiseau-bleu-calais",
+  "clubId": "15005",
+  "researchedAt": "2026-10-16",
+  "display": {
+    "nom": "L'Oiseau Bleu",
+    "ville": "Calais"
+  },
+  "status": {
+    "value": "ferme",
+    "summary": "« Ferme Définitivement » : la page d'accueil du site du sauna affichait cette mention le 17 mars 2018. Le registre des entreprises date la cessation d'activité du 31 janvier 2018, la radiation a paru au BODACC le 27 février 2018, et la liquidation judiciaire ouverte en 2019 a été close en juin 2021 pour insuffisance d'actif. Le domaine saunaclubloiseaubleu.com n'existe plus.",
+    "sources": [
+      "s1",
+      "s12",
+      "s13",
+      "s14"
+    ]
+  },
+  "seo": {
+    "title": "L'Oiseau Bleu à Calais : sauna libertin fermé depuis 2018",
+    "metaDescription": "Le Sauna Club L'Oiseau Bleu, 24 rue Mignard, a fermé début 2018. Les preuves datées, son spa de nage, ses tarifs 2017 et le sauna encore actif à Calais.",
+    "subtitle": "Ancien sauna libertin mixte, gay et lesbien de la rue Mignard, à Calais (62), fermé début 2018",
+    "targetQueries": [
+      "club libertin calais",
+      "sauna libertin calais",
+      "club echangiste calais",
+      "libertin calais",
+      "libertine calais",
+      "club libertin pas de calais",
+      "club libertin nord pas de calais",
+      "sauna libertin pas de calais",
+      "libertine pas de calais"
+    ]
+  },
+  "lead": "Au 24 rue Mignard, à Calais, L'Oiseau Bleu a été un sauna libertin ouvert, selon les créneaux, aux couples, aux personnes seules, aux gays et aux lesbiennes, avec un spa de nage à contre-courant, un hammam oriental et, le lundi après-midi, des séances d'aquagym. Il a fermé au début de 2018 : cessation enregistrée au 31 janvier, fermeture définitive annoncée sur son site en mars. Le lieu libertin dont l'activité est vérifiée à Calais en 2026 est un autre sauna, le Pourquoi Pas, rue Rembrandt.",
+  "glance": [
+    {
+      "icon": "closed",
+      "label": "Fermé",
+      "value": "Depuis le début de 2018"
+    },
+    {
+      "icon": "history",
+      "label": "En activité",
+      "value": "De l'été 2012 au plus tard à janvier 2018",
+      "confidence": "a_verifier"
+    },
+    {
+      "icon": "calendar",
+      "label": "Derniers créneaux (2017)",
+      "value": "Ven. et sam. soir, dimanche après-midi",
+      "confidence": "source_unique"
+    },
+    {
+      "icon": "euro",
+      "label": "Samedi (2017)",
+      "value": "Couple 30 € · homme 37 € · femme 10 €",
+      "confidence": "source_unique"
+    },
+    {
+      "icon": "map",
+      "label": "Adresse",
+      "value": "24 rue Mignard, 62100 Calais"
+    },
+    {
+      "icon": "heart",
+      "label": "Sauna ouvert à Calais",
+      "value": "Le Pourquoi Pas, 26 rue Rembrandt"
+    }
+  ],
+  "audience": [
+    {
+      "who": "couples",
+      "status": "oui",
+      "detail": "Vendredi et samedi soir, dimanche après-midi (2017) ; pass découverte le samedi",
+      "price": "25 à 30 €"
+    },
+    {
+      "who": "femmes",
+      "status": "oui",
+      "detail": "Sur tous les créneaux de 2017 ; 5 € le dernier samedi du mois avec la carte",
+      "price": "10 €"
+    },
+    {
+      "who": "hommes",
+      "status": "selon",
+      "detail": "Le samedi sous conditions, carte de membre parfois exigée ; 40 € après 23 h",
+      "price": "25 à 40 €"
+    }
+  ],
+  "highlights": [
+    "Le sauna de la rue Mignard est fermé depuis le début de 2018 : cessation au 31 janvier, « Ferme Définitivement » sur son site en mars.",
+    "À Calais en 2026, le sauna libertin en activité est le Pourquoi Pas, 26 rue Rembrandt, qui reçoit hétéros, bis et gays, sans soirée réservée aux couples.",
+    "Les annuaires qui affichent encore son téléphone et ses horaires recopient une fiche de 2013 jamais mise à jour : ne vous y fiez pas.",
+    "Le domaine saunaclubloiseaubleu.com n'est plus celui du club : redirigé vers un site de rencontres dès octobre 2018, il n'existe plus en 2026.",
+    "Les saunas recensés à Lens, Béthune et Bruay-la-Buissière n'ont pas été vérifiés pour cette fiche : consultez leurs canaux officiels avant la route."
+  ],
+  "keyFacts": [
+    {
+      "label": "Statut",
+      "value": "Fermé depuis le début de 2018 (cessation au 31 janvier)",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s13",
+        "s14"
+      ]
+    },
+    {
+      "label": "Adresse",
+      "value": "24 rue Mignard, 62100 Calais",
+      "confidence": "confirme",
+      "sources": [
+        "s2",
+        "s11",
+        "s13"
+      ]
+    },
+    {
+      "label": "Exploitation",
+      "value": "Entreprise individuelle immatriculée en novembre 2010, liquidée entre 2019 et 2021",
+      "confidence": "confirme",
+      "sources": [
+        "s13",
+        "s14"
+      ]
+    },
+    {
+      "label": "Période d'activité",
+      "value": "De l'été 2012 au plus tard jusqu'au début de 2018",
+      "confidence": "a_verifier",
+      "sources": [
+        "s10",
+        "s12",
+        "s13"
+      ]
+    },
+    {
+      "label": "Public",
+      "value": "Mixte, gay et lesbien selon les jours",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s4"
+      ]
+    },
+    {
+      "label": "Derniers jours d'ouverture (2017)",
+      "value": "Vendredi soir, samedi soir, dimanche après-midi",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s2",
+        "s4"
+      ]
+    },
+    {
+      "label": "Entrée couple le samedi (2017)",
+      "value": "30 €",
+      "confidence": "source_unique",
+      "sources": [
+        "s4"
+      ]
+    },
+    {
+      "label": "Bassins",
+      "value": "Spa de nage à contre-courant, jacuzzi, balnéo, hammam, sauna",
+      "confidence": "confirme",
+      "sources": [
+        "s2",
+        "s8"
+      ]
+    },
+    {
+      "label": "Lieu actif à Calais en 2026",
+      "value": "Sauna Pourquoi Pas, 26 rue Rembrandt",
+      "confidence": "confirme",
+      "sources": [
+        "s22"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "spa-de-nage-hammam-aquagym-du-lundi",
+      "title": "Spa de nage, hammam oriental et aquagym du lundi : un sauna à deux entrées",
+      "icon": "water",
+      "summary": "Spa de nage à contre-courant, jacuzzi, hammam de 40 à 60 °C et sauna, plus des séances d'aquagym le lundi à 20 € : le lieu jouait aussi la remise en forme.",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s7",
+        "s8",
+        "s9",
+        "s11",
+        "s14"
+      ],
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "La page d'accueil du site du club ouvrait sur deux portes, le « site Libertin » et le « site remise en forme ». Au registre, l'activité déclarée en 2010 était celle d'un lieu de détente pour majeurs, avec sauna, spa, jacuzzi, restauration rapide et salle de télévision et de lecture.\n\nSelon les pages archivées entre 2013 et 2018, on y trouvait :"
+        },
+        {
+          "kind": "list",
+          "items": [
+            "un spa de nage à contre-courant, un jacuzzi et un bassin de balnéo à hydromassage ;",
+            "un hammam oriental aromatisé, annoncé entre 40 et 60 °C, avec une douche intérieure, et un sauna baptisé « deluxe » ;",
+            "des backrooms et des cabines dont la porte fermait, les « petits coins câlins », réglables en lumière grâce à un variateur ;",
+            "un bar, une petite restauration, une salle de repos, une bibliothèque et un fumoir ;",
+            "en 2013, une salle de télévision, une salle de spectacle et un espace discothèque."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le jour, la lumière entrait par de petites fenêtres et des dômes ; le soir, l'éclairage restait tamisé. Le club indiquait 25 °C en moyenne l'été et 31 °C l'hiver, ainsi qu'un accès pour les personnes à mobilité réduite (2013 et 2015). Pour le réveillon 2016-2017, il annonçait l'inauguration d'un nouveau bassin à remous à minuit. Le slogan du site, « Meilleurs Equipements de la région », reste une formule du club, invérifiable. En septembre 2017, il reconnaissait aussi que l'entrée côté rue ne payait pas de mine et annonçait des travaux de façade.\n\n**La remise en forme du lundi.** L'après-midi, les bassins accueillaient gym, aquagym, balnéothérapie et luminothérapie : 20 € la séance, ou 15 € avec une carte à 30 € valable quatre mois (quatre séances par mois au minimum), sur réservation 48 heures à l'avance, peignoir, maillot et deux petites bouteilles d'eau à apporter."
+        }
+      ]
+    },
+    {
+      "id": "sept-jours-en-2015-trois-creneaux-en-2017",
+      "title": "Sept jours sur sept en 2015, trois créneaux en 2017 : qui entrait quel jour",
+      "icon": "calendar",
+      "summary": "Sept jours sur sept en juin 2015, fermé du lundi au jeudi à partir du printemps 2017 ; l'homme seul payait 37 € le samedi, 40 € après 23 h.",
+      "confidence": "source_unique",
+      "sources": [
+        "s1",
+        "s4",
+        "s5",
+        "s6",
+        "s9"
+      ],
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le site distinguait deux publics : « Mixte » (couples, femmes seules, hommes seuls) et « Multigenre », qui y ajoutait gays et lesbiennes. Les grilles archivées montrent une semaine qui s'élargit entre 2013 et 2015, puis se resserre."
+        },
+        {
+          "kind": "table",
+          "caption": "Jours et publics selon la page « Horaires » du site officiel (archives de janvier 2013 et de juin 2015)",
+          "headers": [
+            "Jour",
+            "Janvier 2013",
+            "Juin 2015"
+          ],
+          "rows": [
+            [
+              "Lundi",
+              "14 h-20 h, mixte",
+              "14 h-20 h, mixte"
+            ],
+            [
+              "Mardi",
+              "après-midi et soir, gay puis multigenre (grille ambiguë)",
+              "14 h-24 h, multigenre"
+            ],
+            [
+              "Mercredi",
+              "fermé",
+              "14 h-20 h, gay (15 €, café et viennoiserie offerts)"
+            ],
+            [
+              "Jeudi",
+              "14 h-20 h, mixte",
+              "14 h-20 h, mixte"
+            ],
+            [
+              "Vendredi",
+              "14 h-20 h mixte, puis 20 h-1 h multigenre",
+              "20 h-1 h, multigenre, discothèque dès 22 h"
+            ],
+            [
+              "Samedi",
+              "20 h-2 h, mixte, carte de membre obligatoire",
+              "20 h-2 h, mixte"
+            ],
+            [
+              "Dimanche",
+              "14 h-20 h, multigenre, thé dansant",
+              "14 h-19 h, multigenre, musique d'ambiance"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Entre février et juin 2017, l'accueil du site a annoncé un sauna fermé du lundi au jeudi, sauf deux ouvertures exceptionnelles le jeudi 25 mai et le lundi 5 juin 2017. Restaient le vendredi soir, le samedi soir et le dimanche après-midi (voir l'encadré des horaires et tarifs), confirmés en septembre par la page « Horaires 2017 ».\n\nUne page « mardi et vendredi », en ligne depuis avril 2016, annonçait aussi un mardi de 14 h à 19 h, moins cher dès 18 h et gratuit pour les femmes seules. Inchangée depuis janvier 2017, elle est restée en ligne après l'annonce de la fermeture en semaine : rien n'indique que ce mardi ait encore eu lieu ensuite.\n\n**Les hommes seuls.** Ils entraient sous conditions le samedi : dix au maximum en 2013, carte de membre obligatoire en 2015, « peut être obligatoire » en 2017. Leur entrée du samedi est passée de 35 € (2013) à 37 € (2015), puis à 40 € après 23 h (2017), quand le couple payait 25 puis 30 € et la femme seule 10 € tout du long. Les moins de 26 ans avaient un tarif réduit sur pièce d'identité ; les groupes d'hommes et les personnes ivres étaient refusés. En 2017, les gays étaient admis le samedi avec la carte de membre (15 €) et le dimanche (10 €)."
+        }
+      ]
+    },
+    {
+      "id": "calais-2026-pourquoi-pas-rue-rembrandt",
+      "title": "Calais en 2026 : le Pourquoi Pas, rue Rembrandt, seul lieu à l'activité vérifiée",
+      "icon": "heart",
+      "summary": "Le Sauna Pourquoi Pas, 26 rue Rembrandt, publie des annonces datées jusqu'en août 2026 ; il reçoit toutes les orientations mais a renoncé aux soirées couples.",
+      "sources": [
+        "s19",
+        "s20",
+        "s21",
+        "s22",
+        "s23"
+      ],
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Si vous cherchez aujourd'hui un sauna libertin à Calais, l'adresse est [le Sauna Pourquoi Pas](/le-pourquoi-pas-calais), au 26 rue Rembrandt, seul établissement de la ville dont nous ayons vérifié l'activité en 2026 : son site publie des annonces datées de mai à août 2026, dont une ouverture « 100 % mecs » le 14 juillet, une fermeture pour travaux du 7 au 15 août et l'annonce de ses 21 ans, prévus en septembre.\n\nCe n'est pas une reprise de L'Oiseau Bleu : l'adresse diffère, et la société immatriculée au 26 rue Rembrandt pour la même activité date de juin 2005, ce qui concorde avec les 21 ans revendiqués (rapprochement de notre part, non confirmé par le club). Les deux saunas ont donc coexisté à Calais pendant plusieurs années.\n\nComme l'ancien sauna de la rue Mignard, le Pourquoi Pas reçoit toutes les orientations, hétéro, bi et gay. Il précise sur son site avoir tenté des soirées réservées aux couples, sans succès. Les couples qui veulent en rencontrer d'autres dans le secteur ont donc intérêt à s'organiser avant de sortir : [entrer en contact avec des couples de la Côte d'Opale](aff:carre-libertin) ne coûte rien sur Carré Libertin, où les couples et les femmes ont un accès complet gratuit dès qu'ils publient trois photos de profil.\n\nLes autres annuaires consultés en octobre 2026 vont dans le même sens : fuxxy.fr ne liste que le Pourquoi Pas à Calais, PagesJaunes aucun club libertin dans le département. Un guide en ligne de juillet 2024 cite un « QG Bar », « nouveau bar libertin privé » calaisien dont nous n'avons trouvé ni adresse, ni site, ni société."
+        }
+      ]
+    },
+    {
+      "id": "lens-bethune-bruay-saunas-du-departement",
+      "title": "Lens, Béthune, Bruay-la-Buissière : d'autres adresses du Pas-de-Calais, à vérifier avant la route",
+      "icon": "car",
+      "summary": "Orelax à Lens, saunamusezvous à Béthune et Abxara à Bruay-la-Buissière figurent dans un annuaire spécialisé ; leur activité en 2026 n'est pas vérifiée ici.",
+      "sources": [
+        "s17"
+      ],
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "L'annuaire spécialisé dont venait notre ancienne fiche recense sept établissements dans le département, dont L'Oiseau Bleu et le Pourquoi Pas. Il classe trois des autres comme saunas, tous à l'autre bout du Pas-de-Calais, dans le bassin minier : [Orelax à Lens](/orelax-lens), [saunamusezvous à Béthune](/saunamusezvous-bethune) et [Abxara à Bruay-la-Buissière](/abxara-bruay-la-buissiere). Cette fiche n'a pas vérifié leur activité en 2026 : consultez leur fiche et leurs canaux officiels avant de faire le trajet. La [page Pas-de-Calais de l'annuaire](/departement/pas-de-calais) regroupe aussi les clubs de L'Osmose, à Aire-sur-la-Lys, et du Cupidon, à Loison-sur-Créquoise.\n\nPour savoir si une soirée est réellement programmée dans la région un week-end donné, [repérer une date dans les Hauts-de-France sur l'agenda de Wyylde](aff:wyylde) est possible avec un simple compte gratuit sur ce site, qui s'appelait Netéchangisme jusqu'en 2018. Sans abonnement, la messagerie y reste à sens unique, on reçoit sans pouvoir répondre, mais rien n'empêche de vérifier l'agenda avant de prendre la route vers le bassin minier."
+        }
+      ]
+    },
+    {
+      "id": "registre-novembre-2010-cloture-juin-2021",
+      "title": "Du registre de novembre 2010 à la clôture de juin 2021",
+      "icon": "history",
+      "summary": "Immatriculé en novembre 2010, premiers clients connus à l'été 2012, cessation en janvier 2018, liquidation close pour insuffisance d'actif en juin 2021.",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s4",
+        "s10",
+        "s12",
+        "s13",
+        "s14"
+      ],
+      "blocks": [
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "22 novembre 2010",
+              "text": "Début d'activité de l'entreprise individuelle « Sauna Club L'Oiseau Bleu », immatriculée le 5 novembre au 24 rue Mignard."
+            },
+            {
+              "date": "Été 2012",
+              "text": "Premiers messages du livre d'or, le plus ancien daté du 25 août 2012."
+            },
+            {
+              "date": "Janvier 2013",
+              "text": "Première version archivée du site : six jours d'ouverture, carte de membre obligatoire, paiement en espèces uniquement."
+            },
+            {
+              "date": "Juin 2015",
+              "text": "Ouverture sept jours sur sept, dont un après-midi gay le mercredi ; la carte bancaire est acceptée."
+            },
+            {
+              "date": "Printemps 2017",
+              "text": "Entre février et juin, le site annonce la fermeture du lundi au jeudi ; restent le vendredi soir, le samedi soir et le dimanche après-midi."
+            },
+            {
+              "date": "Janvier à mars 2018",
+              "text": "Cessation d'activité au 31 janvier, radiation au BODACC le 27 février, « Ferme Définitivement » sur l'accueil du site le 17 mars."
+            },
+            {
+              "date": "2019-2021",
+              "text": "Liquidation judiciaire prononcée le 2 septembre 2019, close le 16 juin 2021 pour insuffisance d'actif."
+            }
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Entre l'immatriculation de 2010 et les premiers messages de 2012, les sources sont muettes : la date d'ouverture au public reste inconnue. Des messages du livre d'or parlent des « 2 patrons » ; l'entreprise, elle, était au nom d'une seule personne, que nous ne citons pas."
+        }
+      ]
+    },
+    {
+      "id": "fin-du-sauna-debut-2018",
+      "title": "« Ferme Définitivement » : le sauna a annoncé lui-même sa fin, sans dire pourquoi",
+      "icon": "closed",
+      "summary": "Le club a affiché « Ferme Définitivement » sur son site en mars 2018 ; registre, BODACC et domaine expiré confirment la fin, sans reprise connue rue Mignard.",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s2",
+        "s12",
+        "s13",
+        "s14",
+        "s15",
+        "s16",
+        "s18",
+        "s19"
+      ],
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le premier des cinq indices vient du club lui-même ; les quatre autres, de sources qui ne dépendent pas de lui."
+        },
+        {
+          "kind": "list",
+          "items": [
+            "**Le site du sauna.** Il affichait encore l'ouverture du dimanche le 15 février 2018 ; le 17 mars, sa page d'accueil portait la mention « Ferme Définitivement », visible jusqu'en juin 2018.",
+            "**Le registre des entreprises.** L'entreprise individuelle exploitant le « Sauna Club L'Oiseau Bleu » y figure comme cessée au 31 janvier 2018, son unique établissement comme fermé.",
+            "**Le BODACC.** Radiation publiée le 27 février 2018, puis liquidation judiciaire prononcée le 2 septembre 2019 par le tribunal de commerce de Boulogne-sur-Mer, qui a fixé la cessation des paiements au 31 janvier 2018. La procédure a été close pour insuffisance d'actif le 16 juin 2021.",
+            "**Le nom de domaine.** Expiré dès juillet 2018, redirigé ensuite vers un site de rencontres, saunaclubloiseaubleu.com n'existe plus en octobre 2026.",
+            "**L'adresse.** Ni le registre ni le BODACC ne montrent d'entreprise de sauna, de bar ou de loisirs immatriculée au 24 rue Mignard après le club : rien n'indique une reprise."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "La date à retenir est donc le début de 2018 ; les horaires encore affichés mi-février tiennent probablement à une page mise à jour avec retard. Aucune des sources consultées n'explique pourquoi le sauna a fermé."
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Pourquoi d'autres sites le donnent encore ouvert",
+          "body": "La fiche de sauna-club-libertin.com, dont s'inspirait notre ancienne fiche, affiche le même texte depuis octobre 2013 et n'a jamais signalé la fermeture. lieuxcoquins.fr a publié la sienne le 19 avril 2018, un mois après l'annonce, avec des horaires mal convertis (« 08:00–01:00 » le vendredi pour le 20 h-1 h du club). Un guide en ligne de juillet 2024 décrit encore le lieu au présent, sans adresse ni date. Aucune de ces pages ne prouve d'activité après 2018."
+        }
+      ]
+    },
+    {
+      "id": "dix-regles-d-or-et-petits-oiseaux-bleus",
+      "title": "Téléphones bannis et aucun rapport dans les bassins : les « dix règles d'or » de 2016",
+      "icon": "shield",
+      "summary": "Téléphones interdits, nudité sous la serviette, douche avant chaque bassin et aucun rapport dans l'eau ; carte de membre à 20 € pour six mois dès août 2016.",
+      "confidence": "source_unique",
+      "sources": [
+        "s4",
+        "s5",
+        "s6"
+      ],
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le règlement intérieur, archivé en août 2016, tenait en dix articles. L'essentiel :"
+        },
+        {
+          "kind": "list",
+          "items": [
+            "téléphones et appareils photo strictement interdits dans l'établissement ;",
+            "nudité intégrale sous la serviette ou le peignoir dès l'entrée, douche obligatoire en arrivant puis avant chaque passage au jacuzzi, au hammam, au spa de nage ou au sauna ;",
+            "aucun rapport sexuel dans ces quatre espaces, des cabines étant prévues pour cela ;",
+            "préservatifs offerts, et leur usage systématique demandé ;",
+            "respect de toutes les orientations, hétéro, bi ou homo ;",
+            "tabac au seul fumoir, boissons et friandises apportées de l'extérieur interdites, comme les substances illicites, la prostitution et le racket."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le règlement ajoutait deux consignes : préserver l'anonymat d'une personne reconnue sur place, et prévenir le responsable si quelqu'un réclame votre numéro ou vous propose de le suivre chez lui.\n\n**Carte de membre et « petits oiseaux bleus ».** Obligatoire en 2013 (10 € par an, pièce d'identité à l'appui), la carte ne l'était plus en 2015, sauf pendant les soirées spéciales et, selon les périodes, pour les hommes seuls le samedi. À partir d'août 2016, elle coûtait 20 € pour six mois. Chaque passage carte en main valait un « petit oiseau bleu », dix d'entre eux une entrée gratuite, et les couples venus pour la première fois un samedi recevaient un « pass découverte » qui les dispensait de carte.\n\nCe pass n'existe plus depuis 2018. Pour une première approche qui ne coûte rien, [mesurer sur Gleese le nombre de profils calaisiens](aff:gleese) se fait sans enregistrer de carte bancaire. Ce site français ouvert fin 2024 contrôle chaque inscription par téléphone ; sa communauté reste plus mince que celle des réseaux historiques, et c'est justement ce que cette visite gratuite permet d'évaluer pour le Calaisis."
+        }
+      ]
+    },
+    {
+      "id": "the-dansant-couscous-reveillon-2016",
+      "title": "Thé dansant, couscous et réveillon à 60 € : les soirées de 2013 à 2017",
+      "icon": "music",
+      "summary": "Discothèque le vendredi et le samedi, thé dansant puis musique d'ambiance le dimanche, réveillon 2016 à 60 € le couple ; aucun avis indépendant relevé.",
+      "confidence": "source_unique",
+      "sources": [
+        "s1",
+        "s3",
+        "s4",
+        "s8",
+        "s9",
+        "s10"
+      ],
+      "blocks": [
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "2013",
+              "text": "Discothèque le vendredi soir dès 21 h et le samedi, annoncé comme « la fièvre du samedi soir » ; thé dansant le dimanche après-midi."
+            },
+            {
+              "date": "Novembre 2014",
+              "text": "L'accueil du site annonce le « Retour du couscous »."
+            },
+            {
+              "date": "2015",
+              "text": "Discothèque le vendredi dès 22 h, buffet froid offert, musique d'ambiance le dimanche à la place du thé dansant."
+            },
+            {
+              "date": "2016",
+              "text": "Soirée « bar d'ambiance » avec apéritif offert."
+            },
+            {
+              "date": "31 décembre 2016",
+              "text": "Réveillon de 21 h à 5 h, porte fermée à 23 h, tenue de soirée, boissons à volonté, carte de membre obligatoire : 60 € pour un couple ou un homme seul, 20 € pour une femme seule."
+            },
+            {
+              "date": "10 juin 2017",
+              "text": "Soirée barbecue, connue seulement par un message du livre d'or."
+            }
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "**Ce que vaut le livre d'or.** Aucune note ni aucun avis daté n'apparaît sur les annuaires consultés, et les avis Google n'ont pas pu être relevés pour cette fiche. Restent les messages du livre d'or, d'août 2012 à juillet 2017 : un lieu découvert à l'été 2012, aux débuts calmes, puis des repas maison le samedi soir en 2016. Tenu par le club et entièrement favorable, il ne vaut pas avis indépendant."
+        }
+      ]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Vendredi": "20 h - 1 h",
+      "Samedi": "20 h - 2 h",
+      "Dimanche": "14 h - 17 h 30",
+      "Lundi à jeudi": "Fermé (remise en forme le lundi après-midi)"
+    },
+    "note": "Dernier état connu : page « Horaires 2017 » du site officiel, archivée le 15 septembre 2017. Le sauna a fermé au début de 2018, ces horaires ne s'appliquent plus.",
+    "confidence": "source_unique",
+    "sources": [
+      "s1",
+      "s4"
+    ]
+  },
+  "tarifs": {
+    "rows": {
+      "Samedi, couple": "30 €",
+      "Samedi, homme seul": "37 € (40 € après 23 h)",
+      "Samedi, femme seule": "10 €",
+      "Vendredi, couple ou homme seul": "30 € (femme seule 10 €)",
+      "Dimanche, couple ou homme seul": "25 € (femme seule 10 €)",
+      "Dernier samedi du mois, avec la carte de membre": "20 € (femme seule 5 €)",
+      "Carte de membre": "20 € pour six mois"
+    },
+    "note": "Tarifs 2017 relevés sur les archives du site officiel. Espèces ou carte bancaire, pas de chèque ; clé de vestiaire, serviette et sodas compris. Plus en vigueur depuis la fermeture.",
+    "confidence": "source_unique",
+    "sources": [
+      "s2",
+      "s4",
+      "s5",
+      "s9"
+    ]
+  },
+  "equipements": [
+    "Spa de nage à contre-courant",
+    "Jacuzzi",
+    "Balnéo et hydromassage",
+    "Hammam oriental",
+    "Sauna",
+    "Backrooms",
+    "Coins câlins fermés",
+    "Bar et petite restauration",
+    "Salle de repos",
+    "Bibliothèque",
+    "Fumoir",
+    "Espace discothèque"
+  ],
+  "faq": [
+    {
+      "question": "L'Oiseau Bleu, le sauna libertin de Calais, est-il encore ouvert ?",
+      "answer": "Non. Il a cessé son activité au début de 2018 : cessation au 31 janvier selon le registre, fermeture définitive annoncée sur son site en mars. La liquidation ouverte en 2019 a été close en 2021, et aucune reprise n'a été enregistrée rue Mignard."
+    },
+    {
+      "question": "Quel sauna libertin est ouvert à Calais ?",
+      "answer": "Le Sauna Pourquoi Pas, 26 rue Rembrandt, est le seul lieu libertin de Calais dont nous ayons vérifié l'activité en 2026 : son site publie des annonces datées jusqu'à fin août 2026. Il reçoit toutes les orientations mais n'organise pas de soirées réservées aux couples, qu'il dit avoir essayées sans succès."
+    },
+    {
+      "question": "Existe-t-il un club échangiste à Calais ?",
+      "answer": "Aucun dans les sources consultées en octobre 2026, le Pourquoi Pas étant un sauna. PagesJaunes ne recense aucun club libertin à Calais ni dans le département, et le « QG Bar » cité par un guide en ligne en 2024 reste introuvable : ni adresse, ni site, ni société identifiée. La [page Calais de notre annuaire](/ville/calais) liste les lieux connus de la ville."
+    },
+    {
+      "question": "Le Pourquoi Pas a-t-il remplacé L'Oiseau Bleu ?",
+      "answer": "Non. Deux établissements, deux adresses (26 rue Rembrandt, 24 rue Mignard), deux entreprises. Le Pourquoi Pas, qui annonçait ses 21 ans pour septembre 2026, existait avant L'Oiseau Bleu et lui a survécu."
+    },
+    {
+      "question": "Combien coûtait l'entrée à L'Oiseau Bleu ?",
+      "answer": "D'après la dernière grille, celle de 2017 : le samedi soir, 30 € pour un couple, 37 € pour un homme seul (40 € après 23 h) et 10 € pour une femme seule ; le dimanche après-midi, 25 € pour un couple ou un homme seul. Clé de vestiaire, serviette et sodas étaient compris."
+    },
+    {
+      "question": "Où trouver un sauna libertin ailleurs dans le Pas-de-Calais ?",
+      "answer": "Notre annuaire en recense dans le bassin minier, à Lens, Béthune et Bruay-la-Buissière, mais leur activité n'a pas été vérifiée pour cette fiche : consultez leurs fiches et leurs canaux officiels avant de vous déplacer."
+    }
+  ],
+  "unverified": [
+    "La date d'ouverture au public : l'entreprise a démarré le 22 novembre 2010, mais les premières traces de clients datent de l'été 2012.",
+    "Les raisons de la fermeture : aucune annonce ni aucun article consulté ne les donne.",
+    "La presse locale (Nord Littoral, La Voix du Nord) et les avis Google n'ont pas pu être consultés pour cette fiche.",
+    "Le mardi affiché sur le site de 2016 à 2018 a-t-il continué après l'annonce de la fermeture en semaine, au printemps 2017 ?",
+    "L'usage du local du 24 rue Mignard depuis 2018.",
+    "L'existence et l'adresse du « QG Bar » présenté en 2024 comme bar libertin privé à Calais.",
+    "L'activité en 2026 des saunas de Lens, Béthune et Bruay-la-Buissière."
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Site officiel saunaclubloiseaubleu.com, page d'accueil (archives de janvier 2013 à juin 2018, dont celle du 17 mars 2018)",
+      "url": "https://web.archive.org/web/20180317235647/http://www.saunaclubloiseaubleu.com/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s2",
+      "label": "Site officiel, page principale : équipements, adresse, mentions de fermeture (archive du 21 juin 2018)",
+      "url": "https://web.archive.org/web/20180621074605/http://www.saunaclubloiseaubleu.com/2.htm",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s3",
+      "label": "Site officiel, ancienne page « installations modernes » (archive du 5 octobre 2013)",
+      "url": "https://web.archive.org/web/20131005201537/http://www.saunaclubloiseaubleu.com/installations%20modernes%20-%20copier.htm",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s4",
+      "label": "Site officiel, page « Horaires » et tarifs (archives de janvier 2013, juin 2015 et septembre 2017)",
+      "url": "https://web.archive.org/web/20170915102038/http://www.saunaclubloiseaubleu.com/index_3.htm",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s5",
+      "label": "Site officiel, page « Adhérents » : carte de membre et fidélité (archives de 2013 et 2017)",
+      "url": "https://web.archive.org/web/20170915102157/http://www.saunaclubloiseaubleu.com/index_6.htm",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s6",
+      "label": "Site officiel, règlement intérieur des « dix règles d'or » (archive du 28 août 2016)",
+      "url": "https://web.archive.org/web/20160828072249/http://www.saunaclubloiseaubleu.com/8%20-%20copier.htm",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s7",
+      "label": "Site officiel, page « Remise en forme » (archive du 15 septembre 2017)",
+      "url": "https://web.archive.org/web/20170915102125/http://www.saunaclubloiseaubleu.com/index_15.htm",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s8",
+      "label": "Site officiel, pages équipements, coins câlins et discothèque (archives de 2013 à 2018)",
+      "url": "https://web.archive.org/web/20170915102054/http://www.saunaclubloiseaubleu.com/index_4.htm",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s9",
+      "label": "Site officiel, pages soirées, réveillon 2016 et tarifs du mardi et du vendredi (archives de 2015 à 2018, page du mardi en ligne depuis avril 2016)",
+      "url": "https://web.archive.org/web/20170421150455/http://www.saunaclubloiseaubleu.com/index_45.htm",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s10",
+      "label": "Livre d'or du site officiel, messages de clients de 2012 à 2017 publiés par le club (archive du 21 juin 2018)",
+      "url": "https://web.archive.org/web/20180621072230/http://www.saunaclubloiseaubleu.com/index_13.htm",
+      "type": "avis",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s11",
+      "label": "Site officiel, page « Contact et plan » (archive du 15 septembre 2017)",
+      "url": "https://web.archive.org/web/20170915102023/http://www.saunaclubloiseaubleu.com/index_11.htm",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s12",
+      "label": "Wayback Machine, historique des captures de saunaclubloiseaubleu.com (2013-2021) et test du domaine en octobre 2026",
+      "url": "https://web.archive.org/cdx/search/cdx?url=saunaclubloiseaubleu.com*&fl=timestamp,original,statuscode",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s13",
+      "label": "Annuaire des entreprises, entreprise individuelle « Sauna Club L'Oiseau Bleu » (cessée au 31 janvier 2018)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/528219744",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s14",
+      "label": "BODACC, annonces de l'entreprise (création 2010, radiation 2018, liquidation 2019, clôture 2021)",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:B20180040755",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s15",
+      "label": "Registre des entreprises, établissements enregistrés au 24 rue Mignard à Calais",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=24%20rue%20mignard&code_postal=62100",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s16",
+      "label": "sauna-club-libertin.com, fiche « L'Oiseau Bleu » (texte inchangé depuis 2013)",
+      "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_3.php?id=15005&d=62",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s17",
+      "label": "sauna-club-libertin.com, établissements du Pas-de-Calais",
+      "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_2.php?d=62",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s18",
+      "label": "lieuxcoquins.fr, fiche « L'Oiseau Bleu » publiée le 19 avril 2018",
+      "url": "https://www.lieuxcoquins.fr/lieu/loiseau-bleu/",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s19",
+      "label": "club-libertin-france.fr, « Club libertin Calais » (article du 9 juillet 2024)",
+      "url": "https://club-libertin-france.fr/club-libertin-calais/",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s20",
+      "label": "fuxxy.fr, clubs libertins à Calais",
+      "url": "https://fuxxy.fr/club-libertin/calais",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s21",
+      "label": "PagesJaunes, clubs libertins à Calais et dans le Pas-de-Calais",
+      "url": "https://www.pagesjaunes.fr/annuaire/calais-62/clubs-libertins",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s22",
+      "label": "Site officiel du Sauna Pourquoi Pas, autre établissement de Calais (publications de mai à août 2026)",
+      "url": "https://www.saunapourquoipas.com/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s23",
+      "label": "Annuaire des entreprises, société du 26 rue Rembrandt à Calais (NAF 96.04Z, créée en 2005)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/483063459",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    }
+  ]
+}

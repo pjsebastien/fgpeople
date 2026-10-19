@@ -1,0 +1,723 @@
+{
+  "slug": "le-lotus-d-or-montlucon-domerat",
+  "clubId": "5",
+  "researchedAt": "2026-10-16",
+  "display": {
+    "nom": "Le Lotus d'Or",
+    "ville": "Montluçon-Domérat"
+  },
+  "status": {
+    "value": "ferme",
+    "summary": "Le tribunal de commerce de Montluçon a placé la SARL DDMMJ, qui exploitait le club depuis 2015, en liquidation judiciaire le 16 avril 2021, avec une cessation des paiements fixée au 16 octobre 2019 ; la procédure a été close en mars 2022 sans qu'aucune reprise du fonds ne soit publiée. Le site lotusdor.net n'annonçait plus de soirée après juin 2016 et était hors service dès août 2017.",
+    "sources": [
+      "s1",
+      "s2",
+      "s3",
+      "s4",
+      "s6",
+      "s7"
+    ]
+  },
+  "seo": {
+    "title": "Le Lotus d'Or à Domérat (Montluçon) : fermé, liquidé en 2021",
+    "metaDescription": "Club libertin du 45 avenue des Martyrs à Domérat, liquidé en 2021 : son histoire depuis 2003, ses tarifs de 2004 à 2016 et le club ouvert le plus proche.",
+    "subtitle": "Ancienne discothèque libertine avec sauna et hammam sur trois niveaux à Domérat (03)",
+    "targetQueries": [
+      "lotus d'or montluçon",
+      "lotus d'or domérat",
+      "le lotus d'or club libertin",
+      "lotus d'or fermé",
+      "club libertin montluçon",
+      "club échangiste allier"
+    ]
+  },
+  "lead": "Au 45 avenue des Martyrs, à Domérat, aux portes de Montluçon, le Lotus d'Or a réuni, au moins de 2003 à 2016, une discothèque libertine, un sauna-hammam et sept salons à thèmes sur trois niveaux. Il est fermé : sa dernière société exploitante a été liquidée en avril 2021 puis radiée en 2022, et aucune reprise du fonds n'a été publiée. Le club ouvert le plus proche que nous ayons pu vérifier se trouve à Riom, à environ 65 km.",
+  "keyFacts": [
+    {
+      "label": "Statut",
+      "value": "Fermé : exploitant liquidé le 16 avril 2021, radié en 2022",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s2",
+        "s3",
+        "s38"
+      ]
+    },
+    {
+      "label": "Adresse",
+      "value": "45 avenue des Martyrs, 03410 Domérat",
+      "confidence": "confirme",
+      "sources": [
+        "s29",
+        "s30",
+        "s3",
+        "s13",
+        "s32"
+      ]
+    },
+    {
+      "label": "Activité attestée en ligne",
+      "value": "De 2003 à juin 2016",
+      "confidence": "confirme",
+      "sources": [
+        "s7",
+        "s8",
+        "s6"
+      ]
+    },
+    {
+      "label": "Concept",
+      "value": "Discothèque libertine mixte avec sauna et hammam",
+      "confidence": "confirme",
+      "sources": [
+        "s21",
+        "s22"
+      ]
+    },
+    {
+      "label": "Espaces",
+      "value": "Trois niveaux, sept salons à thèmes ; jacuzzi et patio cités à partir de 2015",
+      "confidence": "confirme",
+      "sources": [
+        "s21",
+        "s22",
+        "s15",
+        "s18"
+      ]
+    },
+    {
+      "label": "Exploitants successifs",
+      "value": "SARL Lotus Club (créée en 2002), exploitant individuel (2009-2015), SARL DDMMJ (2015, liquidée en 2021)",
+      "confidence": "confirme",
+      "sources": [
+        "s9",
+        "s10",
+        "s11",
+        "s13",
+        "s3"
+      ]
+    },
+    {
+      "label": "Public admis",
+      "value": "En 2016 : couples, femmes seules (gratuit), hommes sélectionnés à l'entrée",
+      "confidence": "confirme",
+      "sources": [
+        "s17",
+        "s14",
+        "s28"
+      ]
+    },
+    {
+      "label": "Dernier tarif connu",
+      "value": "Samedi soir : couple 15 €, homme seul 38 € (octobre 2016)",
+      "confidence": "source_unique",
+      "sources": [
+        "s28"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "liquidation-avril-2021",
+      "title": "Liquidé en avril 2021, radié en 2022 : la fin du club au registre",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "La fin du Lotus d'Or se lit dans les annonces légales. Le 16 avril 2021, le tribunal de commerce de Montluçon a ouvert la liquidation judiciaire de la **SARL DDMMJ**, exploitante depuis février 2015, en fixant au **16 octobre 2019** la cessation de ses paiements. La procédure a été close pour insuffisance d'actif le 18 mars 2022, et la société radiée.\n\nAucune reprise du fonds n'apparaît : depuis 2015, le BODACC ne publie à Domérat ni nouvelle vente de ce fonds ni création d'un autre club, et en octobre 2026 aucune entreprise active au 45 avenue des Martyrs n'exerce d'activité de bar, de club ou de sauna. Le domaine lotusdor.net a lui aussi échappé au club au plus tard en mars 2019, et il n'est plus enregistré en octobre 2026."
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Dernière soirée : 2016, 2017 ou 2019 ?",
+          "body": "La date n'est pas connue. Le dernier programme mis en ligne couvre les soirées du 16 au 30 juin 2016, toujours affichées en avril 2017 ; le site renvoyait une erreur dès août 2017. Entre cette date et la cessation des paiements d'octobre 2019, aucune source consultée ne dit si les portes ouvraient encore. Les derniers comptes déposés par la société, ceux de 2016, font état de 51 243 € de chiffre d'affaires et d'une perte de 17 479 € ; aucun compte n'a été publié pour 2017 ni pour les années suivantes."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s19",
+        "s20",
+        "s37",
+        "s38"
+      ],
+      "icon": "closed",
+      "summary": "Liquidation de la SARL DDMMJ le 16 avril 2021, cessation des paiements fixée au 16 octobre 2019, clôture en mars 2022 : aucune reprise du fonds n'est publiée."
+    },
+    {
+      "id": "trois-exploitants",
+      "title": "Trois exploitants au 45 avenue des Martyrs et deux ventes du fonds, en 2009 et 2015",
+      "blocks": [
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "Avril 2002",
+              "text": "Création de la SARL Lotus Club à cette adresse ; une ouverture du club la même année reste une hypothèse."
+            },
+            {
+              "date": "2003",
+              "text": "Premier site lotusdor.net, signé « Copyright © 2003 », qui présente un club libertin à Montluçon."
+            },
+            {
+              "date": "Octobre 2009",
+              "text": "Vente du fonds pour 60 000 € à un exploitant individuel, sous l'enseigne « Le Lotus d'Or »."
+            },
+            {
+              "date": "Été 2011",
+              "text": "Fermeture annuelle, réouverture annoncée le vendredi 19 août."
+            },
+            {
+              "date": "Février 2015",
+              "text": "Rachat par la SARL DDMMJ pour 55 000 € ; selon le livre d'or, inauguration le 14 février."
+            },
+            {
+              "date": "2015-2016",
+              "text": "Ouverture du mardi au dimanche dès l'après-midi ; les affiches se réclament d'un « nouveau club chic et branché »."
+            },
+            {
+              "date": "Juin 2016",
+              "text": "Dernières soirées datées publiées en ligne."
+            }
+          ]
+        }
+      ],
+      "sources": [
+        "s9",
+        "s10",
+        "s11",
+        "s13",
+        "s8",
+        "s7",
+        "s12",
+        "s14",
+        "s16",
+        "s17",
+        "s6"
+      ],
+      "icon": "history",
+      "summary": "La SARL Lotus Club, créée en 2002, vend le fonds 60 000 € en 2009 à un exploitant individuel, qui le cède 55 000 € à la SARL DDMMJ en février 2015."
+    },
+    {
+      "id": "rez-de-chaussee-et-etages",
+      "title": "Sauna et hammam au rez-de-chaussée, sept salons à thèmes aux étages",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "D'après son plan d'accès, le club se trouvait à 90 km de Moulins, 100 km de Châteauroux et 116 km de Bourges. En 2004 comme en 2010, le rez-de-chaussée regroupait discothèque, bar, piste avec cage et barre, sauna, hammam, douches et vestiaires ; les étages, sept salons décorés chacun sur un thème et un espace douche réservé aux femmes.\n\nAprès 2015, l'accueil du site annonce neuf coins câlins, une salle vidéo, un **jacuzzi** absent des descriptions antérieures et un patio, planté de palmiers selon les affiches de 2016 ; les fumeurs allaient au jardin. Le « buffet à discrétion » de 2010 devient en 2015 un buffet préparé le jour même (salades, grillades, brochettes)."
+        }
+      ],
+      "sources": [
+        "s31",
+        "s21",
+        "s22",
+        "s15",
+        "s18",
+        "s24",
+        "s23"
+      ],
+      "icon": "spa",
+      "summary": "Discothèque avec cage et barre, sauna et hammam au rez-de-chaussée, sept salons à thèmes aux étages ; jacuzzi, salle vidéo et patio annoncés après la reprise de 2015."
+    },
+    {
+      "id": "entree-homme-seul",
+      "title": "Homme seul le samedi soir : 45 € en 2004, refusé en 2010, 38 € en 2016",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Cinq jours d'ouverture en 2004, deux en 2013 et 2014, six après la reprise : les grilles archivées montrent un club qui a souvent changé de formule. Les femmes seules entraient gratuitement dans toutes celles publiées depuis 2010."
+        },
+        {
+          "kind": "table",
+          "caption": "Entrées relevées sur le site officiel archivé. La grille de 2004, mal structurée, a été reconstituée et reste à vérifier dans le détail.",
+          "headers": [
+            "Grille",
+            "Jours d'ouverture",
+            "Couple, samedi soir",
+            "Homme seul, samedi soir",
+            "À noter"
+          ],
+          "rows": [
+            [
+              "Février 2004",
+              "Du jeudi au lundi",
+              "30 €",
+              "45 €",
+              "Hommes « sélectionnés et limités », invités par les couples"
+            ],
+            [
+              "Février 2010",
+              "Du vendredi au lundi",
+              "30 €, trois premiers couples gratuits",
+              "Non admis",
+              "Une consommation offerte"
+            ],
+            [
+              "Mai 2013",
+              "Vendredi et samedi",
+              "20 €",
+              "40 €",
+              "Samedi de 14 h à 18 h gratuit pour tous"
+            ],
+            [
+              "Décembre 2014",
+              "Vendredi et samedi",
+              "10 €",
+              "40 €",
+              "Homme seul à 30 € le vendredi"
+            ],
+            [
+              "Novembre 2015",
+              "Du mardi au dimanche",
+              "10 € après 20 h",
+              "35 €",
+              "Hommes à 10 € l'après-midi"
+            ],
+            [
+              "Octobre 2016",
+              "Du mardi au dimanche",
+              "15 € dès 20 h 30",
+              "38 €",
+              "Fermé de 19 h à 20 h 30"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "À la porte, les hommes étaient filtrés : l'affiche « Sexy Lady » de juin 2016 annonce une sélection à l'entrée et une tenue correcte exigée. Le Lotus fermé, un homme seul de l'agglomération qui espère accompagner un couple dans un club du Puy-de-Dôme doit d'abord le rencontrer ailleurs, par exemple en allant [se présenter à des couples avec un profil vérifié par téléphone](aff:gleese) sur Gleese, site français ouvert fin 2024 qui ne réclame aucune carte bancaire à l'inscription mais compte encore moins de membres que ses aînés."
+        }
+      ],
+      "sources": [
+        "s25",
+        "s23",
+        "s26",
+        "s27",
+        "s16",
+        "s28",
+        "s17"
+      ],
+      "icon": "euro",
+      "summary": "Dernière grille, d'octobre 2016 : femmes gratuites, couples à 15 € le vendredi et le samedi soir, hommes à 15 € en semaine, 33 € le vendredi soir, 38 € le samedi soir."
+    },
+    {
+      "id": "soirees-et-charte",
+      "title": "Du « 100 couples » au jeudi « 3e sexe » : programme et charte",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Les pages archivées de 2010 à 2015 livrent le nom des soirées, pas leur contenu : « Premiers pas », « Choix des dames », « Cougar et pluralité », « 100 couples », porte-jarretelles, soirée des îles, « Anniversaire du Lotus d'or ». En juin 2016, l'agenda alignait « Sexy Lady » le vendredi et un « Après-midi détente et bien-être » le dimanche.\n\nLe club ne visait pas que les couples hétérosexuels : en 2013, l'après-midi gratuit du samedi ouvrait sauna et hammam aux « gays bis heteros lesbiennes », et le jeudi 16 juin 2016 était annoncé « 3e sexe & toutes sexualités »."
+        },
+        {
+          "kind": "list",
+          "title": "La charte affichée en 2015",
+          "items": [
+            "18 ans minimum, justificatif d'âge possible",
+            "Préservatifs fournis, refus respecté",
+            "Service d'alcool pouvant cesser après le troisième verre",
+            "Pas de verre sur la piste ni dans les coins câlins",
+            "Téléphones et appareils photo interdits"
+          ]
+        }
+      ],
+      "sources": [
+        "s7",
+        "s22",
+        "s12",
+        "s6",
+        "s17",
+        "s26",
+        "s18",
+        "s24"
+      ],
+      "icon": "mask",
+      "summary": "Soirées à thème chaque week-end en 2010 (« Premiers pas », « 100 couples »), jeudis « 3e sexe » en 2016 ; la charte de 2015 interdisait téléphones et appareils photo."
+    },
+    {
+      "id": "depuis-montlucon-en-2026",
+      "title": "Depuis Montluçon en 2026 : Riom à 65 km, la Creuse à vérifier",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Ni notre annuaire ni sauna-club-libertin.com ne recensent d'autre lieu libertin dans l'[Allier](/departement/allier). Le club ouvert le plus proche que nous ayons vérifié est [Le Clean, à Riom](/le-clean-riom), à environ 65 km à vol d'oiseau : son site, mis à jour en octobre 2026, indique qu'il « est à vendre mais reste ouvert », avec sauna, hammam et jacuzzi. Les autres adresses du secteur figurent sur [la page du Puy-de-Dôme](/departement/puy-de-dome), sans contrôle de notre part.\n\nDans l'Allier, seule trace au registre : une annonce légale de mai 2019 domicilie un snack-bar au « Camping libertin la Roseraie », à Brugheas, près de Vichy. Nous n'avons trouvé ni site ni autre preuve de ce caractère libertin, ni de son activité actuelle.\n\nEn Creuse, [L'Empire des Sens à Saint-Léger-le-Guérétois](/l-empire-des-sens-saint-leger-legueretois), à environ 59 km, reste à vérifier : son ancien nom de domaine héberge un annuaire sans rapport. Téléphonez avant de partir. À Bourges, les sites de L'IZ et de L'Atoll sont détournés ou muets.\n\nEn 2014, la page tarifs du Lotus affichait un bandeau Netéchangisme, site devenu Wyylde en 2018. Son agenda des soirées en club se consulte avec un compte gratuit, de quoi [vérifier si un club du Puy-de-Dôme y annonce une date](aff:wyylde) avant de prendre la route ; répondre aux messages exige en revanche un abonnement."
+        }
+      ],
+      "sources": [
+        "s33",
+        "s34",
+        "s35",
+        "s27",
+        "s36"
+      ],
+      "icon": "map",
+      "summary": "Aucun club vérifié ouvert dans l'Allier : le plus proche est Le Clean à Riom, à 65 km, ouvert selon son site en octobre 2026 ; L'Empire des Sens, en Creuse, reste à vérifier."
+    }
+  ],
+  "equipements": [
+    "Discothèque et bar",
+    "Piste de danse avec cage et barre",
+    "Sauna",
+    "Hammam",
+    "Jacuzzi (cité à partir de 2015)",
+    "Salons à thèmes et coins câlins",
+    "Salle vidéo (2015)",
+    "Patio et jardin fumeurs",
+    "Douches et vestiaires"
+  ],
+  "corrections": {
+    "adresse": "45 avenue des Martyrs",
+    "sources": [
+      "s29",
+      "s30",
+      "s3",
+      "s13",
+      "s32"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Le Lotus d'Or à Montluçon est-il encore ouvert ?",
+      "answer": "Non. Sa dernière société exploitante a été liquidée le 16 avril 2021 puis radiée en 2022, sans reprise publiée du fonds ; son site n'a plus annoncé de soirée après juin 2016."
+    },
+    {
+      "question": "Où se trouvait exactement le club ?",
+      "answer": "Au 45 avenue des Martyrs, à Domérat (03410), selon le registre et les mentions légales du site. La « rue de Guéret » de certains annuaires n'existe pas à Domérat dans la Base Adresse Nationale."
+    },
+    {
+      "question": "Y a-t-il un club libertin ouvert à Montluçon ou dans l'Allier ?",
+      "answer": "Nous n'en avons vérifié aucun dans l'Allier en octobre 2026. Le plus proche dont l'activité est confirmée par son propre site est [Le Clean, à Riom](/le-clean-riom), à environ 65 km ; L'Empire des Sens, en Creuse, n'a pas pu être vérifié, et le caractère libertin d'un camping de Brugheas n'est attesté que par une annonce légale de 2019."
+    },
+    {
+      "question": "Combien coûtait l'entrée au Lotus d'Or ?",
+      "answer": "Selon la dernière grille connue (octobre 2016) : gratuit pour les femmes seules, gratuit pour les couples sauf le vendredi et le samedi soir (15 €) ; 15 € pour les hommes en semaine et l'après-midi, 33 € le vendredi soir, 38 € le samedi soir."
+    },
+    {
+      "question": "Comment rencontrer des libertins autour de Montluçon sans club ?",
+      "answer": "Le contact se noue surtout en ligne. Sur Carré Libertin, ouvert en 2007 et qui revendique plus de 500 000 inscrits, un couple ou une femme de l'agglomération montluçonnaise accède gratuitement à tout le site une fois son profil garni d'au moins trois photos : de quoi [trouver des couples bourbonnais avec qui partager la route](aff:carre-libertin) jusqu'à Riom."
+    },
+    {
+      "question": "Où voir des photos du Lotus d'Or ?",
+      "answer": "Le site de 2010 proposait trois galeries (bar et piste, sauna et hammam, coins câlins des étages), que seules les archives du web conservent ; nous n'en reproduisons aucune."
+    }
+  ],
+  "unverified": [
+    "Jusqu'à quand le club a-t-il réellement ouvert ses portes, entre la dernière soirée annoncée en juin 2016 et la cessation des paiements d'octobre 2019 ?",
+    "L'année d'ouverture : 2002 (création de la première société) ou 2003 (premier site) ?",
+    "La note Google et les avis publics : aucune n'a pu être relevée, faute de recherche par moteur possible lors de notre enquête.",
+    "Un éventuel article de La Montagne sur la fermeture n'a pas pu être recherché.",
+    "L'usage actuel du bâtiment du 45 avenue des Martyrs.",
+    "Le statut actuel de L'Empire des Sens, en Creuse, dont l'ancien nom de domaine héberge aujourd'hui un autre site.",
+    "Le camping La Roseraie de Brugheas, désigné « camping libertin » dans une annonce légale de 2019 : son caractère libertin et son activité actuelle."
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "BODACC, avis du 22/04/2021 : liquidation judiciaire de la SARL DDMMJ",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202100792278",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s2",
+      "label": "BODACC, avis du 25/03/2022 : clôture pour insuffisance d'actif",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202200601934",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s3",
+      "label": "Registre des entreprises : SARL DDMMJ (SIREN 809 381 247)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/809381247",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s4",
+      "label": "BODACC, annonces commerciales de Domérat mentionnant un club, une discothèque ou l'avenue des Martyrs (2009-2026)",
+      "url": "https://bodacc-datadila.opendatasoft.com/api/explore/v2.1/catalog/datasets/annonces-commerciales/records",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s5",
+      "label": "Registre des entreprises, recherche par adresse : 45 avenue des Martyrs, 03410 Domérat",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=45%20avenue%20des%20Martyrs&code_postal=03410",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s6",
+      "label": "Site officiel, page « Nos soirées » (archive du 28/04/2017)",
+      "url": "https://web.archive.org/web/20170428223633/http://www.lotusdor.net:80/soirees.php",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s7",
+      "label": "Wayback Machine, index des captures de lotusdor.net (2003-2025)",
+      "url": "https://web.archive.org/cdx/search/cdx?url=lotusdor.net&matchType=domain",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s8",
+      "label": "Site officiel, accueil (archive du 11/02/2004)",
+      "url": "https://web.archive.org/web/20040211003117/http://www.lotusdor.net/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s9",
+      "label": "Registre des entreprises : SARL Lotus Club (SIREN 441 767 704)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/441767704",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s10",
+      "label": "BODACC, avis du 16/10/2009 : vente du fonds par la SARL Lotus Club",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A200902001",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s11",
+      "label": "Registre des entreprises : exploitant individuel, enseigne « Le Lotus d'Or » (SIREN 950 042 358)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/950042358",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s12",
+      "label": "Site officiel, page « Fermeture annuelle » (archive du 10/09/2011)",
+      "url": "https://web.archive.org/web/20110910153151/http://www.lotusdor.net:80/soirees/fermeture-annuelle",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s13",
+      "label": "BODACC, avis du 11/03/2015 : acquisition du fonds par la SARL DDMMJ",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A2015004925",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s14",
+      "label": "Livre d'or du site officiel, messages de clients de 2015 (archive du 05/11/2015)",
+      "url": "https://web.archive.org/web/20151105052612/http://lotusdor.net:80/livre.php",
+      "type": "avis",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s15",
+      "label": "Site officiel, accueil du nouveau site (archive du 04/11/2015)",
+      "url": "https://web.archive.org/web/20151104030432/http://lotusdor.net:80/accueil.php",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s16",
+      "label": "Site officiel, « Horaires et Tarifs » (archive du 05/11/2015)",
+      "url": "https://web.archive.org/web/20151105052737/http://lotusdor.net:80/tarifhoraire.php",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s17",
+      "label": "Site officiel, affiche de la soirée « Sexy Lady » du 17/06/2016 (archive du 22/04/2017)",
+      "url": "https://web.archive.org/web/20170422081818/http://www.lotusdor.net:80/affiche.php?id=196",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s18",
+      "label": "Site officiel, affiche de la soirée « 3e sexe & toutes sexualités » du 16/06/2016 (archive du 22/04/2017)",
+      "url": "https://web.archive.org/web/20170422081809/http://www.lotusdor.net:80/affiche.php?id=195",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s19",
+      "label": "Wayback Machine, lotusdor.net redirigé vers un site de rencontres (capture du 27/03/2019)",
+      "url": "https://web.archive.org/web/20190327165432/http://www.lotusdor.net/",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s20",
+      "label": "lotusdor.net, état du domaine (connexion, DNS et registre Verisign)",
+      "url": "http://www.lotusdor.net",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s21",
+      "label": "Site officiel, page « Le club » (archive du 12/02/2004)",
+      "url": "https://web.archive.org/web/20040212051926/http://www.lotusdor.net:80/leclub.html",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s22",
+      "label": "Site officiel, page « Le club » (archive du 15/01/2010)",
+      "url": "https://web.archive.org/web/20100115122038/http://www.lotusdor.net:80/le-club",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s23",
+      "label": "Site officiel, page « Tarifs » (archive du 10/02/2010)",
+      "url": "https://web.archive.org/web/20100210061657/http://www.lotusdor.net:80/tarifs",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s24",
+      "label": "Site officiel, « La charte » (archive du 05/11/2015)",
+      "url": "https://web.archive.org/web/20151105052607/http://lotusdor.net:80/chartre.php",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s25",
+      "label": "Site officiel, page « Tarif » (archive du 12/02/2004)",
+      "url": "https://web.archive.org/web/20040212052729/http://www.lotusdor.net:80/tarif.html",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s26",
+      "label": "Site officiel, page « Tarifs » (archive du 03/05/2013)",
+      "url": "https://web.archive.org/web/20130503043754/http://www.lotusdor.net/tarifs",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s27",
+      "label": "Site officiel, page « Tarifs » (archive du 29/12/2014)",
+      "url": "https://web.archive.org/web/20141229204312/http://www.lotusdor.net/tarifs",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s28",
+      "label": "Site officiel, « Horaires et Tarifs » (archive du 16/10/2016)",
+      "url": "https://web.archive.org/web/20161016054943/http://lotusdor.net/tarifhoraire.php",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s29",
+      "label": "Site officiel, mentions légales (archive du 05/11/2015)",
+      "url": "https://web.archive.org/web/20151105052631/http://lotusdor.net:80/mentions.php",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s30",
+      "label": "Site officiel, page « Contact » (archive du 22/07/2017)",
+      "url": "https://web.archive.org/web/20170722124000/http://lotusdor.net/contact.php",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s31",
+      "label": "Site officiel, « Plan d'accès » (archive du 10/02/2010)",
+      "url": "https://web.archive.org/web/20100210061940/http://www.lotusdor.net:80/plan-dacces",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s32",
+      "label": "Base Adresse Nationale : 45 avenue des Martyrs, Domérat",
+      "url": "https://api-adresse.data.gouv.fr/search/?q=45%20avenue%20des%20Martyrs%20Domerat",
+      "type": "carte",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s33",
+      "label": "sauna-club-libertin.com, fiche « Le Lotus d'Or » (annuaire)",
+      "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_3.php?id=5&d=03",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s34",
+      "label": "Le Clean (Riom), site officiel",
+      "url": "https://le-clean.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s35",
+      "label": "Vérification des domaines de L'Empire des Sens, de L'IZ et de L'Atoll",
+      "url": "https://www.clublempiredessens.com/",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s36",
+      "label": "BODACC, avis du 07/05/2019 : snack-bar au « Camping libertin la Roseraie », Brugheas",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A2019008838",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s37",
+      "label": "BODACC, avis du 21/01/2020 : dépôt des comptes 2016 de la SARL DDMMJ (montants via l'API recherche-entreprises)",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:C2020001488",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s38",
+      "label": "BODACC, avis du 05/04/2022 : radiation de la SARL DDMMJ",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:B20220067103",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    }
+  ],
+  "glance": [
+    {
+      "icon": "closed",
+      "label": "Fermé",
+      "value": "Exploitant liquidé le 16 avril 2021"
+    },
+    {
+      "icon": "history",
+      "label": "Activité en ligne",
+      "value": "De 2003 à juin 2016"
+    },
+    {
+      "icon": "map",
+      "label": "Adresse",
+      "value": "45 avenue des Martyrs, Domérat"
+    },
+    {
+      "icon": "spa",
+      "label": "Le lieu",
+      "value": "Discothèque libertine, sauna et hammam"
+    },
+    {
+      "icon": "euro",
+      "label": "Entrée (grille 2016)",
+      "value": "Samedi soir : couple 15 €, homme 38 €",
+      "confidence": "source_unique"
+    },
+    {
+      "icon": "heart",
+      "label": "Club ouvert proche",
+      "value": "Le Clean, à Riom (environ 65 km)"
+    }
+  ],
+  "highlights": [
+    "Le club est fermé : sa société exploitante a été liquidée en avril 2021, et aucune reprise du fonds n'apparaît dans les annonces légales.",
+    "L'adresse était le 45 avenue des Martyrs à Domérat, et non la « rue de Guéret » de certains annuaires, voie qui n'existe pas dans la commune.",
+    "Le site lotusdor.net a échappé au club au plus tard en mars 2019 ; en octobre 2026, le domaine n'est même plus enregistré.",
+    "Aucun club vérifié ouvert dans l'Allier : le plus proche, Le Clean à Riom, est à environ 65 km et se dit ouvert sur son site en octobre 2026."
+  ]
+}

@@ -1,0 +1,1141 @@
+{
+  "slug": "the-strip-saint-ouen-l-aumone",
+  "clubId": "15393",
+  "researchedAt": "2026-10-16",
+  "display": {
+    "nom": "The Strip",
+    "ville": "Saint-Ouen-l'Aumône"
+  },
+  "status": {
+    "value": "ouvert",
+    "summary": "Le 19 octobre 2026, le bandeau du site officiel annonçait le club « OUVERT ce lundi » de 14 h à 18 h, et le programme en ligne aligne des soirées datées jusqu'au 31 décembre 2026. La société exploitante, SAS SOL ET NADE, est active au registre, déclare 10 à 19 salariés, et sa fiche au registre national des entreprises a été mise à jour le 25 septembre 2026.",
+    "sources": [
+      "s2",
+      "s10",
+      "s25"
+    ]
+  },
+  "seo": {
+    "title": "The Strip à Saint-Ouen-l'Aumône : sauna, tarifs et carte membre",
+    "metaDescription": "Sauna à 80 °C, hammam et jacuzzi de 12 places l'après-midi, club du jeudi au samedi soir : horaires, tarifs 2026 et carte de membre à créer avant de venir.",
+    "subtitle": "Cercle libertin, discothèque et espace détente dans la zone du Vert-Galant (95)",
+    "targetQueries": [
+      "le strip sauna",
+      "the strip saint ouen l'aumone",
+      "the strip tarifs",
+      "the strip horaires",
+      "the strip carte de membre",
+      "the strip dress code",
+      "the strip photos",
+      "the strip avis",
+      "club libertin val d'oise"
+    ]
+  },
+  "lead": "Installé depuis 2014 dans la zone industrielle du Vert-Galant, à Saint-Ouen-l'Aumône, The Strip se présente comme un « cercle libertin » doublé d'une discothèque. L'après-midi, tous les jours, on y vient nu sous la serviette pour le sauna à 80 °C, le hammam et le jacuzzi de douze places ; du jeudi au samedi soir, place au club, chemise exigée le week-end. Sauf le lundi, il faut une carte de membre créée en ligne avant de venir. Il fonctionne en octobre 2026, programme publié jusqu'au Nouvel An.",
+  "glance": [
+    {
+      "icon": "calendar",
+      "label": "Ouvert",
+      "value": "Après-midi chaque jour, soirées jeu.-sam."
+    },
+    {
+      "icon": "euro",
+      "label": "Entrée couple",
+      "value": "30 € après-midi · 40 € ven. · 60 € sam."
+    },
+    {
+      "icon": "lock",
+      "label": "Carte de membre",
+      "value": "En ligne avant de venir, sauf le lundi"
+    },
+    {
+      "icon": "spa",
+      "label": "Espace humide",
+      "value": "Sauna 80 °C, hammam, jacuzzi 12 places"
+    },
+    {
+      "icon": "phone",
+      "label": "Contact",
+      "value": "Courriel uniquement, pas de téléphone"
+    },
+    {
+      "icon": "history",
+      "label": "Depuis",
+      "value": "2014 (exploitant actuel depuis 2018)"
+    }
+  ],
+  "audience": [
+    {
+      "who": "couples",
+      "status": "oui",
+      "detail": "Tous les jours ; jeudi soir et vendredi avant 22 h 30 : entrée contre 2 consommations",
+      "price": "30 à 60 €"
+    },
+    {
+      "who": "femmes",
+      "status": "oui",
+      "detail": "Gratuit l'après-midi sauf le lundi (10 €), 10 € le soir ; carte gratuite",
+      "price": "0 à 10 €"
+    },
+    {
+      "who": "hommes",
+      "status": "selon",
+      "detail": "Nombre régulé selon les couples ; pas avant 22 h 30 vendredi et samedi ; carte 20 €/an",
+      "price": "30 à 100 €"
+    },
+    {
+      "who": "trans",
+      "status": "oui",
+      "detail": "T-girls bienvenues : gratuit le lundi après-midi, 20 € les autres, 10 € le soir",
+      "price": "0 à 20 €"
+    }
+  ],
+  "highlights": [
+    "La carte de membre se crée en ligne, depuis un téléphone, avant de venir : impossible au guichet. Seul le lundi s'en passe.",
+    "Vendredi et samedi soir, sauna et hammam sont fermés et le jacuzzi n'ouvre qu'à minuit : pour l'espace humide, visez un après-midi ou un jeudi.",
+    "Vendredi et samedi soir, chemise obligatoire pour les hommes ; robe, jupe, body ou corset pour les femmes, ni baskets ni sandales.",
+    "Le club ne répond plus au téléphone : toute question passe par contact@thestrip.fr.",
+    "Téléphones laissés au vestiaire, sortie définitive, et un couple entré ensemble doit repartir ensemble."
+  ],
+  "keyFacts": [
+    {
+      "label": "Enseigne ouverte",
+      "value": "Septembre 2014, au 23 avenue de l'Eguillette",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s26",
+        "s28"
+      ]
+    },
+    {
+      "label": "Exploitant",
+      "value": "SAS SOL ET NADE (SIREN 838 903 003), depuis mai 2018",
+      "confidence": "confirme",
+      "sources": [
+        "s25",
+        "s33"
+      ]
+    },
+    {
+      "label": "Concept",
+      "value": "Cercle libertin et discothèque avec espace détente",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s34"
+      ]
+    },
+    {
+      "label": "Ouverture",
+      "value": "Après-midi tous les jours ; soirées jeudi, vendredi et samedi",
+      "confidence": "confirme",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "label": "Public admis",
+      "value": "Couples, femmes, t-girls ; hommes seuls régulés selon le nombre de couples",
+      "confidence": "confirme",
+      "sources": [
+        "s2",
+        "s7"
+      ]
+    },
+    {
+      "label": "Carte de membre",
+      "value": "Obligatoire sauf le lundi ; gratuite, sauf 20 € par an pour un homme seul",
+      "confidence": "confirme",
+      "sources": [
+        "s5"
+      ]
+    },
+    {
+      "label": "Espace humide",
+      "value": "Sauna sec à 80 °C, hammam, jacuzzi 12 places ; piscine chauffée de fin mai à septembre",
+      "confidence": "confirme",
+      "sources": [
+        "s3"
+      ]
+    },
+    {
+      "label": "Entrée couple",
+      "value": "30 € l'après-midi ; le soir, 26 € de consommations le jeudi, 40 € le vendredi, 60 € le samedi",
+      "confidence": "confirme",
+      "sources": [
+        "s2",
+        "s12",
+        "s13"
+      ]
+    },
+    {
+      "label": "Contact",
+      "value": "Par courriel uniquement : le club ne répond plus au téléphone",
+      "confidence": "confirme",
+      "sources": [
+        "s7",
+        "s9"
+      ]
+    },
+    {
+      "label": "Effectif",
+      "value": "10 à 19 salariés (tranche 2024)",
+      "confidence": "source_unique",
+      "sources": [
+        "s25"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "sauna-hammam-jacuzzi",
+      "title": "Sauna à 80 °C, hammam, jacuzzi de douze places : surtout l'après-midi et le jeudi soir",
+      "icon": "spa",
+      "summary": "Sauna à 80 °C, hammam et jacuzzi de 12 places ouvrent chaque après-midi et tout le jeudi soir ; le vendredi et le samedi soir, seul le jacuzzi ouvre, à minuit.",
+      "sources": [
+        "s1",
+        "s3",
+        "s4",
+        "s6",
+        "s7",
+        "s16"
+      ],
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Beaucoup de visiteurs cherchent « le Strip sauna ». Le club s'écrit **The Strip** et ne se résume pas à un sauna : son espace humide réunit un sauna sec réglé à 80 °C, un hammam à vapeur et un jacuzzi annoncé pour douze personnes, plus une piscine extérieure chauffée ouverte de fin mai à septembre."
+        },
+        {
+          "kind": "table",
+          "caption": "Accès à l'espace humide selon le créneau (règles du site au 19 octobre 2026)",
+          "headers": [
+            "Créneau",
+            "Sauna et hammam",
+            "Jacuzzi",
+            "Tenue"
+          ],
+          "rows": [
+            [
+              "Après-midi, tous les jours",
+              "Ouverts",
+              "Ouvert",
+              "Nu sous la serviette ou le paréo fournis, maillot interdit"
+            ],
+            [
+              "Jeudi soir (« Évasion »)",
+              "Ouverts toute la soirée",
+              "Ouvert toute la soirée",
+              "Tenue correcte à l'entrée, puis habillé ou en serviette"
+            ],
+            [
+              "Vendredi et samedi soir",
+              "Fermés",
+              "À partir de minuit, en se rhabillant ensuite",
+              "Tenue de soirée, pas de serviette hors de la zone humide"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Pour la chaleur et l'eau, visez donc un après-midi ou un jeudi. L'après-midi se déroule ainsi :"
+        },
+        {
+          "kind": "list",
+          "items": [
+            "passage obligatoire au vestiaire, gratuit, avec un cadenas remis ;",
+            "serviette, paréo et tongs fournis ; le jogging est refusé à l'entrée ;",
+            "boissons à volonté puisées dans trois bocaux de boissons aromatisées, les autres consommations étant payantes ;",
+            "rapports sexuels, textiles et verres interdits dans les parties humides, où l'on va nu."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le week-end, des exceptions s'annoncent soirée par soirée : le samedi 24 octobre 2026, « Le Pouvoir des talons hauts » ouvre sauna, hammam et jacuzzi et autorise la serviette. Lisez la fiche de la soirée avant de compter sur le hammam un samedi."
+        }
+      ]
+    },
+    {
+      "id": "carte-de-membre",
+      "title": "Une carte de membre à créer sur son téléphone avant de venir, 20 € par an pour l'homme seul",
+      "icon": "lock",
+      "summary": "Obligatoire sauf le lundi et créée en ligne avant de venir : gratuite pour couples, femmes et t-girls, 20 € par an pour un homme seul, validé sous conditions.",
+      "sources": [
+        "s5",
+        "s7"
+      ],
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Sauf le lundi, on n'entre pas sans carte de membre, et elle ne se crée pas au guichet : tout se fait en ligne, depuis un téléphone, avant de venir. Un pseudo suffit ; on présente ensuite à l'accueil un QR code renouvelé régulièrement. Une carte vaut pour un couple, chaque homme seul a la sienne."
+        },
+        {
+          "kind": "list",
+          "title": "Ce que coûte et rapporte la carte",
+          "items": [
+            "Gratuite pour les couples, les femmes et les t-girls.",
+            "20 € par an pour un homme seul, payés à la première entrée, sans reconduction automatique.",
+            "30 € de réduction toutes les dix entrées faites en moins de six mois.",
+            "10 € de moins pour un couple ou un homme seul qui revient le lendemain."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Pour un homme seul, la validation se fait « sous conditions », et certains profils doivent venir accompagnés la première fois. Les hommes seuls sont admis tous les jours, en nombre régulé selon les couples présents, plus souplement l'après-midi qu'en soirée ; les groupes d'hommes sont refusés.\n\nUn couple peut en revanche parrainer un homme seul : s'ils viennent ensemble, l'adhésion de l'homme est offerte la première année. Sur Carré Libertin, en ligne depuis 2007, les couples ont un accès complet gratuit dès trois photos publiées, si bien que [chercher autour de Cergy-Pontoise un couple prêt à vous parrainer](aff:carre-libertin) y a du sens ; l'homme seul s'y inscrit sans payer, mais doit s'abonner pour ouvrir une conversation."
+        }
+      ]
+    },
+    {
+      "id": "soirees-jeudi-vendredi-samedi",
+      "title": "Du jeudi au samedi soir : piste, pole dance, étage couples et hommes seuls après 22 h 30",
+      "icon": "music",
+      "summary": "Jeudi soir, couple offert contre 26 € de consommations ; vendredi 40 €, samedi 60 € ; hommes seuls admis seulement après 22 h 30 ces deux derniers soirs.",
+      "sources": [
+        "s1",
+        "s2",
+        "s3",
+        "s7",
+        "s12",
+        "s13",
+        "s19",
+        "s24",
+        "s34"
+      ],
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le soir, The Strip devient la « discothèque avec piste de danse avec licence 4 » que sa société a déclarée au registre : piste avec DJ résident le week-end, barres de pole dance, bar lounge, coins câlins équipés de désinfectants, espace fumeur. Ni spectacle ni animation scénique, précise la FAQ.\n\n- **Jeudi (21 h 30 - 2 h 30)** : soirée « Évasion », entrée offerte aux couples contre deux consommations alcoolisées (26 €) ; on reste habillé ou on passe en serviette.\n- **Vendredi (21 h 30 - 4 h)** : selon les fiches des soirées d'octobre 2026, couples gratuits jusqu'à 22 h 30 contre deux consommations alcoolisées, 40 € ensuite ; l'étage peut s'ouvrir à tous en cas d'affluence.\n- **Samedi (21 h 30 - 5 h)** : couple 60 €, homme seul 100 € ; l'étage est réservé aux couples, sauf lors des « Philou's Party ».\n\nCes deux soirs de week-end, les hommes seuls n'entrent pas avant 22 h 30."
+        },
+        {
+          "kind": "text",
+          "body": "Au bar : 13 € la boisson alcoolisée, 6 € sans alcool, et une consommation comprise par entrée payante en soirée. Un bracelet scanné à chaque commande permet de tout régler à la sortie. La remise de 20 € affichée le samedi pour les hommes seuls est réservée, d'après les fiches de soirée, à ceux qui comptent plus de 40 entrées."
+        }
+      ]
+    },
+    {
+      "id": "dress-code-vendredi-samedi",
+      "title": "Chemise pour lui, robe, jupe ou corset pour elle : le code du vendredi et du samedi soir",
+      "icon": "sparkles",
+      "summary": "Pas de code l'après-midi (jogging refusé), une tenue correcte le jeudi ; le vendredi et le samedi soir, chemise exigée et baskets de sport refusées.",
+      "sources": [
+        "s3",
+        "s4",
+        "s6"
+      ],
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "L'après-midi, pas de code : tout le monde se change au vestiaire, et seul le jogging est refusé à l'entrée. Le jeudi soir, une tenue correcte suffit. Le vendredi et le samedi soir, c'est la tenue entière qui est jugée à la porte."
+        },
+        {
+          "kind": "list",
+          "title": "Ce qui passe et ce qui ne passe pas",
+          "items": [
+            "Hommes : chemise obligatoire, à manches longues ou courtes ; pantalon de ville, chino ou jean noir sans trou ni effet délavé.",
+            "Chaussures d'homme : baskets de ville sobres et chaussures blanches acceptées ; chaussures de running, grosses semelles et logos voyants refusés.",
+            "Femmes : robe, jupe, body ou corset ; pantalon ou short seulement en vinyle, latex, similicuir ou à strass ; ni jean ni legging.",
+            "Chaussures de femme : talons, bottes, bottines ou plates habillées ; ni baskets, ni sandales, ni tongs."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le personnel d'accueil décide seul, et le club prévient qu'une tenue tolérée une fois ne fait pas jurisprudence."
+        }
+      ]
+    },
+    {
+      "id": "soirees-octobre-2026",
+      "title": "Évasion le jeudi, talons hauts le 24, « Fous-moi la dose » le 30 : octobre 2026 au Strip",
+      "icon": "calendar",
+      "summary": "Deux jeudis « Évasion » à couple offert, une Soirée dansante le 23, hammam ouvert le samedi 24 et boissons moins chères le vendredi 30 octobre.",
+      "sources": [
+        "s1",
+        "s10",
+        "s11",
+        "s13",
+        "s16",
+        "s17",
+        "s18"
+      ],
+      "blocks": [
+        {
+          "kind": "table",
+          "caption": "Soirées d'octobre annoncées sur le site au 19 octobre 2026",
+          "headers": [
+            "Date",
+            "Soirée",
+            "À savoir"
+          ],
+          "rows": [
+            [
+              "Jeudis 22 et 29 octobre",
+              "Évasion, couple offert",
+              "26 € de consommations minimum par couple"
+            ],
+            [
+              "Vendredi 23 octobre",
+              "Soirée dansante",
+              "Fin à 3 h ou 4 h : la fiche se contredit"
+            ],
+            [
+              "Samedi 24 octobre",
+              "Le Pouvoir des talons hauts",
+              "Sauna, hammam et jacuzzi ouverts"
+            ],
+            [
+              "Vendredi 30 octobre",
+              "Fous-moi la dose",
+              "3 € de moins sur les verres, 10 € sur les bouteilles"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Les après-midi suivent leur propre calendrier, rempli jusqu'au 30 novembre : « Bi & Gay » le lundi, « Dimanche Détente » le dimanche, « Après-midi Détente » les autres jours."
+        },
+        {
+          "kind": "text",
+          "body": "La page d'accueil affiche la mention « Partenaire de WYYLDE.COM ». Pour situer ce programme parmi les autres dates d'Île-de-France, [l'agenda de Wyylde consultable avec un compte gratuit](aff:wyylde) recense des soirées de clubs de toute la France ; nous n'avons pas vérifié que celles du Strip y figurent, et la messagerie y reste bloquée sans abonnement."
+        }
+      ]
+    },
+    {
+      "id": "soirees-sur-demande",
+      "title": "Inferno le 31 octobre, DJ Fou le 19 décembre, Nouvel An 2027 : trois soirées sur demande à 70 € le couple",
+      "icon": "ticket",
+      "summary": "Inferno pour Halloween le 31 octobre, DJ Fou le 19 décembre et le Nouvel An 2027 se font sur demande, à 70 € le couple ; aucune soirée réservée aux couples n'est annoncée.",
+      "sources": [
+        "s7",
+        "s10",
+        "s14",
+        "s15",
+        "s20",
+        "s21",
+        "s24"
+      ],
+      "blocks": [
+        {
+          "kind": "table",
+          "caption": "Soirées sur demande annoncées au 19 octobre 2026",
+          "headers": [
+            "Date",
+            "Soirée",
+            "À savoir"
+          ],
+          "rows": [
+            [
+              "Samedi 31 octobre",
+              "Inferno, le retour (Halloween)",
+              "Sur demande ; couple 70 €, homme seul 150 € (100 € au-delà de 40 entrées)"
+            ],
+            [
+              "Samedi 19 décembre",
+              "DJ Fou au Strip",
+              "Sur demande ; couple 70 €, homme seul 150 € (100 € au-delà de 40 entrées)"
+            ],
+            [
+              "Jeudi 31 décembre",
+              "Nouvel An 2027, de 22 h 30 à 6 h",
+              "Sur demande pour les personnes seules ; couple 70 €, homme seul 150 € ou 120 € selon la fiche, sans buffet"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Les soirées « sur demande » passent par l'application du club, et les organisateurs valident ou non chaque inscription. Inferno revient après une édition l'an dernier, selon sa fiche, et la galerie garde un album « Halloween 2025 ».\n\nPour le Nouvel An, le club dit renoncer cette année à sa « tarification spéciale ». La fiche se contredit sur l'homme seul : 150 € dans le texte (100 € au-delà de 40 entrées), 120 € dans l'encadré des prix. Seuls les hommes, femmes et t-girls venus seuls doivent demander à participer.\n\nAucune soirée réservée aux couples n'est programmée d'ici fin décembre, et le club n'organise pas de soirée pour débutants."
+        }
+      ]
+    },
+    {
+      "id": "avis-petit-fute-pagesjaunes",
+      "title": "3,8/5 sur 15 avis Petit Futé, mais aucun avis publié depuis juillet 2024",
+      "icon": "star",
+      "summary": "Petit Futé affiche 3,8/5 sur 15 avis (2014 à 2024), PagesJaunes 3,4/5 sur 5 avis : la propreté revient souvent, les critiques visent surtout le jacuzzi et la déco.",
+      "sources": [
+        "s40",
+        "s41"
+      ],
+      "blocks": [
+        {
+          "kind": "table",
+          "caption": "Notes publiques relevées le 19 octobre 2026",
+          "headers": [
+            "Plateforme",
+            "Note",
+            "Avis",
+            "Période des avis"
+          ],
+          "rows": [
+            [
+              "Petit Futé",
+              "3,8/5",
+              "15",
+              "Novembre 2014 à juillet 2024"
+            ],
+            [
+              "PagesJaunes",
+              "3,4/5",
+              "5",
+              "Août 2023 à mai 2024"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Nous avons lu les quinze avis Petit Futé. La propreté est l'argument le plus cité, dans des avis allant de 2015 à 2024. Les critiques visent un jacuzzi froid et sale (avis de décembre 2022), une décoration jugée froide (octobre 2021) et un salon des couples fermé un mercredi après-midi (février 2018).\n\nSur PagesJaunes, la fiche porte encore le nom de l'ancienne société, SOLENADE, et range le lieu parmi les cafés-bars ; ses cinq avis se partagent entre trois notes de 5 et deux de 1. Aucune note Google n'a pu être relevée, et aucun avis de 2025 ou 2026 n'a été trouvé."
+        }
+      ]
+    },
+    {
+      "id": "acces-zone-vert-galant",
+      "title": "Avenue de l'Eguillette, dans la zone du Vert-Galant : un parking privé, aucun téléphone",
+      "icon": "map",
+      "summary": "23 avenue de l'Eguillette (95310), zone du Vert-Galant près de Cergy-Pontoise, parking privé gratuit ; le club ne se contacte que par courriel.",
+      "sources": [
+        "s7",
+        "s9",
+        "s25",
+        "s26",
+        "s27",
+        "s35",
+        "s36",
+        "s37",
+        "s38",
+        "s39"
+      ],
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "The Strip occupe le 23 avenue de l'Eguillette, à Saint-Ouen-l'Aumône (95310), dans la zone industrielle du Vert-Galant, entre des établissements industriels. Le club se dit « proche de Cergy-Pontoise » et conseille la N184, depuis l'A15 ou l'A16. Le parking privé est gratuit.\n\nL'annuaire d'où vient notre fiche donnait le code postal 95340, celui de Persan, où la première société exploitante avait son siège en 2014 : nous l'avons corrigé.\n\nCôté contact, la FAQ indique que le club ne répond plus au téléphone et ne traite que les courriels adressés à contact@thestrip.fr. Le portable cité par cet annuaire n'apparaît pas sur le site officiel : nous ne le publions pas. La page Facebook du club n'est lisible qu'avec un compte.\n\nDans le Val-d'Oise, notre annuaire recense aussi le [Club 46 à Argenteuil](/club-46-argenteuil), à 13,7 km à vol d'oiseau, et [L'Eden Club de Louvres](/eden-club-louvres-libertin), à 27 km ; le centre de Paris est à 26,5 km. Voir aussi les [clubs du Val-d'Oise](/departement/val-d-oise) et notre sélection de [saunas libertins](/sauna-libertin)."
+        }
+      ]
+    },
+    {
+      "id": "reglement-consentement",
+      "title": "Entrés en couple, ressortis en couple : onze règles et une charte du consentement",
+      "icon": "shield",
+      "summary": "Onze règles, dont l'obligation de repartir en couple quand on est entré en couple et les téléphones laissés au vestiaire, plus une charte du consentement en quatre principes.",
+      "sources": [
+        "s1",
+        "s6",
+        "s7",
+        "s8"
+      ],
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Sur les onze règles du club, deux encadrent la notion de couple : « toute personne entrant en couple doit impérativement repartir en couple », et deux personnes déjà venues chacune de leur côté ne peuvent pas se présenter ensemble comme couple, ni payer le tarif couple."
+        },
+        {
+          "kind": "list",
+          "title": "À retenir avant d'entrer",
+          "items": [
+            "Téléphones et appareils photo laissés au vestiaire.",
+            "Préservatifs gratuits, sprays désinfectants à disposition.",
+            "Drogues, CBD, racolage, prostitution et boissons apportées de l'extérieur interdits.",
+            "Toute sortie est définitive ; établissement réservé aux majeurs."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Une page détaille le consentement en quatre principes (libre, clair, spécifique, révocable), rappelle qu'en couple aussi « chacun décide pour soi » et que le personnel peut intervenir.\n\nLes sanctions s'affichent en page d'accueil : le 19 octobre 2026, le compteur du club annonçait 22 761 membres valides, 6 732 cartes refusées, et 87 couples, 18 femmes et 269 hommes bannis définitivement. Des chiffres déclaratifs, invérifiables."
+        }
+      ]
+    },
+    {
+      "id": "photos-officielles",
+      "title": "Trois albums photo officiels, dont une salle rouge à la croix en X",
+      "icon": "camera",
+      "summary": "La galerie officielle compte trois albums (28 photos) et un teaser vidéo : salon rouge, piste à barres de pole dance, bar, piscine et une salle à mobilier BDSM.",
+      "sources": [
+        "s24",
+        "s35"
+      ],
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "La [galerie officielle](https://thestrip.fr/gallery) compte trois albums, « Le Club » (16 photos), « Fucking Party » (4) et « Halloween 2025 » (8), plus un teaser vidéo. Dans l'album « Le Club », dont nous avons vu quinze images sur seize, on découvre :"
+        },
+        {
+          "kind": "list",
+          "items": [
+            "un salon de banquettes rouges et de tables-cubes lumineuses au logo du club ;",
+            "la piste, ses barres de pole dance et ses grands visuels muraux ;",
+            "le bar, sa tablette de commande et ses écrans d'affiches de soirées ;",
+            "un panneau invitant à privatiser « le Carré » pour un anniversaire ;",
+            "la piscine, entre bains de soleil gris et parasols rouges ;",
+            "une salle en lumière rouge avec croix en X, banc de type pilori et fauteuil."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le site ne nomme pas cette dernière salle : seule la photo en atteste. La « cage d'exhib » et la « backroom » citées par un annuaire, elles, n'apparaissent nulle part sur le site officiel."
+        }
+      ]
+    },
+    {
+      "id": "tables-vip-anniversaires",
+      "title": "Tables VIP de 160 à 280 € et anniversaires : une offre que la FAQ dément",
+      "icon": "ticket",
+      "summary": "Une page hors menu propose quatre tables VIP de 160 à 280 € le vendredi et le samedi et une offre anniversaire, que deux réponses de la FAQ contredisent.",
+      "sources": [
+        "s7",
+        "s22",
+        "s23"
+      ],
+      "confidence": "source_unique",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Absente du menu mais en ligne, une page VIP décrit quatre tables privatives, avec pole dance réservée, service prioritaire et, si l'on réserve à l'avance, place de parking devant l'entrée."
+        },
+        {
+          "kind": "table",
+          "caption": "Formules VIP selon la page du site (relevé du 19 octobre 2026)",
+          "headers": [
+            "Formule",
+            "Vendredi",
+            "Samedi"
+          ],
+          "rows": [
+            [
+              "Bouteille d'alcool fort, 4 personnes",
+              "160 €",
+              "180 €"
+            ],
+            [
+              "Magnum Grey Goose, 8 personnes",
+              "270 €",
+              "280 €"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le champagne se commande à la bouteille (Ruinart à 230 €, Cristal Roederer 2015 à 370 €), et la page promet 20 € de remise sur l'entrée à un couple qui prend une formule, 10 € à une personne seule. Pour un anniversaire : gâteau offert, accès VIP pour quatre personnes si la date tombe dans la semaine (sur justificatif), réservation au moins 72 heures à l'avance, sur devis."
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Deux pages, deux discours",
+          "body": "Deux réponses de la FAQ affirment que le club ne propose ni réservation de tables ni privatisation, quand une autre renvoie à la page dédiée. L'heure limite d'arrivée varie aussi : 23 h côté VIP, 22 h 30 côté anniversaire. Faites confirmer tarif et horaire par courriel avant d'engager une somme."
+        }
+      ]
+    },
+    {
+      "id": "solenade-sol-et-nade",
+      "title": "Bar à thème en 2014, discothèque en 2017, nouvel exploitant en 2018",
+      "icon": "history",
+      "summary": "Ouvert en septembre 2014 comme « bar à thème » par la SAS SOLENADE ; depuis mai 2018, la SAS SOL ET NADE exploite la même enseigne à la même adresse.",
+      "sources": [
+        "s1",
+        "s25",
+        "s26",
+        "s27",
+        "s28",
+        "s29",
+        "s30",
+        "s31",
+        "s32",
+        "s33",
+        "s34"
+      ],
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "« Fondé en 2014 », dit le club. Le registre des entreprises et le Bulletin officiel des annonces civiles et commerciales (BODACC) le confirment, et racontent une histoire en deux sociétés que le site ne mentionne pas."
+        },
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "Janvier 2014",
+              "text": "Immatriculation de la SAS SOLENADE, sans activité, avec son siège à Persan (95340) et le nom commercial THE STRIP."
+            },
+            {
+              "date": "12 septembre 2014",
+              "text": "Ouverture au 23 avenue de l'Eguillette, sous l'activité déclarée de « bar à thème »."
+            },
+            {
+              "date": "2015",
+              "text": "Le siège rejoint l'adresse du club ; la présidence change le 31 août."
+            },
+            {
+              "date": "2017",
+              "text": "L'activité déclarée devient l'exploitation d'une discothèque avec piste de danse (annonce du 25 août)."
+            },
+            {
+              "date": "Mai 2018",
+              "text": "SOLENADE cesse son activité le 13 ; la SAS SOL ET NADE, créée en avril avec un autre président, exploite la même enseigne à la même adresse à partir du 25."
+            },
+            {
+              "date": "Juin 2018",
+              "text": "SOL ET NADE déclare une « discothèque avec piste de danse avec licence 4 »."
+            },
+            {
+              "date": "Janvier 2024",
+              "text": "Radiation d'office de SOLENADE."
+            }
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le BODACC parle en 2018 de la « création d'un fonds de commerce », pas d'un rachat, et aucune source publique n'explique ce passage de relais. SOL ET NADE déclare aujourd'hui 10 à 19 salariés (tranche 2024)."
+        }
+      ]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Lundi": "14 h - 18 h (après-midi Bi & Gay, sans carte de membre)",
+      "Mardi": "14 h - 18 h",
+      "Mercredi": "14 h - 18 h",
+      "Jeudi": "14 h - 18 h, puis soirée de 21 h 30 à 2 h 30",
+      "Vendredi": "14 h - 18 h, puis soirée de 21 h 30 à 4 h",
+      "Samedi": "14 h - 18 h, puis soirée de 21 h 30 à 5 h",
+      "Dimanche": "15 h - 19 h en horaire d'hiver (20 h selon la grille générale)"
+    },
+    "note": "Horaires d'hiver appliqués aux après-midi en octobre 2026. Plus d'entrée 1 h 30 avant la fermeture ; bar et installations fermés 30 minutes avant. Hommes seuls admis à partir de 22 h 30 les vendredis et samedis soir.",
+    "confidence": "confirme",
+    "sources": [
+      "s1",
+      "s2",
+      "s3"
+    ]
+  },
+  "tarifs": {
+    "rows": {
+      "Après-midi, du mardi au samedi": "Couple 30 € · homme 60 € · femme gratuit · t-girl 20 €",
+      "Dimanche après-midi": "Couple 30 € · homme 80 € · femme gratuit · t-girl 20 €",
+      "Lundi après-midi (Bi & Gay)": "Couple 30 € · homme 30 € (20 € avant 30 ans) · femme 10 € · t-girl gratuit",
+      "Jeudi soir": "Couple gratuit contre 2 consommations alcoolisées (26 €) · homme 60 € · femme 10 € · t-girl 10 €",
+      "Vendredi soir": "Couple 40 € (gratuit de 21 h 30 à 22 h 30 contre 2 consommations alcoolisées) · homme 70 € · femme 10 € · t-girl 10 €",
+      "Samedi soir": "Couple 60 € · homme 100 € (80 € au-delà de 40 entrées) · femme 10 € · t-girl 10 €",
+      "Carte de membre": "Gratuite pour couples, femmes et t-girls · 20 € par an pour un homme seul",
+      "Bar": "13 € la boisson alcoolisée · 6 € sans alcool"
+    },
+    "note": "L'après-midi, boissons à volonté parmi trois bocaux de boissons aromatisées. En soirée, une consommation comprise par personne pour toute entrée payante. Soirées sur demande (Inferno, DJ Fou, Nouvel An) : couple 70 €, homme seul 150 € (100 € au-delà de 40 entrées ; 120 € au Nouvel An selon l'encadré de sa fiche). Grille relevée sur le site le 19 octobre 2026.",
+    "confidence": "confirme",
+    "sources": [
+      "s2",
+      "s5",
+      "s7",
+      "s12",
+      "s13",
+      "s14",
+      "s15",
+      "s16",
+      "s19",
+      "s20"
+    ]
+  },
+  "equipements": [
+    "Sauna sec (80 °C)",
+    "Hammam",
+    "Jacuzzi (12 places)",
+    "Piscine extérieure chauffée (fin mai à septembre)",
+    "Piste de danse",
+    "Barres de pole dance",
+    "Bar lounge",
+    "Coins câlins",
+    "Étage réservé aux couples le samedi soir",
+    "Espace VIP (4 tables)",
+    "Espace fumeur",
+    "Vestiaires avec cadenas",
+    "Parking privé gratuit"
+  ],
+  "externalRatings": [
+    {
+      "platform": "Petit Futé",
+      "rating": 3.8,
+      "scale": 5,
+      "count": 15,
+      "date": "2026-10-19",
+      "url": "https://www.petitfute.com/v17988-saint-ouen-l-aumone-95310/c9998-coquin/c1044-s-amuser-sortir/c206-club-libertin/1521325-the-strip/tous-les-avis.html"
+    },
+    {
+      "platform": "PagesJaunes",
+      "rating": 3.4,
+      "scale": 5,
+      "count": 5,
+      "date": "2026-10-19",
+      "url": "https://www.pagesjaunes.fr/pros/55457629"
+    }
+  ],
+  "officialLinks": [
+    {
+      "label": "Site officiel",
+      "url": "https://thestrip.fr/",
+      "kind": "site"
+    },
+    {
+      "label": "Programme des soirées et des après-midi",
+      "url": "https://thestrip.fr/soirees",
+      "kind": "agenda"
+    },
+    {
+      "label": "Galerie photo : trois albums et un teaser vidéo",
+      "url": "https://thestrip.fr/gallery",
+      "kind": "galerie"
+    },
+    {
+      "label": "Horaires et tarifs",
+      "url": "https://thestrip.fr/horaires_tarifs",
+      "kind": "autre"
+    },
+    {
+      "label": "Créer sa carte de membre",
+      "url": "https://thestrip.fr/carte_membre",
+      "kind": "autre"
+    },
+    {
+      "label": "Page Facebook",
+      "url": "https://www.facebook.com/thestripbar",
+      "kind": "facebook"
+    }
+  ],
+  "corrections": {
+    "code_postal": "95310",
+    "telephone": "",
+    "sources": [
+      "s7",
+      "s9",
+      "s25",
+      "s37"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Le Strip a-t-il un sauna, et quand peut-on l'utiliser ?",
+      "answer": "Oui : un sauna sec à 80 °C, avec hammam et jacuzzi de douze places, ouverts chaque après-midi et tout le jeudi soir. Le vendredi et le samedi soir, sauna et hammam ferment et le jacuzzi n'ouvre qu'à minuit, sauf exception annoncée pour une soirée."
+    },
+    {
+      "question": "Combien coûte l'entrée à The Strip ?",
+      "answer": "L'après-midi, 30 € pour un couple et 60 € pour un homme seul (80 € le dimanche, 30 € le lundi) ; les femmes entrent gratuitement, sauf le lundi. Le soir, un couple paie 26 € de consommations le jeudi, 40 € le vendredi et 60 € le samedi, un homme seul 60, 70 puis 100 €."
+    },
+    {
+      "question": "Peut-on créer sa carte de membre à l'entrée ?",
+      "answer": "Non : elle se crée uniquement en ligne, depuis un téléphone, avant de venir, puis se présente sous forme de QR code. Elle n'est pas exigée le lundi."
+    },
+    {
+      "question": "Un homme seul peut-il entrer le samedi soir ?",
+      "answer": "Oui, à partir de 22 h 30, en nombre limité selon les couples présents, avec une carte validée et une chemise. L'étage reste réservé aux couples, sauf lors des « Philou's Party ». Les groupes d'hommes sont refusés."
+    },
+    {
+      "question": "Comment joindre le club ?",
+      "answer": "Par courriel, à contact@thestrip.fr. Le club ne répond plus au téléphone et son site ne publie aucun numéro."
+    },
+    {
+      "question": "Peut-on discuter avec des membres avant sa première visite ?",
+      "answer": "Pas sur le réseau du club : son application (profils, albums privés, messagerie, inscriptions aux soirées) est réservée aux titulaires d'une carte, tous déjà venus au moins une fois selon le club. Avant une première entrée, [échanger sur Gleese avant d'avoir votre carte de membre](aff:gleese) ne demande aucune carte bancaire à l'inscription. Ce site français lancé fin 2024 vérifie chaque profil par téléphone ; sa communauté reste jeune, et rien ne dit combien de membres il compte dans le Val-d'Oise."
+    },
+    {
+      "question": "Où voir des photos de The Strip ?",
+      "answer": "Sur la galerie du site officiel : trois albums (« Le Club », « Fucking Party », « Halloween 2025 ») et un teaser vidéo."
+    },
+    {
+      "question": "Que valent les avis sur The Strip ?",
+      "answer": "Le 19 octobre 2026, Petit Futé affichait 3,8/5 sur 15 avis, déposés entre novembre 2014 et juillet 2024, et PagesJaunes 3,4/5 sur 5 avis de 2023 et 2024. La propreté y revient souvent ; les critiques visent un jacuzzi froid (fin 2022) et une décoration jugée froide (2021). Aucune note Google n'a été relevée et aucun avis ne date de 2025 ou 2026."
+    }
+  ],
+  "unverified": [
+    "Note Google et avis récents (2025-2026) : aucun relevé, les derniers avis publics lus datant de juillet 2024.",
+    "Articles de la presse régionale : une recherche du 19 octobre 2026 n'en a trouvé aucun.",
+    "Date de fin des horaires d'hiver, et donc heure de fermeture du dimanche après-midi (19 h ou 20 h).",
+    "Validité des prix des tables VIP et possibilité réelle de réserver, la FAQ du site disant le contraire de la page VIP.",
+    "Raisons du passage de SOLENADE à SOL ET NADE en 2018.",
+    "Existence d'une « cage d'exhib » et d'une « backroom », citées par un annuaire mais absentes du site officiel.",
+    "Heure de fin de la Soirée dansante du 23 octobre 2026 (3 h ou 4 h selon la fiche).",
+    "Présence des soirées du Strip dans l'agenda de Wyylde, malgré le partenariat affiché par le club.",
+    "Prix de l'homme seul au Nouvel An 2027 : 150 € dans le texte de la fiche, 120 € dans son encadré des prix."
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "The Strip, site officiel : page d'accueil",
+      "url": "https://thestrip.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s2",
+      "label": "The Strip, site officiel : horaires et tarifs",
+      "url": "https://thestrip.fr/horaires_tarifs",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s3",
+      "label": "The Strip, site officiel : fonctionnement",
+      "url": "https://thestrip.fr/fonctionnement",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s4",
+      "label": "The Strip, site officiel : dress code",
+      "url": "https://thestrip.fr/dress_code",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s5",
+      "label": "The Strip, site officiel : la carte de membre",
+      "url": "https://thestrip.fr/carte_membre",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s6",
+      "label": "The Strip, site officiel : règlement",
+      "url": "https://thestrip.fr/reglement",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s7",
+      "label": "The Strip, site officiel : FAQ (71 questions)",
+      "url": "https://thestrip.fr/faq",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s8",
+      "label": "The Strip, site officiel : charte du consentement",
+      "url": "https://thestrip.fr/consentement",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s9",
+      "label": "The Strip, site officiel : nous trouver et contact",
+      "url": "https://thestrip.fr/contact",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s10",
+      "label": "The Strip, site officiel : programme des soirées",
+      "url": "https://thestrip.fr/soirees",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s11",
+      "label": "The Strip, site officiel : programme des après-midi",
+      "url": "https://thestrip.fr/soirees?tab=apres-midi",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s12",
+      "label": "The Strip, fiche de la soirée « Pluralité » (16 octobre 2026)",
+      "url": "https://thestrip.fr/vue_soiree?id=pluralite--807",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s13",
+      "label": "The Strip, fiche de la soirée « Évasion, couple offert »",
+      "url": "https://thestrip.fr/vue_soiree?id=evasion---couple-offert-803",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s14",
+      "label": "The Strip, fiche de la soirée « Inferno le retour » (31 octobre 2026)",
+      "url": "https://thestrip.fr/vue_soiree?id=inferno-le-retour--795",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s15",
+      "label": "The Strip, fiche de la soirée « Nouvel An 2027 »",
+      "url": "https://thestrip.fr/vue_soiree?id=nouvel-an-2027--band-james-band-813",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s16",
+      "label": "The Strip, fiche de la soirée « Le Pouvoir des talons hauts » (24 octobre 2026)",
+      "url": "https://thestrip.fr/vue_soiree?id=le-pouvoir-des-talons-hauts-812",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s17",
+      "label": "The Strip, fiche de la soirée « Fous-moi la dose » (30 octobre 2026)",
+      "url": "https://thestrip.fr/vue_soiree?id=fous-moi-la-dose--809",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s18",
+      "label": "The Strip, fiche de la « Soirée dansante » (23 octobre 2026)",
+      "url": "https://thestrip.fr/vue_soiree?id=soire-dansante-808",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s19",
+      "label": "The Strip, fiche de la soirée « Les Ombres Rouges » (17 octobre 2026)",
+      "url": "https://thestrip.fr/vue_soiree?id=les-ombres-rouges-811",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s20",
+      "label": "The Strip, fiche de la soirée « DJ Fou au Strip » (19 décembre 2026)",
+      "url": "https://thestrip.fr/vue_soiree?id=dj-fou-au-strip--814",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s21",
+      "label": "The Strip, site officiel : présentation du réseau privé des membres",
+      "url": "https://thestrip.fr/app",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s22",
+      "label": "The Strip, site officiel : page VIP (hors menu)",
+      "url": "https://thestrip.fr/vip",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s23",
+      "label": "The Strip, site officiel : réserver pour un anniversaire",
+      "url": "https://thestrip.fr/anniversaire",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s24",
+      "label": "The Strip, galerie photo officielle",
+      "url": "https://thestrip.fr/gallery",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s25",
+      "label": "Annuaire des entreprises : SAS SOL ET NADE (THE STRIP), SIREN 838 903 003",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/838903003",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s26",
+      "label": "Annuaire des entreprises : SAS SOLENADE, SIREN 799 966 452 (cessée)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/799966452",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s27",
+      "label": "BODACC : immatriculation de SOLENADE (5 février 2014)",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A201400252132",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s28",
+      "label": "BODACC : début d'activité de SOLENADE, « bar à thème » (21 septembre 2014)",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:B201401811736",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s29",
+      "label": "BODACC : transfert du siège de SOLENADE (9 septembre 2015)",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:B201501721301",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s30",
+      "label": "BODACC : nouvelle activité de discothèque (25 août 2017)",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:B201701622484",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s31",
+      "label": "BODACC : cessation d'activité de SOLENADE (24 juillet 2018)",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:B201801382020",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s32",
+      "label": "BODACC : radiation d'office de SOLENADE (12 janvier 2024)",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:B202400083236",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s33",
+      "label": "BODACC : création de SOL ET NADE (19 avril 2018)",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A201800762238",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s34",
+      "label": "BODACC : SOL ET NADE, activité de discothèque avec licence 4 (30 juin 2018)",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:B201801241710",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s35",
+      "label": "sauna-club-libertin.com, fiche « THE STRIP » (annuaire, source faible)",
+      "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_3.php?id=15393&d=95",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s36",
+      "label": "Page Facebook « The strip | Saint-Ouen-l'Aumône »",
+      "url": "https://www.facebook.com/thestripbar",
+      "type": "reseau_social",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s37",
+      "label": "Base Adresse Nationale : 23 avenue de l'Eguillette, 95310 Saint-Ouen-l'Aumône",
+      "url": "https://api-adresse.data.gouv.fr/search/?q=23%20avenue%20de%20l%27Eguillette%2095310",
+      "type": "carte",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s38",
+      "label": "OpenStreetMap (Nominatim) : avenue de l'Eguillette, zone industrielle du Vert-Galant",
+      "url": "https://nominatim.openstreetmap.org/search?q=23+Avenue+de+l%27Eguillette+Saint-Ouen-l%27Aum%C3%B4ne&format=json",
+      "type": "carte",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s39",
+      "label": "Recherche d'entreprises : établissements de l'avenue de l'Eguillette (95310)",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=eguillette&code_postal=95310",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s40",
+      "label": "Petit Futé, fiche « THE STRIP » et ses 15 avis d'internautes",
+      "url": "https://www.petitfute.com/v17988-saint-ouen-l-aumone-95310/c9998-coquin/c1044-s-amuser-sortir/c206-club-libertin/1521325-the-strip/tous-les-avis.html",
+      "type": "avis",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s41",
+      "label": "PagesJaunes, fiche « The Strip SOLENADE SAS » (5 avis)",
+      "url": "https://www.pagesjaunes.fr/pros/55457629",
+      "type": "avis",
+      "consulted": "2026-10-19"
+    }
+  ]
+}

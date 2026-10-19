@@ -1,0 +1,362 @@
+{
+  "slug": "l-anastasia-beziers",
+  "clubId": "15260",
+  "researchedAt": "2026-10-16",
+  "display": { "nom": "L'Anastasia", "ville": "Béziers" },
+  "status": {
+    "value": "ferme",
+    "summary": "La « soirée tahitienne » du samedi 9 août 2014 est la dernière date annoncée par le site du club ; en octobre puis en décembre 2014, sa page d'accueil ne promettait plus qu'un programme « bientôt ». Le répertoire SIRENE date du 15 décembre 2014 la fermeture de l'unique établissement de la société exploitante, dont le BODACC a publié la cessation d'activité le 30 novembre 2017. Le nom de domaine club-anastasia.fr n'est plus enregistré en octobre 2026.",
+    "sources": ["s25", "s11", "s14", "s15", "s13"]
+  },
+  "seo": {
+    "title": "L'Anastasia, club libertin et sauna de Béziers fermé en 2014",
+    "metaDescription": "L'Anastasia, club discothèque libertin de Béziers avec sauna, hammam et deux jacuzzis, a fermé en 2014. Son histoire, et deux clubs ouverts à Pinet et à Agde.",
+    "subtitle": "Club discothèque libertin de la route de Narbonne, ouvert au printemps 2013, fermé en 2014",
+    "targetQueries": [
+      "club libertin beziers",
+      "club libertin béziers",
+      "sauna libertin beziers",
+      "sauna libertin béziers",
+      "club echangiste beziers",
+      "libertine beziers",
+      "libertin beziers",
+      "libertines beziers"
+    ]
+  },
+  "lead": "L'Anastasia, « club discothèque libertine » ouvert au printemps 2013 au bord de la route de Narbonne, à Béziers, a fermé en 2014. Il réunissait une piste de danse, un bar, des coins câlins dont un espace SM, et un espace balnéo avec deux jacuzzis, un sauna et un hammam. Sa dernière soirée datée remonte au samedi 9 août 2014 ; le registre a fermé son établissement le 15 décembre suivant. En octobre 2026, l'adresse est celle du Relax Club, un bar-restaurant familial sans rapport avec le libertinage.",
+  "glance": [
+    { "icon": "closed", "label": "Fermé", "value": "Depuis 2014 (registre : 15 décembre)" },
+    { "icon": "history", "label": "Période d'activité", "value": "Du printemps 2013 à l'été 2014" },
+    { "icon": "map", "label": "Ancienne adresse", "value": "7 bis montée des Noyers, route de Narbonne" },
+    { "icon": "spa", "label": "Espace balnéo (2013)", "value": "2 jacuzzis, sauna, hammam" },
+    { "icon": "heart", "label": "Ouverts en octobre 2026", "value": "L'Extasia (Pinet), Histoires d'Ô (Cap d'Agde)" },
+    { "icon": "building", "label": "À l'adresse en 2026", "value": "Le Relax Club, bar-restaurant non libertin" }
+  ],
+  "highlights": [
+    "L'Anastasia n'existe plus : dernière soirée datée le 9 août 2014, établissement fermé au registre le 15 décembre 2014.",
+    "L'ancien portable et le site club-anastasia.fr, encore recopiés par des annuaires, ne mènent plus au club ; le domaine n'est plus enregistré en 2026.",
+    "Au 7 montée des Noyers, vous trouverez en octobre 2026 Le Relax Club, bar-restaurant avec terrasse et château gonflable pour enfants : pas un club libertin.",
+    "Des annuaires libertins ont signalé à la même adresse un club « L'Orchidée » ; aucune preuve d'activité récente n'a été trouvée pour cette fiche.",
+    "Ouverts au 19 octobre 2026 : L'Extasia à Pinet, réservé aux couples (Halloween le 31 octobre), et Histoires d'Ô au Cap d'Agde, avec sauna et hammam."
+  ],
+  "keyFacts": [
+    {
+      "label": "Statut",
+      "value": "Fermé en 2014 : dernière soirée datée le 9 août, établissement fermé au registre le 15 décembre",
+      "confidence": "confirme",
+      "sources": ["s25", "s11", "s14"]
+    },
+    {
+      "label": "Ouverture annoncée",
+      "value": "Annoncée sur le site au plus tard le 8 mai 2013 ; première soirée datée le jeudi 9 mai",
+      "confidence": "source_unique",
+      "sources": ["s1"]
+    },
+    {
+      "label": "Adresse",
+      "value": "7 bis montée des Noyers, 34500 Béziers, au bord de la route de Narbonne (D609)",
+      "confidence": "confirme",
+      "sources": ["s9", "s14", "s15", "s21"]
+    },
+    {
+      "label": "Formule",
+      "value": "Club discothèque libertin : piste de danse, bar, coins câlins, espace balnéo",
+      "confidence": "confirme",
+      "sources": ["s1", "s11"]
+    },
+    {
+      "label": "Espace balnéo",
+      "value": "2 jacuzzis, 1 sauna, 1 hammam, douches",
+      "confidence": "confirme",
+      "sources": ["s1", "s8"]
+    },
+    {
+      "label": "Public",
+      "value": "Couples, femmes seules (entrée gratuite) et hommes seuls ; certaines soirées réservées aux couples",
+      "confidence": "confirme",
+      "sources": ["s2", "s3", "s4", "s6"]
+    },
+    {
+      "label": "Dernière grille publiée",
+      "value": "Vendredi et samedi soir seulement (février 2014)",
+      "confidence": "confirme",
+      "sources": ["s6", "s7"]
+    },
+    {
+      "label": "Exploitant",
+      "value": "SAS au capital de 5 000 €, SIREN 792612855, immatriculée à Béziers le 25 avril 2013",
+      "confidence": "confirme",
+      "sources": ["s14", "s15"]
+    },
+    {
+      "label": "Hôtes",
+      "value": "« Harley et Johnny », pseudonymes affichés par le club",
+      "confidence": "confirme",
+      "sources": ["s2", "s4", "s5"]
+    },
+    {
+      "label": "À l'adresse en 2026",
+      "value": "Le Relax Club, bar-restaurant (activité déclarée au 9 septembre 2026), sans lien avec L'Anastasia",
+      "confidence": "confirme",
+      "sources": ["s20", "s27"]
+    }
+  ],
+  "sections": [
+    {
+      "id": "fermeture-fin-2014",
+      "title": "Dernière soirée le 9 août 2014, fermeture au registre le 15 décembre",
+      "icon": "closed",
+      "summary": "Le programme du site s'arrête sur la soirée tahitienne du 9 août 2014 ; le registre ferme l'établissement le 15 décembre 2014 et le domaine est libre en 2026.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Aucune annonce de fermeture ne figure dans les archives du site, et la page Facebook du club n'est pas lisible sans compte. Trois séries de traces datent la fin :\n\n- **Le programme s'arrête en août 2014** : soirée féline le samedi 12 juillet, soirée tahitienne le samedi 9 août. Sur les captures d'octobre et de décembre, plus aucune date.\n- **Le registre clôt l'unique établissement de la société exploitante (SIREN 792612855) le 15 décembre 2014.** Le BODACC publie sa cessation d'activité le 30 novembre 2017.\n- **Le site disparaît en 2015.** Le domaine renvoie ensuite vers des sites de rencontres, puis, de septembre 2024 à mars 2025, vers un site pornographique. Il n'est plus enregistré en octobre 2026.\n\nLa dernière soirée a donc eu lieu entre le 9 août et le 15 décembre 2014, à une date inconnue."
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Des coordonnées de 2014 encore en circulation",
+          "body": "L'annuaire sauna-club-libertin.com présente toujours L'Anastasia sans mention de fermeture (consulté le 16 octobre 2026), avec son ancien numéro de portable et son ancien site. Ces coordonnées de 2013-2014 ne mènent plus au club : nous les avons retirées de cette fiche."
+        }
+      ],
+      "sources": ["s25", "s11", "s14", "s15", "s12", "s13", "s10", "s22"]
+    },
+    {
+      "id": "ouverts-pres-de-beziers",
+      "title": "Ouverts en octobre 2026 près de Béziers : L'Extasia à Pinet, Histoires d'Ô au Cap d'Agde",
+      "icon": "map",
+      "summary": "Vérifiés le 19 octobre 2026 : L'Extasia, discothèque libertine pour couples à Pinet (Halloween le 31 octobre), et Histoires d'Ô, balnéo-club avec sauna au Cap d'Agde.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Aucun lieu libertin de Béziers même n'a pu être confirmé ouvert pour cette fiche. Deux établissements de l'Hérault publient en revanche sur leur site, consulté le 19 octobre 2026, un programme daté : [L'Extasia, discothèque libertine du domaine de Saint-Jean des Sources à Pinet](/l-extasia-pinet), et [Histoires d'Ô, balnéo-club du village naturiste du Cap d'Agde](/histoires-d-a-cap-d-agde)."
+        },
+        {
+          "kind": "table",
+          "caption": "Ce qu'affichent leurs sites officiels, relevé du 19 octobre 2026",
+          "headers": ["", "L'Extasia (Pinet)", "Histoires d'Ô (Cap d'Agde)"],
+          "rows": [
+            ["Formule", "Discothèque libertine, coins câlins sur une mezzanine, restaurant voisin", "Balnéo-club naturiste : sauna, hammam, jacuzzi, six cabines fermant à clé"],
+            ["Public", "Couples majeurs uniquement ; hommes seuls non admis", "Mixte, avec un grand salon réservé aux couples"],
+            ["Prochaines dates", "Halloween le samedi 31 octobre 2026 (réservations dès le 23), réveillon le 31 décembre", "Tous les jours du 17 octobre au 1er novembre 2026 : 14 h-1 h, le dimanche 14 h-21 h"],
+            ["Entrée", "40 € le couple avec 2 consommations ; dîner-spectacle d'Halloween à 85 € le couple, club compris", "Couple 45 €, femme seule 10 €, homme seul 65 €, transgenre 40 €"],
+            ["Tenue", "Sexy pour les femmes, tenue de ville pour les hommes, ni short ni claquettes", "Nudité, paréo toléré"],
+            ["Preuve d'activité", "Site mis à jour le 22 septembre 2026 ; exploitant actif au registre depuis 2013", "Agenda daté du 19 octobre au 30 novembre, tous les jours sauf les mardis de novembre"]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Les deux lieux ne visent pas le même public. L'Extasia ne reçoit que des couples et ne précise pas ses soirs d'ouverture d'octobre à avril, hors soirées spéciales : téléphonez avant. Histoires d'Ô, seul des deux à proposer un sauna, accepte les hommes seuls tant que le club ne les juge pas trop nombreux face aux couples."
+        }
+      ],
+      "sources": ["s32", "s33", "s34", "s35"]
+    },
+    {
+      "id": "envie-et-berlioz-non-verifies",
+      "title": "À Béziers, L'Envie rue du Midi et Berlioz Sauna, sans activité vérifiée",
+      "icon": "info",
+      "summary": "L'annuaire sauna-club-libertin.com cite encore L'Envie, au 42 rue du Midi, et Berlioz Sauna, un sauna gay ; leur activité n'a pas été vérifiée pour cette fiche.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Des trois adresses biterroises que recense sauna-club-libertin.com, L'Anastasia est fermée. Les deux autres n'ont pas pu être vérifiées ici :\n\n- [L'Envie, au 42 rue du Midi](/l-envie-beziers), présenté comme club sauna libertin ; la société qui porte l'enseigne est active au registre depuis février 2014, mais son site n'affichait rien sur le club le 16 octobre 2026.\n- [Berlioz Sauna](/berlioz-sauna-beziers), un sauna gay.\n\n[La page consacrée à Béziers](/ville/beziers) et [celle de l'Hérault](/departement/herault) regroupent les autres lieux de notre annuaire.\n\nFaute de club dont l'activité soit établie dans la ville même, un couple ou une femme peut aussi [chercher des partenaires du Biterrois sur Carré Libertin](aff:carre-libertin) : ce site né en 2007 leur ouvre toutes ses fonctions sans payer, une fois trois photos ajoutées à leur profil."
+        }
+      ],
+      "sources": ["s22", "s23", "s24"]
+    },
+    {
+      "id": "jacuzzis-hammam-gloryhole",
+      "title": "Deux jacuzzis, un hammam et un gloryhole : le club décrit par son site",
+      "icon": "spa",
+      "summary": "Piste de danse, bar, coins câlins avec coin SM et gloryhole, balnéo à deux jacuzzis, sauna et hammam ; piscine, solarium et terrasse ne viennent que d'un annuaire.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le site s'adressait aux « adultes libertins, amateurs comme initiés ». À l'ouverture, en mai 2013, il annonçait une piste de danse, un bar, un buffet offert certains jours, des coins câlins aménagés dont un coin SM et un gloryhole, un espace balnéo et des douches. La présentation mise en ligne fin 2013 ajoute un salon ; le livre d'or cite le DJ. La galerie de février 2014 range 19 photos en cinq rubriques ; des noms de fichiers y évoquent des salles « Égypte » et « Glamour » et un billard, que le club ne décrit nulle part."
+        },
+        {
+          "kind": "table",
+          "caption": "Ce que confirme le site du club, ce que seul un annuaire affirme",
+          "headers": ["Équipement", "Site officiel (2013-2014)", "sauna-club-libertin.com"],
+          "rows": [
+            ["Piste de danse, DJ, bar", "Oui", "Oui"],
+            ["Deux jacuzzis, sauna, hammam, douches", "Oui", "Oui"],
+            ["Coin SM, gloryhole", "Oui", "Oui"],
+            ["Piscine, solarium, terrasse, cage d'exhibition", "Jamais mentionnés", "Oui"],
+            ["Parking, espace fumeurs, salon vidéo", "Jamais mentionnés", "Oui"]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Côté règles : tenue correcte exigée, et pas de pantalon pour les femmes, invitées à venir en robe, jupe et talons. L'équipe signait « Harley et Johnny ». Les cinq messages du livre d'or, publiés par le club lui-même, datent tous de juin à août 2013 et l'un d'eux relève « le peu de monde » fin juillet. Aucune note Google n'a pu être relevée."
+        }
+      ],
+      "sources": ["s1", "s5", "s8", "s11", "s26", "s22"]
+    },
+    {
+      "id": "soirees-et-grilles",
+      "title": "Gang bang le jeudi, couples le samedi, puis deux soirs par semaine en 2014",
+      "icon": "calendar",
+      "summary": "Ouvert du jeudi au dimanche à l'été 2013, du mercredi au samedi après le relooking de septembre, puis le vendredi et le samedi soir seulement début 2014.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "À l'été 2013, le club ouvre du jeudi au dimanche, l'après-midi et le soir : gang bang le jeudi, soirées à thème « strictement » réservées aux couples le vendredi et le samedi (tahitienne, bustier, fluo), soirée SM le dimanche. La grille de juillet affiche pourtant un prix homme seul tous les soirs, 50 € avec deux consommations : la règle se lisait soirée par soirée. Les couples entrent gratuitement le jeudi et le vendredi soir, les femmes seules toujours.\n\nAprès des congés du 14 août au 3 septembre et trois jours de travaux, une « soirée inauguration après relooking » ouvre la saison le 7 septembre 2013. La nouvelle grille fixe 30 € le couple et 50 € l'homme seul chaque soir, du mercredi au samedi ; le samedi « écolière » admet les hommes seuls à partir de minuit.\n\nSur la grille relevée le 15 février 2014, il ne reste que le vendredi et le samedi soir. Les samedis de janvier et février ont chacun leur thème (Ibiza, mexicaine, espagnole), la Saint-Valentin est fêtée les 14 et 15 février, et un dimanche après-midi avec buffet campagnard est annoncé pour le 23.\n\nCe programme n'existe plus qu'en archive. Le site du club affichait dès septembre 2013 une bannière de parrainage Netéchangisme, devenu Wyylde en 2018, dont l'agenda, ouvert aux comptes gratuits, sert aujourd'hui à [repérer une soirée programmée dans le Biterrois](aff:wyylde) avant de rouler vers un club dont l'ouverture n'est pas garantie."
+        }
+      ],
+      "sources": ["s2", "s3", "s4", "s6", "s7"]
+    },
+    {
+      "id": "montee-des-noyers",
+      "title": "Au 7 bis montée des Noyers, du Feeling de 2005 au Relax Club de 2026",
+      "icon": "building",
+      "summary": "Avant le club, un fonds de discothèque, bar et hôtel ; après lui, une discothèque, une société de sauna citée comme club « L'Orchidée », puis en 2026 un bar-restaurant familial.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "L'Anastasia s'est installée dans des murs existants : sa société a racheté en 2013, pour 60 000 €, un fonds de discothèque, bar, hôtel et thés dansants doté d'une licence IV. Le site du club, lui, n'a jamais mentionné d'hébergement."
+        },
+        {
+          "kind": "timeline",
+          "items": [
+            { "date": "2005-2012", "text": "Une SARL exploite à la montée des Noyers un établissement de restauration à l'enseigne Le Feeling, liquidé en juillet 2012." },
+            { "date": "Décembre 2012", "text": "Une autre SARL Le Feeling rachète le fonds (discothèque, sauna, hôtel, licence IV) pour 25 000 € ; elle ferme le 30 avril 2013." },
+            { "date": "Mars-mai 2013", "text": "La société de L'Anastasia démarre le 27 mars ; l'ouverture est annoncée sur le site, capturé le 8 mai." },
+            { "date": "Décembre 2014", "text": "Le registre ferme l'établissement de L'Anastasia le 15 décembre." },
+            { "date": "2015-2018", "text": "Une SAS Katimini y déclare une activité de discothèque et chambres d'hôtes ; elle est radiée en mars 2018." },
+            { "date": "Depuis 2016", "text": "Une SAS Lor'chidée y est inscrite pour un établissement de bains, sauna et hammam ; elle reste active au registre." },
+            { "date": "Juillet 2026", "text": "Le Relax Club, une SARL de restaurant-bar avec animations musicales et danse, s'y immatricule ; activité déclarée à partir du 9 septembre." }
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Aucune de ces sociétés n'a de lien connu avec L'Anastasia autre que l'adresse. Pour Le Feeling et Katimini, rien n'indique un caractère libertin.\n\nLor'chidée est un cas à part : des annuaires libertins ont présenté au « 7 la montée des Noyers » un club nommé L'Orchidée ou L'Or Chidée. Ils se contredisent sur sa survie : un guide du site Radio-libertine, estampillé 2022, le dit fermé, tandis que minuitlibertin.com affichait encore des tarifs relevés le 29 juin 2025. Aucune page officielle active ni soirée datée récente n'a été trouvée pour cette fiche.\n\nEn octobre 2026, c'est Le Relax Club qui occupe l'adresse : son site présente un bar-restaurant du midi au soir, avec billard, soirées DJ le vendredi et le samedi, terrasse et château gonflable pour les enfants. Une soirée salsa, bachata et kizomba y est annoncée chaque mercredi jusqu'au 24 décembre 2026. Rien de libertin."
+        }
+      ],
+      "sources": ["s15", "s16", "s17", "s18", "s19", "s20", "s21", "s1", "s14", "s27", "s28", "s29", "s30"]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Lundi à jeudi": "Fermé",
+      "Vendredi": "22 h à 5 h",
+      "Samedi": "21 h à 5 h",
+      "Dimanche": "Fermé (ouverture de 15 h à 22 h annoncée pour le 23 février 2014)"
+    },
+    "note": "Dernière grille publiée par le club, relevée sur l'archive du 15 février 2014. L'Anastasia a fermé fin 2014 : ces horaires n'ont plus cours.",
+    "confidence": "source_unique",
+    "sources": ["s6", "s7"]
+  },
+  "tarifs": {
+    "rows": {
+      "Couple, vendredi soir": "20 € avec 2 consommations",
+      "Couple, samedi soir": "40 € avec 4 consommations et buffet à volonté",
+      "Homme seul, vendredi soir": "50 € avec 2 consommations",
+      "Homme seul, samedi soir": "60 € avec 2 consommations",
+      "Femme seule": "Gratuit"
+    },
+    "note": "Tarifs de février 2014, les derniers connus, plus appliqués depuis la fermeture. Le buffet du samedi est indiqué sur la page des soirées.",
+    "confidence": "confirme",
+    "sources": ["s6", "s7"]
+  },
+  "equipements": [
+    "Piste de danse",
+    "DJ",
+    "Bar (licence IV)",
+    "Buffet certains soirs",
+    "Deux jacuzzis",
+    "Sauna",
+    "Hammam",
+    "Douches",
+    "Salon",
+    "Coins câlins",
+    "Coin SM",
+    "Gloryhole"
+  ],
+  "officialLinks": [
+    {
+      "label": "Site du club archivé (page d'accueil, août 2014)",
+      "url": "https://web.archive.org/web/20140809171625/http://www.club-anastasia.fr/",
+      "kind": "site"
+    },
+    {
+      "label": "Galerie archivée du club : 19 photos en cinq rubriques (février 2014)",
+      "url": "https://web.archive.org/web/20140215193113/http://www.club-anastasia.fr/visiter-le-club/",
+      "kind": "galerie"
+    }
+  ],
+  "corrections": {
+    "telephone": "",
+    "email": "",
+    "site_web": "",
+    "sources": ["s13", "s14"]
+  },
+  "faq": [
+    {
+      "question": "L'Anastasia à Béziers est-il encore ouvert ?",
+      "answer": "Non. Sa dernière soirée annoncée date du samedi 9 août 2014 et son établissement est fermé au registre des entreprises depuis le 15 décembre 2014."
+    },
+    {
+      "question": "Reste-t-il un club libertin ou échangiste à Béziers ?",
+      "answer": "Dans la ville même, les annuaires citent encore L'Envie, rue du Midi, et Berlioz Sauna, sans que nous ayons pu vérifier qu'ils reçoivent toujours : appelez avant de vous déplacer. Hors de Béziers, L'Extasia, discothèque libertine réservée aux couples à Pinet, annonçait le 19 octobre 2026 sa prochaine soirée pour le samedi 31 octobre."
+    },
+    {
+      "question": "Y a-t-il un sauna libertin à Béziers ?",
+      "answer": "L'Anastasia en avait un, avec un hammam et deux jacuzzis, en 2013-2014. Le sauna libertin dont nous avons vérifié l'ouverture est hors de la ville : Histoires d'Ô, balnéo-club naturiste du Cap d'Agde, ouvert tous les jours du 17 octobre au 1er novembre 2026 selon son site (couple 45 €, homme seul 65 €). À Béziers, L'Envie est présenté comme club sauna libertin, activité non confirmée pour cette fiche. À l'ancienne adresse, des annuaires libertins ont signalé un club « L'Orchidée », porté par une société inscrite pour des « bains remise en forme sauna hammam » ; ils se contredisent sur son activité et aucune soirée récente n'a été trouvée."
+    },
+    {
+      "question": "Que trouve-t-on aujourd'hui au 7 bis montée des Noyers ?",
+      "answer": "Le Relax Club, immatriculé en juillet 2026 : un bar-restaurant avec soirées DJ le week-end, salsa le mercredi et château gonflable pour les enfants. Ce n'est pas L'Anastasia sous un autre nom, ni un lieu libertin."
+    },
+    {
+      "question": "Où rencontrer des libertins et des libertines à Béziers sans club ?",
+      "answer": "Gleese, site libertin français lancé fin 2024, s'ouvre sans carte bancaire et vérifie chaque profil par téléphone : de quoi [jauger le nombre d'inscrits du Biterrois sans rien payer](aff:gleese). Revers de sa jeunesse, ses inscrits restent bien moins nombreux que sur Wyylde dès qu'on s'éloigne des grandes villes : ce comptage vaut d'être fait avant d'en attendre une rencontre près de Béziers."
+    }
+  ],
+  "unverified": [
+    "Date exacte de la dernière soirée, entre le 9 août et le 15 décembre 2014, et raison de la fermeture.",
+    "Horaires et tarifs du printemps à l'automne 2014 : aucune grille archivée après février 2014.",
+    "Existence des salles « Égypte » et « Glamour » et du billard, déduite des seuls noms des photos de la galerie.",
+    "Note et nombre d'avis Google : aucun relevé possible.",
+    "Articles de la presse régionale sur l'ouverture ou la fermeture du club : aucun trouvé, recherche à compléter.",
+    "Activité réelle du club « L'Orchidée » (société Lor'chidée) à la même adresse : ouvert, fermé ou remplacé par Le Relax Club ? Les annuaires se contredisent (fermé selon un guide de 2022, tarifs relevés en juin 2025 selon un autre).",
+    "Statut actuel de L'Envie et de Berlioz Sauna, à Béziers, non vérifié pour cette fiche.",
+    "Soirs d'ouverture de L'Extasia d'octobre à avril, en dehors des soirées spéciales : son site ne les précise pas."
+  ],
+  "sources": [
+    { "id": "s1", "label": "Site officiel club-anastasia.fr, page d'accueil (archive du 08/05/2013) : annonce de l'ouverture et liste des espaces", "url": "https://web.archive.org/web/20130508134943/http://www.club-anastasia.fr/", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s2", "label": "Site officiel, « Horaires & Tarifs » (archive du 08/07/2013)", "url": "https://web.archive.org/web/20130708025249/http://www.club-anastasia.fr/horaires-et-tarifs/", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s3", "label": "Site officiel, « Nos soirées » (archive du 08/07/2013) : dix soirées du 22/06 au 07/07/2013", "url": "https://web.archive.org/web/20130708025151/http://www.club-anastasia.fr/nos-soirees/", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s4", "label": "Site officiel, « Horaires & Tarifs » et « Nos soirées » (archives du 07/09/2013) : grille de la rentrée, congés, inauguration après relooking", "url": "https://web.archive.org/web/20130907134151/http://www.club-anastasia.fr/horaires-et-tarifs/", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s5", "label": "Site officiel, « Livre d'or » (archive du 17/02/2014) : cinq messages de juin à août 2013", "url": "https://web.archive.org/web/20140217050556/http://www.club-anastasia.fr/livre-d-or/", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s6", "label": "Site officiel, « Horaires & Tarifs » (archive du 15/02/2014) : ouverture le vendredi et le samedi soir", "url": "https://web.archive.org/web/20140215075930/http://www.club-anastasia.fr/horaires-et-tarifs/", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s7", "label": "Site officiel, « Nos soirées » (archive du 15/02/2014) : soirées de janvier et février 2014", "url": "https://web.archive.org/web/20140215082432/http://www.club-anastasia.fr/nos-soirees/", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s8", "label": "Site officiel, galerie « Visiter le Club » (archive du 15/02/2014)", "url": "https://web.archive.org/web/20140215193113/http://www.club-anastasia.fr/visiter-le-club/", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s9", "label": "Site officiel, « Plan d'accès » (archive du 17/02/2014)", "url": "https://web.archive.org/web/20140217050521/http://www.club-anastasia.fr/plan-d-access/", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s10", "label": "Site officiel, « Nous contacter » (archive du 16/02/2014) : téléphone et adresse postale de l'époque", "url": "https://web.archive.org/web/20140216221959/http://www.club-anastasia.fr/nous-contacter/", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s11", "label": "Site officiel, page d'accueil (archives des 20/10/2014 et 19/12/2014) : présentation, règles, plus aucune soirée annoncée", "url": "https://web.archive.org/web/20141219072230/http://www.club-anastasia.fr/", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s12", "label": "Historique des captures de club-anastasia.fr (Wayback Machine) et redirections de 2015 à 2025", "url": "https://web.archive.org/cdx/search/cdx?url=club-anastasia.fr&matchType=domain", "type": "autre", "consulted": "2026-10-16" },
+    { "id": "s13", "label": "AFNIC (RDAP) : état du nom de domaine club-anastasia.fr", "url": "https://rdap.nic.fr/domain/club-anastasia.fr", "type": "autre", "consulted": "2026-10-16" },
+    { "id": "s14", "label": "Annuaire des entreprises : société exploitante de L'Anastasia (SIREN 792612855)", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/792612855", "type": "registre", "consulted": "2026-10-16" },
+    { "id": "s15", "label": "BODACC : annonces de la société exploitante (immatriculation, rachat du fonds, cessation d'activité)", "url": "https://bodacc-datadila.opendatasoft.com/explore/dataset/annonces-commerciales/", "type": "registre", "consulted": "2026-10-16" },
+    { "id": "s16", "label": "Annuaire des entreprises et BODACC : seconde SARL à l'enseigne Le Feeling (SIREN 790680367)", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/790680367", "type": "registre", "consulted": "2026-10-16" },
+    { "id": "s17", "label": "Annuaire des entreprises et BODACC : première SARL à l'enseigne Le Feeling (SIREN 480972918)", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/480972918", "type": "registre", "consulted": "2026-10-16" },
+    { "id": "s18", "label": "Annuaire des entreprises : SAS Katimini (SIREN 813233103)", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/813233103", "type": "registre", "consulted": "2026-10-16" },
+    { "id": "s19", "label": "Annuaire des entreprises : SAS Lor'chidée (SIREN 823644901)", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/823644901", "type": "registre", "consulted": "2026-10-16" },
+    { "id": "s20", "label": "Annuaire des entreprises et BODACC : SARL Le Relax Club (SIREN 107397580)", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/107397580", "type": "registre", "consulted": "2026-10-16" },
+    { "id": "s21", "label": "API Recherche d'entreprises : sociétés domiciliées dans un rayon de 300 m autour du club", "url": "https://recherche-entreprises.api.gouv.fr/near_point?lat=43.316853921&long=3.182912839&radius=0.3", "type": "registre", "consulted": "2026-10-16" },
+    { "id": "s22", "label": "sauna-club-libertin.com, fiche « L'Anastasia » (non datée, sans mention de fermeture)", "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_3.php?id=15260&d=34", "type": "annuaire", "consulted": "2026-10-16" },
+    { "id": "s23", "label": "sauna-club-libertin.com, liste des établissements de l'Hérault", "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_2.php?d=34", "type": "annuaire", "consulted": "2026-10-16" },
+    { "id": "s24", "label": "Annuaire des entreprises : société à l'enseigne L'Envie, 42 rue du Midi à Béziers (SIREN 800802407)", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/800802407", "type": "registre", "consulted": "2026-10-16" },
+    { "id": "s25", "label": "Site officiel, page d'accueil (archives des 09/07/2014 et 09/08/2014) : soirées féline et tahitienne", "url": "https://web.archive.org/web/20140809171625/http://www.club-anastasia.fr/", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s26", "label": "Site officiel, page d'accueil (archives des 05/12/2013 et 06/02/2014)", "url": "https://web.archive.org/web/20131205035958/http://www.club-anastasia.fr/", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s27", "label": "Le Relax Club, site officiel : bar-restaurant au 7 montée des Noyers, horaires, animations, terrasse et château gonflable", "url": "https://www.lerelaxclub.fr/", "type": "officiel", "consulted": "2026-10-19" },
+    { "id": "s28", "label": "Liste Salsa d'Olivier : soirée salsa, bachata et kizomba hebdomadaire au Relax Club (annonce modifiée le 8 octobre 2026)", "url": "https://salsa.faurax.fr/index.php/evt/20261014-47800", "type": "autre", "consulted": "2026-10-19" },
+    { "id": "s29", "label": "minuitlibertin.com, fiche « L'Or Chidée à Béziers » (tarifs relevés le 29 juin 2025)", "url": "https://minuitlibertin.com/lor-chidee-a-beziers/", "type": "annuaire", "consulted": "2026-10-19" },
+    { "id": "s30", "label": "Radio-libertine, guide des lieux du Languedoc-Roussillon (« recommandé 2022 ») : « LOR'CHIDEE Béziers FERME »", "url": "https://consult-event.wixsite.com/radiolibertine/copie-de-ile-de-france", "type": "annuaire", "consulted": "2026-10-19" },
+    { "id": "s32", "label": "L'Extasia (Pinet), site officiel : accueil et page du club modifiés le 22/09/2026, soirées Halloween 2026 et réveillon 2026, conditions d'accès et tarifs", "url": "https://club-extasia.com/", "type": "officiel", "consulted": "2026-10-19" },
+    { "id": "s33", "label": "Annuaire des entreprises : exploitant de L'Extasia, enseigne « L'EXTASIA » à Pinet (SIREN 790856561), actif", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/790856561", "type": "registre", "consulted": "2026-10-19" },
+    { "id": "s34", "label": "Histoires d'Ô Cap d'Agde, site officiel, « Tarifs & Horaires » : ouverture 7 j/7 du 17 octobre au 1er novembre, tarifs d'entrée", "url": "https://www.histoiresdo-capdagde.com/fr/horaires-tarifs/", "type": "officiel", "consulted": "2026-10-19" },
+    { "id": "s35", "label": "Histoires d'Ô Cap d'Agde, site officiel, « Le Balnéo-Club » et « Nos soirées » : espaces, dress code, accès des hommes seuls, agenda daté du 19/10 au 30/11", "url": "https://www.histoiresdo-capdagde.com/fr/balneo-club/", "type": "officiel", "consulted": "2026-10-19" }
+  ]
+}

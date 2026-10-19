@@ -180,12 +180,63 @@ for (const r of rows) {
   }
 }
 
-const flagged = rows.filter((r) => r.sharedPct > 4 || r.banned.length || r.thin || r.partner.length || r.paraphrases.length);
+// Tournures devenues réflexes autour des partenaires et des fermetures :
+// signalées dès qu'elles apparaissent dans plus d'une fiche du corpus.
+const FROZEN = [
+  'moins fournie que celle des sites', 'demande en revanche un abonnement', 'ne permet pas de répondre aux messages',
+  'dès trois photos de profil publiées', 'où aller à la place', 'compte gratuit, mais répondre',
+];
+const corpusText = new Map(data.map((d) => [d.p.slug, d.text.toLowerCase()]));
+for (const r of rows) {
+  const mine = corpusText.get(r.slug);
+  r.frozen = FROZEN.filter((f) => mine.includes(f) && [...corpusText.values()].filter((t) => t.includes(f)).length > 1);
+  // Dates relatives recopiées d'un affichage (« il y a environ 3 ans ») : périment dès la publication.
+  const rel = mine.match(/il y a (environ |plus de |près de )?(\d+|un|une|deux|trois|quelques) (an|ans|mois|semaine|semaines|jour|jours)\b/);
+  if (rel) r.frozen.push(`date relative « ${rel[0]} » : écrire une date (« vers 2023 », « relevé le JJ/MM/AAAA »)`);
+  // Matière pauvre : sans aucune source officielle sur le lieu, une fiche longue délaye forcément.
+  const p = bySlug.get(r.slug);
+  if (!p.sources.some((s) => s.type === 'officiel') && r.words > 900) r.thin = true;
+}
+
+// Fins de titres de section (après les deux-points) qui reviennent dans 3 fiches ou plus.
+const suffixes = new Map();
+for (const p of profiles) {
+  for (const s of p.sections) {
+    const i = s.title.indexOf(':');
+    if (i < 0) continue;
+    const k = norm(s.title.slice(i + 1)).split(' ').slice(0, 4).join(' ');
+    if (k.split(' ').length >= 3) suffixes.set(k, new Set([...(suffixes.get(k) || []), p.slug]));
+  }
+}
+for (const r of rows) {
+  for (const s of bySlug.get(r.slug).sections) {
+    const i = s.title.indexOf(':');
+    if (i < 0) continue;
+    const k = norm(s.title.slice(i + 1)).split(' ').slice(0, 4).join(' ');
+    if ((suffixes.get(k)?.size || 0) >= 3) r.frozen.push(`fin de titre répandue « …: ${s.title.slice(i + 1).trim()} » (${suffixes.get(k).size} fiches) : la partie après les deux-points doit porter un fait`);
+  }
+}
+
+const flagged = rows.filter((r) => r.sharedPct > 4 || r.banned.length || r.thin || r.partner.length || r.paraphrases.length || r.frozen.length);
+
+// Alerte de lot (non bloquante) : trop de fiches finissent par la même paire de sections.
+if (focus.size >= 5) {
+  const ends = new Map();
+  for (const r of rows) {
+    const icons = bySlug.get(r.slug).sections.map((s) => s.icon || '?');
+    const key = icons.slice(-2).join(' > ');
+    ends.set(key, (ends.get(key) || 0) + 1);
+  }
+  for (const [key, n] of ends) {
+    if (n > rows.length / 3) console.log(`\nAlerte de lot : ${n} fiches sur ${rows.length} finissent par la même paire de sections (${key}). Varier l'ordre.`);
+  }
+}
 for (const r of flagged) {
   console.log(`\n⚠ ${r.slug}`);
   if (r.sharedPct > 4) console.log(`   ${r.sharedPct} % de séquences communes à 3+ fiches, ex. « ${r.sharedSample.join(' » / « ')} »`);
   if (r.banned.length) console.log(`   formules creuses : ${r.banned.join(', ')}`);
-  if (r.thin) console.log(`   fiche maigre : ${r.words} mots pour ${r.sources} sources`);
+  if (r.thin) console.log(`   longueur à revoir : ${r.words} mots pour ${r.sources} sources${bySlug.get(r.slug).sources.some((s) => s.type === 'officiel') ? '' : ' (aucune source officielle : 900 mots maximum)'}`);
+  for (const f of r.frozen) console.log(f.includes(' : ') ? `   ${f}` : `   tournure figée, déjà présente dans une autre fiche : « ${f} »`);
   for (const x of r.partner) console.log(`   lien partenaire : ${x}`);
   for (const x of r.paraphrases) console.log(`   quasi-paraphrase : ${x}`);
 }

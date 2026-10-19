@@ -193,7 +193,14 @@ tels quels. Un bon titre contient un fait du club (un jour, un prix, une date,
 un équipement, un lieu) : « Le jeudi Gang Bang et l'homme seul à 50 € » plutôt
 que « Qui entre quel soir ».
 
-**L'ordre des sections n'est pas fixe.** On commence par ce qui distingue le
+La partie après les deux-points d'un titre doit, elle aussi, porter un fait :
+« Seize photos officielles : le sauna éclairé en vert et le deck de transats »
+plutôt que « … : ce que montre la galerie ». L'audit signale les fins de titre
+qui reviennent dans plusieurs fiches.
+
+**L'ordre des sections n'est pas fixe.** L'histoire du lieu ou de la société
+n'a pas de place réservée en fin de fiche, pas plus que l'adresse ; l'audit
+alerte quand un lot finit trop souvent par la même paire de sections. On commence par ce qui distingue le
 plus ce club ou par ce que les visiteurs cherchent le plus (une fermeture, une
 soirée phare, un déménagement, un tarif) ; on ne termine pas systématiquement
 par « adresse et clubs voisins ». Si deux fiches successives que tu as lues
@@ -261,7 +268,16 @@ water, bed, car, lock, ticket, heart, mask, closed, ruler, phone, globe.
 - `faq` : 4 à 8 questions, prioritairement celles des requêtes GSC et les
   questions pratiques réelles. Réponses avec des faits sourcés uniquement ; si
   on ne sait pas, le dire et indiquer comment savoir.
-- `externalRatings` : seulement une note vue de ses yeux, avec nombre d'avis et date.
+- `externalRatings` : seulement une note vue de ses yeux sur la plateforme
+  elle-même, avec nombre d'avis et date. Une note relayée par un agrégateur
+  (Restaurant Guru, Wanderlog, annuaire…) reste dans le texte, avec sa
+  réserve ; le validateur la refuse dans ce champ.
+- Section sur les avis : courte, sans bilan qui répète les autres sections, et
+  jamais en tête de fiche, même quand « avis » est la première requête : le
+  `summary` et la FAQ suffisent à servir cette requête.
+- Dates : jamais « il y a environ 3 ans » (recopié d'un affichage Google ou
+  YouTube, faux dès la publication) ; écrire « vers 2023 » ou « affiché comme
+  datant d'environ 3 ans au 16/10/2026 ».
 - `officialLinks` : site, réseaux, galerie photo officielle, agenda. La requête
   « <club> photos » est fréquente : si une galerie officielle existe, la mettre
   en `galerie` et dire ce qu'elle montre, uniquement si on l'a consultée.
@@ -280,7 +296,19 @@ water, bed, car, lock, ticket, heart, mask, closed, ruler, phone, globe.
   « d'après un annuaire de 2023, non confirmé depuis ».
 - Club fermé : on garde toute l'information (concept, histoire, équipements,
   adresse), au passé, on explique la fermeture, et on oriente vers les clubs
-  ouverts à proximité avec des liens internes.
+  ouverts à proximité avec des liens internes. **Pas de moule de fiche
+  fermée** : la page affiche déjà un bandeau de fermeture et les lieux
+  proches, donc la première section n'est pas forcément celle des preuves de
+  fermeture (une fermeture ancienne et incontestée peut ouvrir sur le
+  concept, le lieu ou une soirée marquante) ; le chapô ne se termine pas
+  systématiquement sur l'alternative ; la meta description ne finit pas par
+  « où aller à la place » ou « où sortir » ; la section histoire n'est pas
+  forcément la dernière.
+- Alternative à un club fermé : au moins un lieu dont l'activité est
+  **vérifiée et datée**. `club-context.mjs` indique le statut des voisins qui
+  ont déjà une fiche vérifiée : reprends leurs constats datés plutôt qu'un
+  « actif au registre ».
+- Matière pauvre (aucune source officielle sur le lieu) : 900 mots au plus.
 - **Formules interdites** (elles ne disent rien d'un club en particulier) :
   cadre raffiné, accueil chaleureux, ambiance chaleureuse, incontournable,
   n'hésitez pas, adresse de choix, véritable institution, lieu idéal, cadre

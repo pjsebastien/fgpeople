@@ -1,0 +1,419 @@
+{
+  "slug": "le-delire-brive-la-gaillarde",
+  "clubId": "46",
+  "researchedAt": "2026-10-16",
+  "display": {
+    "nom": "Le Délire",
+    "ville": "Brive-la-Gaillarde"
+  },
+  "status": {
+    "value": "fermeture_probable",
+    "summary": "Au 6 rue Jean Labrunie, le registre Sirene ne connaît qu'un établissement compatible avec un sauna, ouvert le 5 novembre 2001 et fermé le 15 avril 2005 ; son lien avec Le Délire est déduit de l'adresse, faute d'enseigne. Depuis, aucun site, avis, article ou guide de 2025-2026 ne mentionne le lieu, et le seul annuaire qui le cite affiche depuis mars 2007 la même adresse, le même téléphone et aucun autre renseignement.",
+    "sources": [
+      "s6",
+      "s1",
+      "s2",
+      "s10",
+      "s11"
+    ]
+  },
+  "seo": {
+    "title": "Le Délire à Brive-la-Gaillarde : club libertin probablement fermé",
+    "metaDescription": "Le Délire, 6 rue Jean Labrunie à Brive : une fiche d'annuaire vide depuis 2007 et, à l'adresse, des soins corporels fermés en 2005. Où sortir aujourd'hui.",
+    "subtitle": "Sauna puis « club libertin » selon un seul annuaire, 6 rue Jean Labrunie à Brive (19)",
+    "targetQueries": [
+      "club libertin brive la gaillarde",
+      "le délire brive",
+      "sauna libertin brive",
+      "club échangiste brive",
+      "6 rue jean labrunie brive"
+    ]
+  },
+  "lead": "Le Délire, probablement fermé, n'a laissé en ligne qu'une fiche d'annuaire jamais complétée depuis mars 2007 : une adresse au 6 rue Jean Labrunie, un numéro fixe, rien d'autre. Au registre, la seule activité compatible avec un sauna à ce numéro a fermé en avril 2005. Près de Brive, le club mixte actif que nous avons vérifié est Le Mikado, à Saint-Pantaléon-de-Larche.",
+  "glance": [
+    {
+      "icon": "closed",
+      "label": "Fermeture probable",
+      "value": "Aucune trace d'activité datée"
+    },
+    {
+      "icon": "history",
+      "label": "Seule trace",
+      "value": "Une fiche d'annuaire vide depuis mars 2007"
+    },
+    {
+      "icon": "map",
+      "label": "Adresse recensée",
+      "value": "6 rue Jean Labrunie, Brive",
+      "confidence": "source_unique"
+    },
+    {
+      "icon": "building",
+      "label": "Au registre (déduit)",
+      "value": "Soins corporels, nov. 2001 – avril 2005",
+      "confidence": "a_verifier"
+    },
+    {
+      "icon": "heart",
+      "label": "Alternative ouverte",
+      "value": "Le Mikado, Saint-Pantaléon-de-Larche"
+    },
+    {
+      "icon": "users",
+      "label": "Dans Brive",
+      "value": "Sauna Arena, réservé aux hommes"
+    }
+  ],
+  "highlights": [
+    "Ni site, ni réseau social, ni avis : horaires, tarifs et public admis du Délire n'ont jamais été publiés.",
+    "Le 05 55 17 19 69 de l'annuaire n'apparaît dans aucune autre source ; nous ignorons à qui il est attribué aujourd'hui.",
+    "Au n° 6, plus aucune activité de loisirs au registre depuis 2005 ; une SCI de location y a son siège, dans un appartement, depuis septembre 2026.",
+    "Le Mikado annonce le mercredi sur son accueil mais pas sur sa page d'horaires du 1er octobre 2026 : appelez avant un mercredi.",
+    "Le vendredi soir, Le Mikado n'accepte que couples et femmes seules ; le Sauna Arena, en ville, ne reçoit que des hommes."
+  ],
+  "keyFacts": [
+    {
+      "label": "Adresse annoncée",
+      "value": "6 rue Jean Labrunie, 19100 Brive-la-Gaillarde",
+      "confidence": "source_unique",
+      "sources": [
+        "s1",
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "label": "Téléphone annoncé",
+      "value": "05 55 17 19 69, absent de toute autre source",
+      "confidence": "source_unique",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "label": "Type selon l'annuaire",
+      "value": "« sauna libertin » jusqu'en 2008, « club libertin » depuis 2009",
+      "confidence": "source_unique",
+      "sources": [
+        "s2",
+        "s7",
+        "s8",
+        "s3"
+      ]
+    },
+    {
+      "label": "Activité au registre (rattachement déduit)",
+      "value": "Soins corporels, de novembre 2001 à avril 2005, sans enseigne",
+      "confidence": "a_verifier",
+      "sources": [
+        "s6",
+        "s9",
+        "s21"
+      ]
+    },
+    {
+      "label": "Site, horaires, tarifs",
+      "value": "Jamais publiés entre 2007 et 2026",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s2",
+        "s7",
+        "s8",
+        "s3"
+      ]
+    },
+    {
+      "label": "Usage actuel du n° 6",
+      "value": "Au moins un appartement, siège d'une SCI de location depuis septembre 2026",
+      "confidence": "confirme",
+      "sources": [
+        "s6"
+      ]
+    },
+    {
+      "label": "Club mixte actif vérifié",
+      "value": "Le Mikado, Saint-Pantaléon-de-Larche (horaires mis à jour le 1er octobre 2026)",
+      "confidence": "confirme",
+      "sources": [
+        "s15",
+        "s20",
+        "s17"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "mikado-arena-lubersac",
+      "title": "Le Mikado à Saint-Pantaléon, l'Arena réservé aux hommes : où aller autour de Brive",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "**Le Mikado**, avenue du Colombier à Saint-Pantaléon-de-Larche, se présente sur son [site officiel](https://lemikado.net/) comme un « club sauna libertin ». Sa société, créée le 1er janvier 2014 selon le registre, est toujours active."
+        },
+        {
+          "kind": "text",
+          "body": "Sa page d'horaires, modifiée le 1er octobre 2026, annonce six créneaux :\n- mardi et jeudi après-midi, de 14 h à 19 h ;\n- jeudi soir, de 21 h 30 à 2 h 30 ;\n- vendredi soir, de 22 h à 5 h, couples et femmes seules uniquement ;\n- samedi soir, de 22 h à 5 h ;\n- dimanche, de 15 h à minuit.\n\nL'accueil du même site parle encore d'une ouverture « du mercredi soir au dimanche » : ne partez pas un mercredi sans avoir appelé."
+        },
+        {
+          "kind": "text",
+          "body": "Le samedi soir, l'entrée affichée est de 40 € pour un couple, 50 € pour un homme seul et 10 € pour une femme seule. L'agenda de Wyylde, l'ancien Netéchangisme, s'ouvre avec un compte gratuit pour [regarder quelles soirées sont annoncées autour de Brive](aff:wyylde)."
+        },
+        {
+          "kind": "text",
+          "body": "**Le Sauna Arena**, 10 rue Auguste-Comte, actif au registre depuis 2010, se dit « sauna masculin » sur son site, sans séances mixtes selon un annuaire de mars 2026 ; un guide qui le présente comme club pour couples contredit le lieu lui-même."
+        },
+        {
+          "kind": "text",
+          "body": "Dans le département, [Le Fruit de la Passion à Lubersac](/le-fruit-de-la-passion-lubersac), seul autre lieu de notre [page Corrèze](/departement/correze), n'est connu que par des annuaires et reste à vérifier."
+        },
+        {
+          "kind": "text",
+          "body": "Un seul club mixte vérifié dans le secteur, c'est peu. Carré Libertin, en ligne depuis 2007, donne un accès complet gratuit aux couples et aux femmes qui publient trois photos de profil : de quoi [chercher des partenaires du côté de Brive](aff:carre-libertin) avant un premier vendredi au Mikado, le soir où seuls couples et femmes seules entrent."
+        }
+      ],
+      "sources": [
+        "s15",
+        "s20",
+        "s17",
+        "s14",
+        "s16",
+        "s18",
+        "s10",
+        "s4"
+      ],
+      "icon": "map",
+      "summary": "Le Mikado, à Saint-Pantaléon-de-Larche, est le seul club mixte en activité vérifié près de Brive ; le Sauna Arena, en ville, ne reçoit que des hommes."
+    },
+    {
+      "id": "registre-2001-2005",
+      "title": "Des soins corporels au n° 6, de novembre 2001 à avril 2005",
+      "confidence": "a_verifier",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le registre ne connaît aucune entreprise « Le Délire » en Corrèze. Au 6 rue Jean Labrunie, il garde en revanche un établissement de soins corporels (code 93.0L, la catégorie des saunas), sans enseigne, ouvert le 5 novembre 2001 et fermé le 15 avril 2005."
+        },
+        {
+          "kind": "text",
+          "body": "Le lier au Délire repose sur l'adresse et sur le libellé « sauna libertin » de 2007 : c'est une déduction, pas une preuve. Après 2005, le registre n'enregistre plus aucune activité de loisirs à ce numéro."
+        }
+      ],
+      "sources": [
+        "s6",
+        "s9",
+        "s21",
+        "s19",
+        "s2"
+      ],
+      "icon": "building",
+      "summary": "Un établissement de soins corporels, la catégorie des saunas, a fonctionné au n° 6 de novembre 2001 à avril 2005 ; son lien avec Le Délire n'est pas prouvé."
+    },
+    {
+      "id": "fiche-annuaire-2007-2026",
+      "title": "« Sauna » jusqu'en 2008, « club » dès 2009 : une fiche d'annuaire jamais remplie",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Toutes les coordonnées du Délire, y compris celles que cette page affichait jusqu'ici, viennent d'une fiche de l'annuaire sauna-club-libertin archivée dès mars 2007. Cette fiche n'a jamais donné ni horaires, ni tarifs, ni site ; seul son libellé a changé, de « sauna libertin » à « club libertin » entre 2008 et 2009, sans doute lors d'une refonte de l'annuaire."
+        },
+        {
+          "kind": "text",
+          "body": "Nous n'avons trouvé ni avis, ni article, ni réseau social, et les guides de Brive mis à jour en 2025 et 2026 ne citent jamais Le Délire. Les lieux suivis dans la ville sont sur la [page Brive-la-Gaillarde](/ville/brive-la-gaillarde)."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s2",
+        "s7",
+        "s8",
+        "s3",
+        "s4",
+        "s5",
+        "s10",
+        "s11",
+        "s12",
+        "s13",
+        "s14"
+      ],
+      "icon": "history",
+      "summary": "Une seule fiche d'annuaire, en ligne depuis au moins mars 2007 et jamais complétée : « sauna libertin » jusqu'en 2008, « club libertin » depuis 2009."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Le Délire à Brive est-il encore ouvert ?",
+      "answer": "Très probablement pas : aucune source ne le montre actif à une date précise, et l'établissement compatible du n° 6 a fermé en avril 2005. Il manque une preuve directe (presse, annonce, fiche cartographique) pour l'affirmer fermé."
+    },
+    {
+      "question": "Quel club libertin, échangiste ou sauna mixte à Brive-la-Gaillarde ?",
+      "answer": "Le Mikado, à Saint-Pantaléon-de-Larche, qui se décrit comme « club sauna libertin » : c'est le seul lieu mixte en activité que nous ayons vérifié, avec six créneaux du mardi au dimanche selon sa page d'horaires du 1er octobre 2026. Le Sauna Arena, dans Brive, ne reçoit que des hommes."
+    },
+    {
+      "question": "Que trouve-t-on aujourd'hui au 6 rue Jean Labrunie ?",
+      "answer": "Selon le registre, au moins un appartement, où une SCI de location a son siège depuis septembre 2026, et plus aucune activité de loisirs depuis 2005."
+    },
+    {
+      "question": "Comment rencontrer des libertins autour de Brive sans club en ville ?",
+      "answer": "Par les sites de rencontre. Gleese, français et lancé fin 2024, vérifie les profils par téléphone et s'ouvre sans carte bancaire ; notre test l'a trouvé moins fourni que Wyylde hors des grandes villes, et [ouvrir un profil Gleese depuis la Corrèze](aff:gleese) montre vite ce qu'il vaut ici."
+    }
+  ],
+  "unverified": [
+    "Le Délire et l'établissement de soins corporels ouvert au 6 rue Jean Labrunie de 2001 à 2005 sont-ils le même lieu ? Aucune enseigne ne le confirme.",
+    "À quelle date Le Délire a-t-il réellement cessé son activité ?",
+    "Le lieu était-il un sauna, comme l'annuaire l'indiquait en 2007-2008, ou un club ?",
+    "Une fiche cartographique « Le Délire » à Brive existe-t-elle, marquée « définitivement fermé » ?",
+    "La presse locale (La Montagne, édition de Brive) a-t-elle parlé du lieu entre 2001 et 2006 ? Ses archives n'ont pas pu être consultées.",
+    "À qui le 05 55 17 19 69 est-il attribué aujourd'hui ?"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "sauna-club-libertin.com, fiche « LE DELIRE » (version actuelle)",
+      "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_3.php?id=46&d=19",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s2",
+      "label": "sauna-club-libertin.com, fiche « LE DELIRE », archive du 03/03/2007",
+      "url": "https://web.archive.org/web/20070303002134/http://www.sauna-club-libertin.com:80/sauna_club_libertin_3.php?id=46&d=",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s3",
+      "label": "sauna-club-libertin.com, fiche « LE DELIRE », archive du 17/09/2012",
+      "url": "https://web.archive.org/web/20120917044632/http://www.sauna-club-libertin.com:80/sauna_club_libertin_3.php?id=46&d=",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s4",
+      "label": "sauna-club-libertin.com, établissements de la Corrèze",
+      "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_2.php?d=19",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s5",
+      "label": "Internet Archive, historique des captures de la fiche (2007-2013)",
+      "url": "https://web.archive.org/cdx/search/cdx?url=sauna-club-libertin.com/*&filter=urlkey:.*id=46.*&fl=timestamp,original,statuscode",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s6",
+      "label": "Registre Sirene, établissements de la rue Jean Labrunie à Brive (soins corporels 2001-2005, SCI de location créée en 2026)",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=labrunie&code_postal=19100",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s7",
+      "label": "sauna-club-libertin.com, fiche « LE DELIRE », archive du 26/09/2008 (encore « sauna libertin »)",
+      "url": "https://web.archive.org/web/20080926191939/http://www.sauna-club-libertin.com:80/sauna_club_libertin_3.php?id=46&d=",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s8",
+      "label": "sauna-club-libertin.com, fiche « LE DELIRE », archive du 28/02/2009 (devenue « club libertin »)",
+      "url": "https://web.archive.org/web/20090228060023/http://www.sauna-club-libertin.com:80/sauna_club_libertin_3.php?id=46&d=",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s9",
+      "label": "Nomenclature NAF 2003 : code 93.0L « Autres soins corporels » (bains-douches, saunas, instituts de massage)",
+      "url": "https://ape-naf.comptable-en-ligne.fr/930L",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s10",
+      "label": "club-libertin-france.fr, « Club libertin Brive-la-Gaillarde »",
+      "url": "https://club-libertin-france.fr/club-libertin-brive-la-gaillarde/",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s11",
+      "label": "minuitlibertin.com, « Clubs libertins à Brive-la-Gaillarde » (mise à jour du 03/08/2026)",
+      "url": "https://minuitlibertin.com/clubs-libertins-a-brive-la-gaillarde/",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s12",
+      "label": "minuitlibertin.com, « Le Mikado à Brive » (relevé de mai 2025)",
+      "url": "https://minuitlibertin.com/le-mikado-a-brive/",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s13",
+      "label": "saunaclublebali.fr, fiche « Le Mikado » (mars 2026)",
+      "url": "https://www.saunaclublebali.fr/listing/le-mikado-saint-pantaleon/",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s14",
+      "label": "saunaclublebali.fr, fiche « Sauna Arena » (mars 2026)",
+      "url": "https://www.saunaclublebali.fr/listing/sauna-arena-brive-la-gaillarde/",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s15",
+      "label": "Le Mikado, site officiel",
+      "url": "https://lemikado.net/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s16",
+      "label": "Sauna Arena, site officiel",
+      "url": "https://sauna-arena.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s17",
+      "label": "Annuaire des entreprises, société exploitant Le Mikado (créée en 2014)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/799999966",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s18",
+      "label": "Registre Sirene, établissement à l'enseigne « ARENA », Brive (actif depuis 2010)",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=arena&code_postal=19100",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s19",
+      "label": "Registre Sirene, recherche « le délire » en Corrèze",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=le%20delire&departement=19",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s20",
+      "label": "Le Mikado, site officiel, page « Horaires et tarifs » (modifiée le 01/10/2026)",
+      "url": "https://lemikado.net/horaires-club-libertin/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s21",
+      "label": "Nomenclature NAF : correspondance 93.0L (2003) et 96.04Z « Entretien corporel » (2008)",
+      "url": "https://www.codes-naf.com/sous-classe/96.04z/entretien-corporel",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    }
+  ]
+}

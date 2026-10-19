@@ -1,0 +1,903 @@
+{
+  "slug": "le-901-saint-nazaire",
+  "clubId": "15313",
+  "researchedAt": "2026-10-19",
+  "display": {
+    "nom": "Le 901",
+    "ville": "Saint-Nazaire"
+  },
+  "status": {
+    "value": "ferme",
+    "summary": "La dernière soirée annoncée par Le 901 est celle du 31 décembre 2019 ; dès mai 2020, son site ne renvoyait plus que des erreurs. Le greffe a inscrit d'office la cessation d'activité le 21 septembre 2021, radié la société le 11 janvier 2022, et le nom de domaine est passé à un tiers. Une publication Facebook, connue par un extrait de moteur de recherche, annonce une fermeture définitive.",
+    "sources": [
+      "s1",
+      "s18",
+      "s19",
+      "s21",
+      "s23",
+      "s24",
+      "s33"
+    ]
+  },
+  "seo": {
+    "title": "Le 901 à Saint-Nazaire : sauna gay et club libertin, fermé",
+    "metaDescription": "Club libertin mixte et sauna gay ouvert en 2013 dans un ancien hôtel rue de Saintonge, Le 901 est fermé. Son histoire, ses tarifs et où sortir aujourd'hui.",
+    "subtitle": "Ancien club libertin et sauna gay sur trois niveaux, rue de Saintonge à Saint-Nazaire (44), de 2013 à 2019",
+    "targetQueries": [
+      "club libertin saint nazaire",
+      "sauna gay saint nazaire",
+      "club echangiste saint nazaire",
+      "sauna libertin saint nazaire"
+    ]
+  },
+  "lead": "De novembre 2013 à décembre 2019, Le 901 a été à la fois le club libertin mixte et le sauna gay de Saint-Nazaire, dans un ancien hôtel de la rue de Saintonge, face au parking du Ruban Bleu. Sur trois niveaux, il réunissait un bar-dancing, une balnéo avec spa de huit places, hammam et sauna, des salles à thème et un labyrinthe en sous-sol. Il est fermé : aucune soirée n'est attestée après le 31 décembre 2019, et la société exploitante a été radiée d'office en janvier 2022.",
+  "glance": [
+    {
+      "icon": "closed",
+      "label": "Fermé",
+      "value": "Aucune soirée attestée après le 31/12/2019"
+    },
+    {
+      "icon": "history",
+      "label": "En activité",
+      "value": "Novembre 2013 – décembre 2019"
+    },
+    {
+      "icon": "building",
+      "label": "Le bâtiment",
+      "value": "Ancien hôtel sur trois niveaux"
+    },
+    {
+      "icon": "spa",
+      "label": "Balnéo",
+      "value": "Spa de 8 places, hammam, sauna"
+    },
+    {
+      "icon": "users",
+      "label": "Public",
+      "value": "Mixte le soir, hommes certains après-midi"
+    },
+    {
+      "icon": "map",
+      "label": "Lieu le plus proche",
+      "value": "Liberty Station, Prinquiau (~19 km)",
+      "confidence": "a_verifier"
+    }
+  ],
+  "audience": [
+    {
+      "who": "couples",
+      "status": "oui",
+      "detail": "Tous les créneaux mixtes ; seuls admis le premier samedi du mois",
+      "price": "0 à 35 €"
+    },
+    {
+      "who": "femmes",
+      "status": "oui",
+      "detail": "Créneaux mixtes et dimanche toutes tendances, même prix de 2013 à 2017",
+      "price": "5 €"
+    },
+    {
+      "who": "hommes",
+      "status": "selon",
+      "detail": "Prix des soirs mixtes (2017) : sélection, 10 au plus le samedi ; lundi, mercredi entre hommes",
+      "price": "25 à 50 €"
+    }
+  ],
+  "highlights": [
+    "Le 901 n'accueille plus personne : son dernier programme s'arrête au 31 décembre 2019 et la société a été radiée d'office le 11 janvier 2022.",
+    "Le site le901.fr ne répond plus et son nom de domaine appartient depuis 2022 à un titulaire sans lien connu avec le club.",
+    "L'annuaire sauna-club-libertin.com affiche encore les horaires de décembre 2013, le mois qui a suivi l'ouverture, sans signaler la fermeture.",
+    "Pour un après-midi entre hommes, le sauna gay le plus proche dont l'agenda est daté est le B4, à Sainte-Luce-sur-Loire (environ 55 km).",
+    "Côté club libertin, Le Liberty Station à Prinquiau est à 19 km, mais son site ne répondait pas en octobre 2026 : appelez avant de partir."
+  ],
+  "keyFacts": [
+    {
+      "label": "Ouverture",
+      "value": "9 novembre 2013",
+      "confidence": "confirme",
+      "sources": [
+        "s3",
+        "s17",
+        "s28"
+      ]
+    },
+    {
+      "label": "Dernière soirée annoncée",
+      "value": "31 décembre 2019 (« Le 31 au 901 »)",
+      "confidence": "confirme",
+      "sources": [
+        "s18"
+      ]
+    },
+    {
+      "label": "Statut",
+      "value": "Fermé ; société radiée d'office le 11 janvier 2022",
+      "confidence": "confirme",
+      "sources": [
+        "s23",
+        "s24"
+      ]
+    },
+    {
+      "label": "Concept",
+      "value": "Club libertin mixte et sauna gay",
+      "confidence": "confirme",
+      "sources": [
+        "s2",
+        "s8",
+        "s27"
+      ]
+    },
+    {
+      "label": "Bâtiment",
+      "value": "Ancien hôtel sur trois niveaux",
+      "confidence": "confirme",
+      "sources": [
+        "s16",
+        "s25",
+        "s27"
+      ]
+    },
+    {
+      "label": "Société exploitante",
+      "value": "France Détente Gestion Immobilière, nom commercial « Le 901 »",
+      "confidence": "confirme",
+      "sources": [
+        "s23",
+        "s24"
+      ]
+    },
+    {
+      "label": "Adresse",
+      "value": "2 rue de Saintonge, 44600 Saint-Nazaire",
+      "confidence": "confirme",
+      "sources": [
+        "s7",
+        "s23",
+        "s32"
+      ]
+    },
+    {
+      "label": "Annonce de fermeture",
+      "value": "Publication Facebook non datée, lue en extrait",
+      "confidence": "a_verifier",
+      "sources": [
+        "s33"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "fin-du-901",
+      "title": "Dernier programme au 31 décembre 2019, radiation en janvier 2022",
+      "icon": "closed",
+      "summary": "Aucune soirée n'est attestée après le réveillon 2019 et le greffe a constaté la cessation en 2021. La date exacte de la fermeture et sa cause restent inconnues.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Faute de date publiée par le club, sa fin se reconstitue à partir des archives de son site, du registre du commerce et du sort de son nom de domaine."
+        },
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "Décembre 2019",
+              "text": "Dernier programme archivé : Bustier le 14, Mère Noël les 20 et 21, Mojito Party le 27, Porte-Jarretelles le 28 et « Le 31 au 901 » le mardi 31 décembre."
+            },
+            {
+              "date": "Mai à septembre 2020",
+              "text": "Les captures du site ne montrent plus que des erreurs : 503 le 15 mai, puis 403 en août et en septembre."
+            },
+            {
+              "date": "21 septembre 2021",
+              "text": "Un courrier recommandé étant revenu marqué « n'habite pas à l'adresse indiquée », le greffe inscrit d'office la cessation d'activité ; l'établissement est enregistré comme fermé à cette date."
+            },
+            {
+              "date": "1er décembre 2021",
+              "text": "le901.fr affiche une page de KifDom, un service qui rachète les noms de domaine en .fr expirés."
+            },
+            {
+              "date": "11 janvier 2022",
+              "text": "Radiation d'office de la société exploitante."
+            },
+            {
+              "date": "16 décembre 2022",
+              "text": "Le domaine est réenregistré par un titulaire anonyme. Il est inactif en octobre 2026."
+            }
+          ]
+        },
+        {
+          "kind": "callout",
+          "tone": "info",
+          "title": "Une annonce lue de seconde main",
+          "body": "Des extraits de moteur de recherche résument une publication de la page Facebook du club : le gérant y annonce une fermeture définitive après six années d'accueil. Ni le texte complet ni sa date ne sont lisibles sans compte. Six ans après novembre 2013, on arrive à la fin de 2019."
+        },
+        {
+          "kind": "text",
+          "body": "Aucune source consultée ne dit si le club a rouvert en 2020 ou en 2021, ni pourquoi il a cessé. Depuis 2021, le registre ne connaît plus aucune entreprise au 2 rue de Saintonge, et le BODACC ne publie aucune cession de fonds : rien n'indique qu'un repreneur ait relancé le lieu."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s18",
+        "s19",
+        "s20",
+        "s21",
+        "s22",
+        "s23",
+        "s24",
+        "s25",
+        "s26",
+        "s33"
+      ]
+    },
+    {
+      "id": "sauna-gay-saint-nazaire",
+      "title": "Le sauna gay de Saint-Nazaire : après-midi entre hommes et dimanche « Bi »",
+      "icon": "flame",
+      "summary": "Le 901 réservait plusieurs après-midi aux hommes (le lundi et le mercredi en 2017). En octobre 2026, aucun annuaire consulté ne liste d'autre sauna gay à Saint-Nazaire.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le 901 avait deux visages : un club libertin mixte le soir, un sauna gay en journée, d'abord présenté sur un site à part, le901sauna.fr, qui renvoyait dès 2015 vers le site principal. Adhérent depuis 2013 du SNEG, le syndicat des établissements gays, il y figurait comme sauna gay avec hammam, sauna sec et spa « sur trois niveaux »."
+        },
+        {
+          "kind": "list",
+          "title": "Les créneaux masculins, d'après les archives du site",
+          "items": [
+            "**Septembre 2015**, après un « bouleversement » annoncé par le club : lundi 14 h-20 h ; mercredi 14 h-23 h, naturiste après 19 h à tarif réduit ; samedi 14 h-19 h, 100 % masculin ; dimanche « Bi » 15 h-23 h.",
+            "**Été 2017** : lundi et mercredi de 14 h à 20 h, « en masculin uniquement », gratuit pour les moins de 25 ans.",
+            "**2016 à 2018** : l'après-midi « Bi » du dimanche, toutes tendances, figure chaque année sur l'accueil du site ; les accueils archivés de 2019 ne le mentionnent plus."
+          ]
+        },
+        {
+          "kind": "table",
+          "caption": "Entrée des journées masculines en septembre 2015 (site officiel archivé)",
+          "headers": [
+            "Âge",
+            "Entrée",
+            "Tarif réduit"
+          ],
+          "rows": [
+            [
+              "30 ans et plus",
+              "15 €",
+              "12 €"
+            ],
+            [
+              "25 à 29 ans",
+              "12 €",
+              "8 €"
+            ],
+            [
+              "Moins de 25 ans",
+              "5 €, gratuit le dimanche",
+              "5 €"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "En octobre 2026, ni PagesJaunes ni le guide Spartacus ne listent de sauna à Saint-Nazaire. Le [Before Sauna Club « B4 »](/sauna-sainte-luce-loire), à Sainte-Luce-sur-Loire (environ 55 km à vol d'oiseau), ouvre chaque après-midi en « 100 % mecs », sauf le jeudi (toutes tendances), et annonce un après-midi entre hommes le 25 octobre 2026.\n\nÀ Nantes, [Le Steamer](/le-steamer-nantes), seul sauna gay retenu par Spartacus, a un site en ligne mais sans date récente : appelez avant d'y aller."
+        }
+      ],
+      "sources": [
+        "s4",
+        "s8",
+        "s9",
+        "s11",
+        "s12",
+        "s16",
+        "s17",
+        "s22",
+        "s27",
+        "s30",
+        "s31",
+        "s34",
+        "s37"
+      ]
+    },
+    {
+      "id": "ancien-hotel-trois-niveaux",
+      "title": "Un ancien hôtel reconverti : bar « années 50 » en bas, labyrinthe en pierre au sous-sol",
+      "icon": "building",
+      "summary": "Au rez-de-chaussée, un bar-dancing et une balnéo (spa de 8 places, hammam, sauna) ; à l'étage, des salles à thème ; au sous-sol, des cabines et un labyrinthe.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le club se présentait lui-même comme installé dans « cet ancien hôtel ». Le registre confirme le passé de l'adresse : un café-hôtel de 1991 à 2003, un restaurant de 2003 à 2006, puis un hôtel à l'enseigne « Le Nantais » jusqu'en 2011. On entrait par une porte latérale, sans attendre dans la rue."
+        },
+        {
+          "kind": "table",
+          "caption": "Les espaces décrits par le site officiel en 2013 et en 2017",
+          "headers": [
+            "Niveau",
+            "Ce qu'on y trouvait"
+          ],
+          "rows": [
+            [
+              "Rez-de-chaussée, côté bar",
+              "Décor années 50, bar sous licence IV, piste de danse, podium et barre de pole dance, coin fumeur ; DJ le samedi en 2013, le vendredi et le samedi soir en 2017"
+            ],
+            [
+              "Rez-de-chaussée, balnéo",
+              "Spa de 8 places, hammam et sauna ; douche obligatoire avant d'entrer, serviettes et paréos fournis"
+            ],
+            [
+              "Étage",
+              "Coin fessée, salle d'auscultation, chambre d'exhibition, chambre années 50, salle vidéo, glory hole, petite salle sombre avec sling en cuir, grande salle « Gang Bang » à alcôves"
+            ],
+            [
+              "Sous-sol",
+              "Murs en pierres apparentes, petites cabines et labyrinthe, au détour des vestiaires"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Chaque client disposait d'un vestiaire individuel fermant à clé. Le club détaillait aussi son hygiène : nettoyage plusieurs fois par jour, eau mesurée chaque jour et contrôlée chaque mois par un laboratoire accrédité, résultats affichés aux vestiaires. C'est un engagement du club, que rien ne permet de vérifier après coup.\n\nUn annuaire en ligne ajoute une cage d'exhibition, un lit rond et une backroom fermant à clé. Le site du club ne les mentionne pas sous ces noms : il parle d'une « chambre d'exhibe »."
+        }
+      ],
+      "sources": [
+        "s6",
+        "s12",
+        "s13",
+        "s16",
+        "s25",
+        "s28"
+      ]
+    },
+    {
+      "id": "samedis-couples-hommes-seuls",
+      "title": "Le premier samedi aux couples, les autres à dix hommes seuls au plus",
+      "icon": "couple",
+      "summary": "De 2016 à 2018, un samedi par mois était réservé aux couples ; les autres soirs, les hommes seuls entraient en nombre limité, après sélection, et en tenue de soirée.",
+      "blocks": [
+        {
+          "kind": "list",
+          "title": "Les règles affichées sur l'accueil du site (2016-2018)",
+          "items": [
+            "**Premier samedi du mois** : soirée réservée aux couples.",
+            "**Autres samedis** : couples et « 10 hommes max (soigneusement sélectionnés) ».",
+            "**Mardi et vendredi** : soirées mixtes, avec une sélection des hommes seuls et un nombre limité.",
+            "**Vendredi après-midi** : entrée gratuite pour les couples (grille de 2017).",
+            "**Dimanche après-midi** : « Bi », toutes tendances, avec un buffet offert à partir de 19 h en 2017."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "De 2016 à 2019, le dress code n'a pas varié : tenue sexy et talons pour les femmes ; chemise, pantalon et chaussures de soirée pour les hommes, baskets et jeans refusés. Le club se disait « à l'opposé des discothèques libertines », avec une ambiance intime ouverte aux débutants.\n\nEntre décembre 2013 et l'été 2017, l'entrée du samedi soir a évolué en sens inverse selon le public : de 45 à 50 € pour un homme seul, de 40 à 35 € pour un couple. Une femme seule a payé 5 € à chaque période archivée."
+        },
+        {
+          "kind": "table",
+          "caption": "Au bar, d'après les cartes publiées par le club",
+          "headers": [
+            "Consommation",
+            "Décembre 2013",
+            "Été 2017"
+          ],
+          "rows": [
+            [
+              "Softs",
+              "Offerts",
+              "Offerts"
+            ],
+            [
+              "Bière",
+              "6 € (1664, 33 cl)",
+              "4 € (1664 ou Heineken, 25 cl)"
+            ],
+            [
+              "Cocktail",
+              "10 €",
+              "10 € (Désir) ou 14 € (cocktails « 901 »)"
+            ],
+            [
+              "Champagne Mumm",
+              "10 € la coupe, 65 € la bouteille, 120 € le magnum",
+              "10 € la coupe, 100 € la bouteille"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "En 2017, l'entrée des vendredis et samedis soir comprenait aussi une consommation alcoolisée, hors cocktail. Dès 2013, elle incluait serviettes, gel douche, préservatifs et lubrifiant, et une entrée de journée permettait de revenir le soir pour 5 €."
+        }
+      ],
+      "sources": [
+        "s5",
+        "s11",
+        "s12",
+        "s16",
+        "s17",
+        "s18"
+      ]
+    },
+    {
+      "id": "soirees-a-theme-2013-2019",
+      "title": "Du « Docteur en urgence » de 2013 au « 31 au 901 » : six ans de soirées à thème",
+      "icon": "calendar",
+      "summary": "En août 2019, Le 901 tenait un thème chaque vendredi et chaque samedi ; ses archives conservent des dizaines d'intitulés, de la soirée Cuir à la Mojito Party.",
+      "blocks": [
+        {
+          "kind": "list",
+          "items": [
+            "**Décembre 2013**, premières semaines : soirée Cuir (entrée offerte aux couples jusqu'à 22 h), « Docteur en urgence » autour de la salle de consultation, soirée hammam, « Bas en laine ».",
+            "**31 juillet 2015** : soirée Labyrinthe, « Les dessous du 901 », reprogrammée à l'été 2017.",
+            "**Octobre 2016** : « Tout est permis », « Les Yeux Bandés ».",
+            "**Été 2017** : Nuisette Sexy, Soirée Blanche, Kamasutra, Soirée Exhib', « Couples et Femmes Seules ».",
+            "**Août 2018** : Sans Dessous, Couples & Débutants, Mojito Party, Fluo Party, Soirée Plage, « Orgasme ! ».",
+            "**Août 2019** : Mini Jupe, Couples & Femmes Bi, Fessée, Levrette, Sans Culotte, Glory Hole, Porte-Jarretelles.",
+            "**Automne 2019** : Halloween le 31 octobre, Légèrement Cuir, Rouge ou Noir, Bottes & Cuissardes, et « les 6 ans du 901 » le samedi 16 novembre."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "L'été, le club ajoutait un **Jeudi Apéro** (2017 et 2018), ouvert de 18 h à 2 h sans interruption : apéritif offert, pizza livrée sur place en supplément. En 2019, son site proposait aussi un espace de rencontres à son nom, hébergé par Owiii, hors ligne aujourd'hui.\n\nEn 2016, ce même site renvoyait vers les soirées du club publiées sur Netechangisme ; en 2018 et 2019, il affichait une bannière de Wyylde, le nom pris par Netechangisme en 2018. Cet agenda existe toujours : avant de rouler jusqu'à Nantes pour une soirée à thème, [l'agenda des soirées des clubs de Loire-Atlantique](aff:wyylde) se consulte avec un compte gratuit."
+        }
+      ],
+      "sources": [
+        "s3",
+        "s10",
+        "s11",
+        "s13",
+        "s15",
+        "s16",
+        "s17",
+        "s18",
+        "s22"
+      ]
+    },
+    {
+      "id": "rue-de-saintonge-ruban-bleu",
+      "title": "Au 2 rue de Saintonge, face à la sortie piétons du parking du Ruban Bleu",
+      "icon": "car",
+      "summary": "Le club se trouvait à environ 300 m de l'entrée du parking souterrain du centre commercial Le Ruban Bleu, que le club disait gratuit et ouvert 24 h/24 en 2017.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "L'adresse exacte est le **2 rue de Saintonge**, 44600 Saint-Nazaire, et non « rue Saintonge » comme l'écrit un annuaire en ligne. Le site du club la situait « face à l'entrée du parking Ruban Bleu »."
+        },
+        {
+          "kind": "list",
+          "title": "L'itinéraire conseillé par le club en 2017",
+          "items": [
+            "Suivre la direction « ville-port », puis le centre commercial Le Ruban Bleu.",
+            "Le club faisait face à la sortie piétons « couleur bleu » du parking souterrain, à environ 300 m de son entrée.",
+            "Stationnement : un petit parking près du club, les rues voisines, ou le parking souterrain du Ruban Bleu, alors « gratuit et ouvert 24h/24 »."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Ces indications datent de 2017. Nous n'avons vérifié ni l'état actuel des parkings ni l'usage du bâtiment aujourd'hui."
+        }
+      ],
+      "sources": [
+        "s7",
+        "s14",
+        "s23",
+        "s32",
+        "s28"
+      ]
+    },
+    {
+      "id": "sortir-depuis-saint-nazaire",
+      "title": "Plus de club à Saint-Nazaire : Prinquiau à 19 km, l'agglomération nantaise à 50 km",
+      "icon": "map",
+      "summary": "Le lieu libertin le plus proche de notre annuaire est à Prinquiau, mais son site ne répond plus ; trois lieux de l'agglomération nantaise montrent une activité en octobre 2026.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Sur sa page Facebook, Le 901 se présentait comme « le seul club libertin de la côte ». Nos recherches n'ont fait apparaître aucun lieu qui l'ait remplacé à Saint-Nazaire ou à La Baule. Distances à vol d'oiseau depuis la rue de Saintonge :"
+        },
+        {
+          "kind": "table",
+          "headers": [
+            "Lieu",
+            "Distance",
+            "Ce que nous avons vérifié le 19 octobre 2026"
+          ],
+          "rows": [
+            [
+              "[Le Liberty Station](/le-liberty-station-prinquiau), Prinquiau",
+              "19 km environ",
+              "Site hors ligne (aucune réponse ou erreur 500) : téléphoner avant de partir"
+            ],
+            [
+              "[L'Orchidée Noire](/l-orchidee-noire-nantes), Nantes",
+              "50 km environ",
+              "Sauna club libertin ; visuels d'Halloween ajoutés au site en octobre 2026, agenda sans année"
+            ],
+            [
+              "Before Sauna Club « B4 », Sainte-Luce-sur-Loire",
+              "55 km environ",
+              "Après-midi « 100 % mecs » annoncé le 25 octobre 2026"
+            ],
+            [
+              "[Guili's Club](/guili-s-club-carquefou), Carquefou",
+              "56 km environ",
+              "Soirées datées du 19 au 31 octobre 2026 ; hommes seuls admis selon le nombre de couples"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le reste de l'offre figure parmi [les lieux recensés en Loire-Atlantique](/departement/loire-atlantique).\n\nSans lieu sur la presqu'île, toute sortie suppose le trajet jusqu'à l'agglomération nantaise. Carré Libertin laisse aux couples et aux femmes un accès complet sans abonnement, dès trois photos de profil : de quoi [proposer le trajet à un couple de la presqu'île guérandaise](aff:carre-libertin) avant un samedi soir."
+        }
+      ],
+      "sources": [
+        "s29",
+        "s32",
+        "s34",
+        "s35",
+        "s36",
+        "s37"
+      ]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Lundi": "14 h – 20 h, hommes uniquement",
+      "Mardi": "14 h – 19 h et 21 h – 2 h, mixte",
+      "Mercredi": "14 h – 20 h, hommes uniquement",
+      "Jeudi (été)": "18 h – 2 h, Jeudi Apéro",
+      "Vendredi": "14 h – 19 h et 21 h – 2 h, mixte",
+      "Samedi": "21 h – 2 h, mixte ; couples seuls le 1er samedi du mois",
+      "Dimanche": "15 h – 23 h, toutes tendances (« Bi »)"
+    },
+    "note": "Grille de l'été 2017, la plus récente que le club ait publiée. Le 901 est fermé : ces horaires ne valent plus.",
+    "confidence": "confirme",
+    "sources": [
+      "s12",
+      "s16"
+    ]
+  },
+  "tarifs": {
+    "rows": {
+      "Mardi": "Couple 15 € l'après-midi, 20 € le soir · Femme 5 € · Homme 30 €",
+      "Jeudi Apéro (été)": "Couple 20 € · Femme 5 € · Homme 30 €",
+      "Vendredi": "Couple gratuit l'après-midi, 30 € le soir · Femme 5 € · Homme 30 € l'après-midi, 40 € le soir",
+      "Samedi soir": "Couple 35 € · Femme 5 € · Homme 50 €",
+      "Dimanche": "Couple 25 € · Femme 5 € · Homme 25 €",
+      "Lundi et mercredi (hommes)": "Gratuit pour les moins de 25 ans ; autres tarifs non archivés pour 2017"
+    },
+    "note": "Tarifs de l'été 2017, les derniers retrouvés. L'entrée comprenait les softs, les serviettes, le gel douche, les préservatifs, le lubrifiant et, les vendredis et samedis soir, une consommation alcoolisée hors cocktail.",
+    "confidence": "confirme",
+    "sources": [
+      "s12"
+    ]
+  },
+  "equipements": [
+    "Spa de 8 places",
+    "Hammam",
+    "Sauna",
+    "Bar (licence IV)",
+    "Piste de danse et barre de pole dance",
+    "Vestiaires individuels fermant à clé",
+    "Salle vidéo",
+    "Glory hole",
+    "Salle sombre avec sling",
+    "Salle d'auscultation",
+    "Coin fessée",
+    "Chambre d'exhibition",
+    "Labyrinthe",
+    "Coin fumeur"
+  ],
+  "officialLinks": [
+    {
+      "label": "Page Facebook du club (publications lisibles avec un compte)",
+      "url": "https://www.facebook.com/p/Le-901-club-libertin-%C3%A0-Saint-Nazaire-La-baule-100054312439874/",
+      "kind": "facebook"
+    },
+    {
+      "label": "Site officiel archivé (novembre 2019)",
+      "url": "https://web.archive.org/web/20191107101715/http://le901.fr/",
+      "kind": "autre"
+    }
+  ],
+  "corrections": {
+    "adresse": "2 rue de Saintonge",
+    "sources": [
+      "s7",
+      "s23",
+      "s32"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Le 901 à Saint-Nazaire est-il toujours ouvert ?",
+      "answer": "Non. Le dernier programme publié par le club s'arrête au 31 décembre 2019, la société exploitante a été radiée d'office le 11 janvier 2022 et le nom de domaine le901.fr appartient aujourd'hui à un tiers. Une publication de sa page Facebook, connue par un extrait de moteur de recherche, annonce une fermeture définitive."
+    },
+    {
+      "question": "Y a-t-il encore un sauna gay à Saint-Nazaire ?",
+      "answer": "Pas à notre connaissance : en octobre 2026, ni PagesJaunes ni le guide Spartacus n'en listent dans la ville. Le plus proche dont nous avons vu un agenda daté est le B4, à Sainte-Luce-sur-Loire (environ 55 km), ouvert chaque après-midi en « 100 % mecs », sauf le jeudi."
+    },
+    {
+      "question": "Quel club libertin ou échangiste reste-t-il près de Saint-Nazaire ?",
+      "answer": "Aucun dans la ville. Le plus proche, Le Liberty Station à Prinquiau (19 km environ), avait un site muet le 19 octobre 2026 ; L'Orchidée Noire à Nantes et le Guili's Club à Carquefou annoncent des soirées pour la fin d'octobre. En attendant, Gleese, lancé fin 2024 et qui vérifie chaque inscrit par téléphone, permet de [jauger sans carte bancaire les profils de l'estuaire de la Loire](aff:gleese)."
+    },
+    {
+      "question": "Quand et pourquoi Le 901 a-t-il fermé ?",
+      "answer": "La date exacte n'est pas connue. Aucune soirée n'est attestée après le 31 décembre 2019, et le greffe n'a constaté la cessation que le 21 septembre 2021, après le retour d'un courrier recommandé. Aucune source consultée n'explique la fermeture : ni article de presse, ni cession, ni procédure collective au BODACC."
+    },
+    {
+      "question": "Le sauna libertin de Saint-Nazaire accueillait-il les couples ?",
+      "answer": "Oui : hors après-midi masculins, Le 901 était un club mixte, et le premier samedi du mois était réservé aux couples. En 2017, un couple entrait gratuitement le vendredi après-midi et payait 35 € le samedi soir ; une femme seule, 5 €."
+    },
+    {
+      "question": "Le téléphone et le site du 901 fonctionnent-ils encore ?",
+      "answer": "Le site le901.fr ne montre plus le club depuis 2020 (pages d'erreur, puis page d'un revendeur de noms de domaine en 2021) et ne répond plus du tout aujourd'hui ; son domaine appartient depuis 2022 à un titulaire sans lien connu avec le club. Le numéro 09 81 71 14 34 n'a pas été testé. La page Facebook existe toujours (887 abonnés), mais ses publications ne sont pas lisibles sans compte."
+    }
+  ],
+  "unverified": [
+    "La date réelle de la dernière soirée et celle de la publication Facebook annonçant la fermeture.",
+    "La cause de la fermeture : aucune source ne la donne.",
+    "Le numéro 09 81 71 14 34 : attribué à quelqu'un d'autre ou hors service ? Non testé.",
+    "L'usage actuel du bâtiment du 2 rue de Saintonge (pas de vérification sur place).",
+    "Les horaires et tarifs de 2018 et 2019, absents des archives du site.",
+    "La cage d'exhibition, le lit rond et la backroom fermant à clé cités par des annuaires.",
+    "L'activité actuelle du Liberty Station à Prinquiau, dont le site ne répond plus."
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Archives Wayback Machine, index des captures de le901.fr (2013-2022)",
+      "url": "https://web.archive.org/cdx/search/cdx?url=le901.fr&fl=timestamp,statuscode&collapse=timestamp:6",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s2",
+      "label": "Site officiel du 901, accueil (archive du 17/10/2013)",
+      "url": "https://web.archive.org/web/20131017235252/http://www.le901.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s3",
+      "label": "Site officiel, « Vos soirées » (archive du 06/12/2013)",
+      "url": "https://web.archive.org/web/20131206034731/http://www.le901.fr:80/-Le-901-Mixte-",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s4",
+      "label": "Site officiel, « Horaires » (archive du 06/12/2013)",
+      "url": "https://web.archive.org/web/20131206034727/http://www.le901.fr:80/-Horaires-",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s5",
+      "label": "Site officiel, « Tarifs » (archive du 06/12/2013)",
+      "url": "https://web.archive.org/web/20131206034751/http://www.le901.fr:80/-Tarifs-",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s6",
+      "label": "Site officiel, « Le lieu » (archive du 06/12/2013)",
+      "url": "https://web.archive.org/web/20131206034737/http://www.le901.fr:80/-Le-lieu-12-",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s7",
+      "label": "Site officiel, « Coordonnées » (archive du 15/01/2014)",
+      "url": "https://web.archive.org/web/20140115023148/http://www.le901.fr:80/Coordonnees",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s8",
+      "label": "Site officiel, « Le 901 gay » (archive du 25/09/2015)",
+      "url": "https://web.archive.org/web/20150925084222/http://www.le901.fr/-Le-901-masculin-",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s9",
+      "label": "Site officiel, « Horaires d'ouverture du 901 » (archive du 06/12/2015)",
+      "url": "https://web.archive.org/web/20151206054424/http://le901.fr:80/HORAIRES-D-OUVERTURE-DU-901",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s10",
+      "label": "Site officiel, fiche « Soirée Labyrinthe » du 31/07/2015 (archive du 20/12/2015)",
+      "url": "https://web.archive.org/web/20151220225817/http://le901.fr/Inauguration-du-Labyrinthe",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s11",
+      "label": "Site officiel, accueil (archive du 04/10/2016)",
+      "url": "https://web.archive.org/web/20161004042834/http://le901.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s12",
+      "label": "Site officiel, « Horaires et Tarifs » (archive du 07/08/2017)",
+      "url": "https://web.archive.org/web/20170807041853/http://www.le901.fr:80/spip.php?rubrique3",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s13",
+      "label": "Site officiel, « Le Lieu » (archive du 08/08/2017)",
+      "url": "https://web.archive.org/web/20170808085517/http://www.le901.fr:80/spip.php?rubrique2",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s14",
+      "label": "Site officiel, « Y Aller » (archive du 08/08/2017)",
+      "url": "https://web.archive.org/web/20170808085627/http://www.le901.fr:80/spip.php?rubrique4",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s15",
+      "label": "Site officiel, partenaires et agenda de l'été 2017 (archives du 08/08/2017)",
+      "url": "https://web.archive.org/web/20170808085244/http://www.le901.fr:80/spip.php?page=articleagenda",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s16",
+      "label": "Site officiel, accueil et « Vos Soirées » (archives d'août 2018)",
+      "url": "https://web.archive.org/web/20180806045739/http://le901.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s17",
+      "label": "Site officiel, accueil (archives des 31/07/2019 et 07/11/2019)",
+      "url": "https://web.archive.org/web/20191107101715/http://le901.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s18",
+      "label": "Site officiel, fiches d'événements de décembre 2019 (archive du 15/12/2019)",
+      "url": "https://web.archive.org/web/20191215025257/http://le901.fr/spip.php?page=evenement&id_evenement=360",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s19",
+      "label": "le901.fr, page KifDom (archives des 01/12/2021 et 24/05/2022)",
+      "url": "https://web.archive.org/web/20211201085346/http://le901.fr/",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s20",
+      "label": "KifDom, service de rachat de noms de domaine expirés",
+      "url": "https://www.kifdom.com/",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s21",
+      "label": "AFNIC, données d'enregistrement (RDAP) de le901.fr et le901sauna.fr",
+      "url": "https://rdap.nic.fr/domain/le901.fr",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s22",
+      "label": "Tests DNS et HTTP de le901.fr, le901sauna.fr et le901.owiii.fr",
+      "url": "https://web.archive.org/cdx/search/cdx?url=le901sauna.fr*",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s23",
+      "label": "Annuaire des entreprises, France Détente Gestion Immobilière (SIREN 793 718 107)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/793718107",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s24",
+      "label": "Societe.com, France Détente Gestion Immobilière (reprise du RCS)",
+      "url": "https://www.societe.com/societe/france-detente-gestion-immobiliere-793718107.html",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s25",
+      "label": "Registre des entreprises, établissements enregistrés au 2 rue de Saintonge",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=2%20rue%20de%20saintonge&code_postal=44600",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s26",
+      "label": "BODACC, annonces commerciales (aucune pour ce SIREN)",
+      "url": "https://bodacc-datadila.opendatasoft.com",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s27",
+      "label": "SNEG & Co, fiche adhérent « Le 901 » (2016)",
+      "url": "https://www.snegandco.fr/le-901/",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s28",
+      "label": "sauna-club-libertin.com, fiche « Le 901 » (texte et horaires de 2013)",
+      "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_3.php?id=15313&d=44",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s29",
+      "label": "Facebook, page « Le 901 club libertin à Saint Nazaire-La baule » (présentation publique)",
+      "url": "https://www.facebook.com/p/Le-901-club-libertin-%C3%A0-Saint-Nazaire-La-baule-100054312439874/",
+      "type": "reseau_social",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s30",
+      "label": "PagesJaunes, saunas à Saint-Nazaire",
+      "url": "https://www.pagesjaunes.fr/annuaire/saint-nazaire-44/saunas",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s31",
+      "label": "Spartacus Gay Guide, saunas de Saint-Nazaire et de Nantes",
+      "url": "https://spartacus.gayguide.travel/saunas/europe/france/saint-nazaire",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s32",
+      "label": "Base Adresse Nationale, 2 rue de Saintonge à Saint-Nazaire",
+      "url": "https://api-adresse.data.gouv.fr/search/?q=2+rue+de+saintonge+saint-nazaire",
+      "type": "carte",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s33",
+      "label": "Facebook, publication annonçant la fermeture (lue dans des extraits de moteur de recherche, non datée)",
+      "url": "https://www.facebook.com/people/Le-901-club-libertin-%C3%A0-Saint-Nazaire-La-baule/100054312439874/",
+      "type": "reseau_social",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s34",
+      "label": "Before Sauna Club, Sainte-Luce-sur-Loire : page « Ambiance 100 % mecs » et agenda",
+      "url": "https://www.before-sauna-club.com/gay",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s35",
+      "label": "Guili's Club, Carquefou : agenda des soirées",
+      "url": "https://www.guilis-club.com/soirees-libertines-au-guilis-club/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s36",
+      "label": "L'Orchidée Noire, Nantes : site officiel",
+      "url": "https://orchideenoire.com/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s37",
+      "label": "Tests HTTP des sites des lieux voisins (Liberty Station, Steamer, B4, Guili's, Orchidée Noire)",
+      "url": "https://lelibertystation.fr/",
+      "type": "autre",
+      "consulted": "2026-10-19"
+    }
+  ]
+}

@@ -1,0 +1,948 @@
+{
+  "slug": "angelus-club-libertin-melun",
+  "clubId": "FG061",
+  "researchedAt": "2026-10-16",
+  "display": {
+    "nom": "L’Angel’us",
+    "ville": "Melun"
+  },
+  "status": {
+    "value": "ouvert",
+    "summary": "Le club a soufflé ses « 11 bougies » le samedi 26 septembre 2026, et son agenda en ligne affichait encore, le 19 octobre, dix-sept soirées datées, de la Nuit des Coquines du vendredi 23 octobre à la Mixte & Élégance du vendredi 18 décembre 2026. Au registre, J2CV, la société qui l’exploite sous le nom commercial L’Angelus, est active et son établissement du boulevard Gambetta ouvert (dernière mise à jour le 25 septembre 2026).",
+    "sources": [
+      "s10",
+      "s7",
+      "s25"
+    ]
+  },
+  "seo": {
+    "title": "L’Angelus à Melun : club libertin, tarifs et agenda 2026",
+    "metaDescription": "Cave voûtée de plus de 400 m² à Melun : vendredi mixte, samedi sans hommes seuls, couple à 50 € avant 22 h. Agenda des soirées jusqu’au 18 décembre.",
+    "subtitle": "Club libertin en cave voûtée, ouvert le vendredi et le samedi soir à Melun (77)",
+    "targetQueries": [
+      "club libertin melun",
+      "langelus melun",
+      "melun club libertin",
+      "club libertin a melun",
+      "melun libertin"
+    ]
+  },
+  "lead": "Au 9 boulevard Gambetta, L’Angel’us occupe une cave voûtée de plus de 400 m², dont plus de 200 m² d’espaces libertins selon le club. Il n’ouvre que le vendredi, en soirée mixte, et le samedi, pour les couples et les femmes seules, de 21 h à 3 h. Toujours actif, il programme une soirée à thème presque chaque week-end et a célébré en septembre 2026 ce qu’il présente comme ses onze ans, alors que sa société exploitante date de 2016.",
+  "keyFacts": [
+    {
+      "label": "Société exploitante",
+      "value": "J2CV (SAS), nom commercial L’Angelus, SIREN 823 623 749",
+      "confidence": "confirme",
+      "sources": [
+        "s25",
+        "s6"
+      ]
+    },
+    {
+      "label": "Ancienneté",
+      "value": "11 ans fêtés le 26 septembre 2026 ; société actuelle créée le 12 octobre 2016",
+      "confidence": "a_verifier",
+      "sources": [
+        "s10",
+        "s25"
+      ]
+    },
+    {
+      "label": "Surface",
+      "value": "Plus de 400 m², dont plus de 200 m² d’espaces libertins (chiffres du club)",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "label": "Jours d’ouverture",
+      "value": "Vendredi et samedi, 21 h – 3 h ; fermé les vendredis d’août",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s3",
+        "s5",
+        "s17"
+      ]
+    },
+    {
+      "label": "Public admis",
+      "value": "Vendredi : couples, femmes et hommes seuls ; samedi : couples et femmes seules",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s3"
+      ]
+    },
+    {
+      "label": "Entrée couple",
+      "value": "50 € avant 22 h, 70 € après, deux consommations comprises",
+      "confidence": "confirme",
+      "sources": [
+        "s3",
+        "s12"
+      ]
+    },
+    {
+      "label": "Homme seul",
+      "value": "80 € le vendredi, entrée régulée ; samedi exclu, sauf soirées sur sélection",
+      "confidence": "confirme",
+      "sources": [
+        "s3",
+        "s13",
+        "s21",
+        "s8"
+      ]
+    },
+    {
+      "label": "Réservation",
+      "value": "Inscription gratuite sur le site, puis WhatsApp au 06 58 14 50 70",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s5",
+        "s12"
+      ]
+    },
+    {
+      "label": "Âge minimum",
+      "value": "18 ans",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s4"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "homme-seul-vendredi-samedi",
+      "title": "Homme seul à 80 € le vendredi, refusé le samedi sauf sélection : la grille de L’Angel’us",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Les deux soirs d’ouverture obéissent à des règles opposées. Le **vendredi** est mixte : les hommes seuls entrent pour 80 € avec une consommation, mais les pages des soirées du vendredi précisent que leur entrée est « régulée selon le nombre de couples présents ». Payer ne garantit donc pas de passer la porte : mieux vaut s’en assurer par WhatsApp avant de faire la route.\n\nLe **samedi** est réservé aux couples et aux femmes seules, ce que la plupart des soirées à thème de ce jour-là rappellent en toutes lettres. Les exceptions passent par une sélection : l’Opening Cap du samedi 6 juin 2026, annoncé mixte, prenait des hommes seuls à 90 €, le Closing Cap du 3 octobre les admettait « triés sur le volet », et la Badaboom du 21 novembre en retient quelques-uns.\n\nPour un couple, le prix dépend de l’heure d’arrivée : 50 € avant 22 h, 70 € ensuite, deux consommations comprises, quel que soit le soir. Sur certaines soirées, comme Coyotes Girl’s le 17 octobre 2026, le tarif d’avant 22 h est réservé aux « abonnés du site », c’est-à-dire aux membres inscrits gratuitement. Une personne transgenre venue seule paie 45 €. Les soirées à thème s’écartent parfois de la grille : l’anniversaire du 26 septembre 2026 était affiché à 60 € pour un couple."
+        }
+      ],
+      "sources": [
+        "s3",
+        "s13",
+        "s33",
+        "s12",
+        "s10",
+        "s30",
+        "s21",
+        "s8"
+      ],
+      "icon": "users",
+      "summary": "Vendredi mixte, homme seul à 80 € et entrée régulée ; samedi réservé aux couples et femmes seules ; couple 50 € avant 22 h, 70 € après, deux consommations."
+    },
+    {
+      "id": "femme-seule-offert-ou-20-euros",
+      "title": "Femme seule : offerte selon la grille, 20 € la plupart des samedis à thème",
+      "icon": "heart",
+      "summary": "La grille annonce l’entrée offerte aux femmes seules, mais la plupart des samedis à thème la facturent 20 € ; l’équipe propose de les raccompagner à leur voiture.",
+      "blocks": [
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Femme seule le samedi : offert ou 20 € ?",
+          "body": "La page des tarifs annonce l’entrée offerte aux femmes seules, vendredi comme samedi. L’ancien site affichait pourtant 20 € le samedi, consommation comprise, et la plupart des samedis à thème reprennent ce montant : anniversaire du 26 septembre, Coyotes Girl’s du 17 octobre, Halloween du 31 octobre, French 80’s Night du 7 novembre 2026. Exceptions relevées : les samedis d’août et le Black Friday du 28 novembre, gratuits pour elles. Vérifiez la page de la soirée choisie."
+        },
+        {
+          "kind": "text",
+          "body": "Pour les femmes venues seules, l’équipe propose de les raccompagner jusqu’à leur voiture en fin de soirée. Celle qui envisage un premier vendredi en solo, où son entrée ne lui coûte rien, peut aussi vouloir arriver en ayant déjà échangé avec quelques couples du secteur. Carré Libertin, en ligne depuis 2007 et qui revendique plus de 500 000 inscrits, ne fait payer l’accès complet ni aux femmes ni aux couples, pourvu que le profil affiche trois photos : de quoi [discuter avec des couples de Seine-et-Marne avant la soirée](aff:carre-libertin), sans certitude qu’ils fréquentent ce club."
+        }
+      ],
+      "sources": [
+        "s3",
+        "s22",
+        "s10",
+        "s12",
+        "s34",
+        "s35",
+        "s31",
+        "s18",
+        "s2"
+      ]
+    },
+    {
+      "id": "cave-voutee-gambetta",
+      "title": "Plus de 400 m² sous les voûtes du 9 boulevard Gambetta",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "L’Angel’us est installé dans une cave voûtée du boulevard Gambetta, que le club situe à une quarantaine de kilomètres au sud de Paris. Le décor mise sur la pierre apparente et les poutres, dans un style que le site dit « rustique et chic ». Les surfaces annoncées, plus de 400 m² dont plus de 200 m² d’espaces libertins, sont les chiffres du club : nous n’avons pas pu les vérifier sur place."
+        },
+        {
+          "kind": "list",
+          "title": "Les espaces décrits par le site officiel",
+          "items": [
+            "**Bar lounge** : le centre du lieu, avec canapés, champagnes, alcools haut de gamme et cocktails.",
+            "**Dancefloor** : la piste des soirées à thème et des élections de Miss et de Mister Angel’us.",
+            "**Espaces libertins** : coins câlins et alcôves pour l’échangisme, le mélangisme et le voyeurisme, avec glory holes et équipements BDSM, le club se voulant « classy, pas extrême ».",
+            "**Vestiaires, douches et espace fumeur.**"
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le site décrit un éclairage tamisé et une musique « dansante mais modérée », volontairement assez basse pour laisser entendre ce qui se passe dans les alcôves. L’ancien site, toujours en ligne, signalait en outre des préservatifs laissés à disposition dans les salons. Aucun des deux ne dit un mot du stationnement ou des transports en commun, et la foire aux questions du nouveau site était encore vide le 19 octobre 2026."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s2",
+        "s23",
+        "s22",
+        "s9"
+      ],
+      "icon": "building",
+      "summary": "Une cave voûtée en pierre et poutres de plus de 400 m² selon le club : bar lounge, dancefloor, alcôves avec glory holes et équipements BDSM, douches et espace fumeur."
+    },
+    {
+      "id": "agenda-octobre-decembre-2026",
+      "title": "De la Nuit des Coquines du 23 octobre aux vendredis Mixte & Élégance de décembre",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "L’agenda en ligne est la preuve d’activité la plus parlante du club. Au 19 octobre 2026, il annonce dix-sept soirées jusqu’au 18 décembre :"
+        },
+        {
+          "kind": "table",
+          "caption": "Agenda officiel relevé le 19 octobre 2026",
+          "headers": [
+            "Date",
+            "Soirée et conditions connues"
+          ],
+          "rows": [
+            [
+              "Ven. 23 octobre",
+              "La Nuit des Coquines"
+            ],
+            [
+              "Sam. 24 octobre",
+              "« 2 ans avec vous, pour vous » : couples et femmes seules, buffet salé et sucré"
+            ],
+            [
+              "Ven. 30 et sam. 31 octobre",
+              "Halloween, sur deux soirs"
+            ],
+            [
+              "Jeu. 5 novembre et jeu. 3 décembre",
+              "Apéro libertin"
+            ],
+            [
+              "Ven. 6, 13 et 20 novembre",
+              "Mixte & Élégance"
+            ],
+            [
+              "Sam. 7 novembre",
+              "French 80’s Night"
+            ],
+            [
+              "Sam. 14 novembre",
+              "Jade Fashion Night, défilé avec la boutique Jade Lingerie d’Ormoy"
+            ],
+            [
+              "Sam. 21 novembre",
+              "Badaboom Vol 5, soirée privée sur sélection"
+            ],
+            [
+              "Ven. 27 novembre",
+              "BDSM & libertinage avec le collectif DBLF, tenue noire exigée"
+            ],
+            [
+              "Sam. 28 novembre",
+              "Black Friday, édition spéciale de la Nuit des débutants, couples et femmes seules"
+            ],
+            [
+              "Ven. 4, 11 et 18 décembre",
+              "Mixte & Élégance"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Aucun samedi de décembre n’y figure encore : vérifiez plus près de la date avant de prévoir une sortie ce jour-là."
+        }
+      ],
+      "sources": [
+        "s7",
+        "s11",
+        "s19",
+        "s8",
+        "s16",
+        "s31",
+        "s32"
+      ],
+      "icon": "calendar",
+      "summary": "Dix-sept soirées datées au 19 octobre 2026, presque chaque vendredi et samedi jusqu’au 18 décembre ; aucun samedi de décembre n’est encore annoncé."
+    },
+    {
+      "id": "sushi-naked-cap-agde-2026",
+      "title": "Sushi Naked en janvier, Cap d’Agde de juin à octobre : les thèmes de 2026",
+      "icon": "sparkles",
+      "summary": "Plus de 110 pages d’événements en 2026, avec des thèmes récurrents, un dîner Sushi Naked en janvier et un fil rouge Cap d’Agde de juin à octobre.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le rythme des soirées ne date pas de cet automne. Le plan du site recense plus de 110 pages d’événements entre l’élection de Miss Angel’us, le 24 janvier 2026, et le 18 décembre, soit une soirée presque chaque vendredi et chaque samedi. Des thèmes reviennent d’un mois à l’autre (Nuit des coquines, Latino Party, Orgie romaine), d’autres sortent du cadre : le 31 janvier 2026, la soirée Sushi Naked associait un dîner de sushis limité à 30 couples à la soirée club, pour 95 € le couple et 45 € la femme, hommes seuls exclus.\n\nL’été suit un fil rouge, le Cap d’Agde : Opening Cap début juin, « Cap à l’Angel’us » chaque samedi d’août (50 € le couple, entrée libre pour les femmes seules, pas d’hommes seuls) pendant que le club ferme tous les vendredis du mois, puis Closing Cap le samedi 3 octobre 2026, prolongé jusqu’à 4 h."
+        }
+      ],
+      "sources": [
+        "s9",
+        "s29",
+        "s30",
+        "s18",
+        "s17",
+        "s21"
+      ]
+    },
+    {
+      "id": "badaboom-dblf-jade-lingerie",
+      "title": "Badaboom, DBLF, Jade Lingerie : les soirées montées avec des partenaires",
+      "icon": "mask",
+      "summary": "Florealban sélectionne les participants de la Badaboom du 21 novembre, le collectif DBLF organise les soirées BDSM, Jade Lingerie le défilé du 14 novembre.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Une partie de la programmation se fait avec des partenaires. L’élection de Miss Angel’us, en janvier 2026, était organisée avec la boutique Jade Lingerie, et la gagnante remportait un an d’entrées gratuites au club. La même boutique revient le samedi 14 novembre pour la Jade Fashion Night : un défilé à 23 h pour lequel elle cherche six femmes et deux hommes, la tenue portée leur étant offerte.\n\nLe collectif DBLF, lui, organise les soirées BDSM & libertinage du 29 mai et du 27 novembre 2026, sur inscription par e-mail uniquement, à l’adresse indiquée sur la page de la soirée."
+        },
+        {
+          "kind": "callout",
+          "tone": "info",
+          "title": "Badaboom Vol 5, le samedi 21 novembre : une soirée sur sélection",
+          "body": "Pour sa cinquième Badaboom, l’organisateur Florealban choisit lui-même les participants : surtout des couples, quelques hommes seuls retenus un par un, une parité hommes-femmes recherchée et une tenue légère inspirée du Cap d’Agde. Les prix sont plus élevés qu’en soirée ordinaire (voir l’encadré des tarifs), buffet sucré-salé compris, et le club demande d’attendre sa validation avant de s’inscrire sur la « fiche événement »."
+        },
+        {
+          "kind": "text",
+          "body": "La consigne d’inscription évoque aussi Wyylde, en précisant que tous les participants n’y sont pas inscrits : le club affiche ce réseau parmi ses partenaires et présente Florealban comme un « organisateur phare sur Wyylde ». Pour suivre ce type d’annonce, un compte gratuit suffit à lire [les fiches événements publiées sur Wyylde](aff:wyylde) et à recevoir des messages ; pour répondre à l’un d’eux, il faut un abonnement."
+        }
+      ],
+      "sources": [
+        "s20",
+        "s19",
+        "s16",
+        "s8"
+      ]
+    },
+    {
+      "id": "visite-avant-22h-nuit-des-debutants",
+      "title": "Visite avant 22 h et Nuit des débutants, rééditée le samedi 28 novembre",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Pour un premier passage, L’Angel’us propose deux formules. La première est permanente : la page des tarifs indique qu’on peut visiter les lieux avant 22 h, « pour le plaisir des yeux », sans participer. Elle n’en précise ni le prix ni les conditions : posez la question en réservant.\n\nLa seconde est la **Nuit des débutants**, revenue plusieurs fois en 2026 (21 mars, 3 et 24 avril, 11 septembre, 9 octobre). L’édition du vendredi 24 avril est la plus détaillée : une sexothérapeute et thérapeute de couple y répondait aux questions de 20 h à 22 h, avec une entrée gratuite sur ce créneau pour les couples et les femmes seules ; les hommes seuls n’entraient qu’à partir de 22 h, à 80 €. Les éditions de septembre et d’octobre ne mentionnent pas de thérapeute et affichent simplement 50 € le couple, l’entrée gratuite pour les femmes et 80 € pour les hommes seuls.\n\nLa prochaine est fixée au **samedi 28 novembre 2026**, sous le nom de Black Friday : couples et femmes seules uniquement, couple à 40 € avant 23 h (une consommation par personne) puis 70 €, entrée gratuite toute la nuit pour les femmes seules. Sa page ne parle pas de thérapeute."
+        }
+      ],
+      "sources": [
+        "s3",
+        "s13",
+        "s33",
+        "s31",
+        "s9"
+      ],
+      "icon": "heart",
+      "summary": "Visite sans participer possible avant 22 h ; la Nuit des débutants revient le samedi 28 novembre : couple 40 € avant 23 h, femme seule gratuite, pas d’homme seul."
+    },
+    {
+      "id": "apero-libertin-adhesion-yoann",
+      "title": "L’Apéro libertin du jeudi et l’adhésion gratuite validée par Yoann",
+      "icon": "drink",
+      "summary": "Un Apéro libertin un jeudi par mois environ, dès 19 h ou 20 h, de 20 € à 80 € selon l’édition ; l’adhésion au site est gratuite et ouvre parfois le tarif couple d’avant 22 h.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "L’**Apéro libertin** offre un format plus court que les soirées du week-end : un jeudi par mois environ (12 mars, 9 avril, 7 mai, 4 juin, 1er octobre, 5 novembre et 3 décembre 2026), à partir de 19 h ou 20 h. Les prix changent d’une édition à l’autre :"
+        },
+        {
+          "kind": "list",
+          "items": [
+            "**12 mars**, spécial photographie : 20 € par personne, une boisson et une planche comprises.",
+            "**1er octobre** : 50 € le couple, 20 € la femme, 50 € l’homme, avec deux ou trois places d’hommes seuls.",
+            "**3 décembre** : 40 € le couple de 19 h à 21 h ; hommes seuls admis seulement après 22 h, à 80 €."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "L’adhésion passe par le formulaire « Devenir membre » du site (pseudo, e-mail, téléphone, type de profil). Elle est gratuite et validée par Yoann, l’interlocuteur que le club met en avant ; les réservations se font ensuite par WhatsApp. Sur certaines soirées, elle ouvre le tarif couple d’avant 22 h, soit 20 € d’économie pour un couple qui arrive tôt.\n\nLe club affiche lui-même, sur sa page d’accueil, un encart présentant Gleese comme son partenaire. Pour mettre des mots sur vos envies avec d’autres couples avant de venir, sans rien dépenser, [un profil Gleese créé sans donner de carte bancaire](aff:gleese) permet de prendre la température autour de Melun. Ce site français lancé fin 2024 vérifie le téléphone de chaque inscrit et modère les photos à la main ; faute de recul, on ignore combien de profils il réunit en Seine-et-Marne."
+        }
+      ],
+      "sources": [
+        "s14",
+        "s15",
+        "s32",
+        "s9",
+        "s1",
+        "s12"
+      ]
+    },
+    {
+      "id": "dress-code-physionomiste",
+      "title": "Robe et talons, chemise et souliers de cuir : un dress code tranché par le physionomiste",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "La tenue compte à Melun. La page des tarifs demande aux femmes une robe ou une jupe avec des talons, aux hommes une chemise et des souliers de cuir, et ferme la porte au denim comme aux vêtements de sport ; le physionomiste reste seul juge de l’entrée. La rubrique contact sème toutefois le doute en admettant pour les hommes un jean sombre de coupe impeccable, alors que la grille tarifaire et l’ancien site excluent le jean : dans le doute, laissez-le de côté. Elle proscrit aussi baskets blanches, t-shirts à logo et shorts.\n\nCertaines soirées ont leur propre consigne : tout en noir pour les soirées BDSM (tenue fetish pour les femmes, noir et très habillé pour les hommes), tenues légères façon Cap d’Agde pour la Badaboom."
+        },
+        {
+          "kind": "list",
+          "title": "Les règles affichées par le club",
+          "items": [
+            "Consentement : un refus est définitif, et toute insistance entraîne l’exclusion.",
+            "Douche obligatoire avant toute pratique ; préservatif obligatoire pour toute pénétration.",
+            "Drogues et prostitution interdites ; ni photo ni vidéo sans autorisation.",
+            "Entrée réservée aux personnes majeures.",
+            "Pendant les soirées privées, un service de sécurité passe régulièrement dans les coins câlins, et tout manquement vaut exclusion définitive, sans remboursement."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "La page « Règles & Charte » mêle les règles du lieu à des généralités sur les clubs libertins : nous n’en avons retenu que ce qui s’applique clairement à L’Angel’us."
+        }
+      ],
+      "sources": [
+        "s3",
+        "s5",
+        "s4",
+        "s8",
+        "s16",
+        "s22"
+      ],
+      "icon": "shield",
+      "summary": "Robe ou jupe et talons, chemise et souliers de cuir, ni denim ni sportswear ; douche et préservatif obligatoires, un refus est définitif."
+    },
+    {
+      "id": "onze-bougies-societe-2016",
+      "title": "« 11 bougies » en 2026 pour une société née en 2016 : ce que dit la chronologie",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "L’histoire du lieu reste en partie floue : nous n’avons pu consulter ni presse ni archive ancienne du club. Le 26 septembre 2026, L’Angel’us a célébré ses « 11 bougies » et « plus d’une décennie » de soirées, ce qui placerait l’ouverture vers 2015. Or J2CV, la société qui l’exploite aujourd’hui, n’a été immatriculée qu’en octobre 2016. Par ailleurs, un autre débit de boissons sans enseigne déclarée, la SARL RMD, a occupé la même adresse de 2014 à 2017 : rien ne permet d’affirmer qu’il s’agissait déjà du club."
+        },
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "27 octobre 2014",
+              "text": "Création de RMD, débit de boissons au 9 boulevard Gambetta, sans enseigne. Lien avec le club non établi."
+            },
+            {
+              "date": "Vers septembre 2015",
+              "text": "Ouverture déduite des « 11 bougies » fêtées en 2026, sans source de l’époque."
+            },
+            {
+              "date": "12 octobre 2016",
+              "text": "Création de J2CV, nom commercial L’Angelus, enregistrée comme débit de boissons ; son établissement du boulevard Gambetta ouvre le 25 novembre."
+            },
+            {
+              "date": "22 juin 2017",
+              "text": "Cessation de RMD."
+            },
+            {
+              "date": "Automne 2024 (déduction)",
+              "text": "Arrivée probable de Yoann, qui annonce « je fête mes 2 ans à L’Angel’us » pour le 24 octobre 2026."
+            },
+            {
+              "date": "14 novembre 2024",
+              "text": "Création de l’ancien site sur Jimdo, selon les métadonnées de la page ; Internet Archive le capture les 19 et 28 décembre 2024."
+            },
+            {
+              "date": "24 janvier 2026",
+              "text": "Élection de Miss Angel’us, première date du programme en ligne actuel."
+            },
+            {
+              "date": "Février 2026",
+              "text": "Mentions légales du nouveau site angelus-club.com mises à jour ; première capture par Internet Archive le 14 mai."
+            },
+            {
+              "date": "26 septembre 2026",
+              "text": "Soirée anniversaire des « 11 bougies »."
+            },
+            {
+              "date": "24 octobre 2026",
+              "text": "Soirée « 2 ans avec vous, pour vous », signée « Yoann × L’Angel’us »."
+            }
+          ]
+        }
+      ],
+      "sources": [
+        "s10",
+        "s11",
+        "s25",
+        "s26",
+        "s22",
+        "s28",
+        "s27",
+        "s6",
+        "s9"
+      ],
+      "icon": "history",
+      "summary": "Le club dit fêter ses 11 ans en 2026, mais sa société exploitante, J2CV, date d’octobre 2016 : la date réelle d’ouverture reste à établir."
+    },
+    {
+      "id": "j2cv-angelus-graphies",
+      "title": "J2CV, SAS d’un ou deux salariés, et quatre graphies du même nom",
+      "icon": "building",
+      "summary": "J2CV est une SAS d’un à deux salariés en 2024, avec un second établissement non localisé ; le club s’écrit L’Angelus, L’Angel’us, Angel’us Club ou L’Angélus.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Au registre, J2CV est une société par actions simplifiée (la politique de confidentialité du site parle de SARL), déclarait un à deux salariés en 2024 et compte un second établissement dont l’adresse nous est inconnue.\n\nLe nom s’écrit de plusieurs façons : L’Angelus au registre, L’Angel’us ou Angel’us Club sur le site actuel, L’Angélus sur l’ancien, avec la signature « Le Sanctuaire des Désirs ». Notre ancienne fiche le classait comme bar libertin, et le registre range l’activité parmi les débits de boissons ; le club se décrit, lui, comme un club libertin doté de plus de 200 m² d’espaces de jeu."
+        }
+      ],
+      "sources": [
+        "s25",
+        "s6",
+        "s1",
+        "s2",
+        "s24"
+      ]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Vendredi": "21 h – 3 h, soirée mixte",
+      "Samedi": "21 h – 3 h, couples et femmes seules",
+      "Jeudi": "Apéro libertin certains jeudis (environ un par mois), à partir de 19 h ou 20 h"
+    },
+    "note": "Fermé les vendredis d’août (samedis maintenus). Certaines soirées se prolongent jusqu’à 4 h, comme le Closing Cap du 3 octobre 2026.",
+    "confidence": "confirme",
+    "sources": [
+      "s1",
+      "s3",
+      "s5",
+      "s14",
+      "s15",
+      "s32",
+      "s17",
+      "s21"
+    ]
+  },
+  "tarifs": {
+    "rows": {
+      "Couple (vendredi ou samedi)": "50 € avant 22 h, 70 € après, 2 consommations",
+      "Femme seule, vendredi": "Offert",
+      "Femme seule, samedi": "Offert selon la grille ; 20 € (1 consommation) sur la plupart des soirées à thème",
+      "Homme seul, vendredi": "80 € (1 consommation), entrée régulée selon le nombre de couples",
+      "Homme seul, samedi": "Non admis, sauf soirées sur sélection (Badaboom : 90 €)",
+      "Personne transgenre seule": "45 € (1 consommation)",
+      "Soirées BDSM & libertinage (DBLF)": "Couple 50 €, femme ou homme seul 30 € (1 consommation)",
+      "Nuit des débutants « Black Friday » (28 novembre 2026)": "Couple 40 € avant 23 h, 70 € après ; femme seule gratuite ; pas d’hommes seuls",
+      "Badaboom Vol 5 (21 novembre 2026)": "Couple 90 € (champagne ou 4 consommations), femme 25 €, homme 90 €"
+    },
+    "note": "Relevé le 19 octobre 2026 sur le site officiel. Sur certaines soirées, le tarif couple d’avant 22 h est réservé aux membres inscrits sur le site ; les soirées à thème affichent parfois leurs propres prix.",
+    "confidence": "confirme",
+    "sources": [
+      "s3",
+      "s12",
+      "s13",
+      "s10",
+      "s16",
+      "s8",
+      "s22",
+      "s31",
+      "s34",
+      "s35"
+    ]
+  },
+  "equipements": [
+    "Bar lounge",
+    "Dancefloor",
+    "Coins câlins et alcôves",
+    "Glory holes",
+    "Équipements BDSM",
+    "Vestiaires",
+    "Douches",
+    "Espace fumeur"
+  ],
+  "officialLinks": [
+    {
+      "label": "Site officiel (angelus-club.com)",
+      "url": "https://www.angelus-club.com/",
+      "kind": "site"
+    },
+    {
+      "label": "Agenda des soirées",
+      "url": "https://www.angelus-club.com/soir%C3%A9es-agendas",
+      "kind": "agenda"
+    },
+    {
+      "label": "Tarifs et conditions",
+      "url": "https://www.angelus-club.com/tarifs-conditions",
+      "kind": "autre"
+    },
+    {
+      "label": "Instagram @club_angelus",
+      "url": "https://www.instagram.com/club_angelus/",
+      "kind": "instagram"
+    }
+  ],
+  "corrections": {
+    "telephone": "06 58 14 50 70",
+    "email": "info@angelus-club.fr",
+    "site_web": "https://www.angelus-club.com/",
+    "sources": [
+      "s1",
+      "s5",
+      "s6",
+      "s22"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Où se trouve le club libertin de Melun ?",
+      "answer": "L’Angel’us est au 9 boulevard Gambetta, 77000 Melun, dans une cave voûtée. C’est la seule adresse libertine de la ville recensée dans [notre annuaire de Melun](/ville/melun). Le site officiel ne dit rien du stationnement ni des transports : posez la question en réservant au 06 58 14 50 70, sur WhatsApp."
+    },
+    {
+      "question": "Combien coûte une soirée à L’Angel’us ?",
+      "answer": "Un couple paie 50 € avant 22 h et 70 € ensuite, deux consommations comprises, un homme seul 80 € le vendredi. L’entrée des femmes seules est annoncée offerte, mais la plupart des soirées à thème du samedi la facturent 20 €. Les soirées spéciales vont de 40 € le couple (Nuit des débutants du 28 novembre, avant 23 h) à 90 € (Badaboom du 21 novembre)."
+    },
+    {
+      "question": "Un homme seul peut-il entrer à L’Angel’us ?",
+      "answer": "Le vendredi, à 80 €, et sans garantie : son entrée dépend du nombre de couples présents. Le samedi lui est fermé, sauf soirées sur sélection comme la Badaboom du 21 novembre (90 €) ou les soirées Cap d’Agde de juin et d’octobre 2026. Il est aussi admis aux soirées BDSM & libertinage (30 €) et à l’Apéro libertin du jeudi, en nombre limité."
+    },
+    {
+      "question": "Comment réserver ou devenir membre ?",
+      "answer": "Par le formulaire « Devenir membre » du site angelus-club.com, gratuit et validé par Yoann, puis par WhatsApp au 06 58 14 50 70 pour chaque soirée ; les soirées BDSM & libertinage se réservent, elles, par e-mail auprès de leurs organisateurs. L’inscription donne droit, sur certaines soirées, au tarif couple d’avant 22 h et à la lettre d’information du club."
+    },
+    {
+      "question": "Quelle tenue faut-il prévoir ?",
+      "answer": "Robe ou jupe et talons pour les femmes, chemise et souliers de cuir pour les hommes ; denim et vêtements de sport sont refusés selon la page des tarifs. Le physionomiste a le dernier mot, et les soirées BDSM imposent une tenue entièrement noire."
+    },
+    {
+      "question": "Le 01 60 66 01 02 est-il le numéro du club ?",
+      "answer": "Ce numéro, qui figurait dans notre ancienne fiche, n’apparaît sur aucune page officielle, ni sur le site actuel ni sur l’ancien site Jimdo, qui renvoie désormais vers angelus-club.com. Le club affiche seulement le 06 58 14 50 70, utilisé aussi sur WhatsApp, et deux adresses e-mail : info@angelus-club.fr et conciergerie@angelus-club.fr."
+    },
+    {
+      "question": "Quels autres clubs libertins trouver près de Melun ?",
+      "answer": "Ailleurs en Seine-et-Marne, notre annuaire recense notamment [5 et Plus à Émerainville](/5-et-plus-emerainville), [le 7e Ciel à Fontenay-Trésigny](/le-7-eme-ciel-fontenay-tresigny) et [Aux Secrets de Bastet, à Meaux](/aux-secrets-de-bastet-meaux), et côté Essonne [Le Céleste, à Lisses](/celeste-lisses-club-libertin) ; leur activité n’a pas été revérifiée pour cette fiche. La liste complète est sur [notre page consacrée à la Seine-et-Marne](/departement/seine-et-marne)."
+    }
+  ],
+  "unverified": [
+    "Note et nombre d’avis Google : non relevés, la recherche par moteur était indisponible lors de notre passage.",
+    "Stationnement et accès en transports en commun : aucune indication sur le site officiel, dont la FAQ est vide.",
+    "Date réelle d’ouverture du club, et lien éventuel avec la société RMD qui occupait la même adresse de 2014 à 2017.",
+    "Origine du numéro fixe 01 60 66 01 02 qui figurait dans notre ancienne fiche.",
+    "Adresse et activité du second établissement déclaré par la société J2CV.",
+    "Prix réel de l’entrée des femmes seules le samedi : offert sur la grille, 20 € sur la plupart des pages de soirées.",
+    "Prix et conditions de la visite des lieux proposée avant 22 h.",
+    "Vestiaire payant ou non, moyens de paiement acceptés.",
+    "Articles de presse locale sur le club : aucune recherche possible lors de notre passage."
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Site officiel, accueil (horaires, publics, adhésion, contact, encart partenaire Gleese)",
+      "url": "https://www.angelus-club.com/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s2",
+      "label": "Site officiel, « Votre club et son histoire » (lieu, surfaces, espaces)",
+      "url": "https://www.angelus-club.com/histoire-pr%C3%A9sentation",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s3",
+      "label": "Site officiel, « Tarifs & conditions »",
+      "url": "https://www.angelus-club.com/tarifs-conditions",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s4",
+      "label": "Site officiel, « Règles & Charte »",
+      "url": "https://www.angelus-club.com/notrecharte",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s5",
+      "label": "Site officiel, page contact et « L’Étiquette » (dress code)",
+      "url": "https://www.angelus-club.com/nouscontacter",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s6",
+      "label": "Site officiel, mentions légales et politique de confidentialité (mise à jour février 2026)",
+      "url": "https://www.angelus-club.com/mentionsl%C3%A9gales",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s7",
+      "label": "Site officiel, agenda des soirées (23 octobre – 18 décembre 2026)",
+      "url": "https://www.angelus-club.com/soir%C3%A9es-agendas",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s8",
+      "label": "Site officiel, soirées privées (Badaboom Vol 5, partenaires)",
+      "url": "https://www.angelus-club.com/soir%C3%A9es-priv%C3%A9es",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s9",
+      "label": "Site officiel, plan du site des événements (111 pages au 19 octobre 2026, janvier – décembre 2026)",
+      "url": "https://www.angelus-club.com/event-pages-sitemap.xml",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s10",
+      "label": "Site officiel, événement « Anniversaire du club » (26 septembre 2026)",
+      "url": "https://www.angelus-club.com/d-tails-de-l-v-nement/anniversaire-du-club",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s11",
+      "label": "Site officiel, événement « 2 ans avec vous, pour vous » (24 octobre 2026)",
+      "url": "https://www.angelus-club.com/d-tails-de-l-v-nement/2-ans-avec-vous-pour-vous",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s12",
+      "label": "Site officiel, événement « Coyotes Girl’s » (17 octobre 2026)",
+      "url": "https://www.angelus-club.com/d-tails-de-l-v-nement/coyotes-girls",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s13",
+      "label": "Site officiel, événement « La Nuit des débutants » (24 avril 2026)",
+      "url": "https://www.angelus-club.com/d-tails-de-l-v-nement/la-nuit-des-debutants",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s14",
+      "label": "Site officiel, événement « Apéro libertin » spécial photographie (12 mars 2026)",
+      "url": "https://www.angelus-club.com/d-tails-de-l-v-nement/apero-libertin",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s15",
+      "label": "Site officiel, événement « Apéro libertin » (1er octobre 2026)",
+      "url": "https://www.angelus-club.com/d-tails-de-l-v-nement/apero-libertin-4",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s16",
+      "label": "Site officiel, événement « BDSM & libertinage » du collectif DBLF (27 novembre 2026 ; même grille le 29 mai)",
+      "url": "https://www.angelus-club.com/d-tails-de-l-v-nement/bdsm-libertinage-1",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s17",
+      "label": "Site officiel, annonce « Fermé les vendredis en août »",
+      "url": "https://www.angelus-club.com/d-tails-de-l-v-nement/ferme-les-vendredis-en-aout",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s18",
+      "label": "Site officiel, événement « Cap à l’Angel’us » (samedis d’août 2026)",
+      "url": "https://www.angelus-club.com/d-tails-de-l-v-nement/cap-a-langelus-2",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s19",
+      "label": "Site officiel, événement « Jade Fashion Night » (14 novembre 2026)",
+      "url": "https://www.angelus-club.com/d-tails-de-l-v-nement/jade-fashion-night",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s20",
+      "label": "Site officiel, événement « Élection Miss Angel’us » (24 janvier 2026)",
+      "url": "https://www.angelus-club.com/d-tails-de-l-v-nement/election-miss-angelus",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s21",
+      "label": "Site officiel, événement « Closing Cap » (3 octobre 2026)",
+      "url": "https://www.angelus-club.com/d-tails-de-l-v-nement/closing-cap",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s22",
+      "label": "Ancien site officiel (Jimdo), accueil : renvoi vers le nouveau site, tarifs, dress code",
+      "url": "https://langelus-3.jimdosite.com/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s23",
+      "label": "Ancien site officiel (Jimdo), « Qui sommes-nous »",
+      "url": "https://langelus-3.jimdosite.com/qui-sommes-nous/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s24",
+      "label": "Ancien site officiel (Jimdo), contact « L’Angélus »",
+      "url": "https://langelus-3.jimdosite.com/contact/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s25",
+      "label": "Annuaire des entreprises : J2CV (L’ANGELUS), SIREN 823 623 749",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/823623749",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s26",
+      "label": "Annuaire des entreprises : RMD, SIREN 807 968 979 (9 bd Gambetta, cessée en 2017)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/807968979",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s27",
+      "label": "Internet Archive, index des captures de angelus-club.com",
+      "url": "https://web.archive.org/cdx/search/cdx?url=angelus-club.com/*",
+      "type": "autre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s28",
+      "label": "Internet Archive, index des captures de l’ancien site Jimdo (décembre 2024)",
+      "url": "https://web.archive.org/cdx/search/cdx?url=langelus-3.jimdosite.com",
+      "type": "autre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s29",
+      "label": "Site officiel, événement « Sushi Naked » (31 janvier 2026)",
+      "url": "https://www.angelus-club.com/d-tails-de-l-v-nement/sushi-naked",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s30",
+      "label": "Site officiel, événement « Opening Cap J3 » (6 juin 2026)",
+      "url": "https://www.angelus-club.com/d-tails-de-l-v-nement/opening-cap-j3",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s31",
+      "label": "Site officiel, événement « Black Friday », Nuit des débutants (28 novembre 2026)",
+      "url": "https://www.angelus-club.com/d-tails-de-l-v-nement/black-friday",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s32",
+      "label": "Site officiel, événement « Apéro libertin » (3 décembre 2026)",
+      "url": "https://www.angelus-club.com/d-tails-de-l-v-nement/apero-libertin-6",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s33",
+      "label": "Site officiel, événement « La Nuit des débutants » (9 octobre 2026)",
+      "url": "https://www.angelus-club.com/d-tails-de-l-v-nement/la-nuit-des-debutants-2",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s34",
+      "label": "Site officiel, événement « Halloween » (31 octobre 2026)",
+      "url": "https://www.angelus-club.com/d-tails-de-l-v-nement/halloween-2",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s35",
+      "label": "Site officiel, événement « French 80’s Night » (7 novembre 2026)",
+      "url": "https://www.angelus-club.com/d-tails-de-l-v-nement/french-80s-night",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    }
+  ],
+  "glance": [
+    {
+      "icon": "calendar",
+      "label": "Ouvert",
+      "value": "Vendredi et samedi, 21 h – 3 h"
+    },
+    {
+      "icon": "users",
+      "label": "Public",
+      "value": "Ven. mixte · sam. couples et femmes seules"
+    },
+    {
+      "icon": "euro",
+      "label": "Entrée couple",
+      "value": "50 € avant 22 h · 70 € après"
+    },
+    {
+      "icon": "ticket",
+      "label": "Homme seul",
+      "value": "80 € le vendredi, entrée régulée"
+    },
+    {
+      "icon": "ruler",
+      "label": "Surface annoncée",
+      "value": "Plus de 400 m² en cave voûtée"
+    },
+    {
+      "icon": "history",
+      "label": "Âge revendiqué",
+      "value": "11 ans fêtés en septembre 2026",
+      "confidence": "a_verifier"
+    }
+  ],
+  "audience": [
+    {
+      "who": "couples",
+      "status": "oui",
+      "detail": "Vendredi et samedi ; tarif d’avant 22 h parfois réservé aux inscrits du site",
+      "price": "50 à 70 €"
+    },
+    {
+      "who": "femmes",
+      "status": "oui",
+      "detail": "Offert selon la grille ; 20 € sur la plupart des samedis à thème",
+      "price": "0 à 20 €"
+    },
+    {
+      "who": "hommes",
+      "status": "selon",
+      "detail": "Vendredi seulement, entrée régulée ; samedi exclu sauf soirées sur sélection",
+      "price": "80 €"
+    },
+    {
+      "who": "trans",
+      "status": "oui",
+      "detail": "Personne transgenre seule admise le vendredi et le samedi selon la grille",
+      "price": "45 €"
+    }
+  ],
+  "highlights": [
+    "Samedi fermé aux hommes seuls ; le vendredi, leur entrée à 80 € dépend du nombre de couples présents : confirmez par WhatsApp avant la route.",
+    "Femme seule le samedi : la grille dit offert, mais la plupart des soirées à thème affichent 20 € ; vérifiez la page de la soirée choisie.",
+    "Denim et sportswear refusés selon la grille : robe ou jupe et talons pour elles, chemise et souliers de cuir pour eux.",
+    "Sur certaines soirées, le couple à 50 € avant 22 h (au lieu de 70 €) est réservé aux membres inscrits gratuitement sur le site.",
+    "Le 01 60 66 01 02 n’apparaît sur aucune page officielle : le club affiche le 06 58 14 50 70, joignable aussi sur WhatsApp."
+  ]
+}

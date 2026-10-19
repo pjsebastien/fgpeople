@@ -1,0 +1,690 @@
+{
+  "slug": "plaisir-d-o-la-rochelle-port-neuf",
+  "clubId": "351",
+  "researchedAt": "2026-10-16",
+  "display": {
+    "nom": "Plaisirs d'O",
+    "ville": "La Rochelle"
+  },
+  "status": {
+    "value": "ferme",
+    "summary": "Le dernier programme connu du club s'arrête au 30 avril 2016, et aucune trace d'activité postérieure n'a été trouvée. TARAR, la SARL qui exploitait Plaisirs d'O et Tom et Jules, a été dissoute à l'amiable au 1er janvier 2018 puis radiée le 16 février 2021, et les domaines du club sont éteints ou repris par des tiers depuis 2017-2018. La fermeture se situe entre le printemps 2016 et la fin de 2017, sans date précise connue.",
+    "sources": [
+      "s8",
+      "s9",
+      "s13",
+      "s14",
+      "s15",
+      "s16"
+    ]
+  },
+  "seo": {
+    "title": "Plaisirs d'O (La Rochelle, Port-Neuf) : sauna libertin fermé",
+    "metaDescription": "Le blog de plaisirsdo.fr n'a rien à voir avec Plaisirs d'O : ce sauna libertin de Port-Neuf, jumelé à Tom et Jules, a publié son dernier agenda en avril 2016.",
+    "subtitle": "Ancien sauna club libertin mixte et couples du quartier de Port-Neuf, à La Rochelle (17), fermé entre 2016 et 2017",
+    "targetQueries": [
+      "plaisirs d'o la rochelle",
+      "plaisir d'o la rochelle",
+      "plaisirsdo",
+      "tom et jules la rochelle",
+      "sauna libertin la rochelle",
+      "club libertin port-neuf",
+      "plaisir club rennes",
+      "1001 plaisir riom"
+    ]
+  },
+  "lead": "Au 2 boulevard Aristide-Rondeau, à Port-Neuf, Plaisirs d'O était un sauna club libertin mixte et couples, jumelé à un second club, Tom et Jules, devenu le sauna gay de la maison. Le dernier agenda en ligne date d'avril 2016 ; la société exploitante a été dissoute au 1er janvier 2018, puis radiée en 2021. Le domaine plaisirsdo.fr porte désormais un blog sans rapport avec le club.",
+  "glance": [
+    {
+      "icon": "closed",
+      "label": "Fermé",
+      "value": "Entre le printemps 2016 et la fin de 2017"
+    },
+    {
+      "icon": "calendar",
+      "label": "Dernier agenda",
+      "value": "Soirées du 8 au 30 avril 2016"
+    },
+    {
+      "icon": "map",
+      "label": "Adresse",
+      "value": "2 bd Aristide-Rondeau, Port-Neuf"
+    },
+    {
+      "icon": "building",
+      "label": "Société exploitante",
+      "value": "TARAR, dissoute au 1er janvier 2018"
+    },
+    {
+      "icon": "euro",
+      "label": "Entrée couple (2016)",
+      "value": "35 € (20 € la première heure)"
+    },
+    {
+      "icon": "heart",
+      "label": "Saunas ouverts proches",
+      "value": "QG Sauna (La Rochelle) · L'Atlantis (Aytré)"
+    }
+  ],
+  "highlights": [
+    "Le club est fermé : le site plaisirsdo.fr porte depuis 2017 un blog sur le couple, sans lien avec l'ancien sauna de Port-Neuf.",
+    "Le Petit Futé et d'autres annuaires affichent encore horaires et tarifs : ce sont ceux d'avant 2016, sans preuve d'activité depuis.",
+    "Tom et Jules, le sauna gay du rez-de-chaussée, dépendait de la même société et n'a pas davantage de trace d'activité après avril 2016.",
+    "En 2026, deux saunas libertins mixtes sont actifs autour de La Rochelle : le QG Sauna, avenue Coligny, et L'Atlantis, rue Thalès à Aytré.",
+    "Vous cherchiez le Plaisir Club près de Rennes ou Aux 1001 Plaisirs à Riom ? Ce sont deux autres établissements, sans rapport avec celui-ci."
+  ],
+  "keyFacts": [
+    {
+      "label": "Statut",
+      "value": "Fermé entre le printemps 2016 et la fin de 2017",
+      "confidence": "confirme",
+      "sources": [
+        "s8",
+        "s14",
+        "s16"
+      ]
+    },
+    {
+      "label": "Concept",
+      "value": "Sauna club libertin mixte et couples, couplé à un second club à la même adresse (Tom et Jules)",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s5",
+        "s8"
+      ]
+    },
+    {
+      "label": "Société exploitante",
+      "value": "TARAR, SARL créée en février 2006, dissoute en 2018, radiée en 2021",
+      "confidence": "confirme",
+      "sources": [
+        "s14",
+        "s15",
+        "s16"
+      ]
+    },
+    {
+      "label": "Surface annoncée",
+      "value": "500 m² en 2007, puis 300 m² climatisés de 2010 à 2016",
+      "confidence": "source_unique",
+      "sources": [
+        "s2",
+        "s6",
+        "s8"
+      ]
+    },
+    {
+      "label": "Nom antérieur probable",
+      "value": "Chef de Baie, sauna club mixte attesté en 2006",
+      "confidence": "source_unique",
+      "sources": [
+        "s10"
+      ]
+    },
+    {
+      "label": "Dernier agenda publié",
+      "value": "Avril 2016 (soirées du 8 au 30 avril)",
+      "confidence": "confirme",
+      "sources": [
+        "s8",
+        "s9"
+      ]
+    },
+    {
+      "label": "Site plaisirsdo.fr",
+      "value": "Blog sans lien avec le club depuis mars 2017",
+      "confidence": "confirme",
+      "sources": [
+        "s9",
+        "s13"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "autres-clubs-plaisir",
+      "title": "Ni le Plaisir Club de Bréal-sous-Montfort, ni les 1001 Plaisirs de Riom",
+      "icon": "info",
+      "summary": "Cette page traite d'un sauna fermé de La Rochelle, pas du Plaisir Club de Bréal-sous-Montfort (35) ni d'Aux 1001 Plaisirs à Riom (63).",
+      "sources": [
+        "s5",
+        "s8"
+      ],
+      "blocks": [
+        {
+          "kind": "callout",
+          "tone": "info",
+          "title": "Vous cherchiez un autre « Plaisir » ?",
+          "body": "Cette page traite d'un ancien sauna de La Rochelle. Le **Plaisir Club** des environs de Rennes se trouve [à Bréal-sous-Montfort, en Ille-et-Vilaine](/le-plaisir-club-breal-sous-monfort) ; **Aux 1001 Plaisirs** est [un établissement de Riom, dans le Puy-de-Dôme](/aux-1001-plaisirs-riom)."
+        }
+      ]
+    },
+    {
+      "id": "fermeture-2016-2017",
+      "title": "Dernier agenda en avril 2016, société dissoute au 1er janvier 2018",
+      "icon": "closed",
+      "summary": "Aucune annonce de fin : dernier agenda en avril 2016, domaines repris ou éteints dès 2017, société exploitante dissoute au 1er janvier 2018 puis radiée en 2021.",
+      "sources": [
+        "s8",
+        "s9",
+        "s13",
+        "s14",
+        "s15",
+        "s16",
+        "s20",
+        "s21",
+        "s22",
+        "s23",
+        "s24",
+        "s18"
+      ],
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Aucune annonce n'a marqué la fin du club ; trois séries d'indices concordent :"
+        },
+        {
+          "kind": "list",
+          "items": [
+            "**Le dernier agenda lisible date d'avril 2016** : la version plaisirsdo.ex-flash.com du site, capturée une dernière fois le 11 avril, annonce les soirées jusqu'au 30 et renvoie une erreur 403 en 2019.",
+            "**La société disparaît** : TARAR, au nom commercial « TOM & JULES - PLAISIRSDO », est dissoute à l'amiable au 1er janvier 2018 (annonce légale du 29 décembre 2017), puis radiée le 16 février 2021.",
+            "**Les domaines sont repris ou éteints** : plaisirsdo.fr porte depuis mars 2017 un blog sans lien avec le club ; tometjules.com et plaisirsdo.net ne répondent plus."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Les comptes de l'exercice clos le 30 juin 2017, déposés avec une déclaration de confidentialité, ne disent pas si le club ouvrait encore en 2017. Le guide gay misterb&b le classe « Closed », d'après un extrait de recherche. Au 313 avenue Jean-Guiton, ancienne entrée du parking et siège de TARAR, le registre domicilie une SCI créée en 2024, Santé Port Neuf, et des professionnels de santé installés en 2025 et 2026 ; nous n'avons pas vu les anciens locaux."
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Des annuaires périmés",
+          "body": "Le Petit Futé affiche encore Tom et Jules sous un bandeau « 2026 », avec une entrée à 17 €, le prix de Tom et Jules en 2013 ; Koifaire, Justacoté et Saunas4men recopient d'anciens horaires ou numéros. Aucune de ces fiches ne prouve d'activité après avril 2016."
+        }
+      ]
+    },
+    {
+      "id": "saunas-ouverts-agglomeration",
+      "title": "Le QG Sauna avenue Coligny et L'Atlantis à Aytré, ouverts en 2026",
+      "icon": "spa",
+      "summary": "En octobre 2026, deux saunas libertins avec soirées mixtes sont actifs dans l'agglomération : le QG Sauna près du Casino et L'Atlantis dans la zone industrielle d'Aytré.",
+      "sources": [
+        "s25",
+        "s26",
+        "s27"
+      ],
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Aucun autre établissement rochelais ne figure dans notre annuaire. Deux saunas actifs ont été vérifiés en octobre 2026, sur leur site et au registre :"
+        },
+        {
+          "kind": "list",
+          "items": [
+            "**Le QG Sauna**, 13 avenue Coligny, « près du Casino » ([site officiel](https://qgsauna.com/)) : sauna libertin, bi et gay sur trois niveaux, avec soirées mixtes et entrée couple.",
+            "**L'Atlantis**, 1 rue Thalès, dans la zone industrielle d'Aytré ([site officiel](https://www.sauna-atlantis.com/la-rochelle/)) : sauna gay et libertin de 260 m², soirées mixtes le lundi, le vendredi et le samedi, tarifs en vigueur depuis mars 2024."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Avant une première visite dans l'un de ces deux saunas, Gleese, réseau libertin français lancé fin 2024, permet de [chercher des couples de l'Aunis sans enregistrer de carte bancaire](aff:gleese) ; sa communauté reste plus réduite que celle des sites plus anciens."
+        },
+        {
+          "kind": "text",
+          "body": "Le reste du département (Saint-Jean-d'Angély, Vergné, Royan, Mosnac) figure sur [la page Charente-Maritime de l'annuaire](/departement/charente-maritime), sans vérification de leur activité ici."
+        }
+      ]
+    },
+    {
+      "id": "chef-de-baie-tom-et-jules",
+      "title": "Du sauna Chef de Baie à Plaisirs d'O, Tom et Jules en voisin",
+      "icon": "history",
+      "summary": "Tom et Jules existe dès 2006, avec un sauna « Chef de Baie » juste en dessous ; le nom Plaisirs d'O apparaît en février 2007, le dernier agenda en avril 2016.",
+      "sources": [
+        "s2",
+        "s5",
+        "s6",
+        "s8",
+        "s10",
+        "s11",
+        "s12",
+        "s14",
+        "s15",
+        "s16",
+        "s17"
+      ],
+      "blocks": [
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "Février 2006",
+              "text": "Création de TARAR, SARL au capital de 3 000 €, au 313 avenue Jean-Guiton."
+            },
+            {
+              "date": "Été 2006",
+              "text": "Tom et Jules (120 m²), sex-club gay, mixte et couples, propose de finir la soirée au « chef de baie », sauna club mixte « juste en dessous »."
+            },
+            {
+              "date": "Novembre 2006",
+              "text": "Fermeture au registre de la SARL Le Chef de Baie, à la même adresse ; son lien avec le sauna n'est pas confirmé."
+            },
+            {
+              "date": "Février 2007",
+              "text": "L'agenda de Tom et Jules annonce des après-midi au « sauna Plaisirs do »."
+            },
+            {
+              "date": "Octobre 2007",
+              "text": "Le site annonce 500 m², dont 200 m² réservés aux couples le samedi soir ; ce soir-là, le « 2e club », Tom et Jules, leur est aussi réservé."
+            },
+            {
+              "date": "Juillet 2010",
+              "text": "300 m² climatisés ; Tom et Jules devient certains après-midi un sauna « 100/100 masculin », et l'on entre à Plaisirs d'O par son rez-de-chaussée."
+            },
+            {
+              "date": "Novembre 2010",
+              "text": "Nouveau gérant et nouveau nom commercial publiés au BODACC."
+            },
+            {
+              "date": "Avril 2016",
+              "text": "Dernier agenda en ligne."
+            },
+            {
+              "date": "2018 – 2021",
+              "text": "Dissolution de TARAR au 1er janvier 2018, radiation le 16 février 2021."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hammam-mosaique-chambres-d-hotes",
+      "title": "Hammam de 9 m² en mosaïque, bain à bulles pour sept et chambres d'hôtes à l'étage",
+      "icon": "spa",
+      "summary": "500 m² annoncés en 2007, 300 m² climatisés ensuite : hammam en mosaïque, bain à bulles, salle SM, cage d'exhibition, et des chambres d'hôtes au-dessus du club.",
+      "sources": [
+        "s2",
+        "s3",
+        "s6",
+        "s7",
+        "s8"
+      ],
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le site annonçait 500 m² en 2007, dont 200 m² réservés aux couples le samedi de 22h à 2h, puis 300 m² climatisés de 2010 à 2016, sans expliquer l'écart. Il décrivait, selon les versions, un hammam de 9 m² tout en mosaïque, un bain à bulles prévu pour sept personnes avec une eau à 35 °C (2007), une chambre à grand lit à eau, une salle SM avec sling et croix de Saint-André, une cage d'exhibition sur la piste de danse et, côté couples, un podium et un salon vidéo.\n\nÀ l'étage, sous le nom d'Escale Balnéo, le club proposait des chambres d'hôtes et un studio indépendants avec terrasse solarium, des soirées privées pour couples et, en 2013, un forfait nuitée plus entrée."
+        }
+      ]
+    },
+    {
+      "id": "entrees-2007-2013",
+      "title": "La femme seule entrait gratuitement en 2007, l'homme seul payait 38 €",
+      "icon": "euro",
+      "summary": "De 2007 à 2013, l'entrée couple passe de 30 à 35 €, l'homme seul de 38 à 40 €, la femme seule de la gratuité à 8 €, puis 10 € en 2016.",
+      "sources": [
+        "s5",
+        "s6",
+        "s7",
+        "s8"
+      ],
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Les tarifs d'avril 2016 sont dans l'encadré ; voici leur évolution d'après les archives :"
+        },
+        {
+          "kind": "table",
+          "caption": "Entrées à Plaisirs d'O selon le site officiel (archives)",
+          "headers": [
+            "Entrée",
+            "Octobre 2007",
+            "Juillet 2010",
+            "Juillet 2013"
+          ],
+          "rows": [
+            [
+              "Couple",
+              "30 €",
+              "35 €",
+              "35 €"
+            ],
+            [
+              "Homme seul",
+              "38 €",
+              "40 €",
+              "40 €"
+            ],
+            [
+              "Femme seule",
+              "gratuit",
+              "8 €",
+              "8 €"
+            ],
+            [
+              "Après-midi, tarif réduit pour tous",
+              "30 € dès 17h30",
+              "30 € dès 17h",
+              "30 € dès 17h15"
+            ],
+            [
+              "Dimanche après-midi",
+              "pas de tarif propre",
+              "30 € pour tous",
+              "25 € le couple, 30 € l'homme seul"
+            ],
+            [
+              "Premiers couples offerts",
+              "les 2 premiers",
+              "les 3 premiers",
+              "2 l'après-midi, 3 le soir"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "En 2010 et 2013, le site prévenait que la direction pouvait limiter cette gratuité « aux seuls vrais couples libertins ». De 2007 à 2013, une carte de fidélité offrait la treizième entrée après douze entrées payantes. En 2016, la femme seule passe à 10 € et un mercredi après-midi « anti-crise » ouvre à 20 € pour tous."
+        }
+      ]
+    },
+    {
+      "id": "soirees-meli-melo-transparence",
+      "title": "Méli-mélo, nuit de la transparence, soirée naturiste : les week-ends à thème",
+      "icon": "calendar",
+      "summary": "Vendredis « mixte bi » et samedis à thème de 2007 à 2013 ; en avril 2016, les vendredis ont aussi leur thème, de la soirée naturiste à la « nuit sans tabous ».",
+      "sources": [
+        "s4",
+        "s6",
+        "s7",
+        "s8"
+      ],
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le vendredi était « mixte bi », le samedi à thème : « seins nus et cravate » ou soirée antillaise en 2007, « dessous coquins », « femmes cougars » ou « nuit de la transparence » en 2010 et 2013. En avril 2016, dernier mois connu, les vendredis ont eux aussi leur thème (méli-mélo, « nuit sans tabous », soirée naturiste, « soirée friponne ») et le mois se clôt le samedi 30 sur une « nuit de la transparence ». Tom et Jules proposait des après-midi masculins naturistes, bears ou cuir.\n\nPour suivre les soirées annoncées aujourd'hui en Charente-Maritime, [le calendrier de soirées que Wyylde ouvre aux comptes gratuits](aff:wyylde) donne date, club et thème ; répondre aux membres exige un abonnement."
+        }
+      ]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Lundi": "14h15 – 18h30",
+      "Mardi": "Fermé",
+      "Mercredi": "14h15 – 18h30, après-midi « anti-crise » ouvert aux hétéros, bi et gays",
+      "Jeudi": "Soirée suspendue du 15/11/2015 au 30/04/2016 ; Tom et Jules réservé aux hommes de 14h15 à 19h15",
+      "Vendredi": "14h15 – 18h30 et 21h30 – 2h",
+      "Samedi": "21h30 – 2h (Tom et Jules réservé aux hommes de 15h à 19h)",
+      "Dimanche": "15h – 19h"
+    },
+    "note": "Derniers horaires publiés par le club, en avril 2016. L'établissement est fermé : ils n'ont plus cours.",
+    "confidence": "source_unique",
+    "sources": [
+      "s8"
+    ]
+  },
+  "tarifs": {
+    "rows": {
+      "Couple": "35 € (20 € dans la première heure d'ouverture)",
+      "Homme seul": "40 €",
+      "Femme seule": "10 €",
+      "Dimanche": "25 € le couple, 34 € l'homme seul",
+      "Mercredi après-midi": "20 € pour tous",
+      "Après-midi dès 17h15": "30 € pour tous",
+      "Tom et Jules (hommes)": "18 € consommations comprises, 14 € de 18h à 19h et pour les moins de 24 ans"
+    },
+    "note": "Derniers tarifs publiés par le club, en avril 2016, conservés pour mémoire.",
+    "confidence": "source_unique",
+    "sources": [
+      "s8"
+    ]
+  },
+  "equipements": [
+    "Sauna",
+    "Hammam de 9 m² en mosaïque",
+    "Jacuzzi",
+    "Piste de danse avec cage d'exhibition",
+    "Coins câlins",
+    "Cabines de repos",
+    "Chambre avec lit à eau",
+    "Salle SM avec sling",
+    "Salon vidéo",
+    "Bar sans alcool",
+    "Parking privé gratuit"
+  ],
+  "officialLinks": [
+    {
+      "label": "Site officiel, dernière archive (11 avril 2016)",
+      "url": "https://web.archive.org/web/20160411105943/http://plaisirsdo.ex-flash.com/",
+      "kind": "site"
+    },
+    {
+      "label": "plaisirsdo.fr, archive d'octobre 2007",
+      "url": "https://web.archive.org/web/20071012160109/http://www.plaisirsdo.fr/accueil/index.html?page=1",
+      "kind": "autre"
+    },
+    {
+      "label": "Tom et Jules, archive de septembre 2006",
+      "url": "https://web.archive.org/web/20060901020749/http://www.tometjules.com:80/votresexclub.htm",
+      "kind": "autre"
+    }
+  ],
+  "corrections": {
+    "site_web": "https://web.archive.org/web/20160411105943/http://plaisirsdo.ex-flash.com/",
+    "sources": [
+      "s8",
+      "s9",
+      "s13"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Plaisirs d'O à La Rochelle est-il encore ouvert ?",
+      "answer": "Non. Son dernier agenda date d'avril 2016, et la société qui l'exploitait avec Tom et Jules a été dissoute au 1er janvier 2018. Les numéros et horaires encore relayés par des annuaires datent de l'époque du club, et plaisirsdo.fr n'est plus son site."
+    },
+    {
+      "question": "Quelle différence entre Plaisirs d'O et Tom et Jules ?",
+      "answer": "Deux clubs à la même adresse, exploités par la même société. Plaisirs d'O accueillait le libertinage mixte et couples. Tom et Jules servait en 2007 de second espace réservé aux couples le samedi soir ; de 2010 à 2016, c'était le sauna gay, réservé aux hommes certains après-midi."
+    },
+    {
+      "question": "Où rencontrer des couples libertins à La Rochelle depuis la fermeture ?",
+      "answer": "Le QG Sauna et L'Atlantis annoncent des soirées mixtes. Pour faire connaissance avant de sortir, Carré Libertin, en ligne depuis 2007, accorde [un accès intégral aux couples qui publient trois photos](aff:carre-libertin), sans abonnement."
+    },
+    {
+      "question": "Cette page concerne-t-elle le Plaisir Club près de Rennes ?",
+      "answer": "Non. Le Plaisir Club est à Bréal-sous-Montfort : [voir la fiche de ce club d'Ille-et-Vilaine](/le-plaisir-club-breal-sous-monfort)."
+    }
+  ],
+  "unverified": [
+    "La date exacte de la dernière ouverture : aucune trace entre mai 2016 et la dissolution de la société au 1er janvier 2018.",
+    "Le contenu de plaisirsdo.web-reseau.fr, vers lequel renvoyaient plaisirsdo.net et tometjules.com en 2016 : aucune archive ni réponse du serveur.",
+    "La date d'ouverture du sauna : une page de 2007 évoque un « 2e anniversaire » fêté un 21 juillet, sans année ni club précisés.",
+    "Le lien entre la SARL Le Chef de Baie (2001-2006) et le sauna du même nom, déduit du nom et de l'adresse.",
+    "L'état de la fiche Google du lieu et d'éventuelles pages Facebook, non consultés.",
+    "Un éventuel article de la presse locale (Sud Ouest) sur la fermeture, non recherché à ce stade.",
+    "Ce que sont devenus les locaux du 2 boulevard Aristide-Rondeau."
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Plaisirs d'O, site officiel, page d'avertissement (archive du 12/10/2007)",
+      "url": "https://web.archive.org/web/20071012154908/http://www.plaisirsdo.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s2",
+      "label": "Plaisirs d'O, site officiel, page « Accueil » (archive du 12/10/2007)",
+      "url": "https://web.archive.org/web/20071012160109/http://www.plaisirsdo.fr/accueil/index.html?page=1",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s3",
+      "label": "Plaisirs d'O, site officiel, page « Visite guidée » (archive du 23/10/2007)",
+      "url": "https://web.archive.org/web/20071023214538/http://www.plaisirsdo.fr:80/accueil/index.html?page=2",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s4",
+      "label": "Plaisirs d'O, site officiel, page « Les soirées » (archive du 12/10/2007)",
+      "url": "https://web.archive.org/web/20071012160418/http://www.plaisirsdo.fr/accueil/index.html?page=3",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s5",
+      "label": "Plaisirs d'O, site officiel, page « Contact, Tarifs et Horaires » (archive du 12/10/2007)",
+      "url": "https://web.archive.org/web/20071012155623/http://www.plaisirsdo.fr/accueil/index.html?page=5",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s6",
+      "label": "Plaisirs d'O, site officiel plaisirsdo.ex-flash.com (archive du 28/07/2010)",
+      "url": "https://web.archive.org/web/20100728042856/http://plaisirsdo.ex-flash.com/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s7",
+      "label": "Plaisirs d'O, site officiel plaisirsdo.ex-flash.com (archive du 27/07/2013)",
+      "url": "https://web.archive.org/web/20130727095343/http://plaisirsdo.ex-flash.com/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s8",
+      "label": "Plaisirs d'O, site officiel plaisirsdo.ex-flash.com (archive du 11/04/2016, dernière capture valide)",
+      "url": "https://web.archive.org/web/20160411105943/http://plaisirsdo.ex-flash.com/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s9",
+      "label": "Wayback Machine, historique des captures de plaisirsdo.fr, plaisirsdo.ex-flash.com, tometjules.com, plaisirsdo.net et escale-balneo.fr",
+      "url": "https://web.archive.org/cdx/search/cdx?url=plaisirsdo.fr&fl=timestamp,statuscode&collapse=timestamp:6",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s10",
+      "label": "Tom et Jules, site officiel, page « Votre sexclub » (archive du 01/09/2006)",
+      "url": "https://web.archive.org/web/20060901020749/http://www.tometjules.com:80/votresexclub.htm",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s11",
+      "label": "Tom et Jules, site officiel, page « Soirées » (archive du 09/02/2007)",
+      "url": "https://web.archive.org/web/20070209094246/http://www.tometjules.com:80/soirees.htm",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s12",
+      "label": "Tom et Jules, site officiel, page d'entrée (archive du 16/07/2006)",
+      "url": "https://web.archive.org/web/20060716082415/http://www.tometjules.com:80/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s13",
+      "label": "Vérification technique de plaisirsdo.fr, tometjules.com, plaisirsdo.net et plaisirsdo.ex-flash.com (octobre 2026)",
+      "url": "https://www.plaisirsdo.fr/",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s14",
+      "label": "Annuaire des entreprises, TARAR (SIREN 488 482 746)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/488482746",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s15",
+      "label": "BODACC, annonces publiées pour TARAR",
+      "url": "https://bodacc-datadila.opendatasoft.com/api/explore/v2.1/catalog/datasets/annonces-commerciales/records?where=registre%20like%20%22488482746%22",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s16",
+      "label": "Société.com, établissement TOM & JULES - PLAISIRSDO (TARAR)",
+      "url": "https://www.societe.com/etablissement/tom-jules-plaisirsdo-48848274600010.html",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s17",
+      "label": "Annuaire des entreprises, LE CHEF DE BAIE (SIREN 434 214 805)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/434214805",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s18",
+      "label": "Recherche d'entreprises, établissements domiciliés au 313 avenue Jean-Guiton, La Rochelle",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=313%20avenue%20jean%20guiton&code_postal=17000",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s20",
+      "label": "Petit Futé, fiche « Tom et Jules »",
+      "url": "https://www.petitfute.com/v31851-la-rochelle-17000/c1074-beaute-bien-etre/c1064-detente-forme/c486-hammam/492377-tom-et-jules.html",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s21",
+      "label": "Saunas4men, fiche « Tom & Jules »",
+      "url": "https://saunas4men.com/en/france/la-rochelle/tom-et-jules",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s22",
+      "label": "misterb&b, fiche « Tom et Jules / Plaisir d'Ô » (extrait de recherche, page en 403)",
+      "url": "https://www.misterbandb.com/gay-guide/france/la-rochelle/58-saunas-cruising/13957-tom-et-jules-plaisir-d-o",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s23",
+      "label": "Koifaire, fiche « Plaisirs D'o »",
+      "url": "https://www.koifaire.com/poitou-charentes/plaisirs,d,o-15095.html",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s24",
+      "label": "Justacoté, fiches « Plaisirs D O » et « Tom Et Jules » (extraits de recherche)",
+      "url": "https://www.justacote.com/la-rochelle-17000/bain-sauna-hammam/tom-et-jules-632429.htm",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s25",
+      "label": "L'Atlantis, site officiel (horaires, tarifs, accès)",
+      "url": "https://www.sauna-atlantis.com/la-rochelle/horaires-tarifs/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s26",
+      "label": "Le QG Sauna, site officiel",
+      "url": "https://qgsauna.com/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s27",
+      "label": "Annuaire des entreprises, L'ATLANTIS 17 (SIREN 537 471 369) et RJJ SERVICES, enseigne QG SAUNA (SIREN 104 049 713)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/537471369",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    }
+  ]
+}
