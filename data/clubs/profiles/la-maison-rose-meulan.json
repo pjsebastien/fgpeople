@@ -1,7 +1,7 @@
 {
   "slug": "la-maison-rose-meulan",
   "clubId": "15191",
-  "researchedAt": "2026-10-19",
+  "researchedAt": "2026-10-20",
   "display": {
     "nom": "La Maison Rose",
     "ville": "Meulan-en-Yvelines"
@@ -574,7 +574,7 @@
         },
         {
           "kind": "text",
-          "body": "Nous n'avons trouvé aucune note publique sur le club, mais Google n'a pas pu être consulté. Sur l'annuaire club-echangiste.net, les seuls messages sont des questions d'internautes, sans réponse ni note."
+          "body": "Nos recherches d'octobre 2026 n'ont fait remonter aucune note publique lisible sur le club ; sa fiche Google Maps, si elle existe encore, n'a pas pu être consultée directement. Sur l'annuaire club-echangiste.net, les seuls messages sont des questions d'internautes, sans réponse ni note."
         }
       ],
       "sources": [
@@ -585,9 +585,9 @@
     },
     {
       "id": "vip-lounge-2022",
-      "title": "VIP Lounge depuis août 2022 : un club dancing sans lien juridique avec La Maison Rose",
+      "title": "VIP Lounge : des soirées clubbing et afro annoncées de mars 2023 à février 2024",
       "icon": "building",
-      "summary": "Depuis août 2022, l'adresse est celle de VIP Lounge, société de bar et de club dancing sans lien juridique avec le club, en liquidation depuis septembre 2025.",
+      "summary": "Depuis 2022, l'adresse est celle de VIP Lounge, bar et club dancing sans lien juridique avec le club : soirées clubbing annoncées en 2023-2024, liquidation en septembre 2025.",
       "blocks": [
         {
           "kind": "text",
@@ -597,9 +597,10 @@
           "kind": "list",
           "items": [
             "**Activité déclarée** : bar, club dancing, événements, location de salles ; son objet ne mentionne aucune activité libertine.",
-            "**Direction** : son directeur général, une société d'enregistrement sonore et d'édition musicale, exploite l'enseigne « Empire du Kompa ». Nous en déduisons, sans preuve directe, que le lieu a plutôt servi à des soirées musicales.",
-            "**Procédure** : liquidation prononcée le 9 septembre 2025, toujours en cours en juin 2026.",
-            "**Au registre** : en octobre 2026, son établissement figure encore comme ouvert. Cela ne dit pas si le local reçoit du public, ce que nous ignorons."
+            "**Soirées** : sur la billetterie Bizouk, le lieu annonçait son ouverture le vendredi 31 mars 2023, des soirées R&B, hip-hop et afro en janvier 2024, puis une soirée clubbing avec trois DJ le 9 février 2024, la plus récente que nous ayons trouvée. Aucune de ces annonces ne mentionne d'activité libertine.",
+            "**Direction** : son directeur général, une société d'enregistrement sonore et d'édition musicale, exploite l'enseigne « Empire du Kompa ».",
+            "**Procédure** : le tribunal a fixé la cessation des paiements au 9 mars 2024, un mois après cette soirée, puis prononcé la liquidation le 9 septembre 2025, toujours en cours en juin 2026.",
+            "**Aujourd'hui** : en octobre 2026, le registre donne encore l'établissement pour ouvert, mais PagesJaunes le dit « probablement fermé définitivement » et l'agrégateur Restaurant Guru, « temporairement fermé ». Nous ignorons si le local reçoit du public."
           ]
         }
       ],
@@ -610,7 +611,12 @@
         "s12",
         "s13",
         "s14",
-        "s22"
+        "s22",
+        "s50",
+        "s51",
+        "s52",
+        "s53",
+        "s54"
       ]
     },
     {
@@ -673,7 +679,7 @@
           "items": [
             "**Un immeuble mixte** : le n° 2 abrite au moins un logement, deux holdings et une entreprise individuelle de débit de boissons enregistrée depuis 2001. Rien ne prouve que toutes ces sociétés aient occupé la même salle.",
             "**Pink Club** : son début d'activité déclaré, le 9 mars 2013, coïncide avec l'ouverture de La Maison Rose ; aucun document ne dit pour autant que cette société a exploité le club.",
-            "**Le VIP** : en 2012, un blog libertin affirmait qu'un club nommé le VIP avait occupé cette adresse. Le Parisien présentait au contraire La Maison Rose comme le premier club échangiste du département ; nous n'avons trouvé aucune autre trace du VIP."
+            "**Le VIP** : un blog libertin de 2012 présentait le VIP, installé auparavant à cette adresse, comme le seul club libertin des Yvelines. Un guide des sorties décrivait pourtant « Le Vip Pub », à la même adresse en novembre 2011, comme une discothèque et « club privé branché » ouverte le vendredi, le samedi et les veilles de jours fériés, sans rien de libertin. Cela rejoint Le Parisien, qui parlait en 2013 d'une ancienne discothèque."
           ]
         }
       ],
@@ -692,7 +698,8 @@
         "s22",
         "s25",
         "s26",
-        "s28"
+        "s28",
+        "s49"
       ]
     }
   ],
@@ -761,7 +768,7 @@
   "faq": [
     {
       "question": "La Maison Rose à Meulan est-elle encore ouverte ?",
-      "answer": "Non. Le dernier programme publié sur son site menait à une soirée Halloween, le 31 octobre 2016, et son exploitant a été liquidé le 30 mai 2017. Aucune source consultée ne signale de réouverture, sous ce nom ou sous un autre. Depuis 2022, l'adresse est celle d'une autre société, de bar et de club dancing, elle-même en liquidation depuis septembre 2025."
+      "answer": "Non. Le dernier programme publié sur son site menait à une soirée Halloween, le 31 octobre 2016, et son exploitant a été liquidé le 30 mai 2017. Aucune source consultée ne signale de réouverture, sous ce nom ou sous un autre. Depuis 2022, l'adresse est celle d'une autre société, de bar et de club dancing, sans activité libertine connue, dont la dernière soirée annoncée que nous ayons trouvée date de février 2024 et qui est en liquidation depuis septembre 2025."
     },
     {
       "question": "Existe-t-il un autre club libertin dans les Yvelines ?",
@@ -787,10 +794,10 @@
   "unverified": [
     "La date de la dernière soirée réellement tenue : le dernier programme publié s'arrête au 31 octobre 2016, et la cessation des paiements est fixée au 20 décembre 2016.",
     "Le rôle de la SARL Pink Club, dont le début d'activité déclaré coïncide avec l'ouverture du 9 mars 2013.",
-    "L'existence d'un club nommé le VIP à la même adresse avant 2012, affirmée par un blog et contredite par Le Parisien.",
-    "D'éventuels avis Google sur le club, et la mention « définitivement fermé » sur les cartes en ligne.",
-    "La présence d'autres lieux libertins dans les Yvelines : un annuaire n'en recensait aucun en août 2026, mais la presse locale reste à consulter.",
-    "L'usage actuel du local depuis la liquidation de VIP Lounge en septembre 2025.",
+    "Le caractère libertin du VIP qui a précédé le club à cette adresse, affirmé par un blog de 2012, alors qu'un guide des sorties présentait « Le Vip Pub » en 2011 comme une discothèque.",
+    "La fiche Google Maps du club, sa note et une éventuelle mention « définitivement fermé » : nos recherches du 20 octobre 2026 n'en ont fait remonter aucune.",
+    "Un article de presse locale sur la fin du club : seul l'article du Parisien de mars 2013 a été trouvé, et les sites du Parisien et d'actu.fr n'ont pas pu être interrogés directement.",
+    "L'usage actuel du local : nous n'avons trouvé aucune soirée de VIP Lounge annoncée après février 2024 et deux annuaires le disent fermé, mais le registre le donne encore ouvert.",
     "L'attribution actuelle du téléphone et de l'adresse e-mail publiés en 2013."
   ],
   "sources": [
@@ -1129,6 +1136,48 @@
       "url": "https://web.archive.org/web/20150210222827/http://www.maisonroseclub.fr/horaires-tarifs/",
       "type": "officiel",
       "consulted": "2026-10-19"
+    },
+    {
+      "id": "s49",
+      "label": "Guide de Nuit, fiche « Le Vip Pub », discothèque au 2 rue Gustave Ravanne (archive du 15/11/2011)",
+      "url": "https://web.archive.org/web/20111115153721/http://www.guidedenuit.com/discotheques_yvelines/vip-pub",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s50",
+      "label": "Bizouk, soirée « Chill and Swag » du 31/03/2023 : ouverture annoncée du VIP Lounge",
+      "url": "https://www.bizouk.com/events/details/chill-and-swag/56851",
+      "type": "autre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s51",
+      "label": "Bizouk, « La Luxure Party » au VIP Lounge, vendredi 5 janvier 2024 (R&B, hip-hop, afro)",
+      "url": "https://www.bizouk.com/events/details/la-luxure-party/74608",
+      "type": "autre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s52",
+      "label": "Bizouk, « Sa Ka Fèt Party » au VIP Lounge, vendredi 9 février 2024",
+      "url": "https://www.bizouk.com/events/details/sa-ka-fet-party/74860",
+      "type": "autre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s53",
+      "label": "PagesJaunes, fiche « Vip Lounge » à Meulan-en-Yvelines : « probablement fermé définitivement »",
+      "url": "https://www.pagesjaunes.fr/pros/63082279",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s54",
+      "label": "Restaurant Guru, fiche « Vip Lounge » à Meulan-en-Yvelines : « temporarily closed »",
+      "url": "https://restaurantguru.com/vip-pub-Meulan-en-Yvelines",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
     }
   ]
 }

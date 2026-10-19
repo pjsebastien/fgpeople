@@ -7,5 +7,7 @@
     "club-3d-la-ville-aux-bois-les-pontavert",
     "l-entre-2-moulins"
   ],
-  "status": "todo"
+  "status": "rejected",
+  "reason": "Hors périmètre depuis le 1er octobre 2026 : le Must Club (10 rue Landouzy, 51100 Reims ; société R.D.C., SIREN 533 233 466, active, enseigne « LE MUST », NAF 56.30Z) a mis fin à sa soirée libertine du samedi. Sur le site officiel lu le 20/10/2026, l'accueil (modifié le 04/10/2026 selon l'API WordPress du site) annonce : « À partir du 1er octobre, Le Must Club ferme ses portes aux libertins le samedi ». Le lien vers la page « Club libertin » a disparu du menu. La FAQ, modifiée le même jour, donne désormais « ouvert du dimanche au vendredi, de 20h à 07h » et ne mentionne plus de tarifs libertins. L'année se déduit des archives : en juin 2026 (capture Wayback du 13/06/2026), l'accueil affichait encore « Un club, deux ambiances » avec un lien vers le club libertin, et la FAQ archivée en juillet 2024 réservait le samedi à la clientèle libertine. La page « Club libertin » (samedi 23h-7h, sauna, hammam) reste en ligne, mais elle n'est plus liée et date du 30/06/2026. Il ne reste qu'un night club à hôtesses (page « Night club » : entrée 20 € avec une consommation ; « Club à hôtesses » dans la FAQ ; « bar à hôtesses » selon Petit Futé), hors périmètre. Les résultats de recherche qui décrivent encore le samedi libertin reprennent des versions antérieures au 04/10/2026. À requalifier si les soirées libertines reprennent. Note pour la file : data/clubs/candidates/must--reims-10-rue-landouzy.json porte sur le même lieu (même URL) ; vérifié le 2026-10-20.",
+  "qualifiedAt": "2026-10-20"
 }

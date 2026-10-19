@@ -1,7 +1,7 @@
 {
   "slug": "l-anastasia-beziers",
   "clubId": "15260",
-  "researchedAt": "2026-10-19",
+  "researchedAt": "2026-10-20",
   "display": { "nom": "L'Anastasia", "ville": "Béziers" },
   "status": {
     "value": "ferme",
@@ -36,7 +36,7 @@
     "L'Anastasia n'existe plus : dernière soirée datée le 9 août 2014, établissement fermé au registre le 15 décembre 2014.",
     "L'ancien portable et le site club-anastasia.fr, encore recopiés par des annuaires, ne mènent plus au club ; le domaine n'est plus enregistré en 2026.",
     "Au 7 montée des Noyers, vous trouverez en octobre 2026 Le Relax Club, bar-restaurant avec terrasse et château gonflable pour enfants : pas un club libertin.",
-    "Des annuaires libertins ont signalé à la même adresse un club « L'Orchidée » ; aucune preuve d'activité récente n'a été trouvée pour cette fiche.",
+    "Des annuaires citent encore à cette adresse le club L'Orchidée : son site, toujours en ligne, n'annonce aucune soirée datée.",
     "Ouverts au 19 octobre 2026 : L'Extasia à Pinet, réservé aux couples (Halloween le 31 octobre), et Histoires d'Ô au Cap d'Agde, avec sauna et hammam."
   ],
   "keyFacts": [
@@ -110,7 +110,7 @@
       "blocks": [
         {
           "kind": "text",
-          "body": "Aucune annonce de fermeture ne figure dans les archives du site, et la page Facebook du club n'est pas lisible sans compte. Trois séries de traces datent la fin :\n\n- **Le programme s'arrête en août 2014** : soirée féline le samedi 12 juillet, soirée tahitienne le samedi 9 août. Sur les captures d'octobre et de décembre, plus aucune date.\n- **Le registre clôt l'unique établissement de la société exploitante (SIREN 792612855) le 15 décembre 2014.** Le BODACC publie sa cessation d'activité le 30 novembre 2017.\n- **Le site disparaît en 2015.** Le domaine renvoie ensuite vers des sites de rencontres, puis, de septembre 2024 à mars 2025, vers un site pornographique. Il n'est plus enregistré en octobre 2026.\n\nLa dernière soirée a donc eu lieu entre le 9 août et le 15 décembre 2014, à une date inconnue."
+          "body": "Aucune annonce de fermeture ne figure dans les archives du site ni dans la presse retrouvée, et la page Facebook du club n'est pas lisible sans compte. Trois séries de traces datent la fin :\n\n- **Le programme s'arrête en août 2014** : soirée féline le samedi 12 juillet, soirée tahitienne le samedi 9 août. Sur les captures d'octobre et de décembre, plus aucune date.\n- **Le registre clôt l'unique établissement de la société exploitante (SIREN 792612855) le 15 décembre 2014.** Le BODACC publie sa cessation d'activité le 30 novembre 2017.\n- **Le site disparaît en 2015.** Le domaine renvoie ensuite vers des sites de rencontres, puis, de septembre 2024 à mars 2025, vers un site pornographique. Il n'est plus enregistré en octobre 2026.\n\nLa dernière soirée a donc eu lieu entre le 9 août et le 15 décembre 2014, à une date inconnue."
         },
         {
           "kind": "callout",
@@ -119,7 +119,7 @@
           "body": "L'annuaire sauna-club-libertin.com présente toujours L'Anastasia sans mention de fermeture (consulté le 16 octobre 2026), avec son ancien numéro de portable et son ancien site. Ces coordonnées de 2013-2014 ne mènent plus au club : nous les avons retirées de cette fiche."
         }
       ],
-      "sources": ["s25", "s11", "s14", "s15", "s12", "s13", "s10", "s22"]
+      "sources": ["s25", "s11", "s14", "s15", "s12", "s13", "s10", "s22", "s44"]
     },
     {
       "id": "ouverts-pres-de-beziers",
@@ -155,14 +155,14 @@
       "id": "a-beziers-h2o-envie-berlioz",
       "title": "À Béziers même, un seul lieu ouvert vérifié : H2O, sauna gay de l'avenue Gambetta",
       "icon": "info",
-      "summary": "H2O, sauna gay près de la gare, fête ses 13 ans le 7 novembre 2026. L'activité de L'Envie, rue du Midi, n'est pas vérifiée ; l'exploitant de Berlioz Sauna est cessé au registre.",
+      "summary": "H2O, sauna gay près de la gare, fête ses 13 ans le 7 novembre 2026. L'ex-Envie, rue du Midi, devenu Le LibertiX, affiche « club fermé » ; l'exploitant de Berlioz Sauna est cessé.",
       "blocks": [
         {
           "kind": "text",
-          "body": "Le seul lieu de la ville dont nous avons vérifié l'activité en octobre 2026 ne vise pas le public de L'Anastasia : **H2O Sauna**, au 44 avenue Gambetta, se présente comme un sauna « 100 % gay » de 350 m² avec jacuzzi, hammam, cabines et bar.\n\nSelon son site, il ouvre tous les jours à midi, jusqu'à 19 h 30 du lundi au mercredi, 1 h du jeudi au samedi et 23 h le dimanche ; l'entrée coûte 18 € l'après-midi, moins le soir. Il fête ses 13 ans le samedi 7 novembre 2026, et sa société exploitante est active au registre depuis décembre 2012.\n\nLes deux autres adresses biterroises que recense sauna-club-libertin.com restent sans preuve d'activité :\n\n- [L'Envie, au 42 rue du Midi](/l-envie-beziers), présenté comme club sauna libertin ; la société qui porte l'enseigne est active au registre depuis février 2014, mais son site n'affichait rien sur le club le 16 octobre 2026.\n- [Berlioz Sauna](/berlioz-sauna-beziers), un sauna gay : l'entreprise qui l'exploitait est cessée au registre et n'y compte plus aucun établissement ouvert (relevé du 19 octobre 2026).\n\n[La page consacrée à Béziers](/ville/beziers) et [celle de l'Hérault](/departement/herault) regroupent les autres lieux de notre annuaire.\n\nFaute de club pour couples dont l'activité soit établie dans la ville même, un couple ou une femme peut aussi [chercher des partenaires du Biterrois sur Carré Libertin](aff:carre-libertin) : ce site né en 2007 leur ouvre toutes ses fonctions sans payer, une fois trois photos ajoutées à leur profil."
+          "body": "Le seul lieu de la ville dont nous avons vérifié l'activité en octobre 2026 ne vise pas le public de L'Anastasia : **H2O Sauna**, au 44 avenue Gambetta, se présente comme un sauna « 100 % gay » de 350 m² avec jacuzzi, hammam, cabines et bar.\n\nSelon son site, il ouvre tous les jours à midi, jusqu'à 19 h 30 du lundi au mercredi, 1 h du jeudi au samedi et 23 h le dimanche ; l'entrée coûte 18 € l'après-midi, moins le soir. Il fête ses 13 ans le samedi 7 novembre 2026, et sa société exploitante est active au registre depuis décembre 2012.\n\nRestent deux adresses que recense sauna-club-libertin.com, ni l'une ni l'autre ouverte à notre connaissance :\n\n- [L'Envie, au 42 rue du Midi](/l-envie-beziers), sauna libertin : après la liquidation judiciaire de sa société en juillet 2024, le fonds a été racheté en juillet 2025 par une SARL, Le LibertiX, dont le site affiche le 20 octobre 2026 « Club fermé » chaque jour, sans dire jusqu'à quand.\n- [Berlioz Sauna](/berlioz-sauna-beziers), un sauna gay : l'entreprise qui l'exploitait est cessée au registre et n'y compte plus aucun établissement ouvert (relevé du 19 octobre 2026).\n\n[La page consacrée à Béziers](/ville/beziers) et [celle de l'Hérault](/departement/herault) regroupent les autres lieux de notre annuaire.\n\nFaute de club pour couples dont l'activité soit établie dans la ville même, un couple ou une femme peut aussi [chercher des partenaires du Biterrois sur Carré Libertin](aff:carre-libertin) : ce site né en 2007 leur ouvre toutes ses fonctions sans payer, une fois trois photos ajoutées à leur profil."
         }
       ],
-      "sources": ["s36", "s37", "s22", "s23", "s24", "s39"]
+      "sources": ["s36", "s37", "s22", "s23", "s24", "s49", "s50", "s51", "s39"]
     },
     {
       "id": "jacuzzis-hammam-gloryhole",
@@ -188,7 +188,7 @@
         },
         {
           "kind": "text",
-          "body": "Côté règles : tenue correcte exigée, et pas de pantalon pour les femmes, invitées à venir en robe, jupe et talons. L'équipe signait « Harley et Johnny ». Les cinq messages du livre d'or, publiés par le club lui-même, datent tous de juin à août 2013 et l'un d'eux relève « le peu de monde » fin juillet. Aucune note Google n'a pu être relevée."
+          "body": "Côté règles : tenue correcte exigée, et pas de pantalon pour les femmes, invitées à venir en robe, jupe et talons. L'équipe signait « Harley et Johnny »."
         }
       ],
       "sources": ["s1", "s5", "s8", "s11", "s26", "s22"]
@@ -207,10 +207,23 @@
       "sources": ["s2", "s3", "s4", "s6", "s7"]
     },
     {
+      "id": "midi-libre-juin-2014",
+      "title": "Un strip-tease dans Midi Libre en juin 2014, un avis sévère sur un annuaire en juillet",
+      "icon": "star",
+      "summary": "Le 22 juin 2014, Midi Libre ouvre un reportage sur la piste de L'Anastasia ; le 16 juillet, un client juge en ligne la musique et les thèmes de soirée démodés.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le seul regard de presse retrouvé sur le club date de juin 2014. Midi Libre publie alors une série « Libertinage » en trois volets, dont deux titrés « Béziers libertine » ; le dernier, paru le 22 juin, s'ouvre sur la piste de L'Anastasia pendant un numéro de strip-tease.\n\nLe journal y suit un couple d'habitués venu de Leucate, dans l'Aude, qui dit trouver peu d'équivalents près de chez lui. La veille, le volet consacré au sauna L'Envie rappelait en légende qu'une soirée strip-tease venait d'avoir lieu à L'Anastasia. Aucun article sur l'ouverture ou la fermeture du club n'a été trouvé.\n\nLe livre d'or du site ne compte que cinq messages, tous de juin à août 2013 et publiés par le club lui-même ; l'un relève « le peu de monde » fin juillet. Aucune note Google n'a pu être relevée.\n\nLe seul avis indépendant retrouvé, posté le 16 juillet 2014 sur l'annuaire clubech.fr, est sévère : musique du DJ et thèmes de soirée jugés démodés, et un forum du site qui, selon son auteur, ne publiait que les messages favorables."
+        }
+      ],
+      "sources": ["s44", "s45", "s5", "s40"]
+    },
+    {
       "id": "montee-des-noyers",
       "title": "Au 7 bis montée des Noyers, du Feeling de 2005 au Relax Club de 2026",
       "icon": "building",
-      "summary": "Avant le club, un fonds de discothèque, bar et hôtel ; après lui, une discothèque, une société de sauna citée comme club « L'Orchidée », puis en 2026 un bar-restaurant familial.",
+      "summary": "Avant le club, un fonds de discothèque, bar et hôtel ; après lui, les sociétés Katimini et Lor'chidée, puis en 2026 un bar-restaurant familial sans rien de libertin.",
       "blocks": [
         {
           "kind": "text",
@@ -219,21 +232,34 @@
         {
           "kind": "timeline",
           "items": [
-            { "date": "2005-2012", "text": "Une SARL exploite à la montée des Noyers un établissement de restauration à l'enseigne Le Feeling, liquidé en juillet 2012." },
+            { "date": "2005-2012", "text": "Une SARL exploite à la montée des Noyers un établissement à l'enseigne Le Feeling, liquidé en juillet 2012." },
             { "date": "Décembre 2012", "text": "Une autre SARL Le Feeling rachète le fonds (discothèque, sauna, hôtel, licence IV) pour 25 000 € ; elle ferme le 30 avril 2013." },
             { "date": "Mars-mai 2013", "text": "La société de L'Anastasia démarre le 27 mars ; l'ouverture est annoncée sur le site, capturé le 8 mai." },
             { "date": "Décembre 2014", "text": "Le registre ferme l'établissement de L'Anastasia le 15 décembre." },
-            { "date": "2015-2018", "text": "Une SAS Katimini y déclare une activité de discothèque et chambres d'hôtes ; elle est radiée en mars 2018." },
-            { "date": "Depuis 2016", "text": "Une SAS Lor'chidée y est inscrite pour un établissement de bains, sauna et hammam ; elle reste active au registre." },
+            { "date": "2015-2018", "text": "Une SAS Katimini y déclare en septembre 2015 une activité de discothèque et chambres d'hôtes ; elle est radiée en mars 2018." },
+            { "date": "Depuis 2016", "text": "Une SAS Lor'chidée s'y inscrit en novembre 2016 pour un établissement de bains, sauna et hammam ; elle reste active au registre." },
             { "date": "Juillet 2026", "text": "Le Relax Club, une SARL de restaurant-bar avec animations musicales et danse, s'y immatricule ; activité déclarée à partir du 9 septembre." }
           ]
         },
         {
           "kind": "text",
-          "body": "Aucune de ces sociétés n'a de lien connu avec L'Anastasia autre que l'adresse. Pour Le Feeling et Katimini, rien n'indique un caractère libertin.\n\nLor'chidée est un cas à part : des annuaires libertins ont présenté au « 7 la montée des Noyers » un club nommé L'Orchidée ou L'Or Chidée. Ils se contredisent sur sa survie : un guide du site Radio-libertine, estampillé 2022, le dit fermé, tandis que minuitlibertin.com affichait encore des tarifs relevés le 29 juin 2025. Aucune page officielle active ni soirée datée récente n'a été trouvée pour cette fiche.\n\nEn octobre 2026, c'est Le Relax Club qui occupe l'adresse : son site présente un bar-restaurant du midi au soir, avec billard, soirées DJ le vendredi et le samedi, terrasse et château gonflable pour les enfants. Une soirée salsa, bachata et kizomba y est annoncée chaque mercredi jusqu'au 24 décembre 2026. Rien de libertin."
+          "body": "Aucune de ces sociétés n'a de lien connu avec L'Anastasia autre que l'adresse : chacune a son propre numéro au registre.\n\nEn octobre 2026, c'est Le Relax Club qui occupe l'adresse : son site présente un bar-restaurant du midi au soir, avec billard, soirées DJ le vendredi et le samedi, terrasse et château gonflable pour les enfants. Une soirée salsa, bachata et kizomba y est annoncée chaque mercredi jusqu'au 24 décembre 2026. Rien de libertin."
         }
       ],
-      "sources": ["s15", "s16", "s17", "s18", "s19", "s20", "s21", "s1", "s14", "s27", "s28", "s29", "s30"]
+      "sources": ["s15", "s16", "s17", "s18", "s19", "s20", "s21", "s1", "s14", "s27", "s28"]
+    },
+    {
+      "id": "katimini-orchidee",
+      "title": "Après L'Anastasia, le Katimini Club en 2016, puis L'Orchidée et son site resté sans date",
+      "icon": "history",
+      "summary": "Les annuaires libertins font du 7 bis une suite de clubs : Le Feeling, L'Anastasia, le Katimini Club en 2016, puis L'Orchidée, dont le site en ligne n'affiche aucune date.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Les annuaires libertins décrivent une succession de clubs à l'adresse. Sur clubech.fr, la même fiche a porté trois noms :\n\n- **juillet 2014** : L'Anastasia, « ancien Le Feeling », ouvert le vendredi et le samedi soir ;\n- **2016** : le Katimini Club, « ex Anastasia », avec un jeudi soir LGBT, un vendredi mixte, un samedi pour couples et un dimanche en journée ;\n- **2019 à 2021** : Lor'Chidée, en soirées mixtes le vendredi et le samedi.\n\nCes annuaires sont des sources faibles. Une autre liste de lieux libertins, datée de novembre 2010, recensait déjà Le Feeling au 7 bis.\n\nL'Orchidée garde un site en ligne, archivé dès novembre 2016, mais sans date ni soirée annoncée : sa grille (vendredi mixte, samedi réservé aux couples) n'a pas changé depuis décembre 2024 au moins. Les annuaires se contredisent : fermé selon un guide de Radio-libertine estampillé 2022, encore tarifé le 29 juin 2025 selon minuitlibertin.com."
+        }
+      ],
+      "sources": ["s40", "s41", "s42", "s43", "s47", "s19", "s29", "s30"]
     }
   ],
   "horaires": {
@@ -297,12 +323,16 @@
       "answer": "Non. Sa dernière soirée annoncée date du samedi 9 août 2014 et son établissement est fermé au registre des entreprises depuis le 15 décembre 2014."
     },
     {
-      "question": "Reste-t-il un club libertin ou échangiste à Béziers ?",
-      "answer": "Dans la ville même, les annuaires citent encore L'Envie, rue du Midi, sans que nous ayons pu vérifier qu'il reçoit toujours : appelez avant de vous déplacer. Le seul lieu ouvert que nous ayons vérifié à Béziers est un sauna gay, H2O, avenue Gambetta. Hors de Béziers, L'Extasia, discothèque libertine réservée aux couples à Pinet, annonçait le 19 octobre 2026 sa prochaine soirée pour le samedi 31 octobre."
+      "question": "L'Anastasia a-t-il été repris sous un autre nom ?",
+      "answer": "Pas par la même société. Après la fermeture de 2014, les annuaires libertins signalent deux autres clubs au 7 bis montée des Noyers : le Katimini Club, présenté en 2016 comme « ex Anastasia », puis L'Orchidée. La société de L'Anastasia n'y apparaît plus : le registre inscrit ensuite à l'adresse une SAS Katimini (2015-2018), puis la SAS Lor'chidée, créée en novembre 2016. Depuis 2026, l'adresse est celle du Relax Club, un bar-restaurant sans lien avec le libertinage."
     },
     {
-      "question": "Y a-t-il un sauna libertin à Béziers ?",
-      "answer": "L'Anastasia en avait un, avec un hammam et deux jacuzzis, en 2013-2014. Dans la ville, le seul sauna ouvert que nous ayons vérifié en octobre 2026 est un sauna gay : H2O, 44 avenue Gambetta, ouvert tous les jours (18 € l'après-midi, moins cher le soir et pour les moins de 26 ans). Pour les couples et le public mixte, le sauna libertin vérifié le plus proche est hors de la ville : Histoires d'Ô, balnéo-club naturiste du Cap d'Agde, ouvert tous les jours du 17 octobre au 1er novembre 2026 selon son site (couple 45 €, homme seul 65 €). À Béziers, L'Envie est présenté comme club sauna libertin, activité non confirmée pour cette fiche. À l'ancienne adresse, des annuaires libertins ont signalé un club « L'Orchidée », porté par une société inscrite pour des « bains remise en forme sauna hammam » ; ils se contredisent sur son activité et aucune soirée récente n'a été trouvée."
+      "question": "Reste-t-il un club libertin ou échangiste à Béziers ?",
+      "answer": "Dans la ville même, les annuaires citent encore L'Envie, rue du Midi : repris en 2025 par une nouvelle société sous le nom de Sauna Club Le LibertiX, il affiche « Club fermé » sur son site le 20 octobre 2026. Le seul lieu ouvert que nous ayons vérifié à Béziers est un sauna gay, H2O, avenue Gambetta. Hors de Béziers, L'Extasia, discothèque libertine réservée aux couples à Pinet, annonçait le 19 octobre 2026 sa prochaine soirée pour le samedi 31 octobre."
+    },
+    {
+      "question": "Depuis L'Anastasia et ses deux jacuzzis, Béziers a-t-elle encore un sauna libertin ?",
+      "answer": "L'Anastasia en avait un, avec un hammam et deux jacuzzis, en 2013-2014. Dans la ville, le seul sauna ouvert que nous ayons vérifié en octobre 2026 est un sauna gay : H2O, 44 avenue Gambetta, ouvert tous les jours (18 € l'après-midi, moins cher le soir et pour les moins de 26 ans). Pour les couples et le public mixte, le sauna libertin vérifié le plus proche est hors de la ville : Histoires d'Ô, balnéo-club naturiste du Cap d'Agde, ouvert tous les jours du 17 octobre au 1er novembre 2026 selon son site (couple 45 €, homme seul 65 €). Rue du Midi, l'ancien sauna L'Envie, devenu Le LibertiX en 2025, affiche « Club fermé » sur son site le 20 octobre 2026. À l'ancienne adresse de L'Anastasia, L'Orchidée, portée par une société inscrite pour des « bains remise en forme sauna hammam », garde un site en ligne mais sans aucune date, et Le Relax Club occupe les lieux en 2026."
     },
     {
       "question": "Que trouve-t-on aujourd'hui au 7 bis montée des Noyers ?",
@@ -318,9 +348,11 @@
     "Horaires et tarifs du printemps à l'automne 2014 : aucune grille archivée après février 2014.",
     "Existence des salles « Égypte » et « Glamour » et du billard, déduite des seuls noms des photos de la galerie.",
     "Note et nombre d'avis Google : aucun relevé possible.",
-    "Articles de la presse régionale sur l'ouverture ou la fermeture du club : aucun trouvé, recherche à compléter.",
-    "Activité réelle du club « L'Orchidée » (société Lor'chidée) à la même adresse : ouvert, fermé ou remplacé par Le Relax Club ? Les annuaires se contredisent (fermé selon un guide de 2022, tarifs relevés en juin 2025 selon un autre).",
-    "Statut actuel de L'Envie, rue du Midi, non vérifié pour cette fiche ; Berlioz Sauna, rue Berlioz : fermé, ou repris par une autre société ? Le registre donne son exploitant cessé, avec des dates contradictoires.",
+    "Couverture de presse de l'ouverture ou de la fermeture du club : aucune trouvée ; seul un reportage de Midi Libre de juin 2014 le décrit en activité.",
+    "Le Feeling (jusqu'en 2013) et le Katimini Club (vers 2016) étaient-ils des clubs libertins ? Seuls des annuaires l'affirment.",
+    "Activité réelle de L'Orchidée (société Lor'chidée) à la même adresse : son site reste en ligne sans aucune date, les annuaires se contredisent (fermé selon un guide de 2022, tarifs relevés en juin 2025 selon un autre) et Le Relax Club occupe les lieux en 2026.",
+    "Le LibertiX (ex-L'Envie), rue du Midi : fermeture temporaire ou définitive ? Son site affiche « Club fermé » sans date de réouverture.",
+    "Berlioz Sauna, rue Berlioz : fermé, ou repris par une autre société ? Le registre donne son exploitant cessé, avec des dates contradictoires.",
     "Soirs d'ouverture de L'Extasia d'octobre à avril, en dehors des soirées spéciales : son site ne les précise pas."
   ],
   "sources": [
@@ -360,6 +392,16 @@
     { "id": "s35", "label": "Histoires d'Ô Cap d'Agde, site officiel, « Le Balnéo-Club » et « Nos soirées » : espaces, dress code, accès des hommes seuls, agenda daté du 19/10 au 30/11", "url": "https://www.histoiresdo-capdagde.com/fr/balneo-club/", "type": "officiel", "consulted": "2026-10-19" },
     { "id": "s36", "label": "H2O Sauna (Béziers), site officiel : accueil, « Tarifs & Horaires » et soirée des 13 ans le samedi 7 novembre 2026", "url": "https://h2o-sauna.fr/tarifs-horaires/", "type": "officiel", "consulted": "2026-10-19" },
     { "id": "s37", "label": "Annuaire des entreprises : exploitant du H2O, 44 avenue Gambetta à Béziers (SIREN 789601432), actif depuis décembre 2012", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/789601432", "type": "registre", "consulted": "2026-10-19" },
-    { "id": "s39", "label": "Annuaire des entreprises : exploitant de Berlioz Sauna (SIREN 300448339), cessé, aucun établissement ouvert", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/300448339", "type": "registre", "consulted": "2026-10-19" }
+    { "id": "s39", "label": "Annuaire des entreprises : exploitant de Berlioz Sauna (SIREN 300448339), cessé, aucun établissement ouvert", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/300448339", "type": "registre", "consulted": "2026-10-19" },
+    { "id": "s40", "label": "clubech.fr, fiche « L'Anastasia » (archive du 23/07/2014) : « ancien Le Feeling », ouvert le vendredi et le samedi soir, avis d'un client du 16/07/2014", "url": "https://web.archive.org/web/20140723173152/http://www.clubech.fr/anastasia-beziers/", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s41", "label": "clubech.fr, même fiche renommée « Katimini » (archive du 21/02/2016) : « ex Anastasia », jours et publics", "url": "https://web.archive.org/web/20160221160454/http://www.clubech.fr/anastasia-beziers/", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s42", "label": "clubech.fr, même fiche renommée « Lor'Chidée à Béziers » (archive du 15/07/2019, inchangée en septembre 2021)", "url": "https://web.archive.org/web/20190715195816/http://www.clubech.fr/anastasia-beziers/", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s43", "label": "L'Anneau de Justine, « Liste des établissements libertins en France » (novembre 2010) : Le Feeling, 7 bis montée des Noyers", "url": "https://www.anneaudejustine.com/2010/11/liste-des-etablissements-libertins-en-france/", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s44", "label": "Midi Libre, 22/06/2014, « Béziers libertine : quand l'amour se niche au fond des alcôves » (Libertinage 3/3, début de l'article en accès libre)", "url": "https://www.midilibre.fr/2014/06/22/quand-l-amour-se-niche-au-fond-des-alcoves,1012534.php", "type": "presse", "consulted": "2026-10-20" },
+    { "id": "s45", "label": "Midi Libre, 21/06/2014, « Béziers libertine : quand L'Envie dévisse les préjugés » (Libertinage 2/3) : légende sur la soirée strip-tease de L'Anastasia", "url": "https://www.midilibre.fr/2014/06/21/l-envie-devisse-les-prejuges,1012125.php", "type": "presse", "consulted": "2026-10-20" },
+    { "id": "s47", "label": "L'Orchidée (Lor'chidée), site officiel : adresse, réservations, grille non datée du vendredi et du samedi (archivé depuis novembre 2016)", "url": "https://luxurycoon.wixsite.com/lorchidee", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s49", "label": "Sauna Club Le LibertiX (42 rue du Midi), site officiel : « Club fermé » chaque jour, agenda vide", "url": "https://www.libertix.fr/fr/horaires-tarifs/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s50", "label": "Annuaire des entreprises et BODACC : SARL Le LibertiX (SIREN 988783635), rachat du fonds du 42 rue du Midi en liquidation judiciaire (juillet 2025)", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/988783635", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s51", "label": "BODACC : liquidation judiciaire de la société à l'enseigne L'Envie (SIREN 800802407), jugement du 26/07/2024", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/800802407", "type": "registre", "consulted": "2026-10-20" }
   ]
 }

@@ -8,5 +8,8 @@
     "club-30-nimes",
     "le-darjeeling-avignon"
   ],
-  "status": "todo"
+  "status": "added",
+  "slug": "le-diamant-sauve",
+  "reason": "Le lieu (12 impasse des Garennes, 30610 Sauve, ex-La Maison Blanche puis Le Love) a rouvert sous le nom « Le Diamant » le 10/10/2026 : site lediamant-club.com avec agenda daté du 10 au 31/10/2026 ; SASU LE DIAMANT créée le 11/09/2026, nom commercial « LE LOVE », à cette adresse ; lelove.fr en pause (HTTP 503). Absent de la base. Fiche de base créée sous le nom actuel.",
+  "qualifiedAt": "2026-10-20"
 }

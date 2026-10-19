@@ -1,21 +1,23 @@
 {
   "slug": "le-lotus-d-or-montlucon-domerat",
   "clubId": "5",
-  "researchedAt": "2026-10-16",
+  "researchedAt": "2026-10-20",
   "display": {
     "nom": "Le Lotus d'Or",
     "ville": "Montluçon-Domérat"
   },
   "status": {
     "value": "ferme",
-    "summary": "Le tribunal de commerce de Montluçon a placé la SARL DDMMJ, qui exploitait le club depuis 2015, en liquidation judiciaire le 16 avril 2021, avec une cessation des paiements fixée au 16 octobre 2019 ; la procédure a été close en mars 2022 sans qu'aucune reprise du fonds ne soit publiée. Le site lotusdor.net n'annonçait plus de soirée après juin 2016 et était hors service dès août 2017.",
+    "summary": "Le tribunal de commerce de Montluçon a placé la SARL DDMMJ, qui exploitait le club depuis 2015, en liquidation judiciaire le 16 avril 2021, avec une cessation des paiements fixée au 16 octobre 2019 ; la procédure a été close en mars 2022 sans qu'aucune reprise du fonds ne soit publiée. Le site lotusdor.net n'annonçait plus de soirée après juin 2016 et était hors service dès août 2017. Restaurant Guru et un guide libertin en ligne l'affichent aussi comme définitivement fermé.",
     "sources": [
       "s1",
       "s2",
       "s3",
       "s4",
       "s6",
-      "s7"
+      "s7",
+      "s39",
+      "s40"
     ]
   },
   "seo": {
@@ -31,7 +33,7 @@
       "club échangiste allier"
     ]
   },
-  "lead": "Au 45 avenue des Martyrs, à Domérat, aux portes de Montluçon, le Lotus d'Or a réuni, au moins de 2003 à 2016, une discothèque libertine, un sauna-hammam et sept salons à thèmes sur trois niveaux. Il est fermé : sa dernière société exploitante a été liquidée en avril 2021 puis radiée en 2022, et aucune reprise du fonds n'a été publiée. Le club ouvert le plus proche que nous ayons pu vérifier se trouve à Riom, à environ 65 km.",
+  "lead": "Au 45 avenue des Martyrs, à Domérat, aux portes de Montluçon, le Lotus d'Or a réuni, au moins de 2003 à 2016, une discothèque libertine, un sauna-hammam et sept salons à thèmes sur trois niveaux. Il est fermé : sa dernière société exploitante a été liquidée en avril 2021 puis radiée en 2022, et aucune reprise du fonds n'a été publiée. Les clubs ouverts les plus proches que nous ayons vérifiés sont à 65 et 67 km : Le Clean à Riom et, depuis septembre 2025, le Sexy Moon à Serbannes, dans l'Allier.",
   "keyFacts": [
     {
       "label": "Statut",
@@ -41,7 +43,9 @@
         "s1",
         "s2",
         "s3",
-        "s38"
+        "s38",
+        "s39",
+        "s40"
       ]
     },
     {
@@ -64,6 +68,14 @@
         "s7",
         "s8",
         "s6"
+      ]
+    },
+    {
+      "label": "Dernier témoignage daté",
+      "value": "Récit de client publié le 6 août 2016 (un jeudi et un vendredi)",
+      "confidence": "source_unique",
+      "sources": [
+        "s41"
       ]
     },
     {
@@ -130,7 +142,7 @@
           "kind": "callout",
           "tone": "warning",
           "title": "Dernière soirée : 2016, 2017 ou 2019 ?",
-          "body": "La date n'est pas connue. Le dernier programme mis en ligne couvre les soirées du 16 au 30 juin 2016, toujours affichées en avril 2017 ; le site renvoyait une erreur dès août 2017. Entre cette date et la cessation des paiements d'octobre 2019, aucune source consultée ne dit si les portes ouvraient encore. Les derniers comptes déposés par la société, ceux de 2016, font état de 51 243 € de chiffre d'affaires et d'une perte de 17 479 € ; aucun compte n'a été publié pour 2017 ni pour les années suivantes."
+          "body": "La date n'est pas connue. Le dernier programme en ligne couvre les soirées du 16 au 30 juin 2016 ; un couple raconte encore, le 6 août 2016, deux soirées passées un jeudi et un vendredi. Le site renvoie ensuite une erreur dès août 2017, et rien ne dit si les portes ouvraient encore avant la cessation des paiements d'octobre 2019.\n\nLes derniers comptes déposés par la société, ceux de 2016, font état de 51 243 € de chiffre d'affaires et d'une perte de 17 479 € ; aucun compte n'a été publié pour 2017 ni pour les années suivantes."
         }
       ],
       "sources": [
@@ -144,7 +156,10 @@
         "s19",
         "s20",
         "s37",
-        "s38"
+        "s38",
+        "s41",
+        "s39",
+        "s40"
       ],
       "icon": "closed",
       "summary": "Liquidation de la SARL DDMMJ le 16 avril 2021, cessation des paiements fixée au 16 octobre 2019, clôture en mars 2022 : aucune reprise du fonds n'est publiée."
@@ -183,6 +198,10 @@
             {
               "date": "Juin 2016",
               "text": "Dernières soirées datées publiées en ligne."
+            },
+            {
+              "date": "Août 2016",
+              "text": "Dernier récit de client daté : deux soirées consécutives, un jeudi calme et un vendredi plus animé."
             }
           ]
         }
@@ -198,7 +217,8 @@
         "s14",
         "s16",
         "s17",
-        "s6"
+        "s6",
+        "s41"
       ],
       "icon": "history",
       "summary": "La SARL Lotus Club, créée en 2002, vend le fonds 60 000 € en 2009 à un exploitant individuel, qui le cède 55 000 € à la SARL DDMMJ en février 2015."
@@ -289,7 +309,7 @@
         },
         {
           "kind": "text",
-          "body": "À la porte, les hommes étaient filtrés : l'affiche « Sexy Lady » de juin 2016 annonce une sélection à l'entrée et une tenue correcte exigée. Le Lotus fermé, un homme seul de l'agglomération qui espère accompagner un couple dans un club du Puy-de-Dôme doit d'abord le rencontrer ailleurs, par exemple en allant [se présenter à des couples avec un profil vérifié par téléphone](aff:gleese) sur Gleese, site français ouvert fin 2024 qui ne réclame aucune carte bancaire à l'inscription mais compte encore moins de membres que ses aînés."
+          "body": "À la porte, les hommes étaient filtrés : l'affiche « Sexy Lady » de juin 2016 annonce une sélection à l'entrée et une tenue correcte exigée. Dans un commentaire publié en août 2016, un couple dit avoir compté, un vendredi soir, cinq couples et près de dix hommes seuls ; la veille, un jeudi, était plus calme.\n\nLe Lotus fermé, un homme seul de l'agglomération qui espère accompagner un couple dans un club du Puy-de-Dôme doit d'abord le rencontrer ailleurs, par exemple en allant [se présenter à des couples avec un profil vérifié par téléphone](aff:gleese) sur Gleese, site français ouvert fin 2024 qui ne réclame aucune carte bancaire à l'inscription mais compte encore moins de membres que ses aînés."
         }
       ],
       "sources": [
@@ -299,7 +319,8 @@
         "s27",
         "s16",
         "s28",
-        "s17"
+        "s17",
+        "s41"
       ],
       "icon": "euro",
       "summary": "Dernière grille, d'octobre 2016 : femmes gratuites, couples à 15 € le vendredi et le samedi soir, hommes à 15 € en semaine, 33 € le vendredi soir, 38 € le samedi soir."
@@ -338,23 +359,47 @@
       "summary": "Soirées à thème chaque week-end en 2010 (« Premiers pas », « 100 couples »), jeudis « 3e sexe » en 2016 ; la charte de 2015 interdisait téléphones et appareils photo."
     },
     {
-      "id": "depuis-montlucon-en-2026",
-      "title": "Depuis Montluçon en 2026 : Riom à 65 km, la Creuse à vérifier",
+      "id": "allier-en-2026",
+      "title": "Dans l'Allier en 2026 : le Sexy Moon, ouvert à Serbannes en septembre 2025",
       "blocks": [
         {
           "kind": "text",
-          "body": "Ni notre annuaire ni sauna-club-libertin.com ne recensent d'autre lieu libertin dans l'[Allier](/departement/allier). Le club ouvert le plus proche que nous ayons vérifié est [Le Clean, à Riom](/le-clean-riom), à environ 65 km à vol d'oiseau : son site, mis à jour en octobre 2026, indique qu'il « est à vendre mais reste ouvert », avec sauna, hammam et jacuzzi. Les autres adresses du secteur figurent sur [la page du Puy-de-Dôme](/departement/puy-de-dome), sans contrôle de notre part.\n\nDans l'Allier, seule trace au registre : une annonce légale de mai 2019 domicilie un snack-bar au « Camping libertin la Roseraie », à Brugheas, près de Vichy. Nous n'avons trouvé ni site ni autre preuve de ce caractère libertin, ni de son activité actuelle.\n\nEn Creuse, [L'Empire des Sens à Saint-Léger-le-Guérétois](/l-empire-des-sens-saint-leger-legueretois), à environ 59 km, reste à vérifier : son ancien nom de domaine héberge un annuaire sans rapport. Téléphonez avant de partir. À Bourges, les sites de L'IZ et de L'Atoll sont détournés ou muets.\n\nEn 2014, la page tarifs du Lotus affichait un bandeau Netéchangisme, site devenu Wyylde en 2018. Son agenda des soirées en club se consulte avec un compte gratuit, de quoi [vérifier si un club du Puy-de-Dôme y annonce une date](aff:wyylde) avant de prendre la route ; répondre aux messages exige en revanche un abonnement."
+          "body": "À 12 km du Lotus, un second club a lui aussi fermé : Le Steff, installé en 2013 route de Commentry à Chamblet, a été placé en liquidation judiciaire en novembre 2020, puis radié en août 2024.\n\nDans l'[Allier](/departement/allier), le plus proche club ouvert vérifié est le **Sexy Moon**, à Serbannes, près de Vichy (67 km). Ouvert en septembre 2025 selon son site, il publie un agenda jusqu'à fin novembre 2026. Il est interdit aux moins de 30 ans ; le samedi soir, un couple paie 50 € et un homme seul 60 €.\n\nL'été, le camping libertin La Roseraie, à Brugheas (environ 70 km), reçoit aussi des visiteurs à la journée ; les hommes seuls sont priés de s'inscrire par téléphone l'avant-veille, car leur nombre est plafonné à 15 % de celui des couples. Réservé aux plus de 21 ans, il a clos sa saison 2026 ; la suivante court du 22 mai au 13 septembre 2027."
         }
       ],
       "sources": [
-        "s33",
-        "s34",
-        "s35",
-        "s27",
-        "s36"
+        "s46",
+        "s47",
+        "s48",
+        "s52",
+        "s42",
+        "s43",
+        "s44",
+        "s45",
+        "s36",
+        "s51"
       ],
       "icon": "map",
-      "summary": "Aucun club vérifié ouvert dans l'Allier : le plus proche est Le Clean à Riom, à 65 km, ouvert selon son site en octobre 2026 ; L'Empire des Sens, en Creuse, reste à vérifier."
+      "summary": "Le Steff, à Chamblet, a été liquidé en 2020 ; dans l'Allier, le plus proche club ouvert vérifié est le Sexy Moon, à Serbannes, à 67 km, ouvert depuis septembre 2025."
+    },
+    {
+      "id": "depuis-montlucon-en-2026",
+      "title": "Vers Riom et la Creuse : Le Clean à 65 km, l'Empire des Sens remplacé en 2016",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "À 65 km, [Le Clean, à Riom](/le-clean-riom), indique sur son site, mis à jour en octobre 2026, qu'il « est à vendre mais reste ouvert », avec sauna, hammam et jacuzzi. Les autres adresses du secteur figurent sur [la page du Puy-de-Dôme](/departement/puy-de-dome), sans contrôle de notre part.\n\nEn Creuse, [L'Empire des Sens à Saint-Léger-le-Guérétois](/l-empire-des-sens-saint-leger-legueretois) a fermé : une discothèque l'a remplacé en juillet 2016, selon France Bleu Creuse, et le club L'Athéna annoncé ensuite au même lieu-dit n'a pas d'activité récente vérifiée. À Bourges, les sites de L'IZ et de L'Atoll sont détournés ou muets.\n\nEn 2014, la page tarifs du Lotus affichait un bandeau Netéchangisme, site devenu Wyylde en 2018. Son agenda des soirées en club se consulte avec un compte gratuit, de quoi [vérifier si un club du Puy-de-Dôme y annonce une date](aff:wyylde) avant de prendre la route ; répondre aux messages exige en revanche un abonnement."
+        }
+      ],
+      "sources": [
+        "s34",
+        "s35",
+        "s49",
+        "s50",
+        "s27"
+      ],
+      "icon": "map",
+      "summary": "Le Clean, à Riom, se dit ouvert en octobre 2026 bien qu'à vendre ; en Creuse, L'Empire des Sens a laissé place à une discothèque en juillet 2016."
     }
   ],
   "equipements": [
@@ -389,7 +434,7 @@
     },
     {
       "question": "Y a-t-il un club libertin ouvert à Montluçon ou dans l'Allier ?",
-      "answer": "Nous n'en avons vérifié aucun dans l'Allier en octobre 2026. Le plus proche dont l'activité est confirmée par son propre site est [Le Clean, à Riom](/le-clean-riom), à environ 65 km ; L'Empire des Sens, en Creuse, n'a pas pu être vérifié, et le caractère libertin d'un camping de Brugheas n'est attesté que par une annonce légale de 2019."
+      "answer": "Autour de Montluçon, non : Le Steff, à Chamblet, a été liquidé en 2020. Dans l'Allier, le Sexy Moon a ouvert en septembre 2025 à Serbannes, près de Vichy, à environ 67 km, et publie un agenda daté jusqu'à fin novembre 2026 ; il est interdit aux moins de 30 ans. [Le Clean, à Riom](/le-clean-riom), à 65 km, se dit aussi ouvert, et l'été le camping libertin de Brugheas accueille des visiteurs à la journée."
     },
     {
       "question": "Combien coûtait l'entrée au Lotus d'Or ?",
@@ -400,18 +445,22 @@
       "answer": "Le contact se noue surtout en ligne. Sur Carré Libertin, ouvert en 2007 et qui revendique plus de 500 000 inscrits, un couple ou une femme de l'agglomération montluçonnaise accède gratuitement à tout le site une fois son profil garni d'au moins trois photos : de quoi [trouver des couples bourbonnais avec qui partager la route](aff:carre-libertin) jusqu'à Riom."
     },
     {
+      "question": "Quelle note le Lotus d'Or avait-il sur Google ?",
+      "answer": "Nous ne l'avons pas lue sur Google même. Au 20 octobre 2026, Restaurant Guru relaie une note Google de 4,3/5 sur 36 avis et classe le lieu comme définitivement fermé ; les avis qu'il affiche datent d'environ 2021. Le témoignage le plus détaillé, publié en août 2016 sur un annuaire libertin, décrit un petit club propre et bien tenu."
+    },
+    {
       "question": "Où voir des photos du Lotus d'Or ?",
       "answer": "Le site de 2010 proposait trois galeries (bar et piste, sauna et hammam, coins câlins des étages), que seules les archives du web conservent ; nous n'en reproduisons aucune."
     }
   ],
   "unverified": [
-    "Jusqu'à quand le club a-t-il réellement ouvert ses portes, entre la dernière soirée annoncée en juin 2016 et la cessation des paiements d'octobre 2019 ?",
+    "Jusqu'à quand le club a-t-il réellement ouvert ses portes, entre le dernier témoignage daté d'août 2016 et la cessation des paiements d'octobre 2019 ?",
     "L'année d'ouverture : 2002 (création de la première société) ou 2003 (premier site) ?",
-    "La note Google et les avis publics : aucune n'a pu être relevée, faute de recherche par moteur possible lors de notre enquête.",
-    "Un éventuel article de La Montagne sur la fermeture n'a pas pu être recherché.",
+    "La note Google lue sur Google Maps même : seule une note relayée par Restaurant Guru (4,3/5 sur 36 avis) a pu être relevée.",
+    "Un éventuel article de La Montagne sur la fermeture : aucun trouvé à ce jour, recherche ciblée sur le site du quotidien encore à faire.",
     "L'usage actuel du bâtiment du 45 avenue des Martyrs.",
-    "Le statut actuel de L'Empire des Sens, en Creuse, dont l'ancien nom de domaine héberge aujourd'hui un autre site.",
-    "Le camping La Roseraie de Brugheas, désigné « camping libertin » dans une annonce légale de 2019 : son caractère libertin et son activité actuelle."
+    "La page Facebook « Lotus Dor » signalée par un annuaire en 2021 appartenait-elle au club ?",
+    "L'activité actuelle de L'Athéna, club annoncé vers 2018 à l'ancienne adresse de L'Empire des Sens, en Creuse."
   ],
   "sources": [
     {
@@ -639,13 +688,6 @@
       "consulted": "2026-10-16"
     },
     {
-      "id": "s33",
-      "label": "sauna-club-libertin.com, fiche « Le Lotus d'Or » (annuaire)",
-      "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_3.php?id=5&d=03",
-      "type": "annuaire",
-      "consulted": "2026-10-16"
-    },
-    {
       "id": "s34",
       "label": "Le Clean (Riom), site officiel",
       "url": "https://le-clean.fr/",
@@ -679,6 +721,104 @@
       "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:B20220067103",
       "type": "registre",
       "consulted": "2026-10-19"
+    },
+    {
+      "id": "s39",
+      "label": "Restaurant Guru, fiche « Le Lotus d'Or, Domérat » : lieu classé définitivement fermé, note Google relayée",
+      "url": "https://restaurantguru.com/Le-Lotus-dOr-Domerat",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s40",
+      "label": "Libertin débutant, fiche « Lotus d'Or » (annuaire)",
+      "url": "https://libertin-debutant.fr/club-libertin/allier/domerat/lotus-dor/",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s41",
+      "label": "clubech.fr, fiche du Lotus d'Or et commentaire de client du 06/08/2016 (archive du 15/10/2016)",
+      "url": "https://web.archive.org/web/20161015175740/http://www.clubech.fr/le-lotus-dor-domerat/",
+      "type": "avis",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s42",
+      "label": "Sexy Moon (Serbannes), site officiel : accueil",
+      "url": "https://sexymoon.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s43",
+      "label": "Sexy Moon (Serbannes), site officiel : agenda et tarifs des soirées",
+      "url": "https://sexymoon.fr/soirees-libertines/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s44",
+      "label": "Camping libertin La Roseraie (Brugheas), site officiel : accueil",
+      "url": "http://www.campinglibertinlaroseraie.com/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s45",
+      "label": "Camping libertin La Roseraie (Brugheas), site officiel : visiteurs à la journée",
+      "url": "http://www.campinglibertinlaroseraie.com/visiteurs.php",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s46",
+      "label": "BODACC, avis du 26/11/2020 : liquidation judiciaire de la SARL Le Steff (Chamblet)",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202002302082",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s47",
+      "label": "BODACC, avis du 22/08/2024 : radiation de la SARL Le Steff",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:B2024016254",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s48",
+      "label": "clubech.fr, fiche « Le Steff » à Chamblet (archive du 28/11/2021)",
+      "url": "https://web.archive.org/web/20211128174701/http://www.clubech.fr/steff/",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s49",
+      "label": "France Bleu Creuse, « Guéret : la discothèque l'Atrium ouvre ses portes samedi soir », 9 juillet 2016",
+      "url": "https://www.ici.fr/infos/culture-loisirs/gueret-la-discotheque-l-atrium-ouvre-ses-portes-samedi-soir-1468054788",
+      "type": "presse",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s50",
+      "label": "lieuxcoquins.fr, fiche « L'Athéna » à Saint-Léger-le-Guérétois (annuaire, 2018)",
+      "url": "https://www.lieuxcoquins.fr/lieu/lathena/",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s51",
+      "label": "Base Adresse Nationale : géocodage de Serbannes, Brugheas et Chamblet (distances à vol d'oiseau)",
+      "url": "https://api-adresse.data.gouv.fr/search/?q=7%20route%20de%20Bellerive%20Serbannes",
+      "type": "carte",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s52",
+      "label": "Registre des entreprises : SARL Le Steff, Chamblet (SIREN 792 458 903)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/792458903",
+      "type": "registre",
+      "consulted": "2026-10-20"
     }
   ],
   "glance": [
@@ -710,14 +850,15 @@
     },
     {
       "icon": "heart",
-      "label": "Club ouvert proche",
-      "value": "Le Clean, à Riom (environ 65 km)"
+      "label": "Clubs ouverts proches",
+      "value": "Le Clean (Riom) 65 km, Sexy Moon 67 km"
     }
   ],
   "highlights": [
     "Le club est fermé : sa société exploitante a été liquidée en avril 2021, et aucune reprise du fonds n'apparaît dans les annonces légales.",
     "L'adresse était le 45 avenue des Martyrs à Domérat, et non la « rue de Guéret » de certains annuaires, voie qui n'existe pas dans la commune.",
     "Le site lotusdor.net a échappé au club au plus tard en mars 2019 ; en octobre 2026, le domaine n'est même plus enregistré.",
-    "Aucun club vérifié ouvert dans l'Allier : le plus proche, Le Clean à Riom, est à environ 65 km et se dit ouvert sur son site en octobre 2026."
+    "Dans l'Allier, le Sexy Moon a ouvert en septembre 2025 à Serbannes, près de Vichy, à environ 67 km ; Le Clean, à Riom, est à 65 km.",
+    "Le Steff, à Chamblet, à 12 km de Domérat, a lui aussi fermé : liquidé en novembre 2020, radié en août 2024."
   ]
 }

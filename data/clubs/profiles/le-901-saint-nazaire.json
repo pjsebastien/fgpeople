@@ -1,7 +1,7 @@
 {
   "slug": "le-901-saint-nazaire",
   "clubId": "15313",
-  "researchedAt": "2026-10-19",
+  "researchedAt": "2026-10-20",
   "display": {
     "nom": "Le 901",
     "ville": "Saint-Nazaire"
@@ -87,7 +87,7 @@
   "highlights": [
     "Le 901 n'accueille plus personne : son dernier programme s'arrête au 31 décembre 2019 et la société a été radiée d'office le 11 janvier 2022.",
     "Le site le901.fr ne répond plus et son nom de domaine appartient depuis 2022 à un titulaire sans lien connu avec le club.",
-    "L'annuaire sauna-club-libertin.com affiche encore les horaires de décembre 2013, le mois qui a suivi l'ouverture, sans signaler la fermeture.",
+    "Lieux Coquins, Gatlass et sauna-club-libertin.com affichent encore les horaires de 2013 ou de 2017 ; un autre annuaire cite des prix absents des grilles du club.",
     "Pour un après-midi entre hommes, le sauna gay le plus proche dont l'agenda est daté est le B4, à Sainte-Luce-sur-Loire (environ 55 km).",
     "Côté club libertin, Le Liberty Station à Prinquiau est à 19 km, mais son site ne répondait pas en octobre 2026 : appelez avant de partir."
   ],
@@ -131,12 +131,13 @@
     },
     {
       "label": "Bâtiment",
-      "value": "Ancien hôtel sur trois niveaux",
+      "value": "Ancien hôtel Le Nantais, sur trois niveaux",
       "confidence": "confirme",
       "sources": [
         "s16",
         "s25",
-        "s27"
+        "s27",
+        "s45"
       ]
     },
     {
@@ -236,11 +237,11 @@
       "id": "sauna-gay-saint-nazaire",
       "title": "Le sauna gay de Saint-Nazaire : après-midi entre hommes et dimanche « Bi »",
       "icon": "flame",
-      "summary": "Le 901 réservait plusieurs après-midi aux hommes (le lundi et le mercredi en 2017). En octobre 2026, aucun annuaire consulté ne liste d'autre sauna gay à Saint-Nazaire.",
+      "summary": "Le 901 réservait plusieurs après-midi aux hommes (le lundi et le mercredi en 2017). En octobre 2026, nous n'avons trouvé aucun autre sauna gay à Saint-Nazaire.",
       "blocks": [
         {
           "kind": "text",
-          "body": "Le 901 avait deux visages : un club libertin mixte le soir, un sauna gay en journée, d'abord présenté sur un site à part, le901sauna.fr, qui renvoyait dès 2015 vers le site principal. Adhérent depuis 2013 du SNEG, le syndicat des établissements gays, il y figurait comme sauna gay avec hammam, sauna sec et spa « sur trois niveaux »."
+          "body": "Le 901 avait deux visages : un club libertin mixte le soir, un sauna gay en journée, d'abord présenté sur un site à part, le901sauna.fr, qui renvoyait dès 2015 vers le site principal. Adhérent depuis 2013 du SNEG, le syndicat des établissements gays, il y figurait comme sauna gay avec hammam, sauna sec et spa « sur trois niveaux ».\n\nLa partie gay avait aussi sa propre page Facebook, « Sauna Gay le 901 St-Nazaire », toujours en ligne mais illisible sans compte. En septembre 2019, un blog sur les saunas gays de la région nantaise décrivait encore Le 901 comme « 100 % gay » le lundi, le mercredi et le samedi à certaines heures, ouvert à tous le reste du temps, avec une boisson offerte à l'entrée."
         },
         {
           "kind": "list",
@@ -279,7 +280,7 @@
         },
         {
           "kind": "text",
-          "body": "En octobre 2026, ni PagesJaunes ni le guide Spartacus ne listent de sauna à Saint-Nazaire. Le [Before Sauna Club « B4 »](/sauna-sainte-luce-loire), à Sainte-Luce-sur-Loire (environ 55 km à vol d'oiseau), ouvre chaque après-midi en « 100 % mecs », sauf le jeudi (toutes tendances), et annonce un après-midi entre hommes le 25 octobre 2026.\n\nÀ Nantes, [Le Steamer](/le-steamer-nantes), seul sauna gay retenu par Spartacus, a un site en ligne mais sans date récente : appelez avant d'y aller."
+          "body": "En octobre 2026, ni PagesJaunes ni le guide Spartacus ne listent de sauna à Saint-Nazaire. Un guide en ligne y annonce bien trois « saunas » pour 2026, mais le premier est une boutique érotique de la rue de Cardurand. Les deux autres, dont un « Bar Les Caraïbes », sont avenue de la République, sans site : nous n'avons pas pu établir qu'il s'agit de saunas.\n\nLe [Before Sauna Club « B4 »](/sauna-sainte-luce-loire), à Sainte-Luce-sur-Loire (environ 55 km à vol d'oiseau), ouvre chaque après-midi en « 100 % mecs », sauf le jeudi (toutes tendances), et annonce un après-midi entre hommes le 25 octobre 2026.\n\nÀ Nantes, [Le Steamer](/le-steamer-nantes), seul sauna gay retenu par Spartacus, se dit « exclusivement masculin » sur son site, mis à jour en 2026 : il y annonce 650 m² et une ouverture tous les jours, dès midi en semaine."
         }
       ],
       "sources": [
@@ -295,7 +296,13 @@
         "s30",
         "s31",
         "s34",
-        "s37"
+        "s37",
+        "s39",
+        "s40",
+        "s41",
+        "s47",
+        "s48",
+        "s50"
       ]
     },
     {
@@ -306,7 +313,7 @@
       "blocks": [
         {
           "kind": "text",
-          "body": "Le club se présentait lui-même comme installé dans « cet ancien hôtel ». Le registre confirme le passé de l'adresse : un café-hôtel de 1991 à 2003, un restaurant de 2003 à 2006, puis un hôtel à l'enseigne « Le Nantais » jusqu'en 2011. On entrait par une porte latérale, sans attendre dans la rue."
+          "body": "Le club se présentait lui-même comme installé dans « cet ancien hôtel ». Le registre confirme le passé de l'adresse : un café-hôtel de 1991 à 2003, un restaurant de 2003 à 2006, puis un hôtel à l'enseigne « Le Nantais » jusqu'en 2011. On entrait par une porte latérale, sans attendre dans la rue.\n\nUn annuaire hôtelier en ligne, non daté, référence encore l'Hotel Le Nantais à cette adresse : bar, restaurant et chambres doubles de 25 à 39 €."
         },
         {
           "kind": "table",
@@ -345,7 +352,8 @@
         "s13",
         "s16",
         "s25",
-        "s28"
+        "s28",
+        "s45"
       ]
     },
     {
@@ -415,6 +423,33 @@
       ]
     },
     {
+      "id": "commentaires-clubech-2014-2018",
+      "title": "Cinq récits de visite sur Clubech en 2014 : la balnéo saluée, le jacuzzi jugé un peu petit",
+      "icon": "star",
+      "summary": "Le 901 n'a pas de note publique. Sur le guide Clubech, cinq visiteurs de 2014 citaient la balnéo, le labyrinthe et l'hygiène ; l'un trouvait le jacuzzi un peu petit.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Aucun annuaire consulté en octobre 2026 n'affiche d'avis sur Le 901. Le guide Clubech, dont le site n'est plus actif, a été archivé en juin 2022 avec seize commentaires, de mars 2014 à mai 2018, que nous avons lus. Cinq seulement racontent une visite, toutes en 2014 ; les autres sont des questions ou des annonces de rencontre."
+        },
+        {
+          "kind": "list",
+          "items": [
+            "**Ce qui est cité** : la balnéo (deux fois), le labyrinthe et les coins câlins, qu'un visiteur comparait à des chambres d'hôtel. Deux messages de l'automne 2014 saluent l'hygiène.",
+            "**Les réserves** : des visiteurs venus un samedi soir d'octobre 2014 jugeaient le jacuzzi un peu petit ; un autre, venu à deux un mardi après-midi d'avril 2014, n'a vu aucun autre couple.",
+            "**La fréquentation** : ce samedi d'octobre 2014, les mêmes visiteurs comptaient au jugé un homme seul pour trois couples."
+          ]
+        }
+      ],
+      "sources": [
+        "s38",
+        "s41",
+        "s42",
+        "s43",
+        "s44"
+      ]
+    },
+    {
       "id": "soirees-a-theme-2013-2019",
       "title": "Du « Docteur en urgence » de 2013 au « 31 au 901 » : six ans de soirées à thème",
       "icon": "calendar",
@@ -470,15 +505,17 @@
         },
         {
           "kind": "text",
-          "body": "Ces indications datent de 2017. Nous n'avons vérifié ni l'état actuel des parkings ni l'usage du bâtiment aujourd'hui."
+          "body": "Ces indications datent de 2017. En octobre 2026, ni PagesJaunes ni le registre ne connaissent d'activité au n° 2 ; nous n'avons vérifié sur place ni le bâtiment ni les parkings."
         }
       ],
       "sources": [
         "s7",
         "s14",
         "s23",
+        "s25",
         "s32",
-        "s28"
+        "s28",
+        "s49"
       ]
     },
     {
@@ -489,20 +526,20 @@
       "blocks": [
         {
           "kind": "text",
-          "body": "Sur sa page Facebook, Le 901 se présentait comme « le seul club libertin de la côte ». Nos recherches n'ont fait apparaître aucun lieu qui l'ait remplacé à Saint-Nazaire ou à La Baule. Distances à vol d'oiseau depuis la rue de Saintonge :"
+          "body": "Sur sa page Facebook, Le 901 se présentait comme « le seul club libertin de la côte ». Nos recherches n'ont fait apparaître aucun lieu qui l'ait remplacé à Saint-Nazaire, à La Baule ou à Guérande. Distances à vol d'oiseau depuis la rue de Saintonge :"
         },
         {
           "kind": "table",
           "headers": [
             "Lieu",
             "Distance",
-            "Ce que nous avons vérifié le 19 octobre 2026"
+            "Ce que nous avons vérifié les 19 et 20 octobre 2026"
           ],
           "rows": [
             [
               "[Le Liberty Station](/le-liberty-station-prinquiau), Prinquiau",
               "19 km environ",
-              "Site hors ligne (aucune réponse ou erreur 500) : téléphoner avant de partir"
+              "Site hors ligne les deux jours, aucune publication datée trouvée : téléphoner avant de partir"
             ],
             [
               "[L'Orchidée Noire](/l-orchidee-noire-nantes), Nantes",
@@ -523,7 +560,7 @@
         },
         {
           "kind": "text",
-          "body": "Le reste de l'offre figure parmi [les lieux recensés en Loire-Atlantique](/departement/loire-atlantique).\n\nSans lieu sur la presqu'île, toute sortie suppose le trajet jusqu'à l'agglomération nantaise. Carré Libertin laisse aux couples et aux femmes un accès complet sans abonnement, dès trois photos de profil : de quoi [proposer le trajet à un couple de la presqu'île guérandaise](aff:carre-libertin) avant un samedi soir."
+          "body": "Sur une page de son site, La Petite Cheminée se dit « premier club libertin échangiste de Saint-Nazaire » : l'adresse qu'elle y donne est à Châteaugiron, près de Rennes, à une centaine de kilomètres. Le reste de l'offre figure parmi [les lieux recensés en Loire-Atlantique](/departement/loire-atlantique).\n\nSans lieu sur la presqu'île, toute sortie suppose le trajet jusqu'à l'agglomération nantaise. Carré Libertin laisse aux couples et aux femmes un accès complet sans abonnement, dès trois photos de profil : de quoi [proposer le trajet à un couple de la presqu'île guérandaise](aff:carre-libertin) avant un samedi soir."
         }
       ],
       "sources": [
@@ -532,7 +569,9 @@
         "s34",
         "s35",
         "s36",
-        "s37"
+        "s37",
+        "s46",
+        "s51"
       ]
     }
   ],
@@ -611,11 +650,11 @@
     },
     {
       "question": "Y a-t-il encore un sauna gay à Saint-Nazaire ?",
-      "answer": "Pas à notre connaissance : en octobre 2026, ni PagesJaunes ni le guide Spartacus n'en listent dans la ville. Le plus proche dont nous avons vu un agenda daté est le B4, à Sainte-Luce-sur-Loire (environ 55 km), ouvert chaque après-midi en « 100 % mecs », sauf le jeudi."
+      "answer": "Pas à notre connaissance : en octobre 2026, ni PagesJaunes ni le guide Spartacus n'en listent dans la ville. Le plus proche dont nous avons vu un agenda daté est le B4, à Sainte-Luce-sur-Loire (environ 55 km), ouvert chaque après-midi en « 100 % mecs », sauf le jeudi. À Nantes, Le Steamer se dit exclusivement masculin."
     },
     {
       "question": "Quel club libertin ou échangiste reste-t-il près de Saint-Nazaire ?",
-      "answer": "Aucun dans la ville. Le plus proche, Le Liberty Station à Prinquiau (19 km environ), avait un site muet le 19 octobre 2026 ; L'Orchidée Noire à Nantes et le Guili's Club à Carquefou annoncent des soirées pour la fin d'octobre. En attendant, Gleese, lancé fin 2024 et qui vérifie chaque inscrit par téléphone, permet de [jauger sans carte bancaire les profils de l'estuaire de la Loire](aff:gleese)."
+      "answer": "Aucun dans la ville : La Petite Cheminée, qui se rattache à Saint-Nazaire sur une page de son site, est à Châteaugiron, près de Rennes. Le plus proche, Le Liberty Station à Prinquiau (19 km environ), avait un site muet les 19 et 20 octobre 2026 ; L'Orchidée Noire à Nantes et le Guili's Club à Carquefou annoncent des soirées pour la fin d'octobre. En attendant, Gleese, lancé fin 2024 et qui vérifie chaque inscrit par téléphone, permet de [jauger sans carte bancaire les profils de l'estuaire de la Loire](aff:gleese)."
     },
     {
       "question": "Quand et pourquoi Le 901 a-t-il fermé ?",
@@ -637,7 +676,10 @@
     "L'usage actuel du bâtiment du 2 rue de Saintonge (pas de vérification sur place).",
     "Les horaires et tarifs de 2018 et 2019, absents des archives du site.",
     "La cage d'exhibition, le lit rond et la backroom fermant à clé cités par des annuaires.",
-    "L'activité actuelle du Liberty Station à Prinquiau, dont le site ne répond plus."
+    "L'activité actuelle du Liberty Station à Prinquiau, dont le site ne répond plus.",
+    "Le contenu de la page Facebook « Sauna Gay le 901 St-Nazaire » et de la fiche misterb&b qui classe le lieu comme fermé : pages illisibles sans compte ou refusées.",
+    "L'origine d'un commentaire de juin 2021 qui dirait le lieu fermé, signalé par un moteur de recherche sur un guide gay aujourd'hui hors ligne.",
+    "La nature du Cristal (117 avenue de la République) et du Bar Les Caraïbes (116), classés « sauna » par un seul guide en ligne."
   ],
   "sources": [
     {
@@ -898,6 +940,104 @@
       "url": "https://lelibertystation.fr/",
       "type": "autre",
       "consulted": "2026-10-19"
+    },
+    {
+      "id": "s38",
+      "label": "Clubech, fiche « le 901 à Saint-Nazaire » et ses 16 commentaires de 2014 à 2018 (archive du 29/06/2022)",
+      "url": "http://web.archive.org/web/20220629223530/http://www.clubech.fr/le-901-st-nazaire/",
+      "type": "avis",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s39",
+      "label": "123people.fr, « Les saunas gays à Nantes » (article du 24/09/2019)",
+      "url": "https://www.123people.fr/article/les-saunas-gays-a-nantes",
+      "type": "autre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s40",
+      "label": "Facebook, page « Sauna Gay le 901 St-Nazaire » (titre seul lisible sans compte)",
+      "url": "https://www.facebook.com/p/Sauna-Gay-le-901-St-Nazaire-100067818921602/",
+      "type": "reseau_social",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s41",
+      "label": "Gatlass, fiche « Le 901, Saint-Nazaire » (horaires de 2017, aucun avis)",
+      "url": "https://gatlass.com/place/488/le901/saintnazaire",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s42",
+      "label": "Lieux Coquins, fiche « Le 901 » (horaires de 2017, aucun avis)",
+      "url": "https://www.lieuxcoquins.fr/lieu/le-901/",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s43",
+      "label": "club-libertin-france.fr, « Club libertin Saint-Nazaire » (prix et horaires absents des grilles officielles)",
+      "url": "https://club-libertin-france.fr/club-libertin-saint-nazaire/",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s44",
+      "label": "horairesdouverture24.fr, fiche « Le 901 » (aucun avis)",
+      "url": "https://www.horairesdouverture24.fr/filiale/Saint-Nazaire-Le%2520901-1788892M.html",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s45",
+      "label": "Gralon, fiche « Hotel Le Nantais » au 2 rue de Saintonge (non datée)",
+      "url": "https://www.gralon.net/hotels-france/loire-atlantique/hotel-le-nantais-saint-nazaire-6869.htm",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s46",
+      "label": "La Petite Cheminée, page « Club libertin échangiste Saint-Nazaire » (adresse à Châteaugiron)",
+      "url": "https://la-petite-cheminee.fr/nos-activites/club-libertin-echangiste-rennes/club-libertin-echangiste-saint-nazaire/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s47",
+      "label": "H2O, « Sauna gay Saint-Nazaire : Top 3 adresses en 2026 »",
+      "url": "https://www.h2o-saunapourlui.fr/saunas-gay/loire-atlantique/saint-nazaire/",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s48",
+      "label": "Sexshops.nosavis.com, fiche « L Exhibi » (sex-shop, rue de Cardurand)",
+      "url": "https://sexshops.nosavis.com/sexshop/loire+atlantique-44/st+nazaire-44600/l+exhibi-173/",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s49",
+      "label": "PagesJaunes, professionnels de la rue de Saintonge à Saint-Nazaire",
+      "url": "https://www.pagesjaunes.fr/annuaire/rue-de-saintonge-saint-nazaire-44/-",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s50",
+      "label": "Le Steamer, site officiel des saunas de Nantes et d'Angers (surface, horaires et public du sauna de Nantes ; copyright 2026)",
+      "url": "https://www.lesteamer.com/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s51",
+      "label": "Tests HTTP du 20/10/2026 (Liberty Station, Clubech, misterb&b, Steamer, B4, Guili's, Orchidée Noire)",
+      "url": "https://lelibertystation.fr/",
+      "type": "autre",
+      "consulted": "2026-10-20"
     }
   ]
 }

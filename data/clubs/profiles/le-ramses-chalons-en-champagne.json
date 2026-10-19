@@ -1,7 +1,7 @@
 {
   "slug": "le-ramses-chalons-en-champagne",
   "clubId": "475",
-  "researchedAt": "2026-10-16",
+  "researchedAt": "2026-10-20",
   "display": {
     "nom": "Le Ramsès",
     "ville": "Châlons-en-Champagne"
@@ -57,22 +57,21 @@
     },
     {
       "icon": "euro",
-      "label": "Entrée nuit (2009-2011)",
-      "value": "Couple 20 € · homme seul 40 € · femme 0 €",
-      "confidence": "source_unique"
+      "label": "Entrée (2009-2011)",
+      "value": "Homme 40 à 60 € · couple 20 € · femme 0 €",
+      "confidence": "a_verifier"
     },
     {
       "icon": "map",
-      "label": "Cités en 2026 (Marne)",
-      "value": "Le Lotus et le Must Club, à Reims",
-      "confidence": "source_unique"
+      "label": "Alternative vérifiée",
+      "value": "Le Lotus, Reims : soirées jusqu'en déc. 2026"
     }
   ],
   "highlights": [
-    "Les annuaires qui listent encore le Ramsès reprennent une fiche inchangée depuis 2011 : ses horaires et ses tarifs ne valent plus.",
+    "Les annuaires qui listent encore le Ramsès reprennent une fiche inchangée depuis 2011, ou le classent en discothèque : leurs horaires et tarifs ne valent plus.",
     "Au 101 rue des Martyrs-de-la-Résistance, le registre ne recense aucun bar ni club depuis 2016, seulement deux entrepreneurs (rénovation, location de logements).",
-    "Le blog Skyrock du club a été désactivé au plus tard en mars 2011, et le 03 26 64 62 30 ne renvoie plus à aucune entreprise sur PagesJaunes.",
-    "Aucun lieu libertin n'est recensé à Châlons en 2026 : le guide de la Marne d'avril 2026 ne cite que deux adresses, à Reims.",
+    "Un guide de sorties présente encore le 03 26 64 62 30 comme une « infoline » à 3 € l'appel : ce numéro ne renvoie plus à aucune entreprise.",
+    "Aucun lieu libertin n'est recensé à Châlons en 2026 ; à Reims, le sauna Le Lotus annonce sur son site des soirées datées jusqu'en décembre 2026.",
     "Le Ramsès Libertin du 3 rue Beaurepaire, à Clermont-Ferrand, est un bar homonyme sans lien connu avec celui de Châlons."
   ],
   "keyFacts": [
@@ -124,12 +123,13 @@
       ]
     },
     {
-      "label": "Formule",
-      "value": "« Sauna libertin » en 2007, « bar libertin » dès février 2009",
-      "confidence": "source_unique",
+      "label": "Entrée de nuit (2009-2011)",
+      "value": "Gratuite pour les femmes ; homme 60 € avec une boisson selon L'Union, 40 € sans boisson selon un annuaire",
+      "confidence": "a_verifier",
       "sources": [
-        "s2",
-        "s4"
+        "s20",
+        "s1",
+        "s3"
       ]
     },
     {
@@ -142,11 +142,12 @@
       ]
     },
     {
-      "label": "Décor",
-      "value": "Égyptien : masque de pharaon sur l'enseigne, sphinx, arcades de brique",
+      "label": "Lieux",
+      "value": "Décor égyptien (pharaon au néon, sphinx) ; bar, sauna, et à l'étage inférieur une salle commune à trois matelas",
       "confidence": "source_unique",
       "sources": [
-        "s6"
+        "s6",
+        "s20"
       ]
     },
     {
@@ -170,19 +171,19 @@
   "sections": [
     {
       "id": "sortir-depuis-chalons",
-      "title": "Sans club à Châlons, deux adresses rémoises citées en avril 2026",
+      "title": "Sans club à Châlons, le Lotus de Reims et son agenda d'octobre à décembre 2026",
       "icon": "map",
-      "summary": "Aucun lieu libertin recensé à Châlons en octobre 2026 ; un guide d'avril 2026 ne retient pour la Marne que Le Lotus et le Must Club, à Reims.",
+      "summary": "Aucun lieu libertin recensé à Châlons en octobre 2026 ; à Reims, le sauna Le Lotus annonce des soirées jusqu'en décembre 2026, et deux guides citent aussi le Must Club.",
       "blocks": [
         {
           "kind": "text",
-          "body": "Hormis la fiche figée du Ramsès, ni PagesJaunes ni les guides consultés en octobre 2026 ne recensent de lieu libertin à Châlons-en-Champagne. Le guide des clubs de la Marne publié le 16 avril 2026 par saunaclublebali.fr ne retient que deux adresses, à Reims :"
+          "body": "Hormis la fiche figée du Ramsès, ni PagesJaunes ni les guides consultés en octobre 2026 ne recensent de lieu libertin à Châlons-en-Champagne. Le guide de la Marne publié le 16 avril 2026 par saunaclublebali.fr et le Petit Futé, consulté le 20 octobre 2026, ne retiennent comme lieux libertins que deux adresses, à Reims :"
         },
         {
           "kind": "list",
           "items": [
-            "le [sauna Le Lotus](/sauna-le-lotus-reims), 33 rue de Witry, déjà cité par club-libertin-france.fr en 2024 ;",
-            "le Must Club, 10 rue Landouzy, absent de notre annuaire, dont le site, en ligne en octobre 2026, annonce une ouverture le dimanche de 20h à 7h et un samedi fermé aux libertins « à partir du 1er octobre », sans préciser l'année."
+            "le [sauna Le Lotus](/sauna-le-lotus-reims), 33 rue de Witry, dont le site annonce des soirées jusqu'au 11 décembre 2026 (Halloween le 30 octobre, couples et femmes seules le 14 novembre, BDSM le 20 novembre) ; les après-midi du mercredi et du samedi y sont « 100% Gay / Bi » ;",
+            "le Must Club, 10 rue Landouzy, absent de notre annuaire. Son site, consulté en octobre 2026, annonce le dimanche de 20h à 7h et un samedi fermé aux libertins « à partir du 1er octobre », sans année ; le Petit Futé le dit ouvert aux libertins le dimanche de 15h à 0h30 : vérifiez par téléphone avant de vous déplacer."
           ]
         },
         {
@@ -192,6 +193,8 @@
       ],
       "sources": [
         "s14",
+        "s26",
+        "s27",
         "s12",
         "s13",
         "s16",
@@ -204,15 +207,15 @@
       "id": "formule-2009-2011",
       "title": "Deux nuits gays et lesbiennes, quatre nuits hétéros : la formule de 2009-2011",
       "icon": "users",
-      "summary": "Vers 2009-2011 : après-midi en semaine, nuits « gay, lesbienne » le lundi et le vendredi, « hetero » les autres soirs ; homme seul 40 €, couple 20 €.",
+      "summary": "Vers 2009-2011 : après-midi en semaine, nuits « gay, lesbienne » le lundi et le vendredi, « hetero » les autres soirs ; homme seul 40 à 60 € selon les sources.",
       "blocks": [
         {
           "kind": "text",
-          "body": "En décembre 2007, plus ancienne trace libertine connue, l'annuaire sauna-club-libertin.com décrit un « sauna libertin » ouvert six jours sur sept, souvent dès 14h ou 15h, avec des soirées gang bang le jeudi et le samedi à partir de 21h.\n\nDès février 2009, il le range parmi les « bars libertins ». La fiche suivante, qui annonce une « Nouvel formule ! », décrit un bar ouvert l'après-midi en semaine, puis des nuits dont le public dépendait du jour : « gay, lesbienne » le lundi et le vendredi, « hetero » les quatre autres soirs, jusqu'à 4h le vendredi et le samedi (voir l'encadré des horaires). Rien ne dit si le gang bang de 2007 a survécu au changement.\n\nÀ l'entrée de nuit, les femmes seules ne payaient rien, quand un homme seul réglait 40 €, le double d'un couple, boissons en sus. Le même principe existe en ligne : sur Carré Libertin, site ouvert en 2007, [femmes et couples disposent de tous les outils sans abonnement](aff:carre-libertin), la seule exigence étant d'afficher trois photos ou plus sur leur profil ; de quoi trouver dans le secteur des partenaires pour une sortie à Reims."
+          "body": "En décembre 2007, plus ancienne trace libertine connue, l'annuaire sauna-club-libertin.com décrit un « sauna libertin » ouvert six jours sur sept, souvent dès 14h ou 15h, avec des soirées gang bang le jeudi et le samedi à partir de 21h.\n\nDès février 2009, il le range parmi les « bars libertins ». Rien ne dit si le gang bang de 2007 a survécu au changement.\n\nLa fiche suivante, qui annonce une « Nouvel formule ! », décrit un bar ouvert l'après-midi en semaine, puis des nuits dont le public dépendait du jour : « gay, lesbienne » le lundi et le vendredi, « hetero » les quatre autres soirs, jusqu'à 4h le vendredi et le samedi (voir l'encadré des horaires).\n\nÀ l'entrée de nuit, selon cette fiche, les femmes seules ne payaient rien, quand un homme seul réglait 40 €, le double d'un couple, boissons en sus.\n\nLe même principe existe en ligne : sur Carré Libertin, site ouvert en 2007, [femmes et couples disposent de tous les outils sans abonnement](aff:carre-libertin), la seule exigence étant d'afficher trois photos ou plus sur leur profil ; de quoi trouver dans le secteur des partenaires pour une sortie à Reims."
         },
         {
           "kind": "text",
-          "body": "Le droit d'entrée était le seul paiement : une fois réglé, « rien ne s'achète, rien ne se vend », insistait la créatrice du club dans L'Union en janvier 2010. Un an plus tôt, le même journal titrait sur « ces petits coquins parisiens », portrait type de sa clientèle selon elle."
+          "body": "En février 2009, L'Union titrait sur « ces petits coquins parisiens », portrait type de la clientèle selon la créatrice du club. En mai, le même journal citait le Ramsès, avec le [Château d'Aphrodite](/le-chateau-d-aphrodite-haraucourt) dans les Ardennes, parmi les clubs vers lesquels les Rémois pouvaient se tourner."
         }
       ],
       "sources": [
@@ -220,15 +223,46 @@
         "s4",
         "s1",
         "s3",
+        "s19",
+        "s21"
+      ]
+    },
+    {
+      "id": "l-union-fevrier-2009",
+      "title": "60 € pour les hommes et rien de fermé : le club raconté par L'Union en février 2009",
+      "icon": "shield",
+      "summary": "En février 2009 : entrée gratuite pour les femmes, 60 € pour les hommes avec une boisson, câlins à la vue de tous et une patronne attentive au consentement.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Pour la Saint-Valentin 2009, L'Union a donné la parole à la patronne du club. L'entrée était alors gratuite pour les femmes et coûtait 60 € aux hommes, une boisson comprise : plus que les 40 € sans boisson de la fiche d'annuaire de la même période, sans que l'on sache laquelle des deux grilles est la plus récente."
+        },
+        {
+          "kind": "text",
+          "body": "Rien n'y était fermé : les couples se câlinaient à la vue de tous, et la patronne rappelait que regarder n'autorisait pas à toucher. Elle disait intervenir, avec diplomatie d'abord, quand un client insistait auprès d'une femme ou d'un couple. Le club ne fournissait pas les accessoires : chacun apportait les siens."
+        },
+        {
+          "kind": "text",
+          "body": "L'affluence restait aléatoire : des habitués téléphonaient avant de venir pour savoir s'il y avait du monde. En janvier 2010, le même journal résumait la règle de la maison : une fois l'entrée réglée, « rien ne s'achète, rien ne se vend » en matière de sexe, tout devant être consenti."
+        },
+        {
+          "kind": "text",
+          "body": "Les avis d'internautes sont rares. Sur l'annuaire Dis-moi où, dont la page a depuis été retirée, on en compte trois, datés d'août 2009 à janvier 2010 ; un seul raconte une visite, qualifiée de « très bonne soirée »."
+        }
+      ],
+      "sources": [
+        "s20",
         "s18",
-        "s19"
+        "s22",
+        "s1",
+        "s3"
       ]
     },
     {
       "id": "decor-pharaon",
       "title": "Un pharaon au néon, des sphinx et un sauna à gradins",
       "icon": "camera",
-      "summary": "Huit photos d'annuaire d'avril 2009 montrent un pharaon au néon, des sphinx, des arcades de brique, un sauna à gradins et une chambre avec douche.",
+      "summary": "Photos d'annuaire de 2009 : pharaon au néon, sphinx, arcades de brique, sauna à gradins ; en bas, selon L'Union, une salle commune à trois matelas.",
       "blocks": [
         {
           "kind": "text",
@@ -252,12 +286,17 @@
         {
           "kind": "text",
           "body": "L'Union décrivait en janvier 2010, derrière une façade « un peu austère », le bar à l'accueil, une salle à l'étage et une autre en dessous, avec des alcôves où l'on venait aussi en fin d'après-midi."
+        },
+        {
+          "kind": "text",
+          "body": "Un an plus tôt, le journal avait décrit à l'étage inférieur, au bas d'un escalier en colimaçon, une pièce commune garnie de trois matelas, avec des douches au fond. La patronne promettait alors « bientôt un hammam » : nous n'en avons trouvé aucune autre trace."
         }
       ],
       "sources": [
         "s6",
         "s1",
-        "s18"
+        "s18",
+        "s20"
       ]
     },
     {
@@ -268,11 +307,11 @@
       "blocks": [
         {
           "kind": "text",
-          "body": "D'après L'Union du 21 janvier 2010, l'adresse a d'abord abrité un bar d'habitués, le bar Saint-Loup, une vingtaine d'années plus tôt, puis le Sphinx, déjà tourné vers « les choses du charme ». Sa créatrice y a ensuite lancé le club, disant avoir vu une demande des couples. En février 2009, elle datait son enseigne de dix ans et précisait qu'avant, c'était un bar de nuit."
+          "body": "D'après L'Union du 21 janvier 2010, l'adresse a d'abord abrité un bar d'habitués, le bar Saint-Loup, une vingtaine d'années plus tôt, puis le Sphinx, déjà tourné vers « les choses du charme ».\n\nSa créatrice y a ensuite lancé le club, disant avoir vu une demande des couples. En février 2009, elle datait son enseigne de dix ans et précisait qu'avant, c'était un bar de nuit."
         },
         {
           "kind": "text",
-          "body": "Au registre, la SARL Ramses, société à associé unique, a ouvert en septembre 1991 son établissement du 101 rue des Martyrs-de-la-Résistance, immatriculé comme débit de boissons. Aucune mention légale ne la désigne comme exploitante du club : nous le déduisons du nom, de l'adresse et de l'activité déclarée au BODACC en 2015, « bar, débit de boissons, hôtellerie, entrepreneur de spectacles »."
+          "body": "Au registre, la SARL Ramses, société à associé unique, a ouvert en septembre 1991 son établissement du 101 rue des Martyrs-de-la-Résistance, immatriculé comme débit de boissons.\n\nAucune mention légale ne la désigne comme exploitante du club : nous le déduisons du nom, de l'adresse et de l'activité déclarée au BODACC en 2015, « bar, débit de boissons, hôtellerie, entrepreneur de spectacles »."
         },
         {
           "kind": "timeline",
@@ -325,28 +364,52 @@
       ]
     },
     {
+      "id": "vente-2010-numero-101",
+      "title": "Une vente annoncée en janvier 2010, et plus aucun bar déclaré au n° 101 depuis 2016",
+      "icon": "building",
+      "summary": "Mis en vente en janvier 2010 sans prix publié ; les 50 000 € avancés en 2024 ne sont recoupés nulle part, et aucun bar n'est déclaré au n° 101 depuis 2016.",
+      "blocks": [
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Un prix de 50 000 € que rien ne confirme",
+          "body": "En janvier 2010, L'Union annonçait la mise en vente du club par sa créatrice, sans citer de prix ; nous ignorons si elle a abouti. En juillet 2024, un guide en ligne a présenté le Ramsès comme un ancien club « à vendre pour 50 000 € », sans date ni lien."
+        },
+        {
+          "kind": "text",
+          "body": "Le BODACC ne publie aucune vente du fonds au n° 101, et le registre n'y recense plus que deux entreprises individuelles actives, dans la rénovation (depuis 2022) et la location de logements (depuis 2025) : aucun bar ni club déclaré."
+        },
+        {
+          "kind": "text",
+          "body": "Le 20 octobre 2026, PagesJaunes ne référençait aucun professionnel au n° 101 ni aux n° 99 et 103 voisins, et aucun bar dans toute la rue."
+        }
+      ],
+      "sources": [
+        "s18",
+        "s12",
+        "s9",
+        "s11",
+        "s28"
+      ]
+    },
+    {
       "id": "fiche-figee-depuis-2011",
       "title": "Encore listé en 2026 sur une fiche restée telle quelle depuis 2011",
       "icon": "warning",
-      "summary": "La fiche d'annuaire encore en ligne date de 2011 ; le blog a disparu, le numéro ne renvoie à aucune entreprise, et l'issue de la vente annoncée en 2010 reste inconnue.",
+      "summary": "La fiche d'annuaire encore en ligne date de 2011, deux guides de sorties le donnent pour une discothèque ; le blog a disparu, le numéro ne renvoie à aucune entreprise.",
       "blocks": [
         {
           "kind": "text",
-          "body": "Si un annuaire présente encore le Ramsès comme actif, c'est que sa fiche n'a pas bougé : sur sauna-club-libertin.com, le texte de 2026 est mot pour mot celui des archives de 2011 et 2012, tarifs et photos compris. Son blog a disparu, son numéro ne renvoie plus à une entreprise, et un homonyme brouille les recherches :"
+          "body": "Si un annuaire présente encore le Ramsès comme actif, c'est que sa fiche n'a pas bougé : sur sauna-club-libertin.com, le texte de 2026 est mot pour mot celui des archives de 2011 et 2012, tarifs et photos compris. D'autres traces en ligne induisent aussi en erreur :"
         },
         {
           "kind": "list",
           "items": [
             "le blog Skyrock « ramses-club-sauna », désactivé par la plateforme au plus tard en mars 2011 pour non-respect de ses conditions d'utilisation, n'existe plus, et la Wayback Machine n'a conservé aucune page de son contenu ;",
             "l'annuaire inversé de PagesJaunes ne renvoie aucune entreprise pour le 03 26 64 62 30 (relevés des 16 et 19 octobre 2026) ;",
+            "Guide de Nuit et annuaire-horaire.fr le classent en discothèque, avec des jours qui ne concordent pas : vendredi, samedi et veilles de fêtes pour l'un, du mardi au samedi jusqu'à 5h ou 7h pour l'autre. Aucune de ces fiches n'est datée, et la première affiche l'ancien numéro sous la mention d'un service de mise en relation à 3 € l'appel ;",
             "le Ramsès Libertin, 3 rue Beaurepaire à Clermont-Ferrand, est un bar homonyme sans lien connu avec celui de Châlons."
           ]
-        },
-        {
-          "kind": "callout",
-          "tone": "warning",
-          "title": "Une vente annoncée en 2010, un prix de 50 000 € que rien ne confirme",
-          "body": "En janvier 2010, L'Union annonçait la mise en vente du club par sa créatrice, sans citer de prix ; nous ignorons si elle a abouti. En juillet 2024, un guide en ligne a présenté le Ramsès comme un ancien club « à vendre pour 50 000 € », sans date ni lien.\n\nLe BODACC ne publie aucune vente du fonds au n° 101, et le registre n'y recense plus que deux entreprises individuelles actives, dans la rénovation (depuis 2022) et la location de logements (depuis 2025) : aucun bar ni club déclaré."
         }
       ],
       "sources": [
@@ -354,11 +417,9 @@
         "s3",
         "s7",
         "s15",
-        "s17",
-        "s12",
-        "s9",
-        "s11",
-        "s18"
+        "s23",
+        "s24",
+        "s17"
       ]
     }
   ],
@@ -382,14 +443,15 @@
   "tarifs": {
     "rows": {
       "Femme seule (nuit)": "Gratuit",
-      "Couple (nuit)": "20 €, consommation non comprise",
-      "Homme seul (nuit)": "40 €, consommation non comprise"
+      "Couple (nuit)": "20 €, consommation non comprise (annuaire)",
+      "Homme seul (nuit)": "40 € sans consommation (annuaire) ; 60 € avec une boisson selon L'Union en février 2009"
     },
-    "note": "Tarifs historiques relevés sur la même fiche d'annuaire (vers 2009-2012). Paiement par carte ou en espèces. Aucun tarif d'après-midi publié.",
+    "note": "Tarifs historiques : fiche d'annuaire restée inchangée depuis 2011 (vers 2009-2012) et article de L'Union du 14 février 2009, qui ne donne pas de tarif couple. On ignore laquelle des deux grilles est la plus récente. Paiement par carte ou en espèces selon l'annuaire. Aucun tarif d'après-midi publié.",
     "confidence": "a_verifier",
     "sources": [
       "s1",
-      "s3"
+      "s3",
+      "s20"
     ]
   },
   "equipements": [
@@ -412,7 +474,11 @@
     },
     {
       "question": "Existe-t-il un club libertin à Châlons-en-Champagne ?",
-      "answer": "Pas à notre connaissance : les deux lieux retenus pour la Marne par un guide d'avril 2026 sont à Reims. Sans adresse en ville, Gleese, réseau français lancé fin 2024 qui vérifie chaque profil par téléphone, permet de [s'inscrire sans enregistrer de carte bancaire](aff:gleese) et de voir qui se trouve autour de Châlons ; son principal retard reste le nombre d'inscrits."
+      "answer": "Pas à notre connaissance : les deux lieux retenus pour la Marne par un guide d'avril 2026 et par le Petit Futé sont à Reims, dont le sauna Le Lotus, qui annonce des soirées jusqu'en décembre 2026. Sans adresse en ville, Gleese, réseau français lancé fin 2024 qui vérifie chaque profil par téléphone, permet de [s'inscrire sans enregistrer de carte bancaire](aff:gleese) et de voir qui se trouve autour de Châlons ; son principal retard reste le nombre d'inscrits."
+    },
+    {
+      "question": "Combien coûtait l'entrée au Ramsès ?",
+      "answer": "Les femmes entraient gratuitement. Pour un homme seul, la fiche d'annuaire de 2009-2011 donne 40 € sans consommation, et 20 € pour un couple ; L'Union annonçait 60 € pour les hommes en février 2009, une boisson comprise. Ces tarifs sont historiques : le club est fermé."
     },
     {
       "question": "Le Ramsès était-il un bar gay ?",
@@ -428,9 +494,12 @@
     "Le lien entre la SARL Ramses et le club, déduit du nom, de l'adresse et de l'activité, faute de mentions légales.",
     "La date exacte d'ouverture du club libertin, située vers la fin des années 1990 par sa seule créatrice.",
     "Le prix d'entrée de l'après-midi, absent de la fiche d'annuaire.",
+    "Le tarif homme le plus récent : 60 € avec une boisson selon L'Union (février 2009), 40 € sans boisson selon l'annuaire (fiche attestée de 2011 à 2012).",
+    "Le hammam annoncé « bientôt » en février 2009 : jamais confirmé depuis.",
     "L'issue de la mise en vente annoncée en janvier 2010 : repreneur, date, éventuel changement de formule.",
     "L'annonce de vente à 50 000 € citée en 2024 : ni date, ni annonceur, ni lien.",
-    "Les avis de clients et d'éventuels réseaux sociaux : non trouvés ; les articles de L'Union de 2009 ne sont connus que par les extraits d'une revue de presse.",
+    "Une note publique (Google, Mappy) ou une page de réseau social : aucune trouvée ; seuls trois commentaires de 2009-2010 subsistent dans une archive.",
+    "L'article « Ces petits coquins parisiens » (L'Union, février 2009) : connu seulement par l'extrait d'une revue de presse.",
     "L'activité actuelle de Blue Angel 51 et de L'Atmosphère, non vérifiée ici."
   ],
   "sources": [
@@ -566,6 +635,62 @@
       "url": "https://weblibertin.wordpress.com/tag/le-ramses/",
       "type": "presse",
       "consulted": "2026-10-19"
+    },
+    {
+      "id": "s20",
+      "label": "L'Union, « Quand la Saint-Valentin rime avec libertin » (14/02/2009), archive du 03/07/2010",
+      "url": "https://web.archive.org/web/20100703012814/http://www.lunion.presse.fr/article/autres-actus/quand-la-saint-valentin-rime-avec-libertin",
+      "type": "presse",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s21",
+      "label": "L'Union, « Échangisme et soirées coquines : les libertins préfèrent la toile » (11/05/2009), archive du 23/06/2013",
+      "url": "https://web.archive.org/web/20130623034736/http://www.lunion.presse.fr/article/a-la-une/echangisme-et-soirees-coquines-les-libertins-preferent-la-toile",
+      "type": "presse",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s22",
+      "label": "Dis-moi où, fiche « Le Ramsès » et ses trois commentaires (2009-2010), archive du 13/07/2017",
+      "url": "https://web.archive.org/web/20170713051216/http://dismoiou.fr/p/fra/chalons-en-champagne/aEeeBC/le-ramses",
+      "type": "avis",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s23",
+      "label": "Guide de Nuit, fiche « Le Ramses » (discothèque, non datée)",
+      "url": "https://www.guidedenuit.com/discotheques_marne/ramses",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s24",
+      "label": "annuaire-horaire.fr, fiche « Discothèque Ramses » (non datée)",
+      "url": "https://www.annuaire-horaire.fr/societe/Discotheque-CHALONS-EN-CHAMPAGNE-Ramses/3359522",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s26",
+      "label": "Petit Futé, clubs libertins et échangistes dans la Marne (2026)",
+      "url": "https://www.petitfute.com/d38-marne/c9998-coquin/c1044-s-amuser-sortir/c206-club-libertin/",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s27",
+      "label": "Site officiel du Sauna Le Lotus (Reims), agenda d'octobre à décembre 2026",
+      "url": "https://www.sauna-lotus.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s28",
+      "label": "PagesJaunes, professionnels de la rue des Martyrs-de-la-Résistance à Châlons",
+      "url": "https://www.pagesjaunes.fr/annuaire/rue-des-martyrs-de-la-resistance-chalons-en-champagne-51/-",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
     }
   ]
 }

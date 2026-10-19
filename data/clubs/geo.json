@@ -2998,5 +2998,69 @@
   "label": "4039 Route de Sisteron 13100 Aix-en-Provence",
   "score": 0.98,
   "query": "4039 route de sisteron 13100 AIX EN PROVENCE"
+ },
+ "l-atlantis-aytre": {
+  "lat": 46.12685,
+  "lon": -1.092604,
+  "precision": "housenumber",
+  "label": "1 Rue Thalès 17440 Aytré",
+  "score": 0.96,
+  "query": "1 rue Thalès 17440 Aytré"
+ },
+ "la-villa-rose-caissargues": {
+  "lat": 43.799945,
+  "lon": 4.380822,
+  "precision": "housenumber",
+  "label": "7 Avenue de la Dame 30132 Caissargues",
+  "score": 0.95,
+  "query": "7 avenue de la Dame 30132 Caissargues"
+ },
+ "la-plume-du-phenix-valence": {
+  "lat": 44.931971,
+  "lon": 4.893428,
+  "precision": "street",
+  "label": "Rue Jonchère 26000 Valence",
+  "score": 0.7,
+  "query": "20 bis rue Jonchère 26000 Valence"
+ },
+ "le-glory-s-creteil": {
+  "lat": 48.803839,
+  "lon": 2.45353,
+  "precision": "street",
+  "label": "Rue des Bleuets 94000 Créteil",
+  "score": 0.72,
+  "query": "97 bis rue des Bleuets 94000 Créteil"
+ },
+ "l-only-us-ales": {
+  "lat": 44.110761,
+  "lon": 4.110431,
+  "precision": "housenumber",
+  "label": "1115 Route d'Uzes 30100 Alès",
+  "score": 0.97,
+  "query": "1115 route d'Uzès 30100 Alès"
+ },
+ "le-korosko-lorient": {
+  "lat": 47.743168,
+  "lon": -3.360211,
+  "precision": "housenumber",
+  "label": "18 Rue Lazare Carnot 56100 Lorient",
+  "score": 0.98,
+  "query": "18 rue Lazare Carnot 56100 Lorient"
+ },
+ "nimes-club-sauna-nimes": {
+  "lat": 43.836931,
+  "lon": 4.354034,
+  "precision": "housenumber",
+  "label": "9 Rue Fernand Pelloutier 30900 Nîmes",
+  "score": 0.84,
+  "query": "7/9 rue Fernand Pelloutier 30900 Nîmes"
+ },
+ "qg-sauna-la-rochelle": {
+  "lat": 46.157279,
+  "lon": -1.166243,
+  "precision": "housenumber",
+  "label": "13 Avenue Coligny 17000 La Rochelle",
+  "score": 0.98,
+  "query": "13 avenue Coligny 17000 La Rochelle"
  }
 }

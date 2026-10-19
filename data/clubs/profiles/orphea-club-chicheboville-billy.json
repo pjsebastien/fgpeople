@@ -1,7 +1,7 @@
 {
   "slug": "orphea-club-chicheboville-billy",
   "clubId": "424",
-  "researchedAt": "2026-10-16",
+  "researchedAt": "2026-10-20",
   "display": {
     "nom": "L'Orphéa Club",
     "ville": "Chicheboville / Billy"
@@ -19,7 +19,7 @@
   },
   "seo": {
     "title": "L'Orphéa Club à Chicheboville : avis, photos et prix 2026",
-    "metaDescription": "L'Orphéa Club, près de Caen : nouveau propriétaire depuis l'été 2025, couple 35 € le vendredi, homme seul 42 €, balnéo ouverte la nuit. Avis et photos.",
+    "metaDescription": "L'Orphéa Club, près de Caen : repris en juillet 2025 après 18 ans, couple 35 € le vendredi, homme seul 42 €, balnéo ouverte la nuit. Avis et photos.",
     "subtitle": "Club libertin avec discothèque et espace balnéo à Chicheboville, près de Caen (Calvados)",
     "targetQueries": [
       "avis sur l'orphéa club",
@@ -30,7 +30,7 @@
       "orphéa club chicheboville"
     ]
   },
-  "lead": "L'Orphéa Club ouvre le vendredi en mixte et le samedi aux couples et aux femmes seules, au 15, rue de Navarre à Chicheboville, près de Caen. Sa société exploitante date d'avril 2007, mais le site annonce un « Changement de propriétaire » depuis l'été 2025, suivi d'une nouvelle grille : couple à 35 € le vendredi, femme seule à 10 €, homme seul toujours à 42 €. L'argument maison reste un espace balnéo accessible nu toute la nuit.",
+  "lead": "L'Orphéa Club ouvre le vendredi en mixte et le samedi aux couples et aux femmes seules, au 15, rue de Navarre à Chicheboville, près de Caen. Ouvert en 2007, le club a changé de mains en juillet 2025 : l'équipe sortante avait convié sa clientèle le 19 à une soirée « passation » pour présenter ses repreneurs. Une nouvelle grille a suivi : couple à 35 € le vendredi, femme seule à 10 €, homme seul toujours à 42 €. L'argument maison reste un espace balnéo accessible nu toute la nuit.",
   "keyFacts": [
     {
       "label": "Société exploitante",
@@ -43,12 +43,13 @@
     },
     {
       "label": "Propriétaire",
-      "value": "« Changement de propriétaire » affiché depuis l'été 2025, repreneur non nommé",
+      "value": "Repris en juillet 2025 : soirée « passation » le 19, nouveau gérant nommé le 24 ; repreneurs non nommés",
       "confidence": "confirme",
       "sources": [
+        "s33",
         "s1",
-        "s25",
-        "s26"
+        "s12",
+        "s43"
       ]
     },
     {
@@ -119,7 +120,7 @@
   "sections": [
     {
       "id": "vendredi-samedi-tarifs",
-      "title": "Vendredi mixte dès 21h30, samedi couples jusqu'à 4h30 : qui entre, et pour combien",
+      "title": "Vendredi mixte dès 21h30, samedi couples jusqu'à 4h30 : couple de 35 à 45 €, homme seul à 42 €",
       "blocks": [
         {
           "kind": "text",
@@ -217,7 +218,7 @@
       "blocks": [
         {
           "kind": "text",
-          "body": "Chaque annonce de week-end le répète, encore celles des 23 et 24 octobre 2026 : l'espace balnéo reste accessible toute la nuit. Le texte de présentation du club précise que la seule condition pour y entrer est d'être nu. La galerie officielle y montre un hammam, un sauna, un jacuzzi et une piscine.\n\nLe club le dit « aussi grand qu'un sauna club » et « le plus grand de Normandie », deux formules déjà présentes sur son site en 2025. Aucune surface ni comparaison publiée ne les étaye : lisez-les comme une revendication.\n\nLe Petit Futé, dans un descriptif non daté dont les tarifs cités sont ceux de 2013-2015, parlait de 400 m² en trois zones (discothèque, coins câlins, détente) et d'une piscine « qui se découvre aux beaux jours », en notant qu'il y manquait « parfois quelques degrés ».\n\nAutour, le descriptif officiel cite une discothèque avec cage et barres de strip, des coins câlins de thèmes différents, un labyrinthe, une prison, un grand lit et une terrasse fumeur. Le labyrinthe et la prison n'ont pas de rubrique photo à leur nom, et le site ne dit pas sur combien de niveaux tout cela se répartit."
+          "body": "Chaque annonce de week-end le répète, encore celles des 23 et 24 octobre 2026 : l'espace balnéo reste accessible toute la nuit. Le texte de présentation du club précise que la seule condition pour y entrer est d'être nu. La galerie officielle y montre un hammam, un sauna, un jacuzzi et une piscine, couverte : l'annonce d'une soirée mousse de mai 2024 invitait à s'y baigner nu.\n\nLe club le dit « aussi grand qu'un sauna club » et « le plus grand de Normandie », deux formules déjà présentes sur son site en 2025. Aucune surface ni comparaison publiée ne les étaye : lisez-les comme une revendication.\n\nLes guides ne s'accordent pas sur la taille du club. Un descriptif ancien du Petit Futé (tarifs de 2013-2015) parlait de 400 m² en trois zones et d'une piscine « qui se découvre aux beaux jours », où il manquait « parfois quelques degrés ». Deux guides en ligne, dont l'un daté d'avril 2026, avancent « plus de 500 m² ».\n\nAutour, le descriptif officiel cite une discothèque avec cage et barres de strip, des coins câlins de thèmes différents, un labyrinthe, une prison, un grand lit et une terrasse fumeur. Le labyrinthe et la prison n'ont pas de rubrique photo à leur nom, et le site ne dit pas sur combien de niveaux tout cela se répartit."
         }
       ],
       "sources": [
@@ -226,7 +227,10 @@
         "s24",
         "s25",
         "s30",
-        "s32"
+        "s32",
+        "s34",
+        "s38",
+        "s40"
       ],
       "icon": "spa",
       "summary": "Hammam, sauna, jacuzzi et piscine restent ouverts toute la nuit, à condition d'être nu ; « la plus grande balnéo de Normandie » est une revendication du club."
@@ -302,22 +306,23 @@
     },
     {
       "id": "themes-recurrents",
-      "title": "Transparence, Lueur Blanche, buffets à 60 € : les soirées qui reviennent depuis 2024",
+      "title": "Mousse à la piscine, Transparence, buffets à 60 € : les soirées qui reviennent depuis 2023",
       "icon": "sparkles",
-      "summary": "« Transparence » revient depuis janvier 2025, « Lueur Blanche » impose le blanc ; les soirées buffet de 2024-2025 n'apparaissent plus dans les captures de 2026.",
+      "summary": "La mousse à la piscine revient depuis 2023, « Transparence » depuis janvier 2025 ; les soirées buffet de 2024-2025 n'apparaissent plus dans les captures de 2026.",
       "blocks": [
         {
           "kind": "list",
           "items": [
+            "**Mousse à la piscine** : en septembre 2023 et en mai 2024, aux week-ends anniversaire de juin 2024 et de juin 2025, et dans une « Pool Mousse Party » annoncée sur le site en juin 2025.",
             "**Transparence** : en janvier 2025, tarif réduit pour les femmes vêtues de transparence (couple à 25 €, femme seule gratuite) ; de nouveau en janvier 2026, puis le 17 octobre 2026, sans réduction affichée.",
             "**Lueur Blanche** : les 12 et 13 juin 2026, tenue blanche demandée à tous.",
-            "**Pool Mousse Party** : annoncée en juin 2025.",
-            "**Plaisirs & Gâterie** : un week-end d'avril 2024, avec des bracelets fluo pour signaler ses envies de la soirée."
+            "**Bracelets fluo** : en avril 2024 (« Plaisirs & Gâterie ») et en juillet 2024 (« Pluralité Code Fluo »), une couleur au poignet pour signaler ses envies de la soirée.",
+            "**Saint-Sylvestre 2023** : couple à 65 €, homme seul à 55 € s'il était « connu du club », femme seule à 25 €, une coupe de champagne ou une boisson et le petit déjeuner compris."
           ]
         },
         {
           "kind": "text",
-          "body": "Les « Grandes Soirées Buffets » d'avril 2024 et de janvier 2025 (repas de 20h30 à 22h, couple à 60 €, homme seul à 50 €, femme seule à 15 €) n'apparaissent plus dans les captures de 2026 que nous avons lues.\n\nDJ Niko Lah, qui fêtait au club ses vingt ans de platines le 24 janvier 2026, était déjà à l'affiche en août 2025. Pour le vendredi 27 juin 2025, le club annonçait aussi la venue de ses « confrères » des Amazones, un club du Mans, et de leurs clients."
+          "body": "Les « Grandes Soirées Buffets » d'avril 2024 et de janvier 2025 (repas de 20h30 à 22h, couple à 60 €, homme seul à 50 €, femme seule à 15 €) n'apparaissent plus dans les captures de 2026 que nous avons lues.\n\nJusqu'à la reprise, DJ Mind tenait souvent les platines : son agenda en ligne compte 26 soirées à l'Orphéa, de septembre 2023 au 19 juillet 2025, et aucune ensuite. Les affiches suivantes nomment d'autres DJ, dont Niko Lah, déjà là en août 2025, qui fêtait au club ses vingt ans de platines le 24 janvier 2026.\n\nPour le vendredi 27 juin 2025, le club annonçait aussi la venue de ses « confrères » des Amazones, un club du Mans, et de leurs clients."
         }
       ],
       "sources": [
@@ -327,7 +332,8 @@
         "s26",
         "s27",
         "s28",
-        "s1"
+        "s1",
+        "s34"
       ]
     },
     {
@@ -373,7 +379,7 @@
       "blocks": [
         {
           "kind": "text",
-          "body": "Le club est au 15, rue de Navarre, dans le hameau de Navarre à Chicheboville. Il signe « Chicheboville/Billy », du nom de la commune voisine. Depuis le 1er janvier 2017, Chicheboville est une commune déléguée de Moult-Chicheboville (3 441 habitants en 2023, dans la couronne de Caen), et Billy fait partie de Valambray.\n\nDepuis Caen, le site indique le périphérique puis la RN13 vers Lisieux, sortie Cagny, puis Chicheboville et la direction de Billy. Par l'A13 (Rouen, Le Havre), sortez à l'A813 Bellengreville/Frénouville ; depuis Falaise ou Alençon, prenez la N158. Dernier repère : une chapelle, puis 300 mètres, et le club est sur la gauche, avec un parking privé et fermé.\n\nPour ne pas reprendre la route à 4h30, la page Hébergement propose deux adresses sur réservation, sans prix affichés : un gîte à cinq minutes, avec plusieurs chambres le week-end (« ce n'est pas un lieu libertin », précise le club), et une « Love Room » à Billy, à 1,8 km.\n\nAutour de Caen, notre annuaire recense trois autres établissements : [l'Arc en Ciel](/arc-en-ciel-caen), [L'Open Sauna](/l-open-sauna-caen) et [le Venus Sauna](/venus-sauna-caen). Les autres adresses sont sur [la page des lieux libertins du Calvados](/departement/calvados)."
+          "body": "Le club est au 15, rue de Navarre, dans le hameau de Navarre à Chicheboville. Il signe « Chicheboville/Billy », du nom de la commune voisine. Depuis le 1er janvier 2017, Chicheboville est une commune déléguée de Moult-Chicheboville (3 441 habitants en 2023, dans la couronne de Caen), et Billy fait partie de Valambray.\n\nDepuis Caen, le site indique le périphérique puis la RN13 vers Lisieux, sortie Cagny, puis Chicheboville et la direction de Billy. Par l'A13 (Rouen, Le Havre), sortez à l'A813 Bellengreville/Frénouville ; depuis Falaise ou Alençon, prenez la N158. Dernier repère : une chapelle, puis 300 mètres, et le club est sur la gauche, avec un parking privé et fermé.\n\nPour ne pas reprendre la route à 4h30, la page Hébergement propose deux adresses sur réservation, sans prix affichés : un gîte à cinq minutes, avec plusieurs chambres le week-end (« ce n'est pas un lieu libertin », précise le club), et une « Love Room » à Billy, à 1,8 km.\n\nAutour de Caen, notre annuaire recense trois autres établissements : [l'Arc en Ciel](/arc-en-ciel-caen), [L'Open Sauna](/l-open-sauna-caen) et [le Venus Sauna](/venus-sauna-caen). Les autres adresses sont sur [la page des lieux libertins du Calvados](/departement/calvados).\n\nAu sud de Caen, le Beluga Club d'Ifs, absent de notre annuaire pour l'instant, affichait lui aussi ses soirées d'octobre 2026 ; il ouvre en outre en mixte le lundi et le jeudi après-midi."
         }
       ],
       "sources": [
@@ -383,40 +389,42 @@
         "s8",
         "s11",
         "s19",
-        "s20"
+        "s20",
+        "s37",
+        "s45"
       ],
       "icon": "map",
       "summary": "Au 15, rue de Navarre, entre Chicheboville et Billy, par la RN13 depuis Caen ; parking privé fermé, gîte et Love Room proches sur réservation."
     },
     {
       "id": "avis-orphea-club",
-      "title": "Avis sur l'Orphéa Club : un 4,2/5 Google cité par un annuaire, un seul avis Petit Futé (2015)",
+      "title": "Avis sur l'Orphéa Club : 4,3/5 sur Google pour 147 avis selon un agrégateur, un seul avis Petit Futé (2015)",
       "blocks": [
         {
           "kind": "text",
-          "body": "Au 19 octobre 2026, nous n'avons lu aucune note de nos yeux : la page Facebook officielle ne s'affiche pas sans connexion, et la fiche Google du club n'a pas pu être consultée. Un annuaire, Minuit Libertin, indique 4,2/5 sur Google pour 99 avis, dans une page datée de mai 2025 : chiffre de seconde main, non vérifié.\n\nSur le Petit Futé, un seul avis de membre (4/5, déposé en décembre 2015) recommande le club, tout en regrettant que les couples y restent entre eux."
+          "body": "Au 20 octobre 2026, nous n'avons lu aucune note sur Google même : la page Facebook du club exige une connexion, et nous ne consultons pas Google. Deux sites tiers relaient la note Google : 4,2/5 pour 99 avis (annuaire Minuit Libertin, mai 2025), puis 4,3/5 pour 147 avis (agrégateur Top-Rated.Online, relevé du 14 juillet 2026). Chiffres de seconde main, non vérifiés.\n\nCe même agrégateur reproduit seize avis Google, datés de décembre 2023 à juin 2026. Les huit postérieurs à la reprise, tous à 5/5, saluent la propreté, la balnéo et l'accueil. Les huit plus anciens vont de 1 à 5/5 ; deux regrettent de devoir traverser la piste ou le bar entre la balnéo et les coins câlins.\n\nSur le Petit Futé, un seul avis de membre (4/5, déposé en décembre 2015) recommande le club, tout en regrettant que les couples y restent entre eux."
         },
         {
           "kind": "callout",
           "tone": "tip",
           "title": "Lire les avis Google en regardant leur date",
-          "body": "Cherchez « L'Orphéa Club » sur Google Maps, ou ouvrez la [page Facebook du club](https://www.facebook.com/lorphea.club) avec un compte. Notez si chaque avis précède ou suit l'été 2025, quand le site a commencé à afficher « Changement de propriétaire » : un avis plus ancien peut décrire une autre équipe (voir [l'histoire du club](#histoire-orphea))."
+          "body": "Cherchez « L'Orphéa Club » sur Google Maps, ou ouvrez la [page Facebook du club](https://www.facebook.com/lorphea.club) avec un compte. Notez si chaque avis précède ou suit le 19 juillet 2025, date de la soirée de passation : un avis plus ancien décrit l'équipe précédente (voir [l'histoire du club](#histoire-orphea))."
         }
       ],
       "sources": [
         "s1",
         "s21",
-        "s25",
-        "s26",
         "s30",
-        "s31"
+        "s31",
+        "s33",
+        "s35"
       ],
       "icon": "star",
-      "summary": "Un annuaire cite 4,2/5 sur Google (99 avis, mai 2025), non vérifié ; le Petit Futé n'a qu'un avis, de 2015. Datez-les : le site annonce un changement de propriétaire à l'été 2025."
+      "summary": "Un agrégateur relaie 4,3/5 sur Google (147 avis, juillet 2026), non vérifié ; ses huit avis reproduits postérieurs à la reprise sont à 5/5. Le Petit Futé n'a qu'un avis, de 2015."
     },
     {
       "id": "histoire-orphea",
-      "title": "De mars 2007 au « changement de propriétaire » de l'été 2025",
+      "title": "De mars 2007 à la soirée « passation » du 19 juillet 2025",
       "blocks": [
         {
           "kind": "timeline",
@@ -432,6 +440,10 @@
             {
               "date": "Dès 2007",
               "text": "Une rubrique « La presse en parle » cite Les Nouvelles de Falaise, Union, France coquine et Le guide du kokin ; les coupures, de simples images, n'ont pas été archivées."
+            },
+            {
+              "date": "2008",
+              "text": "Adhésion au SNEG, syndicat professionnel des lieux festifs, selon la fiche d'adhérent que celui-ci publie en avril 2026 (« adhérent depuis 2008 »)."
             },
             {
               "date": "2009",
@@ -450,8 +462,16 @@
               "text": "Changement de gérant publié au BODACC."
             },
             {
+              "date": "Juin 2024 et juin 2025",
+              "text": "Week-ends anniversaire « 17 ans » (14 et 15 juin 2024) puis « 18 ans » (6 et 7 juin 2025), avec mousse à la piscine."
+            },
+            {
+              "date": "19 juillet 2025",
+              "text": "Soirée « La passation », annoncée dès mai : « après 18 ans », l'équipe sortante y passe « le flambeau » et présente les repreneurs, cocktail dînatoire offert."
+            },
+            {
               "date": "Été 2025",
-              "text": "« Changement de propriétaire » apparaît sur l'accueil entre le 23 juin et le 4 août. Le 24 juillet, le registre remplace l'établissement du hameau par celui du 15, rue de Navarre ; le BODACC du 3 août publie un changement de gérant et le transfert du siège."
+              "text": "Le 24 juillet, la SARL nomme un nouveau gérant, et le registre remplace l'établissement du hameau par celui du 15, rue de Navarre (BODACC du 3 août). « Changement de propriétaire » apparaît sur l'accueil du site au plus tard le 4 août."
             },
             {
               "date": "Janvier 2026 au plus tard",
@@ -461,7 +481,7 @@
         },
         {
           "kind": "text",
-          "body": "Le site n'en dit pas plus que ces trois mots et ne nomme pas le repreneur. Le registre ne montre ni nouvelle société ni vente du fonds publiée, seulement un changement de gérant au sein de la même SARL.\n\nNous ignorons donc s'il s'agit d'une cession de parts : le lien entre la mention du site et les annonces légales repose sur la concordance des dates.\n\nLa nouvelle adresse au registre ne signale pas un déménagement : même hameau, même enseigne, même téléphone (02 31 38 23 04, inchangé depuis au moins 2009), et le site affichait déjà le 15, rue de Navarre en 2013."
+          "body": "Hors Facebook, illisible sans connexion, la seule annonce publique de la reprise que nous ayons trouvée est l'invitation à la soirée de passation, relayée par l'agenda en ligne de DJ Mind, qui l'animait. Le site du club s'en tient à « Changement de propriétaire ». Ni l'un ni l'autre ne nomme les repreneurs.\n\nLe registre ne montre ni nouvelle société ni vente du fonds publiée, seulement un nouveau gérant au sein de la même SARL, nommé cinq jours après la soirée. Nous ignorons donc s'il s'agit d'une cession de parts.\n\nLa nouvelle adresse au registre ne signale pas un déménagement : même hameau, même enseigne, même téléphone (02 31 38 23 04, inchangé depuis au moins 2009), et le site affichait déjà le 15, rue de Navarre en 2013."
         }
       ],
       "sources": [
@@ -477,10 +497,14 @@
         "s18",
         "s25",
         "s26",
-        "s27"
+        "s27",
+        "s33",
+        "s34",
+        "s36",
+        "s43"
       ],
       "icon": "history",
-      "summary": "Site en ligne dès mars 2007, SARL immatriculée en avril 2007 ; changements de gérant en 2024 et 2025, et « Changement de propriétaire » affiché depuis l'été 2025."
+      "summary": "Site en ligne dès mars 2007 ; le 19 juillet 2025, l'équipe sortante conviait sa clientèle à rencontrer ses repreneurs, et un nouveau gérant était nommé le 24."
     }
   ],
   "horaires": {
@@ -581,7 +605,11 @@
   "faq": [
     {
       "question": "Quels avis trouve-t-on sur l'Orphéa Club ?",
-      "answer": "Nous n'avons lu aucune note de nos yeux au 19 octobre 2026. Un annuaire cite 4,2/5 sur Google pour 99 avis (page de mai 2025, non vérifiée), et le Petit Futé n'affiche qu'un avis de membre, noté 4/5, de décembre 2015. Pour en lire d'autres, cherchez le club sur Google Maps ou ouvrez sa page Facebook avec un compte, et regardez la date de chaque avis : selon le site, le propriétaire a changé à l'été 2025."
+      "answer": "Nous n'avons lu aucune note de nos yeux au 20 octobre 2026. Un agrégateur relaie 4,3/5 sur Google pour 147 avis (relevé du 14 juillet 2026, non vérifié), contre 4,2/5 pour 99 avis selon un annuaire en mai 2025 ; les huit avis postérieurs à la reprise qu'il reproduit sont tous à 5/5 ; le Petit Futé n'affiche qu'un avis de membre, noté 4/5, de décembre 2015. Pour en lire d'autres, cherchez le club sur Google Maps ou ouvrez sa page Facebook avec un compte, et regardez la date de chaque avis : l'équipe a changé le 19 juillet 2025."
+    },
+    {
+      "question": "Depuis quand l'Orphéa Club existe-t-il ?",
+      "answer": "Depuis 2007 : le site était en ligne en mars, la SARL L'ORPHEA a été immatriculée le 28 avril, et le club fêtait ses 17 ans en juin 2024 puis ses 18 ans en juin 2025. Le jour de la première soirée n'est publié nulle part."
     },
     {
       "question": "Où voir des photos de l'Orphéa Club ?",
@@ -605,15 +633,15 @@
     },
     {
       "question": "L'Orphéa Club a-t-il changé de propriétaire ?",
-      "answer": "Le site l'annonce depuis l'été 2025, et la SARL L'ORPHEA a publié au même moment un changement de gérant au BODACC. Le repreneur n'est pas nommé, et nous ignorons s'il s'agit d'une cession de parts."
+      "answer": "Oui. L'équipe sortante avait convié sa clientèle le samedi 19 juillet 2025 à une soirée « La passation » pour présenter les repreneurs : « après 18 ans », elle passait « le flambeau ». Le 24 juillet, la SARL L'ORPHEA a nommé un nouveau gérant, et le site affiche « Changement de propriétaire » depuis l'été 2025. Les repreneurs ne sont pas nommés publiquement, et nous ignorons s'il s'agit d'une cession de parts."
     }
   ],
   "unverified": [
-    "La note Google et le nombre d'avis : seul un annuaire (4,2/5 pour 99 avis, page de mai 2025) les donne, nous ne les avons pas lus sur Google.",
-    "La surface, le nombre de niveaux et la capacité : le club n'en publie aucune ; le chiffre de 400 m² vient d'un descriptif non daté du Petit Futé.",
-    "La date de la première soirée : le site existe en mars 2007 et la société est immatriculée en avril 2007, mais l'ouverture au public n'est pas datée.",
-    "L'identité du repreneur et la nature de l'opération de l'été 2025 (cession de parts ou non).",
-    "Le tarif du samedi 31 octobre 2026 (Halloween, acte II), pas encore affiché au 19 octobre.",
+    "La note Google et le nombre d'avis : des sites tiers donnent 4,2/5 (99 avis, mai 2025) puis 4,3/5 (147 avis, juillet 2026) ; nous ne les avons pas lus sur Google.",
+    "La surface, le nombre de niveaux et la capacité : le club n'en publie aucune ; les guides avancent 400 m² ou « plus de 500 m² ».",
+    "Le jour de la première soirée : le club fête son anniversaire en juin (17 ans les 14 et 15 juin 2024, 18 ans les 6 et 7 juin 2025), mais aucune source ne date l'ouverture au public.",
+    "L'identité des repreneurs présentés le 19 juillet 2025 et la nature de l'opération (cession de parts ou non).",
+    "Le tarif du samedi 31 octobre 2026 (Halloween, acte II), pas encore affiché au 20 octobre.",
     "Le contenu des articles cités par l'ancien site (Les Nouvelles de Falaise, Union, France coquine, Le guide du kokin).",
     "Le compte « orphea14370 » affiché sur la page des partenaires : probablement Instagram, non confirmé.",
     "Les prix du gîte et de la Love Room recommandés par le club."
@@ -828,6 +856,69 @@
       "url": "https://www.orpheaclub.com/",
       "type": "officiel",
       "consulted": "2026-10-19"
+    },
+    {
+      "id": "s33",
+      "label": "DJ Mind, annonce de la soirée « La passation » de l'Orphéa Club (19 juillet 2025)",
+      "url": "https://dj-mind.com/orphea-club-information-a-venir",
+      "type": "autre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s34",
+      "label": "DJ Mind, agenda en ligne (26 soirées à l'Orphéa Club, septembre 2023 à juillet 2025)",
+      "url": "https://dj-mind.com/",
+      "type": "autre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s35",
+      "label": "Top-Rated.Online, fiche « L'Orphéa Club » (note Google relayée et seize avis datés, relevé du 14 juillet 2026)",
+      "url": "https://www.top-rated.online/cities/Moult-Chicheboville/place/p/5416437/L'Orph%C3%A9a+Club",
+      "type": "avis",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s36",
+      "label": "SNEG & Co, fiche d'adhérent « L'Orphéa Club » (publiée le 9 avril 2026)",
+      "url": "https://www.snegandco.fr/lorphea-club/",
+      "type": "autre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s37",
+      "label": "Le Beluga Club (Ifs), site officiel",
+      "url": "https://www.lebelugaclub.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s38",
+      "label": "Sauna Club Le Bali, fiche « L'Orphéa Club » (annuaire, ajoutée le 9 avril 2026)",
+      "url": "https://www.saunaclublebali.fr/listing/lorphea-club-moult-chicheboville/",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s40",
+      "label": "Esprits Libertins, « Guide complet des clubs libertins à Caen » (non daté)",
+      "url": "https://www.espritslibertins.com/guide-complet-des-clubs-libertins-a-caen/",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s43",
+      "label": "Societe.com, SARL L'ORPHEA (décision de nomination du gérant du 24 juillet 2025)",
+      "url": "https://www.societe.com/societe/l-orphea-495401986.html",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s45",
+      "label": "Le Beluga Club (Ifs), page « Horaires et tarifs » (modifiée le 17 septembre 2026)",
+      "url": "https://www.lebelugaclub.fr/horaires-et-tarifs/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
     }
   ],
   "glance": [
@@ -854,7 +945,7 @@
     {
       "icon": "history",
       "label": "Société",
-      "value": "Depuis 2007 ; reprise annoncée été 2025"
+      "value": "Depuis 2007 ; repris en juillet 2025"
     },
     {
       "icon": "info",

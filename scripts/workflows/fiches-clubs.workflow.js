@@ -94,7 +94,8 @@ ${depth === 'light' ? LIGHT : 'Recherche COMPLÈTE : un club documenté doit don
 3. Tranche le statut selon les règles de décision du playbook.
 4. Doublons dans notre base : établis-les sur preuve uniquement (section « Doublons » du dossier).
 5. Écris le dossier data/clubs/research/${slug}.md au format du playbook, ET data/clubs/research/${slug}.missing.json : les lieux libertins proches absents de notre base ([] si aucun ; vérifie avec \`node scripts/find-club.mjs\`).
-N'écris aucun autre fichier.`
+N'écris aucun autre fichier.
+Si WebSearch refuse plus de deux de tes requêtes (quota), écris dans le dossier la mention exacte « WebSearch indisponible » et la liste des requêtes non faites : le club repassera en recherche complémentaire.`
 }
 
 function complementPrompt(slug, published) {
@@ -135,7 +136,8 @@ Lieu : « ${c.nom} », ${c.ville}${c.url ? `, ${c.url}` : ''} (repéré dans le 
 3. Décision :
    - Rejeté (doublon, fermé, introuvable, hors périmètre) : mets à jour data/clubs/candidates/${key}.json avec "status": "rejected", "reason" (et "duplicateOf" si doublon). N'écris rien d'autre.
    - Retenu : écris data/clubs/new/<slug>.json (format du playbook, libellés de \`node scripts/find-club.mjs --dept <code>\`), le dossier data/clubs/research/<slug>.md et data/clubs/research/<slug>.missing.json, puis mets la file à "status": "added", "slug": "<slug>". Vérifie que \`node scripts/club-context.mjs <slug>\` fonctionne.
-Tu ne rédiges pas la fiche personnalisée.`
+Tu ne rédiges pas la fiche personnalisée.
+Si WebSearch refuse tes requêtes (quota), n'écarte JAMAIS le lieu faute de résultats : laisse la file en "status": "todo", ajoute "retry": "<raison>", et réponds decision "rejected" avec la raison « recherche impossible, à reprendre ».`
 }
 
 function writePrompt(slug, depth) {

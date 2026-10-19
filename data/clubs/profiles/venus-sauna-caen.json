@@ -1,7 +1,7 @@
 {
   "slug": "venus-sauna-caen",
   "clubId": "15542",
-  "researchedAt": "2026-10-16",
+  "researchedAt": "2026-10-20",
   "display": {
     "nom": "Venus Sauna",
     "ville": "Caen"
@@ -33,7 +33,7 @@
       "libertinage caen"
     ]
   },
-  "lead": "Le Venus Sauna a quitté l'avenue de Tourville : depuis juin 2025, il occupe le 214 rue Verte à Hérouville-Saint-Clair, commune limitrophe de Caen, avec un sauna libertin mixte ouvert tous les jours, un espace masculin l'après-midi et un love shop. Une femme y entre pour 5 €, un couple pour 25 €, un homme pour 40 € (50 € le samedi soir), des prix inchangés depuis au moins 2023. Sept soirées à thème sont affichées pour octobre 2026.",
+  "lead": "Le Venus Sauna a quitté l'avenue de Tourville : depuis juin 2025, il occupe au 214 rue Verte à Hérouville-Saint-Clair, commune limitrophe de Caen, une ancienne discothèque (selon un guide LGBT) : un sauna libertin mixte ouvert tous les jours, un espace masculin l'après-midi et un love shop. Une femme y entre pour 5 €, un couple pour 25 €, un homme pour 40 € (50 € le samedi soir), des prix inchangés depuis au moins 2023. Sept soirées à thème sont affichées pour octobre 2026.",
   "glance": [
     {
       "icon": "map",
@@ -117,12 +117,13 @@
     },
     {
       "label": "Téléphone",
-      "value": "02 31 72 69 69, aussi sur WhatsApp",
+      "value": "02 31 72 69 69, aussi sur WhatsApp (déjà celui de la boutique Venus en 2016)",
       "confidence": "confirme",
       "sources": [
         "s1",
         "s5",
-        "s17"
+        "s17",
+        "s34"
       ]
     },
     {
@@ -184,12 +185,11 @@
       ]
     },
     {
-      "label": "Âge minimum",
-      "value": "18 ans",
-      "confidence": "confirme",
+      "label": "Surface",
+      "value": "Environ 800 m², contre 250 m² avenue de Tourville, selon un guide LGBT (2025) ; non publiée par le club",
+      "confidence": "source_unique",
       "sources": [
-        "s1",
-        "s6"
+        "s33"
       ]
     }
   ],
@@ -232,18 +232,25 @@
     },
     {
       "id": "avis-livre-d-or",
-      "title": "168 messages au livre d'or, aucune note Google relevée : où en sont les avis",
+      "title": "4,2 sur 5 pour 159 avis Google relayés, cinq avis Petit Futé d'avant le déménagement",
       "icon": "star",
-      "summary": "Pas de note Google relevée. Le livre d'or du club, modéré, loue la propreté et l'accueil des débutants, et regrette une fermeture à 1 h et quelques clients « lourdingues ».",
+      "summary": "Google : 4,2/5 sur 159 avis selon un agrégateur (7 octobre 2026). Petit Futé : 4/5 sur 5 avis, tous sur l'ancien local. Le livre d'or, modéré, loue propreté et accueil.",
       "confidence": "source_unique",
       "sources": [
+        "s36",
+        "s35",
+        "s37",
         "s14",
         "s5"
       ],
       "blocks": [
         {
           "kind": "text",
-          "body": "Aucune note Google ni aucun avis publié sur une plateforme indépendante n'a pu être relevé lors de notre recherche d'octobre 2026. Reste le livre d'or du site officiel : 168 messages entre 2017 et le 7 mai 2026, dont 18 en 2025 et 8 en 2026. Il est **modéré par le club** et mêle Caen et Évreux. Avec cette réserve, voici ce qui revient pour Caen."
+          "body": "Nous n'avons pas lu la fiche Google elle-même. Au 7 octobre 2026, l'agrégateur Top-Rated.online, qui reprend les avis Google Maps du 214 rue Verte, affichait 4,2/5 sur 159 avis : une note à prendre avec cette réserve.\n\nIl n'en affiche que trois, non datés, trop peu pour dégager une tendance : deux à cinq étoiles, dont un seul détaillé (l'espace, des alcôves qu'une porte permet de fermer, le grand parking), et un à une étoile sur l'accueil."
+        },
+        {
+          "kind": "text",
+          "body": "Sur le Petit Futé, la note est de 4/5, mais sur cinq avis seulement, déposés de juillet 2017 à août 2021 : ils décrivent l'ancien local de l'avenue de Tourville. Les deux fiches PagesJaunes du Venus n'ont reçu aucun avis.\n\nReste le livre d'or du site officiel : 168 messages entre 2017 et le 7 mai 2026, dont 18 en 2025 et 8 en 2026. Il est **modéré par le club** et mêle Caen et Évreux ; voici ce qui y revient pour Caen."
         },
         {
           "kind": "list",
@@ -266,7 +273,7 @@
         },
         {
           "kind": "text",
-          "body": "Les signatures caennaises viennent de tout le Calvados (Caen, Bayeux, Lisieux, Ifs), mais le livre d'or mêle aussi des messages sur Évreux. Pour juger par vous-même, lisez la fiche Google en vérifiant qu'elle porte l'adresse de la rue Verte."
+          "body": "Les signatures caennaises viennent de tout le Calvados (Caen, Bayeux, Lisieux, Ifs). Pour juger par vous-même, privilégiez les avis Google postérieurs à juin 2025 : les plus anciens décrivent forcément l'avenue de Tourville."
         },
         {
           "kind": "text",
@@ -288,7 +295,9 @@
         "s7",
         "s14",
         "s15",
-        "s16"
+        "s16",
+        "s33",
+        "s36"
       ],
       "blocks": [
         {
@@ -303,7 +312,7 @@
           "kind": "callout",
           "tone": "warning",
           "title": "Passe-t-on d'un espace à l'autre ?",
-          "body": "La page d'accueil présente l'espace masculin comme « indépendant de l'espace mixte ». Deux messages du livre d'or disent pourtant le contraire : en juillet 2025, les « bis ou hétéros » vont et viennent dans le côté masculin ; en janvier 2026, on passe librement « du côté mixte à gay ». Posez la question à l'accueil ou par WhatsApp au 02 31 72 69 69."
+          "body": "La page d'accueil présente l'espace masculin comme « indépendant de l'espace mixte » ; le guide LGBT Gay Viking, dans une page mise à jour en juillet 2025, écrit qu'on ne passe pas d'une zone à l'autre, et un avis Google relayé parle d'un « espace gay indépendant ».\n\nDeux messages du livre d'or disent pourtant le contraire : en juillet 2025, les « bis ou hétéros » vont et viennent dans le côté masculin ; en janvier 2026, on passe librement « du côté mixte à gay ». Posez la question à l'accueil ou par WhatsApp au 02 31 72 69 69."
         }
       ]
     },
@@ -392,9 +401,9 @@
     },
     {
       "id": "jacuzzi-bar-love-shop",
-      "title": "Cocktails de 20 cl, love shop au rez-de-chaussée, parking pour camping-cars : le reste de l'adresse",
+      "title": "Un sauna et un jacuzzi par espace, cocktails de 20 cl et love shop au rez-de-chaussée",
       "icon": "drink",
-      "summary": "Spa, hammam, sauna, coins câlins et terrasse, plus un bar, un love shop au rez-de-chaussée et un grand parking privé ; la surface du local n'est pas publiée.",
+      "summary": "Chaque espace a son sauna, son hammam et son spa ; s'y ajoutent un bar, un love shop et un grand parking privé. Surface : 800 m² selon un guide, chiffre que le club ne publie pas.",
       "sources": [
         "s6",
         "s7",
@@ -405,12 +414,13 @@
         "s13",
         "s14",
         "s25",
-        "s5"
+        "s5",
+        "s33"
       ],
       "blocks": [
         {
           "kind": "text",
-          "body": "Pour le nouveau local, l'affiche d'août 2025 énumère spa, hammam, sauna, coins câlins et terrasse ; la bannière de l'espace masculin y ajoute balançoire, piste de danse, bar et fumoir. Ni la surface ni le nombre de niveaux ne sont publiés, alors que le Venus d'Évreux annonce 400 m²."
+          "body": "Pour le nouveau local, l'affiche d'août 2025 énumère spa, hammam, sauna, coins câlins et terrasse, côté mixte comme côté masculin ; la bannière de l'espace masculin y ajoute balançoire, piste de danse, bar et fumoir.\n\nLe club ne publie ni sa surface ni son nombre de niveaux. Selon le guide Gay Viking (page mise à jour en juillet 2025), il est passé de 250 à 800 m² en s'installant rue Verte, et tout y est en double : deux saunas secs, deux jacuzzis, deux hammams, deux terrasses, des cabines de chaque côté. Le Venus d'Évreux, lui, annonce 400 m²."
         },
         {
           "kind": "list",
@@ -426,16 +436,19 @@
     },
     {
       "id": "histoire-tourville-rue-verte",
-      "title": "Avenue de Tourville en 2017, rue Verte en juin 2025 : neuf ans de Venus",
+      "title": "Rue d'Auge en 2016, avenue de Tourville en 2017, rue Verte en juin 2025 : trois adresses pour le Venus",
       "icon": "history",
-      "summary": "Lancé en janvier 2017 au 57 avenue de Tourville par la SAS Tourville, le Venus a ouvert un second sauna près d'Évreux en 2022, puis déménagé rue Verte en juin 2025.",
+      "summary": "Né en 2017 avenue de Tourville, dans le sillage de la boutique Venus de la rue d'Auge, le Venus a ouvert un second sauna près d'Évreux en 2022 et déménagé rue Verte en juin 2025.",
       "sources": [
+        "s34",
+        "s35",
+        "s33",
+        "s38",
         "s8",
         "s19",
         "s20",
         "s21",
         "s22",
-        "s23",
         "s14",
         "s15",
         "s16",
@@ -457,20 +470,32 @@
               "text": "Au 57-59 avenue de Tourville, la société Spa Mandala exploite un spa avant sa liquidation judiciaire, prononcée le 27 juillet 2016."
             },
             {
+              "date": "Avril 2016",
+              "text": "Le site venus-caen.fr, édité par la SAS Auge, présente la boutique érotique Venus du 32 rue d'Auge avec déjà le 02 31 72 69 69, aujourd'hui numéro du sauna, mais prévient : « Nous sommes malheureusement fermés pour le moment »."
+            },
+            {
               "date": "Novembre 2016",
-              "text": "Le fonds de Spa Mandala, à cette adresse, est vendu 15 000 € à un particulier (BODACC du 7 décembre 2016). Que le Venus lui ait succédé reste une déduction tirée des dates et de l'adresse."
+              "text": "Le fonds de Spa Mandala, avenue de Tourville, est vendu 15 000 € à un particulier (BODACC du 7 décembre 2016). Que le Venus lui ait succédé reste une déduction tirée des dates et de l'adresse."
             },
             {
               "date": "8 janvier 2017",
-              "text": "La SAS Tourville démarre à cette adresse après l'achat d'un fonds : hammam, sauna, jacuzzi, club libertin et vente d'articles érotiques."
+              "text": "La SAS Tourville démarre au 57 avenue de Tourville après l'achat d'un fonds : hammam, sauna, jacuzzi, club libertin et vente d'articles érotiques."
+            },
+            {
+              "date": "Mai 2017",
+              "text": "Le site venus-caen.fr devient un aiguillage à deux portes : « Venus Boutique », toujours rue d'Auge, et « Venus Sauna »."
             },
             {
               "date": "Novembre 2017",
               "text": "Le site décrit un sauna libertin ouvert à toutes les tendances, fermé le mercredi, avec bain à bulles, salons câlins et espace fumeurs."
             },
             {
-              "date": "Vers 2018",
-              "text": "Le love shop Venus s'installe au rez-de-chaussée, après trente ans « à la gare de Caen » selon la page boutique de 2020."
+              "date": "Fin 2017 - début 2018",
+              "text": "Le love shop Venus s'installe au rez-de-chaussée : le livre d'or l'annonce en décembre 2017, un avis Petit Futé le décrit en place en janvier 2018. Ce visiteur juge le lieu « trop petit », avec un jacuzzi d'environ cinq places à l'étage ; le club lui répond qu'il y a un « bar sans alcool »."
+            },
+            {
+              "date": "Février 2018",
+              "text": "Un couple salue sur le Petit Futé l'ouverture, nouvelle, du vendredi soir."
             },
             {
               "date": "Juin 2021",
@@ -478,7 +503,7 @@
             },
             {
               "date": "Octobre 2022",
-              "text": "La même société ouvre un second Venus à Guichainville, près d'Évreux, dont elle a acheté le fonds 30 000 €."
+              "text": "La même société ouvre un second Venus à Guichainville, près d'Évreux, dont elle a acheté le fonds 30 000 € : il remplace le Clèm, sauna gay fermé le 18 juin 2022."
             },
             {
               "date": "Juin 2023",
@@ -490,26 +515,45 @@
             },
             {
               "date": "Juin 2025",
-              "text": "Le 1er, le registre ferme l'établissement de Caen et ouvre celui du 214 rue Verte, nouveau siège. Le 10, un couple y passe sa « première visite au Venus de Herouville », racontée le lendemain au livre d'or. Le 24, le BODACC publie le transfert."
+              "text": "Le 1er, le registre ferme l'établissement de Caen et ouvre celui du 214 rue Verte, nouveau siège : selon Gay Viking, l'ancienne discothèque La Mare au Diable, où le patron a fait les travaux lui-même. Le 10, un couple y passe sa « première visite au Venus de Herouville », racontée le lendemain au livre d'or. Le 24, le BODACC publie le transfert."
             },
             {
               "date": "9-11 octobre 2026",
               "text": "Refonte du site en quatre espaces, deux à Caen et deux à Évreux, avec un « Agent IA » pour les questions."
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "id": "boutique-rue-d-auge-mare-au-diable",
+      "title": "La boutique Venus de la rue d'Auge avant 2017, l'ancienne discothèque La Mare au Diable depuis 2025",
+      "icon": "building",
+      "summary": "Le 02 31 72 69 69 était déjà celui de la boutique Venus de la rue d'Auge en 2016 ; rue Verte, le sauna occupe selon un guide l'ancienne discothèque La Mare au Diable.",
+      "sources": [
+        "s34",
+        "s22",
+        "s11",
+        "s17",
+        "s23",
+        "s33",
+        "s39"
+      ],
+      "blocks": [
         {
           "kind": "text",
-          "body": "Deux points restent ouverts. Le nom Venus circule dans le commerce érotique caennais bien avant 2017 : rue d'Auge et rue Saint-Martin, le registre recense des sociétés de ce nom de 1996 à 2018, dont l'une déclarait déjà « sauna, jacuzzi, club libertin ». Aucun lien juridique avec la SAS Tourville n'est établi.\n\nQuant au 214 rue Verte, il abrite des établissements de nuit depuis 1987 (Canal Danse-Studio, Le Palais de 2010 à 2017, puis la discothèque 9ine Klub, toujours active au registre) ; nous ignorons si le Venus occupe l'ancienne salle ou un autre bâtiment."
+          "body": "Le nom Venus circule dans le commerce érotique caennais bien avant 2017 : rue d'Auge et rue Saint-Martin, le registre recense des sociétés de ce nom de 1996 à 2018, dont l'une, la SAS Auge, déclarait déjà « sauna, jacuzzi, club libertin ». La page boutique de 2020 revendique d'ailleurs trente ans « à la gare de Caen ».\n\nLe lien avec le sauna ne fait plus guère de doute : en 2016, le site de la boutique de la rue d'Auge affichait le 02 31 72 69 69, et son domaine renvoie aujourd'hui vers celui du sauna. Le registre, lui, ne relie pas la SAS Auge à la SAS Tourville.\n\nQuant au 214 rue Verte, il abrite des établissements de nuit depuis 1987 : Canal Danse-Studio, Le Palais de 2010 à 2017, puis le 9ine Klub, dont la société reste active au registre. Un guide des nuits y situe aussi la discothèque La Mare au Diable, dans laquelle le Venus s'est installé selon Gay Viking."
         }
       ]
     },
     {
       "id": "club-libertin-caen-alentours",
-      "title": "Club libertin à Caen : le Venus, l'Arc en Ciel, l'Orphéa à Chicheboville et L'Open, fermé en 2017",
+      "title": "Club libertin à Caen : le Venus, l'Arc en Ciel, le Beluga à Ifs, l'Orphéa à Chicheboville et L'Open, fermé en 2017",
       "icon": "map",
       "summary": "Désormais à Hérouville-Saint-Clair, à 3 km de son ancien local, le Venus est le seul lieu trouvé dans l'agglomération à réunir sauna mixte, sauna masculin et boutique.",
       "sources": [
+        "s40",
+        "s38",
         "s26",
         "s24",
         "s28",
@@ -524,7 +568,7 @@
       "blocks": [
         {
           "kind": "text",
-          "body": "Si vous cherchez un club libertin à Caen, sachez d'abord que le Venus n'est plus dans la commune : le 214 rue Verte se trouve à Hérouville-Saint-Clair, à environ 3 km au nord-est de l'ancien local, et l'ancien 02 31 26 20 94, encore repris par des annuaires, n'est plus le bon.\n\nC'est le seul lieu de l'agglomération que nous ayons trouvé à réunir sauna libertin mixte quotidien, sauna masculin et boutique. Les autres adresses de [notre sélection caennaise](/ville/caen) jouent une autre partition :\n\n- [L'Arc en Ciel](/arc-en-ciel-caen) se dit « 100 % mecs » sur son site tout en organisant des soirées mixtes ;\n- [l'Orphéa Club, à Chicheboville](/orphea-club-chicheboville-billy), club de nuit du vendredi et du samedi, est bien ouvert : le 19 octobre 2026, son site affichait des soirées datées jusqu'à l'« Acte II » d'Halloween, le samedi 31 octobre ;\n- L'Open, ancien sauna de la rue de Courtonne, a fermé au registre le 1er juin 2017.\n\nLe reste du département figure sur [la page Calvados](/departement/calvados).\n\nLe Venus a un frère dans l'Eure : le [Venus d'Évreux](https://venus-sauna.fr/club-libertin-evreux), à Guichainville, ouvert en octobre 2022 sur 400 m², masculin en semaine et mixte le mardi soir, le vendredi et le week-end.\n\nHors de ces quelques lieux, les rencontres normandes se préparent aussi en ligne. Gleese, site français lancé fin 2024, fait modérer les photos à la main ; [un profil normand vérifié par téléphone](aff:gleese) s'y crée sans carte bancaire, ce qui laisse le temps de juger si la plateforme, encore jeune, compte assez d'inscrits autour de Caen."
+          "body": "Si vous cherchez un club libertin à Caen, sachez d'abord que le Venus n'est plus dans la commune : le 214 rue Verte se trouve à Hérouville-Saint-Clair, à environ 3 km au nord-est de l'ancien local, et l'ancien 02 31 26 20 94, encore repris par des annuaires, n'est plus le bon.\n\nC'est le seul lieu de l'agglomération que nous ayons trouvé à réunir sauna libertin mixte quotidien, sauna masculin et boutique. Les autres adresses de [notre sélection caennaise](/ville/caen) jouent une autre partition :\n\n- [L'Arc en Ciel](/arc-en-ciel-caen) se dit « 100 % mecs » sur son site tout en organisant des soirées mixtes ;\n- [l'Orphéa Club, à Chicheboville](/orphea-club-chicheboville-billy), club de nuit du vendredi et du samedi, est bien ouvert : le 19 octobre 2026, son site affichait des soirées datées jusqu'à l'« Acte II » d'Halloween, le samedi 31 octobre ;\n- le Beluga Club, rue de la Dronnière à Ifs, pas encore présent dans notre annuaire, a mis en ligne ses affiches d'octobre 2026 : mixte le lundi, le jeudi, le vendredi soir et le dimanche, samedi soir réservé aux couples et aux femmes seules ;\n- L'Open, ancien sauna de la rue de Courtonne, a fermé au registre le 1er juin 2017.\n\nLe reste du département figure sur [la page Calvados](/departement/calvados).\n\nLe Venus a un frère dans l'Eure : le [Venus d'Évreux](https://venus-sauna.fr/club-libertin-evreux), à Guichainville, ouvert en octobre 2022 sur 400 m² à la place du Clèm, un sauna gay, masculin en semaine et mixte le mardi soir, le vendredi et le week-end.\n\nHors de ces quelques lieux, les rencontres normandes se préparent aussi en ligne. Gleese, site français lancé fin 2024, fait modérer les photos à la main ; [un profil normand vérifié par téléphone](aff:gleese) s'y crée sans carte bancaire, ce qui laisse le temps de juger si la plateforme, encore jeune, compte assez d'inscrits autour de Caen."
         }
       ]
     }
@@ -542,7 +586,7 @@
       "Masculin, samedi": "14 h - 19 h",
       "Masculin, dimanche": "1er et 3e du mois, 14 h - 19 h"
     },
-    "note": "Grilles du site officiel au 16 octobre 2026, identiques à l'affiche d'août 2025 sauf pour le dimanche de l'espace masculin. Les soirs de soirée à thème, la partie soirée commence à 19 h.",
+    "note": "Grilles du site officiel relues le 20 octobre 2026, identiques à l'affiche d'août 2025 sauf pour le dimanche de l'espace masculin. Les soirs de soirée à thème, la partie soirée commence à 19 h.",
     "confidence": "confirme",
     "sources": [
       "s2",
@@ -581,6 +625,16 @@
     "Balançoire et piste de danse (espace masculin, selon le club)",
     "Love shop",
     "Parking privé, camping-cars acceptés"
+  ],
+  "externalRatings": [
+    {
+      "platform": "Petit Futé (avis de 2017 à 2021, ancien local)",
+      "rating": 4,
+      "scale": 5,
+      "count": 5,
+      "date": "2026-10-20",
+      "url": "https://www.petitfute.com/v4787-herouville-saint-clair-14200/c9998-coquin/c1044-s-amuser-sortir/c208-sauna/1597277-venus-sauna/tous-les-avis.html"
+    }
   ],
   "officialLinks": [
     {
@@ -624,7 +678,7 @@
   "faq": [
     {
       "question": "Le Venus Sauna est-il toujours avenue de Tourville à Caen ?",
-      "answer": "Non. Depuis juin 2025, il est au 214 rue Verte, 14200 Hérouville-Saint-Clair : le registre a fermé l'ancien établissement le 1er juin 2025 et le BODACC a publié le transfert du siège le 24 juin. Le numéro est le 02 31 72 69 69, aussi sur WhatsApp."
+      "answer": "Non. Depuis juin 2025, il est au 214 rue Verte, 14200 Hérouville-Saint-Clair : le registre a fermé l'ancien établissement le 1er juin 2025 et le BODACC a publié le transfert du siège le 24 juin. Certains annuaires écrivent « 214 boulevard Val St Clair » : dans un GPS, saisissez plutôt la rue Verte, car la Base Adresse Nationale ne connaît pas de n° 214 sur ce boulevard. Le numéro est le 02 31 72 69 69, aussi sur WhatsApp."
     },
     {
       "question": "Quel est le tarif d'entrée au Venus Sauna de Caen ?",
@@ -636,7 +690,7 @@
     },
     {
       "question": "Que disent les avis sur le Venus Sauna Caen ?",
-      "answer": "Aucune note indépendante n'a été relevée. Le livre d'or, modéré par le club (168 messages de 2017 à mai 2026), loue la propreté, l'accueil des débutants et la taille du jacuzzi, et regrette une fermeture à 1 h, des couloirs frais et quelques clients « lourdingues »."
+      "answer": "Nous n'avons pas lu la fiche Google elle-même ; un agrégateur qui la reprend affichait 4,2/5 sur 159 avis au 7 octobre 2026. Le Petit Futé donne 4/5, sur cinq avis antérieurs au déménagement. Le livre d'or, modéré par le club (168 messages de 2017 à mai 2026), loue la propreté, l'accueil des débutants et la taille du jacuzzi, et regrette une fermeture à 1 h, des couloirs frais et quelques clients « lourdingues »."
     },
     {
       "question": "Un homme seul peut-il entrer au Venus ?",
@@ -656,15 +710,16 @@
     }
   ],
   "unverified": [
-    "La note Google de l'établissement de la rue Verte et son nombre d'avis.",
-    "La circulation entre l'espace mixte et l'espace masculin : libre selon un message de janvier 2026, espace « indépendant » selon le site.",
-    "La surface du local de Hérouville-Saint-Clair, son nombre de niveaux et la capacité du jacuzzi.",
+    "La note Google lue sur la plateforme elle-même : 4,2/5 sur 159 avis selon l'agrégateur Top-Rated.online au 7 octobre 2026, non vérifié sur Google.",
+    "La circulation entre l'espace mixte et l'espace masculin : impossible selon le site et Gay Viking (juillet 2025), libre selon deux messages du livre d'or (juillet 2025, janvier 2026).",
+    "La surface du local de Hérouville-Saint-Clair (800 m² selon le seul Gay Viking, chiffre non publié par le club), son nombre de niveaux et la capacité des jacuzzis.",
     "L'existence d'un spa extérieur, d'un espace BDSM et d'une prestation de massage, vus seulement dans des intitulés ou sur des illustrations.",
     "La remise d'une serviette et d'un bracelet de vestiaire dans le nouveau local (page rédigée pour l'avenue de Tourville).",
     "Les prix du bar, absents de la carte publiée.",
     "La présence de douches dans le nouveau local, citées seulement comme intitulé de galerie (illustration).",
     "L'adresse e-mail venus.caen@gmail.com, reprise par les annuaires mais absente du site actuel.",
-    "Le lien entre le love shop actuel et les sociétés Venus de la rue d'Auge (1996-2018).",
+    "Le lien juridique entre la SAS Auge, qui exploitait la boutique Venus de la rue d'Auge en 2016, et la SAS Tourville, ainsi que la continuité avec la société Venus 2 (1996-2015).",
+    "L'activité actuelle de la société du 9ine Klub, toujours active au registre au 214 rue Verte alors que le Venus occupe, selon Gay Viking, l'ancienne discothèque de cette adresse.",
     "Le contenu de la page Wyylde liée par le club, accessible seulement après connexion."
   ],
   "sources": [
@@ -891,6 +946,62 @@
       "url": "https://www.orpheaclub.com/",
       "type": "officiel",
       "consulted": "2026-10-19"
+    },
+    {
+      "id": "s33",
+      "label": "Gay Viking (guide LGBT en ligne), « Venus Sauna gay à Hérouville-Saint-Clair (Caen) », publié le 1er mai 2025, mis à jour le 20 juillet 2025",
+      "url": "https://gayviking.fr/venus-sauna-gay-a-herouville-saint-clair-caen/",
+      "type": "presse",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s34",
+      "label": "Site de la boutique Venus (venus-caen.fr), archives d'avril 2016 (32 rue d'Auge, SAS Auge, 02.31.72.69.69) et de mai 2017 (« Venus Boutique » et « Venus Sauna »)",
+      "url": "https://web.archive.org/web/20170516040508/http://venus-caen.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s35",
+      "label": "Petit Futé, avis sur Venus Sauna (4/5, 5 avis de juillet 2017 à août 2021)",
+      "url": "https://www.petitfute.com/v4787-herouville-saint-clair-14200/c9998-coquin/c1044-s-amuser-sortir/c208-sauna/1597277-venus-sauna/tous-les-avis.html",
+      "type": "avis",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s36",
+      "label": "Top-Rated.online, fiche « Venus SAUNA CAEN » reprenant Google Maps (mise à jour du 7 octobre 2026 : 4,20 sur 159 avis)",
+      "url": "https://www.top-rated.online/cities/H%C3%A9rouville-Saint-Clair/place/p/2513448/Venus+SAUNA+CAEN",
+      "type": "avis",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s37",
+      "label": "PagesJaunes, fiches « Vénus SAUNA » (hammam, « 214 boulevard Val St Clair ») et « Vénus Sauna » (boutique, 214 rue Verte) : aucun avis",
+      "url": "https://www.pagesjaunes.fr/pros/64144763",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s38",
+      "label": "Gay Viking, « Le Vénus Sauna remplace le Clèm à Évreux avec quelques changements » (1er octobre 2022)",
+      "url": "https://gayviking.fr/le-venus-sauna-remplace-le-clem-a-evreux-avec-quelques-changements/",
+      "type": "presse",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s39",
+      "label": "Guide de Nuit, fiche de la discothèque La Mare au Diable, 214 rue Verte à Hérouville-Saint-Clair",
+      "url": "https://www.guidedenuit.com/discotheques_calvados/mare-diable",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s40",
+      "label": "Le Beluga Club (Ifs), site officiel : horaires et tarifs (page modifiée le 17 septembre 2026), affiches d'octobre 2026",
+      "url": "https://www.lebelugaclub.fr/horaires-et-tarifs/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
     }
   ]
 }

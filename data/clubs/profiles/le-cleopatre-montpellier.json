@@ -1,7 +1,7 @@
 {
   "slug": "le-cleopatre-montpellier",
   "clubId": "101",
-  "researchedAt": "2026-10-16",
+  "researchedAt": "2026-10-20",
   "display": {
     "nom": "Le Cléopâtre",
     "ville": "Montpellier"
@@ -19,7 +19,7 @@
   },
   "seo": {
     "title": "Le Cléopâtre à Montpellier : fermé, où aller en club libertin ?",
-    "metaDescription": "Repéré en sauna libertin dès 2007, Le Cléopâtre a disparu : One Sauna, « 100 % gay », occupe son adresse près de la Comédie depuis 2012. Où aller à la place.",
+    "metaDescription": "Repéré en sauna libertin dès 2007, Le Cléopâtre a disparu : depuis 2012, son adresse près de la Comédie est celle de One Sauna, qui s'affiche « 100 % gay ».",
     "subtitle": "Sauna fermé du 1 rue de la Victoire de la Marne, près de la Comédie, à Montpellier (34)",
     "targetQueries": [
       "club libertin montpellier",
@@ -69,7 +69,8 @@
     "Au 1 rue de la Victoire de la Marne, vous trouverez One Sauna, qui s'affiche « 100 % gay » : son site ne mentionne ni couples ni femmes.",
     "Les annuaires qui listent encore Le Cléopâtre ne donnent ni site, ni horaires, ni tarifs ; la seule fiche datée est inchangée depuis juillet 2008.",
     "Pour un sauna libertin ouvert aux couples : Kalyptus by Rex à Montpellier et HAAPPYY à Saint-Jean-de-Védas avaient un site actif en octobre 2026.",
-    "Relier Le Cléopâtre au sauna enregistré à l'adresse de 1992 à 2012 reste une déduction : le registre ne lui donne aucun nom."
+    "Relier Le Cléopâtre au sauna enregistré à l'adresse de 1992 à 2012 reste une déduction : le registre ne lui donne aucun nom.",
+    "The Rex, à Mauguio, encore cité par d'anciens guides, a fermé : son site l'annonce depuis juin 2025 et renvoie vers Kalyptus by Rex."
   ],
   "keyFacts": [
     {
@@ -213,15 +214,15 @@
     },
     {
       "id": "saunas-libertins-actifs-octobre-2026",
-      "title": "Kalyptus by Rex et HAAPPYY : les saunas libertins vérifiés en ligne le 19 octobre 2026",
+      "title": "Kalyptus by Rex et HAAPPYY en ligne, The Rex fermé à Mauguio : sites officiels relus les 19 et 20 octobre 2026",
       "blocks": [
         {
           "kind": "text",
-          "body": "Trois guides publiés entre 2021 et mars 2026 recensent les lieux libertins de Montpellier ; aucun ne cite Le Cléopâtre."
+          "body": "Six guides en ligne, dont le plus récent a été mis à jour le 7 octobre 2026, recensent les lieux libertins de Montpellier ; aucun ne cite Le Cléopâtre."
         },
         {
           "kind": "table",
-          "caption": "Constats faits sur les sites officiels le 19 octobre 2026",
+          "caption": "Constats faits sur les sites officiels les 19 et 20 octobre 2026",
           "headers": [
             "Lieu",
             "Commune",
@@ -242,12 +243,17 @@
               "[Koncept Sauna](/le-koncept-sauna-montpellier)",
               "Montpellier",
               "Se présente comme « le sauna gay à Montpellier », ouvert à une clientèle mixte lors de certaines soirées ; horaires non vérifiés"
+            ],
+            [
+              "The Rex (fermé)",
+              "Mauguio, 425 rue Saint-Exupéry",
+              "Annonce sa « fermeture définitive » depuis juin 2025 et renvoie vers Kalyptus by Rex"
             ]
           ]
         },
         {
           "kind": "text",
-          "body": "Selon le guide de mars 2026, l'ancien Kalyptus, déjà listé en 2007 à côté du Cléopâtre, a été repris par Rex. Les autres lieux que notre base situe à Montpellier, pas tous vérifiés, sont sur [la page de la ville](/ville/montpellier).\n\nAvant de retenir l'une de ces adresses, le compte gratuit de Wyylde, l'ex-Netéchangisme en ligne depuis 2001, ouvre [un agenda qui recense des soirées de clubs dans toute la France](aff:wyylde) ; les messages reçus s'y lisent sans payer, mais y donner suite suppose de s'abonner."
+          "body": "L'équipe du Rex l'écrit sur son ancien site : elle a fermé son club de Mauguio, que des guides plus anciens citent encore, et poursuit au Kalyptus, qu'elle a repris. Ce sauna figurait déjà en 2007 à côté du Cléopâtre. Les autres lieux que notre base situe à Montpellier, pas tous vérifiés, sont sur [la page de la ville](/ville/montpellier)."
         }
       ],
       "sources": [
@@ -257,10 +263,40 @@
         "s21",
         "s22",
         "s23",
-        "s3"
+        "s3",
+        "s24",
+        "s27",
+        "s28",
+        "s29",
+        "s30"
       ],
       "icon": "map",
-      "summary": "Le 19 octobre 2026, Kalyptus by Rex (Montpellier) et HAAPPYY (Saint-Jean-de-Védas) avaient un site actif de sauna libertin ; Koncept Sauna se dit sauna gay."
+      "summary": "En octobre 2026, Kalyptus by Rex et HAAPPYY ont un site actif de sauna libertin, Koncept Sauna se dit gay ; The Rex, à Mauguio, annonce sa fermeture depuis juin 2025."
+    },
+    {
+      "id": "palaisia-pinet-espace-sm-frontignan",
+      "title": "Dîner-spectacle au Palaisia de Pinet, espace SM à 100 € l'heure à Frontignan",
+      "blocks": [
+        {
+          "kind": "list",
+          "items": [
+            "[L'Extasia](/l-extasia-pinet), au Domaine Saint-Jean-des-Sources à Pinet, au bord de l'étang de Thau : le site propose d'ouvrir la soirée par un dîner-spectacle au restaurant Le Palaisia, avant de passer au club. Le site annonce une soirée Halloween le samedi 31 octobre et un réveillon le jeudi 31 décembre 2026, sans afficher de tarifs.",
+            "[Le Privé 34](/le-prive-34-frontignan), 8 avenue de la Bordelaise à Frontignan, se présente comme « club sauna libertin, bdsm ». Selon sa page BDSM, non datée, l'espace SM s'ouvre sur réservation les mercredis et vendredis après-midi, à 100 € de l'heure, ainsi que le samedi et lors d'une soirée mensuelle."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Avant de retenir l'une de ces soirées, le compte gratuit de Wyylde, l'ex-Netéchangisme en ligne depuis 2001, ouvre [un agenda qui recense des soirées de clubs dans toute la France](aff:wyylde) ; les messages reçus s'y lisent sans payer, mais y donner suite suppose de s'abonner."
+        }
+      ],
+      "sources": [
+        "s25",
+        "s26",
+        "s31",
+        "s29"
+      ],
+      "icon": "food",
+      "summary": "Hors de Montpellier, L'Extasia (Pinet) propose un dîner-spectacle avant le club et annonce des dates fin 2026 ; Le Privé 34 (Frontignan) ouvre un espace SM sur réservation."
     }
   ],
   "faq": [
@@ -278,11 +314,11 @@
     },
     {
       "question": "Existe-t-il un restaurant libertin près de Montpellier ?",
-      "answer": "Aucune source n'évoque de restauration au Cléopâtre. Un guide local d'avril 2021 cite [L'Extasia, à Pinet](/l-extasia-pinet), avec un restaurant ; nous n'avons pas vérifié que ce service existe toujours en 2026."
+      "answer": "Aucune source n'évoque de restauration au Cléopâtre. À Pinet, [L'Extasia](/l-extasia-pinet) propose de commencer la soirée par un dîner-spectacle dans son restaurant, Le Palaisia, avant le club, selon son site relu le 20 octobre 2026."
     },
     {
       "question": "Où trouver un club BDSM autour de Montpellier ?",
-      "answer": "Un guide en ligne daté de mars 2026 mentionne des soirées BDSM au [Privé 34, à Frontignan](/le-prive-34-frontignan). C'est une source unique et faible : vérifiez le programme auprès du club avant de vous déplacer."
+      "answer": "Le [Privé 34, à Frontignan](/le-prive-34-frontignan), se présente sur son site comme club sauna libertin et BDSM : selon une page non datée, son espace SM s'ouvre sur réservation, à 100 € de l'heure. Confirmez le programme auprès du club avant de vous déplacer."
     }
   ],
   "unverified": [
@@ -290,7 +326,7 @@
     "La date à laquelle Le Cléopâtre a réellement cessé : au plus tard en mars 2012, peut-être bien avant.",
     "Le public du Cléopâtre (mixte, gay, couples) : « sauna libertin » est une étiquette d'annuaire, aucune source primaire ne le décrit.",
     "Une éventuelle cession du fonds entre l'exploitant de 1992-2012 et celui de One Sauna : le registre ne l'indique pas.",
-    "Une mention « ex-Cléopâtre » dans la presse régionale, qui prouverait le changement de nom : recherche à relancer.",
+    "Une mention « ex-Cléopâtre » qui prouverait le changement de nom : aucune trouvée en octobre 2026, ni dans la presse régionale, ni dans les guides, ni sur les réseaux sociaux.",
     "L'attribution actuelle du numéro fixe donné par les annuaires : nous ne l'avons pas appelé."
   ],
   "sources": [
@@ -454,6 +490,62 @@
       "url": "https://konceptsauna.com/",
       "type": "officiel",
       "consulted": "2026-10-19"
+    },
+    {
+      "id": "s24",
+      "label": "The Rex (Mauguio), site officiel : annonce de fermeture définitive et reprise du Kalyptus",
+      "url": "https://www.therex.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s25",
+      "label": "Club L'Extasia (Pinet), site officiel : restaurant Le Palaisia et soirées de fin 2026",
+      "url": "https://club-extasia.com/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s26",
+      "label": "Le Privé 34 (Frontignan), site officiel, page BDSM",
+      "url": "https://leprive34.com/tarifs-horaires/newsletter/privatisation/esthetique/soirees/bdsm",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s27",
+      "label": "madintouch.com, rencontre libertine à Montpellier (mis à jour le 07/10/2026)",
+      "url": "https://www.madintouch.com/rencontre-libertine/montpellier-34/",
+      "type": "autre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s28",
+      "label": "Grizette, top des clubs libertins à Montpellier et alentours (05/07/2022)",
+      "url": "https://www.grizette.com/club-libertin-a-montpellier/",
+      "type": "presse",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s29",
+      "label": "toprencontre.fr, clubs libertins à Montpellier (modifié le 24/03/2025)",
+      "url": "https://toprencontre.fr/club-libertin-montpellier/",
+      "type": "autre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s30",
+      "label": "Site du Rex, archives du 18/05/2025 (sans annonce) et du 20/06/2025 (annonce de fermeture)",
+      "url": "https://web.archive.org/web/20250620123216/https://www.therex.fr/",
+      "type": "autre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s31",
+      "label": "Le Privé 34 (Frontignan), site officiel, accueil : « Club sauna libertin, bdsm »",
+      "url": "https://leprive34.com/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
     }
   ]
 }

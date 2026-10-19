@@ -1,7 +1,7 @@
 {
   "slug": "l-aparte-bar-perigueux",
   "clubId": "14850",
-  "researchedAt": "2026-10-16",
+  "researchedAt": "2026-10-20",
   "display": {
     "nom": "L'Aparté bar",
     "ville": "Périgueux"
@@ -88,8 +88,8 @@
     "L'Aparté n'était pas un club libertin : c'était un bar d'ambiance qui réservait sa soirée du mercredi aux couples libertins.",
     "Inutile de vous rendre rue des Farges : depuis 2022, le 11-13 abrite Oxalis, un restaurant gastronomique.",
     "En ville, les guides 2025-2026 ne citent qu'Atlantis 24, 14 rue La Fayette, un sauna « à dominante gay » ouvert aussi aux couples selon l'un d'eux.",
-    "Autour de Périgueux, ils citent La Ducha ou Le Phénix à Coulounieix-Chamiers, et L'Interdit ou Pas à Chancelade, au statut non vérifié.",
-    "Ces guides se recopient entre eux : vérifiez chaque adresse avant de vous déplacer."
+    "En périphérie, les guides citent encore L'Interdit ou Pas et La Ducha : le registre des entreprises les donne fermés depuis 2024 et 2025.",
+    "À Bergerac, L'Irrésistible, sauna-club ouvert aux couples, aux femmes et aux hommes, est actif au registre depuis septembre 2024."
   ],
   "keyFacts": [
     {
@@ -163,7 +163,8 @@
       "sources": [
         "s11",
         "s12",
-        "s13"
+        "s13",
+        "s28"
       ]
     }
   ],
@@ -226,39 +227,50 @@
     },
     {
       "id": "guides-dordogne-2025-2026",
-      "title": "Rue La Fayette, Coulounieix-Chamiers, Bergerac : les adresses des guides 2025-2026",
+      "title": "Atlantis 24 en ville, deux clubs fermés en périphérie, L'Irrésistible à Bergerac",
       "sources": [
         "s16",
         "s17",
-        "s18"
+        "s18",
+        "s19",
+        "s20",
+        "s21",
+        "s22",
+        "s23",
+        "s24",
+        "s25",
+        "s26",
+        "s27",
+        "s29"
       ],
       "confidence": "a_verifier",
       "blocks": [
         {
           "kind": "text",
-          "body": "Trois guides consultés en octobre 2026 recensent les lieux libertins de Dordogne, sans citer L'Aparté. Ce sont des annuaires qui se recopient : vérifiez chaque adresse avant de vous déplacer."
+          "body": "Trois sites de guides consultés en octobre 2026 recensent les lieux libertins de Dordogne, sans citer L'Aparté. Ils se recopient entre eux, et le registre des entreprises dément plusieurs de leurs adresses : vérifiez chacune avant de vous déplacer."
         },
         {
           "kind": "list",
           "title": "À Périgueux et autour",
           "items": [
             "**Périgueux, 14 rue La Fayette** : Atlantis 24 (ou L'Atlantis). Un guide le classe comme sauna libertin « à dominante gay », ouvert aussi aux couples ; un autre le présente comme « le seul club de la ville ».",
-            "**Coulounieix-Chamiers** : La Ducha pour un guide, Le Phénix, route de Bergerac, pour un autre. Peut-être [l'établissement « la douche »](/la-douche-coulounieix-chamiers) de notre annuaire, sans que le lien soit établi.",
-            "**Chancelade** : L'Interdit ou Pas, statut non vérifié."
+            "**Coulounieix-Chamiers, route de Bergerac** : les guides y citent La Ducha (Le Phénix pour l'un d'eux), mais le registre donne l'établissement La Ducha fermé depuis le 6 juillet 2025. Sur la même route, l'enseigne La Douche n'a été enregistrée que de septembre 2016 à juin 2017 : c'est probablement [la fiche « la douche » de notre annuaire, un lieu fermé](/la-douche-coulounieix-chamiers).",
+            "**Chancelade** : L'Interdit ou Pas est fermé. Sa société, immatriculée en 2018 route de Bergerac à Coulounieix-Chamiers, a été radiée d'office en avril 2024, mise en liquidation judiciaire en janvier 2025, puis la procédure a été close en septembre 2026 ; son site ne répond plus et Restaurant Guru le donne « permanently closed »."
           ]
         },
         {
           "kind": "callout",
           "tone": "info",
-          "title": "Atlantis 24, l'ancien Cantou ?",
-          "body": "Le 14 rue La Fayette est l'adresse de [notre fiche Sauna Le Cantou](/sauna-le-cantou-perigueux) : probablement le même lieu sous un nouveau nom, ce que nous n'avons pas vérifié."
+          "title": "Atlantis 24, le Cantou rebaptisé en 2011 ?",
+          "body": "Un guide libertin du Périgord de 2005 situe Le Cantou au 14 rue La Fayette, avec le numéro de téléphone que les guides de 2026 donnent pour Atlantis 24. La société L'Atlantis 24 y est immatriculée depuis avril 2011. Le lieu de [notre fiche Sauna Le Cantou](/sauna-le-cantou-perigueux) a donc très probablement changé de nom, sans annonce publique trouvée."
         },
         {
           "kind": "list",
           "title": "Ailleurs en Dordogne",
           "items": [
             "Dans notre annuaire : [Le Délice](/le-delice-saint-laurent-des-vignes) et le [Sauna de la Gare à Bergerac](/sauna-de-la-gare-bergerac), sauna gay selon un guide.",
-            "Hors de notre annuaire : Le 16, à Creysse, et Le Diamant Noir, un camping à Sainte-Alvère."
+            "**L'Irrésistible**, 21 rue Sully-Prudhomme à Bergerac, pas encore dans notre annuaire : un sauna-club libertin avec piscine et jacuzzi. Son site affiche des entrées pour couples (25 à 35 €), femmes, hommes et personnes trans ; l'établissement est actif au registre depuis septembre 2024.",
+            "Hors de notre annuaire également : Le 16, à Creysse, et Le Diamant Noir, un camping à Sainte-Alvère."
           ]
         },
         {
@@ -267,7 +279,7 @@
         }
       ],
       "icon": "map",
-      "summary": "En ville, les guides ne citent qu'Atlantis 24, rue La Fayette, sauna « à dominante gay » selon l'un d'eux ; les autres adresses sont en périphérie ou ailleurs en Dordogne."
+      "summary": "En ville, seul Atlantis 24 (rue La Fayette, « à dominante gay ») est cité ; en périphérie, La Ducha et L'Interdit ou Pas sont fermés selon le registre."
     },
     {
       "id": "11-13-rue-des-farges-2005-2026",
@@ -284,7 +296,8 @@
         "s12",
         "s13",
         "s14",
-        "s15"
+        "s15",
+        "s28"
       ],
       "blocks": [
         {
@@ -320,7 +333,7 @@
             },
             {
               "date": "2022",
-              "text": "Ouverture d'Oxalis, restaurant gastronomique (société immatriculée le 2 mai), toujours actif : un avis Tripadvisor est daté du 18 juillet 2026."
+              "text": "Ouverture d'Oxalis, restaurant gastronomique (société immatriculée le 2 mai), aujourd'hui référencé par le Guide Michelin et toujours actif : un avis Tripadvisor est daté du 18 juillet 2026."
             }
           ]
         },
@@ -332,7 +345,7 @@
         },
         {
           "kind": "text",
-          "body": "Le local occupe une « très ancienne demeure médiévale » aux voûtes gothiques, selon le critique Gilles Pudlowski (mai 2023), et compte 45 couverts d'après l'office de tourisme. Ni cet article ni le site du restaurant n'évoquent les bars qui l'ont précédé."
+          "body": "Le local occupe une « très ancienne demeure médiévale » aux voûtes gothiques, selon le critique Gilles Pudlowski (mai 2023). Le Guide Michelin y relève un caveau voûté privatisable, l'office de tourisme 45 couverts. Ni cet article ni le site du restaurant n'évoquent les bars qui l'ont précédé."
         }
       ],
       "icon": "history",
@@ -369,7 +382,7 @@
   "faq": [
     {
       "question": "Y a-t-il encore un club libertin ou échangiste à Périgueux ?",
-      "answer": "En ville, les guides de 2025-2026 ne citent qu'Atlantis 24, au 14 rue La Fayette, que l'un d'eux décrit comme un sauna « à dominante gay » ouvert aussi aux couples. Les autres adresses sont dans les communes voisines (Coulounieix-Chamiers, Chancelade) ou ailleurs en Dordogne. Les fiches de notre annuaire pour la ville sont réunies sur [la page des lieux libertins de Périgueux](/ville/perigueux) : vérifiez le statut de chacun avant de vous déplacer."
+      "answer": "En ville, les guides de 2025-2026 ne citent qu'Atlantis 24, au 14 rue La Fayette, que l'un d'eux décrit comme un sauna « à dominante gay » ouvert aussi aux couples. Les deux adresses qu'ils donnent dans les communes voisines sont fermées selon le registre des entreprises : L'Interdit ou Pas (société liquidée en 2025) et La Ducha (établissement fermé en juillet 2025). Pour un sauna-club mixte, L'Irrésistible, à Bergerac, est actif au registre depuis septembre 2024. Les fiches de notre annuaire pour la ville sont réunies sur [la page des lieux libertins de Périgueux](/ville/perigueux) : vérifiez le statut de chacun avant de vous déplacer."
     },
     {
       "question": "Un homme seul pouvait-il venir à la soirée du mercredi ?",
@@ -390,8 +403,8 @@
     "Le prix d'entrée ou des consommations lors de la soirée couples du mercredi.",
     "Si le bar restait ouvert à tous le mercredi avant 20h, et s'il ouvrait le lundi.",
     "Le déroulé des soirées du mercredi : espace réservé, règles, tenue demandée.",
-    "Si la presse locale a parlé de L'Aparté à son ouverture ou à sa fermeture (archives de Sud Ouest non consultées).",
-    "Si Atlantis 24, au 14 rue La Fayette, est bien le nouveau nom du Sauna Le Cantou.",
+    "Si la presse locale a parlé de L'Aparté à son ouverture ou à sa fermeture : aucune recherche web n'a fait remonter d'article, et les archives de Sud Ouest restent à consulter.",
+    "Si Atlantis 24 a bien succédé au Sauna Le Cantou en 2011 : même adresse et même téléphone, mais aucune annonce publique du changement de nom.",
     "Le public actuel d'Atlantis 24 (mixte, couples ou majoritairement gay) : les guides divergent."
   ],
   "sources": [
@@ -520,6 +533,83 @@
       "url": "https://www.francesudouest.com/les-clubs-libertins-en-dordogne/",
       "type": "annuaire",
       "consulted": "2026-10-16"
+    },
+    {
+      "id": "s19",
+      "label": "Registre et Bodacc : L'Interdit ou Pas (SIREN 839 801 503), radiée d'office en 2024, liquidée en 2025",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/839801503",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s20",
+      "label": "Restaurant Guru, « L'interdit ou pas » (affiché définitivement fermé, page mise à jour le 14/01/2026)",
+      "url": "https://restaurantguru.com/LINTERDIT-ou-pas-sauna-libertin-Coulounieix-Chamiers",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s21",
+      "label": "Registre des entreprises : établissement à l'enseigne La Ducha, Coulounieix-Chamiers (fermé le 06/07/2025)",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=ducha&code_postal=24660",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s22",
+      "label": "Registre des entreprises : établissement à l'enseigne La Douche, Coulounieix-Chamiers (2016-2017)",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=douche&code_postal=24660",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s23",
+      "label": "Registre : L'Atlantis 24 (SIREN 530 963 644), 14 rue La Fayette, depuis 2011",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/530963644",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s24",
+      "label": "Le Chant des Anges, « Le Périgord libertin : Périgueux » (page de 2005)",
+      "url": "http://lechantdesanges.online.fr/cieux/lieu/px.html",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s25",
+      "label": "minuitlibertin.com, « Trouvez un club échangiste en Dordogne (24) » (mise à jour du 03/08/2026)",
+      "url": "https://minuitlibertin.com/trouvez-un-club-echangiste-en-dordogne-24/",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s26",
+      "label": "Site de L'Irrésistible, sauna-club libertin à Bergerac",
+      "url": "https://www.lirresistible.fr/",
+      "type": "autre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s27",
+      "label": "Registre des entreprises : établissement à l'enseigne L'Irrésistible, Bergerac (ouvert le 15/09/2024)",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=irresistible&code_postal=24100",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s28",
+      "label": "Guide Michelin, « Oxalis », 11 rue des Farges",
+      "url": "https://guide.michelin.com/fr/fr/nouvelle-aquitaine/prigueux/restaurant/oxalis-1205292",
+      "type": "autre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s29",
+      "label": "Site de L'Interdit ou Pas : nom de domaine introuvable le 20/10/2026",
+      "url": "https://www.sauna-linterdit.fr/",
+      "type": "autre",
+      "consulted": "2026-10-20"
     }
   ]
 }

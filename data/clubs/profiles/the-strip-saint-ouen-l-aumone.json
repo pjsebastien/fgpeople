@@ -1,7 +1,7 @@
 {
   "slug": "the-strip-saint-ouen-l-aumone",
   "clubId": "15393",
-  "researchedAt": "2026-10-16",
+  "researchedAt": "2026-10-20",
   "display": {
     "nom": "The Strip",
     "ville": "Saint-Ouen-l'Aumône"
@@ -28,10 +28,11 @@
       "the strip dress code",
       "the strip photos",
       "the strip avis",
-      "club libertin val d'oise"
+      "club libertin val d'oise",
+      "le strip 95"
     ]
   },
-  "lead": "Installé depuis 2014 dans la zone industrielle du Vert-Galant, à Saint-Ouen-l'Aumône, The Strip se présente comme un « cercle libertin » doublé d'une discothèque. L'après-midi, tous les jours, on y vient nu sous la serviette pour le sauna à 80 °C, le hammam et le jacuzzi de douze places ; du jeudi au samedi soir, place au club, chemise exigée le week-end. Sauf le lundi, il faut une carte de membre créée en ligne avant de venir. Il fonctionne en octobre 2026, programme publié jusqu'au Nouvel An.",
+  "lead": "Installé depuis 2014 dans la zone industrielle du Vert-Galant, à Saint-Ouen-l'Aumône, The Strip se présente comme un « cercle libertin » doublé d'une discothèque. L'après-midi, tous les jours, on y vient nu sous la serviette pour le sauna à 80 °C, le hammam et le jacuzzi de douze places ; du jeudi au samedi soir, place au club, chemise exigée le week-end. Sauf le lundi, il faut une carte de membre créée en ligne avant de venir. Il fonctionne en octobre 2026, programme publié jusqu'au Nouvel An : c'est le seul club libertin ouvert du Val-d'Oise que nous connaissions à cette date.",
   "glance": [
     {
       "icon": "calendar",
@@ -179,11 +180,13 @@
       ]
     },
     {
-      "label": "Effectif",
-      "value": "10 à 19 salariés (tranche 2024)",
-      "confidence": "source_unique",
+      "label": "Surface",
+      "value": "300 à 360 m² selon des blogs et un syndicat, aucun chiffre officiel",
+      "confidence": "a_verifier",
       "sources": [
-        "s25"
+        "s42",
+        "s43",
+        "s45"
       ]
     }
   ],
@@ -448,12 +451,15 @@
     },
     {
       "id": "avis-petit-fute-pagesjaunes",
-      "title": "3,8/5 sur 15 avis Petit Futé, mais aucun avis publié depuis juillet 2024",
+      "title": "3,8/5 sur 15 avis Petit Futé, et un « très bon souvenir » pour un blog en août 2025",
       "icon": "star",
-      "summary": "Petit Futé affiche 3,8/5 sur 15 avis (2014 à 2024), PagesJaunes 3,4/5 sur 5 avis : la propreté revient souvent, les critiques visent surtout le jacuzzi et la déco.",
+      "summary": "Petit Futé affiche 3,8/5 sur 15 avis (2014 à 2024), PagesJaunes 3,4/5 sur 5 ; un annuaire relaie 4,1/5 sur 256 avis Google, et deux blogs ont raconté leur visite.",
       "sources": [
         "s40",
-        "s41"
+        "s41",
+        "s42",
+        "s43",
+        "s46"
       ],
       "blocks": [
         {
@@ -482,7 +488,11 @@
         },
         {
           "kind": "text",
-          "body": "Nous avons lu les quinze avis Petit Futé. La propreté est l'argument le plus cité, dans des avis allant de 2015 à 2024. Les critiques visent un jacuzzi froid et sale (avis de décembre 2022), une décoration jugée froide (octobre 2021) et un salon des couples fermé un mercredi après-midi (février 2018).\n\nSur PagesJaunes, la fiche porte encore le nom de l'ancienne société, SOLENADE, et range le lieu parmi les cafés-bars ; ses cinq avis se partagent entre trois notes de 5 et deux de 1. Aucune note Google n'a pu être relevée, et aucun avis de 2025 ou 2026 n'a été trouvé."
+          "body": "Nous avons lu les quinze avis Petit Futé. La propreté est l'argument le plus cité, dans des avis allant de 2015 à 2024. Les critiques visent un jacuzzi froid et sale (avis de décembre 2022), une décoration jugée froide (octobre 2021) et un salon des couples fermé un mercredi après-midi (février 2018).\n\nSur PagesJaunes, la fiche porte encore le nom de l'ancienne société, SOLENADE, et range le lieu parmi les cafés-bars ; ses cinq avis se partagent entre trois notes de 5 et deux de 1.\n\nNous n'avons pas pu lire la note Google nous-mêmes : l'annuaire Minuit Libertin, dans une page mise à jour en août 2026, la donne à 4,1/5 sur 256 avis, sans date de relevé."
+        },
+        {
+          "kind": "text",
+          "body": "Deux blogs ont raconté leur visite. L'Apéro Libertin, venu en couple un jeudi soir (récit publié en août 2025), garde un « très bon souvenir » d'un club riche en coins et en jeux ; ce blog d'organisateur de soirées libertines se dit d'ailleurs prêt à en tenir une au Strip.\n\nEn 2019, un couple d'habitués regrettait sur Libertinage sans complexe des hommes seuls trop nombreux et parfois insistants, et une porte jugée laxiste sur les quotas comme sur la tenue."
         }
       ]
     },
@@ -501,12 +511,37 @@
         "s36",
         "s37",
         "s38",
-        "s39"
+        "s39",
+        "s41",
+        "s42",
+        "s46"
       ],
       "blocks": [
         {
           "kind": "text",
-          "body": "The Strip occupe le 23 avenue de l'Eguillette, à Saint-Ouen-l'Aumône (95310), dans la zone industrielle du Vert-Galant, entre des établissements industriels. Le club se dit « proche de Cergy-Pontoise » et conseille la N184, depuis l'A15 ou l'A16. Le parking privé est gratuit.\n\nL'annuaire d'où vient notre fiche donnait le code postal 95340, celui de Persan, où la première société exploitante avait son siège en 2014 : nous l'avons corrigé.\n\nCôté contact, la FAQ indique que le club ne répond plus au téléphone et ne traite que les courriels adressés à contact@thestrip.fr. Le portable cité par cet annuaire n'apparaît pas sur le site officiel : nous ne le publions pas. La page Facebook du club n'est lisible qu'avec un compte.\n\nDans le Val-d'Oise, notre annuaire recense aussi le [Club 46 à Argenteuil](/club-46-argenteuil), à 13,7 km à vol d'oiseau, et [L'Eden Club de Louvres](/eden-club-louvres-libertin), à 27 km ; le centre de Paris est à 26,5 km. Voir aussi les [clubs du Val-d'Oise](/departement/val-d-oise) et notre sélection de [saunas libertins](/sauna-libertin)."
+          "body": "The Strip occupe le 23 avenue de l'Eguillette, à Saint-Ouen-l'Aumône (95310), dans la zone industrielle du Vert-Galant, entre des établissements industriels. De l'extérieur, selon un blog (récit publié en août 2025), le bâtiment ressemble aux hangars voisins.\n\nLe club se dit « proche de Cergy-Pontoise » et conseille la N184, depuis l'A15 ou l'A16. Le parking privé est gratuit.\n\nL'annuaire d'où vient notre fiche donnait le code postal 95340, celui de Persan, où la première société exploitante avait son siège en 2014 : nous l'avons corrigé.\n\nCôté contact, la FAQ indique que le club ne répond plus au téléphone et ne traite que les courriels adressés à contact@thestrip.fr. Ni le portable cité par cet annuaire, ni le numéro fixe que relaient PagesJaunes et Minuit Libertin n'apparaissent sur le site officiel : nous ne les publions pas.\n\nLa page Facebook du club n'est lisible qu'avec un compte."
+        }
+      ]
+    },
+    {
+      "id": "val-d-oise-club-46-eden",
+      "title": "Club 46 fermé, Eden en travaux jusqu'en mai 2027 : aucun autre club ouvert connu dans le 95",
+      "icon": "map",
+      "summary": "Club 46 d'Argenteuil fermé, Eden Club de Louvres en travaux jusqu'en mai 2027 selon son site : à l'automne 2026, The Strip est le seul club du 95 que nous sachions ouvert.",
+      "sources": [
+        "s37",
+        "s47",
+        "s48",
+        "s49"
+      ],
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Notre annuaire recense deux autres lieux libertins dans le Val-d'Oise, et aucun n'accueille de public à l'automne 2026 :\n\n- le [Club 46 d'Argenteuil](/club-46-argenteuil), à 13,7 km à vol d'oiseau, est fermé : le registre a clos son unique établissement le 18 juillet 2022 ;\n- [L'Eden Club de Louvres](/eden-club-louvres-libertin), à 27 km, affiche sur son site une « fermeture temporaire » pour des travaux de mise en conformité, dont il repousse lui-même l'issue à mai 2027, sauf instruction plus rapide du dossier."
+        },
+        {
+          "kind": "text",
+          "body": "L'annuaire Minuit Libertin, mis à jour en août 2026, ne recense que deux adresses dans le département, The Strip et l'Eden ; le Club 46 n'y figure pas. Le centre de Paris est à 26,5 km : voyez les [clubs d'Île-de-France](/region/ile-de-france), les [clubs du Val-d'Oise](/departement/val-d-oise) et notre sélection de [saunas libertins](/sauna-libertin)."
         }
       ]
     },
@@ -549,7 +584,8 @@
       "summary": "La galerie officielle compte trois albums (28 photos) et un teaser vidéo : salon rouge, piste à barres de pole dance, bar, piscine et une salle à mobilier BDSM.",
       "sources": [
         "s24",
-        "s35"
+        "s35",
+        "s42"
       ],
       "blocks": [
         {
@@ -569,7 +605,51 @@
         },
         {
           "kind": "text",
-          "body": "Le site ne nomme pas cette dernière salle : seule la photo en atteste. La « cage d'exhib » et la « backroom » citées par un annuaire, elles, n'apparaissent nulle part sur le site officiel."
+          "body": "Le site ne nomme pas cette dernière salle : seule la photo en atteste. La « cage d'exhib » et la « backroom » citées par un annuaire n'apparaissent pas sur le site officiel ; un blog décrit toutefois, en août 2025, une cabine d'exhibition et un dédale de petites salles près du bar."
+        }
+      ]
+    },
+    {
+      "id": "plan-interieur-blog-2025",
+      "title": "Seize coins câlins, un lit rond et un sauna vitré sur le bar : le club raconté par un blog en 2025",
+      "icon": "building",
+      "summary": "Selon un blog venu un jeudi soir (récit d'août 2025) : sauna vitré visible du bar, piscine par la piste, seize coins câlins, glory hole et zone pour couples et femmes seules.",
+      "sources": [
+        "s7",
+        "s42",
+        "s43",
+        "s45"
+      ],
+      "confidence": "source_unique",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Hors de l'espace humide, le site officiel décrit peu le plan du club. Le blog L'Apéro Libertin, venu en couple un jeudi soir, comble en partie ce manque dans un récit publié en août 2025 : une source unique, que nous n'avons pas pu recouper."
+        },
+        {
+          "kind": "list",
+          "title": "Ce que décrit le blog",
+          "items": [
+            "Un vestiaire en haut de quelques marches, où l'on se déshabille avant l'espace humide.",
+            "Un sauna qu'une grande baie vitrée ouvre sur le bar et la piste.",
+            "Une piscine extérieure ouverte l'été, séparée de l'espace humide, que l'on rejoint par la piste de danse.",
+            "Des podiums à barres de pole dance et des tables lumineuses dans toute la salle.",
+            "Au bar, des cocktails et des granités, mais pas de bière pression."
+          ]
+        },
+        {
+          "kind": "list",
+          "title": "Le dédale voisin du bar",
+          "items": [
+            "seize coins câlins avec matelas, dont un en hauteur et certains qui se ferment ;",
+            "un lit rond et une table de massage ;",
+            "un glory hole et une cabine d'exhibition ;",
+            "une pièce à glace sans tain qui donne sur la piste."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le blog signale aussi une zone réservée aux couples et aux femmes seules, filtrée grâce au bracelet remis à l'entrée et fermée le jeudi ; la FAQ du club évoque, elle, un étage réservé aux couples le samedi soir.\n\nAucune source officielle ne donne la surface : 300 m² pour un autre blog en 2019, 350 m² pour celui-ci, 360 m² pour le syndicat SNEG & Co."
         }
       ]
     },
@@ -623,6 +703,36 @@
       ]
     },
     {
+      "id": "conflit-mairie-plu",
+      "title": "Un permis refusé en 2014, une audience annoncée à Pontoise pour fin 2019 : le conflit avec la mairie",
+      "icon": "info",
+      "summary": "Selon le SNEG, syndicat dont il est adhérent, la mairie reprochait au club, depuis 2014, d'enfreindre le plan d'urbanisme de la zone ; audience prévue fin 2019, issue inconnue.",
+      "sources": [
+        "s1",
+        "s44",
+        "s45"
+      ],
+      "confidence": "source_unique",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "En mai 2019, le SNEG & Co, syndicat professionnel dont The Strip est adhérent depuis 2015 et qui le soutient, a rapporté un long conflit entre le club et la mairie de Saint-Ouen-l'Aumône. Son article s'appuie en partie sur un papier du Parisien, édition du Val-d'Oise, du 7 mai 2019, que nous n'avons pas pu lire."
+        },
+        {
+          "kind": "list",
+          "items": [
+            "Été 2014 : l'exploitant demande un permis de construire pour transformer en commerce les bureaux qu'il loue ; la commune le refuse, assimilant ce commerce à un lieu de réunion, que le plan local d'urbanisme (PLU) de la zone n'admet pas.",
+            "2015 : le maire de l'époque porte plainte contre le club ; la plainte sera classée sans suite.",
+            "Mai 2019 : selon le syndicat, la mairie a fait citer le club devant le tribunal correctionnel de Pontoise ; une première audience est annoncée pour décembre."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "L'exploitant y voyait un rejet de sa clientèle libertine et gay, ce que l'ancien maire contestait. Dans Le Parisien, cité par le syndicat, l'élu reprochait au lieu des « effets de dénaturation » sur l'activité économique de la zone.\n\nNous n'avons trouvé aucune source sur l'issue de la procédure. En octobre 2026, le club fonctionne toujours à la même adresse."
+        }
+      ]
+    },
+    {
       "id": "solenade-sol-et-nade",
       "title": "Bar à thème en 2014, discothèque en 2017, nouvel exploitant en 2018",
       "icon": "history",
@@ -638,7 +748,9 @@
         "s31",
         "s32",
         "s33",
-        "s34"
+        "s34",
+        "s43",
+        "s45"
       ],
       "blocks": [
         {
@@ -658,7 +770,7 @@
             },
             {
               "date": "2015",
-              "text": "Le siège rejoint l'adresse du club ; la présidence change le 31 août."
+              "text": "Le siège rejoint l'adresse du club ; la présidence change le 31 août. Le club adhère au syndicat professionnel SNEG & Co."
             },
             {
               "date": "2017",
@@ -671,6 +783,10 @@
             {
               "date": "Juin 2018",
               "text": "SOL ET NADE déclare une « discothèque avec piste de danse avec licence 4 »."
+            },
+            {
+              "date": "Novembre 2019",
+              "text": "Un blog décrit un club fermé le mardi, ouvert l'après-midi dès 13 h 45 (bi-gay le lundi et le samedi) et le soir jusqu'à 2 h, 3 h ou 4 h ; en 2026, il ouvre tous les jours et ses soirées finissent plus tard."
             },
             {
               "date": "Janvier 2024",
@@ -807,7 +923,7 @@
   "faq": [
     {
       "question": "Le Strip a-t-il un sauna, et quand peut-on l'utiliser ?",
-      "answer": "Oui : un sauna sec à 80 °C, avec hammam et jacuzzi de douze places, ouverts chaque après-midi et tout le jeudi soir. Le vendredi et le samedi soir, sauna et hammam ferment et le jacuzzi n'ouvre qu'à minuit, sauf exception annoncée pour une soirée."
+      "answer": "Oui : un sauna sec à 80 °C, avec hammam et jacuzzi de douze places, ouverts chaque après-midi et tout le jeudi soir. Le vendredi et le samedi soir, sauna et hammam ferment et le jacuzzi n'ouvre qu'à minuit, sauf exception annoncée pour une soirée. Selon le récit d'un blog publié en août 2025, une baie vitrée rend le sauna visible depuis le bar."
     },
     {
       "question": "Combien coûte l'entrée à The Strip ?",
@@ -822,8 +938,8 @@
       "answer": "Oui, à partir de 22 h 30, en nombre limité selon les couples présents, avec une carte validée et une chemise. L'étage reste réservé aux couples, sauf lors des « Philou's Party ». Les groupes d'hommes sont refusés."
     },
     {
-      "question": "Comment joindre le club ?",
-      "answer": "Par courriel, à contact@thestrip.fr. Le club ne répond plus au téléphone et son site ne publie aucun numéro."
+      "question": "Y a-t-il un autre club libertin ouvert dans le Val-d'Oise ?",
+      "answer": "Pas à notre connaissance à l'automne 2026. Le Club 46 d'Argenteuil a fermé (établissement fermé au registre en juillet 2022) et L'Eden Club de Louvres affiche sur son site une fermeture temporaire pour travaux, qui devraient durer jusqu'en mai 2027 selon lui."
     },
     {
       "question": "Peut-on discuter avec des membres avant sa première visite ?",
@@ -835,19 +951,20 @@
     },
     {
       "question": "Que valent les avis sur The Strip ?",
-      "answer": "Le 19 octobre 2026, Petit Futé affichait 3,8/5 sur 15 avis, déposés entre novembre 2014 et juillet 2024, et PagesJaunes 3,4/5 sur 5 avis de 2023 et 2024. La propreté y revient souvent ; les critiques visent un jacuzzi froid (fin 2022) et une décoration jugée froide (2021). Aucune note Google n'a été relevée et aucun avis ne date de 2025 ou 2026."
+      "answer": "Le 19 octobre 2026, Petit Futé affichait 3,8/5 sur 15 avis, déposés entre novembre 2014 et juillet 2024, et PagesJaunes 3,4/5 sur 5 avis de 2023 et 2024. La propreté y revient souvent ; les critiques visent un jacuzzi froid (fin 2022) et une décoration jugée froide (2021). Un annuaire relaie une note Google de 4,1/5 sur 256 avis, que nous n'avons pas pu vérifier, et un blog, dans un récit d'août 2025, garde un « très bon souvenir » du club."
     }
   ],
   "unverified": [
-    "Note Google et avis récents (2025-2026) : aucun relevé, les derniers avis publics lus datant de juillet 2024.",
-    "Articles de la presse régionale : une recherche du 19 octobre 2026 n'en a trouvé aucun.",
+    "Note Google : 4,1/5 sur 256 avis selon un annuaire (page mise à jour en août 2026), non vérifiée sur Google ; aucun avis de 2025 ou 2026 lu sur une plateforme d'avis.",
+    "Article du Parisien (édition Val-d'Oise) du 7 mai 2019 sur le conflit avec la mairie, connu par le résumé du SNEG mais non lu ; issue de la procédure devant le tribunal de Pontoise.",
     "Date de fin des horaires d'hiver, et donc heure de fermeture du dimanche après-midi (19 h ou 20 h).",
     "Validité des prix des tables VIP et possibilité réelle de réserver, la FAQ du site disant le contraire de la page VIP.",
     "Raisons du passage de SOLENADE à SOL ET NADE en 2018.",
-    "Existence d'une « cage d'exhib » et d'une « backroom », citées par un annuaire mais absentes du site officiel.",
+    "« Cage d'exhib » et « backroom » citées par un annuaire : un blog décrit en 2025 une cabine d'exhibition et un dédale de petites salles, le site officiel n'en dit rien.",
     "Heure de fin de la Soirée dansante du 23 octobre 2026 (3 h ou 4 h selon la fiche).",
     "Présence des soirées du Strip dans l'agenda de Wyylde, malgré le partenariat affiché par le club.",
-    "Prix de l'homme seul au Nouvel An 2027 : 150 € dans le texte de la fiche, 120 € dans son encadré des prix."
+    "Prix de l'homme seul au Nouvel An 2027 : 150 € dans le texte de la fiche, 120 € dans son encadré des prix.",
+    "Surface du club : 300, 350 ou 360 m² selon trois sources non officielles."
   ],
   "sources": [
     {
@@ -1136,6 +1253,62 @@
       "url": "https://www.pagesjaunes.fr/pros/55457629",
       "type": "avis",
       "consulted": "2026-10-19"
+    },
+    {
+      "id": "s42",
+      "label": "L'Apéro Libertin, « On a testé The Strip » (blog, publié le 21 août 2025, mis à jour le 21 mai 2026)",
+      "url": "https://www.apero-libertin.com/on-a-teste-the-strip-le-club-libertin-du-val-doise-ile-de-france/",
+      "type": "avis",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s43",
+      "label": "Libertinage sans complexe, « Infos, témoignages et avis : club libertin The Strip » (blog, 20 novembre 2019)",
+      "url": "https://libertinage-sans-complexe.com/the-strip-paris/",
+      "type": "avis",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s44",
+      "label": "SNEG & Co, « Un établissement libertin et gay qui dérange à Saint-Ouen L'Aumône » (20 mai 2019, d'après Le Parisien du 7 mai 2019)",
+      "url": "https://www.snegandco.fr/un-etablissement-libertin-qui-derange-a-saint-ouen-laumone/",
+      "type": "autre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s45",
+      "label": "SNEG & Co, fiche d'adhérent « The Strip » (10 octobre 2024)",
+      "url": "https://www.snegandco.fr/the-strip/",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s46",
+      "label": "Minuit Libertin, fiche « The Strip à Saint-Ouen-l'Aumone » (mise à jour le 3 août 2026, note Google relayée)",
+      "url": "https://minuitlibertin.com/the-strip-a-saint-ouen-laumone/",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s47",
+      "label": "L'Eden Club (Louvres), site officiel : avis de fermeture temporaire pour travaux",
+      "url": "https://www.eden-club.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s48",
+      "label": "Annuaire des entreprises : SARL CLUB 46 (Argenteuil), SIREN 531 825 107, établissement fermé en 2022",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/531825107",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s49",
+      "label": "Minuit Libertin, « Trouvez un club échangiste dans le Val-d'Oise (95) » (mise à jour le 3 août 2026)",
+      "url": "https://minuitlibertin.com/trouvez-un-club-echangiste-dans-le-val-doise-95/",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
     }
   ]
 }

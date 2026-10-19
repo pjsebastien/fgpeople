@@ -1,7 +1,7 @@
 {
   "slug": "le-darjeeling-avignon",
   "clubId": "782",
-  "researchedAt": "2026-10-16",
+  "researchedAt": "2026-10-20",
   "display": { "nom": "Le Darjeeling", "ville": "Avignon" },
   "status": {
     "value": "ouvert",
@@ -22,7 +22,8 @@
       "darjeeling avignon",
       "le darjeeling club avignon",
       "sauna libertin avignon",
-      "darjeeling avignon tarif"
+      "darjeeling avignon tarif",
+      "le darjeeling avignon avis"
     ]
   },
   "lead": "Le Darjeeling n'est pas un club de nuit : c'est un sauna libertin mixte qui n'ouvre que l'après-midi, de 14 h à 19 h, dans ce que le club présente comme l'ancienne conciergerie du château de l'Île Piot, face au Palais des Papes. Ouvert au début de 2009, il a renoncé aux soirées à sa réouverture de septembre 2021, puis resserré son calendrier : le 2 octobre 2026, son site n'annonçait plus que le samedi et le dimanche. Un couple y paie 35 €, un homme seul 45 €, et l'entrée est offerte aux femmes jusqu'à 17 h.",
@@ -42,7 +43,7 @@
   ],
   "highlights": [
     "Le Darjeeling ferme à 19 h : aucun après-midi ne se prolonge en soirée depuis la réouverture de septembre 2021.",
-    "La page Agenda, figée depuis mai 2026, annonce encore le vendredi ; seule la page d'accueil donne la semaine en cours. Appelez le 06 01 89 50 16.",
+    "Fiez-vous à la page d'accueil : la page Agenda (mai 2026) et la copie disconight.free.fr (2025) donnent d'anciens jours. Appelez le 06 01 89 50 16.",
     "Aucune tenue exigée : serviette et tongs sont fournies, mais apportez vos préservatifs, la charte le demande.",
     "Homme seul : la charte demande d'attendre qu'un couple vous invite et de ne jamais entrer dans un coin coquin sans y être convié.",
     "Accès par le pont Daladier, direction parking de l'Île Piot, puis suivre le restaurant La Treille ; parking gratuit devant le club."
@@ -76,8 +77,8 @@
         {
           "kind": "callout",
           "tone": "warning",
-          "title": "Avant de venir un vendredi",
-          "body": "Le club annonce son programme semaine par semaine, dans un bandeau « cette semaine » de la page d'accueil de ledarjeeling.fr, la seule page du site tenue à jour. Un appel au 06 01 89 50 16, le seul numéro inscrit en texte sur le site, évite de trouver porte close."
+          "title": "Avant de venir en semaine",
+          "body": "Le programme figure dans le bandeau « cette semaine » de la page d'accueil de ledarjeeling.fr, resté identique du 2 au 20 octobre 2026. La copie de l'ancien site encore en ligne sur disconight.free.fr affiche, elle, le programme de mai-juin 2025, du mardi au dimanche. Un appel au 06 01 89 50 16, seul numéro inscrit en texte sur le site, évite de trouver porte close."
         },
         {
           "kind": "table",
@@ -97,38 +98,42 @@
           "body": "Les prix, eux, n'ont pas bougé depuis 2023. Seule la catégorie « trans, trav », facturée 10 € en 2021 puis 20 € jusqu'en septembre 2025, a disparu des grilles de mai et d'octobre 2026, sans explication publiée."
         }
       ],
-      "sources": ["s1", "s3", "s11", "s18", "s19", "s21", "s23", "s24", "s26", "s27", "s28"]
+      "sources": ["s1", "s3", "s11", "s18", "s19", "s21", "s23", "s24", "s26", "s27", "s28", "s38"]
     },
     {
       "id": "face-aux-autres-adresses-d-avignon",
-      "title": "Fermé à 19 h, sans soirée : Le Darjeeling face aux autres adresses libertines d'Avignon",
+      "title": "Fermé à 19 h et en semaine : Le Pearl et le Club Aphrodite prennent le relais à Avignon",
       "icon": "map",
-      "summary": "Le Darjeeling est un sauna d'après-midi ; le soir, le Club Aphrodite ouvre du jeudi au samedi. L'Île aux Plaisirs a disparu et « Le Pearl » reste introuvable.",
+      "summary": "Le Darjeeling n'ouvre que le week-end jusqu'à 19 h ; Le Pearl, sauna de 700 m², ouvre du mardi au dimanche dès 14 h, et le Club Aphrodite le soir, du jeudi au samedi.",
       "blocks": [
         {
           "kind": "text",
-          "body": "Les deux lieux libertins d'Avignon dont nous avons vérifié l'activité en octobre 2026 ne se ressemblent guère. Le Darjeeling est un sauna : on laisse ses vêtements au vestiaire, on circule en serviette entre les bassins, les saunas, le lounge et les coins coquins, et tout se joue entre 14 h et 19 h. Le site le décrit comme un « club libertin mixte, hétéro & gay friendly » et emploie aussi, dans ses mots-clés, l'expression de club échangiste. Pour sortir le soir, il faut aller ailleurs : [le Club Aphrodite](/club-aphrodite-avignon) ouvre le jeudi de 21 h à 3 h en soirée mixte, puis le vendredi et le samedi à partir de 22 h 30, réservés aux couples et aux femmes seules."
+          "body": "Nous avons vérifié en octobre 2026 l'activité de trois lieux libertins d'Avignon, qui ne se ressemblent guère. Le Darjeeling est un sauna d'après-midi : on y circule en serviette entre bassins, saunas, lounge et coins coquins, de 14 h à 19 h, le week-end seulement. Son site se dit « club libertin mixte, hétéro & gay friendly » et emploie aussi, dans ses mots-clés, l'expression de club échangiste."
+        },
+        {
+          "kind": "table",
+          "caption": "Trois lieux libertins d'Avignon dont l'activité a été vérifiée en octobre 2026, d'après leurs sites officiels",
+          "headers": ["Lieu", "Formule", "Jours et heures", "Couple", "Homme seul", "Femme seule"],
+          "rows": [
+            ["Le Darjeeling", "Sauna d'après-midi", "Samedi et dimanche, 14 h-19 h", "35 €", "45 €", "Offerte jusqu'à 17 h, puis 10 €"],
+            ["Le Pearl", "Sauna de 700 m², sans alcool, dès 21 ans", "Fermé le lundi ; dès 14 h, jusqu'à 22 h, ou 3 h le vendredi et le samedi", "40 €, deux boissons comprises", "45 € en semaine, 60 € du vendredi au dimanche", "10 €"],
+            ["Club Aphrodite", "Club de soirée", "Jeudi 21 h-3 h ; vendredi et samedi dès 22 h 30", "Non relevé", "Le jeudi seulement", "Non relevé"]
+          ]
         },
         {
           "kind": "text",
-          "body": "Deux autres noms circulent et appellent une mise au point. [L'Île aux Plaisirs](/l-ile-aux-plaisir-avignon), sur l'île de la Barthelasse, a disparu de longue date : son site, encore capturé en ligne en mai 2009, renvoie dès juin 2009 vers celui du Vynil's Klub, et n'est plus en 2011 qu'une page parking annonçant le domaine à vendre. Quant au « Pearl », qu'un blog tenu par un établissement concurrent présentait en février 2026 comme un vaste sauna libertin avignonnais, nous ne lui avons trouvé ni adresse, ni site, ni société."
+          "body": "Le Pearl, rue du Capitaine-de-Vaisseau-Henri-Bellet, est le seul autre sauna libertin de la ville dont nous ayons vérifié l'activité. Il ouvre quand Le Darjeeling est fermé, du mardi au vendredi, et tard le soir. Sa page d'accueil, modifiée le 2 octobre 2026, annonçait trois rendez-vous à thème, les dimanche 11, samedi 24 et samedi 31 octobre."
         },
         {
           "kind": "text",
-          "body": "Pour un après-midi en semaine, maintenant que Le Darjeeling se limite au week-end, il faut quitter Avignon. Un annuaire recense dans le Vaucluse [La Licorne d'Or à Carpentras](/la-licorne-d-or-carpentras), [le Sunlight Club à Monteux](/le-sunlight-club-monteux) et Les Thermes de la Nesque à Pernes-les-Fontaines ; leurs jours d'ouverture n'ont pas été vérifiés pour cette fiche. L'ensemble des lieux du secteur figure sur [la page consacrée au Vaucluse](/departement/vaucluse) et sur [celle des adresses d'Avignon](/ville/avignon)."
-        },
-        {
-          "kind": "callout",
-          "tone": "info",
-          "title": "Rien à voir avec la lingerie Darjeeling",
-          "body": "À Avignon, le nom Darjeeling désigne aussi des boutiques de lingerie, rue de la République, avenue Pierre-Sémard et à Auchan Le Pontet : ce sont les seules que PagesJaunes renvoie sous ce nom. Le sauna, lui, n'y a pas de fiche. Il se trouve au 24 chemin de l'Île Piot."
+          "body": "Pour sortir la nuit, [le Club Aphrodite](/club-aphrodite-avignon) ouvre le jeudi de 21 h à 3 h en soirée mixte, puis le vendredi et le samedi à partir de 22 h 30, soirées réservées aux couples et aux femmes seules."
         }
       ],
-      "sources": ["s1", "s2", "s29", "s30", "s31", "s32", "s33"]
+      "sources": ["s1", "s2", "s32", "s39", "s40"]
     },
     {
       "id": "qui-entre-et-la-charte",
-      "title": "Homme seul à 45 €, femme offerte jusqu'à 17 h : qui entre, et ce que la charte demande",
+      "title": "Homme seul à 45 €, femme offerte jusqu'à 17 h : la charte fait attendre aux hommes seuls l'invitation d'un couple",
       "icon": "users",
       "summary": "Couples 35 €, hommes seuls 45 €, femmes seules offertes jusqu'à 17 h ; la charte impose de respecter le moindre refus et demande aux hommes seuls d'attendre d'être invités.",
       "blocks": [
@@ -188,9 +193,9 @@
     },
     {
       "id": "bassins-saunas-lounge",
-      "title": "Jacuzzi chromatique, sauna finlandais « géant » et lounge aux murs roses laqués",
+      "title": "Un jacuzzi chromatique, et en sous-sol un sauna finlandais « géant »",
       "icon": "spa",
-      "summary": "Jacuzzi chromatique, jacuzzi extérieur l'été, saunas infrarouge et finlandais, lounge rose et léopard ; le site ne mentionne ni restaurant ni hôtel, et exclut les massages.",
+      "summary": "Jacuzzi chromatique, jacuzzi extérieur l'été, saunas infrarouge et finlandais ; le site ne mentionne ni restaurant, ni hôtel, ni donjon, et sa charte exclut les massages.",
       "blocks": [
         {
           "kind": "text",
@@ -198,16 +203,58 @@
         },
         {
           "kind": "text",
-          "body": "Côté sec, le lounge et son bar sont l'endroit où l'on peut rester en vêtements de ville. Le club le décrivait en 2017 « entre pampilles et panthère », avec des murs roses laqués. Les deux mosaïques de photos de la page d'accueil, mises en ligne en juillet 2023, montrent ce décor : murs capitonnés roses, banquettes à motif léopard, lustres à pampilles et canapé baroque noir pour le lounge ; jacuzzi éclairé en bleu, tête de Bouddha et lanterne ajourée pour la partie balnéo. Le site actuel n'a pas de page galerie, et l'image d'un fauteuil rouge qui les accompagne est une illustration, pas une photo du club. Les coins coquins se ferment par une porte ou un rideau, et un patio sert l'été : le site annonçait son ouverture pour le dimanche 22 juin 2025."
+          "body": "Le sauna se trouve au niveau inférieur : un blog libertin le situait au sous-sol en 2016, un avis Petit Futé « en bas » en 2024."
         },
         {
           "kind": "callout",
           "tone": "info",
           "title": "Ce que le site ne permet pas de confirmer",
-          "body": "Le club affirme suivre un protocole de nettoyage et de désinfection « très rigoureux » et cite « plusieurs magazines étrangers » qui l'auraient érigé en référence de l'hygiène, sans en nommer un seul : nous n'avons rien pu vérifier. Par ailleurs, un annuaire spécialisé prête au Darjeeling un restaurant (il en fait le « premier resto-club-sauna » d'Avignon), un hôtel, un solarium, une piste de danse avec DJ ou des massages. Le site officiel n'en dit rien, et sa charte exclut expressément les massages."
+          "body": "Le club affirme suivre un protocole de nettoyage « très rigoureux » et se dit cité par « plusieurs magazines étrangers » pour son hygiène, sans en nommer un seul. Un annuaire spécialisé lui prête un restaurant (il en fait le « premier resto-club-sauna » d'Avignon), un hôtel, un solarium, une piste de danse avec DJ ou des massages, dont le site ne dit rien ; sa charte exclut même les massages. À l'inverse, le Petit Futé et un avis d'octobre 2024 évoquent un donjon, réservable pour une soirée privée selon le guide, que le site ne mentionne pas."
         }
       ],
-      "sources": ["s1", "s2", "s5", "s7", "s12", "s15", "s22", "s26"]
+      "sources": ["s2", "s7", "s12", "s26", "s34", "s41"]
+    },
+    {
+      "id": "lounge-rose-et-leopard",
+      "title": "Le lounge en zone sèche : murs capitonnés roses, banquettes léopard et thés à la carte",
+      "icon": "camera",
+      "summary": "Au lounge, on peut rester habillé ; les photos de 2023 montrent murs roses capitonnés, banquettes léopard et lustres à pampilles. Coins coquins fermés par porte ou rideau.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Côté sec, le lounge et son bar sont l'endroit où l'on peut rester en vêtements de ville. Le club le décrivait en 2017 « entre pampilles et panthère », avec des murs roses laqués. Au bar, le Petit Futé signale des cocktails de jus de fruits et des thés à la carte, dans la lignée du salon de thé et tisanerie que le club annonçait à son ouverture, en 2009."
+        },
+        {
+          "kind": "text",
+          "body": "Les deux mosaïques de photos de la page d'accueil, mises en ligne en juillet 2023, montrent ce décor : murs capitonnés roses, banquettes à motif léopard, lustres à pampilles et canapé baroque noir pour le lounge ; jacuzzi éclairé en bleu, tête de Bouddha et lanterne ajourée pour la partie balnéo. Le site actuel n'a pas de page galerie, et l'image d'un fauteuil rouge qui les accompagne est une illustration, pas une photo du club."
+        },
+        {
+          "kind": "text",
+          "body": "Les coins coquins se ferment par une porte ou un rideau, et un patio sert l'été : le site annonçait son ouverture pour le dimanche 22 juin 2025."
+        }
+      ],
+      "sources": ["s1", "s2", "s5", "s7", "s15", "s22", "s34"]
+    },
+    {
+      "id": "avis-petit-fute",
+      "title": "3,8/5 sur dix avis Petit Futé : grand jacuzzi salué, propreté discutée, un après-midi désert fin 2025",
+      "icon": "star",
+      "summary": "3,8/5 sur dix avis Petit Futé au 20 octobre 2026 : propreté et jacuzzi salués en 2024, lieu jugé sale en mai 2023, aucune rencontre pour un homme seul en décembre 2025.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Au 20 octobre 2026, le Petit Futé affiche 3,8/5 pour dix avis d'internautes, dont nous avons lu les cinq visibles, de mai 2023 à décembre 2025. Les deux avis de 2024 saluent la propreté, le grand jacuzzi et le sauna, qu'un visiteur trouve immense. Celui de mai 2023 décrivait au contraire des sols sales, un extérieur négligé et un jacuzzi dont la moitié des buses fonctionnait."
+        },
+        {
+          "kind": "text",
+          "body": "En avril 2025, un couple d'habitués apprécie la sélection qui écarte les clients insistants et le calme d'un lieu sans piste de danse. Il juge toutefois le site trop peu mis à jour et aimerait une journée réservée aux couples. En décembre 2025, un homme seul raconte trois heures passées sans croiser personne, pour 45 €."
+        },
+        {
+          "kind": "text",
+          "body": "Les autres notes sont relayées plutôt que lues : 4,1 sur Google pour 35 avis selon un blog libertin, 4,2 pour 30, sans plateforme précisée, selon un guide. Sur Mapstr, le lieu affiche 4,6 pour 13 avis au 20 octobre 2026 ; sa page Tripadvisor, elle, nous est restée fermée."
+        }
+      ],
+      "sources": ["s28", "s34", "s35", "s36", "s37"]
     },
     {
       "id": "acces-pont-daladier",
@@ -254,6 +301,29 @@
         }
       ],
       "sources": ["s1", "s3", "s6", "s7", "s9", "s10", "s11", "s12", "s14", "s16", "s17", "s18", "s19", "s22", "s24", "s25"]
+    },
+    {
+      "id": "ile-aux-plaisirs-et-vaucluse",
+      "title": "L'Île aux Plaisirs disparue en 2009, trois saunas du Vaucluse hors d'Avignon",
+      "icon": "map",
+      "summary": "L'Île aux Plaisirs, sur la Barthelasse, a disparu dès 2009 ; ailleurs dans le Vaucluse, un annuaire cite trois saunas libertins dont nous n'avons pas vérifié les jours.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Un autre nom circule encore dans les annuaires. [L'Île aux Plaisirs](/l-ile-aux-plaisir-avignon), sur l'île de la Barthelasse, a fermé de longue date : son site, encore en ligne en mai 2009, renvoie dès juin 2009 vers celui du Vynil's Klub, et n'est plus en 2011 qu'une page parking annonçant le domaine à vendre."
+        },
+        {
+          "kind": "text",
+          "body": "Hors d'Avignon, un annuaire recense dans le Vaucluse [La Licorne d'Or à Carpentras](/la-licorne-d-or-carpentras), [le Sunlight Club à Monteux](/le-sunlight-club-monteux) et Les Thermes de la Nesque à Pernes-les-Fontaines ; leurs jours d'ouverture n'ont pas été vérifiés pour cette fiche. L'ensemble des lieux du secteur figure sur [la page consacrée au Vaucluse](/departement/vaucluse) et sur [celle des adresses d'Avignon](/ville/avignon)."
+        },
+        {
+          "kind": "callout",
+          "tone": "info",
+          "title": "Rien à voir avec la lingerie Darjeeling",
+          "body": "À Avignon, le nom Darjeeling désigne aussi des boutiques de lingerie, rue de la République, avenue Pierre-Sémard et à Auchan Le Pontet : ce sont les seules que PagesJaunes renvoie sous ce nom. Le sauna, lui, n'y a pas de fiche. Il se trouve au 24 chemin de l'Île Piot."
+        }
+      ],
+      "sources": ["s30", "s31", "s33"]
     },
     {
       "id": "sarl-standing-et-telephones",
@@ -341,8 +411,12 @@
       "answer": "Des préservatifs : la charte demande de s'en munir. Aucune tenue particulière : l'après-midi se passe en serviette (70 × 140 cm, fournie avec les tongs) et l'on peut rester habillé au lounge. Peignoir et serviette supplémentaire sont payants."
     },
     {
-      "question": "Où sortir le soir à Avignon, puisque Le Darjeeling ferme à 19 h ?",
-      "answer": "À Avignon, le Club Aphrodite ouvre le soir : le jeudi de 21 h à 3 h en mixte, le vendredi et le samedi dès 22 h 30 pour les couples et les femmes seules, selon son site consulté le 16 octobre 2026. Pour une autre date, plus loin dans le Vaucluse ou dans le Gard, on peut [chercher une soirée le long du Rhône dans l'agenda de Wyylde](aff:wyylde), le site de l'ex-Netéchangisme : un compte gratuit suffit pour le consulter, mais converser avec les membres demande un abonnement."
+      "question": "Que disent les avis sur Le Darjeeling ?",
+      "answer": "Le Petit Futé affiche 3,8/5 sur dix avis au 20 octobre 2026. Ceux de 2024 saluent la propreté et le grand jacuzzi, celui d'avril 2025 la sélection des clients ; un avis de mai 2023 jugeait le lieu sale et vieillissant, et un homme seul dit n'avoir croisé personne en décembre 2025."
+    },
+    {
+      "question": "Où aller en semaine ou le soir, puisque Le Darjeeling n'ouvre que le week-end jusqu'à 19 h ?",
+      "answer": "À Avignon, Le Pearl, autre sauna libertin, ferme le lundi et ouvre les autres jours dès 14 h, jusqu'à 22 h, ou 3 h le vendredi et le samedi, selon son site au 2 octobre 2026. Le Club Aphrodite ouvre le soir : le jeudi de 21 h à 3 h en mixte, le vendredi et le samedi dès 22 h 30 pour les couples et les femmes seules, selon son site consulté le 16 octobre 2026. Pour une autre date, plus loin dans le Vaucluse ou dans le Gard, on peut [chercher une soirée le long du Rhône dans l'agenda de Wyylde](aff:wyylde), le site de l'ex-Netéchangisme : un compte gratuit suffit pour le consulter, mais converser avec les membres demande un abonnement."
     }
   ],
   "unverified": [
@@ -351,9 +425,12 @@
     "Le nombre d'hommes seuls admis par après-midi, que la page Concept limite à « quelques » sans chiffre.",
     "La reprise des bracelets de couleur et du coaching débutants du Samedi Tentation dans le Samedi Débauche.",
     "La validité des numéros 04 90 25 99 32 et 06 20 37 60 45, encore imprimés sur les affiches d'octobre 2026.",
-    "La note du club sur les plateformes d'avis : un guide relaie 4,2/5 sur 30 avis, sans date ni plateforme, que nous n'avons pas pu consulter nous-mêmes.",
-    "Les « magazines étrangers » qui auraient cité le club pour son hygiène, jamais nommés.",
-    "D'éventuels articles de la presse régionale sur le club : cette recherche reste à mener."
+    "La note Google du club : des sites tiers relaient 4,1/5 sur 35 avis ou 4,2/5 sur 30, que nous n'avons pas pu lire nous-mêmes ; la page Tripadvisor ne nous a pas été accessible.",
+    "L'existence et l'accès du donjon que citent le Petit Futé et un avis d'octobre 2024, absent du site officiel.",
+    "Les « magazines étrangers » qui auraient cité le club pour son hygiène, jamais nommés."
+  ],
+  "externalRatings": [
+    { "platform": "Petit Futé", "rating": 3.8, "scale": 5, "count": 10, "date": "2026-10-20", "url": "https://www.petitfute.com/v33549-avignon-84000/c9998-coquin/c1044-s-amuser-sortir/c208-sauna/605090-le-darjeeling.html" }
   ],
   "sources": [
     { "id": "s1", "label": "Site officiel, page d'accueil (mise à jour du 2 octobre 2026)", "url": "https://www.ledarjeeling.fr/", "type": "officiel", "consulted": "2026-10-16" },
@@ -384,10 +461,17 @@
     { "id": "s26", "label": "sauna-club-libertin.com, fiche n° 782 (annuaire non daté)", "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_3.php?id=782&d=84", "type": "annuaire", "consulted": "2026-10-16" },
     { "id": "s27", "label": "fuxxy.fr, fiche Le Darjeeling (annuaire non daté)", "url": "https://fuxxy.fr/club-libertin/avignon/le-darjeeling", "type": "annuaire", "consulted": "2026-10-16" },
     { "id": "s28", "label": "kinkyee.fr, Club libertin Avignon (guide non daté)", "url": "https://kinkyee.fr/club-libertin/avignon/", "type": "annuaire", "consulted": "2026-10-16" },
-    { "id": "s29", "label": "saunaclublebali.fr, Clubs libertins dans le Vaucluse (blog d'un établissement concurrent, 14/02/2026)", "url": "https://www.saunaclublebali.fr/clubs-libertins-dans-le-vaucluse-84-panorama-des-etablissements-a-avignon-et-carpentras/", "type": "autre", "consulted": "2026-10-16" },
     { "id": "s30", "label": "PagesJaunes, recherche « le darjeeling » à Avignon", "url": "https://www.pagesjaunes.fr/recherche/avignon-84/le-darjeeling", "type": "annuaire", "consulted": "2026-10-16" },
     { "id": "s31", "label": "fuxxy.fr, annuaire des clubs (Vaucluse)", "url": "https://fuxxy.fr/clubs", "type": "annuaire", "consulted": "2026-10-16" },
     { "id": "s32", "label": "Club Aphrodite, site officiel, page Philosophie (jours et publics)", "url": "https://clubaphrodite.fr/philosophie/", "type": "officiel", "consulted": "2026-10-16" },
-    { "id": "s33", "label": "Archive de ile-aux-plaisirs.com : redirection vers le Vynil's Klub (16/06/2009), domaine à vendre (29/04/2011)", "url": "https://web.archive.org/cdx/search/cdx?url=ile-aux-plaisirs.com&fl=timestamp,statuscode&collapse=timestamp:6", "type": "autre", "consulted": "2026-10-16" }
+    { "id": "s33", "label": "Archive de ile-aux-plaisirs.com : redirection vers le Vynil's Klub (16/06/2009), domaine à vendre (29/04/2011)", "url": "https://web.archive.org/cdx/search/cdx?url=ile-aux-plaisirs.com&fl=timestamp,statuscode&collapse=timestamp:6", "type": "autre", "consulted": "2026-10-16" },
+    { "id": "s34", "label": "Petit Futé, fiche « LE DARJEELING » : texte éditorial et avis d'internautes (3,8/5, 10 avis)", "url": "https://www.petitfute.com/v33549-avignon-84000/c9998-coquin/c1044-s-amuser-sortir/c208-sauna/605090-le-darjeeling.html", "type": "avis", "consulted": "2026-10-20" },
+    { "id": "s35", "label": "Tripadvisor, « Darjeeling Club Sauna Libertin Avignon » (page inaccessible, vue dans les résultats de recherche)", "url": "https://www.tripadvisor.com/Attraction_Review-g187212-d33272564-Reviews-Darjeeling_Club_Sauna_Libertin_Avignon-Avignon_Vaucluse_Provence_Alpes_Cote_d_Az.html", "type": "avis", "consulted": "2026-10-20" },
+    { "id": "s36", "label": "Minuit Libertin, « Le Darjeeling Club à Avignon » (blog-annuaire, note Google relayée)", "url": "https://minuitlibertin.com/le-darjeeling-club-a-avignon/", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s37", "label": "Mapstr, fiche « Le Darjeeling club » (4,6, 13 avis)", "url": "https://mapstr.com/place/DWFyd6HcVtg", "type": "avis", "consulted": "2026-10-20" },
+    { "id": "s38", "label": "disconight.free.fr, copie de l'ancien site du club (modifiée le 11/06/2025)", "url": "http://disconight.free.fr/", "type": "autre", "consulted": "2026-10-20" },
+    { "id": "s39", "label": "Le Pearl, site officiel, page d'accueil (modifiée le 2 octobre 2026)", "url": "https://www.lepearlavignon.fr/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s40", "label": "Le Pearl, site officiel, page Tarifs", "url": "https://www.lepearlavignon.fr/tarifs/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s41", "label": "Les nuits de Gaby, « Le Darjeeling - Club Sauna Libertin - Avignon » (blog, visite d'août 2016)", "url": "https://gaby789.over-blog.com/le-darjeeling-avignon", "type": "autre", "consulted": "2026-10-20" }
   ]
 }
