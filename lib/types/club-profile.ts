@@ -56,14 +56,49 @@ export type ProfileBlock =
   | { kind: 'callout'; tone: 'info' | 'warning' | 'tip'; title?: string; body: string }
   | { kind: 'timeline'; items: { date: string; text: string }[] };
 
+/** Pictogrammes disponibles (components/clubs/profile/Icon.tsx). */
+export type ProfileIcon =
+  | 'calendar' | 'clock' | 'euro' | 'users' | 'couple' | 'sparkles' | 'map' | 'building'
+  | 'history' | 'star' | 'shield' | 'info' | 'warning' | 'camera' | 'music' | 'drink'
+  | 'food' | 'spa' | 'flame' | 'water' | 'bed' | 'car' | 'lock' | 'ticket' | 'heart'
+  | 'mask' | 'closed' | 'ruler' | 'phone' | 'globe';
+
 export interface ProfileSection {
   /** Ancre HTML (kebab-case). */
   id: string;
   /** Titre H2, propre au club. */
   title: string;
+  /** Pictogramme de la section. */
+  icon?: ProfileIcon;
+  /**
+   * La réponse de la section en une phrase (180 caractères max), toujours
+   * visible ; le texte complet se déplie à la demande.
+   */
+  summary?: string;
   blocks: ProfileBlock[];
   sources: string[];
   confidence?: Confidence;
+}
+
+/** Tuile « en un coup d'œil » : un fait court, lisible en une seconde. */
+export interface GlanceItem {
+  icon: ProfileIcon;
+  /** 24 caractères max : « Ouvert », « Entrée couple », « Depuis »… */
+  label: string;
+  /** 45 caractères max : « Tous les jours dès 14 h », « 20 € (sauna) »… */
+  value: string;
+  confidence?: Confidence;
+}
+
+/** Conditions d'accès d'un public : la question n° 1 des visiteurs. */
+export interface AudienceItem {
+  who: 'couples' | 'femmes' | 'hommes' | 'trans';
+  /** oui = admis ; selon = certains jours ou sous conditions ; non = refusé. */
+  status: 'oui' | 'non' | 'selon' | 'inconnu';
+  /** 90 caractères max : « Tous les jours ; samedi soir côté club privé ». */
+  detail: string;
+  /** Prix court : « 20 € », « 35 à 50 € ». */
+  price?: string;
 }
 
 export type ProfileStatus = 'ouvert' | 'ferme' | 'fermeture_probable' | 'incertain';
@@ -114,6 +149,13 @@ export interface ClubProfile {
 
   /** Chapô : 2 à 4 phrases, ce qui distingue ce lieu. */
   lead: string;
+
+  /** 4 à 6 tuiles « en un coup d'œil », sous l'en-tête. */
+  glance?: GlanceItem[];
+  /** Qui peut entrer (couples, femmes seules, hommes seuls…). */
+  audience?: AudienceItem[];
+  /** 3 à 5 points « À savoir avant d'y aller » (160 caractères max chacun). */
+  highlights?: string[];
 
   /** Fiche d'identité affichée en encadré (ouverture, public admis, surface…). */
   keyFacts: ProfileFact[];

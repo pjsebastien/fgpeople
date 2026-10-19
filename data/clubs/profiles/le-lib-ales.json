@@ -34,6 +34,47 @@
     ]
   },
   "lead": "Lancé à l'automne 2009 au 16 bis rue Lafare, près de la cathédrale d'Alès, Le Lib ne montre plus aucune activité après 2010 ; en février 2013, l'adresse fonctionnait déjà sous le nom du VIP, aujourd'hui référencé comme discothèque. Le club ouvrait le jeudi de 14 h à 22 h pour un « Jeudi Gang Bang », puis le vendredi et le samedi soir. En octobre 2026, le seul club libertin d'Alès que nous ayons trouvé en activité est L'Only-US, route d'Uzès.",
+  "glance": [
+    {
+      "icon": "closed",
+      "label": "Fermé",
+      "value": "Date inconnue, entre fin 2009 et février 2013"
+    },
+    {
+      "icon": "history",
+      "label": "Première soirée",
+      "value": "Samedi 24 octobre 2009"
+    },
+    {
+      "icon": "map",
+      "label": "Adresse",
+      "value": "16 bis rue Lafare, près de la cathédrale",
+      "confidence": "source_unique"
+    },
+    {
+      "icon": "building",
+      "label": "Le lieu aujourd'hui",
+      "value": "Le VIP, référencé comme discothèque"
+    },
+    {
+      "icon": "euro",
+      "label": "Entrée couple (2009)",
+      "value": "25 € jeudi · 35 € vendredi et samedi",
+      "confidence": "source_unique"
+    },
+    {
+      "icon": "heart",
+      "label": "Club actif à Alès",
+      "value": "L'Only-US, 1115 route d'Uzès"
+    }
+  ],
+  "highlights": [
+    "Le 16 bis rue Lafare n'est plus un club libertin : l'adresse est référencée comme discothèque, sous le nom du VIP.",
+    "Le seul club libertin en activité trouvé à Alès en octobre 2026 est L'Only-US, 1115 route d'Uzès, ouvert du mardi au dimanche.",
+    "Côté sauna, L'Only-US met en avant un espace balnéo ; sauna et hammam ne sont cités que par un avis client et un annuaire.",
+    "La réouverture en club libertin annoncée pour le 24 octobre 2025 par un avis Google n'est confirmée par aucune source.",
+    "Aucune photo officielle du club n'est consultable : les images de lelib.fr en 2018 sont celles d'une discothèque homonyme d'Ivry-sur-Seine."
+  ],
   "keyFacts": [
     {
       "label": "Statut",
@@ -111,21 +152,126 @@
   ],
   "sections": [
     {
+      "id": "club-libertin-ales-2026",
+      "title": "Club libertin à Alès en 2026 : L'Only-US, route d'Uzès, du mardi au dimanche",
+      "icon": "heart",
+      "summary": "En octobre 2026, L'Only-US, au 1115 route d'Uzès, est le seul club libertin en activité que nous ayons trouvé à Alès, avec un agenda à jour.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "En octobre 2026, nous n'avons trouvé qu'une adresse libertine en activité à Alès : **L'Only-US**, au 1115 route d'Uzès, qui est aussi le seul club alésien recensé par les Pages Jaunes. Son [site officiel](https://lonlyus.com/) publie un agenda à jour, avec des après-midi et des soirées les 15 et 16 octobre 2026."
+        },
+        {
+          "kind": "table",
+          "caption": "Horaires affichés sur le site de L'Only-US en octobre 2026",
+          "headers": [
+            "Jours",
+            "Horaires"
+          ],
+          "rows": [
+            [
+              "Mardi, jeudi, vendredi, samedi",
+              "14 h - 19 h, puis 20 h 30 - 1 h"
+            ],
+            [
+              "Mercredi",
+              "14 h - 19 h, pas de soirée"
+            ],
+            [
+              "Dimanche",
+              "14 h - 22 h"
+            ]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "**Accès annoncé** : hommes, femmes, couples et personnes travesties.",
+            "**Espace balnéo** mis en avant par le site ; un avis client qu'il reproduit y cite jacuzzi, sauna et hammam.",
+            "**Activité depuis juin 2025** selon l'annuaire fuxxy, qui le présente comme sauna et hammam."
+          ]
+        }
+      ],
+      "sources": [
+        "s19",
+        "s20",
+        "s24"
+      ]
+    },
+    {
+      "id": "autres-clubs-gard",
+      "title": "Hors d'Alès : Le Love à Sauve en pause, quatre clubs du Gard à vérifier",
+      "icon": "map",
+      "summary": "À Sauve, Le Love a mis son site en pause, malgré une société immatriculée sous ce nom en septembre 2026 ; à Euzet, Nîmes et Castillon-du-Gard, l'activité reste à vérifier.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "À Sauve, Le Love affiche un site « en pause », alors qu'une société a été immatriculée sous ce nom commercial le 11 septembre 2026 : son activité reste à confirmer.\n\nAilleurs, [notre annuaire du Gard](/departement/gard) recense ces lieux, dont nous n'avons pas encore vérifié l'activité :"
+        },
+        {
+          "kind": "list",
+          "items": [
+            "[Un club à Euzet](/l-ecrin-euzet).",
+            "[Club 30](/club-30-nimes) et [Fahrenheit 212](/fahrenheit-212-nimes), à Nîmes.",
+            "[Le New Bora](/le-new-bora-castillon-du-gard), à Castillon-du-Gard."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Avec un seul club actif dans la ville, beaucoup de rencontres se préparent en ligne : [Gleese, site libertin français lancé fin 2024](aff:gleese), s'essaie sans carte bancaire, avec des profils vérifiés par téléphone. Le site étant récent, vérifiez qu'il compte assez de membres autour d'Alès."
+        }
+      ],
+      "sources": [
+        "s21",
+        "s22"
+      ]
+    },
+    {
       "id": "indices-fermeture",
       "title": "Aucune trace du club après 2010 : les indices, date par date",
+      "icon": "closed",
+      "summary": "Aucune annonce de fermeture, mais des indices concordants : dernière soirée publiée en décembre 2009, dernière capture du site en août 2010, lieu devenu « le VIP » en février 2013.",
       "blocks": [
         {
           "kind": "text",
           "body": "Aucune annonce de fermeture n'a été retrouvée, ni sur les canaux du club ni dans la presse locale : le verdict repose sur des indices indépendants et concordants."
         },
         {
-          "kind": "list",
+          "kind": "timeline",
           "items": [
-            "**Décembre 2009** : dernière galerie de soirée publiée sur le site du club, celle d'une soirée « LGBT de Noël » datée du 19 décembre.",
-            "**Août 2010** : dernière capture du site lelib.fr. Dès septembre 2011, le domaine redirige vers une plateforme de rencontres ; en 2018, il sert à une discothèque homonyme d'Ivry-sur-Seine ; en octobre 2026, il ne répond plus.",
-            "**2013 et 2017** : sur la fiche Google de l'adresse, un avis signale que le lieu est devenu « le VIP », un autre qu'il n'est « plus un club échangiste ». En 2026, l'annuaire lefrenchguide range « Le Vip », au 16 bis rue Lafare, parmi les discothèques d'Alès.",
-            "**Au registre des entreprises**, aucun établissement n'apparaît sous l'enseigne « Le Lib » à Alès."
+            {
+              "date": "19 décembre 2009",
+              "text": "Dernière galerie de soirée publiée sur le site du club, celle d'une soirée « LGBT de Noël »."
+            },
+            {
+              "date": "Août 2010",
+              "text": "Dernière capture du site lelib.fr."
+            },
+            {
+              "date": "Septembre 2011",
+              "text": "Le domaine redirige vers une plateforme de rencontres."
+            },
+            {
+              "date": "Février 2013",
+              "text": "Sur la fiche Google de l'adresse, un avis signale que le lieu est devenu « le VIP »."
+            },
+            {
+              "date": "Novembre 2017",
+              "text": "Un autre avis précise qu'il n'est « plus un club échangiste »."
+            },
+            {
+              "date": "2018",
+              "text": "Le domaine lelib.fr sert à une discothèque homonyme d'Ivry-sur-Seine."
+            },
+            {
+              "date": "2026",
+              "text": "L'annuaire lefrenchguide range « Le Vip », au 16 bis rue Lafare, parmi les discothèques d'Alès. En octobre, le domaine lelib.fr ne répond plus."
+            }
           ]
+        },
+        {
+          "kind": "text",
+          "body": "**Au registre des entreprises**, aucun établissement n'apparaît sous l'enseigne « Le Lib » à Alès."
         },
         {
           "kind": "callout",
@@ -145,33 +291,53 @@
       ]
     },
     {
-      "id": "club-libertin-ales-2026",
-      "title": "Club libertin à Alès en 2026 : L'Only-US route d'Uzès, et le reste du Gard",
+      "id": "reouverture-octobre-2025",
+      "title": "Une réouverture le 24 octobre 2025 ? Ce que vaut l'avis qui l'annonçait",
+      "icon": "warning",
+      "summary": "Un avis Google d'octobre 2025 annonçait une réouverture en club libertin le 24 octobre ; un an plus tard, aucun site, réseau social, article ni annuaire ne la confirme.",
       "blocks": [
         {
           "kind": "text",
-          "body": "En octobre 2026, nous n'avons trouvé qu'une adresse libertine en activité à Alès : **L'Only-US**, au 1115 route d'Uzès, qui est aussi le seul club alésien recensé par les Pages Jaunes. Son [site officiel](https://lonlyus.com/) publie un agenda à jour, avec des après-midi et des soirées les 15 et 16 octobre 2026 et un accès annoncé pour les hommes, les femmes, les couples et les personnes travesties. Horaires affichés : du mardi au samedi de 14 h à 19 h et de 20 h 30 à 1 h, sauf le mercredi soir, et le dimanche de 14 h à 22 h. Côté sauna, le site met en avant un espace balnéo ; un avis client qu'il reproduit y cite jacuzzi, sauna et hammam, et l'annuaire fuxxy le présente comme sauna et hammam. Ce même annuaire fait remonter l'activité du club à juin 2025.\n\nÀ Sauve, Le Love affiche un site « en pause », alors qu'une société a été immatriculée sous ce nom commercial le 11 septembre 2026 : son activité reste à confirmer. Ailleurs, [notre annuaire du Gard](/departement/gard) recense [un club à Euzet](/l-ecrin-euzet), [Club 30](/club-30-nimes) et [Fahrenheit 212](/fahrenheit-212-nimes) à Nîmes, et [Le New Bora](/le-new-bora-castillon-du-gard) à Castillon-du-Gard, dont nous n'avons pas encore vérifié l'activité."
+          "body": "Le 11 octobre 2025, un avis Google annonçait que le lieu allait « redevenir un club libertin » à partir du 24 octobre. Un an plus tard, aucun site, réseau social public, article ni annuaire ne le confirme, et l'avis ne cite aucun nom."
+        },
+        {
+          "kind": "callout",
+          "tone": "info",
+          "title": "Une explication possible, non vérifiable",
+          "body": "La fiche du Lib sur un annuaire spécialisé, identique dans ses archives de 2013 et de 2020, annonce toujours un nouveau club « à découvrir à partir du 24 octobre », sans année. L'auteur de l'avis a pu prendre ce vieux texte pour une annonce récente. C'est une hypothèse, que rien ne permet de vérifier."
         },
         {
           "kind": "text",
-          "body": "Avec un seul club actif dans la ville, beaucoup de rencontres se préparent en ligne : [Gleese, site libertin français lancé fin 2024](aff:gleese), s'essaie sans carte bancaire, avec des profils vérifiés par téléphone. Le site étant récent, vérifiez qu'il compte assez de membres autour d'Alès."
+          "body": "Pour vérifier si une soirée est réellement prévue dans le secteur, [le calendrier des soirées en club recensées par Wyylde](aff:wyylde) s'ouvre avec un simple compte gratuit : le site, qui s'appelait Netéchangisme jusqu'en 2018, réserve en revanche aux abonnés la réponse aux messages."
         }
       ],
       "sources": [
-        "s19",
-        "s20",
-        "s21",
-        "s22",
-        "s24"
+        "s9",
+        "s10"
       ]
     },
     {
       "id": "programme-automne-2009",
       "title": "Gang bang le jeudi, soirées le week-end : le programme de l'automne 2009",
+      "icon": "calendar",
+      "summary": "En 2009 : « Jeudi Gang Bang » de 14 h à 22 h, puis soirées le vendredi et le samedi ; entrée à 25 ou 35 € pour un couple, 55 € pour un homme.",
       "blocks": [
         {
           "kind": "text",
-          "body": "À l'automne 2009, Le Lib ouvrait trois jours par semaine : le jeudi en journée continue, sous l'intitulé « Jeudi Gang Bang », puis le vendredi et le samedi soir. Tous les samedis du 24 octobre au 28 novembre étaient programmés, dont une « Soirée LGBT » le 21 novembre ; la dernière galerie publiée, le 19 décembre, s'intitule « LGBT de Noël ».\n\nLa grille d'entrée ne connaissait que les hommes et les couples, sans ligne pour les femmes seules. Un homme payait le même prix quel que soit le jour ; un couple économisait 10 € en venant le jeudi."
+          "body": "À l'automne 2009, Le Lib ouvrait trois jours par semaine : le jeudi en journée continue, sous l'intitulé « Jeudi Gang Bang », puis le vendredi et le samedi soir."
+        },
+        {
+          "kind": "list",
+          "title": "Les soirées annoncées par le club",
+          "items": [
+            "Tous les samedis, du 24 octobre au 28 novembre 2009.",
+            "Une « Soirée LGBT » le samedi 21 novembre.",
+            "« LGBT de Noël » le 19 décembre : la dernière galerie publiée."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "La grille d'entrée ne connaissait que les hommes et les couples, sans ligne pour les femmes seules. Un homme payait le même prix quel que soit le jour ; un couple économisait 10 € en venant le jeudi."
         }
       ],
       "sources": [
@@ -181,27 +347,22 @@
       ]
     },
     {
-      "id": "equipe-liberty-mag",
-      "title": "Une équipe venue d'un autre club, aux commandes du magazine Liberty-Mag",
-      "blocks": [
-        {
-          "kind": "text",
-          "body": "L'équipe n'en était pas à son coup d'essai. Dans le livre d'or du site, elle remercie les clients qui l'ont suivie depuis son « club précédent », sans le nommer, et dit diriger « depuis plus de 3 ans » Liberty-Mag.fr, un magazine libertin en ligne dont le menu « Le Club » renvoyait vers lelib.fr. Le téléphone portable et l'e-mail qu'un annuaire prête encore au Lib sont ceux de cette rédaction : nous ne les reproduisons pas."
-        }
-      ],
-      "sources": [
-        "s3",
-        "s8",
-        "s9"
-      ]
-    },
-    {
       "id": "16-bis-rue-lafare",
       "title": "16 bis rue Lafare, de L'Orchidée au VIP : une adresse de nuit depuis 1989",
+      "icon": "building",
+      "summary": "Seul un annuaire situe Le Lib au 16 bis rue Lafare, un ancien évêché près de la cathédrale où se sont succédé depuis 1989 des établissements de nuit, de L'Orchidée au VIP.",
       "blocks": [
         {
           "kind": "text",
-          "body": "L'adresse du Lib n'est connue que par un annuaire, la page « Accès » de son site n'ayant jamais été archivée. Le lieu, lui, est documenté : L'Orchidée, « discothèque-club » libertine présente dès 2008, le situait dans une petite rue proche de la cathédrale, dans un ancien évêché, l'entrée se trouvant dans une ruelle, à une trentaine de mètres du stationnement de la cathédrale."
+          "body": "L'adresse du Lib n'est connue que par un annuaire, la page « Accès » de son site n'ayant jamais été archivée. Le lieu, lui, est documenté : L'Orchidée, « discothèque-club » libertine présente dès 2008, le situait ainsi :"
+        },
+        {
+          "kind": "list",
+          "items": [
+            "Une petite rue proche de la cathédrale.",
+            "Un ancien évêché.",
+            "Une entrée dans une ruelle, à une trentaine de mètres du stationnement de la cathédrale."
+          ]
         },
         {
           "kind": "timeline",
@@ -234,7 +395,13 @@
         },
         {
           "kind": "text",
-          "body": "L'Orchidée (fiche allo-loisirs) et Le VIP (fiche Google reprise par mon-club.tel) partagent le même numéro fixe, signe probable d'une continuité entre ces deux enseignes ; le lien avec Le Lib (reprise, cohabitation, même exploitant) reste inconnu. Voir aussi [la fiche de L'Orchidée](/l-orchidee-club-ales). La note Google de l'adresse, 2,8/5 sur 9 avis, relevée le 16 octobre 2026 sur mon-club.tel (données du 4 octobre), porte sur Le VIP, pas sur Le Lib."
+          "body": "L'Orchidée (fiche allo-loisirs) et Le VIP (fiche Google reprise par mon-club.tel) partagent le même numéro fixe, signe probable d'une continuité entre ces deux enseignes. Le lien avec Le Lib (reprise, cohabitation, même exploitant) reste inconnu. Voir aussi [la fiche de L'Orchidée](/l-orchidee-club-ales)."
+        },
+        {
+          "kind": "callout",
+          "tone": "info",
+          "title": "Une note Google qui ne concerne pas Le Lib",
+          "body": "La note de l'adresse, 2,8/5 sur 9 avis, relevée le 16 octobre 2026 sur mon-club.tel (données du 4 octobre), porte sur Le VIP."
         }
       ],
       "sources": [
@@ -251,17 +418,26 @@
       ]
     },
     {
-      "id": "reouverture-octobre-2025",
-      "title": "Une réouverture le 24 octobre 2025 ? Ce que vaut l'avis qui l'annonçait",
+      "id": "equipe-liberty-mag",
+      "title": "Une équipe venue d'un autre club, aux commandes du magazine Liberty-Mag",
+      "icon": "users",
+      "summary": "L'équipe venait d'un autre club, jamais nommé, et dirigeait depuis plus de trois ans le magazine libertin en ligne Liberty-Mag.fr.",
       "blocks": [
         {
           "kind": "text",
-          "body": "Le 11 octobre 2025, un avis Google annonçait que le lieu allait « redevenir un club libertin » à partir du 24 octobre. Un an plus tard, aucun site, réseau social public, article ni annuaire ne le confirme, et l'avis ne cite aucun nom. Or la fiche du Lib sur un annuaire spécialisé, identique dans ses archives de 2013 et de 2020, annonce toujours un nouveau club « à découvrir à partir du 24 octobre », sans année : l'auteur a pu prendre ce vieux texte pour une annonce récente. C'est une hypothèse, que rien ne permet de vérifier.\n\nPour vérifier si une soirée est réellement prévue dans le secteur, [le calendrier des soirées en club recensées par Wyylde](aff:wyylde) s'ouvre avec un simple compte gratuit : le site, qui s'appelait Netéchangisme jusqu'en 2018, réserve en revanche aux abonnés la réponse aux messages."
+          "body": "L'équipe n'en était pas à son coup d'essai. Dans le livre d'or du site, elle remercie les clients qui l'ont suivie depuis son « club précédent », sans le nommer, et dit diriger « depuis plus de 3 ans » Liberty-Mag.fr.\n\nCe magazine libertin en ligne renvoyait vers lelib.fr depuis son menu « Le Club »."
+        },
+        {
+          "kind": "callout",
+          "tone": "info",
+          "title": "Téléphone et e-mail d'annuaire : ceux du magazine",
+          "body": "Le téléphone portable et l'e-mail qu'un annuaire prête encore au Lib sont ceux de la rédaction de Liberty-Mag : nous ne les reproduisons pas."
         }
       ],
       "sources": [
-        "s9",
-        "s10"
+        "s3",
+        "s8",
+        "s9"
       ]
     }
   ],

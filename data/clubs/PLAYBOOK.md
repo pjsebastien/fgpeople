@@ -207,6 +207,40 @@ Les horaires et tarifs vont dans les champs structurés `horaires` et `tarifs`
 (rendus dans un encadré dédié), pas en double dans une section. Une section
 peut les commenter (« l'entrée hommes seuls est deux fois plus chère le samedi »).
 
+### Lisibilité : le visiteur ne lit pas, il cherche
+
+Le visiteur arrive de Google avec une question précise (ouvert ? quand ?
+combien ? qui peut entrer ? c'est comment ?). La page doit y répondre en dix
+secondes, sans lecture : c'est le rôle des blocs de lecture rapide, affichés
+en haut de page. Le texte détaillé vient ensuite, replié section par section.
+
+- **`glance`** (4 à 6 tuiles, obligatoire) : un pictogramme, un libellé
+  (24 caractères max) et une valeur (45 caractères max), lisibles en une
+  seconde. Ex. `{"icon": "calendar", "label": "Ouvert", "value": "Tous les jours dès 14 h"}`,
+  `{"icon": "euro", "label": "Entrée couple", "value": "20 € (sauna) · 60 € (samedi)"}`,
+  `{"icon": "history", "label": "Depuis", "value": "2009"}`. Club fermé :
+  `{"icon": "closed", "label": "Fermé", "value": "Depuis 2013"}`, la période
+  d'activité, le club ouvert le plus proche. Un fait incertain porte sa `confidence`.
+- **`audience`** (club ouvert : obligatoire) : qui peut entrer, une entrée par
+  public (`couples`, `femmes`, `hommes`, `trans` si documenté), avec `status`
+  (`oui`, `selon`, `non`, `inconnu`), un `detail` de 90 caractères max
+  (« Tous les jours ; samedi soir : club privé réservé aux couples ») et un
+  `price` court qui est un montant (« 20 € », « 35 à 50 € ») ; sans montant connu, pas de `price` (le dire dans `detail`). C'est la question n° 1 des visiteurs.
+- **`highlights`** (3 à 5 points, obligatoire) : « À savoir avant d'y aller »,
+  les conseils concrets qui évitent une mauvaise surprise (dress code refusé à
+  la porte, quota d'hommes seuls, réservation obligatoire, parking, adresse
+  déménagée…). 160 caractères max chacun, un fait par point.
+- **Chaque section** a un `icon` et un **`summary`** : sa réponse en une phrase
+  (180 caractères max), toujours visible ; le texte se déplie à la demande.
+  Le summary n'est pas un teaser (« Découvrez… ») mais l'information elle-même.
+- **Paragraphes courts** : 3 phrases ou 60 mots au plus. Une énumération de
+  plus de deux éléments devient une liste ; des prix ou des horaires
+  comparés deviennent un tableau. Une section qui dépasse 250 mots se scinde.
+
+Pictogrammes : calendar, clock, euro, users, couple, sparkles, map, building,
+history, star, shield, info, warning, camera, music, drink, food, spa, flame,
+water, bed, car, lock, ticket, heart, mask, closed, ruler, phone, globe.
+
 ### Les champs
 
 - `display` : la graphie correcte du nom et de la ville quand la base les a en

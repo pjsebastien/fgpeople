@@ -32,6 +32,72 @@
     ]
   },
   "lead": "Le Domaine occupe depuis septembre 2013 les caves voûtées du Fief de la Jarrie, à Auzay, près de Fontenay-le-Comte. Depuis septembre 2026, il n'ouvre plus que le samedi, de 22 h à 5 h, pour les couples (35 €) et les femmes seules (10 €) ; les hommes seuls n'y entrent que sur réservation, avec une carte GOLD. Fermé du 5 au 23 octobre 2026, il annonce sa réouverture le samedi 24 octobre.",
+  "glance": [
+    {
+      "icon": "clock",
+      "label": "Ouvert",
+      "value": "Le samedi seulement, 22 h - 5 h"
+    },
+    {
+      "icon": "warning",
+      "label": "Fermeture exceptionnelle",
+      "value": "Jusqu'au 23 octobre 2026, réouverture le 24"
+    },
+    {
+      "icon": "euro",
+      "label": "Entrée couple",
+      "value": "35 €, une consommation par personne"
+    },
+    {
+      "icon": "building",
+      "label": "Lieu",
+      "value": "Caves voûtées, plus de 600 m² selon le club",
+      "confidence": "source_unique"
+    },
+    {
+      "icon": "map",
+      "label": "Accès",
+      "value": "A83 sortie 8, près de Fontenay-le-Comte"
+    },
+    {
+      "icon": "history",
+      "label": "Depuis",
+      "value": "Septembre 2013"
+    }
+  ],
+  "audience": [
+    {
+      "who": "couples",
+      "status": "oui",
+      "detail": "Chaque samedi, soirées à thème comprises ; carte de membre gratuite",
+      "price": "35 €"
+    },
+    {
+      "who": "femmes",
+      "status": "oui",
+      "detail": "Chaque samedi ; jupe ou robe exigée, carte de membre gratuite",
+      "price": "10 €"
+    },
+    {
+      "who": "hommes",
+      "status": "selon",
+      "detail": "Carte GOLD et réservation, 3 à 5 places selon les pages du site ; ou en trouple HHF à 70 €",
+      "price": "Non publié"
+    },
+    {
+      "who": "trans",
+      "status": "inconnu",
+      "detail": "Tarif publié pour la seule soirée BDSM du 3 octobre 2026 ; samedi non précisé",
+      "price": "15 € (soirée BDSM)"
+    }
+  ],
+  "highlights": [
+    "Le vendredi n'existe plus depuis la rentrée 2026 : les avis et annuaires qui le mentionnent, PagesJaunes compris, décrivent une ancienne formule.",
+    "Homme seul : carte GOLD et réservation obligatoires, places comptées, et le site se contredit sur leur nombre ; faites confirmer la règle au 06 77 17 08 38.",
+    "Tenue exigée : jupe ou robe pour les femmes ; pantalon chic ou jean propre pour les hommes, avec chemise aux soirées couples, Halloween et Glamour.",
+    "Le club a multiplié les fermetures exceptionnelles en 2026, dont celle du 5 au 23 octobre : consultez son agenda avant de partir.",
+    "Un client jugé inapte à conduire doit prendre une chambre d'hôtel à ses frais, sinon le club annonce qu'il appelle la gendarmerie."
+  ],
   "keyFacts": [
     {
       "label": "Ouverture",
@@ -133,20 +199,83 @@
     {
       "id": "samedi-seul-depuis-septembre-2026",
       "title": "Septembre 2026 : le vendredi supprimé, le samedi réservé aux couples et aux femmes seules",
+      "icon": "clock",
+      "summary": "Depuis septembre 2026, le club n'ouvre plus que le samedi, de 22 h à 5 h, et lors de soirées exceptionnelles ; il dit avoir renoncé au vendredi à cause de certains hommes seuls.",
       "blocks": [
         {
+          "kind": "text",
+          "body": "Après « plus de 13 ans d'ouverture », écrit le club, Le Domaine a changé de rythme à la rentrée 2026. Sa page « Horaires & Tarifs », modifiée le 8 septembre, annonce une ouverture **le samedi uniquement, de 22 h à 5 h**, hors soirées exceptionnelles."
+        },
+        {
+          "kind": "table",
+          "caption": "Page « Horaires & Tarifs » du site officiel, archivée en mars 2026 puis relevée le 16 octobre 2026",
+          "headers": [
+            "Soir",
+            "Mars 2026",
+            "Depuis septembre 2026"
+          ],
+          "rows": [
+            [
+              "Vendredi",
+              "22 h - 3 h, hommes seuls admis",
+              "fermé"
+            ],
+            [
+              "Samedi",
+              "22 h - 5 h",
+              "22 h - 5 h"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Début août, le club annonçait encore la fermeture d'un vendredi d'octobre : l'abandon du vendredi date donc vraisemblablement de la fin de l'été.\n\nLa page « Le Club » en donne la raison : le vendredi attirait certains hommes seuls qui ne partageaient pas « notre vision du libertinage »."
+        }
+      ],
+      "sources": [
+        "s3",
+        "s5",
+        "s11",
+        "s12",
+        "s23"
+      ]
+    },
+    {
+      "id": "hommes-seuls-carte-gold-trouple",
+      "title": "Hommes seuls : carte GOLD, réservation et trois à cinq places, ou le trouple à 70 €",
+      "icon": "users",
+      "summary": "Un homme seul entre sur réservation avec la carte GOLD, dans la limite de trois à cinq places selon les pages du site, ou en trouple HHF à 70 € avec un couple.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Comme en 2025 déjà, un homme seul doit détenir la carte membre GOLD, que « Le Code » affiche à 5 €, et réserver. Le site se contredit sur le nombre de places :"
+        },
+        {
+          "kind": "table",
+          "headers": [
+            "Page du site officiel",
+            "Hommes seuls admis"
+          ],
+          "rows": [
+            [
+              "« Horaires & Tarifs »",
+              "« 3 ou 4 » au maximum, davantage pour les gang bangs et les soirées BDSM"
+            ],
+            [
+              "« Le Club » et « Le Code »",
+              "Une soirée mixte par mois, ouverte à cinq hommes présélectionnés et inscrits 48 h avant"
+            ]
+          ]
+        },
+        {
           "kind": "callout",
-          "tone": "warning",
-          "title": "Fermeture exceptionnelle jusqu'au 23 octobre 2026",
-          "body": "L'agenda du club annonce une fermeture du 5 au 23 octobre 2026 inclus et une réouverture le samedi 24 octobre avec une soirée couples."
+          "tone": "tip",
+          "title": "Avant de réserver",
+          "body": "Faites préciser la règle au 06 77 17 08 38."
         },
         {
           "kind": "text",
-          "body": "Après « plus de 13 ans d'ouverture », écrit le club, Le Domaine a changé de rythme à la rentrée 2026 : sa page « Horaires & Tarifs », modifiée le 8 septembre, annonce une ouverture **le samedi uniquement, de 22 h à 5 h**, hors soirées exceptionnelles. En mars 2026, elle proposait encore le vendredi de 22 h à 3 h. Le club annonçait toujours, début août, la fermeture d'un vendredi d'octobre : l'abandon du vendredi date donc vraisemblablement de la fin de l'été.\n\nLa page « Le Club » en donne la raison : le vendredi attirait certains hommes seuls qui ne partageaient pas « notre vision du libertinage »."
-        },
-        {
-          "kind": "text",
-          "body": "**Hommes seuls : une entrée au compte-gouttes**\nComme en 2025 déjà, il leur faut la carte membre GOLD, que « Le Code » affiche à 5 €, et une réservation. Le site se contredit sur leur nombre : « 3 ou 4 » au maximum selon la page tarifs, davantage pour les gang bangs et les soirées BDSM ; une soirée mixte par mois, ouverte à cinq hommes présélectionnés et inscrits 48 h avant, selon les pages « Le Club » et « Le Code ». Faites préciser la règle au 06 77 17 08 38 avant de réserver.\n\nL'autre porte d'entrée est le trouple HHF (deux hommes, une femme), à 70 €, admis même lors de la soirée couples du 24 octobre : venir avec un couple qui souhaite un second partenaire masculin. Ce type de rencontre se prépare en amont, par exemple sur [les petites annonces de Carré Libertin](aff:carre-libertin), un site ouvert en 2007 où les femmes et les couples représentent environ 60 % des membres selon ses propres chiffres, et y accèdent gratuitement en publiant trois photos de profil."
+          "body": "**Venir en trouple HHF**\nL'autre porte d'entrée est le trouple HHF (deux hommes, une femme), à 70 €, admis même lors de la soirée couples du 24 octobre : venir avec un couple qui souhaite un second partenaire masculin.\n\nCe type de rencontre se prépare en amont, par exemple sur [les petites annonces de Carré Libertin](aff:carre-libertin), un site ouvert en 2007 où les femmes et les couples représentent environ 60 % des membres selon ses propres chiffres, et y accèdent gratuitement en publiant trois photos de profil."
         }
       ],
       "sources": [
@@ -155,63 +284,160 @@
         "s5",
         "s8",
         "s11",
-        "s12",
         "s23"
       ]
     },
     {
       "id": "caves-voutees-et-galerie-photos",
       "title": "Caves en clé de voûte, lit rond et barre de pole dance : ce que montre la galerie",
+      "icon": "camera",
+      "summary": "La galerie officielle, inchangée depuis août 2024, compte treize images dont dix montrent le club : façade, piste voûtée à barre de pole dance, caves éclairées, salle au lit rond.",
       "blocks": [
         {
           "kind": "text",
-          "body": "Le club se décrit comme un lieu de « l'époque napoléonienne », installé dans des caves en clé de voûte, et vante le « charme baroque » de ses salons. Aucune source historique consultée ne confirme cette datation, constante dans sa présentation depuis 2014.\n\nLa surface annoncée a grandi d'une version du site à l'autre : « plus de 500 m² » de caves en 2014, « plus de 550 m² » en 2016, puis plus de 600 m² pour l'ensemble du club dans les annonces des soirées BDSM de 2026, sans préciser s'il y a eu agrandissement."
-        },
-        {
-          "kind": "text",
-          "body": "**La galerie officielle**\n[La galerie du site](https://clubledomaine.com/galerie/) n'a pas été modifiée depuis août 2024. Nous avons ouvert ses treize images le 16 octobre 2026 : dix montrent réellement le lieu."
+          "body": "[La galerie du site](https://clubledomaine.com/galerie/) n'a pas été modifiée depuis août 2024. Nous avons ouvert ses treize images le 16 octobre 2026 : dix montrent réellement le lieu."
         },
         {
           "kind": "list",
+          "title": "Ce que montrent les dix photos du lieu",
           "items": [
-            "la façade en pierre de taille, avec un auvent métallique et le numéro 23 ;",
-            "la piste voûtée en soirée (trois clichés) : barre de pole dance, jeux de lumière, visages floutés ;",
-            "des caves en enfilade éclairées en rouge ou en violet ;",
-            "un salon sous arche de pierre à fauteuils club en cuir noir ;",
-            "une salle au parquet clair et aux murs de pierre, organisée autour d'un lit rond ;",
-            "une niche voûtée garnie d'un couchage noir et de coussins rouges."
+            "La façade en pierre de taille, avec un auvent métallique et le numéro 23",
+            "La piste voûtée en soirée (trois clichés) : barre de pole dance, jeux de lumière, visages floutés",
+            "Des caves en enfilade éclairées en rouge ou en violet",
+            "Un salon sous arche de pierre, à fauteuils club en cuir noir",
+            "Une salle au parquet clair et aux murs de pierre, organisée autour d'un lit rond",
+            "Une niche voûtée garnie d'un couchage noir et de coussins rouges"
           ]
         },
         {
           "kind": "text",
-          "body": "Les trois autres : le logo, un photomontage et une image de banque d'images (fichier « sexy-2069708 »).\n\n**L'équipement cité dans les annonces de soirées**\nLes annonces des soirées BDSM citent un équipement absent des photos que nous avons vues : croix de Saint-André, cardans, glory hole, salles SM, chaise de torture et swing à étriers. Pour les gang bangs, le club retire les portes de toutes les chambres. Un DJ anime chaque samedi."
+          "body": "Les trois autres images sont le logo, un photomontage et une image de banque d'images (fichier « sexy-2069708 »)."
+        },
+        {
+          "kind": "list",
+          "title": "Absent des photos : l'équipement cité dans les annonces des soirées BDSM",
+          "items": [
+            "Croix de Saint-André",
+            "Cardans",
+            "Glory hole",
+            "Salles SM",
+            "Chaise de torture",
+            "Swing à étriers"
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Pour les gang bangs, le club retire les portes de toutes les chambres. Un DJ anime chaque samedi."
         }
       ],
       "sources": [
-        "s2",
         "s3",
         "s10",
         "s11",
         "s13",
-        "s15",
+        "s15"
+      ]
+    },
+    {
+      "id": "epoque-napoleonienne-et-surface",
+      "title": "« Époque napoléonienne » et plus de 600 m² : ce que le club dit de son bâtiment",
+      "icon": "building",
+      "summary": "Le club date son bâtiment de l'époque napoléonienne, sans confirmation historique, et annonce plus de 600 m² en 2026, contre plus de 500 m² de caves voûtées en 2014.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le club se décrit comme un lieu de « l'époque napoléonienne », installé dans des caves en clé de voûte, et vante le « charme baroque » de ses salons. Aucune source historique consultée ne confirme cette datation, constante dans sa présentation depuis 2014."
+        },
+        {
+          "kind": "table",
+          "caption": "Surface annoncée par le site officiel, sans précision sur un éventuel agrandissement",
+          "headers": [
+            "Année",
+            "Surface annoncée"
+          ],
+          "rows": [
+            [
+              "2014",
+              "plus de 500 m² de caves"
+            ],
+            [
+              "2016",
+              "plus de 550 m² de caves"
+            ],
+            [
+              "2026",
+              "plus de 600 m² pour l'ensemble du club, dans les annonces des soirées BDSM"
+            ]
+          ]
+        }
+      ],
+      "sources": [
+        "s2",
+        "s11",
+        "s13",
         "s18",
         "s21"
-      ]
+      ],
+      "confidence": "source_unique"
     },
     {
       "id": "avis-google-et-pagesjaunes",
       "title": "Avis : environ 4,4 sur Google d'après deux agrégateurs, un seul avis sur PagesJaunes",
+      "icon": "star",
+      "summary": "Environ 4,4 sur 5 sur Google selon deux agrégateurs (96 et 102 avis), note que nous n'avons pas pu relever nous-mêmes ; PagesJaunes ne compte qu'un avis, à 5/5.",
       "blocks": [
         {
           "kind": "text",
-          "body": "Nous n'avons pas pu relever nous-mêmes la note Google du Domaine. Deux sites qui la reprennent donnent le même ordre de grandeur : 4,4 sur 5 pour 96 avis chez minuitlibertin, dans une fiche dont les informations datent du 4 octobre 2025, et 4,40 pour 102 avis chez top-rated.online, page mise à jour le 19 juillet 2026.\n\nSur PagesJaunes, la fiche ne compte qu'un avis, noté 5/5 le 12 février 2024, auquel l'établissement a répondu le 6 mars suivant."
+          "body": "Nous n'avons pas pu relever nous-mêmes la note Google du Domaine. Deux sites qui la reprennent donnent le même ordre de grandeur ; PagesJaunes, de son côté, ne compte qu'un avis."
+        },
+        {
+          "kind": "table",
+          "caption": "Notes affichées par des sites tiers, non vérifiées sur Google",
+          "headers": [
+            "Où",
+            "Note",
+            "Avis",
+            "Date de l'information"
+          ],
+          "rows": [
+            [
+              "Google, d'après minuitlibertin",
+              "4,4 / 5",
+              "96",
+              "fiche du 4 octobre 2025"
+            ],
+            [
+              "Google, d'après top-rated.online",
+              "4,40 / 5",
+              "102",
+              "page mise à jour le 19 juillet 2026"
+            ],
+            [
+              "PagesJaunes",
+              "5 / 5",
+              "1",
+              "avis du 12 février 2024, réponse du club le 6 mars suivant"
+            ]
+          ]
         },
         {
           "kind": "list",
           "title": "Deux précautions avant de lire les avis en ligne",
           "items": [
-            "**Beaucoup décrivent une autre formule.** Le club ouvrait encore le vendredi en mars 2026, avec des hommes seuls admis, et en 2019 le jeudi aussi. Un avis sur une soirée du vendredi décrit une soirée qui n'existe plus. PagesJaunes (pourtant mise à jour le 30 septembre 2026), minuitlibertin, saunaclublebali, lieuxcoquins, Le Club Advisor et Mapstr affichent encore une ancienne formule.",
+            "**Beaucoup décrivent une autre formule.** Le club ouvrait encore le vendredi en mars 2026, avec des hommes seuls admis, et en 2019 le jeudi aussi. Un avis sur une soirée du vendredi décrit une soirée qui n'existe plus.",
             "**« Meilleur club libertin de France » est une formule du club.** Le site l'affirme depuis 2019 au moins, en l'attribuant à « de nombreux sites de rencontre » qu'il ne nomme pas. Nous n'avons trouvé aucun classement qui l'établisse."
+          ]
+        },
+        {
+          "kind": "list",
+          "title": "Fiches d'annuaires qui affichent encore une ancienne formule",
+          "items": [
+            "PagesJaunes, pourtant mise à jour le 30 septembre 2026",
+            "minuitlibertin",
+            "saunaclublebali",
+            "lieuxcoquins",
+            "Le Club Advisor",
+            "Mapstr"
           ]
         }
       ],
@@ -236,6 +462,8 @@
     {
       "id": "agenda-automne-2026",
       "title": "Halloween le 31 octobre, gang bang le mardi 10 novembre : l'agenda de l'automne 2026",
+      "icon": "calendar",
+      "summary": "Après la réouverture : soirée couples le 24 octobre, Halloween le 31, coaching et soirée Glamour le 7 novembre, méga gang bang le mardi 10 novembre.",
       "blocks": [
         {
           "kind": "text",
@@ -284,53 +512,170 @@
           ]
         },
         {
-          "kind": "text",
-          "body": "**La Nuit des Yokaï, quatre fois en 2026**\nLes soirées 100 % BDSM, annoncées « pour un public averti », portent depuis 2025 le nom de La Nuit des Yokaï : 7 février, 2 mai, 18 juillet et 3 octobre en 2026. Celle de juillet commençait dès 16 h par une initiation et une jam de shibari, suivies d'un barbecue, puis de la soirée de 21 h à 5 h. Celle d'octobre, « Le Marché aux supplices », coûtait 50 € pour un couple ou un homme, 15 € pour une femme ou une personne trans, collation comprise.\n\n**Le gang bang, une soirée de participants**\nLe méga gang bang revient tous les deux à trois mois : 14 mars, 30 mai, 22 août et 10 novembre 2026. Le club prévient que « ce n'est pas une soirée clubbing » : il la réserve à ceux qui viennent participer et justifie le prix par les sans-alcool et la collation servis toute la nuit."
+          "kind": "list",
+          "title": "Fermetures exceptionnelles en 2026",
+          "items": [
+            "Une semaine fin février",
+            "Six vendredis et un samedi entre janvier et août",
+            "La fin septembre",
+            "Du 5 au 23 octobre"
+          ]
         },
         {
-          "kind": "text",
-          "body": "**Débuter : le coaching de 20 h**\nLe club dit accompagner les débutants et organise une fois par mois un coaching libertin de deux heures autour d'un buffet, avant l'ouverture de la soirée, pour les couples et les femmes, novices ou non. Les couples qui veulent aussi parler avec d'autres libertins avant leur première venue peuvent [créer un profil vérifié sur Gleese](aff:gleese) : l'inscription ne demande pas de carte bancaire, chaque profil est vérifié par téléphone et les photos sont modérées à la main. Ouvert fin 2024, il compte encore bien moins d'inscrits que ses aînés.\n\n**Des fermetures à surveiller**\nLe club a multiplié les fermetures en 2026 : une semaine fin février, six vendredis et un samedi entre janvier et août, la fin septembre, puis du 5 au 23 octobre. Le trajet depuis Niort ou La Rochelle se prépare donc en vérifiant d'abord [l'agenda du club](https://clubledomaine.com/nos-soirees/)."
+          "kind": "callout",
+          "tone": "tip",
+          "body": "Avec autant de fermetures, le trajet depuis Niort ou La Rochelle se prépare en vérifiant d'abord [l'agenda du club](https://clubledomaine.com/nos-soirees/)."
         }
       ],
       "sources": [
         "s1",
-        "s3",
         "s11",
         "s12",
-        "s13",
         "s14",
+        "s23"
+      ]
+    },
+    {
+      "id": "nuit-des-yokai-et-gang-bang",
+      "title": "Quatre Nuits des Yokaï en 2026 et un méga gang bang tous les deux à trois mois",
+      "icon": "flame",
+      "summary": "Le club a tenu quatre soirées 100 % BDSM en 2026 sous le nom de Nuit des Yokaï, et programme un méga gang bang tous les deux à trois mois, réservé à ceux qui viennent participer.",
+      "blocks": [
+        {
+          "kind": "table",
+          "caption": "D'après le site officiel et ses archives",
+          "headers": [
+            "Rendez-vous",
+            "Dates 2026",
+            "Entrée"
+          ],
+          "rows": [
+            [
+              "La Nuit des Yokaï, 100 % BDSM",
+              "7 février, 2 mai, 18 juillet, 3 octobre",
+              "3 octobre : 50 € le couple ou l'homme, 15 € la femme ou la personne trans, collation comprise"
+            ],
+            [
+              "Méga gang bang",
+              "14 mars, 30 mai, 22 août, 10 novembre",
+              "10 novembre : de 10 € (femme, sur réservation) à 45 € (homme, sur place)"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "**La Nuit des Yokaï**\nAnnoncées « pour un public averti », les soirées 100 % BDSM portent ce nom depuis 2025. Celle de juillet commençait dès 16 h par une initiation et une jam de shibari, suivies d'un barbecue, puis de la soirée de 21 h à 5 h. Celle d'octobre s'intitulait « Le Marché aux supplices »."
+        },
+        {
+          "kind": "text",
+          "body": "**Le gang bang, une soirée de participants**\nLe club prévient que « ce n'est pas une soirée clubbing » : il la réserve à ceux qui viennent participer et justifie le prix par les sans-alcool et la collation servis toute la nuit."
+        }
+      ],
+      "sources": [
+        "s11",
+        "s13",
         "s15",
         "s23"
       ]
     },
     {
-      "id": "acces-fief-de-la-jarrie",
-      "title": "Fief de la Jarrie : par l'A83 sortie 8, ou en train jusqu'à Niort puis navette",
+      "id": "coaching-debutants-20-h",
+      "title": "Première soirée : le coaching de 20 h, deux heures autour d'un buffet une fois par mois",
+      "icon": "sparkles",
+      "summary": "Une fois par mois, avant l'ouverture, le club réunit couples et femmes, novices ou non, pour deux heures de coaching autour d'un buffet ; 10 € par personne le 7 novembre.",
       "blocks": [
         {
           "kind": "text",
-          "body": "Le club se trouve au 23 route de la Prairie, au lieu-dit Fief de la Jarrie, à Auzay. Depuis le 1er janvier 2017, Auzay est une commune déléguée d'Auchay-sur-Vendée, née de sa fusion avec Chaix : le registre des entreprises domicilie donc le club à Auchay-sur-Vendée, et le site officiel donne les deux adresses à saisir dans un GPS.\n\nEn voiture, le club conseille de quitter l'A83 à la sortie 8 (Marans, Fontenay-le-Comte-Centre), puis de suivre la D938T, la D148 et la D65 avant de tourner à droite vers le Fief de la Jarrie.\n\nSans voiture, l'itinéraire proposé n'a pas changé depuis 2014 : avion jusqu'à Nantes ou La Rochelle, ou train jusqu'à Niort, puis bus jusqu'à Fontenay-le-Comte, où la navette du club peut prendre le relais. Le club dit aussi pouvoir organiser une location de voiture."
+          "body": "Le club dit accompagner les débutants. Une fois par mois, avant l'ouverture de la soirée, il propose aux couples et aux femmes, novices ou non, deux heures de coaching libertin autour d'un buffet."
         },
         {
           "kind": "text",
-          "body": "**Contact Hôtel, partenaire depuis 2019 au moins**\nL'hôtel partenaire, Contact Hôtel, est installé au Vendéopôle Sud de Fontenay-le-Comte, « à 5 minutes du Club » selon le club. Le club y annonce un tarif réservé à ses clients, pour les réservations par téléphone, et une navette aller-retour peut être demandée 72 heures à l'avance. Utile aussi si l'on vous juge inapte à conduire : le règlement impose alors une chambre d'hôtel.\n\n**Les autres clubs du secteur**\nL'établissement le plus proche de notre annuaire est [L'Affinité, au Langon](/l-affinite-le-langon), à environ 17 km selon un annuaire en ligne. [Les Bains Gourmands, à La Roche-sur-Yon](/les-bains-gourmands-la-roche-sur-yon), sont à quelque 46 km selon le même annuaire. Les autres adresses du département figurent sur [notre page Vendée](/departement/vendee)."
+          "body": "Les couples qui veulent aussi parler avec d'autres libertins avant leur première venue peuvent [créer un profil vérifié sur Gleese](aff:gleese) : l'inscription ne demande pas de carte bancaire, chaque profil est vérifié par téléphone et les photos sont modérées à la main. Ouvert fin 2024, il compte encore bien moins d'inscrits que ses aînés."
+        }
+      ],
+      "sources": [
+        "s3",
+        "s11"
+      ]
+    },
+    {
+      "id": "acces-fief-de-la-jarrie",
+      "title": "Fief de la Jarrie : par l'A83 sortie 8, ou en train jusqu'à Niort puis navette",
+      "icon": "map",
+      "summary": "Le club est au 23 route de la Prairie, Fief de la Jarrie, à Auzay (Auchay-sur-Vendée) : A83 sortie 8 en voiture, ou train jusqu'à Niort, bus et navette du club.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le club se trouve au 23 route de la Prairie, au lieu-dit Fief de la Jarrie, à Auzay. Depuis le 1er janvier 2017, Auzay est une commune déléguée d'Auchay-sur-Vendée, née de sa fusion avec Chaix."
+        },
+        {
+          "kind": "callout",
+          "tone": "info",
+          "title": "Dans un GPS",
+          "body": "Le registre des entreprises domicilie le club à Auchay-sur-Vendée, et le site officiel donne les deux adresses à saisir."
+        },
+        {
+          "kind": "table",
+          "caption": "Itinéraires conseillés par le site officiel ; la partie sans voiture n'a pas changé depuis 2014",
+          "headers": [
+            "Moyen",
+            "Itinéraire"
+          ],
+          "rows": [
+            [
+              "Voiture",
+              "A83, sortie 8 (Marans, Fontenay-le-Comte-Centre), puis D938T, D148 et D65, et à droite vers le Fief de la Jarrie"
+            ],
+            [
+              "Train",
+              "Jusqu'à Niort, puis bus jusqu'à Fontenay-le-Comte, où la navette du club peut prendre le relais"
+            ],
+            [
+              "Avion",
+              "Jusqu'à Nantes ou La Rochelle"
+            ],
+            [
+              "Location de voiture",
+              "Le club dit pouvoir l'organiser"
+            ]
+          ]
         }
       ],
       "sources": [
         "s7",
-        "s24",
-        "s26",
-        "s9",
-        "s2",
-        "s22",
         "s20",
+        "s24",
+        "s26"
+      ]
+    },
+    {
+      "id": "contact-hotel-et-clubs-voisins",
+      "title": "Contact Hôtel à Fontenay-le-Comte et L'Affinité à 17 km : dormir et sortir autour d'Auzay",
+      "icon": "bed",
+      "summary": "Le club annonce chez Contact Hôtel, à Fontenay-le-Comte, un tarif réservé à ses clients et une navette sur demande 72 h avant ; le club le plus proche est L'Affinité, au Langon.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "**Contact Hôtel, partenaire depuis 2019 au moins**\nL'hôtel partenaire est installé au Vendéopôle Sud de Fontenay-le-Comte, « à 5 minutes du Club » selon le club. Le club y annonce un tarif réservé à ses clients, pour les réservations par téléphone, et une navette aller-retour peut être demandée 72 heures à l'avance.\n\nUtile aussi si l'on vous juge inapte à conduire : le règlement impose alors une chambre d'hôtel."
+        },
+        {
+          "kind": "text",
+          "body": "**Les autres clubs du secteur**\nL'établissement le plus proche de notre annuaire est [L'Affinité, au Langon](/l-affinite-le-langon), à environ 17 km selon un annuaire en ligne. [Les Bains Gourmands, à La Roche-sur-Yon](/les-bains-gourmands-la-roche-sur-yon), sont à quelque 46 km selon le même annuaire. Les autres adresses du département figurent sur [notre page Vendée](/departement/vendee)."
+        }
+      ],
+      "sources": [
+        "s2",
         "s4",
+        "s9",
+        "s22",
         "s31"
       ]
     },
     {
       "id": "reglement-tenue-alcool-bar",
       "title": "Jupe ou robe, chemise certains samedis, hôtel imposé en cas d'ivresse : le règlement",
+      "icon": "shield",
+      "summary": "Jupe ou robe pour les femmes, pantalon chic ou jean propre pour les hommes ; drogue et escorting interdits ; hôtel imposé à qui ne peut plus conduire ; softs gratuits au bar.",
       "blocks": [
         {
           "kind": "text",
@@ -346,8 +691,42 @@
           ]
         },
         {
+          "kind": "table",
+          "caption": "Carte publiée sur le site, page inchangée depuis février 2023 : les prix ont pu évoluer",
+          "headers": [
+            "Au bar",
+            "Prix"
+          ],
+          "rows": [
+            [
+              "Softs",
+              "gratuits toute la nuit"
+            ],
+            [
+              "Cocktail sans alcool",
+              "7 €"
+            ],
+            [
+              "Bière pression",
+              "5 €"
+            ],
+            [
+              "Coupe de champagne",
+              "10 €"
+            ],
+            [
+              "Cocktail",
+              "10 €"
+            ],
+            [
+              "Bouteille de champagne",
+              "55 € (80 € en grand cru)"
+            ]
+          ]
+        },
+        {
           "kind": "text",
-          "body": "**Au bar**\nLes softs sont gratuits toute la nuit, mais les cocktails sans alcool sont facturés 7 €. La carte publiée affiche la bouteille de champagne à 55 € (80 € en grand cru), la coupe à 10 €, la bière pression à 5 € et les cocktails à 10 €. Cette page n'a pas bougé depuis février 2023 : les prix ont pu évoluer.\n\nPas de restauration régulière annoncée en 2026 : un buffet ou une collation est offert certains soirs (coaching, anniversaire, BDSM, gang bang), et le club conseille de dîner à La Boucherie, à Fontenay-le-Comte."
+          "body": "**Pas de restauration régulière**\nAucune restauration régulière n'est annoncée en 2026 : un buffet ou une collation est offert certains soirs (coaching, anniversaire, BDSM, gang bang). Le club conseille de dîner à La Boucherie, à Fontenay-le-Comte."
         }
       ],
       "sources": [
@@ -364,7 +743,9 @@
     },
     {
       "id": "histoire-2013-2026",
-      "title": "De 50 € avec buffet en 2014 à 35 € en 2026 : treize ans d'histoire",
+      "title": "D'une page d'attente en juin 2013 au samedi seul en 2026 : treize ans d'histoire",
+      "icon": "history",
+      "summary": "Ouvert en septembre 2013, le club recevait du jeudi au samedi en 2014, 2016 et 2019, le vendredi et le samedi en 2025, puis le samedi seul depuis septembre 2026.",
       "blocks": [
         {
           "kind": "timeline",
@@ -402,7 +783,34 @@
               "text": "Passage au samedi seul. Les 13 ans sont fêtés le 12 (soirée blanche) et le 19 septembre (50 € le couple, buffet offert)."
             }
           ]
-        },
+        }
+      ],
+      "sources": [
+        "s3",
+        "s5",
+        "s11",
+        "s12",
+        "s14",
+        "s16",
+        "s17",
+        "s18",
+        "s19",
+        "s20",
+        "s21",
+        "s22",
+        "s23",
+        "s24",
+        "s25",
+        "s26",
+        "s27"
+      ]
+    },
+    {
+      "id": "entree-du-samedi-2014-2026",
+      "title": "De 50 € avec buffet en 2014 à 35 € en 2026 : douze ans de prix du samedi",
+      "icon": "euro",
+      "summary": "L'entrée couple du samedi est passée de 50 € en 2014, buffet traiteur compris, à 35 € depuis 2025, avec une consommation par personne ; la femme seule paie 10 € au lieu de 15 €.",
+      "blocks": [
         {
           "kind": "table",
           "caption": "Entrée du samedi soir selon les archives du site officiel",
@@ -445,23 +853,11 @@
         }
       ],
       "sources": [
-        "s25",
-        "s17",
-        "s24",
-        "s27",
-        "s14",
-        "s3",
-        "s18",
-        "s19",
-        "s20",
-        "s21",
-        "s26",
-        "s22",
-        "s12",
-        "s16",
-        "s23",
         "s5",
-        "s11"
+        "s11",
+        "s19",
+        "s22",
+        "s23"
       ]
     }
   ],

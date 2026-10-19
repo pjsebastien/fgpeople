@@ -22,6 +22,21 @@
     ]
   },
   "lead": "Au 29 rue du Vallon de Montebello, dans le 6e arrondissement, un établissement à l’enseigne « Le Jardin d’Eden » apparaît au registre des entreprises dès septembre 1994. Son site, figé depuis février 2002, le présentait comme un « club privé libertin avec sauna et discothèque ». Racheté en avril 2024 par une société toujours active, le lieu ne montre aucune activité datée de 2025 ou 2026 : son ouverture n’est pas confirmée.",
+  "glance": [
+    { "icon": "warning", "label": "Ouvert en 2026 ?", "value": "Non confirmé : aucun avis ni agenda récent" },
+    { "icon": "building", "label": "Exploitant", "value": "SAS CORA, active au registre en octobre 2026" },
+    { "icon": "map", "label": "Adresse", "value": "29 rue du Vallon de Montebello (6e)" },
+    { "icon": "spa", "label": "Concept affiché en 2002", "value": "Club privé libertin avec sauna et discothèque", "confidence": "source_unique" },
+    { "icon": "clock", "label": "Horaires en 2002", "value": "Du mercredi au samedi, de 14 h à l’aube", "confidence": "a_verifier" },
+    { "icon": "euro", "label": "Tarifs et public admis", "value": "Aucune source, même ancienne" }
+  ],
+  "highlights": [
+    "Appelez avant de vous déplacer : le seul numéro connu, le 04 91 53 18 94, vient du site de 2002 et n’est peut-être plus attribué au lieu.",
+    "Le public actuel n’est documenté nulle part : le registre parle d’un sauna, sans dire s’il est échangiste, gay ou mixte.",
+    "Seul le sauna est attesté : la discothèque n’apparaît que sur le site de 2002, et aucune source ne décrit de jardin malgré le nom.",
+    "Aucune source ne relie le lieu au BDSM : le programme de 2002 ne comptait aucune soirée de ce genre.",
+    "À ne pas confondre avec Les Thermes, rue Mazagran (1er) : la même SARL exploitait les deux saunas avant de les vendre séparément, en 2019 et en 2020."
+  ],
   "keyFacts": [
     { "label": "Adresse", "value": "29 rue du Vallon de Montebello, 13006 Marseille", "confidence": "confirme", "sources": ["s1", "s6"] },
     { "label": "Première inscription au registre", "value": "12 septembre 1994, comme établissement de SARL Les Thermes (fermé en octobre 2020)", "confidence": "confirme", "sources": ["s2"] },
@@ -36,24 +51,110 @@
     {
       "id": "rachete-2024-site-fige-2002",
       "title": "Racheté en avril 2024, mais un site arrêté au 13 février 2002",
+      "icon": "warning",
+      "summary": "Le fonds appartient depuis avril 2024 à une société active au registre, mais le site est figé depuis 2002 et aucun avis ni aucune soirée de 2025 ou 2026 n’a été relevé.",
       "sources": ["s5", "s6", "s7", "s1", "s10", "s12", "s11", "s13"],
       "confidence": "a_verifier",
       "blocks": [
         {
-          "kind": "text",
-          "body": "**Pour un lieu exploité.** SAS CORA, propriétaire du fonds depuis avril 2024, a son unique établissement à cette adresse. Au 16 octobre 2026, elle est active au registre, et le BODACC ne publie rien d’autre à son sujet que cet achat. Payer pour reprendre un sauna laisse penser qu’il fonctionnait au printemps 2024 : c’est une déduction, pas un constat.\n\n**Contre.** Le serveur de lejardindeden.free.fr date la page d’accueil du 13 février 2002. En octobre 2026, ni sauna-club-libertin.com ni lieuxcoquins.fr ne citent le Jardin d’Eden ; le premier annonce en revanche à la même adresse un autre club, L’Olympe, dans une fiche non datée dont le site n’existe plus. CORA, enfin, ne déclare aucun salarié."
+          "kind": "list",
+          "title": "Ce qui plaide pour un lieu exploité",
+          "items": [
+            "SAS CORA, propriétaire du fonds depuis avril 2024, a son unique établissement à cette adresse.",
+            "Au 16 octobre 2026, elle est active au registre, et le BODACC ne publie rien d’autre à son sujet que cet achat.",
+            "Payer pour reprendre un sauna laisse penser qu’il fonctionnait au printemps 2024 : c’est une déduction, pas un constat."
+          ]
+        },
+        {
+          "kind": "list",
+          "title": "Ce qui fait douter",
+          "items": [
+            "Le serveur de lejardindeden.free.fr date la page d’accueil du 13 février 2002.",
+            "En octobre 2026, ni sauna-club-libertin.com ni lieuxcoquins.fr ne citent le Jardin d’Eden.",
+            "sauna-club-libertin.com annonce en revanche à la même adresse un autre club, L’Olympe, dans une fiche non datée dont le site n’existe plus.",
+            "CORA ne déclare aucun salarié."
+          ]
         },
         {
           "kind": "callout",
           "tone": "tip",
           "title": "Avant de traverser la ville",
-          "body": "Le 04 91 53 18 94, seul numéro connu, vient du site de 2002 et n’est peut-être plus attribué au lieu. Faute d’avis récent, ceux qui ont poussé la porte du Vallon de Montebello restent la meilleure source : un couple ou une femme peut [sonder des couples de la région sur Carré Libertin](aff:carre-libertin), dont l’accès complet ne leur coûte rien depuis 2007, pourvu que le profil affiche trois photos."
+          "body": "Le seul numéro connu, celui du site de 2002, n’est peut-être plus attribué au lieu.\n\nFaute d’avis récent, ceux qui ont poussé la porte du Vallon de Montebello restent la meilleure source : un couple ou une femme peut [sonder des couples de la région sur Carré Libertin](aff:carre-libertin), dont l’accès complet ne leur coûte rien depuis 2007, pourvu que le profil affiche trois photos."
+        }
+      ]
+    },
+    {
+      "id": "autres-saunas-marseille",
+      "title": "Porte close au Vallon de Montebello ? Les autres saunas recensés à Marseille",
+      "icon": "map",
+      "summary": "Notre annuaire recense aussi Les Thermes (1er), le Saint Nicolas, La Roseraie et Mineshaft ; seul le repreneur des Thermes est vérifié actif au registre.",
+      "sources": ["s8", "s9"],
+      "blocks": [
+        {
+          "kind": "list",
+          "title": "Saunas et spas",
+          "items": [
+            "[Les Thermes](/les-thermes-marseille), rue Mazagran, qui appartenait à la même société jusqu’en 2019 ; son repreneur est actif au registre en octobre 2026",
+            "[Le Saint Nicolas](/saint-nicolas-marseille) et [La Roseraie](/roseraie-marseille-sauna), que notre annuaire range parmi les saunas libertins, sans vérification à ce jour",
+            "[Mineshaft](/mineshaft-marseille-fsmc), rangé parmi les spas libertins, statut non vérifié lui non plus"
+          ]
+        },
+        {
+          "kind": "list",
+          "title": "Pour dîner ou sortir",
+          "items": [
+            "[Le Taxi des Sens](/le-taxi-des-sens-marseille), classé restaurant libertin",
+            "Les clubs et bars de la ville, sur la [page des lieux libertins de Marseille](/ville/marseille)"
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Vérifiez l’activité de chacun sur sa fiche avant d’y aller.\n\nPour commencer par une rencontre, [un réseau libertin français où chaque photo passe par un modérateur](aff:gleese) s’essaie sans carte bancaire : Gleese, lancé fin 2024, compte encore moins de membres que les sites historiques."
+        }
+      ]
+    },
+    {
+      "id": "samedis-a-theme-hiver-2002",
+      "title": "Strip-tease, porte-jarretelles et « star du X » : les sept samedis de l’hiver 2002",
+      "icon": "calendar",
+      "summary": "En 2002, le club se disait ouvert du mercredi au samedi dès 14 h, avec une soirée à thème chaque samedi du 9 février au 23 mars ; rien de plus récent n’a été retrouvé.",
+      "sources": ["s1"],
+      "confidence": "source_unique",
+      "blocks": [
+        {
+          "kind": "list",
+          "title": "Le club selon son site de 2002, seule présentation retrouvée",
+          "items": [
+            "Situation : « sur les hauteurs de Breteuil-Perrier »",
+            "Horaires : du mercredi au samedi, de 14 h « à l’aube »",
+            "Tarifs et règles d’accès : aucun n’y figurait"
+          ]
+        },
+        {
+          "kind": "table",
+          "caption": "Agenda publié sur le site du club, hiver 2002",
+          "headers": ["Samedi", "Soirée annoncée"],
+          "rows": [
+            ["9 février", "Concours de strip-tease"],
+            ["16 février", "Soirée porte-jarretelles"],
+            ["23 février", "Concours de fellations"],
+            ["2 mars", "Soirée infirmière"],
+            ["9 mars", "Soirée « star du X », avec une invitée annoncée"],
+            ["16 mars", "Soirée avec le magazine Club Libertin"],
+            ["23 mars", "Élection du plus beau postérieur"]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Aucune soirée postérieure au 23 mars 2002 n’a été retrouvée. Pour guetter une reprise, vous pouvez [chercher le nom du lieu dans l’agenda de Wyylde](aff:wyylde), consultable avec un compte gratuit sur l’ex-Netéchangisme ; nous n’y avons pas vérifié sa présence."
         }
       ]
     },
     {
       "id": "trois-exploitants-depuis-1994",
       "title": "Trois exploitants depuis 1994 et deux ventes à 30 000 €",
+      "icon": "history",
+      "summary": "SARL Les Thermes de 1994 à 2020, puis un exploitant individuel, puis SAS CORA depuis mai 2024 : le fonds a été vendu deux fois 30 000 €, en 2020 et en 2024.",
       "sources": ["s2", "s3", "s4", "s14", "s5", "s6", "s15"],
       "blocks": [
         {
@@ -66,53 +167,6 @@
             { "date": "11 avril 2024", "text": "Nouvelle vente au même prix, à SAS CORA, qui démarre le 1er mai sous le nom commercial « Le Jardin d’Eden » avec l’activité « sauna, relaxation, bains »." },
             { "date": "16 janvier 2026", "text": "Le BODACC publie la radiation d’office de l’exploitant individuel, qui avait cédé le fonds en 2024. Elle concerne l’ancien exploitant, pas CORA." }
           ]
-        }
-      ]
-    },
-    {
-      "id": "samedis-a-theme-hiver-2002",
-      "title": "Strip-tease, porte-jarretelles et « star du X » : les sept samedis de l’hiver 2002",
-      "sources": ["s1"],
-      "confidence": "source_unique",
-      "blocks": [
-        {
-          "kind": "text",
-          "body": "Seule présentation du club que nous ayons retrouvée, le site de 2002 le situait « sur les hauteurs de Breteuil-Perrier », ouvert du mercredi au samedi, de 14 h « à l’aube ». Son agenda couvrait sept samedis :"
-        },
-        {
-          "kind": "list",
-          "items": [
-            "9 février : concours de strip-tease",
-            "16 février : soirée porte-jarretelles",
-            "23 février : concours de fellations",
-            "2 mars : soirée infirmière",
-            "9 mars : soirée « star du X », avec une invitée annoncée",
-            "16 mars : soirée avec le magazine Club Libertin",
-            "23 mars : élection du plus beau postérieur"
-          ]
-        },
-        {
-          "kind": "text",
-          "body": "Ni tarif ni règle d’accès n’y figuraient, et aucune soirée postérieure au 23 mars 2002 n’a été retrouvée. Pour guetter une reprise, vous pouvez [chercher le nom du lieu dans l’agenda de Wyylde](aff:wyylde), consultable avec un compte gratuit sur l’ex-Netéchangisme ; nous n’y avons pas vérifié sa présence."
-        }
-      ]
-    },
-    {
-      "id": "autres-saunas-marseille",
-      "title": "Porte close au Vallon de Montebello ? Les autres saunas recensés à Marseille",
-      "sources": ["s8", "s9"],
-      "blocks": [
-        {
-          "kind": "list",
-          "items": [
-            "[Les Thermes](/les-thermes-marseille), rue Mazagran, qui appartenait à la même société jusqu’en 2019 ; son repreneur est actif au registre en octobre 2026",
-            "[le Saint Nicolas](/saint-nicolas-marseille) et [La Roseraie](/roseraie-marseille-sauna), que notre annuaire range parmi les saunas libertins, sans vérification à ce jour",
-            "[Mineshaft](/mineshaft-marseille-fsmc), rangé parmi les spas libertins, statut non vérifié lui non plus"
-          ]
-        },
-        {
-          "kind": "text",
-          "body": "Pour dîner, [Le Taxi des Sens](/le-taxi-des-sens-marseille) est classé restaurant libertin ; clubs et bars figurent sur la [page des lieux libertins de Marseille](/ville/marseille). Vérifiez l’activité de chacun sur sa fiche avant d’y aller. Pour commencer par une rencontre, [un réseau libertin français où chaque photo passe par un modérateur](aff:gleese) s’essaie sans carte bancaire : Gleese, lancé fin 2024, compte encore moins de membres que les sites historiques."
         }
       ]
     }

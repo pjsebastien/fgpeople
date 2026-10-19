@@ -35,6 +35,46 @@
     ]
   },
   "lead": "Sexynine a été inauguré le 20 mars 2009 avenue du Languedoc, à Montredon-des-Corbières, aux portes de Narbonne. Le lieu réunissait un club échangiste ouvert jusqu'à 7 h, un bar au bord de la piscine, un restaurant, un sauna et un hammam. Mis en vente pour raisons de santé au plus tard en janvier 2013, il n'a plus d'activité visible depuis le 29 juin 2013, et le registre l'a fermé en octobre de la même année. À Narbonne, Le Triton et Histoires d'Ô accueillent aujourd'hui les libertins.",
+  "glance": [
+    {
+      "icon": "closed",
+      "label": "Fermé",
+      "value": "Depuis 2013 (registre : 8 octobre 2013)"
+    },
+    {
+      "icon": "history",
+      "label": "Période d'activité",
+      "value": "De mars 2009 à l'été 2013"
+    },
+    {
+      "icon": "map",
+      "label": "Emplacement",
+      "value": "Avenue du Languedoc, Montredon-des-Corbières"
+    },
+    {
+      "icon": "spa",
+      "label": "Équipements (2011)",
+      "value": "Piscine, sauna, hammam, jacuzzi"
+    },
+    {
+      "icon": "euro",
+      "label": "Entrée couple (2011)",
+      "value": "25 € avec deux consommations",
+      "confidence": "source_unique"
+    },
+    {
+      "icon": "heart",
+      "label": "Ouverts à Narbonne",
+      "value": "Le Triton, Histoires d'Ô (octobre 2026)"
+    }
+  ],
+  "highlights": [
+    "Sexynine est fermé depuis 2013 : aucune soirée retrouvée après le 29 juin, fermeture au registre le 8 octobre, aucune reprise trouvée depuis.",
+    "Deux lieux libertins sont ouverts à Narbonne en octobre 2026 : Le Triton, 28 avenue de Toulouse, et Histoires d'Ô Narbonne, 10 avenue de la Coupé.",
+    "Homme seul : Le Triton vous reçoit à 40 € l'après-midi et 45 € le soir ; Histoires d'Ô Narbonne ne vous admet pas le samedi soir.",
+    "Pour un sauna libertin à Narbonne : Le Triton annonce sauna, hammam et jacuzzi ; Histoires d'Ô Narbonne se présente comme un balnéo-club.",
+    "Le site sexynine.fr et les numéros recopiés par des annuaires ne mènent plus au club : en octobre 2026, le domaine ne renvoie qu'une vérification anti-robot."
+  ],
   "keyFacts": [
     {
       "label": "Fermeture au registre",
@@ -134,25 +174,35 @@
     {
       "id": "mise-en-vente-2013",
       "title": "À vendre dès janvier 2013, fermé au registre le 8 octobre",
+      "icon": "closed",
+      "summary": "Le club s'annonce à vendre pour raisons de santé dès janvier 2013 ; sa dernière soirée retrouvée date du 29 juin, et le registre le ferme le 8 octobre 2013.",
       "blocks": [
         {
           "kind": "text",
-          "body": "Le 29 janvier 2013, la page d'accueil de sexynine.fr, qui souhaite encore à ses visiteurs une « bonne et heureuse année 2013 », s'ouvre sur un bandeau en capitales : pour des raisons de santé, « le club cherche acquéreur ». Ce bandeau ne figurait pas sur la capture du 26 octobre 2012. Les pages de 2013 n'annoncent plus que des soirées du vendredi et du samedi : transgenre puis infirmières les 1er et 2 février, trio puis « Glam Class » les 22 et 23 mars, « Ange et Démon » puis « Luxure » les 17 et 18 mai, avec un buffet offert aux couples qui réservent par SMS. La capture du 5 juillet 2013 annonce une soirée gang bang le vendredi 28 juin et une soirée « So Sexy » le samedi 29 juin, avec l'entrée offerte aux couples jusqu'à 23 h ; la page n'a plus changé jusqu'à la capture du 31 octobre. Nous n'avons trouvé aucune soirée datée après le 29 juin.\n\nLe registre des entreprises ferme l'établissement le 8 octobre 2013. C'était l'unique établissement de la SARL CORBIERES LOISIRS, enseigne SEXYNINE ; la société n'a pas été radiée, mais elle n'a plus rien d'ouvert depuis. Les cinq entités enregistrées sous l'enseigne SEXYNINE, toutes à Montredon-des-Corbières, sont fermées. Dans un rayon de 300 mètres, le registre ne compte depuis 2013 aucun débit de boissons ni aucune activité de loisirs, et nous n'avons trouvé aucune annonce de reprise."
+          "body": "Le 29 janvier 2013, la page d'accueil de sexynine.fr, qui souhaite encore à ses visiteurs une « bonne et heureuse année 2013 », s'ouvre sur un bandeau en capitales : pour des raisons de santé, « le club cherche acquéreur ». Ce bandeau ne figurait pas sur la capture du 26 octobre 2012.\n\nLes pages de 2013 n'annoncent plus que des soirées du vendredi et du samedi, avec un buffet offert aux couples qui réservent par SMS :"
         },
         {
           "kind": "list",
-          "title": "Ce qui reste de Sexynine en 2026",
           "items": [
-            "**Le site sexynine.fr** : dernières pages du club archivées en octobre 2013 (accueil) et en novembre 2013 (boutique en ligne). Le domaine renvoie ensuite vers un site de rencontres sans lien avec le club (décembre 2014), puis vers un site de webcams (2016), et affiche une page de parking de mai 2024 à février 2026. Le 16 octobre 2026, il ne renvoie qu'une vérification anti-robot.",
-            "**Les annuaires** : clubech.fr classe le club « fermé » dès février 2016 ; d'autres recopient encore un texte non daté qui évoque une « nouvelle direction ».",
-            "**Le bâtiment** : une photo d'urbex épinglée sur Pinterest en septembre 2020 sous le titre « Abandoned Sexynine » montre l'enseigne « Club Privé Libertin » sur une façade verte ; une fiche commerciale d'urbex, illustrée d'images mises en ligne en octobre 2024, décrit un lieu « en ruines », aux fenêtres brisées et à l'entrée couverte de graffitis."
+            "**1er et 2 février** : soirée transgenre, puis infirmières.",
+            "**22 et 23 mars** : trio, puis « Glam Class ».",
+            "**17 et 18 mai** : « Ange et Démon », puis « Luxure ».",
+            "**28 et 29 juin** : gang bang, puis « So Sexy », avec l'entrée offerte aux couples jusqu'à 23 h."
           ]
         },
         {
-          "kind": "callout",
-          "tone": "warning",
-          "title": "Pourquoi le club passait encore pour ouvert",
-          "body": "Notre annuaire présentait encore Sexynine comme actif en janvier 2026, parce que sexynine.fr « répondait » : la page qui répondait était celle d'un nom de domaine parqué. Les numéros publiés par le club entre 2009 et 2013, que des annuaires reprennent encore, renvoient à un établissement fermé : nous ne les reproduisons plus."
+          "kind": "text",
+          "body": "La capture du 5 juillet 2013 annonce encore ces soirées de juin, et la page n'a plus changé jusqu'à celle du 31 octobre. Nous n'avons trouvé aucune soirée datée après le 29 juin."
+        },
+        {
+          "kind": "list",
+          "title": "Au registre des entreprises",
+          "items": [
+            "**8 octobre 2013** : fermeture de l'établissement, le seul de la SARL CORBIERES LOISIRS (enseigne SEXYNINE). La société n'a pas été radiée, mais elle n'a plus rien d'ouvert depuis.",
+            "**L'enseigne SEXYNINE** : les cinq entités qui l'ont portée, toutes à Montredon-des-Corbières, sont fermées.",
+            "**Dans un rayon de 300 mètres** : aucun débit de boissons ni aucune activité de loisirs enregistrés depuis 2013.",
+            "**Une reprise ?** Nous n'en avons trouvé aucune annonce."
+          ]
         }
       ],
       "sources": [
@@ -162,29 +212,85 @@
         "s38",
         "s39",
         "s18",
-        "s20",
-        "s21",
         "s22",
         "s23",
         "s24",
-        "s25",
-        "s26",
-        "s27",
-        "s28",
         "s40"
       ]
     },
     {
       "id": "narbonne-octobre-2026",
       "title": "Le Triton et Histoires d'Ô : les lieux libertins ouverts à Narbonne en octobre 2026",
+      "icon": "heart",
+      "summary": "Deux lieux libertins sont ouverts à Narbonne en octobre 2026 : Le Triton, sauna coquin du 28 avenue de Toulouse, et Histoires d'Ô, balnéo-club du 10 avenue de la Coupé.",
       "blocks": [
         {
-          "kind": "text",
-          "body": "En novembre 2010, un blog recensant les établissements libertins de France citait quatre adresses dans l'Aude : Sexynine, Le Triton à Narbonne, L'Alibi d'Ô à Port-Leucate et Le Jul's 11 à Carcassonne. Seize ans plus tard, Le Triton est le seul des quatre que nous ayons trouvé en activité. Il faut aujourd'hui y ajouter Histoires d'Ô Narbonne, absent de cette liste.\n\n**Le Triton, sauna coquin au 28 avenue de Toulouse**\nLe Triton se revendique « 100 % mixte » : couples, hommes et femmes, les échanges entre couples seulement n'étant « pas notre priorité », selon son site, qui annonce sauna, hammam, jacuzzi et salons. Fermé le lundi, il ouvre de 14 h à 19 h du mardi au dimanche, et de 21 h à 2 h le mardi, le jeudi, le vendredi et le samedi. L'entrée coûte 25 € l'après-midi et 35 € le soir pour un couple, 40 € et 45 € pour un homme seul ; elle est gratuite pour les femmes. Son agenda, publié le 29 septembre, programme des soirées jusqu'au samedi 31 octobre 2026, dont une soirée « toutes tendances » le vendredi 16 et une soirée candauliste le samedi 17. Coordonnées sur [notre fiche du Triton](/le-triton-narbonne).\n\n**Histoires d'Ô Narbonne, balnéo-club au 10 avenue de la Coupé**\nRattaché par son site au groupe Histoires d'Ô du Cap d'Agde et mis à jour en 2026, il ouvre à 13 h 30 du dimanche au vendredi, en mixte jusqu'à 2 h du mardi au vendredi et jusqu'à 1 h le dimanche ; le lundi, il ferme en soirée. Le samedi, il n'ouvre qu'à 20 h, pour les couples et les femmes seules. En semaine, l'entrée coûte 45 € pour un couple, 15 € pour une femme seule et 60 € pour un homme seul ; le samedi soir, 50 € et 15 € ; le dimanche, 50 €, 20 € et 65 €. Ce lieu n'a pas encore de fiche dans notre annuaire."
+          "kind": "table",
+          "caption": "Horaires et entrées affichés sur leurs sites, consultés le 16 octobre 2026",
+          "headers": [
+            "",
+            "Le Triton",
+            "Histoires d'Ô Narbonne"
+          ],
+          "rows": [
+            [
+              "Adresse",
+              "28 avenue de Toulouse",
+              "10 avenue de la Coupé"
+            ],
+            [
+              "Formule",
+              "Sauna coquin : sauna, hammam, jacuzzi, salons",
+              "Balnéo-club rattaché au groupe Histoires d'Ô du Cap d'Agde"
+            ],
+            [
+              "Après-midi",
+              "14 h - 19 h, du mardi au dimanche",
+              "Dès 13 h 30, du dimanche au vendredi"
+            ],
+            [
+              "Soirée",
+              "21 h - 2 h, le mardi, le jeudi, le vendredi et le samedi",
+              "Mixte jusqu'à 2 h du mardi au vendredi, jusqu'à 1 h le dimanche ; samedi dès 20 h"
+            ],
+            [
+              "Fermeture",
+              "Le lundi",
+              "Le lundi soir"
+            ],
+            [
+              "Couple",
+              "25 € l'après-midi, 35 € le soir",
+              "45 € en semaine, 50 € le samedi soir et le dimanche"
+            ],
+            [
+              "Femme seule",
+              "Gratuit",
+              "15 €, 20 € le dimanche"
+            ],
+            [
+              "Homme seul",
+              "40 € l'après-midi, 45 € le soir",
+              "60 € en semaine, 65 € le dimanche, pas le samedi soir"
+            ]
+          ]
         },
         {
           "kind": "text",
-          "body": "Pour ce samedi soir réservé aux couples et aux femmes seules, comme l'était celui de Sexynine en mars 2009, un couple qui ne veut pas arriver sans connaître personne peut d'abord [échanger avec des couples audois sur Carré Libertin](aff:carre-libertin) : ce site, ouvert en 2007, donne un accès complet gratuit aux couples et aux femmes qui publient trois photos de profil. Les autres adresses connues du département sont réunies sur notre page des [lieux libertins de l'Aude](/departement/aude)."
+          "body": "En novembre 2010, un blog recensant les établissements libertins de France citait quatre adresses dans l'Aude. Seize ans plus tard, Le Triton est le seul des quatre que nous ayons trouvé en activité :"
+        },
+        {
+          "kind": "list",
+          "items": [
+            "Sexynine, fermé en 2013 ;",
+            "**Le Triton**, à Narbonne, toujours ouvert ;",
+            "L'Alibi d'Ô, à Port-Leucate ;",
+            "Le Jul's 11, à Carcassonne."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Il faut aujourd'hui y ajouter Histoires d'Ô Narbonne, absent de cette liste. Les autres adresses connues du département sont réunies sur notre page des [lieux libertins de l'Aude](/departement/aude)."
         }
       ],
       "sources": [
@@ -198,19 +304,115 @@
       ]
     },
     {
-      "id": "ouverture-mars-2009",
-      "title": "Du « membre actionnaire » à l'inauguration du 20 mars 2009",
+      "id": "histoires-do-samedi-triton-mixte",
+      "title": "Histoires d'Ô sans hommes seuls le samedi soir, Le Triton « 100 % mixte »",
+      "icon": "users",
+      "summary": "Le samedi soir, Histoires d'Ô n'accueille que les couples et les femmes seules ; Le Triton se dit « 100 % mixte » et programme des soirées jusqu'au 31 octobre 2026.",
       "blocks": [
         {
           "kind": "text",
-          "body": "Le site a précédé le club. Fin janvier 2009, il annonce une « ouverture prochainement » et invite les visiteurs à devenir « membre actionnaire ». Dès le 31 janvier, la page « Devenez membre » revient sur l'idée : face aux nombreuses demandes, le club y renonce pour ne pas « rentrer dans la vie personnelle » de ses clients, et propose à la place une carte de membre à 250 € par an donnant l'entrée gratuite. La galerie montre déjà une soirée datée du 17 janvier 2009, de nature inconnue.\n\nL'inauguration a lieu le vendredi 20 mars 2009, avec un buffet à partir de 21 h. Le registre date du même jour la création d'une société CORBIERES LOISIRS à l'enseigne SEXYNINE ; elle cesse le 31 mai 2009, et une SARL du même nom prend le relais le 1er avril 2010. Trois entreprises individuelles ont aussi déclaré cette enseigne au lieu-dit Puech de Montredon, autour de 2009 ; leurs établissements sont tous fermés."
+          "body": "Le samedi, Histoires d'Ô Narbonne n'ouvre qu'à 20 h, et seulement pour les couples et les femmes seules.\n\nPour ce samedi soir réservé aux couples et aux femmes seules, comme l'était celui de Sexynine en mars 2009, un couple qui ne veut pas arriver sans connaître personne peut d'abord [échanger avec des couples audois sur Carré Libertin](aff:carre-libertin) : ce site, ouvert en 2007, donne un accès complet gratuit aux couples et aux femmes qui publient trois photos de profil."
+        },
+        {
+          "kind": "list",
+          "items": [
+            "**Le Triton** se revendique « 100 % mixte » : couples, hommes et femmes. Les échanges entre couples seulement n'y sont « pas notre priorité », selon son site.",
+            "**Son agenda**, publié le 29 septembre, programme des soirées jusqu'au samedi 31 octobre 2026, dont une soirée « toutes tendances » le vendredi 16 et une soirée candauliste le samedi 17.",
+            "**Ses coordonnées** figurent sur [notre fiche du Triton](/le-triton-narbonne).",
+            "**Histoires d'Ô Narbonne**, dont le site est mis à jour en 2026, n'a pas encore de fiche dans notre annuaire."
+          ]
+        }
+      ],
+      "sources": [
+        "s30",
+        "s31",
+        "s32",
+        "s33",
+        "s34",
+        "s35"
+      ]
+    },
+    {
+      "id": "ce-qui-reste-2026",
+      "title": "Un domaine parqué, un bâtiment décrit « en ruines » : ce qui reste de Sexynine en 2026",
+      "icon": "building",
+      "summary": "Plus aucun club derrière sexynine.fr ni derrière les numéros d'époque ; le bâtiment de l'avenue du Languedoc apparaît à l'abandon sur des images d'urbex de 2020 et de 2024.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Ce que le domaine sexynine.fr est devenu après le club :"
         },
         {
           "kind": "timeline",
           "items": [
             {
+              "date": "Octobre et novembre 2013",
+              "text": "Dernières pages du club archivées : l'accueil en octobre, la boutique en ligne en novembre."
+            },
+            {
+              "date": "Décembre 2014",
+              "text": "Le domaine renvoie vers un site de rencontres sans lien avec le club."
+            },
+            {
+              "date": "2016",
+              "text": "Il redirige vers un site de webcams."
+            },
+            {
+              "date": "Mai 2024 à février 2026",
+              "text": "Il affiche une page de parking."
+            },
+            {
+              "date": "16 octobre 2026",
+              "text": "Il ne renvoie qu'une vérification anti-robot."
+            }
+          ]
+        },
+        {
+          "kind": "list",
+          "title": "Les annuaires et le bâtiment",
+          "items": [
+            "**Les annuaires** : clubech.fr classe le club « fermé » dès février 2016 ; d'autres recopient encore un texte non daté qui évoque une « nouvelle direction ».",
+            "**Le bâtiment en 2020** : une photo d'urbex épinglée sur Pinterest en septembre 2020 sous le titre « Abandoned Sexynine » montre l'enseigne « Club Privé Libertin » sur une façade verte.",
+            "**Le bâtiment en 2024** : une fiche commerciale d'urbex, illustrée d'images mises en ligne en octobre 2024, décrit un lieu « en ruines », aux fenêtres brisées et à l'entrée couverte de graffitis."
+          ]
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Pourquoi le club passait encore pour ouvert",
+          "body": "Notre annuaire présentait encore Sexynine comme actif en janvier 2026, parce que sexynine.fr « répondait » : la page qui répondait était celle d'un nom de domaine parqué. Les numéros publiés par le club entre 2009 et 2013, que des annuaires reprennent encore, renvoient à un établissement fermé : nous ne les reproduisons plus."
+        }
+      ],
+      "sources": [
+        "s18",
+        "s20",
+        "s21",
+        "s25",
+        "s26",
+        "s27",
+        "s28"
+      ]
+    },
+    {
+      "id": "ouverture-mars-2009",
+      "title": "Du « membre actionnaire » à l'inauguration du 20 mars 2009",
+      "icon": "history",
+      "summary": "Annoncé fin janvier 2009, le club renonce à faire de ses membres des actionnaires, propose une carte de membre à 250 € par an et ouvre le vendredi 20 mars 2009.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le site a précédé le club. Fin janvier 2009, il annonce une « ouverture prochainement » et invite les visiteurs à devenir « membre actionnaire ».\n\nDès le 31 janvier, la page « Devenez membre » revient sur l'idée : face aux nombreuses demandes, le club y renonce pour ne pas « rentrer dans la vie personnelle » de ses clients. Il propose à la place une carte de membre à 250 € par an, donnant l'entrée gratuite. Nous ignorons si cette carte a été maintenue."
+        },
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "17 janvier 2009",
+              "text": "Une soirée, de nature inconnue, figure déjà dans la galerie du site."
+            },
+            {
               "date": "20 mars 2009",
-              "text": "Inauguration ; après-midi tous les jours, soirées du jeudi au dimanche."
+              "text": "Inauguration, avec un buffet à partir de 21 h ; après-midi tous les jours de 14 h à 19 h, soirées dès 21 h du jeudi au dimanche."
             },
             {
               "date": "Septembre 2009",
@@ -221,29 +423,22 @@
               "text": "Menu à 15 € les 13 et 14 novembre, paëlla offerte le samedi 21."
             },
             {
-              "date": "1er avril 2010",
-              "text": "Création de la SARL CORBIERES LOISIRS, enseigne SEXYNINE."
-            },
-            {
               "date": "Septembre 2010",
               "text": "23 soirées datées entre le 29 août et le 30 septembre."
             },
             {
-              "date": "Septembre 2012",
-              "text": "Repas offert aux couples le vendredi et le samedi."
-            },
-            {
-              "date": "29 janvier 2013",
-              "text": "Le site annonce que le club cherche un acquéreur (bandeau absent le 26 octobre 2012)."
-            },
-            {
-              "date": "29 juin 2013",
-              "text": "Dernière soirée retrouvée."
-            },
-            {
-              "date": "8 octobre 2013",
-              "text": "Fermeture au registre des entreprises."
+              "date": "2013",
+              "text": "Mise en vente dès janvier, dernière soirée retrouvée le 29 juin, fermeture au registre le 8 octobre."
             }
+          ]
+        },
+        {
+          "kind": "list",
+          "title": "Au registre des entreprises",
+          "items": [
+            "**20 mars 2009** : création d'une société CORBIERES LOISIRS à l'enseigne SEXYNINE, le jour de l'inauguration ; elle cesse le 31 mai 2009.",
+            "**1er avril 2010** : une SARL du même nom prend le relais.",
+            "**Autour de 2009** : trois entreprises individuelles déclarent aussi cette enseigne au lieu-dit Puech de Montredon ; leurs établissements sont tous fermés."
           ]
         }
       ],
@@ -256,8 +451,6 @@
         "s10",
         "s13",
         "s14",
-        "s16",
-        "s36",
         "s37",
         "s39",
         "s22",
@@ -268,10 +461,38 @@
     {
       "id": "el-patio-chat-noir-piscine",
       "title": "Le bar El Patio, Le Chat Noir et la piscine : un lieu ouvert de 14 h à 7 h",
+      "icon": "spa",
+      "summary": "En 2011, le bar piscine El Patio ouvre de 14 h à 19 h, le restaurant Le Chat Noir le vendredi et le samedi soir, le club de 22 h à 7 h avec sauna, hammam et jacuzzi.",
       "blocks": [
         {
           "kind": "text",
-          "body": "Sur sa page d'entrée, Sexynine se présentait comme un club privé échangiste « près de Narbonne », ouvert aux couples, aux gays et lesbiennes comme aux hétéros, et se surnommait « le Temple du plaisir ». Dès mars 2009, sa grille de tarifs prévoit des après-midi de 14 h à 19 h en plus des soirées.\n\nEn octobre 2011, la page des tarifs décrit trois espaces. Le bar piscine **El Patio** ouvre sept jours sur sept, de 14 h à 19 h. Le restaurant **Le Chat Noir** fonctionne le vendredi et le samedi soir, avec un service dehors, près de la piscine, ou à l'intérieur. Le club ouvre du mercredi au dimanche, de 22 h à 7 h, avec sauna, hammam, jacuzzi et piscine. L'accueil affiche alors le menu du week-end (salade catalane, boules de picoulat et riz, dessert), compris dans une formule restaurant et club à 50 € le couple.\n\nDe 2011 à 2013, le site loue aussi « votre pied à terre au Sexynine », à la journée, au week-end ou à la semaine. Une boutique de lingerie, puis de sex-toys, organise des réunions à domicile, et le club se loue pour des soirées privées. La galerie de 2011 comptait des rubriques Appartement, Boutique, Jacuzzi, Le Club, Le Patio et Nos soirées, dont nous n'avons pas consulté les images. La page d'accès signalait un parking privé.\n\nUn annuaire non daté ajoute deux pistes de danse, deux bars et des coins câlins à l'étage. Les backroom, lit rond et barre d'exhibition que reprenaient d'autres fiches, dont la nôtre jusqu'en octobre 2026, ne figurent sur aucune page officielle que nous ayons lue."
+          "body": "Sur sa page d'entrée, Sexynine se présentait comme un club privé échangiste « près de Narbonne », ouvert aux couples, aux gays et lesbiennes comme aux hétéros, et se surnommait « le Temple du plaisir »."
+        },
+        {
+          "kind": "list",
+          "title": "Trois espaces, selon la page des tarifs d'octobre 2011",
+          "items": [
+            "**El Patio**, le bar piscine : sept jours sur sept, de 14 h à 19 h.",
+            "**Le Chat Noir**, le restaurant : le vendredi et le samedi soir, avec un service dehors, près de la piscine, ou à l'intérieur. Au menu du week-end, compris dans une formule restaurant et club à 50 € le couple : salade catalane, boules de picoulat et riz, dessert.",
+            "**Le club** : du mercredi au dimanche, de 22 h à 7 h, avec sauna, hammam, jacuzzi et piscine."
+          ]
+        },
+        {
+          "kind": "list",
+          "title": "Ce que le site proposait aussi",
+          "items": [
+            "**Un « pied à terre au Sexynine »**, loué à la journée, au week-end ou à la semaine, de 2011 à 2013.",
+            "**Une boutique** de lingerie, puis de sex-toys, qui organisait des réunions à domicile.",
+            "**La location du club** pour des soirées privées.",
+            "**Un parking privé**, signalé sur la page d'accès.",
+            "**Une galerie photo**, en 2011, aux rubriques Appartement, Boutique, Jacuzzi, Le Club, Le Patio et Nos soirées ; nous n'en avons pas consulté les images."
+          ]
+        },
+        {
+          "kind": "callout",
+          "tone": "info",
+          "title": "Équipements cités par des annuaires, pas par le club",
+          "body": "Un annuaire non daté ajoute deux pistes de danse, deux bars et des coins câlins à l'étage. Les backroom, lit rond et barre d'exhibition que reprenaient d'autres fiches, dont la nôtre jusqu'en octobre 2026, ne figurent sur aucune page officielle que nous ayons lue."
         }
       ],
       "sources": [
@@ -290,10 +511,12 @@
     {
       "id": "tarifs-2009-2011",
       "title": "Couple à 40 € le samedi en 2009, à 25 € en 2011 : quatre grilles de tarifs",
+      "icon": "euro",
+      "summary": "Entrée gratuite pour les femmes ; couple à 30 € le vendredi et 40 € le samedi en 2009, puis 25 € tous les soirs dès 2010 ; homme seul de 15 à 60 € selon le soir.",
       "blocks": [
         {
           "kind": "text",
-          "body": "Les archives conservent quatre grilles publiées entre mars 2009 et octobre 2011. Dans les quatre grilles, les femmes entrent gratuitement, et le samedi n'a jamais été ouvert aux hommes seuls : réservé d'abord aux femmes et aux couples, il admet ensuite un « homme accompagné », à 50 € en 2010 puis 80 € en 2011. Le couple, qui payait 30 € le vendredi et 40 € le samedi en 2009, paie 25 € tous les soirs à partir de 2010."
+          "body": "Quatre grilles, publiées de mars 2009 à octobre 2011 : les femmes y entrent toujours gratuitement, et le samedi n'a jamais été ouvert aux hommes seuls."
         },
         {
           "kind": "table",
@@ -302,38 +525,38 @@
             "Grille",
             "Couple",
             "Homme seul",
-            "Horaires et conditions"
+            "Le samedi"
           ],
           "rows": [
             [
               "Mars 2009",
               "20 € le jeudi, 30 € le vendredi, 40 € le samedi, gratuit le dimanche ; 20 € l'après-midi",
-              "25 € l'après-midi ; 50 € le vendredi, sur invitation ; 35 € le dimanche",
-              "Après-midi tous les jours de 14 h à 19 h, soirées dès 21 h ; jeudi « débutants » sans hommes seuls"
+              "25 € l'après-midi ; 50 € le vendredi, sur invitation ; 35 € le dimanche ; pas le jeudi « débutants »",
+              "Femmes et couples"
             ],
             [
               "Septembre 2009",
               "30 € le vendredi, 40 € le samedi ; 20 € l'après-midi",
               "15 € le jeudi ; 50 € le vendredi avec deux consommations ; 25 € l'après-midi",
-              "Après-midi du jeudi au samedi, soirées dès 22 h ; samedi et veilles de jours fériés réservés aux couples"
+              "Couples, comme les veilles de jours fériés"
             ],
             [
               "Juillet 2010",
-              "25 € tous les soirs et l'après-midi",
-              "25 € le jeudi, le dimanche et l'après-midi ; 50 € le vendredi ; 50 € le samedi s'il est accompagné",
-              "Consommation à 10 € ; samedi et veilles de jours fériés pour les couples et les femmes"
+              "25 € tous les soirs et l'après-midi ; consommation à 10 €",
+              "25 € le jeudi, le dimanche et l'après-midi ; 50 € le vendredi",
+              "Couples et femmes, comme les veilles de jours fériés ; homme accompagné à 50 €"
             ],
             [
               "Octobre 2011",
-              "25 € avec deux consommations ou 50 € avec six ; entrée offerte jusqu'à 22 h 30",
-              "25 € ou 50 € le mercredi, le jeudi et le dimanche ; 60 € le vendredi ; 80 € le samedi s'il est accompagné",
-              "Club du mercredi au dimanche, de 22 h à 7 h ; formule restaurant et club à 50 ou 80 € le couple"
+              "25 € avec deux consommations ou 50 € avec six ; entrée offerte jusqu'à 22 h 30 ; formule restaurant et club à 50 ou 80 €",
+              "25 € ou 50 € le mercredi, le jeudi et le dimanche ; 60 € le vendredi",
+              "Homme accompagné à 80 €"
             ]
           ]
         },
         {
           "kind": "text",
-          "body": "Après 2011, nous n'avons pas retrouvé de grille complète, seulement des gestes envers les couples : repas offert le vendredi et le samedi en 2012, buffet offert sur réservation et entrée gratuite jusqu'à 23 h le vendredi et le samedi en 2013. Nous ignorons si la carte de membre à 250 € par an a été maintenue."
+          "body": "Après 2011, nous n'avons pas retrouvé de grille complète, seulement des gestes envers les couples le vendredi et le samedi : repas offert en 2012, buffet offert sur réservation et entrée gratuite jusqu'à 23 h en 2013."
         }
       ],
       "sources": [
@@ -351,10 +574,59 @@
     {
       "id": "soirees-septembre-2010",
       "title": "Gang bang le mercredi, soirée gay le jeudi : le calendrier de septembre 2010",
+      "icon": "mask",
+      "summary": "En septembre 2010 : gang bang chaque mercredi, « soirée gay et sympathisants » le jeudi, puis un thème par soir du vendredi au dimanche, souvent avec un code vestimentaire.",
       "blocks": [
         {
           "kind": "text",
-          "body": "En 2009, la semaine était simple : jeudi et dimanche pour tous, vendredi mixte, samedi réservé aux couples. À la fin de l'été 2010, le programme s'est nettement étoffé : la page « Les soirées », capturée le 12 septembre 2010, aligne 23 soirées datées entre le 29 août et le 30 septembre, sur un rythme fixe :\n- **le mercredi**, une soirée gang bang chaque semaine ;\n- **le jeudi**, une « soirée gay et sympathisants » ;\n- **du vendredi au dimanche**, un thème par soir, souvent avec un code vestimentaire : résille, guêpières, soirée masquée avec loups, soirée blanche, paillettes, exhibition en tenue transparente, dentelles, safari, soirée romaine, soirée « bulles » où une consommation achetée en valait deux, et une soirée « galante » où « les femmes sont reines ».\n\nLe gang bang est resté la soirée la plus constante : le mercredi 12 octobre 2011, le mercredi 26 septembre 2012, puis le vendredi 28 juin 2013. Le jeudi s'oriente vers les rencontres : en octobre 2011, il est lié au site de rencontres que le club mettait en avant ; en septembre 2012, il réunit « débutants et rencontres ». Les week-ends gardent leurs thèmes : « Full Moon » en octobre 2011, vinyle et latex puis ambiance bi en septembre 2012, trio puis « Glam Class » en mars 2013, « Ange et Démon » puis « Luxure » en mai.\n\nCe calendrier a disparu avec le club. Pour suivre les soirées à thème annoncées aujourd'hui dans l'Aude, les agendas des clubs restent la source la plus sûre ; [l'agenda en ligne de Wyylde](aff:wyylde), l'ancien Netéchangisme rebaptisé en 2018, se consulte aussi avec un compte gratuit, mais répondre à un message y demande un abonnement."
+          "body": "En 2009, la semaine était simple. À la fin de l'été 2010, le programme s'est nettement étoffé : la page « Les soirées », capturée le 12 septembre 2010, aligne 23 soirées datées entre le 29 août et le 30 septembre, sur un rythme fixe."
+        },
+        {
+          "kind": "table",
+          "caption": "La semaine type, selon les pages « Les soirées » de 2009 et du 12 septembre 2010",
+          "headers": [
+            "Jour",
+            "2009",
+            "Septembre 2010"
+          ],
+          "rows": [
+            [
+              "Mercredi",
+              "—",
+              "Gang bang, chaque semaine"
+            ],
+            [
+              "Jeudi",
+              "Pour tous",
+              "« Soirée gay et sympathisants »"
+            ],
+            [
+              "Vendredi",
+              "Mixte",
+              "Soirée à thème"
+            ],
+            [
+              "Samedi",
+              "Réservé aux couples",
+              "Soirée à thème"
+            ],
+            [
+              "Dimanche",
+              "Pour tous",
+              "Soirée à thème"
+            ]
+          ]
+        },
+        {
+          "kind": "list",
+          "title": "Du vendredi au dimanche, un thème par soir, souvent avec un code vestimentaire",
+          "items": [
+            "Résille, guêpières, dentelles, paillettes.",
+            "Soirée masquée avec loups, soirée blanche, safari, soirée romaine.",
+            "Exhibition en tenue transparente.",
+            "Soirée « bulles », où une consommation achetée en valait deux.",
+            "Soirée « galante », où « les femmes sont reines »."
+          ]
         },
         {
           "kind": "callout",
@@ -366,11 +638,51 @@
       "sources": [
         "s9",
         "s12",
-        "s13",
+        "s13"
+      ]
+    },
+    {
+      "id": "soirees-2011-2013",
+      "title": "Gang bang jusqu'en juin 2013, « Full Moon » en 2011 : les soirées après 2010",
+      "icon": "calendar",
+      "summary": "Le gang bang reste au programme jusqu'au 28 juin 2013 ; le jeudi se tourne vers les rencontres et les week-ends gardent leurs thèmes, de « Full Moon » au latex.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le gang bang est resté la soirée la plus constante : le mercredi 12 octobre 2011, le mercredi 26 septembre 2012, puis le vendredi 28 juin 2013. Le jeudi s'oriente vers les rencontres, et les week-ends gardent leurs thèmes :"
+        },
+        {
+          "kind": "table",
+          "caption": "Deux semaines de programme retrouvées sur la page d'accueil",
+          "headers": [
+            "Semaine",
+            "Mercredi",
+            "Jeudi",
+            "Vendredi et samedi"
+          ],
+          "rows": [
+            [
+              "12-15 octobre 2011",
+              "Gang bang",
+              "Soirée liée au site de rencontres que le club mettait en avant",
+              "« Full Moon »"
+            ],
+            [
+              "26-29 septembre 2012",
+              "Gang bang",
+              "« Débutants et rencontres »",
+              "Vinyle et latex, puis ambiance bi"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Ce calendrier a disparu avec le club. Pour suivre les soirées à thème annoncées aujourd'hui dans l'Aude, les agendas des clubs restent la source la plus sûre ; [l'agenda en ligne de Wyylde](aff:wyylde), l'ancien Netéchangisme rebaptisé en 2018, se consulte aussi avec un compte gratuit, mais répondre à un message y demande un abonnement."
+        }
+      ],
+      "sources": [
         "s15",
         "s16",
-        "s17",
-        "s38",
         "s39"
       ]
     }

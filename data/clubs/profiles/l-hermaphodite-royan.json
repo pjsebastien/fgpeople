@@ -33,6 +33,67 @@
     ]
   },
   "lead": "L'Herma-Phrodite, seul club libertin que nous ayons trouvé à Royan, a fonctionné d'août 2008 à août 2014 dans la zone d'activités de la rue Louis Lépine. Son site le présentait comme un club privé « non conformiste », ouvert du mardi au dimanche dès 22 h, avec des soirées réservées aux couples, des soirées mixtes et des soirées bi. Depuis sa fermeture, nous n'avons identifié aucun club libertin, échangiste ou sauna libertin en activité à Royan.",
+  "glance": [
+    {
+      "icon": "closed",
+      "label": "Fermé",
+      "value": "Depuis le 27 août 2014"
+    },
+    {
+      "icon": "history",
+      "label": "En activité",
+      "value": "D'août 2008 à août 2014"
+    },
+    {
+      "icon": "calendar",
+      "label": "Soirées (2009-2014)",
+      "value": "Du mardi au dimanche, dès 22 h",
+      "confidence": "source_unique"
+    },
+    {
+      "icon": "euro",
+      "label": "Entrée (2009-2013)",
+      "value": "Couple ou homme 30 € · femme 10 €",
+      "confidence": "source_unique"
+    },
+    {
+      "icon": "map",
+      "label": "Adresse",
+      "value": "Local M3, 12 rue Louis Lépine, 17200 Royan"
+    },
+    {
+      "icon": "heart",
+      "label": "Club ouvert vérifié",
+      "value": "Angély's Club, ≈ 49 km à vol d'oiseau"
+    }
+  ],
+  "audience": [
+    {
+      "who": "couples",
+      "status": "oui",
+      "detail": "Seuls admis le vendredi (accueil du site) ou le samedi (calendrier d'avril 2010)",
+      "price": "30 €"
+    },
+    {
+      "who": "femmes",
+      "status": "selon",
+      "detail": "« Tenue sexy » exigée ; soirées mixtes jeudi, samedi et dimanche selon l'accueil du site",
+      "price": "10 €"
+    },
+    {
+      "who": "hommes",
+      "status": "selon",
+      "detail": "Même prix qu'un couple ; soirées mixtes jeudi, samedi, dimanche ; autres soirs non précisés",
+      "price": "30 €"
+    }
+  ],
+  "highlights": [
+    "Aucun club libertin ou échangiste en activité n'a été identifié à Royan depuis la fermeture de L'Herma-Phrodite, le 27 août 2014.",
+    "Angély's Club, à Saint-Jean-d'Angély (≈ 49 km), annonce des soirées jusqu'au 31 décembre 2026 ; les clubs de Mosnac, à 37-38 km, n'ont pas été vérifiés.",
+    "Pas de sauna libertin non plus : le seul « sauna » inscrit au registre à Royan, rue François Arago, était un centre de bien-être liquidé en 2021.",
+    "Un annuaire spécialisé présente encore le club sans mention de fermeture, avec un téléphone et un e-mail périmés : ne vous y fiez pas.",
+    "Le domaine lhermaphrodite.com n'a plus de lien avec le club : il renvoyait dès août 2015 vers une plateforme de rencontres et n'est plus enregistré."
+  ],
   "keyFacts": [
     {
       "label": "Nom déposé",
@@ -120,11 +181,45 @@
     {
       "id": "royan-sans-club-depuis-aout-2014",
       "title": "Royan sans club libertin identifié depuis le 27 août 2014",
+      "icon": "closed",
+      "summary": "Fermé au registre le 27 août 2014, le club n'a aucun successeur connu, ni à son adresse ni parmi les 127 entreprises d'« activités récréatives » du secteur.",
       "blocks": [
         {
           "kind": "text",
-          "body": "Les recherches « club libertin Royan » ou « club échangiste Royan » mènent encore à L'Herma-Phrodite, qu'un annuaire spécialisé compte toujours parmi les six établissements de Charente-Maritime, sans mention de fermeture. Le registre dit l'inverse : établissement fermé le 27 août 2014, société radiée, et aucun débit de boissons ni lieu de loisirs immatriculé depuis au n° 12.\n\nNous avons aussi passé en revue les 127 entreprises actives déclarées en « autres activités récréatives » à Royan, Saint-Georges-de-Didonne, Vaux-sur-Mer, Saint-Palais-sur-Mer, Meschers et dans le secteur de Saujon : associations, nautisme, poker, billard, centres équestres, animateurs, sans aucun lieu présenté comme libertin. Cette revue ne couvre pas un établissement immatriculé sous un autre code. Côté sauna, le seul inscrit au registre à Royan, rue François Arago, était un centre de bien-être liquidé en 2021."
+          "body": "Les recherches « club libertin Royan » ou « club échangiste Royan » mènent encore à L'Herma-Phrodite. Un annuaire spécialisé le compte toujours parmi les six établissements de Charente-Maritime, sans mention de fermeture. Le registre dit l'inverse."
         },
+        {
+          "kind": "list",
+          "title": "Ce que montre le registre des entreprises",
+          "items": [
+            "**Au 12 rue Louis Lépine** : établissement fermé le 27 août 2014, société radiée, aucun débit de boissons ni lieu de loisirs immatriculé depuis.",
+            "**À Royan, Saint-Georges-de-Didonne, Vaux-sur-Mer, Saint-Palais-sur-Mer, Meschers et dans le secteur de Saujon** : 127 entreprises actives déclarées en « autres activités récréatives ». Associations, nautisme, poker, billard, centres équestres, animateurs : aucune n'est présentée comme un lieu libertin.",
+            "**Côté sauna** : le seul inscrit au registre à Royan, rue François Arago, était un centre de bien-être liquidé en 2021."
+          ]
+        },
+        {
+          "kind": "callout",
+          "tone": "info",
+          "title": "La limite de cette revue",
+          "body": "Elle ne couvre pas un établissement immatriculé sous un autre code."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s3",
+        "s4",
+        "s7",
+        "s8",
+        "s9",
+        "s10"
+      ]
+    },
+    {
+      "id": "clubs-proches-de-royan",
+      "title": "Les clubs les plus proches de Royan, de 37 à 61 km à vol d'oiseau",
+      "icon": "car",
+      "summary": "Le Rom'antic et Néapolis, à Mosnac (≈ 37-38 km), sont les plus proches mais non vérifiés ; Angély's Club (≈ 49 km) annonce des soirées jusqu'au 31 décembre 2026.",
+      "blocks": [
         {
           "kind": "table",
           "caption": "Clubs de notre annuaire les plus proches, à vol d'oiseau depuis le 12 rue Louis Lépine",
@@ -163,17 +258,10 @@
         },
         {
           "kind": "text",
-          "body": "La route sera plus longue que ces distances à vol d'oiseau. Avant de la faire, [l'agenda des soirées tenu par Wyylde](aff:wyylde) indique ce qui est annoncé dans le département : l'ex-Netéchangisme, en ligne depuis 2001, le laisse lire avec un compte gratuit, qui ne permet pas de répondre aux messages. Notre [page Charente-Maritime](/departement/charente-maritime) recense les autres adresses."
+          "body": "La route sera plus longue que ces distances à vol d'oiseau. Avant de la faire, [l'agenda des soirées tenu par Wyylde](aff:wyylde) indique ce qui est annoncé dans le département : l'ex-Netéchangisme, en ligne depuis 2001, le laisse lire avec un compte gratuit, qui ne permet pas de répondre aux messages.\n\nNotre [page Charente-Maritime](/departement/charente-maritime) recense les autres adresses."
         }
       ],
       "sources": [
-        "s1",
-        "s3",
-        "s4",
-        "s7",
-        "s8",
-        "s9",
-        "s10",
         "s11",
         "s12"
       ]
@@ -181,11 +269,72 @@
     {
       "id": "couples-mixtes-bi-mardi-dimanche-22h",
       "title": "Couples le vendredi, bi le mardi et le mercredi, dès 22 h",
+      "icon": "calendar",
+      "summary": "Ouvert du mardi au dimanche dès 22 h, le club alternait soirées bi, mixtes et couples, selon deux programmes contradictoires publiés sur son propre site.",
       "blocks": [
         {
           "kind": "text",
-          "body": "Le registre ne parle pas de libertinage : l'objet social évoque un « dancing lieu de rencontre », sous le code des débits de boissons. Le site du club, conservé par Internet Archive, était plus explicite. De la première capture, en octobre 2009, à la dernière avant la fermeture, en mai 2014, sa page d'accueil n'a pas changé : un club « non conformiste » ouvert du mardi au dimanche à partir de 22 h, des soirées bi le mardi et le mercredi, réservées aux couples le vendredi, mixtes le jeudi, le samedi et le dimanche. Le gérant, présenté par son seul prénom, Franck, y vantait des cocktails, des « coins câlins » et un parking privé.\n\nLa page « Calendrier » contredit en partie ce programme. Une annonce du 23 avril 2010, encore en ligne en septembre 2013, propose des soirées « trio » le jeudi et le vendredi et réserve le samedi aux couples. Faute d'autre source, nous ne savons pas quelle version était appliquée dans les dernières années."
+          "body": "Le registre ne parle pas de libertinage : l'objet social évoque un « dancing lieu de rencontre », sous le code des débits de boissons. Le site du club, conservé par Internet Archive, était plus explicite : un club privé « non conformiste », ouvert du mardi au dimanche à partir de 22 h."
         },
+        {
+          "kind": "text",
+          "body": "Ce site publiait pourtant deux programmes. Sa page d'accueil n'a pas changé de la première capture, en octobre 2009, à la dernière avant la fermeture, en mai 2014. Sa page « Calendrier » la contredit en partie, avec une annonce du 23 avril 2010 encore en ligne en septembre 2013."
+        },
+        {
+          "kind": "table",
+          "caption": "Le programme de la semaine selon les deux pages du site, toutes soirées dès 22 h",
+          "headers": [
+            "Soir",
+            "Accueil (2009-2014)",
+            "Calendrier (2010)"
+          ],
+          "rows": [
+            [
+              "Mardi et mercredi",
+              "Soirée bi",
+              "Non mentionné"
+            ],
+            [
+              "Jeudi",
+              "Soirée mixte",
+              "Soirée « trio »"
+            ],
+            [
+              "Vendredi",
+              "Couples uniquement",
+              "Soirée « trio »"
+            ],
+            [
+              "Samedi",
+              "Soirée mixte",
+              "Couples uniquement"
+            ],
+            [
+              "Dimanche",
+              "Soirée mixte",
+              "Non mentionné"
+            ]
+          ]
+        },
+        {
+          "kind": "callout",
+          "tone": "info",
+          "title": "Quel programme était appliqué ?",
+          "body": "Faute d'autre source, nous ne savons pas quelle version était appliquée dans les dernières années."
+        }
+      ],
+      "sources": [
+        "s2",
+        "s13",
+        "s15"
+      ]
+    },
+    {
+      "id": "soirees-a-theme-et-entree",
+      "title": "Soirée blanche, nuisettes, « âge de pierre » : thèmes et prix d'entrée",
+      "icon": "ticket",
+      "summary": "En septembre 2009, quatre soirées à thème en deux week-ends ; l'entrée coûtait 30 € pour un couple comme pour un homme seul, 10 € pour une femme seule.",
+      "blocks": [
         {
           "kind": "list",
           "title": "Soirées à thème annoncées en septembre 2009",
@@ -197,21 +346,42 @@
           ]
         },
         {
+          "kind": "table",
+          "caption": "Entrée affichée par le club, identique en octobre 2009 et en septembre 2013",
+          "headers": [
+            "Public",
+            "Entrée"
+          ],
+          "rows": [
+            [
+              "Couple",
+              "30 €"
+            ],
+            [
+              "Homme seul",
+              "30 €, le même prix que le couple"
+            ],
+            [
+              "Femme seule",
+              "10 €"
+            ]
+          ]
+        },
+        {
           "kind": "text",
-          "body": "La grille tarifaire, identique sur les captures d'octobre 2009 et de septembre 2013, avait une particularité : l'homme seul payait le même prix que le couple, 30 €, quand la femme seule entrait pour 10 €. Le club exigeait une « tenue sexy » des femmes et se réservait le droit d'entrée."
+          "body": "Le club exigeait une « tenue sexy » des femmes et se réservait le droit d'entrée."
         }
       ],
       "sources": [
-        "s2",
-        "s13",
         "s14",
-        "s15",
         "s16"
       ]
     },
     {
       "id": "bar-d-ambiance-2008-2014",
       "title": "D'un « bar d'ambiance club privé » en 2008 à un domaine redirigé en 2015",
+      "icon": "history",
+      "summary": "Six ans d'activité, d'août 2008 à août 2014 ; le site, resté en ligne sans annonce de fermeture, renvoie dès août 2015 vers une plateforme de rencontres.",
       "blocks": [
         {
           "kind": "timeline",
@@ -223,10 +393,6 @@
             {
               "date": "4 août 2008",
               "text": "Immatriculation au registre du commerce de Marennes."
-            },
-            {
-              "date": "Septembre 2009",
-              "text": "Le calendrier du site annonce quatre soirées à thème en deux week-ends."
             },
             {
               "date": "3 octobre 2009",
@@ -263,8 +429,10 @@
           ]
         },
         {
-          "kind": "text",
-          "body": "L'annuaire sauna-club-libertin.com, à l'origine de notre fiche, cite parking, vestiaires, bar, piste de danse, barre d'exhibition, backroom ouvert et douche. Le bar et la piste recoupent le registre (« bar d'ambiance », « dancing »), le parking le site du club ; vestiaires, barre, backroom et douche ne sont attestés que par cet annuaire. La galerie photo du site affichait « aucune galerie » en septembre 2013, et les raisons de la fermeture restent inconnues : la presse locale n'a pas été dépouillée."
+          "kind": "callout",
+          "tone": "info",
+          "title": "Raisons de la fermeture : inconnues",
+          "body": "La presse locale n'a pas été dépouillée."
         }
       ],
       "sources": [
@@ -272,7 +440,6 @@
         "s2",
         "s3",
         "s6",
-        "s7",
         "s13",
         "s15",
         "s16",
@@ -281,12 +448,88 @@
       ]
     },
     {
+      "id": "bar-piste-coins-calins",
+      "title": "Bar, piste de danse, « coins câlins » : ce que l'on sait du lieu",
+      "icon": "drink",
+      "summary": "Bar, piste de danse et parking sont recoupés par deux sources ; vestiaires, barre d'exhibition, backroom et douche ne sont cités que par un annuaire.",
+      "blocks": [
+        {
+          "kind": "table",
+          "caption": "Équipements cités, et par quelle source (l'annuaire est sauna-club-libertin.com, à l'origine de notre fiche)",
+          "headers": [
+            "Équipement",
+            "Source"
+          ],
+          "rows": [
+            [
+              "Bar",
+              "Annuaire, recoupé par le registre (« bar d'ambiance »)"
+            ],
+            [
+              "Piste de danse",
+              "Annuaire, recoupé par le registre (« dancing »)"
+            ],
+            [
+              "Parking privé",
+              "Annuaire et site du club"
+            ],
+            [
+              "Cocktails, « coins câlins »",
+              "Site du club"
+            ],
+            [
+              "Vestiaires, barre d'exhibition, backroom ouvert, douche",
+              "Annuaire seul"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le gérant y était présenté par son seul prénom, Franck. La galerie photo du site affichait « aucune galerie » en septembre 2013."
+        }
+      ],
+      "sources": [
+        "s2",
+        "s7",
+        "s13",
+        "s15"
+      ]
+    },
+    {
       "id": "local-m3-17200",
       "title": "Local M3, 17200 et non 17110 : l'adresse et la graphie exactes",
+      "icon": "map",
+      "summary": "Le club était au local M3, 12 rue Louis Lépine, 17200 Royan : l'annuaire d'origine a mal saisi le code postal (17110) et le nom (« l HERMAPHODITE »).",
       "blocks": [
         {
           "kind": "text",
-          "body": "Le nom déposé s'écrit **L'Herma-Phrodite**, avec un tiret ; le site l'écrivait « L'Herma Phrodite », le domaine et l'e-mail « lhermaphrodite ». L'annuaire d'origine a mal saisi le nom (« l HERMAPHODITE ») et le code postal : 17110 est celui de Saint-Georges-de-Didonne, où la Base Adresse Nationale ne trouve aucune rue Louis Lépine. L'adresse officielle est à Royan, en 17200, dans le secteur que plusieurs entreprises voisines domicilient en « ZI Royan 2 ». Le site situait le club près des plages naturistes de la Grande Côte et à dix minutes du zoo de La Palmyre."
+          "body": "L'adresse officielle est à Royan, en 17200, dans le secteur que plusieurs entreprises voisines domicilient en « ZI Royan 2 ». Le 17110 de l'annuaire est le code de Saint-Georges-de-Didonne, où la Base Adresse Nationale ne trouve aucune rue Louis Lépine.\n\nLe site situait le club près des plages naturistes de la Grande Côte et à dix minutes du zoo de La Palmyre."
+        },
+        {
+          "kind": "table",
+          "caption": "Les graphies du nom",
+          "headers": [
+            "Graphie",
+            "Où"
+          ],
+          "rows": [
+            [
+              "**L'Herma-Phrodite**",
+              "Nom déposé, avec un tiret"
+            ],
+            [
+              "L'Herma Phrodite",
+              "Site du club"
+            ],
+            [
+              "lhermaphrodite",
+              "Domaine et e-mail"
+            ],
+            [
+              "l HERMAPHODITE",
+              "Annuaire d'origine, mal saisi"
+            ]
+          ]
         },
         {
           "kind": "callout",

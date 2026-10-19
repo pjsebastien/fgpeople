@@ -50,6 +50,13 @@ const SOURCE_TYPES = ['officiel', 'reseau_social', 'registre', 'annuaire', 'pres
 const BLOCKS = ['text', 'list', 'table', 'callout', 'timeline'];
 const LINK_KINDS = ['site', 'facebook', 'instagram', 'x', 'galerie', 'agenda', 'reservation', 'autre'];
 const DATE = /^\d{4}-\d{2}-\d{2}$/;
+// Pictogrammes : voir ProfileIcon dans lib/types/club-profile.ts.
+const ICONS = ['calendar', 'clock', 'euro', 'users', 'couple', 'sparkles', 'map', 'building', 'history', 'star', 'shield',
+  'info', 'warning', 'camera', 'music', 'drink', 'food', 'spa', 'flame', 'water', 'bed', 'car', 'lock', 'ticket', 'heart',
+  'mask', 'closed', 'ruler', 'phone', 'globe'];
+// Tant que les fiches existantes n'ont pas reçu leurs blocs de lecture
+// rapide, leur absence n'est qu'un avertissement.
+const REQUIRE_SKIM = process.env.REQUIRE_SKIM === '1';
 // Clés acceptées dans `[ancre](aff:<clé>)` — voir lib/config/inline-affiliates.ts.
 const AFFILIATES = ['wyylde', 'carre-libertin', 'gleese'];
 
@@ -95,6 +102,34 @@ export function validateProfile(p, file) {
   if (!Array.isArray(p.seo?.targetQueries)) err('seo.targetQueries manquant');
 
   if (!str(p.lead)) err('lead manquant');
+
+  // Blocs de lecture rapide (voir PLAYBOOK, « Lisibilité »).
+  const need = REQUIRE_SKIM ? err : warn;
+  if (!Array.isArray(p.glance)) need('glance manquant (4 à 6 tuiles)');
+  else {
+    if (p.glance.length < 3 || p.glance.length > 6) err(`glance : ${p.glance.length} tuiles (4 à 6 attendues)`);
+    for (const [i, g] of p.glance.entries()) {
+      if (!ICONS.includes(g.icon)) err(`glance[${i}] : icône inconnue « ${g.icon} »`);
+      if (!str(g.label) || g.label.length > 24) err(`glance[${i}] : label vide ou trop long (24 car. max)`);
+      if (!str(g.value) || g.value.length > 45) err(`glance[${i}] : valeur vide ou trop longue (45 car. max) : « ${g.value} »`);
+      if (g.confidence && !CONFIDENCE.includes(g.confidence)) err(`glance[${i}] : confidence invalide`);
+    }
+  }
+  if (!Array.isArray(p.highlights)) need('highlights manquant (3 à 5 points)');
+  else {
+    if (p.highlights.length < 2 || p.highlights.length > 5) err(`highlights : ${p.highlights.length} points (3 à 5 attendus)`);
+    for (const [i, h] of p.highlights.entries()) if (!str(h) || h.length > 170) err(`highlights[${i}] vide ou trop long (160 car. visés)`);
+  }
+  if (p.audience !== undefined) {
+    const seen = new Set();
+    for (const [i, a] of (Array.isArray(p.audience) ? p.audience : [null]).entries()) {
+      if (!a || !['couples', 'femmes', 'hommes', 'trans'].includes(a.who) || seen.has(a.who)) { err(`audience[${i}] : public invalide ou en double`); continue; }
+      seen.add(a.who);
+      if (!['oui', 'non', 'selon', 'inconnu'].includes(a.status)) err(`audience[${i}] : status invalide`);
+      if (!str(a.detail) || a.detail.length > 100) err(`audience[${i}] : detail vide ou trop long (90 car. visés)`);
+      if (a.price !== undefined && (!str(a.price) || a.price.length > 30)) err(`audience[${i}] : prix trop long`);
+    }
+  } else if (p.status?.value === 'ouvert') need('audience manquant (qui peut entrer)');
   if (!Array.isArray(p.keyFacts)) err('keyFacts manquant');
   for (const [i, f] of (p.keyFacts || []).entries()) {
     if (!str(f.label) || !str(f.value)) err(`keyFacts[${i}] incomplet`);
@@ -109,6 +144,9 @@ export function validateProfile(p, file) {
     if (!/^[a-z0-9-]+$/.test(s.id || '') || anchors.has(s.id)) err(`${at} : id invalide ou en double`);
     anchors.add(s.id);
     if (!str(s.title)) err(`${at} : titre manquant`);
+    if (s.icon !== undefined && !ICONS.includes(s.icon)) err(`${at} : icône inconnue « ${s.icon} »`);
+    if (s.summary === undefined) need(`${at} (${s.title}) : summary manquant`);
+    else if (!str(s.summary) || s.summary.length > 200) err(`${at} : summary vide ou trop long (180 car. visés)`);
     if (s.confidence && !CONFIDENCE.includes(s.confidence)) err(`${at} : confidence invalide`);
     refs(s.sources, at);
     if ((s.sources || []).length === 0) warn(`${at} (${s.title}) : aucune source`);

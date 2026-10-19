@@ -31,6 +31,45 @@
     ]
   },
   "lead": "D'après le registre du commerce, La Maison Rose n'a pu fonctionner que trois ans et demi au plus. La société qui l'exploitait au 2 rue Gustave Ravanne, dans le centre de Meulan-en-Yvelines, a déclaré son début d'activité le 1er décembre 2013, cessé ses paiements en décembre 2016 et été liquidée le 30 mai 2017. Sans site connu ni tarif retrouvé, nous n'avons trouvé du club que ces traces au registre et une annonce rédigée avant son ouverture.",
+  "glance": [
+    {
+      "icon": "closed",
+      "label": "Fermé",
+      "value": "Exploitant liquidé le 30 mai 2017"
+    },
+    {
+      "icon": "history",
+      "label": "Période d'activité",
+      "value": "De décembre 2013 à mai 2017 au plus"
+    },
+    {
+      "icon": "map",
+      "label": "Adresse",
+      "value": "2 rue Gustave Ravanne, Meulan-en-Yvelines"
+    },
+    {
+      "icon": "building",
+      "label": "Même adresse depuis 2022",
+      "value": "VIP Lounge, club dancing en liquidation"
+    },
+    {
+      "icon": "heart",
+      "label": "Club le plus proche",
+      "value": "The Strip (95), à 16,5 km"
+    },
+    {
+      "icon": "info",
+      "label": "Site, tarifs, photos",
+      "value": "Aucun retrouvé"
+    }
+  ],
+  "highlights": [
+    "La Maison Rose n'existe plus : son exploitant a été liquidé en mai 2017, et aucune reprise du nom ni du fonds n'a été publiée depuis.",
+    "L'annuaire qui la présente encore en 2026 comme le seul club des Yvelines reprend une annonce d'octobre 2013, jamais modifiée depuis.",
+    "Le portable et l'adresse Hotmail publiés en 2013 n'ont pas pu être testés : ils ne mènent sans doute plus au club.",
+    "Aucun autre club recensé dans les Yvelines : les plus proches sont The Strip (16,5 km) et Club 46 (25,7 km), dans le Val-d'Oise.",
+    "Aucune source ne mentionne de spa, de sauna ni de jacuzzi : pour la détente, l'annonce de 2013 citait une table de massage, dans la Zen Room."
+  ],
   "keyFacts": [
     {
       "label": "Statut",
@@ -126,17 +165,8 @@
     {
       "id": "liquidation-2017",
       "title": "Ouverte le 1er décembre 2013, liquidée le 30 mai 2017",
-      "sources": [
-        "s2",
-        "s5",
-        "s6",
-        "s7",
-        "s8",
-        "s9",
-        "s19",
-        "s23"
-      ],
-      "confidence": "confirme",
+      "icon": "closed",
+      "summary": "Début d'activité le 1er décembre 2013, cessation des paiements le 20 décembre 2016, liquidation le 30 mai 2017 : la date de la dernière soirée reste inconnue.",
       "blocks": [
         {
           "kind": "timeline",
@@ -168,53 +198,106 @@
           ]
         },
         {
+          "kind": "callout",
+          "tone": "info",
+          "title": "Des dates de procédure, pas de soirées",
+          "body": "Aucun document consulté ne dit quand le club a reçu ses derniers clients."
+        },
+        {
           "kind": "text",
-          "body": "Ce sont des dates de procédure, pas de soirées : aucun document consulté ne dit quand le club a reçu ses derniers clients. Depuis la liquidation, ni le registre ni le BODACC ne montrent de société, d'enseigne ou de fonds « Maison Rose » à Meulan."
+          "body": "Depuis la liquidation, ni le registre ni le BODACC ne montrent de société, d'enseigne ou de fonds « Maison Rose » à Meulan."
         }
-      ]
+      ],
+      "sources": [
+        "s2",
+        "s5",
+        "s6",
+        "s7",
+        "s8",
+        "s9",
+        "s19",
+        "s23"
+      ],
+      "confidence": "confirme"
     },
     {
       "id": "clubs-a-16-km",
       "title": "The Strip à 16,5 km, Club 46 à 25,7 km, Paris à 32 km : les clubs autour de Meulan",
-      "sources": [
-        "s21"
-      ],
+      "icon": "map",
+      "summary": "Aucun autre club recensé dans les Yvelines : les plus proches sont The Strip à 16,5 km et Club 46 à 25,7 km, dans le Val-d'Oise, puis les Hauts-de-Seine et Paris.",
       "blocks": [
         {
           "kind": "text",
-          "body": "Notre annuaire ne compte aucun autre club dans les Yvelines. Mesurées à vol d'oiseau depuis le 2 rue Gustave Ravanne jusqu'au centre de chaque commune, voici les adresses les plus proches que nous recensons :"
+          "body": "Notre annuaire ne compte aucun autre club dans les Yvelines. Voici les adresses les plus proches que nous recensons :"
         },
         {
-          "kind": "list",
-          "items": [
-            "[The Strip](/the-strip-saint-ouen-l-aumone), à Saint-Ouen-l'Aumône (Val-d'Oise) : 16,5 km ;",
-            "[Club 46](/club-46-argenteuil), à Argenteuil (Val-d'Oise) : 25,7 km ;",
-            "[Le Roi René](/le-roi-rene-ville-d-avray), à Ville-d'Avray (Hauts-de-Seine) : 28,4 km ;",
-            "[La Caverne de Vénus](/la-caverne-de-venus-boulogne-billancourt), à Boulogne-Billancourt (Hauts-de-Seine) : 30,8 km ;",
-            "[les clubs parisiens](/ville/paris), à partir du 17e arrondissement : 31,9 km."
+          "kind": "table",
+          "caption": "Distances à vol d'oiseau, du 2 rue Gustave Ravanne au centre de chaque commune",
+          "headers": [
+            "Club",
+            "Commune",
+            "Distance"
+          ],
+          "rows": [
+            [
+              "[The Strip](/the-strip-saint-ouen-l-aumone)",
+              "Saint-Ouen-l'Aumône (Val-d'Oise)",
+              "16,5 km"
+            ],
+            [
+              "[Club 46](/club-46-argenteuil)",
+              "Argenteuil (Val-d'Oise)",
+              "25,7 km"
+            ],
+            [
+              "[Le Roi René](/le-roi-rene-ville-d-avray)",
+              "Ville-d'Avray (Hauts-de-Seine)",
+              "28,4 km"
+            ],
+            [
+              "[La Caverne de Vénus](/la-caverne-de-venus-boulogne-billancourt)",
+              "Boulogne-Billancourt (Hauts-de-Seine)",
+              "30,8 km"
+            ],
+            [
+              "[Les clubs parisiens](/ville/paris)",
+              "Paris, à partir du 17e arrondissement",
+              "31,9 km"
+            ],
+            [
+              "[Le Passion](/le-passion-gravigny)",
+              "Gravigny (Eure), côté Normandie",
+              "54,3 km"
+            ]
           ]
         },
         {
+          "kind": "callout",
+          "tone": "info",
+          "body": "Nous n'avons pas vérifié le programme de ces lieux pour ce dossier : lisez leur fiche avant de prendre la route. [Les clubs du Val-d'Oise](/departement/val-d-oise) sont regroupés sur une page dédiée."
+        },
+        {
           "kind": "text",
-          "body": "Côté Normandie, [Le Passion](/le-passion-gravigny), à Gravigny dans l'Eure, est à 54,3 km. Nous n'avons pas vérifié le programme de ces lieux pour ce dossier : lisez leur fiche avant de prendre la route. [Les clubs du Val-d'Oise](/departement/val-d-oise) sont regroupés sur une page dédiée.\n\nFaute de club recensé dans le département, vous pouvez aussi faire connaissance en ligne avant de fixer un premier rendez-vous dans l'un de ces établissements. Carré Libertin, ouvert en 2007 et qui revendique plus de 500 000 inscrits, donne aux femmes et aux couples un accès complet gratuit, contre trois photos de profil : de quoi [lancer une recherche de couples autour de Meulan](aff:carre-libertin) sans abonnement."
+          "body": "Faute de club recensé dans les Yvelines, vous pouvez faire connaissance en ligne avant un premier rendez-vous en club. Carré Libertin, ouvert en 2007 et qui revendique plus de 500 000 inscrits, donne aux femmes et aux couples un accès complet gratuit, contre trois photos de profil : de quoi [lancer une recherche de couples autour de Meulan](aff:carre-libertin) sans abonnement."
         }
+      ],
+      "sources": [
+        "s21"
       ]
     },
     {
       "id": "salles-annoncees-2013",
       "title": "Movies Room, Zen Room, X Room : le club tel qu'il s'annonçait en 2013",
-      "sources": [
-        "s1",
-        "s2",
-        "s3",
-        "s4",
-        "s6"
-      ],
-      "confidence": "source_unique",
+      "icon": "sparkles",
+      "summary": "La seule description retrouvée, une annonce de 2013, promettait cinq salles, dont une Movies Room pour filmer ses propres vidéos, un bar, un fumoir et des barres de pole dance.",
       "blocks": [
         {
           "kind": "text",
-          "body": "Le seul descriptif du club que nous ayons retrouvé est une annonce en ligne sur un annuaire spécialisé dès le 30 octobre 2013, date de sa première capture archivée, soit un mois avant l'ouverture. Elle est restée identique depuis (captures de 2013, 2016 et 2026). Écrite à la première personne du pluriel, elle vient vraisemblablement du club. Elle décrivait un lieu de rencontre privé pour adultes consentants, avec une entrée discrète sur une rue à sens unique du centre de Meulan, et le divisait en cinq espaces :"
+          "body": "Le seul descriptif du club que nous ayons retrouvé est une annonce sur un annuaire spécialisé, archivée pour la première fois le 30 octobre 2013, un mois avant l'ouverture. Écrite à la première personne du pluriel, elle vient vraisemblablement du club. Son texte est identique sur les captures de 2013, 2016 et 2026."
+        },
+        {
+          "kind": "text",
+          "body": "Elle décrivait un lieu de rencontre privé pour adultes consentants, avec une entrée discrète sur une rue à sens unique du centre de Meulan, et le divisait en cinq espaces :"
         },
         {
           "kind": "list",
@@ -227,30 +310,104 @@
           ]
         },
         {
-          "kind": "text",
-          "body": "S'y ajoutaient un bar, des barres de pole dance sur la piste, un fumoir, des salons privés et des banquettes, ainsi que des soirées à thème et des « Show Hot ». L'annonce prévoyait d'ouvrir les vendredis, samedis et veilles de jours fériés, aux plus de 18 ans, et résumait sa philosophie en cinq mots commençant par un S : sensualité, séduction, savoir-vivre, simplicité, sécurité. Rien ne permet de dire si ce programme a été tenu, et le caractère libertin du lieu ne repose que sur cette annonce : au registre, la société déclarait une activité de discothèque, de dancing et de cabaret. Aucune source ne mentionne de spa, de sauna ni de jacuzzi.\n\nEn 2026, ce même annuaire présente encore La Maison Rose comme le seul établissement des Yvelines, plus de neuf ans après la liquidation. Pour ne pas faire la route sur la foi d'une fiche périmée, partez plutôt d'une soirée annoncée à une date précise : Wyylde, l'ex-Netéchangisme rebaptisé en 2018, tient [un agenda daté des soirées en club](aff:wyylde), consultable avec un compte gratuit."
+          "kind": "list",
+          "title": "Également annoncés",
+          "items": [
+            "Un bar ;",
+            "Des barres de pole dance sur la piste ;",
+            "Un fumoir ;",
+            "Des salons privés et des banquettes ;",
+            "Des soirées à thème et des « Show Hot »."
+          ]
+        },
+        {
+          "kind": "callout",
+          "tone": "info",
+          "body": "Rien ne permet de dire si ce programme a été tenu. Aucune source ne mentionne de spa, de sauna ni de jacuzzi."
         }
-      ]
+      ],
+      "sources": [
+        "s1",
+        "s2",
+        "s3",
+        "s6"
+      ],
+      "confidence": "source_unique"
     },
     {
-      "id": "2-rue-gustave-ravanne",
-      "title": "Quatre liquidations au 2 rue Gustave Ravanne entre 2008 et 2025",
+      "id": "regles-annoncees-2013",
+      "title": "Vendredis, samedis, tenue « sexy et glamour » : les règles annoncées en 2013",
+      "icon": "calendar",
+      "summary": "L'annonce prévoyait d'ouvrir les vendredis, samedis et veilles de fériés, aux plus de 18 ans, en tenue « sexy et glamour » pour elle, « chic » pour lui, sans publier de tarif.",
+      "blocks": [
+        {
+          "kind": "list",
+          "items": [
+            "**Jours** : les vendredis, samedis et veilles de jours fériés, sans heure précise.",
+            "**Âge** : plus de 18 ans.",
+            "**Tenue** : « sexy et glamour » pour elle, « chic » pour lui.",
+            "**Tarifs et accès** : rien de publié, ni pour les couples, ni pour les femmes seules, ni pour les hommes seuls.",
+            "**Philosophie** : sensualité, séduction, savoir-vivre, simplicité, sécurité, cinq mots commençant par un S."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le caractère libertin du lieu ne repose que sur cette annonce : au registre, la société déclarait une activité de discothèque, de dancing et de cabaret."
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Une fiche d'annuaire périmée",
+          "body": "En 2026, ce même annuaire présente encore La Maison Rose comme le seul établissement des Yvelines, plus de neuf ans après la liquidation."
+        },
+        {
+          "kind": "text",
+          "body": "Pour ne pas faire la route sur la foi d'une fiche périmée, partez plutôt d'une soirée annoncée à une date précise : Wyylde, l'ex-Netéchangisme rebaptisé en 2018, tient [un agenda daté des soirées en club](aff:wyylde), consultable avec un compte gratuit."
+        }
+      ],
       "sources": [
-        "s5",
+        "s1",
+        "s2",
+        "s4",
+        "s6"
+      ],
+      "confidence": "source_unique"
+    },
+    {
+      "id": "vip-lounge-2022",
+      "title": "VIP Lounge depuis août 2022 : un club dancing sans lien juridique avec La Maison Rose",
+      "icon": "building",
+      "summary": "Depuis août 2022, l'adresse est celle de VIP Lounge, société de bar et de club dancing sans lien juridique avec le club, en liquidation depuis septembre 2025.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "VIP Lounge s'est installée au 2 rue Gustave Ravanne en août 2022. Comme La Rose de Meulan en 2013, elle a déclaré la création d'un fonds : depuis 2008, le BODACC ne publie aucune vente de fonds entre les sociétés de cette adresse. Elle ne doit donc rien juridiquement à La Maison Rose."
+        },
+        {
+          "kind": "list",
+          "items": [
+            "**Activité déclarée** : bar, club dancing, événements, location de salles ; son objet ne mentionne aucune activité libertine.",
+            "**Direction** : son directeur général, une société d'enregistrement sonore et d'édition musicale, exploite l'enseigne « Empire du Kompa ». Nous en déduisons, sans preuve directe, que le lieu a plutôt servi à des soirées musicales.",
+            "**Procédure** : liquidation prononcée le 9 septembre 2025, toujours en cours en juin 2026.",
+            "**Au registre** : en octobre 2026, son établissement figure encore comme ouvert. Cela ne dit pas si le local reçoit du public, ce que nous ignorons."
+          ]
+        }
+      ],
+      "sources": [
         "s6",
-        "s9",
         "s10",
         "s11",
         "s12",
         "s13",
         "s14",
-        "s15",
-        "s16",
-        "s17",
-        "s18",
-        "s19",
         "s22"
-      ],
+      ]
+    },
+    {
+      "id": "2-rue-gustave-ravanne",
+      "title": "Quatre liquidations au 2 rue Gustave Ravanne entre 2008 et 2025",
+      "icon": "history",
+      "summary": "Six sociétés se sont succédé au n° 2 depuis 1996, dont quatre liquidées entre 2008 et 2025 ; rien ne prouve qu'elles aient toutes occupé la même salle.",
       "blocks": [
         {
           "kind": "table",
@@ -301,9 +458,27 @@
           ]
         },
         {
-          "kind": "text",
-          "body": "Depuis 2008, le BODACC ne publie aucune vente de fonds entre ces sociétés : La Rose de Meulan en 2013, puis VIP Lounge en 2022, ont chacune déclaré la création d'un fonds. VIP Lounge, installée en août 2022, ne doit donc rien juridiquement à La Maison Rose, et son objet ne mentionne aucune activité libertine. Son directeur général, une société d'enregistrement sonore et d'édition musicale, exploite l'enseigne « Empire du Kompa » : nous en déduisons, sans preuve directe, que le lieu a plutôt servi à des soirées musicales. Sa liquidation était toujours en cours en juin 2026 et, en octobre 2026, son établissement figure encore comme ouvert au registre : cela ne dit pas si le local reçoit du public, ce que nous ignorons.\n\nDeux réserves. Le n° 2 est un immeuble mixte, qui abrite au moins un logement, deux holdings et une entreprise individuelle de débit de boissons enregistrée depuis 2001 : rien ne prouve que toutes ces sociétés aient occupé la même salle. Et si Pink Club a eu un établissement à ce numéro de fin février à fin mars 2013, aucun document ne le relie à La Maison Rose, ouverte huit mois plus tard."
+          "kind": "list",
+          "title": "Deux réserves",
+          "items": [
+            "**Un immeuble mixte** : le n° 2 abrite au moins un logement, deux holdings et une entreprise individuelle de débit de boissons enregistrée depuis 2001. Rien ne prouve que toutes ces sociétés aient occupé la même salle.",
+            "**Pink Club** : cette société a eu un établissement à ce numéro de fin février à fin mars 2013, mais aucun document ne la relie à La Maison Rose, ouverte huit mois plus tard."
+          ]
         }
+      ],
+      "sources": [
+        "s5",
+        "s6",
+        "s9",
+        "s10",
+        "s12",
+        "s13",
+        "s15",
+        "s16",
+        "s17",
+        "s18",
+        "s19",
+        "s22"
       ]
     }
   ],

@@ -26,6 +26,27 @@
     ]
   },
   "lead": "Le Réservoir n'est pas un club échangiste mais un sauna gay, ouvert en janvier 2009 au 1 rue Charles Fourier et qui s'affiche aujourd'hui « LGBTQIA+ ». Il ne devient mixte, ouvert à « toute tendance », libertins et mélangistes compris, que le mardi et le samedi, de 13 h à 19 h ; les autres jours sont « masculins » et le mercredi est fermé. L'entrée coûte 18 €, serviettes et préservatifs compris.",
+  "glance": [
+    { "icon": "spa", "label": "Type de lieu", "value": "Sauna gay LGBTQIA+, pas un club échangiste" },
+    { "icon": "couple", "label": "Jours mixtes", "value": "Mardi et samedi seulement" },
+    { "icon": "clock", "label": "Horaires", "value": "13 h – 19 h, fermé le mercredi" },
+    { "icon": "euro", "label": "Entrée", "value": "18 € · 11 € moins de 25 ans sur justificatif", "confidence": "source_unique" },
+    { "icon": "ticket", "label": "Inclus dans l'entrée", "value": "Serviettes, gel douche, préservatifs", "confidence": "source_unique" },
+    { "icon": "history", "label": "Depuis", "value": "Janvier 2009, même adresse" }
+  ],
+  "audience": [
+    { "who": "couples", "status": "selon", "detail": "Mardi et samedi, 13 h – 19 h ; autres jours annoncés « masculins »", "price": "Pas de tarif couple affiché" },
+    { "who": "femmes", "status": "selon", "detail": "Mardi et samedi « toute tendance » ; le site ne cite pas les femmes seules", "price": "18 €" },
+    { "who": "hommes", "status": "oui", "detail": "Les six jours d'ouverture, « masculins » comme mixtes ; fermé le mercredi", "price": "18 € · 11 € moins de 25 ans" },
+    { "who": "trans", "status": "selon", "detail": "Cités par le site parmi le public des jours mixtes, mardi et samedi", "price": "18 €" }
+  ],
+  "highlights": [
+    "Couple ou libertin, venez un mardi ou un samedi : les autres jours sont annoncés « masculins » et le mercredi est fermé.",
+    "Fermeture à 19 h, samedi compris : prévoyez un après-midi, pas une soirée.",
+    "La grille ne prévoit pas de tarif couple : à deux, faites-vous confirmer le prix au 03 81 41 17 49.",
+    "Une personne ivre peut être refusée à l'entrée, selon le règlement intérieur mis à jour en avril 2025.",
+    "Pas d'enseigne en façade d'après un contributeur OpenStreetMap (janvier 2026), ce que le club n'a pas confirmé : repérez le numéro 1 de la rue Charles Fourier."
+  ],
   "keyFacts": [
     { "label": "Type de lieu", "value": "Sauna gay « LGBTQIA+ » : sauna, hammam, vidéo, cabines", "confidence": "confirme", "sources": ["s1", "s3", "s12"] },
     { "label": "Jours mixtes", "value": "Mardi et samedi, 13 h à 19 h, « toute tendance »", "confidence": "confirme", "sources": ["s1", "s7", "s13", "s17"] },
@@ -40,16 +61,31 @@
     {
       "id": "mixte-mardi-samedi",
       "title": "Un sauna gay, mixte seulement le mardi et le samedi",
+      "icon": "couple",
+      "summary": "Un sauna gay « LGBTQIA+ » qui n'accueille « toute tendance », libertins et mélangistes compris, que le mardi et le samedi, de 13 h à 19 h ; fermé le mercredi.",
       "blocks": [
         {
           "kind": "text",
-          "body": "Si vous cherchez un club libertin à Besançon, Le Réservoir n'en est pas un au sens habituel. Dès 2009, son site le décrivait comme un sauna gay ; la refonte de juin 2023 ajoute la mention « LGBTQIA+ », reprise dans la présentation de son compte Instagram. La page d'accueil, republiée le 14 septembre 2026, précise qui entre quel jour (le détail jour par jour n'apparaissait pas dans la version archivée de juin 2023, qui disait seulement « Mixte mardi/samedi ») :\n\n- **Mardi et samedi** : mixte, « toute tendance ». Le site cite libertins, mélangistes, hétéros, gays, bis, personnes trans et travestis.\n- **Lundi, jeudi, vendredi et dimanche** : « masculin ». Le site n'écrit pas que couples et femmes sont refusés, mais le terme le laisse entendre.\n- **Mercredi** : fermé."
+          "body": "Si vous cherchez un club libertin à Besançon, Le Réservoir n'en est pas un au sens habituel. Dès 2009, son site le décrivait comme un sauna gay. La refonte de juin 2023 ajoute la mention « LGBTQIA+ », reprise dans la présentation de son compte Instagram."
+        },
+        {
+          "kind": "list",
+          "title": "Qui entre quel jour, selon la page d'accueil republiée le 14 septembre 2026",
+          "items": [
+            "**Mardi et samedi** : mixte, « toute tendance ». Le site cite libertins, mélangistes, hétéros, gays, bis, personnes trans et travestis.",
+            "**Lundi, jeudi, vendredi et dimanche** : « masculin ». Le site n'écrit pas que couples et femmes sont refusés, mais le terme le laisse entendre.",
+            "**Mercredi** : fermé."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Ce détail jour par jour n'apparaissait pas dans la version archivée de juin 2023, qui disait seulement « Mixte mardi/samedi »."
         },
         {
           "kind": "callout",
           "tone": "warning",
           "title": "Pas de soirée : tout se joue entre 13 h et 19 h",
-          "body": "Le Réservoir ferme à 19 h, samedi compris : un couple doit prévoir un après-midi, pas une soirée. La version anglaise du site, figée depuis février 2024, annonce encore 20 h ; la page d'accueil française, plus récente, fait foi."
+          "body": "Fermeture à 19 h, samedi compris. La version anglaise du site, figée depuis février 2024, annonce encore 20 h : la page d'accueil française, plus récente, fait foi."
         },
         {
           "kind": "text",
@@ -61,10 +97,32 @@
     {
       "id": "soirees-doubs",
       "title": "Après 19 h : Saint-Vit, Châtillon-le-Duc et le reste du Doubs",
+      "icon": "map",
+      "summary": "Après 19 h, changez d'adresse : le Sauna Club LG à Besançon, puis des lieux à Châtillon-le-Duc, Saint-Vit, Audincourt et Sochaux, dont nous n'avons pas vérifié l'activité.",
       "blocks": [
         {
           "kind": "text",
-          "body": "Pour une soirée libertine, il faut quitter la rue Charles Fourier. L'annuaire sauna-club-libertin.com recense sept établissements dans le Doubs. À Besançon, notre annuaire n'en compte qu'un autre, le [Sauna Club LG](/sauna-club-lg-besancon) ; viennent ensuite [Love-Paradise](/love-paradise-chatillon-le-duc) à Châtillon-le-Duc, [Le Lady's](/le-lady-s-saint-vit) et [Le Maeva](/le-maeva-saint-vit) à Saint-Vit, puis des adresses à Audincourt et à Sochaux. Leur activité et leurs horaires n'ont pas été vérifiés pour cette fiche (lors de notre essai du 16 octobre 2026, le site commun aux deux adresses de Saint-Vit et celui du Sauna Club LG ne répondaient pas) : relisez leur page, ou [la liste des adresses du Doubs](/departement/doubs), avant de prendre la route.\n\nLe Réservoir fermant à 19 h, ceux qui veulent sortir après le dîner peuvent [éplucher les soirées en club listées par Wyylde](aff:wyylde), l'ancien Netéchangisme : l'agenda se consulte avec un compte gratuit, mais répondre aux messages exige un abonnement."
+          "body": "Pour une soirée libertine, il faut quitter la rue Charles Fourier. L'annuaire sauna-club-libertin.com recense sept établissements dans le Doubs."
+        },
+        {
+          "kind": "list",
+          "title": "Les autres adresses de notre annuaire",
+          "items": [
+            "**Besançon** : le [Sauna Club LG](/sauna-club-lg-besancon), seul autre lieu de la ville",
+            "**Châtillon-le-Duc** : [Love-Paradise](/love-paradise-chatillon-le-duc)",
+            "**Saint-Vit** : [Le Lady's](/le-lady-s-saint-vit) et [Le Maeva](/le-maeva-saint-vit)",
+            "**Audincourt et Sochaux** : d'autres adresses du département"
+          ]
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Activité non vérifiée",
+          "body": "Leur activité et leurs horaires n'ont pas été vérifiés pour cette fiche. Lors de notre essai du 16 octobre 2026, le site commun aux deux adresses de Saint-Vit et celui du Sauna Club LG ne répondaient pas : relisez leur page, ou [la liste des adresses du Doubs](/departement/doubs), avant de prendre la route."
+        },
+        {
+          "kind": "text",
+          "body": "Le Réservoir fermant à 19 h, ceux qui veulent sortir après le dîner peuvent [éplucher les soirées en club listées par Wyylde](aff:wyylde), l'ancien Netéchangisme : l'agenda se consulte avec un compte gratuit, mais répondre aux messages exige un abonnement."
         }
       ],
       "sources": ["s1", "s21"]
@@ -72,10 +130,28 @@
     {
       "id": "entree-18-euros",
       "title": "18 € l'entrée, serviettes, gel douche et préservatifs compris",
+      "icon": "euro",
+      "summary": "Prix unique de 18 € (11 € pour les moins de 25 ans sur justificatif), contre 15 € en 2009 ; la grille n'affiche ni tarif couple ni majoration le samedi.",
       "blocks": [
         {
           "kind": "text",
-          "body": "La page Tarifs, modifiée pour la dernière fois en septembre 2025, affiche un prix unique de 18 €, ou 11 € pour les moins de 25 ans sur justificatif. Serviettes de bain, gel douche, préservatifs et lubrifiant sont compris, et une douchette intime est à disposition. La grille ne prévoit ni tarif couple ni majoration le samedi : à deux, faites-vous confirmer le prix par téléphone."
+          "body": "La page Tarifs, modifiée pour la dernière fois en septembre 2025, affiche un prix unique de 18 €, ou 11 € pour les moins de 25 ans sur justificatif."
+        },
+        {
+          "kind": "list",
+          "title": "Compris dans l'entrée",
+          "items": [
+            "Serviettes de bain",
+            "Gel douche",
+            "Préservatifs et lubrifiant",
+            "Une douchette intime à disposition"
+          ]
+        },
+        {
+          "kind": "callout",
+          "tone": "tip",
+          "title": "À deux, appelez avant",
+          "body": "La grille ne prévoit ni tarif couple ni majoration le samedi : faites-vous confirmer le prix par téléphone."
         },
         {
           "kind": "table",
@@ -97,10 +173,24 @@
     {
       "id": "cabines-hammam-eucalyptus",
       "title": "Cabines, hammam et sauna à l'eucalyptus : ce que le site confirme",
+      "icon": "spa",
+      "summary": "Le site confirme cabines, hammam, sauna, espace vidéo et glory-hole ; bar, backrooms et coin SM ne sont cités que par un annuaire, sans confirmation.",
       "blocks": [
         {
+          "kind": "list",
+          "title": "Annoncés par le site officiel",
+          "items": [
+            "Des cabines « de différentes tailles et hauteurs »",
+            "Un hammam",
+            "Un sauna aux essences d'eucalyptus",
+            "Un espace vidéo",
+            "Un glory-hole",
+            "La vente de poppers et de sextoys sur place"
+          ]
+        },
+        {
           "kind": "text",
-          "body": "Le site annonce des cabines « de différentes tailles et hauteurs », un hammam, un sauna aux essences d'eucalyptus et un espace vidéo. La page Services cite aussi un glory-hole, sous une rubrique « Soins visage/corps » qu'elle signale elle-même comme de l'humour : aucun soin esthétique n'est proposé. Poppers et sextoys sont vendus sur place."
+          "body": "La page Services range le glory-hole sous une rubrique « Soins visage/corps » qu'elle signale elle-même comme de l'humour : aucun soin esthétique n'est proposé."
         },
         {
           "kind": "list",
@@ -114,7 +204,13 @@
         },
         {
           "kind": "text",
-          "body": "Cette liste vient d'une fiche non datée de sauna-club-libertin.com ; sans confirmation de l'établissement, nous ne la reprenons pas. Côté photos, la page Galerie du site renvoie vers celles de sa fiche Google Maps, que nous n'avons pas consultées."
+          "body": "Cette liste vient d'une fiche non datée de sauna-club-libertin.com ; sans confirmation de l'établissement, nous ne la reprenons pas."
+        },
+        {
+          "kind": "callout",
+          "tone": "info",
+          "title": "Photos",
+          "body": "La page Galerie du site renvoie vers les photos de sa fiche Google Maps, que nous n'avons pas consultées."
         }
       ],
       "sources": ["s1", "s3", "s8", "s20"]
@@ -122,10 +218,33 @@
     {
       "id": "reglement-prevention",
       "title": "Ivresse, drogue, prostitution : un règlement à exclusion définitive",
+      "icon": "shield",
+      "summary": "Le règlement d'avril 2025 autorise à refuser une personne ivre ; drogue, prostitution ou simple soupçon de vol valent exclusion définitive et remise à la police.",
       "blocks": [
         {
           "kind": "text",
-          "body": "Le règlement intérieur, mis à jour en avril 2025, permet de refuser une personne ivre ou susceptible de causer des troubles. La possession de stupéfiants, le fait de « monnayer ses services », et même un simple soupçon de vol ou de vandalisme, valent une exclusion définitive et une remise à la police.\n\nUne page entière traite de la prévention du VIH, des IST et des risques liés aux drogues. Elle oriente vers des structures bisontines (centre de santé sexuelle, CICS, CeGIDD Doubs-Jura de l'AHS Franche-Comté) et vers des ressources nationales, dont une fiche sur le chemsex et les CAARUD, centres de réduction des risques pour usagers de drogues."
+          "body": "Le règlement intérieur, mis à jour en avril 2025, permet de refuser une personne ivre ou susceptible de causer des troubles."
+        },
+        {
+          "kind": "list",
+          "title": "Exclusion définitive et remise à la police",
+          "items": [
+            "La possession de stupéfiants",
+            "Le fait de « monnayer ses services »",
+            "Un simple soupçon de vol ou de vandalisme"
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Une page entière du site traite de la prévention du VIH, des IST et des risques liés aux drogues."
+        },
+        {
+          "kind": "list",
+          "title": "Les ressources vers lesquelles elle oriente",
+          "items": [
+            "**À Besançon** : le centre de santé sexuelle, le CICS et le CeGIDD Doubs-Jura de l'AHS Franche-Comté",
+            "**Au niveau national** : plusieurs ressources, dont une fiche sur le chemsex et les CAARUD, centres de réduction des risques pour usagers de drogues"
+          ]
         }
       ],
       "sources": ["s4", "s5", "s8"]
@@ -133,6 +252,8 @@
     {
       "id": "rue-charles-fourier-depuis-2009",
       "title": "Dix-sept ans rue Charles Fourier, sans changement de nom ni d'exploitant",
+      "icon": "history",
+      "summary": "Même société (NIGLO), même enseigne, même adresse et même téléphone depuis le début d'activité, en janvier 2009 ; le site a été refondu en juin 2023.",
       "blocks": [
         {
           "kind": "text",

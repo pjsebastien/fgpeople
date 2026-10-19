@@ -36,6 +36,71 @@
     ]
   },
   "lead": "Le Before Sauna Club, que son site appelle « le B4 », change de public selon l'heure : sauna réservé aux hommes l'après-midi (sauf le jeudi), toutes tendances le soir et, le samedi, soirée libertine pour les couples, les femmes seules et dix hommes seuls au plus. Installé rue Gustave-Eiffel à Sainte-Luce-sur-Loire, aux portes de Nantes, il est exploité par la SAS ALPA, société créée en mars 2017, et se dit ouvert tous les jours de l'année. Le 16 octobre 2026, son agenda courait jusqu'au 31 octobre.",
+  "glance": [
+    {
+      "icon": "calendar",
+      "label": "Ouvert",
+      "value": "7 j/7, toute l'année, fériés compris"
+    },
+    {
+      "icon": "clock",
+      "label": "Après-midi",
+      "value": "100 % mecs dès 14 h (sauf jeudi)"
+    },
+    {
+      "icon": "users",
+      "label": "Le soir",
+      "value": "Toutes tendances, libertin le samedi"
+    },
+    {
+      "icon": "euro",
+      "label": "Entrée couple",
+      "value": "20 € (lun.-mer.) à 55 € (samedi)"
+    },
+    {
+      "icon": "spa",
+      "label": "Balnéo",
+      "value": "Sauna sec, hammam, jacuzzi à cascade"
+    },
+    {
+      "icon": "map",
+      "label": "Adresse",
+      "value": "13 rue Gustave Eiffel, Sainte-Luce"
+    }
+  ],
+  "audience": [
+    {
+      "who": "couples",
+      "status": "oui",
+      "detail": "Chaque soir, dès midi le jeudi ; samedi soirée libertine dès 20 h",
+      "price": "20 à 55 €"
+    },
+    {
+      "who": "femmes",
+      "status": "oui",
+      "detail": "Tous les soirs au même prix, jeudi dès midi, samedi libertin dès 20 h",
+      "price": "10 €"
+    },
+    {
+      "who": "hommes",
+      "status": "selon",
+      "detail": "Après-midi 100 % mecs (12 ou 18 €) ; le soir « sélectionnés », 10 max le samedi",
+      "price": "40 à 60 € le soir"
+    },
+    {
+      "who": "trans",
+      "status": "selon",
+      "detail": "Catégorie dédiée sur chaque grille toutes tendances ; samedi libertin non précisé",
+      "price": "15 €"
+    }
+  ],
+  "highlights": [
+    "Samedi soir : dix hommes seuls au plus, admis dès 21 h et « sélectionnés » ; nos sources ne disent pas s'il faut réserver.",
+    "Selon la page dress code, jogging, tee-shirt et baskets de sport sont refusés aux hommes, pantalon classique aux femmes ; on se change au vestiaire.",
+    "Portable strictement interdit à l'intérieur : un rendez-vous avec d'autres libertins se cale avant d'entrer.",
+    "Samedi, repas chaud et cocktail offerts aux premiers arrivés : venez avant 21 h 30, l'heure limite variant d'une page du site à l'autre.",
+    "Hors samedi, le billet de l'après-midi vaut pour la soirée sans supplément, en tenue de ville."
+  ],
   "keyFacts": [
     {
       "label": "Exploitant",
@@ -132,16 +197,26 @@
     {
       "id": "hommes-toutes-tendances-libertins",
       "title": "Hommes à 14 h, toutes tendances à 18 h, libertins le samedi à 20 h",
+      "icon": "clock",
+      "summary": "Un même lieu dont les règles changent selon l'heure : réservé aux hommes l'après-midi sauf le jeudi, toutes tendances le soir, libertin le samedi soir.",
       "blocks": [
         {
           "kind": "text",
-          "body": "Le site officiel affiche deux étiquettes, « sauna gay » et « club libertin, toutes tendances ». Ce ne sont pas deux salles mais un même lieu dont les règles changent dans la journée : réservé aux hommes l'après-midi (« 100 % mecs », dit le club), sauf le jeudi, il passe le soir en toutes tendances (TTC), ouvert aux couples, aux femmes, aux hommes et aux personnes transgenres. Le samedi soir est le seul créneau que les grilles intitulent « Libertins »."
+          "body": "Le site officiel affiche deux étiquettes, « sauna gay » et « club libertin, toutes tendances ». Ce ne sont pas deux salles mais un même lieu dont les règles changent dans la journée."
+        },
+        {
+          "kind": "list",
+          "items": [
+            "**L'après-midi**, sauf le jeudi : réservé aux hommes, « 100 % mecs », dit le club.",
+            "**Le soir** : toutes tendances (TTC), ouvert aux couples, aux femmes, aux hommes et aux personnes transgenres.",
+            "**Le samedi soir** : le seul créneau que les grilles intitulent « Libertins »."
+          ]
         },
         {
           "kind": "callout",
           "tone": "tip",
           "title": "Passer de l'après-midi à la soirée",
-          "body": "Hors samedi, le billet de l'après-midi permet de rester jusqu'à la fermeture sans supplément, en tenue de ville pour la soirée. Le samedi, la grille s'arrête à 19 h pour les hommes et reprend à 20 h pour les libertins, sans dire si l'on peut rester entre les deux. Les entrées « 100 % mecs » ferment trente minutes avant le passage en toutes tendances."
+          "body": "Hors samedi, le billet de l'après-midi permet de rester jusqu'à la fermeture sans supplément, en tenue de ville pour la soirée. Le samedi, la grille s'arrête à 19 h pour les hommes et reprend à 20 h pour les libertins, sans dire si l'on peut rester entre les deux.\n\nLes entrées « 100 % mecs » ferment trente minutes avant le passage en toutes tendances."
         },
         {
           "kind": "text",
@@ -161,10 +236,20 @@
     {
       "id": "samedi-soir-libertin",
       "title": "Samedi libertin : 55 € le couple, dix hommes seuls admis après 21 h",
+      "icon": "couple",
+      "summary": "Couples et femmes seules dès 20 h, dix hommes seuls au plus dès 21 h, tenue de soirée exigée ; repas chaud et cocktail offerts aux premiers arrivés.",
       "blocks": [
         {
           "kind": "text",
-          "body": "La page « Ambiance libertins » réserve le samedi soir aux couples, aux femmes seules et à dix hommes seuls. Les portes ouvrent à 20 h, à 21 h pour les hommes seuls, que la grille plafonne à dix et que les fiches d'octobre 2026 disent « sélectionnés ». La tenue de soirée est exigée. Un DJ anime la soirée ; repas chaud et cocktail de bienvenue sont offerts aux premiers arrivés."
+          "body": "La page « Ambiance libertins » réserve le samedi soir aux couples, aux femmes seules et à dix hommes seuls. La tenue de soirée est exigée, et un DJ anime la soirée."
+        },
+        {
+          "kind": "list",
+          "items": [
+            "**20 h** : ouverture des portes aux couples et aux femmes seules.",
+            "**21 h** : entrée des hommes seuls, que la grille plafonne à dix et que les fiches d'octobre 2026 disent « sélectionnés ».",
+            "**Premiers arrivés** : repas chaud et cocktail de bienvenue offerts."
+          ]
         },
         {
           "kind": "callout",
@@ -174,7 +259,7 @@
         },
         {
           "kind": "text",
-          "body": "Chaque week-end libertin a son thème et son décor, selon un billet du blog de janvier 2023. En octobre 2026 : « Capes & masques » le 17, « Nuit des anniversaires » le 24, avec des offres sur présentation d'une pièce d'identité, et « Halloween sexy night » le 31. La Nuit des anniversaires est mensuelle : ses fiches, numérotées jusqu'à 61, tombent le dernier samedi du mois depuis au moins février 2025 (n° 40 le 22 février 2025, n° 50 le 27 décembre 2025), sauf en octobre 2026, où Halloween occupe le 31 et la repousse au 24.\n\nLe quota pèse sur les hommes seuls : nos sources ne disent ni s'il faut réserver, ni si un homme venu avec un couple compte parmi les dix. Pour un couple ou une femme seule qui préfère arriver en ayant déjà échangé avec d'autres libertins de la région, [les annonces des couples de Loire-Atlantique sur Carré Libertin](aff:carre-libertin) montrent ce que chacun cherche avant qu'on écrive ; le site, ouvert en 2007, est entièrement gratuit pour les femmes et les couples qui publient trois photos de profil."
+          "body": "Le quota pèse sur les hommes seuls : nos sources ne disent ni s'il faut réserver, ni si un homme venu avec un couple compte parmi les dix.\n\nPour un couple ou une femme seule qui préfère arriver en ayant déjà échangé avec d'autres libertins de la région, [les annonces des couples de Loire-Atlantique sur Carré Libertin](aff:carre-libertin) montrent ce que chacun cherche avant qu'on écrive ; le site, ouvert en 2007, est entièrement gratuit pour les femmes et les couples qui publient trois photos de profil."
         }
       ],
       "sources": [
@@ -189,14 +274,43 @@
     {
       "id": "jeudi-vendredi-dimanche-ttc",
       "title": "Jeudi non-stop de midi à 2 h, vendredi « mixte » à 35 € le couple",
+      "icon": "calendar",
+      "summary": "Du lundi au mercredi dès 18 h (20 € le couple), le jeudi sans coupure de midi à 2 h, le vendredi en soirée « mixte », le dimanche dès 18 h.",
       "blocks": [
         {
-          "kind": "text",
-          "body": "- **Lundi à mercredi**, de 18 h à 1 h : la formule la moins chère, 20 € pour un couple.\n- **Jeudi**, de midi à 2 h sans coupure, avec un DJ set chaque semaine en soirée. Une fiche de décembre 2025 y annonçait un après-midi gang-bang, sur contact préalable avec le club.\n- **Vendredi**, de 18 h à 2 h, 35 € le couple et 50 € l'homme seul : la page libertine en fait une soirée « mixte », avec « un peu plus d'hommes seuls », triés et dosés selon la clientèle déjà présente.\n- **Dimanche**, dès 18 h, les hommes seuls libertins étant admis à partir de 18 h 30.\n\nLa sélection ne vaut pas que pour le vendredi : chaque fiche de soirée d'octobre 2026, jeudi et samedi compris, précise « hommes seuls sélectionnés », sans dire sur quels critères. Les vendredis d'octobre 2026 s'intitulaient « Vendredi sexy » (16), « La nuit des trios » (23) et « Noche de los muertos » (30). L'heure du cocktail offert varie : de 20 h à 22 h sur la grille, de 18 h à 20 h sur les fiches des 16 et 23 octobre."
+          "kind": "table",
+          "caption": "Les soirées toutes tendances, hors samedi",
+          "headers": [
+            "Soir",
+            "Horaires",
+            "À retenir"
+          ],
+          "rows": [
+            [
+              "Lundi à mercredi",
+              "18 h – 1 h",
+              "La formule la moins chère : 20 € le couple"
+            ],
+            [
+              "Jeudi",
+              "12 h – 2 h, sans coupure",
+              "DJ set chaque semaine en soirée"
+            ],
+            [
+              "Vendredi",
+              "18 h – 2 h",
+              "Soirée « mixte » : 35 € le couple, 50 € l'homme seul"
+            ],
+            [
+              "Dimanche",
+              "18 h – 2 h",
+              "Hommes seuls libertins admis à partir de 18 h 30"
+            ]
+          ]
         },
         {
           "kind": "text",
-          "body": "Wyylde a déjà servi à réserver un événement du B4 : en février 2026, la fiche du « sexescape game » proposait de réserver auprès de l'organisatrice, une intervenante extérieure, par message privé sur ce site. [La messagerie et l'agenda de l'ex-Netéchangisme](aff:wyylde), rebaptisé Wyylde en 2018, s'ouvrent avec un compte gratuit, mais répondre aux messages exige un abonnement. Nos sources ne disent pas si le B4 y inscrit lui-même ses dates."
+          "body": "Le vendredi, la page libertine annonce « un peu plus d'hommes seuls », triés et dosés selon la clientèle déjà présente. La sélection ne vaut pas que ce soir-là : chaque fiche de soirée d'octobre 2026, jeudi et samedi compris, précise « hommes seuls sélectionnés », sans dire sur quels critères.\n\nUne fiche de décembre 2025 annonçait un après-midi gang-bang le jeudi, sur contact préalable avec le club."
         }
       ],
       "sources": [
@@ -208,12 +322,91 @@
       ]
     },
     {
-      "id": "apres-midi-100-mecs",
-      "title": "Après-midi 100 % mecs : 12 € avant 30 ans, naturiste le dimanche",
+      "id": "soirees-octobre-2026",
+      "title": "Capes & masques, nuit des trios, Halloween : les soirées d'octobre 2026",
+      "icon": "mask",
+      "summary": "Chaque week-end libertin a son thème : « Vendredi sexy » le 16 octobre 2026, « Capes & masques » le 17, Nuit des anniversaires le 24, Halloween le 31.",
       "blocks": [
         {
           "kind": "text",
-          "body": "Le versant gay occupe chaque après-midi sauf le jeudi, de 14 h à 18 h (19 h le samedi). L'entrée coûte 12 € de 18 à 29 ans, 18 € au-delà. Le dimanche après-midi est naturiste : serviette fournie sur demande, affaires au vestiaire.\n\nLa grille fixe quatre rendez-vous mensuels : Fetish le 2e samedi, Underwear le 4e, Mousse le 1er dimanche, Bears le 3e. En octobre 2026, l'agenda annonçait un après-midi Bears le 18 et « Le bal des pompeurs » le 25.\n\nLe club se dit « acteur au quotidien » de la vie LGBTQIA+ : une photo de son blog le montre à la Marche des fiertés de Nantes en 2022, un char décoré était annoncé pour celle du 10 juin 2023, et sa page de partenaires cite Wag, Bearwww, Jock Life et MMensuel. Notre annuaire recense aussi [le Steamer, sauna gay nantais](/le-steamer-nantes), à un peu plus de 7 km à vol d'oiseau, dont la fiche n'a pas encore été vérifiée."
+          "body": "Chaque week-end libertin a son thème et son décor, selon un billet du blog de janvier 2023."
+        },
+        {
+          "kind": "table",
+          "caption": "L'agenda du club pour octobre 2026",
+          "headers": [
+            "Date",
+            "Soirée"
+          ],
+          "rows": [
+            [
+              "Vendredi 16",
+              "« Vendredi sexy »"
+            ],
+            [
+              "Samedi 17",
+              "« Capes & masques »"
+            ],
+            [
+              "Vendredi 23",
+              "« La nuit des trios »"
+            ],
+            [
+              "Samedi 24",
+              "« Nuit des anniversaires », avec des offres sur présentation d'une pièce d'identité"
+            ],
+            [
+              "Vendredi 30",
+              "« Noche de los muertos »"
+            ],
+            [
+              "Samedi 31",
+              "« Halloween sexy night »"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "La Nuit des anniversaires est mensuelle : ses fiches, numérotées jusqu'à 61, tombent le dernier samedi du mois depuis au moins février 2025 (n° 40 le 22 février 2025, n° 50 le 27 décembre 2025). En octobre 2026, Halloween occupe le 31 et la repousse au 24.\n\nLe vendredi, l'heure du cocktail offert varie : de 20 h à 22 h sur la grille, de 18 h à 20 h sur les fiches des 16 et 23 octobre."
+        },
+        {
+          "kind": "text",
+          "body": "Wyylde a déjà servi à réserver un événement du B4 : en février 2026, la fiche du « sexescape game » proposait de réserver auprès de l'organisatrice, une intervenante extérieure, par message privé sur ce site.\n\n[La messagerie et l'agenda de l'ex-Netéchangisme](aff:wyylde), rebaptisé Wyylde en 2018, s'ouvrent avec un compte gratuit, mais répondre aux messages exige un abonnement. Nos sources ne disent pas si le B4 y inscrit lui-même ses dates."
+        }
+      ],
+      "sources": [
+        "s3",
+        "s5",
+        "s6",
+        "s16",
+        "s17",
+        "s18",
+        "s20"
+      ]
+    },
+    {
+      "id": "apres-midi-100-mecs",
+      "title": "Après-midi 100 % mecs : 12 € avant 30 ans, naturiste le dimanche",
+      "icon": "users",
+      "summary": "Chaque après-midi sauf le jeudi, de 14 h à 18 h (19 h le samedi) : 12 € de 18 à 29 ans, 18 € au-delà ; le dimanche, l'après-midi est naturiste.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le versant gay occupe chaque après-midi sauf le jeudi, de 14 h à 18 h (19 h le samedi). L'entrée coûte 12 € de 18 à 29 ans, 18 € au-delà. Le dimanche après-midi est naturiste : serviette fournie sur demande, affaires au vestiaire."
+        },
+        {
+          "kind": "list",
+          "title": "Quatre rendez-vous mensuels sur la grille",
+          "items": [
+            "**Fetish** : 2e samedi du mois.",
+            "**Underwear** : 4e samedi.",
+            "**Mousse** : 1er dimanche.",
+            "**Bears** : 3e dimanche."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "En octobre 2026, l'agenda annonçait un après-midi Bears le 18 et « Le bal des pompeurs » le 25.\n\nLe club se dit « acteur au quotidien » de la vie LGBTQIA+ : une photo de son blog le montre à la Marche des fiertés de Nantes en 2022, et un char décoré était annoncé pour celle du 10 juin 2023. Sa page de partenaires cite Wag, Bearwww, Jock Life et MMensuel.\n\nNotre annuaire recense aussi [le Steamer, sauna gay nantais](/le-steamer-nantes), à un peu plus de 7 km à vol d'oiseau, dont la fiche n'a pas encore été vérifiée."
         }
       ],
       "sources": [
@@ -227,12 +420,94 @@
       ]
     },
     {
-      "id": "balneo-et-espaces",
-      "title": "Sauna sec, bassin à cascade, hammam : ce que montrent les 44 photos du club",
+      "id": "tenue-et-charte",
+      "title": "Chemise ou polo, jogging refusé, portable interdit : les règles d'entrée",
+      "icon": "shield",
+      "summary": "Selon la page dress code, chemise ou polo pour les hommes, robe, jupe ou lingerie pour les femmes, jogging et baskets de sport refusés ; portable interdit.",
       "blocks": [
         {
           "kind": "text",
-          "body": "Le club se dit « le plus grand sauna club de l'Ouest », avec plus de 750 m². Aucune source indépendante ne le confirme, et la fiche du SNEG & Co, selon toute vraisemblance écrite à l'ouverture (« le tout nouveau sauna de Nantes »), indique 550 m² : agrandissement ou autre mode de calcul, on ne sait pas.\n\nLa page « Visiter le club » compte 44 photos en cinq galeries : entrée et vestiaires (7), bar et salons (8), terrasse et jardin (7), balnéo (6), coins câlins (16). Celles de la balnéo montrent un sauna sec à gradins de bois, un grand bassin bouillonnant à cascade, des douches collectives, une salle carrelée à banquettes de type hammam et un salon avec mur de projection vidéo. Sauna, hammam et jacuzzi figurent aussi dans l'activité déclarée en 2017 et sur la fiche du SNEG. La page de visite annonce en outre des « coins câlins, cabines et backroom ». Une consigne de mars 2022, toujours en ligne, mentionne casier à clé, serviettes, paréos et tongs fournis : à confirmer sur place."
+          "body": "Le dress code vaut pour les soirées libertines et toutes tendances. On peut se changer au vestiaire ; les hôtes de l'entrée peuvent refuser une tenue."
+        },
+        {
+          "kind": "list",
+          "title": "Hommes",
+          "items": [
+            "**Admis** : chemise, polo ou chemisette, chino, costume ou jean propre non troué, chaussures de ville ou baskets habillées.",
+            "**Selon l'appréciation de l'accueil** : kilt, tenue fétichiste.",
+            "**Refusés** : jogging, cargo, tee-shirt, pull, baskets de sport."
+          ]
+        },
+        {
+          "kind": "list",
+          "title": "Femmes",
+          "items": [
+            "**Admis** : lingerie, robe ou jupe sexy, talons, combinaison transparente ou en dentelle.",
+            "**Refusés** : pantalon classique, baskets, sandales, ballerines, sauf contre-indication médicale."
+          ]
+        },
+        {
+          "kind": "callout",
+          "tone": "tip",
+          "title": "Toutes tendances : une consigne plus souple",
+          "body": "La page « Ambiance toutes tendances » admet tee-shirt et short habillés pour les hommes, pantalon sexy ou mini-short « portés avec classe » pour les femmes, mais ni jean ni survêtement pour elles. Le site ne dit pas laquelle prévaut ; s'en tenir à la plus stricte évite un refus à l'entrée."
+        },
+        {
+          "kind": "list",
+          "title": "La charte du B4",
+          "items": [
+            "**Portable strictement interdit**, par respect pour la vie privée des clients.",
+            "**Préservatifs** au bar et dans tous les espaces.",
+            "**Consentement** : « Tout est permis, rien n'est obligatoire ».",
+            "**Stupéfiants et prostitution** proscrits."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Faute de téléphone à l'intérieur, un rendez-vous avec un autre couple ou une personne seule se cale avant d'entrer, par exemple sur [un réseau libertin aux photos modérées une à une](aff:gleese).\n\nSur Gleese, site français lancé fin 2024, on s'inscrit sans carte bancaire et chaque profil est vérifié par téléphone, mais le nombre de membres y reste loin de celui de Wyylde."
+        }
+      ],
+      "sources": [
+        "s5",
+        "s8",
+        "s9"
+      ]
+    },
+    {
+      "id": "balneo-et-espaces",
+      "title": "Sauna sec, bassin à cascade, hammam : ce que montrent les 44 photos du club",
+      "icon": "spa",
+      "summary": "Sauna sec, bassin bouillonnant à cascade, hammam et douches, plus coins câlins, cabines et backroom ; 750 m² selon le club, 550 m² selon le SNEG & Co.",
+      "blocks": [
+        {
+          "kind": "list",
+          "title": "La page « Visiter le club » : 44 photos en cinq galeries",
+          "items": [
+            "Entrée et vestiaires (7)",
+            "Bar et salons (8)",
+            "Terrasse et jardin (7)",
+            "Balnéo (6)",
+            "Coins câlins (16)"
+          ]
+        },
+        {
+          "kind": "list",
+          "title": "Ce que montrent les photos de la balnéo",
+          "items": [
+            "Un sauna sec à gradins de bois.",
+            "Un grand bassin bouillonnant à cascade.",
+            "Des douches collectives.",
+            "Une salle carrelée à banquettes, de type hammam.",
+            "Un salon avec mur de projection vidéo."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Sauna, hammam et jacuzzi figurent aussi dans l'activité déclarée en 2017 et sur la fiche du SNEG. La page de visite annonce en outre des « coins câlins, cabines et backroom ».\n\nUne consigne de mars 2022, toujours en ligne, mentionne casier à clé, serviettes, paréos et tongs fournis : à confirmer sur place."
+        },
+        {
+          "kind": "text",
+          "body": "Le club se dit « le plus grand sauna club de l'Ouest », avec plus de 750 m². Aucune source indépendante ne le confirme, et la fiche du SNEG & Co, selon toute vraisemblance écrite à l'ouverture (« le tout nouveau sauna de Nantes »), indique 550 m² : agrandissement ou autre mode de calcul, on ne sait pas."
         },
         {
           "kind": "callout",
@@ -254,10 +529,58 @@
     {
       "id": "carte-du-bar",
       "title": "Pression maison « La B4 » à 4 €, tartiflette ou lasagnes de 12 à 15 €",
+      "icon": "drink",
+      "summary": "La carte, non datée, va au-delà du comptoir : pression maison à 4 €, cocktails à 12 €, plats familiaux de 12 à 15 €, pizzas de 12 à 14 €.",
       "blocks": [
         {
           "kind": "text",
-          "body": "La carte, un PDF non daté, va au-delà du comptoir. Au verre : pression maison « La B4 » (4 € les 25 cl, 7 € les 50 cl), cocktails à 12 €, cocktails sans alcool à 10 €, « Champagne B4 » et bouteilles jusqu'au Dom Pérignon. À l'assiette : croque-monsieur à 8 €, plats familiaux de 12 à 15 € (coquillettes au jambon, tartiflette, parmentier de canard, lasagnes), pizzas de 12 à 14 €, salades à 12 €, planche à 15 € et nouvelles « boîtes chaudes ». Le vendredi et le dimanche soir, on mange à la carte.\n\nUn espace peut être privatisé pour un anniversaire ou un mariage, cocktail dînatoire et gâteau compris, sur devis."
+          "body": "La carte, un PDF non daté, va au-delà du comptoir. Le vendredi et le dimanche soir, on mange à la carte."
+        },
+        {
+          "kind": "table",
+          "caption": "Extraits de la carte (PDF non daté)",
+          "headers": [
+            "À la carte",
+            "Prix"
+          ],
+          "rows": [
+            [
+              "Pression maison « La B4 »",
+              "4 € les 25 cl, 7 € les 50 cl"
+            ],
+            [
+              "Cocktail",
+              "12 €"
+            ],
+            [
+              "Cocktail sans alcool",
+              "10 €"
+            ],
+            [
+              "Croque-monsieur",
+              "8 €"
+            ],
+            [
+              "Plat familial : coquillettes au jambon, tartiflette, parmentier de canard, lasagnes",
+              "12 à 15 €"
+            ],
+            [
+              "Pizza",
+              "12 à 14 €"
+            ],
+            [
+              "Salade",
+              "12 €"
+            ],
+            [
+              "Planche",
+              "15 €"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "La carte propose aussi un « Champagne B4 », des bouteilles jusqu'au Dom Pérignon et de nouvelles « boîtes chaudes ».\n\nUn espace peut être privatisé pour un anniversaire ou un mariage, cocktail dînatoire et gâteau compris, sur devis."
         }
       ],
       "sources": [
@@ -266,31 +589,74 @@
       ]
     },
     {
-      "id": "tenue-et-charte",
-      "title": "Chemise ou polo, jogging refusé, portable interdit : les règles d'entrée",
+      "id": "acces-hotels-clubs-voisins",
+      "title": "Tram 1 puis bus 85 ou 87, Ibis Budget à moins de 500 m",
+      "icon": "map",
+      "summary": "13 rue Gustave Eiffel à Sainte-Luce-sur-Loire ; depuis Nantes, tram 1 puis bus 85 ou 87 ; pas d'hébergement sur place, un Ibis Budget à moins de 500 m.",
       "blocks": [
         {
-          "kind": "text",
-          "body": "Le dress code vaut pour les soirées libertines et toutes tendances.\n\n- **Hommes** : chemise, polo ou chemisette, chino, costume ou jean propre non troué, chaussures de ville ou baskets habillées ; kilt et tenue fétichiste selon l'appréciation de l'accueil. Refusés : jogging, cargo, tee-shirt, pull, baskets de sport.\n- **Femmes** : lingerie, robe ou jupe sexy, talons, combinaison transparente ou en dentelle. Refusés : pantalon classique, baskets, sandales, ballerines, sauf contre-indication médicale.\n\nOn peut se changer au vestiaire ; les hôtes de l'entrée peuvent refuser une tenue.\n\nLa page « Ambiance toutes tendances » est plus souple : tee-shirt et short habillés admis pour les hommes, pantalon sexy ou mini-short « portés avec classe » pour les femmes, mais ni jean ni survêtement pour elles. Le site ne dit pas laquelle prévaut ; s'en tenir à la plus stricte évite un refus à l'entrée."
+          "kind": "list",
+          "items": [
+            "**Adresse** : 13 rue Gustave Eiffel, 44980 Sainte-Luce-sur-Loire, partagée au registre avec un coiffeur, un courtier et des sociétés immobilières.",
+            "**Téléphone** : 02 28 34 45 28.",
+            "**Courriel** : communication.b4club@gmail.com."
+          ]
+        },
+        {
+          "kind": "table",
+          "caption": "Depuis Nantes sans voiture, selon la page « Accès » du club",
+          "headers": [
+            "Trajet",
+            "Arrêt",
+            "À pied"
+          ],
+          "rows": [
+            [
+              "Tram 1 direction Beaujoire jusqu'à Haluchère, puis bus 85",
+              "Sercel",
+              "5 minutes"
+            ],
+            [
+              "Tram 1 jusqu'à Mairie de Doulon, puis bus 87",
+              "Moulin des Landes",
+              "1 minute"
+            ]
+          ]
         },
         {
           "kind": "text",
-          "body": "La charte interdit strictement le portable, par respect pour la vie privée des clients. Préservatifs au bar et dans tous les espaces, consentement résumé par la formule « Tout est permis, rien n'est obligatoire », stupéfiants et prostitution proscrits.\n\nFaute de téléphone à l'intérieur, un rendez-vous avec un autre couple ou une personne seule se cale avant d'entrer, par exemple sur [un réseau libertin aux photos modérées une à une](aff:gleese). Sur Gleese, site français lancé fin 2024, on s'inscrit sans carte bancaire et chaque profil est vérifié par téléphone, mais le nombre de membres y reste loin de celui de Wyylde."
+          "body": "La page n'est pas datée : vérifiez les lignes sur le réseau TAN."
+        },
+        {
+          "kind": "list",
+          "title": "Pas d'hébergement sur place : les hôtels conseillés par le club",
+          "items": [
+            "Ibis Budget, à moins de 500 m.",
+            "Inn Design, à moins d'un kilomètre.",
+            "Appart'City, à moins d'un kilomètre."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Notre annuaire compte d'autres adresses alentour, dont les fiches n'ont pas encore été vérifiées comme celle-ci (distances à vol d'oiseau) :\n- [Le Guili's Club, à Carquefou](/guili-s-club-carquefou), à moins de 3 km ;\n- [L'Orchidée Noire](/l-orchidee-noire-nantes), à Nantes, à environ 7,7 km ;\n- [le 901 à Saint-Nazaire](/le-901-saint-nazaire), plus loin, à quelque 55 km, recensé comme sauna gay et libertin.\n\nLe reste est sur [la page Loire-Atlantique](/departement/loire-atlantique)."
         }
       ],
       "sources": [
-        "s5",
-        "s8",
-        "s9"
+        "s12",
+        "s13",
+        "s23",
+        "s25"
       ]
     },
     {
       "id": "histoire-sas-alpa",
       "title": "De Couëron à la rue Gustave-Eiffel : le B4 depuis mars 2017",
+      "icon": "history",
+      "summary": "Un fonds créé, et non repris, par la SAS ALPA en mars 2017 ; la date d'ouverture au public n'est écrite nulle part, l'anniversaire tombe à la mi-septembre.",
       "blocks": [
         {
           "kind": "text",
-          "body": "Le B4 n'a repris aucun établissement : le BODACC enregistre un fonds créé par la SAS ALPA, active depuis le 4 mars 2017 avec un siège à Couëron, l'enseigne B4 déjà déclarée et pour objet le sauna, le spa, le hammam et le jacuzzi.\n\nLa date d'ouverture au public n'est écrite nulle part : établissement créé le 1er avril 2017 selon le registre, transfert du siège publié en octobre, anniversaire fêté à la mi-septembre. Une ouverture à la rentrée 2017 est plausible, pas démontrée."
+          "body": "Le B4 n'a repris aucun établissement : le BODACC enregistre un fonds créé par la SAS ALPA, l'enseigne B4 déjà déclarée, avec pour objet le sauna, le spa, le hammam et le jacuzzi."
         },
         {
           "kind": "timeline",
@@ -322,8 +688,10 @@
           ]
         },
         {
-          "kind": "text",
-          "body": "Sur la page de l'équipe, non datée, les deux créateurs du lieu se présentent par leurs prénoms, Alain et Patrice, et disent l'avoir « rêvé et imaginé » ensemble ; le second revendique vingt-cinq ans de nuits nantaises, « du Petit Marais à l'Aqua ». Le registre place l'entreprise dans la tranche de 6 à 9 salariés en 2024. Une chargée de communication indépendante gère les réseaux, la lettre d'information et les échanges sur des sites de rencontre que le club ne nomme pas ; côté libertin, sa page de partenaires cite le site Libertic et la boutique Oh Darling. Le SNEG & Co, syndicat professionnel, le compte parmi ses adhérents depuis 2017, et la SAS ALPA dépose ses comptes chaque année depuis 2018, sous déclaration de confidentialité."
+          "kind": "callout",
+          "tone": "info",
+          "title": "Ouvert au public à la rentrée 2017 ?",
+          "body": "La date d'ouverture au public n'est écrite nulle part : établissement créé le 1er avril 2017 selon le registre, transfert du siège publié en octobre, anniversaire fêté à la mi-septembre. Une ouverture à la rentrée 2017 est plausible, pas démontrée."
         }
       ],
       "sources": [
@@ -339,23 +707,36 @@
       ]
     },
     {
-      "id": "acces-hotels-clubs-voisins",
-      "title": "Tram 1 puis bus 85 ou 87, Ibis Budget à moins de 500 m",
+      "id": "equipe-alain-patrice",
+      "title": "Alain et Patrice aux commandes, de 6 à 9 salariés en 2024",
+      "icon": "building",
+      "summary": "Deux créateurs, Alain et Patrice, de 6 à 9 salariés en 2024, une chargée de communication indépendante et une adhésion au SNEG & Co depuis 2017.",
       "blocks": [
         {
           "kind": "text",
-          "body": "Adresse : 13 rue Gustave Eiffel, 44980 Sainte-Luce-sur-Loire, partagée au registre avec un coiffeur, un courtier et des sociétés immobilières. Téléphone : 02 28 34 45 28 ; courriel : communication.b4club@gmail.com.\n\nDepuis Nantes sans voiture, le club indique deux trajets : tram 1 direction Beaujoire jusqu'à Haluchère, puis bus 85 jusqu'à Sercel (cinq minutes à pied) ; ou tram 1 jusqu'à Mairie de Doulon, puis bus 87 jusqu'à Moulin des Landes (une minute). La page n'est pas datée : vérifiez les lignes sur le réseau TAN.\n\nPas d'hébergement sur place ; le club conseille un Ibis Budget à moins de 500 m, un Inn Design et un Appart'City à moins d'un kilomètre."
+          "body": "Sur la page de l'équipe, non datée, les deux créateurs du lieu se présentent par leurs prénoms, Alain et Patrice, et disent l'avoir « rêvé et imaginé » ensemble. Le second revendique vingt-cinq ans de nuits nantaises, « du Petit Marais à l'Aqua »."
         },
         {
-          "kind": "text",
-          "body": "Notre annuaire compte d'autres adresses alentour, dont les fiches n'ont pas encore été vérifiées comme celle-ci (distances à vol d'oiseau) : [le Guili's Club, à Carquefou](/guili-s-club-carquefou), à moins de 3 km, et [L'Orchidée Noire](/l-orchidee-noire-nantes), à Nantes, à environ 7,7 km. Plus loin, [le 901 à Saint-Nazaire](/le-901-saint-nazaire), à quelque 55 km, y figure aussi comme sauna gay et libertin. Le reste est sur [la page Loire-Atlantique](/departement/loire-atlantique)."
+          "kind": "list",
+          "items": [
+            "**Effectif** : de 6 à 9 salariés en 2024, selon le registre.",
+            "**Communication** : une chargée de communication indépendante gère les réseaux, la lettre d'information et les échanges sur des sites de rencontre que le club ne nomme pas.",
+            "**Partenaires côté libertin** : le site Libertic et la boutique Oh Darling, cités sur sa page de partenaires.",
+            "**Syndicat** : le SNEG & Co, syndicat professionnel, le compte parmi ses adhérents depuis 2017.",
+            "**Comptes** : la SAS ALPA les dépose chaque année depuis 2018, sous déclaration de confidentialité."
+          ]
         }
       ],
       "sources": [
-        "s12",
-        "s13",
-        "s23",
-        "s25"
+        "s11",
+        "s15",
+        "s16",
+        "s17",
+        "s19",
+        "s20",
+        "s21",
+        "s22",
+        "s24"
       ]
     }
   ],

@@ -34,6 +34,47 @@
     ]
   },
   "lead": "Le Cav'O tient en une ligne d'annuaire : une adresse au 7 rue Terrasse et un numéro fixe, relevés dès mars 2007, sans site ni description. Classé « club SM », puis « sauna club libertin », il n'a laissé ni société, ni avis, ni article, et l'adresse abrite aujourd'hui des boutiques. Nous le tenons pour probablement fermé ; les lieux libertins des environs cités par des sources récentes sont présentés juste en dessous.",
+  "glance": [
+    {
+      "icon": "closed",
+      "label": "Fermeture probable",
+      "value": "Aucune preuve d'activité, à aucune date"
+    },
+    {
+      "icon": "history",
+      "label": "Seule trace",
+      "value": "Une fiche d'annuaire vide, depuis mars 2007"
+    },
+    {
+      "icon": "map",
+      "label": "Adresse recensée",
+      "value": "7 rue Terrasse, Clermont-Ferrand",
+      "confidence": "source_unique"
+    },
+    {
+      "icon": "mask",
+      "label": "Catégorie annoncée",
+      "value": "« Club SM », puis « sauna » dès 2009",
+      "confidence": "source_unique"
+    },
+    {
+      "icon": "building",
+      "label": "L'adresse aujourd'hui",
+      "value": "Deux boutiques de vêtements, une association"
+    },
+    {
+      "icon": "heart",
+      "label": "Alternative en ville",
+      "value": "Le Viaduc, sauna mixte, 7 j/7 dès 13 h"
+    }
+  ],
+  "highlights": [
+    "Aucun site, réseau social, avis ni article n'a été trouvé : horaires, tarifs et public admis n'ont jamais été publiés.",
+    "Malgré la catégorie « sauna club libertin » de l'annuaire, aucune source n'atteste que le Cav'O ait eu un espace sauna.",
+    "Pour un sauna libertin mixte en ville, les guides ne citent que [Le Viaduc](/le-viaduc-clermont-ferrand), ouvert tous les jours dès 13 h selon son site.",
+    "Le 04 73 71 48 36, relevé par l'annuaire, n'est rattaché à aucun établissement dans l'annuaire inversé de PagesJaunes.",
+    "Le domaine lecavo.fr mène au site d'un restaurant-traiteur homonyme de Côte-d'Or, sans rapport avec Clermont."
+  ],
   "keyFacts": [
     {
       "label": "Adresse recensée",
@@ -107,61 +148,17 @@
   "sections": [
     {
       "id": "ou-sortir-autour-de-clermont-en-2026",
-      "title": "Le Viaduc, Les Salins, L'Elyx : où sortir autour de Clermont en 2026",
+      "title": "Le Viaduc, sauna mixte, et Les Salins, sauna gay : les deux lieux actifs en ville",
+      "icon": "heart",
+      "summary": "Un guide du 15 mars 2026 ne compte qu'eux à Clermont-Ferrand ; Le Viaduc est le seul sauna mixte que les guides y citent, et le bar Le Ramsès reste à confirmer.",
       "blocks": [
         {
-          "kind": "text",
-          "body": "Un guide daté du 15 mars 2026 ne compte que deux établissements libertins actifs dans la ville : Le Viaduc et Les Salins. Avec la périphérie et les bars, cinq lieux apparaissent dans des sources récentes, à des niveaux de preuve inégaux."
-        },
-        {
-          "kind": "table",
-          "caption": "Relevé du 16 octobre 2026 ; adresses à Clermont-Ferrand sauf mention",
-          "headers": [
-            "Lieu",
-            "Type",
-            "Adresse",
-            "Ce qui atteste l'activité"
-          ],
-          "rows": [
-            [
-              "[Le Viaduc](/le-viaduc-clermont-ferrand)",
-              "Sauna mixte",
-              "12 bis rue des Prés Bas",
-              "Site officiel en ligne en octobre 2026, qui annonce une ouverture tous les jours dès 13 h ; cité par trois guides en ligne"
-            ],
-            [
-              "Sauna Les Salins",
-              "Sauna gay",
-              "5 avenue Marx Dormoy",
-              "Actif au registre à cette adresse depuis janvier 2024 ; listé par PagesJaunes"
-            ],
-            [
-              "[L'Elyx Club](https://www.elyx-club.fr/)",
-              "Discothèque et club libertin",
-              "14 rue des Acilloux, Cournon-d'Auvergne",
-              "Site officiel : du mardi au samedi ; actif au registre depuis octobre 2015"
-            ],
-            [
-              "Le Ramsès Libertin",
-              "Bar libertin",
-              "3 rue Beaurepaire",
-              "Du mardi au samedi, 19 h-2 h, selon un guide (août 2025), non confirmé depuis"
-            ],
-            [
-              "[Le Clean](/le-clean-riom)",
-              "Lieu libertin",
-              "Riom",
-              "Cité par les trois mêmes guides, rien de plus vérifié ici"
-            ]
+          "kind": "list",
+          "items": [
+            "[Le Viaduc](/le-viaduc-clermont-ferrand), sauna mixte, 12 bis rue des Prés Bas : son site officiel, en ligne en octobre 2026, annonce une ouverture tous les jours dès 13 h ; trois guides en ligne le citent.",
+            "**Sauna Les Salins**, sauna gay, 5 avenue Marx Dormoy : actif au registre à cette adresse depuis janvier 2024, listé par PagesJaunes.",
+            "**Le Ramsès Libertin**, bar libertin, 3 rue Beaurepaire : du mardi au samedi, 19 h-2 h, selon un guide d'août 2025, non confirmé depuis."
           ]
-        },
-        {
-          "kind": "text",
-          "body": "Pour un sauna libertin mixte, Le Viaduc est donc le seul que ces guides citent dans la ville. Les Salins, L'Elyx et Le Ramsès n'ont pas encore de fiche chez nous ; les adresses déjà recensées figurent sur la [page Clermont-Ferrand](/ville/clermont-ferrand)."
-        },
-        {
-          "kind": "text",
-          "body": "Si l'offre vous paraît mince pour une première sortie à deux, faites connaissance en ligne avant de choisir le lieu. Carré Libertin, ouvert en 2007, donne aux femmes et aux couples un accès complet gratuit dès trois photos publiées : assez pour [passer une annonce de couple dans le Puy-de-Dôme](aff:carre-libertin) et fixer un premier rendez-vous au Viaduc ou à L'Elyx."
         }
       ],
       "sources": [
@@ -169,25 +166,88 @@
         "s15",
         "s16",
         "s17",
+        "s26",
         "s13",
         "s20",
+        "s21"
+      ]
+    },
+    {
+      "id": "elyx-cournon-clean-riom",
+      "title": "L'Elyx à Cournon-d'Auvergne, du mardi au samedi, et Le Clean à Riom",
+      "icon": "map",
+      "summary": "L'Elyx Club s'annonce sur son site comme discothèque et club libertin ; Le Clean, à Riom, n'est cité que par des guides en ligne.",
+      "blocks": [
+        {
+          "kind": "list",
+          "items": [
+            "[L'Elyx Club](https://www.elyx-club.fr/), 14 rue des Acilloux à Cournon-d'Auvergne : ouvert du mardi au samedi selon son site officiel ; société active au registre depuis octobre 2015.",
+            "[Le Clean](/le-clean-riom), lieu libertin à Riom : cité par trois guides en ligne, rien de plus vérifié ici."
+          ]
+        },
+        {
+          "kind": "callout",
+          "tone": "tip",
+          "body": "Si l'offre vous paraît mince pour une première sortie à deux, faites connaissance en ligne avant de choisir le lieu. Carré Libertin, ouvert en 2007, donne aux femmes et aux couples un accès complet gratuit dès trois photos publiées : assez pour [passer une annonce de couple dans le Puy-de-Dôme](aff:carre-libertin) et fixer un premier rendez-vous au Viaduc ou à L'Elyx."
+        },
+        {
+          "kind": "text",
+          "body": "Les Salins, L'Elyx et Le Ramsès n'ont pas encore de fiche chez nous ; les adresses déjà recensées figurent sur la [page Clermont-Ferrand](/ville/clermont-ferrand)."
+        }
+      ],
+      "sources": [
+        "s14",
+        "s15",
+        "s16",
         "s18",
-        "s19",
-        "s21",
-        "s26"
+        "s19"
       ]
     },
     {
       "id": "club-sm-puis-sauna",
       "title": "« Club SM » jusqu'en 2008, « sauna » dès 2009 : une fiche d'annuaire jamais remplie",
+      "icon": "history",
+      "summary": "Tout ce que l'on sait vient d'une fiche de l'annuaire sauna-club-libertin.com, archivée dès mars 2007 : une adresse, un téléphone, jamais de site ni de description.",
       "confidence": "source_unique",
       "blocks": [
         {
-          "kind": "text",
-          "body": "Tout ce que l'on sait du Cav'O vient de l'annuaire sauna-club-libertin.com. Sa fiche, archivée dès le 3 mars 2007, donne l'adresse et le 04 73 71 48 36 ; les champs du courriel, du site et de la description sont vides sur chaque état que nous avons relu (2007, 2008, 2009, 2013 et 2026), tout comme celui des prestations, ajouté plus tard. Seule la catégorie a bougé : « club SM » sur les captures de mars 2007 à septembre 2008, « sauna club libertin » à partir de celle de février 2009.\n\nQue la fiche soit encore en ligne ne prouve rien : elle ne porte aucune date de mise à jour, et les archives du web l'ont capturée une trentaine de fois entre 2007 et 2013, puis trois fois en 2024 et 2025, la dernière en mai 2025. Notre annuaire avait hérité de la catégorie « sauna », et l'ancien texte de cette page décrivait même un espace sauna : aucune source ne l'atteste."
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "3 mars 2007",
+              "text": "Première capture connue : « club SM », 7 rue Terrasse, 04 73 71 48 36. Courriel, site et description vides."
+            },
+            {
+              "date": "Septembre 2008",
+              "text": "Toujours classé « club SM », sans courriel, site ni description."
+            },
+            {
+              "date": "Février 2009",
+              "text": "Classé désormais « sauna club libertin ». Un champ « prestations » figure sur la fiche, vide comme les autres."
+            },
+            {
+              "date": "Juin 2013",
+              "text": "Rien n'a bougé. Entre 2007 et 2013, les archives du web ont capturé la fiche une trentaine de fois."
+            },
+            {
+              "date": "2024-2025",
+              "text": "Trois nouvelles captures, la dernière en mai 2025."
+            },
+            {
+              "date": "Octobre 2026",
+              "text": "Toujours en ligne, toujours vide. Sa présence ne prouve rien : la fiche ne porte aucune date de mise à jour."
+            }
+          ]
         },
         {
-          "kind": "text",
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Aucun espace sauna attesté",
+          "body": "Notre annuaire avait hérité de la catégorie « sauna », et l'ancien texte de cette page décrivait même un espace sauna : aucune source ne l'atteste."
+        },
+        {
+          "kind": "callout",
+          "tone": "tip",
           "body": "Si c'est l'étiquette « club SM » qui vous amène, partez des soirées annoncées par les clubs eux-mêmes. Wyylde, l'ex-Netéchangisme rebaptisé en 2018 pour s'ouvrir notamment aux amateurs de BDSM, affiche chaque soirée avec sa date, son club et son thème ; un compte gratuit suffit pour [parcourir l'agenda des soirées à thème de Wyylde](aff:wyylde)."
         }
       ],
@@ -203,10 +263,38 @@
     {
       "id": "7-rue-terrasse-sarl-le-nirvana",
       "title": "Au 7 rue Terrasse, une seule piste : la SARL Le Nirvana, présente de 2004 à 2009",
+      "icon": "building",
+      "summary": "Aucune société « Cav'O » au registre du Puy-de-Dôme, sous aucune graphie testée ; la SARL Le Nirvana avait un établissement au n° 7 de 2004 à 2009, sans lien prouvé avec le club.",
       "blocks": [
         {
+          "kind": "list",
+          "title": "Au 7 rue Terrasse aujourd'hui, selon le registre",
+          "items": [
+            "Deux boutiques de vêtements, dont une de lingerie",
+            "Une association",
+            "Aucun sauna, club ou débit de boissons actif"
+          ]
+        },
+        {
           "kind": "text",
-          "body": "Le registre des entreprises ne connaît aucune société « Cav'O » dans le Puy-de-Dôme, sous aucune des graphies testées. Au 7 rue Terrasse, il recense deux boutiques de vêtements, dont une de lingerie, et une association, sans aucun sauna, club ou débit de boissons actif.\n\nUne seule entreprise rattachable au milieu libertin y a eu un établissement : la SARL Le Nirvana, débit de boissons dont le siège, 11 rue Pierre le Canadien aux Martres-de-Veyre, est l'adresse que le même annuaire donne au club [Le Nirvana](/le-nirvana-les-martres-de-veyre). Elle a déclaré un établissement secondaire rue Terrasse du 1er juin 2004 au 31 août 2009, date de sa radiation."
+          "body": "Une seule entreprise rattachable au milieu libertin y a eu un établissement : la SARL Le Nirvana, un débit de boissons. Son siège, 11 rue Pierre le Canadien aux Martres-de-Veyre, est l'adresse que le même annuaire donne au club [Le Nirvana](/le-nirvana-les-martres-de-veyre)."
+        },
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "1er juin 2004",
+              "text": "La SARL Le Nirvana déclare un établissement secondaire au 7 rue Terrasse."
+            },
+            {
+              "date": "3 mars 2007",
+              "text": "Première trace du Cav'O à la même adresse, dans l'annuaire."
+            },
+            {
+              "date": "31 août 2009",
+              "text": "Fin de l'établissement rue Terrasse, et radiation de la société."
+            }
+          ]
         },
         {
           "kind": "callout",

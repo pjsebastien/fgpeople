@@ -34,6 +34,71 @@
     ]
   },
   "lead": "Le Moloko réunit deux établissements accolés au 31 rue des Haveurs, à Saint-Étienne : un sauna libertin mixte de 300 m² ouvert tous les jours, et un club privé de 600 m² ouvert le samedi soir pour des soirées à thème destinées aux couples et aux femmes. Actif depuis au moins 2009, il fonctionne toujours : sa grille de tarifs date de septembre 2026 et son agenda court jusqu'au 17 octobre 2026.",
+  "glance": [
+    {
+      "icon": "calendar",
+      "label": "Sauna mixte",
+      "value": "Tous les jours, 14 h - 19 h, puis le soir"
+    },
+    {
+      "icon": "mask",
+      "label": "Club privé",
+      "value": "Le samedi, 20 h - 5 h, couples et femmes"
+    },
+    {
+      "icon": "euro",
+      "label": "Entrée au sauna",
+      "value": "Couple 20 € · femme 10 € · homme 35 à 50 €"
+    },
+    {
+      "icon": "couple",
+      "label": "Samedi en couple",
+      "value": "60 € avec buffet · 50 € après minuit"
+    },
+    {
+      "icon": "water",
+      "label": "Piscine extérieure",
+      "value": "De début juin à fin septembre, selon la météo"
+    },
+    {
+      "icon": "map",
+      "label": "Adresse",
+      "value": "31 rue des Haveurs, 42100 Saint-Étienne"
+    }
+  ],
+  "audience": [
+    {
+      "who": "couples",
+      "status": "oui",
+      "detail": "Sauna tous les jours, club privé le samedi soir ; jeudi : adeptes invités, curieux à 20 €",
+      "price": "20 € · 60 € le samedi"
+    },
+    {
+      "who": "femmes",
+      "status": "oui",
+      "detail": "Sauna tous les jours, club privé le samedi soir ; jeudi : adeptes invitées",
+      "price": "10 €"
+    },
+    {
+      "who": "hommes",
+      "status": "selon",
+      "detail": "Au sauna seulement, tous les jours ; aucune entrée prévue au club privé du samedi",
+      "price": "35 € · 50 € jeu.-sam. soir"
+    },
+    {
+      "who": "trans",
+      "status": "inconnu",
+      "detail": "Tarif de 30 € sur d'anciennes affiches, absent de la grille 2026 : à confirmer",
+      "price": "30 € (à confirmer)"
+    }
+  ],
+  "highlights": [
+    "Homme seul : 50 € et non 35 € du jeudi au samedi soir, et aucune entrée prévue pour lui au club privé du samedi, seulement au sauna.",
+    "Samedi, le couple paie 50 € au lieu de 60 € après minuit, mais le buffet chaud et froid n'est servi que de 21 h à 23 h.",
+    "Tenue exigée le samedi sur les affiches Masquée et Fluo : sexy pour les femmes, de ville pour les hommes, ni short ni baskets.",
+    "Adhésion, réservation : le site ne le dit pas clairement (carte de membre exigée en 2013-2015). Appelez le 06 79 01 99 93 avant une première visite.",
+    "Le sauna ferme entre 19 h et 21 h (20 h le samedi) ; le dimanche, venir l'après-midi et le soir retire 10 € à l'entrée du soir."
+  ],
   "keyFacts": [
     {
       "label": "Adresse",
@@ -127,6 +192,8 @@
     {
       "id": "sauna-et-club-prive",
       "title": "Un sauna de 300 m² ouvert tous les jours, un club de 600 m² le samedi soir",
+      "icon": "building",
+      "summary": "Deux lieux accolés au 31 rue des Haveurs : un sauna mixte de 300 m² ouvert tous les jours, et un club privé de 600 m² réservé aux couples et aux femmes le samedi soir.",
       "blocks": [
         {
           "kind": "text",
@@ -155,17 +222,26 @@
               "Public",
               "Mixte : hommes, femmes, couples",
               "Couples et femmes, en soirées multicouples"
-            ],
-            [
-              "Structure",
-              "Vraisemblablement la SAS JOSS LOISIRS, enseigne Le Moloko au registre (rôle déduit, non confirmé)",
-              "Association Les Amis du Moloko (loi 1901), nommée sur les affiches des soirées"
             ]
           ]
         },
         {
+          "kind": "list",
+          "title": "Qui organise quoi",
+          "items": [
+            "**Le samedi soir** : l'association **Les Amis du Moloko** (loi 1901), nommée sur les affiches de 2026 ; une ancienne affiche précise que le bar est sous licence IV, « sauf samedi soir ». Déclarée en novembre 2009, elle avait pour objet initial l'« animation de clubs privés libertins, échangistes, anticonformistes » (Journal officiel du 5 décembre 2009), libellé reformulé depuis.",
+            "**Le reste de la semaine** : l'exploitant serait **JOSS LOISIRS**, SAS créée en 2010 et inscrite comme débit de boissons à l'enseigne « Le Moloko » au 31 rue des Haveurs (6 à 9 salariés en 2024, comptes déposés en avril 2026). C'est une déduction tirée du registre : le club ne la nomme nulle part."
+          ]
+        },
+        {
           "kind": "text",
-          "body": "Une ancienne affiche encore en ligne précise que le bar est sous licence IV, « sauf samedi soir » : ce soir-là, c'est l'association **Les Amis du Moloko** qui organise, comme le rappellent les affiches de 2026. Déclarée en novembre 2009, elle avait pour objet initial l'« animation de clubs privés libertins, échangistes, anticonformistes » (Journal officiel du 5 décembre 2009), libellé reformulé depuis.\n\nLe reste de la semaine, l'exploitant serait **JOSS LOISIRS**, SAS créée en 2010 et inscrite comme débit de boissons à l'enseigne « Le Moloko » au 31 rue des Haveurs (6 à 9 salariés en 2024, comptes déposés en avril 2026) : une déduction tirée du registre, car le club ne la nomme nulle part.\n\nLe site présente l'équipe d'accueil, « Martine, Joyce et toute leur équipe », se dit « réservé exclusivement aux libertins » et promet l'exclusion, avec signalement aux forces de l'ordre, à quiconque tente d'acheter ou de vendre un acte sexuel."
+          "body": "Le site présente l'équipe d'accueil, « Martine, Joyce et toute leur équipe », et se dit « réservé exclusivement aux libertins »."
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Prostitution : exclusion et signalement",
+          "body": "Le club promet l'exclusion, avec signalement aux forces de l'ordre, à quiconque tente d'acheter ou de vendre un acte sexuel."
         }
       ],
       "sources": [
@@ -182,14 +258,38 @@
     {
       "id": "tarifs-par-soir",
       "title": "L'homme seul à 35 € l'après-midi, 50 € du jeudi au samedi soir, absent du club privé",
+      "icon": "euro",
+      "summary": "Au sauna, l'homme seul paie 35 € l'après-midi et du dimanche au mercredi soir, 50 € du jeudi au samedi soir ; femme 10 €, couple 20 €. Le club privé ne lui prévoit aucune entrée.",
       "blocks": [
         {
           "kind": "text",
-          "body": "Tous les après-midi, puis les lundi, mardi, mercredi et dimanche soir, le sauna applique une seule grille : 35 € pour un homme, 10 € pour une femme, 20 € pour un couple. **Du jeudi au samedi soir, l'homme seul passe à 50 €**, une ou deux consommations comprises, et chaque soir a son public :\n- **le jeudi**, la soirée « Gang Bang » vise les « couples et femmes adeptes de pluralité masculine », invités dès 20 h autour d'un repas ; les couples simplement curieux paient 20 € ;\n- **le vendredi**, soirée mixte, « toutes tendances bienvenues » selon une affiche du club ;\n- **le samedi**, le sauna devient une « soirée mixte pluralité » pendant que le club privé reçoit couples et femmes, sans aucun tarif prévu pour l'homme seul."
+          "body": "Tous les après-midi, puis les lundi, mardi, mercredi et dimanche soir, le sauna applique une seule grille : 35 € pour un homme, 10 € pour une femme, 20 € pour un couple. **Du jeudi au samedi soir, l'homme seul passe à 50 €**, et chaque soir a son public."
         },
         {
-          "kind": "text",
-          "body": "Ni la grille ni l'affiche du jeudi n'annoncent combien de couples et de femmes adeptes sont attendus : l'homme seul qui paie 50 € ce soir-là ne le sait pas d'avance. Pour se fixer rendez-vous avant un jeudi, couples adeptes et hommes de la Loire peuvent échanger via [les profils vérifiés par téléphone de Gleese](aff:gleese), un site qui ne demande pas de carte bancaire ; lancé fin 2024 et bien moins peuplé que Wyylde, il offre un statut « Dispo » pour signaler qu'on cherche une rencontre le soir même."
+          "kind": "table",
+          "caption": "L'homme seul du jeudi au samedi soir, d'après la grille de septembre 2026 et les affiches du club",
+          "headers": [
+            "Soir",
+            "Homme seul",
+            "Ce soir-là"
+          ],
+          "rows": [
+            [
+              "Jeudi",
+              "50 €, une consommation comprise",
+              "Soirée « Gang Bang » pour couples et femmes adeptes de pluralité masculine"
+            ],
+            [
+              "Vendredi",
+              "50 €, deux softs ou bières, ou un alcool fort",
+              "Soirée mixte, « toutes tendances bienvenues » selon une affiche du club"
+            ],
+            [
+              "Samedi",
+              "50 € au sauna, deux alcools compris",
+              "« Soirée mixte pluralité » au sauna ; le club privé reçoit couples et femmes, sans tarif homme seul"
+            ]
+          ]
         },
         {
           "kind": "callout",
@@ -207,8 +307,30 @@
       ]
     },
     {
+      "id": "jeudi-gang-bang",
+      "title": "Jeudi « Gang Bang » : adeptes invités dès 20 h avec un repas, couples curieux à 20 €",
+      "icon": "flame",
+      "summary": "De 21 h à 1 h au sauna : couples et femmes adeptes de pluralité masculine invités dès 20 h avec un repas, couples curieux à 20 €, homme seul à 50 € avec une consommation.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le jeudi, de 21 h à 1 h, la soirée « Gang Bang » du sauna vise les « couples et femmes adeptes de pluralité masculine », invités dès 20 h autour d'un repas. Les couples simplement curieux paient 20 €, l'homme seul 50 € avec une consommation."
+        },
+        {
+          "kind": "text",
+          "body": "Ni la grille ni l'affiche du jeudi n'annoncent combien de couples et de femmes adeptes sont attendus : l'homme seul qui paie 50 € ce soir-là ne le sait pas d'avance.\n\nPour se fixer rendez-vous avant un jeudi, couples adeptes et hommes de la Loire peuvent échanger via [les profils vérifiés par téléphone de Gleese](aff:gleese), un site qui ne demande pas de carte bancaire ; lancé fin 2024 et bien moins peuplé que Wyylde, il offre un statut « Dispo » pour signaler qu'on cherche une rencontre le soir même."
+        }
+      ],
+      "sources": [
+        "s3",
+        "s6"
+      ]
+    },
+    {
       "id": "samedis-a-theme",
       "title": "Écolières, Masquée, Fluo, Sucette : des samedis à thème qui reviennent depuis 2012",
+      "icon": "calendar",
+      "summary": "Chaque samedi a son thème (Écolières, Masquée, Fluo, Sucette…), souvent repris depuis 2012 ; au 16 octobre 2026, aucune soirée n'était annoncée après le samedi 17.",
       "blocks": [
         {
           "kind": "text",
@@ -258,22 +380,76 @@
         },
         {
           "kind": "text",
-          "body": "Les affiches de la rentrée reprennent la même formule : buffet chaud et froid de 21 h à 23 h, deux alcools par personne, cocktail du jour, bières, vins, pétillants, softs et cafés compris dans l'entrée couple. Les samedis barbecue de l'été, du 27 juin au 29 août, incluaient trois alcools par personne au même prix. Un DJ est annoncé, et le sauna, le hammam et le jacuzzi restent accessibles aux couples et aux femmes.\n\nLes affiches Masquée et Fluo fixent un dress code : tenue sexy pour les femmes, tenue de ville pour les hommes, sans short ni baskets. Un couple qui prépare son premier samedi multicouples peut vouloir échanger avant avec d'autres couples de la région : sur [Carré Libertin, gratuit pour les couples et les femmes](aff:carre-libertin), l'accès complet ne demande que trois photos de profil.\n\nCes thèmes tournent depuis longtemps : les adresses d'inscription archivées du site montrent des soirées Blanche, Masquée, Sucette et Bikini dès 2012, Fluo et Écolières en 2016, Rose en 2017.\n\nLa page « Soirées à venir » ne montre que le prochain samedi, et nous n'avons trouvé ni page Facebook ni compte Instagram du club : au 16 octobre 2026, aucune soirée n'était annoncée après le 17 octobre."
+          "body": "Ces thèmes tournent depuis longtemps : les adresses d'inscription archivées du site montrent des soirées Blanche, Masquée, Sucette et Bikini dès 2012, Fluo et Écolières en 2016, Rose en 2017."
+        },
+        {
+          "kind": "callout",
+          "tone": "info",
+          "title": "Et après le 17 octobre ?",
+          "body": "La page « Soirées à venir » ne montre que le prochain samedi, et nous n'avons trouvé ni page Facebook ni compte Instagram du club : au 16 octobre 2026, aucune soirée n'était annoncée après le 17 octobre."
         }
       ],
       "sources": [
-        "s3",
         "s4",
         "s32"
       ]
     },
     {
+      "id": "samedi-en-couple",
+      "title": "Samedi en couple : buffet de 21 h à 23 h, deux alcools chacun et tenue exigée",
+      "icon": "drink",
+      "summary": "60 € le couple (50 € après minuit) avec buffet de 21 h à 23 h, deux alcools chacun, DJ, sauna et jacuzzi ; certaines affiches exigent une tenue sexy pour elles, de ville pour eux.",
+      "blocks": [
+        {
+          "kind": "list",
+          "title": "Compris dans l'entrée couple, selon les affiches de la rentrée 2026",
+          "items": [
+            "Un buffet chaud et froid, de 21 h à 23 h",
+            "Deux alcools par personne, cocktail du jour, bières, vins, pétillants, softs et cafés",
+            "Un DJ, annoncé sur les affiches",
+            "L'accès au sauna, au hammam et au jacuzzi, qui restent ouverts aux couples et aux femmes"
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Les samedis barbecue de l'été, du 27 juin au 29 août, incluaient trois alcools par personne au même prix."
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Tenue exigée",
+          "body": "Les affiches Masquée et Fluo fixent un dress code : tenue sexy pour les femmes, tenue de ville pour les hommes, sans short ni baskets."
+        },
+        {
+          "kind": "text",
+          "body": "Un couple qui prépare son premier samedi multicouples peut vouloir échanger avant avec d'autres couples de la région : sur [Carré Libertin, gratuit pour les couples et les femmes](aff:carre-libertin), l'accès complet ne demande que trois photos de profil."
+        }
+      ],
+      "sources": [
+        "s3",
+        "s4"
+      ]
+    },
+    {
       "id": "photos-officielles",
       "title": "Les photos du Moloko : deux visites guidées officielles, 43 clichés sans clients",
+      "icon": "camera",
+      "summary": "Deux galeries officielles, 22 photos du sauna et 21 du club, montrent les lieux vides : piscine, jacuzzi extérieur, balnéo, hammam, chambres en skaï rouge, piste de danse.",
       "blocks": [
         {
           "kind": "text",
-          "body": "Le site du club publie deux galeries « Visite guidée » : [22 photos du sauna](https://www.lemoloko.com/sauna.html) et [21 photos du club](https://www.lemoloko.com/club.html). Elles montrent les lieux vides ; les fichiers ont été mis en ligne le 26 juin 2026, sans date de prise de vue. L'illustration en tête de cette page n'est pas une photo du Moloko.\n\nCe qu'elles montrent, d'après notre examen des 43 images :\n- **dehors**, la piscine et ses transats, un jacuzzi sous un voilage blanc avec une douche de plein air, et une terrasse de restauration avec comptoirs de buffet, dont les parasols portent le nom du club ;\n- **côté sauna**, la balnéo intérieure éclairée en bleu, la cabine de sauna en bois, le hammam carrelé à gradins, les douches, un bar à tabourets hauts, de petites chambres aux matelas de skaï rouge fermées par une porte, un lit rond, un recoin fermé par des barreaux et un vestiaire à casiers métalliques ;\n- **côté club**, la piste de danse sous les lasers, un salon de banquettes noires, une estrade drapée de rideaux entre des murs capitonnés, un escalier balisé de LED vers l'étage, une alcôve vitrée en hauteur occupée par un grand lit rond, des coins câlins décorés de fresques (cascade, palmier) et des lavabos à miroirs lumineux."
+          "body": "Le site du club publie deux galeries « Visite guidée » : [22 photos du sauna](https://www.lemoloko.com/sauna.html) et [21 photos du club](https://www.lemoloko.com/club.html). Elles montrent les lieux vides ; les fichiers ont été mis en ligne le 26 juin 2026, sans date de prise de vue. L'illustration en tête de cette page n'est pas une photo du Moloko."
+        },
+        {
+          "kind": "list",
+          "title": "Ce que montrent les 43 images, d'après notre examen",
+          "items": [
+            "**Dehors** : la piscine et ses transats, un jacuzzi sous un voilage blanc avec une douche de plein air, une terrasse de restauration avec comptoirs de buffet, dont les parasols portent le nom du club",
+            "**Côté sauna, l'espace humide** : la balnéo intérieure éclairée en bleu, la cabine de sauna en bois, le hammam carrelé à gradins, les douches",
+            "**Côté sauna, le reste** : un bar à tabourets hauts, de petites chambres aux matelas de skaï rouge fermées par une porte, un lit rond, un recoin fermé par des barreaux, un vestiaire à casiers métalliques",
+            "**Côté club** : la piste de danse sous les lasers, un salon de banquettes noires, une estrade drapée de rideaux entre des murs capitonnés, des lavabos à miroirs lumineux",
+            "**Côté club, en hauteur et dans les coins câlins** : un escalier balisé de LED vers l'étage, une alcôve vitrée en hauteur occupée par un grand lit rond, des coins câlins décorés de fresques (cascade, palmier)"
+          ]
         }
       ],
       "sources": [
@@ -283,22 +459,90 @@
     {
       "id": "espaces-et-equipements",
       "title": "Hammam pour vingt, balnéo, deux jacuzzis et piscine d'été : l'inventaire vérifié",
+      "icon": "spa",
+      "summary": "Sauna traditionnel, hammam pour 20, balnéo intérieure et deux jacuzzis ; l'été s'ajoutent la piscine extérieure (début juin à fin septembre), une balnéo extérieure et un solarium.",
       "blocks": [
         {
+          "kind": "list",
+          "title": "L'espace humide du sauna club, selon le site officiel",
+          "items": [
+            "Un sauna traditionnel",
+            "Un hammam « jusqu'à 20 personnes »",
+            "Une balnéo intérieure, annoncée tantôt à 30, tantôt à 50 places sur la même page",
+            "Deux jacuzzis, selon la version 2024 du site et IF Saint-Étienne (2021)"
+          ]
+        },
+        {
           "kind": "text",
-          "body": "Selon le site officiel, l'espace humide du sauna club comprend un sauna traditionnel, un hammam « jusqu'à 20 personnes » et une balnéo intérieure annoncée tantôt à 30, tantôt à 50 places sur la même page, plus deux jacuzzis selon la version 2024 du site et IF Saint-Étienne (2021).\n\nLes espaces coquins du sauna s'étagent sur deux niveaux : chambres qui ferment à clé, coins ouverts, labyrinthe, glory holes, salle vidéo. Le club privé compte une vingtaine d'espaces câlins, une salle fumeur, un réfectoire et, en 2024, un espace VIP. Petit Futé, dans un texte non daté, décrit trois salons fermant à clé et une mezzanine dont le grand lit rond surplombe la piste de danse, ce que confirme la galerie officielle (alcôve vitrée en hauteur).\n\nL'été s'ajoutent une grande terrasse avec bains de soleil, une balnéo extérieure et un solarium ; la piscine ouvre **de début juin à fin septembre**, « en fonction du temps », selon une affiche du club.\n\nLe site met en avant l'hygiène (skaï nettoyable, préservatifs gratuits, gel désinfectant, 14 douches en 2024) ; selon une ancienne affiche, l'entrée inclut eau et boissons chaudes à volonté, tongs, paréos et serviettes."
+          "body": "L'été s'ajoutent une grande terrasse avec bains de soleil, une balnéo extérieure et un solarium ; la piscine ouvre **de début juin à fin septembre**, « en fonction du temps », selon une affiche du club."
+        },
+        {
+          "kind": "list",
+          "title": "Hygiène et ce que comprend l'entrée",
+          "items": [
+            "Skaï nettoyable, gel désinfectant et préservatifs gratuits, mis en avant par le site",
+            "14 douches, selon la version 2024 du site",
+            "Eau et boissons chaudes à volonté, tongs, paréos et serviettes, compris dans l'entrée selon une ancienne affiche"
+          ]
+        }
+      ],
+      "sources": [
+        "s2",
+        "s6",
+        "s12",
+        "s19"
+      ]
+    },
+    {
+      "id": "espaces-coquins",
+      "title": "Chambres à clé, labyrinthe et glory holes au sauna, une vingtaine d'espaces câlins au club",
+      "icon": "bed",
+      "summary": "Au sauna, sur deux niveaux : chambres à clé, coins ouverts, labyrinthe, glory holes et salle vidéo. Au club : une vingtaine d'espaces câlins et un grand lit rond en hauteur.",
+      "blocks": [
+        {
+          "kind": "table",
+          "caption": "Les espaces coquins, d'après le site officiel (versions 2024 et 2026)",
+          "headers": [
+            "Sauna club, sur deux niveaux",
+            "Club privé"
+          ],
+          "rows": [
+            [
+              "Chambres qui ferment à clé",
+              "Une vingtaine d'espaces câlins"
+            ],
+            [
+              "Coins ouverts et labyrinthe",
+              "Salle fumeur"
+            ],
+            [
+              "Glory holes",
+              "Réfectoire"
+            ],
+            [
+              "Salle vidéo",
+              "Espace VIP (en 2024)"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Petit Futé, dans un texte non daté, décrit trois salons fermant à clé et une mezzanine dont le grand lit rond surplombe la piste de danse, ce que confirme la galerie officielle (alcôve vitrée en hauteur)."
         },
         {
           "kind": "callout",
           "tone": "warning",
-          "title": "Ce que nous avons retiré de la fiche, et ce que les photos ajoutent",
-          "body": "Notre ancienne fiche listait une cage et une barre d'exhibition et un espace SM : aucun texte ne les mentionne, nous les avons retirés (la galerie du sauna montre seulement un recoin à barreaux, que le club ne nomme pas). Le vestiaire à casiers existe côté sauna, photo officielle à l'appui ; côté club, un avis de mars 2024 regrette son absence, un autre de novembre 2023 évoque un employé « au vestiaire »."
+          "title": "Cage, barre d'exhibition, espace SM : retirés de la fiche",
+          "body": "Notre ancienne fiche les listait, mais aucun texte ne les mentionne. La galerie du sauna montre seulement un recoin à barreaux, que le club ne nomme pas."
+        },
+        {
+          "kind": "text",
+          "body": "**Vestiaire** : le vestiaire à casiers existe côté sauna, photo officielle à l'appui ; côté club, un avis de mars 2024 regrette son absence, un autre de novembre 2023 évoque un employé « au vestiaire »."
         }
       ],
       "sources": [
         "s2",
         "s5",
-        "s6",
         "s12",
         "s19",
         "s20",
@@ -308,10 +552,52 @@
     {
       "id": "avis-clients",
       "title": "Propreté et buffet salués, hommes seuls et DJ critiqués : ce que disent les avis",
+      "icon": "star",
+      "summary": "Autour de 4,2/5 sur 209 avis Google, lus via un site relais (décembre 2025) : propreté, accueil et buffet salués ; hommes seuls insistants et musique du DJ critiqués.",
       "blocks": [
         {
+          "kind": "table",
+          "caption": "Faute d'accès direct à la fiche Google du club, nous citons des sites relais",
+          "headers": [
+            "Source",
+            "Note",
+            "Avis",
+            "Relevé"
+          ],
+          "rows": [
+            [
+              "Google, via un site relais",
+              "4,2/5",
+              "209",
+              "26 décembre 2025"
+            ],
+            [
+              "Google, via un autre relais",
+              "4,4/5",
+              "163",
+              "Mai 2024"
+            ],
+            [
+              "Petit Futé",
+              "4,4/5",
+              "5 seulement",
+              "Avis de 2018 à 2024"
+            ]
+          ]
+        },
+        {
+          "kind": "list",
+          "title": "À la lecture des avis Google relayés, publiés de septembre 2015 à mai 2024",
+          "items": [
+            "**Ce qui revient le plus** : la propreté, l'accueil des patrons et des serveuses, le buffet du samedi et, l'été, la terrasse avec piscine",
+            "**La distance** : des clients viennent de Lyon ou roulent 1 h 45, un autre se dit « à plusieurs heures de route »",
+            "**Les hommes seuls** : en avril 2024, un couple habitué décrit des hommes seuls insistants envers les couples depuis quelques mois ; en août 2023, un avis pourtant positif notait déjà « un peu trop d'insistance » de certains clients",
+            "**La musique** : des avis de 2016, 2021 et 2022 critiquent la programmation du DJ (variété, années 80), d'autres la saluent en 2022 et 2023"
+          ]
+        },
+        {
           "kind": "text",
-          "body": "Faute d'accès direct à la fiche Google du club, nous citons des sites relais : **4,2/5 sur 209 avis** au 26 décembre 2025, 4,4/5 sur 163 avis en mai 2024. Petit Futé affiche 4,4/5, sur cinq avis seulement (2018-2024).\n\nÀ la lecture des avis Google relayés, publiés de septembre 2015 à mai 2024 :\n- **ce qui revient le plus** : la propreté, l'accueil des patrons et des serveuses, le buffet du samedi et, l'été, la terrasse avec piscine ;\n- **la distance** : des clients viennent de Lyon ou roulent 1 h 45, un autre se dit « à plusieurs heures de route » ;\n- **les hommes seuls** : en avril 2024, un couple habitué décrit des hommes seuls insistants envers les couples depuis quelques mois ; en août 2023, un avis pourtant positif notait déjà « un peu trop d'insistance » de certains clients ;\n- **la musique** : des avis de 2016, 2021 et 2022 critiquent la programmation du DJ (variété, années 80), d'autres la saluent en 2022 et 2023.\n\nDeux avis parlent de discrimination. En octobre 2023, un avis Google à 1/5, dont l'auteur dit être entré, dénonce une ambiance discriminatoire envers les étrangers. En août 2024, un homme seul raconte sur Petit Futé avoir été refusé vers 20 h, l'entrée étant « réservée pour les couples », et attribue ce refus à ses origines. Ce sont des récits unilatéraux, que nous ne pouvons pas vérifier."
+          "body": "Deux avis parlent de discrimination ; ce sont des récits unilatéraux, que nous ne pouvons pas vérifier :\n- en octobre 2023, un avis Google à 1/5, dont l'auteur dit être entré, dénonce une ambiance discriminatoire envers les étrangers ;\n- en août 2024, un homme seul raconte sur Petit Futé avoir été refusé vers 20 h, l'entrée étant « réservée pour les couples », et attribue ce refus à ses origines."
         }
       ],
       "sources": [
@@ -323,19 +609,32 @@
     {
       "id": "adresse-et-contact",
       "title": "Rue des Haveurs, en 42100 et non 42000 : accès, parking et téléphone",
+      "icon": "map",
+      "summary": "31 rue des Haveurs, 42100 Saint-Étienne (et non 42000), avec un grand parking privé surveillé le week-end ; un seul numéro affiché par le club : le 06 79 01 99 93.",
       "blocks": [
         {
-          "kind": "text",
-          "body": "L'accueil se fait au **31 rue des Haveurs, 42100 Saint-Étienne**, et non 42000 comme l'écrivent certains annuaires : c'est l'adresse des affiches du club, du registre des entreprises et de la fiche du syndicat SNEG & Co (avril 2025). Le club se dit « à quelques minutes du centre » ; un avis d'août 2023 le situe dans une « zone industrielle pas très glamour ». Un grand parking privé est surveillé le week-end."
+          "kind": "list",
+          "title": "Pour venir",
+          "items": [
+            "**Adresse** : 31 rue des Haveurs, 42100 Saint-Étienne, et non 42000 comme l'écrivent certains annuaires ; c'est l'adresse des affiches du club, du registre des entreprises et de la fiche du syndicat SNEG & Co (avril 2025)",
+            "**Quartier** : « à quelques minutes du centre », selon le club ; un avis d'août 2023 le situe dans une « zone industrielle pas très glamour »",
+            "**Parking** : un grand parking privé, surveillé le week-end"
+          ]
         },
         {
           "kind": "list",
           "title": "Pour joindre le club",
           "items": [
-            "**Téléphone** : 06 79 01 99 93, seul numéro affiché par le club depuis au moins octobre 2014. L'ancien fixe 04 77 47 14 93, relevé par un annuaire en 2013, n'est plus affiché ; le 04 49 34 10 22 d'un annuaire lyonnais n'est confirmé nulle part.",
-            "**Site** : lemoloko.com (lemoloko.fr y renvoie), sans page de contact ni mentions légales.",
-            "**E-mail** : lemoloko@live.fr selon la fiche du SNEG & Co ; le site ne l'affiche pas."
+            "**Téléphone** : 06 79 01 99 93, seul numéro affiché par le club depuis au moins octobre 2014",
+            "**Site** : lemoloko.com (lemoloko.fr y renvoie), sans page de contact ni mentions légales",
+            "**E-mail** : lemoloko@live.fr selon la fiche du SNEG & Co ; le site ne l'affiche pas"
           ]
+        },
+        {
+          "kind": "callout",
+          "tone": "info",
+          "title": "Deux autres numéros circulent",
+          "body": "L'ancien fixe 04 77 47 14 93, relevé par un annuaire en 2013, n'est plus affiché ; le 04 49 34 10 22 d'un annuaire lyonnais n'est confirmé nulle part."
         }
       ],
       "sources": [
@@ -357,10 +656,16 @@
     {
       "id": "saint-etienne-et-loire",
       "title": "À Saint-Étienne, aucun autre complexe mixte trouvé ; dans la Loire, des clubs à vérifier",
+      "icon": "car",
+      "summary": "En ville, aucun autre lieu mixte trouvé : le H2O et le Mikonos visent d'abord les hommes. Dans la Loire, trois clubs cités en 2021, dont l'activité en 2026 n'est pas vérifiée.",
       "blocks": [
         {
           "kind": "text",
-          "body": "Dans la ville, nous n'avons trouvé aucun autre lieu qui associe un sauna mixte ouvert tous les jours et un club pour couples. Les deux autres saunas stéphanois identifiés visent d'abord les hommes : le [H2O](/h2o-saint-etienne-sauna), qui se présente comme un « day-spa masculin », et le Mikonos, réservé aux hommes sauf le samedi soir, où il accueille couples et femmes seules, selon IF Saint-Étienne en 2021. Un annuaire range d'ailleurs le Moloko, à tort, parmi les saunas gays de la Loire.\n\nDans le reste du département, le même article citait le QG Club à Saint-Marcel-de-Félines, le Divinum à Civens et le New D'Lys à Feurs, ce dernier réservant alors ses soirées privées par les réseaux libertins. Nous n'avons pas vérifié leur activité en 2026 : avant de faire la route, regardez si l'un d'eux annonce une date dans [les soirées de club répertoriées sur Wyylde](aff:wyylde), lisibles sans abonnement avec leur thème et souvent leurs conditions d'entrée. Les pages [Saint-Étienne](/ville/saint-etienne) et [Loire](/departement/loire) de l'annuaire recensent les lieux que nous connaissons."
+          "body": "Dans la ville, nous n'avons trouvé aucun autre lieu qui associe un sauna mixte ouvert tous les jours et un club pour couples.\n\nLes deux autres saunas stéphanois identifiés visent d'abord les hommes :\n- le [H2O](/h2o-saint-etienne-sauna), qui se présente comme un « day-spa masculin » ;\n- le Mikonos, réservé aux hommes sauf le samedi soir, où il accueille couples et femmes seules, selon IF Saint-Étienne en 2021.\n\nUn annuaire range d'ailleurs le Moloko, à tort, parmi les saunas gays de la Loire."
+        },
+        {
+          "kind": "text",
+          "body": "Dans le reste du département, le même article citait trois clubs :\n- le QG Club à Saint-Marcel-de-Félines ;\n- le Divinum à Civens ;\n- le New D'Lys à Feurs, qui réservait alors ses soirées privées par les réseaux libertins.\n\nNous n'avons pas vérifié leur activité en 2026 : avant de faire la route, regardez si l'un d'eux annonce une date dans [les soirées de club répertoriées sur Wyylde](aff:wyylde), lisibles sans abonnement avec leur thème et souvent leurs conditions d'entrée. Les pages [Saint-Étienne](/ville/saint-etienne) et [Loire](/departement/loire) de l'annuaire recensent les lieux que nous connaissons."
         }
       ],
       "sources": [
@@ -372,6 +677,8 @@
     {
       "id": "histoire",
       "title": "Association fondée fin 2008, soirées Gang Bang dès 2009 : l'histoire du Moloko",
+      "icon": "history",
+      "summary": "Association déclarée en décembre 2008, site en ligne dès avril 2009, déménagement au 31 rue des Haveurs entre fin 2014 et mars 2015 ; la date de la première soirée reste inconnue.",
       "blocks": [
         {
           "kind": "timeline",
@@ -402,7 +709,7 @@
             },
             {
               "date": "Octobre 2014 - mars 2015",
-              "text": "Le club quitte l'impasse des Mouliniers, que sa page contact donne encore en octobre 2014 : le 15 mars 2015, le site annonce qu'il « a déménagé » au 31 rue des Haveurs, adresse que l'association déclare le 30 mars. L'impasse reste le siège déclaré des deux associations."
+              "text": "Le club quitte l'impasse des Mouliniers, encore indiquée sur sa page contact en octobre 2014, pour le 31 rue des Haveurs : le site annonce le déménagement le 15 mars 2015, l'association déclare l'adresse le 30 mars. L'impasse reste le siège déclaré des deux associations."
             },
             {
               "date": "2016-2017",
@@ -412,7 +719,7 @@
         },
         {
           "kind": "text",
-          "body": "La date de la toute première soirée reste inconnue : l'association naît fin 2008, le site est archivé dès avril 2009, et l'anniversaire de 2011 ne précise pas l'année de référence."
+          "body": "La date de la toute première soirée reste inconnue : l'anniversaire fêté en février 2011 ne précise pas l'année de référence."
         }
       ],
       "sources": [

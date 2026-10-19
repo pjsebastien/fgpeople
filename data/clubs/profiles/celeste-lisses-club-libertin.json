@@ -35,6 +35,65 @@
     ]
   },
   "lead": "À Lisses, sur l'axe A6-Francilienne, Le Céleste fonctionne en sauna la journée et en club libertin avec DJ et dress code le samedi soir, sur 600 m² avec terrasses et jardin. Il est ouvert : son site affiche des horaires et des tarifs d'hiver valables jusqu'au 30 avril 2027 et annonce une soirée privée le 31 octobre 2026. Le lieu n'a pas changé de société depuis 2014, seulement de nom : il s'est d'abord appelé Sauna Les Terrasses, puis Esprit Libertin.",
+  "glance": [
+    {
+      "icon": "calendar",
+      "label": "Ouvert",
+      "value": "Tous les jours sauf le mardi"
+    },
+    {
+      "icon": "spa",
+      "label": "Formule",
+      "value": "Sauna le jour, club le samedi soir"
+    },
+    {
+      "icon": "euro",
+      "label": "Entrée couple",
+      "value": "50 € · 60 € le vendredi et le samedi"
+    },
+    {
+      "icon": "shield",
+      "label": "Dress code",
+      "value": "Chemise exigée vendredi et samedi"
+    },
+    {
+      "icon": "ruler",
+      "label": "Surface",
+      "value": "600 m², terrasses et jardin compris"
+    },
+    {
+      "icon": "history",
+      "label": "Anciens noms",
+      "value": "Sauna Les Terrasses, Esprit Libertin"
+    }
+  ],
+  "audience": [
+    {
+      "who": "couples",
+      "status": "oui",
+      "detail": "Du mercredi au dimanche ; dress code exigé le vendredi et le samedi",
+      "price": "50 à 60 €"
+    },
+    {
+      "who": "femmes",
+      "status": "oui",
+      "detail": "Du mercredi au dimanche, même prix chaque jour ; paréo à apporter",
+      "price": "15 €"
+    },
+    {
+      "who": "hommes",
+      "status": "selon",
+      "detail": "Lundi réservé aux hommes gay et bi ; les autres jours, entrée non garantie (quota)",
+      "price": "60 à 80 € · lundi 20-25 €"
+    }
+  ],
+  "highlights": [
+    "Vendredi et samedi, chemise et chaussures de ville exigées sans tolérance ; préférez le pantalon de ville, le jean foncé étant admis ou refusé selon la page.",
+    "Téléphones et appareils photo sont interdits à l'intérieur, sous peine d'exclusion sans remboursement.",
+    "Le club ne prête plus de paréo aux femmes pour le mode sauna : apportez le vôtre.",
+    "Piscine et jacuzzi extérieurs sont fermés depuis le 1er octobre 2026 ; le samedi soir, sauna, hammam et jacuzzi intérieur ferment aussi.",
+    "Plus d'entrée 1 h 30 avant la fermeture, et toute sortie est définitive."
+  ],
   "keyFacts": [
     {
       "label": "Accès",
@@ -130,6 +189,8 @@
     {
       "id": "lundi-mecs-samedi-club",
       "title": "Lundi « 100 % mecs », mardi fermé, samedi soir en mode club",
+      "icon": "calendar",
+      "summary": "Lundi entre hommes gay et bi, mardi fermé, mercredi, jeudi et dimanche toutes tendances, vendredi et samedi libertins, avec un mode club le samedi soir.",
       "blocks": [
         {
           "kind": "text",
@@ -190,8 +251,14 @@
           ]
         },
         {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Le site se contredit sur deux points",
+          "body": "- **Le vendredi** : « libertin » sur la grille de septembre et dans l'agenda d'octobre, il reste « toutes tendances » sur la page Le club, modifiée en juillet.\n- **Le samedi soir** : le mode club démarre à 20 h selon la grille, à 21 h selon la page Le club et celle de la soirée du 10 octobre, avec des coins câlins ouverts à 22 h."
+        },
+        {
           "kind": "text",
-          "body": "Le site se contredit deux fois. Le vendredi, « libertin » sur la grille de septembre et dans l'agenda d'octobre, reste « toutes tendances » sur la page Le club, modifiée en juillet. Le samedi, le mode club démarre à 20 h selon la grille, à 21 h selon la page Le club et celle de la soirée du 10 octobre, avec des coins câlins ouverts à 22 h.\n\nLe samedi soir est souvent thématique : soirée « No limit » le 3 octobre 2026, soirée « cocu » le 10, et au printemps des soirées talons aiguilles, Latino party ou White party. Le programme sort au compte-gouttes : le 16 octobre 2026, l'agenda du site ne détaillait ni le 17 ni le 24 octobre, seulement la soirée d'Halloween du 31. Pour rester informé, le club invite lui-même, par un bandeau de sa page d'accueil, à le « rejoindre » sur Wyylde. [Un compte gratuit sur Wyylde](aff:wyylde) suffit pour consulter l'agenda des soirées du site ; répondre aux messages demande en revanche un abonnement.\n\nLe mardi reste fermé : un visuel annonce une future journée « toutes tendances », sans date."
+          "body": "Le mardi reste fermé : un visuel annonce une future journée « toutes tendances », sans date."
         }
       ],
       "sources": [
@@ -205,16 +272,54 @@
     {
       "id": "tarifs-hiver-plus-doux",
       "title": "Des tarifs d'hiver dits « plus doux », valables jusqu'au 30 avril 2027",
+      "icon": "euro",
+      "summary": "Couple 50 ou 60 €, homme seul 60 ou 80 €, femme seule 15 € ; des tarifs dits « plus doux », mais plus élevés en semaine que ceux relevés par un annuaire à l'automne 2025.",
       "blocks": [
         {
-          "kind": "text",
-          "body": "Un homme seul paie 10 € de plus qu'un couple entier le mercredi, le jeudi et le dimanche, et 20 € de plus le vendredi et le samedi (80 € contre 60 €). Une femme seule paie 15 € quel que soit le jour, quatre fois moins qu'un homme seul en semaine. Le lundi entre hommes est le seul jour sans consommation incluse, et le seul où le prix dépend de l'âge.\n\nUne femme qui préfère ne pas découvrir le lieu seule peut chercher d'abord un couple ou une autre femme du secteur avec qui venir : [Carré Libertin, site ouvert en 2007](aff:carre-libertin), donne aux femmes et aux couples un accès complet gratuit, contre trois photos de profil, et annonce environ 60 % de femmes et de couples parmi ses inscrits.\n\nLe paréo, demandé aux femmes en mode sauna, n'est plus prêté « suite à de nombreux vols » : apportez le vôtre. Les consommations supplémentaires se règlent en partant, en espèces ou par carte.\n\nLe club dit ces tarifs « plus doux », la piscine fermée réduisant ses frais, mais les grilles de l'été 2026, retirées du site, ne permettent pas de chiffrer la baisse ; face aux prix de l'automne 2025 relevés par un annuaire (couple 45 €, homme seul 50 € en semaine), l'hiver 2026 serait même plus cher. Aucun remboursement n'est prévu pour une affluence décevante ou un équipement en panne, et toute sortie est définitive."
+          "kind": "list",
+          "title": "Qui paie quoi",
+          "items": [
+            "**Homme seul** : 10 € de plus qu'un couple entier le mercredi, le jeudi et le dimanche, 20 € de plus le vendredi et le samedi (80 € contre 60 €).",
+            "**Femme seule** : 15 € quel que soit le jour, quatre fois moins qu'un homme seul en semaine.",
+            "**Lundi entre hommes** : le seul jour sans consommation incluse, et le seul où le prix dépend de l'âge."
+          ]
         },
         {
-          "kind": "callout",
-          "tone": "info",
-          "title": "Soirée privée du samedi 31 octobre 2026",
-          "body": "« Orgasm X - Spécial Halloween », de 21 h à 4 h : déguisement attendu, sinon le dress code habituel ou une tenue de bain (slip ou boxer moulant pour les hommes, short de bain refusé). Prévente : homme seul 85 €, couple 65 €, femme seule 20 € ; sur place : 100 €, 80 € et 30 €, une boisson comprise. Les non-membres créent à l'arrivée une carte de membre gratuite, sans laquelle l'entrée est refusée et la prévente perdue. Les 20 premiers arrivants déguisés gagnent une entrée valable six mois."
+          "kind": "text",
+          "body": "Une femme qui préfère ne pas découvrir le lieu seule peut chercher d'abord un couple ou une autre femme du secteur avec qui venir : [Carré Libertin, site ouvert en 2007](aff:carre-libertin), donne aux femmes et aux couples un accès complet gratuit, contre trois photos de profil, et annonce environ 60 % de femmes et de couples parmi ses inscrits."
+        },
+        {
+          "kind": "text",
+          "body": "Le club dit ces tarifs « plus doux », la piscine fermée réduisant ses frais. Les grilles de l'été 2026, retirées du site, ne permettent pas de chiffrer la baisse ; face à l'automne 2025, l'hiver 2026 serait même plus cher en semaine :"
+        },
+        {
+          "kind": "table",
+          "headers": [
+            "Entrée",
+            "Automne 2025 (annuaire)",
+            "Hiver 2026-2027 (club)"
+          ],
+          "rows": [
+            [
+              "Couple",
+              "45 €",
+              "50 €"
+            ],
+            [
+              "Homme seul",
+              "50 €",
+              "60 €"
+            ]
+          ]
+        },
+        {
+          "kind": "list",
+          "title": "Avant de payer",
+          "items": [
+            "**Paréo** : demandé aux femmes en mode sauna, il n'est plus prêté « suite à de nombreux vols ». Apportez le vôtre.",
+            "**Consommations en plus** : réglées en partant, en espèces ou par carte.",
+            "**Pas de remboursement** si l'affluence déçoit ou si un équipement est en panne ; toute sortie est définitive."
+          ]
         }
       ],
       "sources": [
@@ -222,18 +327,60 @@
         "s2",
         "s4",
         "s5",
-        "s7",
-        "s12",
         "s24"
       ]
     },
     {
       "id": "chemise-telephone-entree",
-      "title": "Chemise exigée vendredi et samedi, téléphone interdit, entrée jamais garantie",
+      "title": "Chemise exigée vendredi et samedi, téléphone interdit à l'intérieur",
+      "icon": "shield",
+      "summary": "Vendredi et samedi : chemise, pantalon et chaussures de ville pour les hommes, robe ou jupe et talons pour les femmes. Téléphone interdit et douche obligatoire.",
       "blocks": [
         {
           "kind": "text",
-          "body": "Le vendredi et le samedi, le dress code est obligatoire, avec « aucune tolérance » affichée sur l'accueil depuis avril 2026 au moins. Hommes : chemise, pantalon de ville et chaussures de ville ; polo, tee-shirt, short, jogging et baskets sont refusés. Le jean foncé, admis par la page Le club et les pages des soirées d'octobre, est refusé par les visuels tarifaires de septembre 2026, « troué et non troué » : un pantalon de ville évite la discussion à la porte. Femmes : robe, jupe ou lingerie (body compris), avec talons ou compensées. Les autres jours, une tenue correcte suffit, hors tenue de travail ; la page des nouveaux venus refuse aussi shorts de plage, claquettes, joggings et casquettes. En mode sauna, les hommes sont nus sous la serviette, les femmes en serviette et paréo.\n\nLa page des nouveaux venus qualifie Le Céleste de « club privé » : l'entrée n'est pas assurée, le nombre d'hommes seuls peut être limité pour la tranquillité des femmes seules et des couples, et l'établissement se réserve le droit de refuser l'entrée, notamment aux personnes ivres. Le club ne renseigne pas l'affluence par téléphone.\n\nPour un homme seul, le samedi soir cumule l'entrée la plus chère (80 €), ce quota et, à l'intérieur, une règle sans appel : insister auprès d'un couple ou le suivre vaut exclusion. Venir en couple coûte 60 € à deux et échappe au quota. Mieux vaut donc faire connaissance avant, en ligne : [l'inscription sur Gleese, sans carte bancaire](aff:gleese), ouvre un réseau social libertin français où chaque profil est vérifié par téléphone. Ouvert fin 2024, il reste loin des 7 millions de membres revendiqués par Wyylde, et rien n'indique que des habitués du Céleste y soient inscrits."
+          "body": "Le vendredi et le samedi, le dress code est obligatoire, avec « aucune tolérance » affichée sur l'accueil depuis avril 2026 au moins. Les autres jours, une tenue correcte suffit."
+        },
+        {
+          "kind": "table",
+          "caption": "Tenue attendue selon le jour",
+          "headers": [
+            "Quand, pour qui",
+            "Exigé",
+            "Refusé"
+          ],
+          "rows": [
+            [
+              "Vendredi et samedi, hommes",
+              "Chemise, pantalon de ville, chaussures de ville",
+              "Polo, tee-shirt, short, jogging, baskets"
+            ],
+            [
+              "Vendredi et samedi, femmes",
+              "Robe, jupe ou lingerie (body compris), avec talons ou compensées",
+              "-"
+            ],
+            [
+              "Autres jours",
+              "Tenue correcte",
+              "Tenue de travail"
+            ],
+            [
+              "En toute circonstance, selon la page des nouveaux venus",
+              "-",
+              "Shorts de plage, claquettes, joggings, casquettes"
+            ],
+            [
+              "En mode sauna",
+              "Hommes nus sous la serviette, femmes en serviette et paréo",
+              "-"
+            ]
+          ]
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Le jean foncé, admis ou refusé selon la page",
+          "body": "Le jean foncé, admis par la page Le club et les pages des soirées d'octobre, est refusé par les visuels tarifaires de septembre 2026, « troué et non troué » : un pantalon de ville évite la discussion à la porte."
         },
         {
           "kind": "list",
@@ -247,10 +394,6 @@
             "Établissement non-fumeur : on fume sur les terrasses.",
             "Un refus est définitif ; l'insistance et la vulgarité mènent à l'exclusion sans remboursement."
           ]
-        },
-        {
-          "kind": "text",
-          "body": "Pour une première visite, une page du site datant d'octobre 2024 conseille de le dire au barman, qui remet clé de casier et serviette et fait visiter si l'affluence le permet ; elle mentionne aussi un bracelet de deux préservatifs, d'autres étant disponibles au bar."
         }
       ],
       "sources": [
@@ -261,17 +404,139 @@
         "s5",
         "s6",
         "s7",
-        "s10",
+        "s17"
+      ]
+    },
+    {
+      "id": "club-prive-hommes-seuls",
+      "title": "« Club privé » : entrée jamais garantie, homme seul à 80 € le samedi soir",
+      "icon": "lock",
+      "summary": "L'entrée n'est jamais assurée : le club peut limiter les hommes seuls et refuser l'entrée. Le samedi soir, un homme seul paie 80 €, un couple 60 € à deux, hors quota.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "La page des nouveaux venus qualifie Le Céleste de « club privé ». Concrètement :\n- l'entrée n'est pas assurée ;\n- le nombre d'hommes seuls peut être limité, pour la tranquillité des femmes seules et des couples ;\n- l'établissement se réserve le droit de refuser l'entrée, notamment aux personnes ivres ;\n- le club ne renseigne pas l'affluence par téléphone."
+        },
+        {
+          "kind": "text",
+          "body": "Pour un homme seul, le samedi soir cumule l'entrée la plus chère (80 €), ce quota et, à l'intérieur, une règle sans appel : insister auprès d'un couple ou le suivre vaut exclusion. Venir en couple coûte 60 € à deux et échappe au quota.\n\nMieux vaut donc faire connaissance avant, en ligne : [l'inscription sur Gleese, sans carte bancaire](aff:gleese), ouvre un réseau social libertin français où chaque profil est vérifié par téléphone. Ouvert fin 2024, il reste loin des 7 millions de membres revendiqués par Wyylde, et rien n'indique que des habitués du Céleste y soient inscrits."
+        },
+        {
+          "kind": "callout",
+          "tone": "tip",
+          "title": "Pour une première visite",
+          "body": "Une page du site datant d'octobre 2024 conseille de le dire au barman, qui remet clé de casier et serviette et fait visiter si l'affluence le permet. Elle mentionne aussi un bracelet de deux préservatifs, d'autres étant disponibles au bar."
+        }
+      ],
+      "sources": [
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s10"
+      ]
+    },
+    {
+      "id": "samedis-a-theme-halloween",
+      "title": "Samedis à thème : « No limit », « cocu », puis Halloween le 31 octobre 2026",
+      "icon": "mask",
+      "summary": "Le samedi soir est souvent thématique. Au 16 octobre 2026, l'agenda n'annonçait plus que la soirée privée d'Halloween du 31, avec carte de membre gratuite obligatoire.",
+      "blocks": [
+        {
+          "kind": "table",
+          "caption": "Samedis à thème relevés dans l'agenda du club",
+          "headers": [
+            "Date",
+            "Soirée"
+          ],
+          "rows": [
+            [
+              "3 octobre 2026",
+              "Soirée « No limit »"
+            ],
+            [
+              "10 octobre 2026",
+              "Soirée « cocu »"
+            ],
+            [
+              "31 octobre 2026",
+              "Soirée privée « Orgasm X - Spécial Halloween »"
+            ],
+            [
+              "Printemps 2026",
+              "Talons aiguilles, Latino party, White party"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le programme sort au compte-gouttes : le 16 octobre 2026, l'agenda du site ne détaillait ni le 17 ni le 24 octobre, seulement la soirée d'Halloween du 31.\n\nPour rester informé, le club invite lui-même, par un bandeau de sa page d'accueil, à le « rejoindre » sur Wyylde. [Un compte gratuit sur Wyylde](aff:wyylde) suffit pour consulter l'agenda des soirées du site ; répondre aux messages demande en revanche un abonnement."
+        },
+        {
+          "kind": "callout",
+          "tone": "info",
+          "title": "Soirée privée du samedi 31 octobre 2026",
+          "body": "« Orgasm X - Spécial Halloween », de 21 h à 4 h. Déguisement attendu, sinon le dress code habituel ou une tenue de bain (slip ou boxer moulant pour les hommes, short de bain refusé). Les 20 premiers arrivants déguisés gagnent une entrée valable six mois."
+        },
+        {
+          "kind": "table",
+          "caption": "Entrée de la soirée du 31 octobre 2026, une boisson comprise",
+          "headers": [
+            "Entrée",
+            "En prévente",
+            "Sur place"
+          ],
+          "rows": [
+            [
+              "Homme seul",
+              "85 €",
+              "100 €"
+            ],
+            [
+              "Couple",
+              "65 €",
+              "80 €"
+            ],
+            [
+              "Femme seule",
+              "20 €",
+              "30 €"
+            ]
+          ]
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Carte de membre obligatoire ce soir-là",
+          "body": "Les non-membres créent à l'arrivée une carte de membre gratuite, sans laquelle l'entrée est refusée et la prévente perdue."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s6",
+        "s7",
+        "s12",
         "s17"
       ]
     },
     {
       "id": "espaces-et-bassins",
       "title": "600 m², douze cabines et une piscine chauffée fermée depuis le 1er octobre",
+      "icon": "building",
+      "summary": "Sur 600 m² : bar, piste de danse, douze cabines, backroom, sauna, hammam et jacuzzi intérieur. La piscine chauffée, apparue à l'été 2026, est fermée pour l'hiver.",
       "blocks": [
         {
           "kind": "text",
-          "body": "Les 600 m² annoncés, terrasses et jardin compris, n'ont pas varié depuis 2015 d'un site à l'autre. À l'intérieur : bar et petite restauration, piste de danse, espace détente, espaces câlins, douze cabines (dix jusqu'en 2022), backroom, glory holes, croix de Saint-André, cabine exhib et vidéos X. Côté bien-être : sauna, hammam, jacuzzi intérieur et douches communes. Dehors, les terrasses accueillent transats, espaces fumeurs et un coin bar ; elles ont rouvert en mai 2025 avec un « solarium en plein air »."
+          "body": "Les 600 m² annoncés, terrasses et jardin compris, n'ont pas varié depuis 2015 d'un site à l'autre."
+        },
+        {
+          "kind": "list",
+          "items": [
+            "**Bar et détente** : bar et petite restauration, piste de danse, espace détente.",
+            "**Espaces de jeu** : espaces câlins, douze cabines (dix jusqu'en 2022), backroom, glory holes, croix de Saint-André, cabine exhib, vidéos X.",
+            "**Bien-être** : sauna, hammam, jacuzzi intérieur et douches communes.",
+            "**Dehors** : terrasses avec transats, espaces fumeurs et coin bar, rouvertes en mai 2025 avec un « solarium en plein air »."
+          ]
         },
         {
           "kind": "table",
@@ -297,7 +562,7 @@
         },
         {
           "kind": "text",
-          "body": "Nouveauté de 2026, la piscine extérieure chauffée, absente de la page Le club archivée le 10 mai et de l'accueil du 6 juin, figure dans la version de cette page modifiée le 29 juillet. Le club n'a publié ni sa date d'ouverture exacte, ni ses dimensions, ni sa date de réouverture en 2027 ; seul repère, les tarifs d'hiver courent jusqu'au 30 avril.\n\nCôté restauration, l'agenda du 10 octobre 2026 annonçait des pizzas ; la carte décrite en 2024 comptait aussi paninis et plats cuisinés, avec cocktails et champagne au bar. Aucune source ne mentionne de chambres ni d'hébergement : les cabines sont des espaces de jeu."
+          "body": "Nouveauté de 2026 : absente de la page Le club archivée le 10 mai et de l'accueil du 6 juin, la piscine extérieure chauffée figure dans cette page modifiée le 29 juillet. Ni sa date d'ouverture exacte, ni ses dimensions, ni sa date de réouverture en 2027 ne sont publiées ; seul repère, les tarifs d'hiver courent jusqu'au 30 avril.\n\nCôté restauration, l'agenda du 10 octobre 2026 annonçait des pizzas ; la carte décrite en 2024 comptait aussi paninis et plats cuisinés, avec cocktails et champagne au bar. Aucune source ne mentionne de chambres ni d'hébergement : les cabines sont des espaces de jeu."
         }
       ],
       "sources": [
@@ -344,15 +609,31 @@
         "s4",
         "s28",
         "s29"
-      ]
+      ],
+      "icon": "camera",
+      "summary": "La galerie officielle compte 16 images de 2023 à 2026 : sauna, jacuzzi intérieur, cabines, salle rouge, vestiaire, terrasses et piscine. Aucune photo de clients."
     },
     {
       "id": "rue-du-bois-chaland",
       "title": "Rue du Bois Chaland, à dix minutes d'Évry : le seul sauna libertin repéré en Essonne",
+      "icon": "map",
+      "summary": "Au 1 rue du Bois Chaland, sur l'axe A6-Francilienne, avec parking privé gratuit. Seule adresse libertine de Lisses, c'est le seul sauna libertin en activité repéré en Essonne.",
       "blocks": [
         {
           "kind": "text",
-          "body": "Le Céleste se trouve au 1 rue du Bois Chaland, à Lisses, sur l'axe A6-Francilienne, à dix minutes d'Évry selon le club, avec un parking privé gratuit sous vidéosurveillance. Le site actuel n'affiche plus de numéro : son formulaire de contact sert aussi aux demandes de privatisation. Le 07 63 66 96 96, utilisé depuis 2022 au moins, figure sur la fiche PagesJaunes mise à jour par le professionnel le 1er octobre 2026. Les 09 84 30 61 17 et 01 64 97 82 88, visibles sur d'anciennes fiches, ne sont confirmés par aucune source récente.\n\nC'est la seule adresse libertine de [Lisses](/ville/lisses) : le « Sauna Club Les Terrasses » encore cité par des annuaires est ce même lieu sous son ancien nom. Dans le reste de [l'Essonne](/departement/essonne), notre annuaire recense [Secret Suite à Brétigny-sur-Orge](/suite-bretigny-essenne) ; côté Seine-et-Marne, on trouve [L'Angelus à Melun](/angelus-club-libertin-melun). Nous n'avons trouvé aucun autre sauna libertin en activité dans le département."
+          "body": "Le Céleste se trouve au 1 rue du Bois Chaland, à Lisses, sur l'axe A6-Francilienne, à dix minutes d'Évry selon le club, avec un parking privé gratuit sous vidéosurveillance. Le site actuel n'affiche plus de numéro : son formulaire de contact sert aussi aux demandes de privatisation."
+        },
+        {
+          "kind": "list",
+          "title": "Les numéros qui circulent",
+          "items": [
+            "**07 63 66 96 96** : utilisé depuis 2022 au moins, il figure sur la fiche PagesJaunes mise à jour par le professionnel le 1er octobre 2026.",
+            "**09 84 30 61 17** et **01 64 97 82 88** : visibles sur d'anciennes fiches, ils ne sont confirmés par aucune source récente."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "C'est la seule adresse libertine de [Lisses](/ville/lisses) : le « Sauna Club Les Terrasses » encore cité par des annuaires est ce même lieu sous son ancien nom.\n\nDans le reste de [l'Essonne](/departement/essonne), notre annuaire recense [Secret Suite à Brétigny-sur-Orge](/suite-bretigny-essenne) ; côté Seine-et-Marne, on trouve [L'Angelus à Melun](/angelus-club-libertin-melun). Nous n'avons trouvé aucun autre sauna libertin en activité dans le département."
         }
       ],
       "sources": [
@@ -369,6 +650,8 @@
     {
       "id": "histoire-trois-noms",
       "title": "Sauna Les Terrasses, Esprit Libertin, Le Céleste : trois noms, une société depuis 2014",
+      "icon": "history",
+      "summary": "Sauna gay en 2015 sous le nom Sauna Les Terrasses, puis Club Esprit Libertin, le lieu s'appelle Le Céleste depuis 2023 au plus tard, sous la même SARL créée en 2014.",
       "blocks": [
         {
           "kind": "text",
@@ -418,23 +701,11 @@
               "text": "Une piscine extérieure chauffée apparaît sur le site ; fermée pour l'hiver le 1er octobre."
             }
           ]
-        },
-        {
-          "kind": "callout",
-          "tone": "info",
-          "title": "Les rumeurs de 2025",
-          "body": "En fermant ses week-ends, le club a démenti des rumeurs de défaut d'autorisation, de décision de la mairie ou de dépôt de bilan, dont nous n'avons trouvé aucune trace : pas d'article de presse, une société active aux comptes déposés chaque année de 2023 à 2026. La date de reprise reste floue : le samedi 7 février 2026 selon un extrait Facebook illisible sans connexion, des samedis à thème à l'agenda dès le 14 mars."
-        },
-        {
-          "kind": "text",
-          "body": "Une seconde société, la SARL L'Envie, installée à la même adresse depuis juin 2018, organise la soirée d'Halloween selon la billetterie Weezevent ; le partage des rôles entre les deux n'est pas public."
         }
       ],
       "sources": [
         "s8",
-        "s12",
         "s13",
-        "s14",
         "s15",
         "s16",
         "s17",
@@ -442,8 +713,40 @@
         "s19",
         "s20",
         "s21",
+        "s23"
+      ]
+    },
+    {
+      "id": "week-ends-fermes-2025",
+      "title": "Week-ends fermés pour travaux en 2025 : des rumeurs démenties par le club",
+      "icon": "info",
+      "summary": "En fermant ses vendredis et samedis soirs en 2025, le club a démenti des rumeurs de défaut d'autorisation ou de dépôt de bilan, dont nous n'avons trouvé aucune trace.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "En fermant ses week-ends, le club a démenti des rumeurs de défaut d'autorisation, de décision de la mairie ou de dépôt de bilan. Nous n'en avons trouvé aucune trace : pas d'article de presse, une société active aux comptes déposés chaque année de 2023 à 2026."
+        },
+        {
+          "kind": "list",
+          "title": "Une date de reprise floue",
+          "items": [
+            "**Janvier 2026** : le site annonce la réouverture.",
+            "**Samedi 7 février 2026** : reprise selon un extrait Facebook, illisible sans connexion.",
+            "**14 mars 2026** : des samedis à thème figurent à l'agenda."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Une seconde société, la SARL L'Envie, installée à la même adresse depuis juin 2018, organise la soirée d'Halloween selon la billetterie Weezevent ; le partage des rôles entre les deux n'est pas public."
+        }
+      ],
+      "sources": [
+        "s12",
+        "s13",
+        "s14",
+        "s16",
+        "s17",
         "s22",
-        "s23",
         "s28"
       ]
     }

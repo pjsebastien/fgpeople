@@ -32,6 +32,65 @@
     ]
   },
   "lead": "L'Aparté n'était pas un club mais un bar d'ambiance du 11 rue des Farges, à Périgueux : karaoké le jeudi, DJ le week-end, tapas. Le mercredi, de 20h à 1h, il recevait les couples libertins, et eux seuls. Son site est figé depuis septembre 2011, et l'adresse abrite depuis 2022 un restaurant gastronomique.",
+  "glance": [
+    {
+      "icon": "closed",
+      "label": "Fermé",
+      "value": "Après sept. 2011, au plus tard en janv. 2013"
+    },
+    {
+      "icon": "drink",
+      "label": "Type de lieu",
+      "value": "Bar d'ambiance, pas un club libertin",
+      "confidence": "source_unique"
+    },
+    {
+      "icon": "couple",
+      "label": "Soirée libertine",
+      "value": "Le mercredi, 20h – 1h, couples seulement"
+    },
+    {
+      "icon": "map",
+      "label": "Adresse",
+      "value": "11-13 rue des Farges, Périgueux"
+    },
+    {
+      "icon": "building",
+      "label": "L'adresse aujourd'hui",
+      "value": "Oxalis, restaurant gastronomique (2022)"
+    },
+    {
+      "icon": "heart",
+      "label": "Sauna cité en ville",
+      "value": "Atlantis 24, 14 rue La Fayette",
+      "confidence": "a_verifier"
+    }
+  ],
+  "audience": [
+    {
+      "who": "couples",
+      "status": "oui",
+      "detail": "Le mercredi de 20h à 1h, lors des « soirées rencontre » qui leur étaient réservées",
+      "price": "Jamais publié"
+    },
+    {
+      "who": "femmes",
+      "status": "non",
+      "detail": "Le site n'annonçait d'entrée que pour les couples le mercredi soir"
+    },
+    {
+      "who": "hommes",
+      "status": "non",
+      "detail": "Pas le mercredi soir : « Messieurs seuls s'abstenir », précisait l'annuaire"
+    }
+  ],
+  "highlights": [
+    "L'Aparté n'était pas un club libertin : c'était un bar d'ambiance qui réservait sa soirée du mercredi aux couples libertins.",
+    "Inutile de vous rendre rue des Farges : depuis 2022, le 11-13 abrite Oxalis, un restaurant gastronomique.",
+    "En ville, les guides 2025-2026 ne citent qu'Atlantis 24, 14 rue La Fayette, un sauna « à dominante gay » ouvert aussi aux couples selon l'un d'eux.",
+    "Autour de Périgueux, ils citent La Ducha ou Le Phénix à Coulounieix-Chamiers, et L'Interdit ou Pas à Chancelade, au statut non vérifié.",
+    "Ces guides se recopient entre eux : vérifiez chaque adresse avant de vous déplacer."
+  ],
   "keyFacts": [
     {
       "label": "Type de lieu",
@@ -123,13 +182,92 @@
       "blocks": [
         {
           "kind": "text",
-          "body": "Le site se présentait comme un « bar d'ambiance » à Périgueux. Sa description annonçait tapas, matchs retransmis, karaoké le jeudi et soirées à thème, et la page d'accueil un DJ le vendredi et le samedi. Le libertinage tenait dans une page à part, qui annonçait des « soirées rencontre » le mercredi de 20h à 1h, réservées aux couples. L'annuaire sauna-club-libertin.com, qui relayait l'information en présentant le bar comme « nouveau sur Périgueux », précisait « Messieurs seuls s'abstenir ». Ni le site ni cet annuaire ne mentionnaient de tarif, d'espace réservé ou de tenue demandée : l'étiquette « bar libertin » de l'annuaire force le trait."
+          "body": "Le site de L'Aparté se présentait comme un « bar d'ambiance » à Périgueux. Le libertinage n'y occupait qu'une page à part, consacrée au mercredi soir."
+        },
+        {
+          "kind": "table",
+          "caption": "D'après le site du bar (2011) : karaoké, tapas, matchs et soirées à thème viennent de sa description, le DJ de sa page d'accueil.",
+          "headers": [
+            "Jour",
+            "Programme"
+          ],
+          "rows": [
+            [
+              "Mercredi, 20h – 1h",
+              "« Soirées rencontre » réservées aux couples libertins"
+            ],
+            [
+              "Jeudi",
+              "Karaoké"
+            ],
+            [
+              "Vendredi et samedi",
+              "Soirée DJ"
+            ],
+            [
+              "Jour non précisé",
+              "Tapas, matchs retransmis, soirées à thème"
+            ]
+          ]
+        },
+        {
+          "kind": "callout",
+          "tone": "info",
+          "title": "« Bar libertin » : une étiquette qui force le trait",
+          "body": "L'annuaire sauna-club-libertin.com relayait ces soirées en présentant le bar comme « nouveau sur Périgueux », avec une consigne : « Messieurs seuls s'abstenir ». Ni le site ni cet annuaire ne mentionnaient de tarif, d'espace réservé ou de tenue demandée."
         },
         {
           "kind": "text",
           "body": "Aucun des trois guides libertins de Dordogne consultés en octobre 2026 ne cite de bar à Périgueux. Les couples qui cherchent ce premier contact avant de pousser la porte d'un club peuvent [échanger entre couples sur Carré Libertin](aff:carre-libertin) : en ligne depuis 2007, le site donne un accès complet gratuit aux couples dont le profil compte trois photos."
         }
-      ]
+      ],
+      "icon": "drink",
+      "summary": "Un bar à tapas avec karaoké le jeudi et DJ le week-end, qui réservait le mercredi soir aux couples libertins, sans tarif, espace réservé ni tenue annoncés."
+    },
+    {
+      "id": "guides-dordogne-2025-2026",
+      "title": "Rue La Fayette, Coulounieix-Chamiers, Bergerac : les adresses des guides 2025-2026",
+      "sources": [
+        "s16",
+        "s17",
+        "s18"
+      ],
+      "confidence": "a_verifier",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Trois guides consultés en octobre 2026 recensent les lieux libertins de Dordogne, sans citer L'Aparté. Ce sont des annuaires qui se recopient : vérifiez chaque adresse avant de vous déplacer."
+        },
+        {
+          "kind": "list",
+          "title": "À Périgueux et autour",
+          "items": [
+            "**Périgueux, 14 rue La Fayette** : Atlantis 24 (ou L'Atlantis). Un guide le classe comme sauna libertin « à dominante gay », ouvert aussi aux couples ; un autre le présente comme « le seul club de la ville ».",
+            "**Coulounieix-Chamiers** : La Ducha pour un guide, Le Phénix, route de Bergerac, pour un autre. Peut-être [l'établissement « la douche »](/la-douche-coulounieix-chamiers) de notre annuaire, sans que le lien soit établi.",
+            "**Chancelade** : L'Interdit ou Pas, statut non vérifié."
+          ]
+        },
+        {
+          "kind": "callout",
+          "tone": "info",
+          "title": "Atlantis 24, l'ancien Cantou ?",
+          "body": "Le 14 rue La Fayette est l'adresse de [notre fiche Sauna Le Cantou](/sauna-le-cantou-perigueux) : probablement le même lieu sous un nouveau nom, ce que nous n'avons pas vérifié."
+        },
+        {
+          "kind": "list",
+          "title": "Ailleurs en Dordogne",
+          "items": [
+            "Dans notre annuaire : [Le Délice](/le-delice-saint-laurent-des-vignes) et le [Sauna de la Gare à Bergerac](/sauna-de-la-gare-bergerac), sauna gay selon un guide.",
+            "Hors de notre annuaire : Le 16, à Creysse, et Le Diamant Noir, un camping à Sainte-Alvère."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Pour savoir quelles soirées ont réellement lieu, vous pouvez [contrôler les soirées annoncées sur Wyylde](aff:wyylde) : l'ex-Netéchangisme, en ligne depuis 2001, ouvre son agenda à un compte gratuit mais réserve les réponses aux messages aux abonnés. Nos fiches du secteur sont réunies sur [la page Dordogne de l'annuaire](/departement/dordogne)."
+        }
+      ],
+      "icon": "map",
+      "summary": "En ville, les guides ne citent qu'Atlantis 24, rue La Fayette, sauna « à dominante gay » selon l'un d'eux ; les autres adresses sont en périphérie ou ailleurs en Dordogne."
     },
     {
       "id": "11-13-rue-des-farges-2005-2026",
@@ -190,41 +328,15 @@
           "kind": "callout",
           "tone": "info",
           "title": "Une déduction, pas une preuve",
-          "body": "Le rattachement de L'Aparté à PAUS-K-FE repose sur la même adresse, un même bar à tapas et un calendrier cohérent : site actif en septembre 2011, fonds « Bar Tapas » confié à un nouvel exploitant en mai 2012. Aucun acte ne nomme L'Aparté. Sa fermeture se situe probablement entre ces deux dates, au plus tard en janvier 2013."
+          "body": "Le rattachement de L'Aparté à PAUS-K-FE repose sur trois indices, pas sur un acte :\n- la même adresse ;\n- un même bar à tapas ;\n- un calendrier cohérent : site actif en septembre 2011, fonds « Bar Tapas » confié à un nouvel exploitant en mai 2012.\n\nSa fermeture se situe probablement entre ces deux dates, au plus tard en janvier 2013."
         },
         {
           "kind": "text",
           "body": "Le local occupe une « très ancienne demeure médiévale » aux voûtes gothiques, selon le critique Gilles Pudlowski (mai 2023), et compte 45 couverts d'après l'office de tourisme. Ni cet article ni le site du restaurant n'évoquent les bars qui l'ont précédé."
         }
-      ]
-    },
-    {
-      "id": "guides-dordogne-2025-2026",
-      "title": "Rue La Fayette, Coulounieix-Chamiers, Bergerac : les adresses des guides 2025-2026",
-      "sources": [
-        "s16",
-        "s17",
-        "s18"
       ],
-      "confidence": "a_verifier",
-      "blocks": [
-        {
-          "kind": "text",
-          "body": "Trois guides consultés en octobre 2026 recensent les lieux libertins de Dordogne, sans citer L'Aparté. Ce sont des annuaires qui se recopient : vérifiez chaque adresse avant de vous déplacer."
-        },
-        {
-          "kind": "list",
-          "items": [
-            "**Périgueux** : Atlantis 24 (ou L'Atlantis), 14 rue La Fayette. Un guide le classe comme sauna libertin « à dominante gay », ouvert aussi aux couples ; un autre le présente comme « le seul club de la ville ». C'est l'adresse de [notre fiche Sauna Le Cantou](/sauna-le-cantou-perigueux) : probablement le même lieu sous un nouveau nom, ce que nous n'avons pas vérifié.",
-            "**Coulounieix-Chamiers** : La Ducha pour un guide, Le Phénix, route de Bergerac, pour un autre ; peut-être [l'établissement « la douche »](/la-douche-coulounieix-chamiers) de notre annuaire, sans que le lien soit établi.",
-            "**Ailleurs** : [Le Délice](/le-delice-saint-laurent-des-vignes), le [Sauna de la Gare à Bergerac](/sauna-de-la-gare-bergerac) (sauna gay selon un guide) et, hors de notre annuaire, Le 16 (Creysse), Le Diamant Noir (camping, Sainte-Alvère) et L'Interdit ou Pas (Chancelade, statut non vérifié)."
-          ]
-        },
-        {
-          "kind": "text",
-          "body": "Pour savoir quelles soirées ont réellement lieu, vous pouvez [contrôler les soirées annoncées sur Wyylde](aff:wyylde) : l'ex-Netéchangisme, en ligne depuis 2001, ouvre son agenda à un compte gratuit mais réserve les réponses aux messages aux abonnés. Nos fiches du secteur sont réunies sur [la page Dordogne de l'annuaire](/departement/dordogne)."
-        }
-      ]
+      "icon": "history",
+      "summary": "L'Aparté y a probablement été exploité par PAUS-K-FE vers 2011 ; La Bodega puis Le Trader's Bar lui ont succédé jusqu'en 2014, et Oxalis, restaurant gastronomique, depuis 2022."
     }
   ],
   "horaires": {
