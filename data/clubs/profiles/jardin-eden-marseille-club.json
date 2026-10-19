@@ -1,0 +1,173 @@
+{
+  "slug": "jardin-eden-marseille-club",
+  "clubId": "FG039",
+  "researchedAt": "2026-10-16",
+  "display": { "nom": "Le Jardin d’Eden", "ville": "Marseille" },
+  "status": {
+    "value": "incertain",
+    "summary": "SAS CORA, qui a racheté le fonds en avril 2024 sous le nom commercial « Le Jardin d’Eden », figurait encore comme active au registre le 16 octobre 2026, sans procédure ni radiation publiée. Aucune autre trace récente : le site officiel est figé depuis février 2002, deux annuaires libertins consultés en octobre 2026 ignorent le lieu, et aucune soirée ni aucun avis daté de 2025 ou 2026 n’a pu être relevé. Appelez avant de vous déplacer, sachant que le seul numéro connu date de 2002.",
+    "sources": ["s6", "s5", "s7", "s1", "s10", "s12"]
+  },
+  "seo": {
+    "title": "Le Jardin d’Eden, sauna libertin à Marseille : encore ouvert ?",
+    "metaDescription": "Sauna du 6e inscrit au registre dès 1994, club libertin avec discothèque en 2002, repris en 2024 : ce qu’on sait du Jardin d’Eden et où aller à Marseille.",
+    "subtitle": "Sauna du Vallon de Montebello (Marseille 6e), présenté comme club privé libertin en 2002",
+    "targetQueries": [
+      "sauna libertin marseille",
+      "club libertin marseille",
+      "spa libertin marseille",
+      "jardin d'eden marseille",
+      "club bdsm marseille",
+      "restaurant libertin marseille"
+    ]
+  },
+  "lead": "Au 29 rue du Vallon de Montebello, dans le 6e arrondissement, un établissement à l’enseigne « Le Jardin d’Eden » apparaît au registre des entreprises dès septembre 1994. Son site, figé depuis février 2002, le présentait comme un « club privé libertin avec sauna et discothèque ». Racheté en avril 2024 par une société toujours active, le lieu ne montre aucune activité datée de 2025 ou 2026 : son ouverture n’est pas confirmée.",
+  "keyFacts": [
+    { "label": "Adresse", "value": "29 rue du Vallon de Montebello, 13006 Marseille", "confidence": "confirme", "sources": ["s1", "s6"] },
+    { "label": "Première inscription au registre", "value": "12 septembre 1994, comme établissement de SARL Les Thermes (fermé en octobre 2020)", "confidence": "confirme", "sources": ["s2"] },
+    { "label": "Exploitant déclaré", "value": "SAS CORA, nom commercial « Le Jardin d’Eden », active au 16 octobre 2026", "confidence": "confirme", "sources": ["s6", "s5"] },
+    { "label": "Activité déclarée", "value": "Sauna, relaxation, bains", "confidence": "confirme", "sources": ["s5"] },
+    { "label": "Concept affiché en 2002", "value": "Club privé libertin avec sauna et discothèque", "confidence": "source_unique", "sources": ["s1"] },
+    { "label": "Horaires publiés en 2002", "value": "Du mercredi au samedi, de 14 h à l’aube (non confirmés depuis)", "confidence": "a_verifier", "sources": ["s1"] },
+    { "label": "Téléphone publié en 2002", "value": "04 91 53 18 94 (attribution actuelle inconnue)", "confidence": "a_verifier", "sources": ["s1"] },
+    { "label": "Dernière mise à jour du site", "value": "13 février 2002", "confidence": "confirme", "sources": ["s1"] }
+  ],
+  "sections": [
+    {
+      "id": "rachete-2024-site-fige-2002",
+      "title": "Racheté en avril 2024, mais un site arrêté au 13 février 2002",
+      "sources": ["s5", "s6", "s7", "s1", "s10", "s12", "s11", "s13"],
+      "confidence": "a_verifier",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "**Pour un lieu exploité.** SAS CORA, propriétaire du fonds depuis avril 2024, a son unique établissement à cette adresse. Au 16 octobre 2026, elle est active au registre, et le BODACC ne publie rien d’autre à son sujet que cet achat. Payer pour reprendre un sauna laisse penser qu’il fonctionnait au printemps 2024 : c’est une déduction, pas un constat.\n\n**Contre.** Le serveur de lejardindeden.free.fr date la page d’accueil du 13 février 2002. En octobre 2026, ni sauna-club-libertin.com ni lieuxcoquins.fr ne citent le Jardin d’Eden ; le premier annonce en revanche à la même adresse un autre club, L’Olympe, dans une fiche non datée dont le site n’existe plus. CORA, enfin, ne déclare aucun salarié."
+        },
+        {
+          "kind": "callout",
+          "tone": "tip",
+          "title": "Avant de traverser la ville",
+          "body": "Le 04 91 53 18 94, seul numéro connu, vient du site de 2002 et n’est peut-être plus attribué au lieu. Faute d’avis récent, ceux qui ont poussé la porte du Vallon de Montebello restent la meilleure source : un couple ou une femme peut [sonder des couples de la région sur Carré Libertin](aff:carre-libertin), dont l’accès complet ne leur coûte rien depuis 2007, pourvu que le profil affiche trois photos."
+        }
+      ]
+    },
+    {
+      "id": "trois-exploitants-depuis-1994",
+      "title": "Trois exploitants depuis 1994 et deux ventes à 30 000 €",
+      "sources": ["s2", "s3", "s4", "s14", "s5", "s6", "s15"],
+      "blocks": [
+        {
+          "kind": "timeline",
+          "items": [
+            { "date": "12 septembre 1994", "text": "Ouverture au registre de l’établissement « Le Jardin d’Eden », rattaché à SARL Les Thermes, société fondée en 1984 dont le siège était rue Mazagran, dans le 1er arrondissement." },
+            { "date": "4 juin 2020", "text": "Le fonds du Jardin d’Eden, déclaré en « sauna hammam bains », est vendu 30 000 € à un exploitant individuel ; l’établissement de SARL Les Thermes est fermé au registre en octobre." },
+            { "date": "2021", "text": "SARL Les Thermes : redressement judiciaire le 11 mars, liquidation le 20 mai, clôture pour insuffisance d’actif le 16 décembre." },
+            { "date": "16 novembre 2022", "text": "L’acheteur de 2020 s’immatricule enfin sous le nom commercial « Le Jardin d’Eden », avec un début d’activité déclaré au 1er septembre 2022 : plus de deux ans après la vente, ce qui laisse un trou dans les registres entre 2020 et 2022." },
+            { "date": "11 avril 2024", "text": "Nouvelle vente au même prix, à SAS CORA, qui démarre le 1er mai sous le nom commercial « Le Jardin d’Eden » avec l’activité « sauna, relaxation, bains »." },
+            { "date": "16 janvier 2026", "text": "Le BODACC publie la radiation d’office de l’exploitant individuel, qui avait cédé le fonds en 2024. Elle concerne l’ancien exploitant, pas CORA." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "samedis-a-theme-hiver-2002",
+      "title": "Strip-tease, porte-jarretelles et « star du X » : les sept samedis de l’hiver 2002",
+      "sources": ["s1"],
+      "confidence": "source_unique",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Seule présentation du club que nous ayons retrouvée, le site de 2002 le situait « sur les hauteurs de Breteuil-Perrier », ouvert du mercredi au samedi, de 14 h « à l’aube ». Son agenda couvrait sept samedis :"
+        },
+        {
+          "kind": "list",
+          "items": [
+            "9 février : concours de strip-tease",
+            "16 février : soirée porte-jarretelles",
+            "23 février : concours de fellations",
+            "2 mars : soirée infirmière",
+            "9 mars : soirée « star du X », avec une invitée annoncée",
+            "16 mars : soirée avec le magazine Club Libertin",
+            "23 mars : élection du plus beau postérieur"
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Ni tarif ni règle d’accès n’y figuraient, et aucune soirée postérieure au 23 mars 2002 n’a été retrouvée. Pour guetter une reprise, vous pouvez [chercher le nom du lieu dans l’agenda de Wyylde](aff:wyylde), consultable avec un compte gratuit sur l’ex-Netéchangisme ; nous n’y avons pas vérifié sa présence."
+        }
+      ]
+    },
+    {
+      "id": "autres-saunas-marseille",
+      "title": "Porte close au Vallon de Montebello ? Les autres saunas recensés à Marseille",
+      "sources": ["s8", "s9"],
+      "blocks": [
+        {
+          "kind": "list",
+          "items": [
+            "[Les Thermes](/les-thermes-marseille), rue Mazagran, qui appartenait à la même société jusqu’en 2019 ; son repreneur est actif au registre en octobre 2026",
+            "[le Saint Nicolas](/saint-nicolas-marseille) et [La Roseraie](/roseraie-marseille-sauna), que notre annuaire range parmi les saunas libertins, sans vérification à ce jour",
+            "[Mineshaft](/mineshaft-marseille-fsmc), rangé parmi les spas libertins, statut non vérifié lui non plus"
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Pour dîner, [Le Taxi des Sens](/le-taxi-des-sens-marseille) est classé restaurant libertin ; clubs et bars figurent sur la [page des lieux libertins de Marseille](/ville/marseille). Vérifiez l’activité de chacun sur sa fiche avant d’y aller. Pour commencer par une rencontre, [un réseau libertin français où chaque photo passe par un modérateur](aff:gleese) s’essaie sans carte bancaire : Gleese, lancé fin 2024, compte encore moins de membres que les sites historiques."
+        }
+      ]
+    }
+  ],
+  "equipements": ["Sauna"],
+  "corrections": {
+    "adresse": "29 rue du Vallon de Montebello",
+    "sources": ["s6", "s1"]
+  },
+  "faq": [
+    {
+      "question": "Le Jardin d’Eden est-il encore ouvert à Marseille ?",
+      "answer": "Nous ne pouvons pas le confirmer. Côté registre, la société qui l’exploite depuis mai 2024, SAS CORA, est active au 16 octobre 2026. Côté public, rien de daté depuis 2002 : ni agenda, ni avis, ni page de réseau social retrouvés. Le seul numéro connu, le 04 91 53 18 94, figure sur le site de 2002 : s’il répond encore, il tranchera plus vite que n’importe quel annuaire."
+    },
+    {
+      "question": "Quels tarifs, et qui est admis : couples, femmes seules, hommes seuls ?",
+      "answer": "Aucune source ne le dit, même ancienne : le site de 2002 n’affichait ni prix ni conditions d’entrée. Le registre parle d’un sauna, sans préciser si le public est aujourd’hui échangiste, gay ou mixte."
+    },
+    {
+      "question": "Le Jardin d’Eden et Les Thermes, c’est le même sauna ?",
+      "answer": "Non : ce sont deux adresses, rue Mazagran (1er) et Vallon de Montebello (6e), qu’exploitait la même SARL Les Thermes avant de les vendre séparément, en 2019 puis en 2020. La société a été liquidée en 2021."
+    },
+    {
+      "question": "Le Jardin d’Eden organise-t-il des soirées BDSM ?",
+      "answer": "Rien ne l’indique : aucune source consultée ne relie le lieu au BDSM, et le programme de 2002 ne comptait aucune soirée de ce genre. Pour le BDSM à Marseille, partez plutôt de la page des lieux libertins de la ville."
+    },
+    {
+      "question": "Hammam, discothèque, jardin : qu’est-ce qui est attesté ?",
+      "answer": "Le sauna seulement, sur le site de 2002 comme au registre en 2024. Le hammam ne figure que dans un libellé d’activité antérieur à 2021, la discothèque que sur le site de 2002, et aucune source ne décrit de jardin malgré le nom."
+    }
+  ],
+  "unverified": [
+    "Le lieu accueille-t-il encore du public en 2026, et quels jours ?",
+    "Le 04 91 53 18 94 est-il toujours le numéro du Jardin d’Eden ?",
+    "Tarifs d’entrée, public admis (couples, femmes seules, hommes seuls) et règles : aucune donnée, même ancienne.",
+    "Le sauna est-il aujourd’hui libertin, gay, mixte ou simplement un lieu de détente ? Le registre ne parle que de « sauna, relaxation, bains ».",
+    "Le hammam et la discothèque existent-ils encore ?",
+    "Lien entre L’Olympe et le Jardin d’Eden, et année d’ouverture de L’Olympe.",
+    "Avis Google, réseaux sociaux et presse locale n’ont pas pu être consultés lors de notre recherche d’octobre 2026."
+  ],
+  "sources": [
+    { "id": "s1", "label": "Site officiel du Jardin d’Eden, page d’accueil (en ligne, dernière mise à jour le 13 février 2002)", "url": "http://lejardindeden.free.fr/", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s2", "label": "Annuaire des entreprises : SARL Les Thermes (SIREN 330 337 197), établissement « Le Jardin d’Eden » ouvert en 1994 et fermé en 2020", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/330337197", "type": "registre", "consulted": "2026-10-16" },
+    { "id": "s3", "label": "BODACC A du 7 juillet 2020 : vente du fonds du 29 Vallon Montebello par SARL Les Thermes", "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20200130300", "type": "registre", "consulted": "2026-10-16" },
+    { "id": "s4", "label": "BODACC : redressement judiciaire de SARL Les Thermes (avis du 16 mars 2021), suivi de la liquidation (avis A202101082673 du 4 juin 2021) et de la clôture (avis A202102476389 du 21 décembre 2021)", "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202100523980", "type": "registre", "consulted": "2026-10-16" },
+    { "id": "s5", "label": "BODACC A du 19 mai 2024 : achat du fonds du 29 rue du Vallon de Montebello par SAS CORA", "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20240096179", "type": "registre", "consulted": "2026-10-16" },
+    { "id": "s6", "label": "Annuaire des entreprises : SAS CORA (SIREN 928 808 476), nom commercial « Le Jardin d’Eden »", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/928808476", "type": "registre", "consulted": "2026-10-16" },
+    { "id": "s7", "label": "BODACC, annonces publiées pour le SIREN 928 808 476 (une seule : la vente de 2024)", "url": "https://bodacc-datadila.opendatasoft.com/api/explore/v2.1/catalog/datasets/annonces-commerciales/records?where=registre%20like%20%22928808476%22", "type": "registre", "consulted": "2026-10-16" },
+    { "id": "s8", "label": "BODACC A du 1er août 2019 : vente du fonds de SARL Les Thermes au 22 rue Mazagran", "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A2019014779", "type": "registre", "consulted": "2026-10-16" },
+    { "id": "s9", "label": "Annuaire des entreprises : Les Bains Marseillais (SIREN 851 956 763), enseigne « Les Thermes », 22 rue Mazagran", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/851956763", "type": "registre", "consulted": "2026-10-16" },
+    { "id": "s10", "label": "sauna-club-libertin.com, établissements des Bouches-du-Rhône (aucune entrée « Jardin d’Eden »)", "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_2.php?d=13", "type": "annuaire", "consulted": "2026-10-16" },
+    { "id": "s11", "label": "sauna-club-libertin.com, fiche « L’Olympe » au 29 rue du Vallon Montebello (non datée)", "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_3.php?id=15471&d=13", "type": "annuaire", "consulted": "2026-10-16" },
+    { "id": "s12", "label": "lieuxcoquins.fr, lieux des Bouches-du-Rhône (aucune entrée « Jardin d’Eden »)", "url": "https://www.lieuxcoquins.fr/localisation/france/provence-alpes-cote-d-azur/bouches-du-rhone-13/", "type": "annuaire", "consulted": "2026-10-16" },
+    { "id": "s13", "label": "Archives du Web : aucune capture de lolympe-marseille.com, domaine inexistant (DNS) le 16 octobre 2026", "url": "https://archive.org/wayback/available?url=lolympe-marseille.com", "type": "autre", "consulted": "2026-10-16" },
+    { "id": "s14", "label": "BODACC A du 18 novembre 2022 : immatriculation de l’exploitant individuel sous le nom commercial « Le Jardin d’Eden »", "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20220224315", "type": "registre", "consulted": "2026-10-16" },
+    { "id": "s15", "label": "BODACC B du 16 janvier 2026 : radiation d’office de l’exploitant individuel « Le Jardin d’Eden »", "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:B202600101921", "type": "registre", "consulted": "2026-10-16" }
+  ]
+}

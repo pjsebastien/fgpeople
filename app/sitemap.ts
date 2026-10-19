@@ -20,6 +20,7 @@ import {
   getVillesByType,
 } from '@/lib/data/clubs';
 import { getAllArticleSlugs } from '@/lib/data/blog';
+import { getClubProfile } from '@/lib/data/club-profiles';
 import { getRankedSiteReviews } from '@/lib/data/site-reviews';
 import {
   getAllDragueRegions,
@@ -261,12 +262,15 @@ export default async function sitemap({
     // ================================================
     case 3: {
       const clubs = await getAllClubs();
-      return clubs.map((c) => ({
-        url: `${baseUrl}/${c.slug}`,
-        lastModified: BUILD_DATE,
-        changeFrequency: 'monthly' as const,
-        priority: 0.6,
-      }));
+      return clubs.map((c) => {
+        const profile = c.hasProfile ? getClubProfile(c.slug) : null;
+        return {
+          url: `${baseUrl}/${c.slug}`,
+          lastModified: profile ? new Date(profile.researchedAt) : BUILD_DATE,
+          changeFrequency: 'monthly' as const,
+          priority: profile ? 0.7 : 0.6,
+        };
+      });
     }
 
     // ================================================

@@ -1,3 +1,6 @@
+// Doublons de clubs fusionnés : l'ancienne fiche redirige vers la fiche personnalisée.
+const clubMerges = require('./data/clubs/merged.json').merges;
+
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   // Optimisation des images
@@ -160,6 +163,11 @@ const nextConfig = {
       // ============================================
       { source: '/camping-libertin-diamant-noir', destination: '/hebergement-libertin', permanent: true },
       { source: '/camping-libertin-ran-du-chabrier-avis', destination: '/hebergement-libertin', permanent: true },
+
+      // ============================================
+      // GROUPE 9 — DOUBLONS DE CLUBS FUSIONNÉS (data/clubs/merged.json)
+      // ============================================
+      ...clubMerges.map((m) => ({ source: `/${m.from}`, destination: `/${m.to}`, permanent: true })),
     ];
   },
 

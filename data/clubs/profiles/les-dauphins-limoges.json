@@ -1,0 +1,385 @@
+{
+  "slug": "les-dauphins-limoges",
+  "clubId": "269",
+  "researchedAt": "2026-10-16",
+  "display": { "nom": "Les Dauphins", "ville": "Limoges" },
+  "status": {
+    "value": "ferme",
+    "summary": "Un jugement du 19 décembre 2018 a placé en liquidation judiciaire S.L.D., la société qui exploitait le sauna, en fixant la cessation des paiements au 1er septembre 2018 ; la procédure a été close pour insuffisance d'actif le 16 décembre 2020 et la société radiée le lendemain. Le site du club, dont la dernière annonce de soirée date du 5 décembre 2017, répondait encore fin octobre 2018 ; il renvoyait une erreur en janvier 2019, son nom de domaine était à vendre dès juillet 2019 et il n'existe plus en octobre 2026.",
+    "sources": ["s2", "s4", "s1", "s44", "s46", "s29", "s30", "s32"]
+  },
+  "seo": {
+    "title": "Les Dauphins (Limoges) : club libertin fermé fin 2018, où sortir",
+    "metaDescription": "La société du sauna libertin du 25 rue Charpentier a été liquidée en décembre 2018 : histoire, espaces, tarifs, et le club de Limoges actif en octobre 2026.",
+    "subtitle": "Sauna libertin mixte et discothèque, 25 rue Charpentier à Limoges (87), fermé fin 2018",
+    "targetQueries": [
+      "club libertin limoges",
+      "club echangiste limoges",
+      "libertine limoges",
+      "libertinage limoges",
+      "libertin limoges",
+      "libertines limoges",
+      "club libertin à limoges"
+    ]
+  },
+  "lead": "Ouvert vraisemblablement au début des années 2000, Les Dauphins a fait fonctionner au 25 rue Charpentier un sauna libertin mixte doublé d'une discothèque : jacuzzi et hammam au rez-de-chaussée, « labyrinthe de chambres » et donjon à l'étage, entrée gratuite pour les femmes. Sa société exploitante a été placée en liquidation judiciaire le 19 décembre 2018 ; son site n'annonçait plus de soirée depuis décembre 2017 et a cessé de fonctionner début 2019. Plus bas : ce qu'était le lieu, et où sortir à Limoges en octobre 2026.",
+  "keyFacts": [
+    { "label": "Statut", "value": "Fermé, liquidation judiciaire le 19 décembre 2018", "confidence": "confirme", "sources": ["s2", "s1", "s28"] },
+    { "label": "Adresse", "value": "25 rue Charpentier, Limoges", "confidence": "confirme", "sources": ["s8", "s1", "s21"] },
+    { "label": "Ouverture", "value": "Vers 2000-2001 (14 ans annoncés sur une page archivée en septembre 2015)", "confidence": "a_verifier", "sources": ["s7", "s19"] },
+    { "label": "Exploitant", "value": "SARL S.L.D., de janvier 2009 à 2018", "confidence": "confirme", "sources": ["s8", "s1", "s5"] },
+    { "label": "Type de lieu", "value": "Sauna libertin mixte avec discothèque", "confidence": "confirme", "sources": ["s9", "s14", "s26"] },
+    { "label": "Public admis", "value": "Couples, femmes (gratuit), hommes seuls tous les jours (grilles de 2015 et 2016)", "confidence": "confirme", "sources": ["s20", "s25"] },
+    { "label": "Dernière entrée couple / homme seul", "value": "20 € / 25 € (25 € / 30 € le vendredi et le samedi soir), grille de septembre 2016", "confidence": "source_unique", "sources": ["s25"] },
+    { "label": "Espace bien-être", "value": "Jacuzzi, hammam, sauna sec, fumoir", "confidence": "confirme", "sources": ["s21", "s26", "s28"] },
+    { "label": "Étage", "value": "Labyrinthe de chambres, donjon, chambre hexagonale « le chalet »", "confidence": "source_unique", "sources": ["s27"] },
+    { "label": "Sites officiels", "value": "les-dauphins.fr puis sauna-les-dauphins.fr, tous deux disparus", "confidence": "confirme", "sources": ["s31", "s29", "s32"] }
+  ],
+  "sections": [
+    {
+      "id": "liquidation-decembre-2018",
+      "title": "Liquidé le 19 décembre 2018, radié en décembre 2020",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Les Dauphins n'a annoncé sa fermeture sur aucune page publique que nous ayons pu lire : ce sont les annonces légales qui la datent. La SARL S.L.D., exploitant désigné par les mentions légales du site, est placée en liquidation judiciaire par un jugement du **19 décembre 2018**. La procédure est close pour insuffisance d'actif deux ans plus tard, et la société est radiée avec son unique établissement, le 25 rue Charpentier."
+        },
+        {
+          "kind": "timeline",
+          "items": [
+            { "date": "5 décembre 2017", "text": "Dernière annonce de soirée publiée sur le site : un réveillon de Noël à 15 €. Les seuls billets datés de 2018 (30 juin et 23 juillet) sont rangés dans une rubrique « fun » dont le contenu n'a pas été archivé." },
+            { "date": "28 août 2018", "text": "Dernière capture de la page d'accueil du club par les archives du Web." },
+            { "date": "1er septembre 2018", "text": "Date de cessation des paiements retenue par le tribunal." },
+            { "date": "31 octobre 2018", "text": "Le flux d'actualités du site répond encore ; sa dernière modification date du 5 septembre 2018." },
+            { "date": "19 décembre 2018", "text": "Jugement de liquidation judiciaire de S.L.D., publié au BODACC le 27 décembre." },
+            { "date": "13 janvier 2019", "text": "Le site du club renvoie une erreur serveur." },
+            { "date": "Juillet-août 2019", "text": "Le nom de domaine sauna-les-dauphins.fr est proposé à la vente sur la plateforme Sedo." },
+            { "date": "18 mars 2020", "text": "Dépôt de l'état des créances au greffe." },
+            { "date": "16-17 décembre 2020", "text": "Clôture de la liquidation pour insuffisance d'actif, puis radiation de la société et fermeture de son établissement." },
+            { "date": "16 octobre 2026", "text": "Les deux domaines du club sont introuvables." }
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Rien n'indique une réouverture : aucune source postérieure à l'été 2018 n'annonce une soirée ni ne montre le sauna ouvert au public. Le registre signale bien qu'une société de loisirs, sans enseigne déclarée et sans site connu, a eu son siège à la même adresse de juillet 2019 à octobre 2021, avant de cesser en février 2022. Mais aucune source ne la rattache aux Dauphins, et le 25 rue Charpentier héberge des entreprises sans rapport entre elles depuis les années 1970."
+        }
+      ],
+      "sources": ["s8", "s1", "s2", "s3", "s4", "s44", "s46", "s28", "s29", "s30", "s32", "s33", "s34"],
+      "confidence": "confirme"
+    },
+    {
+      "id": "ou-sortir-a-limoges-en-2026",
+      "title": "Où sortir à Limoges depuis : La Marquise Effrontée, active en octobre 2026",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le club libertin dont nous avons pu vérifier l'activité à Limoges en octobre 2026 ne figure pas encore dans notre annuaire : **La Marquise Effrontée**, 45 rue Philippe-Lebon (87280). Le registre rattache l'enseigne à une société active, installée à cette adresse depuis le 14 septembre 2023. Son [agenda en ligne](https://www.lamarquiseeffrontee.fr/agenda-soirees), consulté le 16 octobre 2026, annonce des soirées du jeudi au dimanche et des après-midi le lundi, jusqu'à Halloween, le samedi 31 octobre. Le club y revendique un bar licence IV, un donjon, une terrasse de 100 m² et un jacuzzi pour une trentaine de personnes."
+        },
+        {
+          "kind": "text",
+          "body": "Notre annuaire recense deux autres adresses en ville : [le Sauna Eros](/sauna-eros-limoges), que Les Dauphins affichait parmi ses partenaires en 2016, et [le Sauna Chenieux](/sauna-chenieux-limoges). Leur activité n'a pas été contrôlée pour cette fiche. Le reste se trouve sur [la page des lieux libertins de Limoges](/ville/limoges) et sur celle de [l'ensemble de la Haute-Vienne](/departement/haute-vienne)."
+        },
+        {
+          "kind": "text",
+          "body": "Avec un seul club dont l'activité est vérifiée en ville, faire connaissance en ligne avant une soirée élargit un peu le choix. [Gleese, dont les photos sont modérées à la main](aff:gleese), site français lancé fin 2024, vérifie chaque membre par téléphone et ne demande aucune carte bancaire à l'inscription. Sa communauté reste plus clairsemée hors des grandes villes : comptez les profils autour de Limoges avant d'y consacrer du temps."
+        }
+      ],
+      "sources": ["s40", "s41", "s42", "s43", "s22"]
+    },
+    {
+      "id": "histoire-rue-charpentier",
+      "title": "Du début des années 2000 à 2018 : un fonds loué en 2009, racheté 330 000 € en 2014",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le sauna n'a jamais publié sa date d'ouverture. Deux indices concordent : S.E.4, propriétaire du fonds jusqu'en 2014, déclare un établissement au 25 rue Charpentier à partir du 3 septembre 2000, et le club célèbre ses 14 ans en septembre 2015. L'ouverture remonte donc vraisemblablement à 2000 ou 2001, sans confirmation directe."
+        },
+        {
+          "kind": "timeline",
+          "items": [
+            { "date": "3 septembre 2000", "text": "S.E.4, propriétaire du fonds, ouvre un établissement au 25 rue Charpentier. Le lien avec l'ouverture du sauna est déduit, pas établi." },
+            { "date": "Janvier 2009", "text": "La SARL S.L.D. prend le fonds en location-gérance pour exploiter discothèque, établissement de loisirs et sauna. Le site les-dauphins.fr présente alors un « club sauna libertin »." },
+            { "date": "2011", "text": "Le site, sous Joomla, propose une visite des lieux : discothèque, jacuzzi, coins câlins au premier et au deuxième étage." },
+            { "date": "Juin 2012", "text": "Nouveau domaine, sauna-les-dauphins.fr : le lieu s'y décrit comme club libertin réunissant un « sauna érotique » et un club privé." },
+            { "date": "1er décembre 2012", "text": "Le site annonce une « inauguration » : nuit libertine gratuite pour les couples de 22 h à 7 h. La page ne précise pas ce qui est inauguré." },
+            { "date": "Mars 2014", "text": "S.L.D. rachète le fonds qu'elle exploitait, pour 330 000 € selon l'annonce légale du 21 mars 2014." },
+            { "date": "Septembre 2015", "text": "Anniversaire des 14 ans et nouvelle grille tarifaire." },
+            { "date": "Juillet 2017", "text": "Nouvelle version du site, sous WordPress, et réfection du jacuzzi." },
+            { "date": "22 novembre 2017", "text": "Ajout d'un règlement et d'une foire aux questions pour les nouveaux venus, pages jamais archivées." }
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "S.E.4 a fermé son établissement de la rue Charpentier en janvier 2015 et a été radiée début 2020. Son code d'activité, la location de biens immobiliers, n'est pas celui d'un sauna : d'où la prudence sur la date d'ouverture."
+        }
+      ],
+      "sources": ["s7", "s5", "s6", "s9", "s12", "s14", "s15", "s19", "s20", "s25", "s26", "s28"],
+      "confidence": "source_unique"
+    },
+    {
+      "id": "plan-du-sauna-2017",
+      "title": "Discothèque et jacuzzi au rez-de-chaussée, donjon et chambre « le chalet » à l'étage",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "La visite commentée publiée par le club en juillet 2017 reste la description la plus précise du lieu ; nous en avons lu les légendes, sans reprendre les photos."
+        },
+        {
+          "kind": "list",
+          "title": "Au rez-de-chaussée",
+          "items": [
+            "Un sas où l'on sonne pour entrer : on y recevait serviette, gel, préservatif et clé de casier.",
+            "La piste de discothèque, première pièce en entrant, et le bar, où le café était offert.",
+            "Deux vestiaires : l'un pour les hommes venus seuls, l'autre pour les couples et les femmes, qui donnait directement sur deux chambres privées « interdites aux hommes », selon la légende.",
+            "Derrière un second sas, l'espace humide : un grand jacuzzi, trois douches dont une à jet intime, et un hammam plongé dans le noir.",
+            "Pour se garer, un parking derrière l'établissement ou en face, selon le club."
+          ]
+        },
+        {
+          "kind": "list",
+          "title": "À l'étage, le « labyrinthe de chambres »",
+          "items": [
+            "Le sauna sec.",
+            "Plusieurs glory holes, côté chambre, côté couloir et côté salle de voyeurisme, et une chambre d'où l'on regarde une autre chambre.",
+            "Un donjon équipé d'un harnais et d'une croix de Saint-André.",
+            "Une chambre hexagonale baptisée « le chalet » et un lit rond installé dans les couloirs.",
+            "Des chambres à grands lits et miroirs, une chambre avec table de massage, une chambre avec télévision et de « petites chambres secrètes »."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Les présentations du site de 2016 à 2018 ajoutent un fumoir, des cabines et des back-rooms « très sombres », un bar licence IV, et un bracelet (préservatif et gel) remis avec la serviette à chaque entrée. Le club affirmait que son jacuzzi était suivi par l'agence régionale de santé, ce que nous n'avons pas pu vérifier. Dès 2011, les mots-clés de l'ancien site citaient une cage et un « coin gang bang »."
+        },
+        {
+          "kind": "callout",
+          "tone": "info",
+          "title": "Le jacuzzi refait en juillet 2017",
+          "body": "Le 17 juillet 2017, le club ferme son jacuzzi parce que les mosaïques « se décollent ». Pendant les deux semaines de travaux, il baisse ses prix (couple 15 €, homme seul 20 €) et ferme chaque soir à minuit. Le bassin rouvre le lundi 31 juillet avec un carrelage neuf."
+        }
+      ],
+      "sources": ["s27", "s21", "s26", "s28", "s13", "s12", "s25"],
+      "confidence": "source_unique"
+    },
+    {
+      "id": "public-et-prix-2009-2017",
+      "title": "Femmes gratuites, homme seul à 25 € : qui entrait, et à quel prix, de 2009 à 2017",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Les Dauphins était un lieu mixte au sens large : hommes seuls admis tous les jours sur les grilles de 2015 et de 2016, entrée gratuite pour les femmes sur celles de 2009, 2015 et 2016, et un club qui se disait ouvert « aussi bien aux échanges qu'aux expériences softs », entre hétérosexuels et bisexuels. L'entrée était interdite aux mineurs. Un annuaire gay le range parmi les saunas de drague, étiquette que le club ne revendiquait pas."
+        },
+        {
+          "kind": "table",
+          "caption": "Autres prix d'entrée affichés par le club, de 2009 à 2017 (la grille de septembre 2016 figure dans l'encadré des tarifs)",
+          "headers": ["Date", "Prix affichés"],
+          "rows": [
+            ["Septembre 2009", "Semaine, 21 h-23 h : 20 € après 25 ans, 10 € de 18 à 25 ans, femmes gratuites ; samedi soir, couple 10 € (lecture incertaine)"],
+            ["Octobre 2011", "Couple 25 €, homme seul 25 €, moins de 25 ans 20 €, étudiant 15 € ; 30 € les 2e et 4e samedis, réservés aux couples et aux trios constitués"],
+            ["10 septembre 2015", "Couple 20 €, homme 25 €, 18-25 ans et étudiants 15 €, femmes gratuites"],
+            ["21 au 23 janvier 2016", "« Grandes soldes » : couple 15 €, homme 20 €, 18-25 ans 10 €, étudiant 5 €"],
+            ["31 décembre 2016", "Réveillon : couple 30 €, homme 40 €, moins de 25 ans 25 €, femme seule 10 €"],
+            ["Rentrée 2017", "Soirées étudiantes du mardi et du jeudi : 5 € pour un étudiant de 18 à 25 ans (tarif des étudiantes illisible dans l'archive)"],
+            ["Décembre 2017", "Réveillon de Noël du 24 décembre : entrée unique à 15 €"]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "À partir de 2015, l'homme seul paie 5 € de plus que le couple sur les grilles connues, réveillons mis à part (10 € de plus le 31 décembre 2016) ; en 2011, les deux payaient le même prix. Le vrai tournant concerne les couples : deux samedis par mois étaient réservés en 2011 aux couples et aux trios « fermés », puis la page des tarifs archivée en mai 2016 prévient qu'il n'y a « plus de soirée couple », mention encore affichée en 2017. La dernière grille, celle de septembre 2016, figure dans l'encadré des tarifs."
+        },
+        {
+          "kind": "text",
+          "body": "Ce que cette mixité donnait sur place, on ne le sait que par une vingtaine de commentaires anciens et non datés de l'annuaire club-echangiste.net. Plusieurs saluent l'accueil et la propreté. Un couple raconte avoir été le seul de la soirée, sollicité avec insistance par un homme seul ; un message signé de l'équipe invite à signaler tout comportement déplacé."
+        },
+        {
+          "kind": "text",
+          "body": "Ce risque tenait à la formule même du lieu après 2015 : des hommes seuls admis chaque soir, et plus aucune soirée réservée aux couples. Arriver avec un autre couple rencontré avant en limitait l'effet. [Chercher un couple complice sur Carré Libertin](aff:carre-libertin) ne coûte rien aux couples ni aux femmes, qui y ont un accès complet gratuit dès qu'ils publient trois photos de profil ; le site existe depuis 2007 et annonce plus de 500 000 inscrits."
+        }
+      ],
+      "sources": ["s9", "s11", "s20", "s25", "s26", "s47", "s23", "s24", "s44", "s27", "s38", "s39"],
+      "confidence": "source_unique"
+    },
+    {
+      "id": "soirees-2009-2017",
+      "title": "Sangria en 2009, body painting en 2014, soirées étudiantes à 5 € en 2017",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Les archives du site conservent une partie du programme, publié mois par mois."
+        },
+        {
+          "kind": "list",
+          "items": [
+            "**Septembre 2009** : soirée sangria le mardi 8, soirée mexicaine le vendredi 25, soirée couple le samedi 26.",
+            "**2011** : un DJ du jeudi au samedi de 17 h à 21 h et le dimanche de 16 h à 21 h ; des soirées mixtes en juillet et en août ; le mardi 21 juin, fête de la musique, une soirée espagnole avec sangria offerte ; un buffet gratuit chaque dimanche à 19 h.",
+            "**Décembre 2012** : la nuit d'« inauguration » du samedi 1er, gratuite pour les couples de 22 h à 7 h.",
+            "**2014** : un « open champ-champ » chaque samedi pendant un mois, de 23 h à minuit, gratuit pour les couples ; une soirée body painting avec gogo danseuse le samedi 11 octobre.",
+            "**2015** : soirées étudiantes le mardi et le jeudi de 21 h à minuit, avec un « shooter vodka » (page archivée en avril) ; une page archivée en septembre annonce les 14 ans du club.",
+            "**Septembre 2017** : « grande nuit étudiante » le mardi et le jeudi, soirée disco chaque samedi.",
+            "**Décembre 2017** : réveillon du 24 décembre à 15 € et portes closes le 25. L'annonce, publiée le 5 décembre 2017, écrit « 24 décembre 2018 », vraisemblablement par erreur."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Les étudiants reviennent d'une saison à l'autre : tarif 18-25 ans dès 2009, soirées dédiées en 2015 puis à la rentrée 2017. En octobre 2018, les archives du Web relèvent encore l'adresse d'un calendrier d'« événements privés » sur le site, sans en conserver le contenu."
+        },
+        {
+          "kind": "text",
+          "body": "Ce calendrier a disparu avec le site. Pour savoir quelles soirées à thème sont annoncées aujourd'hui autour de Limoges, ouvrez [l'agenda des soirées de l'ex-Netéchangisme](aff:wyylde) : en ligne depuis 2001 et rebaptisé Wyylde en 2018, le site laisse un compte gratuit le parcourir, mais pas répondre aux membres sans abonnement."
+        }
+      ],
+      "sources": ["s9", "s10", "s12", "s45", "s15", "s16", "s17", "s18", "s19", "s26", "s44", "s29"],
+      "confidence": "source_unique"
+    },
+    {
+      "id": "anciennes-coordonnees",
+      "title": "Domaine revendu en 2019, numéro en 05 55 : les anciennes coordonnées à ne plus suivre",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Plusieurs annuaires présentent encore Les Dauphins, parfois sous le nom « Sauna Disco Les Dauphins », comme s'il fonctionnait. Ils recopient des données de 2016 à 2018, sans date récente ; l'un d'eux s'arrête sur un « Copyright © 2018 ». Voici ce que sont devenues ces coordonnées."
+        },
+        {
+          "kind": "list",
+          "items": [
+            "**sauna-les-dauphins.fr**, site du club de 2012 à 2018 : en erreur dès janvier 2019, mis en vente sur Sedo à l'été 2019, puis recyclé en pages de spam sur les cryptomonnaies (2020-2021) et en blog sans rapport sur le spa (2024-2025). Introuvable le 16 octobre 2026.",
+            "**les-dauphins.fr**, premier site du club de 2009 à 2012 : repris par un site pornographique de 2016 à 2022, il ne répond plus aujourd'hui.",
+            "**05 55 79 74 69** : le numéro du club de 2011 à 2018. Nous ne l'avons pas appelé et ignorons à qui la ligne est attribuée aujourd'hui.",
+            "**Réseaux sociaux** : en 2017-2018, le club renvoyait vers un compte Twitter @lesdauphins87, une page Facebook et un compte Instagram, dont le contenu n'est pas lisible sans connexion."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le code postal varie d'une fiche à l'autre : 87000 sur le site officiel de 2016 à 2018 et au registre, 87100 sur l'ancien site de 2011, dans les annonces légales et dans la plupart des annuaires. C'est la même adresse."
+        }
+      ],
+      "sources": ["s35", "s36", "s37", "s29", "s30", "s31", "s32", "s8", "s47", "s25", "s28", "s44", "s1", "s2"],
+      "confidence": "confirme"
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Lundi au jeudi": "14 h-19 h et 21 h-4 h",
+      "Vendredi et samedi": "14 h-19 h et 21 h-5 h",
+      "Dimanche": "14 h-4 h sans coupure, buffet à 19 h"
+    },
+    "note": "Horaires affichés sans changement par le club de 2011 à 2017 (fermeture à minuit pendant les travaux du jacuzzi en juillet 2017). Le lieu est fermé depuis fin 2018 : ils sont donnés pour mémoire.",
+    "confidence": "confirme",
+    "sources": ["s10", "s20", "s25"]
+  },
+  "tarifs": {
+    "rows": {
+      "Couple": "20 € (25 € le vendredi et le samedi soir)",
+      "Homme seul": "25 € (30 € le vendredi et le samedi soir)",
+      "18-25 ans": "10 € (15 € le vendredi et le samedi soir)",
+      "Femme seule": "Gratuit"
+    },
+    "note": "Dernière grille connue, en vigueur à partir du 1er septembre 2016 (archive du site de juillet 2017). Le tarif de base s'appliquait du lundi au jeudi, le dimanche et l'après-midi du vendredi et du samedi. Établissement fermé depuis fin 2018.",
+    "confidence": "source_unique",
+    "sources": ["s25"]
+  },
+  "equipements": [
+    "Bar licence IV et piste de discothèque",
+    "Jacuzzi",
+    "Hammam",
+    "Sauna sec",
+    "Fumoir",
+    "Trois douches",
+    "Cabines et back-rooms",
+    "Donjon (harnais, croix de Saint-André)",
+    "Glory holes",
+    "Vestiaires séparés : hommes seuls, couples et femmes"
+  ],
+  "officialLinks": [
+    { "label": "Site officiel (archive d'août 2018)", "url": "https://web.archive.org/web/20180828210553/https://www.sauna-les-dauphins.fr/", "kind": "site" },
+    { "label": "Visite photo du club (archive de juillet 2017)", "url": "https://web.archive.org/web/20170719000828/http://www.sauna-les-dauphins.fr:80/photo", "kind": "galerie" }
+  ],
+  "faq": [
+    {
+      "question": "Le sauna Les Dauphins de Limoges est-il encore ouvert ?",
+      "answer": "Non. La société qui l'exploitait, S.L.D., a été mise en liquidation judiciaire le 19 décembre 2018, puis radiée le 17 décembre 2020. Aucune source postérieure à l'été 2018 n'annonce de soirée ni ne montre le lieu ouvert, et ses deux sites internet ont disparu."
+    },
+    {
+      "question": "Quel club libertin est ouvert à Limoges en 2026 ?",
+      "answer": "Le 16 octobre 2026, l'agenda en ligne de La Marquise Effrontée, 45 rue Philippe-Lebon (87280), annonçait des soirées du jeudi au dimanche, et des après-midi le lundi, jusqu'au samedi 31 octobre. Le Sauna Eros et le Sauna Chenieux, recensés dans notre annuaire, n'ont pas été vérifiés pour cette fiche : renseignez-vous avant de vous déplacer."
+    },
+    {
+      "question": "Les Dauphins était-il un club échangiste ou un sauna ?",
+      "answer": "Les deux à la fois. En 2017, son site le présentait comme un « club libertin et échangiste avec sauna, jacuzzi, hammam », et l'exploitant déclarait une activité de discothèque, d'établissement de loisirs et de sauna."
+    },
+    {
+      "question": "Combien coûtait l'entrée aux Dauphins ?",
+      "answer": "D'après la dernière grille connue, celle du 1er septembre 2016 : 20 € pour un couple et 25 € pour un homme seul, 25 € et 30 € le vendredi et le samedi soir. Les femmes entraient gratuitement."
+    },
+    {
+      "question": "Les hommes seuls pouvaient-ils entrer ?",
+      "answer": "Oui, tous les jours d'après les grilles de 2015 et de 2016, avec un vestiaire à part. Les samedis « couple ou trio fermé », deux par mois en 2011, n'existaient plus en 2016 : « plus de soirée couple », précisait la page des tarifs. Deux chambres privées du rez-de-chaussée, accessibles depuis le vestiaire des couples et des femmes, restaient « interdites aux hommes »."
+    },
+    {
+      "question": "Le 05 55 79 74 69 répond-il encore ?",
+      "answer": "Nous ne l'avons pas appelé. C'était le numéro du club de 2011 à 2018 ; la société titulaire a été radiée en 2020 et nous ignorons à qui la ligne est attribuée aujourd'hui."
+    },
+    {
+      "question": "Où voir des photos de l'intérieur des Dauphins ?",
+      "answer": "La visite photo publiée par le club en juillet 2017 reste consultable [sur les archives du Web](https://web.archive.org/web/20170719000828/http://www.sauna-les-dauphins.fr:80/photo). Nous en avons lu les légendes, qui décrivent chaque pièce, mais ne reproduisons pas les photos."
+    }
+  ],
+  "unverified": [
+    "La date exacte d'ouverture (2000 ou 2001) : aucune source ne la publie.",
+    "Le dernier soir d'ouverture, quelque part entre la dernière page active du site (28 août 2018) et le jugement de liquidation (19 décembre 2018).",
+    "Le contenu du règlement et de la foire aux questions ajoutés au site le 22 novembre 2017 : ces pages n'ont jamais été archivées.",
+    "Le prix des consommations au bar : la page « Tarifs Consommations » de 2011 n'a pas été archivée.",
+    "Ce qu'inaugurait la nuit du 1er décembre 2012.",
+    "Le devenir du local du 25 rue Charpentier après 2018 : aucune reprise sous l'enseigne Les Dauphins n'a été trouvée.",
+    "Le contenu des pages Facebook et Instagram du club, illisibles sans connexion, et une éventuelle note Google, que nous n'avons pas relevée.",
+    "Un éventuel article de la presse locale sur la liquidation de 2018 : cette piste n'a pas encore été explorée."
+  ],
+  "sources": [
+    { "id": "s1", "label": "Registre des entreprises, S.L.D. (SIREN 509 804 951)", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/509804951", "type": "registre", "consulted": "2026-10-16" },
+    { "id": "s2", "label": "BODACC, S.L.D. : jugement de liquidation judiciaire du 19 décembre 2018", "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A201802473507", "type": "registre", "consulted": "2026-10-16" },
+    { "id": "s3", "label": "BODACC, S.L.D. : dépôt de l'état des créances (18 mars 2020)", "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20200067863", "type": "registre", "consulted": "2026-10-16" },
+    { "id": "s4", "label": "BODACC, S.L.D. : clôture pour insuffisance d'actif (16 décembre 2020)", "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202100012507", "type": "registre", "consulted": "2026-10-16" },
+    { "id": "s5", "label": "BODACC, S.L.D. : immatriculation, fonds reçu en location-gérance (janvier 2009)", "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A200900211444", "type": "registre", "consulted": "2026-10-16" },
+    { "id": "s6", "label": "BODACC, S.L.D. : achat du fonds par le locataire-gérant (2014)", "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A201400641033", "type": "registre", "consulted": "2026-10-16" },
+    { "id": "s7", "label": "Registre des entreprises, S.E.4 (SIREN 432 438 737), ancien propriétaire du fonds", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/432438737", "type": "registre", "consulted": "2026-10-16" },
+    { "id": "s8", "label": "Site officiel sauna-les-dauphins.fr, mentions légales (archive du 31/05/2016)", "url": "https://web.archive.org/web/20160531011618/http://www.sauna-les-dauphins.fr:80/mentions-legales", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s9", "label": "Site officiel les-dauphins.fr, accueil et programme du mois (archive du 28/09/2009)", "url": "https://web.archive.org/web/20090928073015/http://les-dauphins.fr/", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s10", "label": "Site officiel les-dauphins.fr, page « Horaires » (archive du 03/10/2011)", "url": "https://web.archive.org/web/20111003015109/http://les-dauphins.fr:80/joomla1.5/index.php?option=com_content&view=article&id=4&Itemid=21", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s11", "label": "Site officiel les-dauphins.fr, page « Tarifs Des Entrées » (archive du 03/10/2011)", "url": "https://web.archive.org/web/20111003015101/http://les-dauphins.fr:80/joomla1.5/index.php?option=com_content&view=article&id=10&Itemid=23", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s12", "label": "Site officiel les-dauphins.fr, accueil de juillet 2011 : DJ et soirées mixtes de l'été (archive du 03/10/2011)", "url": "https://web.archive.org/web/20111003015129/http://les-dauphins.fr:80/joomla1.5/index.php?option=com_content&view=frontpage&Itemid=16", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s13", "label": "Site officiel les-dauphins.fr, accueil et mots-clés du site (archive du 05/02/2011)", "url": "https://web.archive.org/web/20110205190131/http://les-dauphins.fr:80/joomla1.5/index.php", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s14", "label": "Site officiel sauna-les-dauphins.fr, accueil (archive du 16/06/2012)", "url": "https://web.archive.org/web/20120616022926/http://www.sauna-les-dauphins.fr:80/", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s15", "label": "Site officiel, soirée d'inauguration du 1er décembre 2012 (archive du 07/01/2013)", "url": "https://web.archive.org/web/20130107025113/http://www.sauna-les-dauphins.fr:80/nos-soiree/le-retour-des-deux-mondes", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s16", "label": "Site officiel, « open champ-champ » du samedi (archive du 06/06/2014)", "url": "https://web.archive.org/web/20140606060727/http://www.sauna-les-dauphins.fr:80/nos-soiree/tout-les-samedis-pendant-1-mois", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s17", "label": "Site officiel, soirée body painting du 11 octobre 2014 (archive du 03/10/2014)", "url": "https://web.archive.org/web/20141003030013/http://www.sauna-les-dauphins.fr:80/nos-soiree/samedi-11-ocotobre", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s18", "label": "Site officiel, soirées étudiantes (archive du 12/04/2015)", "url": "https://web.archive.org/web/20150412181514/http://www.sauna-les-dauphins.fr:80/nos-soiree/soiree-etudiante", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s19", "label": "Site officiel, anniversaire des 14 ans (archive du 20/09/2015)", "url": "https://web.archive.org/web/20150920001140/http://www.sauna-les-dauphins.fr:80/nos-soiree/a-ne-pas-manquer", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s20", "label": "Site officiel, « Horaires & Tarifs », grille du 10 septembre 2015 (archive du 29/05/2016)", "url": "https://web.archive.org/web/20160529114323/http://www.sauna-les-dauphins.fr:80/page/horaires-tarifs", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s21", "label": "Site officiel, accueil et présentation des équipements (archive du 28/04/2016)", "url": "https://web.archive.org/web/20160428153454/http://www.sauna-les-dauphins.fr:80/", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s22", "label": "Site officiel, « Nos partenaires » (archive du 05/05/2016)", "url": "https://web.archive.org/web/20160505125049/http://www.sauna-les-dauphins.fr:80/page/nos-partenaires", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s23", "label": "Site officiel, actualité « Grandes soldes » de janvier 2016 (archive du 01/06/2016)", "url": "https://web.archive.org/web/20160601024509/http://www.sauna-les-dauphins.fr:80/actualite/mois-de-janvier", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s24", "label": "Site officiel, actualité « 31 décembre 2016 » (archive du 25/02/2017)", "url": "https://web.archive.org/web/20170225063532/http://www.sauna-les-dauphins.fr:80/actualite/31-decembre-2016", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s25", "label": "Site officiel, « Horaire & tarifs », grille du 1er septembre 2016 (archive du 19/07/2017)", "url": "https://web.archive.org/web/20170719011650/http://www.sauna-les-dauphins.fr:80/horaire-tarifs", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s26", "label": "Site officiel, accueil et articles de juillet à septembre 2017 (archive du 30/09/2017)", "url": "https://web.archive.org/web/20170930185814/https://www.sauna-les-dauphins.fr/", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s27", "label": "Site officiel, « Toutes les photos de notre établissement » (archive du 19/07/2017)", "url": "https://web.archive.org/web/20170719000828/http://www.sauna-les-dauphins.fr:80/photo", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s28", "label": "Site officiel, accueil, dernière capture du club (archive du 28/08/2018)", "url": "https://web.archive.org/web/20180828210553/https://www.sauna-les-dauphins.fr/", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s29", "label": "Internet Archive, historique des captures de sauna-les-dauphins.fr (2012-2025)", "url": "https://web.archive.org/cdx/search/cdx?url=sauna-les-dauphins.fr/&fl=timestamp,original,statuscode,digest&collapse=digest", "type": "autre", "consulted": "2026-10-16" },
+    { "id": "s30", "label": "Internet Archive, sauna-les-dauphins.fr en vente sur Sedo (capture du 26/07/2019)", "url": "https://web.archive.org/web/20190726210804/http://sauna-les-dauphins.fr/", "type": "autre", "consulted": "2026-10-16" },
+    { "id": "s31", "label": "Internet Archive, historique des captures de les-dauphins.fr (2008-2025)", "url": "https://web.archive.org/cdx/search/cdx?url=les-dauphins.fr&fl=timestamp,statuscode&collapse=timestamp:6", "type": "autre", "consulted": "2026-10-16" },
+    { "id": "s32", "label": "Test de résolution des domaines sauna-les-dauphins.fr et les-dauphins.fr (introuvables le 16/10/2026)", "url": "http://sauna-les-dauphins.fr/", "type": "autre", "consulted": "2026-10-16" },
+    { "id": "s33", "label": "Registre des entreprises, société de loisirs domiciliée au 25 rue Charpentier de 2019 à 2021 (SIREN 851 148 981)", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/851148981", "type": "registre", "consulted": "2026-10-16" },
+    { "id": "s34", "label": "Registre des entreprises, recherche des sociétés domiciliées au 25 rue Charpentier", "url": "https://recherche-entreprises.api.gouv.fr/search?q=25%20rue%20charpentier%20limoges", "type": "registre", "consulted": "2026-10-16" },
+    { "id": "s35", "label": "sauna-club-libertin.com, fiche « Les Dauphins » (non datée)", "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_3.php?id=269&d=87", "type": "annuaire", "consulted": "2026-10-16" },
+    { "id": "s36", "label": "lieuxcoquins.fr, fiche « Sauna Les Dauphins » (copyright 2018)", "url": "https://www.lieuxcoquins.fr/lieu/sauna-les-dauphins/", "type": "annuaire", "consulted": "2026-10-16" },
+    { "id": "s37", "label": "tupalo.fr, fiche « Sauna Disco Les Dauphins »", "url": "https://www.tupalo.fr/limoges/sauna-disco-les-dauphins", "type": "annuaire", "consulted": "2026-10-16" },
+    { "id": "s38", "label": "club-echangiste.net, fiche « Les Dauphins » et commentaires non datés (archive du 18/03/2025)", "url": "https://web.archive.org/web/20250318111523/http://club-echangiste.net/les-dauphins-50.html", "type": "annuaire", "consulted": "2026-10-16" },
+    { "id": "s39", "label": "gayspot.fr, fiche « Les Dauphins »", "url": "https://gayspot.fr/lieu-de-drague-gay/1482-les-dauphins-limoges.html", "type": "annuaire", "consulted": "2026-10-16" },
+    { "id": "s40", "label": "La Marquise Effrontée, agenda des soirées d'octobre 2026", "url": "https://www.lamarquiseeffrontee.fr/agenda-soirees", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s41", "label": "La Marquise Effrontée, page d'accueil", "url": "https://www.lamarquiseeffrontee.fr/", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s42", "label": "La Marquise Effrontée, page « Localisation / Contact »", "url": "https://www.lamarquiseeffrontee.fr/localisation-contact-transport-logement", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s43", "label": "Registre des entreprises, société exploitant l'enseigne La Marquise Effrontée (SIREN 979 468 584)", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/979468584", "type": "registre", "consulted": "2026-10-16" },
+    { "id": "s44", "label": "Site officiel, accueil et derniers articles jusqu'au réveillon du 5 décembre 2017 (archive du 11/04/2018)", "url": "https://web.archive.org/web/20180411104256/https://www.sauna-les-dauphins.fr/", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s45", "label": "Site officiel les-dauphins.fr, « Programme de juin » 2011 (archive du 03/10/2011)", "url": "https://web.archive.org/web/20111003015119/http://les-dauphins.fr:80/joomla1.5/index.php?option=com_content&view=article&id=8&Itemid=17", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s46", "label": "Site officiel, flux d'actualités modifié le 5 septembre 2018 (archive du 31/10/2018)", "url": "https://web.archive.org/web/20181031124757/https://www.sauna-les-dauphins.fr/feed", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s47", "label": "Site officiel les-dauphins.fr, « Nous contacter » : accès interdit aux mineurs (archive du 03/10/2011)", "url": "https://web.archive.org/web/20111003015104/http://les-dauphins.fr:80/joomla1.5/index.php?option=com_content&view=article&id=3&Itemid=19", "type": "officiel", "consulted": "2026-10-16" }
+  ]
+}

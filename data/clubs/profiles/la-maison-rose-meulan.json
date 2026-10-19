@@ -1,0 +1,510 @@
+{
+  "slug": "la-maison-rose-meulan",
+  "clubId": "15191",
+  "researchedAt": "2026-10-16",
+  "display": {
+    "nom": "La Maison Rose",
+    "ville": "Meulan-en-Yvelines"
+  },
+  "status": {
+    "value": "ferme",
+    "summary": "Le tribunal de commerce de Versailles a prononcé le 30 mai 2017 la liquidation judiciaire de La Rose de Meulan, la SARL qui exploitait La Maison Rose, puis l'a clôturée pour insuffisance d'actif le 12 décembre 2017. Le BODACC ne publie depuis aucune reprise du nom ni du fonds. En 2022, une société de bar et de club dancing s'est immatriculée à la même adresse en déclarant la création de son propre fonds, sans rien racheter au club.",
+    "sources": [
+      "s8",
+      "s9",
+      "s5",
+      "s23",
+      "s10",
+      "s11"
+    ]
+  },
+  "seo": {
+    "title": "La Maison Rose à Meulan : club libertin fermé, liquidé en 2017",
+    "metaDescription": "Ouverte en décembre 2013 au 2 rue Gustave Ravanne, La Maison Rose a été liquidée en mai 2017. Dates du registre, salles annoncées, clubs proches dès 16 km.",
+    "subtitle": "Club libertin ouvert fin 2013 dans le centre de Meulan-en-Yvelines (78), liquidé en 2017",
+    "targetQueries": [
+      "la maison rose meulan",
+      "club libertin meulan",
+      "la maison rose club libertin",
+      "club libertin yvelines",
+      "club libertin 78"
+    ]
+  },
+  "lead": "D'après le registre du commerce, La Maison Rose n'a pu fonctionner que trois ans et demi au plus. La société qui l'exploitait au 2 rue Gustave Ravanne, dans le centre de Meulan-en-Yvelines, a déclaré son début d'activité le 1er décembre 2013, cessé ses paiements en décembre 2016 et été liquidée le 30 mai 2017. Sans site connu ni tarif retrouvé, nous n'avons trouvé du club que ces traces au registre et une annonce rédigée avant son ouverture.",
+  "keyFacts": [
+    {
+      "label": "Statut",
+      "value": "Fermé : exploitant liquidé le 30 mai 2017",
+      "confidence": "confirme",
+      "sources": [
+        "s8",
+        "s9",
+        "s5"
+      ]
+    },
+    {
+      "label": "Exploitant",
+      "value": "SARL La Rose de Meulan (SIREN 798 045 035), nom commercial « La Maison Rose »",
+      "confidence": "confirme",
+      "sources": [
+        "s5",
+        "s6"
+      ]
+    },
+    {
+      "label": "Activité déclarée",
+      "value": "Discothèque, dancing, cabaret",
+      "confidence": "confirme",
+      "sources": [
+        "s6",
+        "s8"
+      ]
+    },
+    {
+      "label": "Début d'activité",
+      "value": "1er décembre 2013",
+      "confidence": "confirme",
+      "sources": [
+        "s5",
+        "s6"
+      ]
+    },
+    {
+      "label": "Adresse",
+      "value": "2 rue Gustave Ravanne, 78250 Meulan-en-Yvelines",
+      "confidence": "confirme",
+      "sources": [
+        "s5",
+        "s6",
+        "s21"
+      ]
+    },
+    {
+      "label": "Jours annoncés en 2013",
+      "value": "Vendredi, samedi et veilles de jours fériés",
+      "confidence": "source_unique",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "label": "Tenue demandée en 2013",
+      "value": "« Sexy et glamour » pour elle, « chic » pour lui",
+      "confidence": "source_unique",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "label": "Tarifs",
+      "value": "Aucun dans l'annonce de 2013, seule description retrouvée",
+      "confidence": "source_unique",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "label": "Site officiel",
+      "value": "Aucun connu",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s20"
+      ]
+    },
+    {
+      "label": "Facebook",
+      "value": "Profil « Rose Lamaison » toujours en ligne en octobre 2026, contenu réservé aux membres connectés",
+      "confidence": "source_unique",
+      "sources": [
+        "s24"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "liquidation-2017",
+      "title": "Ouverte le 1er décembre 2013, liquidée le 30 mai 2017",
+      "sources": [
+        "s2",
+        "s5",
+        "s6",
+        "s7",
+        "s8",
+        "s9",
+        "s19",
+        "s23"
+      ],
+      "confidence": "confirme",
+      "blocks": [
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "30 octobre 2013",
+              "text": "Le BODACC publie la création de la SARL La Rose de Meulan (capital de 1 000 €), nom commercial « La Maison Rose », pour une activité de discothèque, dancing et cabaret. L'annonce du club sur un annuaire libertin est archivée pour la première fois le même jour."
+            },
+            {
+              "date": "1er décembre 2013",
+              "text": "Début d'activité déclaré au registre."
+            },
+            {
+              "date": "20 décembre 2016",
+              "text": "Date de cessation des paiements retenue plus tard par le tribunal."
+            },
+            {
+              "date": "18 avril 2017",
+              "text": "Le tribunal de commerce de Versailles ouvre un redressement judiciaire."
+            },
+            {
+              "date": "30 mai 2017",
+              "text": "Le redressement est converti en liquidation judiciaire."
+            },
+            {
+              "date": "12 et 13 décembre 2017",
+              "text": "Clôture de la liquidation pour insuffisance d'actif. La société est déclarée cessée et son unique établissement fermé."
+            }
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Ce sont des dates de procédure, pas de soirées : aucun document consulté ne dit quand le club a reçu ses derniers clients. Depuis la liquidation, ni le registre ni le BODACC ne montrent de société, d'enseigne ou de fonds « Maison Rose » à Meulan."
+        }
+      ]
+    },
+    {
+      "id": "clubs-a-16-km",
+      "title": "The Strip à 16,5 km, Club 46 à 25,7 km, Paris à 32 km : les clubs autour de Meulan",
+      "sources": [
+        "s21"
+      ],
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Notre annuaire ne compte aucun autre club dans les Yvelines. Mesurées à vol d'oiseau depuis le 2 rue Gustave Ravanne jusqu'au centre de chaque commune, voici les adresses les plus proches que nous recensons :"
+        },
+        {
+          "kind": "list",
+          "items": [
+            "[The Strip](/the-strip-saint-ouen-l-aumone), à Saint-Ouen-l'Aumône (Val-d'Oise) : 16,5 km ;",
+            "[Club 46](/club-46-argenteuil), à Argenteuil (Val-d'Oise) : 25,7 km ;",
+            "[Le Roi René](/le-roi-rene-ville-d-avray), à Ville-d'Avray (Hauts-de-Seine) : 28,4 km ;",
+            "[La Caverne de Vénus](/la-caverne-de-venus-boulogne-billancourt), à Boulogne-Billancourt (Hauts-de-Seine) : 30,8 km ;",
+            "[les clubs parisiens](/ville/paris), à partir du 17e arrondissement : 31,9 km."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Côté Normandie, [Le Passion](/le-passion-gravigny), à Gravigny dans l'Eure, est à 54,3 km. Nous n'avons pas vérifié le programme de ces lieux pour ce dossier : lisez leur fiche avant de prendre la route. [Les clubs du Val-d'Oise](/departement/val-d-oise) sont regroupés sur une page dédiée.\n\nFaute de club recensé dans le département, vous pouvez aussi faire connaissance en ligne avant de fixer un premier rendez-vous dans l'un de ces établissements. Carré Libertin, ouvert en 2007 et qui revendique plus de 500 000 inscrits, donne aux femmes et aux couples un accès complet gratuit, contre trois photos de profil : de quoi [lancer une recherche de couples autour de Meulan](aff:carre-libertin) sans abonnement."
+        }
+      ]
+    },
+    {
+      "id": "salles-annoncees-2013",
+      "title": "Movies Room, Zen Room, X Room : le club tel qu'il s'annonçait en 2013",
+      "sources": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s6"
+      ],
+      "confidence": "source_unique",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le seul descriptif du club que nous ayons retrouvé est une annonce en ligne sur un annuaire spécialisé dès le 30 octobre 2013, date de sa première capture archivée, soit un mois avant l'ouverture. Elle est restée identique depuis (captures de 2013, 2016 et 2026). Écrite à la première personne du pluriel, elle vient vraisemblablement du club. Elle décrivait un lieu de rencontre privé pour adultes consentants, avec une entrée discrète sur une rue à sens unique du centre de Meulan, et le divisait en cinq espaces :"
+        },
+        {
+          "kind": "list",
+          "items": [
+            "**First Room** : la salle principale, autour de la piste de danse ;",
+            "**VIP Room** : un salon à réserver pour des soirées privées ;",
+            "**Zen Room** : une table de massage et des huiles essentielles ;",
+            "**Movies Room** : un espace où les clients pouvaient tourner leurs propres vidéos et repartir avec sur clé USB ;",
+            "**X Room** : une salle vouée aux fantasmes, sans autre précision."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "S'y ajoutaient un bar, des barres de pole dance sur la piste, un fumoir, des salons privés et des banquettes, ainsi que des soirées à thème et des « Show Hot ». L'annonce prévoyait d'ouvrir les vendredis, samedis et veilles de jours fériés, aux plus de 18 ans, et résumait sa philosophie en cinq mots commençant par un S : sensualité, séduction, savoir-vivre, simplicité, sécurité. Rien ne permet de dire si ce programme a été tenu, et le caractère libertin du lieu ne repose que sur cette annonce : au registre, la société déclarait une activité de discothèque, de dancing et de cabaret. Aucune source ne mentionne de spa, de sauna ni de jacuzzi.\n\nEn 2026, ce même annuaire présente encore La Maison Rose comme le seul établissement des Yvelines, plus de neuf ans après la liquidation. Pour ne pas faire la route sur la foi d'une fiche périmée, partez plutôt d'une soirée annoncée à une date précise : Wyylde, l'ex-Netéchangisme rebaptisé en 2018, tient [un agenda daté des soirées en club](aff:wyylde), consultable avec un compte gratuit."
+        }
+      ]
+    },
+    {
+      "id": "2-rue-gustave-ravanne",
+      "title": "Quatre liquidations au 2 rue Gustave Ravanne entre 2008 et 2025",
+      "sources": [
+        "s5",
+        "s6",
+        "s9",
+        "s10",
+        "s11",
+        "s12",
+        "s13",
+        "s14",
+        "s15",
+        "s16",
+        "s17",
+        "s18",
+        "s19",
+        "s22"
+      ],
+      "blocks": [
+        {
+          "kind": "table",
+          "caption": "Six sociétés de loisirs, de bar ou d'activité inconnue immatriculées à cette adresse, d'après le registre et le BODACC",
+          "headers": [
+            "Période",
+            "Société",
+            "Activité déclarée",
+            "Issue"
+          ],
+          "rows": [
+            [
+              "1996-1999",
+              "SAGE",
+              "Activités récréatives et de loisirs",
+              "Établissement fermé le 31 mars 1999"
+            ],
+            [
+              "2006-2008",
+              "L'Eclipse",
+              "Bar-pub",
+              "Liquidation le 4 septembre 2008"
+            ],
+            [
+              "2009-2011",
+              "Le Cube",
+              "Inconnue (immatriculée « sans activité »)",
+              "Liquidation le 11 octobre 2011"
+            ],
+            [
+              "Février-mars 2013",
+              "Pink Club",
+              "Non précisée pour Meulan",
+              "Activité cessée le 31 mars 2013, siège transféré hors des Yvelines"
+            ],
+            [
+              "2013-2017",
+              "La Rose de Meulan, dite « La Maison Rose »",
+              "Discothèque, dancing, cabaret",
+              "Liquidation le 30 mai 2017"
+            ],
+            [
+              "Depuis 2022",
+              "VIP Lounge",
+              "Bar, club dancing, débit de boissons sans alcool, événements, location de salles",
+              "Liquidation le 9 septembre 2025, procédure en cours"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Depuis 2008, le BODACC ne publie aucune vente de fonds entre ces sociétés : La Rose de Meulan en 2013, puis VIP Lounge en 2022, ont chacune déclaré la création d'un fonds. VIP Lounge, installée en août 2022, ne doit donc rien juridiquement à La Maison Rose, et son objet ne mentionne aucune activité libertine. Son directeur général, une société d'enregistrement sonore et d'édition musicale, exploite l'enseigne « Empire du Kompa » : nous en déduisons, sans preuve directe, que le lieu a plutôt servi à des soirées musicales. Sa liquidation était toujours en cours en juin 2026 et, en octobre 2026, son établissement figure encore comme ouvert au registre : cela ne dit pas si le local reçoit du public, ce que nous ignorons.\n\nDeux réserves. Le n° 2 est un immeuble mixte, qui abrite au moins un logement, deux holdings et une entreprise individuelle de débit de boissons enregistrée depuis 2001 : rien ne prouve que toutes ces sociétés aient occupé la même salle. Et si Pink Club a eu un établissement à ce numéro de fin février à fin mars 2013, aucun document ne le relie à La Maison Rose, ouverte huit mois plus tard."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "question": "La Maison Rose à Meulan est-elle encore ouverte ?",
+      "answer": "Non. Son exploitant a été liquidé le 30 mai 2017, et aucune source consultée ne signale de réouverture, sous ce nom ou sous un autre. Depuis 2022, l'adresse est celle d'une autre société, de bar et de club dancing, elle-même en liquidation depuis septembre 2025."
+    },
+    {
+      "question": "Existe-t-il un autre club libertin dans les Yvelines ?",
+      "answer": "Notre annuaire n'en recense aucun, mais cette absence reste à confirmer par une recherche plus large (presse locale, cartes en ligne) ; les plus proches de notre liste sont dans le Val-d'Oise. Sans club à portée, Gleese, réseau libertin français lancé fin 2024, ne demande pas de carte bancaire à l'inscription, mais la validation d'un numéro de téléphone : l'occasion de [jauger la densité de profils autour de Meulan](aff:gleese), la vraie inconnue d'un site aussi récent."
+    },
+    {
+      "question": "Quels étaient les tarifs et les horaires de La Maison Rose ?",
+      "answer": "Aucune des sources consultées, à commencer par l'annonce de 2013, ne donne de tarif. Cette annonce prévoyait d'ouvrir les vendredis, samedis et veilles de jours fériés, sans heure précise ni conditions d'entrée pour les couples, les femmes seules ou les hommes seuls."
+    },
+    {
+      "question": "Peut-on encore joindre le club par téléphone ou par e-mail ?",
+      "answer": "Le portable et l'adresse Hotmail repris sur cette page viennent de l'annonce de 2013. Nous n'avons pas pu les tester ; l'exploitant ayant été liquidé en 2017, ils ne mènent sans doute plus au club. Le profil Facebook « Rose Lamaison » cité par la même annonce existe toujours en octobre 2026, mais son contenu n'est visible qu'après connexion : nous ne l'avons pas consulté et ne savons pas s'il est encore tenu."
+    },
+    {
+      "question": "Existe-t-il des photos de La Maison Rose ?",
+      "answer": "Pas à notre connaissance. Aucun site officiel n'a été trouvé : les noms de domaine plausibles que nous avons testés (lamaisonroseclub.fr, lamaisonrosemeulan.fr et leurs variantes) ne sont pas enregistrés et n'ont jamais été archivés. Le profil Facebook cité en 2013 est fermé aux visiteurs non connectés : aucune galerie n'a pu être consultée."
+    }
+  ],
+  "unverified": [
+    "La date de la dernière soirée : le registre ne donne que les dates des procédures (cessation des paiements au 20 décembre 2016, liquidation le 30 mai 2017).",
+    "Le programme réellement appliqué entre 2013 et 2017 (jours, soirées à thème, accès des couples, des femmes seules et des hommes seuls) et les tarifs, jamais publiés.",
+    "La présence d'autres lieux libertins dans les Yvelines : presse locale (Le Parisien, actu.fr, Le Courrier de Mantes) et cartes en ligne restent à consulter.",
+    "D'éventuels avis Google sur le club, et la mention « définitivement fermé » sur les cartes en ligne.",
+    "L'usage actuel du local depuis la liquidation de VIP Lounge en septembre 2025.",
+    "L'attribution actuelle du téléphone et de l'adresse e-mail publiés en 2013."
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Annuaire sauna-club-libertin.com, fiche « La Maison Rose » (version en ligne)",
+      "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_3.php?id=15191&d=78",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s2",
+      "label": "Même fiche d'annuaire, archive Wayback du 30/10/2013 (première capture de la page)",
+      "url": "https://web.archive.org/web/20131030080510/http://www.sauna-club-libertin.com:80/v2/sauna_club_libertin_3.php?id=15191&d=",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s3",
+      "label": "Même fiche d'annuaire, archive Wayback du 30/04/2016",
+      "url": "https://web.archive.org/web/20160430232927/http://www.sauna-club-libertin.com:80/v2/sauna_club_libertin_3.php?id=15191&d=",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s4",
+      "label": "Annuaire sauna-club-libertin.com, liste des Yvelines (78)",
+      "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_2.php?d=78",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s5",
+      "label": "Registre des entreprises : La Rose de Meulan (SIREN 798 045 035)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/798045035",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s6",
+      "label": "BODACC du 30/10/2013 : création de La Rose de Meulan, nom commercial « La Maison Rose »",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A201302101020",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s7",
+      "label": "BODACC du 30/04/2017 : ouverture du redressement judiciaire",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A201700841750",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s8",
+      "label": "BODACC du 11/06/2017 : conversion en liquidation judiciaire",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A201701102594",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s9",
+      "label": "BODACC du 24/12/2017 : clôture pour insuffisance d'actif",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A201702473747",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s10",
+      "label": "Registre des entreprises : VIP Lounge (SIREN 918 787 797)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/918787797",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s11",
+      "label": "BODACC du 02/09/2022 : création de VIP Lounge",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20220170951",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s12",
+      "label": "BODACC du 19/09/2025 : liquidation judiciaire de VIP Lounge",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202501802979",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s13",
+      "label": "BODACC du 05/06/2026 : dépôt de l'état des créances de VIP Lounge",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202601053445",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s14",
+      "label": "Registre des entreprises : ACP, enseigne « Empire du Kompa » (SIREN 847 650 801)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/847650801",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s15",
+      "label": "Registre des entreprises : Pink Club (SIREN 791 477 649)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/791477649",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s16",
+      "label": "Registre des entreprises : L'Eclipse (SIREN 491 092 383)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/491092383",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s17",
+      "label": "Registre des entreprises : SAGE (SIREN 409 587 623)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/409587623",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s18",
+      "label": "Registre des entreprises : Le Cube (SIREN 513 774 802)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/513774802",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s19",
+      "label": "Registre des entreprises : unités domiciliées rue Gustave Ravanne à Meulan-en-Yvelines",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=gustave%20ravanne&code_postal=78250",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s20",
+      "label": "Registre des noms de domaine .fr (RDAP AFNIC) : lamaisonroseclub.fr et variantes testées",
+      "url": "https://rdap.nic.fr/domain/lamaisonroseclub.fr",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s21",
+      "label": "Base Adresse Nationale : 2 rue Gustave Ravanne, 78250 Meulan-en-Yvelines (point de départ des distances calculées vers les communes voisines)",
+      "url": "https://api-adresse.data.gouv.fr/search/?q=2%20rue%20Gustave%20Ravanne&postcode=78250",
+      "type": "carte",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s22",
+      "label": "BODACC open data : annonces mentionnant la rue Gustave Ravanne (2008-2026)",
+      "url": "https://bodacc-datadila.opendatasoft.com/api/explore/v2.1/catalog/datasets/annonces-commerciales/records?where=%22Gustave%20Ravanne%22",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s23",
+      "label": "BODACC open data : annonces « Maison Rose » dans les Yvelines",
+      "url": "https://bodacc-datadila.opendatasoft.com/api/explore/v2.1/catalog/datasets/annonces-commerciales/records?where=%22Maison%20Rose%22%20and%20numerodepartement%3D%2278%22",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s24",
+      "label": "Facebook, profil « Rose Lamaison » cité par l'annonce de 2013 (contenu masqué sans connexion)",
+      "url": "https://www.facebook.com/rose.lamaison",
+      "type": "reseau_social",
+      "consulted": "2026-10-16"
+    }
+  ]
+}

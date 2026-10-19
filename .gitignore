@@ -38,3 +38,10 @@ yarn-error.log*
 # TypeScript
 *.tsbuildinfo
 next-env.d.ts
+
+# Exports Search Console (données privées, ne pas publier)
+public/images/*Performance-on-Search*.zip
+
+# Fiches clubs : brouillons et dossiers de recherche (travail interne, sauvegardé par OneDrive)
+data/clubs/drafts/
+data/clubs/research/

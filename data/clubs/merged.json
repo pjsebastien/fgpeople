@@ -1,0 +1,11 @@
+{
+  "_doc": "Doublons de la base : la fiche `from` désigne le même lieu que `to` (ancien nom, double saisie). Elle est retirée des listes et redirigée en 301 vers `to` (next.config.js). Chaque fusion est justifiée dans le dossier de recherche de `to`.",
+  "merges": [
+    {
+      "from": "sauna-club-les-terrasses-lisses",
+      "to": "celeste-lisses-club-libertin",
+      "reason": "Ancien nom du même lieu : même adresse, même société LES TERRASSES SARL, même SIRET 802 340 125 00011 (dossier celeste-lisses-club-libertin, S13, S18, S19).",
+      "date": "2026-10-16"
+    }
+  ]
+}

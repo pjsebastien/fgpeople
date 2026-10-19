@@ -1,0 +1,440 @@
+{
+  "slug": "le-cav-o-clermont-ferrand",
+  "clubId": "163",
+  "researchedAt": "2026-10-16",
+  "display": {
+    "nom": "Le Cav'O",
+    "ville": "Clermont-Ferrand"
+  },
+  "status": {
+    "value": "fermeture_probable",
+    "summary": "Depuis mars 2007, une seule fiche d'annuaire, restée vide, cite le Cav'O : ni site, ni horaires, ni description. Le registre ne connaît aucune société à son nom dans le Puy-de-Dôme, le 7 rue Terrasse abrite des boutiques de vêtements et les guides locaux consultés en 2026 l'ignorent : aucune preuve d'activité, à aucune date.",
+    "sources": [
+      "s1",
+      "s2",
+      "s5",
+      "s6",
+      "s14"
+    ]
+  },
+  "seo": {
+    "title": "Le Cav'O à Clermont-Ferrand fermé ? Les clubs et saunas actifs",
+    "metaDescription": "Le Cav'O, 7 rue Terrasse : une fiche d'annuaire vide depuis 2007, aucune société, aucun avis. Où sortir à Clermont en 2026 : Le Viaduc, Les Salins, L'Elyx.",
+    "subtitle": "Adresse libertine recensée rue Terrasse depuis 2007, sans trace d'activité vérifiable",
+    "targetQueries": [
+      "club libertin clermont ferrand",
+      "club libertin clermont-ferrand",
+      "sauna libertin clermont ferrand",
+      "sauna libertin clermont-ferrand",
+      "club echangiste clermont ferrand",
+      "libertine clermont ferrand",
+      "libertin clermont ferrand",
+      "libertines clermont ferrand",
+      "le cav'o clermont-ferrand"
+    ]
+  },
+  "lead": "Le Cav'O tient en une ligne d'annuaire : une adresse au 7 rue Terrasse et un numéro fixe, relevés dès mars 2007, sans site ni description. Classé « club SM », puis « sauna club libertin », il n'a laissé ni société, ni avis, ni article, et l'adresse abrite aujourd'hui des boutiques. Nous le tenons pour probablement fermé ; les lieux libertins des environs cités par des sources récentes sont présentés juste en dessous.",
+  "keyFacts": [
+    {
+      "label": "Adresse recensée",
+      "value": "7 rue Terrasse, 63000 Clermont-Ferrand (un seul annuaire, de 2007 à 2026)",
+      "confidence": "source_unique",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "label": "Téléphone recensé",
+      "value": "04 73 71 48 36, inconnu de l'annuaire inversé PagesJaunes",
+      "confidence": "source_unique",
+      "sources": [
+        "s1",
+        "s12"
+      ]
+    },
+    {
+      "label": "Catégorie annoncée",
+      "value": "« Club SM » de mars 2007 à septembre 2008 au moins, « sauna club libertin » dès février 2009",
+      "confidence": "source_unique",
+      "sources": [
+        "s2",
+        "s23",
+        "s24",
+        "s3",
+        "s1"
+      ]
+    },
+    {
+      "label": "Société exploitante",
+      "value": "Aucune société « Cav'O » au registre du Puy-de-Dôme",
+      "confidence": "confirme",
+      "sources": [
+        "s5"
+      ]
+    },
+    {
+      "label": "Occupants actuels du 7 rue Terrasse",
+      "value": "Deux boutiques de vêtements et une association",
+      "confidence": "confirme",
+      "sources": [
+        "s6",
+        "s7",
+        "s8"
+      ]
+    },
+    {
+      "label": "Lien possible",
+      "value": "SARL Le Nirvana, établissement au 7 rue Terrasse de 2004 à 2009",
+      "confidence": "a_verifier",
+      "sources": [
+        "s9",
+        "s10"
+      ]
+    },
+    {
+      "label": "Site, réseaux, avis, horaires, tarifs",
+      "value": "Aucun trouvé, à aucune date",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s2",
+        "s3",
+        "s22"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "ou-sortir-autour-de-clermont-en-2026",
+      "title": "Le Viaduc, Les Salins, L'Elyx : où sortir autour de Clermont en 2026",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Un guide daté du 15 mars 2026 ne compte que deux établissements libertins actifs dans la ville : Le Viaduc et Les Salins. Avec la périphérie et les bars, cinq lieux apparaissent dans des sources récentes, à des niveaux de preuve inégaux."
+        },
+        {
+          "kind": "table",
+          "caption": "Relevé du 16 octobre 2026 ; adresses à Clermont-Ferrand sauf mention",
+          "headers": [
+            "Lieu",
+            "Type",
+            "Adresse",
+            "Ce qui atteste l'activité"
+          ],
+          "rows": [
+            [
+              "[Le Viaduc](/le-viaduc-clermont-ferrand)",
+              "Sauna mixte",
+              "12 bis rue des Prés Bas",
+              "Site officiel en ligne en octobre 2026, qui annonce une ouverture tous les jours dès 13 h ; cité par trois guides en ligne"
+            ],
+            [
+              "Sauna Les Salins",
+              "Sauna gay",
+              "5 avenue Marx Dormoy",
+              "Actif au registre à cette adresse depuis janvier 2024 ; listé par PagesJaunes"
+            ],
+            [
+              "[L'Elyx Club](https://www.elyx-club.fr/)",
+              "Discothèque et club libertin",
+              "14 rue des Acilloux, Cournon-d'Auvergne",
+              "Site officiel : du mardi au samedi ; actif au registre depuis octobre 2015"
+            ],
+            [
+              "Le Ramsès Libertin",
+              "Bar libertin",
+              "3 rue Beaurepaire",
+              "Du mardi au samedi, 19 h-2 h, selon un guide (août 2025), non confirmé depuis"
+            ],
+            [
+              "[Le Clean](/le-clean-riom)",
+              "Lieu libertin",
+              "Riom",
+              "Cité par les trois mêmes guides, rien de plus vérifié ici"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Pour un sauna libertin mixte, Le Viaduc est donc le seul que ces guides citent dans la ville. Les Salins, L'Elyx et Le Ramsès n'ont pas encore de fiche chez nous ; les adresses déjà recensées figurent sur la [page Clermont-Ferrand](/ville/clermont-ferrand)."
+        },
+        {
+          "kind": "text",
+          "body": "Si l'offre vous paraît mince pour une première sortie à deux, faites connaissance en ligne avant de choisir le lieu. Carré Libertin, ouvert en 2007, donne aux femmes et aux couples un accès complet gratuit dès trois photos publiées : assez pour [passer une annonce de couple dans le Puy-de-Dôme](aff:carre-libertin) et fixer un premier rendez-vous au Viaduc ou à L'Elyx."
+        }
+      ],
+      "sources": [
+        "s14",
+        "s15",
+        "s16",
+        "s17",
+        "s13",
+        "s20",
+        "s18",
+        "s19",
+        "s21",
+        "s26"
+      ]
+    },
+    {
+      "id": "club-sm-puis-sauna",
+      "title": "« Club SM » jusqu'en 2008, « sauna » dès 2009 : une fiche d'annuaire jamais remplie",
+      "confidence": "source_unique",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Tout ce que l'on sait du Cav'O vient de l'annuaire sauna-club-libertin.com. Sa fiche, archivée dès le 3 mars 2007, donne l'adresse et le 04 73 71 48 36 ; les champs du courriel, du site et de la description sont vides sur chaque état que nous avons relu (2007, 2008, 2009, 2013 et 2026), tout comme celui des prestations, ajouté plus tard. Seule la catégorie a bougé : « club SM » sur les captures de mars 2007 à septembre 2008, « sauna club libertin » à partir de celle de février 2009.\n\nQue la fiche soit encore en ligne ne prouve rien : elle ne porte aucune date de mise à jour, et les archives du web l'ont capturée une trentaine de fois entre 2007 et 2013, puis trois fois en 2024 et 2025, la dernière en mai 2025. Notre annuaire avait hérité de la catégorie « sauna », et l'ancien texte de cette page décrivait même un espace sauna : aucune source ne l'atteste."
+        },
+        {
+          "kind": "text",
+          "body": "Si c'est l'étiquette « club SM » qui vous amène, partez des soirées annoncées par les clubs eux-mêmes. Wyylde, l'ex-Netéchangisme rebaptisé en 2018 pour s'ouvrir notamment aux amateurs de BDSM, affiche chaque soirée avec sa date, son club et son thème ; un compte gratuit suffit pour [parcourir l'agenda des soirées à thème de Wyylde](aff:wyylde)."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s2",
+        "s23",
+        "s24",
+        "s3",
+        "s4"
+      ]
+    },
+    {
+      "id": "7-rue-terrasse-sarl-le-nirvana",
+      "title": "Au 7 rue Terrasse, une seule piste : la SARL Le Nirvana, présente de 2004 à 2009",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le registre des entreprises ne connaît aucune société « Cav'O » dans le Puy-de-Dôme, sous aucune des graphies testées. Au 7 rue Terrasse, il recense deux boutiques de vêtements, dont une de lingerie, et une association, sans aucun sauna, club ou débit de boissons actif.\n\nUne seule entreprise rattachable au milieu libertin y a eu un établissement : la SARL Le Nirvana, débit de boissons dont le siège, 11 rue Pierre le Canadien aux Martres-de-Veyre, est l'adresse que le même annuaire donne au club [Le Nirvana](/le-nirvana-les-martres-de-veyre). Elle a déclaré un établissement secondaire rue Terrasse du 1er juin 2004 au 31 août 2009, date de sa radiation."
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Une hypothèse, pas un fait",
+          "body": "Ces dates recouvrent la première trace du Cav'O, mais l'établissement était déclaré en location de biens immobiliers, sans enseigne : rien ne prouve que la société ait exploité le Cav'O plutôt que loué un local. Si ce lien se confirmait, l'activité rue Terrasse aurait cessé au plus tard en août 2009."
+        }
+      ],
+      "sources": [
+        "s5",
+        "s6",
+        "s7",
+        "s8",
+        "s9",
+        "s10",
+        "s11",
+        "s25"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "question": "Le Cav'O est-il encore ouvert ?",
+      "answer": "Très probablement pas. Aucun canal officiel ne permet de le vérifier : le numéro relevé par l'annuaire n'est rattaché à aucun établissement dans l'annuaire inversé de PagesJaunes, et nous n'avons trouvé ni site, ni réseau social, ni avis. Attention à l'homonyme lecavo.fr, un restaurant-traiteur de Côte-d'Or sans rapport avec Clermont."
+    },
+    {
+      "question": "Quels clubs libertins sont ouverts à Clermont-Ferrand ?",
+      "answer": "Un guide de mars 2026 n'en recense que deux dans la ville, Le Viaduc (sauna mixte, dont le site officiel annonce une ouverture tous les jours dès 13 h) et Les Salins (sauna gay) ; la rubrique clubs libertins de PagesJaunes ne cite que le second. Un autre guide signale un bar libertin, Le Ramsès, rue Beaurepaire, avec des horaires relevés en août 2025. Aucune de ces sources ne mentionne le Cav'O."
+    },
+    {
+      "question": "Où trouver un club échangiste près de Clermont-Ferrand ?",
+      "answer": "À Cournon-d'Auvergne, L'Elyx Club se présente sur son site comme discothèque et club libertin, ouvert du mardi au samedi. Les guides citent aussi Le Clean, à Riom. Les autres établissements du département sont sur la [page Puy-de-Dôme](/departement/puy-de-dome)."
+    },
+    {
+      "question": "Comment rencontrer des libertines à Clermont-Ferrand hors des clubs ?",
+      "answer": "En échangeant d'abord sur un site. Gleese, plateforme française lancée fin 2024, vérifie chaque membre par téléphone et modère les photos une à une ; sa communauté reste plus petite que celle des sites historiques, et [essayer Gleese sans sortir sa carte](aff:gleese) permet de compter les profils actifs autour de Clermont avant de décider."
+    }
+  ],
+  "unverified": [
+    "La nature réelle du lieu : club SM, sauna ou autre, aucune description n'ayant jamais été publiée.",
+    "Ses dates d'ouverture et de fermeture.",
+    "Le rôle de la SARL Le Nirvana au 7 rue Terrasse entre juin 2004 et août 2009 : exploitante du Cav'O ou simple locataire d'un local.",
+    "Le public admis, les horaires, les tarifs et les équipements, jamais publiés.",
+    "Le titulaire actuel du 04 73 71 48 36.",
+    "Les annuaires BDSM des années 2005-2010, qui pourraient dater la disparition du lieu, n'ont pas pu être consultés."
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "sauna-club-libertin.com, fiche « LE CAV'O » (annuaire, source faible)",
+      "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_3.php?id=163&d=63",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s2",
+      "label": "sauna-club-libertin.com, fiche « LE CAV'O », archive du 03/03/2007",
+      "url": "https://web.archive.org/web/20070303004133/http://www.sauna-club-libertin.com:80/sauna_club_libertin_3.php?id=163&d=",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s3",
+      "label": "sauna-club-libertin.com, fiche « LE CAV'O », archive du 01/06/2013",
+      "url": "https://web.archive.org/web/20130601142855/http://www.sauna-club-libertin.com:80/sauna_club_libertin_3.php?id=163&d=",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s4",
+      "label": "Internet Archive, historique des captures de la fiche (2007-2025)",
+      "url": "https://web.archive.org/cdx/search/cdx?url=sauna-club-libertin.com*",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s5",
+      "label": "Registre des entreprises, recherche « cavo », « cav o », « le cav o », « cav'o » (Puy-de-Dôme)",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=cavo&departement=63",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s6",
+      "label": "Registre des entreprises, entités domiciliées au 7 rue Terrasse, 63000",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=7%20rue%20terrasse&code_postal=63000",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s7",
+      "label": "Annuaire des Petites Affiches, commerces de la rue Terrasse",
+      "url": "https://annuaire.petitesaffiches.fr/adresse/rue-terrasse-63000-clermont-ferrand/",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s8",
+      "label": "les-horaires.info, boutique de lingerie au 7 rue Terrasse",
+      "url": "https://www.les-horaires.info/au-boudoir-froufrou-clermont-ferrand-320306.html",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s9",
+      "label": "Annuaire des entreprises, SARL LE NIRVANA (SIREN 423 337 740)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/423337740",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s10",
+      "label": "Annuaire des entreprises, établissement 7 rue Terrasse de la SARL LE NIRVANA (2004-2009)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/etablissement/42333774000025",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s11",
+      "label": "Societe.com, établissement LE NIRVANA à Clermont-Ferrand",
+      "url": "https://www.societe.com/etablissement/le-nirvana-42333774000025.html",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s12",
+      "label": "PagesJaunes, annuaire inversé du 04 73 71 48 36",
+      "url": "https://www.pagesjaunes.fr/annuaireinverse/recherche?quoiqui=0473714836",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s13",
+      "label": "PagesJaunes, clubs libertins à Clermont-Ferrand",
+      "url": "https://www.pagesjaunes.fr/annuaire/clermont-ferrand-63/clubs-libertins",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s14",
+      "label": "saunaclublebali.fr, « Clubs libertins Clermont-Ferrand » (15 mars 2026, guide)",
+      "url": "https://www.saunaclublebali.fr/clubs-libertins-clermont-ferrand/",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s15",
+      "label": "club-libertin-france.fr, « Club libertin Clermont-Ferrand » (guide)",
+      "url": "https://club-libertin-france.fr/club-libertin-clermont-ferrand/",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s16",
+      "label": "espritslibertins.com, « Club libertin Clermont-Ferrand » (guide)",
+      "url": "https://www.espritslibertins.com/club-libertin-clermont-ferrand/",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s17",
+      "label": "saunaclublebali.fr, fiche Le Viaduc (février 2026, guide)",
+      "url": "https://www.saunaclublebali.fr/listing/le-viaduc-clermont-ferrand/",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s18",
+      "label": "Site officiel de L'Elyx Club, Cournon-d'Auvergne",
+      "url": "https://www.elyx-club.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s19",
+      "label": "Annuaire des entreprises, L'ELYX (SIREN 814 330 155)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/814330155",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s20",
+      "label": "Annuaire des entreprises, SAUNA LES SALINS (SIREN 432 455 129)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/432455129",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s21",
+      "label": "minuitlibertin.com, « Le Ramsès Libertin à Clermont-Ferrand » (guide)",
+      "url": "https://minuitlibertin.com/le-ramses-libertin-a-clermont-ferrand/",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s22",
+      "label": "Site du restaurant-traiteur homonyme « Le Cav'o » à Mâlain (Côte-d'Or), vers lequel redirige lecavo.fr",
+      "url": "https://sites.google.com/view/restaurant-traiteur-le-cavo/",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s23",
+      "label": "sauna-club-libertin.com, fiche « LE CAV'O », archive du 26/09/2008",
+      "url": "https://web.archive.org/web/20080926190510/http://www.sauna-club-libertin.com:80/sauna_club_libertin_3.php?id=163&d=",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s24",
+      "label": "sauna-club-libertin.com, fiche « LE CAV'O », archive du 28/02/2009",
+      "url": "https://web.archive.org/web/20090228054322/http://www.sauna-club-libertin.com:80/sauna_club_libertin_3.php?id=163&d=",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s25",
+      "label": "sauna-club-libertin.com, fiche « LE NIRVANA » (Les Martres-de-Veyre)",
+      "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_3.php?id=161&d=63",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s26",
+      "label": "Site officiel du Viaduc, Clermont-Ferrand",
+      "url": "http://www.saunaviaduc.com/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    }
+  ]
+}

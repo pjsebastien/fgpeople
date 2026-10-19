@@ -1,0 +1,800 @@
+{
+  "slug": "le-moloko-saint-etienne",
+  "clubId": "1195",
+  "researchedAt": "2026-10-16",
+  "display": {
+    "nom": "Le Moloko",
+    "ville": "Saint-Étienne"
+  },
+  "status": {
+    "value": "ouvert",
+    "summary": "Le club privé annonce sa soirée « Sucette » du samedi 17 octobre 2026, dernière d'un agenda publié depuis fin août, et la grille de tarifs du site a été mise en ligne le 11 septembre 2026. L'association Les Amis du Moloko, qui organise les samedis, est active au registre. La SAS JOSS LOISIRS, inscrite à l'enseigne Le Moloko et vraisemblablement exploitante du sauna (rôle déduit du registre, non confirmé par le club), l'est aussi et a déposé ses comptes en avril 2026.",
+    "sources": [
+      "s3",
+      "s4",
+      "s13",
+      "s14",
+      "s17"
+    ]
+  },
+  "seo": {
+    "title": "Moloko Club, Saint-Étienne (42) : sauna, samedis et photos",
+    "metaDescription": "Sauna mixte de 300 m² ouvert 7 j/7 et club de 600 m² le samedi (60 € le couple), rue des Haveurs à Saint-Étienne : tarifs 2026, agenda, photos.",
+    "subtitle": "Sauna libertin mixte ouvert tous les jours et club multicouples le samedi soir, rue des Haveurs à Saint-Étienne (42)",
+    "targetQueries": [
+      "le moloko photos",
+      "moloko club",
+      "moloko 42",
+      "le moloko",
+      "club libertin saint etienne",
+      "moloko sauna",
+      "club le moloko",
+      "sauna libertin saint etienne",
+      "libertin saint etienne"
+    ]
+  },
+  "lead": "Le Moloko réunit deux établissements accolés au 31 rue des Haveurs, à Saint-Étienne : un sauna libertin mixte de 300 m² ouvert tous les jours, et un club privé de 600 m² ouvert le samedi soir pour des soirées à thème destinées aux couples et aux femmes. Actif depuis au moins 2009, il fonctionne toujours : sa grille de tarifs date de septembre 2026 et son agenda court jusqu'au 17 octobre 2026.",
+  "keyFacts": [
+    {
+      "label": "Adresse",
+      "value": "31 rue des Haveurs, 42100 Saint-Étienne",
+      "confidence": "confirme",
+      "sources": [
+        "s6",
+        "s13",
+        "s18",
+        "s31"
+      ]
+    },
+    {
+      "label": "Deux établissements",
+      "value": "Un sauna club de 300 m² ouvert 7 j/7 et un club privé de 600 m² ouvert le samedi soir",
+      "confidence": "confirme",
+      "sources": [
+        "s2",
+        "s19"
+      ]
+    },
+    {
+      "label": "Public admis",
+      "value": "Sauna : hommes, femmes et couples. Club du samedi : couples et femmes",
+      "confidence": "confirme",
+      "sources": [
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    {
+      "label": "Entrée au sauna",
+      "value": "35 € pour un homme, 10 € pour une femme, 20 € pour un couple ; 50 € pour un homme les jeudi, vendredi et samedi soir",
+      "confidence": "confirme",
+      "sources": [
+        "s3"
+      ]
+    },
+    {
+      "label": "Samedi au club",
+      "value": "60 € le couple, buffet et deux alcools par personne compris (50 € après minuit)",
+      "confidence": "confirme",
+      "sources": [
+        "s3",
+        "s4"
+      ]
+    },
+    {
+      "label": "Structures",
+      "value": "Samedis : association Les Amis du Moloko (confirmé par les affiches). Reste de la semaine : vraisemblablement la SAS JOSS LOISIRS, enseigne Le Moloko au registre (rôle déduit, non confirmé)",
+      "confidence": "a_verifier",
+      "sources": [
+        "s6",
+        "s13",
+        "s14"
+      ]
+    },
+    {
+      "label": "En activité depuis",
+      "value": "Avril 2009 au plus tard (association déclarée en décembre 2008)",
+      "confidence": "confirme",
+      "sources": [
+        "s7",
+        "s16",
+        "s32"
+      ]
+    },
+    {
+      "label": "Piscine",
+      "value": "Extérieure, de début juin à fin septembre selon la météo",
+      "confidence": "confirme",
+      "sources": [
+        "s2",
+        "s6",
+        "s12"
+      ]
+    },
+    {
+      "label": "Téléphone",
+      "value": "06 79 01 99 93",
+      "confidence": "confirme",
+      "sources": [
+        "s2",
+        "s6",
+        "s11"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "sauna-et-club-prive",
+      "title": "Un sauna de 300 m² ouvert tous les jours, un club de 600 m² le samedi soir",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Sous le même nom cohabitent deux lieux qui partagent une adresse et un parking, mais ni les mêmes jours ni tout à fait le même public : le site officiel parle de « deux établissements distincts »."
+        },
+        {
+          "kind": "table",
+          "caption": "Les deux faces du Moloko, d'après le site officiel et les registres (octobre 2026)",
+          "headers": [
+            "",
+            "Moloko Sauna Club",
+            "Moloko Club Privé"
+          ],
+          "rows": [
+            [
+              "Surface",
+              "300 m²",
+              "600 m²"
+            ],
+            [
+              "Ouverture",
+              "Tous les jours, l'après-midi et le soir",
+              "Le samedi, de 20 h à 5 h"
+            ],
+            [
+              "Public",
+              "Mixte : hommes, femmes, couples",
+              "Couples et femmes, en soirées multicouples"
+            ],
+            [
+              "Structure",
+              "Vraisemblablement la SAS JOSS LOISIRS, enseigne Le Moloko au registre (rôle déduit, non confirmé)",
+              "Association Les Amis du Moloko (loi 1901), nommée sur les affiches des soirées"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Une ancienne affiche encore en ligne précise que le bar est sous licence IV, « sauf samedi soir » : ce soir-là, c'est l'association **Les Amis du Moloko** qui organise, comme le rappellent les affiches de 2026. Déclarée en novembre 2009, elle avait pour objet initial l'« animation de clubs privés libertins, échangistes, anticonformistes » (Journal officiel du 5 décembre 2009), libellé reformulé depuis.\n\nLe reste de la semaine, l'exploitant serait **JOSS LOISIRS**, SAS créée en 2010 et inscrite comme débit de boissons à l'enseigne « Le Moloko » au 31 rue des Haveurs (6 à 9 salariés en 2024, comptes déposés en avril 2026) : une déduction tirée du registre, car le club ne la nomme nulle part.\n\nLe site présente l'équipe d'accueil, « Martine, Joyce et toute leur équipe », se dit « réservé exclusivement aux libertins » et promet l'exclusion, avec signalement aux forces de l'ordre, à quiconque tente d'acheter ou de vendre un acte sexuel."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s2",
+        "s4",
+        "s6",
+        "s13",
+        "s14",
+        "s16",
+        "s17"
+      ]
+    },
+    {
+      "id": "tarifs-par-soir",
+      "title": "L'homme seul à 35 € l'après-midi, 50 € du jeudi au samedi soir, absent du club privé",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Tous les après-midi, puis les lundi, mardi, mercredi et dimanche soir, le sauna applique une seule grille : 35 € pour un homme, 10 € pour une femme, 20 € pour un couple. **Du jeudi au samedi soir, l'homme seul passe à 50 €**, une ou deux consommations comprises, et chaque soir a son public :\n- **le jeudi**, la soirée « Gang Bang » vise les « couples et femmes adeptes de pluralité masculine », invités dès 20 h autour d'un repas ; les couples simplement curieux paient 20 € ;\n- **le vendredi**, soirée mixte, « toutes tendances bienvenues » selon une affiche du club ;\n- **le samedi**, le sauna devient une « soirée mixte pluralité » pendant que le club privé reçoit couples et femmes, sans aucun tarif prévu pour l'homme seul."
+        },
+        {
+          "kind": "text",
+          "body": "Ni la grille ni l'affiche du jeudi n'annoncent combien de couples et de femmes adeptes sont attendus : l'homme seul qui paie 50 € ce soir-là ne le sait pas d'avance. Pour se fixer rendez-vous avant un jeudi, couples adeptes et hommes de la Loire peuvent échanger via [les profils vérifiés par téléphone de Gleese](aff:gleese), un site qui ne demande pas de carte bancaire ; lancé fin 2024 et bien moins peuplé que Wyylde, il offre un statut « Dispo » pour signaler qu'on cherche une rencontre le soir même."
+        },
+        {
+          "kind": "callout",
+          "tone": "info",
+          "title": "35 ou 50 € : l'heure d'arrivée compte",
+          "body": "Un avis Google de juillet 2023 reproche au club d'avoir fait payer 50 € à un homme seul au lieu des 35 € lus sur le site : la grille actuelle prévoit bien les deux tarifs, selon le jour et l'heure. Le tarif « trans » de 30 € des anciennes affiches n'y figure plus : à confirmer par téléphone."
+        }
+      ],
+      "sources": [
+        "s2",
+        "s3",
+        "s4",
+        "s6",
+        "s22"
+      ]
+    },
+    {
+      "id": "samedis-a-theme",
+      "title": "Écolières, Masquée, Fluo, Sucette : des samedis à thème qui reviennent depuis 2012",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Chaque samedi, le club privé ouvre à 20 h sur un thème annoncé par une affiche. Programme de la fin d'été et de l'automne 2026 :"
+        },
+        {
+          "kind": "table",
+          "caption": "Agenda publié sur lemoloko.com, consulté le 16 octobre 2026",
+          "headers": [
+            "Samedi",
+            "Thème"
+          ],
+          "rows": [
+            [
+              "29 août",
+              "Barbecue géant, le dernier de l'été"
+            ],
+            [
+              "5 septembre",
+              "Écolières"
+            ],
+            [
+              "12 septembre",
+              "Masquée"
+            ],
+            [
+              "19 septembre",
+              "Nuisette"
+            ],
+            [
+              "26 septembre",
+              "Blanche"
+            ],
+            [
+              "3 octobre",
+              "Rose"
+            ],
+            [
+              "10 octobre",
+              "Fluo"
+            ],
+            [
+              "17 octobre",
+              "Sucette"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Les affiches de la rentrée reprennent la même formule : buffet chaud et froid de 21 h à 23 h, deux alcools par personne, cocktail du jour, bières, vins, pétillants, softs et cafés compris dans l'entrée couple. Les samedis barbecue de l'été, du 27 juin au 29 août, incluaient trois alcools par personne au même prix. Un DJ est annoncé, et le sauna, le hammam et le jacuzzi restent accessibles aux couples et aux femmes.\n\nLes affiches Masquée et Fluo fixent un dress code : tenue sexy pour les femmes, tenue de ville pour les hommes, sans short ni baskets. Un couple qui prépare son premier samedi multicouples peut vouloir échanger avant avec d'autres couples de la région : sur [Carré Libertin, gratuit pour les couples et les femmes](aff:carre-libertin), l'accès complet ne demande que trois photos de profil.\n\nCes thèmes tournent depuis longtemps : les adresses d'inscription archivées du site montrent des soirées Blanche, Masquée, Sucette et Bikini dès 2012, Fluo et Écolières en 2016, Rose en 2017.\n\nLa page « Soirées à venir » ne montre que le prochain samedi, et nous n'avons trouvé ni page Facebook ni compte Instagram du club : au 16 octobre 2026, aucune soirée n'était annoncée après le 17 octobre."
+        }
+      ],
+      "sources": [
+        "s3",
+        "s4",
+        "s32"
+      ]
+    },
+    {
+      "id": "photos-officielles",
+      "title": "Les photos du Moloko : deux visites guidées officielles, 43 clichés sans clients",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le site du club publie deux galeries « Visite guidée » : [22 photos du sauna](https://www.lemoloko.com/sauna.html) et [21 photos du club](https://www.lemoloko.com/club.html). Elles montrent les lieux vides ; les fichiers ont été mis en ligne le 26 juin 2026, sans date de prise de vue. L'illustration en tête de cette page n'est pas une photo du Moloko.\n\nCe qu'elles montrent, d'après notre examen des 43 images :\n- **dehors**, la piscine et ses transats, un jacuzzi sous un voilage blanc avec une douche de plein air, et une terrasse de restauration avec comptoirs de buffet, dont les parasols portent le nom du club ;\n- **côté sauna**, la balnéo intérieure éclairée en bleu, la cabine de sauna en bois, le hammam carrelé à gradins, les douches, un bar à tabourets hauts, de petites chambres aux matelas de skaï rouge fermées par une porte, un lit rond, un recoin fermé par des barreaux et un vestiaire à casiers métalliques ;\n- **côté club**, la piste de danse sous les lasers, un salon de banquettes noires, une estrade drapée de rideaux entre des murs capitonnés, un escalier balisé de LED vers l'étage, une alcôve vitrée en hauteur occupée par un grand lit rond, des coins câlins décorés de fresques (cascade, palmier) et des lavabos à miroirs lumineux."
+        }
+      ],
+      "sources": [
+        "s5"
+      ]
+    },
+    {
+      "id": "espaces-et-equipements",
+      "title": "Hammam pour vingt, balnéo, deux jacuzzis et piscine d'été : l'inventaire vérifié",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Selon le site officiel, l'espace humide du sauna club comprend un sauna traditionnel, un hammam « jusqu'à 20 personnes » et une balnéo intérieure annoncée tantôt à 30, tantôt à 50 places sur la même page, plus deux jacuzzis selon la version 2024 du site et IF Saint-Étienne (2021).\n\nLes espaces coquins du sauna s'étagent sur deux niveaux : chambres qui ferment à clé, coins ouverts, labyrinthe, glory holes, salle vidéo. Le club privé compte une vingtaine d'espaces câlins, une salle fumeur, un réfectoire et, en 2024, un espace VIP. Petit Futé, dans un texte non daté, décrit trois salons fermant à clé et une mezzanine dont le grand lit rond surplombe la piste de danse, ce que confirme la galerie officielle (alcôve vitrée en hauteur).\n\nL'été s'ajoutent une grande terrasse avec bains de soleil, une balnéo extérieure et un solarium ; la piscine ouvre **de début juin à fin septembre**, « en fonction du temps », selon une affiche du club.\n\nLe site met en avant l'hygiène (skaï nettoyable, préservatifs gratuits, gel désinfectant, 14 douches en 2024) ; selon une ancienne affiche, l'entrée inclut eau et boissons chaudes à volonté, tongs, paréos et serviettes."
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Ce que nous avons retiré de la fiche, et ce que les photos ajoutent",
+          "body": "Notre ancienne fiche listait une cage et une barre d'exhibition et un espace SM : aucun texte ne les mentionne, nous les avons retirés (la galerie du sauna montre seulement un recoin à barreaux, que le club ne nomme pas). Le vestiaire à casiers existe côté sauna, photo officielle à l'appui ; côté club, un avis de mars 2024 regrette son absence, un autre de novembre 2023 évoque un employé « au vestiaire »."
+        }
+      ],
+      "sources": [
+        "s2",
+        "s5",
+        "s6",
+        "s12",
+        "s19",
+        "s20",
+        "s22"
+      ]
+    },
+    {
+      "id": "avis-clients",
+      "title": "Propreté et buffet salués, hommes seuls et DJ critiqués : ce que disent les avis",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Faute d'accès direct à la fiche Google du club, nous citons des sites relais : **4,2/5 sur 209 avis** au 26 décembre 2025, 4,4/5 sur 163 avis en mai 2024. Petit Futé affiche 4,4/5, sur cinq avis seulement (2018-2024).\n\nÀ la lecture des avis Google relayés, publiés de septembre 2015 à mai 2024 :\n- **ce qui revient le plus** : la propreté, l'accueil des patrons et des serveuses, le buffet du samedi et, l'été, la terrasse avec piscine ;\n- **la distance** : des clients viennent de Lyon ou roulent 1 h 45, un autre se dit « à plusieurs heures de route » ;\n- **les hommes seuls** : en avril 2024, un couple habitué décrit des hommes seuls insistants envers les couples depuis quelques mois ; en août 2023, un avis pourtant positif notait déjà « un peu trop d'insistance » de certains clients ;\n- **la musique** : des avis de 2016, 2021 et 2022 critiquent la programmation du DJ (variété, années 80), d'autres la saluent en 2022 et 2023.\n\nDeux avis parlent de discrimination. En octobre 2023, un avis Google à 1/5, dont l'auteur dit être entré, dénonce une ambiance discriminatoire envers les étrangers. En août 2024, un homme seul raconte sur Petit Futé avoir été refusé vers 20 h, l'entrée étant « réservée pour les couples », et attribue ce refus à ses origines. Ce sont des récits unilatéraux, que nous ne pouvons pas vérifier."
+        }
+      ],
+      "sources": [
+        "s20",
+        "s22",
+        "s23"
+      ]
+    },
+    {
+      "id": "adresse-et-contact",
+      "title": "Rue des Haveurs, en 42100 et non 42000 : accès, parking et téléphone",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "L'accueil se fait au **31 rue des Haveurs, 42100 Saint-Étienne**, et non 42000 comme l'écrivent certains annuaires : c'est l'adresse des affiches du club, du registre des entreprises et de la fiche du syndicat SNEG & Co (avril 2025). Le club se dit « à quelques minutes du centre » ; un avis d'août 2023 le situe dans une « zone industrielle pas très glamour ». Un grand parking privé est surveillé le week-end."
+        },
+        {
+          "kind": "list",
+          "title": "Pour joindre le club",
+          "items": [
+            "**Téléphone** : 06 79 01 99 93, seul numéro affiché par le club depuis au moins octobre 2014. L'ancien fixe 04 77 47 14 93, relevé par un annuaire en 2013, n'est plus affiché ; le 04 49 34 10 22 d'un annuaire lyonnais n'est confirmé nulle part.",
+            "**Site** : lemoloko.com (lemoloko.fr y renvoie), sans page de contact ni mentions légales.",
+            "**E-mail** : lemoloko@live.fr selon la fiche du SNEG & Co ; le site ne l'affiche pas."
+          ]
+        }
+      ],
+      "sources": [
+        "s1",
+        "s2",
+        "s6",
+        "s11",
+        "s13",
+        "s18",
+        "s20",
+        "s21",
+        "s22",
+        "s26",
+        "s27",
+        "s31",
+        "s34"
+      ]
+    },
+    {
+      "id": "saint-etienne-et-loire",
+      "title": "À Saint-Étienne, aucun autre complexe mixte trouvé ; dans la Loire, des clubs à vérifier",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Dans la ville, nous n'avons trouvé aucun autre lieu qui associe un sauna mixte ouvert tous les jours et un club pour couples. Les deux autres saunas stéphanois identifiés visent d'abord les hommes : le [H2O](/h2o-saint-etienne-sauna), qui se présente comme un « day-spa masculin », et le Mikonos, réservé aux hommes sauf le samedi soir, où il accueille couples et femmes seules, selon IF Saint-Étienne en 2021. Un annuaire range d'ailleurs le Moloko, à tort, parmi les saunas gays de la Loire.\n\nDans le reste du département, le même article citait le QG Club à Saint-Marcel-de-Félines, le Divinum à Civens et le New D'Lys à Feurs, ce dernier réservant alors ses soirées privées par les réseaux libertins. Nous n'avons pas vérifié leur activité en 2026 : avant de faire la route, regardez si l'un d'eux annonce une date dans [les soirées de club répertoriées sur Wyylde](aff:wyylde), lisibles sans abonnement avec leur thème et souvent leurs conditions d'entrée. Les pages [Saint-Étienne](/ville/saint-etienne) et [Loire](/departement/loire) de l'annuaire recensent les lieux que nous connaissons."
+        }
+      ],
+      "sources": [
+        "s19",
+        "s28",
+        "s33"
+      ]
+    },
+    {
+      "id": "histoire",
+      "title": "Association fondée fin 2008, soirées Gang Bang dès 2009 : l'histoire du Moloko",
+      "blocks": [
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "10 décembre 2008",
+              "text": "Déclaration de l'association « Le Moloko » à Saint-Étienne, pour des soirées dansantes et un club bar (Journal officiel du 20 décembre)."
+            },
+            {
+              "date": "Avril 2009",
+              "text": "Première capture du site lemoloko.com, « Club Libertin » à Saint-Étienne. En mai, l'agenda propose une soirée « Picasso » de peinture comestible."
+            },
+            {
+              "date": "23 novembre 2009",
+              "text": "Création de l'association Les Amis du Moloko, qui organise encore les samedis."
+            },
+            {
+              "date": "Décembre 2009",
+              "text": "Soirée couple à 30 € avec quatre consommations ; homme seul à 20 € l'après-midi, 30 à 40 € le soir, 60 € les soirs « Gang Bang »."
+            },
+            {
+              "date": "Février 2011",
+              "text": "Le « Club Privé Chic & Libertin » fête son anniversaire le 5 février et dit recevoir des libertins de six départements, dont le Rhône, le Puy-de-Dôme et l'Allier. Un sondage de son site cite déjà « le sauna »."
+            },
+            {
+              "date": "Août 2013",
+              "text": "Fermeture d'été du 12 au 28 août ; la carte de membre est alors obligatoire."
+            },
+            {
+              "date": "Octobre 2014 - mars 2015",
+              "text": "Le club quitte l'impasse des Mouliniers, que sa page contact donne encore en octobre 2014 : le 15 mars 2015, le site annonce qu'il « a déménagé » au 31 rue des Haveurs, adresse que l'association déclare le 30 mars. L'impasse reste le siège déclaré des deux associations."
+            },
+            {
+              "date": "2016-2017",
+              "text": "JOSS LOISIRS immatricule rue des Haveurs un établissement à l'enseigne Le Moloko (avril 2016) et y transfère son siège ; Les Amis du Moloko adhèrent au syndicat SNEG & Co. En juillet 2017, un avis note des « modifications » et « 2 jacuzzis »."
+            }
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "La date de la toute première soirée reste inconnue : l'association naît fin 2008, le site est archivé dès avril 2009, et l'anniversaire de 2011 ne précise pas l'année de référence."
+        }
+      ],
+      "sources": [
+        "s7",
+        "s8",
+        "s9",
+        "s10",
+        "s13",
+        "s14",
+        "s15",
+        "s16",
+        "s17",
+        "s18",
+        "s22",
+        "s32",
+        "s34"
+      ]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Lundi, mardi, mercredi": "Sauna de 14 h à 19 h et de 21 h à 1 h",
+      "Jeudi": "Sauna de 14 h à 19 h ; soirée Gang Bang de 21 h à 1 h (adeptes accueillis dès 20 h)",
+      "Vendredi": "Sauna de 14 h à 19 h ; soirée mixte le soir (21 h à 1 h selon l'accueil, voir la note)",
+      "Samedi": "Sauna de 14 h à 19 h, puis de 20 h à 4 h ; club privé de 20 h à 5 h",
+      "Dimanche": "Sauna de 14 h à 19 h et de 21 h à 1 h ; snack de midi à 14 h et de 19 h à 21 h"
+    },
+    "note": "Grille officielle mise en ligne le 11 septembre 2026. Pour le vendredi soir, elle répète « 14h00 – 19h00 » : la page d'accueil et une ancienne affiche indiquent 21 h à 1 h tous les soirs.",
+    "confidence": "confirme",
+    "sources": [
+      "s2",
+      "s3",
+      "s4",
+      "s6"
+    ]
+  },
+  "tarifs": {
+    "rows": {
+      "Après-midi, tous les jours (14 h - 19 h)": "Homme 35 € · femme 10 € · couple 20 €",
+      "Lundi à mercredi et dimanche soir (21 h - 1 h)": "Homme 35 € · femme 10 € · couple 20 €",
+      "Jeudi soir, soirée Gang Bang": "Homme 50 € avec une consommation · couple curieux 20 € · couples et femmes adeptes invités",
+      "Vendredi soir": "Homme 50 € (2 softs ou bières, ou 1 alcool fort) · femme 10 € · couple 20 € (une consommation chacun)",
+      "Samedi, club privé (20 h - 5 h)": "Couple 60 € avec buffet et 2 alcools par personne, 50 € après minuit · femme 10 €",
+      "Samedi soir, sauna (20 h - 4 h)": "Homme 50 € avec 2 alcools · couples et femmes : compris dans l'entrée du club",
+      "Dimanche après-midi et soir": "10 € de moins sur l'entrée du soir"
+    },
+    "note": "Grille officielle du 11 septembre 2026 et affiches des samedis de la rentrée 2026. Les anciennes affiches mentionnaient aussi un tarif « trans » de 30 € les jeudis et vendredis soir, absent de la grille actuelle.",
+    "confidence": "confirme",
+    "sources": [
+      "s3",
+      "s4",
+      "s6"
+    ]
+  },
+  "equipements": [
+    "Bar (licence IV)",
+    "Sauna traditionnel",
+    "Hammam (jusqu'à 20 personnes)",
+    "Balnéo intérieure",
+    "Jacuzzi",
+    "Piscine extérieure (juin à septembre)",
+    "Balnéo extérieure et solarium (été)",
+    "Terrasse",
+    "Piste de danse",
+    "Chambres fermant à clé",
+    "Coins câlins ouverts",
+    "Labyrinthe",
+    "Glory holes",
+    "Salle de projection vidéo",
+    "Salle fumeur",
+    "Réfectoire et buffet (samedi)",
+    "DJ (samedi)",
+    "Lits ronds",
+    "Douches",
+    "Vestiaire à casiers (côté sauna)",
+    "Préservatifs gratuits",
+    "Parking privé, surveillé le week-end"
+  ],
+  "externalRatings": [
+    {
+      "platform": "Petit Futé",
+      "rating": 4.4,
+      "scale": 5,
+      "count": 5,
+      "date": "2026-10-16",
+      "url": "https://www.petitfute.com/v35866-saint-etienne-42000/c9998-coquin/c1044-s-amuser-sortir/c208-sauna/1547661-le-moloko-club.html"
+    }
+  ],
+  "officialLinks": [
+    {
+      "label": "Visite guidée officielle du sauna (22 photos)",
+      "url": "https://www.lemoloko.com/sauna.html",
+      "kind": "galerie"
+    },
+    {
+      "label": "Visite guidée officielle du club (21 photos)",
+      "url": "https://www.lemoloko.com/club.html",
+      "kind": "galerie"
+    },
+    {
+      "label": "Site officiel",
+      "url": "https://www.lemoloko.com/",
+      "kind": "site"
+    },
+    {
+      "label": "Soirées à venir (agenda des samedis)",
+      "url": "https://www.lemoloko.com/soir%C3%A9es.html",
+      "kind": "agenda"
+    },
+    {
+      "label": "Horaires et tarifs",
+      "url": "https://www.lemoloko.com/horaires.html",
+      "kind": "autre"
+    }
+  ],
+  "corrections": {
+    "adresse": "31 rue des Haveurs",
+    "site_web": "https://www.lemoloko.com",
+    "sources": [
+      "s1",
+      "s6",
+      "s10",
+      "s13",
+      "s18",
+      "s31"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Où se trouve le Moloko (42) ?",
+      "answer": "Au 31 rue des Haveurs, 42100 Saint-Étienne (Loire), à quelques minutes du centre selon le club, qui dispose d'un grand parking privé surveillé le week-end."
+    },
+    {
+      "question": "Où voir des photos du Moloko ?",
+      "answer": "Sur le site officiel : deux galeries « Visite guidée », 22 photos du sauna et 21 du club, sans clients (piscine, jacuzzi extérieur, balnéo, hammam, chambres en skaï rouge, piste de danse, lit rond en alcôve vitrée)."
+    },
+    {
+      "question": "Un homme seul peut-il entrer au Moloko ?",
+      "answer": "Oui, au sauna, tous les jours : 35 € l'après-midi et les lundi, mardi, mercredi et dimanche soir, 50 € les jeudi, vendredi et samedi soir. Le samedi, la grille ne prévoit pas de tarif homme seul pour le club privé."
+    },
+    {
+      "question": "Combien coûte un samedi soir en couple ?",
+      "answer": "60 € avec le buffet et deux alcools par personne, 50 € à partir de minuit, selon les affiches de l'automne 2026. Le sauna, le hammam et le jacuzzi sont compris."
+    },
+    {
+      "question": "Quelle tenue faut-il le samedi ?",
+      "answer": "Une tenue sexy pour les femmes (ni pantalon, ni short, ni legging, ni baskets) et une tenue de ville pour les hommes (ni tee-shirt, ni short, ni baskets de sport), selon les affiches de 2026."
+    },
+    {
+      "question": "Le Moloko a-t-il une piscine ?",
+      "answer": "Oui, une piscine extérieure ouverte de début juin à fin septembre selon la météo, avec balnéo extérieure et solarium. L'espace humide intérieur (sauna, hammam, balnéo) fonctionne toute l'année."
+    },
+    {
+      "question": "Le Moloko est-il un sauna gay ?",
+      "answer": "Non : le site officiel le décrit comme un lieu libertin mixte, ouvert aux hommes, aux femmes et aux couples ; un annuaire le classe à tort parmi les saunas gays."
+    },
+    {
+      "question": "Faut-il être membre ou réserver ?",
+      "answer": "Le site ne le dit pas clairement. En 2013-2015, il exigeait une carte de membre et une pièce d'identité ; en 2026, il s'adresse encore à « nos adhérents », sans expliquer comment adhérer ni s'il faut réserver. Le plus sûr est d'appeler le 06 79 01 99 93 avant une première visite."
+    }
+  ],
+  "unverified": [
+    "La carte de membre, obligatoire en 2013-2015, est-elle toujours exigée en 2026, et à quelles conditions ? Le site parle encore d'« adhérents » sans le préciser.",
+    "JOSS LOISIRS exploite-t-elle bien le sauna ? Nous le déduisons de son enseigne « Le Moloko » et de son activité de débit de boissons au registre ; le club ne la nomme nulle part.",
+    "L'heure de fin du vendredi soir : la grille de septembre 2026 répète « 14h00 – 19h00 » pour la soirée, probablement par erreur (21 h - 1 h selon la page d'accueil).",
+    "Le tarif « trans » de 30 € des anciennes affiches est-il toujours appliqué ?",
+    "Y a-t-il un vestiaire et des casiers côté club ? La galerie du sauna en montre un, mais les avis se contredisent pour le club.",
+    "La date de prise de vue des photos officielles, mises en ligne en juin 2026.",
+    "La note Google actuelle : nous ne l'avons vue que sur des sites relais.",
+    "La date exacte d'ouverture du club (fin 2008 ou 2009) et celle du sauna club de la rue des Haveurs.",
+    "L'origine du numéro 04 49 34 10 22 affiché par un annuaire lyonnais."
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Site officiel du Moloko, page d'entrée",
+      "url": "https://www.lemoloko.com/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s2",
+      "label": "Site officiel, page d'accueil (deux établissements, équipements, horaires du sauna)",
+      "url": "https://www.lemoloko.com/accueil.html",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s3",
+      "label": "Site officiel, grille « Horaire et tarifs » mise en ligne le 11/09/2026",
+      "url": "https://www.lemoloko.com/horaires.html",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s4",
+      "label": "Site officiel, « Soirées à venir » (affiches des samedis du 29/08 au 17/10/2026)",
+      "url": "https://www.lemoloko.com/soir%C3%A9es.html",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s5",
+      "label": "Site officiel, galeries « Visite guidée » du sauna (22 photos) et du club (21 photos)",
+      "url": "https://www.lemoloko.com/sauna.html",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s6",
+      "label": "Site officiel, affiches permanentes de la semaine et du jeudi",
+      "url": "https://www.lemoloko.com/flyers/SEMAINE1.jpg",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s7",
+      "label": "Site officiel, archives de 2009 (agenda de mai, tarifs de décembre)",
+      "url": "https://web.archive.org/web/20091219033637/http://www.lemoloko.com:80/index.php?option=com_content&view=article&id=48&Itemid=57&lang=fr",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s8",
+      "label": "Site officiel, archive du 02/02/2011",
+      "url": "https://web.archive.org/web/20110202114843/http://www.lemoloko.com/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s9",
+      "label": "Site officiel, archive du 27/07/2013",
+      "url": "https://web.archive.org/web/20130727185800/http://www.lemoloko.com:80/fr/accueil.html",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s10",
+      "label": "Site officiel, archive du 15/03/2015 (annonce du déménagement)",
+      "url": "https://web.archive.org/web/20150315072602/http://www.lemoloko.com:80/fr/accueil.html",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s11",
+      "label": "Site officiel, page contact archivée le 12/02/2016",
+      "url": "https://web.archive.org/web/20160212024107/http://www.lemoloko.com:80/en/contact.html",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s12",
+      "label": "Site officiel, archive du 11/12/2024 (version hiver)",
+      "url": "https://web.archive.org/web/20241211163247/http://www.lemoloko.com/new/accueilhiver.html",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s13",
+      "label": "Annuaire des entreprises : JOSS LOISIRS, SAS (SIREN 527 762 132)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/527762132",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s14",
+      "label": "Annuaire des entreprises : association Les Amis du Moloko (SIREN 539 165 100)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/539165100",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s15",
+      "label": "Annuaire des entreprises : association Le Moloko (SIREN 512 499 849)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/512499849",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s16",
+      "label": "Journal officiel, annonces des associations Le Moloko et Les Amis du Moloko (2008 à 2015)",
+      "url": "https://journal-officiel-datadila.opendatasoft.com/explore/dataset/jo_associations/table/?q=W423004945",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s17",
+      "label": "BODACC, annonces de JOSS LOISIRS (14 dépôts des comptes, 2012-2026)",
+      "url": "https://bodacc-datadila.opendatasoft.com/explore/dataset/annonces-commerciales/table/?q=527762132",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s18",
+      "label": "SNEG & Co, fiche « Les amis du Moloko » (25/04/2025)",
+      "url": "https://www.snegandco.fr/le-moloko/",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s19",
+      "label": "IF Saint-Étienne, « Loire : où trouver des clubs libertins ? » (2021, republié le 11/02/2022)",
+      "url": "https://www.if-saint-etienne.fr/culture-loisirs/loire-ou-trouver-des-clubs-libertins",
+      "type": "presse",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s20",
+      "label": "Petit Futé, fiche « Le Moloko Club » et avis",
+      "url": "https://www.petitfute.com/v35866-saint-etienne-42000/c9998-coquin/c1044-s-amuser-sortir/c208-sauna/1547661-le-moloko-club.html",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s21",
+      "label": "clubech.fr, fiche « Le Moloko » (archives de 2013 et 2015)",
+      "url": "https://web.archive.org/web/20150710173312/http://www.clubech.fr:80/le-moloko/",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s22",
+      "label": "autour-de-moi.com, relais des avis Google (4,4/5 sur 163 avis, jusqu'au 14/05/2024)",
+      "url": "https://club-de-divertissement-pour-adultes.autour-de-moi.com/le-moloko-3325509.html",
+      "type": "avis",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s23",
+      "label": "top-rated.online, relais des avis Google (4,2/5 sur 209 avis, relevé du 26/12/2025)",
+      "url": "https://www.top-rated.online/cities/Saint-Etienne/place/p/2550721/LE+MOLOKO",
+      "type": "avis",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s26",
+      "label": "Lieux Coquins, « Le Moloko Club »",
+      "url": "https://www.lieuxcoquins.fr/lieu/le-moloko-club/",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s27",
+      "label": "Sortir Lyon, « Le Moloko »",
+      "url": "https://www.sortir-lyon.com/etablissements/coquins/le-moloko",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s28",
+      "label": "Sauna Club Le Bali, page « Clubs libertins Loire (42) »",
+      "url": "https://www.saunaclublebali.fr/clubs-libertins-loire-42/",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s31",
+      "label": "Base Adresse Nationale, « 31 Rue des Haveurs 42100 Saint-Étienne »",
+      "url": "https://api-adresse.data.gouv.fr/search/?q=31+rue+des+haveurs+saint-etienne",
+      "type": "carte",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s32",
+      "label": "Wayback Machine, historique des captures de lemoloko.com",
+      "url": "https://web.archive.org/cdx/search/cdx?url=lemoloko.com",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s34",
+      "label": "Site officiel, page contact archivée le 23/10/2014 (impasse des Mouliniers)",
+      "url": "https://web.archive.org/web/20141023143127/http://www.lemoloko.com:80/fr/contact.html?",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s33",
+      "label": "Site officiel du H2O, Saint-Étienne",
+      "url": "https://www.h2o-saunapourlui.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    }
+  ]
+}

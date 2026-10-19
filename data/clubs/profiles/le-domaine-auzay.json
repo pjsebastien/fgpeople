@@ -1,0 +1,824 @@
+{
+  "slug": "le-domaine-auzay",
+  "clubId": "15285",
+  "researchedAt": "2026-10-16",
+  "display": {
+    "nom": "Le Domaine",
+    "ville": "Auzay"
+  },
+  "status": {
+    "value": "ouvert",
+    "summary": "Fermeture exceptionnelle du 5 au 23 octobre 2026 inclus, annoncée sur l'agenda du club, qui programme sa réouverture le samedi 24 octobre avec une soirée couples, puis Halloween le 31. Ses pages tarifs et règlement ont été modifiées le 8 septembre 2026, et la SARL exploitante, LE DOMAINE DE LA JARRIE, est active au registre des entreprises (fiche mise à jour le 24 septembre 2026).",
+    "sources": [
+      "s11",
+      "s12",
+      "s5",
+      "s24"
+    ]
+  },
+  "seo": {
+    "title": "Le Domaine, club libertin à Auzay : avis, photos et tarifs 2026",
+    "metaDescription": "Caves voûtées près de Fontenay-le-Comte, ouvertes le samedi seul depuis septembre 2026 : couple 35 €, femme 10 €. Photos, avis, agenda et accès.",
+    "subtitle": "Club libertin en caves voûtées à Auzay (Auchay-sur-Vendée, 85), ouvert le samedi",
+    "targetQueries": [
+      "le domaine club libertin",
+      "le domaine club libertin avis",
+      "le domaine club libertin photos",
+      "avis sur le domaine club libertin",
+      "club libertin le domaine",
+      "photos de le domaine club libertin",
+      "club libertin auzay",
+      "domaine libertin"
+    ]
+  },
+  "lead": "Le Domaine occupe depuis septembre 2013 les caves voûtées du Fief de la Jarrie, à Auzay, près de Fontenay-le-Comte. Depuis septembre 2026, il n'ouvre plus que le samedi, de 22 h à 5 h, pour les couples (35 €) et les femmes seules (10 €) ; les hommes seuls n'y entrent que sur réservation, avec une carte GOLD. Fermé du 5 au 23 octobre 2026, il annonce sa réouverture le samedi 24 octobre.",
+  "keyFacts": [
+    {
+      "label": "Ouverture",
+      "value": "Septembre 2013 (13 ans fêtés en septembre 2026)",
+      "confidence": "confirme",
+      "sources": [
+        "s24",
+        "s27",
+        "s14",
+        "s3",
+        "s21"
+      ]
+    },
+    {
+      "label": "Société",
+      "value": "SARL LE DOMAINE DE LA JARRIE, SIREN 793 535 717, active",
+      "confidence": "confirme",
+      "sources": [
+        "s24"
+      ]
+    },
+    {
+      "label": "Jours d'ouverture",
+      "value": "Samedi de 22 h à 5 h et soirées exceptionnelles (depuis septembre 2026)",
+      "confidence": "confirme",
+      "sources": [
+        "s5",
+        "s3",
+        "s1"
+      ]
+    },
+    {
+      "label": "Public admis le samedi",
+      "value": "Couples, femmes seules, trouples HHF ; hommes seuls sur réservation avec carte GOLD, en nombre limité",
+      "confidence": "confirme",
+      "sources": [
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    {
+      "label": "Entrée couple",
+      "value": "35 €, une consommation alcoolisée par personne incluse",
+      "confidence": "confirme",
+      "sources": [
+        "s5",
+        "s1",
+        "s11"
+      ]
+    },
+    {
+      "label": "Entrée femme seule",
+      "value": "10 €",
+      "confidence": "confirme",
+      "sources": [
+        "s5",
+        "s1"
+      ]
+    },
+    {
+      "label": "Surface",
+      "value": "Plus de 600 m² selon le club (2026)",
+      "confidence": "source_unique",
+      "sources": [
+        "s11",
+        "s13"
+      ]
+    },
+    {
+      "label": "Lieu",
+      "value": "Caves voûtées d'un bâtiment que le club date de l'époque napoléonienne",
+      "confidence": "source_unique",
+      "sources": [
+        "s2",
+        "s18"
+      ]
+    },
+    {
+      "label": "Âge minimum",
+      "value": "18 ans",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s18"
+      ]
+    },
+    {
+      "label": "Hôtel partenaire",
+      "value": "Contact Hôtel, à Fontenay-le-Comte, navette sur demande 72 h avant",
+      "confidence": "confirme",
+      "sources": [
+        "s9",
+        "s2"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "samedi-seul-depuis-septembre-2026",
+      "title": "Septembre 2026 : le vendredi supprimé, le samedi réservé aux couples et aux femmes seules",
+      "blocks": [
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Fermeture exceptionnelle jusqu'au 23 octobre 2026",
+          "body": "L'agenda du club annonce une fermeture du 5 au 23 octobre 2026 inclus et une réouverture le samedi 24 octobre avec une soirée couples."
+        },
+        {
+          "kind": "text",
+          "body": "Après « plus de 13 ans d'ouverture », écrit le club, Le Domaine a changé de rythme à la rentrée 2026 : sa page « Horaires & Tarifs », modifiée le 8 septembre, annonce une ouverture **le samedi uniquement, de 22 h à 5 h**, hors soirées exceptionnelles. En mars 2026, elle proposait encore le vendredi de 22 h à 3 h. Le club annonçait toujours, début août, la fermeture d'un vendredi d'octobre : l'abandon du vendredi date donc vraisemblablement de la fin de l'été.\n\nLa page « Le Club » en donne la raison : le vendredi attirait certains hommes seuls qui ne partageaient pas « notre vision du libertinage »."
+        },
+        {
+          "kind": "text",
+          "body": "**Hommes seuls : une entrée au compte-gouttes**\nComme en 2025 déjà, il leur faut la carte membre GOLD, que « Le Code » affiche à 5 €, et une réservation. Le site se contredit sur leur nombre : « 3 ou 4 » au maximum selon la page tarifs, davantage pour les gang bangs et les soirées BDSM ; une soirée mixte par mois, ouverte à cinq hommes présélectionnés et inscrits 48 h avant, selon les pages « Le Club » et « Le Code ». Faites préciser la règle au 06 77 17 08 38 avant de réserver.\n\nL'autre porte d'entrée est le trouple HHF (deux hommes, une femme), à 70 €, admis même lors de la soirée couples du 24 octobre : venir avec un couple qui souhaite un second partenaire masculin. Ce type de rencontre se prépare en amont, par exemple sur [les petites annonces de Carré Libertin](aff:carre-libertin), un site ouvert en 2007 où les femmes et les couples représentent environ 60 % des membres selon ses propres chiffres, et y accèdent gratuitement en publiant trois photos de profil."
+        }
+      ],
+      "sources": [
+        "s3",
+        "s4",
+        "s5",
+        "s8",
+        "s11",
+        "s12",
+        "s23"
+      ]
+    },
+    {
+      "id": "caves-voutees-et-galerie-photos",
+      "title": "Caves en clé de voûte, lit rond et barre de pole dance : ce que montre la galerie",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le club se décrit comme un lieu de « l'époque napoléonienne », installé dans des caves en clé de voûte, et vante le « charme baroque » de ses salons. Aucune source historique consultée ne confirme cette datation, constante dans sa présentation depuis 2014.\n\nLa surface annoncée a grandi d'une version du site à l'autre : « plus de 500 m² » de caves en 2014, « plus de 550 m² » en 2016, puis plus de 600 m² pour l'ensemble du club dans les annonces des soirées BDSM de 2026, sans préciser s'il y a eu agrandissement."
+        },
+        {
+          "kind": "text",
+          "body": "**La galerie officielle**\n[La galerie du site](https://clubledomaine.com/galerie/) n'a pas été modifiée depuis août 2024. Nous avons ouvert ses treize images le 16 octobre 2026 : dix montrent réellement le lieu."
+        },
+        {
+          "kind": "list",
+          "items": [
+            "la façade en pierre de taille, avec un auvent métallique et le numéro 23 ;",
+            "la piste voûtée en soirée (trois clichés) : barre de pole dance, jeux de lumière, visages floutés ;",
+            "des caves en enfilade éclairées en rouge ou en violet ;",
+            "un salon sous arche de pierre à fauteuils club en cuir noir ;",
+            "une salle au parquet clair et aux murs de pierre, organisée autour d'un lit rond ;",
+            "une niche voûtée garnie d'un couchage noir et de coussins rouges."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Les trois autres : le logo, un photomontage et une image de banque d'images (fichier « sexy-2069708 »).\n\n**L'équipement cité dans les annonces de soirées**\nLes annonces des soirées BDSM citent un équipement absent des photos que nous avons vues : croix de Saint-André, cardans, glory hole, salles SM, chaise de torture et swing à étriers. Pour les gang bangs, le club retire les portes de toutes les chambres. Un DJ anime chaque samedi."
+        }
+      ],
+      "sources": [
+        "s2",
+        "s3",
+        "s10",
+        "s11",
+        "s13",
+        "s15",
+        "s18",
+        "s21"
+      ]
+    },
+    {
+      "id": "avis-google-et-pagesjaunes",
+      "title": "Avis : environ 4,4 sur Google d'après deux agrégateurs, un seul avis sur PagesJaunes",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Nous n'avons pas pu relever nous-mêmes la note Google du Domaine. Deux sites qui la reprennent donnent le même ordre de grandeur : 4,4 sur 5 pour 96 avis chez minuitlibertin, dans une fiche dont les informations datent du 4 octobre 2025, et 4,40 pour 102 avis chez top-rated.online, page mise à jour le 19 juillet 2026.\n\nSur PagesJaunes, la fiche ne compte qu'un avis, noté 5/5 le 12 février 2024, auquel l'établissement a répondu le 6 mars suivant."
+        },
+        {
+          "kind": "list",
+          "title": "Deux précautions avant de lire les avis en ligne",
+          "items": [
+            "**Beaucoup décrivent une autre formule.** Le club ouvrait encore le vendredi en mars 2026, avec des hommes seuls admis, et en 2019 le jeudi aussi. Un avis sur une soirée du vendredi décrit une soirée qui n'existe plus. PagesJaunes (pourtant mise à jour le 30 septembre 2026), minuitlibertin, saunaclublebali, lieuxcoquins, Le Club Advisor et Mapstr affichent encore une ancienne formule.",
+            "**« Meilleur club libertin de France » est une formule du club.** Le site l'affirme depuis 2019 au moins, en l'attribuant à « de nombreux sites de rencontre » qu'il ne nomme pas. Nous n'avons trouvé aucun classement qui l'établisse."
+          ]
+        }
+      ],
+      "sources": [
+        "s28",
+        "s29",
+        "s30",
+        "s23",
+        "s22",
+        "s32",
+        "s33",
+        "s34",
+        "s2",
+        "s3",
+        "s16",
+        "s24",
+        "s11",
+        "s31"
+      ],
+      "confidence": "a_verifier"
+    },
+    {
+      "id": "agenda-automne-2026",
+      "title": "Halloween le 31 octobre, gang bang le mardi 10 novembre : l'agenda de l'automne 2026",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Presque chaque samedi a son thème (Scandaleuses, Mini-jupes, Fluo, Burlesque ou Années 80 entre mai et septembre 2026). Au programme après la réouverture :"
+        },
+        {
+          "kind": "table",
+          "caption": "Agenda officiel relevé le 16 octobre 2026. Le texte de l'annonce d'Halloween dit « samedi 30 octobre », mais le samedi tombe le 31, date du calendrier du site.",
+          "headers": [
+            "Date",
+            "Soirée",
+            "Horaires",
+            "Entrée"
+          ],
+          "rows": [
+            [
+              "Sam. 24 octobre",
+              "Soirée couples, chemise exigée pour les hommes",
+              "22 h - 5 h",
+              "Tarif du samedi"
+            ],
+            [
+              "Sam. 31 octobre",
+              "Halloween, même dress code",
+              "22 h - 5 h",
+              "Tarif du samedi"
+            ],
+            [
+              "Sam. 7 novembre",
+              "Coaching libertin « Comment gérer ma soirée libertine ? »",
+              "20 h - 22 h",
+              "10 € par personne, buffet compris, sur réservation"
+            ],
+            [
+              "Sam. 7 novembre",
+              "Soirée Glamour, même dress code",
+              "22 h - 5 h",
+              "Tarif du samedi"
+            ],
+            [
+              "Mar. 10 novembre",
+              "Méga gang bang, portes des chambres retirées",
+              "21 h - 3 h",
+              "Femme 10 €, couple 30 €, homme 35 € réservés avant midi ; 15, 40 et 45 € sur place"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "**La Nuit des Yokaï, quatre fois en 2026**\nLes soirées 100 % BDSM, annoncées « pour un public averti », portent depuis 2025 le nom de La Nuit des Yokaï : 7 février, 2 mai, 18 juillet et 3 octobre en 2026. Celle de juillet commençait dès 16 h par une initiation et une jam de shibari, suivies d'un barbecue, puis de la soirée de 21 h à 5 h. Celle d'octobre, « Le Marché aux supplices », coûtait 50 € pour un couple ou un homme, 15 € pour une femme ou une personne trans, collation comprise.\n\n**Le gang bang, une soirée de participants**\nLe méga gang bang revient tous les deux à trois mois : 14 mars, 30 mai, 22 août et 10 novembre 2026. Le club prévient que « ce n'est pas une soirée clubbing » : il la réserve à ceux qui viennent participer et justifie le prix par les sans-alcool et la collation servis toute la nuit."
+        },
+        {
+          "kind": "text",
+          "body": "**Débuter : le coaching de 20 h**\nLe club dit accompagner les débutants et organise une fois par mois un coaching libertin de deux heures autour d'un buffet, avant l'ouverture de la soirée, pour les couples et les femmes, novices ou non. Les couples qui veulent aussi parler avec d'autres libertins avant leur première venue peuvent [créer un profil vérifié sur Gleese](aff:gleese) : l'inscription ne demande pas de carte bancaire, chaque profil est vérifié par téléphone et les photos sont modérées à la main. Ouvert fin 2024, il compte encore bien moins d'inscrits que ses aînés.\n\n**Des fermetures à surveiller**\nLe club a multiplié les fermetures en 2026 : une semaine fin février, six vendredis et un samedi entre janvier et août, la fin septembre, puis du 5 au 23 octobre. Le trajet depuis Niort ou La Rochelle se prépare donc en vérifiant d'abord [l'agenda du club](https://clubledomaine.com/nos-soirees/)."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s3",
+        "s11",
+        "s12",
+        "s13",
+        "s14",
+        "s15",
+        "s23"
+      ]
+    },
+    {
+      "id": "acces-fief-de-la-jarrie",
+      "title": "Fief de la Jarrie : par l'A83 sortie 8, ou en train jusqu'à Niort puis navette",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le club se trouve au 23 route de la Prairie, au lieu-dit Fief de la Jarrie, à Auzay. Depuis le 1er janvier 2017, Auzay est une commune déléguée d'Auchay-sur-Vendée, née de sa fusion avec Chaix : le registre des entreprises domicilie donc le club à Auchay-sur-Vendée, et le site officiel donne les deux adresses à saisir dans un GPS.\n\nEn voiture, le club conseille de quitter l'A83 à la sortie 8 (Marans, Fontenay-le-Comte-Centre), puis de suivre la D938T, la D148 et la D65 avant de tourner à droite vers le Fief de la Jarrie.\n\nSans voiture, l'itinéraire proposé n'a pas changé depuis 2014 : avion jusqu'à Nantes ou La Rochelle, ou train jusqu'à Niort, puis bus jusqu'à Fontenay-le-Comte, où la navette du club peut prendre le relais. Le club dit aussi pouvoir organiser une location de voiture."
+        },
+        {
+          "kind": "text",
+          "body": "**Contact Hôtel, partenaire depuis 2019 au moins**\nL'hôtel partenaire, Contact Hôtel, est installé au Vendéopôle Sud de Fontenay-le-Comte, « à 5 minutes du Club » selon le club. Le club y annonce un tarif réservé à ses clients, pour les réservations par téléphone, et une navette aller-retour peut être demandée 72 heures à l'avance. Utile aussi si l'on vous juge inapte à conduire : le règlement impose alors une chambre d'hôtel.\n\n**Les autres clubs du secteur**\nL'établissement le plus proche de notre annuaire est [L'Affinité, au Langon](/l-affinite-le-langon), à environ 17 km selon un annuaire en ligne. [Les Bains Gourmands, à La Roche-sur-Yon](/les-bains-gourmands-la-roche-sur-yon), sont à quelque 46 km selon le même annuaire. Les autres adresses du département figurent sur [notre page Vendée](/departement/vendee)."
+        }
+      ],
+      "sources": [
+        "s7",
+        "s24",
+        "s26",
+        "s9",
+        "s2",
+        "s22",
+        "s20",
+        "s4",
+        "s31"
+      ]
+    },
+    {
+      "id": "reglement-tenue-alcool-bar",
+      "title": "Jupe ou robe, chemise certains samedis, hôtel imposé en cas d'ivresse : le règlement",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Club privé selon sa page « Le Code », mise à jour le 8 septembre 2026, Le Domaine y fixe ses règles :"
+        },
+        {
+          "kind": "list",
+          "items": [
+            "**Tenue** : jupe ou robe obligatoire pour les femmes ; pantalon chic ou jean propre pour les hommes, avec chemise exigée aux soirées couples, Halloween et Glamour de l'automne 2026.",
+            "**Carte de membre** : gratuite pour les femmes et les couples, établie à l'entrée lors de la première soirée. La carte GOLD, à 5 €, donne des invitations à des soirées privées et des points de fidélité ; elle est exigée des hommes seuls.",
+            "**Interdits** : prostitution et escorting, que le club dit signaler à la police ; drogue, sanctionnée par une exclusion définitive.",
+            "**Alcool** : entrée refusable en cas d'ivresse ; un client jugé inapte à conduire doit prendre une chambre d'hôtel à ses frais, faute de quoi le club annonce qu'il appelle la gendarmerie."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "**Au bar**\nLes softs sont gratuits toute la nuit, mais les cocktails sans alcool sont facturés 7 €. La carte publiée affiche la bouteille de champagne à 55 € (80 € en grand cru), la coupe à 10 €, la bière pression à 5 € et les cocktails à 10 €. Cette page n'a pas bougé depuis février 2023 : les prix ont pu évoluer.\n\nPas de restauration régulière annoncée en 2026 : un buffet ou une collation est offert certains soirs (coaching, anniversaire, BDSM, gang bang), et le club conseille de dîner à La Boucherie, à Fontenay-le-Comte."
+        }
+      ],
+      "sources": [
+        "s4",
+        "s3",
+        "s11",
+        "s12",
+        "s1",
+        "s6",
+        "s13",
+        "s14",
+        "s9"
+      ]
+    },
+    {
+      "id": "histoire-2013-2026",
+      "title": "De 50 € avec buffet en 2014 à 35 € en 2026 : treize ans d'histoire",
+      "blocks": [
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "14 juin 2013",
+              "text": "Enregistrement du nom de domaine clubledomaine.com. Le 29 juin, le site n'affiche encore qu'une page d'attente."
+            },
+            {
+              "date": "1er septembre 2013",
+              "text": "Création de la SARL LE DOMAINE DE LA JARRIE, enseigne « Le Domaine Club Libertin »."
+            },
+            {
+              "date": "20 et 21 septembre 2013",
+              "text": "Soirées d'inauguration en mixte, selon un annuaire. Les 13 ans fêtés en septembre 2026 confirment le mois d'ouverture."
+            },
+            {
+              "date": "2014",
+              "text": "Ouverture le jeudi (soirée découverte), le vendredi et le samedi ; ces deux derniers soirs, buffet et open bar. Les 1er et 3e mardis sont réservés aux trios et pluralités masculines."
+            },
+            {
+              "date": "Juin 2016",
+              "text": "« Les 3 ans du Domaine » ; plus de 550 m² de caves annoncés, ouverture du jeudi au samedi."
+            },
+            {
+              "date": "2019",
+              "text": "Toujours du jeudi au samedi, sans hommes seuls le samedi. Le partenariat avec Contact Hôtel est en place."
+            },
+            {
+              "date": "Juin 2025 - mars 2026",
+              "text": "Ouverture le vendredi (22 h - 3 h) et le samedi (22 h - 5 h)."
+            },
+            {
+              "date": "Septembre 2026",
+              "text": "Passage au samedi seul. Les 13 ans sont fêtés le 12 (soirée blanche) et le 19 septembre (50 € le couple, buffet offert)."
+            }
+          ]
+        },
+        {
+          "kind": "table",
+          "caption": "Entrée du samedi soir selon les archives du site officiel",
+          "headers": [
+            "",
+            "2014",
+            "2019",
+            "Depuis 2025"
+          ],
+          "rows": [
+            [
+              "Couple",
+              "50 €",
+              "45 €",
+              "35 €"
+            ],
+            [
+              "Femme seule",
+              "15 €",
+              "15 €",
+              "10 €"
+            ],
+            [
+              "Homme seul",
+              "75 €",
+              "non admis",
+              "carte GOLD et réservation, prix non affiché"
+            ],
+            [
+              "Compris",
+              "buffet traiteur, open bar partiel jusqu'à 23 h",
+              "une consommation alcoolisée, softs à volonté",
+              "une consommation alcoolisée, softs gratuits"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "En douze ans, l'entrée du samedi a baissé de 30 % pour un couple, mais dès 2019 le buffet traiteur avait cédé la place à une consommation par personne. Exclus du samedi en 2019, les hommes seuls y reviennent en nombre limité."
+        }
+      ],
+      "sources": [
+        "s25",
+        "s17",
+        "s24",
+        "s27",
+        "s14",
+        "s3",
+        "s18",
+        "s19",
+        "s20",
+        "s21",
+        "s26",
+        "s22",
+        "s12",
+        "s16",
+        "s23",
+        "s5",
+        "s11"
+      ]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Samedi": "22 h - 5 h",
+      "Soirées exceptionnelles": "horaires propres à chaque soirée (coaching 20 h - 22 h, gang bang du mardi 10 novembre 21 h - 3 h)",
+      "Lundi à vendredi": "fermé, sauf soirée exceptionnelle annoncée"
+    },
+    "note": "Fermeture exceptionnelle du 5 au 23 octobre 2026 inclus, réouverture le samedi 24 octobre. Le vendredi (22 h - 3 h) figurait encore au programme en mars 2026.",
+    "confidence": "confirme",
+    "sources": [
+      "s5",
+      "s11",
+      "s23"
+    ]
+  },
+  "tarifs": {
+    "rows": {
+      "Couple": "35 €",
+      "Femme seule": "10 €",
+      "Trouple HHF (2 hommes, 1 femme)": "70 €",
+      "Homme seul": "carte GOLD (5 €) et réservation obligatoires, nombre limité, prix non affiché",
+      "Carte de membre femmes et couples": "gratuite",
+      "Compris": "1 consommation alcoolisée par personne, softs gratuits toute la nuit"
+    },
+    "note": "Tarifs du samedi ordinaire, repris pour les soirées couples, Halloween et Glamour de l'automne 2026. Les soirées spéciales ont leur propre grille (50 € le couple pour les 13 ans et pour la soirée BDSM d'octobre).",
+    "confidence": "confirme",
+    "sources": [
+      "s5",
+      "s1",
+      "s4",
+      "s11",
+      "s14"
+    ]
+  },
+  "equipements": [
+    "Piste de danse voûtée, DJ le samedi",
+    "Barre de pole dance",
+    "Bar",
+    "Lit rond",
+    "Alcôves voûtées à banquettes",
+    "Chambres fermant par des portes",
+    "Croix de Saint-André et cardans (soirées BDSM)",
+    "Chaise de torture et swing à étriers (soirées BDSM)",
+    "Glory hole (soirées BDSM)",
+    "Salon voûté à fauteuils club",
+    "Carte de membre"
+  ],
+  "officialLinks": [
+    {
+      "label": "Site officiel",
+      "url": "https://clubledomaine.com/",
+      "kind": "site"
+    },
+    {
+      "label": "Galerie photo officielle (façade, piste voûtée, caves, salle au lit rond)",
+      "url": "https://clubledomaine.com/galerie/",
+      "kind": "galerie"
+    },
+    {
+      "label": "Agenda des soirées",
+      "url": "https://clubledomaine.com/nos-soirees/",
+      "kind": "agenda"
+    },
+    {
+      "label": "Horaires et tarifs",
+      "url": "https://clubledomaine.com/horaires-et-tarifs/",
+      "kind": "autre"
+    },
+    {
+      "label": "Page Facebook liée depuis le site",
+      "url": "https://www.facebook.com/profile.php?id=100063716193765",
+      "kind": "facebook"
+    }
+  ],
+  "corrections": {
+    "adresse": "23 route de la Prairie, Fief de la Jarrie",
+    "sources": [
+      "s7",
+      "s24"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Le Domaine club libertin est-il ouvert en ce moment ?",
+      "answer": "Pas avant le samedi 24 octobre 2026 : l'agenda du club annonce une fermeture exceptionnelle du 5 au 23 octobre inclus. Depuis septembre 2026, il n'ouvre que le samedi et lors de soirées exceptionnelles. D'ici là, vous pouvez [trouver une autre soirée sur Wyylde](aff:wyylde), dont l'agenda des soirées en club se consulte avec un compte gratuit ; répondre aux messages y demande en revanche un abonnement."
+    },
+    {
+      "question": "Combien coûte l'entrée au Domaine ?",
+      "answer": "Un samedi ordinaire, 35 € pour un couple, 10 € pour une femme seule et 70 € pour un trouple HHF, une consommation alcoolisée comprise par personne. Comptez 50 € le couple lors de soirées spéciales comme les 13 ans ou la Nuit des Yokaï d'octobre 2026."
+    },
+    {
+      "question": "Un homme seul peut-il entrer au Domaine ?",
+      "answer": "Oui, en nombre limité, avec la carte GOLD et sur réservation. Le plafond varie selon les pages du site (« 3 ou 4 » par samedi, ou cinq hommes présélectionnés lors d'une soirée mixte mensuelle) : faites-le confirmer au 06 77 17 08 38. Les gang bangs et les soirées BDSM en admettent davantage."
+    },
+    {
+      "question": "Où voir des photos du Domaine club libertin ?",
+      "answer": "Sur la [galerie du site officiel](https://clubledomaine.com/galerie/), inchangée depuis août 2024 : dix de ses treize images montrent le club, dont la façade, la piste voûtée et la salle au lit rond."
+    },
+    {
+      "question": "Quels sont les avis sur Le Domaine club libertin ?",
+      "answer": "Deux agrégateurs affichent une note Google d'environ 4,4 sur 5 : 96 avis selon une fiche d'octobre 2025, 102 selon une page mise à jour en juillet 2026. Nous n'avons pas pu la relever nous-mêmes. PagesJaunes ne compte qu'un avis, à 5/5, de février 2024. Les avis anciens décrivent une période où le club ouvrait aussi le vendredi."
+    },
+    {
+      "question": "Où se trouve le club libertin d'Auzay ?",
+      "answer": "Au 23 route de la Prairie, Fief de la Jarrie, à Auzay (commune d'Auchay-sur-Vendée, 85200), par l'A83, sortie 8. Sans voiture : train jusqu'à Niort, bus jusqu'à Fontenay-le-Comte, puis navette du club."
+    }
+  ],
+  "unverified": [
+    "Le nombre d'hommes seuls admis un samedi ordinaire : « 3 ou 4 » selon la page tarifs, cinq lors d'une soirée mixte mensuelle selon le règlement. Le prix de leur entrée ce soir-là n'est pas publié.",
+    "La date exacte de l'abandon du vendredi, située entre début août et le 8 septembre 2026.",
+    "La note Google, que nous n'avons pas pu relever directement (environ 4,4 sur 5 pour 96 à 102 avis selon deux agrégateurs, relevés d'octobre 2025 et de juillet 2026).",
+    "Les salons à l'étage, dont trois fermant à clé, les deux salons câlins et les douches, cités par un seul annuaire non daté.",
+    "Le parking gratuit sur place, signalé par deux annuaires mais absent du site.",
+    "Les prix du bar, dont la page n'a pas été modifiée depuis février 2023.",
+    "L'âge du bâtiment, que seul le club date de l'époque napoléonienne.",
+    "Le contenu de la page Facebook du club, illisible sans connexion, et d'éventuels articles de la presse régionale, non retrouvés."
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Site officiel, page d'accueil",
+      "url": "https://clubledomaine.com/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s2",
+      "label": "Site officiel, page « Le domaine »",
+      "url": "https://clubledomaine.com/le-domaine/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s3",
+      "label": "Site officiel, page « Le Club » (modifiée le 08/09/2026)",
+      "url": "https://clubledomaine.com/le-club/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s4",
+      "label": "Site officiel, page « Le Code » (modifiée le 08/09/2026)",
+      "url": "https://clubledomaine.com/le-code/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s5",
+      "label": "Site officiel, page « Horaires & Tarifs » (modifiée le 08/09/2026)",
+      "url": "https://clubledomaine.com/horaires-et-tarifs/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s6",
+      "label": "Site officiel, page « Le Bar » (modifiée le 13/02/2023)",
+      "url": "https://clubledomaine.com/le-bar/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s7",
+      "label": "Site officiel, page « Pour venir nous voir »",
+      "url": "https://clubledomaine.com/pour-venir-nous-voir/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s8",
+      "label": "Site officiel, page « Contact »",
+      "url": "https://clubledomaine.com/contact/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s9",
+      "label": "Site officiel, page « Nos Partenaires »",
+      "url": "https://clubledomaine.com/nos-partenaires/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s10",
+      "label": "Site officiel, galerie photo (modifiée le 14/08/2024)",
+      "url": "https://clubledomaine.com/galerie/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s11",
+      "label": "Site officiel, agenda « Nos Soirées » et calendrier des événements",
+      "url": "https://clubledomaine.com/nos-soirees/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s12",
+      "label": "Site officiel, liste des pages et dates de mise à jour (API WordPress)",
+      "url": "https://clubledomaine.com/wp-json/wp/v2/pages",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s13",
+      "label": "Site officiel, annonce de la soirée BDSM du 18/07/2026 (La Nuit des Yokaï)",
+      "url": "https://clubledomaine.com/summer-bbq-party-100-bdsm-samedi-18-juillet-2026-la-nuit-des-yokai/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s14",
+      "label": "Site officiel, annonce des 13 ans du Domaine (septembre 2026)",
+      "url": "https://clubledomaine.com/les-13-ans-du-domaine-party-1-soiree-blanche-samedi-12-septembre/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s15",
+      "label": "Site officiel, annonce du méga gang bang du 30/05/2026",
+      "url": "https://clubledomaine.com/mega-gang-bang-et-pluralite-samedi-30-mai-2026-de-21h-a-03h/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s16",
+      "label": "Internet Archive, historique des captures de clubledomaine.com (2013-2026)",
+      "url": "https://web.archive.org/cdx/search/cdx?url=clubledomaine.com&fl=timestamp,statuscode&collapse=timestamp:6",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s17",
+      "label": "Site officiel, archive du 29/06/2013 (page d'attente)",
+      "url": "https://web.archive.org/web/20130629010946/http://www.clubledomaine.com/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s18",
+      "label": "Site officiel, page d'accueil, archive du 05/01/2014",
+      "url": "https://web.archive.org/web/20140105033316/http://www.clubledomaine.com/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s19",
+      "label": "Site officiel, horaires et tarifs, archive du 14/01/2014",
+      "url": "https://web.archive.org/web/20140114005910/http://www.clubledomaine.com/horairestarifs",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s20",
+      "label": "Site officiel, page « Le Domaine », archive du 12/01/2014",
+      "url": "https://web.archive.org/web/20140112155734/http://www.clubledomaine.com/ledomaine",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s21",
+      "label": "Site officiel, page d'accueil, archive du 10/06/2016",
+      "url": "https://web.archive.org/web/20160610093602/http://www.clubledomaine.com/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s22",
+      "label": "Site officiel, horaires et tarifs et page « Le Domaine », archives du 19/06/2019",
+      "url": "https://web.archive.org/web/20190619054649/http://www.clubledomaine.com/horairestarifs",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s23",
+      "label": "Site officiel, « Horaires & Tarifs » et menu des soirées, archives du 15/06/2025 au 16/03/2026",
+      "url": "https://web.archive.org/web/20260316150503/https://clubledomaine.com/horaires-et-tarifs/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s24",
+      "label": "Annuaire des entreprises, LE DOMAINE DE LA JARRIE (SIREN 793 535 717)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/793535717",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s25",
+      "label": "Registre du domaine clubledomaine.com (RDAP Verisign)",
+      "url": "https://rdap.verisign.com/com/v1/domain/clubledomaine.com",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s26",
+      "label": "Wikipédia, « Auchay-sur-Vendée »",
+      "url": "https://fr.wikipedia.org/wiki/Auchay-sur-Vend%C3%A9e",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s27",
+      "label": "sauna-club-libertin.com, fiche « Le Domaine » (annonce d'ouverture de 2013)",
+      "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_3.php?id=15285&d=85",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s28",
+      "label": "minuitlibertin.com, « Club Le Domaine »",
+      "url": "https://minuitlibertin.com/club-le-domaine/",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s29",
+      "label": "top-rated.online, « Le Domaine Club Libertin » (reprise de la fiche Google)",
+      "url": "https://www.top-rated.online/cities/Auchay-sur-Vend%C3%A9e/place/p/2936711/Le+Domaine+Club+Libertin",
+      "type": "avis",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s30",
+      "label": "PagesJaunes, « Le Domaine »",
+      "url": "https://www.pagesjaunes.fr/pros/54824467",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s31",
+      "label": "saunaclublebali.fr, « Le Domaine » (fiche du 01/04/2026)",
+      "url": "https://www.saunaclublebali.fr/listing/le-domaine-auchay-sur-vendee/",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s32",
+      "label": "Le Club Advisor, « Le domaine » (non daté)",
+      "url": "https://www.leclub-advisor.com/club/le-domaine",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s33",
+      "label": "lieuxcoquins.fr, « Le Domaine »",
+      "url": "https://www.lieuxcoquins.fr/lieu/le-domaine/",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s34",
+      "label": "Mapstr, « Le Domaine Club Libertin » (texte du Petit Futé repris)",
+      "url": "https://mapstr.com/place/ESSIKDK3Xng",
+      "type": "carte",
+      "consulted": "2026-10-16"
+    }
+  ]
+}

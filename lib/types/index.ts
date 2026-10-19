@@ -69,8 +69,10 @@ export interface Club {
   equipements: string[];
   horaires?: Record<string, string>;
   tarifs?: Record<string, string>;
-  status: 'actif' | 'incertain' | 'probablement_ferme';
+  status: 'actif' | 'incertain' | 'probablement_ferme' | 'ferme';
   qualityScore: number;
+  /** Une fiche personnalisée existe (data/clubs/profiles). */
+  hasProfile: boolean;
   // Contenu SEO généré
   seo: {
     title: string;

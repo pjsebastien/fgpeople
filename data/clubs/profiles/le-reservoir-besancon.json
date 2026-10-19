@@ -1,0 +1,258 @@
+{
+  "slug": "le-reservoir-besancon",
+  "clubId": "964",
+  "researchedAt": "2026-10-16",
+  "display": { "nom": "Le Réservoir", "ville": "Besançon" },
+  "status": {
+    "value": "ouvert",
+    "summary": "Le planning jour par jour (masculin ou mixte) a été republié sur la page d'accueil du site le 14 septembre 2026. La société NIGLO, qui exploite le sauna depuis janvier 2009, est active au registre et a publié en février 2026 les comptes de son exercice clos le 30 septembre 2025. Nous n'avons pu consulter ni avis daté ni publication datée sur ses réseaux.",
+    "sources": ["s1", "s6", "s8", "s15", "s16"]
+  },
+  "seo": {
+    "title": "Le Réservoir à Besançon : sauna gay, mixte mardi et samedi",
+    "metaDescription": "Sauna-hammam LGBTQIA+ rue Charles Fourier depuis 2009 : entrée 18 €, ouvert aux libertins et mélangistes le mardi et le samedi, de 13 h à 19 h.",
+    "subtitle": "Sauna gay et hammam LGBTQIA+ à Besançon (25), mixte deux après-midi par semaine",
+    "targetQueries": [
+      "club libertin besancon",
+      "club libertin besançon",
+      "club echangiste besancon",
+      "club echangiste besançon",
+      "sauna libertin besancon",
+      "sauna libertin besançon",
+      "libertine besancon",
+      "libertine besançon",
+      "libertin besancon",
+      "le reservoir besancon"
+    ]
+  },
+  "lead": "Le Réservoir n'est pas un club échangiste mais un sauna gay, ouvert en janvier 2009 au 1 rue Charles Fourier et qui s'affiche aujourd'hui « LGBTQIA+ ». Il ne devient mixte, ouvert à « toute tendance », libertins et mélangistes compris, que le mardi et le samedi, de 13 h à 19 h ; les autres jours sont « masculins » et le mercredi est fermé. L'entrée coûte 18 €, serviettes et préservatifs compris.",
+  "keyFacts": [
+    { "label": "Type de lieu", "value": "Sauna gay « LGBTQIA+ » : sauna, hammam, vidéo, cabines", "confidence": "confirme", "sources": ["s1", "s3", "s12"] },
+    { "label": "Jours mixtes", "value": "Mardi et samedi, 13 h à 19 h, « toute tendance »", "confidence": "confirme", "sources": ["s1", "s7", "s13", "s17"] },
+    { "label": "Autres jours", "value": "Lundi, jeudi, vendredi et dimanche « masculins » ; fermé le mercredi", "confidence": "source_unique", "sources": ["s1"] },
+    { "label": "Entrée", "value": "18 € ; 11 € pour les moins de 25 ans, sur justificatif", "confidence": "source_unique", "sources": ["s2"] },
+    { "label": "Compris dans l'entrée", "value": "Serviettes, gel douche, préservatifs et lubrifiant", "confidence": "source_unique", "sources": ["s2"] },
+    { "label": "Âge minimum", "value": "18 ans", "confidence": "confirme", "sources": ["s2", "s17"] },
+    { "label": "Ouverture", "value": "Janvier 2009", "confidence": "confirme", "sources": ["s9", "s11", "s15", "s16"] },
+    { "label": "Exploitant", "value": "Société NIGLO (SARL), SIREN 503 672 545", "confidence": "confirme", "sources": ["s6", "s15"] }
+  ],
+  "sections": [
+    {
+      "id": "mixte-mardi-samedi",
+      "title": "Un sauna gay, mixte seulement le mardi et le samedi",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Si vous cherchez un club libertin à Besançon, Le Réservoir n'en est pas un au sens habituel. Dès 2009, son site le décrivait comme un sauna gay ; la refonte de juin 2023 ajoute la mention « LGBTQIA+ », reprise dans la présentation de son compte Instagram. La page d'accueil, republiée le 14 septembre 2026, précise qui entre quel jour (le détail jour par jour n'apparaissait pas dans la version archivée de juin 2023, qui disait seulement « Mixte mardi/samedi ») :\n\n- **Mardi et samedi** : mixte, « toute tendance ». Le site cite libertins, mélangistes, hétéros, gays, bis, personnes trans et travestis.\n- **Lundi, jeudi, vendredi et dimanche** : « masculin ». Le site n'écrit pas que couples et femmes sont refusés, mais le terme le laisse entendre.\n- **Mercredi** : fermé."
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Pas de soirée : tout se joue entre 13 h et 19 h",
+          "body": "Le Réservoir ferme à 19 h, samedi compris : un couple doit prévoir un après-midi, pas une soirée. La version anglaise du site, figée depuis février 2024, annonce encore 20 h ; la page d'accueil française, plus récente, fait foi."
+        },
+        {
+          "kind": "text",
+          "body": "Un couple ou une femme qui hésite à pousser cette porte un mardi peut d'abord repérer des partenaires attirés par ce public mélangé. Sur Carré Libertin, gratuit pour les femmes et les couples qui publient trois photos, la recherche avancée permet de [filtrer les profils par orientation et par genre](aff:carre-libertin) autour de Besançon."
+        }
+      ],
+      "sources": ["s1", "s7", "s9", "s13", "s19"]
+    },
+    {
+      "id": "soirees-doubs",
+      "title": "Après 19 h : Saint-Vit, Châtillon-le-Duc et le reste du Doubs",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Pour une soirée libertine, il faut quitter la rue Charles Fourier. L'annuaire sauna-club-libertin.com recense sept établissements dans le Doubs. À Besançon, notre annuaire n'en compte qu'un autre, le [Sauna Club LG](/sauna-club-lg-besancon) ; viennent ensuite [Love-Paradise](/love-paradise-chatillon-le-duc) à Châtillon-le-Duc, [Le Lady's](/le-lady-s-saint-vit) et [Le Maeva](/le-maeva-saint-vit) à Saint-Vit, puis des adresses à Audincourt et à Sochaux. Leur activité et leurs horaires n'ont pas été vérifiés pour cette fiche (lors de notre essai du 16 octobre 2026, le site commun aux deux adresses de Saint-Vit et celui du Sauna Club LG ne répondaient pas) : relisez leur page, ou [la liste des adresses du Doubs](/departement/doubs), avant de prendre la route.\n\nLe Réservoir fermant à 19 h, ceux qui veulent sortir après le dîner peuvent [éplucher les soirées en club listées par Wyylde](aff:wyylde), l'ancien Netéchangisme : l'agenda se consulte avec un compte gratuit, mais répondre aux messages exige un abonnement."
+        }
+      ],
+      "sources": ["s1", "s21"]
+    },
+    {
+      "id": "entree-18-euros",
+      "title": "18 € l'entrée, serviettes, gel douche et préservatifs compris",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "La page Tarifs, modifiée pour la dernière fois en septembre 2025, affiche un prix unique de 18 €, ou 11 € pour les moins de 25 ans sur justificatif. Serviettes de bain, gel douche, préservatifs et lubrifiant sont compris, et une douchette intime est à disposition. La grille ne prévoit ni tarif couple ni majoration le samedi : à deux, faites-vous confirmer le prix par téléphone."
+        },
+        {
+          "kind": "table",
+          "caption": "Le prix d'entrée relevé sur le site officiel",
+          "headers": ["Relevé", "Entrée", "Tarifs réduits"],
+          "rows": [
+            ["Août 2009", "15 €", "10 € (moins de 25 ans, sans emploi)"],
+            ["Juin 2023", "17 €", "11 € (moins de 25 ans) ; 5 € (étudiants de moins de 25 ans)"],
+            ["Octobre 2026", "18 €", "11 € (moins de 25 ans)"]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "En 2009, l'entrée incluait un café, et le sauna acceptait espèces et carte bancaire. Le tarif étudiant à 5 € de 2023 a disparu de la grille actuelle."
+        }
+      ],
+      "sources": ["s2", "s8", "s10", "s14"]
+    },
+    {
+      "id": "cabines-hammam-eucalyptus",
+      "title": "Cabines, hammam et sauna à l'eucalyptus : ce que le site confirme",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le site annonce des cabines « de différentes tailles et hauteurs », un hammam, un sauna aux essences d'eucalyptus et un espace vidéo. La page Services cite aussi un glory-hole, sous une rubrique « Soins visage/corps » qu'elle signale elle-même comme de l'humour : aucun soin esthétique n'est proposé. Poppers et sextoys sont vendus sur place."
+        },
+        {
+          "kind": "list",
+          "title": "Annoncés par un annuaire, jamais par le site",
+          "items": [
+            "Un bar",
+            "Une backroom fermant à clé et une backroom ouverte",
+            "Un coin SM",
+            "Un espace détente et des vestiaires"
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Cette liste vient d'une fiche non datée de sauna-club-libertin.com ; sans confirmation de l'établissement, nous ne la reprenons pas. Côté photos, la page Galerie du site renvoie vers celles de sa fiche Google Maps, que nous n'avons pas consultées."
+        }
+      ],
+      "sources": ["s1", "s3", "s8", "s20"]
+    },
+    {
+      "id": "reglement-prevention",
+      "title": "Ivresse, drogue, prostitution : un règlement à exclusion définitive",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le règlement intérieur, mis à jour en avril 2025, permet de refuser une personne ivre ou susceptible de causer des troubles. La possession de stupéfiants, le fait de « monnayer ses services », et même un simple soupçon de vol ou de vandalisme, valent une exclusion définitive et une remise à la police.\n\nUne page entière traite de la prévention du VIH, des IST et des risques liés aux drogues. Elle oriente vers des structures bisontines (centre de santé sexuelle, CICS, CeGIDD Doubs-Jura de l'AHS Franche-Comté) et vers des ressources nationales, dont une fiche sur le chemsex et les CAARUD, centres de réduction des risques pour usagers de drogues."
+        }
+      ],
+      "sources": ["s4", "s5", "s8"]
+    },
+    {
+      "id": "rue-charles-fourier-depuis-2009",
+      "title": "Dix-sept ans rue Charles Fourier, sans changement de nom ni d'exploitant",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Les archives du site, capturé régulièrement par la Wayback Machine depuis février 2009, et le registre du commerce racontent la même histoire : même société, même enseigne, même adresse, dans le quartier de la Rotonde selon OpenStreetMap, et même téléphone depuis l'ouverture."
+        },
+        {
+          "kind": "timeline",
+          "items": [
+            { "date": "Avril 2008", "text": "Immatriculation de la société NIGLO, sans activité." },
+            { "date": "26 janvier 2009", "text": "Début d'activité de l'établissement, enseigne « Le Réservoir », selon le registre." },
+            { "date": "Février-avril 2009", "text": "Le site en construction annonce un « nouveau sauna » avec hammam, ouvert tous les jours dès 14 h, et le présente déjà comme un sauna gay." },
+            { "date": "Juin 2010", "text": "Nouveau site : le sauna « vient de fêter ses 1 an »." },
+            { "date": "2009-2023", "text": "La description de la page d'entrée, inchangée pendant quatorze ans, annonce une ouverture « de 14h à 21h en semaine et 23h », sans dire quels jours fermaient à 23 h." },
+            { "date": "Juin 2023", "text": "Refonte : mention « LGBTQIA+ », mixité le mardi et le samedi, fermeture le mercredi, ouverture de 13 h à 20 h, entrée à 17 €." },
+            { "date": "Septembre 2025", "text": "Dernière modification de la page Tarifs, qui affiche 18 €." },
+            { "date": "Janvier 2026", "text": "Un contributeur OpenStreetMap cartographie le lieu et relève une fermeture à 19 h." },
+            { "date": "Février 2026", "text": "Le BODACC publie le dépôt des comptes de l'exercice clos le 30 septembre 2025, le dix-septième d'affilée." },
+            { "date": "Septembre 2026", "text": "Page d'accueil republiée avec le planning jour par jour." }
+          ]
+        }
+      ],
+      "sources": ["s1", "s2", "s8", "s9", "s11", "s12", "s13", "s14", "s15", "s16", "s17", "s18", "s22"]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Lundi": "13 h – 19 h (« masculin »)",
+      "Mardi": "13 h – 19 h (mixte, toute tendance)",
+      "Mercredi": "Fermé",
+      "Jeudi": "13 h – 19 h (« masculin »)",
+      "Vendredi": "13 h – 19 h (« masculin »)",
+      "Samedi": "13 h – 19 h (mixte, toute tendance)",
+      "Dimanche": "13 h – 19 h (« masculin »)"
+    },
+    "note": "Horaires de la page d'accueil republiée le 14/09/2026, concordants avec un relevé OpenStreetMap de janvier 2026. La version anglaise du site, non mise à jour depuis février 2024, indique encore 20 h.",
+    "confidence": "confirme",
+    "sources": ["s1", "s7", "s17"]
+  },
+  "tarifs": {
+    "rows": {
+      "Entrée": "18 €",
+      "Moins de 25 ans (sur justificatif)": "11 €"
+    },
+    "note": "Serviettes, gel douche, préservatifs et lubrifiant compris. Grille de la page Tarifs modifiée le 15/09/2025 ; aucun tarif couple n'y figure.",
+    "confidence": "source_unique",
+    "sources": ["s2", "s8"]
+  },
+  "equipements": [
+    "Sauna (essences d'eucalyptus)",
+    "Hammam",
+    "Espace vidéo",
+    "Cabines",
+    "Glory-hole",
+    "Douchette intime"
+  ],
+  "officialLinks": [
+    { "label": "Site officiel", "url": "https://www.lereservoir.info/", "kind": "site" },
+    { "label": "Tarifs (site officiel)", "url": "https://www.lereservoir.info/empty-page", "kind": "autre" },
+    { "label": "Règlement intérieur", "url": "https://www.lereservoir.info/testd5c398b7", "kind": "autre" },
+    { "label": "Instagram @saunalereservoir", "url": "https://www.instagram.com/saunalereservoir/", "kind": "instagram" },
+    { "label": "Facebook lereservoir25", "url": "https://www.facebook.com/lereservoir25/", "kind": "facebook" }
+  ],
+  "corrections": {
+    "email": "saunalereservoir@gmail.com",
+    "site_web": "https://www.lereservoir.info/",
+    "sources": ["s1", "s6"]
+  },
+  "faq": [
+    {
+      "question": "Le Réservoir est-il un club échangiste ou un sauna libertin ?",
+      "answer": "Ni l'un ni l'autre au sens strict : c'est un sauna gay « LGBTQIA+ », avec sauna, hammam, cabines et vidéo. Le mardi et le samedi, de 13 h à 19 h, il devient mixte et son site invite explicitement libertins et mélangistes, pour 18 € l'entrée. Aucune soirée n'est annoncée."
+    },
+    {
+      "question": "Quels jours un couple peut-il venir ?",
+      "answer": "Le mardi et le samedi, de 13 h à 19 h. Le site n'écrit pas qu'un couple serait refusé un jour « masculin » (lundi, jeudi, vendredi, dimanche) : en cas de doute, appelez le 03 81 41 17 49."
+    },
+    {
+      "question": "Une femme seule peut-elle entrer un jour mixte ?",
+      "answer": "Le site ne cite pas les femmes seules : il ouvre le mardi et le samedi à « toute tendance », hétéros compris, sans conditions par catégorie. Un appel lève le doute. Une femme qui préfère découvrir un sauna gay accompagnée peut d'abord faire connaissance sur [un réseau où chaque inscrit valide son numéro de téléphone](aff:gleese) : Gleese, qui modère aussi les photos à la main. Lancé fin 2024, il réunit moins de monde que les sites historiques, mais s'ouvre sans carte bancaire."
+    },
+    {
+      "question": "Faut-il réserver ou être adhérent ?",
+      "answer": "Le site ne parle ni de réservation, ni d'adhésion, ni de tenue exigée. Il donne un téléphone, inchangé depuis 2009, et l'adresse saunalereservoir@gmail.com. L'entrée est interdite aux moins de 18 ans, et le tarif des moins de 25 ans exige un justificatif."
+    },
+    {
+      "question": "Comment repérer l'entrée, rue Charles Fourier ?",
+      "answer": "Un contributeur OpenStreetMap qui a cartographié le lieu en janvier 2026 a noté l'absence d'enseigne en façade, une entrée au rez-de-chaussée et un accès en fauteuil roulant ; l'établissement ne l'a pas confirmé. Pour l'itinéraire, le site renvoie vers sa fiche Google Maps."
+    }
+  ],
+  "unverified": [
+    "Les journées « masculines » excluent-elles formellement les femmes et les couples ? Le site ne le précise pas.",
+    "Un couple paie-t-il une entrée ou deux ? La grille de tarifs ne prévoit pas de tarif couple.",
+    "Le tarif étudiant à 5 € affiché en 2023 existe-t-il encore ?",
+    "Bar, backroom fermant à clé, coin SM, espace détente et vestiaires : cités par un annuaire, non confirmés par l'établissement.",
+    "Absence d'enseigne, entrée au rez-de-chaussée et accessibilité en fauteuil : relevé d'un contributeur OpenStreetMap, à confirmer.",
+    "Moyens de paiement acceptés aujourd'hui (espèces et carte en 2009) et possibilités de stationnement.",
+    "Note et nombre d'avis Google, et dates des publications sur Facebook et Instagram : non consultés."
+  ],
+  "sources": [
+    { "id": "s1", "label": "Site officiel, page d'accueil (republiée le 14/09/2026)", "url": "https://www.lereservoir.info/", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s2", "label": "Site officiel, page Tarifs (modifiée le 15/09/2025)", "url": "https://www.lereservoir.info/empty-page", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s3", "label": "Site officiel, page Services (modifiée le 23/08/2026)", "url": "https://www.lereservoir.info/services", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s4", "label": "Site officiel, règlement intérieur (modifié le 18/04/2025)", "url": "https://www.lereservoir.info/testd5c398b7", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s5", "label": "Site officiel, page Prévention HIV/MST/drogues", "url": "https://www.lereservoir.info/pr%C3%A9vention-en-cours", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s6", "label": "Site officiel, mentions légales", "url": "https://www.lereservoir.info/les-mentions-l%C3%A9gales", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s7", "label": "Site officiel, version anglaise (non modifiée depuis le 07/02/2024)", "url": "https://www.lereservoir.info/en-gb", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s8", "label": "Site officiel, plan du site (dates de modification des pages) et page Galerie", "url": "https://www.lereservoir.info/sitemap.xml", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s9", "label": "Site officiel, archives du 03/02/2009 et du 26/04/2009 (Wayback Machine)", "url": "https://web.archive.org/web/20090426180157/http://www.lereservoir.info:80/acceuil.html", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s10", "label": "Site officiel, page tarifs, archive du 08/08/2009 (Wayback Machine)", "url": "https://web.archive.org/web/20090808192657/http://www.lereservoir.info:80/tarifs.html", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s11", "label": "Site officiel, archive du 19/06/2010 (Wayback Machine)", "url": "https://web.archive.org/web/20100619084345/http://www.lereservoir.info:80/index2.php", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s12", "label": "Site officiel, page d'entrée archivée de 2012 à 2023 (Wayback Machine)", "url": "https://web.archive.org/web/20120828021736/http://www.lereservoir.info/", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s13", "label": "Site officiel, page d'accueil après la refonte, archive du 16/06/2023 (Wayback Machine)", "url": "https://web.archive.org/web/20230616111328/https://www.lereservoir.info/", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s14", "label": "Site officiel, page tarifs, archive du 27/06/2023 (Wayback Machine)", "url": "https://web.archive.org/web/20230627110515/https://www.lereservoir.info/empty-page", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s15", "label": "Annuaire des entreprises, NIGLO (SIREN 503672545)", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/503672545", "type": "registre", "consulted": "2026-10-16" },
+    { "id": "s16", "label": "BODACC, annonces légales de NIGLO (immatriculation, mise en activité, dépôts des comptes)", "url": "https://bodacc-datadila.opendatasoft.com/api/explore/v2.1/catalog/datasets/annonces-commerciales/records?where=registre%20like%20%22503672545%22", "type": "registre", "consulted": "2026-10-16" },
+    { "id": "s17", "label": "OpenStreetMap, nœud « Le réservoir » (créé le 31/01/2026)", "url": "https://www.openstreetmap.org/node/13514247976", "type": "carte", "consulted": "2026-10-16" },
+    { "id": "s18", "label": "OpenStreetMap Nominatim, géocodage inverse de l'adresse", "url": "https://nominatim.openstreetmap.org/reverse?lat=47.249794&lon=6.032042&format=json", "type": "carte", "consulted": "2026-10-16" },
+    { "id": "s19", "label": "Instagram @saunalereservoir (métadonnées publiques)", "url": "https://www.instagram.com/saunalereservoir/", "type": "reseau_social", "consulted": "2026-10-16" },
+    { "id": "s20", "label": "sauna-club-libertin.com, fiche « LE RESERVOIR »", "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_3.php?id=964&d=25", "type": "annuaire", "consulted": "2026-10-16" },
+    { "id": "s21", "label": "sauna-club-libertin.com, établissements du Doubs", "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_2.php?d=25", "type": "annuaire", "consulted": "2026-10-16" },
+    { "id": "s22", "label": "Wayback Machine, historique des captures de lereservoir.info", "url": "https://web.archive.org/cdx/search/cdx?url=lereservoir.info&matchType=domain&fl=timestamp,statuscode,original&collapse=timestamp:6", "type": "autre", "consulted": "2026-10-16" }
+  ]
+}

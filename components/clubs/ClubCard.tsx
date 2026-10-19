@@ -81,6 +81,11 @@ export default function ClubCard({ club, imageIndex, reviewsBundle }: ClubCardPr
               Vérifié
             </span>
           )}
+          {club.status === 'ferme' && (
+            <span className="px-2 py-1 bg-red-600/90 text-white text-xs font-medium rounded-full">
+              Fermé
+            </span>
+          )}
         </div>
 
         {/* Types en badges */}

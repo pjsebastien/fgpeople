@@ -4,9 +4,13 @@
  * Extrait de components/blog/ArticlePage.tsx pour être partagé entre les
  * articles de blog et les avis sur les sites. Gère :
  *   **gras**, [lien](url), sous-titres "**Titre**\n…", listes "- ".
+ * Un lien `[ancre](aff:<partenaire>)` devient un lien d'affiliation tracké
+ * (voir lib/config/inline-affiliates.ts).
  */
 
 import Link from 'next/link';
+import TrackedAffiliateLink from '@/components/ui/TrackedAffiliateLink';
+import { INLINE_AFFILIATES, INLINE_AFFILIATE_BLOCK } from '@/lib/config/inline-affiliates';
 
 /** Transforme **gras** et [liens](url) en ReactNode. */
 export function parseTextWithFormatting(text: string): React.ReactNode[] {
@@ -27,7 +31,25 @@ export function parseTextWithFormatting(text: string): React.ReactNode[] {
       const url = match[3];
       const isExternal = url.startsWith('http');
 
-      if (isExternal) {
+      if (url.startsWith('aff:')) {
+        const partner = INLINE_AFFILIATES[url.slice(4)];
+        // Partenaire inconnu : on garde l'ancre en texte plutôt qu'un lien cassé.
+        result.push(
+          partner ? (
+            <TrackedAffiliateLink
+              key={`link-${keyIndex++}`}
+              href={partner.url}
+              target={partner.target}
+              block={INLINE_AFFILIATE_BLOCK}
+              className="text-accent-primary hover:text-accent-hover underline"
+            >
+              {linkText}
+            </TrackedAffiliateLink>
+          ) : (
+            linkText
+          )
+        );
+      } else if (isExternal) {
         result.push(
           <a
             key={`link-${keyIndex++}`}

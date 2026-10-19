@@ -1,0 +1,778 @@
+{
+  "slug": "celeste-lisses-club-libertin",
+  "clubId": "FG043",
+  "researchedAt": "2026-10-16",
+  "display": {
+    "nom": "Le Céleste",
+    "ville": "Lisses"
+  },
+  "status": {
+    "value": "ouvert",
+    "summary": "Une billetterie en ligne vend des places pour la soirée d'Halloween du samedi 31 octobre 2026, et le site officiel a mis à jour le 30 septembre 2026 ses horaires et tarifs d'hiver, valables jusqu'au 30 avril 2027. La SARL Les Terrasses, qui édite le site, est active au registre. Les soirées du vendredi et du samedi, suspendues pour travaux d'août à décembre 2025 au moins, ont repris en 2026 : réouverture annoncée en janvier, samedis à thème à l'agenda dès le 14 mars.",
+    "sources": [
+      "s1",
+      "s2",
+      "s6",
+      "s7",
+      "s11",
+      "s12",
+      "s13",
+      "s16",
+      "s17"
+    ]
+  },
+  "seo": {
+    "title": "Le Céleste à Lisses : sauna club libertin, tarifs et photos",
+    "metaDescription": "Sauna l'après-midi, club libertin à dress code le samedi soir : horaires d'hiver 2026-2027, couple 50 à 60 €, galerie photo, règles d'entrée et anciens noms.",
+    "subtitle": "Sauna toutes tendances et club libertin sur 600 m², à Lisses (91), près d'Évry",
+    "targetQueries": [
+      "le celeste - club prive - sauna club libertin lisses",
+      "photos de le celeste - club prive - sauna club libertin lisses",
+      "le celeste lisses",
+      "le celeste sauna club tarifs",
+      "sauna les terrasses lisses",
+      "esprit libertin lisses"
+    ]
+  },
+  "lead": "À Lisses, sur l'axe A6-Francilienne, Le Céleste fonctionne en sauna la journée et en club libertin avec DJ et dress code le samedi soir, sur 600 m² avec terrasses et jardin. Il est ouvert : son site affiche des horaires et des tarifs d'hiver valables jusqu'au 30 avril 2027 et annonce une soirée privée le 31 octobre 2026. Le lieu n'a pas changé de société depuis 2014, seulement de nom : il s'est d'abord appelé Sauna Les Terrasses, puis Esprit Libertin.",
+  "keyFacts": [
+    {
+      "label": "Accès",
+      "value": "Axe A6-Francilienne, parking privé gratuit sur place",
+      "confidence": "confirme",
+      "sources": [
+        "s3",
+        "s10"
+      ]
+    },
+    {
+      "label": "Exploitant",
+      "value": "SARL Les Terrasses, créée le 1er juillet 2014, active",
+      "confidence": "confirme",
+      "sources": [
+        "s8",
+        "s13"
+      ]
+    },
+    {
+      "label": "Anciens noms",
+      "value": "Sauna Les Terrasses (2015-2021), Esprit Libertin (2016-2023)",
+      "confidence": "confirme",
+      "sources": [
+        "s18",
+        "s19",
+        "s20",
+        "s21",
+        "s23"
+      ]
+    },
+    {
+      "label": "Surface",
+      "value": "600 m², terrasses et jardin compris",
+      "confidence": "confirme",
+      "sources": [
+        "s3",
+        "s18"
+      ]
+    },
+    {
+      "label": "Public",
+      "value": "Lundi hommes gay et bi ; mercredi, jeudi, dimanche toutes tendances ; vendredi et samedi libertin ; fermé le mardi",
+      "confidence": "confirme",
+      "sources": [
+        "s2",
+        "s6"
+      ]
+    },
+    {
+      "label": "Entrée couple",
+      "value": "50 € (mercredi, jeudi, dimanche), 60 € (vendredi, samedi)",
+      "confidence": "confirme",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "label": "Entrée homme seul",
+      "value": "60 € (mercredi, jeudi, dimanche), 80 € (vendredi, samedi)",
+      "confidence": "confirme",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "label": "Entrée femme seule",
+      "value": "15 €",
+      "confidence": "confirme",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "label": "Piscine extérieure",
+      "value": "Fermée depuis le 1er octobre 2026, pour la saison d'hiver",
+      "confidence": "confirme",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "label": "Âge minimum",
+      "value": "18 ans",
+      "confidence": "confirme",
+      "sources": [
+        "s2",
+        "s4"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "lundi-mecs-samedi-club",
+      "title": "Lundi « 100 % mecs », mardi fermé, samedi soir en mode club",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Sauna et club libertin à la fois, sous la devise « Plaisir • Respect • Consentement », Le Céleste change de public selon le jour. La grille d'hiver publiée en septembre 2026 répartit la semaine ainsi :"
+        },
+        {
+          "kind": "table",
+          "caption": "Public et formule par jour, grille d'hiver (1er octobre 2026 - 30 avril 2027)",
+          "headers": [
+            "Jour et horaires",
+            "Public annoncé",
+            "Formule",
+            "Bains accessibles"
+          ],
+          "rows": [
+            [
+              "Lundi, 12 h-19 h",
+              "« 100 % mecs » : hommes gay et bi",
+              "Sauna",
+              "Sauna, hammam"
+            ],
+            [
+              "Mardi",
+              "Fermé",
+              "-",
+              "-"
+            ],
+            [
+              "Mercredi et jeudi, 13 h-23 h",
+              "Toutes tendances (hétéro, bi, gay)",
+              "Sauna",
+              "Sauna, hammam, jacuzzi"
+            ],
+            [
+              "Vendredi, 13 h-4 h",
+              "Libertin, dress code obligatoire",
+              "Sauna club",
+              "Sauna, hammam, jacuzzi"
+            ],
+            [
+              "Samedi, 13 h-20 h",
+              "Libertin (« journée toutes tendances » dans l'agenda)",
+              "Sauna",
+              "Sauna, hammam, jacuzzi"
+            ],
+            [
+              "Samedi, 20 h-4 h",
+              "Libertin, dress code obligatoire",
+              "Club : piste de danse, bar, DJ",
+              "Aucun"
+            ],
+            [
+              "Dimanche, 13 h-20 h",
+              "Toutes tendances",
+              "Sauna",
+              "Sauna, hammam, jacuzzi"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le site se contredit deux fois. Le vendredi, « libertin » sur la grille de septembre et dans l'agenda d'octobre, reste « toutes tendances » sur la page Le club, modifiée en juillet. Le samedi, le mode club démarre à 20 h selon la grille, à 21 h selon la page Le club et celle de la soirée du 10 octobre, avec des coins câlins ouverts à 22 h.\n\nLe samedi soir est souvent thématique : soirée « No limit » le 3 octobre 2026, soirée « cocu » le 10, et au printemps des soirées talons aiguilles, Latino party ou White party. Le programme sort au compte-gouttes : le 16 octobre 2026, l'agenda du site ne détaillait ni le 17 ni le 24 octobre, seulement la soirée d'Halloween du 31. Pour rester informé, le club invite lui-même, par un bandeau de sa page d'accueil, à le « rejoindre » sur Wyylde. [Un compte gratuit sur Wyylde](aff:wyylde) suffit pour consulter l'agenda des soirées du site ; répondre aux messages demande en revanche un abonnement.\n\nLe mardi reste fermé : un visuel annonce une future journée « toutes tendances », sans date."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s2",
+        "s3",
+        "s6",
+        "s17"
+      ]
+    },
+    {
+      "id": "tarifs-hiver-plus-doux",
+      "title": "Des tarifs d'hiver dits « plus doux », valables jusqu'au 30 avril 2027",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Un homme seul paie 10 € de plus qu'un couple entier le mercredi, le jeudi et le dimanche, et 20 € de plus le vendredi et le samedi (80 € contre 60 €). Une femme seule paie 15 € quel que soit le jour, quatre fois moins qu'un homme seul en semaine. Le lundi entre hommes est le seul jour sans consommation incluse, et le seul où le prix dépend de l'âge.\n\nUne femme qui préfère ne pas découvrir le lieu seule peut chercher d'abord un couple ou une autre femme du secteur avec qui venir : [Carré Libertin, site ouvert en 2007](aff:carre-libertin), donne aux femmes et aux couples un accès complet gratuit, contre trois photos de profil, et annonce environ 60 % de femmes et de couples parmi ses inscrits.\n\nLe paréo, demandé aux femmes en mode sauna, n'est plus prêté « suite à de nombreux vols » : apportez le vôtre. Les consommations supplémentaires se règlent en partant, en espèces ou par carte.\n\nLe club dit ces tarifs « plus doux », la piscine fermée réduisant ses frais, mais les grilles de l'été 2026, retirées du site, ne permettent pas de chiffrer la baisse ; face aux prix de l'automne 2025 relevés par un annuaire (couple 45 €, homme seul 50 € en semaine), l'hiver 2026 serait même plus cher. Aucun remboursement n'est prévu pour une affluence décevante ou un équipement en panne, et toute sortie est définitive."
+        },
+        {
+          "kind": "callout",
+          "tone": "info",
+          "title": "Soirée privée du samedi 31 octobre 2026",
+          "body": "« Orgasm X - Spécial Halloween », de 21 h à 4 h : déguisement attendu, sinon le dress code habituel ou une tenue de bain (slip ou boxer moulant pour les hommes, short de bain refusé). Prévente : homme seul 85 €, couple 65 €, femme seule 20 € ; sur place : 100 €, 80 € et 30 €, une boisson comprise. Les non-membres créent à l'arrivée une carte de membre gratuite, sans laquelle l'entrée est refusée et la prévente perdue. Les 20 premiers arrivants déguisés gagnent une entrée valable six mois."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s2",
+        "s4",
+        "s5",
+        "s7",
+        "s12",
+        "s24"
+      ]
+    },
+    {
+      "id": "chemise-telephone-entree",
+      "title": "Chemise exigée vendredi et samedi, téléphone interdit, entrée jamais garantie",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le vendredi et le samedi, le dress code est obligatoire, avec « aucune tolérance » affichée sur l'accueil depuis avril 2026 au moins. Hommes : chemise, pantalon de ville et chaussures de ville ; polo, tee-shirt, short, jogging et baskets sont refusés. Le jean foncé, admis par la page Le club et les pages des soirées d'octobre, est refusé par les visuels tarifaires de septembre 2026, « troué et non troué » : un pantalon de ville évite la discussion à la porte. Femmes : robe, jupe ou lingerie (body compris), avec talons ou compensées. Les autres jours, une tenue correcte suffit, hors tenue de travail ; la page des nouveaux venus refuse aussi shorts de plage, claquettes, joggings et casquettes. En mode sauna, les hommes sont nus sous la serviette, les femmes en serviette et paréo.\n\nLa page des nouveaux venus qualifie Le Céleste de « club privé » : l'entrée n'est pas assurée, le nombre d'hommes seuls peut être limité pour la tranquillité des femmes seules et des couples, et l'établissement se réserve le droit de refuser l'entrée, notamment aux personnes ivres. Le club ne renseigne pas l'affluence par téléphone.\n\nPour un homme seul, le samedi soir cumule l'entrée la plus chère (80 €), ce quota et, à l'intérieur, une règle sans appel : insister auprès d'un couple ou le suivre vaut exclusion. Venir en couple coûte 60 € à deux et échappe au quota. Mieux vaut donc faire connaissance avant, en ligne : [l'inscription sur Gleese, sans carte bancaire](aff:gleese), ouvre un réseau social libertin français où chaque profil est vérifié par téléphone. Ouvert fin 2024, il reste loin des 7 millions de membres revendiqués par Wyylde, et rien n'indique que des habitués du Céleste y soient inscrits."
+        },
+        {
+          "kind": "list",
+          "title": "Ce que le règlement impose à l'intérieur",
+          "items": [
+            "18 ans minimum.",
+            "Téléphones et appareils photo interdits, sous peine d'exclusion sans remboursement.",
+            "Douche obligatoire à l'arrivée, sauf dans l'espace discothèque.",
+            "Aucun rapprochement dans le jacuzzi ni dans la piscine.",
+            "À l'intérieur, chaussures admises le samedi seulement ; sacs et sacoches refusés.",
+            "Établissement non-fumeur : on fume sur les terrasses.",
+            "Un refus est définitif ; l'insistance et la vulgarité mènent à l'exclusion sans remboursement."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Pour une première visite, une page du site datant d'octobre 2024 conseille de le dire au barman, qui remet clé de casier et serviette et fait visiter si l'affluence le permet ; elle mentionne aussi un bracelet de deux préservatifs, d'autres étant disponibles au bar."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s10",
+        "s17"
+      ]
+    },
+    {
+      "id": "espaces-et-bassins",
+      "title": "600 m², douze cabines et une piscine chauffée fermée depuis le 1er octobre",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Les 600 m² annoncés, terrasses et jardin compris, n'ont pas varié depuis 2015 d'un site à l'autre. À l'intérieur : bar et petite restauration, piste de danse, espace détente, espaces câlins, douze cabines (dix jusqu'en 2022), backroom, glory holes, croix de Saint-André, cabine exhib et vidéos X. Côté bien-être : sauna, hammam, jacuzzi intérieur et douches communes. Dehors, les terrasses accueillent transats, espaces fumeurs et un coin bar ; elles ont rouvert en mai 2025 avec un « solarium en plein air »."
+        },
+        {
+          "kind": "table",
+          "caption": "État des bassins affiché par le club depuis le 1er octobre 2026",
+          "headers": [
+            "Équipement",
+            "État"
+          ],
+          "rows": [
+            [
+              "Piscine extérieure chauffée",
+              "Fermée pour la saison"
+            ],
+            [
+              "Jacuzzi extérieur",
+              "Fermé"
+            ],
+            [
+              "Sauna, hammam, jacuzzi intérieur",
+              "Ouverts, sauf le samedi à partir de 20 h"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Nouveauté de 2026, la piscine extérieure chauffée, absente de la page Le club archivée le 10 mai et de l'accueil du 6 juin, figure dans la version de cette page modifiée le 29 juillet. Le club n'a publié ni sa date d'ouverture exacte, ni ses dimensions, ni sa date de réouverture en 2027 ; seul repère, les tarifs d'hiver courent jusqu'au 30 avril.\n\nCôté restauration, l'agenda du 10 octobre 2026 annonçait des pizzas ; la carte décrite en 2024 comptait aussi paninis et plats cuisinés, avec cocktails et champagne au bar. Aucune source ne mentionne de chambres ni d'hébergement : les cabines sont des espaces de jeu."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s3",
+        "s5",
+        "s6",
+        "s11",
+        "s15",
+        "s16",
+        "s17",
+        "s18",
+        "s21"
+      ]
+    },
+    {
+      "id": "galerie-photos",
+      "title": "Seize images officielles, du sauna éclairé en vert au deck de transats bleus",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "La [galerie photo du club](https://lecelestesaunaclub.com/galerie-photo/) réunit 16 images publiées de janvier 2023 à juin 2026, consultées le 16 octobre 2026 et non reproduites ici :"
+        },
+        {
+          "kind": "list",
+          "items": [
+            "**Sauna et jacuzzi intérieur** (2023) : bancs en L éclairés en vert par en dessous ; bassin sous lumière bleue, devant des plantes.",
+            "**Cabines** : mosaïque bleue et banquette rembourrée (2023) ; lumière rouge, grand miroir, similicuir noir (2025).",
+            "**Salle aux murs rouges** (2025) : matelas noir sur estrade, mannequin chromé, affiches de couples.",
+            "**Vestiaire** (2023) : casiers en bois sombre, fauteuils capitonnés.",
+            "**Extérieurs** (2025) : cinq transats devant des bambous ; un deck d'une vingtaine de transats bleus autour d'une fontaine en boules d'acier, sans doute le solarium.",
+            "**Piscine** (juin 2026) : un bassin dans la verdure, peut-être une illustration.",
+            "Deux fichiers de 2023 s'intitulent croix de Saint-André et glory hole."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Pas de photos prises par des clients : les appareils sont interdits. Les visuels tarifaires semblent illustratifs, et les comptes Facebook et Instagram du club ne se lisent pas sans connexion."
+        }
+      ],
+      "sources": [
+        "s9",
+        "s2",
+        "s4",
+        "s28",
+        "s29"
+      ]
+    },
+    {
+      "id": "rue-du-bois-chaland",
+      "title": "Rue du Bois Chaland, à dix minutes d'Évry : le seul sauna libertin repéré en Essonne",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le Céleste se trouve au 1 rue du Bois Chaland, à Lisses, sur l'axe A6-Francilienne, à dix minutes d'Évry selon le club, avec un parking privé gratuit sous vidéosurveillance. Le site actuel n'affiche plus de numéro : son formulaire de contact sert aussi aux demandes de privatisation. Le 07 63 66 96 96, utilisé depuis 2022 au moins, figure sur la fiche PagesJaunes mise à jour par le professionnel le 1er octobre 2026. Les 09 84 30 61 17 et 01 64 97 82 88, visibles sur d'anciennes fiches, ne sont confirmés par aucune source récente.\n\nC'est la seule adresse libertine de [Lisses](/ville/lisses) : le « Sauna Club Les Terrasses » encore cité par des annuaires est ce même lieu sous son ancien nom. Dans le reste de [l'Essonne](/departement/essonne), notre annuaire recense [Secret Suite à Brétigny-sur-Orge](/suite-bretigny-essenne) ; côté Seine-et-Marne, on trouve [L'Angelus à Melun](/angelus-club-libertin-melun). Nous n'avons trouvé aucun autre sauna libertin en activité dans le département."
+        }
+      ],
+      "sources": [
+        "s3",
+        "s10",
+        "s15",
+        "s19",
+        "s20",
+        "s21",
+        "s22",
+        "s23"
+      ]
+    },
+    {
+      "id": "histoire-trois-noms",
+      "title": "Sauna Les Terrasses, Esprit Libertin, Le Céleste : trois noms, une société depuis 2014",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le nom date de 2023, pas le lieu. Les sites des Terrasses et d'Esprit Libertin affichaient le même SIRET, celui de la SARL Les Terrasses, créée en juillet 2014, qui édite aussi le site actuel. Le public visé a changé avec l'enseigne : sauna gay à l'ouverture, club libertin ensuite, formule mixte aujourd'hui."
+        },
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "Été 2014",
+              "text": "« Sauna Les Terrasses » annonce son ouverture prochaine."
+            },
+            {
+              "date": "Mars 2015",
+              "text": "Sauna gay à 13 €, sauf le jeudi soir, mixte (couple 15 €, homme seul 25 €, femmes gratuites). Déjà 600 m² et dix cabines."
+            },
+            {
+              "date": "2016-2017",
+              "text": "La marque libertine « Esprit Libertin » apparaît à la même adresse."
+            },
+            {
+              "date": "2018-2021",
+              "text": "Les Terrasses se dit sauna « 100 % mec » ; fin 2021, son site renvoie vers le Club Esprit Libertin."
+            },
+            {
+              "date": "2022",
+              "text": "Le Club Esprit Libertin, « 100 % libertin », reçoit toutes les tendances (couple 30 €, homme seul 40 €), avec samedis à thème et un créneau gay l'après-midi."
+            },
+            {
+              "date": "2023",
+              "text": "Lancement du site Le Céleste ; celui d'Esprit Libertin se fige vers mai."
+            },
+            {
+              "date": "Octobre 2024",
+              "text": "Un internaute note que le lieu « ne s'appelle plus les terrasses mais le céleste »."
+            },
+            {
+              "date": "Novembre 2024",
+              "text": "Balnéo fermée le samedi au profit des coins câlins en tenue ; dress code obligatoire le vendredi et le samedi."
+            },
+            {
+              "date": "Été 2025 - début 2026",
+              "text": "Vendredis et samedis soirs fermés pour travaux « jusqu'à nouvel ordre » ; reprise annoncée en janvier 2026."
+            },
+            {
+              "date": "Été 2026",
+              "text": "Une piscine extérieure chauffée apparaît sur le site ; fermée pour l'hiver le 1er octobre."
+            }
+          ]
+        },
+        {
+          "kind": "callout",
+          "tone": "info",
+          "title": "Les rumeurs de 2025",
+          "body": "En fermant ses week-ends, le club a démenti des rumeurs de défaut d'autorisation, de décision de la mairie ou de dépôt de bilan, dont nous n'avons trouvé aucune trace : pas d'article de presse, une société active aux comptes déposés chaque année de 2023 à 2026. La date de reprise reste floue : le samedi 7 février 2026 selon un extrait Facebook illisible sans connexion, des samedis à thème à l'agenda dès le 14 mars."
+        },
+        {
+          "kind": "text",
+          "body": "Une seconde société, la SARL L'Envie, installée à la même adresse depuis juin 2018, organise la soirée d'Halloween selon la billetterie Weezevent ; le partage des rôles entre les deux n'est pas public."
+        }
+      ],
+      "sources": [
+        "s8",
+        "s12",
+        "s13",
+        "s14",
+        "s15",
+        "s16",
+        "s17",
+        "s18",
+        "s19",
+        "s20",
+        "s21",
+        "s22",
+        "s23",
+        "s28"
+      ]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "lundi": "12 h - 19 h (hommes gay et bi)",
+      "mardi": "Fermé",
+      "mercredi": "13 h - 23 h",
+      "jeudi": "13 h - 23 h",
+      "vendredi": "13 h - 4 h",
+      "samedi": "13 h - 20 h en sauna, puis 20 h - 4 h en club",
+      "dimanche": "13 h - 20 h"
+    },
+    "note": "Horaires d'hiver, du 1er octobre 2026 au 30 avril 2027. Plus d'entrée 1 h 30 avant la fermeture ; installations arrêtées 30 minutes avant. Le samedi, la page Le club annonce l'espace club de 21 h à 4 h et les coins câlins à partir de 22 h.",
+    "confidence": "confirme",
+    "sources": [
+      "s2",
+      "s3"
+    ]
+  },
+  "tarifs": {
+    "rows": {
+      "lundi, 18 à 30 ans": "20 €",
+      "lundi, 31 ans et plus": "25 €",
+      "couple (mer., jeu., dim.)": "50 €",
+      "homme seul (mer., jeu., dim.)": "60 €",
+      "couple (ven., sam.)": "60 €",
+      "homme seul (ven., sam.)": "80 €",
+      "femme seule (tous les jours)": "15 €",
+      "serviette supplémentaire": "2 €"
+    },
+    "note": "Tarifs d'hiver valables jusqu'au 30 avril 2027. Une consommation comprise par entrée, sauf le lundi : soft ou bière le mercredi, le jeudi et le dimanche, soft ou « hard drink » (hors champagne et Red Bull) le vendredi et le samedi. Deux serviettes fournies par personne ; paréo non fourni.",
+    "confidence": "confirme",
+    "sources": [
+      "s1",
+      "s2",
+      "s4"
+    ]
+  },
+  "equipements": [
+    "Sauna",
+    "Hammam",
+    "Jacuzzi intérieur",
+    "Piscine extérieure chauffée (été)",
+    "Jacuzzi extérieur (été)",
+    "Douches communes",
+    "Vestiaire et casiers",
+    "Bar",
+    "Petite restauration",
+    "Piste de danse",
+    "Espace détente",
+    "Espaces câlins",
+    "12 cabines",
+    "Backroom",
+    "Glory holes",
+    "Croix de Saint-André",
+    "Cabine exhib",
+    "Vidéos X",
+    "Terrasses, jardin et solarium",
+    "Espaces fumeurs extérieurs",
+    "Wifi",
+    "Parking privé gratuit"
+  ],
+  "officialLinks": [
+    {
+      "label": "Site officiel",
+      "url": "https://lecelestesaunaclub.com/",
+      "kind": "site"
+    },
+    {
+      "label": "Galerie photo officielle (16 images)",
+      "url": "https://lecelestesaunaclub.com/galerie-photo/",
+      "kind": "galerie"
+    },
+    {
+      "label": "Agenda des soirées",
+      "url": "https://lecelestesaunaclub.com/agenda/",
+      "kind": "agenda"
+    },
+    {
+      "label": "Horaires et tarifs",
+      "url": "https://lecelestesaunaclub.com/horaire-tarifs/",
+      "kind": "autre"
+    },
+    {
+      "label": "Billetterie de la soirée du 31 octobre 2026",
+      "url": "https://my.weezevent.com/orgasm-x-special-halloween",
+      "kind": "reservation"
+    },
+    {
+      "label": "Page Facebook",
+      "url": "https://www.facebook.com/lecelestesaunaclub/",
+      "kind": "facebook"
+    },
+    {
+      "label": "Instagram",
+      "url": "https://www.instagram.com/lecelestesaunaclub/",
+      "kind": "instagram"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Le Céleste à Lisses est-il ouvert ?",
+      "answer": "Oui. Au 16 octobre 2026, il applique ses horaires d'hiver, valables jusqu'au 30 avril 2027, tous les jours sauf le mardi. Les entrées s'arrêtent 1 h 30 avant la fermeture. Prochaine soirée annoncée : le samedi 31 octobre 2026."
+    },
+    {
+      "question": "Combien coûte l'entrée au Céleste ?",
+      "answer": "Cet hiver : couple 50 € (mercredi, jeudi, dimanche) ou 60 € (vendredi, samedi) ; homme seul 60 € ou 80 € ; femme seule 15 €, une consommation comprise. Le lundi, réservé aux hommes, coûte 20 € ou 25 € selon l'âge, sans consommation."
+    },
+    {
+      "question": "Pourquoi Le Céleste se dit-il « club privé » ?",
+      "answer": "Sa page des nouveaux venus le présente ainsi : l'entrée n'est pas garantie, la direction peut la refuser et limiter le nombre d'hommes seuls. La soirée privée du 31 octobre 2026 exige aussi une carte de membre gratuite, créée sur place par les non-membres."
+    },
+    {
+      "question": "Un homme seul peut-il venir au Céleste ?",
+      "answer": "Oui, tous les jours d'ouverture, mais sans garantie d'entrer : le nombre d'hommes seuls peut être limité. Le lundi, de 12 h à 19 h, est réservé aux hommes gay et bi."
+    },
+    {
+      "question": "Où voir des photos du Céleste ?",
+      "answer": "Sur la galerie du site officiel : 16 images du sauna, du jacuzzi intérieur, des cabines, du vestiaire et des terrasses. Les photos de clients sont rares, les appareils étant interdits à l'intérieur."
+    },
+    {
+      "question": "Le Céleste, le Sauna Les Terrasses et Esprit Libertin, est-ce le même endroit ?",
+      "answer": "Oui : même adresse, et la même société, créée en 2014, signe les sites successifs. Sauna Les Terrasses ouvre en 2015 ; la marque Esprit Libertin apparaît en 2016 à ses côtés, et le Club Esprit Libertin reste seul fin 2021 ; Le Céleste prend le relais en 2023. Les domaines des deux anciens sites ont été abandonnés en 2023 et 2024."
+    },
+    {
+      "question": "La piscine du Céleste est-elle ouverte en hiver ?",
+      "answer": "Non. Depuis le 1er octobre 2026, la piscine et le jacuzzi extérieurs sont fermés pour la saison ; sauna, hammam et jacuzzi intérieur restent ouverts, sauf le samedi soir. Aucune date de réouverture n'est annoncée."
+    },
+    {
+      "question": "Que valent les avis sur Le Céleste ?",
+      "answer": "Nous n'avons pas pu consulter la note Google ; un annuaire la donne à 4 sur 5 pour 182 avis, sans date de relevé. PagesJaunes ne compte qu'un avis, 5 sur 5, publié le 2 août 2025."
+    }
+  ],
+  "unverified": [
+    "La date exacte de reprise des soirées du week-end en 2026 : le 7 février n'est cité que par un extrait de la page Facebook, non consultable sans connexion.",
+    "L'heure de bascule du samedi en mode club : 20 h selon la grille tarifaire, 21 h selon la page Le club et la page de soirée du 10 octobre 2026.",
+    "Le public du vendredi : « libertin » sur le visuel de septembre 2026 et dans l'agenda, « toutes tendances » sur la page Le club modifiée en juillet 2026.",
+    "La date de réouverture de la piscine extérieure en 2027, et ses dimensions.",
+    "La date d'ouverture de la journée « toutes tendances » du mardi, annoncée sans date.",
+    "La note Google actuelle : 4 sur 5 pour 182 avis selon un annuaire, non vue directement. La page Facebook afficherait 94 % de recommandations sur 15 avis, selon un extrait de recherche.",
+    "Le rôle exact de la SARL L'Envie, organisatrice de la soirée du 31 octobre 2026, à côté de la SARL Les Terrasses.",
+    "La date précise à laquelle Esprit Libertin est devenu Le Céleste, en 2023 au plus tard.",
+    "La fourniture actuelle des préservatifs au bracelet, décrite sur une page de 2024.",
+    "L'acceptation du jean foncé le vendredi et le samedi : admis par la page Le club et les pages de soirée, refusé par les visuels tarifaires de septembre 2026."
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Site officiel, page d'accueil (annonces d'hiver, état des bassins, paréos, dress code)",
+      "url": "https://lecelestesaunaclub.com/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s2",
+      "label": "Site officiel, Horaire & tarifs, et ses sept visuels jour par jour (09/2026)",
+      "url": "https://lecelestesaunaclub.com/horaire-tarifs/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s3",
+      "label": "Site officiel, Le club (modifiée le 29/07/2026)",
+      "url": "https://lecelestesaunaclub.com/le-club/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s4",
+      "label": "Site officiel, Règlement (modifié le 29/07/2026)",
+      "url": "https://lecelestesaunaclub.com/reglement/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s5",
+      "label": "Site officiel, Première fois (page de 10/2024)",
+      "url": "https://lecelestesaunaclub.com/premiere-fois/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s6",
+      "label": "Site officiel, Agenda et page de la soirée du 10/10/2026",
+      "url": "https://lecelestesaunaclub.com/agenda/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s7",
+      "label": "Site officiel, soirée privée « Orgasm X - Spécial Halloween » du 31/10/2026",
+      "url": "https://lecelestesaunaclub.com/soiree/soiree-privee-orgasm-x-special-halloween/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s8",
+      "label": "Site officiel, Mentions légales (éditeur : SARL Les Terrasses)",
+      "url": "https://lecelestesaunaclub.com/mentions-legales/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s9",
+      "label": "Site officiel, Galerie photo (16 images, 2023-2026)",
+      "url": "https://lecelestesaunaclub.com/galerie-photo/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s10",
+      "label": "Site officiel, Carte membre et Nous contacter (accès, parking)",
+      "url": "https://lecelestesaunaclub.com/nous-contacter/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s11",
+      "label": "Site officiel, plan du site (dates de modification des pages)",
+      "url": "https://lecelestesaunaclub.com/sitemap_index.xml",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s12",
+      "label": "Billetterie Weezevent, « Orgasm X - Special Halloween » (organisateur : SARL L'Envie)",
+      "url": "https://my.weezevent.com/orgasm-x-special-halloween",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s13",
+      "label": "Registre des entreprises, LES TERRASSES SARL (SIREN 802 340 125)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/802340125",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s14",
+      "label": "Registre des entreprises, L'ENVIE SARL (SIREN 802 543 504)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/802543504",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s15",
+      "label": "Site officiel, archives Wayback d'avril 2024 et janvier 2025",
+      "url": "https://web.archive.org/web/20250114154510/https://lecelestesaunaclub.com/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s16",
+      "label": "Site officiel, archives Wayback de mai, août, novembre et décembre 2025 (fermeture du week-end)",
+      "url": "https://web.archive.org/web/20250810231947/https://lecelestesaunaclub.com/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s17",
+      "label": "Site officiel, archives Wayback de janvier à juin 2026 (réouverture, samedis à thème)",
+      "url": "https://web.archive.org/web/20260116235357/https://lecelestesaunaclub.com/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s18",
+      "label": "Ancien site « Sauna Les Terrasses », archives de 2014 et 2015",
+      "url": "https://web.archive.org/web/20150311234823/http://www.saunalesterrasses.com/horairestarifs.html",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s19",
+      "label": "Ancien site « Sauna Les Terrasses », archives de 2018 à 2023",
+      "url": "https://web.archive.org/web/20180726025725/http://www.saunalesterrasses.com/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s20",
+      "label": "Ancien site « Esprit Libertin », archives de 2016 et 2017",
+      "url": "https://web.archive.org/web/20170305134200/http://www.clubespritlibertin.com/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s21",
+      "label": "Ancien site « Club Esprit Libertin », archives de 2022 à 2024",
+      "url": "https://web.archive.org/web/20220526115027/https://clubespritlibertin.com/horaires-tarifs/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s22",
+      "label": "PagesJaunes, fiche « Le Celeste » (mise à jour par le professionnel le 01/10/2026)",
+      "url": "https://www.pagesjaunes.fr/pros/59131525",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s23",
+      "label": "Lieux Coquins, fiche « Sauna Les Terrasses » (avis du 20/10/2024)",
+      "url": "https://www.lieuxcoquins.fr/lieu/sauna-les-terrasses/",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s24",
+      "label": "Minuit Libertin, fiche « Le Céleste Club » (tarifs de l'automne 2025)",
+      "url": "https://minuitlibertin.com/le-celeste-club/",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s28",
+      "label": "Page Facebook « Le Céleste - Sauna Club » (contenu non lisible sans connexion)",
+      "url": "https://www.facebook.com/lecelestesaunaclub/",
+      "type": "reseau_social",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s29",
+      "label": "Compte Instagram @lecelestesaunaclub",
+      "url": "https://www.instagram.com/lecelestesaunaclub/",
+      "type": "reseau_social",
+      "consulted": "2026-10-16"
+    }
+  ]
+}

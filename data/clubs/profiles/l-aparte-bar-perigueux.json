@@ -1,0 +1,413 @@
+{
+  "slug": "l-aparte-bar-perigueux",
+  "clubId": "14850",
+  "researchedAt": "2026-10-16",
+  "display": {
+    "nom": "L'Aparté bar",
+    "ville": "Périgueux"
+  },
+  "status": {
+    "value": "ferme",
+    "summary": "Le site du bar n'a plus été modifié depuis le 15 septembre 2011. Le registre des entreprises enregistre ensuite d'autres exploitants au 11-13 rue des Farges : un bar à tapas sous l'enseigne La Bodega à partir de mai 2012, puis Le Trader's Bar en janvier 2013, liquidé en février 2014. Depuis 2022, l'adresse est celle d'un restaurant gastronomique, Oxalis. La date exacte de fermeture de L'Aparté n'est pas connue.",
+    "sources": [
+      "s3",
+      "s8",
+      "s9",
+      "s11",
+      "s12"
+    ]
+  },
+  "seo": {
+    "title": "Club libertin à Périgueux : L'Aparté bar a fermé, que reste-t-il ?",
+    "metaDescription": "L'Aparté, bar du 11 rue des Farges, recevait les couples libertins le mercredi vers 2011. Fermé : ce qu'est devenue l'adresse et les lieux cités en 2026.",
+    "subtitle": "Ancien bar d'ambiance de la rue des Farges, avec une soirée couples libertins le mercredi (vers 2011)",
+    "targetQueries": [
+      "club libertin perigueux",
+      "club libertin périgueux",
+      "club echangiste perigueux",
+      "libertine perigueux",
+      "libertin perigueux",
+      "libertine périgueux",
+      "l'aparté bar périgueux"
+    ]
+  },
+  "lead": "L'Aparté n'était pas un club mais un bar d'ambiance du 11 rue des Farges, à Périgueux : karaoké le jeudi, DJ le week-end, tapas. Le mercredi, de 20h à 1h, il recevait les couples libertins, et eux seuls. Son site est figé depuis septembre 2011, et l'adresse abrite depuis 2022 un restaurant gastronomique.",
+  "keyFacts": [
+    {
+      "label": "Type de lieu",
+      "value": "Bar d'ambiance (tapas, karaoké, DJ) avec une soirée couples, pas un club",
+      "confidence": "source_unique",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "label": "Soirée libertine",
+      "value": "Le mercredi, de 20h à 1h, pour les couples",
+      "confidence": "confirme",
+      "sources": [
+        "s2",
+        "s4"
+      ]
+    },
+    {
+      "label": "Hommes seuls",
+      "value": "Non admis le mercredi",
+      "confidence": "confirme",
+      "sources": [
+        "s2",
+        "s4"
+      ]
+    },
+    {
+      "label": "Adresse",
+      "value": "11-13 rue des Farges, 24000 Périgueux",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s4",
+        "s9"
+      ]
+    },
+    {
+      "label": "Dernière trace",
+      "value": "Site mis à jour le 15 septembre 2011",
+      "confidence": "confirme",
+      "sources": [
+        "s3"
+      ]
+    },
+    {
+      "label": "Tarifs",
+      "value": "Jamais publiés",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s2",
+        "s4"
+      ]
+    },
+    {
+      "label": "Exploitant probable",
+      "value": "PAUS-K-FE, propriétaire du fonds de bar (déduction : aucun acte ne nomme L'Aparté)",
+      "confidence": "a_verifier",
+      "sources": [
+        "s5",
+        "s6",
+        "s8"
+      ]
+    },
+    {
+      "label": "L'adresse aujourd'hui",
+      "value": "Oxalis, restaurant gastronomique ouvert en 2022",
+      "confidence": "confirme",
+      "sources": [
+        "s11",
+        "s12",
+        "s13"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "karaoke-dj-et-mercredi-couples",
+      "title": "Karaoké le jeudi, DJ le week-end, couples libertins le mercredi",
+      "sources": [
+        "s1",
+        "s2",
+        "s4",
+        "s16",
+        "s17",
+        "s18"
+      ],
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le site se présentait comme un « bar d'ambiance » à Périgueux. Sa description annonçait tapas, matchs retransmis, karaoké le jeudi et soirées à thème, et la page d'accueil un DJ le vendredi et le samedi. Le libertinage tenait dans une page à part, qui annonçait des « soirées rencontre » le mercredi de 20h à 1h, réservées aux couples. L'annuaire sauna-club-libertin.com, qui relayait l'information en présentant le bar comme « nouveau sur Périgueux », précisait « Messieurs seuls s'abstenir ». Ni le site ni cet annuaire ne mentionnaient de tarif, d'espace réservé ou de tenue demandée : l'étiquette « bar libertin » de l'annuaire force le trait."
+        },
+        {
+          "kind": "text",
+          "body": "Aucun des trois guides libertins de Dordogne consultés en octobre 2026 ne cite de bar à Périgueux. Les couples qui cherchent ce premier contact avant de pousser la porte d'un club peuvent [échanger entre couples sur Carré Libertin](aff:carre-libertin) : en ligne depuis 2007, le site donne un accès complet gratuit aux couples dont le profil compte trois photos."
+        }
+      ]
+    },
+    {
+      "id": "11-13-rue-des-farges-2005-2026",
+      "title": "11-13 rue des Farges : du P'tit Prince au Trader's Bar, puis la table d'Oxalis",
+      "sources": [
+        "s3",
+        "s5",
+        "s6",
+        "s7",
+        "s8",
+        "s9",
+        "s10",
+        "s11",
+        "s12",
+        "s13",
+        "s14",
+        "s15"
+      ],
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Aucune entreprise n'a porté l'enseigne L'Aparté à Périgueux : l'histoire du local se lit par l'adresse, dans le registre des entreprises et le Bodacc."
+        },
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "2005-2007",
+              "text": "Un débit de boissons, Le P'tit Prince."
+            },
+            {
+              "date": "Avril 2007",
+              "text": "La société PAUS-K-FE ouvre son établissement, le jour où celui du P'tit Prince ferme."
+            },
+            {
+              "date": "Septembre 2011",
+              "text": "Dernière mise à jour du site de L'Aparté, le 15."
+            },
+            {
+              "date": "Mai 2012",
+              "text": "PAUS-K-FE confie son fonds « Bar Tapas » en location-gérance à MPF, sous l'enseigne La Bodega."
+            },
+            {
+              "date": "Janvier 2013",
+              "text": "MPF le confie à son tour à la SARL JRK Le Trader's Bar, « bar ambiance », dont un guide de sorties local publie des photos de soirée en avril 2013."
+            },
+            {
+              "date": "2014-2020",
+              "text": "Le Trader's Bar est liquidé en février 2014, PAUS-K-FE en mars 2015 ; MPF est radiée en juin 2020."
+            },
+            {
+              "date": "2022",
+              "text": "Ouverture d'Oxalis, restaurant gastronomique (société immatriculée le 2 mai), toujours actif : un avis Tripadvisor est daté du 18 juillet 2026."
+            }
+          ]
+        },
+        {
+          "kind": "callout",
+          "tone": "info",
+          "title": "Une déduction, pas une preuve",
+          "body": "Le rattachement de L'Aparté à PAUS-K-FE repose sur la même adresse, un même bar à tapas et un calendrier cohérent : site actif en septembre 2011, fonds « Bar Tapas » confié à un nouvel exploitant en mai 2012. Aucun acte ne nomme L'Aparté. Sa fermeture se situe probablement entre ces deux dates, au plus tard en janvier 2013."
+        },
+        {
+          "kind": "text",
+          "body": "Le local occupe une « très ancienne demeure médiévale » aux voûtes gothiques, selon le critique Gilles Pudlowski (mai 2023), et compte 45 couverts d'après l'office de tourisme. Ni cet article ni le site du restaurant n'évoquent les bars qui l'ont précédé."
+        }
+      ]
+    },
+    {
+      "id": "guides-dordogne-2025-2026",
+      "title": "Rue La Fayette, Coulounieix-Chamiers, Bergerac : les adresses des guides 2025-2026",
+      "sources": [
+        "s16",
+        "s17",
+        "s18"
+      ],
+      "confidence": "a_verifier",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Trois guides consultés en octobre 2026 recensent les lieux libertins de Dordogne, sans citer L'Aparté. Ce sont des annuaires qui se recopient : vérifiez chaque adresse avant de vous déplacer."
+        },
+        {
+          "kind": "list",
+          "items": [
+            "**Périgueux** : Atlantis 24 (ou L'Atlantis), 14 rue La Fayette. Un guide le classe comme sauna libertin « à dominante gay », ouvert aussi aux couples ; un autre le présente comme « le seul club de la ville ». C'est l'adresse de [notre fiche Sauna Le Cantou](/sauna-le-cantou-perigueux) : probablement le même lieu sous un nouveau nom, ce que nous n'avons pas vérifié.",
+            "**Coulounieix-Chamiers** : La Ducha pour un guide, Le Phénix, route de Bergerac, pour un autre ; peut-être [l'établissement « la douche »](/la-douche-coulounieix-chamiers) de notre annuaire, sans que le lien soit établi.",
+            "**Ailleurs** : [Le Délice](/le-delice-saint-laurent-des-vignes), le [Sauna de la Gare à Bergerac](/sauna-de-la-gare-bergerac) (sauna gay selon un guide) et, hors de notre annuaire, Le 16 (Creysse), Le Diamant Noir (camping, Sainte-Alvère) et L'Interdit ou Pas (Chancelade, statut non vérifié)."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Pour savoir quelles soirées ont réellement lieu, vous pouvez [contrôler les soirées annoncées sur Wyylde](aff:wyylde) : l'ex-Netéchangisme, en ligne depuis 2001, ouvre son agenda à un compte gratuit mais réserve les réponses aux messages aux abonnés. Nos fiches du secteur sont réunies sur [la page Dordogne de l'annuaire](/departement/dordogne)."
+        }
+      ]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Mardi, jeudi, vendredi, samedi": "17h – 2h",
+      "Mercredi": "17h – 2h selon l'accueil du site ; soirée couples libertins de 20h à 1h",
+      "Dimanche": "22h – 2h",
+      "Lundi": "Non mentionné"
+    },
+    "note": "Horaires affichés par le bar en septembre 2011, sans valeur actuelle : l'établissement a fermé. Le site ne disait pas si le bar restait ouvert à tous avant 20h le mercredi.",
+    "confidence": "source_unique",
+    "sources": [
+      "s1",
+      "s2"
+    ]
+  },
+  "equipements": [
+    "Bar à tapas",
+    "Karaoké (jeudi)",
+    "DJ (vendredi et samedi)",
+    "Retransmission des matchs"
+  ],
+  "officialLinks": [
+    {
+      "label": "Ancien site du bar (figé depuis septembre 2011)",
+      "url": "http://lapartebar.free.fr/",
+      "kind": "site"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Y a-t-il encore un club libertin ou échangiste à Périgueux ?",
+      "answer": "En ville, les guides de 2025-2026 ne citent qu'Atlantis 24, au 14 rue La Fayette, que l'un d'eux décrit comme un sauna « à dominante gay » ouvert aussi aux couples. Les autres adresses sont dans les communes voisines (Coulounieix-Chamiers, Chancelade) ou ailleurs en Dordogne. Les fiches de notre annuaire pour la ville sont réunies sur [la page des lieux libertins de Périgueux](/ville/perigueux) : vérifiez le statut de chacun avant de vous déplacer."
+    },
+    {
+      "question": "Un homme seul pouvait-il venir à la soirée du mercredi ?",
+      "answer": "Non. Le site n'annonçait d'entrée que pour les couples, et l'annuaire qui relayait ces soirées précisait « Messieurs seuls s'abstenir »."
+    },
+    {
+      "question": "Combien coûtait la soirée couples ?",
+      "answer": "On l'ignore : ni le site ni l'annuaire n'ont publié de tarif, et aucun avis daté n'a été trouvé sous le nom de L'Aparté."
+    },
+    {
+      "question": "Où rencontrer des libertines et des libertins à Périgueux hors des clubs ?",
+      "answer": "Aucun guide récent ne cite de bar libertin en ville. Pour mesurer le nombre de profils actifs autour de Périgueux, [un compte Gleese ouvert sans carte bancaire](aff:gleese) suffit. Ses profils sont vérifiés par téléphone, mais le site, lancé fin 2024, reste derrière Wyylde en volume, surtout hors des grandes villes : une recherche locale vous fixera vite."
+    }
+  ],
+  "unverified": [
+    "La date d'ouverture de L'Aparté et la date exacte de sa fermeture (entre septembre 2011 et janvier 2013 au plus tard).",
+    "La société qui exploitait L'Aparté : PAUS-K-FE est l'hypothèse la plus probable, mais aucun acte public ne la relie à cette enseigne.",
+    "Le prix d'entrée ou des consommations lors de la soirée couples du mercredi.",
+    "Si le bar restait ouvert à tous le mercredi avant 20h, et s'il ouvrait le lundi.",
+    "Le déroulé des soirées du mercredi : espace réservé, règles, tenue demandée.",
+    "Si la presse locale a parlé de L'Aparté à son ouverture ou à sa fermeture (archives de Sud Ouest non consultées).",
+    "Si Atlantis 24, au 14 rue La Fayette, est bien le nouveau nom du Sauna Le Cantou.",
+    "Le public actuel d'Atlantis 24 (mixte, couples ou majoritairement gay) : les guides divergent."
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Site officiel de L'Aparté bar, page d'accueil (figée depuis 2011)",
+      "url": "http://lapartebar.free.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s2",
+      "label": "Site officiel de L'Aparté bar, page « soirée libertine »",
+      "url": "http://lapartebar.free.fr/soiree-libertine.2.html",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s3",
+      "label": "En-têtes HTTP du site officiel : dernière modification le 15 septembre 2011",
+      "url": "http://lapartebar.free.fr/",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s4",
+      "label": "sauna-club-libertin.com, fiche n° 14850 (annuaire, non datée)",
+      "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_3.php?id=14850&d=24",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s5",
+      "label": "Registre des entreprises, recherche « aparte » à Périgueux (aucun résultat lié)",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=aparte&code_postal=24000",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s6",
+      "label": "Registre et Bodacc : PAUS-K-FE (SIREN 489 113 829)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/489113829",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s7",
+      "label": "Registre et Bodacc : Le P'tit Prince (SIREN 485 088 074)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/485088074",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s8",
+      "label": "Registre et Bodacc : MPF, enseigne La Bodega (SIREN 752 878 454)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/752878454",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s9",
+      "label": "Registre et Bodacc : SARL JRK Le Trader's Bar (SIREN 790 533 624)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/790533624",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s10",
+      "label": "WeeMove Périgueux-Bergerac, fiche « Le Trader's Bar » (archive du 29/03/2013)",
+      "url": "https://web.archive.org/web/20130329161534/http://perigueux-bergerac.weemove.com:80/Le_Trader_s_Bar_-Bar_Perigueux-entite_fiche1-34262-0-0-0.aspx",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s11",
+      "label": "Registre : Oxalis, restaurant (SIREN 913 021 192)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/913021192",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s12",
+      "label": "Site du restaurant Oxalis",
+      "url": "https://www.restaurant-oxalis.fr/",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s13",
+      "label": "Dordogne Périgord Tourisme, fiche « Oxalis »",
+      "url": "https://www.dordogne-perigord-tourisme.fr/offres/oxalis-perigueux-perigueux-fr-3847882/",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s14",
+      "label": "Gilles Pudlowski, « Périgueux : la bonne surprise d'Oxalis » (17/05/2023)",
+      "url": "https://www.gillespudlowski.com/345541/restaurants/perigueux-la-bonne-surprise-doxalis",
+      "type": "presse",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s15",
+      "label": "Tripadvisor, avis sur le restaurant Oxalis",
+      "url": "https://www.tripadvisor.com/Restaurant_Review-g187088-d24983656-Reviews-Oxalis-Perigueux_Dordogne_Nouvelle_Aquitaine.html",
+      "type": "avis",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s16",
+      "label": "saunaclublebali.fr, « Clubs libertins Dordogne » (31/03/2026)",
+      "url": "https://www.saunaclublebali.fr/clubs-libertins-dordogne-24/",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s17",
+      "label": "minuitlibertin.com, « Club libertin à Périgueux » (mise à jour du 03/08/2026)",
+      "url": "https://minuitlibertin.com/club-libertin-a-perigueux/",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s18",
+      "label": "FranceSudOuest, « Les clubs libertins en Dordogne » (non daté)",
+      "url": "https://www.francesudouest.com/les-clubs-libertins-en-dordogne/",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    }
+  ]
+}

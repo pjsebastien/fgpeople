@@ -13,6 +13,9 @@ import {
   generateMetaDescription,
   generateSEOTitle,
 } from '../utils/seo-content';
+import { getClubProfile } from './club-profiles';
+import mergedClubs from '../../data/clubs/merged.json';
+import type { ClubProfile } from '../types/club-profile';
 
 // ============================================
 // UTILITAIRES
@@ -144,7 +147,7 @@ function transformClub(raw: RawClub): Club {
     !!raw.site_web
   );
 
-  return {
+  const club: Club = {
     id: raw.id,
     slug: raw.slug || slugify(`${nom}-${villeForSlug}`), // Utilise le slug personnalisé si présent, sinon nom + ville/pays
     nom,
@@ -174,6 +177,7 @@ function transformClub(raw: RawClub): Club {
     tarifs: raw.tarifs,
     status: (raw.verification?.status as Club['status']) || 'incertain',
     qualityScore: raw.verification?.data_quality?.score || 0,
+    hasProfile: false,
     seo: {
       title: seoTitle,
       metaDescription,
@@ -183,7 +187,60 @@ function transformClub(raw: RawClub): Club {
       faq,
     },
   };
+
+  const profile = getClubProfile(club.slug);
+  return profile ? applyProfile(club, profile) : club;
 }
+
+const PROFILE_STATUS: Record<ClubProfile['status']['value'], Club['status']> = {
+  ouvert: 'actif',
+  ferme: 'ferme',
+  fermeture_probable: 'probablement_ferme',
+  incertain: 'incertain',
+};
+
+/**
+ * Reporte sur le club les informations vérifiées de sa fiche personnalisée,
+ * pour que les listes, cartes et données structurées en profitent aussi.
+ * Le contenu rédactionnel de la fiche reste chargé à part (getClubProfile),
+ * afin de ne pas alourdir les pages de liste.
+ */
+function applyProfile(club: Club, profile: ClubProfile): Club {
+  const c = profile.corrections;
+  return {
+    ...club,
+    nom: profile.display?.nom ?? club.nom,
+    ville: profile.display?.ville ?? club.ville,
+    adresse: c?.adresse ?? club.adresse,
+    code_postal: c?.code_postal ?? club.code_postal,
+    telephone: c?.telephone ?? club.telephone,
+    email: c?.email ?? club.email,
+    site_web: c?.site_web ?? club.site_web,
+    // Un site corrigé a été consulté pendant la recherche : il est accessible.
+    websiteAccessible: c?.site_web ? true : club.websiteAccessible,
+    shortDescription: truncate(stripMarkdown(profile.lead), 160),
+    equipements: profile.equipements ?? club.equipements,
+    horaires: profile.horaires?.rows ?? club.horaires,
+    tarifs: profile.tarifs?.rows ?? club.tarifs,
+    status: PROFILE_STATUS[profile.status.value],
+    hasProfile: true,
+    seo: {
+      ...club.seo,
+      title: profile.seo.title,
+      metaDescription: profile.seo.metaDescription,
+      // Les données structurées n'acceptent que du texte brut.
+      faq: profile.faq.map((q) => ({ question: stripMarkdown(q.question), answer: stripMarkdown(q.answer) })),
+    },
+  };
+}
+
+/** Retire le markdown allégé (liens, gras) pour un usage en texte brut. */
+export function stripMarkdown(text: string): string {
+  return text.replace(/\[([^\]]+)\]\([^)]+\)/g, '$1').replace(/\*\*([^*]+)\*\*/g, '$1');
+}
+
+/** Fiches doublons, redirigées en 301 par next.config.js. */
+const MERGED_SLUGS = new Set(mergedClubs.merges.map((m: { from: string }) => m.from));
 
 // Cache des clubs transformés
 let clubsCache: Club[] | null = null;
@@ -192,7 +249,8 @@ function getClubs(): Club[] {
   if (!clubsCache) {
     clubsCache = (rawData.clubs as RawClub[])
       .map(transformClub)
-      .filter(club => club.ville && club.region); // Filtrer les clubs sans localisation
+      .filter(club => club.ville && club.region) // Filtrer les clubs sans localisation
+      .filter(club => !MERGED_SLUGS.has(club.slug)); // Doublons redirigés vers leur fiche principale
   }
   return clubsCache;
 }

@@ -368,7 +368,7 @@ interface ReviewData {
   departement: string;
   types: ClubType[];
   equipements: string[];
-  status: 'actif' | 'incertain' | 'probablement_ferme';
+  status: 'actif' | 'incertain' | 'probablement_ferme' | 'ferme';
   qualityScore: number;
   websiteAccessible: boolean | null;
   hasPhone: boolean;
@@ -445,7 +445,7 @@ export function generateReview(data: ReviewData): GeneratedReview {
 
   // Malus statut
   if (data.status === 'incertain') baseRating -= 0.5;
-  if (data.status === 'probablement_ferme') baseRating -= 1.5;
+  if (data.status === 'probablement_ferme' || data.status === 'ferme') baseRating -= 1.5;
   if (data.websiteAccessible === false) baseRating -= 0.5;
 
   // Clamp rating entre 1 et 5
@@ -462,7 +462,7 @@ export function generateReview(data: ReviewData): GeneratedReview {
   let summary = '';
   const mainType = data.types[0]?.label || 'établissement libertin';
 
-  if (data.status === 'probablement_ferme') {
+  if (data.status === 'probablement_ferme' || data.status === 'ferme') {
     summary = `Attention : ${data.clubName} semble ne plus être en activité. Nous vous recommandons de vérifier directement avant de vous déplacer. Notre dernier recueil d'informations remonte à plusieurs mois.`;
   } else if (data.status === 'incertain') {
     summary = `${data.clubName} est un ${mainType.toLowerCase()} situé à ${data.city} dont nous avons reçu peu de retours récents. Les informations présentées méritent d'être confirmées auprès de l'établissement.`;

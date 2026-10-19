@@ -32,6 +32,8 @@ import Breadcrumb from '@/components/ui/Breadcrumb';
 import RelatedLinks from '@/components/navigation/RelatedLinks';
 import ArticlePage from '@/components/blog/ArticlePage';
 import ClubDetailPage from '@/components/clubs/ClubDetailPage';
+import ClubProfilePage from '@/components/clubs/ClubProfilePage';
+import { getClubProfile } from '@/lib/data/club-profiles';
 import { BreadcrumbJsonLd, ItemListJsonLd } from '@/components/seo/JsonLd';
 
 export async function generateStaticParams() {
@@ -293,8 +295,22 @@ export default async function DynamicPage({
   // 3. Vérifier si c'est une fiche club
   const club = await getClubBySlug(type);
   if (club) {
-    const clubsProximite = await getClubsProximite(club, 9);
+    // Les clubs fermés ne sont jamais proposés comme alternative.
+    const clubsProximite = (await getClubsProximite(club, 12))
+      .filter((c) => c.status !== 'ferme')
+      .slice(0, 9);
     const reviewsMap = await getReviewsForClubs([club.id]);
+    const profile = getClubProfile(club.slug);
+    if (profile) {
+      return (
+        <ClubProfilePage
+          club={club}
+          profile={profile}
+          clubsProximite={clubsProximite}
+          reviewsBundle={getBundle(reviewsMap, club.id)}
+        />
+      );
+    }
     return (
       <ClubDetailPage
         club={club}
