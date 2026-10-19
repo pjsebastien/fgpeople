@@ -275,6 +275,13 @@ water, bed, car, lock, ticket, heart, mask, closed, ruler, phone, globe.
 - Section sur les avis : courte, sans bilan qui répète les autres sections, et
   jamais en tête de fiche, même quand « avis » est la première requête : le
   `summary` et la FAQ suffisent à servir cette requête.
+- On sert une requête, on ne la cite pas : jamais « La requête « club
+  libertin X » trouve sa réponse… » ni « Les recherches « … » » dans le texte.
+- Galerie officielle : n'en faire une section, ou la réponse à « photos »,
+  que si les images ont été regardées ; des légendes ou des noms de fichiers
+  ne suffisent pas.
+- Les erreurs de notre ancienne fiche (données d'annuaire) se corrigent dans
+  `corrections` et se signalent dans `unverified`, pas dans une section du texte.
 - Dates : jamais « il y a environ 3 ans » (recopié d'un affichage Google ou
   YouTube, faux dès la publication) ; écrire « vers 2023 » ou « affiché comme
   datant d'environ 3 ans au 16/10/2026 ».
@@ -283,7 +290,10 @@ water, bed, car, lock, ticket, heart, mask, closed, ruler, phone, globe.
   en `galerie` et dire ce qu'elle montre, uniquement si on l'a consultée.
 - `equipements` : uniquement ceux confirmés par une source (idéalement officielle).
 - `corrections` : uniquement si une source officielle récente contredit la base
-  (nouveau téléphone, nouvelle adresse, nouveau site).
+  (nouveau téléphone, nouvelle adresse, nouveau site). Une archive de plus d'un
+  an n'est pas une source récente : la rectification va alors dans le texte.
+- `officialLinks` : le domaine officiel du club, jamais l'adresse technique
+  d'un hébergeur (run.app, wixsite, netlify…) vers laquelle il redirige.
 - `unverified` : les questions concrètes restées sans réponse.
 - `sources` : toutes les sources citées, `s1`, `s2`… ; chaque section cite les siennes.
 
@@ -367,6 +377,15 @@ Libertin). Faits utilisables, entre autres :
   gratuit pour les femmes et les couples (3 photos de profil requises).
 - **Gleese** : lancé fin 2024, inscription sans carte bancaire, profils
   vérifiés par téléphone, photos modérées à la main, site français.
+
+Faire tourner les faits : pas toujours le même trio (Carré Libertin « 2007 +
+trois photos », Gleese « fin 2024 + sans carte bancaire + téléphone », Wyylde
+« compte gratuit + abonnement pour répondre »). D'autres faits vérifiés
+existent : Wyylde rebaptisé en 2018 et ses 7 millions de membres revendiqués,
+l'agenda des soirées ; les 500 000 inscrits de Carré Libertin ; les photos
+modérées à la main sur Gleese, son site français. Pour un club fermé, ne pas
+loger systématiquement deux partenaires dans une question de FAQ du type
+« comment rencontrer sans club ».
 
 Interdits : prétendre qu'un club est présent, partenaire ou actif sur une
 plateforme sans source ; « cliquez ici » ; ancres identiques d'une fiche à

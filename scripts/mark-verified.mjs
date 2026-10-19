@@ -35,6 +35,14 @@ if (rest.includes('--after-repair')) {
   const keys = ['exactitude', 'specificite', 'profondeur', 'requetes', 'utilite', 'honnetete'];
   if (!scores || !keys.every((k) => typeof scores[k] === 'number')) throw new Error(`--scores doit contenir ${keys.join(', ')}`);
   const vals = keys.map((k) => scores[k]);
+  // Un dossier fait sans recherche web (quota épuisé) manque de presse, de notes et de concurrence :
+  // il ne peut pas être déclaré publiable tant qu'une recherche complémentaire n'y figure pas.
+  const dossier = fs.existsSync(`data/clubs/research/${slug}.md`) ? fs.readFileSync(`data/clubs/research/${slug}.md`, 'utf8') : '';
+  const noSearch = /websearch (indisponible|épuisé|non disponible)|quota (websearch|de recherche)|quota.{0,20}épuisé|budget websearch/i.test(dossier);
+  if (noSearch && !/^## Recherche complémentaire \(/m.test(dossier) && arg('--publishable') === 'true') {
+    console.error(`${slug} : dossier fait sans recherche web et sans « ## Recherche complémentaire » : publication refusée. Faire d'abord la recherche complémentaire.`);
+    process.exit(1);
+  }
   data = {
     slug,
     scores,

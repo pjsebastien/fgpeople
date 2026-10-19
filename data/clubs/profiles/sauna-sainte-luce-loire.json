@@ -1,14 +1,14 @@
 {
   "slug": "sauna-sainte-luce-loire",
   "clubId": "FG070",
-  "researchedAt": "2026-10-16",
+  "researchedAt": "2026-10-19",
   "display": {
     "nom": "Before Sauna Club (B4)",
     "ville": "Sainte-Luce-sur-Loire"
   },
   "status": {
     "value": "ouvert",
-    "summary": "Une « Halloween sexy night » le samedi 31 octobre 2026 ferme l'agenda que le club affichait le 16 octobre, après des soirées et après-midi datés les 16, 17, 18, 22, 23, 24, 25 et 30. La SAS ALPA, qui exploite le lieu, est active au registre ; le dépôt de ses comptes de l'exercice clos fin septembre 2025 a été publié au BODACC le 2 avril 2026, sans aucun avis de cession ni de procédure collective depuis 2017.",
+    "summary": "Une « Halloween sexy night » le samedi 31 octobre 2026 ferme l'agenda que le club affichait encore le 19 octobre, cinq semaines après la soirée de ses neuf ans, le 12 septembre. La SAS ALPA, qui exploite le lieu, est active au registre ; le dépôt de ses comptes de l'exercice clos fin septembre 2025 a été publié au BODACC le 2 avril 2026, sans aucun avis de cession ni de procédure collective depuis 2017.",
     "sources": [
       "s3",
       "s4",
@@ -16,7 +16,8 @@
       "s16",
       "s18",
       "s21",
-      "s22"
+      "s22",
+      "s27"
     ]
   },
   "seo": {
@@ -30,12 +31,13 @@
       "before sauna club tarifs",
       "before sauna club horaires",
       "before sauna club photos",
+      "before sauna club avis",
       "sauna libertin nantes",
       "sauna gay nantes",
       "club libertin sainte-luce-sur-loire"
     ]
   },
-  "lead": "Le Before Sauna Club, que son site appelle « le B4 », change de public selon l'heure : sauna réservé aux hommes l'après-midi (sauf le jeudi), toutes tendances le soir et, le samedi, soirée libertine pour les couples, les femmes seules et dix hommes seuls au plus. Installé rue Gustave-Eiffel à Sainte-Luce-sur-Loire, aux portes de Nantes, il est exploité par la SAS ALPA, société créée en mars 2017, et se dit ouvert tous les jours de l'année. Le 16 octobre 2026, son agenda courait jusqu'au 31 octobre.",
+  "lead": "Le Before Sauna Club, que son site appelle « le B4 », change de public selon l'heure : sauna réservé aux hommes l'après-midi (sauf le jeudi), toutes tendances le soir et, le samedi, soirée libertine pour les couples, les femmes seules et dix hommes seuls au plus. Installé rue Gustave-Eiffel à Sainte-Luce-sur-Loire, aux portes de Nantes, il a ouvert à la rentrée 2017 et fêté ses neuf ans le 12 septembre 2026. Exploité par la SAS ALPA, il se dit ouvert tous les jours de l'année ; le 19 octobre 2026, son agenda courait jusqu'au 31 octobre.",
   "glance": [
     {
       "icon": "calendar",
@@ -63,9 +65,9 @@
       "value": "Sauna sec, hammam, jacuzzi à cascade"
     },
     {
-      "icon": "map",
-      "label": "Adresse",
-      "value": "13 rue Gustave Eiffel, Sainte-Luce"
+      "icon": "history",
+      "label": "Ouvert depuis",
+      "value": "Rentrée 2017 (9 ans fêtés en 2026)"
     }
   ],
   "audience": [
@@ -95,7 +97,7 @@
     }
   ],
   "highlights": [
-    "Samedi soir : dix hommes seuls au plus, admis dès 21 h et « sélectionnés » ; nos sources ne disent pas s'il faut réserver.",
+    "Samedi soir : dix hommes seuls au plus, admis dès 21 h et « sélectionnés » ; les soirées d'anniversaire du club se réservent, parfois en billetterie en ligne.",
     "Selon la page dress code, jogging, tee-shirt et baskets de sport sont refusés aux hommes, pantalon classique aux femmes ; on se change au vestiaire.",
     "Portable strictement interdit à l'intérieur : un rendez-vous avec d'autres libertins se cale avant d'entrer.",
     "Samedi, repas chaud et cocktail offerts aux premiers arrivés : venez avant 21 h 30, l'heure limite variant d'une page du site à l'autre.",
@@ -112,13 +114,15 @@
       ]
     },
     {
-      "label": "Société créée",
-      "value": "Mars 2017 ; ouverture au public non datée, anniversaire fêté à la mi-septembre",
+      "label": "Ouverture",
+      "value": "Rentrée 2017, neuf ans fêtés le 12 septembre 2026 ; société créée en mars 2017",
       "confidence": "confirme",
       "sources": [
         "s21",
         "s22",
-        "s17"
+        "s26",
+        "s27",
+        "s28"
       ]
     },
     {
@@ -159,11 +163,12 @@
     },
     {
       "label": "Surface",
-      "value": "750 m² selon le club, 550 m² selon le SNEG & Co",
+      "value": "750 m² selon le club, 550 m² selon le SNEG & Co ; balnéo de 200 m² en 2017",
       "confidence": "a_verifier",
       "sources": [
         "s2",
-        "s24"
+        "s24",
+        "s26"
       ]
     },
     {
@@ -255,11 +260,11 @@
           "kind": "callout",
           "tone": "info",
           "title": "Repas offert jusqu'à 21 h 30 ou 22 h ?",
-          "body": "La page « Ambiance libertins » et une fiche de février 2024 disent 21 h 30 ; la grille du samedi, non datée, et les fiches d'octobre 2026, les plus récentes, disent 22 h. Pour profiter du repas, arrivez avant 21 h 30."
+          "body": "La page « Ambiance libertins » et une fiche de février 2024 disent 21 h 30 ; la grille du samedi, non datée, et les fiches d'octobre 2026 disent 22 h. Un avis de novembre 2023 situait déjà à 21 h 30 la fin du cocktail offert, et la soirée des neuf ans, en septembre 2026, exigeait d'arriver avant 21 h 30 : visez cette heure-là."
         },
         {
           "kind": "text",
-          "body": "Le quota pèse sur les hommes seuls : nos sources ne disent ni s'il faut réserver, ni si un homme venu avec un couple compte parmi les dix.\n\nPour un couple ou une femme seule qui préfère arriver en ayant déjà échangé avec d'autres libertins de la région, [les annonces des couples de Loire-Atlantique sur Carré Libertin](aff:carre-libertin) montrent ce que chacun cherche avant qu'on écrive ; le site, ouvert en 2007, est entièrement gratuit pour les femmes et les couples qui publient trois photos de profil."
+          "body": "Le quota pèse sur les hommes seuls : pour un samedi ordinaire, nos sources ne disent ni s'il faut réserver, ni si un homme venu avec un couple compte parmi les dix. Les soirées d'anniversaire, elles, se réservent : la soirée des huit ans, en 2025, se vendait en prévente et s'est affichée complète ; celle des neuf ans, en 2026, passait par une billetterie en ligne.\n\nUn couple ou une femme seule qui préfère arriver en ayant déjà fait connaissance peut [convenir d'un premier samedi au B4 avec un couple nantais](aff:carre-libertin) : Carré Libertin, ouvert en 2007, est entièrement gratuit pour les femmes et les couples qui publient trois photos de profil."
         }
       ],
       "sources": [
@@ -268,7 +273,9 @@
         "s16",
         "s17",
         "s18",
-        "s20"
+        "s20",
+        "s27",
+        "s28"
       ]
     },
     {
@@ -406,7 +413,7 @@
         },
         {
           "kind": "text",
-          "body": "En octobre 2026, l'agenda annonçait un après-midi Bears le 18 et « Le bal des pompeurs » le 25.\n\nLe club se dit « acteur au quotidien » de la vie LGBTQIA+ : une photo de son blog le montre à la Marche des fiertés de Nantes en 2022, et un char décoré était annoncé pour celle du 10 juin 2023. Sa page de partenaires cite Wag, Bearwww, Jock Life et MMensuel.\n\nNotre annuaire recense aussi [le Steamer, sauna gay nantais](/le-steamer-nantes), à un peu plus de 7 km à vol d'oiseau, dont la fiche n'a pas encore été vérifiée."
+          "body": "En octobre 2026, l'agenda annonçait un après-midi Bears le 18 et « Le bal des pompeurs » le 25.\n\nLe club se dit « acteur au quotidien » de la vie LGBTQIA+ : une photo de son blog le montre à la Marche des fiertés de Nantes en 2022. Pour celle du 10 juin 2023, son blog annonçait un char au départ de la place Foch à 14 h ; le média gay Jock Life, l'un de ses partenaires, le relayait, avec un après-midi 100 % mecs et spectacle le dimanche 11. Sa page de partenaires cite aussi Wag, Bearwww et MMensuel.\n\nNotre annuaire recense aussi [le Steamer, sauna gay nantais](/le-steamer-nantes), à un peu plus de 7 km à vol d'oiseau, dont la fiche n'a pas encore été vérifiée."
         }
       ],
       "sources": [
@@ -416,7 +423,8 @@
         "s17",
         "s18",
         "s19",
-        "s25"
+        "s25",
+        "s30"
       ]
     },
     {
@@ -475,9 +483,9 @@
     },
     {
       "id": "balneo-et-espaces",
-      "title": "Sauna sec, bassin à cascade, hammam : ce que montrent les 44 photos du club",
+      "title": "Sauna sec, bassin à cascade, hammam : une balnéo de 200 m² dès 2017",
       "icon": "spa",
-      "summary": "Sauna sec, bassin bouillonnant à cascade, hammam et douches, plus coins câlins, cabines et backroom ; 750 m² selon le club, 550 m² selon le SNEG & Co.",
+      "summary": "Sauna sec, bassin bouillonnant à cascade, hammam et douches, sur 200 m² selon le site de 2017 ; 750 m² en tout selon le club, 550 m² selon le SNEG & Co.",
       "blocks": [
         {
           "kind": "list",
@@ -503,27 +511,50 @@
         },
         {
           "kind": "text",
-          "body": "Sauna, hammam et jacuzzi figurent aussi dans l'activité déclarée en 2017 et sur la fiche du SNEG. La page de visite annonce en outre des « coins câlins, cabines et backroom ».\n\nUne consigne de mars 2022, toujours en ligne, mentionne casier à clé, serviettes, paréos et tongs fournis : à confirmer sur place."
+          "body": "Dès août 2017, le premier site du club donnait à la balnéo « 200m² », avec sauna, hammam, grand jacuzzi et espace détente. Ces trois équipements figurent aussi dans l'activité déclarée cette année-là et sur la fiche du SNEG."
         },
         {
           "kind": "text",
           "body": "Le club se dit « le plus grand sauna club de l'Ouest », avec plus de 750 m². Aucune source indépendante ne le confirme, et la fiche du SNEG & Co, selon toute vraisemblance écrite à l'ouverture (« le tout nouveau sauna de Nantes »), indique 550 m² : agrandissement ou autre mode de calcul, on ne sait pas."
-        },
-        {
-          "kind": "callout",
-          "tone": "warning",
-          "title": "Chambres, espace BDSM, discothèque : non confirmés",
-          "body": "L'ancienne version de cette fiche annonçait chambres, hébergement, espace BDSM et discothèque. Le site du club n'en montre rien : des DJ, des après-midi Fetish et une tenue fétichiste admise selon appréciation, mais aucun espace dédié, et des hôtels voisins pour dormir."
         }
       ],
       "sources": [
         "s2",
+        "s10",
+        "s22",
+        "s24",
+        "s26"
+      ]
+    },
+    {
+      "id": "cabines-et-piste",
+      "title": "Balançoires et glory hole décrits en 2023, piste de danse le samedi soir",
+      "icon": "flame",
+      "summary": "Coins câlins, cabines et backroom selon le club ; balançoires, labyrinthe et glory hole selon un média partenaire en 2023 ; on danse le vendredi et le samedi soir.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "La page de visite annonce des « coins câlins, cabines et backroom », sans plus de détail. En juin 2023, le média gay Jock Life, partenaire affiché du club, y décrivait de nombreuses cabines privées avec balançoires, labyrinthe et glory hole, ainsi qu'une grande terrasse couverte."
+        },
+        {
+          "kind": "text",
+          "body": "Le soir, le bar lounge « se mue en discothèque » le vendredi et surtout le samedi, selon le Petit Futé ; trois avis publiés entre 2022 et 2025 évoquent une piste de danse, jugée petite par l'un d'eux en 2023.\n\nUne consigne de mars 2022, toujours en ligne, mentionne casier à clé, serviettes, paréos et tongs fournis : à confirmer sur place."
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Chambres à thème, espace BDSM : non confirmés",
+          "body": "Le club ne montre ni chambre à thème ni espace BDSM : des après-midi Fetish et une tenue fétichiste admise selon appréciation, sans espace dédié. Un avis de 2022 compte 21 chambres, dont certaines à thème : rien ne le confirme."
+        }
+      ],
+      "sources": [
+        "s6",
         "s8",
         "s10",
-        "s12",
         "s14",
-        "s22",
-        "s24"
+        "s28",
+        "s29",
+        "s30"
       ]
     },
     {
@@ -589,6 +620,30 @@
       ]
     },
     {
+      "id": "avis-petit-fute-pagesjaunes",
+      "title": "Jacuzzi salué, musique jugée trop forte : 16 avis lus de 2017 à 2026",
+      "icon": "star",
+      "summary": "Le 19 octobre 2026 : 3,7/5 sur 9 avis au Petit Futé, 2/5 sur PagesJaunes (4 avis récents notés, 7 en tout) ; balnéo et accueil salués, musique, boissons et hygiène critiqués.",
+      "blocks": [
+        {
+          "kind": "list",
+          "items": [
+            "**Salués** : la balnéo et la taille du jacuzzi (avis de 2017 à 2025), l'accueil de l'équipe (de 2017 à 2026), les week-ends à thème (2022).",
+            "**Critiqués** : la musique, « du bruit » en 2023 et trop forte en mars 2026, le prix des boissons (trois avis de novembre 2023), l'hygiène (deux avis du même mois), trop d'hommes seuls face aux couples (2018 et 2023)."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "PagesJaunes ne calcule sa note que sur les avis de moins de quatre ans : quatre des sept, dont trois à 1/5. Un annuaire relaie une note Google de 4,1/5 sur 396 avis, sans dater son relevé ; nous ne l'avons pas vérifiée."
+        }
+      ],
+      "sources": [
+        "s28",
+        "s29",
+        "s31"
+      ]
+    },
+    {
       "id": "acces-hotels-clubs-voisins",
       "title": "Tram 1 puis bus 85 ou 87, Ibis Budget à moins de 500 m",
       "icon": "map",
@@ -625,7 +680,7 @@
         },
         {
           "kind": "text",
-          "body": "La page n'est pas datée : vérifiez les lignes sur le réseau TAN."
+          "body": "La page n'est pas datée : vérifiez les lignes sur le réseau TAN.\n\nEn voiture, le site de 2017 situait le club près de la porte de Carquefou du périphérique nantais. Un avis d'octobre 2017 signalait un parking à l'intérieur et des places le long de la route ; la page d'accès actuelle n'en dit rien."
         },
         {
           "kind": "list",
@@ -638,21 +693,23 @@
         },
         {
           "kind": "text",
-          "body": "Notre annuaire compte d'autres adresses alentour, dont les fiches n'ont pas encore été vérifiées comme celle-ci (distances à vol d'oiseau) :\n- [Le Guili's Club, à Carquefou](/guili-s-club-carquefou), à moins de 3 km ;\n- [L'Orchidée Noire](/l-orchidee-noire-nantes), à Nantes, à environ 7,7 km ;\n- [le 901 à Saint-Nazaire](/le-901-saint-nazaire), plus loin, à quelque 55 km, recensé comme sauna gay et libertin.\n\nLe reste est sur [la page Loire-Atlantique](/departement/loire-atlantique)."
+          "body": "Notre annuaire compte d'autres adresses alentour (distances à vol d'oiseau) :\n- [le Guili's Club, à Carquefou](/guili-s-club-carquefou), à moins de 3 km, club libertin dont l'agenda était encore mis à jour le 18 octobre 2026 ;\n- [L'Orchidée Noire](/l-orchidee-noire-nantes), à Nantes, à environ 7,7 km, dont la fiche n'a pas encore été vérifiée ;\n- plus loin, à quelque 55 km, [le 901 à Saint-Nazaire](/le-901-saint-nazaire), autre sauna gay et libertin du département, fermé : sa dernière soirée annoncée remonte au 31 décembre 2019.\n\nLe reste est sur [la page Loire-Atlantique](/departement/loire-atlantique)."
         }
       ],
       "sources": [
         "s12",
         "s13",
         "s23",
-        "s25"
+        "s25",
+        "s26",
+        "s28"
       ]
     },
     {
       "id": "histoire-sas-alpa",
-      "title": "De Couëron à la rue Gustave-Eiffel : le B4 depuis mars 2017",
+      "title": "Ouvert à la rentrée 2017, neuf ans fêtés le 12 septembre 2026",
       "icon": "history",
-      "summary": "Un fonds créé, et non repris, par la SAS ALPA en mars 2017 ; la date d'ouverture au public n'est écrite nulle part, l'anniversaire tombe à la mi-septembre.",
+      "summary": "Un fonds créé, et non repris, par la SAS ALPA en mars 2017 ; site archivé dès août, plus ancienne soirée archivée le 30 septembre 2017, neuf ans fêtés en 2026.",
       "blocks": [
         {
           "kind": "text",
@@ -664,6 +721,14 @@
             {
               "date": "Mars 2017",
               "text": "Début d'activité de la SAS ALPA le 4, immatriculation le 7, siège à Couëron."
+            },
+            {
+              "date": "Août 2017",
+              "text": "Plus ancienne capture du site : « votre nouveau sauna mixte et gay à Nantes », avec des tarifs « inaugurales »."
+            },
+            {
+              "date": "Septembre 2017",
+              "text": "Soirée mixte « Bouches gourmandes » le samedi 30, la plus ancienne archivée ; un avis Petit Futé raconte une visite en octobre."
             },
             {
               "date": "Octobre 2017",
@@ -682,28 +747,36 @@
               "text": "Élection du « couple B4 », ambassadeur pour un an, le 10."
             },
             {
+              "date": "Septembre 2025",
+              "text": "Huit ans fêtés le samedi 20 : soirée libertine sur prévente, complète."
+            },
+            {
               "date": "Février 2026",
               "text": "« Sexescape game » de la Saint-Valentin : 45 € par personne, groupes de 4 à 6."
+            },
+            {
+              "date": "Septembre 2026",
+              "text": "« Full Moon Night » des neuf ans le samedi 12 : réservation obligatoire, dress code argent, or, blanc ou noir."
             }
           ]
         },
         {
           "kind": "callout",
           "tone": "info",
-          "title": "Ouvert au public à la rentrée 2017 ?",
-          "body": "La date d'ouverture au public n'est écrite nulle part : établissement créé le 1er avril 2017 selon le registre, transfert du siège publié en octobre, anniversaire fêté à la mi-septembre. Une ouverture à la rentrée 2017 est plausible, pas démontrée."
+          "title": "Le jour exact de l'ouverture reste inconnu",
+          "body": "Aucune source ne donne le jour où les portes ont ouvert : le registre date l'établissement du 1er avril 2017, et le club fête ses anniversaires à la mi-septembre."
         }
       ],
       "sources": [
-        "s11",
-        "s15",
         "s16",
         "s17",
         "s19",
         "s20",
         "s21",
         "s22",
-        "s24"
+        "s26",
+        "s27",
+        "s28"
       ]
     },
     {
@@ -714,7 +787,7 @@
       "blocks": [
         {
           "kind": "text",
-          "body": "Sur la page de l'équipe, non datée, les deux créateurs du lieu se présentent par leurs prénoms, Alain et Patrice, et disent l'avoir « rêvé et imaginé » ensemble. Le second revendique vingt-cinq ans de nuits nantaises, « du Petit Marais à l'Aqua »."
+          "body": "Sur la page de l'équipe, non datée, les deux créateurs du lieu se présentent par leurs prénoms, Alain et Patrice, et disent l'avoir « rêvé et imaginé » ensemble. Le second revendique vingt-cinq ans de nuits nantaises, « du Petit Marais à l'Aqua ». Le registre recense un établissement à l'enseigne Aqua Sauna Club, quai de Turenne à Nantes, ouvert fin 2004 et fermé en octobre 2018 ; que ce soit l'« Aqua » évoqué, le club ne le précise pas."
         },
         {
           "kind": "list",
@@ -730,13 +803,10 @@
       "sources": [
         "s11",
         "s15",
-        "s16",
-        "s17",
-        "s19",
-        "s20",
         "s21",
         "s22",
-        "s24"
+        "s24",
+        "s32"
       ]
     }
   ],
@@ -767,13 +837,15 @@
       "Samedi soir libertin": "Couple 55 €, femme 10 €, homme 60 € (10 au plus, dès 21 h) ; repas chaud et cocktail offerts jusqu'à 22 h selon la grille (21 h 30 selon la page libertine)",
       "Soirée dimanche": "Couple 25 €, femme 10 €, homme 40 €, personne transgenre 15 €"
     },
-    "note": "Grilles officielles en image, non datées, lues le 16 octobre 2026. Le billet de l'après-midi permet de rester le soir sans supplément, en tenue de ville, du lundi au mercredi, le vendredi et le dimanche ; la grille du samedi ne le prévoit pas.",
+    "note": "Grilles officielles en image, non datées, lues le 16 octobre 2026. Le billet de l'après-midi permet de rester le soir sans supplément, en tenue de ville, du lundi au mercredi, le vendredi et le dimanche ; la grille du samedi ne le prévoit pas. Les prix relayés ailleurs sont souvent anciens : un avis de novembre 2023 et un annuaire de juillet 2025 donnent 50 € le couple le samedi.",
     "confidence": "confirme",
     "sources": [
       "s6",
       "s3",
       "s4",
-      "s8"
+      "s8",
+      "s28",
+      "s31"
     ]
   },
   "equipements": [
@@ -791,6 +863,24 @@
     "Backroom",
     "Mur de projection vidéo",
     "DJ en soirée"
+  ],
+  "externalRatings": [
+    {
+      "platform": "Petit Futé",
+      "rating": 3.7,
+      "scale": 5,
+      "count": 9,
+      "date": "2026-10-19",
+      "url": "https://www.petitfute.com/v27668-sainte-luce-sur-loire-44980/c9998-coquin/c1044-s-amuser-sortir/c208-sauna/1622674-before-sauna-club/tous-les-avis.html"
+    },
+    {
+      "platform": "PagesJaunes (avis de moins de 4 ans)",
+      "rating": 2,
+      "scale": 5,
+      "count": 4,
+      "date": "2026-10-19",
+      "url": "https://www.pagesjaunes.fr/pros/57142913"
+    }
   ],
   "officialLinks": [
     {
@@ -833,15 +923,15 @@
   "faq": [
     {
       "question": "Le B4 (Before Sauna Club) est-il ouvert en 2026 ?",
-      "answer": "Oui. Le 16 octobre 2026, son agenda annonçait des soirées jusqu'au 31 octobre, et la SAS ALPA qui l'exploite était active au registre. Le club se dit ouvert tous les jours, jours fériés compris."
+      "answer": "Oui. Le 19 octobre 2026, son agenda annonçait des soirées jusqu'au 31 octobre, cinq semaines après la soirée de ses neuf ans, et la SAS ALPA qui l'exploite était active au registre. Le club se dit ouvert tous les jours, jours fériés compris."
     },
     {
       "question": "Combien coûte l'entrée au Before Sauna Club ?",
-      "answer": "Une femme paie 10 € tous les soirs, un couple de 20 € (lundi à mercredi) à 55 € (samedi), un homme seul de 40 à 60 €, une personne transgenre 15 € en toutes tendances. L'après-midi 100 % mecs coûte 12 € avant 30 ans, 18 € ensuite. Les grilles ne sont pas datées : vérifiez-les sur le site avant de venir."
+      "answer": "Une femme paie 10 € tous les soirs, un couple de 20 € (lundi à mercredi) à 55 € (samedi), un homme seul de 40 à 60 €, une personne transgenre 15 € en toutes tendances. L'après-midi 100 % mecs coûte 12 € avant 30 ans, 18 € ensuite. Les grilles ne sont pas datées et les prix relayés par d'autres sites sont plus anciens (50 € le couple le samedi en 2023) : vérifiez sur le site avant de venir."
     },
     {
       "question": "Un homme seul peut-il entrer à la soirée libertine du samedi ?",
-      "answer": "Oui, à partir de 21 h, pour 60 €, dans la limite de dix. Nos sources ne disent pas s'il faut réserver : appelez le 02 28 34 45 28. Les autres soirs, l'entrée homme coûte de 40 à 50 € ; les fiches de soirée d'octobre 2026 précisent toutes « hommes seuls sélectionnés »."
+      "answer": "Oui, à partir de 21 h, pour 60 €, dans la limite de dix. Pour un samedi ordinaire, nos sources ne disent pas s'il faut réserver : appelez le 02 28 34 45 28 ; les soirées d'anniversaire, elles, se font sur réservation. Les autres soirs, l'entrée homme coûte de 40 à 50 € ; les fiches de soirée d'octobre 2026 précisent toutes « hommes seuls sélectionnés »."
     },
     {
       "question": "Le B4 est-il un sauna gay ou un club libertin ?",
@@ -853,17 +943,23 @@
     },
     {
       "question": "Où voir des photos du Before Sauna Club ?",
-      "answer": "Sur la page « Visiter le club » du site officiel : 44 photos en cinq galeries, de l'entrée aux coins câlins. Nous n'en reproduisons aucune ; la section sur les espaces décrit ce que montre la galerie balnéo."
+      "answer": "Sur la page « Visiter le club » du site officiel : 44 photos en cinq galeries, de l'entrée aux coins câlins. Nous n'en reproduisons aucune ; la section sur la balnéo décrit ce que montre sa galerie."
+    },
+    {
+      "question": "Que disent les avis sur le B4 ?",
+      "answer": "Le 19 octobre 2026, le Petit Futé affichait 3,7/5 sur 9 avis et PagesJaunes 2/5, une note calculée sur ses 4 avis de moins de quatre ans (7 en tout) ; les 16 avis s'étalent de 2017 à 2026. La balnéo, le grand jacuzzi et l'accueil y sont salués ; la musique, le prix des boissons et, dans deux avis de 2023, l'hygiène sont critiqués. La note Google de 4,1/5 sur 396 avis relayée par un annuaire n'est pas datée."
     }
   ],
   "unverified": [
-    "La date d'ouverture au public : société créée en mars 2017, établissement enregistré en avril, anniversaire fêté à la mi-septembre.",
-    "La surface réelle : 750 m² selon le club, 550 m² selon la fiche du SNEG & Co.",
+    "Le jour exact de l'ouverture, à la rentrée 2017 : le site se disait « nouveau » à la mi-août, et le club fête ses anniversaires à la mi-septembre.",
+    "La surface réelle : 750 m² selon le club, 550 m² selon la fiche du SNEG & Co, dont 200 m² de balnéo selon le site de 2017.",
+    "Le nombre de cabines et l'existence de chambres à thème : un avis de 2022 en compte 21, le site du club n'en dit rien. L'hébergement, l'espace BDSM et la discothèque séparée que listaient d'anciens annuaires n'apparaissent dans aucune source officielle.",
+    "Le stationnement : seul un avis d'octobre 2017 mentionne un parking sur place.",
     "L'heure limite du repas et du cocktail offerts le samedi : 21 h 30 ou 22 h selon les pages du site.",
     "S'il faut réserver l'une des dix places d'homme seul du samedi, et si un homme venu avec un couple compte dans ce quota.",
     "Si les clients de l'après-midi peuvent rester le samedi entre 19 h et 20 h.",
     "La date d'entrée en vigueur des grilles tarifaires et de la carte du bar, toutes deux non datées.",
-    "Les notes et avis publics (Google, sites spécialisés) : aucun relevé à ce jour.",
+    "La note Google : un annuaire relaie 4,1/5 sur 396 avis sans dater son relevé, et nous ne l'avons pas consultée.",
     "La validité actuelle des lignes de bus 85 et 87 indiquées par le club.",
     "Le jour exact du rendez-vous Mousse : 1er dimanche du mois selon la grille, mais une fiche datée du samedi 4 avril 2026.",
     "Les critères de la sélection des hommes seuls, annoncée sur toutes les fiches de soirée d'octobre 2026.",
@@ -889,7 +985,7 @@
       "label": "Site officiel : ambiance libertins et agenda d'octobre 2026",
       "url": "https://www.before-sauna-club.com/libertins",
       "type": "officiel",
-      "consulted": "2026-10-16"
+      "consulted": "2026-10-19"
     },
     {
       "id": "s4",
@@ -1044,6 +1140,55 @@
       "url": "https://api-adresse.data.gouv.fr/search/?q=13+rue+gustave+eiffel+sainte-luce-sur-loire",
       "type": "carte",
       "consulted": "2026-10-16"
+    },
+    {
+      "id": "s26",
+      "label": "Site officiel, archives de 2017-2018 : accueil, « Le club », horaires et soirée du 30 septembre 2017",
+      "url": "https://web.archive.org/web/20170821131107/http://www.before-sauna-club.com/accueil",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s27",
+      "label": "Site officiel : soirées des 8 ans (20 septembre 2025) et des 9 ans (12 septembre 2026)",
+      "url": "https://www.before-sauna-club.com/event-details/full-moon-night-9-ans-du-b4",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s28",
+      "label": "Petit Futé : fiche et 9 avis de membres (2017-2026)",
+      "url": "https://www.petitfute.com/v27668-sainte-luce-sur-loire-44980/c9998-coquin/c1044-s-amuser-sortir/c208-sauna/1622674-before-sauna-club/tous-les-avis.html",
+      "type": "avis",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s29",
+      "label": "PagesJaunes : fiche Before Sauna Club et 7 avis (2018-2026)",
+      "url": "https://www.pagesjaunes.fr/pros/57142913",
+      "type": "avis",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s30",
+      "label": "Jock Life, « Le B4 SAUNA CLUB (Nantes) fête la Marche des Fiertés », 8 juin 2023 (média partenaire du club, lu en archive)",
+      "url": "https://web.archive.org/web/20230608150428/https://www.jock.life/2023/06/08/le-b4-sauna-club-gay-nantes-marche-des-fiertes/",
+      "type": "presse",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s31",
+      "label": "Minuit Libertin : fiche B4 (annuaire ; tarifs relevés en juillet 2025, note Google relayée non datée)",
+      "url": "https://minuitlibertin.com/b4-nantes-before-sauna/",
+      "type": "annuaire",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s32",
+      "label": "Annuaire des entreprises : REMANO, enseigne Aqua Sauna Club, quai de Turenne à Nantes (établissement fermé en 2018)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/479850406",
+      "type": "registre",
+      "consulted": "2026-10-19"
     }
   ]
 }

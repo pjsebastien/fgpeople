@@ -97,6 +97,33 @@ ${depth === 'light' ? LIGHT : 'Recherche COMPLÈTE : un club documenté doit don
 N'écris aucun autre fichier.`
 }
 
+function complementPrompt(slug, published) {
+  const file = published ? `data/clubs/profiles/${slug}.json` : draftPath(slug)
+  return `${COMMON}
+
+Ta mission : la RECHERCHE COMPLÉMENTAIRE du club \`${slug}\`. Son dossier data/clubs/research/${slug}.md a été constitué sans recherche web (quota WebSearch épuisé le 16/10/2026) : il y manque ce que seule une recherche fait remonter (presse régionale, notes et avis publics, concurrence locale, annonces de fermeture ou de reprise, réseaux sociaux, ancien nom).
+${published ? 'La fiche est DÉJÀ PUBLIÉE' : 'La fiche est un brouillon'} : ${file}.
+
+1. Lis le dossier et la fiche. Charge WebSearch/WebFetch (ToolSearch "select:WebSearch,WebFetch").
+2. Lance au moins 6 requêtes WebSearch en mode extended, aux angles différents : « <nom> <ville> », « <nom> avis », « <nom> <ville> » + quotidien régional, « <nom> fermé / fermeture / reprise », « club libertin <ville> » (concurrence et alternatives), « <adresse> », et ce que le dossier liste en « pistes sans résultat ». Ouvre les résultats pertinents.
+3. Ajoute à la fin du dossier une section qui commence exactement par « ## Recherche complémentaire (${today}) » : requêtes lancées, nouvelles sources (numérotées à la suite des existantes), faits nouveaux avec niveau de confiance, et contradictions avec la fiche.
+4. Intègre dans la fiche les faits nouveaux utiles au visiteur (compléments, corrections, nouvelles sources, glance/highlights si pertinent). Un fait nouveau qui contredit la fiche (statut, adresse, tarifs) la corrige. Rien d'inventé ; respecte le playbook (lisibilité, liens partenaires inchangés sauf nécessité).
+5. Ajoute les lieux libertins nouveaux repérés et absents de notre base à data/clubs/research/${slug}.missing.json (\`node scripts/find-club.mjs\` pour vérifier).
+6. Valide : \`REQUIRE_SKIM=1 node scripts/build-club-profiles.mjs --check ${file}\` et \`node scripts/audit-club-profiles.mjs ${slug}\`.
+S'il n'y a vraiment rien de nouveau, écris-le dans la section du dossier (requêtes et résultats nuls) : c'est une information.
+Si WebSearch refuse plus de deux de tes requêtes (quota), intitule la section « ## Recherche complémentaire partielle (${today}) » : le club repassera plus tard pour les requêtes manquantes, que tu listes.`
+}
+
+function verifyPublishedPrompt(slug) {
+  return `${COMMON}
+
+Ta mission : CONTRE-VÉRIFIER les ajouts faits aujourd'hui à la fiche PUBLIÉE data/clubs/profiles/${slug}.json par une recherche complémentaire (section « ## Recherche complémentaire » à la fin de data/clubs/research/${slug}.md). Tu es un contradicteur.
+1. Repère ce qui a changé dans la fiche (\`git diff -- data/clubs/profiles/${slug}.json\`).
+2. Rouvre les sources de chaque fait ajouté ou modifié. Une source qui ne dit pas ce que la fiche lui attribue → corrige ou supprime ; un fait douteux → requalifie (a_verifier + réserve).
+3. Vérifie que les ajouts respectent le playbook (lisibilité, pas de formule creuse, liens partenaires corrects).
+4. Valide : \`REQUIRE_SKIM=1 node scripts/build-club-profiles.mjs --check data/clubs/profiles/${slug}.json\` et \`node scripts/audit-club-profiles.mjs ${slug}\` sans erreur ni alerte.`
+}
+
 function qualifyPrompt(c, key) {
   return `${COMMON}
 
@@ -163,6 +190,12 @@ const results = await pipeline(
       if (!q || q.decision !== 'added' || !q.slug) return { ...it, stop: q ? `écarté : ${q.reason}` : 'qualification échouée' }
       return { ...it, slug: q.slug, from: 'write', added: true }
     }
+    if (it.from === 'complement' || it.from === 'complement-published') {
+      const published = it.from === 'complement-published'
+      const c = await agent(complementPrompt(it.slug, published), { label: `complément:${label}`, phase: 'Recherche', schema: DONE })
+      if (!c) return { ...it, stop: 'recherche complémentaire échouée' }
+      return { ...it, from: published ? 'verify-published' : it.hasDraft ? 'verify' : 'write' }
+    }
     if (it.from === 'research') {
       const r = await agent(researchPrompt(it.slug, it.depth), { label: `recherche:${label}`, phase: 'Recherche', schema: RESEARCH })
       if (!r) return { ...it, stop: 'recherche échouée' }
@@ -179,6 +212,10 @@ const results = await pipeline(
   },
   // Étape 3 : vérification, reprise si nécessaire, verdict enregistré sur disque.
   async (it) => {
+    if (!it.stop && it.from === 'verify-published') {
+      const v = await agent(verifyPublishedPrompt(it.slug), { label: `vérif-publiée:${it.slug}`, phase: 'Vérification', schema: DONE, effort: 'high' })
+      return v ? { ...it, published: true } : { ...it, stop: 'vérification de la fiche publiée échouée' }
+    }
     if (it.stop || it.from !== 'verify') return it
     let v = await agent(verifyPrompt(it.slug, false), { label: `vérif:${it.slug}`, phase: 'Vérification', schema: VERIFY, effort: 'high' })
     if (!v) return { ...it, stop: 'vérification échouée' }

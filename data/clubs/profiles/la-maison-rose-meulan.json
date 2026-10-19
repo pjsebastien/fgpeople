@@ -1,36 +1,38 @@
 {
   "slug": "la-maison-rose-meulan",
   "clubId": "15191",
-  "researchedAt": "2026-10-16",
+  "researchedAt": "2026-10-19",
   "display": {
     "nom": "La Maison Rose",
     "ville": "Meulan-en-Yvelines"
   },
   "status": {
     "value": "ferme",
-    "summary": "Le tribunal de commerce de Versailles a prononcé le 30 mai 2017 la liquidation judiciaire de La Rose de Meulan, la SARL qui exploitait La Maison Rose, puis l'a clôturée pour insuffisance d'actif le 12 décembre 2017. Le BODACC ne publie depuis aucune reprise du nom ni du fonds. En 2022, une société de bar et de club dancing s'est immatriculée à la même adresse en déclarant la création de son propre fonds, sans rien racheter au club.",
+    "summary": "Le dernier programme publié sur le site du club menait à une soirée Halloween, le 31 octobre 2016. Le tribunal de commerce de Versailles a ensuite fixé au 20 décembre 2016 la cessation des paiements de La Rose de Meulan, la SARL qui exploitait La Maison Rose, prononcé sa liquidation le 30 mai 2017, puis l'a clôturée pour insuffisance d'actif le 12 décembre 2017. En mai 2017, le site du club n'affichait plus qu'une page en panne, et le BODACC ne publie depuis aucune reprise du nom ni du fonds.",
     "sources": [
+      "s34",
+      "s7",
       "s8",
       "s9",
       "s5",
-      "s23",
-      "s10",
-      "s11"
+      "s39",
+      "s23"
     ]
   },
   "seo": {
     "title": "La Maison Rose à Meulan : club libertin fermé, liquidé en 2017",
-    "metaDescription": "Ouverte en décembre 2013 au 2 rue Gustave Ravanne, La Maison Rose a été liquidée en mai 2017. Dates du registre, salles annoncées, clubs proches dès 16 km.",
-    "subtitle": "Club libertin ouvert fin 2013 dans le centre de Meulan-en-Yvelines (78), liquidé en 2017",
+    "metaDescription": "Ouverte le 9 mars 2013 à Meulan, La Maison Rose a publié son dernier programme en octobre 2016, avant sa liquidation en 2017. Tarifs, soirées, clubs proches.",
+    "subtitle": "Club libertin ouvert en mars 2013 dans le centre de Meulan-en-Yvelines (78), liquidé en 2017",
     "targetQueries": [
       "la maison rose meulan",
       "club libertin meulan",
       "la maison rose club libertin",
       "club libertin yvelines",
-      "club libertin 78"
+      "club libertin 78",
+      "la maison rose meulan tarifs"
     ]
   },
-  "lead": "D'après le registre du commerce, La Maison Rose n'a pu fonctionner que trois ans et demi au plus. La société qui l'exploitait au 2 rue Gustave Ravanne, dans le centre de Meulan-en-Yvelines, a déclaré son début d'activité le 1er décembre 2013, cessé ses paiements en décembre 2016 et été liquidée le 30 mai 2017. Sans site connu ni tarif retrouvé, nous n'avons trouvé du club que ces traces au registre et une annonce rédigée avant son ouverture.",
+  "lead": "Présentée par Le Parisien comme le premier club échangiste des Yvelines, La Maison Rose a ouvert le 9 mars 2013 au 2 rue Gustave Ravanne, dans le centre de Meulan-en-Yvelines, puis a rouvert en décembre 2013 sous une nouvelle société. En octobre 2016, son site annonçait encore un thème chaque vendredi et samedi, avec l'entrée couple à 40 €. La société exploitante a été liquidée le 30 mai 2017, et le club n'existe plus.",
   "glance": [
     {
       "icon": "closed",
@@ -40,7 +42,12 @@
     {
       "icon": "history",
       "label": "Période d'activité",
-      "value": "De décembre 2013 à mai 2017 au plus"
+      "value": "De mars 2013 à oct. 2016 (dernier programme)"
+    },
+    {
+      "icon": "euro",
+      "label": "Dernière entrée couple",
+      "value": "40 € avec 2 consommations (2015-2016)"
     },
     {
       "icon": "map",
@@ -56,19 +63,38 @@
       "icon": "heart",
       "label": "Club le plus proche",
       "value": "The Strip (95), à 16,5 km"
+    }
+  ],
+  "audience": [
+    {
+      "who": "couples",
+      "status": "oui",
+      "detail": "Vendredi et samedi, 2 consommations comprises ; un soir gratuit par mois en 2015-2016",
+      "price": "40 € (60 € en 2014)"
     },
     {
-      "icon": "info",
-      "label": "Site, tarifs, photos",
-      "value": "Aucun retrouvé"
+      "who": "femmes",
+      "status": "oui",
+      "detail": "Une consommation obligatoire en 2015-2016 ; 12 € avec une consommation en 2014"
+    },
+    {
+      "who": "hommes",
+      "status": "selon",
+      "detail": "Admis selon la fréquentation des couples et des femmes ; 2 consommations comprises",
+      "price": "60 € (80 € en 2014)"
+    },
+    {
+      "who": "trans",
+      "status": "oui",
+      "detail": "En septembre 2015, le club a répondu « bienvenue » à une personne travestie"
     }
   ],
   "highlights": [
-    "La Maison Rose n'existe plus : son exploitant a été liquidé en mai 2017, et aucune reprise du nom ni du fonds n'a été publiée depuis.",
-    "L'annuaire qui la présente encore en 2026 comme le seul club des Yvelines reprend une annonce d'octobre 2013, jamais modifiée depuis.",
-    "Le portable et l'adresse Hotmail publiés en 2013 n'ont pas pu être testés : ils ne mènent sans doute plus au club.",
-    "Aucun autre club recensé dans les Yvelines : les plus proches sont The Strip (16,5 km) et Club 46 (25,7 km), dans le Val-d'Oise.",
-    "Aucune source ne mentionne de spa, de sauna ni de jacuzzi : pour la détente, l'annonce de 2013 citait une table de massage, dans la Zen Room."
+    "La Maison Rose n'existe plus : son dernier programme publié date d'octobre 2016 et son exploitant a été liquidé le 30 mai 2017.",
+    "Le domaine maison-rose.fr, cité par Le Parisien en 2013, n'appartient plus au club : dès mai 2014, il renvoyait vers des sites de rencontres sans rapport.",
+    "Le portable en 06 52 diffusé par un annuaire en 2013 n'apparaît sur aucune page archivée des sites du club, qui donnaient d'autres numéros.",
+    "Aucun autre club recensé dans les Yvelines : le plus proche, The Strip (16,5 km, Val-d'Oise), annonce des soirées jusqu'en décembre 2026.",
+    "Aucun spa ni sauna annoncé : le club offrait 200 m², deux douches à l'italienne, un fumoir et cinq espaces câlins privatisables."
   ],
   "keyFacts": [
     {
@@ -82,7 +108,18 @@
       ]
     },
     {
-      "label": "Exploitant",
+      "label": "Ouverture",
+      "value": "9 mars 2013 ; nouvelle société exploitante à partir du 1er décembre 2013",
+      "confidence": "confirme",
+      "sources": [
+        "s28",
+        "s27",
+        "s25",
+        "s5"
+      ]
+    },
+    {
+      "label": "Exploitant de 2013 à 2017",
       "value": "SARL La Rose de Meulan (SIREN 798 045 035), nom commercial « La Maison Rose »",
       "confidence": "confirme",
       "sources": [
@@ -100,84 +137,252 @@
       ]
     },
     {
-      "label": "Début d'activité",
-      "value": "1er décembre 2013",
-      "confidence": "confirme",
-      "sources": [
-        "s5",
-        "s6"
-      ]
-    },
-    {
       "label": "Adresse",
       "value": "2 rue Gustave Ravanne, 78250 Meulan-en-Yvelines",
       "confidence": "confirme",
       "sources": [
         "s5",
         "s6",
-        "s21"
+        "s21",
+        "s30"
       ]
     },
     {
-      "label": "Jours annoncés en 2013",
-      "value": "Vendredi, samedi et veilles de jours fériés",
+      "label": "Surface et espaces",
+      "value": "200 m², cinq espaces câlins privatisables, deux douches à l'italienne",
       "confidence": "source_unique",
       "sources": [
-        "s2"
+        "s30"
       ]
     },
     {
-      "label": "Tenue demandée en 2013",
-      "value": "« Sexy et glamour » pour elle, « chic » pour lui",
-      "confidence": "source_unique",
+      "label": "Jours et horaires",
+      "value": "Vendredi et samedi, de 22 h à 5 h (2013-2016)",
+      "confidence": "confirme",
       "sources": [
-        "s2"
+        "s29",
+        "s31",
+        "s32"
       ]
     },
     {
-      "label": "Tarifs",
-      "value": "Aucun dans l'annonce de 2013, seule description retrouvée",
+      "label": "Dernière grille connue",
+      "value": "Couple 40 €, homme seul 60 € (2 consommations comprises), femme une consommation",
+      "confidence": "confirme",
+      "sources": [
+        "s32",
+        "s48",
+        "s37"
+      ]
+    },
+    {
+      "label": "Dernière soirée annoncée",
+      "value": "« Sexy Halloween », le 31 octobre 2016",
       "confidence": "source_unique",
       "sources": [
-        "s1",
-        "s2"
+        "s34"
       ]
     },
     {
       "label": "Site officiel",
-      "value": "Aucun connu",
+      "value": "maisonroseclub.fr de 2013 à 2016, hors service depuis 2017",
       "confidence": "confirme",
       "sources": [
-        "s1",
-        "s20"
-      ]
-    },
-    {
-      "label": "Facebook",
-      "value": "Profil « Rose Lamaison » toujours en ligne en octobre 2026, contenu réservé aux membres connectés",
-      "confidence": "source_unique",
-      "sources": [
-        "s24"
+        "s34",
+        "s39",
+        "s44"
       ]
     }
   ],
   "sections": [
     {
-      "id": "liquidation-2017",
-      "title": "Ouverte le 1er décembre 2013, liquidée le 30 mai 2017",
-      "icon": "closed",
-      "summary": "Début d'activité le 1er décembre 2013, cessation des paiements le 20 décembre 2016, liquidation le 30 mai 2017 : la date de la dernière soirée reste inconnue.",
+      "id": "ouverture-9-mars-2013",
+      "title": "Annoncée pour septembre 2012, ouverte le 9 mars 2013, rouverte en décembre 2013",
+      "icon": "history",
+      "summary": "Annoncée dès l'été 2012, La Maison Rose a ouvert le 9 mars 2013, saluée par Le Parisien comme le premier club échangiste des Yvelines, puis a rouvert en décembre 2013.",
       "blocks": [
         {
           "kind": "timeline",
           "items": [
             {
-              "date": "30 octobre 2013",
-              "text": "Le BODACC publie la création de la SARL La Rose de Meulan (capital de 1 000 €), nom commercial « La Maison Rose », pour une activité de discothèque, dancing et cabaret. L'annonce du club sur un annuaire libertin est archivée pour la première fois le même jour."
+              "date": "14 août 2012",
+              "text": "Un blog libertin annonce l'inauguration pour le 15 septembre 2012. Le club n'a pas encore de site, seulement une page Facebook et un portable. Un annuaire spécialisé le référence dès septembre, avec son adresse Hotmail."
+            },
+            {
+              "date": "9 mars 2013",
+              "text": "Ouverture annoncée par le premier site du club, maison-rose.fr. Le 17 mars, une blogueuse présente à l'inauguration écrit que « cette fois-ci c'est la bonne », après plusieurs dates annoncées en deux ans."
+            },
+            {
+              "date": "30 mars 2013",
+              "text": "Le Parisien consacre un article à ce « premier club échangiste du département », ouvert tous les week-ends dans une ancienne discothèque fermée depuis plusieurs années."
+            },
+            {
+              "date": "Octobre 2013",
+              "text": "Le site maison-rose.fr renvoie vers une nouvelle adresse, maisonroseclub.fr. Le 30 octobre, le BODACC publie la création de la SARL La Rose de Meulan (capital de 1 000 €), nom commercial « La Maison Rose », pour une activité de discothèque, dancing et cabaret."
             },
             {
               "date": "1er décembre 2013",
-              "text": "Début d'activité déclaré au registre."
+              "text": "Début d'activité de La Rose de Meulan. Fin décembre, la même blogueuse signale un club « ré-ouvert par de nouveaux propriétaires »."
+            }
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Avant décembre 2013, le club a donc connu une première exploitation, dont la durée n'est pas documentée. Le 9 mars 2013 est aussi la date de début d'activité déclarée par la SARL Pink Club, immatriculée fin février 2013 à la même adresse."
+        },
+        {
+          "kind": "text",
+          "body": "Cette société a ensuite déclaré avoir cessé toute activité le 31 mars 2013. La coïncidence suggère qu'elle a porté les premières semaines du club, mais aucun document consulté ne l'écrit."
+        }
+      ],
+      "sources": [
+        "s26",
+        "s40",
+        "s28",
+        "s27",
+        "s25",
+        "s44",
+        "s6",
+        "s5",
+        "s15",
+        "s24"
+      ],
+      "confidence": "confirme"
+    },
+    {
+      "id": "entree-et-regles-2013-2016",
+      "title": "Couple à 40 €, homme seul à 60 € en 2016 : l'entrée et ses règles depuis 2013",
+      "icon": "euro",
+      "summary": "Le club ouvrait le vendredi et le samedi de 22 h à 5 h. Ses prix ont baissé entre l'automne 2014 et février 2015, et les hommes seuls n'entraient que selon la fréquentation des couples et des femmes.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Entre octobre 2014 et février 2015, l'entrée couple est passée de 60 à 40 € et celle de l'homme seul de 80 à 60 €, deux consommations comprises ; cette grille est restée en place jusqu'en octobre 2016. La femme seule, qui payait 12 € en 2014, ne devait plus qu'une consommation."
+        },
+        {
+          "kind": "list",
+          "title": "Les règles affichées par le club",
+          "items": [
+            "**Hommes seuls** : admis « sous réserve de la fréquentation des couples et des femmes », le club se réservant le droit d'entrée (2014-2016). En 2013, Le Parisien notait déjà qu'on y évitait la « surpopulation masculine ».",
+            "**Tenue** : « sexy et glamour » pour elle et « chic » pour lui dans l'annonce de 2013 ; en novembre 2015, une tenue élégante, sans jean ni baskets.",
+            "**Couples** : environ un soir par mois, l'entrée leur était offerte, parfois seulement avant 23 h ou 23 h 30, une consommation restant obligatoire (2015-2016).",
+            "**Personnes travesties** : en septembre 2015, le club a répondu à l'une d'elles qu'elle était « bienvenue dans notre établissement »."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "En avril 2013, sous la première exploitation, le vendredi était une « soirée pluralité », où l'homme seul payait 40 € et le couple 20 €. Le samedi, « soirée couples », coûtait 60 € au couple et 50 € à l'homme seul. La blogueuse venue à l'inauguration relevait d'autres montants, 60 € le couple et 80 € l'homme seul, qu'elle jugeait élevés pour un club de grande couronne."
+        }
+      ],
+      "sources": [
+        "s29",
+        "s31",
+        "s32",
+        "s33",
+        "s48",
+        "s37",
+        "s25",
+        "s1",
+        "s27"
+      ],
+      "confidence": "confirme"
+    },
+    {
+      "id": "200-m2-au-bas-de-l-escalier",
+      "title": "200 m² au bas d'un escalier : cinq espaces câlins, deux douches à l'italienne, un fumoir",
+      "icon": "building",
+      "summary": "Une porte discrète, un escalier qui descend, puis 200 m² : bar, piste avec barres de pole dance, fumoir, espace VIP, cinq espaces câlins et deux douches à l'italienne.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "En mars 2013, Le Parisien décrivait une entrée discrète, un vigile qui indique l'escalier, puis une piste de danse et des coins câlins en dédale. Le club occupait une ancienne discothèque fermée depuis plusieurs années."
+        },
+        {
+          "kind": "list",
+          "title": "Ce que le club annonçait en 2014",
+          "items": [
+            "200 m² ;",
+            "un bar et une piste de danse, avec des barres de pole dance ;",
+            "cinq espaces câlins privatisables et un espace VIP ;",
+            "deux douches à l'italienne ;",
+            "un fumoir."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "La blogueuse présente à l'inauguration ajoutait un décor rose, blanc et noir, des matelas roses et des murs capitonnés de blanc. La piste, face à la cabine du DJ, était carrelée ; les coins câlins étaient ouverts, sauf un canapé isolé par un rideau de fils. Aucune restauration n'était proposée."
+        },
+        {
+          "kind": "text",
+          "body": "Le club se disait à 25 minutes de Paris par l'A13, avec un parking public à quelques mètres. Le même blog conseillait le parking de l'Aubette, en bord de Seine, gratuit le soir. Aucune source ne mentionne de spa, de sauna ni de jacuzzi."
+        }
+      ],
+      "sources": [
+        "s25",
+        "s30",
+        "s38",
+        "s27"
+      ],
+      "confidence": "source_unique"
+    },
+    {
+      "id": "agenda-2014-2016",
+      "title": "Barbe à papa, Infirmières, Topless : un thème chaque vendredi et samedi jusqu'en octobre 2016",
+      "icon": "calendar",
+      "summary": "Un thème chaque vendredi et samedi, des soirées trio ou masquées, l'entrée offerte aux couples environ un soir par mois, et un réveillon 2014 à 70 € le couple.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "De 2014 à octobre 2016, le site maisonroseclub.fr annonçait ses soirées à thème, d'abord une par une, puis, à partir d'avril 2015, dans un programme mensuel qui donnait un thème à chaque vendredi et samedi. Certains revenaient souvent :"
+        },
+        {
+          "kind": "list",
+          "items": [
+            "**Tenues** : Infirmières, Topless, Sexy sous-vêtements, White (tout en blanc), Bikini party ;",
+            "**Formules** : Barbe à papa, soirée trio, soirée masquée (masques fournis par le club), « Amours saphiques », « Femmes Bi » ;",
+            "**Pour les couples** : entrée offerte environ un soir par mois, open bar jusqu'à minuit en avril 2015 ;",
+            "**Spectacle** : un transformiste, le samedi 14 novembre 2015."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Pour le réveillon du 31 décembre 2014, le club promettait champagne et buffet dînatoire, en tenue de soirée, à 70 € le couple, 80 € l'homme seul et 20 € la femme seule. Le samedi 21 mars 2015, une soirée était organisée en partenariat avec le site Place Libertine."
+        },
+        {
+          "kind": "text",
+          "body": "En juin 2016, le club a annoncé des ouvertures le mercredi et le dimanche après-midi ; en octobre, il précisait qu'elles se faisaient sur réservation uniquement. Le dimanche, le lieu pouvait aussi être privatisé."
+        }
+      ],
+      "sources": [
+        "s33",
+        "s34",
+        "s35",
+        "s36",
+        "s31",
+        "s32"
+      ],
+      "confidence": "confirme"
+    },
+    {
+      "id": "liquidation-2017",
+      "title": "Halloween le 31 octobre 2016, liquidation le 30 mai 2017",
+      "icon": "closed",
+      "summary": "Le dernier programme publié menait au 31 octobre 2016 ; le tribunal a fixé la cessation des paiements au 20 décembre 2016 et prononcé la liquidation le 30 mai 2017.",
+      "blocks": [
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "7 octobre 2016",
+              "text": "Dernier programme mensuel publié : un thème chaque vendredi et samedi, de « Le plus beau couple » le 7 à « Halloween » le 29."
+            },
+            {
+              "date": "23 octobre 2016",
+              "text": "Dernière réponse datée du club sur son site, à propos des après-midi sur réservation."
+            },
+            {
+              "date": "31 octobre 2016",
+              "text": "Dernière soirée annoncée, « Sexy Halloween »."
             },
             {
               "date": "20 décembre 2016",
@@ -186,6 +391,10 @@
             {
               "date": "18 avril 2017",
               "text": "Le tribunal de commerce de Versailles ouvre un redressement judiciaire."
+            },
+            {
+              "date": "Mai 2017",
+              "text": "La page d'accueil du site n'affiche plus que du code informatique brut."
             },
             {
               "date": "30 mai 2017",
@@ -200,104 +409,43 @@
         {
           "kind": "callout",
           "tone": "info",
-          "title": "Des dates de procédure, pas de soirées",
-          "body": "Aucun document consulté ne dit quand le club a reçu ses derniers clients."
+          "title": "Une soirée annoncée, pas une fermeture constatée",
+          "body": "Le 31 octobre 2016 est la dernière date publiée par le club. Aucun document consulté ne dit quand il a reçu ses derniers clients."
         },
         {
           "kind": "text",
-          "body": "Depuis la liquidation, ni le registre ni le BODACC ne montrent de société, d'enseigne ou de fonds « Maison Rose » à Meulan."
+          "body": "Depuis la liquidation, ni le registre ni le BODACC ne montrent de société, d'enseigne ou de fonds « Maison Rose » à Meulan. Le domaine maisonroseclub.fr n'est plus enregistré, pas plus que des variantes comme lamaisonroseclub.fr."
+        },
+        {
+          "kind": "text",
+          "body": "Le premier domaine du club, maison-rose.fr, renvoyait dès mai 2014 vers un site de rencontres. Réenregistré en octobre 2015, il n'a plus aucun lien avec La Maison Rose."
         }
       ],
       "sources": [
-        "s2",
-        "s5",
-        "s6",
+        "s34",
+        "s35",
         "s7",
         "s8",
         "s9",
+        "s5",
+        "s39",
         "s19",
-        "s23"
+        "s23",
+        "s20",
+        "s41",
+        "s42"
       ],
       "confidence": "confirme"
     },
     {
-      "id": "clubs-a-16-km",
-      "title": "The Strip à 16,5 km, Club 46 à 25,7 km, Paris à 32 km : les clubs autour de Meulan",
-      "icon": "map",
-      "summary": "Aucun autre club recensé dans les Yvelines : les plus proches sont The Strip à 16,5 km et Club 46 à 25,7 km, dans le Val-d'Oise, puis les Hauts-de-Seine et Paris.",
-      "blocks": [
-        {
-          "kind": "text",
-          "body": "Notre annuaire ne compte aucun autre club dans les Yvelines. Voici les adresses les plus proches que nous recensons :"
-        },
-        {
-          "kind": "table",
-          "caption": "Distances à vol d'oiseau, du 2 rue Gustave Ravanne au centre de chaque commune",
-          "headers": [
-            "Club",
-            "Commune",
-            "Distance"
-          ],
-          "rows": [
-            [
-              "[The Strip](/the-strip-saint-ouen-l-aumone)",
-              "Saint-Ouen-l'Aumône (Val-d'Oise)",
-              "16,5 km"
-            ],
-            [
-              "[Club 46](/club-46-argenteuil)",
-              "Argenteuil (Val-d'Oise)",
-              "25,7 km"
-            ],
-            [
-              "[Le Roi René](/le-roi-rene-ville-d-avray)",
-              "Ville-d'Avray (Hauts-de-Seine)",
-              "28,4 km"
-            ],
-            [
-              "[La Caverne de Vénus](/la-caverne-de-venus-boulogne-billancourt)",
-              "Boulogne-Billancourt (Hauts-de-Seine)",
-              "30,8 km"
-            ],
-            [
-              "[Les clubs parisiens](/ville/paris)",
-              "Paris, à partir du 17e arrondissement",
-              "31,9 km"
-            ],
-            [
-              "[Le Passion](/le-passion-gravigny)",
-              "Gravigny (Eure), côté Normandie",
-              "54,3 km"
-            ]
-          ]
-        },
-        {
-          "kind": "callout",
-          "tone": "info",
-          "body": "Nous n'avons pas vérifié le programme de ces lieux pour ce dossier : lisez leur fiche avant de prendre la route. [Les clubs du Val-d'Oise](/departement/val-d-oise) sont regroupés sur une page dédiée."
-        },
-        {
-          "kind": "text",
-          "body": "Faute de club recensé dans les Yvelines, vous pouvez faire connaissance en ligne avant un premier rendez-vous en club. Carré Libertin, ouvert en 2007 et qui revendique plus de 500 000 inscrits, donne aux femmes et aux couples un accès complet gratuit, contre trois photos de profil : de quoi [lancer une recherche de couples autour de Meulan](aff:carre-libertin) sans abonnement."
-        }
-      ],
-      "sources": [
-        "s21"
-      ]
-    },
-    {
-      "id": "salles-annoncees-2013",
-      "title": "Movies Room, Zen Room, X Room : le club tel qu'il s'annonçait en 2013",
+      "id": "annonce-2013-annuaire",
+      "title": "Movies Room, Zen Room, X Room : l'annonce de 2013 qu'un annuaire affiche encore",
       "icon": "sparkles",
-      "summary": "La seule description retrouvée, une annonce de 2013, promettait cinq salles, dont une Movies Room pour filmer ses propres vidéos, un bar, un fumoir et des barres de pole dance.",
+      "summary": "Un annuaire reprend toujours une annonce de 2013 qui promettait cinq salles, dont une Movies Room pour filmer ses propres vidéos ; le site de 2014 n'en parle plus.",
       "blocks": [
         {
           "kind": "text",
-          "body": "Le seul descriptif du club que nous ayons retrouvé est une annonce sur un annuaire spécialisé, archivée pour la première fois le 30 octobre 2013, un mois avant l'ouverture. Écrite à la première personne du pluriel, elle vient vraisemblablement du club. Son texte est identique sur les captures de 2013, 2016 et 2026."
-        },
-        {
-          "kind": "text",
-          "body": "Elle décrivait un lieu de rencontre privé pour adultes consentants, avec une entrée discrète sur une rue à sens unique du centre de Meulan, et le divisait en cinq espaces :"
+          "body": "Cette annonce, archivée dès le 30 octobre 2013 sur un annuaire spécialisé, reprend des passages du premier site du club, celui de mars 2013 : même « petite porte discrète » dans une rue à sens unique. Rédigée au futur, elle n'a jamais été mise à jour. Elle divisait le club en cinq espaces :"
         },
         {
           "kind": "list",
@@ -310,49 +458,8 @@
           ]
         },
         {
-          "kind": "list",
-          "title": "Également annoncés",
-          "items": [
-            "Un bar ;",
-            "Des barres de pole dance sur la piste ;",
-            "Un fumoir ;",
-            "Des salons privés et des banquettes ;",
-            "Des soirées à thème et des « Show Hot »."
-          ]
-        },
-        {
-          "kind": "callout",
-          "tone": "info",
-          "body": "Rien ne permet de dire si ce programme a été tenu. Aucune source ne mentionne de spa, de sauna ni de jacuzzi."
-        }
-      ],
-      "sources": [
-        "s1",
-        "s2",
-        "s3",
-        "s6"
-      ],
-      "confidence": "source_unique"
-    },
-    {
-      "id": "regles-annoncees-2013",
-      "title": "Vendredis, samedis, tenue « sexy et glamour » : les règles annoncées en 2013",
-      "icon": "calendar",
-      "summary": "L'annonce prévoyait d'ouvrir les vendredis, samedis et veilles de fériés, aux plus de 18 ans, en tenue « sexy et glamour » pour elle, « chic » pour lui, sans publier de tarif.",
-      "blocks": [
-        {
-          "kind": "list",
-          "items": [
-            "**Jours** : les vendredis, samedis et veilles de jours fériés, sans heure précise.",
-            "**Âge** : plus de 18 ans.",
-            "**Tenue** : « sexy et glamour » pour elle, « chic » pour lui.",
-            "**Tarifs et accès** : rien de publié, ni pour les couples, ni pour les femmes seules, ni pour les hommes seuls.",
-            "**Philosophie** : sensualité, séduction, savoir-vivre, simplicité, sécurité, cinq mots commençant par un S."
-          ]
-        },
-        {
           "kind": "text",
-          "body": "Le caractère libertin du lieu ne repose que sur cette annonce : au registre, la société déclarait une activité de discothèque, de dancing et de cabaret."
+          "body": "Le site de 2014 confirme le bar, les barres de pole dance, le fumoir et l'espace VIP, mais ne cite plus la Movies Room ni la Zen Room. Rien ne dit qu'elles aient fonctionné."
         },
         {
           "kind": "callout",
@@ -368,10 +475,113 @@
       "sources": [
         "s1",
         "s2",
+        "s3",
         "s4",
-        "s6"
+        "s28",
+        "s30"
       ],
       "confidence": "source_unique"
+    },
+    {
+      "id": "clubs-a-16-km",
+      "title": "The Strip à 16,5 km, soirées annoncées jusqu'en décembre 2026 : les clubs autour de Meulan",
+      "icon": "map",
+      "summary": "Aucun autre club recensé dans les Yvelines. Le plus proche, The Strip (16,5 km), publie des soirées jusqu'en décembre 2026 ; Club 46, à Argenteuil, est fermé.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Notre annuaire ne compte aucun autre club dans les Yvelines, et un annuaire spécialisé n'en trouvait pas davantage en août 2026. Voici les adresses les plus proches que nous recensons, avec leur activité quand nous l'avons vérifiée le 19 octobre 2026 :"
+        },
+        {
+          "kind": "table",
+          "caption": "Distances à vol d'oiseau, du 2 rue Gustave Ravanne au centre de chaque commune",
+          "headers": [
+            "Club",
+            "Commune",
+            "Distance",
+            "Activité"
+          ],
+          "rows": [
+            [
+              "[The Strip](/the-strip-saint-ouen-l-aumone)",
+              "Saint-Ouen-l'Aumône (Val-d'Oise)",
+              "16,5 km",
+              "Soirées annoncées jusqu'en décembre 2026"
+            ],
+            [
+              "[Club 46](/club-46-argenteuil), fermé",
+              "Argenteuil (Val-d'Oise)",
+              "25,7 km",
+              "Fermé : société cessée en octobre 2022"
+            ],
+            [
+              "[Le Roi René](/le-roi-rene-ville-d-avray)",
+              "Ville-d'Avray (Hauts-de-Seine)",
+              "28,4 km",
+              "Non vérifiée"
+            ],
+            [
+              "[La Récréation, ex-Caverne de Vénus](/la-caverne-de-venus-boulogne-billancourt)",
+              "Boulogne-Billancourt (Hauts-de-Seine)",
+              "30,8 km",
+              "Livre d'or daté d'octobre 2026"
+            ],
+            [
+              "[Les clubs parisiens](/ville/paris)",
+              "Paris, à partir du 17e arrondissement",
+              "31,9 km",
+              "Selon le club"
+            ],
+            [
+              "[Le Passion](/le-passion-gravigny)",
+              "Gravigny (Eure), côté Normandie",
+              "54,3 km",
+              "Non vérifiée"
+            ]
+          ]
+        },
+        {
+          "kind": "callout",
+          "tone": "info",
+          "body": "Lisez la fiche de chaque lieu avant de prendre la route, surtout pour ceux dont nous n'avons pas vérifié l'activité. [Les clubs du Val-d'Oise](/departement/val-d-oise) sont regroupés sur une page dédiée."
+        },
+        {
+          "kind": "text",
+          "body": "Faute de club recensé dans les Yvelines, vous pouvez faire connaissance en ligne avant un premier rendez-vous en club. Carré Libertin, ouvert en 2007 et qui revendique plus de 500 000 inscrits, donne aux femmes et aux couples un accès complet gratuit, contre trois photos de profil : de quoi [lancer une recherche de couples autour de Meulan](aff:carre-libertin) sans abonnement."
+        }
+      ],
+      "sources": [
+        "s21",
+        "s45",
+        "s46",
+        "s47",
+        "s43"
+      ]
+    },
+    {
+      "id": "echos-mars-2013",
+      "title": "Peu de clients, un accueil salué : les échos de mars 2013",
+      "icon": "star",
+      "summary": "En mars 2013, Le Parisien parlait de premiers visiteurs satisfaits mais peu nombreux ; une blogueuse saluait l'accueil et l'espace, et trouvait les prix élevés.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Selon Le Parisien, les premiers clients venaient du Vexin, de l'Oise et du Mantois ; ils étaient encore peu nombreux, et la gérante comptait sur le bouche-à-oreille."
+        },
+        {
+          "kind": "text",
+          "body": "La blogueuse venue à l'inauguration a salué l'accueil, la propreté, la surveillance de la salle et l'espace des coins câlins. Elle regrettait une ambiance absente, faute de monde, et des prix trop élevés pour un club de grande couronne."
+        },
+        {
+          "kind": "text",
+          "body": "Nous n'avons trouvé aucune note publique sur le club, mais Google n'a pas pu être consulté. Sur l'annuaire club-echangiste.net, les seuls messages sont des questions d'internautes, sans réponse ni note."
+        }
+      ],
+      "sources": [
+        "s25",
+        "s27",
+        "s40"
+      ]
     },
     {
       "id": "vip-lounge-2022",
@@ -440,7 +650,7 @@
             [
               "Février-mars 2013",
               "Pink Club",
-              "Non précisée pour Meulan",
+              "Non précisée pour Meulan ; début d'activité le 9 mars 2013",
               "Activité cessée le 31 mars 2013, siège transféré hors des Yvelines"
             ],
             [
@@ -459,10 +669,11 @@
         },
         {
           "kind": "list",
-          "title": "Deux réserves",
+          "title": "Trois réserves",
           "items": [
             "**Un immeuble mixte** : le n° 2 abrite au moins un logement, deux holdings et une entreprise individuelle de débit de boissons enregistrée depuis 2001. Rien ne prouve que toutes ces sociétés aient occupé la même salle.",
-            "**Pink Club** : cette société a eu un établissement à ce numéro de fin février à fin mars 2013, mais aucun document ne la relie à La Maison Rose, ouverte huit mois plus tard."
+            "**Pink Club** : son début d'activité déclaré, le 9 mars 2013, coïncide avec l'ouverture de La Maison Rose ; aucun document ne dit pour autant que cette société a exploité le club.",
+            "**Le VIP** : en 2012, un blog libertin affirmait qu'un club nommé le VIP avait occupé cette adresse. Le Parisien présentait au contraire La Maison Rose comme le premier club échangiste du département ; nous n'avons trouvé aucune autre trace du VIP."
           ]
         }
       ],
@@ -478,37 +689,107 @@
         "s17",
         "s18",
         "s19",
-        "s22"
+        "s22",
+        "s25",
+        "s26",
+        "s28"
       ]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Vendredi": "22 h à 5 h",
+      "Samedi": "22 h à 5 h",
+      "Dimanche": "Privatisation sur demande ; après-midi sur réservation annoncées en juin 2016",
+      "Mercredi": "Après-midi sur réservation, annoncées en juin 2016"
+    },
+    "note": "Horaires de soirée affichés sans changement par le club de 2013 à octobre 2016, d'après les archives de ses sites. Le club est fermé : ils sont donnés pour mémoire.",
+    "confidence": "confirme",
+    "sources": [
+      "s29",
+      "s31",
+      "s32",
+      "s35"
+    ]
+  },
+  "tarifs": {
+    "rows": {
+      "Couple": "40 € avec 2 consommations (60 € en 2014)",
+      "Homme seul": "60 € avec 2 consommations (80 € en 2014)",
+      "Femme seule": "Une consommation obligatoire (12 € avec une consommation en 2014)",
+      "Réveillon du 31 décembre 2014": "Couple 70 €, homme seul 80 €, femme seule 20 €",
+      "Vendredi « pluralité », avril 2013": "Couple 20 €, homme seul 40 €, femme seule 15 €",
+      "Samedi « couples », avril 2013": "Couple 60 €, homme seul 50 €, femme seule 20 €"
+    },
+    "note": "Grille affichée de février 2015 à octobre 2016 ; entre parenthèses, celle d'août à octobre 2014. Les grilles d'avril 2013 sont celles de la première exploitation, consommations comprises. Le club est fermé : tarifs donnés pour mémoire.",
+    "confidence": "confirme",
+    "sources": [
+      "s29",
+      "s31",
+      "s32",
+      "s48",
+      "s33",
+      "s36"
+    ]
+  },
+  "equipements": [
+    "Bar",
+    "Piste de danse",
+    "Barres de pole dance",
+    "Cinq espaces câlins privatisables",
+    "Espace VIP",
+    "Deux douches à l'italienne",
+    "Fumoir"
+  ],
+  "officialLinks": [
+    {
+      "label": "Site officiel maisonroseclub.fr (archive d'octobre 2016)",
+      "url": "https://web.archive.org/web/20161027213602/http://www.maisonroseclub.fr/",
+      "kind": "site"
+    },
+    {
+      "label": "Horaires et tarifs du club (archive d'octobre 2016)",
+      "url": "https://web.archive.org/web/20161025172225/http://www.maisonroseclub.fr/horaires-tarifs/",
+      "kind": "autre"
+    },
+    {
+      "label": "Programme d'octobre 2016 (archive)",
+      "url": "https://web.archive.org/web/20161025162826/http://www.maisonroseclub.fr/soirees-octobre/",
+      "kind": "agenda"
     }
   ],
   "faq": [
     {
       "question": "La Maison Rose à Meulan est-elle encore ouverte ?",
-      "answer": "Non. Son exploitant a été liquidé le 30 mai 2017, et aucune source consultée ne signale de réouverture, sous ce nom ou sous un autre. Depuis 2022, l'adresse est celle d'une autre société, de bar et de club dancing, elle-même en liquidation depuis septembre 2025."
+      "answer": "Non. Le dernier programme publié sur son site menait à une soirée Halloween, le 31 octobre 2016, et son exploitant a été liquidé le 30 mai 2017. Aucune source consultée ne signale de réouverture, sous ce nom ou sous un autre. Depuis 2022, l'adresse est celle d'une autre société, de bar et de club dancing, elle-même en liquidation depuis septembre 2025."
     },
     {
       "question": "Existe-t-il un autre club libertin dans les Yvelines ?",
-      "answer": "Notre annuaire n'en recense aucun, mais cette absence reste à confirmer par une recherche plus large (presse locale, cartes en ligne) ; les plus proches de notre liste sont dans le Val-d'Oise. Sans club à portée, Gleese, réseau libertin français lancé fin 2024, ne demande pas de carte bancaire à l'inscription, mais la validation d'un numéro de téléphone : l'occasion de [jauger la densité de profils autour de Meulan](aff:gleese), la vraie inconnue d'un site aussi récent."
+      "answer": "Notre annuaire n'en recense aucun, et l'annuaire minuitlibertin.com n'en trouvait pas davantage en août 2026 ; le plus proche de notre liste, [The Strip](/the-strip-saint-ouen-l-aumone), est dans le Val-d'Oise. Sans club à portée, Gleese, réseau libertin français lancé fin 2024, ne demande pas de carte bancaire à l'inscription, mais la validation d'un numéro de téléphone : l'occasion de [jauger la densité de profils autour de Meulan](aff:gleese), la vraie inconnue d'un site aussi récent."
     },
     {
       "question": "Quels étaient les tarifs et les horaires de La Maison Rose ?",
-      "answer": "Aucune des sources consultées, à commencer par l'annonce de 2013, ne donne de tarif. Cette annonce prévoyait d'ouvrir les vendredis, samedis et veilles de jours fériés, sans heure précise ni conditions d'entrée pour les couples, les femmes seules ou les hommes seuls."
+      "answer": "Le club ouvrait le vendredi et le samedi, de 22 h à 5 h. Sa dernière grille, affichée de février 2015 à octobre 2016, demandait 40 € au couple et 60 € à l'homme seul, deux consommations comprises, et une consommation à la femme seule. En 2014, l'entrée coûtait 60 € au couple, 80 € à l'homme seul et 12 € à la femme seule."
+    },
+    {
+      "question": "Les hommes seuls pouvaient-ils entrer à La Maison Rose ?",
+      "answer": "Oui, sans garantie : de 2014 à 2016, le club ne les acceptait que « sous réserve de la fréquentation des couples et des femmes ». L'entrée leur coûtait 60 € à la fin, deux consommations comprises. En 2013, le vendredi était une « soirée pluralité », à 40 € pour l'homme seul, et le samedi une « soirée couples », où il payait 50 €."
     },
     {
       "question": "Peut-on encore joindre le club par téléphone ou par e-mail ?",
-      "answer": "Le portable et l'adresse Hotmail repris sur cette page viennent de l'annonce de 2013. Nous n'avons pas pu les tester ; l'exploitant ayant été liquidé en 2017, ils ne mènent sans doute plus au club. Le profil Facebook « Rose Lamaison » cité par la même annonce existe toujours en octobre 2026, mais son contenu n'est visible qu'après connexion : nous ne l'avons pas consulté et ne savons pas s'il est encore tenu."
+      "answer": "Non. L'adresse Hotmail reprise sur cette page était bien celle du club en 2012 et 2013, mais l'exploitant a été liquidé en 2017. Le portable de cette page, issu d'une annonce de 2013, n'a jamais figuré sur les sites du club, qui affichaient d'autres numéros. Le domaine maisonroseclub.fr n'est plus enregistré, et maison-rose.fr, réenregistré en 2015, n'a plus rien à voir avec le club."
     },
     {
       "question": "Existe-t-il des photos de La Maison Rose ?",
-      "answer": "Pas à notre connaissance. Aucun site officiel n'a été trouvé : les noms de domaine plausibles que nous avons testés (lamaisonroseclub.fr, lamaisonrosemeulan.fr et leurs variantes) ne sont pas enregistrés et n'ont jamais été archivés. Le profil Facebook cité en 2013 est fermé aux visiteurs non connectés : aucune galerie n'a pu être consultée."
+      "answer": "Le site du club avait une page « Photos », mais les archives que nous avons ouvertes n'en montrent qu'une liste de billets, et nous n'en avons pas consulté les images. Les pages Facebook citées par le club ne sont lisibles qu'après connexion. Faute de galerie vérifiée, nous ne décrivons aucune photo."
     }
   ],
   "unverified": [
-    "La date de la dernière soirée : le registre ne donne que les dates des procédures (cessation des paiements au 20 décembre 2016, liquidation le 30 mai 2017).",
-    "Le programme réellement appliqué entre 2013 et 2017 (jours, soirées à thème, accès des couples, des femmes seules et des hommes seuls) et les tarifs, jamais publiés.",
-    "La présence d'autres lieux libertins dans les Yvelines : presse locale (Le Parisien, actu.fr, Le Courrier de Mantes) et cartes en ligne restent à consulter.",
+    "La date de la dernière soirée réellement tenue : le dernier programme publié s'arrête au 31 octobre 2016, et la cessation des paiements est fixée au 20 décembre 2016.",
+    "Le rôle de la SARL Pink Club, dont le début d'activité déclaré coïncide avec l'ouverture du 9 mars 2013.",
+    "L'existence d'un club nommé le VIP à la même adresse avant 2012, affirmée par un blog et contredite par Le Parisien.",
     "D'éventuels avis Google sur le club, et la mention « définitivement fermé » sur les cartes en ligne.",
+    "La présence d'autres lieux libertins dans les Yvelines : un annuaire n'en recensait aucun en août 2026, mais la presse locale reste à consulter.",
     "L'usage actuel du local depuis la liquidation de VIP Lounge en septembre 2025.",
     "L'attribution actuelle du téléphone et de l'adresse e-mail publiés en 2013."
   ],
@@ -613,10 +894,10 @@
     },
     {
       "id": "s15",
-      "label": "Registre des entreprises : Pink Club (SIREN 791 477 649)",
+      "label": "Registre des entreprises : Pink Club (SIREN 791 477 649), début d'activité au 9 mars 2013 et cessation au 31 mars 2013 (BODACC)",
       "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/791477649",
       "type": "registre",
-      "consulted": "2026-10-16"
+      "consulted": "2026-10-19"
     },
     {
       "id": "s16",
@@ -680,6 +961,174 @@
       "url": "https://www.facebook.com/rose.lamaison",
       "type": "reseau_social",
       "consulted": "2026-10-16"
+    },
+    {
+      "id": "s25",
+      "label": "Le Parisien (Yvelines), « Les libertins ont leur adresse à Meulan », 30/03/2013 (archive du 01/04/2013)",
+      "url": "https://web.archive.org/web/20130401024723/http://www.leparisien.fr/yvelines-78/les-libertins-ont-leur-adresse-a-meulan-30-03-2013-2683179.php",
+      "type": "presse",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s26",
+      "label": "Blog « Le web libertin », « Inauguration de la Maison Rose à Meulan », 14/08/2012",
+      "url": "https://weblibertin.wordpress.com/2012/08/14/inauguration-de-la-maison-rose-a-meulan/",
+      "type": "autre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s27",
+      "label": "Blog « Libertine ? Et alors ! », compte rendu de l'inauguration, 17/03/2013, mis à jour fin décembre 2013",
+      "url": "https://missdactari-blog.blogspot.com/2013/03/club-la-maison-rose.html",
+      "type": "avis",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s28",
+      "label": "Site officiel maison-rose.fr, accueil (archive du 17/03/2013) : « Ouverture le Samedi 9 Mars 2013 »",
+      "url": "https://web.archive.org/web/20130317042155/http://www.maison-rose.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s29",
+      "label": "Site officiel maison-rose.fr, page « Contact & Tarifs » (archive du 03/04/2013)",
+      "url": "https://web.archive.org/web/20130403072112/http://www.maison-rose.fr/page2.html",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s30",
+      "label": "Site officiel maisonroseclub.fr, page « Qui sommes-nous » (archive du 21/08/2014)",
+      "url": "https://web.archive.org/web/20140821215355/http://www.maisonroseclub.fr/qui-sommes-nous/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s31",
+      "label": "Site officiel maisonroseclub.fr, page « Horaires & Tarifs » (archive du 22/08/2014, grille identique le 23/10/2014)",
+      "url": "https://web.archive.org/web/20140822012600/http://www.maisonroseclub.fr/?pagename=horaires-tarifs",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s32",
+      "label": "Site officiel maisonroseclub.fr, page « Horaires & Tarifs » (archive du 25/10/2016, grille identique sur les captures depuis le 10/02/2015)",
+      "url": "https://web.archive.org/web/20161025172225/http://www.maisonroseclub.fr/horaires-tarifs/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s33",
+      "label": "Site officiel maisonroseclub.fr, agenda : programmes de mars à novembre 2015 (flux du blog, archive du 04/11/2015)",
+      "url": "https://web.archive.org/web/20151104144225/http://www.maisonroseclub.fr/category/agenda/feed/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s34",
+      "label": "Site officiel maisonroseclub.fr, accueil et programme d'octobre 2016, dont la soirée « Sexy Halloween » du 31 octobre (archives des 25 et 27/10/2016)",
+      "url": "https://web.archive.org/web/20161027213602/http://www.maisonroseclub.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s35",
+      "label": "Site officiel maisonroseclub.fr, billet « Ouvertures en après-midi » du 20/06/2016 et réponse du club du 23/10/2016 (archive du 25/10/2016)",
+      "url": "https://web.archive.org/web/20161025162650/http://www.maisonroseclub.fr/ouvertures-en-apres-midi/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s36",
+      "label": "Site officiel maisonroseclub.fr, billet « Nouvel an 2015 » du 03/12/2014 (archive du 13/03/2015)",
+      "url": "https://web.archive.org/web/20150313090453/http://www.maisonroseclub.fr/nouvel-an-2015/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s37",
+      "label": "Site officiel maisonroseclub.fr, page « Courtoisie » et réponses du club de 2015-2016 (archive du 07/08/2016)",
+      "url": "https://web.archive.org/web/20160807181655/http://www.maisonroseclub.fr/courtoisie/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s38",
+      "label": "Site officiel maisonroseclub.fr, page « Adresse » (archive du 22/08/2014)",
+      "url": "https://web.archive.org/web/20140822071501/http://www.maisonroseclub.fr/adresse/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s39",
+      "label": "maisonroseclub.fr le 21/05/2017 : la page d'accueil n'affiche plus que du code brut ; domaine non enregistré en octobre 2026 (RDAP AFNIC)",
+      "url": "https://web.archive.org/web/20170521111259/http://maisonroseclub.fr/",
+      "type": "autre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s40",
+      "label": "Annuaire club-echangiste.net, fiche « Club La Maison Rose » (archive du 20/09/2012)",
+      "url": "https://web.archive.org/web/20120920095029/http://club-echangiste.net/club-la-maison-rose-335.html",
+      "type": "annuaire",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s41",
+      "label": "Registre des noms de domaine .fr (RDAP AFNIC) : maison-rose.fr, réenregistré le 17/10/2015",
+      "url": "https://rdap.nic.fr/domain/maison-rose.fr",
+      "type": "autre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s42",
+      "label": "maison-rose.fr le 10/05/2014 : redirection vers un site de rencontres (archive)",
+      "url": "https://web.archive.org/web/20140510003434/http://www.maison-rose.fr/",
+      "type": "autre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s43",
+      "label": "Annuaire minuitlibertin.com, clubs échangistes des Yvelines (page datée du 03/08/2026)",
+      "url": "https://minuitlibertin.com/club-echangiste-yvelines-78/",
+      "type": "annuaire",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s44",
+      "label": "Site officiel maison-rose.fr, page de renvoi vers maisonroseclub.fr (archive du 04/10/2013)",
+      "url": "https://web.archive.org/web/20131004082958/http://www.maison-rose.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s45",
+      "label": "The Strip, site officiel : programme des soirées, datées jusqu'en décembre 2026",
+      "url": "https://thestrip.fr/soirees",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s46",
+      "label": "La Récréation Sauna (ex-Caverne de Vénus), site officiel : livre d'or avec messages de septembre et d'octobre 2026",
+      "url": "https://www.larecreationsauna.fr/Temoignage.php",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s47",
+      "label": "Registre des entreprises : SARL Club 46 (SIREN 531 825 107), cessée le 26/10/2022",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/531825107",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s48",
+      "label": "Site officiel maisonroseclub.fr, page « Horaires & Tarifs » (archive du 10/02/2015) : première capture de la grille couple 40 €, homme 60 €, femme une consommation",
+      "url": "https://web.archive.org/web/20150210222827/http://www.maisonroseclub.fr/horaires-tarifs/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
     }
   ]
 }

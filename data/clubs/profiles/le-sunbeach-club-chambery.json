@@ -1,21 +1,23 @@
 {
   "slug": "le-sunbeach-club-chambery",
   "clubId": "207",
-  "researchedAt": "2026-10-16",
+  "researchedAt": "2026-10-19",
   "display": {
     "nom": "Sunbeach Club",
     "ville": "Chambéry"
   },
   "status": {
     "value": "ouvert",
-    "summary": "Un client a déposé le 23 juin 2026 sur le Petit Futé l'avis d'une visite faite le même mois. Le site officiel, refait en mars 2026 avec des prix revus (10 € avant 26 ans au lieu de 12 €), annonce une ouverture « 7 jours/7 » et était en ligne le 19 octobre 2026 ; la SARL HJL, dont l'établissement porte l'enseigne Sunbeach Club, reste active au registre, mis à jour en juillet 2026. Aucune soirée datée n'est annoncée.",
+    "summary": "Un client a déposé le 23 juin 2026 sur le Petit Futé l'avis d'une visite faite le même mois. Le site officiel, refait en mars 2026 avec des prix revus (10 € avant 26 ans au lieu de 12 €), annonce une ouverture « 7 jours/7 » et était en ligne le 19 octobre 2026. La SARL HJL, qui a racheté le sauna en 2008, a déposé ses comptes 2025 (avis paru au Bodacc le 2 août 2026) ; aucune annonce de cession ou de fermeture n'y a paru depuis 2008. Aucune soirée datée n'est annoncée.",
     "sources": [
       "s22",
       "s1",
       "s2",
       "s3",
       "s7",
-      "s16"
+      "s16",
+      "s25",
+      "s26"
     ]
   },
   "seo": {
@@ -58,10 +60,11 @@
     },
     {
       "label": "Société",
-      "value": "SARL HJL, dont l'établissement porte l'enseigne Sunbeach Club au registre (aucune mention légale sur le site)",
-      "confidence": "source_unique",
+      "value": "SARL HJL, qui a racheté le fonds Sunbeach Club le 6 décembre 2008 (aucune mention légale sur le site)",
+      "confidence": "confirme",
       "sources": [
-        "s16"
+        "s16",
+        "s25"
       ]
     },
     {
@@ -116,7 +119,7 @@
       "blocks": [
         {
           "kind": "text",
-          "body": "Le Sunbeach Club est le seul établissement libertin de la commune de Chambéry que recense notre annuaire, et ce n'est pas un club échangiste de nuit. Fin 2025, il se présentait comme un « SAUNA libertin ( Sex Club ) » ouvert tous les jours en mixte, gay friendly et hétéro friendly. On y entre dès 13 h (13 h 30 le dimanche) ; on en sort au plus tard à 20 h du dimanche au jeudi, à 22 h le vendredi et le samedi.\n\nLe club détaille lui-même son public : hommes seuls, femmes seules, « couples mixtes libertins échangistes » amateurs de pluralité masculine, gays, bisexuels, personnes trans, travestis et hétérosexuels. Les couples échangistes sont donc attendus, mais dans un sauna où ils croisent aussi des hommes seuls et une clientèle gay. Les groupes de trois personnes ou plus sont refusés. Le fil d'actualités du site de 2026, lui, ne parle plus que d'« hétéro friendly » : recentrage ou raccourci, la page ne le dit pas.\n\nPour une sortie en club après 22 h, il faut quitter la ville. Notre [page des lieux libertins de Savoie](/departement/savoie) liste les autres adresses du département, dont [Malinka Sauna, à Aix-les-Bains](/malinka-sauna-aix-les-bains) et [Le Zénith, à Grésy-sur-Aix](/le-zenith-gresy-sur-aix), dont nous n'avons pas encore vérifié l'activité. Pour une rencontre en soirée sans quitter l'agglomération, Gleese, réseau libertin français lancé fin 2024, permet de [jauger sans carte bancaire les profils proches de Chambéry](aff:gleese), chaque inscrit y validant son numéro de téléphone. Sa communauté, jeune, reste moins fournie que celle des plateformes historiques."
+          "body": "Le Sunbeach Club est le seul établissement libertin de la commune de Chambéry que recense notre annuaire, et ce n'est pas un club échangiste de nuit. Fin 2025, il se présentait comme un « SAUNA libertin ( Sex Club ) » ouvert tous les jours en mixte, gay friendly et hétéro friendly. On y entre dès 13 h (13 h 30 le dimanche) ; on en sort au plus tard à 20 h du dimanche au jeudi, à 22 h le vendredi et le samedi.\n\nLe club détaille lui-même son public : hommes seuls, femmes seules, « couples mixtes libertins échangistes » amateurs de pluralité masculine, gays, bisexuels, personnes trans, travestis et hétérosexuels. Les couples échangistes sont donc attendus, mais dans un sauna où ils croisent aussi des hommes seuls et une clientèle gay. Les groupes de trois personnes ou plus sont refusés. Le fil d'actualités du site de 2026, lui, ne parle plus que d'« hétéro friendly » : recentrage ou raccourci, la page ne le dit pas.\n\nDans la ville même, le sex-shop Erotic Dream, route Aristide-Bergès, annonce un « espace libertin » et des cabines de visionnage à 10 €, sans en décrire le fonctionnement. Nous ne l'avons pas encore vérifié.\n\nPour une sortie en club après 22 h, il faut quitter la ville. Notre [page des lieux libertins de Savoie](/departement/savoie) liste les autres adresses du département, dont [Malinka Sauna, à Aix-les-Bains](/malinka-sauna-aix-les-bains) et [Le Zénith, à Grésy-sur-Aix](/le-zenith-gresy-sur-aix), dont nous n'avons pas encore vérifié l'activité.\n\nPour une rencontre en soirée sans quitter l'agglomération, Gleese, réseau libertin français lancé fin 2024, permet de [jauger sans carte bancaire les profils proches de Chambéry](aff:gleese), chaque inscrit y validant son numéro de téléphone. Sa communauté, jeune, reste moins fournie que celle des plateformes historiques."
         }
       ],
       "sources": [
@@ -124,7 +127,8 @@
         "s2",
         "s6",
         "s12",
-        "s23"
+        "s23",
+        "s32"
       ],
       "icon": "users",
       "summary": "Seul lieu libertin de la commune dans notre annuaire, le Sunbeach est un sauna mixte ouvert l'après-midi jusqu'à 20 h ou 22 h, pas un club échangiste de nuit."
@@ -220,7 +224,7 @@
         },
         {
           "kind": "text",
-          "body": "En janvier 2018, l'accueil du site présentait déjà la plupart de ces espaces et annonçait comme nouveautés un sauna sec, un hammam au sous-sol avec sa back room, et la cabine SM. Fin 2023, par économie d'énergie, le hammam et le sauna sec étaient coupés une heure avant la fermeture ; nous ignorons si c'est toujours le cas. Au bar sans alcool, la carte de 2019 affichait sodas et bière sans alcool à 2 €, café et en-cas à 1 €. Deux avis Google non datés, relayés par un annuaire, disent toutefois qu'il n'y a plus de bar à proprement parler et que les distributeurs ne fonctionnent pas.\n\nLe massage, lui, n'apparaît dans aucune description du club, de 2018 à 2026 : seul un annuaire l'attribue au lieu, sans source."
+          "body": "En janvier 2018, l'accueil du site présentait déjà la plupart de ces espaces et annonçait comme nouveautés un sauna sec, un hammam au sous-sol avec sa back room, et la cabine SM. Fin 2023, par économie d'énergie, le hammam et le sauna sec étaient coupés une heure avant la fermeture ; nous ignorons si c'est toujours le cas.\n\nLa carte de 2019 affichait sodas et bière sans alcool à 2 €, café et en-cas à 1 €. Le guide gay Spartacus annonce un bar à alcools, alors que le club parle d'un bar sans alcool et que le fonds vendu en 2008 n'avait qu'une licence de boissons sans alcool. Deux avis Google non datés, relayés par un annuaire, disent qu'il n'y a plus de vrai bar et que les distributeurs sont en panne.\n\nLe massage, lui, n'apparaît dans aucune description du club, de 2018 à 2026 : seul un annuaire l'attribue au lieu, sans source."
         }
       ],
       "sources": [
@@ -229,7 +233,10 @@
         "s11",
         "s12",
         "s20",
-        "s24"
+        "s24",
+        "s25",
+        "s29",
+        "s30"
       ],
       "icon": "spa",
       "summary": "Le club décrivait en 2025 plus de 450 m² sur deux niveaux : spa de dix places, sauna finlandais, hammam avec back room, labyrinthe et cabine SM. Aucun massage."
@@ -379,26 +386,57 @@
     },
     {
       "id": "depuis-1999-sarl-hjl",
-      "title": "Ouvert en 1999, passé à la SARL HJL fin 2008 selon toute vraisemblance",
+      "title": "Ouvert en 1999, racheté 260 000 € par la SARL HJL en décembre 2008",
       "blocks": [
         {
           "kind": "text",
-          "body": "Le club compte ses années, et ses décomptes ramènent à 1999 : « plus de 22 ans » fin 2023, « 26 ans » en 2025 ; un texte plus ancien, rattaché à un article créé en juin 2014, parlait de « 15 ans ». Le registre concorde : une entreprise individuelle de soins corporels (code 96.04Z, celui des saunas) a eu son siège à cette adresse du 29 avril 1999 au 6 décembre 2008, jour où démarre la SARL HJL, dont l'unique établissement porte l'enseigne Sunbeach Club. La coïncidence des dates suggère une reprise de l'exploitation, qu'aucune annonce publique ne confirme. HJL est classée parmi les débits de boissons (NAF 56.30Z) tout en relevant de la convention collective de l'esthétique-cosmétique ; elle déclarait un ou deux salariés en 2024."
-        },
+          "body": "Les décomptes du club ramènent à 1999 : « plus de 22 ans » fin 2023, « 26 ans » en 2025, « 15 ans » dans un texte rattaché à un article créé en juin 2014. Le registre concorde : une entreprise individuelle de soins corporels (code 96.04Z) a ouvert un établissement à cette adresse le 29 avril 1999.\n\nLe Bodacc du 9 janvier 2009 date la passation : la SARL HJL a acheté le fonds 260 000 €, avec effet au 6 décembre 2008, jour où l'entreprise individuelle a cessé son activité. L'acte décrit des « bains, sauna, hammam, remise en forme », de la petite restauration et un débit de boissons sans alcool (licence de première catégorie).\n\nHJL, toujours active, est classée parmi les débits de boissons (NAF 56.30Z) mais relève de la convention collective de l'esthétique-cosmétique. Elle déclarait un ou deux salariés en 2024 et a déposé ses comptes 2025, annoncés au Bodacc le 2 août 2026 ; aucune nouvelle cession n'a été annoncée depuis 2008."
+        }
+      ],
+      "sources": [
+        "s6",
+        "s9",
+        "s12",
+        "s16",
+        "s17",
+        "s19",
+        "s25",
+        "s26",
+        "s29"
+      ],
+      "icon": "history",
+      "summary": "Ouvert en 1999 selon les décomptes du club et le registre, le sauna a été racheté 260 000 € par la SARL HJL le 6 décembre 2008 ; aucune cession n'a été publiée depuis."
+    },
+    {
+      "id": "enseigne-laissaud-1996-site-2026",
+      "title": "D'un établissement Sunbeach Club à Laissaud en 1996 au site d'une page de 2026",
+      "blocks": [
         {
           "kind": "timeline",
           "items": [
+            {
+              "date": "Juillet 1996",
+              "text": "Une entreprise individuelle ouvre un établissement dans la zone d'activités des Marais, à Laissaud. Le registre l'inscrit à l'enseigne Sunbeach Club, sous un code d'agence immobilière qui ne dit rien de son activité réelle ; il ferme en 2004."
+            },
+            {
+              "date": "29 avril 1999",
+              "text": "La même entreprise ouvre un établissement de soins corporels au 242 rue Jules Bocquin."
+            },
             {
               "date": "2005-2006",
               "text": "Page d'entrée réservée aux majeurs, avec deux portes : « Le Sunbeach-club » et « Le SunXbootik »."
             },
             {
+              "date": "Mai 2006",
+              "text": "Ouverture à Laissaud d'un établissement de vente à distance à l'enseigne SunXBoutik, le nom de la boutique du site ; il ferme le 30 septembre 2008."
+            },
+            {
               "date": "2007",
-              "text": "Nouveau site avec forum, petites annonces, album photo pour membres vérifiés et rubrique « SunXBoutik - Sexshop » ; première soirée S.M. ; soirée anniversaire prévue en juin."
+              "text": "Nouveau site : forum, petites annonces, album photo réservé aux membres vérifiés, rubrique « SunXBoutik - Sexshop » ; première soirée S.M."
             },
             {
               "date": "6 décembre 2008",
-              "text": "L'entreprise individuelle cesse ; la SARL HJL, créée le 27 novembre, commence son activité le même jour."
+              "text": "La SARL HJL, créée le 27 novembre, rachète le fonds pour 260 000 € ; l'entreprise individuelle cesse son activité le même jour."
             },
             {
               "date": "Été 2009",
@@ -409,10 +447,6 @@
               "text": "L'accueil annonce plus de 650 m², un nouveau hammam au sous-sol et une nouvelle cabine SM."
             },
             {
-              "date": "15 septembre 2023",
-              "text": "Nouvelle grille : femmes et hommes seuls à 20 €, couple à 30 €."
-            },
-            {
               "date": "Janvier-février 2026",
               "text": "L'ancien site laisse place à une page de maintenance."
             },
@@ -421,12 +455,12 @@
               "text": "Mise en ligne du site d'une page : 20 € l'entrée, 10 € avant 26 ans."
             },
             {
-              "date": "16 juillet 2026",
-              "text": "Dernière mise à jour de la SARL HJL au registre national des entreprises."
-            },
-            {
               "date": "Juin 2026",
               "text": "Dernière visite datée que nous ayons trouvée : un avis déposé le 23 juin sur le Petit Futé."
+            },
+            {
+              "date": "2 août 2026",
+              "text": "Le Bodacc annonce le dépôt des comptes 2025 de la SARL HJL."
             }
           ]
         }
@@ -435,19 +469,20 @@
         "s1",
         "s4",
         "s5",
-        "s6",
-        "s9",
         "s12",
         "s13",
         "s14",
         "s15",
         "s16",
         "s17",
-        "s19",
-        "s22"
+        "s22",
+        "s25",
+        "s26",
+        "s27",
+        "s28"
       ],
-      "icon": "history",
-      "summary": "Ouvert en 1999 selon les décomptes du club et le registre ; la SARL HJL, active, porte l'enseigne depuis décembre 2008, sans annonce publique de reprise."
+      "icon": "calendar",
+      "summary": "Le registre rattache l'enseigne Sunbeach Club à un établissement de Laissaud dès 1996 ; la boutique SunXBoutik y a fermé en septembre 2008, avant la vente du sauna."
     }
   ],
   "horaires": {
@@ -456,10 +491,13 @@
       "Vendredi et samedi": "13 h – 22 h",
       "Dimanche et jours fériés": "13 h 30 – 20 h"
     },
-    "note": "Horaires du site officiel mis en ligne en mars 2026, qui indique aussi en direct si le sauna est ouvert, selon l'heure de Paris.",
+    "note": "Horaires du site officiel mis en ligne en mars 2026, qui indique aussi en direct si le sauna est ouvert, selon l'heure de Paris. Les guides gays Spartacus et Saunas4men affichent encore la grille de 2018 (jusqu'à 1 h le samedi), qui n'est plus valable.",
     "confidence": "source_unique",
     "sources": [
-      "s1"
+      "s1",
+      "s12",
+      "s30",
+      "s31"
     ]
   },
   "tarifs": {
@@ -506,11 +544,11 @@
   "faq": [
     {
       "question": "Y a-t-il un club libertin à Chambéry ?",
-      "answer": "Dans la commune même, notre annuaire ne compte que le Sunbeach Club, un sauna libertin mixte ouvert l'après-midi jusqu'à 22 h au plus tard, pas une discothèque. Le Petit Futé, consulté en octobre 2026, ne place lui non plus aucun club échangiste dans Chambéry : le plus proche qu'il cite est [Le Cléo, à Nances](/le-cleo-nances), dont nous n'avons pas encore vérifié l'activité. Notre [page consacrée à Chambéry](/ville/chambery) renvoie vers les autres lieux savoyards."
+      "answer": "Dans la commune même, notre annuaire ne compte que le Sunbeach Club, un sauna libertin mixte ouvert l'après-midi jusqu'à 22 h au plus tard, pas une discothèque. Le Petit Futé, consulté en octobre 2026, ne place lui non plus aucun club échangiste dans Chambéry : le plus proche qu'il cite est [Le Cléo, à Nances](/le-cleo-nances), dont nous n'avons pas encore vérifié l'activité. Route Aristide-Bergès, le sex-shop Erotic Dream revendique aussi un « espace libertin » avec cabines, que nous n'avons pas vérifié. Notre [page consacrée à Chambéry](/ville/chambery) renvoie vers les autres lieux savoyards."
     },
     {
       "question": "Le Sunbeach Club est-il toujours ouvert ?",
-      "answer": "Tout l'indique, sans soirée datée pour le prouver : un avis du Petit Futé raconte une visite de juin 2026, le site refait en mars 2026 affiche horaires et prix, et la société exploitante est active au registre. Le site indique aussi en direct si le sauna est ouvert à l'heure où vous le consultez."
+      "answer": "Tout l'indique, sans soirée datée pour le prouver : un avis du Petit Futé raconte une visite de juin 2026, le site refait en mars 2026 affiche horaires et prix, et la société exploitante a déposé ses comptes 2025, annoncés au Bodacc en août 2026. Aucune annonce de fermeture ou de cession n'a paru au Bodacc depuis son rachat du sauna, en 2008. Le site indique aussi en direct si le sauna est ouvert à l'heure où vous le consultez."
     },
     {
       "question": "Le Sunbeach Club est-il un club échangiste ?",
@@ -546,8 +584,7 @@
     "Les chèques sont-ils toujours refusés, et la carte bancaire acceptée ?",
     "L'arrêt « Hyères » est-il toujours desservi, et par quelle ligne ?",
     "Le téléphone 04 79 62 12 29 et l'adresse clubsunbeach@aol.com, issus d'annuaires, sont-ils ceux du club ?",
-    "La SARL HJL a-t-elle repris l'exploitation en décembre 2008 ? Aucune annonce ne l'établit.",
-    "La boutique « SunXBoutik » des années 2006-2007 existe-t-elle encore ?",
+    "Quelle activité exerçait l'établissement à l'enseigne Sunbeach Club ouvert à Laissaud de 1996 à 2004 ?",
     "La note Google (3,8/5 sur 75 avis selon un annuaire, mai 2026) n'a pas pu être lue directement sur Google.",
     "Le bar sans alcool et les distributeurs fonctionnent-ils encore ? Deux avis Google non datés, relayés par un annuaire, disent que non."
   ],
@@ -718,6 +755,62 @@
       "label": "lieuxlibertins.fr, fiche du Sunbeach Club (note et avis Google relayés)",
       "url": "https://lieuxlibertins.fr/fiche/sunbeach-club-chambery/",
       "type": "annuaire",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s25",
+      "label": "Bodacc A du 9 janvier 2009 : achat du fonds Sunbeach Club par la SARL HJL",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20090006512",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s26",
+      "label": "Bodacc C du 2 août 2026 : dépôt des comptes 2025 de la SARL HJL",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:C202601456844",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s27",
+      "label": "Registre des entreprises : établissement à l'enseigne Sunbeach Club à Laissaud (1996-2004)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/etablissement/40800981900017",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s28",
+      "label": "Registre des entreprises : établissement à l'enseigne SunXBoutik à Laissaud (2006-2008)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/etablissement/40800981900033",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s29",
+      "label": "Préfet de l'Ardèche, circulaire du 21 avril 2011 sur la suppression de la licence de 1re catégorie",
+      "url": "https://www.ardeche.gouv.fr/contenu/telechargement/6794/87868/file/Circulaire_du_21_avril_2011_cle2e87ea.pdf",
+      "type": "autre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s30",
+      "label": "Spartacus, guide gay : fiche « Sun Beach » (horaires et tarifs anciens)",
+      "url": "https://spartacus.gayguide.travel/saunas/europe/france/chambery/39001_Sun+Beach",
+      "type": "annuaire",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s31",
+      "label": "Saunas4men : fiche « Le Sun Beach Club » (horaires et tarifs anciens)",
+      "url": "https://saunas4men.com/en/france/chambery/sun-beach-club",
+      "type": "annuaire",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s32",
+      "label": "Erotic Dream (sex-shop, Chambéry) : rubrique « Espace libertin & Cabines »",
+      "url": "https://www.eroticdream.fr/espace-libertin-cabines/",
+      "type": "autre",
       "consulted": "2026-10-19"
     }
   ],

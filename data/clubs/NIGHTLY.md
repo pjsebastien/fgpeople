@@ -86,3 +86,15 @@ qualifier et tous les départements balayés depuis moins de 90 jours :
 passer aux autres pages du site (pages ville, département, région et type,
 qui peuvent désormais s'appuyer sur les fiches vérifiées). Concevoir cette
 phase avant de la lancer, en suivant la même exigence.
+
+## Recherche complémentaire (dossiers faits sans recherche web)
+
+Le 16/10/2026, le quota WebSearch a été épuisé par 4 lots en parallèle : 63
+dossiers ont été faits sans recherche web. `club-queue.mjs` les remet en
+étape `complement` (brouillons) ; `mark-verified.mjs` refuse de les déclarer
+publiables tant que le dossier n'a pas sa section « ## Recherche
+complémentaire ». Les fiches déjà publiées concernées
+(`node scripts/club-queue.mjs --published-complement`) passent dans le même
+workflow avec `"from": "complement-published"`, puis sont recommitées.
+
+Quota de recherche : ne jamais faire tourner plus de 2 lots à la fois.

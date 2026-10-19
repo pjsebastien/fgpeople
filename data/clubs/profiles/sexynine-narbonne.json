@@ -1,15 +1,17 @@
 {
   "slug": "sexynine-narbonne",
   "clubId": "900",
-  "researchedAt": "2026-10-16",
+  "researchedAt": "2026-10-19",
   "display": {
     "nom": "Sexynine",
     "ville": "Narbonne"
   },
   "status": {
     "value": "ferme",
-    "summary": "Dès le 29 janvier 2013, la page d'accueil de sexynine.fr annonçait que le club cherchait un acquéreur pour raisons de santé. La dernière soirée retrouvée date du samedi 29 juin 2013, et le registre des entreprises a fermé l'établissement le 8 octobre 2013. Aucune reprise n'a été trouvée depuis : le domaine sexynine.fr a servi à des redirections commerciales, et une photo d'exploration urbaine épinglée en septembre 2020 montre le bâtiment à l'abandon.",
+    "summary": "Le 8 octobre 2013, le tribunal de commerce de Narbonne a prononcé la liquidation judiciaire de CORBIERES LOISIRS, la société qui exploitait Sexynine ; la procédure a été close pour insuffisance d'actif en juillet 2014. Le site annonçait depuis janvier 2013 que le club cherchait un acquéreur pour raisons de santé, et la dernière soirée retrouvée date du samedi 29 juin 2013. Aucune reprise n'a été publiée depuis : le domaine sexynine.fr a servi à des redirections commerciales, et une photo d'exploration urbaine épinglée en septembre 2020 montre le bâtiment à l'abandon.",
     "sources": [
+      "s41",
+      "s42",
       "s37",
       "s39",
       "s22",
@@ -34,12 +36,12 @@
       "sexynine"
     ]
   },
-  "lead": "Sexynine a été inauguré le 20 mars 2009 avenue du Languedoc, à Montredon-des-Corbières, aux portes de Narbonne. Le lieu réunissait un club échangiste ouvert jusqu'à 7 h, un bar au bord de la piscine, un restaurant, un sauna et un hammam. Mis en vente pour raisons de santé au plus tard en janvier 2013, il n'a plus d'activité visible depuis le 29 juin 2013, et le registre l'a fermé en octobre de la même année. À Narbonne, Le Triton et Histoires d'Ô accueillent aujourd'hui les libertins.",
+  "lead": "Sexynine a été inauguré le 20 mars 2009 avenue du Languedoc, à Montredon-des-Corbières, aux portes de Narbonne. Le lieu réunissait un club échangiste ouvert jusqu'à 7 h, un bar au bord de la piscine, un restaurant, un sauna et un hammam. Mis en vente pour raisons de santé au plus tard en janvier 2013, il n'a plus d'activité visible depuis le 29 juin 2013, et sa société exploitante a été placée en liquidation judiciaire le 8 octobre suivant. À Narbonne, Le Triton et Histoires d'Ô accueillent aujourd'hui les libertins.",
   "glance": [
     {
       "icon": "closed",
       "label": "Fermé",
-      "value": "Depuis 2013 (registre : 8 octobre 2013)"
+      "value": "Liquidation judiciaire le 8 octobre 2013"
     },
     {
       "icon": "history",
@@ -69,18 +71,20 @@
     }
   ],
   "highlights": [
-    "Sexynine est fermé depuis 2013 : aucune soirée retrouvée après le 29 juin, fermeture au registre le 8 octobre, aucune reprise trouvée depuis.",
+    "Sexynine est fermé depuis 2013 : aucune soirée retrouvée après le 29 juin, liquidation judiciaire le 8 octobre, aucune reprise publiée depuis.",
     "Deux lieux libertins sont ouverts à Narbonne en octobre 2026 : Le Triton, 28 avenue de Toulouse, et Histoires d'Ô Narbonne, 10 avenue de la Coupé.",
-    "Homme seul : Le Triton vous reçoit à 40 € l'après-midi et 45 € le soir ; Histoires d'Ô Narbonne ne vous admet pas le samedi soir.",
+    "Homme seul : Le Triton (40 € l'après-midi, 45 € le soir) limite le nombre d'hommes seuls ; Histoires d'Ô Narbonne ne vous admet pas le samedi soir.",
     "Pour un sauna libertin à Narbonne : Le Triton annonce sauna, hammam et jacuzzi ; Histoires d'Ô Narbonne se présente comme un balnéo-club.",
     "Le site sexynine.fr et les numéros recopiés par des annuaires ne mènent plus au club : en octobre 2026, le domaine ne renvoie qu'une vérification anti-robot."
   ],
   "keyFacts": [
     {
-      "label": "Fermeture au registre",
-      "value": "8 octobre 2013",
+      "label": "Liquidation judiciaire",
+      "value": "Prononcée le 8 octobre 2013, close pour insuffisance d'actif le 8 juillet 2014",
       "confidence": "confirme",
       "sources": [
+        "s41",
+        "s42",
         "s22"
       ]
     },
@@ -126,10 +130,12 @@
     },
     {
       "label": "Société",
-      "value": "CORBIERES LOISIRS, SARL créée le 1er avril 2010",
+      "value": "CORBIERES LOISIRS, SARL créée le 1er avril 2010, radiée en juillet 2014",
       "confidence": "confirme",
       "sources": [
-        "s22"
+        "s22",
+        "s44",
+        "s43"
       ]
     },
     {
@@ -173,9 +179,9 @@
   "sections": [
     {
       "id": "mise-en-vente-2013",
-      "title": "À vendre dès janvier 2013, fermé au registre le 8 octobre",
+      "title": "À vendre dès janvier 2013, en liquidation judiciaire le 8 octobre",
       "icon": "closed",
-      "summary": "Le club s'annonce à vendre pour raisons de santé dès janvier 2013 ; sa dernière soirée retrouvée date du 29 juin, et le registre le ferme le 8 octobre 2013.",
+      "summary": "Mis en vente pour raisons de santé dès janvier 2013, le club n'a plus de soirée retrouvée après le 29 juin ; sa société est placée en liquidation judiciaire le 8 octobre 2013.",
       "blocks": [
         {
           "kind": "text",
@@ -196,12 +202,13 @@
         },
         {
           "kind": "list",
-          "title": "Au registre des entreprises",
+          "title": "Au tribunal et au registre des entreprises",
           "items": [
-            "**8 octobre 2013** : fermeture de l'établissement, le seul de la SARL CORBIERES LOISIRS (enseigne SEXYNINE). La société n'a pas été radiée, mais elle n'a plus rien d'ouvert depuis.",
+            "**8 octobre 2013** : le tribunal de commerce de Narbonne prononce la liquidation judiciaire de la SARL CORBIERES LOISIRS, dont l'adresse légale porte la mention « Sexynine ». Son seul établissement est fermé au registre le même jour.",
+            "**8 juillet 2014** : la liquidation est close pour insuffisance d'actif ; la radiation de la société est publiée le 25 juillet.",
             "**L'enseigne SEXYNINE** : les cinq entités qui l'ont portée, toutes à Montredon-des-Corbières, sont fermées.",
             "**Dans un rayon de 300 mètres** : aucun débit de boissons ni aucune activité de loisirs enregistrés depuis 2013.",
-            "**Une reprise ?** Nous n'en avons trouvé aucune annonce."
+            "**Une reprise ?** Le Bulletin officiel des annonces civiles et commerciales ne publie aucune cession du fonds, et nous n'avons trouvé aucune annonce de reprise."
           ]
         }
       ],
@@ -215,7 +222,10 @@
         "s22",
         "s23",
         "s24",
-        "s40"
+        "s40",
+        "s41",
+        "s42",
+        "s43"
       ]
     },
     {
@@ -277,23 +287,25 @@
         },
         {
           "kind": "text",
-          "body": "En novembre 2010, un blog recensant les établissements libertins de France citait quatre adresses dans l'Aude. Seize ans plus tard, Le Triton est le seul des quatre que nous ayons trouvé en activité :"
+          "body": "En novembre 2010, un blog recensant les établissements libertins de France citait quatre adresses dans l'Aude. Seize ans plus tard, Le Triton est le seul des quatre dont l'activité est prouvée en 2026 :"
         },
         {
           "kind": "list",
           "items": [
             "Sexynine, fermé en 2013 ;",
             "**Le Triton**, à Narbonne, toujours ouvert ;",
-            "L'Alibi d'Ô, à Port-Leucate ;",
-            "Le Jul's 11, à Carcassonne."
+            "L'Alibi d'Ô, à Port-Leucate, dont nous n'avons trouvé aucune trace récente ;",
+            "Le Jul's 11, à Carcassonne : à la même adresse, 17 rue de Montpellier, un sauna gay nommé Le Jul's garde un site en ligne, mais ses tarifs sont arrêtés au 24 décembre 2021 et son programme de la semaine n'annonce aucune soirée datée récente."
           ]
         },
         {
           "kind": "text",
-          "body": "Il faut aujourd'hui y ajouter Histoires d'Ô Narbonne, absent de cette liste. Les autres adresses connues du département sont réunies sur notre page des [lieux libertins de l'Aude](/departement/aude)."
+          "body": "Il faut aujourd'hui y ajouter Histoires d'Ô Narbonne, absent de cette liste. En novembre 2025, L'Indépendant comptait d'ailleurs trois établissements libertins dans l'Aude, dont deux à Narbonne. Les autres adresses connues du département sont réunies sur notre page des [lieux libertins de l'Aude](/departement/aude)."
         }
       ],
       "sources": [
+        "s48",
+        "s49",
         "s29",
         "s30",
         "s31",
@@ -307,16 +319,18 @@
       "id": "histoires-do-samedi-triton-mixte",
       "title": "Histoires d'Ô sans hommes seuls le samedi soir, Le Triton « 100 % mixte »",
       "icon": "users",
-      "summary": "Le samedi soir, Histoires d'Ô n'accueille que les couples et les femmes seules ; Le Triton se dit « 100 % mixte » et programme des soirées jusqu'au 31 octobre 2026.",
+      "summary": "Le samedi soir, Histoires d'Ô n'accueille que les couples et les femmes seules ; Le Triton, ouvert depuis 1998, se dit « 100 % mixte » mais limite le nombre d'hommes seuls.",
       "blocks": [
         {
           "kind": "text",
-          "body": "Le samedi, Histoires d'Ô Narbonne n'ouvre qu'à 20 h, et seulement pour les couples et les femmes seules.\n\nPour ce samedi soir réservé aux couples et aux femmes seules, comme l'était celui de Sexynine en mars 2009, un couple qui ne veut pas arriver sans connaître personne peut d'abord [échanger avec des couples audois sur Carré Libertin](aff:carre-libertin) : ce site, ouvert en 2007, donne un accès complet gratuit aux couples et aux femmes qui publient trois photos de profil."
+          "body": "Le samedi, Histoires d'Ô Narbonne n'ouvre qu'à 20 h, et seulement pour les couples et les femmes seules.\n\nPour ce samedi soir réservé aux couples et aux femmes seules, comme l'était celui de Sexynine en mars 2009, un couple qui ne veut pas arriver sans connaître personne peut d'abord [se présenter à un couple du Narbonnais](aff:carre-libertin) sur Carré Libertin : ce site, ouvert en 2007, donne un accès complet gratuit aux couples et aux femmes qui publient trois photos de profil."
         },
         {
           "kind": "list",
           "items": [
             "**Le Triton** se revendique « 100 % mixte » : couples, hommes et femmes. Les échanges entre couples seulement n'y sont « pas notre priorité », selon son site.",
+            "**Ouvert en 1998**, il se présente dans L'Indépendant du 22 août 2025 comme « le plus ancien établissement libertin de l'Aude » : 400 m², bar sans alcool, hammam, sauna, deux jacuzzis et, à l'étage, douze salons et une pièce BDSM.",
+            "**Hommes seuls** : le couple d'habitués qui a repris le lieu en 2024 explique au journal n'en faire entrer qu'un nombre limité par rapport aux couples, et réserver le samedi et le dimanche aux libertins.",
             "**Son agenda**, publié le 29 septembre, programme des soirées jusqu'au samedi 31 octobre 2026, dont une soirée « toutes tendances » le vendredi 16 et une soirée candauliste le samedi 17.",
             "**Ses coordonnées** figurent sur [notre fiche du Triton](/le-triton-narbonne).",
             "**Histoires d'Ô Narbonne**, dont le site est mis à jour en 2026, n'a pas encore de fiche dans notre annuaire."
@@ -329,7 +343,8 @@
         "s32",
         "s33",
         "s34",
-        "s35"
+        "s35",
+        "s47"
       ]
     },
     {
@@ -428,16 +443,22 @@
             },
             {
               "date": "2013",
-              "text": "Mise en vente dès janvier, dernière soirée retrouvée le 29 juin, fermeture au registre le 8 octobre."
+              "text": "Mise en vente dès janvier, dernière soirée retrouvée le 29 juin, liquidation judiciaire le 8 octobre."
+            },
+            {
+              "date": "Juillet 2014",
+              "text": "Liquidation close pour insuffisance d'actif, puis radiation de la société."
             }
           ]
         },
         {
           "kind": "list",
-          "title": "Au registre des entreprises",
+          "title": "Au registre et au Bulletin officiel des annonces commerciales",
           "items": [
+            "**Août à novembre 2008** : avant Sexynine, une autre société déclare déjà avenue du Languedoc une activité de « club privé, discothèque, restaurant », à l'enseigne « Le Marychrys Too ». Elle est dissoute début 2009 ; nous ignorons si elle occupait les mêmes murs.",
             "**20 mars 2009** : création d'une société CORBIERES LOISIRS à l'enseigne SEXYNINE, le jour de l'inauguration ; elle cesse le 31 mai 2009.",
-            "**1er avril 2010** : une SARL du même nom prend le relais.",
+            "**1er avril 2010** : une SARL du même nom prend le relais, au capital de 1 000 €, pour la même activité déclarée de club privé, discothèque et restaurant.",
+            "**Juillet et septembre 2011** : deux changements de gérance sont publiés. C'est peut-être la « nouvelle direction » qu'annonce un annuaire, sans date, mais rien ne le confirme.",
             "**Autour de 2009** : trois entreprises individuelles déclarent aussi cette enseigne au lieu-dit Puech de Montredon ; leurs établissements sont tous fermés."
           ]
         }
@@ -455,7 +476,14 @@
         "s39",
         "s22",
         "s23",
-        "s24"
+        "s24",
+        "s28",
+        "s40",
+        "s42",
+        "s43",
+        "s44",
+        "s45",
+        "s46"
       ]
     },
     {
@@ -701,11 +729,11 @@
   "faq": [
     {
       "question": "Sexynine est-il toujours ouvert ?",
-      "answer": "Non. Le site annonçait dès janvier 2013 que le club cherchait un repreneur, la dernière soirée retrouvée date du 29 juin 2013 et l'établissement a été fermé au registre le 8 octobre 2013. Le site sexynine.fr ne mène plus au club, et une photo épinglée en 2020 montre le bâtiment à l'abandon."
+      "answer": "Non. Le site annonçait dès janvier 2013 que le club cherchait un repreneur, la dernière soirée retrouvée date du 29 juin 2013, et le tribunal de commerce de Narbonne a placé la société exploitante en liquidation judiciaire le 8 octobre 2013. La procédure a été close faute d'actif suffisant en juillet 2014, sans reprise publiée. Le site sexynine.fr ne mène plus au club, et une photo épinglée en 2020 montre le bâtiment à l'abandon."
     },
     {
       "question": "Quels clubs libertins sont ouverts à Narbonne aujourd'hui ?",
-      "answer": "Nous en avons trouvé deux en activité en octobre 2026 : Le Triton, sauna coquin mixte du 28 avenue de Toulouse, ouvert du mardi au dimanche et dont l'agenda court jusqu'au 31 octobre, et Histoires d'Ô Narbonne, balnéo-club du 10 avenue de la Coupé, dont le site affiche ses horaires et ses tarifs en 2026 et réserve le samedi soir aux couples et aux femmes seules. Leurs horaires et tarifs sont détaillés plus haut ; les autres fiches de la ville sont sur notre page [clubs de Narbonne](/ville/narbonne)."
+      "answer": "Nous en avons trouvé deux en activité en octobre 2026, comme L'Indépendant en novembre 2025 : Le Triton, sauna coquin mixte du 28 avenue de Toulouse, ouvert depuis 1998, du mardi au dimanche, et dont l'agenda court jusqu'au 31 octobre, et Histoires d'Ô Narbonne, balnéo-club du 10 avenue de la Coupé, dont le site affiche ses horaires et ses tarifs en 2026 et réserve le samedi soir aux couples et aux femmes seules. Leurs horaires et tarifs sont détaillés plus haut ; les autres fiches de la ville sont sur notre page [clubs de Narbonne](/ville/narbonne)."
     },
     {
       "question": "Existe-t-il un sauna ou un spa libertin à Narbonne ?",
@@ -713,7 +741,7 @@
     },
     {
       "question": "Où se trouvait exactement Sexynine ?",
-      "answer": "Avenue du Languedoc, à Montredon-des-Corbières, à l'ouest de Narbonne, dont la commune partage le code postal 11100 ; le club écrivait lui-même « Montredon - 11100 Narbonne ». Le numéro 4 n'apparaît que sur la page d'accès de 2011. Les coordonnées du registre, d'un annuaire et d'une photo d'urbex concordent, et la légende de cette photo place le bâtiment à l'angle de la D69 et de la RN113."
+      "answer": "Avenue du Languedoc, à Montredon-des-Corbières, à l'ouest de Narbonne, dont la commune partage le code postal 11100 ; le club écrivait lui-même « Montredon - 11100 Narbonne ». Le numéro varie selon les sources : « 4 » sur la page d'accès du site en 2011, « 3 D » dans les annonces légales de la société en 2010 et en 2013. Les coordonnées du registre, d'un annuaire et d'une photo d'urbex concordent, et la légende de cette photo place le bâtiment à l'angle de la D69 et de la RN113."
     },
     {
       "question": "Combien coûtait l'entrée au Sexynine ?",
@@ -726,15 +754,16 @@
   ],
   "unverified": [
     "La date exacte de la dernière soirée : le 29 juin 2013 est la dernière date retrouvée, et la fermeture au registre date du 8 octobre 2013.",
-    "Si un acquéreur s'est manifesté après l'annonce de janvier 2013 : aucune nouvelle enseigne n'apparaît au registre à cette adresse.",
+    "Si un acquéreur s'est manifesté après l'annonce de janvier 2013 : aucune cession du fonds n'a été publiée, et aucune nouvelle enseigne n'apparaît au registre à cette adresse.",
     "La nature de la soirée du 17 janvier 2009, antérieure à l'inauguration.",
-    "La date de la « nouvelle direction » évoquée par un annuaire, et son lien éventuel avec la SARL créée en 2010.",
+    "La « nouvelle direction » évoquée par un annuaire : correspond-elle aux changements de gérance publiés en juillet et en septembre 2011 ?",
     "Les équipements cités par les seuls annuaires : deux pistes de danse, deux bars, coins câlins à l'étage, backroom, lit rond, barre d'exhibition.",
-    "Le numéro de rue : « 4 avenue du Languedoc » n'apparaît que sur la page d'accès de 2011.",
-    "La presse régionale (Midi Libre, L'Indépendant) n'a pas encore été consultée sur l'ouverture ou la fermeture du club.",
+    "Le numéro de rue : « 4 avenue du Languedoc » sur le site en 2011, « 3 D avenue du Languedoc » dans les annonces légales de 2010 et de 2013.",
+    "Un article de presse sur l'ouverture ou la fermeture du club : les moteurs de recherche de L'Indépendant et de Midi Libre ne renvoient rien pour « Sexynine » en octobre 2026, et leurs archives papier n'ont pas été consultées.",
     "L'état actuel du bâtiment et son propriétaire : les seules images récentes viennent de sites d'exploration urbaine.",
-    "Aucune note d'avis publique (Google ou autre) n'a pu être relevée.",
-    "L'histoire du bâtiment avant 2009 : le registre signale, avenue du Languedoc, un débit de boissons à l'enseigne « Le Marychrys Too » d'août à novembre 2008, sans que nous sachions s'il occupait les mêmes murs."
+    "Aucune note d'avis publique (Google, Tripadvisor ou autre) n'a pu être relevée, et le club n'avait pas de page Facebook que nous ayons retrouvée.",
+    "L'histoire du bâtiment avant 2009 : une société déclarant la même activité de club privé, discothèque et restaurant a exploité « Le Marychrys Too » avenue du Languedoc d'août à novembre 2008, et un annuaire non daté place une discothèque « Le Marychrys » sur la RD 6113, à Montredon. Rien n'indique s'il s'agissait des mêmes murs.",
+    "L'activité actuelle du sauna Le Jul's, à Carcassonne : son site est en ligne, mais aucune date de moins d'un an n'y figure."
   ],
   "sources": [
     {
@@ -1016,6 +1045,69 @@
       "url": "https://recherche-entreprises.api.gouv.fr/near_point?lat=43.1868&long=2.9292&radius=0.3",
       "type": "registre",
       "consulted": "2026-10-16"
+    },
+    {
+      "id": "s41",
+      "label": "BODACC, 22/10/2013 : jugement d'ouverture de liquidation judiciaire de CORBIERES LOISIRS (« Sexynine »), 8 octobre 2013",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A201302041451",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s42",
+      "label": "BODACC, 29/07/2014 : clôture de la liquidation pour insuffisance d'actif, 8 juillet 2014",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A201401431590",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s43",
+      "label": "BODACC, 25/07/2014 : radiation de la SARL CORBIERES LOISIRS",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:B20140141130",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s44",
+      "label": "BODACC, 19/05/2010 : immatriculation de la SARL CORBIERES LOISIRS (club privé, discothèque, restaurant, 3 D avenue du Languedoc)",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20100096162",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s45",
+      "label": "BODACC, 15/07/2011 : modification de la gérance de CORBIERES LOISIRS (une seconde est publiée le 11/09/2011)",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:B2011013677",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s46",
+      "label": "BODACC, 28/09/2008 : immatriculation de LOVE LIBERTY (club privé, discothèque, restaurant, avenue du Languedoc), dont la dissolution est publiée le 20/01/2009",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20080175115",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s47",
+      "label": "L'Indépendant, « À Narbonne, le club libertin Le Triton résiste depuis 1998… » (22/08/2025)",
+      "url": "https://www.lindependant.fr/2025/08/22/a-narbonne-le-club-libertin-le-triton-resiste-depuis-1998-et-simpose-comme-un-incontournable-lieu-de-liberte-12880589.php",
+      "type": "presse",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s48",
+      "label": "L'Indépendant, dossier « Libertinage : des pratiques sexuelles à la hausse… » (01/11/2025)",
+      "url": "https://www.lindependant.fr/2025/11/01/dossier-libertinage-des-pratiques-sexuelles-a-la-hausse-qui-ne-sont-pas-quune-affaire-de-jambes-en-lair-13004110.php",
+      "type": "presse",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s49",
+      "label": "Sauna Le Jul's (Carcassonne), site officiel",
+      "url": "https://saunalejuls.com/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
     }
   ],
   "corrections": {

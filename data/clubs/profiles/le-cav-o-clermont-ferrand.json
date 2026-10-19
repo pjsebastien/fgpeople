@@ -1,17 +1,19 @@
 {
   "slug": "le-cav-o-clermont-ferrand",
   "clubId": "163",
-  "researchedAt": "2026-10-16",
+  "researchedAt": "2026-10-19",
   "display": {
     "nom": "Le Cav'O",
     "ville": "Clermont-Ferrand"
   },
   "status": {
     "value": "fermeture_probable",
-    "summary": "Depuis mars 2007, une seule fiche d'annuaire, restée vide, cite le Cav'O : ni site, ni horaires, ni description. Le registre ne connaît aucune société à son nom dans le Puy-de-Dôme, le 7 rue Terrasse abrite des boutiques de vêtements et les guides locaux consultés en 2026 l'ignorent : aucune preuve d'activité, à aucune date.",
+    "summary": "Depuis mars 2007, une seule fiche d'annuaire, restée vide, cite le Cav'O : ni site, ni horaires, ni description. En 2010 déjà, deux autres annuaires libertins qui recensaient Le Viaduc et Le Nirvana ne le mentionnaient pas. Le registre ne connaît aucune société à son nom dans le Puy-de-Dôme, le 7 rue Terrasse abrite des boutiques de vêtements et les guides locaux consultés en 2026 l'ignorent : aucune preuve d'activité, à aucune date.",
     "sources": [
       "s1",
       "s2",
+      "s27",
+      "s28",
       "s5",
       "s6",
       "s14"
@@ -73,7 +75,7 @@
     "Malgré la catégorie « sauna club libertin » de l'annuaire, aucune source n'atteste que le Cav'O ait eu un espace sauna.",
     "Pour un sauna libertin mixte en ville, les guides ne citent que [Le Viaduc](/le-viaduc-clermont-ferrand), ouvert tous les jours dès 13 h selon son site.",
     "Le 04 73 71 48 36, relevé par l'annuaire, n'est rattaché à aucun établissement dans l'annuaire inversé de PagesJaunes.",
-    "Le domaine lecavo.fr mène au site d'un restaurant-traiteur homonyme de Côte-d'Or, sans rapport avec Clermont."
+    "Encore listé par des annuaires, le [Sauna d'Italie](/sauna-d-italie-clermont-ferrand) a fermé : fermeture annoncée en février 2023, société cessée en mai 2024."
   ],
   "keyFacts": [
     {
@@ -134,6 +136,15 @@
       ]
     },
     {
+      "label": "Annuaires de 2010",
+      "value": "Absent de deux annuaires libertins qui citaient Le Viaduc et Le Nirvana",
+      "confidence": "confirme",
+      "sources": [
+        "s27",
+        "s28"
+      ]
+    },
+    {
       "label": "Site, réseaux, avis, horaires, tarifs",
       "value": "Aucun trouvé, à aucune date",
       "confidence": "confirme",
@@ -150,15 +161,21 @@
       "id": "ou-sortir-autour-de-clermont-en-2026",
       "title": "Le Viaduc, sauna mixte, et Les Salins, sauna gay : les deux lieux actifs en ville",
       "icon": "heart",
-      "summary": "Un guide du 15 mars 2026 ne compte qu'eux à Clermont-Ferrand ; Le Viaduc est le seul sauna mixte que les guides y citent, et le bar Le Ramsès reste à confirmer.",
+      "summary": "Un guide du 15 mars 2026 ne compte qu'eux à Clermont-Ferrand ; le Sauna d'Italie a fermé (société cessée en mai 2024) et le bar Le Ramsès reste à confirmer.",
       "blocks": [
         {
           "kind": "list",
           "items": [
             "[Le Viaduc](/le-viaduc-clermont-ferrand), sauna mixte, 12 bis rue des Prés Bas : son site officiel, en ligne en octobre 2026, annonce une ouverture tous les jours dès 13 h ; trois guides en ligne le citent.",
             "**Sauna Les Salins**, sauna gay, 5 avenue Marx Dormoy : actif au registre à cette adresse depuis janvier 2024, listé par PagesJaunes.",
-            "**Le Ramsès Libertin**, bar libertin, 3 rue Beaurepaire : du mardi au samedi, 19 h-2 h, selon un guide d'août 2025, non confirmé depuis."
+            "**Le Ramsès Libertin**, bar libertin, 3 rue Beaurepaire : ouvert en soirée du mardi au samedi selon les annuaires, qui annoncent une fermeture à 1 h ou à 2 h ; aucun canal officiel ne le confirme."
           ]
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Le Sauna d'Italie, avenue d'Italie, a fermé",
+          "body": "Le [Sauna d'Italie](/sauna-d-italie-clermont-ferrand), 4 avenue d'Italie, figure encore dans plusieurs annuaires. Un avis publié le 14 février 2023 sur l'annuaire Lieux Coquins annonçait sa fermeture définitive, Wanderlog (données Google) l'affiche fermé, et la société inscrite au registre sous l'enseigne Sauna d'Italie, créée en 2007 à cette adresse, est cessée depuis le 23 mai 2024."
         }
       ],
       "sources": [
@@ -169,7 +186,11 @@
         "s26",
         "s13",
         "s20",
-        "s21"
+        "s21",
+        "s32",
+        "s29",
+        "s30",
+        "s33"
       ]
     },
     {
@@ -181,7 +202,7 @@
         {
           "kind": "list",
           "items": [
-            "[L'Elyx Club](https://www.elyx-club.fr/), 14 rue des Acilloux à Cournon-d'Auvergne : ouvert du mardi au samedi selon son site officiel ; société active au registre depuis octobre 2015.",
+            "[L'Elyx Club](https://www.elyx-club.fr/), 14 rue des Acilloux à Cournon-d'Auvergne : selon son site officiel, l'après-midi du mardi au vendredi (14 h-19 h), puis le soir le vendredi et le samedi (22 h-5 h) ; société active au registre depuis octobre 2015. En juin 2025, le magazine Scarlette y décrivait dix espaces à thème, certains verrouillables.",
             "[Le Clean](/le-clean-riom), lieu libertin à Riom : cité par trois guides en ligne, rien de plus vérifié ici."
           ]
         },
@@ -200,14 +221,15 @@
         "s15",
         "s16",
         "s18",
-        "s19"
+        "s19",
+        "s31"
       ]
     },
     {
       "id": "club-sm-puis-sauna",
       "title": "« Club SM » jusqu'en 2008, « sauna » dès 2009 : une fiche d'annuaire jamais remplie",
       "icon": "history",
-      "summary": "Tout ce que l'on sait vient d'une fiche de l'annuaire sauna-club-libertin.com, archivée dès mars 2007 : une adresse, un téléphone, jamais de site ni de description.",
+      "summary": "Tout vient d'une fiche de sauna-club-libertin.com archivée dès mars 2007 : une adresse, un téléphone, jamais de description. Deux autres annuaires de 2010 l'ignorent.",
       "confidence": "source_unique",
       "blocks": [
         {
@@ -224,6 +246,10 @@
             {
               "date": "Février 2009",
               "text": "Classé désormais « sauna club libertin ». Un champ « prestations » figure sur la fiche, vide comme les autres."
+            },
+            {
+              "date": "Automne 2010",
+              "text": "Deux autres annuaires libertins recensent Clermont et ses environs : Le Viaduc, Le Sans Interdit, Le Nirvana, Le Clean… Le Cav'O n'y figure pas."
             },
             {
               "date": "Juin 2013",
@@ -256,6 +282,8 @@
         "s2",
         "s23",
         "s24",
+        "s27",
+        "s28",
         "s3",
         "s4"
       ]
@@ -322,11 +350,11 @@
     },
     {
       "question": "Quels clubs libertins sont ouverts à Clermont-Ferrand ?",
-      "answer": "Un guide de mars 2026 n'en recense que deux dans la ville, Le Viaduc (sauna mixte, dont le site officiel annonce une ouverture tous les jours dès 13 h) et Les Salins (sauna gay) ; la rubrique clubs libertins de PagesJaunes ne cite que le second. Un autre guide signale un bar libertin, Le Ramsès, rue Beaurepaire, avec des horaires relevés en août 2025. Aucune de ces sources ne mentionne le Cav'O."
+      "answer": "Un guide de mars 2026 n'en recense que deux dans la ville, Le Viaduc (sauna mixte, dont le site officiel annonce une ouverture tous les jours dès 13 h) et Les Salins (sauna gay) ; la rubrique clubs libertins de PagesJaunes ne cite que le second. Plusieurs annuaires signalent aussi un bar libertin, Le Ramsès, rue Beaurepaire, ouvert en soirée du mardi au samedi selon eux. Le Sauna d'Italie, avenue d'Italie, encore listé çà et là, a fermé : sa société exploitante est cessée depuis mai 2024. Aucune de ces sources ne mentionne le Cav'O."
     },
     {
       "question": "Où trouver un club échangiste près de Clermont-Ferrand ?",
-      "answer": "À Cournon-d'Auvergne, L'Elyx Club se présente sur son site comme discothèque et club libertin, ouvert du mardi au samedi. Les guides citent aussi Le Clean, à Riom. Les autres établissements du département sont sur la [page Puy-de-Dôme](/departement/puy-de-dome)."
+      "answer": "À Cournon-d'Auvergne, L'Elyx Club se présente sur son site comme discothèque et club libertin, ouvert du mardi au samedi, jusqu'à 5 h du matin le vendredi et le samedi. Les guides citent aussi Le Clean, à Riom. Les autres établissements du département sont sur la [page Puy-de-Dôme](/departement/puy-de-dome)."
     },
     {
       "question": "Comment rencontrer des libertines à Clermont-Ferrand hors des clubs ?",
@@ -339,7 +367,7 @@
     "Le rôle de la SARL Le Nirvana au 7 rue Terrasse entre juin 2004 et août 2009 : exploitante du Cav'O ou simple locataire d'un local.",
     "Le public admis, les horaires, les tarifs et les équipements, jamais publiés.",
     "Le titulaire actuel du 04 73 71 48 36.",
-    "Les annuaires BDSM des années 2005-2010, qui pourraient dater la disparition du lieu, n'ont pas pu être consultés."
+    "Les annuaires spécialisés BDSM des années 2005-2010, qui pourraient dater la disparition du lieu, n'ont pas pu être consultés ; deux annuaires libertins généralistes de 2010 ne le citent pas."
   ],
   "sources": [
     {
@@ -347,7 +375,7 @@
       "label": "sauna-club-libertin.com, fiche « LE CAV'O » (annuaire, source faible)",
       "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_3.php?id=163&d=63",
       "type": "annuaire",
-      "consulted": "2026-10-16"
+      "consulted": "2026-10-19"
     },
     {
       "id": "s2",
@@ -382,7 +410,7 @@
       "label": "Registre des entreprises, entités domiciliées au 7 rue Terrasse, 63000",
       "url": "https://recherche-entreprises.api.gouv.fr/search?q=7%20rue%20terrasse&code_postal=63000",
       "type": "registre",
-      "consulted": "2026-10-16"
+      "consulted": "2026-10-19"
     },
     {
       "id": "s7",
@@ -466,7 +494,7 @@
       "label": "Site officiel de L'Elyx Club, Cournon-d'Auvergne",
       "url": "https://www.elyx-club.fr/",
       "type": "officiel",
-      "consulted": "2026-10-16"
+      "consulted": "2026-10-19"
     },
     {
       "id": "s19",
@@ -522,7 +550,56 @@
       "label": "Site officiel du Viaduc, Clermont-Ferrand",
       "url": "http://www.saunaviaduc.com/",
       "type": "officiel",
-      "consulted": "2026-10-16"
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s27",
+      "label": "club-echangiste.net, « Club échangiste Clermont-Ferrand », archive du 27/10/2010 (annuaire, source faible)",
+      "url": "https://web.archive.org/web/20101027163253/http://club-echangiste.net/puy-de-dome/clermont-ferrand.html",
+      "type": "annuaire",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s28",
+      "label": "anneaudejustine.com, « Liste des établissements libertins en France » (publiée le 18/11/2010, source faible)",
+      "url": "https://www.anneaudejustine.com/2010/11/liste-des-etablissements-libertins-en-france/",
+      "type": "annuaire",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s29",
+      "label": "lieuxcoquins.fr, fiche « Sauna D'Italie » et avis du 14/02/2023",
+      "url": "https://www.lieuxcoquins.fr/lieu/sauna-ditalie/",
+      "type": "annuaire",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s30",
+      "label": "Wanderlog, « Sauna D'Italie » (données Google relayées)",
+      "url": "https://wanderlog.com/place/details/12911169/sauna-ditalie",
+      "type": "annuaire",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s31",
+      "label": "Scarlette Magazine, « Où s'encanailler en Auvergne ? » (3 juin 2025)",
+      "url": "https://www.scarlettemagazine.com/ou-sencanailler-en-auvergne-le-guide-coquin-de-la-region/",
+      "type": "presse",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s32",
+      "label": "Restaurant Guru, « Le Ramses Libertin » (horaires relayés de Google)",
+      "url": "https://restaurantguru.com/Le-Ramses-Cabaret-France",
+      "type": "annuaire",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s33",
+      "label": "Annuaire des entreprises, exploitant à l'enseigne SAUNA D'ITALIE (SIREN 494 495 559)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/494495559",
+      "type": "registre",
+      "consulted": "2026-10-19"
     }
   ]
 }

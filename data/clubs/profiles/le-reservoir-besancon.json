@@ -1,12 +1,12 @@
 {
   "slug": "le-reservoir-besancon",
   "clubId": "964",
-  "researchedAt": "2026-10-16",
+  "researchedAt": "2026-10-19",
   "display": { "nom": "Le Réservoir", "ville": "Besançon" },
   "status": {
     "value": "ouvert",
-    "summary": "Le planning jour par jour (masculin ou mixte) a été republié sur la page d'accueil du site le 14 septembre 2026. La société NIGLO, qui exploite le sauna depuis janvier 2009, est active au registre et a publié en février 2026 les comptes de son exercice clos le 30 septembre 2025. Nous n'avons pu consulter ni avis daté ni publication datée sur ses réseaux.",
-    "sources": ["s1", "s6", "s8", "s15", "s16"]
+    "summary": "Le 20 août 2026, la page Facebook du sauna annonçait sa réouverture après les congés d'été, et la page d'accueil du site a été republiée le 14 septembre avec le planning jour par jour. Rénové à l'été 2025, le lieu était resté fermé plusieurs mois avant de rouvrir début 2026, selon des avis clients. La société NIGLO, qui l'exploite depuis janvier 2009, est active au registre et a publié en février 2026 les comptes de son exercice clos le 30 septembre 2025.",
+    "sources": ["s1", "s6", "s8", "s15", "s16", "s23", "s24", "s25"]
   },
   "seo": {
     "title": "Le Réservoir à Besançon : sauna gay, mixte mardi et samedi",
@@ -25,17 +25,17 @@
       "le reservoir besancon"
     ]
   },
-  "lead": "Le Réservoir n'est pas un club échangiste mais un sauna gay, ouvert en janvier 2009 au 1 rue Charles Fourier et qui s'affiche aujourd'hui « LGBTQIA+ ». Il ne devient mixte, ouvert à « toute tendance », libertins et mélangistes compris, que le mardi et le samedi, de 13 h à 19 h ; les autres jours sont « masculins » et le mercredi est fermé. L'entrée coûte 18 €, serviettes et préservatifs compris.",
+  "lead": "Le Réservoir n'est pas un club échangiste mais un sauna gay, ouvert en janvier 2009 au 1 rue Charles Fourier et qui s'affiche aujourd'hui « LGBTQIA+ ». Il ne devient mixte, ouvert à « toute tendance », libertins et mélangistes compris, que le mardi et le samedi, de 13 h à 19 h ; les autres jours sont « masculins » et le mercredi est fermé. L'entrée coûte 18 €, serviettes et préservatifs compris. Selon des avis clients, il a été rénové à l'été 2025, puis fermé plusieurs mois avant de rouvrir début 2026.",
   "glance": [
     { "icon": "spa", "label": "Type de lieu", "value": "Sauna gay LGBTQIA+, pas un club échangiste" },
     { "icon": "couple", "label": "Jours mixtes", "value": "Mardi et samedi seulement" },
     { "icon": "clock", "label": "Horaires", "value": "13 h – 19 h, fermé le mercredi" },
     { "icon": "euro", "label": "Entrée", "value": "18 € · 11 € moins de 25 ans sur justificatif", "confidence": "source_unique" },
-    { "icon": "ticket", "label": "Inclus dans l'entrée", "value": "Serviettes, gel douche, préservatifs", "confidence": "source_unique" },
+    { "icon": "warning", "label": "Fermetures ponctuelles", "value": "Congés et canicule en 2026 : voir Facebook", "confidence": "source_unique" },
     { "icon": "history", "label": "Depuis", "value": "Janvier 2009, même adresse" }
   ],
   "audience": [
-    { "who": "couples", "status": "selon", "detail": "Mardi et samedi, 13 h – 19 h ; autres jours annoncés « masculins »", "price": "Pas de tarif couple affiché" },
+    { "who": "couples", "status": "selon", "detail": "Mardi et samedi, 13 h – 19 h ; autres jours « masculins » ; pas de tarif couple affiché" },
     { "who": "femmes", "status": "selon", "detail": "Mardi et samedi « toute tendance » ; le site ne cite pas les femmes seules", "price": "18 €" },
     { "who": "hommes", "status": "oui", "detail": "Les six jours d'ouverture, « masculins » comme mixtes ; fermé le mercredi", "price": "18 € · 11 € moins de 25 ans" },
     { "who": "trans", "status": "selon", "detail": "Cités par le site parmi le public des jours mixtes, mardi et samedi", "price": "18 €" }
@@ -44,7 +44,7 @@
     "Couple ou libertin, venez un mardi ou un samedi : les autres jours sont annoncés « masculins » et le mercredi est fermé.",
     "Fermeture à 19 h, samedi compris : prévoyez un après-midi, pas une soirée.",
     "La grille ne prévoit pas de tarif couple : à deux, faites-vous confirmer le prix au 03 81 41 17 49.",
-    "Une personne ivre peut être refusée à l'entrée, selon le règlement intérieur mis à jour en avril 2025.",
+    "Le sauna ferme parfois quelques jours (Pentecôte, canicules, congés jusqu'au 17 août en 2026) : vérifiez sa page Facebook ou appelez avant de venir.",
     "Pas d'enseigne en façade d'après un contributeur OpenStreetMap (janvier 2026), ce que le club n'a pas confirmé : repérez le numéro 1 de la rue Charles Fourier."
   ],
   "keyFacts": [
@@ -55,7 +55,9 @@
     { "label": "Compris dans l'entrée", "value": "Serviettes, gel douche, préservatifs et lubrifiant", "confidence": "source_unique", "sources": ["s2"] },
     { "label": "Âge minimum", "value": "18 ans", "confidence": "confirme", "sources": ["s2", "s17"] },
     { "label": "Ouverture", "value": "Janvier 2009", "confidence": "confirme", "sources": ["s9", "s11", "s15", "s16"] },
-    { "label": "Exploitant", "value": "Société NIGLO (SARL), SIREN 503 672 545", "confidence": "confirme", "sources": ["s6", "s15"] }
+    { "label": "Exploitant", "value": "Société NIGLO (SARL), SIREN 503 672 545", "confidence": "confirme", "sources": ["s6", "s15"] },
+    { "label": "Travaux et fermeture", "value": "Sauna et hammam refaits à l'été 2025, puis fermé jusqu'au début de 2026, selon des avis clients", "confidence": "a_verifier", "sources": ["s24", "s25"] },
+    { "label": "Réseau professionnel", "value": "Adhérent du SNEG & Co depuis 2015", "confidence": "source_unique", "sources": ["s27"] }
   ],
   "sections": [
     {
@@ -73,7 +75,7 @@
           "title": "Qui entre quel jour, selon la page d'accueil republiée le 14 septembre 2026",
           "items": [
             "**Mardi et samedi** : mixte, « toute tendance ». Le site cite libertins, mélangistes, hétéros, gays, bis, personnes trans et travestis.",
-            "**Lundi, jeudi, vendredi et dimanche** : « masculin ». Le site n'écrit pas que couples et femmes sont refusés, mais le terme le laisse entendre.",
+            "**Lundi, jeudi, vendredi et dimanche** : « masculin ». Le site n'écrit pas que couples et femmes sont refusés, mais le terme le laisse entendre ; deux avis Google, publiés entre début 2025 et début 2026, reprochent pourtant au sauna d'y avoir laissé entrer des couples.",
             "**Mercredi** : fermé."
           ]
         },
@@ -92,46 +94,84 @@
           "body": "Un couple ou une femme qui hésite à pousser cette porte un mardi peut d'abord repérer des partenaires attirés par ce public mélangé. Sur Carré Libertin, gratuit pour les femmes et les couples qui publient trois photos, la recherche avancée permet de [filtrer les profils par orientation et par genre](aff:carre-libertin) autour de Besançon."
         }
       ],
-      "sources": ["s1", "s7", "s9", "s13", "s19"]
+      "sources": ["s1", "s7", "s9", "s13", "s19", "s25"]
     },
     {
-      "id": "soirees-doubs",
-      "title": "Après 19 h : Saint-Vit, Châtillon-le-Duc et le reste du Doubs",
-      "icon": "map",
-      "summary": "Après 19 h, changez d'adresse : le Sauna Club LG à Besançon, puis des lieux à Châtillon-le-Duc, Saint-Vit, Audincourt et Sochaux, dont nous n'avons pas vérifié l'activité.",
+      "id": "fermetures-2025-2026",
+      "title": "Rénové à l'été 2025, fermé jusqu'à l'hiver, puis par canicule en 2026",
+      "icon": "calendar",
+      "summary": "Refait à l'été 2025 selon des avis, le sauna a fermé des mois avant de rouvrir début 2026 ; il a encore fermé pour la Pentecôte, deux canicules et des congés jusqu'au 17 août 2026.",
       "blocks": [
         {
           "kind": "text",
-          "body": "Pour une soirée libertine, il faut quitter la rue Charles Fourier. L'annuaire sauna-club-libertin.com recense sept établissements dans le Doubs."
+          "body": "Dans un avis Koifaire du 14 décembre 2025, un client raconte des travaux à l'été 2025, avec un sauna et un hammam neufs, puis une « fermeture subite » dix jours plus tard et des mois sans nouvelles. Sur Google, d'autres clients disaient attendre la réouverture vers octobre et novembre 2025."
+        },
+        {
+          "kind": "text",
+          "body": "En février et mars 2026, des avis Google décrivent de nouveau un lieu ouvert et rénové, avec un grand sauna et un hammam neufs. La date exacte de la réouverture reste inconnue : les publications Facebook de l'hiver ne sont pas lisibles sans connexion."
+        },
+        {
+          "kind": "table",
+          "caption": "Fermetures annoncées sur la page Facebook du sauna en 2026",
+          "headers": ["Annonce", "Motif", "Retour annoncé"],
+          "rows": [
+            ["22 mai", "Week-end de la Pentecôte", "Lundi 1er juin"],
+            ["19 juin", "Canicule", "Jeudi 2 juillet"],
+            ["11 juillet", "Canicule et 14 Juillet", "Jeudi 16 juillet"],
+            ["30 juillet", "Congés d'été", "Lundi 17 août"]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le sauna a en revanche ouvert le jeudi de l'Ascension, 14 mai 2026, de 13 h à 19 h. Sa dernière publication relevée, le 20 août 2026, annonce la fin des congés."
+        },
+        {
+          "kind": "callout",
+          "tone": "info",
+          "title": "« Fermé » sur Google ?",
+          "body": "Des sites qui reprennent sa fiche Google l'affichaient « définitivement fermé » au 1er mai 2026, puis « temporairement fermé » au 12 août, pendant les congés. Les publications de mai à août et la republication du site en septembre 2026 montrent pourtant un sauna en activité : un appel au 03 81 41 17 49 tranche."
+        }
+      ],
+      "sources": ["s1", "s23", "s24", "s25", "s26"]
+    },
+    {
+      "id": "soirees-doubs",
+      "title": "Après 19 h : Love-Paradise fermé au registre en 2015, Saint-Vit incertain",
+      "icon": "map",
+      "summary": "Pour la soirée, peu d'adresses sûres : Love-Paradise est fermé au registre depuis 2015, le site du Sauna Club LG a disparu et Saint-Vit reste à vérifier.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Pour une soirée libertine, il faut quitter la rue Charles Fourier. L'annuaire sauna-club-libertin.com recense sept établissements dans le Doubs, mais un guide en ligne des clubs du département, publié en avril 2026, n'en retient qu'un comme actif : Le Réservoir."
         },
         {
           "kind": "list",
-          "title": "Les autres adresses de notre annuaire",
+          "title": "Les autres adresses de notre annuaire, confrontées au registre le 19 octobre 2026",
           "items": [
-            "**Besançon** : le [Sauna Club LG](/sauna-club-lg-besancon), seul autre lieu de la ville",
-            "**Châtillon-le-Duc** : [Love-Paradise](/love-paradise-chatillon-le-duc)",
-            "**Saint-Vit** : [Le Lady's](/le-lady-s-saint-vit) et [Le Maeva](/le-maeva-saint-vit)",
-            "**Audincourt et Sochaux** : d'autres adresses du département"
+            "**Besançon** : le [Sauna Club LG](/sauna-club-lg-besancon), rue d'Alsace. Le domaine de son site n'existe plus, et une société de soins corporels domiciliée à son adresse a été radiée en février 2022, sans que son lien avec le sauna soit établi.",
+            "**Châtillon-le-Duc** : [Love-Paradise](/love-paradise-chatillon-le-duc). La société à cette enseigne a fermé son établissement en décembre 2015, selon le registre.",
+            "**Saint-Vit** : [Le Lady's](/le-lady-s-saint-vit) et [Le Maeva](/le-maeva-saint-vit). Une société à l'enseigne « Maeva » y est active au registre, mais leur site commun ne répondait pas les 16 et 19 octobre 2026.",
+            "**Audincourt et Sochaux** : d'autres adresses du département, non vérifiées."
           ]
         },
         {
           "kind": "callout",
           "tone": "warning",
-          "title": "Activité non vérifiée",
-          "body": "Leur activité et leurs horaires n'ont pas été vérifiés pour cette fiche. Lors de notre essai du 16 octobre 2026, le site commun aux deux adresses de Saint-Vit et celui du Sauna Club LG ne répondaient pas : relisez leur page, ou [la liste des adresses du Doubs](/departement/doubs), avant de prendre la route."
+          "title": "Appelez avant de prendre la route",
+          "body": "Aucune de ces adresses n'a fait l'objet d'une vérification complète pour cette fiche : relisez leur page, ou [la liste des adresses du Doubs](/departement/doubs), avant de vous déplacer."
         },
         {
           "kind": "text",
           "body": "Le Réservoir fermant à 19 h, mieux vaut, pour [trouver où sortir le soir autour de Besançon](aff:wyylde), partir d'une soirée datée : l'agenda de Wyylde, l'ancien Netéchangisme, donne pour chaque soirée annoncée le club, le thème et souvent les conditions d'entrée, et se lit avec un compte gratuit."
         }
       ],
-      "sources": ["s1", "s21"]
+      "sources": ["s1", "s21", "s30", "s32", "s33", "s34"]
     },
     {
       "id": "entree-18-euros",
       "title": "18 € l'entrée, serviettes, gel douche et préservatifs compris",
       "icon": "euro",
-      "summary": "Prix unique de 18 € (11 € pour les moins de 25 ans sur justificatif), contre 15 € en 2009 ; la grille n'affiche ni tarif couple ni majoration le samedi.",
+      "summary": "Prix unique de 18 € (11 € pour les moins de 25 ans sur justificatif), contre 15 € en 2009 et 17 € en mai 2025 ; la grille n'affiche ni tarif couple ni majoration le samedi.",
       "blocks": [
         {
           "kind": "text",
@@ -155,26 +195,27 @@
         },
         {
           "kind": "table",
-          "caption": "Le prix d'entrée relevé sur le site officiel",
+          "caption": "Le prix d'entrée relevé au fil des ans",
           "headers": ["Relevé", "Entrée", "Tarifs réduits"],
           "rows": [
-            ["Août 2009", "15 €", "10 € (moins de 25 ans, sans emploi)"],
-            ["Juin 2023", "17 €", "11 € (moins de 25 ans) ; 5 € (étudiants de moins de 25 ans)"],
-            ["Octobre 2026", "18 €", "11 € (moins de 25 ans)"]
+            ["Août 2009 (site officiel)", "15 €", "10 € (moins de 25 ans, sans emploi)"],
+            ["Juin 2023 (site officiel)", "17 €", "11 € (moins de 25 ans) ; 5 € (étudiants de moins de 25 ans)"],
+            ["Mai 2025 (annuaire)", "17 €", "11 € (moins de 25 ans)"],
+            ["Octobre 2026 (site officiel)", "18 €", "11 € (moins de 25 ans)"]
           ]
         },
         {
           "kind": "text",
-          "body": "En 2009, l'entrée incluait un café, et le sauna acceptait espèces et carte bancaire. Le tarif étudiant à 5 € de 2023 a disparu de la grille actuelle."
+          "body": "En 2009, l'entrée incluait un café, et le sauna acceptait espèces et carte bancaire. Le tarif étudiant à 5 € de 2023 a disparu de la grille actuelle, et la carte de fidélité gratuite de 2009 n'existe plus, à en croire un avis Google de début 2024."
         }
       ],
-      "sources": ["s2", "s8", "s10", "s14"]
+      "sources": ["s2", "s8", "s10", "s14", "s25", "s31"]
     },
     {
       "id": "cabines-hammam-eucalyptus",
       "title": "Cabines, hammam et sauna à l'eucalyptus : ce que le site confirme",
       "icon": "spa",
-      "summary": "Le site confirme cabines, hammam, sauna, espace vidéo et glory-hole ; bar, backrooms et coin SM ne sont cités que par un annuaire, sans confirmation.",
+      "summary": "Le site confirme cabines, hammam, sauna, vidéo et glory-hole (sauna et hammam neufs selon deux avis) ; jacuzzi, bar, backrooms et coin SM ne viennent que d'annuaires.",
       "blocks": [
         {
           "kind": "list",
@@ -193,18 +234,23 @@
           "body": "La page Services range le glory-hole sous une rubrique « Soins visage/corps » qu'elle signale elle-même comme de l'humour : aucun soin esthétique n'est proposé."
         },
         {
+          "kind": "text",
+          "body": "Un avis Koifaire de décembre 2025 évoque un sauna et un hammam neufs après les travaux de l'été 2025 ; un avis Google de mars 2026 décrit lui aussi un grand sauna et un hammam neufs, et des matelas confortables dans toutes les cabines."
+        },
+        {
           "kind": "list",
-          "title": "Annoncés par un annuaire, jamais par le site",
+          "title": "Annoncés par des annuaires, jamais par le site",
           "items": [
             "Un bar",
             "Une backroom fermant à clé et une backroom ouverte",
-            "Un coin SM",
+            "Un coin SM, un sling et une croix de Saint-André",
+            "Un jacuzzi et une darkroom, selon le guide Spartacus",
             "Un espace détente et des vestiaires"
           ]
         },
         {
           "kind": "text",
-          "body": "Cette liste vient d'une fiche non datée de sauna-club-libertin.com ; sans confirmation de l'établissement, nous ne la reprenons pas."
+          "body": "Ces mentions viennent de fiches non datées de sauna-club-libertin.com et de Spartacus, et d'une fiche de saunaclublebali.fr de mars 2026 ; sans confirmation de l'établissement, nous ne les reprenons pas. Deux avis Google, de mai 2025 et de l'hiver 2025-2026, regrettent au contraire l'absence de jacuzzi."
         },
         {
           "kind": "callout",
@@ -213,7 +259,31 @@
           "body": "La page Galerie du site renvoie vers les photos de sa fiche Google Maps, que nous n'avons pas consultées."
         }
       ],
-      "sources": ["s1", "s3", "s8", "s20"]
+      "sources": ["s1", "s3", "s8", "s20", "s25", "s28", "s29"]
+    },
+    {
+      "id": "avis-google",
+      "title": "4,5 sur 5 sur Google : propreté louée, ni jacuzzi ni piscine",
+      "icon": "star",
+      "summary": "Note Google relayée de 4,5/5 sur 53 avis en août 2026 ; des clients louent la propreté et l'accueil, d'autres regrettent la petite taille et l'absence de jacuzzi.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Nous n'avons pas consulté Google directement : deux sites qui reprennent ses avis affichent 4,5 sur 5, sur 52 avis au 1er mai 2026 et 53 au 12 août 2026. Sur 52 notes, 39 sont à cinq étoiles et deux à une étoile."
+        },
+        {
+          "kind": "list",
+          "title": "Ce qui revient dans les 18 avis que nous avons lus",
+          "items": [
+            "La propreté et l'entretien, salués par la moitié des avis, dont deux d'avril et mai 2026 ; un seul la juge insuffisante",
+            "L'accueil du gérant, souvent cité",
+            "Un lieu jugé petit, sans piscine ni jacuzzi",
+            "Des couples admis un jour réservé aux hommes, reproché par deux avis",
+            "Des couloirs très sombres, selon un avis d'avril 2026"
+          ]
+        }
+      ],
+      "sources": ["s25", "s26"]
     },
     {
       "id": "reglement-prevention",
@@ -245,15 +315,19 @@
             "**À Besançon** : le centre de santé sexuelle, le CICS et le CeGIDD Doubs-Jura de l'AHS Franche-Comté",
             "**Au niveau national** : plusieurs ressources, dont une fiche sur le chemsex et les CAARUD, centres de réduction des risques pour usagers de drogues"
           ]
+        },
+        {
+          "kind": "text",
+          "body": "Le sauna adhère depuis 2015 au réseau professionnel SNEG & Co, selon la fiche que celui-ci lui consacre en juillet 2026. Le même mois, il annonçait sur Facebook de la documentation sur le chemsex et le magazine têtu• à disposition à l'accueil."
         }
       ],
-      "sources": ["s4", "s5", "s8"]
+      "sources": ["s4", "s5", "s8", "s23", "s27"]
     },
     {
       "id": "rue-charles-fourier-depuis-2009",
       "title": "Dix-sept ans rue Charles Fourier, sans changement de nom ni d'exploitant",
       "icon": "history",
-      "summary": "Même société (NIGLO), même enseigne, même adresse et même téléphone depuis le début d'activité, en janvier 2009 ; le site a été refondu en juin 2023.",
+      "summary": "Même société (NIGLO), même enseigne, même adresse et même téléphone depuis janvier 2009 ; site refondu en juin 2023, sauna et hammam refaits à l'été 2025 selon un avis.",
       "blocks": [
         {
           "kind": "text",
@@ -267,15 +341,19 @@
             { "date": "Février-avril 2009", "text": "Le site en construction annonce un « nouveau sauna » avec hammam, ouvert tous les jours dès 14 h, et le présente déjà comme un sauna gay." },
             { "date": "Juin 2010", "text": "Nouveau site : le sauna « vient de fêter ses 1 an »." },
             { "date": "2009-2023", "text": "La description de la page d'entrée, inchangée pendant quatorze ans, annonce une ouverture « de 14h à 21h en semaine et 23h », sans dire quels jours fermaient à 23 h." },
+            { "date": "2015", "text": "Adhésion au réseau professionnel SNEG & Co, selon la fiche d'adhérent publiée par celui-ci en juillet 2026." },
             { "date": "Juin 2023", "text": "Refonte : mention « LGBTQIA+ », mixité le mardi et le samedi, fermeture le mercredi, ouverture de 13 h à 20 h, entrée à 17 €." },
+            { "date": "Été 2025", "text": "Travaux : sauna et hammam neufs, puis fermeture une dizaine de jours plus tard, selon un avis client de décembre 2025." },
             { "date": "Septembre 2025", "text": "Dernière modification de la page Tarifs, qui affiche 18 €." },
-            { "date": "Janvier 2026", "text": "Un contributeur OpenStreetMap cartographie le lieu et relève une fermeture à 19 h." },
-            { "date": "Février 2026", "text": "Le BODACC publie le dépôt des comptes de l'exercice clos le 30 septembre 2025, le dix-septième d'affilée." },
+            { "date": "Octobre-novembre 2025", "text": "Toujours fermé : sur Google, des clients attendent la réouverture." },
+            { "date": "Janvier 2026", "text": "Le 31, un contributeur OpenStreetMap cartographie le lieu et relève une fermeture à 19 h." },
+            { "date": "Février 2026", "text": "Le BODACC publie le dépôt des comptes de l'exercice clos le 30 septembre 2025, le dix-septième d'affilée ; des avis Google décrivent un lieu rouvert et rénové." },
+            { "date": "Mai-août 2026", "text": "Fermetures annoncées pour la Pentecôte, deux canicules et les congés d'été, avec un retour le 17 août." },
             { "date": "Septembre 2026", "text": "Page d'accueil republiée avec le planning jour par jour." }
           ]
         }
       ],
-      "sources": ["s1", "s2", "s8", "s9", "s11", "s12", "s13", "s14", "s15", "s16", "s17", "s18", "s22"]
+      "sources": ["s1", "s2", "s8", "s9", "s11", "s12", "s13", "s14", "s15", "s16", "s17", "s18", "s22", "s23", "s24", "s25", "s27"]
     }
   ],
   "horaires": {
@@ -288,9 +366,9 @@
       "Samedi": "13 h – 19 h (mixte, toute tendance)",
       "Dimanche": "13 h – 19 h (« masculin »)"
     },
-    "note": "Horaires de la page d'accueil republiée le 14/09/2026, concordants avec un relevé OpenStreetMap de janvier 2026. La version anglaise du site, non mise à jour depuis février 2024, indique encore 20 h.",
+    "note": "Horaires de la page d'accueil republiée le 14/09/2026, concordants avec un relevé OpenStreetMap de janvier 2026. La version anglaise du site, non mise à jour depuis février 2024, indique encore 20 h. En 2026, le sauna a fermé quelques jours pour la Pentecôte, les canicules et les congés d'été (annonces Facebook).",
     "confidence": "confirme",
-    "sources": ["s1", "s7", "s17"]
+    "sources": ["s1", "s7", "s17", "s23"]
   },
   "tarifs": {
     "rows": {
@@ -327,8 +405,12 @@
       "answer": "Ni l'un ni l'autre au sens strict : c'est un sauna gay « LGBTQIA+ », avec sauna, hammam, cabines et vidéo. Le mardi et le samedi, de 13 h à 19 h, il devient mixte et son site invite explicitement libertins et mélangistes, pour 18 € l'entrée. Aucune soirée n'est annoncée."
     },
     {
+      "question": "Le Réservoir est-il fermé ? Google l'indique parfois.",
+      "answer": "Non, d'après ses traces les plus récentes : le 20 août 2026, sa page Facebook annonçait la réouverture après les congés d'été, et la page d'accueil du site a été republiée le 14 septembre 2026. Des sites qui reprennent sa fiche Google l'ont affiché « définitivement fermé » en mai 2026, puis « temporairement fermé » en août. Le sauna ferme parfois quelques jours (canicule, congés) : appelez le 03 81 41 17 49 avant de venir."
+    },
+    {
       "question": "Quels jours un couple peut-il venir ?",
-      "answer": "Le mardi et le samedi, de 13 h à 19 h. Le site n'écrit pas qu'un couple serait refusé un jour « masculin » (lundi, jeudi, vendredi, dimanche) : en cas de doute, appelez le 03 81 41 17 49."
+      "answer": "Le mardi et le samedi, de 13 h à 19 h. Le site n'écrit pas qu'un couple serait refusé un jour « masculin » (lundi, jeudi, vendredi, dimanche), et deux avis Google reprochent même au sauna d'avoir laissé entrer des couples ces jours-là : ce n'est pas la règle affichée. En cas de doute, appelez le 03 81 41 17 49."
     },
     {
       "question": "Une femme seule peut-elle entrer un jour mixte ?",
@@ -340,17 +422,18 @@
     },
     {
       "question": "Comment repérer l'entrée, rue Charles Fourier ?",
-      "answer": "Un contributeur OpenStreetMap qui a cartographié le lieu en janvier 2026 a noté l'absence d'enseigne en façade, une entrée au rez-de-chaussée et un accès en fauteuil roulant ; l'établissement ne l'a pas confirmé. Pour l'itinéraire, le site renvoie vers sa fiche Google Maps."
+      "answer": "Un contributeur OpenStreetMap qui a cartographié le lieu en janvier 2026 a noté l'absence d'enseigne en façade, une entrée au rez-de-chaussée et un accès en fauteuil roulant ; l'établissement ne l'a pas confirmé. Un annuaire le situe à une centaine de mètres de l'arrêt de bus Marie-Louise (ligne 11) et à un quart d'heure à pied de la gare Viotte. Pour l'itinéraire, le site renvoie vers sa fiche Google Maps."
     }
   ],
   "unverified": [
-    "Les journées « masculines » excluent-elles formellement les femmes et les couples ? Le site ne le précise pas.",
+    "Les journées « masculines » excluent-elles formellement les femmes et les couples ? Le site ne le précise pas, et deux avis de 2025-2026 disent y avoir croisé des couples.",
     "Un couple paie-t-il une entrée ou deux ? La grille de tarifs ne prévoit pas de tarif couple.",
     "Le tarif étudiant à 5 € affiché en 2023 existe-t-il encore ?",
-    "Bar, backroom fermant à clé, coin SM, espace détente et vestiaires : cités par un annuaire, non confirmés par l'établissement.",
+    "Bar, backrooms, coin SM, sling, croix de Saint-André, jacuzzi, espace détente et vestiaires : cités par des annuaires, non confirmés par l'établissement (le jacuzzi est contredit par deux avis).",
     "Absence d'enseigne, entrée au rez-de-chaussée et accessibilité en fauteuil : relevé d'un contributeur OpenStreetMap, à confirmer.",
-    "Moyens de paiement acceptés aujourd'hui (espèces et carte en 2009) et possibilités de stationnement.",
-    "Note et nombre d'avis Google, et dates des publications sur Facebook et Instagram : non consultés."
+    "Moyens de paiement acceptés aujourd'hui (espèces et carte en 2009) et possibilités de stationnement ; arrêt de bus Marie-Louise donné par un seul annuaire.",
+    "Dates exactes de la fermeture de 2025 et de la réouverture de l'hiver 2025-2026 : les publications Facebook de cette période ne sont pas lisibles sans connexion.",
+    "Note Google lue seulement sur des sites qui la reprennent (4,5/5, 53 avis en août 2026), pas sur Google ; publications Instagram non datées."
   ],
   "sources": [
     { "id": "s1", "label": "Site officiel, page d'accueil (republiée le 14/09/2026)", "url": "https://www.lereservoir.info/", "type": "officiel", "consulted": "2026-10-16" },
@@ -374,6 +457,18 @@
     { "id": "s19", "label": "Instagram @saunalereservoir (métadonnées publiques)", "url": "https://www.instagram.com/saunalereservoir/", "type": "reseau_social", "consulted": "2026-10-16" },
     { "id": "s20", "label": "sauna-club-libertin.com, fiche « LE RESERVOIR »", "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_3.php?id=964&d=25", "type": "annuaire", "consulted": "2026-10-16" },
     { "id": "s21", "label": "sauna-club-libertin.com, établissements du Doubs", "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_2.php?d=25", "type": "annuaire", "consulted": "2026-10-16" },
-    { "id": "s22", "label": "Wayback Machine, historique des captures de lereservoir.info", "url": "https://web.archive.org/cdx/search/cdx?url=lereservoir.info&matchType=domain&fl=timestamp,statuscode,original&collapse=timestamp:6", "type": "autre", "consulted": "2026-10-16" }
+    { "id": "s22", "label": "Wayback Machine, historique des captures de lereservoir.info", "url": "https://web.archive.org/cdx/search/cdx?url=lereservoir.info&matchType=domain&fl=timestamp,statuscode,original&collapse=timestamp:6", "type": "autre", "consulted": "2026-10-16" },
+    { "id": "s23", "label": "Page Facebook du sauna, publications du 14/05 au 20/08/2026 reproduites par beautynailhairsalons.com", "url": "https://www.beautynailhairsalons.com/FR/Besan%C3%A7on/787507308009437/Sauna-Lereservoir-Besancon", "type": "reseau_social", "consulted": "2026-10-19" },
+    { "id": "s24", "label": "Koifaire, fiche Le Reservoir et avis du 14/12/2025", "url": "https://www.koifaire.com/franche-comte/le,reservoir-18103.html", "type": "avis", "consulted": "2026-10-19" },
+    { "id": "s25", "label": "Top-Rated.Online, avis Google relayés (4,5/5, 53 avis, mis à jour le 12/08/2026)", "url": "https://www.top-rated.online/cities/Besancon/place/p/12675203/LE+R%C3%89SERVOIR", "type": "avis", "consulted": "2026-10-19" },
+    { "id": "s26", "label": "Autour de moi, avis Google relayés (4,5/5, 52 avis, mis à jour le 01/05/2026)", "url": "https://sauna-gay.autour-de-moi.com/le-reservoir-3351771.html", "type": "avis", "consulted": "2026-10-19" },
+    { "id": "s27", "label": "SNEG & Co, fiche d'adhérent du Réservoir (22/07/2026)", "url": "https://www.snegandco.fr/le-reservoir/", "type": "annuaire", "consulted": "2026-10-19" },
+    { "id": "s28", "label": "Spartacus Gay Guide, fiche Le Reservoir", "url": "https://spartacus.gayguide.travel/saunas/europe/france/besancon/86942_Reservoir.+Le", "type": "annuaire", "consulted": "2026-10-19" },
+    { "id": "s29", "label": "saunaclublebali.fr, fiche Le Réservoir (ajoutée le 25/03/2026)", "url": "https://www.saunaclublebali.fr/listing/le-reservoir-besancon/", "type": "annuaire", "consulted": "2026-10-19" },
+    { "id": "s30", "label": "saunaclublebali.fr, guide des clubs du Doubs (04/04/2026)", "url": "https://www.saunaclublebali.fr/clubs-libertins-doubs-25/", "type": "annuaire", "consulted": "2026-10-19" },
+    { "id": "s31", "label": "minuitlibertin.com, fiche Le Réservoir (tarifs relevés le 23/05/2025)", "url": "https://minuitlibertin.com/le-reservoir-a-besancon/", "type": "annuaire", "consulted": "2026-10-19" },
+    { "id": "s32", "label": "Annuaire des entreprises, BESANSAU (14 rue d'Alsace, Besançon)", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/434523007", "type": "registre", "consulted": "2026-10-19" },
+    { "id": "s33", "label": "Annuaire des entreprises, LOVE PARADISE (Châtillon-le-Duc)", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/531042711", "type": "registre", "consulted": "2026-10-19" },
+    { "id": "s34", "label": "Annuaire des entreprises, LIBERTY AQUA SPA SCP, enseigne Maeva (Saint-Vit)", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/881014880", "type": "registre", "consulted": "2026-10-19" }
   ]
 }

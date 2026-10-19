@@ -1,45 +1,52 @@
 {
   "slug": "sauna-atrium-77696-kehl-cote-allemagne-5-mn-de-strasbourg",
   "clubId": "175",
-  "researchedAt": "2026-10-16",
+  "researchedAt": "2026-10-19",
   "display": {
     "nom": "Sauna Atrium",
     "ville": "Kehl (Allemagne)"
   },
   "status": {
     "value": "ferme",
-    "summary": "Le 28 mars 2024, un contributeur d'OpenStreetMap passé au 68 Schulstraße y a trouvé une salle de jeux d'argent à la place du sauna, baptisée « HDY Las Vegas » en mai 2024 et toujours en place lors d'un nouveau passage le 19 septembre 2026. Le site sauna-atrium.net avait cédé la place à une annonce de vente du domaine dès février 2019. Aucune annonce de fermeture n'a été trouvée : l'Atrium a cessé son activité à une date inconnue, entre début 2019 et mars 2024.",
+    "summary": "La société qui exploitait l'Atrium a été dissoute en 2018 : le tribunal d'Offenbourg a jugé ses actifs trop maigres pour ouvrir une procédure d'insolvabilité. Le site du sauna a disparu en février 2019, et un guide gay l'a signalé fermé en mai 2019. Repris sous le nom d'Atlantis Sauna, le lieu a de nouveau fermé pendant la crise sanitaire, vraisemblablement en 2021. Une salle de jeux occupe le 68 Schulstraße depuis au moins mars 2024.",
     "sources": [
+      "s30",
+      "s31",
+      "s2",
+      "s12",
+      "s35",
+      "s34",
       "s13",
       "s14",
-      "s15",
-      "s2",
-      "s12"
+      "s15"
     ]
   },
   "seo": {
-    "title": "Atrium Kehl : le sauna gay de la Schulstraße a fermé",
-    "metaDescription": "Le sauna Atrium de Kehl, face à Strasbourg, a fermé : salle de jeux au 68 Schulstraße depuis 2024, site perdu en 2019. Open Day, tarifs, alternatives.",
-    "subtitle": "Ancien sauna gay à journées mixtes, 68 Schulstraße à Kehl (Allemagne)",
+    "title": "Atrium puis Atlantis à Kehl : le sauna de la Schulstraße a fermé",
+    "metaDescription": "Ouvert en 1997 face à Strasbourg, l'Atrium de Kehl a fermé vers 2019 ; devenu l'Atlantis, il n'a pas survécu au Covid. Tarifs, Open Day, alternatives.",
+    "subtitle": "Ancien sauna gay à journées mixtes, devenu l'Atlantis, 68 Schulstraße à Kehl (Allemagne)",
     "targetQueries": [
       "atrium kehl",
       "sauna atrium kehl",
       "sauna kehl",
       "sauna gay kehl",
-      "sauna atrium strasbourg"
+      "sauna atrium strasbourg",
+      "atlantis sauna kehl"
     ]
   },
-  "lead": "Sur la rive allemande du Rhin, l'Atrium de Kehl était un sauna gay qui, trois jours par semaine dans sa dernière grille, ouvrait ses « Open Day » aux couples homme-femme, aux bisexuels et aux femmes seules. Ouvert probablement en 1997 au 68 Schulstraße, il a perdu son site au début de 2019, et une salle de jeux occupe l'adresse depuis au moins mars 2024. Notre annuaire le plaçait à tort dans le Bas-Rhin.",
+  "lead": "Sur la rive allemande du Rhin, l'Atrium de Kehl était un sauna gay. Dans sa dernière grille, il ouvrait trois jours par semaine ses « Open Day » aux couples homme-femme, aux bisexuels et aux femmes seules. Ouvert en 1997 au 68 Schulstraße, il a fermé vers 2019 après la dissolution de sa société, puis a revécu sous le nom d'Atlantis jusqu'à la crise sanitaire. Une salle de jeux occupe l'adresse depuis au moins mars 2024, et notre annuaire le plaçait à tort dans le Bas-Rhin.",
   "keyFacts": [
     {
       "label": "Statut",
-      "value": "Fermé, à une date inconnue entre début 2019 et mars 2024",
+      "value": "Fermé : l'Atrium signalé fermé en mai 2019, son repreneur l'Atlantis pendant le Covid",
       "confidence": "confirme",
       "sources": [
+        "s30",
         "s2",
         "s12",
-        "s13",
-        "s14"
+        "s35",
+        "s34",
+        "s13"
       ]
     },
     {
@@ -64,10 +71,22 @@
     },
     {
       "label": "Ouverture",
-      "value": "Vers 1997, année déduite du 5e anniversaire fêté le 4 mai 2002",
-      "confidence": "a_verifier",
+      "value": "1997 : société créée le 5 février, cinq ans fêtés en mai 2002",
+      "confidence": "confirme",
       "sources": [
-        "s9"
+        "s9",
+        "s31",
+        "s32"
+      ]
+    },
+    {
+      "label": "Société exploitante",
+      "value": "Atrium Concept GmbH (HRB 371473, Fribourg), dissoute en 2018, radiée en 2021",
+      "confidence": "confirme",
+      "sources": [
+        "s30",
+        "s31",
+        "s32"
       ]
     },
     {
@@ -84,6 +103,14 @@
       "confidence": "confirme",
       "sources": [
         "s5"
+      ]
+    },
+    {
+      "label": "Repreneur à la même adresse",
+      "value": "Atlantis Sauna, vers 2019 à 2021 (dates déduites), couple à 20 €",
+      "confidence": "a_verifier",
+      "sources": [
+        "s34"
       ]
     },
     {
@@ -104,44 +131,192 @@
         "s14",
         "s15"
       ]
-    },
-    {
-      "label": "Société exploitante",
-      "value": "Non identifiée (absente du registre français)",
-      "confidence": "a_verifier",
-      "sources": [
-        "s19"
-      ]
     }
   ],
   "sections": [
     {
-      "id": "salle-de-jeux-hdy-las-vegas",
-      "title": "Au 68 Schulstraße, la salle de jeux « HDY Las Vegas » a remplacé le sauna",
+      "id": "dissolution-2018-atlantis-salle-de-jeux",
+      "title": "Société dissoute en 2018, repreneur parti pendant le Covid, salle de jeux en 2024",
       "blocks": [
         {
           "kind": "text",
-          "body": "Le site du sauna a cédé la place à une annonce de vente du domaine entre le 12 janvier et le 9 février 2019. La même adresse a ensuite affiché « Coming soon » en mars 2022, des redirections jusqu'en 2025, et mène le 16 octobre 2026 à une page de parking. Aucun autre site de l'Atrium n'a été trouvé.\n\nSur le terrain, le contributeur d'OpenStreetMap qui contrôlait en mars 2024 l'existence des commerces a aussi requalifié le bâtiment en immeuble d'habitation. En juillet 2026, la carte ne recensait plus aucun sauna dans la commune de Kehl."
+          "body": "Le 17 juillet 2018, le tribunal d'Offenbourg a refusé d'ouvrir une procédure d'insolvabilité contre Atrium Concept GmbH, la société du sauna, faute d'actifs suffisants pour en couvrir les frais. La société s'est trouvée dissoute de ce fait. Elle a été radiée d'office du registre de Fribourg le 23 avril 2021."
+        },
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "13-15 juillet 2017",
+              "text": "Soirée d'inauguration « New Atrium Sauna », avec barbecue et boissons, annoncée sur un agenda strasbourgeois. En septembre, le registre enregistre un changement de gérant."
+            },
+            {
+              "date": "17 juillet 2018",
+              "text": "Le tribunal d'Offenbourg rejette la procédure d'insolvabilité faute d'actifs : la société est dissoute."
+            },
+            {
+              "date": "Janvier-février 2019",
+              "text": "Le site sauna-atrium.net laisse place à une annonce de vente du domaine, qui mène encore à une page de parking le 16 octobre 2026."
+            },
+            {
+              "date": "Mai 2019",
+              "text": "Le guide Travel Gay signale l'Atrium comme fermé."
+            },
+            {
+              "date": "Vers 2019-2021",
+              "text": "Le sauna est repris sous le nom d'Atlantis, puis son gérant annonce qu'il abandonne, les règles sanitaires l'empêchant de rouvrir."
+            },
+            {
+              "date": "23 avril 2021",
+              "text": "Atrium Concept GmbH est radiée du registre pour absence d'actifs."
+            },
+            {
+              "date": "28 mars 2024",
+              "text": "Un contributeur d'OpenStreetMap passé sur place relève une salle de jeux d'argent, nommée « HDY Las Vegas » en mai et toujours là le 19 septembre 2026. Le bâtiment est noté comme immeuble d'habitation."
+            }
+          ]
         },
         {
           "kind": "callout",
           "tone": "warning",
-          "title": "Une date de fermeture introuvable",
-          "body": "Le sauna a pu fonctionner quelque temps sans site après 2019, et personne n'avait peut-être vérifié le point de la carte entre 2017 et 2024. Le numéro historique, +49 7851 482705, ne donne plus de résultat dans l'annuaire allemand Das Örtliche : simple indice, un abonné pouvant refuser la recherche inversée."
+          "title": "Les dates de l'Atlantis sont déduites",
+          "body": "Le message d'adieu de l'Atlantis n'est pas daté. Sa version allemande parle d'une situation qui pèse depuis un an, et le gérant dit avoir investi « ces 2 dernières années » : d'où notre estimation, de 2019 à 2021. Aucun article de la presse locale, allemande ou alsacienne, n'a été trouvé sur ces fermetures."
         }
       ],
       "sources": [
+        "s30",
+        "s31",
+        "s33",
         "s1",
         "s2",
         "s12",
+        "s35",
+        "s34",
         "s13",
         "s14",
         "s15",
-        "s16",
-        "s18"
+        "s16"
       ],
       "icon": "closed",
-      "summary": "Un relevé OpenStreetMap du 28 mars 2024 constate une salle de jeux au 68 Schulstraße, toujours là en 2026 ; le site du sauna avait disparu début 2019."
+      "summary": "La société de l'Atrium est dissoute en 2018, faute d'actifs ; l'Atlantis reprend le lieu puis abandonne pendant le Covid ; une salle de jeux s'y trouve en 2024."
+    },
+    {
+      "id": "ou-aller-strasbourg-2026",
+      "title": "En 2026 à Strasbourg : l'Équateur pour les hommes, L'Oxydo pour les couples",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Pour le public gay, l'adresse la plus proche est le [Sauna Équateur, rue de Rosheim à Strasbourg](/equateur-sauna-strasbourg). Son site, à jour en 2026, annonce un sauna ouvert depuis 1991, tous les jours (12h-21h en semaine, 14h-21h le week-end), réservé aux hommes de 18 ans et plus. Les couples homme-femme n'y entrent donc pas."
+        },
+        {
+          "kind": "text",
+          "body": "Pour eux, le lieu le plus proche de l'esprit des « Open Day » est L'Oxydo, sauna libertin du centre de Strasbourg, au 3 place Clément, absent de notre annuaire. Le 19 octobre 2026, [son site officiel](https://www.sauna-oxydo.com/sauna-libertin-mixte/) annonçait une ouverture le jour même « en Mixte toutes Tendances », le mercredi restant réservé aux hommes."
+        },
+        {
+          "kind": "table",
+          "caption": "Journées mixtes de L'Oxydo, d'après son site le 19 octobre 2026",
+          "headers": [
+            "Jour",
+            "Couple homme + femme",
+            "Femme",
+            "Homme seul"
+          ],
+          "rows": [
+            [
+              "Lundi, « toutes tendances »",
+              "30 €",
+              "offert",
+              "30 € (14h-19h), 35 € (19h-1h30)"
+            ],
+            [
+              "Mardi, « Best Deals »",
+              "20 €",
+              "offert",
+              "25 €"
+            ],
+            [
+              "Jeudi",
+              "offert",
+              "offert",
+              "30 € (14h-19h), 35 € (19h-1h30)"
+            ],
+            [
+              "Samedi, 19h-1h30",
+              "35 €",
+              "10 €",
+              "40 €"
+            ]
+          ]
+        }
+      ],
+      "sources": [
+        "s20",
+        "s28",
+        "s29"
+      ],
+      "icon": "map",
+      "summary": "Pour les hommes, l'Équateur, rue de Rosheim ; pour un public mixte, L'Oxydo, place Clément, affiche quatre journées mixtes par semaine en octobre 2026."
+    },
+    {
+      "id": "pistes-rue-moll-chat-noir-cleopatra",
+      "title": "Rue Moll, Chat Noir, Cléopâtra : trois adresses à vérifier ; l'Inox a fermé",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le Complex, au 2A rue Moll, réunit le Drak Sauna et un club de cruising, L'Antracte. Son site annonce des journées mixtes « ouvertes à toutes tendances » le lundi, le mercredi et le vendredi, à 26 € le couple et 10 € la femme.\n\nMais ce site n'est pas daté, et la société enregistrée en 2015 sous l'enseigne Drak Sauna est cessée depuis octobre 2016 : ce lieu, absent de notre annuaire, reste à confirmer."
+        },
+        {
+          "kind": "text",
+          "body": "Le [Club Inox d'Illkirch-Graffenstaden](/club-inox-strasbourg-illkirch-graff) a fermé : sa société, I-NOX, est cessée au registre depuis 2022, et son site ne répond plus.\n\nPour [Le Chat Noir à Strasbourg](/le-chat-noir-strasbourg) et [Le Cléopâtra à Still](/le-cleopatra-still), le doute demeure : le 16 octobre 2026, leurs adresses web menaient à un guide généraliste et à un domaine à vendre. Le 19 octobre, un second domaine qu'un blog attribue au Chat Noir était lui aussi à vendre."
+        },
+        {
+          "kind": "text",
+          "body": "Assurez-vous qu'ils accueillent encore du monde avant de faire la route ; les autres adresses figurent sur la [page de Strasbourg](/ville/strasbourg) et sur celle des [établissements du Bas-Rhin](/departement/bas-rhin).\n\nPour savoir si un club alsacien annonce encore des soirées mixtes, vous pouvez [chercher une date alsacienne dans l'agenda de Wyylde](aff:wyylde) : l'ancien Netéchangisme, en ligne depuis 2001, le laisse consulter avec un compte gratuit, qui ne permet pas en revanche de répondre aux messages."
+        }
+      ],
+      "sources": [
+        "s41",
+        "s43",
+        "s40",
+        "s24",
+        "s25",
+        "s26",
+        "s27",
+        "s45"
+      ],
+      "icon": "warning",
+      "summary": "Le Complex, rue Moll, annonce trois journées mixtes sur un site non daté ; les domaines du Chat Noir et du Cléopâtra mènent à des pages de vente ; le Club Inox a fermé."
+    },
+    {
+      "id": "asticlub-kehl-goldscheuer",
+      "title": "À Kehl-Goldscheuer, l'AstiClub échangiste : couple à 50 €, boissons comprises",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "À Goldscheuer, quartier de Kehl, l'AstiClub, classé club échangiste sur OpenStreetMap depuis 2012, dit accueillir les couples, les femmes seules et les hommes seuls, « à 15 km de Strasbourg ». Il est absent de notre annuaire. Son site affiche des tarifs boissons à volonté comprises : 50 € le couple, 10 € la femme seule, 90 € l'homme seul."
+        },
+        {
+          "kind": "text",
+          "body": "Horaires annoncés : du lundi au mercredi de 14h à 20h, le vendredi de 20h à 1h et le samedi de 21h à 2h ; fermé le jeudi, hors soirées « Speed-Gaming ». Les téléphones restent au vestiaire, qui demande une caution de 10 €, rendue en fin de soirée."
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Une activité à confirmer",
+          "body": "Le livre d'or du club a été ouvert le 18 janvier 2026, avec un message de clients le même jour. Le 19 octobre 2026, l'agenda n'annonçait aucune soirée. Appelez le +49 7854 98 51 57 avant de passer la frontière."
+        },
+        {
+          "kind": "text",
+          "body": "L'autre sauna de la commune, le CalaSpa de Kehl-Sundheim (Boschstraße 6c), est un espace de bien-être sans maillot, ouvert dès 16 ans, qui ne se présente pas comme libertin."
+        }
+      ],
+      "sources": [
+        "s39",
+        "s47",
+        "s40",
+        "s44"
+      ],
+      "icon": "heart",
+      "summary": "Seul lieu libertin trouvé à Kehl, l'AstiClub de Goldscheuer reçoit couples, femmes et hommes seuls ; son agenda était vide le 19 octobre 2026. Le CalaSpa n'est pas libertin."
     },
     {
       "id": "open-day-mardi-jeudi-vendredi",
@@ -149,7 +324,7 @@
       "blocks": [
         {
           "kind": "text",
-          "body": "De 2008 à 2019, le site s'intitulait « Gay sauna ATRIUM ». Mais certains jours devenaient « Open Day », formule définie par « Bi, Gay, Hétéro » en français et par « Mann+Frau » en allemand. Dans la dernière grille (2016 à janvier 2019), c'était le cas le mardi, le jeudi et le vendredi ; les quatre autres jours restaient réservés au public gay. Ces jours-là, une femme seule entrait pour 12 €, moins cher que l'entrée gay à 17,50 €, et un homme seul payait 18,50 €.\n\nCes jours ont souvent bougé. En 2003, le mardi dès 20h accueillait une soirée privée pour couples ; en octobre 2008, les Open Day tombaient le mardi et le mercredi ; en mars 2012, le jeudi et le vendredi, rejoints par le mardi en juin 2013. L'annuaire dont provient notre fiche le classait simplement « sauna club libertin », sans dire qu'il s'agissait d'un sauna gay.\n\nÀ Strasbourg, L'Oxydo propose aujourd'hui des journées mixtes « toutes tendances » (voir plus bas). Si c'est ce mélange de bi et d'hétéros qui vous attirait, Carré Libertin, en ligne depuis 2007, accorde [un accès complet sans abonnement aux couples](aff:carre-libertin) comme aux femmes seules, contre trois photos de profil, et ses filtres de recherche portent aussi sur l'orientation."
+          "body": "De 2008 à 2019, le site s'intitulait « Gay sauna ATRIUM ». Mais certains jours devenaient « Open Day », formule définie par « Bi, Gay, Hétéro » en français et par « Mann+Frau » en allemand.\n\nDans la dernière grille (2016 à janvier 2019), c'était le cas le mardi, le jeudi et le vendredi ; les quatre autres jours restaient réservés au public gay. Ces jours-là, une femme seule entrait pour 12 €, moins cher que l'entrée gay à 17,50 €, et un homme seul payait 18,50 €.\n\nCes jours ont souvent bougé. En 2003, le mardi dès 20h accueillait une soirée privée pour couples ; en octobre 2008, les Open Day tombaient le mardi et le mercredi ; en mars 2012, le jeudi et le vendredi, rejoints par le mardi en juin 2013.\n\nL'annuaire dont provient notre fiche le classait simplement « sauna club libertin », sans dire qu'il s'agissait d'un sauna gay.\n\nÀ Strasbourg, L'Oxydo propose aujourd'hui des journées mixtes « toutes tendances » (voir plus haut). Si c'est ce mélange de bi et d'hétéros qui vous attirait, Carré Libertin, en ligne depuis 2007, accorde [un accès complet sans abonnement aux couples](aff:carre-libertin) comme aux femmes seules, contre trois photos de profil, et ses filtres de recherche portent aussi sur l'orientation."
         }
       ],
       "sources": [
@@ -222,35 +397,70 @@
       "summary": "Le couple homme-femme payait 16,50 € en 2008 et 25 € de 2016 à 2019 ; l'entrée gay est passée de 13,50 € en 2002 à 17,50 €."
     },
     {
-      "id": "solarium-2002-espace-fumeur-2019",
-      "title": "Solarium en 2002, espace fumeur en 2019 : les espaces décrits par le sauna",
+      "id": "atlantis-cinq-jours-mixtes",
+      "title": "L'Atlantis, repreneur des lieux : cinq jours mixtes et le couple à 20 €",
       "blocks": [
         {
           "kind": "text",
-          "body": "En 2002 et 2003, le club décrivait deux niveaux : sauna, bain de vapeur, solarium, terrasse-jardin, cabines de relaxation, salons TV et lecture, bar et restauration, avec des massages de détente du lundi au mercredi sur rendez-vous. De 2012 à 2019, la page d'accueil énumère bar, espace repos, terrasse, bain de vapeur, sauna sec, cabines, télévision, accès Internet et espace fumeur, mais plus le solarium ni la restauration ; travaux ou simple réécriture, nous l'ignorons. D'après le point créé sur OpenStreetMap en 2017 via Wheelmap, ni le lieu ni ses toilettes n'étaient accessibles en fauteuil roulant.\n\n**Photos.** Le site avait une galerie en diaporama Flash, non archivée de façon lisible, et nous ne reprenons pas les images d'autres sites : cette fiche ne montre donc pas le sauna."
+          "body": "Le sauna a rouvert sous le nom d'Atlantis Sauna Kehl, avec un site sur Google Sites et un nouveau numéro, +49 7851 6367699. Son gérant y écrit avoir investi pendant deux ans et réussi à « remettre en place les journées mixtes ». La grille qu'il affiche, non datée, est plus mixte et moins chère que celle de l'Atrium."
+        },
+        {
+          "kind": "table",
+          "caption": "Grille de l'Atlantis, d'après son site (non daté) ; le lundi n'y figure pas",
+          "headers": [
+            "Jour",
+            "Public",
+            "Horaires"
+          ],
+          "rows": [
+            [
+              "Mardi, mercredi, jeudi",
+              "Mixte",
+              "14h-0h"
+            ],
+            [
+              "Vendredi",
+              "Mixte",
+              "14h-1h"
+            ],
+            [
+              "Samedi",
+              "Hommes seulement ; « Blackout » le premier samedi du mois",
+              "14h-1h"
+            ],
+            [
+              "Dimanche",
+              "Mixte",
+              "14h-22h"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Côté prix : 20 € le couple, 15 € l'homme ou la femme seuls, 10 € pour les 18-25 ans et les étudiants, et 10 € pour tous après 20h. Deux serviettes et une bouteille d'eau ou un café étaient compris ; le vendredi et le samedi, un buffet ou un grill coûtait 5 € de plus."
+        },
+        {
+          "kind": "text",
+          "body": "Le site décrit neuf cabines, un sauna sec avec infusions (Aufguss), trois douches au niveau -1, un fumoir, une terrasse et un bar, mais un hammam « actuellement fermé ». Pour venir de Strasbourg, il indiquait le tram D, terminus Kehl Rathaus.\n\nL'ancien numéro de l'Atrium, +49 7851 482705, ne donne plus de résultat dans l'annuaire allemand Das Örtliche."
         }
       ],
       "sources": [
-        "s2",
-        "s3",
-        "s9",
-        "s10",
-        "s13",
-        "s14"
+        "s34",
+        "s18"
       ],
-      "icon": "spa",
-      "summary": "En 2002, deux niveaux avec sauna, bain de vapeur, solarium, jardin et restauration ; de 2012 à 2019, le site cite bar, sauna sec, cabines, terrasse et espace fumeur."
+      "icon": "calendar",
+      "summary": "L'Atlantis ouvrait en mixte du mardi au vendredi et le dimanche, gardait le samedi pour les hommes et faisait payer 20 € au couple, 10 € pour tous après 20h."
     },
     {
-      "id": "histoire-1997-2019",
-      "title": "De l'anniversaire de mai 2002 à la vente du domaine en février 2019",
+      "id": "histoire-1997-2009",
+      "title": "Une société créée en février 1997, cinq ans fêtés en mai 2002",
       "blocks": [
         {
           "kind": "timeline",
           "items": [
             {
-              "date": "Vers 1997",
-              "text": "Ouverture probable : l'année se déduit du 5e anniversaire fêté en 2002, aucune autre source ne la donne."
+              "date": "5 février 1997",
+              "text": "Création d'Atrium Concept GmbH, dont l'objet est un centre de fitness et de détente avec sauna, solarium, bar et restauration."
             },
             {
               "date": "4 mai 2002",
@@ -267,16 +477,12 @@
             {
               "date": "Janvier 2009",
               "text": "Les vœux de nouvelle année publiés sur le site sont signés « Christian et son équipe »."
-            },
-            {
-              "date": "Début 2019",
-              "text": "Entre le 12 janvier et le 9 février, le site disparaît au profit d'une annonce de vente du domaine."
             }
           ]
         },
         {
           "kind": "text",
-          "body": "L'Atrium entretenait des liens visibles avec deux saunas de Strasbourg. Son menu renvoyait vers le Sauna Équateur en 2002 et 2003 ; le site du Sauna club H2O, rue de Bouxwiller, citait l'Atrium et l'Équateur en 2008 ; la page de liens de l'Atrium nommait encore l'Équateur en 2018. En 2008, le site du H2O donnait même pour contact une adresse de messagerie au nom de l'Atrium, presque identique à celle qu'un annuaire attribue à l'Équateur. Partenariat ou gestion commune ? Rien ne permet de l'affirmer : l'Équateur a sa propre société, immatriculée en France en 1992, et son site actuel ne cite plus l'Atrium. Le H2O a perdu son site au plus tard en 2016."
+          "body": "L'Atrium entretenait des liens visibles avec deux saunas de Strasbourg. Son menu renvoyait vers le Sauna Équateur en 2002 et 2003 ; le site du Sauna club H2O, rue de Bouxwiller, citait l'Atrium et l'Équateur en 2008 ; la page de liens de l'Atrium nommait encore l'Équateur en 2018.\n\nEn 2008, le site du H2O donnait même pour contact une adresse de messagerie au nom de l'Atrium, presque identique à celle qu'un annuaire attribue à l'Équateur.\n\nPartenariat ou gestion commune ? Rien ne permet de l'affirmer : l'Équateur a sa propre société, immatriculée en France en 1992, et son site actuel ne cite plus l'Atrium. Le H2O a perdu son site au plus tard en 2016."
         }
       ],
       "sources": [
@@ -287,84 +493,36 @@
         "s9",
         "s10",
         "s11",
-        "s12",
         "s17",
         "s20",
         "s21",
         "s22",
-        "s23"
+        "s23",
+        "s31",
+        "s32"
       ],
       "icon": "history",
-      "summary": "Ouvert probablement en 1997, l'Atrium fête ses cinq ans en mai 2002, refond son site vers 2008 et perd son domaine début 2019."
+      "summary": "Atrium Concept GmbH est créée en février 1997 ; le sauna fête ses cinq ans en mai 2002, refond son site vers 2008 et se lie à deux saunas de Strasbourg."
     },
     {
-      "id": "ou-aller-strasbourg-2026",
-      "title": "En 2026 à Strasbourg : l'Équateur pour les hommes, L'Oxydo pour les couples",
+      "id": "solarium-2002-espace-fumeur-2019",
+      "title": "Solarium en 2002, espace fumeur en 2019 : les espaces décrits par le sauna",
       "blocks": [
         {
           "kind": "text",
-          "body": "Pour le public gay, l'adresse la plus proche est le [Sauna Équateur, rue de Rosheim à Strasbourg](/equateur-sauna-strasbourg). Son site, à jour en 2026, annonce un sauna ouvert depuis 1991, tous les jours (12h-21h en semaine, 14h-21h le week-end), réservé aux hommes de 18 ans et plus. Les couples homme-femme n'y entrent donc pas."
-        },
-        {
-          "kind": "text",
-          "body": "Pour eux, le lieu le plus proche de l'esprit des « Open Day » est L'Oxydo, sauna libertin du centre de Strasbourg, au 3 place Clément, absent de notre annuaire. Le 19 octobre 2026, [son site officiel](https://www.sauna-oxydo.com/sauna-libertin-mixte/) annonçait une ouverture le jour même « en Mixte toutes Tendances », le mercredi restant réservé aux hommes."
-        },
-        {
-          "kind": "table",
-          "caption": "Journées mixtes de L'Oxydo, d'après son site le 19 octobre 2026",
-          "headers": [
-            "Jour",
-            "Couple homme + femme",
-            "Femme",
-            "Homme seul"
-          ],
-          "rows": [
-            [
-              "Lundi, « toutes tendances »",
-              "30 €",
-              "offert",
-              "30 € (14h-19h), 35 € (19h-1h30)"
-            ],
-            [
-              "Mardi, « Best Deals »",
-              "20 €",
-              "offert",
-              "25 €"
-            ],
-            [
-              "Jeudi",
-              "offert",
-              "offert",
-              "30 € (14h-19h), 35 € (19h-1h30)"
-            ],
-            [
-              "Samedi, 19h-1h30",
-              "35 €",
-              "10 €",
-              "40 €"
-            ]
-          ]
-        },
-        {
-          "kind": "text",
-          "body": "Le [Club Inox d'Illkirch-Graffenstaden](/club-inox-strasbourg-illkirch-graff) n'est plus une piste : sa société, I-NOX, est cessée au registre depuis 2022, et son site ne répond plus. Pour [Le Chat Noir à Strasbourg](/le-chat-noir-strasbourg) et [Le Cléopâtra à Still](/le-cleopatra-still), le doute demeure : le 16 octobre 2026, l'adresse web du premier menait à un guide généraliste, celle du second à un domaine à vendre."
-        },
-        {
-          "kind": "text",
-          "body": "Assurez-vous qu'ils accueillent encore du monde avant de faire la route ; les autres adresses figurent sur la [page de Strasbourg](/ville/strasbourg) et sur celle des [établissements du Bas-Rhin](/departement/bas-rhin).\n\nPour savoir si un club alsacien annonce encore des soirées mixtes, vous pouvez [chercher une date alsacienne dans l'agenda de Wyylde](aff:wyylde) : l'ancien Netéchangisme, en ligne depuis 2001, le laisse consulter avec un compte gratuit, qui ne permet pas en revanche de répondre aux messages."
+          "body": "En 2002 et 2003, le club décrivait deux niveaux : sauna, bain de vapeur, solarium, terrasse-jardin, cabines de relaxation, salons TV et lecture, bar et restauration, avec des massages de détente du lundi au mercredi sur rendez-vous.\n\nDe 2012 à 2019, la page d'accueil énumère bar, espace repos, terrasse, bain de vapeur, sauna sec, cabines, télévision, accès Internet et espace fumeur, mais plus le solarium ni la restauration ; travaux ou simple réécriture, nous l'ignorons. D'après le point créé sur OpenStreetMap en 2017 via Wheelmap, ni le lieu ni ses toilettes n'étaient accessibles en fauteuil roulant.\n\n**Photos.** Le site avait une galerie en diaporama Flash, non archivée de façon lisible, et nous ne reprenons pas les images d'autres sites : cette fiche ne montre donc pas le sauna."
         }
       ],
       "sources": [
-        "s20",
-        "s24",
-        "s25",
-        "s26",
-        "s27",
-        "s28",
-        "s29"
+        "s2",
+        "s3",
+        "s9",
+        "s10",
+        "s13",
+        "s14"
       ],
-      "icon": "map",
-      "summary": "Pour les hommes, l'Équateur, rue de Rosheim ; pour un public mixte, L'Oxydo, place Clément, affiche quatre journées mixtes par semaine en octobre 2026."
+      "icon": "spa",
+      "summary": "En 2002, deux niveaux avec sauna, bain de vapeur, solarium, jardin et restauration ; de 2012 à 2019, le site cite bar, sauna sec, cabines, terrasse et espace fumeur."
     }
   ],
   "horaires": {
@@ -377,7 +535,7 @@
       "samedi": "17h30-1h, gay",
       "dimanche": "14h-22h, gay"
     },
-    "note": "Dernière grille publiée par le club (archive du 19 janvier 2016, toujours en ligne en janvier 2019). « Open Day = Bi, Gay, Hétéro ». Le sauna a fermé : ces horaires ne sont plus valables.",
+    "note": "Dernière grille publiée par l'Atrium (archive du 19 janvier 2016, toujours en ligne en janvier 2019). « Open Day = Bi, Gay, Hétéro ». Son repreneur, l'Atlantis, a ensuite affiché sa propre grille (voir la section qui lui est consacrée). Le sauna a fermé : ces horaires ne sont plus valables.",
     "confidence": "confirme",
     "sources": [
       "s4",
@@ -395,7 +553,7 @@
       "lundi, 14h-22h (offre spéciale)": "14 €",
       "abonnement 10 entrées": "150 €"
     },
-    "note": "Dernière grille du site officiel (février 2016, inchangée jusqu'au 9 janvier 2019), entrée avec deux serviettes. Tarifs historiques : le sauna a fermé.",
+    "note": "Dernière grille de l'Atrium (février 2016, inchangée jusqu'au 9 janvier 2019), entrée avec deux serviettes. L'Atlantis a ensuite pratiqué des prix plus bas (couple à 20 €). Tarifs historiques : le sauna a fermé.",
     "confidence": "confirme",
     "sources": [
       "s5"
@@ -417,6 +575,11 @@
       "label": "Site officiel archivé (janvier 2019)",
       "url": "https://web.archive.org/web/20190112174911/http://www.sauna-atrium.net/",
       "kind": "autre"
+    },
+    {
+      "label": "Site de l'Atlantis Sauna, repreneur à la même adresse (message de fermeture)",
+      "url": "https://sites.google.com/view/saunaatlantiskehl/accueil",
+      "kind": "autre"
     }
   ],
   "corrections": {
@@ -431,15 +594,19 @@
   "faq": [
     {
       "question": "L'Atrium de Kehl est-il encore ouvert ?",
-      "answer": "Non. Depuis au moins mars 2024, une salle de jeux, « HDY Las Vegas », occupe le 68 Schulstraße, et le site du sauna a disparu en février 2019. La date exacte de la fermeture reste inconnue."
+      "answer": "Non. Sa société a été dissoute en 2018 puis radiée en 2021, et son site a disparu en février 2019. Repris un temps sous le nom d'Atlantis, le lieu a de nouveau fermé pendant la crise sanitaire. Depuis au moins mars 2024, une salle de jeux, « HDY Las Vegas », occupe le 68 Schulstraße."
+    },
+    {
+      "question": "L'Atlantis Sauna de Kehl est-il ouvert ?",
+      "answer": "Non. L'Atlantis avait repris le sauna de l'Atrium au 68 Schulstraße. Son gérant annonce sur le site du sauna qu'il abandonne, faute de pouvoir rouvrir pendant la crise sanitaire. Le message n'est pas daté, mais sa version allemande évoque une situation qui dure depuis un an : vraisemblablement en 2021. L'adresse est aujourd'hui occupée par une salle de jeux."
     },
     {
       "question": "Où aller en couple depuis la fermeture de l'Atrium ?",
-      "answer": "À Strasbourg, L'Oxydo (3 place Clément) annonçait le 19 octobre 2026 des journées mixtes le lundi, le mardi, le jeudi et le samedi, de 20 à 35 € pour un couple, entrée offerte le jeudi. L'Équateur, l'autre sauna de la ville, est réservé aux hommes."
+      "answer": "À Strasbourg, L'Oxydo (3 place Clément) annonçait le 19 octobre 2026 des journées mixtes le lundi, le mardi, le jeudi et le samedi, de 20 à 35 € pour un couple, entrée offerte le jeudi. À Kehl même, l'AstiClub de Goldscheuer, recensé comme club échangiste, reçoit les couples pour 50 €, boissons comprises, mais son agenda était vide ce jour-là : appelez avant. L'Équateur, à Strasbourg, est réservé aux hommes."
     },
     {
       "question": "Où se trouvait le sauna Atrium, et comment y allait-on depuis Strasbourg ?",
-      "answer": "Au 68 Schulstraße, 77694 Kehl, en Allemagne, dans le quartier Insel de Sundheim selon le géocodage d'OpenStreetMap. Le club se disait à 5 minutes de Strasbourg une fois la frontière passée, et à 8 minutes de l'A5 Karlsruhe-Bâle par la sortie Appenweier. Son site écrivait « Schulsstrasse », avec une coquille."
+      "answer": "Au 68 Schulstraße, 77694 Kehl, en Allemagne, dans le quartier Insel de Sundheim selon le géocodage d'OpenStreetMap. Le club se disait à 5 minutes de Strasbourg une fois la frontière passée, et à 8 minutes de l'A5 Karlsruhe-Bâle par la sortie Appenweier. Son successeur, l'Atlantis, indiquait le tram D, terminus Kehl Rathaus."
     },
     {
       "question": "L'Atrium était-il un club libertin ?",
@@ -447,20 +614,21 @@
     },
     {
       "question": "Existe-t-il un autre sauna à Kehl ?",
-      "answer": "OpenStreetMap n'en recense aucun dans la commune (données de juillet 2026), sans garantie d'exhaustivité. Les saunas ouverts les plus proches sont à Strasbourg : l'Équateur pour les hommes, L'Oxydo pour un public mixte. Pour ne pas y aller seul, vous pouvez [voir qui fréquente Gleese autour de Strasbourg](aff:gleese) : ce site français lancé fin 2024 s'ouvre sans carte bancaire et fait vérifier le numéro de téléphone de chaque inscrit. Ses membres sont encore peu nombreux, mais une recherche limitée à l'agglomération strasbourgeoise dira vite si quelqu'un est prêt à vous accompagner à L'Oxydo."
+      "answer": "Oui, mais pas libertin : le CalaSpa, Boschstraße 6c à Kehl-Sundheim, est un espace de bien-être sans maillot ouvert dès 16 ans. Aucun sauna gay ou mixte n'a été trouvé dans la commune ; les plus proches sont à Strasbourg : l'Équateur pour les hommes, L'Oxydo pour un public mixte. Pour ne pas y aller seul, vous pouvez [voir qui fréquente Gleese autour de Strasbourg](aff:gleese) : ce site français lancé fin 2024 s'ouvre sans carte bancaire et fait vérifier le numéro de téléphone de chaque inscrit. Ses membres sont encore peu nombreux, mais une recherche limitée à l'agglomération strasbourgeoise dira vite si quelqu'un est prêt à vous accompagner à L'Oxydo."
     },
     {
       "question": "Qui tenait le sauna Atrium ?",
-      "answer": "Nous ne le savons pas. La société exploitante n'apparaît pas au registre français, ce qui est attendu pour un établissement allemand, et le registre du commerce allemand n'a pas été consulté. Seul indice : les vœux de janvier 2009 étaient signés « Christian et son équipe »."
+      "answer": "Une société de droit allemand, Atrium Concept GmbH, créée en février 1997 et inscrite au registre du commerce de Fribourg-en-Brisgau (HRB 371473), pour exploiter un centre de détente avec sauna, solarium, bar et restauration. Elle a été dissoute en 2018, faute d'actifs, et radiée en 2021. Les vœux de janvier 2009 étaient signés « Christian et son équipe » ; la société qui a exploité l'Atlantis n'est pas connue."
     }
   ],
   "unverified": [
-    "La date exacte de la fermeture : entre janvier 2019 et mars 2024, aucune annonce ni aucun article n'a été trouvé.",
-    "La société qui exploitait le sauna : le Handelsregister allemand n'a pas été consulté.",
-    "La presse locale (Kehler Zeitung, DNA), les avis Google et une éventuelle page Facebook n'ont pas pu être consultés pour cette fiche.",
+    "Les dates d'ouverture et de fermeture de l'Atlantis : vers 2019 et vers 2021, déduites d'un message d'adieu non daté.",
+    "La date exacte de la fermeture de l'Atrium : sa société est dissoute en juillet 2018 et un guide gay le signale fermé en mai 2019, mais le sauna a pu fermer plus tôt ou tourner un temps sous une autre exploitation.",
+    "La société qui exploitait l'Atlantis, et la forme de la reprise (rachat du fonds ou nouvelle exploitation).",
+    "Le sens de la soirée « New Atrium » de juillet 2017 : relance liée au changement de gérant de septembre 2017, ou simple fête ? L'annonce ne le dit pas.",
     "Un lien de gestion avec le Sauna Équateur et le Sauna club H2O de Strasbourg : suggéré par des liens croisés et une adresse de contact proche, jamais prouvé.",
-    "L'année d'ouverture : 1997 se déduit du « 5e anniversaire » de mai 2002.",
-    "L'activité actuelle du Chat Noir et du Cléopâtra, cités comme pistes pour les couples."
+    "Les avis Google (non consultés) et les pages Facebook de l'Atrium et de l'Atlantis (mur de connexion) ; aucun article de presse locale n'a été trouvé.",
+    "L'activité actuelle de l'AstiClub, du Complex (rue Moll), du Chat Noir et du Cléopâtra, cités comme pistes."
   ],
   "sources": [
     {
@@ -590,13 +758,6 @@
       "consulted": "2026-10-16"
     },
     {
-      "id": "s19",
-      "label": "Recherche d'entreprises (data.gouv.fr), requêtes « sauna atrium » et « atrium kehl »",
-      "url": "https://recherche-entreprises.api.gouv.fr/search?q=sauna%20atrium",
-      "type": "registre",
-      "consulted": "2026-10-16"
-    },
-    {
       "id": "s20",
       "label": "Sauna Équateur, Strasbourg, site officiel (accueil, liens, horaires et tarifs)",
       "url": "https://www.sauna-equateur.net/",
@@ -665,13 +826,110 @@
       "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/810973628",
       "type": "registre",
       "consulted": "2026-10-19"
+    },
+    {
+      "id": "s30",
+      "label": "Registre du commerce de Fribourg, Atrium Concept GmbH (HRB 371473) : dissolution de 2018 et radiation de 2021 (publications reprises par webvalid.de)",
+      "url": "https://www.webvalid.de/company/Atrium+Concept+GmbH+Entspannungs-+und+Fitnesscenter,+Kehl/HRB+371473",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s31",
+      "label": "North Data, Atrium Concept GmbH Entspannungs- und Fitnesscenter (objet social, capital, publications 2006-2021)",
+      "url": "https://www.northdata.de/Atrium%20Concept%20GmbH%20Entspannungs-%20und%20Fitnesscenter,%20Kehl/Amtsgericht%20Freiburg%20HRB%20371473",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s32",
+      "label": "online-handelsregister.de, Atrium Concept GmbH (date de création, statut radié)",
+      "url": "https://www.online-handelsregister.de/handelsregisterauszug/bw/Freiburg/HRB/371473/Atrium-Concept-GmbH-Entspannungs-und-Fitnesscenter",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s33",
+      "label": "Strasbourg Curieux, agenda : « New Atrium Sauna », soirée d'inauguration du 13 au 15 juillet 2017",
+      "url": "https://strasbourg.curieux.net/agenda/evenement/new-atrium-sauna",
+      "type": "autre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s34",
+      "label": "Atlantis Sauna Kehl, site officiel du repreneur (accueil, horaires, tarifs, message de fermeture)",
+      "url": "https://sites.google.com/view/saunaatlantiskehl/accueil",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s35",
+      "label": "Travel Gay, « Sauna Atrium – CLOSED » (signalé fermé en mai 2019 ; archive du 19/10/2019)",
+      "url": "https://web.archive.org/web/20191019123044/https://www.travelgay.com/venue/sauna-atrium/",
+      "type": "annuaire",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s39",
+      "label": "AstiClub, Kehl-Goldscheuer, site officiel (accueil, horaires et tarifs, agenda, règles, livre d'or)",
+      "url": "https://www.asticlub.de/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s40",
+      "label": "Boosterblog, « Découverte des clubs libertins à Strasbourg » (mis à jour le 3 mai 2026)",
+      "url": "https://boosterblog.com/decouverte-des-clubs-libertins-a-strasbourg-une-experience-unique-entre-evasion-et-rencontres/",
+      "type": "annuaire",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s41",
+      "label": "Le Complex (Drak Sauna et L'Antracte), Strasbourg, site officiel",
+      "url": "https://www.antracte.fr/le-draks",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s43",
+      "label": "Annuaire des entreprises, SKB COMPLEX (enseigne DRAK SAUNA), société cessée en 2016",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/814552311",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s44",
+      "label": "CalaSpa, Kehl-Sundheim, site officiel",
+      "url": "https://www.cala-spa.de/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s45",
+      "label": "lechatnoirstrasbourg.com, état du domaine (page de vente)",
+      "url": "https://www.lechatnoirstrasbourg.com/",
+      "type": "autre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s47",
+      "label": "OpenStreetMap, historique du point « Asti Club » (amenity=swingerclub depuis avril 2012), Römerstraße 82, Kehl-Goldscheuer",
+      "url": "https://www.openstreetmap.org/node/1702287005/history",
+      "type": "carte",
+      "consulted": "2026-10-19"
     }
   ],
   "glance": [
     {
       "icon": "closed",
       "label": "Fermé",
-      "value": "Date inconnue, entre 2019 et mars 2024"
+      "value": "Vers 2019 ; repreneur Atlantis vers 2021"
+    },
+    {
+      "icon": "history",
+      "label": "Période d'activité",
+      "value": "1997-2019 (Atrium), 2019-2021 (Atlantis)",
+      "confidence": "a_verifier"
     },
     {
       "icon": "building",
@@ -682,11 +940,6 @@
       "icon": "map",
       "label": "Adresse",
       "value": "68 Schulstraße, 77694 Kehl (Allemagne)"
-    },
-    {
-      "icon": "users",
-      "label": "Public (2016-2019)",
-      "value": "Gay ; mixte mardi, jeudi et vendredi"
     },
     {
       "icon": "euro",
@@ -701,9 +954,9 @@
   ],
   "highlights": [
     "L'Atrium n'existe plus : une salle de jeux d'argent occupe le 68 Schulstraße, à Kehl, depuis au moins mars 2024.",
-    "Le domaine sauna-atrium.net est à vendre depuis février 2019, et l'ancien numéro ne donne plus aucun résultat dans l'annuaire allemand Das Örtliche.",
+    "L'Atlantis Sauna, qui avait repris les lieux avec un autre numéro (+49 7851 6367699), a lui aussi fermé, pendant la crise sanitaire.",
     "Pour les hommes, l'Équateur, 5 rue de Rosheim à Strasbourg, ouvre tous les jours en 2026 ; il n'accueille ni couples ni femmes.",
     "Pour un public mixte, L'Oxydo, place Clément à Strasbourg, annonce en octobre 2026 des journées mixtes le lundi, le mardi, le jeudi et le samedi.",
-    "Notre annuaire plaçait le sauna à « 77696 Kehl », dans le Bas-Rhin : il était en Allemagne, code postal 77694."
+    "À Kehl même, l'AstiClub de Goldscheuer, club échangiste selon OpenStreetMap (couple à 50 €), n'annonçait aucune soirée le 19 octobre 2026 : appelez avant."
   ]
 }

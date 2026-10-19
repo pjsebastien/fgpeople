@@ -188,7 +188,7 @@
         },
         {
           "kind": "text",
-          "body": "Le site décrit un éclairage tamisé et une musique « dansante mais modérée », volontairement assez basse pour laisser entendre ce qui se passe dans les alcôves. L’ancien site, toujours en ligne, signalait en outre des préservatifs laissés à disposition dans les salons. Aucun des deux ne dit un mot du stationnement ou des transports en commun, et la foire aux questions du nouveau site était encore vide le 19 octobre 2026."
+          "body": "Le site décrit un éclairage tamisé et une musique « dansante mais modérée », volontairement assez basse pour laisser entendre ce qui se passe dans les alcôves. L’ancien site, toujours en ligne, signalait en outre des préservatifs laissés à disposition dans les salons.\n\nNi piscine ni spa : le site n’en mentionne aucun, ce que relève aussi un avis Google de décembre 2025. Le club ne dit rien du stationnement ni des transports en commun, et la foire aux questions de son site était encore vide le 19 octobre 2026. Un avis de novembre 2025, affiché sur sa page d’accueil, signale un parking payant juste à côté."
         }
       ],
       "sources": [
@@ -196,10 +196,11 @@
         "s2",
         "s23",
         "s22",
-        "s9"
+        "s9",
+        "s36"
       ],
       "icon": "building",
-      "summary": "Une cave voûtée en pierre et poutres de plus de 400 m² selon le club : bar lounge, dancefloor, alcôves avec glory holes et équipements BDSM, douches et espace fumeur."
+      "summary": "Cave voûtée en pierre et poutres de plus de 400 m² selon le club : bar lounge, dancefloor, alcôves avec glory holes et équipements BDSM, douches ; ni piscine ni spa."
     },
     {
       "id": "agenda-octobre-decembre-2026",
@@ -314,7 +315,7 @@
           "kind": "callout",
           "tone": "info",
           "title": "Badaboom Vol 5, le samedi 21 novembre : une soirée sur sélection",
-          "body": "Pour sa cinquième Badaboom, l’organisateur Florealban choisit lui-même les participants : surtout des couples, quelques hommes seuls retenus un par un, une parité hommes-femmes recherchée et une tenue légère inspirée du Cap d’Agde. Les prix sont plus élevés qu’en soirée ordinaire (voir l’encadré des tarifs), buffet sucré-salé compris, et le club demande d’attendre sa validation avant de s’inscrire sur la « fiche événement »."
+          "body": "Pour sa cinquième Badaboom, l’organisateur Florealban choisit lui-même les participants : surtout des couples, quelques hommes seuls retenus un par un, une parité hommes-femmes recherchée et une tenue légère inspirée du Cap d’Agde. Prix plus élevés qu’en soirée ordinaire (voir l’encadré des tarifs), buffet sucré-salé compris. La demande passe par le bouton WhatsApp de l’organisateur, pas par le numéro du club, et la page prie d’attendre d’être retenu avant de s’inscrire sur la « fiche événement »."
         },
         {
           "kind": "text",
@@ -415,12 +416,52 @@
       "summary": "Robe ou jupe et talons, chemise et souliers de cuir, ni denim ni sportswear ; douche et préservatif obligatoires, un refus est définitif."
     },
     {
-      "id": "onze-bougies-societe-2016",
-      "title": "« 11 bougies » en 2026 pour une société née en 2016 : ce que dit la chronologie",
+      "id": "avis-google-3-6-sur-94",
+      "title": "3,6 sur 5 pour 94 avis Google, quand les cinq derniers donnent 4 ou 5 étoiles",
+      "icon": "star",
+      "summary": "Le module d’avis Google du site affichait 3,6/5 pour 94 avis en février 2026 ; les cinq plus récents, de novembre 2025 à janvier 2026, donnaient 4 ou 5 étoiles.",
       "blocks": [
         {
           "kind": "text",
-          "body": "L’histoire du lieu reste en partie floue : nous n’avons pu consulter ni presse ni archive ancienne du club. Le 26 septembre 2026, L’Angel’us a célébré ses « 11 bougies » et « plus d’une décennie » de soirées, ce qui placerait l’ouverture vers 2015. Or J2CV, la société qui l’exploite aujourd’hui, n’a été immatriculée qu’en octobre 2016. Par ailleurs, un autre débit de boissons sans enseigne déclarée, la SARL RMD, a occupé la même adresse de 2014 à 2017 : rien ne permet d’affirmer qu’il s’agissait déjà du club."
+          "body": "La page d’accueil du club intègre un module d’avis Google consacré à « Club Angelus », au 9 boulevard Gambetta. Ses données, enregistrées le 5 février 2026, indiquent 3,6 sur 5 pour 94 avis. Nous n’avons pas consulté la fiche Google elle-même : la note a pu évoluer depuis.\n\nRéglé sur les cinq avis les plus récents, le module en montre cinq publiés entre le 9 novembre 2025 et le 25 janvier 2026, tous à 4 ou 5 étoiles, nettement au-dessus de la moyenne. Rien n’indique s’il écarte les notes basses, et les avis plus anciens n’y figurent pas. Ce que disent ces cinq-là :"
+        },
+        {
+          "kind": "list",
+          "items": [
+            "**Débutants** : un couple dit y avoir découvert le libertinage et décrit une clientèle jeune, attentive aux nouveaux venus (janvier 2026).",
+            "**Espaces** : coins câlins jugés propres, entre chambre fermée et grands matelas partagés ; le lieu paraît « pas super grand » à un client, très grand à un autre.",
+            "**Reprise** : un avis de décembre 2025, au ton très promotionnel, décrit un club qui « renaît » avec Yoann, carte des boissons revue."
+          ]
+        }
+      ],
+      "sources": [
+        "s36"
+      ]
+    },
+    {
+      "id": "celeste-lisses-bastet-5-et-plus",
+      "title": "Autour de Melun, Le Céleste ouvert à Lisses, Bastet et le 5 et Plus sans activité",
+      "icon": "map",
+      "summary": "Seul club de Melun dans notre annuaire ; Le Céleste, à Lisses, programme une soirée le 31 octobre 2026, alors que Bastet (Meaux) et le 5 et Plus (Émerainville) ont cessé.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "L’Angel’us est le seul lieu libertin de Melun que recense notre annuaire. Une alternative à l’activité vérifiée se trouve dans l’Essonne : le site du Céleste, à Lisses, annonçait le 19 octobre 2026 une soirée privée d’Halloween le samedi 31 octobre, de 21 h à 4 h.\n\nDeux autres adresses du département ne montrent plus d’activité. Aux Secrets de Bastet, à Meaux, a annoncé sa fermeture après la soirée du 23 décembre 2017. Au 5 et Plus d’Émerainville, les deux sociétés exploitantes successives ont cessé, la dernière le 30 novembre 2019, et le registre n’y montre plus aucun bar ni restaurant en activité."
+        }
+      ],
+      "sources": [
+        "s39",
+        "s40",
+        "s38"
+      ]
+    },
+    {
+      "id": "onze-bougies-societe-2016",
+      "title": "« 11 bougies » en 2026 pour une société immatriculée en octobre 2016",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "L’histoire du lieu reste en partie floue : nous n’avons pu consulter ni presse ni archive ancienne du club. Le 26 septembre 2026, L’Angel’us a célébré ses « 11 bougies » et « plus d’une décennie » de soirées, ce qui placerait l’ouverture vers 2015. Or J2CV, la société qui l’exploite aujourd’hui, n’a été immatriculée qu’en octobre 2016. Par ailleurs, un autre débit de boissons sans enseigne déclarée, la SARL RMD, a occupé la même adresse de 2014 à 2017 : rien ne permet d’affirmer qu’il s’agissait déjà du club.\n\nLa période récente laisse deviner une reprise. Yoann annonce fêter ses deux ans au club en octobre 2026, et un avis Google de décembre 2025 au ton très promotionnel, affiché sur le site, salue un club qui « renaît » grâce à lui. Ni le club ni le registre ne datent ce changement."
         },
         {
           "kind": "timeline",
@@ -435,7 +476,7 @@
             },
             {
               "date": "12 octobre 2016",
-              "text": "Création de J2CV, nom commercial L’Angelus, enregistrée comme débit de boissons ; son établissement du boulevard Gambetta ouvre le 25 novembre."
+              "text": "Création de J2CV, avec un premier établissement à Puiseaux (Loiret) ; celui du boulevard Gambetta, débit de boissons au nom commercial L’Angelus, ouvre le 25 novembre."
             },
             {
               "date": "22 juin 2017",
@@ -477,28 +518,32 @@
         "s28",
         "s27",
         "s6",
-        "s9"
+        "s9",
+        "s36",
+        "s37"
       ],
       "icon": "history",
       "summary": "Le club dit fêter ses 11 ans en 2026, mais sa société exploitante, J2CV, date d’octobre 2016 : la date réelle d’ouverture reste à établir."
     },
     {
       "id": "j2cv-angelus-graphies",
-      "title": "J2CV, SAS d’un ou deux salariés, et quatre graphies du même nom",
+      "title": "J2CV, une SAS enregistrée à Melun et à Puiseaux, et cinq graphies du même nom",
       "icon": "building",
-      "summary": "J2CV est une SAS d’un à deux salariés en 2024, avec un second établissement non localisé ; le club s’écrit L’Angelus, L’Angel’us, Angel’us Club ou L’Angélus.",
+      "summary": "J2CV, SAS d’un à deux salariés en 2024, a un second établissement à Puiseaux (Loiret) ; le club s’écrit L’Angelus, L’Angel’us, Angel’us Club, L’Angélus ou Club Angelus.",
       "blocks": [
         {
           "kind": "text",
-          "body": "Au registre, J2CV est une société par actions simplifiée (la politique de confidentialité du site parle de SARL), déclarait un à deux salariés en 2024 et compte un second établissement dont l’adresse nous est inconnue.\n\nLe nom s’écrit de plusieurs façons : L’Angelus au registre, L’Angel’us ou Angel’us Club sur le site actuel, L’Angélus sur l’ancien, avec la signature « Le Sanctuaire des Désirs ». Notre ancienne fiche le classait comme bar libertin, et le registre range l’activité parmi les débits de boissons ; le club se décrit, lui, comme un club libertin doté de plus de 200 m² d’espaces de jeu."
+          "body": "Au registre, J2CV est une société par actions simplifiée (la politique de confidentialité du site parle de SARL), qui déclarait un à deux salariés en 2024. Son second établissement, créé le jour de l’immatriculation, le 12 octobre 2016, se trouve à Puiseaux, dans le Loiret, sous le code d’activité des sièges sociaux. Le registre le désigne comme l’ancien siège de la société ; il y est toujours donné ouvert, sans activité de club déclarée.\n\nLe nom s’écrit de plusieurs façons : L’Angelus au registre, L’Angel’us ou Angel’us Club sur le site actuel, L’Angélus sur l’ancien, Club Angelus sur Google, avec la signature « Le Sanctuaire des Désirs ». Notre ancienne fiche le classait comme bar libertin, et le registre range l’activité parmi les débits de boissons ; le club se décrit, lui, comme un club libertin doté de plus de 200 m² d’espaces de jeu."
         }
       ],
       "sources": [
         "s25",
+        "s37",
         "s6",
         "s1",
         "s2",
-        "s24"
+        "s24",
+        "s36"
       ]
     }
   ],
@@ -594,7 +639,7 @@
   "faq": [
     {
       "question": "Où se trouve le club libertin de Melun ?",
-      "answer": "L’Angel’us est au 9 boulevard Gambetta, 77000 Melun, dans une cave voûtée. C’est la seule adresse libertine de la ville recensée dans [notre annuaire de Melun](/ville/melun). Le site officiel ne dit rien du stationnement ni des transports : posez la question en réservant au 06 58 14 50 70, sur WhatsApp."
+      "answer": "L’Angel’us est au 9 boulevard Gambetta, 77000 Melun, dans une cave voûtée. C’est la seule adresse libertine de la ville recensée dans [notre annuaire de Melun](/ville/melun). Le site officiel ne dit rien du stationnement ni des transports ; seul un avis client de novembre 2025, qu’il affiche, signale un parking payant juste à côté. Posez la question en réservant au 06 58 14 50 70, sur WhatsApp."
     },
     {
       "question": "Combien coûte une soirée à L’Angel’us ?",
@@ -618,19 +663,18 @@
     },
     {
       "question": "Quels autres clubs libertins trouver près de Melun ?",
-      "answer": "Ailleurs en Seine-et-Marne, notre annuaire recense notamment [5 et Plus à Émerainville](/5-et-plus-emerainville), [le 7e Ciel à Fontenay-Trésigny](/le-7-eme-ciel-fontenay-tresigny) et [Aux Secrets de Bastet, à Meaux](/aux-secrets-de-bastet-meaux), et côté Essonne [Le Céleste, à Lisses](/celeste-lisses-club-libertin) ; leur activité n’a pas été revérifiée pour cette fiche. La liste complète est sur [notre page consacrée à la Seine-et-Marne](/departement/seine-et-marne)."
+      "answer": "Dans l’Essonne, [Le Céleste, à Lisses](/celeste-lisses-club-libertin) a une activité vérifiée : il annonce une soirée le 31 octobre 2026. En Seine-et-Marne, notre annuaire recense aussi [le 7e Ciel à Fontenay-Trésigny](/le-7-eme-ciel-fontenay-tresigny), sans vérification récente de son activité. Écartez [Aux Secrets de Bastet, à Meaux](/aux-secrets-de-bastet-meaux), fermé depuis décembre 2017, et le 5 et Plus d’Émerainville, dont la société exploitante a cessé en 2019 sans successeur visible au registre. La liste complète est sur [notre page consacrée à la Seine-et-Marne](/departement/seine-et-marne)."
     }
   ],
   "unverified": [
-    "Note et nombre d’avis Google : non relevés, la recherche par moteur était indisponible lors de notre passage.",
-    "Stationnement et accès en transports en commun : aucune indication sur le site officiel, dont la FAQ est vide.",
-    "Date réelle d’ouverture du club, et lien éventuel avec la société RMD qui occupait la même adresse de 2014 à 2017.",
+    "Note Google actuelle : seule celle relayée par le module du site officiel (3,6/5 pour 94 avis, données du 5 février 2026) a pu être lue, pas la fiche Google elle-même.",
+    "Stationnement et accès en transports en commun : rien sur le site officiel, dont la FAQ est vide ; un seul avis client évoque un parking payant voisin.",
+    "Date réelle d’ouverture du club, lien éventuel avec la société RMD qui occupait la même adresse de 2014 à 2017, et date de l’arrivée de Yoann.",
     "Origine du numéro fixe 01 60 66 01 02 qui figurait dans notre ancienne fiche.",
-    "Adresse et activité du second établissement déclaré par la société J2CV.",
     "Prix réel de l’entrée des femmes seules le samedi : offert sur la grille, 20 € sur la plupart des pages de soirées.",
     "Prix et conditions de la visite des lieux proposée avant 22 h.",
     "Vestiaire payant ou non, moyens de paiement acceptés.",
-    "Articles de presse locale sur le club : aucune recherche possible lors de notre passage."
+    "Articles de presse locale sur le club : la recherche par moteur était indisponible lors de nos passages des 16 et 19 octobre 2026."
   ],
   "sources": [
     {
@@ -877,6 +921,41 @@
       "url": "https://www.angelus-club.com/d-tails-de-l-v-nement/french-80s-night",
       "type": "officiel",
       "consulted": "2026-10-19"
+    },
+    {
+      "id": "s36",
+      "label": "Module d’avis Google de la page d’accueil du site officiel (« Club Angelus », 3,6/5 pour 94 avis, cinq avis du 9 novembre 2025 au 25 janvier 2026, données du 5 février 2026)",
+      "url": "https://www.angelus-club.com/",
+      "type": "avis",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s37",
+      "label": "Annuaire des entreprises : établissement J2CV de Puiseaux (SIRET 823 623 749 00012, créé le 12 octobre 2016, sièges sociaux, ancien siège)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/etablissement/82362374900012",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s38",
+      "label": "Annuaire des entreprises : Société nouvelle d’exploitation Le 5 et Plus (club privé), SIREN 512 666 892, cessée le 30 novembre 2019",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/512666892",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s39",
+      "label": "Le Céleste (Lisses), site officiel : soirée privée « Orgasm X – Spécial Halloween » du samedi 31 octobre 2026",
+      "url": "https://lecelestesaunaclub.com/soiree/soiree-privee-orgasm-x-special-halloween/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s40",
+      "label": "Aux Secrets de Bastet (Meaux), site officiel : annonce de fermeture après la soirée du 23 décembre 2017 (archive du 17 janvier 2018)",
+      "url": "https://web.archive.org/web/20180117100348/http://www.aux-secrets-de-bastet.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
     }
   ],
   "glance": [

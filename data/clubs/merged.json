@@ -6,6 +6,24 @@
       "to": "celeste-lisses-club-libertin",
       "reason": "Ancien nom du même lieu : même adresse, même société LES TERRASSES SARL, même SIRET 802 340 125 00011 (dossier celeste-lisses-club-libertin, S13, S18, S19).",
       "date": "2026-10-16"
+    },
+    {
+      "from": "l-eclypse-valence",
+      "to": "aloha-club-valence",
+      "reason": "Même lieu sous son nom suivant : affiche officielle « L'ECLYPSE devient Aloha Club » (archive du 18/08/2018), bandeau du site Eclypse renvoyant vers aloha-club26.com, même adresse (10 rue Montplaisir) et même téléphone ; une seule société au registre (SAS PCE, nom commercial L'ECLYPSE). Établi par les dossiers aloha-club-valence et l-eclypse-valence.",
+      "date": "2026-10-19"
+    },
+    {
+      "from": "liberty-naje-bourg-les-valence",
+      "to": "le-sandy-s-bourg-les-valence",
+      "reason": "Ancien nom du même lieu : la fondatrice écrit sur le site du Liberty-Naje (archive du 08/03/2016) l'avoir vendu et qu'il « deviendra à partir du 1er mars le Sandy's » ; le site du Sandy's se dit « anciennement le Liberty-Naje » ; même adresse, 16 route de Châteauneuf. Dossier le-sandy-s-bourg-les-valence.",
+      "date": "2026-10-19"
+    },
+    {
+      "from": "le-boudoir-nice",
+      "to": "l-as-nice",
+      "reason": "Même établissement : même adresse (30 avenue Edouard Grinda, 06200 Nice) et même téléphone dans les deux fiches et dans l'annuaire source ; une seule entreprise du secteur à cette adresse (A.S.S., SIREN 451772065). Dossier l-as-nice.",
+      "date": "2026-10-19"
     }
   ]
 }

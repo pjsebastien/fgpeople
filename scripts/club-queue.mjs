@@ -26,10 +26,21 @@ const merged = new Set(read('data/clubs/merged.json', { merges: [] }).merges.map
 const hold = read('data/clubs/hold.json', { slugs: [] }).slugs.map((h) => h.slug);
 const held = new Set(hold);
 
+// Dossier constitué sans recherche web (quota épuisé le 16/10/2026) et pas encore complété.
+const NO_SEARCH = /websearch (indisponible|épuisé|non disponible)|quota (websearch|de recherche)|quota.{0,20}épuisé|budget websearch/i;
+function needsComplement(slug) {
+  const f = `data/clubs/research/${slug}.md`;
+  if (!fs.existsSync(f)) return false;
+  const t = fs.readFileSync(f, 'utf8');
+  // Seule une section complète compte ; « ## Recherche complémentaire partielle » (recherches refusées) laisse en file.
+  return NO_SEARCH.test(t) && !/^## Recherche complémentaire \(/m.test(t);
+}
+
 function stage(slug) {
-  if (fs.existsSync(`data/clubs/profiles/${slug}.json`)) return 'done';
+  if (fs.existsSync(`data/clubs/profiles/${slug}.json`)) return needsComplement(slug) ? 'done-complement' : 'done';
   const draft = `data/clubs/drafts/${slug}.json`;
   if (!fs.existsSync(`data/clubs/research/${slug}.md`)) return 'research';
+  if (needsComplement(slug)) return 'complement';
   if (!fs.existsSync(draft)) return 'write';
   const marker = read(`data/clubs/verified/${slug}.json`, null);
   if (!marker || marker.draftHash !== hash(draft)) return 'verify';
@@ -40,7 +51,7 @@ function stage(slug) {
 // impression reçoivent une recherche allégée.
 const existing = priority
   .filter((c) => !merged.has(c.slug) && !held.has(c.slug))
-  .map((c) => ({ kind: 'existing', slug: c.slug, depth: c.gsc ? 'full' : 'light', from: stage(c.slug) }));
+  .map((c) => ({ kind: 'existing', slug: c.slug, depth: c.gsc ? 'full' : 'light', from: stage(c.slug), hasDraft: fs.existsSync(`data/clubs/drafts/${c.slug}.json`) }));
 
 // Nouveaux lieux repérés pendant les recherches (data/clubs/candidates/*.json).
 const CAND = 'data/clubs/candidates';
@@ -64,16 +75,19 @@ if (args[0] === '--next') {
   const free = (c) => !busy.has(c.slug || c.key);
   // Priorité aux clubs déjà engagés (vérification, rédaction), puis aux
   // nouveaux lieux (le site ne doit en manquer aucun), puis au reste.
-  const order = { verify: 0, write: 1, research: 3 };
+  const order = { complement: 0, verify: 0, write: 1, research: 3 };
   const work = all.filter((c) => c.from in order)
     .map((c, i) => ({ ...c, rank: order[c.from] * 10000 + i }));
   const queue = [...work.filter((c) => c.rank < 20000), ...fresh.map((c, i) => ({ ...c, rank: 20000 + i })), ...work.filter((c) => c.rank >= 20000)];
   console.log(JSON.stringify(queue.filter(free).slice(0, n).map(({ rank, ...c }) => c)));
+} else if (args[0] === '--published-complement') {
+  // Fiches déjà en ligne dont le dossier attend sa recherche complémentaire.
+  console.log(JSON.stringify(all.filter((c) => c.from === 'done-complement').map((c) => c.slug)));
 } else if (args[0] === '--publishable') {
   console.log(JSON.stringify(all.filter((c) => c.from === 'publish').map((c) => c.slug)));
 } else {
   const count = (s) => all.filter((c) => c.from === s).length;
-  console.log(`Publiées : ${count('done')} · prêtes à publier : ${count('publish')} · à vérifier : ${count('verify')} · à rédiger : ${count('write')} · à rechercher : ${count('research')} · bloquées : ${count('blocked')}`);
+  console.log(`Publiées : ${count('done') + count('done-complement')} (dont ${count('done-complement')} à compléter) · prêtes à publier : ${count('publish')} · à compléter : ${count('complement')} · à vérifier : ${count('verify')} · à rédiger : ${count('write')} · à rechercher : ${count('research')} · bloquées : ${count('blocked')}`);
   console.log(`Nouveaux lieux : ${fresh.length} à qualifier · ${candidates.filter((c) => c.status === 'added').length} ajoutés · ${candidates.filter((c) => c.status === 'rejected').length} écartés`);
   console.log(`En attente de décision : ${hold.join(', ') || 'aucun'}`);
   const blocked = all.filter((c) => c.from === 'blocked').map((c) => c.slug);

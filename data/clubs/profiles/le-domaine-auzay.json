@@ -1,19 +1,20 @@
 {
   "slug": "le-domaine-auzay",
   "clubId": "15285",
-  "researchedAt": "2026-10-16",
+  "researchedAt": "2026-10-19",
   "display": {
     "nom": "Le Domaine",
     "ville": "Auzay"
   },
   "status": {
     "value": "ouvert",
-    "summary": "Fermeture exceptionnelle du 5 au 23 octobre 2026 inclus, annoncée sur l'agenda du club, qui programme sa réouverture le samedi 24 octobre avec une soirée couples, puis Halloween le 31. Ses pages tarifs et règlement ont été modifiées le 8 septembre 2026, et la SARL exploitante, LE DOMAINE DE LA JARRIE, est active au registre des entreprises (fiche mise à jour le 24 septembre 2026).",
+    "summary": "Fermeture exceptionnelle du 5 au 23 octobre 2026 inclus, annoncée sur l'agenda du club, qui programme toujours au 19 octobre sa réouverture le samedi 24 avec une soirée couples, puis Halloween le 31. Ses pages tarifs et règlement ont été modifiées le 8 septembre 2026, et la SARL exploitante, LE DOMAINE DE LA JARRIE, est active au registre des entreprises, sans cession ni reprise publiée depuis sa création en 2013.",
     "sources": [
       "s11",
       "s12",
       "s5",
-      "s24"
+      "s24",
+      "s40"
     ]
   },
   "seo": {
@@ -113,10 +114,11 @@
     },
     {
       "label": "Société",
-      "value": "SARL LE DOMAINE DE LA JARRIE, SIREN 793 535 717, active",
+      "value": "SARL LE DOMAINE DE LA JARRIE, SIREN 793 535 717, active, aucune cession publiée depuis 2013",
       "confidence": "confirme",
       "sources": [
-        "s24"
+        "s24",
+        "s40"
       ]
     },
     {
@@ -208,22 +210,22 @@
         },
         {
           "kind": "table",
-          "caption": "Page « Horaires & Tarifs » du site officiel, archivée en mars 2026 puis relevée le 16 octobre 2026",
+          "caption": "Site officiel archivé le 7 juin 2026, puis relevé le 16 octobre 2026",
           "headers": [
             "Soir",
-            "Mars 2026",
+            "Juin 2026",
             "Depuis septembre 2026"
           ],
           "rows": [
             [
               "Vendredi",
-              "22 h - 3 h, hommes seuls admis",
+              "« soirées Luxures » mixtes, 22 h - 3 h : couple 20 €, homme 30 €, femme gratuite",
               "fermé"
             ],
             [
               "Samedi",
-              "22 h - 5 h",
-              "22 h - 5 h"
+              "22 h - 5 h, couples et femmes ; une soirée mixte par mois, dix hommes au plus",
+              "22 h - 5 h, couples et femmes ; une soirée mixte par mois, cinq hommes au plus"
             ]
           ]
         },
@@ -234,10 +236,12 @@
       ],
       "sources": [
         "s3",
+        "s4",
         "s5",
         "s11",
         "s12",
-        "s23"
+        "s23",
+        "s35"
       ]
     },
     {
@@ -268,6 +272,10 @@
           ]
         },
         {
+          "kind": "text",
+          "body": "Le plafond a été divisé par deux à la rentrée : en juin 2026, la page « Le Club » ouvrait encore cette soirée mixte mensuelle à dix hommes, membres actifs du club."
+        },
+        {
           "kind": "callout",
           "tone": "tip",
           "title": "Avant de réserver",
@@ -275,7 +283,7 @@
         },
         {
           "kind": "text",
-          "body": "**Venir en trouple HHF**\nL'autre porte d'entrée est le trouple HHF (deux hommes, une femme), à 70 €, admis même lors de la soirée couples du 24 octobre : venir avec un couple qui souhaite un second partenaire masculin.\n\nCe type de rencontre se prépare en amont, par exemple sur [les petites annonces de Carré Libertin](aff:carre-libertin), un site ouvert en 2007 où les femmes et les couples représentent environ 60 % des membres selon ses propres chiffres, et y accèdent gratuitement en publiant trois photos de profil."
+          "body": "**Venir en trouple HHF**\nL'autre porte d'entrée est le trouple HHF (deux hommes, une femme), à 70 € (prix affiché depuis mai 2024 au moins), admis même lors de la soirée couples du 24 octobre : venir avec un couple qui souhaite un second partenaire masculin.\n\nCe type de rencontre se prépare en amont, par exemple sur [les petites annonces de Carré Libertin](aff:carre-libertin), un site ouvert en 2007 où les femmes et les couples représentent environ 60 % des membres selon ses propres chiffres, et y accèdent gratuitement en publiant trois photos de profil."
         }
       ],
       "sources": [
@@ -284,12 +292,14 @@
         "s5",
         "s8",
         "s11",
-        "s23"
+        "s23",
+        "s35",
+        "s41"
       ]
     },
     {
       "id": "caves-voutees-et-galerie-photos",
-      "title": "Caves en clé de voûte, lit rond et barre de pole dance : ce que montre la galerie",
+      "title": "Caves en clé de voûte, lit rond et barre de pole dance : dix photos du lieu sur treize",
       "icon": "camera",
       "summary": "La galerie officielle, inchangée depuis août 2024, compte treize images dont dix montrent le club : façade, piste voûtée à barre de pole dance, caves éclairées, salle au lit rond.",
       "blocks": [
@@ -328,6 +338,10 @@
         {
           "kind": "text",
           "body": "Pour les gang bangs, le club retire les portes de toutes les chambres. Un DJ anime chaque samedi."
+        },
+        {
+          "kind": "text",
+          "body": "**L'étage, absent de la galerie**\nSelon la fiche du Petit Futé publiée en février 2024, deux salons câlins et des douches se trouvent au même niveau que la piste, un peu plus loin, et l'étage réunit des salons, dont trois fermant à clé. Le site du club ne décrit pas ces espaces."
         }
       ],
       "sources": [
@@ -335,7 +349,8 @@
         "s10",
         "s11",
         "s13",
-        "s15"
+        "s15",
+        "s42"
       ]
     },
     {
@@ -384,11 +399,11 @@
       "id": "avis-google-et-pagesjaunes",
       "title": "Avis : environ 4,4 sur Google d'après deux agrégateurs, un seul avis sur PagesJaunes",
       "icon": "star",
-      "summary": "Environ 4,4 sur 5 sur Google selon deux agrégateurs (96 et 102 avis), note que nous n'avons pas pu relever nous-mêmes ; PagesJaunes ne compte qu'un avis, à 5/5.",
+      "summary": "Environ 4,4 sur 5 sur Google selon deux agrégateurs (96 et 102 avis), note que nous n'avons pas pu relever nous-mêmes ; PagesJaunes et Cylex n'ont reçu qu'un avis chacun, à 5/5.",
       "blocks": [
         {
           "kind": "text",
-          "body": "Nous n'avons pas pu relever nous-mêmes la note Google du Domaine. Deux sites qui la reprennent donnent le même ordre de grandeur ; PagesJaunes, de son côté, ne compte qu'un avis."
+          "body": "Nous n'avons pas pu relever nous-mêmes la note Google du Domaine. Deux sites qui la reprennent donnent le même ordre de grandeur ; PagesJaunes et Cylex, de leur côté, n'ont reçu qu'un avis chacun ; les « 114 avis » qu'annonce Cylex sont ceux d'un autre agrégateur."
         },
         {
           "kind": "table",
@@ -417,15 +432,22 @@
               "5 / 5",
               "1",
               "avis du 12 février 2024, réponse du club le 6 mars suivant"
+            ],
+            [
+              "Cylex",
+              "5 / 5",
+              "1",
+              "avis du 17 juin 2023"
             ]
           ]
         },
         {
           "kind": "list",
-          "title": "Deux précautions avant de lire les avis en ligne",
+          "title": "Trois précautions avant de lire les avis en ligne",
           "items": [
-            "**Beaucoup décrivent une autre formule.** Le club ouvrait encore le vendredi en mars 2026, avec des hommes seuls admis, et en 2019 le jeudi aussi. Un avis sur une soirée du vendredi décrit une soirée qui n'existe plus.",
-            "**« Meilleur club libertin de France » est une formule du club.** Le site l'affirme depuis 2019 au moins, en l'attribuant à « de nombreux sites de rencontre » qu'il ne nomme pas. Nous n'avons trouvé aucun classement qui l'établisse."
+            "**Beaucoup décrivent une autre formule.** Le club ouvrait encore le vendredi en juin 2026, avec des hommes seuls admis ; le jeudi a disparu entre l'été 2022 et mars 2023. Un avis sur une soirée du vendredi décrit une soirée qui n'existe plus.",
+            "**« Meilleur club libertin de France » est une formule du club.** Le site l'affirme depuis 2019 au moins, en l'attribuant à « de nombreux sites de rencontre » qu'il ne nomme pas. Nous n'avons trouvé aucun classement qui l'établisse.",
+            "**Tous les « avis » n'en sont pas.** Les deux « avis » affichés par Gowork sont des questions signées par un agent automatique, sans note."
           ]
         },
         {
@@ -433,6 +455,8 @@
           "title": "Fiches d'annuaires qui affichent encore une ancienne formule",
           "items": [
             "PagesJaunes, pourtant mise à jour le 30 septembre 2026",
+            "Cylex, horaires « mis à jour » le 10 septembre 2026",
+            "Le Petit Futé (fiche de février 2024, avec un jeudi)",
             "minuitlibertin",
             "saunaclublebali",
             "lieuxcoquins",
@@ -455,7 +479,12 @@
         "s16",
         "s24",
         "s11",
-        "s31"
+        "s31",
+        "s35",
+        "s39",
+        "s42",
+        "s44",
+        "s45"
       ],
       "confidence": "a_verifier"
     },
@@ -564,18 +593,19 @@
         },
         {
           "kind": "text",
-          "body": "**La Nuit des Yokaï**\nAnnoncées « pour un public averti », les soirées 100 % BDSM portent ce nom depuis 2025. Celle de juillet commençait dès 16 h par une initiation et une jam de shibari, suivies d'un barbecue, puis de la soirée de 21 h à 5 h. Celle d'octobre s'intitulait « Le Marché aux supplices »."
+          "body": "**La Nuit des Yokaï**\nAnnoncées « pour un public averti », les soirées 100 % BDSM portent ce nom depuis 2023 au moins : « Marché aux esclaves » en avril 2023, « Tribunal des Yokaï » en mai 2024.\n\nCelle de juillet 2026 commençait dès 16 h par une initiation et une jam de shibari, suivies d'un barbecue, puis de la soirée de 21 h à 5 h. Celle d'octobre s'intitulait « Le Marché aux supplices »."
         },
         {
           "kind": "text",
-          "body": "**Le gang bang, une soirée de participants**\nLe club prévient que « ce n'est pas une soirée clubbing » : il la réserve à ceux qui viennent participer et justifie le prix par les sans-alcool et la collation servis toute la nuit."
+          "body": "**Le gang bang, une soirée de participants**\nLe club prévient que « ce n'est pas une soirée clubbing » : il la réserve à ceux qui viennent participer et justifie le prix par les sans-alcool et la collation servis toute la nuit.\n\nDébut 2024, les gang bangs avaient lieu le vendredi (26 janvier, 1er et 22 mars) ; le 30 avril, un mardi, le club annonçait un « méga gang bang » sur sélection."
         }
       ],
       "sources": [
         "s11",
         "s13",
         "s15",
-        "s23"
+        "s23",
+        "s41"
       ]
     },
     {
@@ -606,7 +636,7 @@
       "blocks": [
         {
           "kind": "text",
-          "body": "Le club se trouve au 23 route de la Prairie, au lieu-dit Fief de la Jarrie, à Auzay. Depuis le 1er janvier 2017, Auzay est une commune déléguée d'Auchay-sur-Vendée, née de sa fusion avec Chaix."
+          "body": "Le club se trouve au 23 route de la Prairie, au lieu-dit Fief de la Jarrie, à Auzay. Depuis le 1er janvier 2017, Auzay est une commune déléguée d'Auchay-sur-Vendée, née de sa fusion avec Chaix. Depuis La Rochelle, un blog de 2023 compte environ 45 minutes de route."
         },
         {
           "kind": "callout",
@@ -645,7 +675,8 @@
         "s7",
         "s20",
         "s24",
-        "s26"
+        "s26",
+        "s43"
       ]
     },
     {
@@ -660,7 +691,7 @@
         },
         {
           "kind": "text",
-          "body": "**Les autres clubs du secteur**\nL'établissement le plus proche de notre annuaire est [L'Affinité, au Langon](/l-affinite-le-langon), à environ 17 km selon un annuaire en ligne. [Les Bains Gourmands, à La Roche-sur-Yon](/les-bains-gourmands-la-roche-sur-yon), sont à quelque 46 km selon le même annuaire. Les autres adresses du département figurent sur [notre page Vendée](/departement/vendee)."
+          "body": "**Les autres clubs du secteur**\nL'établissement le plus proche de notre annuaire est [L'Affinité, au Langon](/l-affinite-le-langon), à environ 17 km selon un annuaire en ligne. [Les Bains Gourmands, à La Roche-sur-Yon](/les-bains-gourmands-la-roche-sur-yon), sont à quelque 46 km selon le même annuaire. Les autres adresses du département figurent sur [notre page Vendée](/departement/vendee).\n\nCôté Deux-Sèvres, l'ancien sauna [Le Fouta, à Niort](/le-fouta-niort), a pris en juillet 2019 le nom de Pour X Raisons ; son site présente toujours, en octobre 2026, un sauna libertin au 12 rue Marcel Paul."
         }
       ],
       "sources": [
@@ -668,12 +699,13 @@
         "s4",
         "s9",
         "s22",
-        "s31"
+        "s31",
+        "s46"
       ]
     },
     {
       "id": "reglement-tenue-alcool-bar",
-      "title": "Jupe ou robe, chemise certains samedis, hôtel imposé en cas d'ivresse : le règlement",
+      "title": "Jupe ou robe, chemise certains samedis : hôtel imposé à qui ne peut plus conduire",
       "icon": "shield",
       "summary": "Jupe ou robe pour les femmes, pantalon chic ou jean propre pour les hommes ; drogue et escorting interdits ; hôtel imposé à qui ne peut plus conduire ; softs gratuits au bar.",
       "blocks": [
@@ -745,18 +777,14 @@
       "id": "histoire-2013-2026",
       "title": "D'une page d'attente en juin 2013 au samedi seul en 2026 : treize ans d'histoire",
       "icon": "history",
-      "summary": "Ouvert en septembre 2013, le club recevait du jeudi au samedi en 2014, 2016 et 2019, le vendredi et le samedi en 2025, puis le samedi seul depuis septembre 2026.",
+      "summary": "Ouvert en septembre 2013 par la société qui l'exploite toujours, le club recevait du jeudi au samedi jusqu'en 2022, puis le vendredi et le samedi, et le samedi seul depuis septembre 2026.",
       "blocks": [
         {
           "kind": "timeline",
           "items": [
             {
-              "date": "14 juin 2013",
-              "text": "Enregistrement du nom de domaine clubledomaine.com. Le 29 juin, le site n'affiche encore qu'une page d'attente."
-            },
-            {
-              "date": "1er septembre 2013",
-              "text": "Création de la SARL LE DOMAINE DE LA JARRIE, enseigne « Le Domaine Club Libertin »."
+              "date": "Juin 2013",
+              "text": "Le 14, enregistrement du nom de domaine clubledomaine.com. Le 28, le BODACC publie la création de la SARL LE DOMAINE DE LA JARRIE, immatriculée à La Roche-sur-Yon, avec un début d'activité fixé au 1er septembre. Le 29, le site n'affiche encore qu'une page d'attente."
             },
             {
               "date": "20 et 21 septembre 2013",
@@ -775,8 +803,24 @@
               "text": "Toujours du jeudi au samedi, sans hommes seuls le samedi. Le partenariat avec Contact Hôtel est en place."
             },
             {
-              "date": "Juin 2025 - mars 2026",
-              "text": "Ouverture le vendredi (22 h - 3 h) et le samedi (22 h - 5 h)."
+              "date": "Août 2020",
+              "text": "Le site affiche une charte Covid. Le samedi coûte 30 € pour un couple et 15 € pour une femme ; le jeudi et le vendredi, l'entrée est gratuite pour les couples et les femmes."
+            },
+            {
+              "date": "2020 - 2021",
+              "text": "Fermeture pour cause de Covid-19, annoncée « au minimum jusqu'à fin janvier 2021 »."
+            },
+            {
+              "date": "Novembre 2021",
+              "text": "Entrée sur passe sanitaire, avec un test antigénique possible sur place pour 5 €. Le samedi coûte désormais 35 € pour un couple et 10 € pour une femme ; le jeudi reste fermé jusqu'en 2022."
+            },
+            {
+              "date": "Juillet 2022",
+              "text": "Réouverture du jeudi annoncée pour le 7 juillet. En mars 2023, la grille ne compte plus que le vendredi et le samedi."
+            },
+            {
+              "date": "2023 - juin 2026",
+              "text": "Ouverture le vendredi (22 h - 3 h, mixte) et le samedi (22 h - 5 h). Première Nuit des Yokaï 100 % BDSM connue en avril 2023 ; trouple HHF à 70 € affiché en mai 2024."
             },
             {
               "date": "Septembre 2026",
@@ -802,14 +846,21 @@
         "s24",
         "s25",
         "s26",
-        "s27"
+        "s27",
+        "s35",
+        "s36",
+        "s37",
+        "s38",
+        "s39",
+        "s40",
+        "s41"
       ]
     },
     {
       "id": "entree-du-samedi-2014-2026",
       "title": "De 50 € avec buffet en 2014 à 35 € en 2026 : douze ans de prix du samedi",
       "icon": "euro",
-      "summary": "L'entrée couple du samedi est passée de 50 € en 2014, buffet traiteur compris, à 35 € depuis 2025, avec une consommation par personne ; la femme seule paie 10 € au lieu de 15 €.",
+      "summary": "L'entrée couple du samedi est passée de 50 € en 2014, buffet traiteur compris, à 30 € en 2020, puis à 35 € depuis la fin de 2021 ; la femme seule paie 10 € au lieu de 15 €.",
       "blocks": [
         {
           "kind": "table",
@@ -818,17 +869,20 @@
             "",
             "2014",
             "2019",
-            "Depuis 2025"
+            "Août 2020",
+            "Depuis fin 2021"
           ],
           "rows": [
             [
               "Couple",
               "50 €",
               "45 €",
+              "30 €",
               "35 €"
             ],
             [
               "Femme seule",
+              "15 €",
               "15 €",
               "15 €",
               "10 €"
@@ -837,19 +891,21 @@
               "Homme seul",
               "75 €",
               "non admis",
-              "carte GOLD et réservation, prix non affiché"
+              "non affiché",
+              "carte GOLD et réservation en 2025-2026, prix non affiché"
             ],
             [
               "Compris",
               "buffet traiteur, open bar partiel jusqu'à 23 h",
               "une consommation alcoolisée, softs à volonté",
-              "une consommation alcoolisée, softs gratuits"
+              "softs à 2 € toute la nuit",
+              "une consommation alcoolisée, softs gratuits (relevés 2025-2026)"
             ]
           ]
         },
         {
           "kind": "text",
-          "body": "En douze ans, l'entrée du samedi a baissé de 30 % pour un couple, mais dès 2019 le buffet traiteur avait cédé la place à une consommation par personne. Exclus du samedi en 2019, les hommes seuls y reviennent en nombre limité."
+          "body": "En douze ans, l'entrée du samedi a baissé de 30 % pour un couple, mais dès 2019 le buffet traiteur avait cédé la place à une consommation par personne. Le prix actuel est affiché depuis novembre 2021 au moins. Exclus du samedi en 2019, les hommes seuls y reviennent en nombre limité."
         }
       ],
       "sources": [
@@ -857,7 +913,11 @@
         "s11",
         "s19",
         "s22",
-        "s23"
+        "s23",
+        "s36",
+        "s38",
+        "s39",
+        "s41"
       ]
     }
   ],
@@ -867,7 +927,7 @@
       "Soirées exceptionnelles": "horaires propres à chaque soirée (coaching 20 h - 22 h, gang bang du mardi 10 novembre 21 h - 3 h)",
       "Lundi à vendredi": "fermé, sauf soirée exceptionnelle annoncée"
     },
-    "note": "Fermeture exceptionnelle du 5 au 23 octobre 2026 inclus, réouverture le samedi 24 octobre. Le vendredi (22 h - 3 h) figurait encore au programme en mars 2026.",
+    "note": "Fermeture exceptionnelle du 5 au 23 octobre 2026 inclus, réouverture le samedi 24 octobre. Le vendredi (22 h - 3 h) figurait encore au programme en juin 2026.",
     "confidence": "confirme",
     "sources": [
       "s5",
@@ -944,7 +1004,7 @@
   "faq": [
     {
       "question": "Le Domaine club libertin est-il ouvert en ce moment ?",
-      "answer": "Pas avant le samedi 24 octobre 2026 : l'agenda du club annonce une fermeture exceptionnelle du 5 au 23 octobre inclus. Depuis septembre 2026, il n'ouvre que le samedi et lors de soirées exceptionnelles. D'ici là, vous pouvez [trouver une autre soirée sur Wyylde](aff:wyylde), dont l'agenda des soirées en club se consulte avec un compte gratuit ; répondre aux messages y demande en revanche un abonnement."
+      "answer": "Pas avant le samedi 24 octobre 2026 : l'agenda du club annonce une fermeture exceptionnelle du 5 au 23 octobre inclus. Depuis septembre 2026, il n'ouvre que le samedi et lors de soirées exceptionnelles. D'ici là, vous pouvez [trouver une autre soirée sur Wyylde](aff:wyylde), dont l'agenda des soirées en club se consulte avec un compte gratuit, mais où il faut s'abonner pour répondre aux messages."
     },
     {
       "question": "Combien coûte l'entrée au Domaine ?",
@@ -971,11 +1031,12 @@
     "Le nombre d'hommes seuls admis un samedi ordinaire : « 3 ou 4 » selon la page tarifs, cinq lors d'une soirée mixte mensuelle selon le règlement. Le prix de leur entrée ce soir-là n'est pas publié.",
     "La date exacte de l'abandon du vendredi, située entre début août et le 8 septembre 2026.",
     "La note Google, que nous n'avons pas pu relever directement (environ 4,4 sur 5 pour 96 à 102 avis selon deux agrégateurs, relevés d'octobre 2025 et de juillet 2026).",
-    "Les salons à l'étage, dont trois fermant à clé, les deux salons câlins et les douches, cités par un seul annuaire non daté.",
+    "Les salons à l'étage, dont trois fermant à clé, les deux salons câlins et les douches, décrits par le Petit Futé en février 2024 mais ni par le site du club ni par sa galerie.",
     "Le parking gratuit sur place, signalé par deux annuaires mais absent du site.",
     "Les prix du bar, dont la page n'a pas été modifiée depuis février 2023.",
     "L'âge du bâtiment, que seul le club date de l'époque napoléonienne.",
-    "Le contenu de la page Facebook du club, illisible sans connexion, et d'éventuels articles de la presse régionale, non retrouvés."
+    "Le contenu de la page Facebook du club, illisible sans connexion. Aucun article de la presse régionale (Ouest-France, Vendée Matin, Journal du Pays Yonnais) n'a été trouvé au 19 octobre 2026.",
+    "Le numéro fixe 02 51 50 65 90, affiché par le Petit Futé mais absent du site du club, qui ne publie que le 06 77 17 08 38."
   ],
   "sources": [
     {
@@ -1215,6 +1276,90 @@
       "url": "https://mapstr.com/place/ESSIKDK3Xng",
       "type": "carte",
       "consulted": "2026-10-16"
+    },
+    {
+      "id": "s35",
+      "label": "Site officiel, accueil et page « Le Club », archives du 07/06/2026 (vendredis « Luxures », soirée mixte à dix hommes)",
+      "url": "https://web.archive.org/web/20260607232911/https://clubledomaine.com/le-club/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s36",
+      "label": "Site officiel, page d'accueil, archive du 04/08/2020",
+      "url": "https://web.archive.org/web/20200804141611/http://clubledomaine.com/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s37",
+      "label": "Site officiel, page d'accueil, archive du 19/06/2021 (fermeture Covid-19)",
+      "url": "https://web.archive.org/web/20210619214231/http://clubledomaine.com/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s38",
+      "label": "Site officiel, page d'accueil, archive du 28/11/2021 (passe sanitaire, tarifs)",
+      "url": "https://web.archive.org/web/20211128092215/http://clubledomaine.com/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s39",
+      "label": "Site officiel, page d'accueil, archive du 01/06/2022 (retour du jeudi)",
+      "url": "https://web.archive.org/web/20220601154710/http://clubledomaine.com/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s40",
+      "label": "BODACC, annonces de LE DOMAINE DE LA JARRIE (création parue le 28/06/2013, dépôts de comptes jusqu'en 2024)",
+      "url": "https://bodacc-datadila.opendatasoft.com/explore/dataset/annonces-commerciales/table/?q=793535717",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s41",
+      "label": "Site officiel, « Horaires & Tarifs » et menu des soirées, archives du 31/03/2023 et du 24/05/2024",
+      "url": "https://web.archive.org/web/20240524164836/https://clubledomaine.com/horaires-et-tarifs/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s42",
+      "label": "Petit Futé, fiche « Le Domaine » (février 2024)",
+      "url": "https://www.petitfute.com/v28723-auchay-sur-vendee-85200/c9998-coquin/c1044-s-amuser-sortir/c206-club-libertin/1574997-le-domaine.html",
+      "type": "annuaire",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s43",
+      "label": "monpetitdate.fr, « Les clubs libertins de La Rochelle » (2023)",
+      "url": "https://www.monpetitdate.fr/club-libertin-la-rochelle/",
+      "type": "autre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s44",
+      "label": "Cylex, « Le Domaine Club Libertin »",
+      "url": "https://www.cylex-locale.fr/entreprises/le-domaine-club-libertin-14009499.html",
+      "type": "annuaire",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s45",
+      "label": "Gowork, « LE DOMAINE CLUB LIBERTIN » (profil non officiel)",
+      "url": "https://gowork.fr/le-domaine-club-libertin-saint-avaugourd-des-lande",
+      "type": "annuaire",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s46",
+      "label": "Pour X Raisons (Niort), site officiel et archive du 24/03/2022 (« Le Fouta » devenu Pour X Raisons)",
+      "url": "https://web.archive.org/web/20220324053605/https://www.pourxraisons.com/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
     }
   ]
 }

@@ -8,7 +8,7 @@
   },
   "status": {
     "value": "ferme",
-    "summary": "ICI Lorraine annonçait le 28 octobre 2016 la fin du cinéma X pour le 31 décembre suivant ; Tout-Metz a confirmé la date le 16 décembre et le blog Ciné-Façades l'a reprise en 2017. Le site royalmetz.net n'a plus été archivé après août 2016, Yelp signale le commerce comme fermé, et la salle est devenue un lieu de spectacles, recommandé par le Petit Futé dans son édition 2026.",
+    "summary": "ICI Lorraine annonçait le 28 octobre 2016 la fin du cinéma X pour le 31 décembre suivant ; Tout-Metz a confirmé la date le 16 décembre et le blog Ciné-Façades l'a reprise en 2017. Le site royalmetz.net n'a plus été archivé après août 2016, Yelp signale le commerce comme fermé, et la salle, devenue lieu de spectacles, programmait encore en 2026 des après-midi dansants et un cabaret.",
     "sources": [
       "s12",
       "s13",
@@ -16,7 +16,8 @@
       "s10",
       "s22",
       "s18",
-      "s25"
+      "s29",
+      "s30"
     ]
   },
   "seo": {
@@ -73,7 +74,7 @@
     }
   ],
   "highlights": [
-    "Le Royal n'existe plus : le cinéma X a fermé le 31 décembre 2016, et la salle accueille des spectacles et des soirées privées sans rapport avec le libertinage.",
+    "Le cinéma X a fermé le 31 décembre 2016 ; la salle accueille en 2026 guinguettes, cabaret et stand-up, sans aucun rapport avec le libertinage.",
     "Ce n'était pas un club échangiste mais une salle classée X de plus de 500 m² avec balcon, où l'on venait aussi pour les rencontres.",
     "Ne passez pas par royalmetz.com : le domaine, revendu en 2017, affiche un site d'annonces sexuelles sans lien avec le cinéma.",
     "Le téléphone et le courriel que donnent encore certains annuaires datent du cinéma, fermé depuis 2016 : nous ne les reprenons pas.",
@@ -152,12 +153,15 @@
     },
     {
       "label": "Depuis 2018",
-      "value": "Le Royal, salle de spectacles et d'événements, sans activité libertine",
+      "value": "Le Royal, salle de spectacles et d'événements, programmée en 2026, sans activité libertine",
       "confidence": "confirme",
       "sources": [
         "s18",
         "s19",
-        "s20"
+        "s20",
+        "s29",
+        "s30",
+        "s31"
       ]
     }
   ],
@@ -166,15 +170,20 @@
       "id": "fermeture-31-decembre-2016",
       "title": "Fermé le 31 décembre 2016, après 47 ans de films érotiques puis X",
       "icon": "closed",
-      "summary": "Annoncée par ICI Lorraine le 28 octobre 2016, la fermeture du cinéma X a eu lieu le 31 décembre 2016 ; la salle accueille depuis des spectacles et des événements.",
+      "summary": "Annoncée par ICI Lorraine le 28 octobre 2016, la fermeture du cinéma X a eu lieu le 31 décembre 2016 ; la salle accueille depuis des spectacles, encore programmés en 2026.",
       "sources": [
         "s12",
         "s13",
         "s15",
+        "s33",
+        "s32",
         "s18",
         "s19",
         "s20",
         "s25",
+        "s29",
+        "s30",
+        "s31",
         "s10",
         "s11",
         "s24"
@@ -182,11 +191,11 @@
       "blocks": [
         {
           "kind": "text",
-          "body": "Le 28 octobre 2016, ICI Lorraine (Radio France) annonçait que le Royal cesserait le 31 décembre suivant d'être un cinéma X et un lieu de rencontres pour les hommes. Tout-Metz a confirmé la date le 16 décembre 2016, et le blog d'histoire des salles Ciné-Façades l'a reprise en octobre 2017 : le cinéma a bien fermé ce jour-là, au terme de 47 ans de programmation érotique, puis pornographique à partir de 1990.\n\nLe gérant, en place depuis 22 ans selon ICI, imputait le déclin à la pornographie gratuite sur Internet. À l'automne 2016, une quarantaine d'hommes entraient encore chaque jour de semaine, un peu plus le week-end, d'un âge moyen situé entre 30 et 50 ans. Lui-même estimait que le bâtiment « mérite mieux ». Tout-Metz voyait dans le Royal l'un des derniers cinémas X de France."
+          "body": "Le 28 octobre 2016, ICI Lorraine (Radio France) annonçait que le Royal cesserait le 31 décembre suivant d'être un cinéma X et un lieu de rencontres pour les hommes. Tout-Metz a confirmé la date le 16 décembre 2016, et le blog d'histoire des salles Ciné-Façades l'a reprise en octobre 2017 : le cinéma a bien fermé ce jour-là, au terme de 47 ans de programmation érotique, puis pornographique à partir de 1990.\n\nLe gérant, en place depuis 22 ans selon ICI, imputait le déclin à la pornographie gratuite sur Internet. À l'automne 2016, une quarantaine d'hommes entraient encore chaque jour de semaine, un peu plus le week-end, d'un âge moyen situé entre 30 et 50 ans. Lui-même estimait que le bâtiment « mérite mieux ».\n\nTout-Metz voyait dans le Royal l'un des derniers cinémas X de France. ICI Lorraine, revenant en janvier 2018 sur les salles disparues du centre-ville, le disait même le dernier : une affirmation que nous n'avons pas pu vérifier."
         },
         {
           "kind": "text",
-          "body": "La salle n'a pas été vidée pour autant. Le projet annoncé fin 2016 prévoyait un cabaret et une salle polyvalente de 250 places assises ou 700 debout, avec balcon et scène de 8 mètres, pour 180 000 € de travaux à partir du 2 janvier 2017. Le 23 février 2018, une soirée swing « Chicago Club » s'y tenait déjà. Le Petit Futé, qui recommande le lieu dans son édition 2026, y signale des spectacles burlesques et transformistes ; le site de la salle met en avant la privatisation et le team building, et le Bureau des congrès de Metz donne sa grande salle pour 400 personnes en cocktail et 260 assises. Si c'est cette salle que vous cherchez, elle a son [propre site](https://www.leroyal.eu/) : elle n'a plus rien de libertin."
+          "body": "La salle n'a pas été vidée pour autant. Le projet annoncé fin 2016 prévoyait un cabaret et une salle polyvalente de 250 places assises ou 700 debout, avec balcon et scène de 8 mètres, pour 180 000 € de travaux à partir du 2 janvier 2017. La collecte en ligne lancée pour compléter le prêt bancaire et rouvrir les vitraux a pourtant échoué : close le 26 décembre 2016, elle n'a réuni que 1 813 €, versés par 11 contributeurs, sur les 30 000 € espérés.\n\nAux donateurs de 200 €, la même collecte offrait deux entrées pour une « soirée de clôture » le 31 décembre, dès 23 h ; nous ne savons pas si elle a eu lieu. Le 23 février 2018, une soirée swing « Chicago Club » se tenait déjà dans la salle.\n\nEn 2026, le Royal a proposé six après-midi dansants « Guinguette Royal » entre le 16 avril et le 17 mai, puis un cabaret le 26 avril. Un stand-up avec dégustation de vin, réservé aux plus de 18 ans, y est annoncé les 28 novembre, 5 et 19 décembre. Le Petit Futé, qui recommande le lieu dans son édition 2026, y signale aussi des spectacles burlesques et transformistes.\n\nLe site de la salle met en avant la privatisation et le team building, et le Bureau des congrès de Metz donne sa grande salle pour 400 personnes en cocktail et 260 assises. Si c'est cette salle que vous cherchez, elle a son [propre site](https://www.leroyal.eu/) : elle n'a plus rien de libertin."
         },
         {
           "kind": "callout",
@@ -236,15 +245,17 @@
       "id": "metz-apres-le-royal",
       "title": "Sortir libertin à Metz depuis 2017 : de la rue des Ferblantiers à Marly",
       "icon": "map",
-      "summary": "Dans Metz, notre annuaire ne recense que L'Intim, dont l'activité reste à vérifier ; les autres adresses sont ailleurs en Moselle, comme Le Labyrinthe à Marly.",
+      "summary": "Dans Metz, L'Intim reste à vérifier et le sauna gay Blue Club, réservé aux hommes, annonce une soirée le 30 octobre 2026 ; ailleurs en Moselle, Le Labyrinthe à Marly.",
       "sources": [
         "s27",
-        "s28"
+        "s28",
+        "s36",
+        "s12"
       ],
       "blocks": [
         {
           "kind": "text",
-          "body": "Dans Metz même, notre annuaire recense [L'Intim, au 4 rue des Ferblantiers](/intim-metz-libertin), où il figure comme sauna libertin. Prudence : le 16 octobre 2026, son site n'affichait qu'une page d'attente générique, et nous n'avons pas vérifié son activité pour cette fiche. Un annuaire tiers place au même numéro un sauna nommé « Le Libertin », peut-être le même établissement sous un ancien nom ; nous ne l'avons pas confirmé. Téléphonez avant de vous déplacer.\n\nHors de la ville, la page des [lieux libertins de Moselle](/departement/moselle) regroupe les autres adresses du département, dont [Le Labyrinthe, à Marly](/le-labyrinthe-marly). Toutes n'ont pas encore été vérifiées en détail comme celle-ci : appelez avant de faire la route. La page [Metz](/ville/metz) reprend les adresses de la ville."
+          "body": "Dans Metz même, notre annuaire recense [L'Intim, au 4 rue des Ferblantiers](/intim-metz-libertin), où il figure comme sauna libertin. Prudence : le 16 octobre 2026, son site n'affichait qu'une page d'attente générique, et nous n'avons pas vérifié son activité pour cette fiche. Un annuaire tiers place au même numéro un sauna nommé « Le Libertin », peut-être le même établissement sous un ancien nom ; nous ne l'avons pas confirmé. Téléphonez avant de vous déplacer.\n\nPour les hommes, qui formaient selon la presse l'essentiel de la clientèle du Royal en 2016, un lieu de rencontre reste ouvert tout près de la gare : le sauna gay Blue Club, 8 rue Sébastien-Leclerc, réservé aux hommes majeurs, à 20 € l'entrée avant 18 h (10 € de 18 à 26 ans). Son [site officiel](https://www.saunablueclub.fr/) annonce une soirée Halloween le vendredi 30 octobre 2026 et une fermeture pour congés du 2 au 12 novembre.\n\nHors de la ville, la page des [lieux libertins de Moselle](/departement/moselle) regroupe les autres adresses du département, dont [Le Labyrinthe, à Marly](/le-labyrinthe-marly). Toutes n'ont pas encore été vérifiées en détail comme celle-ci : appelez avant de faire la route. La page [Metz](/ville/metz) reprend les adresses de la ville."
         },
         {
           "kind": "text",
@@ -319,7 +330,7 @@
     },
     {
       "id": "histoire-1909-2018",
-      "title": "1909-2018 : Maison des Corporations, Cinéma Lorrain, Royal classé X, puis salle de spectacles",
+      "title": "1909-2026 : Maison des Corporations, Cinéma Lorrain, Royal classé X, puis salle de spectacles",
       "icon": "history",
       "summary": "Cinéma Lorrain en 1919, Royal en 1925, films érotiques en 1969, classé X en 1990, fermé en 2016 : la salle occupe la Maison des Corporations, inaugurée en 1909.",
       "sources": [
@@ -336,12 +347,19 @@
         "s14",
         "s19",
         "s26",
-        "s25"
+        "s25",
+        "s32",
+        "s33",
+        "s34",
+        "s35",
+        "s29",
+        "s30",
+        "s31"
       ],
       "blocks": [
         {
           "kind": "text",
-          "body": "Le Royal occupait l'ancienne salle des fêtes de l'Hôtel des Arts et Métiers, le Gewerbehaus bâti sous l'annexion allemande. Le bâtiment est inscrit aux monuments historiques depuis 2002 : inscrit, et non classé comme l'écrivent plusieurs guides. Selon le site de la salle actuelle, ses six grandes baies circulaires ont été occultées dès les années 1920, quand la salle des fêtes est devenue cinéma. Elles cachaient environ 200 m² de vitraux aux blasons des corporations fondatrices (menuisiers, serruriers, boulangers…) que, selon Tout-Metz en décembre 2016, l'état des lieux préalable aux travaux venait de remettre au jour.\n\nLa salle n'était pas pour autant restée fermée aux curieux : en octobre 2012, le Royal a participé à la Nuit Blanche messine, et un blog local décrit la longue file d'attente devant l'entrée ce soir-là."
+          "body": "Le Royal occupait l'ancienne salle des fêtes de l'Hôtel des Arts et Métiers, le Gewerbehaus bâti sous l'annexion allemande. Le bâtiment est inscrit aux monuments historiques depuis 2002 : inscrit, et non classé comme l'écrivent plusieurs guides. Selon le site de la salle actuelle, ses six grandes baies circulaires ont été occultées dès les années 1920, quand la salle des fêtes est devenue cinéma. Elles cachaient environ 200 m² de vitraux aux blasons des corporations fondatrices (menuisiers, serruriers, boulangers…) que, selon Tout-Metz en décembre 2016, l'état des lieux préalable aux travaux venait de remettre au jour.\n\nLa salle n'était pas pour autant restée fermée aux curieux : en octobre 2012, le Royal a participé à la Nuit Blanche messine, et un blog local décrit la longue file d'attente devant l'entrée ce soir-là.\n\nLes sources ne datent pas de la même façon le passage au cinéma pour adultes : 1969 pour ICI en 2016 et pour Ciné-Façades, « début 1970 » pour l'encyclopédie locale WikiMetz, et pour ICI en janvier 2018 des films érotiques glissés dans la programmation familiale des années 1970, avant une exclusivité à partir de la fin de la décennie.\n\nLa base collaborative Cinema Treasures date même la fermeture de 2015, contre quatre sources, dont deux articles parus avant l'échéance, qui donnent le 31 décembre 2016."
         },
         {
           "kind": "timeline",
@@ -356,7 +374,7 @@
             },
             {
               "date": "1922-1925",
-              "text": "Fermeture, puis réouverture sous le nom de Royal. La Chambre de métiers s'installe dans le bâtiment en 1923."
+              "text": "La salle devient en 1922 l'Odéon Lorrain, dont l'exploitant fait faillite la même année selon WikiMetz, puis rouvre en 1925 sous le nom de Royal. La Chambre de métiers s'installe dans le bâtiment en 1923."
             },
             {
               "date": "1932-1941",
@@ -369,6 +387,10 @@
             {
               "date": "1968-1969",
               "text": "Bref passage à l'art et essai, puis films érotiques à partir de 1969."
+            },
+            {
+              "date": "Décembre 1984",
+              "text": "Quand Rex Cinéma, branche de la Société des Cinémas de l'Est, ouvre le Palace, WikiMetz le dit aussi propriétaire du Rex, de l'Eden et du Royal."
             },
             {
               "date": "1990",
@@ -399,12 +421,16 @@
               "text": "Dernière capture du site royalmetz.net dans les archives du web."
             },
             {
+              "date": "26 décembre 2016",
+              "text": "Échec de la collecte en ligne de l'association Pushing pour la réhabilitation de la salle : 1 813 € réunis sur 30 000 €."
+            },
+            {
               "date": "31 décembre 2016",
               "text": "Fermeture définitive du cinéma, annoncée par ICI Lorraine le 28 octobre et par Tout-Metz le 16 décembre."
             },
             {
               "date": "2 janvier 2017",
-              "text": "Début annoncé des travaux pour « Le Royal, Lieu d'Art et d'Histoire », appuyés par un appel aux dons de 30 000 €."
+              "text": "Début annoncé des travaux pour « Le Royal, Lieu d'Art et d'Histoire »."
             },
             {
               "date": "Mai 2017",
@@ -417,6 +443,10 @@
             {
               "date": "23 février 2018",
               "text": "Soirée swing « Chicago Club » au Royal, devenu salle de spectacles."
+            },
+            {
+              "date": "2026",
+              "text": "Guinguettes au printemps, cabaret le 26 avril, stand-up et dégustation de vin annoncés pour novembre et décembre."
             }
           ]
         }
@@ -552,11 +582,11 @@
   "faq": [
     {
       "question": "Le Royal, à Metz, est-il encore ouvert ?",
-      "answer": "Non. Le cinéma X a fermé le 31 décembre 2016, comme l'avaient annoncé ICI Lorraine et Tout-Metz. Au 2 rue Gambetta, la salle accueille désormais Le Royal, un lieu de spectacles et d'événements sans activité libertine."
+      "answer": "Non. Le cinéma X a fermé le 31 décembre 2016, comme l'avaient annoncé ICI Lorraine et Tout-Metz. Au 2 rue Gambetta, la salle accueille désormais Le Royal, un lieu de spectacles et d'événements sans activité libertine, qui accueille en 2026 des après-midi dansants, du cabaret et du stand-up."
     },
     {
       "question": "Reste-t-il un club libertin ou échangiste à Metz ?",
-      "answer": "Notre annuaire recense dans la ville L'Intim, rue des Ferblantiers, mais son site n'affichait qu'une page d'attente le 16 octobre 2026 : appelez avant d'y aller. Les autres adresses de Moselle figurent sur la page du département ; toutes n'ont pas encore été vérifiées en détail."
+      "answer": "Notre annuaire recense dans la ville L'Intim, rue des Ferblantiers, mais son site n'affichait qu'une page d'attente le 16 octobre 2026 : appelez avant d'y aller. Pour les hommes, le sauna gay Blue Club, près de la gare, annonce sur son site une soirée Halloween le 30 octobre 2026. Les autres adresses de Moselle figurent sur la page du département ; toutes n'ont pas encore été vérifiées en détail."
     },
     {
       "question": "Le Royal était-il un sauna libertin ?",
@@ -584,6 +614,7 @@
     "Le vrai tarif de la soirée trav/trans en 2013 (14 € avec gratuité pour les travestis et trans sur l'accueil, 5 € pour eux dans l'agenda) et la tenue effective de cette soirée en 2016.",
     "Le rôle de la SARL SIKO dans l'exploitation du cinéma entre 1994 et 2016, déduit du registre et de la presse mais jamais attesté.",
     "La tenue du dîner-spectacle « Royal Cabaret » annoncé pour le 15 mars 2013.",
+    "La tenue de la « soirée de clôture » du 31 décembre 2016, promise par la collecte en ligne du projet de salle de spectacles.",
     "La phase « club libertin » évoquée par LOR'Actu en 2013 : aucune autre source ne décrit de club distinct du cinéma.",
     "Le détail des règles affichées dans la salle (page « Dress code » de 2012 illisible dans les archives).",
     "La date des avis Yelp et Unilocal, et l'article du Républicain Lorrain cité par LOR'Actu, que nous n'avons pas retrouvé."
@@ -783,6 +814,62 @@
       "label": "Site de L'Intim (lintim57.fr), état de la page d'accueil",
       "url": "http://lintim57.fr/",
       "type": "autre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s29",
+      "label": "JDS, « Guinguette Royal », six après-midi dansants au Royal du 16/04 au 17/05/2026",
+      "url": "https://www.jds.fr/metz/spectacles/guinguette-royal-1404389_A",
+      "type": "autre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s30",
+      "label": "JDS, « Le cabaret royal à la parisienne », 26/04/2026",
+      "url": "https://www.jds.fr/metz/spectacles/le-cabaret-royal-a-la-parisienne-1480040_A",
+      "type": "autre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s31",
+      "label": "Info-Lux, « An Idiot's Guide to Wine : stand-up et dégustation », au Royal les 28/11, 05/12 et 19/12/2026",
+      "url": "https://www.info-lux.com/an-idiot-s-guide-to-wine-stand-up-et-degustation-metz/pays/france/grand-est/moselle-grand-est/metz-grand-est/",
+      "type": "autre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s32",
+      "label": "KissKissBankBank, « Réhabilitons ensemble l'Hôtel des Arts et Métiers - Le Royal », collecte de l'association Pushing close le 26/12/2016",
+      "url": "https://www.kisskissbankbank.com/fr/projects/rehabilitons-ensemble-l-hotel-des-arts-et-metiers-le-royal",
+      "type": "autre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s33",
+      "label": "ICI Lorraine (Radio France), « Quand Metz avait 8 cinémas en centre ville », 18/01/2018",
+      "url": "https://www.ici.fr/emissions/consomatin/lorraine-nord/quand-metz-avait-8-cinemas-en-centre-ville",
+      "type": "presse",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s34",
+      "label": "WikiMetz, « Salles de cinéma à Metz », sections « L'Excelsior et le Royal » et « Le Palace » (encyclopédie collaborative)",
+      "url": "https://www.wikimetz.fr/Salles_de_cin%C3%A9ma_%C3%A0_Metz",
+      "type": "autre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s35",
+      "label": "Cinema Treasures, « Le Royal » à Metz (base collaborative, fermeture datée de 2015)",
+      "url": "https://cinematreasures.org/theaters/29749",
+      "type": "autre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s36",
+      "label": "Site officiel du sauna gay Blue Club, 8 rue Sébastien-Leclerc à Metz (agenda d'octobre et novembre 2026)",
+      "url": "https://www.saunablueclub.fr/",
+      "type": "officiel",
       "consulted": "2026-10-19"
     }
   ]

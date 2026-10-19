@@ -209,11 +209,60 @@ for (const p of profiles) {
   }
 }
 for (const r of rows) {
+  if (/la requête « |les recherches « /.test(corpusText.get(r.slug))) r.frozen.push('requête de recherche citée dans le texte : servir la requête, ne pas la citer');
   for (const s of bySlug.get(r.slug).sections) {
     const i = s.title.indexOf(':');
     if (i < 0) continue;
     const k = norm(s.title.slice(i + 1)).split(' ').slice(0, 4).join(' ');
+    // Fins de titre génériques, même isolées : elles ne portent aucun fait.
+    if (/^(ce que (dit|disent|montre|montrent|change|impose|revele|revelent)|ce qui (a change|prouve)|la chronologie|lire la grille|les grilles successives|le programme (affiche|publie)|qui entrait|ou sortir|le reglement|l inventaire|la semaine du club|qui entre|l acces|les espaces listes)\b/.test(norm(s.title.slice(i + 1)))) {
+      r.frozen.push(`fin de titre générique « …: ${s.title.slice(i + 1).trim()} » : la partie après les deux-points doit porter un fait`);
+      continue;
+    }
     if ((suffixes.get(k)?.size || 0) >= 3) r.frozen.push(`fin de titre répandue « …: ${s.title.slice(i + 1).trim()} » (${suffixes.get(k).size} fiches) : la partie après les deux-points doit porter un fait`);
+  }
+}
+
+// Fiches de lieux fermés : deux fiches ne partagent pas la même suite de
+// pictogrammes sur leurs trois premières sections (le « moule » preuves de
+// fermeture > voisins > histoire).
+const isClosed = (p) => ['ferme', 'fermeture_probable'].includes(p.status.value);
+const openings = new Map();
+for (const p of profiles.filter(isClosed)) {
+  const k = p.sections.slice(0, 3).map((s) => s.icon || '?').join(' > ');
+  openings.set(k, [...(openings.get(k) || []), p.slug]);
+}
+// Statut des fiches liées, pour vérifier qu'un lien vers un lieu fermé le dit.
+const statusOf = new Map(profiles.map((p) => [p.slug, p.status.value]));
+for (const r of rows) {
+  const p = bySlug.get(r.slug);
+  if (isClosed(p)) {
+    const k = p.sections.slice(0, 3).map((s) => s.icon || '?').join(' > ');
+    const same = openings.get(k).filter((s) => s !== r.slug);
+    if (same.length) r.frozen.push(`ouverture de fiche fermée identique à ${same.slice(0, 2).join(', ')} (${k}) : changer l'ordre des premières sections`);
+  }
+  for (const sentence of texts(p).split(/(?<=[.!?])\s+|\n+/)) {
+    for (const m of sentence.matchAll(/\]\(\/([a-z0-9-]+)\)/g)) {
+      if (['ferme', 'fermeture_probable'].includes(statusOf.get(m[1])) && !/ferm/i.test(sentence)) {
+        r.frozen.push(`lien vers /${m[1]}, fermé selon sa fiche, sans le dire dans la phrase`);
+      }
+    }
+  }
+  for (const l of p.officialLinks || []) {
+    if (/\.(run\.app|firebaseapp\.com|web\.app|wixsite\.com|netlify\.app|vercel\.app|herokuapp\.com|github\.io)\b/.test(l.url)) {
+      r.frozen.push(`lien officiel vers un hébergeur (${l.url}) : donner le domaine du club`);
+    }
+  }
+}
+
+// Ancres Carré Libertin bâties sur la même formule (« … des couples … sur Carré Libertin »).
+const formula = (a) => /des couples/.test(a) && /sur carre libertin$/.test(a);
+const formulaCount = [...anchors.keys()].filter((k) => k.startsWith('carre-libertin|') && formula(k.split('|')[1])).length;
+if (formulaCount > 3) {
+  for (const r of rows) {
+    for (const m of texts(bySlug.get(r.slug)).matchAll(AFF_LINK)) {
+      if (m[2] === 'carre-libertin' && formula(norm(m[1]))) r.partner.push(`ancre Carré Libertin sur une formule répandue (${formulaCount} fiches) : « ${m[1]} »`);
+    }
   }
 }
 

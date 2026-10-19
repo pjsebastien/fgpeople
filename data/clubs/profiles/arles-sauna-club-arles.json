@@ -232,7 +232,8 @@
         "s36",
         "s38",
         "s39",
-        "s33"
+        "s33",
+        "s44"
       ],
       "blocks": [
         {
@@ -241,17 +242,17 @@
         },
         {
           "kind": "text",
-          "body": "Le 11 mai 2026, un internaute écrit sur gowork.fr que le site ne fonctionne plus et qu'il ne parvient pas à savoir ce qui s'y passe. Le compte Instagram @lenews.13200 existe toujours, avec 17 publications, mais nous n'avons pas pu en lire les dates sans connexion."
+          "body": "Le 11 mai 2026, un internaute écrit sur gowork.fr que le site ne fonctionne plus et qu'il ne trouve rien sur les soirées à venir ; c'est le seul avis noté de la page (1/5 au 19 octobre 2026). Le compte Instagram @lenews.13200 existe toujours (17 publications), mais ses dates sont illisibles sans connexion."
         },
         {
           "kind": "text",
-          "body": "En sens inverse, LE NEWS 13 n'a pas été radiée : le registre la donne active, avec une mise à jour INSEE du 5 décembre 2025. Une société active ne prouve pas que le sauna reçoit, et un site disparu ne prouve pas qu'il a fermé : d'où notre statut « incertain »."
+          "body": "En sens inverse, LE NEWS 13 reste active au registre, sans cessation ni transfert déclarés depuis sa création en janvier 2025. Une société active ne prouve pas que le sauna reçoit, et un site disparu ne prouve pas qu'il a fermé : d'où notre statut « incertain »."
         },
         {
           "kind": "callout",
           "tone": "warning",
           "title": "Avant de faire la route",
-          "body": "Appelez le 04 90 91 59 25, numéro affiché par Le News en 2025 et encore dans la biographie de son Instagram. Le 04 90 93 15 73 que reprennent les annuaires est celui de l'ancien Arles Sauna Club, publié en 2016."
+          "body": "Appelez le 04 90 91 59 25, numéro affiché par Le News en 2025 et encore sur son Instagram ; le 04 90 93 15 73 des annuaires date de 2016. Sur Google Maps, la fiche liée par Le News porte toujours le nom « Arles sauna club » ; nous n'avons pu y lire ni statut ni avis."
         },
         {
           "kind": "text",
@@ -288,7 +289,7 @@
         },
         {
           "kind": "text",
-          "body": "Pour la soirée du 1er février 2025, la billetterie affichait 20 € en ligne, 25 € sur place, 12 € pour les moins de 26 ans et 5 € la boisson. Sauna, hammam et jacuzzi étaient fermés ce soir-là ; seules les douches restaient accessibles."
+          "body": "La soirée du 1er février 2025, organisée par « Arles Event Privé », coûtait 20 € en ligne, 25 € sur place, 12 € sur place pour les moins de 26 ans, et 5 € la boisson. La billetterie annonçait vestiaire gratuit, backroom et piste de danse, sans tenue imposée. Sauna, hammam et jacuzzi restaient fermés ; seules les douches étaient accessibles."
         }
       ]
     },
@@ -464,12 +465,13 @@
         "s32",
         "s34",
         "s37",
-        "s41"
+        "s41",
+        "s43"
       ],
       "blocks": [
         {
           "kind": "text",
-          "body": "L'adresse accueillait déjà, de 1977 à juin 1996, une entreprise individuelle d'« autres activités récréatives », fermée deux jours après la création de la SARL ; rien ne dit qu'elle exploitait un sauna. Les comptes publiés montrent ensuite une petite affaire déficitaire : 148 705 € de chiffre d'affaires en 2017 pour 11 256 € de perte."
+          "body": "L'adresse accueillait déjà, de 1977 à juin 1996, une entreprise individuelle d'« autres activités récréatives », fermée deux jours après la création de la SARL ; rien ne dit qu'elle exploitait un sauna. Les comptes publiés montrent ensuite une petite affaire déficitaire : 140 292 € de chiffre d'affaires en 2016, puis 148 705 € en 2017 pour 11 256 € de perte."
         },
         {
           "kind": "timeline",
@@ -610,7 +612,7 @@
     "Qui exploitait la Villa Rex et à quelles dates exactes : aucune source ne relie explicitement DASA 13 à ce nom.",
     "Si le 04 90 91 59 25 répond encore.",
     "Si la piscine de 2016 existe toujours : Le News ne la cite plus.",
-    "Les avis Google et une éventuelle page Facebook, non consultables pour cette vérification."
+    "Le statut et les avis de la fiche Google Maps « Arles sauna club », illisibles sans navigateur ; aucune page Facebook du News n'a été trouvée."
   ],
   "sources": [
     {
@@ -877,6 +879,20 @@
       "label": "Le News, site officiel, archive du 14/02/2025 : entrée gratuite femmes et trans, un soft offert",
       "url": "https://web.archive.org/web/20250214212855/https://le-news-sauna-club-arles.fr/",
       "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s43",
+      "label": "manageo.fr, fiche ARLES SAUNA CLUB : « entreprise fermée », chiffre d'affaires 2016 et 2017",
+      "url": "https://www.manageo.fr/entreprises/407756725.html",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s44",
+      "label": "Google Maps, fiche « Arles sauna club » (6 rue Marc Sangnier), lien d'itinéraire du site du News ; statut et avis non lisibles",
+      "url": "https://maps.app.goo.gl/tL7DcUBvXcBQKY7G8",
+      "type": "carte",
       "consulted": "2026-10-19"
     }
   ]
