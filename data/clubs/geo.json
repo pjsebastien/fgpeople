@@ -1,0 +1,2978 @@
+{
+ "sensuel-sauna-montauban": {
+  "lat": 44.010582,
+  "lon": 1.344983,
+  "precision": "street",
+  "label": "avenue marceau hamecher 82000 Montauban",
+  "score": 0.76,
+  "query": "89 bis avenue Marceau Hamecher 82000 MONTAUBAN"
+ },
+ "le-98-sauna-le-havre": {
+  "lat": 49.498973,
+  "lon": 0.131267,
+  "precision": "housenumber",
+  "label": "98 Rue Jean Jacques Rousseau 76600 Le Havre",
+  "score": 0.98,
+  "query": "98 rue Jean Jacques Rousseau 76600 LE HAVRE"
+ },
+ "la-station-sauna-pau": {
+  "lat": 43.295817,
+  "lon": -0.372212,
+  "precision": "housenumber",
+  "label": "8 rue René Fournets 64000 Pau",
+  "score": 0.97,
+  "query": "8,rue René Fournets 64000 PAU"
+ },
+ "la-villa-libertine-mougins": {
+  "lat": 43.584499,
+  "lon": 7.014457,
+  "precision": "street",
+  "label": "Chemin de Bel Air 06250 Mougins",
+  "score": 0.63,
+  "query": "ch Bel Air 06250 MOUGINS"
+ },
+ "le-plaisir-club-breal-sous-monfort": {
+  "lat": 48.064634,
+  "lon": -1.852477,
+  "precision": "housenumber",
+  "label": "115 Les Ponciaux 35310 Bréal-sous-Montfort",
+  "score": 0.8,
+  "query": "115 Les Ponciaux 35310 BRéAL SOUS MONFORT"
+ },
+ "le-club-3-plerin": {
+  "lat": 48.53948,
+  "lon": -2.754499,
+  "precision": "street",
+  "label": "Rue du Stade 22190 Plérin",
+  "score": 0.81,
+  "query": "3 rue du stade 22190 PLERIN"
+ },
+ "le-capricia-st-trivier-sur-moignans": {
+  "lat": 46.056111,
+  "lon": 4.895555,
+  "precision": "street",
+  "label": "route de Lyon 01990 Saint-Trivier-sur-Moignans",
+  "score": 0.73,
+  "query": "82, Route de Lyon 01990 ST TRIVIER SUR MOIGNANS"
+ },
+ "le-new-bora-castillon-du-gard": {
+  "lat": 43.960634,
+  "lon": 4.569932,
+  "precision": "street",
+  "label": "N 86 30210 Castillon-du-Gard",
+  "score": 0.83,
+  "query": "RN 86 30210 CASTILLON-DU-GARD"
+ },
+ "l-entre-2-moulins": {
+  "lat": 49.42102,
+  "lon": 3.686022,
+  "precision": "housenumber",
+  "label": "1 Place de l'Eglise 02160 Moulins",
+  "score": 0.93,
+  "query": "1 place de l'église 02160 MOULINS"
+ },
+ "le-lotus-lizy": {
+  "lat": 49.513604,
+  "lon": 3.481982,
+  "precision": "housenumber",
+  "label": "2 Rue de la Mairie 02320 Anizy-le-Grand",
+  "score": 0.95,
+  "query": "2, rue de la Mairie 02320 LIZY"
+ },
+ "l-aquadisiac-cannes": {
+  "lat": 43.553014,
+  "lon": 7.014016,
+  "precision": "housenumber",
+  "label": "8 Impasse Bergerie 06400 Cannes",
+  "score": 0.74,
+  "query": "8 impasse de la Bergerie 06400 CANNES"
+ },
+ "le-papillon-nice": {
+  "lat": 43.695884,
+  "lon": 7.27719,
+  "precision": "housenumber",
+  "label": "10 Rue Jules Gilly 06300 Nice",
+  "score": 0.97,
+  "query": "10 rue Jules Gilly 06300 NICE"
+ },
+ "azur-sauna-club-nice": {
+  "lat": 43.698157,
+  "lon": 7.283675,
+  "precision": "housenumber",
+  "label": "4 Quai Papacino 06300 Nice",
+  "score": 0.97,
+  "query": "4 quai Papacino 06300 NICE"
+ },
+ "sauna-le-9-le-cannet": {
+  "lat": 43.574359,
+  "lon": 6.990481,
+  "precision": "housenumber",
+  "label": "8 Chemin de l'Industrie 06110 Le Cannet",
+  "score": 0.75,
+  "query": "8 ch de l industrie 06110 LE CANNET"
+ },
+ "le-cercle-nice": {
+  "lat": 43.716259,
+  "lon": 7.253944,
+  "precision": "housenumber",
+  "label": "16 Avenue Clément Ader 06100 Nice",
+  "score": 0.97,
+  "query": "16 avenue Clement Ader 06100 NICE"
+ },
+ "l-as-nice": {
+  "lat": 43.671669,
+  "lon": 7.217775,
+  "precision": "housenumber",
+  "label": "30 Avenue Edouard Grinda 06200 Nice",
+  "score": 0.98,
+  "query": "30 avenue Edouard Grinda 06200 NICE"
+ },
+ "club-54-nice": {
+  "lat": 43.695138,
+  "lon": 7.276612,
+  "precision": "housenumber",
+  "label": "54 Rue des Ponchettes 06300 Nice",
+  "score": 0.98,
+  "query": "54 rue des Ponchettes 06300 NICE"
+ },
+ "l-oasis-cannes": {
+  "lat": 43.5555,
+  "lon": 7.021646,
+  "precision": "housenumber",
+  "label": "4 Rue Docteur Calmette 06400 Cannes",
+  "score": 0.81,
+  "query": "4 rue du docteur calmette 06400 CANNES"
+ },
+ "l-oustaou-du-moulin-le-cannet": {
+  "lat": 43.576731,
+  "lon": 7.017264,
+  "precision": "housenumber",
+  "label": "11 Rue du Moulin 06110 Le Cannet",
+  "score": 0.96,
+  "query": "11 rue du moulin 06110 LE CANNET"
+ },
+ "sauna-du-chateau-nice": {
+  "lat": 43.695119,
+  "lon": 7.277745,
+  "precision": "housenumber",
+  "label": "17 Rue des Ponchettes 06300 Nice",
+  "score": 0.98,
+  "query": "17 RUE DES PONCHETTES 06300 NICE"
+ },
+ "morgan-cruising-bar-men-s-club-gay-nice": {
+  "lat": 43.695222,
+  "lon": 7.254752,
+  "precision": "housenumber",
+  "label": "3 Rue Claudia 06000 Nice",
+  "score": 0.97,
+  "query": "3 rue Claudia 06000 NICE"
+ },
+ "sauna-le-16-nice": {
+  "lat": 43.703669,
+  "lon": 7.283642,
+  "precision": "housenumber",
+  "label": "16 Rue Smollett 06300 Nice",
+  "score": 0.86,
+  "query": "16 rue smolett 06300 NICE"
+ },
+ "le-mas-de-berlusiere-saint-andre-de-crusieres": {
+  "lat": 44.319045,
+  "lon": 4.217831,
+  "precision": "street",
+  "label": "Route de Beaulieu 07460 Saint-André-de-Cruzières",
+  "score": 0.78,
+  "query": "route de Beaulieu 07460 SAINT-ANDRé DE CRUSIèRES"
+ },
+ "le-boudoir-nice": {
+  "lat": 43.671669,
+  "lon": 7.217775,
+  "precision": "housenumber",
+  "label": "30 Avenue Edouard Grinda 06200 Nice",
+  "score": 0.98,
+  "query": "30 avenue Edouard GRINDA 06200 NICE"
+ },
+ "sauna-eros-troyes": {
+  "lat": 48.299024,
+  "lon": 4.087306,
+  "precision": "housenumber",
+  "label": "36 Mail des Charmilles 10000 Troyes",
+  "score": 0.97,
+  "query": "36 Mail des Charmilles 10000 TROYES"
+ },
+ "sexynine-narbonne": {
+  "lat": 43.187213,
+  "lon": 2.928887,
+  "precision": "street",
+  "label": "Avenue du Languedoc 11100 Montredon-des-Corbières",
+  "score": 0.73,
+  "query": "avenue du languedoc Montredon des Corbières 11100 NARBONNE"
+ },
+ "le-triton-narbonne": {
+  "lat": 43.182404,
+  "lon": 2.994927,
+  "precision": "housenumber",
+  "label": "28 Avenue de Toulouse 11100 Narbonne",
+  "score": 0.97,
+  "query": "28 avenue de Toulouse 11100 NARBONNE"
+ },
+ "atrium-carcassonne": {
+  "lat": 43.229403,
+  "lon": 2.351749,
+  "precision": "street",
+  "label": "Avenue Claude Bernard 11000 Carcassonne",
+  "score": 0.97,
+  "query": "Avenue Claude Bernard 11000 CARCASSONNE"
+ },
+ "le-chateau-d-aphrodite-haraucourt": {
+  "lat": 49.616982,
+  "lon": 4.959758,
+  "precision": "street",
+  "label": "Chemin de la Cense 08450 Haraucourt",
+  "score": 0.77,
+  "query": "chemin de Censé 08450 HARAUCOURT"
+ },
+ "le-moulin-pelissanne": {
+  "lat": 43.629324,
+  "lon": 5.148409,
+  "precision": "housenumber",
+  "label": "13 Rue des Passadouïres 13330 Pélissanne",
+  "score": 0.96,
+  "query": "13 rue des passadouires 13330 PELISSANNE"
+ },
+ "le-taxi-des-sens-marseille": {
+  "lat": 43.301205,
+  "lon": 5.367287,
+  "precision": "street",
+  "label": "Place francis chirat 13002 Marseille",
+  "score": 0.69,
+  "query": "2 bis place françois chirat 13002 MARSEILLE"
+ },
+ "saint-nicolas-marseille": {
+  "lat": 43.288559,
+  "lon": 5.383147,
+  "precision": "housenumber",
+  "label": "63 Rue d'italie 13006 Marseille",
+  "score": 0.97,
+  "query": "63 rue d'Italie 13006 MARSEILLE"
+ },
+ "l-extase-club-gignac-la-nerthe": {
+  "lat": 43.384332,
+  "lon": 5.210497,
+  "precision": "street",
+  "label": "Avenue de la Mediterranee 13180 Gignac-la-Nerthe",
+  "score": 0.75,
+  "query": "av de la mediteranee 13180 GIGNAC LA NERTHE"
+ },
+ "arles-sauna-club-arles": {
+  "lat": 43.682823,
+  "lon": 4.635175,
+  "precision": "housenumber",
+  "label": "6 Rue Marc Sangnier 13200 Arles",
+  "score": 0.97,
+  "query": "6 rue Marc Sangnier 13200 ARLES"
+ },
+ "club-treize-04-marseille": {
+  "lat": 43.309069,
+  "lon": 5.40035,
+  "precision": "housenumber",
+  "label": "161 Avenue des chartreux 13004 Marseille",
+  "score": 0.98,
+  "query": "161 avenue des Chartreux 13004 MARSEILLE"
+ },
+ "le-391-salon-de-provence": {
+  "lat": 43.644243,
+  "lon": 5.085912,
+  "precision": "housenumber",
+  "label": "391 Boulevard Denfert- Rochereau 13300 Salon-de-Provence",
+  "score": 0.84,
+  "query": "391 boulevards denfert rochereau 13300 SALON DE PROVENCE"
+ },
+ "le-delirium-marseille": {
+  "lat": 43.284572,
+  "lon": 5.381824,
+  "precision": "housenumber",
+  "label": "84 Rue edmond rostand 13006 Marseille",
+  "score": 0.97,
+  "query": "84 RUE EDMOND ROSTAND 13006 MARSEILLE"
+ },
+ "les-thermes-marseille": {
+  "lat": 43.297293,
+  "lon": 5.383168,
+  "precision": "housenumber",
+  "label": "22 Rue mazagran 13001 Marseille",
+  "score": 0.97,
+  "query": "22 rue Mazagran 13001 MARSEILLE"
+ },
+ "le-4-sans-coup-ferir-marseille": {
+  "lat": 43.298777,
+  "lon": 5.38999,
+  "precision": "housenumber",
+  "label": "4 Rue devilliers 13005 Marseille",
+  "score": 0.96,
+  "query": "4 rue Devilliers 13005 MARSEILLE"
+ },
+ "arc-en-ciel-caen": {
+  "lat": 49.185209,
+  "lon": -0.351016,
+  "precision": "housenumber",
+  "label": "17 Impasse Varignon 14000 Caen",
+  "score": 0.62,
+  "query": "17 rue Varignon - 8 impasse Dumont 14000 CAEN"
+ },
+ "l-open-sauna-caen": {
+  "lat": 49.184302,
+  "lon": -0.354793,
+  "precision": "housenumber",
+  "label": "10 Rue de Courtonne 14000 Caen",
+  "score": 0.97,
+  "query": "10, Rue de Courtonne 14000 CAEN"
+ },
+ "le-chant-des-cigales-septemes-les-vallons": {
+  "lat": 43.389222,
+  "lon": 5.3615,
+  "precision": "housenumber",
+  "label": "81 Avenue du 8 Mai 1945 13240 Septèmes-les-Vallons",
+  "score": 0.97,
+  "query": "81 avenue du 8 mai 1945 13240 SEPTéMES LES VALLONS"
+ },
+ "venus-sauna-caen": {
+  "lat": 49.184601,
+  "lon": -0.34861,
+  "precision": "housenumber",
+  "label": "57 Avenue de Tourville 14000 Caen",
+  "score": 0.97,
+  "query": "57 avenue de Tourville 14000 CAEN"
+ },
+ "sauna-prado-la-couronne": {
+  "lat": 45.608228,
+  "lon": 0.09875,
+  "precision": "housenumber",
+  "label": "16 Avenue de l’Etang des Moines 16400 La Couronne",
+  "score": 0.96,
+  "query": "16 Avenue de l'Etang des Moines 16400 LA COURONNE"
+ },
+ "orphea-club-chicheboville-billy": {
+  "lat": 49.098744,
+  "lon": -0.192397,
+  "precision": "street",
+  "label": "Rue de Navarre 14370 Moult-Chicheboville",
+  "score": 0.62,
+  "query": "hameau de navarre 14370 CHICHEBOVILLE / BILLY"
+ },
+ "l-antre2-saint-jean-d-angely": {
+  "lat": 45.942749,
+  "lon": -0.511848,
+  "precision": "housenumber",
+  "label": "30 Rue du 4 Septembre 17400 Saint-Jean-d'Angély",
+  "score": 0.96,
+  "query": "30 Rue du 4 septembre 17400 SAINT JEAN D ANGéLY"
+ },
+ "le-rom-antic-mosnac": {
+  "lat": 45.495974,
+  "lon": -0.565545,
+  "precision": "street",
+  "label": "Lieu Dit Combe des Treuils 17240 Mosnac",
+  "score": 0.64,
+  "query": "La Combe des Treuils 17240 MOSNAC"
+ },
+ "l-hermaphodite-royan": {
+  "lat": 45.634547,
+  "lon": -0.991899,
+  "precision": "housenumber",
+  "label": "12 Rue Louis Lépine 17200 Royan",
+  "score": 0.68,
+  "query": "12 rue Louis Lépine, local M3 17200 ROYAN"
+ },
+ "la-derobade-chenove": {
+  "lat": 47.293393,
+  "lon": 5.016301,
+  "precision": "street",
+  "label": "Avenue Roland Carraz 21300 Chenôve",
+  "score": 0.79,
+  "query": "177 avenue Roland Carraz 21300 CHENOVE"
+ },
+ "l-iz-bourges": {
+  "lat": 47.066151,
+  "lon": 2.387187,
+  "precision": "housenumber",
+  "label": "87 Avenue de Saint-Amand 18000 Bourges",
+  "score": 0.98,
+  "query": "87 avenue de saint amand 18000 BOURGES"
+ },
+ "le-delire-brive-la-gaillarde": {
+  "lat": 45.157803,
+  "lon": 1.535056,
+  "precision": "housenumber",
+  "label": "6 Rue Jean Labrunie 19100 Brive-la-Gaillarde",
+  "score": 0.97,
+  "query": "6 rue Jean Labrunie 19100 BRIVE LA GAILLARDE"
+ },
+ "le-fruit-de-la-passion-lubersac": {
+  "lat": 45.481928,
+  "lon": 1.415029,
+  "precision": "street",
+  "label": "Route de Montville 19210 Lubersac",
+  "score": 0.68,
+  "query": "montville 19210 LUBERSAC"
+ },
+ "angel-sauna-marsannay-la-cote": {
+  "lat": 47.273785,
+  "lon": 5.003585,
+  "precision": "housenumber",
+  "label": "150 Rue de la Piece Cornue 21160 Marsannay-la-Côte",
+  "score": 0.96,
+  "query": "150 rue de la piece cornue 21160 MARSANNAY LA COTE"
+ },
+ "le-tantra-sauna-dijon": {
+  "lat": 47.313537,
+  "lon": 5.04533,
+  "precision": "housenumber",
+  "label": "22 Rue de Longvic 21000 Dijon",
+  "score": 0.98,
+  "query": "22 rue de longvic 21000 DIJON"
+ },
+ "les-logis-coquins-du-gros-hibou-henanbihen": {
+  "lat": 48.539602,
+  "lon": -2.371378,
+  "precision": "street",
+  "label": "La Lande 22550 Hénanbihen",
+  "score": 0.94,
+  "query": "La Lande 22550 HéNANBIHEN"
+ },
+ "hot-box-tregueux": {
+  "lat": 48.491437,
+  "lon": -2.767212,
+  "precision": "street",
+  "label": "Avenue Pierre Mendès France 22950 Trégueux",
+  "score": 0.81,
+  "query": "15 avenue pierre mendes france 22950 TREGUEUX"
+ },
+ "sauna-le-cantou-perigueux": {
+  "lat": 45.183822,
+  "lon": 0.715003,
+  "precision": "housenumber",
+  "label": "14 Rue la Fayette 24000 Périgueux",
+  "score": 0.97,
+  "query": "14 rue La Fayette 24000 PERIGUEUX"
+ },
+ "sauna-de-la-gare-bergerac": {
+  "lat": 44.859479,
+  "lon": 0.483992,
+  "precision": "housenumber",
+  "label": "20 Boulevard Joseph Santraille 24100 Bergerac",
+  "score": 0.75,
+  "query": "20 boulevard santraille 24100 BERGERAC"
+ },
+ "club-22-ploufragan": {
+  "lat": 48.503414,
+  "lon": -2.776994,
+  "precision": "housenumber",
+  "label": "1 Rue du Carpont 22440 Ploufragan",
+  "score": 0.96,
+  "query": "1 Rue du Carpont 22440 PLOUFRAGAN"
+ },
+ "le-bilitis-plounerin-gare": {
+  "lat": 48.579609,
+  "lon": -3.568899,
+  "precision": "housenumber",
+  "label": "19 Rue de la Gare 22780 Plounérin",
+  "score": 0.75,
+  "query": "19 rue de la Gare 22780 PLOUNERIN GARE"
+ },
+ "l-empire-des-sens-saint-leger-legueretois": {
+  "lat": 46.156399,
+  "lon": 1.837145,
+  "precision": "housenumber",
+  "label": "2 Maupuy 23000 Saint-Léger-le-Guérétois",
+  "score": 0.78,
+  "query": "2 Maupuy 23000 SAINT LEGER LEGUERETOIS"
+ },
+ "club-53-sauna-gardonne": {
+  "lat": 44.83701,
+  "lon": 0.334674,
+  "precision": "housenumber",
+  "label": "53 Avenue du Périgord 24680 Gardonne",
+  "score": 0.73,
+  "query": "53 Av du Périgord 24680 GARDONNE"
+ },
+ "l-aparte-bar-perigueux": {
+  "lat": 45.183192,
+  "lon": 0.720413,
+  "precision": "housenumber",
+  "label": "13 Rue des Farges 24000 Périgueux",
+  "score": 0.8,
+  "query": "11/13 rue des farges 24000 PERIGUEUX"
+ },
+ "le-calin-clermont-de-beauregars": {
+  "lat": 44.942218,
+  "lon": 0.63105,
+  "precision": "street",
+  "label": "Impasse de la Mouline 24140 Clermont-de-Beauregard",
+  "score": 0.63,
+  "query": "La Mouline 24140 CLERMONT DE BEAUREGARS"
+ },
+ "la-douche-coulounieix-chamiers": {
+  "lat": 45.168297,
+  "lon": 0.678146,
+  "precision": "street",
+  "label": "Route de Sarrazi 24660 Coulounieix-Chamiers",
+  "score": 0.62,
+  "query": "Route de Bergerac 24660 COULOUNIEIX-CHAMIERS"
+ },
+ "le-lady-s-saint-vit": {
+  "lat": 47.184315,
+  "lon": 5.816613,
+  "precision": "housenumber",
+  "label": "9 Rue de Besançon 25410 Saint-Vit",
+  "score": 0.96,
+  "query": "9 rue de Besançon 25410 SAINT VIT"
+ },
+ "le-reservoir-besancon": {
+  "lat": 47.249721,
+  "lon": 6.032085,
+  "precision": "housenumber",
+  "label": "1 Rue Charles Fourier 25000 Besançon",
+  "score": 0.98,
+  "query": "1 Rue Charles Fourier 25000 BESANçON"
+ },
+ "sauna-hammam-savuna-sochaux": {
+  "lat": 47.516331,
+  "lon": 6.823024,
+  "precision": "housenumber",
+  "label": "13 Rue sous la Côte 25600 Sochaux",
+  "score": 0.96,
+  "query": "13 rue sous la côte 25600 SOCHAUX"
+ },
+ "le-maeva-saint-vit": {
+  "lat": 47.184315,
+  "lon": 5.816613,
+  "precision": "housenumber",
+  "label": "9 Rue de Besançon 25410 Saint-Vit",
+  "score": 0.96,
+  "query": "9 rue de Besançon 25410 SAINT VIT"
+ },
+ "l-inko-nu-audincourt": {
+  "lat": 47.488579,
+  "lon": 6.8445,
+  "precision": "housenumber",
+  "label": "15 Rue de la Jalésie 25400 Audincourt",
+  "score": 0.96,
+  "query": "15 rue de la jalésie 25400 AUDINCOURT"
+ },
+ "sauna-club-lg-besancon": {
+  "lat": 47.239748,
+  "lon": 6.027875,
+  "precision": "housenumber",
+  "label": "14 Rue d’Alsace 25000 Besançon",
+  "score": 0.97,
+  "query": "14 rue d'Alsace 25000 BESANçON"
+ },
+ "love-paradise-chatillon-le-duc": {
+  "lat": 47.288351,
+  "lon": 5.997818,
+  "precision": "street",
+  "label": "Chemin du Bois de la Lave 25870 Châtillon-le-Duc",
+  "score": 0.67,
+  "query": "CHEMIN DU BOIS DE LA LAVE ZONE VALENTIN 25870 CHATILLON LE DUC"
+ },
+ "aloha-club-valence": {
+  "lat": 44.934226,
+  "lon": 4.907409,
+  "precision": "housenumber",
+  "label": "10 Rue Montplaisir 26000 Valence",
+  "score": 0.97,
+  "query": "10 rue Montplaisir 26000 VALENCE"
+ },
+ "l-ile-du-levant-bourg-les-valence": {
+  "lat": 44.943336,
+  "lon": 4.895386,
+  "precision": "housenumber",
+  "label": "50 Rue de Verdun 26500 Bourg-lès-Valence",
+  "score": 0.97,
+  "query": "50 rue de Verdun 26500 BOURG LES VALENCE"
+ },
+ "l-eclypse-valence": {
+  "lat": 44.934226,
+  "lon": 4.907409,
+  "precision": "housenumber",
+  "label": "10 Rue Montplaisir 26000 Valence",
+  "score": 0.97,
+  "query": "10 rue Montplaisir 26000 VALENCE"
+ },
+ "le-passion-gravigny": {
+  "lat": 49.042074,
+  "lon": 1.155911,
+  "precision": "housenumber",
+  "label": "13 Rue Fernand Leger 27930 Gravigny",
+  "score": 0.95,
+  "query": "13 rue fernand léger 27930 GRAVIGNY"
+ },
+ "le-sandy-s-bourg-les-valence": {
+  "lat": 44.965049,
+  "lon": 4.892066,
+  "precision": "street",
+  "label": "Route de Chateauneuf Sur Isere 26500 Bourg-lès-Valence",
+  "score": 0.69,
+  "query": "16 route de chateauneuf 26500 BOURG LES VALENCE"
+ },
+ "l-equatorial-sauna-evreux-evreux": {
+  "lat": 49.029473,
+  "lon": 1.154453,
+  "precision": "housenumber",
+  "label": "9bis Rue Georges Bernard 27000 Évreux",
+  "score": 0.82,
+  "query": "9 bis, rue Georges Bernard 27000 EVREUX"
+ },
+ "le-pink-sauna-brest": {
+  "lat": 48.39807,
+  "lon": -4.48135,
+  "precision": "housenumber",
+  "label": "35 Rue Duperré 29200 Brest",
+  "score": 0.97,
+  "query": "35, rue Duperre 29200 BREST"
+ },
+ "sundy-club-le-coudray": {
+  "lat": 48.426832,
+  "lon": 1.512116,
+  "precision": "housenumber",
+  "label": "3 Rue du 19 Mars 1962 28630 Le Coudray",
+  "score": 0.95,
+  "query": "3 Rue du 19 Mars 1962 28630 LE COUDRAY"
+ },
+ "l-ecrin-euzet": {
+  "lat": 44.067417,
+  "lon": 4.220821,
+  "precision": "street",
+  "label": "Route des Sources 30360 Euzet",
+  "score": 0.63,
+  "query": "les sources 30360 EUZET"
+ },
+ "le-prive-toulouse": {
+  "lat": 43.60579,
+  "lon": 1.460244,
+  "precision": "housenumber",
+  "label": "43 Avenue de la Gloire 31500 Toulouse",
+  "score": 0.99,
+  "query": "43 avenue de la Gloire 31500 TOULOUSE"
+ },
+ "le-lib-ales": {
+  "lat": 44.124288,
+  "lon": 4.076425,
+  "precision": "street",
+  "label": "Rue Lafare Alais 30100 Alès",
+  "score": 0.7,
+  "query": "16 bis rue Lafare Alais 30100 ALES"
+ },
+ "fahrenheit-212-nimes": {
+  "lat": 43.817072,
+  "lon": 4.338589,
+  "precision": "housenumber",
+  "label": "1606 Avenue du Maréchal Juin 30900 Nîmes",
+  "score": 0.83,
+  "query": "1606 avenue Marechal Juin 30900 NIMES"
+ },
+ "club-30-nimes": {
+  "lat": 43.838057,
+  "lon": 4.371735,
+  "precision": "housenumber",
+  "label": "6 Rue Cordier 30000 Nîmes",
+  "score": 0.97,
+  "query": "6 Rue Cordier 30000 NIMES"
+ },
+ "le-bartaboo-toulouse": {
+  "lat": 43.60611,
+  "lon": 1.45444,
+  "precision": "housenumber",
+  "label": "28 Rue Gabriel Péri 31000 Toulouse",
+  "score": 0.98,
+  "query": "28 rue Gabriel Péri 31000 TOULOUSE"
+ },
+ "le-360spa-toulouse": {
+  "lat": 43.574137,
+  "lon": 1.498682,
+  "precision": "housenumber",
+  "label": "9 Avenue de la Marcaissonne 31400 Toulouse",
+  "score": 0.97,
+  "query": "9 Avenue de la Marcaissonne 31400 TOULOUSE"
+ },
+ "le-scandale-toulouse": {
+  "lat": 43.608672,
+  "lon": 1.410197,
+  "precision": "housenumber",
+  "label": "40 Rue Emile Heybrard 31300 Toulouse",
+  "score": 0.97,
+  "query": "40 rue Emile Heybrard 31300 TOULOUSE"
+ },
+ "club-72-toulouse": {
+  "lat": 43.607553,
+  "lon": 1.429174,
+  "precision": "housenumber",
+  "label": "11 Rue du Béarnais 31000 Toulouse",
+  "score": 0.98,
+  "query": "11 rue du Béarnais 31000 TOULOUSE"
+ },
+ "le-taboo-toulouse": {
+  "lat": 43.57336,
+  "lon": 1.439684,
+  "precision": "housenumber",
+  "label": "1 Chemin des Etroits 31400 Toulouse",
+  "score": 0.98,
+  "query": "1 chemin des Etroits 31400 TOULOUSE"
+ },
+ "nikki-club-bordeaux": {
+  "lat": 44.827788,
+  "lon": -0.55199,
+  "precision": "street",
+  "label": "Quai de Paludate 33800 Bordeaux",
+  "score": 0.74,
+  "query": "15 quai Paludate 33800 BORDEAUX"
+ },
+ "le-nymphee-tasque": {
+  "lat": 43.613526,
+  "lon": 0.04083,
+  "precision": "street",
+  "label": "Route de Tasque 32160 Plaisance",
+  "score": 0.6,
+  "query": "route d'Aire 32160 TASQUE"
+ },
+ "le-declic-fleurance": {
+  "lat": 43.8496,
+  "lon": 0.661566,
+  "precision": "housenumber",
+  "label": "64 Boulevard Dannez 32500 Fleurance",
+  "score": 0.66,
+  "query": "64 bd Dannez 32500 FLEURANCE"
+ },
+ "le-diablotin-33-port-sainte-foix-et-pontchapt": {
+  "lat": 44.845502,
+  "lon": 0.176326,
+  "precision": "street",
+  "label": "Avenue des Quatre Ormeaux 33220 Port-Sainte-Foy-et-Ponchapt",
+  "score": 0.62,
+  "query": "ZA les quatre ormeaux 33220 PORT SAINTE FOIX ET PONTCHAPT"
+ },
+ "le-hot-club-roqueseriere": {
+  "lat": 43.735145,
+  "lon": 1.636422,
+  "precision": "housenumber",
+  "label": "94 Route de la Gare 31380 Roquesérière",
+  "score": 0.65,
+  "query": "94 Avenue de la Gare 31380 ROQUESERIERE"
+ },
+ "la-chaloupe-bordeaux": {
+  "lat": 44.831807,
+  "lon": -0.543969,
+  "precision": "housenumber",
+  "label": "30 Rue Giacomo Matteotti 33100 Bordeaux",
+  "score": 0.86,
+  "query": "30 rue Giacomo Matteoti 33100 BORDEAUX"
+ },
+ "le-vip-s-cestas": {
+  "lat": 44.770047,
+  "lon": -0.71616,
+  "precision": "housenumber",
+  "label": "55 Avenue du Maréchal de Lattre de Tassigny 33610 Cestas",
+  "score": 0.84,
+  "query": "55 avenue du Marechal Lattre de Tassigny 33610 CESTAS"
+ },
+ "le-montesquieu-la-reole": {
+  "lat": 44.581081,
+  "lon": -0.037824,
+  "precision": "housenumber",
+  "label": "12 Avenue Jean Delsol 33190 La Réole",
+  "score": 0.75,
+  "query": "12 avenue Delsol 33190 LA RéOLE"
+ },
+ "sauna-le-candy-bordeaux": {
+  "lat": 44.855427,
+  "lon": -0.564847,
+  "precision": "housenumber",
+  "label": "3 Rue Poyenne 33300 Bordeaux",
+  "score": 0.98,
+  "query": "3 Rue Poyenne 33300 BORDEAUX"
+ },
+ "sauna-clubix-bordeaux": {
+  "lat": 44.855427,
+  "lon": -0.564847,
+  "precision": "housenumber",
+  "label": "3 Rue Poyenne 33300 Bordeaux",
+  "score": 0.98,
+  "query": "3 rue Poyenne 33300 BORDEAUX"
+ },
+ "sauna-ferrere-bordeaux": {
+  "lat": 44.848057,
+  "lon": -0.572233,
+  "precision": "housenumber",
+  "label": "18 Rue Ferrère 33000 Bordeaux",
+  "score": 0.98,
+  "query": "18 rue Ferrère 33000 BORDEAUX"
+ },
+ "sauna-le-saint-bordeaux": {
+  "lat": 44.853177,
+  "lon": -0.572564,
+  "precision": "housenumber",
+  "label": "39 Rue Saint-Joseph 33000 Bordeaux",
+  "score": 0.98,
+  "query": "39 rue Saint Joseph 33000 BORDEAUX"
+ },
+ "le-container-bordeaux": {
+  "lat": 44.842155,
+  "lon": -0.549795,
+  "precision": "housenumber",
+  "label": "69 Cours le Rouzic 33100 Bordeaux",
+  "score": 0.98,
+  "query": "69, cours le Rouzic 33100 BORDEAUX"
+ },
+ "nirvanna-club-bordeaux": {
+  "lat": 44.829148,
+  "lon": -0.565111,
+  "precision": "street",
+  "label": "Cours de la Marne 33800 Bordeaux",
+  "score": 0.73,
+  "query": "229 bis cours de la marne 33800 BORDEAUX"
+ },
+ "studio-21-bordeaux": {
+  "lat": 44.852197,
+  "lon": -0.572989,
+  "precision": "housenumber",
+  "label": "12 Rue Sicard 33000 Bordeaux",
+  "score": 0.97,
+  "query": "12 Rue Sicard 33000 BORDEAUX"
+ },
+ "la-villa-panthere-st-jean-d-illac": {
+  "lat": 44.811663,
+  "lon": -0.750662,
+  "precision": "housenumber",
+  "label": "40bis Avenue de Boulac 33127 Saint-Jean-d'Illac",
+  "score": 0.74,
+  "query": "40 bis avenue de Boulac 33127 ST JEAN D ILLAC"
+ },
+ "113-avenue-eysines-bordeaux": {
+  "lat": 44.872603,
+  "lon": -0.661038,
+  "precision": "housenumber",
+  "label": "113 Avenue Jean Mermoz 33320 Eysines",
+  "score": 0.71,
+  "query": "113 avenue Jean Mermoz 33320 EYSINES (BORDEAUX)"
+ },
+ "le-cleopatre-montpellier": {
+  "lat": 43.606781,
+  "lon": 3.879261,
+  "precision": "housenumber",
+  "label": "1 Rue de la Victoire de la Marne 34000 Montpellier",
+  "score": 0.78,
+  "query": "1 rue Victoire de la Marne 34000 MONTPELLIER"
+ },
+ "le-prive-34-frontignan": {
+  "lat": 43.423896,
+  "lon": 3.71414,
+  "precision": "housenumber",
+  "label": "8 Avenue de la Bordelaise 34110 Frontignan",
+  "score": 0.97,
+  "query": "8 Avenue de la Bordelaise 34110 FRONTIGNAN"
+ },
+ "le-koncept-sauna-montpellier": {
+  "lat": 43.600291,
+  "lon": 3.867241,
+  "precision": "housenumber",
+  "label": "10 Avenue de Toulouse 34070 Montpellier",
+  "score": 0.67,
+  "query": "10 avenue de Lodève 34070 MONTPELLIER"
+ },
+ "rex-club-sauna-montpellier": {
+  "lat": 43.605898,
+  "lon": 3.88622,
+  "precision": "housenumber",
+  "label": "40 Avenue du Pont Juvénal 34000 Montpellier",
+  "score": 0.98,
+  "query": "40 avenue du pont juvénal 34000 MONTPELLIER"
+ },
+ "le-suny-montpellier": {
+  "lat": 43.605619,
+  "lon": 3.872085,
+  "precision": "housenumber",
+  "label": "6 Rue Saint Claude 34000 Montpellier",
+  "score": 0.97,
+  "query": "6 rue Saint Claude 34000 MONTPELLIER"
+ },
+ "le-chateau-de-tredos-agde": {
+  "lat": 43.306165,
+  "lon": 3.481163,
+  "precision": "street",
+  "label": "Boulevard du Soleil 34300 Agde",
+  "score": 0.82,
+  "query": "1 boulevard du Soleil 34300 AGDE"
+ },
+ "le-36-sauna-montpellier": {
+  "lat": 43.603489,
+  "lon": 3.868363,
+  "precision": "housenumber",
+  "label": "36 Rue Bourrely 34000 Montpellier",
+  "score": 0.98,
+  "query": "36, Rue Bourrély 34000 MONTPELLIER"
+ },
+ "le-kalyptus-montpellier": {
+  "lat": 43.58894,
+  "lon": 3.892505,
+  "precision": "housenumber",
+  "label": "129 Avenue de Palavas 34070 Montpellier",
+  "score": 0.98,
+  "query": "129 avenue de Palavas 34070 MONTPELLIER"
+ },
+ "le-paradisio-fabregues": {
+  "lat": 43.542562,
+  "lon": 3.77037,
+  "precision": "street",
+  "label": "Route 613 34690 Fabrègues",
+  "score": 0.64,
+  "query": "RD 613 34690 FABREGUES"
+ },
+ "planet-sauna-montpellier": {
+  "lat": 43.605201,
+  "lon": 3.869427,
+  "precision": "housenumber",
+  "label": "3 Rue des Pins 34000 Montpellier",
+  "score": 0.97,
+  "query": "3 rue des Pins 34000 MONTPELLIER"
+ },
+ "riad-cap-d-agde-cap-d-agde": {
+  "lat": 43.296312,
+  "lon": 3.521869,
+  "precision": "street",
+  "label": "Avenue de Port Ambonne 34300 Agde",
+  "score": 0.66,
+  "query": "59 Avenue Port Ambonne 34300 CAP D AGDE"
+ },
+ "berlioz-sauna-beziers": {
+  "lat": 43.344146,
+  "lon": 3.218352,
+  "precision": "housenumber",
+  "label": "5 Rue Hector Berlioz 34500 Béziers",
+  "score": 0.71,
+  "query": "5, rue BERLIOZ 34500 BEZIERS"
+ },
+ "one-sauna-montpellier": {
+  "lat": 43.606781,
+  "lon": 3.879261,
+  "precision": "housenumber",
+  "label": "1 Rue de la Victoire de la Marne 34000 Montpellier",
+  "score": 0.97,
+  "query": "1 rue de la victoire de la Marne 34000 MONTPELLIER"
+ },
+ "l-envie-beziers": {
+  "lat": 43.337013,
+  "lon": 3.218366,
+  "precision": "housenumber",
+  "label": "42 Rue du Midi 34500 Béziers",
+  "score": 0.97,
+  "query": "42 rue du midi 34500 BEZIERS"
+ },
+ "sauna-des-pins-montpellier": {
+  "lat": 43.605201,
+  "lon": 3.869427,
+  "precision": "housenumber",
+  "label": "3 Rue des Pins 34000 Montpellier",
+  "score": 0.97,
+  "query": "3 rue des pins 34000 MONTPELLIER"
+ },
+ "athena-sauna-montpellier": {
+  "lat": 43.601956,
+  "lon": 3.882607,
+  "precision": "housenumber",
+  "label": "51 Rue Henri René 34000 Montpellier",
+  "score": 0.98,
+  "query": "51, Rue HENRI RENE 34000 MONTPELLIER"
+ },
+ "bouddha-saint-jean-de-vedas": {
+  "lat": 43.574673,
+  "lon": 3.850775,
+  "precision": "housenumber",
+  "label": "564 Rue Théophraste Renaudot 34430 Saint-Jean-de-Védas",
+  "score": 0.96,
+  "query": "564 rue Théophraste Renaudot 34430 SAINT JEAN DE VéDAS"
+ },
+ "sauna-california-rennes": {
+  "lat": 48.108701,
+  "lon": -1.670746,
+  "precision": "housenumber",
+  "label": "7 Rue de Léon 35000 Rennes",
+  "score": 0.98,
+  "query": "7 rue de Léon 35000 RENNES"
+ },
+ "l-entrevue-pont-rean-guichen": {
+  "lat": 48.001822,
+  "lon": -1.775154,
+  "precision": "housenumber",
+  "label": "95 Rue de Redon 35580 Guichen",
+  "score": 0.66,
+  "query": "95 rue de Redon 35580 PONT-RéAN (GUICHEN)"
+ },
+ "venusia-la-grande-motte": {
+  "lat": 43.568148,
+  "lon": 4.099993,
+  "precision": "housenumber",
+  "label": "42 Allée du Ponant 34280 La Grande-Motte",
+  "score": 0.95,
+  "query": "42 allee du ponant 34280 LA GRANDE MOTTE"
+ },
+ "double-je-fougeres": {
+  "lat": 48.339478,
+  "lon": -1.194086,
+  "precision": "housenumber",
+  "label": "164 Rue de Laval 35300 Fougères",
+  "score": 0.73,
+  "query": "164 route de Laval 35300 FOUGERES"
+ },
+ "les-thermes-de-grammont-tours": {
+  "lat": 47.387741,
+  "lon": 0.690077,
+  "precision": "housenumber",
+  "label": "22 Avenue de Grammont 37000 Tours",
+  "score": 0.82,
+  "query": "22 avenue Grammont 37000 TOURS"
+ },
+ "le-paradis-montlouis-sur-loire": {
+  "lat": 47.388075,
+  "lon": 0.816409,
+  "precision": "street",
+  "label": "Rue Denis Papin 37270 Montlouis-sur-Loire",
+  "score": 0.96,
+  "query": "rue Denis Papin 37270 MONTLOUIS SUR LOIRE"
+ },
+ "arulliacum-reuilly": {
+  "lat": 47.083447,
+  "lon": 2.046425,
+  "precision": "street",
+  "label": "Chemin de la Californie 36260 Reuilly",
+  "score": 0.62,
+  "query": "11 rue de la Californie 36260 REUILLY"
+ },
+ "le-masque-rouge-grenoble": {
+  "lat": 45.187029,
+  "lon": 5.71938,
+  "precision": "housenumber",
+  "label": "4 Rue des Bergers 38000 Grenoble",
+  "score": 0.97,
+  "query": "4 rue des bergers 38000 GRENOBLE"
+ },
+ "les-dunes-38-grenoble": {
+  "lat": 45.185822,
+  "lon": 5.713907,
+  "precision": "housenumber",
+  "label": "27 Rue Nicolas Chorier 38000 Grenoble",
+  "score": 0.87,
+  "query": "27 rue Nicolas Chorrier 38000 GRENOBLE"
+ },
+ "d-b-x-dole": {
+  "lat": 47.108247,
+  "lon": 5.499733,
+  "precision": "housenumber",
+  "label": "87 Avenue de Lattre de Tassigny 39100 Dole",
+  "score": 0.97,
+  "query": "87 avenue de Lattre-de-Tassigny 39100 DôLE"
+ },
+ "oddbxclub-dole": {
+  "lat": 47.105256,
+  "lon": 5.499124,
+  "precision": "street",
+  "label": "Avenue de Lattre de Tassigny 39100 Dole",
+  "score": 0.6,
+  "query": "87av marechal de lattre de tassigny 39100 DOLE"
+ },
+ "le-manoir-petit-villiers-robert": {
+  "lat": 46.965129,
+  "lon": 5.508758,
+  "precision": "street",
+  "label": "Route de Dole 39120 Villers-Robert",
+  "score": 0.67,
+  "query": "route de Dôle 39120 PETIT VILLIERS ROBERT"
+ },
+ "oxygene-grenoble": {
+  "lat": 45.182899,
+  "lon": 5.721701,
+  "precision": "housenumber",
+  "label": "24 Rue Marceau 38000 Grenoble",
+  "score": 0.62,
+  "query": "24 rue Malifaud 38000 GRENOBLE"
+ },
+ "le-901-saint-nazaire": {
+  "lat": 47.276748,
+  "lon": -2.207248,
+  "precision": "housenumber",
+  "label": "2 Rue de Saintonge 44600 Saint-Nazaire",
+  "score": 0.81,
+  "query": "2, rue Saintonge 44600 SAINT NAZAIRE"
+ },
+ "le-steamer-nantes": {
+  "lat": 47.211135,
+  "lon": -1.548209,
+  "precision": "street",
+  "label": "Rue Baron 44000 Nantes",
+  "score": 0.7,
+  "query": "4 bis rue baron 44000 NANTES"
+ },
+ "le-moloko-saint-etienne": {
+  "lat": 45.424763,
+  "lon": 4.369877,
+  "precision": "housenumber",
+  "label": "31 Rue des Haveurs 42100 Saint-Étienne",
+  "score": 0.97,
+  "query": "31 rue des Haveurs 42100 SAINT ETIENNE"
+ },
+ "la-demeure-libertine-guemene-penfao": {
+  "lat": 47.696479,
+  "lon": -1.867563,
+  "precision": "housenumber",
+  "label": "35 Rue du Général de Gaulle 44290 Guémené-Penfao",
+  "score": 0.96,
+  "query": "35 rue du général de Gaulle 44290 GUEMENE-PENFAO"
+ },
+ "l-orchidee-noire-nantes": {
+  "lat": 47.210184,
+  "lon": -1.549082,
+  "precision": "housenumber",
+  "label": "28 Rue des Olivettes 44000 Nantes",
+  "score": 0.81,
+  "query": "28, rue de Olivettes 44000 NANTES"
+ },
+ "guili-s-club-carquefou": {
+  "lat": 47.281,
+  "lon": -1.458164,
+  "precision": "housenumber",
+  "label": "2 Impasse Betelgeuse 44470 Carquefou",
+  "score": 0.95,
+  "query": "2 impasse Bételgeuse 44470 CARQUEFOU"
+ },
+ "les-lapins-roses-pressigny-les-pins": {
+  "lat": 47.881225,
+  "lon": 2.749892,
+  "precision": "housenumber",
+  "label": "6 Place du Bourg 45290 Pressigny-les-Pins",
+  "score": 0.94,
+  "query": "6 Place du Bourg 45290 PRESSIGNY LES PINS"
+ },
+ "sauna-jaures-orleans": {
+  "lat": 47.900857,
+  "lon": 1.893342,
+  "precision": "housenumber",
+  "label": "17 Boulevard Jean Jaurès 45000 Orléans",
+  "score": 0.97,
+  "query": "17, Boulevard Jean Jaures 45000 ORLEANS"
+ },
+ "o-plaisirs-d-agen-boe": {
+  "lat": 44.179973,
+  "lon": 0.6313,
+  "precision": "housenumber",
+  "label": "6 Rue de la Poste 47550 Boé",
+  "score": 0.96,
+  "query": "6 rue de la poste 47550 BOE"
+ },
+ "equatorial-sauna-orleans": {
+  "lat": 47.90295,
+  "lon": 1.899587,
+  "precision": "housenumber",
+  "label": "13ter Rue des Grands Champs 45000 Orléans",
+  "score": 0.83,
+  "query": "13 Ter Rue des grands champs 45000 ORLEANS"
+ },
+ "l-after-club-le-fresne-sur-loire": {
+  "lat": 47.419746,
+  "lon": -0.952531,
+  "precision": "street",
+  "label": "Chemin de la Valinière 49123 Ingrandes-le-Fresne-sur-Loire",
+  "score": 0.67,
+  "query": "La Valinière 49123 LE FRESNE SUR LOIRE"
+ },
+ "le-point-g-saint-senier-sous-avranches": {
+  "lat": 48.678138,
+  "lon": -1.295302,
+  "precision": "housenumber",
+  "label": "180 Rue Jeanne Paisnel 50300 Saint-Senier-sous-Avranches",
+  "score": 0.8,
+  "query": "180,rue Jeanne pesnel 50300 SAINT SENIER SOUS AVRANCHES"
+ },
+ "le-ramses-chalons-en-champagne": {
+  "lat": 48.959401,
+  "lon": 4.369328,
+  "precision": "housenumber",
+  "label": "101 Rue des Martyrs de la Résistance 51000 Châlons-en-Champagne",
+  "score": 0.97,
+  "query": "101 rue des martyrs de la resistance 51000 CHALONS EN CHAMPAGNE"
+ },
+ "le-tropic-angers": {
+  "lat": 47.471303,
+  "lon": -0.527086,
+  "precision": "housenumber",
+  "label": "144 Rue Larévellière 49100 Angers",
+  "score": 0.76,
+  "query": "144 rue de la Larévellière 49100 ANGERS"
+ },
+ "sauna-le-lotus-reims": {
+  "lat": 49.261522,
+  "lon": 4.054851,
+  "precision": "housenumber",
+  "label": "33 Rue de Witry 51100 Reims",
+  "score": 0.98,
+  "query": "33 rue de witry 51100 REIMS"
+ },
+ "le-manoir-juvigne": {
+  "lat": 48.247858,
+  "lon": -1.03449,
+  "precision": "street",
+  "label": "la Sancie 53380 Juvigné",
+  "score": 0.94,
+  "query": "LA SANCIE 53380 JUVIGNE"
+ },
+ "club-l-atmosphere-aigny": {
+  "lat": 49.035352,
+  "lon": 4.208544,
+  "precision": "street",
+  "label": "Rue de la République 51150 Aigny",
+  "score": 0.8,
+  "query": "9 rue de la République 51150 AIGNY"
+ },
+ "club-lg-nancy": {
+  "lat": 48.701063,
+  "lon": 6.169616,
+  "precision": "housenumber",
+  "label": "5 Rue Alfred Mézières 54000 Nancy",
+  "score": 0.97,
+  "query": "5 rue Alfred Mézières 54000 NANCY"
+ },
+ "l-unik-nancy": {
+  "lat": 48.700999,
+  "lon": 6.175878,
+  "precision": "housenumber",
+  "label": "9 Rue Jean Lamour 54000 Nancy",
+  "score": 0.97,
+  "query": "9 rue jean lamour 54000 NANCY"
+ },
+ "le-bounty-maxeville": {
+  "lat": 48.720263,
+  "lon": 6.174379,
+  "precision": "housenumber",
+  "label": "7 Rue André Fruchard 54320 Maxéville",
+  "score": 0.96,
+  "query": "7 rue andre fruchard 54320 MAXEVILLE"
+ },
+ "l-apotheose-bayonville-sur-mad": {
+  "lat": 49.015649,
+  "lon": 6.000333,
+  "precision": "street",
+  "label": "Moulin D Ecorce 54890 Bayonville-sur-Mad",
+  "score": 0.94,
+  "query": "MOULIN D'ECORCE 54890 BAYONVILLE SUR MAD"
+ },
+ "tropik-sauna-lorient": {
+  "lat": 47.748195,
+  "lon": -3.361468,
+  "precision": "housenumber",
+  "label": "25 Rue de Liège 56100 Lorient",
+  "score": 0.97,
+  "query": "25 rue de liège 56100 LORIENT"
+ },
+ "le-labyrinthe-marly": {
+  "lat": 49.081164,
+  "lon": 6.147544,
+  "precision": "housenumber",
+  "label": "1a Rue de la Grange Aux Ormes 57155 Marly",
+  "score": 0.96,
+  "query": "1A rue de la grange aux ormes 57155 MARLY"
+ },
+ "royal-metz-metz": {
+  "lat": 49.111256,
+  "lon": 6.173108,
+  "precision": "housenumber",
+  "label": "2 Rue Gambetta 57000 Metz",
+  "score": 0.97,
+  "query": "2 rue Gambetta 57000 METZ"
+ },
+ "folie-s-club-gourin": {
+  "lat": 48.141272,
+  "lon": -3.602968,
+  "precision": "housenumber",
+  "label": "4 Rue de la Gare 56110 Gourin",
+  "score": 0.95,
+  "query": "4 rue de la Gare 56110 GOURIN"
+ },
+ "elle-et-lui-mondelange": {
+  "lat": 49.269979,
+  "lon": 6.172312,
+  "precision": "street",
+  "label": "Impasse des Cyclamens 57300 Mondelange",
+  "score": 0.95,
+  "query": "Impasse des Cyclamens 57300 MONDELANGE"
+ },
+ "le-tiki-sauna-thionville": {
+  "lat": 49.361312,
+  "lon": 6.17086,
+  "precision": "housenumber",
+  "label": "3 Rue de l’École des Mines 57100 Thionville",
+  "score": 0.97,
+  "query": "3 rue de l'ecole des mines 57100 THIONVILLE"
+ },
+ "club-liberty-thionville-thionville": {
+  "lat": 49.361312,
+  "lon": 6.17086,
+  "precision": "housenumber",
+  "label": "3 Rue de l’École des Mines 57100 Thionville",
+  "score": 0.97,
+  "query": "3 rue de l'ecole des mines 57100 THIONVILLE"
+ },
+ "le-manoir-antilly": {
+  "lat": 49.195227,
+  "lon": 6.248854,
+  "precision": "street",
+  "label": "Rue de Metz 57640 Antilly",
+  "score": 0.68,
+  "query": "Route de Metz 57640 ANTILLY"
+ },
+ "le-cent-douze-lille": {
+  "lat": 50.623997,
+  "lon": 3.074736,
+  "precision": "housenumber",
+  "label": "112 Rue de Cambrai 59000 Lille",
+  "score": 0.98,
+  "query": "112 rue de cambrai 59000 LILLE"
+ },
+ "l-equatorial-sauna-nevers-nevers": {
+  "lat": 46.988591,
+  "lon": 3.151448,
+  "precision": "housenumber",
+  "label": "4ter Rue de la Passière 58000 Nevers",
+  "score": 0.81,
+  "query": "4 ter rue de la Passière 58000 NEVERS"
+ },
+ "le-pied-marin-dunkerque": {
+  "lat": 51.036601,
+  "lon": 2.384031,
+  "precision": "housenumber",
+  "label": "2 Rue du Nouvel Arsenal 59140 Dunkerque",
+  "score": 0.97,
+  "query": "2 RUE DU NOUVEL ARSENAL 59140 DUNKERQUE"
+ },
+ "le-lokal-lille": {
+  "lat": 50.633398,
+  "lon": 3.065994,
+  "precision": "housenumber",
+  "label": "95 Rue du Molinel (Lille) 59800 Lille",
+  "score": 0.73,
+  "query": "95 Rue du Molinet 59800 LILLE"
+ },
+ "le-divin-lomme": {
+  "lat": 50.645068,
+  "lon": 2.997557,
+  "precision": "street",
+  "label": "Avenue de Dunkerque (Lomme) 59160 Lille",
+  "score": 0.69,
+  "query": "912 bis avenue de Dunkerque 59160 LOMME"
+ },
+ "abysse-sauna-alencon": {
+  "lat": 48.433743,
+  "lon": 0.095289,
+  "precision": "housenumber",
+  "label": "4 Rue Théodore Lemaître 61000 Alençon",
+  "score": 0.67,
+  "query": "4 Rue Lemaitre 61000 ALENCON"
+ },
+ "le-288-beauvais": {
+  "lat": 49.430129,
+  "lon": 2.11532,
+  "precision": "housenumber",
+  "label": "288 Rue de Clermont 60000 Beauvais",
+  "score": 0.98,
+  "query": "288 rue de clermont 60000 BEAUVAIS"
+ },
+ "le-pourquoi-pas-calais": {
+  "lat": 50.946287,
+  "lon": 1.830501,
+  "precision": "housenumber",
+  "label": "26 Rue d'Oran 62100 Calais",
+  "score": 0.62,
+  "query": "26 rue Rembrand 62100 CALAIS"
+ },
+ "la-tentation-premesques": {
+  "lat": 50.653008,
+  "lon": 2.939361,
+  "precision": "housenumber",
+  "label": "1251 Route Nationale 59840 Prémesques",
+  "score": 0.96,
+  "query": "1251 Route Nationale 59840 PREMESQUES"
+ },
+ "saunamusezvous-bethune": {
+  "lat": 50.523004,
+  "lon": 2.637712,
+  "precision": "housenumber",
+  "label": "650 Avenue du Maréchal Juin 62400 Béthune",
+  "score": 0.97,
+  "query": "650 avenue du marechal juin 62400 BETHUNE"
+ },
+ "orelax-lens": {
+  "lat": 50.435198,
+  "lon": 2.84029,
+  "precision": "housenumber",
+  "label": "9 Rue du Chemin Vert 62300 Lens",
+  "score": 0.97,
+  "query": "9 rue du chemin vert 62300 LENS"
+ },
+ "l-osmose-aire-sur-la-lys": {
+  "lat": 50.631909,
+  "lon": 2.437877,
+  "precision": "housenumber",
+  "label": "195 Rue de Constantinople la Lacqu 62120 Aire-sur-la-Lys",
+  "score": 0.83,
+  "query": "195 rue de Constantinople - La Lacque 62120 AIRE SUR LA LYS"
+ },
+ "le-cupidon-loison-sur-crequoise": {
+  "lat": 50.437438,
+  "lon": 1.926091,
+  "precision": "housenumber",
+  "label": "75 Rue Principale 62990 Loison-sur-Créquoise",
+  "score": 0.95,
+  "query": "75 rue Principale 62990 LOISON SUR CREQUOISE"
+ },
+ "l-oiseau-bleu-calais": {
+  "lat": 50.946358,
+  "lon": 1.875066,
+  "precision": "housenumber",
+  "label": "24 Rue Mignard 62100 Calais",
+  "score": 0.97,
+  "query": "24 rue mignard 62100 CALAIS"
+ },
+ "le-clean-riom": {
+  "lat": 45.897403,
+  "lon": 3.114814,
+  "precision": "housenumber",
+  "label": "42 Faubourg de Layat 63200 Riom",
+  "score": 0.97,
+  "query": "42, faubourg de Layat 63200 RIOM"
+ },
+ "le-nirvana-les-martres-de-veyre": {
+  "lat": 45.681316,
+  "lon": 3.181908,
+  "precision": "street",
+  "label": "Rue Pierre le Canadien 63730 Les Martres-de-Veyre",
+  "score": 0.82,
+  "query": "11 rue Pierre le Canadien 63730 LES MARTRES DE VEYRE"
+ },
+ "le-viaduc-clermont-ferrand": {
+  "lat": 45.770475,
+  "lon": 3.09131,
+  "precision": "street",
+  "label": "rue des Prés Bas 63000 Clermont-Ferrand",
+  "score": 0.82,
+  "query": "12 rue des Près Bas 63000 CLERMONT-FERRAND"
+ },
+ "aux-1001-plaisirs-riom": {
+  "lat": 45.887243,
+  "lon": 3.112201,
+  "precision": "housenumber",
+  "label": "10 Rue Amable Faucon 63200 Riom",
+  "score": 0.96,
+  "query": "10 rue Amable Faucon 63200 RIOM"
+ },
+ "sauna-d-italie-clermont-ferrand": {
+  "lat": 45.781803,
+  "lon": 3.095402,
+  "precision": "housenumber",
+  "label": "4 avenue d'Italie 63000 Clermont-Ferrand",
+  "score": 0.98,
+  "query": "4 avenue d'italie 63000 CLERMONT FERRAND"
+ },
+ "le-betty-s-pont-du-chateau": {
+  "lat": 45.795128,
+  "lon": 3.258232,
+  "precision": "housenumber",
+  "label": "72 avenue du Docteur Besserve 63430 Pont-du-Château",
+  "score": 0.97,
+  "query": "72 AVENUE DU DOCTEUR BESSERVE 63430 PONT DU CHATEAU"
+ },
+ "le-cav-o-clermont-ferrand": {
+  "lat": 45.778077,
+  "lon": 3.08504,
+  "precision": "housenumber",
+  "label": "7 rue Terrasse 63000 Clermont-Ferrand",
+  "score": 0.97,
+  "query": "7 rue Terrasse 63000 CLERMONT-FERRAND"
+ },
+ "sauna-eros-pau": {
+  "lat": 43.295817,
+  "lon": -0.372212,
+  "precision": "housenumber",
+  "label": "8 rue René Fournets 64000 Pau",
+  "score": 0.97,
+  "query": "8 rue René Fournets 64000 PAU"
+ },
+ "l-alcove-bordes": {
+  "lat": 43.208042,
+  "lon": 0.223624,
+  "precision": "housenumber",
+  "label": "50 Route des Pyrenées 65190 Bordes",
+  "score": 0.95,
+  "query": "50 route des Pyrénées 65190 BORDES"
+ },
+ "une-petite-parenthese-andrest": {
+  "lat": 43.319756,
+  "lon": 0.063709,
+  "precision": "housenumber",
+  "label": "11 Rue Jean Moulin 65390 Andrest",
+  "score": 0.95,
+  "query": "11 rue Jean Moulin 65390 ANDREST"
+ },
+ "french-connection-libaros": {
+  "lat": 43.258481,
+  "lon": 0.402787,
+  "precision": "street",
+  "label": "Chemin de Peyraille 65330 Libaros",
+  "score": 0.66,
+  "query": "Peyraille 65330 LIBAROS"
+ },
+ "l-atlantis-rivesaltes": {
+  "lat": 42.775922,
+  "lon": 2.873121,
+  "precision": "housenumber",
+  "label": "9 Avenue de l’Agly 66600 Rivesaltes",
+  "score": 0.96,
+  "query": "9 avenue de l'agly 66600 RIVESALTES"
+ },
+ "le-rio-saint-cyprien-port": {
+  "lat": 42.62358,
+  "lon": 3.033995,
+  "precision": "street",
+  "label": "Rue Condorcet 66750 Saint-Cyprien",
+  "score": 0.76,
+  "query": "rue condorcet 66750 SAINT CYPRIEN PORT"
+ },
+ "equateur-sauna-strasbourg": {
+  "lat": 48.580988,
+  "lon": 7.732855,
+  "precision": "housenumber",
+  "label": "5 Rue de Rosheim 67000 Strasbourg",
+  "score": 0.98,
+  "query": "5 rue de Rosheim 67000 STRASBOURG"
+ },
+ "le-cleopatra-still": {
+  "lat": 48.550353,
+  "lon": 7.409834,
+  "precision": "housenumber",
+  "label": "9 Rue du Calvaire 67190 Still",
+  "score": 0.95,
+  "query": "9 rue du Calvaire 67190 STILL"
+ },
+ "l-elite-saint-louis-neuweg": {
+  "lat": 47.625353,
+  "lon": 7.527858,
+  "precision": "housenumber",
+  "label": "106 Rue de Strasbourg 68300 Saint-Louis",
+  "score": 0.75,
+  "query": "106 rue de Strasbourg 68300 SAINT LOUIS NEUWEG"
+ },
+ "le-chat-noir-strasbourg": {
+  "lat": 48.593427,
+  "lon": 7.76094,
+  "precision": "housenumber",
+  "label": "10 Rue Edouard Teutsch 67000 Strasbourg",
+  "score": 0.97,
+  "query": "10 rue Edouard Teutsch 67000 STRASBOURG"
+ },
+ "club-inox-strasbourg-illkirch-graff": {
+  "lat": 48.540631,
+  "lon": 7.73443,
+  "precision": "housenumber",
+  "label": "71 Avenue de Strasbourg 67400 Illkirch-Graffenstaden",
+  "score": 0.65,
+  "query": "71 avenue de Strasbourg 67400 STRASBOURG ILLKIRCH GRAFF"
+ },
+ "sauna-mikonos-rixheim": {
+  "lat": 47.752564,
+  "lon": 7.382516,
+  "precision": "housenumber",
+  "label": "1 Rue des Peupliers 68170 Rixheim",
+  "score": 0.96,
+  "query": "1 rue des peupliers 68170 RIXHEIM"
+ },
+ "le-diamant-lyon": {
+  "lat": 45.755794,
+  "lon": 4.81608,
+  "precision": "housenumber",
+  "label": "24 Rue des Macchabées 69005 Lyon",
+  "score": 0.97,
+  "query": "24 rue des Macchabées 69005 LYON"
+ },
+ "city-club-colmar": {
+  "lat": 48.082442,
+  "lon": 7.34753,
+  "precision": "housenumber",
+  "label": "18 Rue d'Orbey 68000 Colmar",
+  "score": 0.97,
+  "query": "18 rue d'Orbey 68000 COLMAR"
+ },
+ "sauna-club-lg-mulhouse": {
+  "lat": 47.738628,
+  "lon": 7.335406,
+  "precision": "housenumber",
+  "label": "8 Quai d'Oran 68100 Mulhouse",
+  "score": 0.85,
+  "query": "08, quai d'Oran 68100 MULHOUSE"
+ },
+ "sun-libertin-lyon": {
+  "lat": 45.768547,
+  "lon": 4.832709,
+  "precision": "housenumber",
+  "label": "3 Rue Sainte Marie des Terreaux 69001 Lyon",
+  "score": 0.96,
+  "query": "3 rue sainte marie des terreaux 69001 LYON"
+ },
+ "lover-s-club-les-haies": {
+  "lat": 45.526279,
+  "lon": 4.754349,
+  "precision": "housenumber",
+  "label": "1103 Route de Vienne 69420 Les Haies",
+  "score": 0.94,
+  "query": "1103 ROUTE DE VIENNE 69420 LES HAIES"
+ },
+ "sauna-moon-libertin-lyon": {
+  "lat": 45.758328,
+  "lon": 4.828732,
+  "precision": "housenumber",
+  "label": "6 Quai Tilsitt 69002 Lyon",
+  "score": 0.97,
+  "query": "6 quai Tilsitt 69002 LYON"
+ },
+ "le-bambou-club-lyon": {
+  "lat": 45.757514,
+  "lon": 4.824852,
+  "precision": "housenumber",
+  "label": "50 Rue Saint Georges 69005 Lyon",
+  "score": 0.97,
+  "query": "50 rue Saint Georges 69005 LYON"
+ },
+ "le-royal-club-ternay": {
+  "lat": 45.626453,
+  "lon": 4.816958,
+  "precision": "housenumber",
+  "label": "1 Chemin des Voyageurs 69360 Ternay",
+  "score": 0.95,
+  "query": "1 chemin des Voyageurs 69360 TERNAY"
+ },
+ "new-shiva-lyon": {
+  "lat": 45.77199,
+  "lon": 4.811187,
+  "precision": "housenumber",
+  "label": "25 Quai Arloing 69009 Lyon",
+  "score": 0.97,
+  "query": "25 quai Arloing 69009 LYON"
+ },
+ "sauna-club-des-terreaux-lyon": {
+  "lat": 45.768156,
+  "lon": 4.83342,
+  "precision": "housenumber",
+  "label": "12 Rue Sainte Catherine 69001 Lyon",
+  "score": 0.96,
+  "query": "12 rue sainte catherine 69001 LYON"
+ },
+ "le-velvet-club-brignais": {
+  "lat": 45.677032,
+  "lon": 4.775916,
+  "precision": "housenumber",
+  "label": "9 Impasse du Chateau Rouge 69530 Brignais",
+  "score": 0.6,
+  "query": "9 Impasse du chateau rouge Parc des Vallières 69530 BRIGNAIS"
+ },
+ "eviden-s-lyon": {
+  "lat": 45.768299,
+  "lon": 4.832679,
+  "precision": "housenumber",
+  "label": "6 Rue Sainte Marie des Terreaux 69001 Lyon",
+  "score": 0.96,
+  "query": "6, rue Sainte Marie des Terreaux 69001 LYON"
+ },
+ "le-move-lyon": {
+  "lat": 45.77104,
+  "lon": 4.811761,
+  "precision": "housenumber",
+  "label": "32 Quai Arloing 69009 Lyon",
+  "score": 0.97,
+  "query": "32 quai Arloing 69009 LYON"
+ },
+ "sauna-anteus-chalon-sur-saone": {
+  "lat": 46.78142,
+  "lon": 4.856474,
+  "precision": "housenumber",
+  "label": "4 Rue des Cornillons 71100 Chalon-sur-Saône",
+  "score": 0.96,
+  "query": "4 rue des Cornillons 71100 CHALON SUR SAONE"
+ },
+ "le-mistik-club-caluire-et-cuire": {
+  "lat": 45.795314,
+  "lon": 4.829629,
+  "precision": "housenumber",
+  "label": "45 Quai Clemenceau 69300 Caluire-et-Cuire",
+  "score": 0.97,
+  "query": "45 quai Clemenceau 69300 CALUIRE-ET-CUIRE"
+ },
+ "le-sun-club-lyon": {
+  "lat": 45.768547,
+  "lon": 4.832709,
+  "precision": "housenumber",
+  "label": "3 Rue Sainte Marie des Terreaux 69001 Lyon",
+  "score": 0.96,
+  "query": "3 Rue Sainte-Marie-des-Terreaux 69001 LYON"
+ },
+ "le-cocoon-club-tassin-la-demi-lune": {
+  "lat": 45.765456,
+  "lon": 4.779466,
+  "precision": "housenumber",
+  "label": "2 Place de la Gare 69160 Tassin-la-Demi-Lune",
+  "score": 0.96,
+  "query": "2 place de la gare 69160 TASSIN LA DEMI LUNE"
+ },
+ "sauna-club-loisir-lyon": {
+  "lat": 45.769304,
+  "lon": 4.836158,
+  "precision": "housenumber",
+  "label": "3 Place du Griffon 69001 Lyon",
+  "score": 0.96,
+  "query": "3 place du Griffon 69001 LYON"
+ },
+ "anaconda-branges": {
+  "lat": 46.658569,
+  "lon": 5.157996,
+  "precision": "housenumber",
+  "label": "155 Rue des Cours Béthy 71500 Branges",
+  "score": 0.95,
+  "query": "155 rue des cours bethy 71500 BRANGES"
+ },
+ "le-delta-sauna-le-mans": {
+  "lat": 48.007329,
+  "lon": 0.180237,
+  "precision": "housenumber",
+  "label": "263 Boulevard Carnot 72000 Le Mans",
+  "score": 0.62,
+  "query": "263 Blv Carnot 72000 LE MANS"
+ },
+ "le-diderot-branges": {
+  "lat": 46.638842,
+  "lon": 5.204844,
+  "precision": "housenumber",
+  "label": "1325 Route des Pies 71500 Branges",
+  "score": 0.96,
+  "query": "1325, route des pies 71500 BRANGES"
+ },
+ "le-santi-s-club-le-mans": {
+  "lat": 47.974327,
+  "lon": 0.215574,
+  "precision": "street",
+  "label": "Avenue Georges Durand 72100 Le Mans",
+  "score": 0.7,
+  "query": "339av georges Durand 72100 LE MANS"
+ },
+ "malinka-sauna-aix-les-bains": {
+  "lat": 45.68561,
+  "lon": 5.912365,
+  "precision": "housenumber",
+  "label": "19 Rue François Berthier 73100 Aix-les-Bains",
+  "score": 0.96,
+  "query": "19 rue francois berthier 73100 AIX LES BAINS"
+ },
+ "le-zenith-gresy-sur-aix": {
+  "lat": 45.716417,
+  "lon": 5.923085,
+  "precision": "housenumber",
+  "label": "105 Impasse Lavoisier 73100 Grésy-sur-Aix",
+  "score": 0.95,
+  "query": "105 Impasse Lavoisier 73100 GRESY SUR AIX"
+ },
+ "sauna-les-jardins-de-bao-drumettaz": {
+  "lat": 45.664004,
+  "lon": 5.911283,
+  "precision": "street",
+  "label": "Chemin du cores 73420 Drumettaz-Clarafond",
+  "score": 0.64,
+  "query": "79, chemin du cores 73420 DRUMETTAZ"
+ },
+ "octopus-sauna-annecy": {
+  "lat": 45.907155,
+  "lon": 6.119799,
+  "precision": "housenumber",
+  "label": "15 Rue de Narvik 74000 Annecy",
+  "score": 0.97,
+  "query": "15 rue de Narvik 74000 ANNECY"
+ },
+ "le-sunbeach-club-chambery": {
+  "lat": 45.572717,
+  "lon": 5.906781,
+  "precision": "housenumber",
+  "label": "242 Rue Jules Bocquin 73000 Chambéry",
+  "score": 0.97,
+  "query": "242 rue Jules Bocquin 73000 CHAMBERY"
+ },
+ "le-nymphea-club-collonges-sous-saleve": {
+  "lat": 46.136775,
+  "lon": 6.161729,
+  "precision": "housenumber",
+  "label": "961 Route de la Croisette 74160 Collonges-sous-Salève",
+  "score": 0.96,
+  "query": "961 route de la croisette 74160 COLLONGES SOUS SALèVE"
+ },
+ "oxygene-annecy": {
+  "lat": 45.898869,
+  "lon": 6.116118,
+  "precision": "housenumber",
+  "label": "12 Avenue de la Mandallaz 74000 Annecy",
+  "score": 0.97,
+  "query": "12 avenue de la Mandallaz 74000 ANNECY"
+ },
+ "le-loving-annemasse": {
+  "lat": 46.187229,
+  "lon": 6.237045,
+  "precision": "housenumber",
+  "label": "36 Rue du Saget 74100 Annemasse",
+  "score": 0.97,
+  "query": "36 rue du Saget 74100 ANNEMASSE"
+ },
+ "l-entree-club-lgbt-collonges-sur-saleves": {
+  "lat": 46.144842,
+  "lon": 6.142875,
+  "precision": "street",
+  "label": "Chemin d'Evordes 74160 Collonges-sous-Salève",
+  "score": 0.67,
+  "query": "107, chemin d'evordes 74160 COLLONGES SUR SALèVES"
+ },
+ "la-galerie-art-de-nuit-mijouet-fillinges": {
+  "lat": 46.171313,
+  "lon": 6.370666,
+  "precision": "housenumber",
+  "label": "2091 Route de la Vallée Verte 74250 Fillinges",
+  "score": 0.74,
+  "query": "2091 route de la Vallée Verte 74250 MIJOUET FILLINGES"
+ },
+ "king-sauna-ambilly": {
+  "lat": 46.196005,
+  "lon": 6.224744,
+  "precision": "housenumber",
+  "label": "39 Rue jean jaurès 74100 Ambilly",
+  "score": 0.96,
+  "query": "39 rue Jean-Jaurès 74100 AMBILLY"
+ },
+ "cris-et-chuchotements-paris": {
+  "lat": 48.884646,
+  "lon": 2.322941,
+  "precision": "housenumber",
+  "label": "9 Rue Truffaut 75017 Paris",
+  "score": 0.98,
+  "query": "9 rue Truffaut 75017 PARIS"
+ },
+ "hotel-des-sens-paris": {
+  "lat": 48.862401,
+  "lon": 2.351133,
+  "precision": "housenumber",
+  "label": "83 Rue Quincampoix 75003 Paris",
+  "score": 0.97,
+  "query": "83, rue Quincampoix 75003 PARIS"
+ },
+ "le-seven-bonneville": {
+  "lat": 46.077117,
+  "lon": 6.407467,
+  "precision": "street",
+  "label": "Rue du carroz 74130 Bonneville",
+  "score": 0.68,
+  "query": "25 rue des Carroz 74130 BONNEVILLE"
+ },
+ "sauna-orphee-paris": {
+  "lat": 48.881018,
+  "lon": 2.334516,
+  "precision": "housenumber",
+  "label": "7 Rue Pierre Fontaine 75009 Paris",
+  "score": 0.7,
+  "query": "7 rue Fontaine 75009 PARIS"
+ },
+ "sauna-club-provence-paris": {
+  "lat": 48.874355,
+  "lon": 2.333032,
+  "precision": "housenumber",
+  "label": "66 Rue de Provence 75009 Paris",
+  "score": 0.98,
+  "query": "66 rue de provence 75009 PARIS"
+ },
+ "exhibar-sauna-paris": {
+  "lat": 48.84565,
+  "lon": 2.375372,
+  "precision": "housenumber",
+  "label": "5 Rue Hector Malot 75012 Paris",
+  "score": 0.97,
+  "query": "5 RUE HECTOR MALOT 75012 PARIS"
+ },
+ "chris-et-manu-paris": {
+  "lat": 48.858269,
+  "lon": 2.350332,
+  "precision": "housenumber",
+  "label": "5 Rue Saint-Bon 75004 Paris",
+  "score": 0.96,
+  "query": "5 rue Saint-Bon 75004 PARIS"
+ },
+ "le-sultana-paris": {
+  "lat": 48.881576,
+  "lon": 2.336763,
+  "precision": "housenumber",
+  "label": "62 Rue Jean-Baptiste Pigalle 75009 Paris",
+  "score": 0.97,
+  "query": "62 rue Jean Baptiste Pigalle 75009 PARIS"
+ },
+ "we-club-paris": {
+  "lat": 48.862401,
+  "lon": 2.351133,
+  "precision": "housenumber",
+  "label": "83 Rue Quincampoix 75003 Paris",
+  "score": 0.97,
+  "query": "83 Rue quincampoix 75003 PARIS"
+ },
+ "le-moon-city-paris": {
+  "lat": 48.882816,
+  "lon": 2.336616,
+  "precision": "housenumber",
+  "label": "34 Boulevard de Clichy 75018 Paris",
+  "score": 0.98,
+  "query": "34 boulevard de clichy 75018 PARIS"
+ },
+ "le-pluriel-paris": {
+  "lat": 48.855807,
+  "lon": 2.356875,
+  "precision": "housenumber",
+  "label": "13 Rue François Miron 75004 Paris",
+  "score": 0.97,
+  "query": "13 rue François Miron 75004 PARIS"
+ },
+ "no-comment-paris": {
+  "lat": 48.871219,
+  "lon": 2.308106,
+  "precision": "housenumber",
+  "label": "36 Rue de Ponthieu 75008 Paris",
+  "score": 0.97,
+  "query": "36 rue de Ponthieu 75008 PARIS"
+ },
+ "l-abys-paris": {
+  "lat": 48.86507,
+  "lon": 2.333825,
+  "precision": "housenumber",
+  "label": "13 Rue d'Argenteuil 75001 Paris",
+  "score": 0.96,
+  "query": "13 rue d'Argenteuil 75001 PARIS"
+ },
+ "le-diamant-rouge-paris": {
+  "lat": 48.856539,
+  "lon": 2.305756,
+  "precision": "housenumber",
+  "label": "24 Rue Valadon 75007 Paris",
+  "score": 0.64,
+  "query": "24 rue vavin 75007 PARIS"
+ },
+ "le-chateau-des-lys-paris": {
+  "lat": 48.891158,
+  "lon": 2.343453,
+  "precision": "housenumber",
+  "label": "103 Rue Marcadet 75018 Paris",
+  "score": 0.98,
+  "query": "103 rue Marcadet 75018 PARIS"
+ },
+ "fullmoon-club-paris": {
+  "lat": 48.86507,
+  "lon": 2.333825,
+  "precision": "housenumber",
+  "label": "13 Rue d'Argenteuil 75001 Paris",
+  "score": 0.96,
+  "query": "13, rue d'argenteuil 75001 PARIS"
+ },
+ "club-2plus2-paris": {
+  "lat": 48.840811,
+  "lon": 2.325143,
+  "precision": "housenumber",
+  "label": "9 Boulevard Edgar Quinet 75014 Paris",
+  "score": 0.98,
+  "query": "9 boulevard Edgar Quinet 75014 PARIS"
+ },
+ "le-papillon-paris": {
+  "lat": 48.861449,
+  "lon": 2.342837,
+  "precision": "housenumber",
+  "label": "84 Rue Saint-Honoré 75001 Paris",
+  "score": 0.75,
+  "query": "84 rue St Honoré 75001 PARIS"
+ },
+ "au-10-bis-paris": {
+  "lat": 48.878016,
+  "lon": 2.286509,
+  "precision": "housenumber",
+  "label": "10B Rue du Débarcadère 75017 Paris",
+  "score": 0.73,
+  "query": "10 bis rue du Débarcadère 75017 PARIS"
+ },
+ "les-chandelles-paris": {
+  "lat": 48.865682,
+  "lon": 2.336432,
+  "precision": "housenumber",
+  "label": "1 Rue Thérèse 75001 Paris",
+  "score": 0.96,
+  "query": "1 rue Thérèse 75001 PARIS"
+ },
+ "sunset-boulevard-club-paris": {
+  "lat": 48.884966,
+  "lon": 2.323151,
+  "precision": "housenumber",
+  "label": "5 Rue de Bizerte 75017 Paris",
+  "score": 0.97,
+  "query": "5 rue de Bizerte 75017 PARIS"
+ },
+ "atlantide-paris": {
+  "lat": 48.847102,
+  "lon": 2.3744,
+  "precision": "housenumber",
+  "label": "13 Rue Parrot 75012 Paris",
+  "score": 0.97,
+  "query": "13 rue Parrot 75012 PARIS"
+ },
+ "quai-17-paris": {
+  "lat": 48.890808,
+  "lon": 2.383511,
+  "precision": "housenumber",
+  "label": "17 Quai de l'Oise 75019 Paris",
+  "score": 0.8,
+  "query": "15-17 quai de l'Oise 75019 PARIS"
+ },
+ "alina-sauna-paris": {
+  "lat": 48.870768,
+  "lon": 2.395257,
+  "precision": "housenumber",
+  "label": "11 Rue Pixérécourt 75020 Paris",
+  "score": 0.98,
+  "query": "11 rue pixérécourt 75020 PARIS"
+ },
+ "love-hotel-paris-paris": {
+  "lat": 48.86241,
+  "lon": 2.349559,
+  "precision": "housenumber",
+  "label": "88 Rue Saint-Denis 75001 Paris",
+  "score": 0.97,
+  "query": "88 rue Saint-Denis 75001 PARIS"
+ },
+ "the-dream-studio-paris": {
+  "lat": 48.84791,
+  "lon": 2.415969,
+  "precision": "street",
+  "label": "Rue du Commandant l'Herminier 75020 Paris",
+  "score": 0.82,
+  "query": "24, rue du commandant l'herminier 75020 PARIS"
+ },
+ "l-escarpin-paris": {
+  "lat": 48.854954,
+  "lon": 2.359932,
+  "precision": "housenumber",
+  "label": "12 Rue du Prévôt 75004 Paris",
+  "score": 0.96,
+  "query": "12 rue du prevot 75004 PARIS"
+ },
+ "le-nautilus-paris": {
+  "lat": 48.870033,
+  "lon": 2.341002,
+  "precision": "housenumber",
+  "label": "18 Rue Feydeau 75002 Paris",
+  "score": 0.96,
+  "query": "18, rue Feydeau 75002 PARIS"
+ },
+ "au-cupidon-club-paris": {
+  "lat": 48.866112,
+  "lon": 2.336454,
+  "precision": "housenumber",
+  "label": "3 Rue Villedo 75001 Paris",
+  "score": 0.96,
+  "query": "3 rue villedo 75001 PARIS"
+ },
+ "overside-paris": {
+  "lat": 48.847445,
+  "lon": 2.322389,
+  "precision": "housenumber",
+  "label": "92 Rue du Cherche-Midi 75006 Paris",
+  "score": 0.97,
+  "query": "92 rue du Cherche Midi 75006 PARIS"
+ },
+ "le-beveley-cinema-paris": {
+  "lat": 48.870114,
+  "lon": 2.348696,
+  "precision": "housenumber",
+  "label": "14 Rue de la Ville Neuve 75002 Paris",
+  "score": 0.96,
+  "query": "14, rue de la Ville Neuve 75002 PARIS"
+ },
+ "le-four-a-pain-paris": {
+  "lat": 48.891826,
+  "lon": 2.321457,
+  "precision": "housenumber",
+  "label": "19 Rue Guy Môquet 75017 Paris",
+  "score": 0.98,
+  "query": "19 rue Guy Môquet 75017 PARIS"
+ },
+ "relax-club-courcelles-paris": {
+  "lat": 48.885736,
+  "lon": 2.296327,
+  "precision": "housenumber",
+  "label": "177 Rue de Courcelles 75017 Paris",
+  "score": 0.98,
+  "query": "177 rue de Courcelles 75017 PARIS"
+ },
+ "lachem-paris": {
+  "lat": 48.837759,
+  "lon": 2.356088,
+  "precision": "housenumber",
+  "label": "3 Rue du Jura 75013 Paris",
+  "score": 0.82,
+  "query": "1-3 rue du JURA 75013 PARIS"
+ },
+ "le-feeling-paris": {
+  "lat": 48.843765,
+  "lon": 2.330155,
+  "precision": "housenumber",
+  "label": "24 Rue Vavin 75006 Paris",
+  "score": 0.97,
+  "query": "24 rue vavin 75006 PARIS"
+ },
+ "l-exotika-rouen": {
+  "lat": 49.432366,
+  "lon": 1.081598,
+  "precision": "housenumber",
+  "label": "4 Rue du Four 76100 Rouen",
+  "score": 0.96,
+  "query": "4 rue du Four 76100 ROUEN"
+ },
+ "la-cheminee-paris": {
+  "lat": 48.838953,
+  "lon": 2.356224,
+  "precision": "housenumber",
+  "label": "11 Rue des Fossés Saint-Marcel 75005 Paris",
+  "score": 0.97,
+  "query": "11 rue des Fossés Saint Marcel 75005 PARIS"
+ },
+ "les-nuits-de-venus-paris": {
+  "lat": 48.862613,
+  "lon": 2.33967,
+  "precision": "housenumber",
+  "label": "9 Rue du Pélican 75001 Paris",
+  "score": 0.84,
+  "query": "09 rue du pélican 75001 PARIS"
+ },
+ "sauna-chez-florent-notre-dame-de-bondeville": {
+  "lat": 49.48944,
+  "lon": 1.048771,
+  "precision": "street",
+  "label": "Route de Dieppe 76960 Notre-Dame-de-Bondeville",
+  "score": 0.84,
+  "query": "4 route de dieppe 76960 NOTRE DAME DE BONDEVILLE"
+ },
+ "l-aloha-club-st-eutache-la-foret": {
+  "lat": 49.558797,
+  "lon": 0.438494,
+  "precision": "street",
+  "label": "La Mare Carel 76210 Saint-Eustache-la-Forêt",
+  "score": 0.65,
+  "query": "393 ZA La Mare Carel 76210 ST EUTACHE LA FORET"
+ },
+ "l-eclipse-dieppe": {
+  "lat": 49.925593,
+  "lon": 1.080125,
+  "precision": "housenumber",
+  "label": "26 Quai Duquesne 76200 Dieppe",
+  "score": 0.97,
+  "query": "26 Quai Duquesne 76200 DIEPPE"
+ },
+ "la-bulle-sotteville-les-rouen": {
+  "lat": 49.407319,
+  "lon": 1.092437,
+  "precision": "housenumber",
+  "label": "71 Avenue du 14 Juillet 76300 Sotteville-lès-Rouen",
+  "score": 0.98,
+  "query": "71, avenue du 14 juillet 76300 SOTTEVILLE-LES-ROUEN"
+ },
+ "le-seven-rouen": {
+  "lat": 49.436943,
+  "lon": 1.100035,
+  "precision": "housenumber",
+  "label": "7 Rue Armand Carrel 76000 Rouen",
+  "score": 0.98,
+  "query": "7 rue armand carrel 76000 ROUEN"
+ },
+ "club-911-tournan-en-brie": {
+  "lat": 48.738383,
+  "lon": 2.761413,
+  "precision": "housenumber",
+  "label": "4 Rue Damien Rigault 77220 Tournan-en-Brie",
+  "score": 0.95,
+  "query": "4 rue Damien Rigault 77220 TOURNAN EN BRIE"
+ },
+ "le-sauna-76-deville-les-rouen": {
+  "lat": 49.469394,
+  "lon": 1.045717,
+  "precision": "street",
+  "label": "Rue Jules Ferry 76250 Déville-lès-Rouen",
+  "score": 0.82,
+  "query": "67 rue jules ferry 76250 DéVILLE LES ROUEN"
+ },
+ "5-et-plus-emerainville": {
+  "lat": 48.813108,
+  "lon": 2.621854,
+  "precision": "housenumber",
+  "label": "5 Rue de la Famille Auribault 77184 Émerainville",
+  "score": 0.96,
+  "query": "5 rue de la Famille Auribault 77184 EMERAINVILLE"
+ },
+ "aux-secrets-de-bastet-meaux": {
+  "lat": 48.955528,
+  "lon": 2.876665,
+  "precision": "housenumber",
+  "label": "19 Rue de la Grande Ile 77100 Meaux",
+  "score": 0.97,
+  "query": "19 rue de la grande ile 77100 MEAUX"
+ },
+ "lina-tendu-mazieres-en-gatine": {
+  "lat": 46.536199,
+  "lon": -0.311922,
+  "precision": "street",
+  "label": "Allée des Naides 79310 Mazières-en-Gâtine",
+  "score": 0.62,
+  "query": "la naide 79310 MAZIERES EN GATINE"
+ },
+ "la-maison-rose-meulan": {
+  "lat": 49.005598,
+  "lon": 1.907258,
+  "precision": "housenumber",
+  "label": "2 Rue Gustave Ravanne 78250 Meulan-en-Yvelines",
+  "score": 0.87,
+  "query": "2 rue Gustave Ravanne 78250 MEULAN"
+ },
+ "la-detente-heudicourt": {
+  "lat": 50.027211,
+  "lon": 3.082692,
+  "precision": "housenumber",
+  "label": "18bis Rue de la Chaussée 80122 Heudicourt",
+  "score": 0.65,
+  "query": "18 bis rue de la chaussée brunehaut 80122 HEUDICOURT"
+ },
+ "le-7-eme-ciel-fontenay-tresigny": {
+  "lat": 48.703651,
+  "lon": 2.89331,
+  "precision": "street",
+  "label": "Route de Chaubuisson 77610 Fontenay-Trésigny",
+  "score": 0.7,
+  "query": "Aérodrome de chaubuisson 77610 FONTENAY TRéSIGNY"
+ },
+ "le-fouta-niort": {
+  "lat": 46.32508,
+  "lon": -0.456267,
+  "precision": "housenumber",
+  "label": "12 Rue Marcel Paul 79000 Niort",
+  "score": 0.97,
+  "query": "12 rue marcel Paul 79000 NIORT"
+ },
+ "sauna-hamazen-castres": {
+  "lat": 43.602188,
+  "lon": 2.236005,
+  "precision": "housenumber",
+  "label": "39 Rue Commandant Prat 81100 Castres",
+  "score": 0.97,
+  "query": "39 rue commandant prat 81100 CASTRES"
+ },
+ "chateau-rose-grimaud": {
+  "lat": 43.290418,
+  "lon": 6.582051,
+  "precision": "street",
+  "label": "Chemin des Mûres 83310 Grimaud",
+  "score": 0.65,
+  "query": "Chemin des mures - saint Pons 83310 GRIMAUD"
+ },
+ "sauna-le-dauphin-dreuil-les-amiens": {
+  "lat": 49.915982,
+  "lon": 2.227652,
+  "precision": "housenumber",
+  "label": "186 Rue Octavie Duchellier 80470 Dreuil-lès-Amiens",
+  "score": 0.95,
+  "query": "186 rue Octavie Duchellier 80470 DREUIL-LES-AMIENS"
+ },
+ "domaine-de-l-aoube-la-cadiere-d-azur": {
+  "lat": 43.167704,
+  "lon": 5.749869,
+  "precision": "street",
+  "label": "Chemin du Cros d’Amic 83740 La Cadière-d'Azur",
+  "score": 0.8,
+  "query": "Chemin du Croc d'Amic 83740 LA CADIèRE D AZUR"
+ },
+ "le-diablotin-club-roquebrunes-sur-argens": {
+  "lat": 43.490144,
+  "lon": 6.653483,
+  "precision": "housenumber",
+  "label": "15 rue de l'industrie 83520 Roquebrune-sur-Argens",
+  "score": 0.82,
+  "query": "15 rue de l'industrie 83520 ROQUEBRUNES SUR ARGENS"
+ },
+ "le-wapiti-le-luc": {
+  "lat": 43.392733,
+  "lon": 6.312741,
+  "precision": "street",
+  "label": "Avenue Pierre Gaudin 83340 Le Luc",
+  "score": 0.61,
+  "query": "rue René Gaudin 83340 LE LUC"
+ },
+ "le-2mil3-hyeres": {
+  "lat": 43.109286,
+  "lon": 6.108401,
+  "precision": "housenumber",
+  "label": "548 Chemin de la Source 83400 Hyères",
+  "score": 0.97,
+  "query": "548 Chemin de la Source 83400 HYèRES"
+ },
+ "le-lipstick-six-fours-les-plages": {
+  "lat": 43.108968,
+  "lon": 5.84305,
+  "precision": "housenumber",
+  "label": "122 Chemin des Négadoux 83140 Six-Fours-les-Plages",
+  "score": 0.97,
+  "query": "122 Chemin des Negadoux 83140 SIX FOURS LES PLAGES"
+ },
+ "la-brise-marine-hyeres": {
+  "lat": 43.061194,
+  "lon": 6.14943,
+  "precision": "street",
+  "label": "Avenue du Levant 83400 Hyères",
+  "score": 0.69,
+  "query": "ile du levant 83400 HYERES"
+ },
+ "fasylove-frejus": {
+  "lat": 43.468828,
+  "lon": 6.735847,
+  "precision": "housenumber",
+  "label": "214 Avenue Louis LEPINE 83600 Fréjus",
+  "score": 0.64,
+  "query": "214 Avenue Louis Lépine - zi du capitou 83600 FREJUS"
+ },
+ "la-chrysalide-saint-cyr-sur-mer": {
+  "lat": 43.158578,
+  "lon": 5.714839,
+  "precision": "housenumber",
+  "label": "904 Route de Port d’Alon 83270 Saint-Cyr-sur-Mer",
+  "score": 0.96,
+  "query": "904, Route De Port D'Alon 83270 SAINT CYR SUR MER"
+ },
+ "la-dolce-vita-le-muy": {
+  "lat": 43.473236,
+  "lon": 6.566509,
+  "precision": "housenumber",
+  "label": "33 Route de la Bourgade 83490 Le Muy",
+  "score": 0.96,
+  "query": "33 route de la Bourgade 83490 LE MUY"
+ },
+ "le-boudoir-club-ollioules": {
+  "lat": 43.139733,
+  "lon": 5.848749,
+  "precision": "housenumber",
+  "label": "14 Rue Nationale 83190 Ollioules",
+  "score": 0.96,
+  "query": "14 rue nationale 83190 OLLIOULES"
+ },
+ "sauna-h-club-avignon": {
+  "lat": 43.943789,
+  "lon": 4.808616,
+  "precision": "housenumber",
+  "label": "20 Rue Paul Manivet 84000 Avignon",
+  "score": 0.97,
+  "query": "20 rue Paul Manivet 84000 AVIGNON"
+ },
+ "le-darjeeling-avignon": {
+  "lat": 43.94814,
+  "lon": 4.795973,
+  "precision": "street",
+  "label": "Chemin de l'Ile Piot 84000 Avignon",
+  "score": 0.97,
+  "query": "chemin de l'ile piot 84000 AVIGNON"
+ },
+ "l-ile-aux-plaisir-avignon": {
+  "lat": 43.964151,
+  "lon": 4.816328,
+  "precision": "housenumber",
+  "label": "2155 Chemin de la Barthelasse 84000 Avignon",
+  "score": 0.97,
+  "query": "2155 Chemin de la Barthelasse 84000 AVIGNON"
+ },
+ "les-thermes-de-la-nesque-pernes-les-fontaines": {
+  "lat": 43.998416,
+  "lon": 5.057865,
+  "precision": "housenumber",
+  "label": "7 Rue Vencatren 84210 Pernes-les-Fontaines",
+  "score": 0.95,
+  "query": "7 rue Vencatren 84210 PERNES LES FONTAINES"
+ },
+ "le-sunlight-club-monteux": {
+  "lat": 44.035364,
+  "lon": 5.002131,
+  "precision": "housenumber",
+  "label": "20 Avenue René Cassin 84170 Monteux",
+  "score": 0.97,
+  "query": "20 AVENUE RENE CASSIN 84170 MONTEUX"
+ },
+ "la-licorne-d-or-carpentras": {
+  "lat": 44.044781,
+  "lon": 5.024881,
+  "precision": "housenumber",
+  "label": "466 Chemin de Monteux 84200 Carpentras",
+  "score": 0.96,
+  "query": "466 Chemin de Monteux 84200 CARPENTRAS"
+ },
+ "alina-sauna-poitiers-poitiers": {
+  "lat": 46.550191,
+  "lon": 0.30224,
+  "precision": "housenumber",
+  "label": "177 Avenue du 8 Mai 1945 86000 Poitiers",
+  "score": 0.76,
+  "query": "177 av du 8 mai 1945 86000 POITIERS"
+ },
+ "les-bains-gourmands-la-roche-sur-yon": {
+  "lat": 46.670439,
+  "lon": -1.422503,
+  "precision": "housenumber",
+  "label": "16 Rue du passage 85000 La Roche-sur-Yon",
+  "score": 0.97,
+  "query": "16 rue du Passage 85000 LA ROCHE SUR YON"
+ },
+ "l-affinite-le-langon": {
+  "lat": 46.427469,
+  "lon": -0.957081,
+  "precision": "housenumber",
+  "label": "2 Rue des baritaudières 85370 Le Langon",
+  "score": 0.77,
+  "query": "2, rue les Baritaudières 85370 LE LANGON"
+ },
+ "le-cercle-rouge-cloue": {
+  "lat": 46.444652,
+  "lon": 0.18186,
+  "precision": "street",
+  "label": "La Mélusine 86600 Cloué",
+  "score": 0.94,
+  "query": "La mélusine 86600 CLOUE"
+ },
+ "les-dauphins-limoges": {
+  "lat": 45.839495,
+  "lon": 1.263404,
+  "precision": "housenumber",
+  "label": "25 rue Charpentier 87100 Limoges",
+  "score": 0.97,
+  "query": "25 rue Charpentier 87100 LIMOGES"
+ },
+ "ange-club-2-poitiers": {
+  "lat": 46.550191,
+  "lon": 0.30224,
+  "precision": "housenumber",
+  "label": "177 Avenue du 8 Mai 1945 86000 Poitiers",
+  "score": 0.98,
+  "query": "177 avenue du 8 mai 1945 86000 POITIERS"
+ },
+ "sauna-chenieux-limoges": {
+  "lat": 45.83885,
+  "lon": 1.256894,
+  "precision": "housenumber",
+  "label": "51 rue François Chénieux 87000 Limoges",
+  "score": 0.98,
+  "query": "51 Rue François Chenieux 87000 LIMOGES"
+ },
+ "l-equatorial-poitiers": {
+  "lat": 46.57548,
+  "lon": 0.329275,
+  "precision": "housenumber",
+  "label": "56 Boulevard Pont Achard 86000 Poitiers",
+  "score": 0.98,
+  "query": "56, boulevard Pont Achard 86000 POITIERS"
+ },
+ "sauna-eros-limoges": {
+  "lat": 45.829261,
+  "lon": 1.261185,
+  "precision": "housenumber",
+  "label": "8 rue Jean Jaurès 87000 Limoges",
+  "score": 0.98,
+  "query": "8 rue Jean Jaurès 87000 LIMOGES"
+ },
+ "l-effeuillage-le-val-d-ajol": {
+  "lat": 47.957192,
+  "lon": 6.479454,
+  "precision": "housenumber",
+  "label": "61 Le Moineau 88340 Le Val-d'Ajol",
+  "score": 0.96,
+  "query": "61, le moineau 88340 LE VAL D AJOL"
+ },
+ "l-usine-club-belval": {
+  "lat": 48.409809,
+  "lon": 7.051826,
+  "precision": "housenumber",
+  "label": "1 Rue de la Mairie 88210 Belval",
+  "score": 0.94,
+  "query": "1 rue de la Mairie 88210 BELVAL"
+ },
+ "le-venusia-vergigny": {
+  "lat": 47.983528,
+  "lon": 3.732197,
+  "precision": "housenumber",
+  "label": "3 Avenue du 19 Mars 1962 89600 Vergigny",
+  "score": 0.95,
+  "query": "3 avenue du 19 mars 1962 89600 VERGIGNY"
+ },
+ "sauna-club-les-terrasses-lisses": {
+  "lat": 48.607365,
+  "lon": 2.428515,
+  "precision": "housenumber",
+  "label": "1 Rue du Bois Chaland 91090 Lisses",
+  "score": 0.85,
+  "query": "01, rue du Bois Chaland 91090 LISSES"
+ },
+ "le-diam-s-chaux": {
+  "lat": 47.722316,
+  "lon": 6.832077,
+  "precision": "housenumber",
+  "label": "105 Grande Rue 90330 Chaux",
+  "score": 0.96,
+  "query": "105 Grande rue 90330 CHAUX"
+ },
+ "le-miss-v-argiesans": {
+  "lat": 47.608844,
+  "lon": 6.828023,
+  "precision": "housenumber",
+  "label": "7t Rue des Alisiers 90800 Argiésans",
+  "score": 0.72,
+  "query": "7 TER RUE DES ALISIERS 90800 ARGIESANS"
+ },
+ "le-rubix-appoigny": {
+  "lat": 47.863134,
+  "lon": 3.538159,
+  "precision": "housenumber",
+  "label": "3 Impasse des Ruelles 89380 Appoigny",
+  "score": 0.95,
+  "query": "3 impasse des ruelles 89380 APPOIGNY"
+ },
+ "le-roi-rene-ville-d-avray": {
+  "lat": 48.819247,
+  "lon": 2.167935,
+  "precision": "housenumber",
+  "label": "184 Rue de Versailles 92410 Ville-d'Avray",
+  "score": 0.97,
+  "query": "184 rue de Versailles 92410 VILLE D AVRAY"
+ },
+ "ray-et-maya-saint-mande": {
+  "lat": 48.848255,
+  "lon": 2.416561,
+  "precision": "housenumber",
+  "label": "19 Avenue Quihou 94160 Saint-Mandé",
+  "score": 0.97,
+  "query": "19 avenue Quihou 94160 SAINT-MANDE"
+ },
+ "le-luxuria-st-ouen": {
+  "lat": 48.914533,
+  "lon": 2.337226,
+  "precision": "housenumber",
+  "label": "7 Boulevard Jean Jaurès 93400 Saint-Ouen-sur-Seine",
+  "score": 0.7,
+  "query": "7, boulevard Jean-Jaurès 93400 ST OUEN"
+ },
+ "la-caverne-de-venus-boulogne-billancourt": {
+  "lat": 48.839738,
+  "lon": 2.230884,
+  "precision": "housenumber",
+  "label": "114 Avenue André Morizet 92100 Boulogne-Billancourt",
+  "score": 0.98,
+  "query": "114 avenue André Morizet 92100 BOULOGNE BILLANCOURT"
+ },
+ "le-pub-vincennes": {
+  "lat": 48.841749,
+  "lon": 2.428346,
+  "precision": "housenumber",
+  "label": "43 Avenue du Petit-Parc 94300 Vincennes",
+  "score": 0.97,
+  "query": "43 avenue du Petit Parc 94300 VINCENNES"
+ },
+ "club-46-argenteuil": {
+  "lat": 48.942583,
+  "lon": 2.219161,
+  "precision": "housenumber",
+  "label": "44bis Rue de la Marjolaine 95100 Argenteuil",
+  "score": 0.72,
+  "query": "44 BIS RUE MARJOLAINE 95100 ARGENTEUIL"
+ },
+ "vertige-strip-lyon": {
+  "lat": 45.769037,
+  "lon": 4.836218,
+  "precision": "housenumber",
+  "label": "5 Rue du Griffon 69001 Lyon",
+  "score": 0.96,
+  "query": "5 Rue du Griffon 69001 LYON"
+ },
+ "theatre-chochotte-effeuillage": {
+  "lat": 48.85338,
+  "lon": 2.341872,
+  "precision": "housenumber",
+  "label": "34 Rue Saint-André des Arts 75006 Paris",
+  "score": 0.97,
+  "query": "34 rue Saint-André-des-Arts 75006 PARIS"
+ },
+ "mineshaft-marseille-fsmc": {
+  "lat": 43.297218,
+  "lon": 5.382566,
+  "precision": "street",
+  "label": "Rue mazagran 13001 Marseille",
+  "score": 0.8,
+  "query": "28 rue Mazagran 13001 MARSEILLE"
+ },
+ "sauna-cameleon-paris": {
+  "lat": 48.845302,
+  "lon": 2.381294,
+  "precision": "housenumber",
+  "label": "135 Rue de Charenton 75012 Paris",
+  "score": 0.98,
+  "query": "135 rue de Charenton 75012 PARIS"
+ },
+ "g-spot-club-strip-tease": {
+  "lat": 48.873448,
+  "lon": 2.306781,
+  "precision": "housenumber",
+  "label": "27 Rue d'Artois 75008 Paris",
+  "score": 0.97,
+  "query": "27 rue d’Artois 75008 PARIS"
+ },
+ "jardins-bao-club-libertin": {
+  "lat": 45.664004,
+  "lon": 5.911283,
+  "precision": "street",
+  "label": "Chemin du cores 73420 Drumettaz-Clarafond",
+  "score": 0.8,
+  "query": "79 chemin du Cores 73420 DRUMETTAZ-CLARAFOND"
+ },
+ "sauna-masculin-paris": {
+  "lat": 48.863787,
+  "lon": 2.351394,
+  "precision": "housenumber",
+  "label": "62 Boulevard de Sébastopol 75003 Paris",
+  "score": 0.97,
+  "query": "62 boulevard de Sébastopol 75003 PARIS"
+ },
+ "sauna-bayonne-gay-mixte": {
+  "lat": 43.491749,
+  "lon": -1.464368,
+  "precision": "housenumber",
+  "label": "70 Boulevard Alsace-Lorraine 64100 Bayonne",
+  "score": 0.97,
+  "query": "70 Boulevard Alsace Lorraine 64100 BAYONNE"
+ },
+ "vesper-cannes-bar-voutes": {
+  "lat": 43.551764,
+  "lon": 7.010455,
+  "precision": "housenumber",
+  "label": "13 Rue Forville 06400 Cannes",
+  "score": 0.97,
+  "query": "13 Rue Forville 06400 CANNES"
+ },
+ "taken-club-paris-ile-saint-louis": {
+  "lat": 48.852019,
+  "lon": 2.354552,
+  "precision": "housenumber",
+  "label": "8 Rue Le Regrattier 75004 Paris",
+  "score": 0.97,
+  "query": "8 Rue le Regrattier 75004 PARIS"
+ },
+ "secteur-x-club-libertin": {
+  "lat": 48.859796,
+  "lon": 2.354647,
+  "precision": "housenumber",
+  "label": "49 Rue des Blancs Manteaux 75004 Paris",
+  "score": 0.97,
+  "query": "49 rue des Blancs Manteaux 75004 PARIS"
+ },
+ "savon-sauna-bourges": {
+  "lat": 47.092901,
+  "lon": 2.393475,
+  "precision": "housenumber",
+  "label": "3 Rue du Beaujouan 18000 Bourges",
+  "score": 0.77,
+  "query": "3 rue de Beaujouan 18000 BOURGES"
+ },
+ "sauna-libertin-perpignan": {
+  "lat": 42.682635,
+  "lon": 2.872376,
+  "precision": "housenumber",
+  "label": "9 Rue Joseph Cugnot 66000 Perpignan",
+  "score": 0.97,
+  "query": "9 Rue Joseph Cugnot 66000 PERPIGNAN"
+ },
+ "madintouch-paris-clichy": {
+  "lat": 48.883863,
+  "lon": 2.327619,
+  "precision": "street",
+  "label": "Place de Clichy 75018 Paris",
+  "score": 0.97,
+  "query": "Place de Clichy 75018 PARIS"
+ },
+ "lust-club-prive-villevoques": {
+  "lat": 48.029943,
+  "lon": 2.627185,
+  "precision": "housenumber",
+  "label": "2 Rue du Moulin 45700 Villevoques",
+  "score": 0.94,
+  "query": "2 Rue du Moulin 45700 VILLEVOQUES"
+ },
+ "luxor-lyon-etablissement-libertin": {
+  "lat": 45.768216,
+  "lon": 4.829531,
+  "precision": "street",
+  "label": "Rue de la Martinière 69001 Lyon",
+  "score": 0.8,
+  "query": "11 rue de la Martinière 69001 LYON"
+ },
+ "bains-saint-aubin-toulouse": {
+  "lat": 43.603734,
+  "lon": 1.453722,
+  "precision": "housenumber",
+  "label": "5 Impasse Saint Aubin 31000 Toulouse",
+  "score": 0.97,
+  "query": "5 Impasse Saint-Aubin 31000 TOULOUSE"
+ },
+ "rubis-saint-nicolas-club": {
+  "lat": 48.630847,
+  "lon": 6.300735,
+  "precision": "housenumber",
+  "label": "18 Avenue Jolain 54210 Saint-Nicolas-de-Port",
+  "score": 0.97,
+  "query": "18 avenue Jolain 54210 SAINT-NICOLAS-DE-PORT"
+ },
+ "vahine-marseille-club-libertin": {
+  "lat": 43.286243,
+  "lon": 5.417451,
+  "precision": "housenumber",
+  "label": "254 Chemin de l'armee d'afrique 13010 Marseille",
+  "score": 0.8,
+  "query": "254 chemin d'armée d'afrique 13010 MARSEILLE"
+ },
+ "trou-lyon-club-libertin": {
+  "lat": 45.769268,
+  "lon": 4.83542,
+  "precision": "housenumber",
+  "label": "6 Rue Romarin 69001 Lyon",
+  "score": 0.97,
+  "query": "6 rue Romarin 69001 LYON"
+ },
+ "quetzal-benquet-club-libertin": {
+  "lat": 43.84196,
+  "lon": -0.526798,
+  "precision": "housenumber",
+  "label": "401 Chemin de Triquet 40280 Benquet",
+  "score": 0.95,
+  "query": "401 Chemin de Triquet 40280 BENQUET"
+ },
+ "hippocampe-saint-maur-libertin": {
+  "lat": 48.798363,
+  "lon": 2.48994,
+  "precision": "housenumber",
+  "label": "25 Rue Jules Ferry 94100 Saint-Maur-des-Fossés",
+  "score": 0.97,
+  "query": "25 Rue Jules Ferry 94100 SAINT-MAUR-DES-FOSSÉS"
+ },
+ "klub-frejus-libertin-oriental": {
+  "lat": 43.441621,
+  "lon": 6.718199,
+  "precision": "housenumber",
+  "label": "264 Rue Rudolf DIESEL 83600 Fréjus",
+  "score": 0.97,
+  "query": "264 rue Rudolf Diesel 83600 FRÉJUS"
+ },
+ "suite-bretigny-essenne": {
+  "lat": 48.608437,
+  "lon": 2.300273,
+  "precision": "housenumber",
+  "label": "12 Rue du Parc 91220 Brétigny-sur-Orge",
+  "score": 0.97,
+  "query": "12 rue du Parc 91220 BRÉTIGNY-SUR-ORGE"
+ },
+ "jardin-eden-marseille-club": {
+  "lat": 43.280045,
+  "lon": 5.376486,
+  "precision": "housenumber",
+  "label": "29 Rue du vallon de montebello 13006 Marseille",
+  "score": 0.97,
+  "query": "29 rue du Vallon de Montebello 13006 MARSEILLE"
+ },
+ "idm-sauna-paris-gay-muscu": {
+  "lat": 48.869345,
+  "lon": 2.355902,
+  "precision": "housenumber",
+  "label": "4 Rue du Faubourg Saint-Martin 75010 Paris",
+  "score": 0.65,
+  "query": "4 rue du Faubourg Montmartre 75010 PARIS"
+ },
+ "celeste-lisses-club-libertin": {
+  "lat": 48.607365,
+  "lon": 2.428515,
+  "precision": "housenumber",
+  "label": "1 Rue du Bois Chaland 91090 Lisses",
+  "score": 0.96,
+  "query": "1, rue du Bois Chaland 91090 LISSES"
+ },
+ "h2o-saint-etienne-sauna": {
+  "lat": 45.440435,
+  "lon": 4.385096,
+  "precision": "housenumber",
+  "label": "3 Rue d'Arcole 42000 Saint-Étienne",
+  "score": 0.97,
+  "query": "3 Rue d’Arcole 42000 SAINT-ÉTIENNE"
+ },
+ "ozinn-cap-agde-hotel-spa": {
+  "lat": 43.296517,
+  "lon": 3.526033,
+  "precision": "housenumber",
+  "label": "7 Rue des Nereides 34300 Agde",
+  "score": 0.77,
+  "query": "7, rue des Nereïdes 34300 CAP AGDE"
+ },
+ "bossuet-dijon-club-libertin": {
+  "lat": 47.320012,
+  "lon": 5.029088,
+  "precision": "street",
+  "label": "Rue du Jardin des Plantes 21000 Dijon",
+  "score": 0.97,
+  "query": "rue du Jardin des Plantes 21000 DIJON"
+ },
+ "plage-sauvagnon-club-libertin": {
+  "lat": 43.379348,
+  "lon": -0.406705,
+  "precision": "street",
+  "label": "Rue du Bruscos 64230 Sauvagnon",
+  "score": 0.7,
+  "query": "61 rue de Bruscos 64230 SAUVAGNON"
+ },
+ "marquise-club-libertin-paris": {
+  "lat": 48.861449,
+  "lon": 2.342837,
+  "precision": "housenumber",
+  "label": "84 Rue Saint-Honoré 75001 Paris",
+  "score": 0.97,
+  "query": "84, rue Saint-Honoré 75001 PARIS"
+ },
+ "intim-metz-libertin": {
+  "lat": 49.115071,
+  "lon": 6.251034,
+  "precision": "housenumber",
+  "label": "4 Rue des Ferblantiers 57070 Metz",
+  "score": 0.97,
+  "query": "4 rue des Ferblantiers 57070 METZ"
+ },
+ "chambres-jacuzzi-toulouse": {
+  "lat": 43.37337,
+  "lon": 1.417141,
+  "precision": "housenumber",
+  "label": "20 Route des Pyrénées 31190 Miremont",
+  "score": 0.96,
+  "query": "20 Route des Pyrénées 31190 MIREMONT"
+ },
+ "courtisane-cannes-erotique": {
+  "lat": 43.5555,
+  "lon": 7.021646,
+  "precision": "housenumber",
+  "label": "4 Rue Docteur Calmette 06400 Cannes",
+  "score": 0.72,
+  "query": "4 Rue Dr Calmette 06400 CANNES"
+ },
+ "eden-club-louvres-libertin": {
+  "lat": 49.039711,
+  "lon": 2.506302,
+  "precision": "housenumber",
+  "label": "26 Rue de Paris 95380 Louvres",
+  "score": 0.97,
+  "query": "26 rue de Paris 95380 LOUVRES"
+ },
+ "exhib-amancy-club-libertin": {
+  "lat": 46.069195,
+  "lon": 6.335415,
+  "precision": "housenumber",
+  "label": "47 Route de Saint-Pierre 74800 Amancy",
+  "score": 0.96,
+  "query": "47 Route de Saint-Pierre 74800 AMANCY"
+ },
+ "angelus-club-libertin-melun": {
+  "lat": 48.537717,
+  "lon": 2.660934,
+  "precision": "housenumber",
+  "label": "9 Boulevard Gambetta 77000 Melun",
+  "score": 0.97,
+  "query": "9 Boulevard Gambetta 77000 MELUN"
+ },
+ "insolite-decines-charpieu-club": {
+  "lat": 45.757703,
+  "lon": 4.939406,
+  "precision": "housenumber",
+  "label": "56 Rue Paul et Marc Barbezat 69150 Décines-Charpieu",
+  "score": 0.97,
+  "query": "56 rue Paul et Marc Barbezat 69150 DÉCINES-CHARPIEU"
+ },
+ "impact-paris-club-naturiste": {
+  "lat": 48.865248,
+  "lon": 2.351167,
+  "precision": "housenumber",
+  "label": "18 Rue Greneta 75002 Paris",
+  "score": 0.97,
+  "query": "18 rue Greneta 75002 PARIS"
+ },
+ "club-hylas-valence-balneo": {
+  "lat": 44.938227,
+  "lon": 4.900379,
+  "precision": "housenumber",
+  "label": "40 Avenue de Verdun 26000 Valence",
+  "score": 0.97,
+  "query": "40 avenue de Verdun 26000 VALENCE"
+ },
+ "histoire-eau-club-lyon": {
+  "lat": 45.769436,
+  "lon": 4.835746,
+  "precision": "housenumber",
+  "label": "1 Rue Romarin 69001 Lyon",
+  "score": 0.97,
+  "query": "1 rue Romarin 69001 LYON"
+ },
+ "keller-paris-club-gay-fetish": {
+  "lat": 48.854396,
+  "lon": 2.376256,
+  "precision": "housenumber",
+  "label": "14 Rue Keller 75011 Paris",
+  "score": 0.97,
+  "query": "14 rue Keller 75011 PARIS"
+ },
+ "euphoria-spa-libertin-landes": {
+  "lat": 43.621269,
+  "lon": -1.373647,
+  "precision": "street",
+  "label": "Chemin de Sablaret 40230 Bénesse-Maremne",
+  "score": 0.65,
+  "query": "10, Chemin des Sablerets 40230 BÉNESSE-MAREMNE"
+ },
+ "sauna-sainte-luce-loire": {
+  "lat": 47.262904,
+  "lon": -1.483011,
+  "precision": "housenumber",
+  "label": "13 Rue Gustave Eiffel 44980 Sainte-Luce-sur-Loire",
+  "score": 0.96,
+  "query": "13, rue Gustave-Eiffel 44980 SAINTE-LUCE-SUR-LOIRE"
+ },
+ "club-libertin-saint-jean": {
+  "lat": 45.930663,
+  "lon": -0.521427,
+  "precision": "housenumber",
+  "label": "660 Avenue de Jarnac 17400 Saint-Jean-d'Angély",
+  "score": 0.96,
+  "query": "660 Avenue de Jarnac 17400 SAINT-JEAN-D'ANGÉLY"
+ },
+ "elyxyr-club-libertin-charente": {
+  "lat": 46.072222,
+  "lon": -0.512605,
+  "precision": "housenumber",
+  "label": "3 Rue des Prés 17330 Vergné",
+  "score": 0.93,
+  "query": "3 rue des Prés 17330 VERGNÉ"
+ }
+}

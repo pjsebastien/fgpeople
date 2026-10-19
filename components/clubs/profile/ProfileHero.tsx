@@ -37,12 +37,16 @@ export default function ProfileHero({ club, profile, bundle, image, hasAlternati
   const showSite = !closed && club.site_web && club.websiteAccessible !== false;
 
   return (
-    <section className="relative overflow-hidden rounded-3xl ring-1 ring-border">
-      <Image src={image} alt="" fill priority sizes="100vw" className="object-cover opacity-40 scale-105" />
-      <div className="absolute inset-0 bg-gradient-to-b from-bg-primary/70 via-bg-primary/90 to-bg-primary" />
-      <div className="absolute -top-24 -right-24 w-72 h-72 rounded-full bg-accent-primary/10 blur-3xl" />
+    <section className="relative overflow-hidden rounded-3xl ring-1 ring-border bg-bg-secondary">
+      {/* Illustration : bandeau en haut sur mobile, moitié droite fondue sur ordinateur. */}
+      <div className="relative h-48 sm:h-60 md:absolute md:inset-y-0 md:right-0 md:h-auto md:w-[46%]">
+        <Image src={image} alt="" fill priority sizes="(max-width: 768px) 100vw, 46vw" className="object-cover" />
+        <div className="absolute inset-0 bg-gradient-to-t from-bg-secondary via-bg-secondary/30 to-transparent md:bg-gradient-to-r md:from-bg-secondary md:via-bg-secondary/40 md:to-transparent" />
+        <span className="absolute top-3 right-3 px-2 py-0.5 rounded-full bg-black/45 text-[10px] text-white/75">Illustration</span>
+      </div>
+      <div className="absolute -top-24 -left-24 w-72 h-72 rounded-full bg-accent-primary/10 blur-3xl" />
 
-      <div className="relative px-5 pt-6 pb-6 sm:px-8 sm:pt-10 sm:pb-8 md:px-10">
+      <div className="relative -mt-16 md:mt-0 px-5 pb-6 sm:px-8 sm:pb-8 md:px-10 md:pt-10 md:max-w-[64%]">
         <div className="flex flex-wrap items-center gap-2 mb-4">
           <span className={`inline-flex items-center gap-2 px-3 py-1 rounded-full text-xs font-semibold ring-1 ring-inset ${status.className}`}>
             <span className={`w-1.5 h-1.5 rounded-full ${status.dot} ${profile.status.value === 'ouvert' ? 'animate-pulse' : ''}`} />
@@ -110,7 +114,7 @@ export default function ProfileHero({ club, profile, bundle, image, hasAlternati
         </div>
 
         <p className="mt-5 text-xs text-text-muted">
-          Fiche vérifiée le {formatDate(profile.researchedAt)} à partir de {profile.sources.length} sources · photo d&apos;ambiance non contractuelle
+          Fiche vérifiée le {formatDate(profile.researchedAt)} à partir de {profile.sources.length} sources · images d&apos;illustration, non contractuelles
         </p>
       </div>
     </section>

@@ -5,6 +5,7 @@
  * <details>), donc lu et indexé par les moteurs.
  */
 
+import Image from 'next/image';
 import type { ProfileBlock, ProfileSection } from '@/lib/types/club-profile';
 import { RichText, parseTextWithFormatting } from '@/lib/utils/rich-text';
 import Icon from './Icon';
@@ -111,7 +112,13 @@ function blockWords(b: ProfileBlock): number {
 /** Au-delà de ce volume, la suite de la section est repliée. */
 const VISIBLE_WORDS = 45;
 
-export default function SectionCard({ section, sourceIndex }: { section: ProfileSection; sourceIndex: Map<string, number> }) {
+export default function SectionCard({ section, sourceIndex, image, imageLabel }: {
+  section: ProfileSection;
+  sourceIndex: Map<string, number>;
+  /** Illustration d'ambiance en bandeau (jamais une photo du lieu). */
+  image?: string | null;
+  imageLabel?: string;
+}) {
   const parts = units(section.blocks);
   const total = parts.reduce((n, b) => n + blockWords(b), 0);
 
@@ -120,7 +127,8 @@ export default function SectionCard({ section, sourceIndex }: { section: Profile
   if (total > VISIBLE_WORDS * 1.6) {
     let seen = 0;
     cut = 0;
-    while (cut < parts.length && (cut === 0 || seen < VISIBLE_WORDS)) seen += blockWords(parts[cut++]);
+    // Seul du texte s'ajoute au premier bloc : un tableau ou une liste passe dans la partie repliée.
+    while (cut < parts.length && (cut === 0 || (seen < VISIBLE_WORDS && parts[cut].kind === 'text'))) seen += blockWords(parts[cut++]);
   }
   const visible = parts.slice(0, cut);
   const hidden = parts.slice(cut);
@@ -130,6 +138,13 @@ export default function SectionCard({ section, sourceIndex }: { section: Profile
 
   return (
     <section id={section.id} className="scroll-mt-32 rounded-2xl bg-bg-secondary ring-1 ring-border p-5 sm:p-6">
+      {image && (
+        <div className="relative -mx-5 -mt-5 sm:-mx-6 sm:-mt-6 mb-5 h-36 sm:h-48 overflow-hidden rounded-t-2xl">
+          <Image src={image} alt="" fill sizes="(max-width: 1024px) 100vw, 820px" className="object-cover" />
+          <div className="absolute inset-0 bg-gradient-to-t from-bg-secondary via-bg-secondary/20 to-transparent" />
+          <span className="absolute top-2.5 right-3 px-2 py-0.5 rounded-full bg-black/40 text-[10px] text-white/70">Illustration{imageLabel ? ` · ${imageLabel}` : ''}</span>
+        </div>
+      )}
       <div className="flex items-start gap-3 sm:gap-4">
         <span className="w-10 h-10 flex-shrink-0 rounded-xl bg-accent-primary/10 text-accent-primary grid place-items-center">
           <Icon name={section.icon || 'info'} className="w-5 h-5" />

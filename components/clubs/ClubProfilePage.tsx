@@ -36,6 +36,11 @@ import {
   SectionHeading,
 } from '@/components/clubs/profile/SkimBlocks';
 import { deNom, directionsUrl, formatDate, formatPhone } from '@/components/clubs/profile/format';
+import LocationMap from '@/components/clubs/profile/LocationMap';
+import { AMBIANCE_LABEL, ambianceImage, equipmentThemes, heroTheme, sectionTheme } from '@/components/clubs/profile/ambiance';
+import type { AmbianceTheme } from '@/components/clubs/profile/ambiance';
+import { getClubGeo } from '@/lib/data/club-geo';
+import Image from 'next/image';
 
 interface ClubProfilePageProps {
   club: Club;
@@ -71,6 +76,23 @@ export default function ClubProfilePage({ club, profile, clubsProximite, reviews
   const practical = profile.horaires || profile.tarifs;
   const gallery = profile.officialLinks?.find((l) => l.kind === 'galerie');
   const otherLinks = (profile.officialLinks || []).filter((l) => l.url !== club.site_web);
+  const geo = getClubGeo(club.slug);
+
+  // Illustrations d'ambiance : l'en-tête selon le type du lieu, puis au plus
+  // trois sections, chacune sur un thème différent, et une galerie tirée des
+  // équipements. Ce sont des illustrations, jamais des photos du lieu.
+  const heroImage = ambianceImage(heroTheme(club, closed), club.slug) || CLUB_IMAGES[getImageIndexForClub(club.nom)];
+  const usedThemes = new Set<AmbianceTheme>([heroTheme(club, closed)]);
+  const sectionImages = new Map<string, { src: string; label: string }>();
+  for (const s of profile.sections) {
+    const theme = sectionTheme(s.icon);
+    const src = theme && !usedThemes.has(theme) ? ambianceImage(theme, club.slug) : null;
+    if (theme && src && sectionImages.size < 3) {
+      sectionImages.set(s.id, { src, label: AMBIANCE_LABEL[theme] });
+      usedThemes.add(theme);
+    }
+  }
+  const galleryThemes = equipmentThemes(profile.equipements || club.equipements, 3);
 
   const breadcrumbItems = [
     { name: 'Accueil', url: '/' },
@@ -86,6 +108,7 @@ export default function ClubProfilePage({ club, profile, clubsProximite, reviews
     ...(practical ? [{ id: 'infos-pratiques', label: closed ? 'Horaires (archives)' : 'Horaires & tarifs' }] : []),
     { id: 'details', label: closed ? 'Son histoire' : 'En détail' },
     { id: 'avis', label: 'Avis' },
+    ...(geo ? [{ id: 'acces', label: closed ? 'Où c\'était' : 'Accès' }] : []),
     ...(profile.faq.length ? [{ id: 'faq', label: 'Questions' }] : []),
     ...(!closed && alternatives.length ? [{ id: 'alternatives', label: 'À proximité' }] : []),
   ];
@@ -114,7 +137,7 @@ export default function ClubProfilePage({ club, profile, clubsProximite, reviews
             club={club}
             profile={profile}
             bundle={bundle}
-            image={CLUB_IMAGES[getImageIndexForClub(club.nom)]}
+            image={heroImage}
             hasAlternatives={alternatives.length > 0}
           />
         </div>
@@ -189,12 +212,38 @@ export default function ClubProfilePage({ club, profile, clubsProximite, reviews
                   ))}
                 </ul>
               )}
-              {profile.sections.map((s) => <SectionCard key={s.id} section={s} sourceIndex={sourceIndex} />)}
+              {profile.sections.map((s) => (
+                <SectionCard
+                  key={s.id}
+                  section={s}
+                  sourceIndex={sourceIndex}
+                  image={sectionImages.get(s.id)?.src}
+                  imageLabel={sectionImages.get(s.id)?.label}
+                />
+              ))}
             </section>
 
-            {(profile.equipements?.length || gallery) && (
+            {(profile.equipements?.length || gallery || galleryThemes.length > 0) && (
               <section className="space-y-4">
-                <SectionHeading kicker="Sur place" title={closed ? `Les équipements ${deNom(club.nom)}` : `Équipements et photos ${deNom(club.nom)}`} />
+                <SectionHeading id="equipements" kicker="Sur place" title={closed ? `Les équipements ${deNom(club.nom)}` : `Équipements et photos ${deNom(club.nom)}`} />
+                {galleryThemes.length > 0 && (
+                  <div className="grid grid-cols-2 sm:grid-cols-3 gap-3">
+                    {galleryThemes.map((t, i) => {
+                      const src = ambianceImage(t, club.slug);
+                      return src && (
+                        <figure key={t} className={`relative overflow-hidden rounded-2xl ring-1 ring-border aspect-[4/3] ${i === 0 && galleryThemes.length === 3 ? 'col-span-2 sm:col-span-1' : ''}`}>
+                          <Image src={src} alt={`Illustration : ${AMBIANCE_LABEL[t].toLowerCase()}`} fill sizes="(max-width: 640px) 50vw, 280px" className="object-cover" />
+                          <figcaption className="absolute inset-x-0 bottom-0 p-3 bg-gradient-to-t from-black/80 to-transparent text-sm font-semibold text-white">
+                            {AMBIANCE_LABEL[t]}
+                          </figcaption>
+                        </figure>
+                      );
+                    })}
+                  </div>
+                )}
+                {galleryThemes.length > 0 && (
+                  <p className="-mt-1 text-xs text-text-muted">Images d&apos;illustration : elles évoquent les équipements recensés, pas le lieu lui-même.</p>
+                )}
                 {profile.equipements && profile.equipements.length > 0 && (
                   <div className="flex flex-wrap gap-2">
                     {profile.equipements.map((eq) => (
@@ -217,6 +266,22 @@ export default function ClubProfilePage({ club, profile, clubsProximite, reviews
                     <Icon name="external" className="w-5 h-5 text-text-muted" />
                   </a>
                 )}
+                {!closed && (
+                  <Link href="/contact" className="flex items-center gap-3 rounded-2xl border border-dashed border-accent-primary/40 bg-accent-primary/5 p-4 hover:bg-accent-primary/10">
+                    <span className="w-10 h-10 flex-shrink-0 rounded-xl bg-accent-primary/15 text-accent-primary grid place-items-center"><Icon name="camera" /></span>
+                    <span className="text-sm">
+                      <span className="block font-semibold text-text-primary">Vous gérez {club.nom} ?</span>
+                      <span className="block text-text-secondary">Envoyez-nous vos photos et vos informations à jour : nous les publierons sur cette fiche avec votre accord.</span>
+                    </span>
+                  </Link>
+                )}
+              </section>
+            )}
+
+            {geo && (
+              <section className="space-y-4">
+                <SectionHeading id="acces" kicker={closed ? 'Ancienne adresse' : 'Comment s\'y rendre'} title={closed ? `Où se trouvait ${club.nom}` : `Accès et plan ${deNom(club.nom)}`} />
+                <LocationMap club={club} geo={geo} closed={closed} />
               </section>
             )}
 

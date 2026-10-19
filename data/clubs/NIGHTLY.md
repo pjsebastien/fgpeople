@@ -60,11 +60,12 @@ Les tâches CronCreate expirent au bout de 7 jours : à chaque déclenchement,
    fiche en reprise plutôt que de la publier.
 3. `node scripts/promote-club-drafts.mjs <slugs>` (refuse toute fiche non
    vérifiée dans son état actuel).
-4. `npx next build` : en cas d'échec, ne rien pousser, corriger d'abord.
+4. `node scripts/geocode-clubs.mjs` (carte des nouvelles fiches et des adresses
+   corrigées), puis `npx next build` : en cas d'échec, ne rien pousser, corriger d'abord.
 5. `git pull --rebase --autostash`, puis ajouter **uniquement**
    `data/clubs/profiles/`, `data/clubs/profiles.generated.json`,
    `data/clubs/new-clubs.generated.json`, `data/clubs/new/`,
-   `data/clubs/merged.json` (et tout script ou composant modifié pour le
+   `data/clubs/merged.json`, `data/clubs/geo.json` (et tout script ou composant modifié pour le
    chantier), commit en français décrivant les fiches publiées (clubs ouverts
    et fermés, nouveaux lieux ajoutés), `git push`.
 6. Ajouter une ligne à `data/clubs/night-log.md` : date, slugs publiés, commit.
