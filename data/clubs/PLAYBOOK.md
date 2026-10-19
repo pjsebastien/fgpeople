@@ -131,8 +131,11 @@ rédigée mentionne l'ancien nom dans l'histoire du lieu ; la fusion (redirectio
 ### Lieux absents de la base
 
 Les lieux libertins trouvés pendant la recherche et absents de notre base sont
-listés dans le dossier (nom, ville, URL) : ils alimentent la file d'ajout de
-nouvelles fiches. Pour un club fermé, s'il n'existe pas d'alternative ouverte
+listés dans le dossier (nom, ville, URL) **et** dans
+`data/clubs/research/<slug>.missing.json` (`[{"nom", "ville", "url"}]`, tableau
+vide si aucun) : ils alimentent la file d'ajout de nouvelles fiches
+(`data/clubs/candidates/`). Vérifier d'abord avec `node scripts/find-club.mjs
+"<nom> <ville>"` qu'ils ne sont pas déjà dans la base. Pour un club fermé, s'il n'existe pas d'alternative ouverte
 vérifiée dans la base, un lien externe vers le site officiel d'un club ouvert
 vérifié est permis.
 
@@ -316,6 +319,63 @@ toujours Gleese en fin de fiche, pas toujours la même réserve (« lancé fin
 2024, encore peu de membres ») formulée de la même façon. L'audit signale les
 phrases partenaires trop proches d'une autre fiche.
 
+## Ajouter un lieu absent de la base
+
+Objectif : que le site ne manque aucun lieu libertin ouvert. Chaque lieu en
+file (`data/clubs/candidates/<clé>.json`) est qualifié par un agent.
+
+**Dans le périmètre** : clubs libertins et échangistes, saunas libertins,
+mixtes ou gays, spas libertins, bars et restaurants libertins, discothèques
+libertines, cinémas libertins, clubs BDSM et fétichistes, hébergements et
+campings libertins. En France (DOM compris), et à l'étranger seulement près
+d'une frontière (Belgique, Suisse, Luxembourg, Espagne, Allemagne).
+
+**Hors périmètre** : prostitution (maisons closes, FKK, « bordels »),
+salons de massage érotique, sex-shops sans espace de rencontre, soirées
+itinérantes sans lieu fixe, lieux de drague en plein air (section à part du site).
+
+**Qualification** :
+1. Doublon ? `node scripts/find-club.mjs "<nom>"`, puis par ville, adresse et
+   téléphone. Un lieu déjà dans la base sous un autre nom → rejeté
+   (`"status": "rejected"`, `"duplicateOf": "<slug>"`), avec la preuve.
+2. Existence et activité établies par la recherche de la Phase 1. Seul un
+   lieu `ouvert` (ou `incertain` avec une activité de moins de 12 mois) est
+   ajouté. Un lieu fermé, introuvable ou hors périmètre est rejeté, avec la raison.
+3. Lieu retenu : écrire la fiche de base `data/clubs/new/<slug>.json`, le
+   dossier `data/clubs/research/<slug>.md` (et son `.missing.json`), puis
+   passer la file à `"status": "added", "slug": "<slug>"`.
+
+**Fiche de base** (`data/clubs/new/<slug>.json`), slug = nom et ville en
+minuscules sans accents, séparés par des tirets (`l-only-us-ales`) :
+
+```json
+{
+  "id": "new-<slug>",
+  "nom": "L'Only-US",
+  "type": "club libertin",
+  "types_normalises": ["Club", "Spa & Wellness"],
+  "adresse": "1115 route d'Uzès",
+  "code_postal": "30100",
+  "ville": "Alès",
+  "departement_code": "30",
+  "departement_nom": "Gard",
+  "region": "Occitanie",
+  "pays": "France",
+  "telephone": "",
+  "email": "",
+  "site_web": "https://lonlyus.com/",
+  "equipements": [],
+  "verification": { "status": "actif" },
+  "addedAt": "AAAA-MM-JJ"
+}
+```
+
+`departement_nom` et `region` : reprendre exactement les libellés donnés par
+`node scripts/find-club.mjs --dept <code>`. `types_normalises` : parmi Club,
+Sauna, Spa & Wellness, Restaurant, Bar, Hébergement, SM / Fétish, Gay friendly,
+Cinéma, Discothèque. Coordonnées : uniquement celles publiées par le lieu
+lui-même. Le lieu n'apparaît sur le site qu'avec sa fiche personnalisée publiée.
+
 ## Phase 3 — Vérification
 
 Le vérificateur est un contradicteur : il part du principe que la fiche
@@ -334,6 +394,9 @@ contient des erreurs.
    et ce qu'ils affirment des partenaires est conforme à nos avis.
 6. `node scripts/build-club-profiles.mjs --check …` et
    `node scripts/audit-club-profiles.mjs <slug>` sans erreur ni alerte.
+7. En toute fin, enregistrer le verdict (c'est ce qui autorise la publication) :
+   `node scripts/mark-verified.mjs <slug> --scores '{"exactitude":…,"specificite":…,"profondeur":…,"requetes":…,"utilite":…,"honnetete":…}' --publishable true|false`.
+   Toute modification ultérieure du brouillon annule ce verdict.
 
 ## Grille de qualité (audit par lot)
 

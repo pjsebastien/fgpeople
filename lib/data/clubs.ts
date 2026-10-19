@@ -15,6 +15,7 @@ import {
 } from '../utils/seo-content';
 import { getClubProfile } from './club-profiles';
 import mergedClubs from '../../data/clubs/merged.json';
+import newClubsData from '../../data/clubs/new-clubs.generated.json';
 import type { ClubProfile } from '../types/club-profile';
 
 // ============================================
@@ -247,7 +248,8 @@ let clubsCache: Club[] | null = null;
 
 function getClubs(): Club[] {
   if (!clubsCache) {
-    clubsCache = (rawData.clubs as RawClub[])
+    // Base d'origine + lieux ajoutés depuis (publiés avec leur fiche personnalisée).
+    clubsCache = [...(rawData.clubs as RawClub[]), ...(newClubsData.clubs as RawClub[])]
       .map(transformClub)
       .filter(club => club.ville && club.region) // Filtrer les clubs sans localisation
       .filter(club => !MERGED_SLUGS.has(club.slug)); // Doublons redirigés vers leur fiche principale

@@ -5,13 +5,16 @@
  *
  * Un brouillon invalide reste dans drafts/ et fait échouer le script.
  *
- * Usage : node scripts/promote-club-drafts.mjs <slug...>
+ * Usage : node scripts/promote-club-drafts.mjs [--force] <slug...>
+ *   --force : publie sans marque de vérification (fiches vérifiées avant la mise en place des marques).
  */
 import fs from 'node:fs';
+import crypto from 'node:crypto';
 import { execFileSync } from 'node:child_process';
 
-const slugs = process.argv.slice(2);
-if (!slugs.length) throw new Error('Usage: node scripts/promote-club-drafts.mjs <slug...>');
+const force = process.argv.includes('--force');
+const slugs = process.argv.slice(2).filter((a) => a !== '--force');
+if (!slugs.length) throw new Error('Usage: node scripts/promote-club-drafts.mjs [--force] <slug...>');
 
 const promoted = [];
 let failed = 0;
@@ -19,6 +22,15 @@ for (const slug of slugs) {
   const draft = `data/clubs/drafts/${slug}.json`;
   if (!fs.existsSync(draft)) {
     console.error(`✗ ${slug} : aucun brouillon`);
+    failed++;
+    continue;
+  }
+  // Seule une fiche vérifiée dans son état actuel est publiée (voir mark-verified.mjs).
+  const marker = `data/clubs/verified/${slug}.json`;
+  const m = fs.existsSync(marker) ? JSON.parse(fs.readFileSync(marker, 'utf8')) : null;
+  const current = crypto.createHash('sha1').update(fs.readFileSync(draft)).digest('hex');
+  if (!force && (!m || !m.publishable || m.draftHash !== current)) {
+    console.error(`✗ ${slug} : ${!m ? 'jamais vérifiée' : !m.publishable ? 'jugée non publiable' : 'modifiée depuis sa vérification'}`);
     failed++;
     continue;
   }

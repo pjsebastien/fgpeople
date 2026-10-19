@@ -15,8 +15,34 @@ import { loadAllRawClubs, loadNewClubs, clubSlug, NEW_DIR } from './lib/base-clu
 const DIR = 'data/clubs/profiles';
 const OUT = 'data/clubs/profiles.generated.json';
 
+const NEW_OUT = 'data/clubs/new-clubs.generated.json';
 const allRaw = loadAllRawClubs();
 const baseSlugs = new Map(allRaw.map((c) => [clubSlug(c), c.id]));
+
+// Libellés de département et de région de la base d'origine, pour que les
+// clubs ajoutés se rangent dans les mêmes pages département et région.
+const DEPTS = new Map();
+for (const c of JSON.parse(fs.readFileSync('data/clubs_libertins_verified.json', 'utf8')).clubs) {
+  if (c.departement_code && !DEPTS.has(c.departement_code)) DEPTS.set(c.departement_code, c);
+}
+const TYPES = ['Club', 'Sauna', 'Spa & Wellness', 'Restaurant', 'Bar', 'Hébergement', 'SM / Fétish', 'Gay friendly', 'Cinéma', 'Discothèque'];
+
+/** Contrôle d'une fiche de base ajoutée (data/clubs/new/<slug>.json). */
+export function validateNewClub(c) {
+  const e = [];
+  const str = (v) => typeof v === 'string' && v.trim().length > 0;
+  for (const k of ['id', 'nom', 'type', 'ville', 'departement_code', 'departement_nom', 'region', 'pays']) if (!str(c[k])) e.push(`${k} manquant`);
+  if (c.id && !c.id.startsWith('new-')) e.push('id doit commencer par « new- »');
+  if (!Array.isArray(c.types_normalises) || !c.types_normalises.length || !c.types_normalises.every((t) => TYPES.includes(t))) {
+    e.push(`types_normalises invalides (valeurs permises : ${TYPES.join(', ')})`);
+  }
+  const ref = DEPTS.get(c.departement_code);
+  if (ref && (ref.departement_nom !== c.departement_nom || ref.region !== c.region)) {
+    e.push(`département ou région différents de la base : « ${ref.departement_nom} » / « ${ref.region} » attendus`);
+  }
+  if (allRaw.filter((x) => clubSlug(x) === clubSlug(c)).length > 1) e.push(`slug déjà pris : ${clubSlug(c)}`);
+  return e;
+}
 
 const CONFIDENCE = ['confirme', 'source_unique', 'a_verifier'];
 const STATUS = ['ouvert', 'ferme', 'fermeture_probable', 'incertain'];
@@ -185,6 +211,18 @@ function main() {
   if (!checkOnly) {
     fs.writeFileSync(OUT, JSON.stringify(out));
     console.log(`${Object.keys(out).length} fiches publiées dans ${OUT}${failed ? `, ${failed} en erreur` : ''}`);
+
+    // Les clubs ajoutés n'apparaissent sur le site qu'une fois leur fiche publiée.
+    const newClubs = loadNewClubs().filter((c) => out[clubSlug(c)]);
+    for (const c of newClubs) {
+      const errors = validateNewClub(c);
+      if (errors.length) {
+        failed++;
+        console.error(`✗ ${NEW_DIR}/${clubSlug(c)}.json\n${errors.map((e) => `    erreur : ${e}`).join('\n')}`);
+      }
+    }
+    fs.writeFileSync(NEW_OUT, JSON.stringify({ clubs: newClubs.filter((c) => !validateNewClub(c).length) }));
+    console.log(`${newClubs.length} club(s) ajouté(s) publiés dans ${NEW_OUT}`);
   } else {
     console.log(`${files.length - failed}/${files.length} fiches valides`);
   }

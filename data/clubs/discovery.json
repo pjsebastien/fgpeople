@@ -1,0 +1,510 @@
+{
+  "_doc": "Balayage des lieux libertins par département (scripts/workflows/decouverte-clubs.workflow.js). Un département balayé n'est repris qu'après 90 jours.",
+  "departements": [
+    {
+      "code": "01",
+      "nom": "Ain",
+      "sweptAt": null
+    },
+    {
+      "code": "02",
+      "nom": "Aisne",
+      "sweptAt": null
+    },
+    {
+      "code": "03",
+      "nom": "Allier",
+      "sweptAt": null
+    },
+    {
+      "code": "04",
+      "nom": "Alpes-de-Haute-Provence",
+      "sweptAt": null
+    },
+    {
+      "code": "05",
+      "nom": "Hautes-Alpes",
+      "sweptAt": null
+    },
+    {
+      "code": "06",
+      "nom": "Alpes-Maritimes",
+      "sweptAt": null
+    },
+    {
+      "code": "07",
+      "nom": "Ardèche",
+      "sweptAt": null
+    },
+    {
+      "code": "08",
+      "nom": "Ardennes",
+      "sweptAt": null
+    },
+    {
+      "code": "09",
+      "nom": "Ariège",
+      "sweptAt": null
+    },
+    {
+      "code": "10",
+      "nom": "Aube",
+      "sweptAt": null
+    },
+    {
+      "code": "11",
+      "nom": "Aude",
+      "sweptAt": null
+    },
+    {
+      "code": "12",
+      "nom": "Aveyron",
+      "sweptAt": null
+    },
+    {
+      "code": "13",
+      "nom": "Bouches-du-Rhône",
+      "sweptAt": null
+    },
+    {
+      "code": "14",
+      "nom": "Calvados",
+      "sweptAt": null
+    },
+    {
+      "code": "15",
+      "nom": "Cantal",
+      "sweptAt": null
+    },
+    {
+      "code": "16",
+      "nom": "Charente",
+      "sweptAt": null
+    },
+    {
+      "code": "17",
+      "nom": "Charente-Maritime",
+      "sweptAt": null
+    },
+    {
+      "code": "18",
+      "nom": "Cher",
+      "sweptAt": null
+    },
+    {
+      "code": "19",
+      "nom": "Corrèze",
+      "sweptAt": null
+    },
+    {
+      "code": "2A",
+      "nom": "Corse-du-Sud",
+      "sweptAt": null
+    },
+    {
+      "code": "2B",
+      "nom": "Haute-Corse",
+      "sweptAt": null
+    },
+    {
+      "code": "21",
+      "nom": "Côte-d'Or",
+      "sweptAt": null
+    },
+    {
+      "code": "22",
+      "nom": "Côtes-d'Armor",
+      "sweptAt": null
+    },
+    {
+      "code": "23",
+      "nom": "Creuse",
+      "sweptAt": null
+    },
+    {
+      "code": "24",
+      "nom": "Dordogne",
+      "sweptAt": null
+    },
+    {
+      "code": "25",
+      "nom": "Doubs",
+      "sweptAt": null
+    },
+    {
+      "code": "26",
+      "nom": "Drôme",
+      "sweptAt": null
+    },
+    {
+      "code": "27",
+      "nom": "Eure",
+      "sweptAt": null
+    },
+    {
+      "code": "28",
+      "nom": "Eure-et-Loir",
+      "sweptAt": null
+    },
+    {
+      "code": "29",
+      "nom": "Finistère",
+      "sweptAt": null
+    },
+    {
+      "code": "30",
+      "nom": "Gard",
+      "sweptAt": null
+    },
+    {
+      "code": "31",
+      "nom": "Haute-Garonne",
+      "sweptAt": null
+    },
+    {
+      "code": "32",
+      "nom": "Gers",
+      "sweptAt": null
+    },
+    {
+      "code": "33",
+      "nom": "Gironde",
+      "sweptAt": null
+    },
+    {
+      "code": "34",
+      "nom": "Hérault",
+      "sweptAt": null
+    },
+    {
+      "code": "35",
+      "nom": "Ille-et-Vilaine",
+      "sweptAt": null
+    },
+    {
+      "code": "36",
+      "nom": "Indre",
+      "sweptAt": null
+    },
+    {
+      "code": "37",
+      "nom": "Indre-et-Loire",
+      "sweptAt": null
+    },
+    {
+      "code": "38",
+      "nom": "Isère",
+      "sweptAt": null
+    },
+    {
+      "code": "39",
+      "nom": "Jura",
+      "sweptAt": null
+    },
+    {
+      "code": "40",
+      "nom": "Landes",
+      "sweptAt": null
+    },
+    {
+      "code": "41",
+      "nom": "Loir-et-Cher",
+      "sweptAt": null
+    },
+    {
+      "code": "42",
+      "nom": "Loire",
+      "sweptAt": null
+    },
+    {
+      "code": "43",
+      "nom": "Haute-Loire",
+      "sweptAt": null
+    },
+    {
+      "code": "44",
+      "nom": "Loire-Atlantique",
+      "sweptAt": null
+    },
+    {
+      "code": "45",
+      "nom": "Loiret",
+      "sweptAt": null
+    },
+    {
+      "code": "46",
+      "nom": "Lot",
+      "sweptAt": null
+    },
+    {
+      "code": "47",
+      "nom": "Lot-et-Garonne",
+      "sweptAt": null
+    },
+    {
+      "code": "48",
+      "nom": "Lozère",
+      "sweptAt": null
+    },
+    {
+      "code": "49",
+      "nom": "Maine-et-Loire",
+      "sweptAt": null
+    },
+    {
+      "code": "50",
+      "nom": "Manche",
+      "sweptAt": null
+    },
+    {
+      "code": "51",
+      "nom": "Marne",
+      "sweptAt": null
+    },
+    {
+      "code": "52",
+      "nom": "Haute-Marne",
+      "sweptAt": null
+    },
+    {
+      "code": "53",
+      "nom": "Mayenne",
+      "sweptAt": null
+    },
+    {
+      "code": "54",
+      "nom": "Meurthe-et-Moselle",
+      "sweptAt": null
+    },
+    {
+      "code": "55",
+      "nom": "Meuse",
+      "sweptAt": null
+    },
+    {
+      "code": "56",
+      "nom": "Morbihan",
+      "sweptAt": null
+    },
+    {
+      "code": "57",
+      "nom": "Moselle",
+      "sweptAt": null
+    },
+    {
+      "code": "58",
+      "nom": "Nièvre",
+      "sweptAt": null
+    },
+    {
+      "code": "59",
+      "nom": "Nord",
+      "sweptAt": null
+    },
+    {
+      "code": "60",
+      "nom": "Oise",
+      "sweptAt": null
+    },
+    {
+      "code": "61",
+      "nom": "Orne",
+      "sweptAt": null
+    },
+    {
+      "code": "62",
+      "nom": "Pas-de-Calais",
+      "sweptAt": null
+    },
+    {
+      "code": "63",
+      "nom": "Puy-de-Dôme",
+      "sweptAt": null
+    },
+    {
+      "code": "64",
+      "nom": "Pyrénées-Atlantiques",
+      "sweptAt": null
+    },
+    {
+      "code": "65",
+      "nom": "Hautes-Pyrénées",
+      "sweptAt": null
+    },
+    {
+      "code": "66",
+      "nom": "Pyrénées-Orientales",
+      "sweptAt": null
+    },
+    {
+      "code": "67",
+      "nom": "Bas-Rhin",
+      "sweptAt": null
+    },
+    {
+      "code": "68",
+      "nom": "Haut-Rhin",
+      "sweptAt": null
+    },
+    {
+      "code": "69",
+      "nom": "Rhône",
+      "sweptAt": null
+    },
+    {
+      "code": "70",
+      "nom": "Haute-Saône",
+      "sweptAt": null
+    },
+    {
+      "code": "71",
+      "nom": "Saône-et-Loire",
+      "sweptAt": null
+    },
+    {
+      "code": "72",
+      "nom": "Sarthe",
+      "sweptAt": null
+    },
+    {
+      "code": "73",
+      "nom": "Savoie",
+      "sweptAt": null
+    },
+    {
+      "code": "74",
+      "nom": "Haute-Savoie",
+      "sweptAt": null
+    },
+    {
+      "code": "75",
+      "nom": "Paris",
+      "sweptAt": null
+    },
+    {
+      "code": "76",
+      "nom": "Seine-Maritime",
+      "sweptAt": null
+    },
+    {
+      "code": "77",
+      "nom": "Seine-et-Marne",
+      "sweptAt": null
+    },
+    {
+      "code": "78",
+      "nom": "Yvelines",
+      "sweptAt": null
+    },
+    {
+      "code": "79",
+      "nom": "Deux-Sèvres",
+      "sweptAt": null
+    },
+    {
+      "code": "80",
+      "nom": "Somme",
+      "sweptAt": null
+    },
+    {
+      "code": "81",
+      "nom": "Tarn",
+      "sweptAt": null
+    },
+    {
+      "code": "82",
+      "nom": "Tarn-et-Garonne",
+      "sweptAt": null
+    },
+    {
+      "code": "83",
+      "nom": "Var",
+      "sweptAt": null
+    },
+    {
+      "code": "84",
+      "nom": "Vaucluse",
+      "sweptAt": null
+    },
+    {
+      "code": "85",
+      "nom": "Vendée",
+      "sweptAt": null
+    },
+    {
+      "code": "86",
+      "nom": "Vienne",
+      "sweptAt": null
+    },
+    {
+      "code": "87",
+      "nom": "Haute-Vienne",
+      "sweptAt": null
+    },
+    {
+      "code": "88",
+      "nom": "Vosges",
+      "sweptAt": null
+    },
+    {
+      "code": "89",
+      "nom": "Yonne",
+      "sweptAt": null
+    },
+    {
+      "code": "90",
+      "nom": "Territoire de Belfort",
+      "sweptAt": null
+    },
+    {
+      "code": "91",
+      "nom": "Essonne",
+      "sweptAt": null
+    },
+    {
+      "code": "92",
+      "nom": "Hauts-de-Seine",
+      "sweptAt": null
+    },
+    {
+      "code": "93",
+      "nom": "Seine-Saint-Denis",
+      "sweptAt": null
+    },
+    {
+      "code": "94",
+      "nom": "Val-de-Marne",
+      "sweptAt": null
+    },
+    {
+      "code": "95",
+      "nom": "Val-d'Oise",
+      "sweptAt": null
+    },
+    {
+      "code": "971",
+      "nom": "Guadeloupe",
+      "sweptAt": null
+    },
+    {
+      "code": "972",
+      "nom": "Martinique",
+      "sweptAt": null
+    },
+    {
+      "code": "973",
+      "nom": "Guyane",
+      "sweptAt": null
+    },
+    {
+      "code": "974",
+      "nom": "La Réunion",
+      "sweptAt": null
+    },
+    {
+      "code": "976",
+      "nom": "Mayotte",
+      "sweptAt": null
+    }
+  ]
+}

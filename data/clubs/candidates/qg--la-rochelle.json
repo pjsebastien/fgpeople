@@ -1,0 +1,11 @@
+{
+  "nom": "QG Sauna",
+  "ville": "La Rochelle",
+  "url": "https://www.qgsauna.fr/",
+  "foundIn": [
+    "l-hermaphodite-royan",
+    "club-libertin-saint-jean",
+    "plaisir-d-o-la-rochelle-port-neuf"
+  ],
+  "status": "todo"
+}

@@ -45,3 +45,4 @@ public/images/*Performance-on-Search*.zip
 # Fiches clubs : brouillons et dossiers de recherche (travail interne, sauvegardé par OneDrive)
 data/clubs/drafts/
 data/clubs/research/
+data/clubs/night-state.json
