@@ -1,0 +1,959 @@
+{
+  "slug": "orelax-lens",
+  "clubId": "15274",
+  "researchedAt": "2026-10-16",
+  "display": {
+    "nom": "O'Relax",
+    "ville": "Lens"
+  },
+  "status": {
+    "value": "ouvert",
+    "summary": "La page Événements du site officiel annonce, au 20 octobre 2026, une soirée Halloween le jeudi 29 octobre (19 h 30-minuit) et le vendredi 30 octobre (20 h-1 h). La grille 2026 du site ouvre désormais le vendredi soir aux femmes seules, et la SAS L'O.X, qui exploite O'Relax, est active au registre (fiche mise à jour le 25/09/2026). Les pages Facebook et Instagram n'ont pas pu être lues.",
+    "sources": [
+      "s32",
+      "s1",
+      "s18"
+    ]
+  },
+  "seo": {
+    "title": "O'Relax à Lens : sauna libertin, tarifs 2026 et jours par public",
+    "metaDescription": "Sauna libertin face au stade Léo-Lagrange : mixte mardi, jeudi et dimanche, gay le mercredi, couples et femmes le vendredi soir. Tarifs 2026, donjon, avis.",
+    "subtitle": "Sauna libertin mixte avec donjon BDSM, face au stade Léo-Lagrange à Lens (62)",
+    "targetQueries": [
+      "club libertin lens",
+      "libertine lens",
+      "orelax lens",
+      "o'relax lens",
+      "orelax tarifs",
+      "orelax horaires",
+      "orelax photos",
+      "sauna libertin lens"
+    ]
+  },
+  "lead": "Face au stade Léo-Lagrange, O'Relax (aussi écrit Orelax) est un sauna libertin dont le public change selon le jour : mixte le mardi, le jeudi et le dimanche, réservé aux hommes le mercredi, fermé aux hommes seuls le vendredi soir. Présent au 9 rue du Chemin Vert depuis février 2012 et exploité par la SAS L'O.X, il est passé d'une clientèle surtout gay à une majorité de jours mixtes, et possède un donjon BDSM à l'étage. En octobre 2026, son site publie une grille complète et annonce une soirée Halloween les 29 et 30 octobre.",
+  "keyFacts": [
+    {
+      "label": "Type de lieu",
+      "value": "Sauna libertin mixte, avec une journée gay le mercredi",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "label": "Exploitant",
+      "value": "SAS L'O.X (nom commercial O'RELAX), créée le 1er mars 2018, active",
+      "confidence": "confirme",
+      "sources": [
+        "s7",
+        "s18"
+      ]
+    },
+    {
+      "label": "Présent à l'adresse depuis",
+      "value": "Février 2012 (registre, nom de domaine, adhésion au SNEG)",
+      "confidence": "confirme",
+      "sources": [
+        "s36",
+        "s38",
+        "s19",
+        "s20"
+      ]
+    },
+    {
+      "label": "Jours d'ouverture",
+      "value": "Mardi, mercredi, jeudi, vendredi soir et dimanche ; fermé le lundi et le samedi",
+      "confidence": "confirme",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "label": "Entrée couple",
+      "value": "35 €, une boisson sans alcool par personne comprise",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s11"
+      ]
+    },
+    {
+      "label": "Entrée homme seul",
+      "value": "40 € le mardi, le jeudi et le dimanche ; non admis le vendredi",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s11"
+      ]
+    },
+    {
+      "label": "Espace BDSM",
+      "value": "Donjon au premier étage : croix de Saint-André, pilori, « espace médical »",
+      "confidence": "confirme",
+      "sources": [
+        "s5",
+        "s51",
+        "s10"
+      ]
+    },
+    {
+      "label": "Accès",
+      "value": "A21 sortie 13, puis environ 1 km ; en face du stade Léo-Lagrange",
+      "confidence": "confirme",
+      "sources": [
+        "s4",
+        "s10"
+      ]
+    },
+    {
+      "label": "Contact",
+      "value": "Courriel et formulaire ; aucun téléphone sur le site de 2026",
+      "confidence": "confirme",
+      "sources": [
+        "s4"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "semaine-par-public",
+      "title": "Mercredi entre hommes, vendredi soir sans hommes seuls : la semaine d'O'Relax",
+      "icon": "calendar",
+      "summary": "Mixte mardi, jeudi (14 h-minuit) et dimanche (14 h-20 h), gay le mercredi, couples et femmes seules le vendredi 20 h-1 h ; homme seul 40 €, couple 35 €.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Avant de venir, regardez le jour : O'Relax ne reçoit pas le même public du mardi au dimanche. Trois journées sont mixtes (mardi, jeudi, dimanche). Le mercredi, la grille officielle affiche « Gays » et réserve la journée aux hommes. Le vendredi, seul jour qui n'ouvre que le soir, est ouvert « exclusivement » aux couples et aux femmes seules."
+        },
+        {
+          "kind": "text",
+          "body": "Les tarifs suivent ce découpage, avec un écart qui fait réagir : l'homme seul paie 40 €, le couple 35 € à deux, une boisson sans alcool comprise pour chacun. Des messages GoWork de 2022 à 2024, dont plusieurs du même auteur, jugent cet écart injuste, comme le Petit Futé dans un texte ancien. Les 45 € pour un homme seul cités dans certains de ces messages n'apparaissent sur aucun document officiel trouvé."
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Après 19 h, une entrée filtrée ?",
+          "body": "De 2019 à mars 2025 au moins, le site prévenait qu'après 19 h la direction pouvait refuser l'entrée selon l'affluence. Le site de 2026 n'en parle plus, mais un avis GoWork raconte un refus d'entrée le 5 mars 2026. Dans le doute, écrivez au club avant de faire la route."
+        },
+        {
+          "kind": "text",
+          "body": "Le vendredi a changé entre 2024 et 2026 : l'affiche de novembre 2024 le réservait aux « couples (uniquement) », la grille actuelle l'ouvre aussi aux femmes seules, et la FAQ du club parle d'une « soirée spéciale couples et femmes ». Pour une première fois, vous pouvez [chercher des couples du bassin minier](aff:carre-libertin) avant de venir sur Carré Libertin, en ligne depuis 2007, où l'inscription ne coûte rien aux couples ni aux femmes à condition d'afficher trois photos sur le profil."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s3",
+        "s10",
+        "s11",
+        "s14",
+        "s15",
+        "s23",
+        "s24"
+      ]
+    },
+    {
+      "id": "acces-chemin-vert",
+      "title": "Face au stade Léo-Lagrange, à un kilomètre de la sortie 13 de l'A21",
+      "icon": "map",
+      "summary": "Au 9 rue du Chemin Vert, face au stade Léo-Lagrange, à environ 1 km de la sortie 13 de l'A21 ; contact par courriel ou formulaire, aucun téléphone publié en 2026.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le sauna occupe le 9 rue du Chemin Vert, en face du stade Léo-Lagrange. Depuis l'A21, le site officiel indique la sortie 13 « Lens centre-ville », puis environ un kilomètre par la route de Lille. On se gare devant le stade, sur le trottoir ou aux abords, et un parking privé est accessible à ceux qui arrivent tôt ; le club décrit le quartier comme calme. D'après un texte ancien du Petit Futé, l'entrée est au fond à droite une fois le portail franchi."
+        },
+        {
+          "kind": "text",
+          "body": "Le site de 2026 ne donne qu'un courriel, orelax.lens62300@gmail.com, et un formulaire : aucun téléphone. Le 09 67 20 98 83 des annuaires figurait sur le site en 2019 ; nous n'avons pas pu vérifier qu'il répond. Ses pages Facebook et Instagram sont restées illisibles, derrière un mur de connexion."
+        }
+      ],
+      "sources": [
+        "s4",
+        "s10",
+        "s16",
+        "s21",
+        "s24",
+        "s25",
+        "s26"
+      ]
+    },
+    {
+      "id": "halloween-2026",
+      "title": "Halloween les 29 et 30 octobre 2026 : cocktails, bières et croque à 5 €",
+      "icon": "sparkles",
+      "summary": "Halloween le jeudi 29 octobre (19 h 30-minuit) et le vendredi 30 (20 h-1 h) : cocktails, bières et croque à 5 €, 5 € de remise sur l'entrée couple, champagne aux meilleurs déguisements.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Au 20 octobre 2026, la page Événements du site annonce une soirée Halloween en deux temps : le jeudi 29 octobre de 19 h 30 à minuit, après une ouverture normale dès 14 h, puis le vendredi 30 octobre de 20 h à 1 h. Une bouteille de champagne est à gagner pour les meilleurs déguisements."
+        },
+        {
+          "kind": "list",
+          "title": "Le « pack anti-crise » détaillé sur l'affiche officielle",
+          "items": [
+            "5 € de remise sur l'entrée couple, sur inscription via la plateforme Libertic",
+            "Cocktails « spécial Halloween » à 5 €",
+            "Croque « Halloween » à 5 €",
+            "Toutes les bières à 5 €",
+            "Jeudi 29 dès 19 h 30 : consommation obligatoire pour les hommes seuls"
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "L'affiche ne donne pas le prix d'entrée de ces deux soirées, seulement la remise pour les couples : demandez-le au club par courriel. La précédente soirée à thème datée que nous connaissions remontait au 30 mars 2023 (années 80)."
+        },
+        {
+          "kind": "text",
+          "body": "Sous son agenda, le club affiche cinq partenaires, dont le CeGIDD et l'ENIPSE, deux acteurs de la prévention en santé sexuelle, et Wyylde, déjà mis en avant sur son accueil en 2024-2025. Pour repérer d'autres dates autour de Lens, [le programme des soirées libertines publié sur Wyylde](aff:wyylde) se consulte avec un compte gratuit, qui ne permet pas en revanche de répondre aux messages."
+        }
+      ],
+      "sources": [
+        "s32",
+        "s28",
+        "s10",
+        "s14"
+      ]
+    },
+    {
+      "id": "sauna-pas-club-de-nuit",
+      "title": "Pour une soirée en club, O'Pulsions à environ 9 km ; près de la gare, le sous-sol d'O'Labyrinte",
+      "icon": "building",
+      "summary": "Un sauna ouvert l'après-midi plutôt qu'une boîte : pour une soirée en club, l'adresse la plus proche trouvée est O'Pulsions, à Hénin-Beaumont, à environ 9 km.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Seul établissement libertin de Lens dans notre annuaire, O'Relax n'est pas une boîte de nuit : il se présente comme un « sauna mixte libertin », ouvre l'après-midi et ne dépasse minuit que le vendredi. On y circule en serviette ; aucune page officielle ne mentionne de piste de danse."
+        },
+        {
+          "kind": "text",
+          "body": "Pour une soirée en club, l'adresse la plus proche relevée pendant notre recherche est O'Pulsions, boulevard Albert-Schweitzer à Hénin-Beaumont, à environ 9 km à vol d'oiseau : son site se dit situé « près de Douai et Lens », et l'ancien site de La Berjeurie renvoie vers lui. Ce club n'est pas encore dans notre annuaire et nous n'avons pas vérifié ses conditions d'entrée."
+        },
+        {
+          "kind": "text",
+          "body": "Parmi les lieux recensés, non encore vérifiés, figurent un sauna libertin à Chocques ([la Villa des Anges](/villa-anges-club-libertin)) et [La Villa Romaine, côté Nord, à Douai](/la-villa-romaine-douai). Celui de Béthune, [SaunAmusez Vous, est fermé depuis sa liquidation judiciaire ouverte en septembre 2015](/saunamusezvous-bethune). Le reste est dans [la liste des établissements du Pas-de-Calais](/departement/pas-de-calais)."
+        },
+        {
+          "kind": "text",
+          "body": "Près de la gare de Lens, rue Jean-Baptiste-Kléber, le sex-shop O'Labyrinte présente sur son site un sous-sol de rencontre d'environ 200 m², avec cabines, glory-holes et espace BDSM, ouvert du lundi au samedi de 9 h à 20 h. Absent de notre annuaire, il n'a pas été vérifié pour 2026."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s2",
+        "s3",
+        "s10",
+        "s14",
+        "s30",
+        "s31",
+        "s47",
+        "s50"
+      ]
+    },
+    {
+      "id": "espaces-et-photos",
+      "title": "Jacuzzi de six places à 35 °C, sauna de quatre places et terrasse en palettes",
+      "icon": "camera",
+      "summary": "Selon le site en 2026 : jacuzzi six places à 35 °C, sauna quatre places, douches collectives, glory-holes, bar à cocktails, terrasse ; hammam et ciné X n'y figurent plus.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "La page Services du site, lue le 20 octobre 2026, chiffre l'espace bien-être : un jacuzzi de six places chauffé à 35 °C, un sauna de quatre places et des douches collectives. Un avis Google reproduit par le club regrette d'ailleurs ce jacuzzi « qui ne peut accueillir que 6 personnes »."
+        },
+        {
+          "kind": "list",
+          "title": "Les autres espaces décrits par le site en 2026",
+          "items": [
+            "Des « chambres et espaces coquins » et des glory-holes",
+            "Un vestiaire sécurisé et un espace beauté réservé aux femmes",
+            "Une terrasse ouverte en saison et un espace fumeur",
+            "Un bar lounge présenté comme « tout nouveau », avec cocktails maison et champagne"
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Nous avons regardé les 23 photos de la galerie « Notre Ambiance ». Elles montrent un long comptoir à tabourets hauts sous des suspensions industrielles, un salon éclairé de vert et de bleu aux murs habillés de lattes en losange, et une terrasse aux banquettes en palettes sur sol rouge et bleu. On y voit aussi un jacuzzi blanc à jets, des rangées de casiers noirs et un coin beauté avec miroir et coiffeuse."
+        },
+        {
+          "kind": "text",
+          "body": "La carte en ligne (croque-monsieur, planches de saumon, de saucisson ou mixtes, Spritz, Piña Colada, Mojito) n'affiche aucun prix. Le site revendique « +8 espaces de jeux » sans les détailler ; une affiche de juillet 2024 vantait « le plus grand Glory Cube du Nord », un slogan sans mesure à l'appui."
+        },
+        {
+          "kind": "text",
+          "body": "Le hammam, prévu par l'objet de la société en 2018 et cité par le Petit Futé comme par des avis de 2022-2023, n'apparaît sur aucune page officielle de 2026. La salle de ciné X, annoncée en 2024, n'y figure plus non plus. Cabine UV et soins du corps datent d'une description de l'ouverture ; piscine et solarium, listés par des annuaires, n'ont aucune source vérifiable."
+        },
+        {
+          "kind": "callout",
+          "tone": "tip",
+          "title": "Nu sous la serviette, lingerie bienvenue au bar",
+          "body": "Le site fixe la tenue : on reçoit une serviette et un casier à l'arrivée, on circule nu dessous, et la lingerie est bienvenue au bar et dans les espaces coquins. Sa FAQ ajoute que les hommes qui le souhaitent peuvent porter des dessous féminins."
+        }
+      ],
+      "sources": [
+        "s2",
+        "s3",
+        "s6",
+        "s10",
+        "s13",
+        "s23",
+        "s24",
+        "s33",
+        "s35",
+        "s40",
+        "s51"
+      ]
+    },
+    {
+      "id": "donjon-premier-etage",
+      "title": "Croix de Saint-André, pilori et « espace médical » : le donjon du premier étage",
+      "icon": "lock",
+      "summary": "Croix de Saint-André, pilori et « espace médical » au premier étage, avec un règlement écrit (consentement, safeword, désinfection, pas d'enregistrement).",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Signalé au premier étage dès le site de 2024, le donjon a droit en 2026 à trois pages : règles, guide pour novices et galerie des équipements (croix de Saint-André, pilori, « espace médical » pour les jeux de rôle). Ces photos sont des images d'illustration, pas forcément la salle de Lens ; le club propose une visite préalable sur rendez-vous."
+        },
+        {
+          "kind": "list",
+          "title": "Le règlement du donjon, résumé",
+          "items": [
+            "Le consentement doit être explicite, et chacun peut le retirer à tout moment.",
+            "Le safeword met fin à la scène sur-le-champ.",
+            "On n'interrompt pas une scène en cours.",
+            "Le matériel se nettoie avant et après chaque usage, avec le désinfectant fourni.",
+            "Téléphones et caméras sont interdits dans l'espace, ou doivent y être consignés."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le site ne dit pas si le donjon est accessible chaque jour. Sa grille tarifaire indique toutefois « accès à tous les espaces » pour les quatre entrées, la journée gay du mercredi comprise."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s5",
+        "s10"
+      ]
+    },
+    {
+      "id": "avis-gowork-google",
+      "title": "3,8/5 sur GoWork, un bandeau « fermé » trompeur et une note Google non vérifiée",
+      "icon": "star",
+      "summary": "3,8/5 sur 12 évaluations GoWork au 20/10/2026 ; le bandeau « Entreprise fermée » vise l'ancienne société, pas le sauna ; la note Google n'a pas été vue.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le seul relevé fait par nos soins est celui de GoWork : 3,8/5 sur 12 évaluations, constaté du 16 au 20 octobre 2026, pour 38 messages non vérifiés publiés de mars 2022 à septembre 2026. Le bandeau « Entreprise fermée » de cette page vient de son rattachement à la société qui tenait l'adresse de 2012 à 2018, cessée en 2021, et non à la SAS L'O.X, active : le sauna n'a pas fermé."
+        },
+        {
+          "kind": "list",
+          "title": "Ce qui revient dans les avis GoWork, lus par nos soins",
+          "items": [
+            "En positif : la propreté, l'accueil, un décor rénové qualifié de « vintage » en mai 2024.",
+            "En négatif : l'écart de prix au détriment des hommes seuls, le comportement de certains clients, des travaux qui ont duré, une fréquentation surtout masculine, un refus d'entrée en mars 2026."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Côté Google, le club affiche « +200 Avis Clients » et en reproduit quatre, tous élogieux, sur son accueil ; trois annuaires relaient en 2026 une note de 4/5 sur 205 à 228 avis, non datée, que nous n'avons pas pu vérifier."
+        },
+        {
+          "kind": "text",
+          "body": "Selon l'avis de mars 2026, le refus a été motivé par un trop grand nombre d'hommes seuls, ce que son auteur conteste. En couple, l'entrée revient à 35 € et le vendredi soir devient accessible. Pour trouver avec qui venir, [Gleese permet de créer un profil sans fournir de carte bancaire](aff:gleese) ; ce site français lancé fin 2024 vérifie le téléphone de chaque membre et modère les photos à la main, mais sa communauté reste plus réduite que celle des sites plus anciens."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s2",
+        "s18",
+        "s19",
+        "s21",
+        "s23",
+        "s25",
+        "s33",
+        "s43",
+        "s44"
+      ]
+    },
+    {
+      "id": "historique-2012-2026",
+      "title": "Du sauna gay à 15 € au sauna mixte : quatorze ans au 9 rue du Chemin Vert",
+      "icon": "history",
+      "summary": "Sauna surtout gay en 2016 (15 €, un seul jour libertin), O'Relax ouvre en 2026 quatre jours sur cinq aux couples ; la SAS L'O.X l'exploite depuis 2018.",
+      "blocks": [
+        {
+          "kind": "table",
+          "caption": "Les grilles officielles successives (archives du site et site actuel)",
+          "headers": [
+            "Grille",
+            "Journées gays",
+            "Jours ouverts aux couples",
+            "Homme seul",
+            "Couple",
+            "Femme seule"
+          ],
+          "rows": [
+            [
+              "2016",
+              "Six jours sur sept, 15 €",
+              "Le jeudi seulement, de 11 h 30 à 23 h 30",
+              "30 €",
+              "25 €",
+              "10 € le jeudi après-midi"
+            ],
+            [
+              "2019",
+              "16 € la journée, 10 € avant 25 ans",
+              "Mardi, jeudi et un week-end « Ch'tis » par mois",
+              "35 €",
+              "30 €",
+              "Gratuit sous conditions"
+            ],
+            [
+              "Novembre 2024",
+              "Mercredi de 14 h à 19 h, 30 €",
+              "Mardi, jeudi, dimanche ; vendredi soir réservé aux couples",
+              "40 €",
+              "35 €",
+              "Gratuit sous conditions"
+            ],
+            [
+              "Octobre 2026",
+              "Mercredi de 14 h à 19 h, 30 €",
+              "Mardi, jeudi, dimanche ; vendredi soir ouvert aussi aux femmes seules",
+              "40 €",
+              "35 €",
+              "Gratuit sous réserve de la direction"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "En dix ans, la journée gay a doublé, de 15 à 30 €, quand l'entrée homme seul et l'entrée couple ont pris 10 € chacune. Le mercredi est la seule journée gay qui subsiste."
+        },
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "Février 2012",
+              "text": "Le nom de domaine orelax.fr est enregistré le 14 février ; le lendemain, une société commence à cette adresse une activité de « centre de relaxation ». Un annuaire gay, dans un texte non daté écrit à ses débuts, décrit un sauna ouvert sept jours sur sept, avec hammam, cabine UV et soins du corps sur rendez-vous. Le sauna adhère au SNEG la même année."
+            },
+            {
+              "date": "1er mars 2018",
+              "text": "Création de la SAS L'O.X, nom commercial O'RELAX, qui déclare au BODACC un fonds « créé » et non racheté. L'établissement de la société précédente ferme au registre le 17 mai 2018 ; des clients parlent d'un rachat, sans cession publiée."
+            },
+            {
+              "date": "2019",
+              "text": "Sous la marque « l'ôX », le sauna n'ouvre le samedi qu'un week-end par mois, pour les soirées « La ch'ti hétéro » et « La Ch'ti Gay »."
+            },
+            {
+              "date": "2022-2023",
+              "text": "Des avis GoWork signalent des travaux, encore en cours en août 2023."
+            },
+            {
+              "date": "30 mars 2023",
+              "text": "Soirée années 80, d'après une sortie de groupe organisée sur OnVaSortir Lille."
+            },
+            {
+              "date": "Janvier-février 2025",
+              "text": "Photos du sauna « refait à neuf », puis affiche du Salon de l'érotisme d'Arras (21-23 février) relayée sur le site."
+            },
+            {
+              "date": "Juillet 2025 au plus tard",
+              "text": "Nouveau site ; l'adresse orelax.fr redirige vers lui."
+            },
+            {
+              "date": "Octobre 2026",
+              "text": "La grille en ligne ouvre le vendredi soir aux femmes seules, que l'affiche de novembre 2024 n'admettait pas (date exacte du changement inconnue) ; soirée Halloween annoncée les 29 et 30 octobre."
+            }
+          ]
+        }
+      ],
+      "sources": [
+        "s1",
+        "s9",
+        "s10",
+        "s11",
+        "s12",
+        "s14",
+        "s15",
+        "s16",
+        "s17",
+        "s18",
+        "s19",
+        "s20",
+        "s23",
+        "s25",
+        "s27",
+        "s28",
+        "s32",
+        "s35",
+        "s36",
+        "s38",
+        "s40"
+      ]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Lundi": "Fermé",
+      "Mardi": "14 h - minuit (mixte)",
+      "Mercredi": "14 h - 19 h (gays, hommes uniquement)",
+      "Jeudi": "14 h - minuit (mixte)",
+      "Vendredi": "20 h - 1 h (couples et femmes seules)",
+      "Samedi": "Fermé",
+      "Dimanche": "14 h - 20 h (mixte)"
+    },
+    "note": "Grille relevée sur le site officiel le 16/10/2026 et revérifiée le 20/10/2026. Hommes seuls non admis le vendredi. Halloween : soirée le jeudi 29 octobre de 19 h 30 à minuit, puis le vendredi 30 octobre de 20 h à 1 h.",
+    "confidence": "confirme",
+    "sources": [
+      "s1",
+      "s11",
+      "s32"
+    ]
+  },
+  "tarifs": {
+    "rows": {
+      "Couple (mardi, jeudi, vendredi, dimanche)": "35 € : accès à tous les espaces, serviettes, casier, une boisson sans alcool par personne",
+      "Femme seule (mardi, jeudi, vendredi, dimanche)": "Gratuit, « sous réserve de la direction » : accès à tous les espaces, serviette, casier",
+      "Homme seul (mardi, jeudi, dimanche)": "40 € : accès à tous les espaces, serviette et casier",
+      "Journée gays (mercredi, hommes uniquement)": "30 € : accès à tous les espaces, serviette, casier, une boisson sans alcool"
+    },
+    "note": "Grille du site officiel relevée le 16/10/2026 et revérifiée le 20/10/2026, identique à l'affiche de novembre 2024. Halloween (29-30 octobre) : l'affiche annonce 5 € de remise sur l'entrée couple via une inscription sur Libertic, sans donner le prix d'entrée.",
+    "confidence": "confirme",
+    "sources": [
+      "s1",
+      "s11",
+      "s12",
+      "s32"
+    ]
+  },
+  "equipements": [
+    "Sauna (4 places)",
+    "Jacuzzi (6 places, 35 °C)",
+    "Douches collectives",
+    "Chambres et espaces coquins",
+    "Glory-holes",
+    "Donjon BDSM (croix de Saint-André, pilori, espace médical)",
+    "Bar à cocktails et petite restauration",
+    "Vestiaire sécurisé et espace beauté réservé aux femmes",
+    "Terrasse ouverte en saison",
+    "Espace fumeur"
+  ],
+  "externalRatings": [
+    {
+      "platform": "GoWork",
+      "rating": 3.8,
+      "scale": 5,
+      "count": 12,
+      "date": "2026-10-20",
+      "url": "https://gowork.fr/o-relax-lens"
+    }
+  ],
+  "officialLinks": [
+    {
+      "label": "Site officiel orelax.fr",
+      "url": "https://www.orelax.fr/",
+      "kind": "site"
+    },
+    {
+      "label": "Page Facebook saunalens",
+      "url": "https://www.facebook.com/saunalens",
+      "kind": "facebook"
+    },
+    {
+      "label": "Instagram orelax_espace_de_liberte",
+      "url": "https://www.instagram.com/orelax_espace_de_liberte/",
+      "kind": "instagram"
+    }
+  ],
+  "corrections": {
+    "email": "orelax.lens62300@gmail.com",
+    "site_web": "https://www.orelax.fr/",
+    "sources": [
+      "s4",
+      "s8"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Y a-t-il un club libertin à Lens ?",
+      "answer": "Notre annuaire ne recense à Lens qu'O'Relax, un sauna mixte plutôt qu'un club de nuit : il ouvre l'après-midi, et seule sa soirée du vendredi (20 h-1 h, sans hommes seuls) ressemble à une sortie nocturne. Le club libertin le plus proche trouvé pendant notre recherche est O'Pulsions, à Hénin-Beaumont, pas encore vérifié. Près de la gare, le sex-shop O'Labyrinte annonce aussi un sous-sol de rencontre, absent de notre annuaire. Pour comparer, voyez [la liste des saunas libertins de l'annuaire](/sauna-libertin)."
+    },
+    {
+      "question": "Un homme seul peut-il entrer à O'Relax ?",
+      "answer": "Oui, le mardi, le jeudi et le dimanche, pour 40 €, ainsi que le mercredi, journée réservée aux hommes, au tarif gay de 30 €. Le vendredi soir, les hommes seuls ne sont pas admis."
+    },
+    {
+      "question": "Combien coûte l'entrée pour un couple ?",
+      "answer": "35 € à deux, le mardi, le jeudi, le vendredi soir et le dimanche, avec serviettes, casier et une boisson sans alcool par personne, selon la grille relevée sur le site officiel le 16 octobre 2026."
+    },
+    {
+      "question": "O'Relax est-il fermé ? GoWork affiche « Entreprise fermée ».",
+      "answer": "Rien ne l'indique. GoWork relie sa fiche à une société cessée en 2021, et non à la SAS L'O.X, l'exploitant actuel, active au registre (mise à jour du 25 septembre 2026). Autre source de confusion : lue sans JavaScript, la page des horaires du site affiche « Fermé » chaque jour ; c'est un état de chargement, et la grille réelle apparaît dans un navigateur."
+    },
+    {
+      "question": "Comment contacter O'Relax ?",
+      "answer": "Par courriel (orelax.lens62300@gmail.com) ou par le formulaire du site officiel. Aucun téléphone n'y figure en 2026 ; le 09 67 20 98 83 des annuaires date au moins de 2019 et n'a pas été revérifié."
+    },
+    {
+      "question": "Où voir des photos d'O'Relax ?",
+      "answer": "Dans la galerie « Notre Ambiance » du site officiel : 23 photos, que nous avons regardées, du bar à tabourets hauts, des salons éclairés de vert et de bleu, du jacuzzi, des casiers, du coin beauté et de la terrasse aux banquettes en palettes. Les images de la rubrique BDSM sont des photos d'illustration ; pour voir le donjon lui-même, le club propose une visite sur rendez-vous."
+    },
+    {
+      "question": "O'Relax organise-t-il des soirées à thème ?",
+      "answer": "Oui : au 20 octobre 2026, sa page Événements annonce une soirée Halloween le jeudi 29 octobre (19 h 30-minuit, après l'ouverture normale de 14 h) et le vendredi 30 octobre (20 h-1 h). L'affiche promet cocktails, bières et croque à 5 €, 5 € de remise sur l'entrée couple via une inscription sur Libertic, et une bouteille de champagne pour les meilleurs déguisements ; le jeudi soir, les hommes seuls doivent consommer. Le prix d'entrée n'est pas indiqué : écrivez au club pour le connaître."
+    }
+  ],
+  "unverified": [
+    "La note Google : le club affiche « +200 avis » et trois annuaires donnent 4/5 sur 205 à 228 avis, mais nous n'avons pas pu la consulter.",
+    "Le 09 67 20 98 83 est-il toujours le numéro du club ? Il ne figure plus sur le site de 2026.",
+    "La règle de filtrage de l'entrée après 19 h, affichée jusqu'en mars 2025, s'applique-t-elle encore ?",
+    "Le hammam existe-t-il toujours ? Il n'apparaît plus sur aucune page officielle de 2026.",
+    "La salle de ciné X, annoncée en 2024-2025, est-elle toujours en place ? La page Services de 2026 n'en parle pas.",
+    "Les prix du bar : la carte en ligne (croque-monsieur, planches, trois cocktails) n'en affiche aucun.",
+    "Le lien entre la société qui a ouvert le lieu en février 2012 et la SAS L'O.X : des clients parlent d'un rachat, le BODACC d'un fonds « créé » en 2018.",
+    "Le prix d'entrée des soirées Halloween des 29 et 30 octobre 2026, que l'affiche ne donne pas.",
+    "D'autres soirées à thème suivront-elles Halloween ? Les réseaux sociaux du club, où elles seraient annoncées, n'ont pas pu être lus."
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Site officiel, page Prix & Horaires (rendue dans un navigateur)",
+      "url": "https://orelax-379687720214.europe-west1.run.app/pricing",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s2",
+      "label": "Site officiel orelax.fr, page d'accueil",
+      "url": "https://www.orelax.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s3",
+      "label": "Site officiel, FAQ",
+      "url": "https://orelax-379687720214.europe-west1.run.app/faq",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s4",
+      "label": "Site officiel, Contact & Accès",
+      "url": "https://orelax-379687720214.europe-west1.run.app/contact",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s5",
+      "label": "Site officiel, rubrique BDSM : règles, guide pour novices, galerie et équipements",
+      "url": "https://orelax-379687720214.europe-west1.run.app/bdsm/regles",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s6",
+      "label": "Site officiel, galerie « Notre Ambiance » (23 photos regardées le 20/10/2026)",
+      "url": "https://orelax-379687720214.europe-west1.run.app/gallery",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s7",
+      "label": "Site officiel, mentions légales (SAS L'ôX, SIREN 838 450 583)",
+      "url": "https://orelax-379687720214.europe-west1.run.app/legal",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s8",
+      "label": "Site officiel, sitemap et redirection du domaine orelax.fr",
+      "url": "https://orelax-379687720214.europe-west1.run.app/sitemap.xml",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s9",
+      "label": "Wayback Machine, historique des captures de orelax.fr (2012-2026)",
+      "url": "https://web.archive.org/cdx/search/cdx?url=orelax.fr&fl=timestamp,statuscode&collapse=timestamp:6",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s10",
+      "label": "Site officiel, page d'accueil archivée le 08/12/2024",
+      "url": "https://web.archive.org/web/20241208163936/https://www.orelax.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s11",
+      "label": "Site officiel, affiche « Horaires d'ouvertures » de novembre 2024 (archive)",
+      "url": "https://web.archive.org/web/2024/https://www.orelax.fr/wp-content/uploads/2024/11/4c55732f-63f8-49d0-86b2-a585e48456f6-480x678.jpg",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s12",
+      "label": "Site officiel, affiche « Journée gays tous les mercredi » de novembre 2024 (archive)",
+      "url": "https://web.archive.org/web/2024/https://www.orelax.fr/wp-content/uploads/2024/11/07aa4e7e-8614-4988-847c-2649755756e5-480x679.jpg",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s13",
+      "label": "Site officiel, affiche « Glory Cube » de juillet 2024 (archive)",
+      "url": "https://web.archive.org/web/20241208163936/https://www.orelax.fr/wp-content/uploads/2024/07/04f8e67a-6cc4-46e2-b7b1-76e3c9d300f0-980x1385.jpg",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s14",
+      "label": "Site officiel, page d'accueil archivée le 19/03/2025",
+      "url": "https://web.archive.org/web/20250319064542/https://www.orelax.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s15",
+      "label": "Site officiel, page tarifs archivée le 20/08/2019",
+      "url": "https://web.archive.org/web/20190820204655/https://www.orelax.fr/tarif/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s16",
+      "label": "Site officiel, page « La ch'ti hétéro » archivée le 20/08/2019",
+      "url": "https://web.archive.org/web/20190820204011/https://www.orelax.fr/sauna-gay-hetero-et-libertin-lox-chti-hetero/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s17",
+      "label": "Site officiel, image des tarifs de 2016 (archive)",
+      "url": "https://web.archive.org/web/20160323061436/http://www.orelax.fr/sauna/images/2016/tarif.png",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s18",
+      "label": "Annuaire des entreprises, L'O.X (O'RELAX), SIREN 838 450 583",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/838450583",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s19",
+      "label": "Annuaire des entreprises, société exploitant l'établissement de l'adresse de 2012 à 2018 (SIREN 539 668 541)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/539668541",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s20",
+      "label": "SNEG & Co, fiche « O Relax » (2017)",
+      "url": "https://www.snegandco.fr/orelax/",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s21",
+      "label": "Minuit Libertin, « O'Relax à Lens » (mis à jour le 24/09/2026)",
+      "url": "https://minuitlibertin.com/orelax-a-lens/",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s23",
+      "label": "GoWork, « Avis sur O RELAX Lens » (avis non vérifiés, 2022-2026)",
+      "url": "https://gowork.fr/o-relax-lens",
+      "type": "avis",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s24",
+      "label": "Petit Futé, « Sauna O Relax » (texte non daté, ancien)",
+      "url": "https://www.petitfute.com/v27080-lens-62300/c9998-coquin/c1044-s-amuser-sortir/c208-sauna/1566569-sauna-o-relax.html",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s25",
+      "label": "sauna-info.com, « Sauna à Lens »",
+      "url": "https://sauna-info.com/ville/lens_62300/",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s26",
+      "label": "Gatlass, « O'relax, Lens »",
+      "url": "https://gatlass.com/place/361/orelax/lens",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s27",
+      "label": "G.Cruising, « Sauna O'RELAX Lens »",
+      "url": "https://fr.gcruising.com/lieu-drague/2956,sauna-o'relax-lens",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s28",
+      "label": "OnVaSortir Lille, sortie « soirée années 80 » du jeudi 30/03/2023",
+      "url": "https://lille.onvasortir.com/sauna-o-039relax-lens-soiree-annees-80-6007751.html",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s30",
+      "label": "Minuit Libertin, « Clubs échangistes du Pas-de-Calais » (mis à jour le 03/08/2026)",
+      "url": "https://minuitlibertin.com/trouvez-un-club-echangiste-dans-le-pas-de-calais-62/",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s31",
+      "label": "Site officiel d'O'Pulsions, club libertin à Hénin-Beaumont",
+      "url": "https://www.opulsions.com/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s32",
+      "label": "Site officiel, page Événements et affiche de la soirée Halloween des 29 et 30 octobre 2026 (« pack anti-crise », bloc « Nos Partenaires »)",
+      "url": "https://orelax-379687720214.europe-west1.run.app/events",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s33",
+      "label": "Site officiel, page d'accueil rendue dans un navigateur : quatre avis Google reproduits par le club",
+      "url": "https://orelax-379687720214.europe-west1.run.app/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s35",
+      "label": "BODACC, annonces de L'O.X (SIREN 838 450 583) : création en 2018, fonds d'origine « Création », objet social",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales/?q.registre=search(registre,%22838450583%22)",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s36",
+      "label": "BODACC, annonces de la société exploitant l'adresse de 2012 à 2018 (SIREN 539 668 541) : début d'activité le 15/02/2012",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales/?q.registre=search(registre,%22539668541%22)",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s38",
+      "label": "AFNIC, données d'enregistrement du domaine orelax.fr (créé le 14/02/2012)",
+      "url": "https://rdap.nic.fr/domain/orelax.fr",
+      "type": "autre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s40",
+      "label": "G.Cruising, « Lens, nouveau sauna O'Relax. » (texte non daté de l'ouverture)",
+      "url": "https://gcruising.com/cruising-spot/2991,lens-nouveau-sauna-o'relax.",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s43",
+      "label": "h2o-saunapourlui.fr, « Sauna gay Lens (62300) : Top 5 adresses en 2026 » (note relayée, plateforme non précisée)",
+      "url": "https://www.h2o-saunapourlui.fr/saunas-gay/pas-de-calais/lens/",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s44",
+      "label": "lieuxlibertins.fr, « Clubs libertins à Lens » (note relayée, non datée)",
+      "url": "https://lieuxlibertins.fr/lens/club-libertin/",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s47",
+      "label": "Site officiel d'O'Labyrinte, sex-shop avec sous-sol de rencontre à Lens",
+      "url": "https://www.olabyrinte.com/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s50",
+      "label": "BODACC A, liquidation judiciaire de TOVA SAUNA (SaunAmusez Vous, Béthune) ouverte le 30/09/2015",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A201501992450",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s51",
+      "label": "Site officiel, page Services : espaces, jacuzzi et sauna chiffrés, tenue, carte du bar",
+      "url": "https://orelax-379687720214.europe-west1.run.app/services",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    }
+  ],
+  "glance": [
+    {
+      "icon": "calendar",
+      "label": "Ouvert",
+      "value": "Mar.-jeu. et dim. dès 14 h ; ven. 20 h-1 h"
+    },
+    {
+      "icon": "euro",
+      "label": "Entrée",
+      "value": "Couple 35 € · homme 40 € · femme gratuite"
+    },
+    {
+      "icon": "users",
+      "label": "Mercredi",
+      "value": "Journée gay, hommes uniquement, 30 €"
+    },
+    {
+      "icon": "sparkles",
+      "label": "Halloween 2026",
+      "value": "Jeu. 29 et ven. 30 oct. ; cocktails à 5 €"
+    },
+    {
+      "icon": "lock",
+      "label": "Donjon BDSM",
+      "value": "1er étage : croix, pilori, espace médical"
+    },
+    {
+      "icon": "history",
+      "label": "À cette adresse depuis",
+      "value": "Février 2012 ; exploitant actuel depuis 2018"
+    }
+  ],
+  "audience": [
+    {
+      "who": "couples",
+      "status": "oui",
+      "detail": "Mardi, jeudi et dimanche dès 14 h, vendredi 20 h-1 h ; une boisson sans alcool chacun",
+      "price": "35 €"
+    },
+    {
+      "who": "femmes",
+      "status": "selon",
+      "detail": "Mardi, jeudi, vendredi et dimanche, « sous réserve de la direction » ; pas le mercredi",
+      "price": "Gratuit"
+    },
+    {
+      "who": "hommes",
+      "status": "selon",
+      "detail": "40 € mardi, jeudi et dimanche ; 30 € le mercredi (journée gay) ; refusés le vendredi",
+      "price": "30 à 40 €"
+    }
+  ],
+  "highlights": [
+    "Le vendredi soir (20 h-1 h) est réservé aux couples et aux femmes seules : un homme seul n'y est pas admis.",
+    "Le mercredi, de 14 h à 19 h, seuls les hommes entrent (journée gay à 30 €) : couples et femmes viennent un autre jour.",
+    "Aucun téléphone sur le site de 2026 : pour une question, écrivez à orelax.lens62300@gmail.com ou passez par le formulaire.",
+    "En 2024-2025, le site prévenait que l'entrée pouvait être filtrée après 19 h ; un client dit avoir été refoulé le 5 mars 2026.",
+    "Garez-vous devant le stade Léo-Lagrange, en face ; le site signale aussi un parking privé, disponible surtout si vous arrivez tôt."
+  ]
+}

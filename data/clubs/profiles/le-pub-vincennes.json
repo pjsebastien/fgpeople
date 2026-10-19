@@ -1,0 +1,592 @@
+{
+  "slug": "le-pub-vincennes",
+  "clubId": "280",
+  "researchedAt": "2026-10-20",
+  "display": {
+    "nom": "Le Pub",
+    "ville": "Vincennes"
+  },
+  "status": {
+    "value": "ferme",
+    "summary": "Le BODACC du 10 février 2008 publie la radiation de l'exploitant du Pub, qui avait déclaré cesser son activité le 21 novembre 2007 ; l'INSEE enregistre la fermeture de l'établissement dès le 31 octobre. Depuis, plus aucun bar ni club n'est inscrit au registre au 43 avenue du Petit-Parc.",
+    "sources": [
+      "s6",
+      "s7",
+      "s9"
+    ]
+  },
+  "seo": {
+    "title": "Le Pub à Vincennes : fermé fin 2007, les clubs libertins voisins",
+    "metaDescription": "Club échangiste visité par France Inter en 1996, Le Pub de Vincennes a cessé fin 2007 (INSEE, BODACC). Son histoire et les lieux actifs du 94 en 2026.",
+    "subtitle": "Ancien club échangiste du 43 avenue du Petit-Parc, à Vincennes (94), attesté dès 1996 et fermé fin 2007",
+    "targetQueries": [
+      "club libertin vincennes",
+      "le pub vincennes",
+      "club échangiste vincennes",
+      "libertin vincennes",
+      "club libertin val-de-marne",
+      "club libertin 94",
+      "43 avenue du petit parc vincennes"
+    ]
+  },
+  "lead": "Le Pub, au 43 avenue du Petit-Parc selon les annuaires, est le seul club échangiste de Vincennes dont nous ayons retrouvé la trace : France Inter y a consacré un reportage diffusé le 25 octobre 1996. Sa dernière exploitation, déclarée comme restaurant, a cessé fin 2007 et a été radiée au BODACC en février 2008. Ses horaires et ses prix n'ont jamais été publiés.",
+  "keyFacts": [
+    {
+      "label": "Statut",
+      "value": "Fermé fin 2007 (31/10 selon l'INSEE, 21/11 selon la déclaration au RCS)",
+      "confidence": "confirme",
+      "sources": [
+        "s6",
+        "s7"
+      ]
+    },
+    {
+      "label": "Adresse",
+      "value": "43 avenue du Petit-Parc, 94300 Vincennes",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s7",
+        "s10"
+      ]
+    },
+    {
+      "label": "Club échangiste attesté par",
+      "value": "Un reportage de France Inter diffusé le 25/10/1996, puis l'annuaire sauna-club-libertin.com de 2007 à 2026",
+      "confidence": "confirme",
+      "sources": [
+        "s21",
+        "s23",
+        "s24",
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "label": "Dernier exploitant",
+      "value": "Entreprise individuelle, nom commercial « Le Pub », créée le 20/11/1999, inscrite au RCS de Créteil",
+      "confidence": "confirme",
+      "sources": [
+        "s6",
+        "s7"
+      ]
+    },
+    {
+      "label": "Avant novembre 1999",
+      "value": "Un restaurant exploité au n° 43 jusqu'au 30/09/1999, probablement déjà Le Pub (déduit du reportage de 1996)",
+      "confidence": "a_verifier",
+      "sources": [
+        "s8",
+        "s21"
+      ]
+    },
+    {
+      "label": "Activité déclarée",
+      "value": "Restauration de type traditionnel (NAF 55.3A), sans salarié",
+      "confidence": "source_unique",
+      "sources": [
+        "s6"
+      ]
+    },
+    {
+      "label": "Téléphone donné par l'annuaire",
+      "value": "01 43 28 77 79, aucun abonné listé en octobre 2026",
+      "confidence": "source_unique",
+      "sources": [
+        "s1",
+        "s11"
+      ]
+    },
+    {
+      "label": "Site officiel",
+      "value": "Aucun connu, jamais référencé",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s4"
+      ]
+    },
+    {
+      "label": "Au n° 43 aujourd'hui",
+      "value": "Ni bar, ni restaurant, ni club au registre",
+      "confidence": "confirme",
+      "sources": [
+        "s9",
+        "s18"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "reportage-france-inter-1996",
+      "title": "Octobre 1996 : Là-bas si j'y suis visite Le Pub, « club modeste » de Vincennes",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le 25 octobre 1996, Là-bas si j'y suis, l'émission quotidienne de Daniel Mermet sur France Inter, diffuse un reportage d'Anne Riou annoncé comme la visite d'un club échangiste, « Le Pub » à Vincennes. Il est rediffusé en décembre 2004 et en mai 2011."
+        },
+        {
+          "kind": "text",
+          "body": "En juillet 2018, Là-bas le remet en ligne pour sa série d'été « Les Sexplorateurs » : [l'émission de 45 minutes s'écoute en accès libre](https://la-bas.org/la-bas-magazine/reportages/les-sexplorateurs-bienvenue-au-club-echangiste-1-7). Sa présentation y voit un « club modeste », loin du « club chic » : seule description du lieu trouvée."
+        },
+        {
+          "kind": "text",
+          "body": "Le reportage précède de trois ans la création de la dernière entreprise exploitante, en novembre 1999 : le club existait avant elle. La page de l'émission ne donne pas d'adresse ; celle du Petit-Parc vient des annuaires. Le registre n'y voyait qu'un restaurant (NAF 55.3A) sans salarié."
+        }
+      ],
+      "sources": [
+        "s21",
+        "s22",
+        "s23",
+        "s24",
+        "s1",
+        "s2",
+        "s6"
+      ],
+      "confidence": "confirme",
+      "icon": "history",
+      "summary": "Le 25 octobre 1996, Là-bas si j'y suis (France Inter) diffuse un reportage d'Anne Riou au Pub, remis en ligne jusqu'en 2018 : la seule source hors annuaires qui le dit échangiste."
+    },
+    {
+      "id": "fermeture-fin-2007",
+      "title": "Fermé fin 2007, radié en février 2008 : onze ans d'activité attestée depuis 1996",
+      "blocks": [
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "25/10/1996",
+              "text": "France Inter diffuse le reportage de Là-bas si j'y suis sur le club échangiste « Le Pub »."
+            },
+            {
+              "date": "Jusqu'au 30/09/1999",
+              "text": "Un entrepreneur individuel exploite un restaurant au n° 43 : probablement déjà Le Pub, sans preuve au registre."
+            },
+            {
+              "date": "20/11/1999",
+              "text": "Création de l'entreprise individuelle au nom commercial « Le Pub » (RCS de Créteil). Reprise du fonds précédent probable, non prouvée."
+            },
+            {
+              "date": "03/03/2007",
+              "text": "Plus ancienne capture de sa fiche « club libertin » sur sauna-club-libertin.com, dont la liste du Val-de-Marne compte trois lieux."
+            },
+            {
+              "date": "31/10/2007",
+              "text": "Fermeture de l'établissement au répertoire SIRENE ; la cessation déclarée au RCS est datée du 21/11/2007."
+            },
+            {
+              "date": "10/02/2008",
+              "text": "Radiation publiée au BODACC sous le nom commercial « LE PUB »."
+            },
+            {
+              "date": "2009-2026",
+              "text": "Encore listé par club-echangiste.net (2009-2021), L'Anneau de Justine (2010) et sauna-club-libertin.com (2026)."
+            }
+          ]
+        },
+        {
+          "kind": "table",
+          "caption": "Ce que montrent nos vérifications d'octobre 2026",
+          "headers": [
+            "Source",
+            "Constat"
+          ],
+          "rows": [
+            [
+              "PagesJaunes, minuitlibertin, Sauna Club Le Bali",
+              "Le Pub absent de leurs listes du Val-de-Marne"
+            ],
+            [
+              "club-echangiste.net (archive de 2021)",
+              "Vingt-deux messages, presque tous sur les horaires, les prix ou l'entrée, sans réponse"
+            ]
+          ]
+        }
+      ],
+      "sources": [
+        "s1",
+        "s2",
+        "s3",
+        "s5",
+        "s6",
+        "s7",
+        "s8",
+        "s9",
+        "s11",
+        "s12",
+        "s13",
+        "s14",
+        "s21",
+        "s25",
+        "s26"
+      ],
+      "confidence": "confirme",
+      "icon": "closed",
+      "summary": "Attesté dès octobre 1996, Le Pub déclare cesser le 21 novembre 2007 (31 octobre selon l'INSEE) ; radiation au BODACC le 10 février 2008, plus aucun bar ni club au n° 43."
+    },
+    {
+      "id": "glorys-et-hyppocampe",
+      "title": "Le Glory's à 4,5 km, L'Hyppocampe à 6,6 km : les deux voisins actifs en octobre 2026",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le lieu actif le plus proche est [Le Glory's, rue des Bleuets à Créteil](/le-glory-s-creteil), à environ 4,5 km : non pas un club échangiste, mais un bar avec loveshop et un espace rencontres (salle vidéo, glory holes) à 10-20 €, ouvert à tous les publics. Son agenda annonce huit rendez-vous du 20 au 30 octobre 2026."
+        },
+        {
+          "kind": "text",
+          "body": "À environ 6,6 km, [L'Hyppocampe, à Saint-Maur-des-Fossés](/hippocampe-saint-maur-libertin) affiche sur son site six soirées pour octobre 2026."
+        },
+        {
+          "kind": "list",
+          "title": "Deux adresses plus proches, sans activité libertine vérifiée",
+          "items": [
+            "[Ray et Maya, 19 avenue Quihou à Saint-Mandé](/ray-et-maya-saint-mande), à 1,1 km : site réduit à un avertissement non daté ; au registre, un seul débit de boissons, le « Da Vinci Club », bar à chicha selon un annuaire.",
+            "Les Bains Montansier, sauna gay du 7 rue de Montreuil, à Vincennes : exploitation cessée en septembre 2019, domaine montansier.fr à vendre."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Pour ne pas pousser seul ou seule la porte d'un club lors d'une première soirée, vous pouvez [trouver à Vincennes ou Saint-Mandé un couple qui vous accompagne](aff:carre-libertin) sur Carré Libertin, ouvert en 2007 : femmes et couples y ont l'accès complet gratuit, avec trois photos de profil."
+        }
+      ],
+      "sources": [
+        "s10",
+        "s16",
+        "s17",
+        "s19",
+        "s20",
+        "s27",
+        "s28",
+        "s29",
+        "s30",
+        "s31",
+        "s32",
+        "s33"
+      ],
+      "icon": "heart",
+      "summary": "Le Glory's (≈ 4,5 km) annonce huit rendez-vous du 20 au 30 octobre 2026, L'Hyppocampe (≈ 6,6 km) six soirées ; Ray et Maya et les Bains Montansier n'ont pas d'activité vérifiée."
+    },
+    {
+      "id": "homonymes",
+      "title": "Le Pub du Perreux, le Pub du Stade, l'Aloha Pub : trois homonymes sans lien",
+      "blocks": [
+        {
+          "kind": "list",
+          "items": [
+            "Le Pub, restaurant du 12 place Robert-Belvaux au Perreux-sur-Marne, actif depuis 2014 ;",
+            "Le Pub du Stade, 29 rue de la Liberté à Vincennes, ouvert de 2009 à 2011 ;",
+            "Aloha Pub, restaurant du 17 rue Clément-Viénot à Vincennes, de 2004 à 2009."
+          ]
+        }
+      ],
+      "sources": [
+        "s15"
+      ],
+      "confidence": "confirme",
+      "icon": "info",
+      "summary": "Le Pub du Perreux-sur-Marne (restaurant actif), le Pub du Stade et l'Aloha Pub de Vincennes (fermés) n'ont aucun lien connu avec le Petit-Parc."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Y a-t-il un club libertin à Vincennes ?",
+      "answer": "Pas à notre connaissance en octobre 2026 : Le Pub a cessé fin 2007, et l'exploitation du sauna gay Bains Montansier, rue de Montreuil, est fermée au registre depuis septembre 2019. Les lieux du département sont réunis sur [notre page Val-de-Marne](/departement/val-de-marne)."
+    },
+    {
+      "question": "Comment faire des rencontres libertines depuis Vincennes, sans club dans la ville ?",
+      "answer": "Pour [voir combien de profils vérifiés compte l'est parisien](aff:gleese), Gleese, site français ouvert fin 2024, permet de créer un compte sans carte bancaire ; chaque inscrit valide son téléphone et les photos sont modérées à la main. Son volume reste inférieur à celui des sites plus anciens : jugez la densité locale par vous-même."
+    },
+    {
+      "question": "Le Pub était-il vraiment un club échangiste ?",
+      "answer": "Oui : France Inter l'a présenté comme tel dès octobre 1996, dans un reportage de Là-bas si j'y suis, et un annuaire spécialisé le classe « club libertin » depuis 2007 au moins. Le registre ne déclarait qu'un restaurant."
+    },
+    {
+      "question": "Quels étaient les horaires et les tarifs du Pub ?",
+      "answer": "Jamais publiés : la vingtaine de questions laissées sur club-echangiste.net de 2009 à 2021 (quel soir, combien, qui entre) est restée sans réponse. Le reportage de 1996, que nous n'avons pas pu écouter, en dit peut-être plus. Pour un club ouvert, voyez [l'agenda qui donne date, thème et souvent conditions d'entrée des soirées](aff:wyylde), consultable avec un compte gratuit sur Wyylde."
+    },
+    {
+      "question": "Où trouver une soirée libertine près de Vincennes ce mois-ci ?",
+      "answer": "L'Hyppocampe et Le Glory's publient leur programme d'octobre 2026 ; les autres lieux de la région figurent sur [notre page Île-de-France](/region/ile-de-france)."
+    }
+  ],
+  "unverified": [
+    "Le contenu du reportage de 1996 (public, prix, salles, ambiance décrite) : l'enregistrement est en ligne, mais nous n'avons pas pu l'écouter.",
+    "L'adresse et l'exploitant du Pub en 1996 : la page de l'émission ne donne pas d'adresse, et rien ne prouve que le restaurant du n° 43 fermé en septembre 1999 était déjà Le Pub.",
+    "L'âge du club : un commentaire d'auditeur publié en 2018 évoque « un club qui a vingt ans » au moment du reportage, ce qui le ferait remonter aux années 1970 ; non vérifié.",
+    "Horaires, tarifs, public admis et aménagement : jamais publiés, même par les annuaires.",
+    "Souvenirs d'anciens clients et presse locale : ni avis public, ni article du Parisien trouvés en octobre 2026.",
+    "L'activité actuelle de Ray et Maya, à Saint-Mandé, et une éventuelle reprise des Bains Montansier après 2019 (aucune trouvée au registre)."
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "sauna-club-libertin.com, fiche « LE PUB - [ club libertin ] » (id 280)",
+      "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_3.php?id=280&d=94",
+      "type": "annuaire",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s2",
+      "label": "sauna-club-libertin.com, même fiche, archive du 03/03/2007",
+      "url": "https://web.archive.org/web/20070303010111/http://www.sauna-club-libertin.com:80/sauna_club_libertin_3.php?id=280&d=",
+      "type": "annuaire",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s3",
+      "label": "sauna-club-libertin.com, même fiche, archive du 30/10/2013",
+      "url": "https://web.archive.org/web/20131030080809/http://www.sauna-club-libertin.com:80/v2/sauna_club_libertin_3.php?id=280&d=",
+      "type": "annuaire",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s4",
+      "label": "Wayback Machine, historique des captures de la fiche (2007-2024)",
+      "url": "https://web.archive.org/cdx/search/cdx?url=sauna-club-libertin.com&matchType=domain&to=2013&filter=original:.*id=280.*",
+      "type": "autre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s5",
+      "label": "sauna-club-libertin.com, liste du Val-de-Marne, archive du 13/10/2007",
+      "url": "https://web.archive.org/web/20071013200754/http://sauna-club-libertin.com:80/sauna_club_libertin_2.php?d=94",
+      "type": "annuaire",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s6",
+      "label": "Annuaire des entreprises, entreprise individuelle au nom commercial « LE PUB »",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/425136942",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s7",
+      "label": "BODACC B du 10/02/2008, radiation (greffe du tribunal de commerce de Créteil)",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:B200800264664",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s8",
+      "label": "Annuaire des entreprises, exploitant précédent au 43 avenue du Petit Parc",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/747043354",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s9",
+      "label": "Registre des entreprises, entités enregistrées au 43 avenue du Petit Parc",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=43%20avenue%20du%20petit%20parc&code_postal=94300",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s10",
+      "label": "Base Adresse Nationale, 43 avenue du Petit-Parc, Vincennes",
+      "url": "https://api-adresse.data.gouv.fr/search/?q=43+avenue+du+petit+parc+vincennes",
+      "type": "carte",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s11",
+      "label": "PagesJaunes, annuaire inversé pour le 01 43 28 77 79",
+      "url": "https://www.pagesjaunes.fr/annuaireinverse/recherche?quoiqui=0143287779",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s12",
+      "label": "PagesJaunes, rubrique « clubs libertins » du Val-de-Marne",
+      "url": "https://www.pagesjaunes.fr/annuaire/departement/val-de-marne-94/clubs-libertins",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s13",
+      "label": "minuitlibertin.com, clubs échangistes du Val-de-Marne (mise à jour du 03/08/2026)",
+      "url": "https://minuitlibertin.com/trouvez-un-club-echangiste-dans-le-val-de-marne-94/",
+      "type": "annuaire",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s14",
+      "label": "Sauna Club Le Bali, clubs libertins du Val-de-Marne (21/04/2026)",
+      "url": "https://www.saunaclublebali.fr/clubs-libertins-val-de-marne-94/",
+      "type": "annuaire",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s15",
+      "label": "Registre des entreprises, établissements « Pub » du Val-de-Marne",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=le%20pub&departement=94",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s16",
+      "label": "Registre des entreprises, entités au 19 avenue Quihou, Saint-Mandé",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=19%20avenue%20quihou&code_postal=94160",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s17",
+      "label": "raymaya.free.fr, site lié à Ray et Maya dans notre base",
+      "url": "http://raymaya.free.fr/",
+      "type": "autre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s18",
+      "label": "OpenStreetMap, données autour du 43 avenue du Petit-Parc",
+      "url": "https://www.openstreetmap.org/#map=19/48.841749/2.428346",
+      "type": "carte",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s19",
+      "label": "L'Hyppocampe, site officiel, « Evènements du mois »",
+      "url": "https://www.hyppocampe.net/évènements-libertins",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s20",
+      "label": "Annuaire des entreprises, société à l'enseigne « LE GLORY'S », Créteil",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/985151471",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s21",
+      "label": "Là-bas si j'y suis, « Le club échangiste », rediffusion du 24/05/2011 (« première diffusion le 25 octobre 1996 »)",
+      "url": "https://la-bas.org/la-bas-magazine/les-archives-radiophoniques/2010-11/mai/le-club-echangiste-2188",
+      "type": "presse",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s22",
+      "label": "Là-bas si j'y suis, « Le club échangiste », page du 28/12/2004",
+      "url": "https://la-bas.org/la-bas-magazine/les-archives-radiophoniques/2004-05/decembre-83/Le-club-echangiste",
+      "type": "presse",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s23",
+      "label": "Là-bas si j'y suis, « Les Sexplorateurs : bienvenue au club échangiste (1/7) », 09/07/2018",
+      "url": "https://la-bas.org/la-bas-magazine/reportages/les-sexplorateurs-bienvenue-au-club-echangiste-1-7",
+      "type": "presse",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s24",
+      "label": "Wikipédia, « Là-bas si j'y suis » (émission de France Inter, 1989-2014)",
+      "url": "https://fr.wikipedia.org/wiki/L%C3%A0-bas_si_j%27y_suis",
+      "type": "autre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s25",
+      "label": "club-echangiste.net, fiche « LE PUB » et ses messages (archives du 31/08/2009 et du 12/04/2021)",
+      "url": "https://web.archive.org/web/20210412005407/http://club-echangiste.net/le-pub-70.html",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s26",
+      "label": "L'Anneau de Justine, « Liste des établissements libertins en France » (novembre 2010)",
+      "url": "https://www.anneaudejustine.com/2010/11/liste-des-etablissements-libertins-en-france/",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s27",
+      "label": "Annuaire des entreprises, exploitant à l'enseigne « BAINS MONTANSIER », 7 rue de Montreuil, Vincennes",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/520860479",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s28",
+      "label": "BODACC B du 05/03/2020, radiation de l'exploitant des Bains Montansier (greffe de Créteil)",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:B202000465879",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s29",
+      "label": "montansier.fr, ancien domaine des Bains Montansier, mis en vente",
+      "url": "https://montansier.fr/",
+      "type": "autre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s30",
+      "label": "Spartacus, fiche « Bains Montansier » (sauna gay, non datée)",
+      "url": "https://spartacus.gayguide.travel/saunas/paris/2729_Bains+Montansier",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s31",
+      "label": "chicha.com, fiche « Da Vinci Club », 19 avenue Quihou, Saint-Mandé",
+      "url": "https://www.chicha.com/store/da-vinci-club/",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s32",
+      "label": "lieuxdedrague.fr, page « Le Glory's » tenue par l'exploitant (agenda d'octobre 2026)",
+      "url": "https://lieuxdedrague.fr/lieu-de-drague/le-glory-s-bar-a-gloryholes-cruising-loveshop-a-creteil-94/49994",
+      "type": "reseau_social",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s33",
+      "label": "Le Glory's, site officiel (espaces, horaires, tarifs)",
+      "url": "https://leglorys.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    }
+  ],
+  "glance": [
+    {
+      "icon": "closed",
+      "label": "Fermé",
+      "value": "Fin 2007, radié au BODACC en février 2008"
+    },
+    {
+      "icon": "history",
+      "label": "Activité attestée",
+      "value": "D'octobre 1996 à fin 2007"
+    },
+    {
+      "icon": "info",
+      "label": "Club échangiste",
+      "value": "Reportage France Inter d'octobre 1996"
+    },
+    {
+      "icon": "map",
+      "label": "Ancienne adresse",
+      "value": "43 avenue du Petit-Parc, Vincennes"
+    },
+    {
+      "icon": "building",
+      "label": "Au n° 43 en 2026",
+      "value": "Ni bar ni club inscrit au registre"
+    },
+    {
+      "icon": "heart",
+      "label": "Voisins actifs en 2026",
+      "value": "Le Glory's 4,5 km · L'Hyppocampe 6,6 km"
+    }
+  ],
+  "highlights": [
+    "Le Pub a cessé son activité fin 2007 : depuis, aucun bar ni club n'est inscrit au registre au 43 avenue du Petit-Parc.",
+    "Le 01 43 28 77 79, encore recopié par un annuaire, n'avait aucun abonné listé dans l'annuaire inversé PagesJaunes en octobre 2026.",
+    "À Vincennes même, plus de lieu libertin connu : l'exploitation du sauna gay Bains Montansier, rue de Montreuil, est fermée au registre depuis septembre 2019.",
+    "Lieux actifs les plus proches en octobre 2026 : Le Glory's à Créteil (≈ 4,5 km) et L'Hyppocampe à Saint-Maur-des-Fossés (≈ 6,6 km).",
+    "Le Pub du Perreux-sur-Marne, restaurant actif depuis 2014, est un homonyme sans lien connu avec le libertinage."
+  ]
+}

@@ -1,0 +1,661 @@
+{
+  "slug": "l-only-us-ales",
+  "clubId": "new-l-only-us-ales",
+  "researchedAt": "2026-10-20",
+  "display": {
+    "nom": "L'Only-US",
+    "ville": "Alès"
+  },
+  "status": {
+    "value": "ouvert",
+    "summary": "Une « Soirée Halloween » le vendredi 30 octobre 2026, son « remake » le lendemain et des après-midi programmés jusqu'au dimanche 15 novembre : l'agenda officiel lu le 20/10/2026 est daté et rempli. NHALA BLUE, la société exploitante, est active au registre (mise à jour du 19/10/2026) et PagesJaunes affiche des avis publiés jusqu'en avril 2026.",
+    "sources": [
+      "s2",
+      "s6",
+      "s7",
+      "s9"
+    ]
+  },
+  "seo": {
+    "title": "L'Only-US, club libertin et sauna à Alès : tarifs et agenda",
+    "metaDescription": "Route d'Uzès à Alès, du mardi au dimanche : sauna, hammam et jacuzzis, femmes invitées, couple 25 à 30 €, homme seul 30 à 50 € selon le créneau.",
+    "subtitle": "Club libertin avec sauna, hammam et jacuzzis, ouvert l'après-midi et le soir à Alès (30)",
+    "targetQueries": [
+      "club libertin ales",
+      "club echangiste ales",
+      "libertine ales",
+      "sauna libertin ales",
+      "only us ales"
+    ]
+  },
+  "lead": "Dix rendez-vous par semaine, du mardi au dimanche, autour d'un sauna, d'un hammam et de jacuzzis : à Alès, L'Only-US enchaîne la plupart des jours un après-midi (14 h-19 h) et une soirée (20 h 30-1 h). Couples, femmes, hommes seuls et personnes travesties entrent à chaque date ; les femmes seules sont invitées, un homme seul paie de 30 à 50 €. Sa société exploitante a déclaré un début d'activité en juin 2025 et son agenda est daté jusqu'au 15 novembre 2026.",
+  "glance": [
+    {
+      "icon": "calendar",
+      "label": "Ouvert",
+      "value": "Du mardi au dimanche, dès 14 h"
+    },
+    {
+      "icon": "euro",
+      "label": "Entrée couple",
+      "value": "25 € · 30 € ven.-sam. soir et dimanche",
+      "confidence": "source_unique"
+    },
+    {
+      "icon": "users",
+      "label": "Homme seul",
+      "value": "30 à 50 € selon le créneau",
+      "confidence": "source_unique"
+    },
+    {
+      "icon": "heart",
+      "label": "Femmes seules",
+      "value": "Invitées à chaque date"
+    },
+    {
+      "icon": "spa",
+      "label": "Balnéo",
+      "value": "Sauna, hammam et jacuzzis"
+    },
+    {
+      "icon": "history",
+      "label": "Depuis",
+      "value": "Juin 2025 (début d'activité déclaré)",
+      "confidence": "source_unique"
+    }
+  ],
+  "audience": [
+    {
+      "who": "couples",
+      "status": "oui",
+      "detail": "Admis à toutes les dates, après-midi comme soirées",
+      "price": "25 à 30 €"
+    },
+    {
+      "who": "femmes",
+      "status": "oui",
+      "detail": "« Invitées » à chaque date : aucun prix d'entrée affiché"
+    },
+    {
+      "who": "hommes",
+      "status": "oui",
+      "detail": "Admis à chaque date ; 50 € le vendredi et samedi soir et le dimanche",
+      "price": "30 à 50 €"
+    },
+    {
+      "who": "trans",
+      "status": "oui",
+      "detail": "Personnes travesties admises à toutes les dates, tarif unique",
+      "price": "20 €"
+    }
+  ],
+  "highlights": [
+    "Le mercredi, le club ferme à 19 h : un seul rendez-vous, l'après-midi « Pluralité », sans soirée.",
+    "Le dimanche, une séance continue de 14 h à 22 h, facturée comme une soirée de week-end : 50 € pour un homme seul, 30 € pour un couple.",
+    "Le lundi n'apparaît ni dans les horaires ni dans l'agenda : comptez-le comme jour de fermeture et appelez en cas de doute.",
+    "Tenue propre et élégante conseillée par le club ; entrée réservée aux plus de 18 ans.",
+    "L'ancien site lonlyusclub.com, encore en ligne, affiche d'autres horaires (soirée le mercredi, dimanche jusqu'à 1 h) : fiez-vous à lonlyus.com."
+  ],
+  "keyFacts": [
+    {
+      "label": "Adresse",
+      "value": "1115 route d'Uzès, 30100 Alès",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s4",
+        "s7",
+        "s9"
+      ]
+    },
+    {
+      "label": "Société exploitante",
+      "value": "NHALA BLUE, SARL au capital de 15 000 €",
+      "confidence": "confirme",
+      "sources": [
+        "s4",
+        "s7",
+        "s8"
+      ]
+    },
+    {
+      "label": "Début d'activité",
+      "value": "1er juin 2025, selon l'annonce de création",
+      "confidence": "source_unique",
+      "sources": [
+        "s8"
+      ]
+    },
+    {
+      "label": "Jours d'ouverture",
+      "value": "Du mardi au dimanche ; lundi non mentionné",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s5"
+      ]
+    },
+    {
+      "label": "Public admis",
+      "value": "Couples, femmes, hommes seuls, personnes travesties",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "label": "Entrée homme seul",
+      "value": "30 €, 35 € ou 50 € selon le créneau",
+      "confidence": "source_unique",
+      "sources": [
+        "s3"
+      ]
+    },
+    {
+      "label": "Espace balnéo",
+      "value": "Sauna, hammam, jacuzzis",
+      "confidence": "confirme",
+      "sources": [
+        "s3",
+        "s12"
+      ]
+    },
+    {
+      "label": "Âge minimum",
+      "value": "18 ans",
+      "confidence": "source_unique",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "sauna-hammam-jacuzzis",
+      "title": "Sauna, hammam, jacuzzis : des « bains » déjà inscrits dans l'annonce de création de juin 2025",
+      "icon": "spa",
+      "summary": "Chaque fiche d'événement liste six équipements, dont un sauna, un hammam et des jacuzzis ; surface, vestiaire et stationnement ne sont décrits que par des clients.",
+      "blocks": [
+        {
+          "kind": "list",
+          "title": "Équipements affichés sur chaque date",
+          "items": [
+            "Sauna",
+            "Hammam",
+            "Jacuzzis (au pluriel, nombre non précisé)",
+            "Bar dansant",
+            "Coins câlins",
+            "Espaces couples"
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "L'annonce de création publiée au BODACC en juin 2025 décrivait déjà une activité de « sauna - hammam - bains ». Deux créneaux portent le nom de cet espace : la « Balnéo Torride » du mardi après-midi et l'« Après-midi Balnéo » du dimanche, jusqu'à 22 h."
+        },
+        {
+          "kind": "text",
+          "body": "Venir à deux à la Balnéo Torride suppose quelqu'un de libre un mardi à 14 h : vous pouvez [chercher qui partagera cet après-midi de semaine](aff:gleese) sur Gleese, site libertin français dont les photos sont modérées à la main."
+        },
+        {
+          "kind": "callout",
+          "tone": "info",
+          "title": "Vestiaire, consommations, parking : la parole des clients",
+          "body": "Un avis reproduit sur le site décrit une clé de vestiaire remise avec serviette et paréo pour la balnéo, deux consommations offertes par entrée, des abonnements à prix réduit, des planches à dîner et la possibilité de garer un camping-car à côté ou derrière le club. Un autre parle d'un stationnement facile. Le site actuel ne confirme aucun de ces points ; seule son ancienne version, sur lonlyusclub.com, associait « 2 consos » à l'entrée du vendredi, du samedi et du dimanche soir."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s3",
+        "s8",
+        "s12"
+      ]
+    },
+    {
+      "id": "nhala-blue",
+      "title": "Une SARL créée en avril 2025, un bar ajouté à son objet en août",
+      "icon": "history",
+      "summary": "NHALA BLUE, SARL au capital de 15 000 €, déclare un début d'activité au 1er juin 2025 ; la vente d'alcool et un bar café entrent dans son objet en août 2025.",
+      "blocks": [
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "25 avril 2025",
+              "text": "Création de NHALA BLUE, SARL domiciliée au 1115 route d'Uzès (code NAF 96.04Z)."
+            },
+            {
+              "date": "1er juin 2025",
+              "text": "Début d'activité déclaré au greffe de Nîmes : sauna, hammam, bains, soirées avec ambiance musicale, buffet « sans vente d'alcool »."
+            },
+            {
+              "date": "13 août 2025",
+              "text": "Modification publiée au BODACC : l'objet intègre la vente d'alcool et un « bar café »."
+            },
+            {
+              "date": "30 août 2025",
+              "text": "Dépôt du domaine lonlyusclub.com, qui porte le nom du club."
+            },
+            {
+              "date": "Février-avril 2026",
+              "text": "Agenda publié sur lonlyusclub.com, du 27 février au 17 avril."
+            },
+            {
+              "date": "Mars 2026",
+              "text": "Création des pages du site actuel (accueil le 13, contact le 23)."
+            },
+            {
+              "date": "Août 2026",
+              "text": "Dépôt du domaine lonlyus.com le 20 ; conditions d'utilisation datées du 23."
+            },
+            {
+              "date": "8 octobre 2026",
+              "text": "Dernière retouche de l'accueil et de la page contact."
+            }
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "L'annuaire fuxxy reprend encore la mention « sans vente d'alcool » de 2025, dépassée depuis la modification d'août. lonlyusclub.com reste en ligne avec une version antérieure du site : agenda arrêté au 17 avril 2026, soirée le mercredi, dimanche jusqu'à 1 h.\n\nCette ancienne version déclarait aussi femmes et personnes trans « invitées » ; le site actuel fait payer 20 € aux personnes travesties."
+        }
+      ],
+      "sources": [
+        "s4",
+        "s6",
+        "s7",
+        "s8",
+        "s11",
+        "s12",
+        "s13",
+        "s14"
+      ]
+    },
+    {
+      "id": "grille-par-creneau",
+      "title": "Femmes invitées, travestis à 20 €, hommes seuls de 30 à 50 €",
+      "icon": "euro",
+      "summary": "Les quatre publics entrent à chaque date ; seul le tarif homme varie nettement, de 30 € l'après-midi à 50 € le vendredi et le samedi soir comme le dimanche.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "La grille relevée le 20/10/2026 suit le créneau, pas le thème : Halloween, l'anniversaire du 6 novembre ou la Soirée Cadeau coûtent le prix d'un samedi ordinaire. L'écart se joue sur les hommes seuls, de 30 € l'après-midi à 50 € le vendredi et le samedi soir ; le couple passe seulement de 25 à 30 €."
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Un club « dédié aux couples et aux femmes » ?",
+          "body": "C'est ainsi que l'accueil du site présente le lieu. Sa FAQ, son agenda et sa grille disent autre chose : les hommes seuls entrent à toutes les dates. Le club conseille seulement de consulter l'agenda pour connaître « les modalités de la date choisie »."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "id": "premiere-venue",
+      "title": "Première venue : tenue soignée, 18 ans minimum et formulaire « Je participe » à chaque date",
+      "icon": "shield",
+      "summary": "Le club conseille une tenue propre et élégante et réserve l'entrée aux majeurs ; chaque date propose une inscription en ligne, sans dire qu'elle est obligatoire.",
+      "blocks": [
+        {
+          "kind": "list",
+          "items": [
+            "**Âge** : entrée réservée aux personnes majeures.",
+            "**Tenue** : le site conseille une tenue « propre, élégante », sans code vestimentaire détaillé ni liste d'interdits.",
+            "**Inscription** : chaque date porte un formulaire « Je participe à cet événement » (nom, e-mail, téléphone, catégorie d'entrée), sans dire s'il est obligatoire.",
+            "**Contact** : 06 10 39 29 37, contact@lonlyus.com ou le lien WhatsApp du site.",
+            "**« Privé et sélectif »** : le club se décrit ainsi, sans mentionner d'adhésion ni de critère de sélection."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le site conseille aux couples débutants d'en parler avant et de ne rien s'imposer. Pour ne pas arriver seuls la première fois, vous pouvez [échanger d'abord avec des couples du bassin alésien](aff:carre-libertin) sur Carré Libertin, en ligne depuis 2007, où femmes et couples ont l'accès complet sans payer."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s3",
+        "s5"
+      ]
+    },
+    {
+      "id": "avis-pagesjaunes",
+      "title": "5/5 sur PagesJaunes pour cinq avis, 47 avis Google annoncés sans note par le site",
+      "icon": "star",
+      "summary": "PagesJaunes affiche 5/5 sur cinq avis publiés d'octobre 2025 à avril 2026 ; le site revendique 47 avis Google « excellents », sans note chiffrée vérifiable.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Relevé du 20/10/2026 : 5/5 sur PagesJaunes, cinq avis publiés entre le 20/10/2025 et le 20/04/2026. Le bandeau Trustindex du site annonce « EXCELLENT, basée sur 47 avis » Google, sans note chiffrée ; la fiche Google n'a pas été consultée."
+        },
+        {
+          "kind": "text",
+          "body": "Les huit avis Google que le club affiche sur son site, sans date, reviennent surtout sur la propreté (sept sur huit), l'espace et l'accueil de l'équipe."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s9"
+      ]
+    },
+    {
+      "id": "autour-d-ales",
+      "title": "Autour d'Alès : Le Lib fermé rue Lafare, Le New Bora programmé à Castillon-du-Gard",
+      "icon": "map",
+      "summary": "Rue Lafare, Le Lib est fermé et la société de L'Orchidée a cessé en 2022 ; dans le Gard, Le New Bora et Le Diamant, à Sauve, publient des soirées datées d'octobre 2026.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Dans la même ville, [Le Lib](/le-lib-ales), au 16 bis rue Lafare, est fermé : son site n'est plus archivé après août 2010. Rue Lafare toujours, la société qui exploitait [L'Orchidée](/l-orchidee-club-ales) sous cette enseigne a cessé son activité au registre le 26 janvier 2022."
+        },
+        {
+          "kind": "text",
+          "body": "Le 20/10/2026, la rubrique « Clubs libertins » de PagesJaunes pour le Gard ne compte que deux établissements, L'Only-US et Le Love. Ce dernier y figure au 12 impasse des Garennes, à Sauve, où le site du [Diamant](/le-diamant-sauve) annonce une ouverture le samedi 10 octobre 2026."
+        },
+        {
+          "kind": "text",
+          "body": "Ailleurs dans le département, [Le New Bora](/le-new-bora-castillon-du-gard), à Castillon-du-Gard, tenait au 11/10/2026 un agenda daté, avec lui aussi Halloween les 30 et 31 octobre. Les autres adresses figurent sur la [page des clubs du Gard](/departement/gard) et sur celle des [lieux libertins d'Alès](/ville/ales)."
+        },
+        {
+          "kind": "text",
+          "body": "Pour savoir quels clubs de la région annoncent une soirée le même week-end, vous pouvez [passer en revue les week-ends gardois dans l'agenda de Wyylde](aff:wyylde). L'ex-Netéchangisme, rebaptisé en 2018, y recense des soirées de clubs avec leur date et leur thème."
+        }
+      ],
+      "sources": [
+        "s10",
+        "s15",
+        "s16"
+      ]
+    },
+    {
+      "id": "dix-rendez-vous",
+      "title": "Dix rendez-vous par semaine, de la Balnéo Torride du mardi à la soirée latino du jeudi",
+      "icon": "calendar",
+      "summary": "Du mardi au samedi, un après-midi (14 h-19 h) puis une soirée (20 h 30-1 h), sauf le mercredi, sans soirée ; le dimanche, une séance continue de 14 h à 22 h.",
+      "blocks": [
+        {
+          "kind": "table",
+          "caption": "Semaine type de l'agenda officiel (relevé du 20/10/2026)",
+          "headers": [
+            "Jour",
+            "Après-midi, 14 h-19 h",
+            "Soirée, 20 h 30-1 h"
+          ],
+          "rows": [
+            [
+              "Mardi",
+              "Balnéo Torride",
+              "Mardi Soirée Mixte"
+            ],
+            [
+              "Mercredi",
+              "Pluralité",
+              "Pas de soirée"
+            ],
+            [
+              "Jeudi",
+              "Débridé",
+              "Jeudi Soirée Latino"
+            ],
+            [
+              "Vendredi",
+              "Tentations & Plaisirs",
+              "Soirée Désir Sensuel"
+            ],
+            [
+              "Samedi",
+              "Après-midi Coquine",
+              "Soirée Sexe and Fun"
+            ],
+            [
+              "Dimanche",
+              "Après-midi Balnéo, prolongé jusqu'à 22 h",
+              "Pas de soirée"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Les fiches d'événements ne décrivent pas ces thèmes : leur titre est le seul indice du contenu."
+        },
+        {
+          "kind": "list",
+          "title": "Dates particulières de l'automne 2026",
+          "items": [
+            "Vendredi 30 octobre : « Soirée Halloween »",
+            "Samedi 31 octobre : « Soirée Remake Halloween »",
+            "Vendredi 6 novembre : soirée « Anniversaire de la Patronne »",
+            "Samedi 7 novembre : « Soirée Cadeau »"
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Au 20/10/2026, l'agenda court jusqu'au dimanche 15 novembre. Les soirées du vendredi 13 et du samedi 14 novembre n'y figurent pas encore : seuls leurs après-midi sont affichés."
+        }
+      ],
+      "sources": [
+        "s2",
+        "s3"
+      ]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Lundi": "Non mentionné (fermé, à confirmer)",
+      "Mardi": "14 h-19 h et 20 h 30-1 h",
+      "Mercredi": "14 h-19 h",
+      "Jeudi": "14 h-19 h et 20 h 30-1 h",
+      "Vendredi": "14 h-19 h et 20 h 30-1 h",
+      "Samedi": "14 h-19 h et 20 h 30-1 h",
+      "Dimanche": "14 h-22 h"
+    },
+    "note": "Horaires de la FAQ et de l'agenda officiels. Le pied de page résume « du mardi au samedi, 14 h-19 h et 20 h 30-1 h » avant de préciser que le mercredi se limite à l'après-midi. L'ancien site lonlyusclub.com affiche encore une soirée le mercredi et un dimanche jusqu'à 1 h.",
+    "confidence": "confirme",
+    "sources": [
+      "s1",
+      "s2",
+      "s5"
+    ]
+  },
+  "tarifs": {
+    "rows": {
+      "Après-midi, mardi au samedi": "Homme 30 € · couple 25 € · travesti 20 € · femme invitée",
+      "Soirée du mardi ou du jeudi": "Homme 35 € · couple 25 € · travesti 20 € · femme invitée",
+      "Soirée du vendredi ou du samedi": "Homme 50 € · couple 30 € · travesti 20 € · femme invitée",
+      "Dimanche, 14 h-22 h": "Homme 50 € · couple 30 € · travesti 20 € · femme invitée"
+    },
+    "note": "Relevé le 20/10/2026 sur les fiches d'événements de l'agenda officiel, soirées d'Halloween et des 6 et 7 novembre comprises. Le site actuel ne précise pas ce que l'entrée inclut ; son ancienne version (lonlyusclub.com) annonçait « 2 consos » avec l'entrée du vendredi, du samedi et du dimanche soir.",
+    "confidence": "source_unique",
+    "sources": [
+      "s3",
+      "s12"
+    ]
+  },
+  "equipements": [
+    "Sauna",
+    "Hammam",
+    "Jacuzzis",
+    "Bar dansant",
+    "Coins câlins",
+    "Espaces couples"
+  ],
+  "externalRatings": [
+    {
+      "platform": "PagesJaunes",
+      "rating": 5,
+      "scale": 5,
+      "count": 5,
+      "date": "2026-10-20",
+      "url": "https://www.pagesjaunes.fr/pros/64164563"
+    }
+  ],
+  "officialLinks": [
+    {
+      "label": "Site officiel",
+      "url": "https://lonlyus.com/",
+      "kind": "site"
+    },
+    {
+      "label": "Agenda des après-midi et soirées",
+      "url": "https://lonlyus.com/agenda/",
+      "kind": "agenda"
+    },
+    {
+      "label": "Contact et horaires",
+      "url": "https://lonlyus.com/contact/",
+      "kind": "autre"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Quel club libertin est ouvert à Alès ?",
+      "answer": "L'Only-US, au 1115 route d'Uzès : son agenda est daté jusqu'au 15 novembre 2026 et sa société exploitante est active au registre. Rue Lafare, Le Lib est fermé et la société qui exploitait L'Orchidée a cessé en janvier 2022."
+    },
+    {
+      "question": "Y a-t-il un sauna libertin à Alès ?",
+      "answer": "Oui : L'Only-US liste sauna, hammam et jacuzzis à chaque date, et son « Après-midi Balnéo » du dimanche dure de 14 h à 22 h."
+    },
+    {
+      "question": "Combien coûte l'entrée à L'Only-US ?",
+      "answer": "Au 20/10/2026 : couple 25 ou 30 €, homme seul 30, 35 ou 50 €, personne travestie 20 €, femmes invitées. Les montants les plus hauts valent le vendredi et le samedi soir et le dimanche. Le site actuel ne dit pas ce que l'entrée comprend ; son ancienne version annonçait deux consommations ces soirs-là."
+    },
+    {
+      "question": "Un homme seul peut-il entrer à L'Only-US ?",
+      "answer": "Oui, à toutes les dates de l'agenda, soirées d'Halloween comprises, et les personnes travesties aussi. L'homme seul reste le public qui paie le plus : 50 € le vendredi soir, le samedi soir et le dimanche."
+    },
+    {
+      "question": "Faut-il réserver avant de venir ?",
+      "answer": "Le site ne l'impose pas. Chaque date propose un formulaire « Je participe à cet événement » ; pour toute question, le club donne le 06 10 39 29 37 et l'adresse contact@lonlyus.com."
+    },
+    {
+      "question": "L'Only-US est-il ouvert le lundi ?",
+      "answer": "Le lundi n'apparaît ni dans les horaires ni dans l'agenda du club, ce qui indique une fermeture ce jour-là. Le mercredi, il ferme à 19 h."
+    }
+  ],
+  "unverified": [
+    "Le lundi est-il bien un jour de fermeture ? Le club ne le dit pas explicitement.",
+    "Que comprend l'entrée aujourd'hui ? Les « 2 consos » du vendredi au dimanche soir figurent sur l'ancien site et dans un avis, pas sur le site actuel ; vestiaire, serviette et paréo ne sont évoqués que par un client.",
+    "Existe-t-il une adhésion ou une carte de membre derrière les mots « privé et sélectif » ?",
+    "L'inscription en ligne à une date est-elle une simple annonce ou une condition d'entrée ?",
+    "Surface du club, nombre de jacuzzis, stationnement (y compris pour camping-cars) : rien n'est publié par le club.",
+    "Abonnements et planches à dîner : mentionnés par un seul avis client, sans prix.",
+    "Note Google réelle : le site annonce 47 avis sans note chiffrée ; la fiche Google n'a pas été consultée."
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "L'Only-US, site officiel : accueil, FAQ, conseils de tenue, avis reproduits",
+      "url": "https://lonlyus.com/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s2",
+      "label": "L'Only-US, site officiel : agenda du club (dates du 20 octobre au 15 novembre 2026)",
+      "url": "https://lonlyus.com/agenda/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s3",
+      "label": "L'Only-US, site officiel : fiches d'événements, équipements et tarifs (ex. Soirée Sexe and Fun du 24/10/2026)",
+      "url": "https://lonlyus.com/agenda/soiree-samedi/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s4",
+      "label": "L'Only-US, conditions générales d'utilisation (mises à jour le 23/08/2026)",
+      "url": "https://lonlyus.com/conditions-generales-dutilisation/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s5",
+      "label": "L'Only-US, page contact",
+      "url": "https://lonlyus.com/contact/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s6",
+      "label": "L'Only-US, dates de création et de modification des pages du site (API WordPress)",
+      "url": "https://lonlyus.com/wp-json/wp/v2/pages",
+      "type": "autre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s7",
+      "label": "Annuaire des entreprises : NHALA BLUE (SIREN 944 707 249)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/944707249",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s8",
+      "label": "BODACC : annonces de création (04/06/2025) et de modification (13/08/2025) de NHALA BLUE",
+      "url": "https://bodacc-datadila.opendatasoft.com/api/explore/v2.1/catalog/datasets/annonces-commerciales/records?where=registre%20like%20%22944707249%22",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s9",
+      "label": "PagesJaunes, fiche L'Only-US (note et avis)",
+      "url": "https://www.pagesjaunes.fr/pros/64164563",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s10",
+      "label": "PagesJaunes, rubrique « Clubs libertins » du Gard",
+      "url": "https://www.pagesjaunes.fr/annuaire/departement/gard-30/clubs-libertins",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s11",
+      "label": "fuxxy.fr, fiche L'Only-US (annuaire)",
+      "url": "https://fuxxy.fr/club-libertin/ales/l-only-us",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s12",
+      "label": "lonlyusclub.com, ancienne version du site au nom du club (titre, description et code public : horaires, tarifs, agenda de février-avril 2026)",
+      "url": "https://lonlyusclub.com/",
+      "type": "autre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s13",
+      "label": "RDAP Verisign : enregistrement du domaine lonlyus.com",
+      "url": "https://rdap.verisign.com/com/v1/domain/lonlyus.com",
+      "type": "autre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s14",
+      "label": "RDAP Verisign : enregistrement du domaine lonlyusclub.com",
+      "url": "https://rdap.verisign.com/com/v1/domain/lonlyusclub.com",
+      "type": "autre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s15",
+      "label": "Le Diamant (Sauve), site officiel : adresse et date d'ouverture",
+      "url": "https://lediamant-club.com/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s16",
+      "label": "Annuaire des entreprises : DANYTOINE, enseigne L'Orchidée (SIREN 487 910 317)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/487910317",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    }
+  ]
+}

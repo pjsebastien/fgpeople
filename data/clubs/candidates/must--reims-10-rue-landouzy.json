@@ -5,5 +5,8 @@
   "foundIn": [
     "l-entre-2-moulins"
   ],
-  "status": "todo"
+  "status": "rejected",
+  "duplicateOf": "must--reims",
+  "reason": "Même lieu que must--reims (même URL), écarté le 20/10/2026 : plus de soirée libertine depuis le 1er octobre 2026 (site officiel), night club à hôtesses hors périmètre.",
+  "qualifiedAt": "2026-10-20"
 }

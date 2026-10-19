@@ -1,0 +1,704 @@
+{
+  "slug": "le-glory-s-creteil",
+  "clubId": "new-le-glory-s-creteil",
+  "researchedAt": "2026-10-20",
+  "status": {
+    "value": "ouvert",
+    "summary": "Huit rendez-vous datés du 20 au 30 octobre 2026, d'une journée « cagoules » à deux gang bang, figurent sur la page que l'exploitant alimente sur lieuxdedrague.fr. Le site officiel annonce l'alcool au bar depuis le 1er septembre 2026, et la société DS, qui porte l'enseigne, est active au registre (mise à jour du 16 juillet 2026).",
+    "sources": [
+      "s8",
+      "s1",
+      "s2",
+      "s9"
+    ]
+  },
+  "seo": {
+    "title": "Le Glory's à Créteil : bar glory holes, tarifs et agenda",
+    "metaDescription": "Bar en entrée libre, plus de 120 m² d'espace rencontres avec ciné bi et glory holes à 10 ou 15 €, ouvert dès midi 7 j/7, jusqu'à 1 h du jeudi au samedi.",
+    "subtitle": "Bar rencontres, loveshop et espace glory holes ouvert à tous les publics à Créteil (94)",
+    "targetQueries": [
+      "le glory's créteil",
+      "glory's créteil tarif",
+      "glory hole créteil",
+      "bar glory hole 94",
+      "bar libertin val-de-marne",
+      "le glory's horaires"
+    ]
+  },
+  "lead": "Salle de cinéma bi, labyrinthe, cabines et glory holes : l'espace de drague du Glory's, à Créteil, dépasse 120 m², à côté d'un bar sans droit d'entrée et d'un loveshop. Hommes, femmes, couples hétéros, trans et travesties y entrent tous les jours dès midi, pour 10 à 20 € selon l'âge et le profil. Présent en ligne depuis le printemps 2024, le lieu sert de l'alcool depuis le 1er septembre 2026 et publie ses journées à thème sur lieuxdedrague.fr.",
+  "glance": [
+    {
+      "icon": "calendar",
+      "label": "Ouvert 7 j/7",
+      "value": "Dès midi · jusqu'à 1 h du jeudi au samedi"
+    },
+    {
+      "icon": "euro",
+      "label": "Espace rencontres",
+      "value": "10 € · 15 € pour les hommes de 30 ans et +"
+    },
+    {
+      "icon": "couple",
+      "label": "Couple hétéro",
+      "value": "20 € · love room 20 € les 2 h"
+    },
+    {
+      "icon": "drink",
+      "label": "Bar et loveshop",
+      "value": "Entrée libre · alcool depuis le 01/09/2026"
+    },
+    {
+      "icon": "map",
+      "label": "Métro",
+      "value": "Ligne 8, Maisons-Alfort – Les Juilliottes"
+    },
+    {
+      "icon": "history",
+      "label": "En ligne depuis",
+      "value": "Mai 2024",
+      "confidence": "source_unique"
+    }
+  ],
+  "audience": [
+    {
+      "who": "hommes",
+      "status": "oui",
+      "detail": "Tous les jours, sans sélection ; 15 € à partir de 30 ans, 10 € avant",
+      "price": "10 à 15 €"
+    },
+    {
+      "who": "femmes",
+      "status": "oui",
+      "detail": "Femmes cis ou trans, tous les jours, au tarif réduit",
+      "price": "10 €"
+    },
+    {
+      "who": "couples",
+      "status": "oui",
+      "detail": "Couple hétéro 20 € ; l'agenda d'octobre 2026 annonce le jeudi soir gratuit dès 19 h",
+      "price": "20 €"
+    },
+    {
+      "who": "trans",
+      "status": "oui",
+      "detail": "Trans et travesties à présentation féminine : même tarif que les femmes",
+      "price": "10 €"
+    }
+  ],
+  "highlights": [
+    "Bar et loveshop sont en entrée libre : seul l'espace rencontres (ciné, cabines, glory holes) est payant, de 10 à 20 € selon l'âge et le profil.",
+    "Le tarif à 10 € des travesties suppose une présentation féminine : perruque, maquillage, vêtements et chaussures de femme.",
+    "Fermeture à 20 h du dimanche au mercredi : la nocturne jusqu'à 1 h ne vaut que du jeudi au samedi.",
+    "L'agenda d'octobre 2026 annonce l'afterwork du jeudi soir gratuit pour les couples dès 19 h ; les tarifs du site officiel n'en parlent pas.",
+    "Le lieu est au fond d'une impasse, au bout d'un parking privatif vidéosurveillé ; le site annonce 5 places gratuites et un stationnement facile alentour."
+  ],
+  "keyFacts": [
+    {
+      "label": "Type de lieu",
+      "value": "Bar, petite restauration, loveshop et espace cruising",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s3",
+        "s6"
+      ]
+    },
+    {
+      "label": "Public admis",
+      "value": "Hétéros, gays, bi, trans, travesties, femmes, hommes, couples",
+      "confidence": "source_unique",
+      "sources": [
+        "s3"
+      ]
+    },
+    {
+      "label": "Jours d'ouverture",
+      "value": "Tous les jours dès midi",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s4",
+        "s6"
+      ]
+    },
+    {
+      "label": "Espace rencontres",
+      "value": "10 ou 15 € par personne, 20 € le couple hétéro",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s4",
+        "s6"
+      ]
+    },
+    {
+      "label": "Surface",
+      "value": "Bar de 60 m², espace rencontres de plus de 120 m²",
+      "confidence": "source_unique",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "label": "Boissons",
+      "value": "Licence IV depuis le 1er septembre 2026",
+      "confidence": "source_unique",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "label": "Exploitant",
+      "value": "Société DS (SIREN 985 151 471), créée le 1er avril 2024, rattachement déduit de l'enseigne",
+      "confidence": "a_verifier",
+      "sources": [
+        "s9",
+        "s7"
+      ]
+    },
+    {
+      "label": "Accès",
+      "value": "Métro 8, Maisons-Alfort – Les Juilliottes (sortie 3), bus 107",
+      "confidence": "source_unique",
+      "sources": [
+        "s4"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "espaces",
+      "title": "Ciné bi de 12 places, labyrinthe et une quinzaine de glory holes sur plus de 120 m²",
+      "icon": "sparkles",
+      "summary": "En plus du bar de 60 m², l'espace rencontres de plus de 120 m² réunit deux salles vidéo de 12 places, des cabines, un labyrinthe, des glory holes et une love room.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le Glory's se décrit comme un lieu hybride : bar, restaurant, loveshop et espace de drague sous le même toit. Le bar de 60 m², meublé de canapés, de tables et de chaises, est en accès libre. L'espace rencontres, qui dépasse 120 m² selon le site officiel, est payant."
+        },
+        {
+          "kind": "list",
+          "title": "Dans l'espace rencontres, d'après le site officiel",
+          "items": [
+            "une salle de cinéma bi de 12 places sur canapés, et une salle hétéro de 12 places ;",
+            "trois cabines vidéo où l'on peut s'allonger, équipées de chaises et de matelas, dont une diffuse des films gays ;",
+            "un labyrinthe et 15 glory holes ;",
+            "une cabine privative à film hétéro, avec une trappe pour inviter quelqu'un et un voyant rouge ou vert qui signale si l'occupant est disponible ;",
+            "une love room à grand lit double, louée aux couples ;",
+            "des appareils de musculation et un fumoir."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "La description publiée sous le compte du lieu sur lieuxdedrague.fr ajoute une douche, un vestiaire gratuit et une pièce pour se changer, que le site officiel ne cite pas. L'accueil du site précise que tout le lieu est climatisé à 22 °C."
+        },
+        {
+          "kind": "callout",
+          "tone": "info",
+          "title": "Combien de glory holes ?",
+          "body": "La page Glory holes du site officiel en annonce 15. Les descriptifs des journées à thème, affichés sur ce même site, en comptent 14, ou 10 pour le seul labyrinthe ; la fiche lieuxdedrague.fr parle de six cabines glory holes en plus de ce labyrinthe. Le chiffre exact reste à constater sur place."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s3",
+        "s6",
+        "s8",
+        "s16"
+      ]
+    },
+    {
+      "id": "public-et-prix",
+      "title": "Hommes de 30 ans et plus à 15 €, tous les autres à 10 €, couples hétéros à 20 €",
+      "icon": "users",
+      "summary": "Personne n'est trié à la porte : le prix de l'espace rencontres dépend de l'âge et du profil, tandis que le bar et le loveshop restent gratuits.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le site accueille nommément hétéros, gays, bi, trans, travesties, femmes, hommes et couples, et se dit ouvert aux gays comme aux hétéros. L'équipe se réserve seulement le droit d'écarter une personne irrespectueuse, mal présentée, ivre ou susceptible de gêner les autres clients."
+        },
+        {
+          "kind": "text",
+          "body": "Le tarif réduit est en fait la règle : seuls les hommes de 30 ans et plus paient 15 €. Les travesties n'y ont droit qu'avec une présentation féminine, que le site détaille de la perruque aux chaussures, pilosité comprise. Un avis affiché comme datant d'environ cinq mois au 20/10/2026 juge ces 10 € trop chers pour elles."
+        },
+        {
+          "kind": "text",
+          "body": "Le seul prix de couple publié vaut pour un couple hétéro, à 20 € : un couple de deux hommes ou de deux femmes doit se renseigner. La love room se loue 20 € les deux heures, sans que le site dise si un tiers peut s'y joindre."
+        },
+        {
+          "kind": "text",
+          "body": "Pour profiter à deux couples de l'afterwork du jeudi, que l'agenda d'octobre 2026 annonce gratuit pour les couples dès 19 h, [convenir d'un jeudi soir avec un autre couple](aff:carre-libertin) ne coûte rien sur Carré Libertin : plus de 500 000 inscrits, et l'accès complet sans abonnement pour tout couple dont le profil porte trois photos."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s3",
+        "s4",
+        "s6",
+        "s13"
+      ]
+    },
+    {
+      "id": "agenda-octobre-2026",
+      "title": "Cagoules le mercredi, couples gratuits le jeudi dès 19 h : huit dates fin octobre 2026",
+      "icon": "calendar",
+      "summary": "Chaque jour a son thème, repris d'une semaine à l'autre ; huit rendez-vous datés du 20 au 30 octobre 2026 figurent dans l'agenda, tenu sur lieuxdedrague.fr.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "La page Events du site officiel affiche le programme dans un module fourni par lieuxdedrague.fr. C'est sur la page du lieu de cette plateforme que l'on s'inscrit pour voir qui prévoit de venir, signaler sa venue et être prévenu des messages et des nouveaux événements."
+        },
+        {
+          "kind": "table",
+          "caption": "Programme publié sur lieuxdedrague.fr, relevé le 20/10/2026",
+          "headers": [
+            "Date",
+            "Thème annoncé",
+            "Horaires"
+          ],
+          "rows": [
+            [
+              "Mardi 20/10",
+              "Toutes tendances",
+              "12 h - 20 h"
+            ],
+            [
+              "Mercredi 21/10",
+              "Cagoules, présenté comme adapté aux discrets et aux débutants",
+              "12 h - 20 h"
+            ],
+            [
+              "Jeudi 22/10",
+              "Branlette, avec un afterwork gratuit pour les couples",
+              "12 h - 1 h"
+            ],
+            [
+              "Vendredi 23/10",
+              "Glory holes, pour les timides et les novices",
+              "12 h - 1 h"
+            ],
+            [
+              "Samedi 24/10",
+              "Gang bang",
+              "13 h 30 - 17 h 30"
+            ],
+            [
+              "Dimanche 25/10",
+              "Toutes tendances",
+              "12 h - 20 h"
+            ],
+            [
+              "Lundi 26/10",
+              "Bi et hétéros curieux : hommes, trav, trans, couples",
+              "12 h - 20 h"
+            ],
+            [
+              "Vendredi 30/10",
+              "Gang bang",
+              "14 h - 22 h"
+            ]
+          ]
+        },
+        {
+          "kind": "list",
+          "title": "Ce que précisent les descriptifs des journées",
+          "items": [
+            "le mardi « toutes tendances » est présenté comme hebdomadaire, couples et femmes compris ;",
+            "le mercredi, la cagoule n'est pas obligatoire : on l'apporte, on l'achète sur place (6 à 8 €) ou on la loue (2 €) ;",
+            "le jeudi soir, dès 19 h, l'entrée est annoncée gratuite pour les couples, avec assiettes de tapas et formule plat et boisson à 8 € (9 € avec une bière) ;",
+            "la page Events cite d'autres thèmes du répertoire : trav party, « vidange », bukkake, rencontres sérieuses."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Les deux gang bang d'octobre se tiennent de jour, jusqu'à 17 h 30 ou 22 h. Pour retrouver ce thème en soirée, [l'agenda que tient Wyylde pour les clubs de toute la France](aff:wyylde) donne la date, le club et le thème de chaque soirée annoncée ; il se consulte avec un compte gratuit."
+        }
+      ],
+      "sources": [
+        "s5",
+        "s8",
+        "s16"
+      ]
+    },
+    {
+      "id": "avis",
+      "title": "Google 4,4 sur 108 avis via Restaurant Guru : propreté saluée, agenda contesté",
+      "icon": "star",
+      "summary": "Restaurant Guru relaie une note Google de 4,4/5 sur 108 avis, non contrôlée sur Google ; deux de ses trois commentaires lisibles louent la propreté, un critique l'agenda en ligne.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Relevée le 20/10/2026, la page Restaurant Guru du lieu affiche une note Google de 4,4/5 sur 108 évaluations, que nous n'avons pas pu vérifier sur Google lui-même. Seuls trois commentaires s'y lisent, affichés comme datant d'environ deux, cinq et six mois au 20/10/2026."
+        },
+        {
+          "kind": "list",
+          "items": [
+            "le plus récent salue l'accueil, la propreté, l'offre à boire et à manger, et des affaires personnelles rangées en lieu sûr ;",
+            "le deuxième, positif sur l'accueil et la propreté, reproche à l'agenda de lieuxdedrague.fr d'afficher des participants non inscrits ou des profils inexistants, et trouve le tarif des travesties trop élevé ;",
+            "le troisième se limite à un « très moyen »."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Ce reproche vise l'agenda de lieuxdedrague.fr, celui où l'on signale sa venue. Un couple qui préfère arriver un mardi « toutes tendances » avec un autre couple ou une amie connus d'avance peut [préparer ce mardi mixte entre profils authentifiés](aff:gleese) sur Gleese, où le téléphone de chaque membre est vérifié et les photos modérées à la main."
+        }
+      ],
+      "sources": [
+        "s13"
+      ]
+    },
+    {
+      "id": "depuis-2024",
+      "title": "D'une société créée en avril 2024 à la licence IV de septembre 2026",
+      "icon": "history",
+      "summary": "Les premières traces datent du printemps 2024 : société DS créée le 1er avril, page lieuxdedrague.fr ouverte le 16 mai, publication sur X le 1er juin.",
+      "blocks": [
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "1er avril 2024",
+              "text": "Création de la société DS, débit de boissons, dont l'enseigne enregistrée au registre est « Le Glory's »."
+            },
+            {
+              "date": "16 mai 2024",
+              "text": "Le compte de l'exploitant ouvre la page du lieu sur lieuxdedrague.fr."
+            },
+            {
+              "date": "1er juin 2024",
+              "text": "Le compte X @LeGlorys94 présente le loveshop et l'espace cruising du 97 bis rue des Bleuets."
+            },
+            {
+              "date": "Février 2026",
+              "text": "Dernière modification du plan du site glorys.fr, second site au nom du lieu."
+            },
+            {
+              "date": "Avril 2026",
+              "text": "Un annuaire indique encore une fermeture à 23 h le jeudi, à minuit le vendredi et le samedi, et des plats à 6 €."
+            },
+            {
+              "date": "16 juillet 2026",
+              "text": "Dernière mise à jour de la société au registre national des entreprises."
+            },
+            {
+              "date": "1er septembre 2026",
+              "text": "Passage à la licence IV et fermeture repoussée à 1 h du jeudi au samedi."
+            }
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Aucune annonce d'ouverture n'a été trouvée : le printemps 2024 se déduit de ces dates. Les mentions légales du site ne nomment pas la société exploitante ; le rattachement à DS (SIREN 985 151 471) repose sur l'enseigne et l'adresse déclarées au registre."
+        },
+        {
+          "kind": "text",
+          "body": "Le Glory's se dit « le seul bar rencontres » du Val-de-Marne. Nous n'avons trouvé aucun autre bar de ce type dans le département, qui compte en revanche des saunas libertins ; [Le Pub, à Vincennes](/le-pub-vincennes), club libertin, a fermé fin 2007."
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Deux sites, un seul tenu à jour",
+          "body": "glorys.fr affiche le même nom, la même adresse et le même téléphone, mais parle encore de tarifs « de lancement » et son plan du site n'a plus bougé depuis février 2026. Horaires et prix à jour : leglorys.fr."
+        }
+      ],
+      "sources": [
+        "s9",
+        "s8",
+        "s12",
+        "s10",
+        "s15",
+        "s2",
+        "s7",
+        "s1"
+      ]
+    },
+    {
+      "id": "rue-des-bleuets",
+      "title": "97 bis rue des Bleuets : métro 8, cinq places gratuites et un parking privatif vidéosurveillé",
+      "icon": "map",
+      "summary": "Le Glory's occupe le fond d'une impasse, au bout d'un parking privatif vidéosurveillé, à portée de la ligne 8 (Maisons-Alfort – Les Juilliottes, sortie 3) et du bus 107.",
+      "blocks": [
+        {
+          "kind": "list",
+          "items": [
+            "**Métro** : ligne 8, station Maisons-Alfort – Les Juilliottes, sortie 3.",
+            "**Bus** : ligne 107.",
+            "**Voiture** : près de l'A86 et de l'A4 ; cinq places gratuites sur place, des emplacements deux-roues, et un stationnement gratuit dans le quartier selon le site.",
+            "**Accessibilité** : entrée de plain-pied et sanitaires adaptés d'après la fiche acceslibre, remplie à 29 % seulement."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le site décrit un quartier calme, un établissement posé au bout d'un parking privatif vidéosurveillé, et dit entretenir d'excellents rapports avec le voisinage."
+        },
+        {
+          "kind": "text",
+          "body": "Ailleurs dans le Val-de-Marne, [L'Hyppocampe](/hippocampe-saint-maur-libertin), sauna libertin de Saint-Maur-des-Fossés, a mis en ligne le 8 octobre 2026 les affiches de ses soirées du mois, dont une nuit glory hole le 2. À Saint-Mandé, l'activité 2026 du sauna [Ray et Maya](/ray-et-maya-saint-mande) reste à vérifier. Les autres lieux sont réunis sur [la page du Val-de-Marne](/departement/val-de-marne)."
+        }
+      ],
+      "sources": [
+        "s3",
+        "s4",
+        "s14"
+      ]
+    },
+    {
+      "id": "bar-cuisine-loveshop",
+      "title": "Licence IV depuis le 1er septembre 2026, plats à 7 € et repas apporté accepté",
+      "icon": "drink",
+      "summary": "Le bar sert de l'alcool depuis le 1er septembre 2026 ; plats préparés à 7 €, repas apporté réchauffé pour qui paie l'espace rencontres, loveshop sans droit d'entrée.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "L'accueil du site présente l'alcool comme une nouveauté : le bar exploite une licence IV depuis le 1er septembre 2026. Vodka, whisky, gin, bières, vins et champagne rejoignent les sodas, et le café ou le thé restent à 2 €."
+        },
+        {
+          "kind": "text",
+          "body": "Côté cuisine, des plats préparés en France, notés A ou B au Nutri-Score et prêts en deux minutes : 7 € la portion de 300 g, 9 € avec une boisson. Le site cite le poulet yassa au boulgour, le colombo de porc ou le merlu au beurre blanc ; friandises et chips dépannent entre deux."
+        },
+        {
+          "kind": "callout",
+          "tone": "tip",
+          "title": "Repas apporté accepté",
+          "body": "Qui paie l'espace rencontres (10 ou 15 €) peut apporter son repas et le manger sur place sans supplément ; l'équipe le réchauffe au micro-ondes si besoin. Ouvert dès midi, le lieu vante d'ailleurs la formule pour la pause déjeuner."
+        },
+        {
+          "kind": "text",
+          "body": "Le loveshop, gratuit d'accès comme le bar, vend lubrifiants, préservatifs, huiles de massage, jeux pour couples et articles d'enterrement de vie de jeune fille ou de garçon ; l'équipe propose de commander ce qui manque. T-shirts, sweats et serviettes au nom du lieu se vendent sur place et sur [la boutique en ligne](https://shop.leglorys.fr/)."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s2",
+        "s6",
+        "s11"
+      ]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Lundi": "12 h - 20 h",
+      "Mardi": "12 h - 20 h",
+      "Mercredi": "12 h - 20 h",
+      "Jeudi": "12 h - 1 h",
+      "Vendredi": "12 h - 1 h",
+      "Samedi": "12 h - 1 h",
+      "Dimanche": "12 h - 20 h"
+    },
+    "note": "Fermeture à 1 h du jeudi au samedi depuis le 1er septembre 2026 (minuit auparavant). Certaines journées à thème ont leurs propres horaires.",
+    "confidence": "confirme",
+    "sources": [
+      "s1",
+      "s4",
+      "s8"
+    ]
+  },
+  "tarifs": {
+    "rows": {
+      "Bar et loveshop": "Entrée gratuite",
+      "Espace rencontres, homme de 30 ans et plus": "15 €",
+      "Espace rencontres, homme de moins de 30 ans": "10 €",
+      "Espace rencontres, femme cis ou trans": "10 €",
+      "Espace rencontres, travestie à présentation féminine": "10 €",
+      "Espace rencontres, couple hétéro": "20 €",
+      "Love room (couples)": "20 € les 2 h",
+      "Plat préparé (300 g)": "7 € · 9 € avec une boisson",
+      "Café ou thé": "2 €"
+    },
+    "note": "Tarifs du site officiel relevés le 20/10/2026. Un repas apporté se mange sur place sans supplément pour qui paie l'espace rencontres.",
+    "confidence": "confirme",
+    "sources": [
+      "s1",
+      "s2",
+      "s4",
+      "s6"
+    ]
+  },
+  "equipements": [
+    "Bar",
+    "Salle de cinéma bi (12 places)",
+    "Salle vidéo hétéro (12 places)",
+    "Cabines",
+    "Cabine privative à trappe",
+    "Labyrinthe",
+    "Glory holes",
+    "Love room",
+    "Appareils de musculation",
+    "Fumoir",
+    "Loveshop",
+    "Petite restauration",
+    "Climatisation",
+    "Parking (5 places)"
+  ],
+  "officialLinks": [
+    {
+      "label": "Site officiel",
+      "url": "https://leglorys.fr/",
+      "kind": "site"
+    },
+    {
+      "label": "Agenda et inscriptions sur lieuxdedrague.fr",
+      "url": "https://lieuxdedrague.fr/lieu-de-drague/le-glory-s-bar-a-gloryholes-cruising-loveshop-a-creteil-94/49994",
+      "kind": "agenda"
+    },
+    {
+      "label": "Compte X @LeGlorys94",
+      "url": "https://x.com/LeGlorys94",
+      "kind": "x"
+    },
+    {
+      "label": "Boutique en ligne",
+      "url": "https://shop.leglorys.fr/",
+      "kind": "autre"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Combien coûte l'entrée au Glory's de Créteil ?",
+      "answer": "Le bar et le loveshop sont gratuits. L'espace rencontres coûte 15 € pour un homme de 30 ans et plus, 10 € pour un homme plus jeune, une femme cis ou trans ou une travestie à présentation féminine, et 20 € pour un couple hétéro, selon le site officiel consulté le 20/10/2026. La love room se loue 20 € les deux heures. L'agenda d'octobre 2026 annonce en outre l'entrée gratuite pour les couples le jeudi soir, dès 19 h."
+    },
+    {
+      "question": "Le Glory's est-il un lieu gay ?",
+      "answer": "Pas exclusivement. Le site le présente comme un bar libertin ouvert aux gays comme aux hétéros, et accueille aussi bi, trans, travesties, femmes et couples. Les espaces suivent cette logique : salle de cinéma bi, salle hétéro, cabine à films gays ; une journée « bi et hétéros curieux » est annoncée le lundi 26 octobre 2026."
+    },
+    {
+      "question": "Quels sont les horaires du Glory's ?",
+      "answer": "De midi à 20 h le lundi, le mardi, le mercredi et le dimanche ; de midi à 1 h du matin le jeudi, le vendredi et le samedi. La fermeture à 1 h s'applique depuis le 1er septembre 2026. Certaines journées à thème ont leurs propres horaires, comme le gang bang du samedi 24 octobre 2026, de 13 h 30 à 17 h 30."
+    },
+    {
+      "question": "Faut-il réserver pour aller au Glory's ?",
+      "answer": "Le site officiel ne parle d'aucune réservation pour l'espace rencontres. Pour les journées à thème, il invite à s'inscrire sur la page du lieu sur lieuxdedrague.fr, afin de signaler sa venue et de voir qui vient. Pour la love room, le plus sûr est d'appeler ou d'écrire sur WhatsApp au 07 75 77 94 88."
+    },
+    {
+      "question": "Peut-on boire de l'alcool et manger au Glory's ?",
+      "answer": "Oui pour l'alcool depuis le 1er septembre 2026, date à laquelle le bar a commencé à exploiter une licence IV. Côté repas, des plats préparés à 7 € (9 € avec une boisson), et qui paie l'espace rencontres peut apporter le sien."
+    },
+    {
+      "question": "Comment aller au Glory's sans voiture ?",
+      "answer": "Par la ligne 8 du métro, station Maisons-Alfort – Les Juilliottes, sortie 3, ou par le bus 107. L'adresse exacte est le 97 bis rue des Bleuets à Créteil, au fond d'une impasse."
+    }
+  ],
+  "unverified": [
+    "Tarif d'un couple de deux hommes ou de deux femmes : le site ne donne que celui des couples hétéros.",
+    "Conditions de la love room : réservation nécessaire ou non, et possibilité pour un couple d'y inviter un tiers.",
+    "Nombre exact de glory holes : 15 sur la page dédiée du site officiel, 14 dans les descriptifs des journées à thème, six cabines plus dix trous dans le labyrinthe selon lieuxdedrague.fr.",
+    "Gratuité des couples le jeudi soir dès 19 h : présentée comme habituelle par l'agenda d'octobre 2026, absente des tarifs du site officiel.",
+    "Moyens de paiement acceptés et règles affichées sur place (préservatifs, téléphones) : le site n'en dit rien.",
+    "Date exacte d'ouverture au public : aucune annonce trouvée, la société exploitante datant du 1er avril 2024.",
+    "Note Google : relayée par Restaurant Guru, non consultée directement sur Google."
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Le Glory's, site officiel : accueil (présentation, horaires, tarifs, licence IV)",
+      "url": "https://leglorys.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s2",
+      "label": "Le Glory's, site officiel : « Bar Club Libertin 94 » (boissons, licence IV, restauration)",
+      "url": "https://leglorys.fr/bar-club-libertin-94",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s3",
+      "label": "Le Glory's, site officiel : « Glory holes » (espaces, public admis, situation)",
+      "url": "https://leglorys.fr/gloryholes-94-creteil/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s4",
+      "label": "Le Glory's, site officiel : « Infos / Contact / Vidéo » (accès, horaires, tarifs, contact)",
+      "url": "https://leglorys.fr/infos-contact-video/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s5",
+      "label": "Le Glory's, site officiel : « Events » (journées à thème)",
+      "url": "https://leglorys.fr/events/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s6",
+      "label": "Le Glory's, site officiel : « Loveshop 94 » (boutique, entrée gratuite, tarifs)",
+      "url": "https://leglorys.fr/loveshop-lovestore94-",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s7",
+      "label": "Le Glory's, site officiel : mentions légales (sans raison sociale ni SIREN)",
+      "url": "https://leglorys.fr/mentions-legales/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s8",
+      "label": "lieuxdedrague.fr : page « Le Glory's » tenue par l'exploitant (agenda, description, horaires)",
+      "url": "https://lieuxdedrague.fr/lieu-de-drague/le-glory-s-bar-a-gloryholes-cruising-loveshop-a-creteil-94/49994",
+      "type": "reseau_social",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s9",
+      "label": "Annuaire des entreprises : DS, enseigne « Le Glory's » (SIREN 985 151 471)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/985151471",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s10",
+      "label": "glorys.fr, second site au nom du lieu (plan du site modifié le 05/02/2026)",
+      "url": "https://www.glorys.fr/",
+      "type": "autre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s11",
+      "label": "Boutique en ligne du Glory's",
+      "url": "https://shop.leglorys.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s12",
+      "label": "Compte X @LeGlorys94 : publication du 1er juin 2024 (vue dans les résultats de recherche)",
+      "url": "https://x.com/LeGlorys94/status/1796901759555719510",
+      "type": "reseau_social",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s13",
+      "label": "Restaurant Guru : page du Glory's (note Google relayée, avis de visiteurs)",
+      "url": "https://restaurantguru.com/Le-Glorys-Bar-Love-Shop-Glory-Hole-Rencontres-Creteil",
+      "type": "avis",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s14",
+      "label": "acceslibre : fiche du Glory's, rue des Bleuets (remplie à 29 %)",
+      "url": "https://acceslibre.beta.gouv.fr/app/94-creteil/a/cafeteria/erp/le-glorys-bar-gloryholes-labyrinthe-cine-cabines-loveshop-rencontres/",
+      "type": "autre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s15",
+      "label": "saunaclublebali.fr : fiche « Le Glory's Créteil 94 », ajoutée le 21/04/2026",
+      "url": "https://www.saunaclublebali.fr/listing/le-glorys-creteil-94/",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s16",
+      "label": "lieuxdedrague.fr : descriptifs des journées à thème du Glory's, module affiché sur la page Events du site officiel",
+      "url": "https://lieuxdedrague.fr/glorys/event_liste_grand.php?lieu_id=49994",
+      "type": "reseau_social",
+      "consulted": "2026-10-20"
+    }
+  ]
+}

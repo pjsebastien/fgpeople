@@ -262,7 +262,12 @@ water, bed, car, lock, ticket, heart, mask, closed, ruler, phone, globe.
   de cliquer. Pas de formule creuse.
 - `seo.subtitle` : précis (« Club libertin et sauna sur trois niveaux à Lisses (91) »).
 - `seo.targetQueries` : les requêtes GSC visées.
-- `lead` : 2 à 4 phrases, les faits les plus distinctifs et le statut.
+- `lead` : 2 à 4 phrases, les faits les plus distinctifs et le statut. Ne pas
+  l'ouvrir sur l'adresse (« Au 12 rue… ») sauf si elle est le fait distinctif
+  (déménagement, lieu historique) : l'adresse est déjà dans l'en-tête.
+- Fiches voisines : quand une fiche cite un lieu qui a sa propre fiche
+  vérifiée, elle reprend ses constats datés, avec le lien interne et la source
+  d'origine (site du voisin, date de consultation) dans ses `sources`.
 - `keyFacts` : 4 à 10 faits courts (Ouverture, Société, Public admis, Jours
   d'ouverture, Entrée couple, Surface…), chacun avec confiance et sources.
 - `faq` : 4 à 8 questions, prioritairement celles des requêtes GSC et les
@@ -386,6 +391,20 @@ l'agenda des soirées ; les 500 000 inscrits de Carré Libertin ; les photos
 modérées à la main sur Gleese, son site français. Pour un club fermé, ne pas
 loger systématiquement deux partenaires dans une question de FAQ du type
 « comment rencontrer sans club ».
+
+**Lieux exclusivement masculins ou gays.** Gleese et Carré Libertin ne
+s'adressent pas aux hommes qui cherchent des hommes (`lib/config/affiliates.ts`).
+Les trois liens restent présents, mais avec un angle honnête : jours mixtes du
+lieu, couples qui viennent ces jours-là, sorties mixtes ailleurs, agenda des
+soirées de Wyylde. Ne jamais présenter ces sites comme un moyen de rencontrer
+des hommes.
+
+**Situations d'usage saturées**, à n'employer que si elles sont vraiment le
+fait saillant du club, et jamais dans plus de deux fiches d'un même lot :
+« l'homme seul paie autant ou plus qu'un couple, donc trouvez une partenaire » ;
+« un couple cherche un homme bi ou un troisième ». Chercher d'abord la
+situation propre au lieu (une soirée, un jour, un quota, une fermeture, une
+distance).
 
 Interdits : prétendre qu'un club est présent, partenaire ou actif sur une
 plateforme sans source ; « cliquez ici » ; ancres identiques d'une fiche à

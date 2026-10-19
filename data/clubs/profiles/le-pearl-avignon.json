@@ -1,0 +1,343 @@
+{
+  "slug": "le-pearl-avignon",
+  "clubId": "new-le-pearl-avignon",
+  "researchedAt": "2026-10-20",
+  "display": { "nom": "Le Pearl", "ville": "Avignon" },
+  "status": {
+    "value": "ouvert",
+    "summary": "Halloween Libertin le samedi 31 octobre, atelier « Clefs du BDSM » le 14 novembre : le Pearl a des dates annoncées jusqu'à la mi-novembre 2026, sur son site mis à jour le 2 octobre et sur l'agenda de La Cité des Kinks. Son établissement est actif au registre des entreprises.",
+    "sources": ["s1", "s9", "s11"]
+  },
+  "seo": {
+    "title": "Le Pearl Avignon : tarifs, horaires et thèmes du sauna libertin",
+    "metaDescription": "Sauna libertin de 700 m² près de la sortie 24 d'Avignon : bassin chauffé, jacuzzi, Candauroom. Fermé le lundi, 40 € le couple, Halloween le 31 octobre.",
+    "subtitle": "Sauna et spa libertin sans alcool, 700 m² annoncés, à cinq minutes de la sortie 24 d'Avignon (84)",
+    "targetQueries": [
+      "le pearl avignon",
+      "pearl sauna avignon",
+      "sauna libertin avignon",
+      "le pearl avignon tarif",
+      "le pearl avignon horaires",
+      "spa libertin avignon"
+    ]
+  },
+  "lead": "Bassin intérieur chauffé et grand jacuzzi, mais aussi Candauroom à vitre et « Prison » à barreaux : le Pearl se présente comme un sauna et spa libertin de 700 m², qui compte en outre un sauna, un hammam et trois autres pièces à thème. Il ouvre du mardi au dimanche dès 14 h, jusqu'à 3 h le vendredi et le samedi, ne sert pas d'alcool et refuse les moins de 21 ans. Son site, en ligne depuis février 2025, affiche un thème pour chaque jour et des soirées datées jusqu'au 31 octobre 2026.",
+  "glance": [
+    { "icon": "calendar", "label": "Ouvert", "value": "Du mardi au dimanche, fermé le lundi" },
+    { "icon": "clock", "label": "Horaires", "value": "Dès 14 h ; jusqu'à 3 h vendredi et samedi" },
+    { "icon": "euro", "label": "Entrée couple", "value": "40 €, deux boissons comprises" },
+    { "icon": "water", "label": "Détente", "value": "Bassin chauffé, jacuzzi, sauna, hammam" },
+    { "icon": "drink", "label": "Bar", "value": "Établissement sans alcool" },
+    { "icon": "shield", "label": "Âge minimum", "value": "21 ans" }
+  ],
+  "audience": [
+    { "who": "couples", "status": "oui", "detail": "Chaque jour d'ouverture ; deux boissons sans alcool comprises", "price": "40 €" },
+    { "who": "hommes", "status": "oui", "detail": "Chaque jour d'ouverture ; une boisson comprise, tarif majoré du vendredi au dimanche", "price": "45 à 60 €" },
+    { "who": "femmes", "status": "oui", "detail": "Chaque jour d'ouverture, au tarif le plus bas de la grille", "price": "10 €" },
+    { "who": "trans", "status": "oui", "detail": "Tarif dédié affiché par le club, identique à celui des femmes seules", "price": "10 €" }
+  ],
+  "highlights": [
+    "Fermé le lundi ; le mardi, la journée s'arrête à 20 h, contre 22 h du mercredi au jeudi et le dimanche.",
+    "Aucun alcool n'est servi : l'entrée inclut deux boissons pour un couple, une pour un homme seul.",
+    "L'accès est interdit aux moins de 21 ans, et non 18, selon la page d'accueil du site.",
+    "Pas de téléphone publié : les questions passent par contact@lepearlavignon.fr ou le formulaire du site.",
+    "Les soirées spéciales ont leur propre prix : 60 € pour un couple à l'atelier BDSM de décembre 2025, contre 40 € d'ordinaire."
+  ],
+  "keyFacts": [
+    { "label": "Type", "value": "Sauna et spa libertin", "confidence": "confirme", "sources": ["s1", "s2"] },
+    { "label": "Adresse", "value": "95 rue du Capitaine-de-Vaisseau-Henri-Bellet, 84000 Avignon", "confidence": "confirme", "sources": ["s2", "s5", "s9"] },
+    { "label": "Société", "value": "SAS SJ Marchand d'Azur (siège à Lyon), propriétaire selon les mentions légales", "confidence": "confirme", "sources": ["s5", "s9"] },
+    { "label": "Établissement au registre", "value": "Créé le 29 juillet 2024, actif", "confidence": "source_unique", "sources": ["s9"] },
+    { "label": "Site officiel", "value": "En ligne depuis février 2025", "confidence": "confirme", "sources": ["s7", "s8"] },
+    { "label": "Ouverture au public", "value": "Non publiée ; établissement créé en juillet 2024, site en février 2025", "confidence": "a_verifier", "sources": ["s8", "s9"] },
+    { "label": "Surface", "value": "700 m², dont 150 m² d'espaces câlins (chiffres du club)", "confidence": "source_unique", "sources": ["s1"] },
+    { "label": "Public admis", "value": "Couples, hommes seuls, femmes seules, personnes trans ; 21 ans minimum", "confidence": "confirme", "sources": ["s1", "s2"] },
+    { "label": "Jours d'ouverture", "value": "Du mardi au dimanche ; fermé le lundi", "confidence": "confirme", "sources": ["s1", "s3", "s6"] },
+    { "label": "Alcool", "value": "Établissement sans alcool", "confidence": "source_unique", "sources": ["s2"] }
+  ],
+  "sections": [
+    {
+      "id": "bassin-jacuzzi-sauna-hammam",
+      "title": "Un bassin chauffé bordé de lits à baldaquin et un jacuzzi à marches sur 700 m² annoncés",
+      "icon": "water",
+      "summary": "Le club annonce 700 m², un bassin intérieur chauffé (100 m² selon sa billetterie de 2025), un grand jacuzzi, un sauna, un hammam et 150 m² de coins câlins climatisés.",
+      "blocks": [
+        { "kind": "text", "body": "Le Pearl se décrit d'abord comme un spa : 700 m² au total selon son site, dont 150 m² d'espaces câlins. Aucune source indépendante ne confirme ces surfaces, que les annuaires reprennent mot pour mot." },
+        {
+          "kind": "list",
+          "title": "Côté détente, selon le site",
+          "items": [
+            "un grand bassin intérieur chauffé ;",
+            "un grand jacuzzi ;",
+            "un sauna et un hammam ;",
+            "des coins câlins climatisés, ouverts comme le reste de 14 h à 3 h les vendredis et samedis."
+          ]
+        },
+        { "kind": "text", "body": "Sur les photos de juillet 2025, le bassin éclairé en bleu est longé de transats et de lits à baldaquin voilés. Le jacuzzi, surélevé, s'atteint par quelques marches avec rampe ; une cabine vitrée à banquette éclairée a l'allure d'un hammam." },
+        { "kind": "text", "body": "La billetterie de l'atelier de décembre 2025, signée par le Pearl et La Cité des Kinks, est plus précise : bassin intérieur chauffé de 100 m², jacuzzi pour 10 à 14 personnes. Le site du club ne reprend pas ces chiffres ; le « sauna finlandais » n'apparaît que sur un annuaire tenu par un concurrent." },
+        { "kind": "text", "body": "Dans un témoignage publié par La Cité des Kinks, un participant à ses ateliers évoque la « détente autour de la piscine »." }
+      ],
+      "sources": ["s1", "s6", "s10", "s12", "s13"]
+    },
+    {
+      "id": "agenda-octobre-novembre-2026",
+      "title": "SM Sex le 24 octobre, Halloween le 31, atelier BDSM le 14 novembre",
+      "icon": "mask",
+      "summary": "Au 20 octobre 2026, trois rendez-vous datés restent à venir : démonstrations SM le samedi 24 octobre, nuit masquée d'Halloween le 31, atelier « Clefs du BDSM » le 14 novembre.",
+      "blocks": [
+        {
+          "kind": "timeline",
+          "items": [
+            { "date": "Dimanche 11 octobre 2026", "text": "Après-midi gang bang dès 14 h 30 autour de deux invitées, annoncée « sous réserve d'approbation des couples » (passée)." },
+            { "date": "Vendredis 23 et 30 octobre", "text": "Massage relaxant « à caractère non sexuel » par une masseuse présentée comme diplômée, de 18 h à 23 h : de 24 € les 20 minutes à 90 € les 90 minutes." },
+            { "date": "Samedi 24 octobre, 17 h - 23 h", "text": "« SM Sex » avec un intervenant principal et un duo invités : deux démonstrations au contenu tenu secret à 17 h et 21 h, et ateliers à observer ou essayer (fuckmachine, couteau, impacts, électro)." },
+            { "date": "Samedi 31 octobre, 14 h - 3 h", "text": "« Halloween Libertin », « Nuit des masques & des désirs », avec tous les équipements ouverts." },
+            { "date": "Samedi 14 novembre, 20 h - 2 h", "text": "Atelier « Clefs du BDSM » de l'association La Cité des Kinks, annoncé « à venir » sur son agenda, qui mentionne « 4 tarifs » sans les détailler au 20 octobre." }
+          ]
+        },
+        { "kind": "text", "body": "Le site donne ces dates sans année, mais leurs jours de semaine sont ceux de 2026. Le massage avait déjà été proposé les 2, 3 et 9 octobre." },
+        { "kind": "text", "body": "Sur sa page consacrée au format, La Cité des Kinks désigne le Pearl comme l'établissement partenaire des « Clefs du BDSM », annonce 100 places et quatre éditions par an, et cite des thèmes comme le fireplay, le waxplay, l'impact ou le shibari." },
+        { "kind": "text", "body": "Le duo du 11 octobre et la masseuse d'octobre sont présentés sur les affiches par un pseudonyme suivi de la mention « profil Wyylde ». Un compte gratuit suffit pour [retrouver les invités du Pearl sur l'ex-Netéchangisme](aff:wyylde) et parcourir l'agenda des soirées ; répondre à un message suppose en revanche un abonnement." }
+      ],
+      "sources": ["s1", "s6", "s11", "s14"]
+    },
+    {
+      "id": "tarifs-et-public",
+      "title": "40 € le couple, 60 € l'homme seul le week-end, 10 € pour les femmes et les trans",
+      "icon": "euro",
+      "summary": "Quatre publics admis dès 21 ans : l'homme seul paie 45 € du mardi au jeudi et 60 € du vendredi au dimanche, un couple 40 €, boissons sans alcool comprises.",
+      "blocks": [
+        { "kind": "text", "body": "La page tarifs, mise à jour le 4 juin 2025 et toujours en ligne le 20 octobre 2026, distingue quatre publics. Le Pearl se déclare « établissement sans alcool » : les boissons offertes à l'entrée n'en contiennent donc pas." },
+        {
+          "kind": "list",
+          "title": "Ce que comprend l'entrée",
+          "items": [
+            "Couple : deux boissons, pour 40 €, soit 20 € par personne.",
+            "Homme seul : une boisson ; 45 € « du lundi au jeudi », en pratique du mardi au jeudi depuis la fermeture du lundi, et 60 € du vendredi au dimanche.",
+            "Femme seule ou personne trans : 10 €, sans boisson mentionnée."
+          ]
+        },
+        { "kind": "text", "body": "Les soirées spéciales suivent leur propre grille. Pour l'atelier BDSM du 19 décembre 2025, la billetterie annonçait 60 € pour un couple comme pour un homme seul, 10 € pour une femme ou une personne trans, avec un buffet offert et un dress code cuir, latex ou dentelle." },
+        { "kind": "text", "body": "Du vendredi au dimanche, un homme seul paie ainsi trois fois plus qu'une personne venue en couple : 60 € contre 20 €." },
+        { "kind": "callout", "tone": "info", "title": "Le règlement tient en deux phrases", "body": "« Rien n'est obligatoire », écrit le club, qui demande respect et courtoisie et se réserve le droit de refuser l'entrée. Aucune page n'annonce de quota d'hommes seuls ni de jour réservé aux couples." }
+      ],
+      "sources": ["s1", "s2", "s10"]
+    },
+    {
+      "id": "six-themes-six-jours",
+      "title": "Du mardi « Glory Holes » au dimanche balnéo : six thèmes pour six jours d'ouverture",
+      "icon": "calendar",
+      "summary": "Depuis septembre 2026, chaque jour d'ouverture porte un thème affiché : glory holes le mardi, gang bang le mercredi, « Samedi Sex » jusqu'à 3 h. Le lundi, le club est fermé.",
+      "blocks": [
+        { "kind": "text", "body": "En septembre 2026, le Pearl a versé dans sa galerie six affiches qui donnent un thème à chaque jour d'ouverture ; leurs noms de fichier les datent des 25 et 28 août. Le lundi n'en a pas : un bandeau de l'accueil annonce que l'établissement est désormais fermé ce jour-là." },
+        {
+          "kind": "table",
+          "caption": "Le programme de la semaine selon les affiches du club",
+          "headers": ["Jour", "Thème", "Ce que l'affiche met en avant"],
+          "rows": [
+            ["Mardi", "Glory Holes", "« Anonymat, plaisir, liberté », la journée la plus courte"],
+            ["Mercredi", "Gang Bang", "Grand bassin, grand jacuzzi, sauna, hammam, coins câlins climatisés"],
+            ["Jeudi", "Tout est permis", "Les mêmes équipements que le mercredi"],
+            ["Vendredi", "Vendredi Gourmand", "« Soirée sensuelle & complicité », nuit longue"],
+            ["Samedi", "Samedi Sex", "« Désir, plaisir, liberté », nuit longue"],
+            ["Dimanche", "100 % Mixte & Balnéo", "Bassin, jacuzzi, sauna et hammam"]
+          ]
+        },
+        { "kind": "text", "body": "Le dimanche est le seul jour dont l'affiche porte la mention « 100 % Mixte ». Une bannière Gleese figure au bas de chaque page consultée du site du Pearl : sur ce réseau libertin français, qui s'essaie sans carte bancaire et modère les photos à la main, vous pouvez [former un petit groupe pour un dimanche balnéo](aff:gleese)." },
+        { "kind": "text", "body": "Le mardi était le jour douteux : la page horaires, mise à jour le 7 juin 2026, le dit à la fois fermé et ouvert de 14 h à 20 h. L'affiche « Glory Holes » tranche pour l'ouverture, sur ce créneau de six heures." },
+        { "kind": "callout", "tone": "warning", "title": "Un ancien bloc horaires sur l'accueil", "body": "La page d'accueil garde un encadré « du lundi au jeudi, 14 h - 22 h » et un texte qui promet un accueil « tous les jours ». Elles contredisent le bandeau placé plus haut sur la même page : fiez-vous à ce bandeau et à la page horaires." }
+      ],
+      "sources": ["s1", "s3", "s6"]
+    },
+    {
+      "id": "acces-rue-bellet",
+      "title": "Rue du Capitaine-de-Vaisseau-Henri-Bellet, à cinq minutes de la sortie 24, parking gratuit",
+      "icon": "car",
+      "summary": "Au 95 rue du Capitaine-de-Vaisseau-Henri-Bellet, à 5 minutes de la sortie 24 « Avignon Centre » selon le club, avec un grand parking gratuit ; contact par e-mail seulement.",
+      "blocks": [
+        { "kind": "text", "body": "Le site situe le club à cinq minutes de la sortie 24 « Avignon Centre » et annonce un grand parking gratuit. L'adresse est identique sur le site, dans les mentions légales et au registre des entreprises." },
+        { "kind": "text", "body": "Pour l'atelier de décembre 2025, la billetterie précisait que la porte d'entrée se trouve près d'un centre commercial et qu'un grand vestiaire permet d'arriver en tenue de ville pour se changer sur place." },
+        { "kind": "callout", "tone": "warning", "title": "84000 ou 84140 ?", "body": "Le site et le registre écrivent 84000 ; la carte Google intégrée à la page contact affiche 84140, comme un annuaire. Le numéro et la rue sont les mêmes dans les deux cas." },
+        { "kind": "text", "body": "Le club ne publie aucun numéro de téléphone : le contact passe par contact@lepearlavignon.fr ou par le formulaire de la page contact. Un numéro de portable figure sur un annuaire tiers sans être repris par le club ; nous ne le publions pas." },
+        { "kind": "text", "body": "D'autres lieux libertins d'Avignon ont leur fiche, comme [le Darjeeling](/le-darjeeling-avignon), [le Club Aphrodite](/club-aphrodite-avignon) ou [le Sauna H Club](/sauna-h-club-avignon). La liste complète est sur [la page consacrée à Avignon](/ville/avignon), et celle du département sur [la page Vaucluse](/departement/vaucluse)." }
+      ],
+      "sources": ["s1", "s2", "s4", "s5", "s9", "s10", "s13"]
+    },
+    {
+      "id": "sj-marchand-d-azur",
+      "title": "Une SAS lyonnaise créée en 2018, un établissement avignonnais immatriculé en juillet 2024",
+      "icon": "history",
+      "summary": "Le site désigne comme propriétaire la SAS SJ Marchand d'Azur, siège à Lyon ; son établissement d'Avignon date du 29 juillet 2024, le site du club de février 2025.",
+      "blocks": [
+        { "kind": "text", "body": "Les mentions légales du site nomment comme propriétaire la SAS SJ Marchand d'Azur, à l'adresse du club. Au registre, cette société créée en 2018 a son siège à Lyon, un code d'activité 96.04Z (entretien corporel) et trois établissements, dont deux ouverts." },
+        {
+          "kind": "timeline",
+          "items": [
+            { "date": "6 septembre 2018", "text": "Création de la SAS SJ Marchand d'Azur, siège à Lyon (3e)." },
+            { "date": "29 juillet 2024", "text": "Création de son établissement du 95 rue du Capitaine-de-Vaisseau-Henri-Bellet, sans enseigne déclarée." },
+            { "date": "18 février 2025", "text": "Enregistrement du domaine lepearlavignon.fr ; les pages du site sont créées du 19 au 21 février." },
+            { "date": "Juillet 2025", "text": "Mise en ligne d'une trentaine de photos du lieu, prises le 7 juillet." },
+            { "date": "19 décembre 2025", "text": "Atelier « Les clefs du BDSM » coorganisé avec l'association La Cité des Kinks, de 20 h à 2 h." },
+            { "date": "7 juin 2026", "text": "Mise à jour de la page horaires, qui mentionne déjà la fermeture du lundi." },
+            { "date": "Fin août 2026", "text": "Création des six affiches d'un thème par jour, publiées en septembre." },
+            { "date": "2 octobre 2026", "text": "L'accueil annonce les soirées des 11, 24 et 31 octobre." }
+          ]
+        },
+        { "kind": "text", "body": "Aucune annonce ni article ne date l'ouverture au public. Le registre et le nom de domaine fournissent seulement deux repères, juillet 2024 et février 2025, et rien n'indique que le lieu ait porté un autre nom." }
+      ],
+      "sources": ["s3", "s5", "s6", "s7", "s8", "s9", "s10"]
+    },
+    {
+      "id": "galerie-juillet-2025",
+      "title": "Casiers roses, douches carrelées, table de massage : les photos du 7 juillet 2025",
+      "icon": "camera",
+      "summary": "La galerie officielle réunit une trentaine de photos du lieu vide prises en juillet 2025, des clichés d'ateliers BDSM de l'hiver 2025-2026 et les affiches de l'automne 2026.",
+      "blocks": [
+        { "kind": "text", "body": "Nous avons regardé la galerie le 20 octobre 2026. Le lot principal, une trentaine de photos presque toutes datées du 7 juillet 2025 par leur nom de fichier, montre le lieu vide sous des éclairages rose, rouge ou bleu." },
+        {
+          "kind": "list",
+          "title": "Au-delà du bassin et des pièces à thème, on y voit",
+          "items": [
+            "un vestiaire à casiers roses et bancs en bois ;",
+            "une salle de douches carrelée à plusieurs pommeaux ;",
+            "un salon de canapés et de poufs ;",
+            "un escalier métallique balayé de projections lumineuses ;",
+            "une pièce équipée d'une table de massage, décorée de statuettes de Bouddha."
+          ]
+        },
+        { "kind": "text", "body": "Les images versées en décembre 2025 et janvier 2026 sont des photos d'ateliers BDSM avec participants : cire de bougie, jeux de feu, présentoir de lames, croix de Saint-André. Les six affiches de la semaine et celle du massage d'octobre complètent la page." }
+      ],
+      "sources": ["s6"]
+    },
+    {
+      "id": "candauroom-prison-gloryhole",
+      "title": "Candauroom à vitre, « Prison » à barreaux, pilori et cabines gloryhole",
+      "icon": "lock",
+      "summary": "Cinq espaces à thème complètent le spa : une Candauroom où deux chambres se voient à travers une vitre, une pièce BDSM, un espace couple, une « Prison » et des cabines gloryhole.",
+      "blocks": [
+        { "kind": "text", "body": "La page d'accueil associe chaque espace à une photo de juillet 2025. Le tableau croise sa description et ce que montre l'image correspondante." },
+        {
+          "kind": "table",
+          "caption": "Les espaces à thème, d'après le site et ses photos",
+          "headers": ["Espace", "Ce qu'en dit le club", "Sur la photo associée"],
+          "rows": [
+            ["Candauroom", "Deux chambres reliées par une vitre transparente, pour candaulistes, exhibitionnistes et voyeurs", "Grand lit près d'une large ouverture voilée de rideaux"],
+            ["Pièce BDSM", "Jeux de domination et de soumission, équipements dédiés", "Pilori sur pied, banc de fessée, croix de Saint-André, fauteuil-trône blanc"],
+            ["Espace couple", "Pièce présentée comme intime et privée", "Sling sur portique et grande plateforme matelassée, sous lumière rose"],
+            ["La Prison", "Scénarios de pouvoir et de soumission", "Cellule à barreaux métalliques, entraves suspendues"],
+            ["Cabines gloryhole", "Jeux anonymes", "Pièce rouge aux parois percées"]
+          ]
+        },
+        { "kind": "text", "body": "Selon le club, la Candauroom est pensée pour regarder son ou sa partenaire « jouer avec d'autres ». Avant d'entrer à plusieurs dans la pièce BDSM ou la Prison, mieux vaut en revanche s'être accordé sur les rôles et les limites." },
+        { "kind": "text", "body": "Sur Carré Libertin, dont l'accès complet est gratuit pour les couples et les femmes, chaque annonce dit ce que son auteur cherche, avec ses conditions et ses limites : de quoi [mettre ses limites par écrit avant la Prison](aff:carre-libertin) plutôt que de les découvrir sur place." }
+      ],
+      "sources": ["s1", "s3", "s6"]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Lundi": "Fermé",
+      "Mardi": "14 h - 20 h",
+      "Mercredi": "14 h - 22 h",
+      "Jeudi": "14 h - 22 h",
+      "Vendredi": "14 h - 3 h",
+      "Samedi": "14 h - 3 h",
+      "Dimanche": "14 h - 22 h"
+    },
+    "note": "Page horaires mise à jour le 7 juin 2026 et affiches de la semaine publiées en septembre 2026. L'accueil du site garde un ancien encadré « du lundi au jeudi, 14 h - 22 h », antérieur à la fermeture du lundi.",
+    "confidence": "confirme",
+    "sources": ["s1", "s3", "s6"]
+  },
+  "tarifs": {
+    "rows": {
+      "Couple": "40 € (deux boissons offertes)",
+      "Homme seul, mardi à jeudi": "45 € (une boisson offerte)",
+      "Homme seul, vendredi à dimanche": "60 € (une boisson offerte)",
+      "Femme seule": "10 €",
+      "Personne trans": "10 €"
+    },
+    "note": "Grille de la page tarifs (mise à jour le 4 juin 2025, en ligne le 20 octobre 2026), qui libelle le tarif à 45 € « du lundi au jeudi ». Établissement sans alcool. Les soirées spéciales ont leur propre prix.",
+    "confidence": "confirme",
+    "sources": ["s2"]
+  },
+  "equipements": [
+    "Bassin intérieur chauffé",
+    "Grand jacuzzi",
+    "Sauna",
+    "Hammam",
+    "Coins câlins climatisés",
+    "Candauroom",
+    "Pièce BDSM",
+    "Espace couple",
+    "La Prison",
+    "Cabines gloryhole",
+    "Vestiaire à casiers",
+    "Douches",
+    "Grand parking gratuit"
+  ],
+  "officialLinks": [
+    { "label": "Site officiel du Pearl", "url": "https://www.lepearlavignon.fr/", "kind": "site" },
+    { "label": "Galerie : photos du lieu et affiches", "url": "https://www.lepearlavignon.fr/galerie/", "kind": "galerie" },
+    { "label": "Tarifs", "url": "https://www.lepearlavignon.fr/tarifs/", "kind": "autre" },
+    { "label": "Horaires et espaces", "url": "https://www.lepearlavignon.fr/horaires-spa-libertin-avignon-espaces-coquins/", "kind": "autre" },
+    { "label": "Contact et accès", "url": "https://www.lepearlavignon.fr/contact-et-acces-spa-sauna-libertin-avignon/", "kind": "autre" }
+  ],
+  "faq": [
+    {
+      "question": "Le Pearl à Avignon est-il ouvert le lundi ?",
+      "answer": "Non. Un bandeau de la page d'accueil annonce que l'établissement est fermé tous les lundis. Il ouvre du mardi au dimanche à 14 h et ferme à 20 h le mardi, à 22 h du mercredi au jeudi et le dimanche, à 3 h le vendredi et le samedi, d'après la page horaires et les affiches de la semaine."
+    },
+    {
+      "question": "Combien coûte l'entrée au Pearl Avignon ?",
+      "answer": "40 € pour un couple avec deux boissons ; pour un homme seul, 45 € du mardi au jeudi et 60 € du vendredi au dimanche, avec une boisson ; 10 € pour une femme seule ou une personne trans. Les soirées spéciales peuvent coûter davantage : 60 € pour un couple à l'atelier BDSM du 19 décembre 2025."
+    },
+    {
+      "question": "Les hommes seuls sont-ils admis tous les jours ?",
+      "answer": "Oui : la grille tarifaire les accepte chaque jour d'ouverture, et aucune page n'annonce de quota. Seule l'après-midi gang bang du 11 octobre 2026 précisait « sous réserve d'approbation des couples »."
+    },
+    {
+      "question": "Peut-on boire de l'alcool au Pearl ?",
+      "answer": "Non. La page tarifs indique « Établissement sans alcool ». Les boissons comprises dans l'entrée, deux pour un couple et une pour un homme seul, sont donc sans alcool."
+    },
+    {
+      "question": "Quel âge faut-il avoir pour entrer ?",
+      "answer": "21 ans. La page d'accueil l'écrit en tête : « Accès interdit moins de 21 ans. »"
+    },
+    {
+      "question": "Le Pearl organise-t-il des soirées BDSM ?",
+      "answer": "Oui. L'association La Cité des Kinks y a tenu un atelier « Les clefs du BDSM » le 19 décembre 2025 et en annonce une nouvelle édition le samedi 14 novembre 2026, de 20 h à 2 h ; l'association présente ce format comme quatre rendez-vous par an, à 100 places. Le club programme aussi une soirée « SM Sex » le 24 octobre 2026 et dispose d'une pièce BDSM et d'une « Prison »."
+    },
+    {
+      "question": "Quels avis trouve-t-on sur le Pearl Avignon ?",
+      "answer": "Au 20 octobre 2026, nous n'avons trouvé aucun avis public daté sur ce lieu récent, et nous n'avons pas pu consulter de note Google. Les seuls retours lus sont des témoignages non datés, publiés par La Cité des Kinks après ses ateliers, qui remercient l'équipe du club."
+    },
+    {
+      "question": "Comment contacter le Pearl ?",
+      "answer": "Par e-mail à contact@lepearlavignon.fr ou par le formulaire de la page contact du site. Le club ne publie aucun numéro de téléphone ni lien vers un réseau social."
+    }
+  ],
+  "unverified": [
+    "La date d'ouverture au public : le registre date l'établissement de juillet 2024, le site de février 2025, mais aucune annonce ne la précise.",
+    "Le bassin de 100 m² et le jacuzzi de 10 à 14 places, chiffrés seulement sur la billetterie de décembre 2025 et absents du site ; le « sauna finlandais », cité par un seul annuaire concurrent.",
+    "Le code postal exact : 84000 sur le site et au registre, 84140 sur la carte intégrée à la page contact.",
+    "Le montant des quatre tarifs de l'atelier « Clefs du BDSM » du 14 novembre 2026, non détaillés au 20 octobre.",
+    "Si les thèmes quotidiens changent l'accueil des hommes seuls certains jours : aucune page ne le précise.",
+    "Une éventuelle offre de restauration : aucune page n'en parle."
+  ],
+  "sources": [
+    { "id": "s1", "label": "Site officiel du Pearl, page d'accueil (mise à jour le 2 octobre 2026)", "url": "https://www.lepearlavignon.fr/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s2", "label": "Site officiel, page tarifs (mise à jour le 4 juin 2025)", "url": "https://www.lepearlavignon.fr/tarifs/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s3", "label": "Site officiel, page horaires et espaces coquins (mise à jour le 7 juin 2026)", "url": "https://www.lepearlavignon.fr/horaires-spa-libertin-avignon-espaces-coquins/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s4", "label": "Site officiel, page contact et accès", "url": "https://www.lepearlavignon.fr/contact-et-acces-spa-sauna-libertin-avignon/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s5", "label": "Site officiel, mentions légales", "url": "https://www.lepearlavignon.fr/mentions-legales/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s6", "label": "Site officiel, galerie de photos et d'affiches (images regardées)", "url": "https://www.lepearlavignon.fr/galerie/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s7", "label": "Site officiel, liste technique des pages et de leurs dates", "url": "https://www.lepearlavignon.fr/wp-json/wp/v2/pages", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s8", "label": "AFNIC, données d'enregistrement du domaine lepearlavignon.fr", "url": "https://rdap.nic.fr/domain/lepearlavignon.fr", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s9", "label": "Annuaire des entreprises, SAS SJ Marchand d'Azur (SIREN 842 503 872)", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/842503872", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s10", "label": "Billetweb, « Les clefs du BDSM » au Pearl, 19 décembre 2025", "url": "https://www.billetweb.fr/le-pearl-les-cles-du-bdsm", "type": "autre", "consulted": "2026-10-20" },
+    { "id": "s11", "label": "La Cité des Kinks, agenda de l'association", "url": "https://lacitedeskinks.fr/agenda/", "type": "autre", "consulted": "2026-10-20" },
+    { "id": "s12", "label": "La Cité des Kinks, page d'accueil et témoignages", "url": "https://lacitedeskinks.fr/", "type": "autre", "consulted": "2026-10-20" },
+    { "id": "s13", "label": "saunaclublebali.fr, fiche « Le Pearl » (annuaire tenu par un établissement concurrent)", "url": "https://www.saunaclublebali.fr/listing/le-pearl-avignon/", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s14", "label": "La Cité des Kinks, page du format « Clefs du BDSM »", "url": "https://lacitedeskinks.fr/clefsdubdsm", "type": "autre", "consulted": "2026-10-20" }
+  ]
+}

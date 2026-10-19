@@ -1,0 +1,371 @@
+{
+  "slug": "le-diamant-sauve",
+  "clubId": "new-le-diamant-sauve",
+  "researchedAt": "2026-10-20",
+  "display": { "nom": "Le Diamant", "ville": "Sauve" },
+  "status": {
+    "value": "ouvert",
+    "summary": "La soirée « Big Opening » du samedi 10 octobre 2026 ouvre l'agenda officiel du Diamant, qui affiche six autres dates jusqu'au samedi 31 octobre ; SASU Le Diamant a été créée le 11 septembre 2026 à l'adresse du club. Aucun avis client ni article ne permet encore de vérifier, hors du site, que ces premières soirées ont eu lieu.",
+    "sources": ["s1", "s3", "s7"]
+  },
+  "seo": {
+    "title": "Le Diamant à Sauve : tarifs, tenue et soirées d'octobre 2026",
+    "metaDescription": "Ouvert le 10 octobre 2026 à l'adresse du Love, à Sauve (Gard) : couple 40 € le vendredi, homme seul 60 €, chemise exigée. Agenda, photos, réservation.",
+    "subtitle": "Club libertin ouvert le vendredi et le samedi soir depuis octobre 2026 à Sauve (30)",
+    "targetQueries": [
+      "le diamant sauve",
+      "le diamant club libertin sauve",
+      "club libertin sauve",
+      "le love sauve",
+      "le love club libertin sauve",
+      "la maison blanche sauve",
+      "club libertin gard",
+      "le diamant sauve tarifs"
+    ]
+  },
+  "lead": "Le Diamant a ouvert à Sauve le samedi 10 octobre 2026, à l'adresse du club Le Love, dont le site n'affiche plus qu'une page de pause. Ouvert le vendredi et le samedi soir, il fait payer un couple moins cher qu'un homme seul et exige la chemise pour les hommes, les talons pour les femmes. Sa société, immatriculée en septembre 2026, porte au registre le nom commercial « Le Love », sans que le club ait annoncé de reprise.",
+  "glance": [
+    { "icon": "calendar", "label": "Ouvert", "value": "Vendredi et samedi dès 20 h 30" },
+    { "icon": "sparkles", "label": "Ouverture", "value": "Samedi 10 octobre 2026" },
+    { "icon": "euro", "label": "Entrée couple", "value": "40 € ven. · 60 € sam., 2 consos" },
+    { "icon": "users", "label": "Homme seul", "value": "60 € ven. · 70 € sam., 2 consos" },
+    { "icon": "shield", "label": "Tenue", "value": "Chemise exigée, baskets de sport refusées" },
+    { "icon": "history", "label": "Avant", "value": "Le Love, même adresse (lien déduit)", "confidence": "a_verifier" }
+  ],
+  "audience": [
+    { "who": "couples", "status": "oui", "detail": "Vendredi et samedi, deux consommations comprises", "price": "40 à 60 €" },
+    { "who": "femmes", "status": "oui", "detail": "Même tarif les deux soirs, une consommation comprise", "price": "10 €" },
+    { "who": "hommes", "status": "oui", "detail": "Tarif publié pour les deux soirs ; quota ou sélection non précisés", "price": "60 à 70 €" },
+    { "who": "trans", "status": "oui", "detail": "Tarif « transgenre » affiché les deux soirs, une consommation comprise", "price": "20 €" }
+  ],
+  "highlights": [
+    "Hommes : chemise obligatoire, baskets de sport refusées. Femmes : tenue sexy et talons, selon le site du club.",
+    "La réservation se demande en ligne et ne vaut pas accord : le club confirme chaque demande. Rien n'est dit sur l'entrée sans réservation.",
+    "Un couple paie moins qu'un homme seul : 40 € contre 60 € le vendredi, 60 € contre 70 € le samedi.",
+    "Les coordonnées du Love ne sont pas celles du Diamant : appelez le 06 36 27 01 15 ou écrivez à lediamantclub30@gmail.com.",
+    "Parking privé sécurisé sur place, pour voitures et motos."
+  ],
+  "keyFacts": [
+    { "label": "Ouverture", "value": "Samedi 10 octobre 2026 (soirée « Big Opening »)", "confidence": "source_unique", "sources": ["s1", "s3"] },
+    { "label": "Société", "value": "SASU Le Diamant, créée le 11 septembre 2026 (NAF 93.29Z)", "confidence": "confirme", "sources": ["s7"] },
+    { "label": "Soirs d'ouverture", "value": "Vendredi 20 h 30-2 h, samedi 20 h 30-3 h", "confidence": "source_unique", "sources": ["s1"] },
+    { "label": "Public admis", "value": "Couples, femmes seules, hommes seuls, personnes transgenres", "confidence": "source_unique", "sources": ["s2"] },
+    { "label": "Entrée couple", "value": "40 € le vendredi, 60 € le samedi, deux consommations comprises", "confidence": "source_unique", "sources": ["s2"] },
+    { "label": "Tenue", "value": "Chemise exigée pour les hommes, talons pour les femmes", "confidence": "source_unique", "sources": ["s1"] },
+    { "label": "Enseignes précédentes", "value": "Le Love (2024-2026), La Maison Blanche (ouverte en février 2020) ; succession déduite", "confidence": "a_verifier", "sources": ["s7", "s12", "s15", "s18", "s19"] },
+    { "label": "Parking", "value": "Privé et sécurisé, voitures et motos", "confidence": "source_unique", "sources": ["s1"] }
+  ],
+  "sections": [
+    {
+      "id": "du-love-au-diamant",
+      "title": "Une SASU créée le 11 septembre 2026 avec « Le Love » pour nom commercial",
+      "icon": "history",
+      "summary": "Le registre relie Le Diamant au Love, installé à la même adresse depuis 2024, mais le club n'a annoncé ni reprise ni continuité d'équipe.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le site du Diamant ne cite jamais Le Love. Le lien apparaît au registre des entreprises : SASU Le Diamant, immatriculée le 11 septembre 2026 au 12 impasse des Garennes, y déclare le nom commercial « Le Love » et une activité de loisirs (code 93.29Z). Son nom de domaine avait été déposé la veille."
+        },
+        {
+          "kind": "timeline",
+          "items": [
+            { "date": "Février 2020", "text": "Un agenda libertin annonce l'ouverture de La Maison Blanche le samedi 29, le week-end de 21 h 30 à 6 h ; selon un blog, elle ouvre peu avant les fermetures dues au Covid-19." },
+            { "date": "12 août 2024", "text": "Immatriculation de SASU Soyou à l'adresse ; elle éditera le site du Love." },
+            { "date": "14 septembre 2024", "text": "Soirée inaugurale du Love, rapportée par le blog Projet-KA." },
+            { "date": "31 août 2026", "text": "Dernière mise à jour de l'agenda du Love." },
+            { "date": "10-11 septembre 2026", "text": "Dépôt de lediamant-club.com, en ligne le jour même, puis immatriculation de SASU Le Diamant." },
+            { "date": "2 octobre 2026", "text": "Dernière retouche de l'accueil de lelove.fr, réduit à une page « Site en pause » les 16 et 20 octobre." },
+            { "date": "10 octobre 2026", "text": "Big Opening du Diamant." }
+          ]
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Une succession déduite, pas annoncée",
+          "body": "Téléphone, e-mail et société changent, et SASU Soyou reste active au registre au 20 octobre 2026, sans cessation inscrite. Une troisième société, Events Organisations (location immobilière, créée en 2019), est enregistrée sur place sous l'enseigne « Le Love » : son rôle n'est pas établi."
+        }
+      ],
+      "sources": ["s7", "s8", "s9", "s10", "s11", "s12", "s13", "s15", "s18", "s19"]
+    },
+    {
+      "id": "couple-moins-cher-qu-homme-seul",
+      "title": "Couple 40 €, homme seul 60 € : le vendredi, venir à deux coûte moins cher",
+      "icon": "euro",
+      "summary": "Chaque entrée inclut une ou deux consommations ; le samedi coûte 20 € de plus au couple et 10 € de plus à l'homme seul, la femme seule paie 10 € les deux soirs.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "La grille du club ne distingue que le vendredi et le samedi. L'écart le plus net oppose l'homme seul au couple : 60 € contre 40 € le vendredi, 70 € contre 60 € le samedi, deux consommations comprises dans les deux cas. Femmes seules (10 €) et personnes transgenres (20 €) paient le même prix les deux soirs."
+        },
+        {
+          "kind": "table",
+          "caption": "Le Love d'après son site archivé le 16 mai 2026 (page retouchée le 24 juin), Le Diamant en octobre 2026",
+          "headers": ["Entrée", "Le Love, mai 2026", "Le Diamant, octobre 2026"],
+          "rows": [
+            ["Couple, vendredi", "30 €", "40 €"],
+            ["Couple, samedi", "60 €", "60 €"],
+            ["Femme seule, vendredi", "10 €", "10 €"],
+            ["Femme seule, samedi", "20 €", "10 €"],
+            ["Homme seul, vendredi / samedi", "60 € / 70 €", "60 € / 70 €"],
+            ["Personne trans", "Tarif des femmes seules", "20 € les deux soirs"]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le Love excluait les cocktails des consommations offertes ; le Diamant ne précise pas ce que couvrent les siennes. Côté cuisine, la pizza est servie à toute heure pour 20 €, la planche de fromage, de charcuterie ou mixte coûte 20 € pour une personne et 35 € pour deux."
+        }
+      ],
+      "sources": ["s2", "s14"]
+    },
+    {
+      "id": "chemise-talons-reservation",
+      "title": "Chemise pour les hommes, talons pour les femmes, et une réservation à faire valider",
+      "icon": "shield",
+      "summary": "Le club refuse les baskets de sport, demande une tenue sexy et des talons aux femmes, et confirme lui-même chaque demande de réservation.",
+      "blocks": [
+        {
+          "kind": "list",
+          "title": "La tenue exigée selon le site",
+          "items": [
+            "Hommes : chemise obligatoire, baskets de sport refusées.",
+            "Femmes : tenue sexy et talons.",
+            "Le Love allait plus loin, sans pantalon pour les femmes ni short pour les hommes (site archivé en mai 2026) ; le Diamant ne reprend pas ces deux interdits."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "La réservation se demande par formulaire : nom ou pseudo, e-mail, téléphone, nombre de personnes et soirée visée. L'envoi ne vaut pas accord, précise le club, qui confirme ou non chaque demande et ne garantit pas la disponibilité d'une soirée."
+        },
+        {
+          "kind": "text",
+          "body": "Le site ne dit pas si l'on peut se présenter sans réservation. Le Love l'acceptait, sous réserve d'accord à la porte ; rien n'indique que la règle a survécu au changement d'enseigne. Le numéro affiché par le Diamant est le 06 36 27 01 15."
+        }
+      ],
+      "sources": ["s1", "s5", "s6", "s14"]
+    },
+    {
+      "id": "sept-soirees-octobre-2026",
+      "title": "Du Big Opening du 10 octobre à Halloween le 31 : sept soirées publiées",
+      "icon": "calendar",
+      "summary": "L'agenda du site liste sept soirées en octobre 2026, toutes un vendredi ou un samedi, à 20 h 30 sauf l'ouverture, fixée à 20 h.",
+      "blocks": [
+        {
+          "kind": "table",
+          "caption": "Agenda officiel consulté le 20 octobre 2026",
+          "headers": ["Date", "Soirée", "Le thème selon le club"],
+          "rows": [
+            ["Samedi 10 octobre, 20 h", "Big Opening", "Lancement de la saison"],
+            ["Vendredi 16 octobre", "Chic et Glam", "Élégance et glamour"],
+            ["Samedi 17 octobre", "Soirée Infirmière au Vietnam", "Déguisée, en uniformes d'infirmière"],
+            ["Vendredi 23 octobre", "Octobre Rose", "Décor rose, nuit dite solidaire"],
+            ["Samedi 24 octobre", "Octobre Rose, acte II", "Suite de la veille"],
+            ["Vendredi 30 octobre", "After Work", "Décompresser en fin de semaine"],
+            ["Samedi 31 octobre", "Halloween", "Ambiance mystérieuse"]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Chaque date porte un intitulé propre : le club n'affiche pas de thème fixe par jour de la semaine. Les descriptifs, très courts, ne mentionnent ni tarif particulier ni public réservé ; Octobre Rose est dit solidaire, sans précision sur une collecte. L'adjectif « chic » revient dans les sept, « feutrée » dans six."
+        },
+        {
+          "kind": "text",
+          "body": "Le 20 octobre 2026, aucune date n'était publiée après le 31 octobre. Pour comparer avec ce que d'autres clubs programment les mêmes week-ends, [la liste des soirées que les clubs déclarent à l'ex-Netéchangisme](aff:wyylde), rebaptisé Wyylde en 2018, se consulte avec un compte gratuit."
+        }
+      ],
+      "sources": ["s3", "s1"]
+    },
+    {
+      "id": "parking-impasse-des-garennes",
+      "title": "Un parking privé pour voitures et motos, impasse des Garennes à Sauve",
+      "icon": "map",
+      "summary": "Le club annonce un parking privé sécurisé ; pour d'autres soirées dans le Gard, Le New Bora et L'Only-US affichent eux aussi Halloween fin octobre 2026.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "L'adresse est le 12 impasse des Garennes, à [Sauve](/ville/sauve) (30610) ; le registre d'une société domiciliée sur place la situe dans la « ZAM de Combe Martele ». Le site propose un itinéraire Google Maps et annonce un parking privé sécurisé pour voitures et motos. Le Love y accueillait aussi les camping-cars ; le Diamant n'en dit rien."
+        },
+        {
+          "kind": "text",
+          "body": "Le Love se présentait comme situé entre Nîmes, Montpellier et Alès. Ailleurs dans le département, deux clubs publient des dates pour la fin octobre 2026 :"
+        },
+        {
+          "kind": "list",
+          "items": [
+            "[Le New Bora](/le-new-bora-castillon-du-gard), à Castillon-du-Gard, annonce une soirée Halloween le vendredi 30 octobre.",
+            "[L'Only-US](/l-only-us-ales), à Alès, programme Halloween le vendredi 30 et un « remake » le samedi 31 octobre."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Les autres adresses du département sont réunies sur la page [clubs libertins du Gard](/departement/gard)."
+        }
+      ],
+      "sources": ["s1", "s9", "s14", "s16", "s20", "s21"]
+    },
+    {
+      "id": "dix-huit-photos-officielles",
+      "title": "Dix-huit photos officielles : podium à barres de pole dance, balançoire et bar extérieur rose",
+      "icon": "camera",
+      "summary": "La galerie montre des salles noires baignées de rouge et de violet, une piste équipée de barres, des alcôves et une terrasse à palmiers photographiée en plein jour.",
+      "blocks": [
+        {
+          "kind": "list",
+          "items": [
+            "**Le bar** : comptoir capitonné souligné de LED rouges, tabourets hauts, étagères de bouteilles rétroéclairées.",
+            "**La piste** : sol noir brillant, podium à quatre barres de pole dance, boule à facettes et lasers ; un fauteuil baroque blanc au fond de la salle.",
+            "**Les salons** : banquettes blanches en U devant des rideaux rouges, canapé baroque capitonné, couloir rouge sous une arche.",
+            "**Les espaces à l'écart** : alcôve au papier peint damassé, autre alcôve fermée de barreaux argentés, pièce au sol rouge équipée d'une balançoire suspendue à un portique.",
+            "**Dehors** : terrasse bétonnée, palmiers, tables hautes sous une guirlande lumineuse, bar peint en rose et barre de danse sur une estrade ; un jardin d'arbres éclairés par des spots, collines à l'horizon."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Les vues intérieures sont prises sans public, et la fresque du bar extérieur porte l'inscription « Drink in love ! ». Le site ne date pas ses images, mais au moins neuf d'entre elles étaient déjà en ligne le 10 septembre 2026, un mois avant l'ouverture : rien ne dit si les salles ont été refaites depuis l'époque du Love."
+        }
+      ],
+      "sources": ["s4", "s11"]
+    },
+    {
+      "id": "neuf-salons-du-love",
+      "title": "Neuf salons à l'étage et un logement : l'offre du Love que le Diamant ne mentionne plus",
+      "icon": "building",
+      "summary": "En juin 2026, Le Love décrivait neuf salons à l'étage, une quinzaine d'espaces et un logement ; le site du Diamant n'en reprend presque rien.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "L'accueil du Love, archivé en juin 2026, décrivait un bar, une discothèque avec barre de pole dance et neuf salons à l'étage, accessibles par un escalier. Sa liste d'espaces comprenait notamment :"
+        },
+        {
+          "kind": "list",
+          "items": [
+            "une salle voyeurs et une salle des glaces ;",
+            "un glory hole, un coin SM et une « red room » ;",
+            "des salons privés, un patio, des douches et un espace fumeurs."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le Love proposait aussi un logement les vendredis et samedis soir, de 18 h au lendemain midi, avec climatisation, réfrigérateur, micro-ondes et draps fournis."
+        },
+        {
+          "kind": "callout",
+          "tone": "info",
+          "title": "Ce que l'on retrouve au Diamant",
+          "body": "Les photos du Diamant montrent des barres de pole dance, une balançoire, une alcôve à barreaux et une terrasse, compatibles avec cette liste. Le site ne mentionne en revanche ni étage, ni douches, ni glory hole, ni logement : leur maintien reste à vérifier."
+        },
+        {
+          "kind": "text",
+          "body": "Côté réputation, le site du Love affichait en juin 2026 un bandeau « Excellent » fondé sur 72 avis Google, chiffre relayé par le club lui-même ; sa fiche PagesJaunes ne compte aucun avis. Au 20 octobre 2026, nous n'avons trouvé aucune note publique du Diamant."
+        }
+      ],
+      "sources": ["s16", "s17", "s4", "s22"]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Vendredi": "20 h 30 - 2 h",
+      "Samedi": "20 h 30 - 3 h"
+    },
+    "note": "Seuls ces deux soirs figurent sur le site. La soirée d'ouverture du samedi 10 octobre 2026 était annoncée à 20 h.",
+    "confidence": "source_unique",
+    "sources": ["s1", "s3"]
+  },
+  "tarifs": {
+    "rows": {
+      "Couple": "40 € le vendredi · 60 € le samedi (2 consos)",
+      "Femme seule": "10 € le vendredi et le samedi (1 conso)",
+      "Homme seul": "60 € le vendredi · 70 € le samedi (2 consos)",
+      "Personne transgenre": "20 € le vendredi et le samedi (1 conso)",
+      "Pizza (à toute heure)": "20 €",
+      "Planche fromage, charcuterie ou mixte": "20 € (1 pers.) · 35 € (2 pers.)"
+    },
+    "note": "Grille publiée par le club, relevée le 20 octobre 2026.",
+    "confidence": "source_unique",
+    "sources": ["s2"]
+  },
+  "equipements": [
+    "Bar intérieur",
+    "Bar extérieur",
+    "Piste de danse",
+    "Barres de pole dance",
+    "Salons et alcôves",
+    "Balançoire",
+    "Terrasse",
+    "Jardin",
+    "Restauration (pizzas, planches)",
+    "Parking privé sécurisé"
+  ],
+  "officialLinks": [
+    { "label": "Site officiel", "url": "https://lediamant-club.com/", "kind": "site" },
+    { "label": "Agenda des soirées", "url": "https://lediamant-club.com/#soirees", "kind": "agenda" },
+    { "label": "Galerie (18 photos)", "url": "https://lediamant-club.com/galerie/", "kind": "galerie" },
+    { "label": "Tarifs", "url": "https://lediamant-club.com/tarifs/", "kind": "autre" },
+    { "label": "Demande de réservation", "url": "https://lediamant-club.com/reservation/", "kind": "reservation" },
+    { "label": "Facebook", "url": "https://www.facebook.com/lediamantclubsauve", "kind": "facebook" },
+    { "label": "Instagram", "url": "https://www.instagram.com/lediamantclub30/", "kind": "instagram" },
+    { "label": "TikTok", "url": "https://www.tiktok.com/@lediamantsauve1", "kind": "autre" }
+  ],
+  "faq": [
+    {
+      "question": "Le Diamant à Sauve, c'est l'ancien Love ?",
+      "answer": "Il occupe la même adresse, le 12 impasse des Garennes, et sa société, créée le 11 septembre 2026, déclare au registre le nom commercial « Le Love ». Le club n'a toutefois rien annoncé : téléphone, e-mail et société diffèrent, et la continuité de l'équipe n'est pas établie."
+    },
+    {
+      "question": "Le Love à Sauve est-il fermé ?",
+      "answer": "Son site, lelove.fr, n'affiche plus qu'une page « Site en pause » (constaté les 16 et 20 octobre 2026), et Le Diamant a ouvert à son adresse le 10 octobre. Aucune annonce officielle de fermeture n'a été publiée, et SASU Soyou, qui l'exploitait, reste active au registre."
+    },
+    {
+      "question": "Combien coûte l'entrée au Diamant ?",
+      "answer": "Le vendredi : 40 € pour un couple, 10 € pour une femme seule, 60 € pour un homme seul, 20 € pour une personne transgenre. Le samedi : 60 €, 10 €, 70 € et 20 €. Couples et hommes seuls ont deux consommations comprises, femmes seules et personnes trans une."
+    },
+    {
+      "question": "Quels sont les horaires du Diamant ?",
+      "answer": "Le vendredi de 20 h 30 à 2 h et le samedi de 20 h 30 à 3 h, selon le site. Aucun autre jour n'est annoncé ; la soirée d'ouverture du 10 octobre 2026 débutait à 20 h. Du dimanche au jeudi, pour [rencontrer des Gardois les soirs où le club est fermé](aff:gleese), Gleese, réseau libertin français aux données hébergées en France, s'essaie gratuitement ; sa communauté reste moins nombreuse que celle de Wyylde, surtout hors des grandes villes."
+    },
+    {
+      "question": "Faut-il réserver pour aller au Diamant ?",
+      "answer": "Le club invite à réserver par formulaire en ligne et précise que chaque demande doit être confirmée par l'établissement. Le site ne dit pas si l'on peut entrer sans réservation : le plus sûr est d'appeler le 06 36 27 01 15."
+    },
+    {
+      "question": "Comment préparer une première soirée à deux au Diamant ?",
+      "answer": "Vérifiez d'abord la tenue (chemise pour monsieur, talons pour madame) et choisissez une date dans l'agenda du site. Pour [sonder des couples nîmois et alésiens avant de réserver](aff:carre-libertin), Carré Libertin, qui revendique plus de 500 000 inscrits, n'impose aucun abonnement aux couples ni aux femmes."
+    },
+    {
+      "question": "Peut-on manger au Diamant ?",
+      "answer": "Le club sert des pizzas à toute heure (20 €) et des planches de fromage, de charcuterie ou mixtes (20 € pour une personne, 35 € pour deux). Le site n'annonce pas de repas à thème, que Le Love proposait une fois par mois."
+    }
+  ],
+  "unverified": [
+    "La soirée d'ouverture du 10 octobre 2026 et les suivantes ont-elles eu lieu comme annoncé ? Aucune source extérieure au club ne le confirme encore.",
+    "Le Diamant est-il une reprise du Love par une nouvelle équipe ou un simple changement de nom ? Le club ne l'a pas dit.",
+    "Peut-on entrer sans réservation, et les hommes seuls sont-ils soumis à un quota ou à une sélection ?",
+    "Les neuf salons à l'étage, les douches et le logement décrits par Le Love existent-ils toujours ?",
+    "Les consommations comprises dans l'entrée incluent-elles les cocktails, que Le Love excluait ?",
+    "Le club ouvre-t-il les veilles de jours fériés, comme l'annonçait Le Love ?",
+    "Quel est le rôle d'Events Organisations, société immobilière enregistrée à l'adresse sous l'enseigne « Le Love » ?"
+  ],
+  "sources": [
+    { "id": "s1", "label": "Site officiel du Diamant, page d'accueil (horaires, tenue, parking, ouverture)", "url": "https://lediamant-club.com/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s2", "label": "Site officiel du Diamant, « Tarifs »", "url": "https://lediamant-club.com/tarifs/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s3", "label": "Site officiel du Diamant, agenda (fichier de données des soirées)", "url": "https://lediamant-club.com/content/data/events.json", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s4", "label": "Site officiel du Diamant, « Galerie » (18 photos regardées)", "url": "https://lediamant-club.com/galerie/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s5", "label": "Site officiel du Diamant, « Réservation »", "url": "https://lediamant-club.com/reservation/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s6", "label": "Site officiel du Diamant, « Conditions d'utilisation » (mises à jour le 4 septembre 2026)", "url": "https://lediamant-club.com/conditions-utilisation/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s7", "label": "Registre des entreprises, SASU LE DIAMANT (créée le 11/09/2026, nom commercial « LE LOVE »)", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/109371013", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s8", "label": "Registre des entreprises, SASU SOYOU (créée le 12/08/2024, nom commercial « LE LOVE »)", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/932279649", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s9", "label": "Registre des entreprises, EVENTS ORGANISATIONS (créée le 24/07/2019, enseigne « LE LOVE »)", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/853102341", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s10", "label": "RDAP Verisign, enregistrement du domaine lediamant-club.com (10/09/2026)", "url": "https://rdap.verisign.com/com/v1/domain/lediamant-club.com", "type": "autre", "consulted": "2026-10-20" },
+    { "id": "s11", "label": "Internet Archive, captures de lediamant-club.com (première le 10/09/2026)", "url": "https://web.archive.org/web/20260910170445/https://lediamant-club.com/", "type": "autre", "consulted": "2026-10-20" },
+    { "id": "s12", "label": "Site du Love, page « Site en pause »", "url": "https://lelove.fr/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s13", "label": "Site du Love, plan du site (dates de modification des pages)", "url": "https://lelove.fr/page-sitemap1.xml", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s14", "label": "Site du Love, « Horaires et Tarifs », archive du 16/05/2026", "url": "https://web.archive.org/web/20260516133654/https://lelove.fr/horaires-tarifs-club-libertin-sauve/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s15", "label": "Site du Love, « Mentions légales », archive du 21/04/2026", "url": "https://web.archive.org/web/20260421104137/https://lelove.fr/mentions-legales/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s16", "label": "Site du Love, page d'accueil, archive du 09/06/2026", "url": "https://web.archive.org/web/20260609182604/https://lelove.fr/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s17", "label": "Site du Love, « Logement », archive du 09/06/2026", "url": "https://web.archive.org/web/20260609174834/https://lelove.fr/logement/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s18", "label": "Projet-KA, « Un nouveau club libertin en Occitanie » (16/09/2024)", "url": "https://www.projet-ka.fr/un-nouveau-club-libertin-en-occitanie/", "type": "autre", "consulted": "2026-10-20" },
+    { "id": "s19", "label": "oopss.fr, agenda « La Maison Blanche » (ouverture annoncée le 29/02/2020)", "url": "https://www.oopss.fr/agenda-pro-la-maison-blanche-94461152023.html", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s20", "label": "Site officiel du New Bora, « Vendredi 30 octobre – Halloween »", "url": "https://www.lenewbora.fr/events/vendredi-30-octobre-halloween/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s21", "label": "Site officiel de L'Only-US, agenda", "url": "https://lonlyus.com/agenda/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s22", "label": "PagesJaunes, fiche « Le Love » à Sauve (aucun avis)", "url": "https://www.pagesjaunes.fr/pros/63489062", "type": "annuaire", "consulted": "2026-10-20" }
+  ]
+}

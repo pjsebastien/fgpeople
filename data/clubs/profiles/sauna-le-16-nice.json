@@ -1,0 +1,792 @@
+{
+  "slug": "sauna-le-16-nice",
+  "clubId": "14792",
+  "researchedAt": "2026-10-16",
+  "display": {
+    "nom": "Sauna Le 16",
+    "ville": "Nice"
+  },
+  "status": {
+    "value": "fermeture_probable",
+    "summary": "La dernière date que l'on retrouve sur le site du club est un après-midi « gang bang » le mercredi 18 juillet 2012. Le 12 mars 2013, son adresse renvoyait vers la page d'erreur de l'hébergeur, dès mai 2013 le domaine n'affichait plus qu'une page de parking « may be for sale », et il n'est plus enregistré en octobre 2026. À cette date, aucun article, avis ou réseau social à son nom ne ressort des recherches web ; PagesJaunes, OpenStreetMap et les guides libertins niçois de 2025-2026 l'ignorent, seuls trois annuaires figés, sans date ni avis, le mentionnent encore, et aucune société liée au lieu n'apparaît au registre. Faute d'annonce officielle, d'article ou de mention « définitivement fermé », la fermeture n'est pas formellement établie.",
+    "sources": [
+      "s16",
+      "s17",
+      "s18",
+      "s19",
+      "s1",
+      "s20",
+      "s23",
+      "s24",
+      "s21",
+      "s25",
+      "s31",
+      "s32",
+      "s36",
+      "s37",
+      "s38"
+    ]
+  },
+  "seo": {
+    "title": "Sauna Le 16 à Nice : un sauna libertin sans activité depuis 2012",
+    "metaDescription": "Rue Smollett, Le 16 mêlait sauna l'après-midi, soirées avec DJ et six coins câlins à thème. Dernière date en juillet 2012, site effacé avant mars 2013.",
+    "subtitle": "Sauna-club libertin du 16 rue Smollett à Nice (06), sans trace d'activité depuis juillet 2012",
+    "targetQueries": [
+      "sauna libertin nice",
+      "club libertin nice",
+      "clubs libertins nice",
+      "libertin nice",
+      "libertine nice",
+      "libertinage nice",
+      "club adulte nice",
+      "cinema porno nice",
+      "sauna le 16 nice"
+    ]
+  },
+  "lead": "Sauna et jacuzzi l'après-midi, soirées avec DJ ou à thème, six coins câlins dont un coin SM à croix et balançoire : Le 16 se présentait en 2011 comme un « sauna-club libertin ». Les femmes seules y entraient gratuitement l'après-midi. La dernière date retrouvée sur son site est le 18 juillet 2012 ; en mars 2013, le site n'existait plus, et aucune activité n'est visible depuis.",
+  "glance": [
+    {
+      "icon": "closed",
+      "label": "Statut",
+      "value": "Probablement fermé, rien depuis 2012",
+      "confidence": "a_verifier"
+    },
+    {
+      "icon": "history",
+      "label": "Dernière date affichée",
+      "value": "18 juillet 2012"
+    },
+    {
+      "icon": "globe",
+      "label": "Site officiel",
+      "value": "Disparu avant mars 2013, domaine libre"
+    },
+    {
+      "icon": "euro",
+      "label": "Après-midi en 2012",
+      "value": "Couple 5 € · homme seul 20 € · femme 0 €"
+    },
+    {
+      "icon": "spa",
+      "label": "Saunas ouverts à Nice",
+      "value": "Le Boudoir dès 14 h · Sauna du Château 13 h"
+    },
+    {
+      "icon": "map",
+      "label": "Adresse",
+      "value": "16 rue Smollett, 06300 Nice"
+    }
+  ],
+  "audience": [
+    {
+      "who": "couples",
+      "status": "oui",
+      "detail": "En 2012 : 5 € l'après-midi, 15 à 25 € en soirée selon la soirée (tarifs d'archive)",
+      "price": "5 à 25 €"
+    },
+    {
+      "who": "femmes",
+      "status": "oui",
+      "detail": "En 2012 : entrée gratuite l'après-midi comme en soirée (tarifs d'archive)",
+      "price": "0 €"
+    },
+    {
+      "who": "hommes",
+      "status": "oui",
+      "detail": "En 2012 : 20 € l'après-midi, 30 à 50 € en soirée selon la soirée (tarifs d'archive)",
+      "price": "20 à 50 €"
+    }
+  ],
+  "highlights": [
+    "Aucune activité visible depuis l'été 2012 : les horaires et tarifs de cette page sont des archives du site officiel, pas des conditions actuelles.",
+    "Le portable affiché par le club en 2011-2012 n'a pas été vérifié et a pu être réattribué : ce n'est pas un contact du lieu.",
+    "Le Cercle, sauna du 16 avenue Clément-Ader (06100), est un autre établissement : ne le confondez pas avec Le 16 de la rue Smollett.",
+    "Le club écrivait « rue Smolett » ; la graphie officielle est « Smollett », celle qui permet de retrouver l'adresse sur une carte.",
+    "En octobre 2026, Le Boudoir (dès 14 h, sauf le mercredi) et le Sauna du Château (7 j/7 dès 13 h) ouvraient leur sauna l'après-midi à Nice."
+  ],
+  "keyFacts": [
+    {
+      "label": "Dernière activité datée",
+      "value": "18 juillet 2012, après-midi annoncé sur le site officiel",
+      "confidence": "confirme",
+      "sources": [
+        "s16"
+      ]
+    },
+    {
+      "label": "Site officiel",
+      "value": "saunale16.net, supprimé entre juillet 2012 et mars 2013, domaine non enregistré en 2026",
+      "confidence": "confirme",
+      "sources": [
+        "s17",
+        "s18",
+        "s19"
+      ]
+    },
+    {
+      "label": "Adresse",
+      "value": "16 rue Smollett, 06300 Nice (« Smolett » sur le site du club)",
+      "confidence": "confirme",
+      "sources": [
+        "s8",
+        "s22",
+        "s1"
+      ]
+    },
+    {
+      "label": "Formule",
+      "value": "Sauna et jacuzzi l'après-midi, soirées avec DJ ou à thème",
+      "confidence": "confirme",
+      "sources": [
+        "s7",
+        "s9",
+        "s12"
+      ]
+    },
+    {
+      "label": "Public admis",
+      "value": "Femmes seules, couples, hommes seuls ; interdit aux mineurs",
+      "confidence": "confirme",
+      "sources": [
+        "s7",
+        "s15",
+        "s16"
+      ]
+    },
+    {
+      "label": "Entrée femme seule",
+      "value": "Gratuite l'après-midi en 2011 comme en 2012",
+      "confidence": "confirme",
+      "sources": [
+        "s3",
+        "s9",
+        "s16"
+      ]
+    },
+    {
+      "label": "Espaces de jeu",
+      "value": "Six coins câlins décrits fin 2011 ; une page de 2011 les situait « En sous-sol »",
+      "confidence": "source_unique",
+      "sources": [
+        "s6",
+        "s11"
+      ]
+    },
+    {
+      "label": "Exploitant",
+      "value": "Non identifié : aucune société liée au lieu trouvée au registre ni au BODACC",
+      "confidence": "confirme",
+      "sources": [
+        "s20",
+        "s21"
+      ]
+    },
+    {
+      "label": "En ligne depuis",
+      "value": "Avril 2011 au moins ; date d'ouverture du lieu inconnue",
+      "confidence": "a_verifier",
+      "sources": [
+        "s2",
+        "s3"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "juillet-2012-site-efface",
+      "title": "18 juillet 2012, dernière date annoncée ; mars 2013, un site effacé",
+      "icon": "closed",
+      "summary": "La dernière date retrouvée sur le site est le 18 juillet 2012 ; en mars 2013 le site renvoie vers une page d'erreur, puis le domaine est mis en vente.",
+      "blocks": [
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "Avril 2011",
+              "text": "Première capture du site, qui annonce une nouvelle directrice et un « new concept » : le lieu existait sans doute avant."
+            },
+            {
+              "date": "Fin 2011",
+              "text": "Un « afterwork » est annoncé en semaine dès 17 h, « à partir de novembre » selon une page du site (apéritif, jacuzzi, sauna)."
+            },
+            {
+              "date": "Avril 2012",
+              "text": "Le « cercle privé » est annoncé « temporairement fermé », mais les portes du 16 restent ouvertes."
+            },
+            {
+              "date": "Juin 2012",
+              "text": "Soirées le vendredi et le samedi dès 22 h, prix en baisse ; après-midi et soirée gang bang le 15 juin, après-midi le 23 juin."
+            },
+            {
+              "date": "18 juillet 2012",
+              "text": "Dernière activité datée : un après-midi gang bang, de 14 h à 20 h. Les horaires de l'accueil n'affichent plus que les après-midi, sans la ligne des soirées du vendredi et du samedi."
+            },
+            {
+              "date": "12 mars 2013",
+              "text": "Le site n'existe plus : son adresse renvoie vers la page d'erreur de l'hébergeur WebSelf."
+            },
+            {
+              "date": "Mai 2013 à 2018",
+              "text": "saunale16.net n'est plus qu'une page de parking, qui annonce que le domaine « may be for sale »."
+            },
+            {
+              "date": "Octobre 2026",
+              "text": "Le nom de domaine n'est plus enregistré."
+            }
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Les archives ne contiennent aucune annonce de fermeture, et la disparition d'un site ne date pas à elle seule la fin d'un lieu : le moment exact reste inconnu. En octobre 2026, Le 16 est absent des 46 saunas et hammams niçois de PagesJaunes comme de sa rubrique des clubs libertins, OpenStreetMap ne signale rien de tel à l'adresse, et au numéro 16 sont domiciliés un primeur, un commerce de décoration et d'autres activités sans rapport."
+        }
+      ],
+      "sources": [
+        "s2",
+        "s3",
+        "s12",
+        "s13",
+        "s14",
+        "s15",
+        "s16",
+        "s17",
+        "s18",
+        "s19",
+        "s20",
+        "s23",
+        "s24",
+        "s25",
+        "s29",
+        "s30"
+      ]
+    },
+    {
+      "id": "sauna-mixte-nice-2026",
+      "title": "Après-midi sauna à Nice en 2026 : le Boudoir dès 14 h, le Château dès 13 h",
+      "icon": "spa",
+      "summary": "Le Boudoir (avenue Edouard-Grinda) ouvre sauna et hammam dès 14 h sauf le mercredi ; le Sauna du Château, mixte, tous les jours dès 13 h. Le Morgan, « 100 % gay », n'est pas mixte.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Si vous cherchez un sauna libertin à Nice, la rue Smollett n'est plus une piste. Deux lieux contrôlés pour cette fiche en octobre 2026 reprennent la formule qu'avait Le 16, celle d'un sauna ouvert l'après-midi :"
+        },
+        {
+          "kind": "list",
+          "items": [
+            "[Le Boudoir, l'ancien L'AS](/l-as-nice), au 30 avenue Edouard-Grinda : sauna et hammam de 14 h à 19 h tous les jours sauf le mercredi, soirées du jeudi au samedi de 21 h 30 à 2 h 30. Femmes seules invitées, couple 20 €, homme seul 30 € l'après-midi et 50 € le soir ; programme daté pour tout octobre.",
+            "le [Sauna du Château](/sauna-du-chateau-nice), sauna mixte de 500 m² selon son site : ouvert tous les jours dès 13 h, 30 € l'entrée en journée pour un couple mixte. Son site a été mis à jour le 12 septembre 2026."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le [Morgan, bar et club gay pour hommes](/morgan-cruising-bar-men-s-club-gay-nice) affichait le 20 octobre 2026 un agenda de soirées datées jusqu'au 1er novembre, mais se présente comme « 100 % gay » : ce n'est pas une sortie mixte. Les autres lieux de la [page consacrée à Nice](/ville/nice) n'ont pas été vérifiés dans le cadre de cette fiche."
+        }
+      ],
+      "sources": [
+        "s34",
+        "s35",
+        "s27",
+        "s28"
+      ]
+    },
+    {
+      "id": "coins-calins-miroirs-croix",
+      "title": "Miroirs, glory holes et croix SM : les six coins câlins du 16",
+      "icon": "lock",
+      "summary": "Fin 2011, le site décrivait six coins câlins : miroirs, « infirmière », coin à clé, grand lit d'angle, glory holes et coin SM avec croix et balançoire.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "En avril 2011, le site énumérait un jacuzzi, un sauna, des douches, une piste de danse, un bar, des salons, une « salle fumeur » et de « multiples coins câlins climatisés », ces derniers présentés sur une page intitulée « En sous-sol ». Fin 2011, il en décrivait six :"
+        },
+        {
+          "kind": "list",
+          "items": [
+            "une chambre couverte de miroirs du sol au plafond",
+            "un coin « infirmière »",
+            "un coin intime fermant à clé",
+            "un coin « pluralité » meublé d'un grand lit d'angle",
+            "un coin glory holes",
+            "un coin SM équipé d'une croix et d'une balançoire"
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Des massages sur réservation étaient annoncés en avril 2011, et des préservatifs mis à disposition en 2012. L'espace vidéo, la barre d'exhibition et les vestiaires, que l'annuaire sauna-club-libertin.com affiche en pictogrammes, n'apparaissent en revanche sur aucune page lue du site : nous ne les reprenons pas."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s3",
+        "s5",
+        "s6",
+        "s11",
+        "s15"
+      ]
+    },
+    {
+      "id": "automne-2011-programme",
+      "title": "Initiation salsa, Halloween, gang bang à 15 hommes : l'automne 2011 au 16",
+      "icon": "music",
+      "summary": "Initiation latino, Halloween et après-midi gang bang limité à 15 hommes à l'automne 2011, puis trois dates gang bang en juin et juillet 2012.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le club programmait en 2011 une soirée à thème chaque jeudi (open bar sans alcool, buffet sur réservation), puis des week-ends « clubbing and sex » avec DJ. Fin octobre 2011, au programme :"
+        },
+        {
+          "kind": "list",
+          "items": [
+            "vendredi 28 octobre : soirée show dès 22 h 30",
+            "samedi 29 octobre : initiation bachata, salsa et merengue avec un professeur, puis dancefloor jusqu'à l'aube",
+            "lundi 31 octobre : soirée Halloween, tarif réduit pour les hommes déguisés",
+            "samedi 5 novembre : après-midi gang bang de 15 h à 18 h, sur réservation, 15 hommes au maximum"
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Il se privatisait aussi pour des enterrements de vie de jeune fille ou de garçon. Les trois dernières dates retrouvées sur son site, les 15 et 23 juin puis le 18 juillet 2012, étaient des après-midi gang bang avec des invitées, doublés d'une soirée le 15 juin.\n\nLe 16 publiait ces rendez-vous sur son propre site. Pour vérifier aujourd'hui qu'un lieu de la Côte d'Azur tient bien une soirée avant de prendre la route, l'agenda de Wyylde, l'ancien Netéchangisme, permet de [repérer les soirées à thème programmées autour de Nice](aff:wyylde) ; un compte gratuit suffit pour le consulter, pas pour répondre aux messages."
+        }
+      ],
+      "sources": [
+        "s4",
+        "s7",
+        "s10",
+        "s15",
+        "s16",
+        "s29",
+        "s30"
+      ]
+    },
+    {
+      "id": "femmes-gratuites-prix-2012",
+      "title": "Femme seule gratuite, homme seul passé de 25 à 20 € : les prix de 2011-2012",
+      "icon": "euro",
+      "summary": "Femme seule gratuite ; à l'été 2012, l'après-midi passe à 5 € le couple et 20 € l'homme seul, la soirée à 15-25 € et 30-50 €.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Les prix baissent nettement à l'été 2012. L'après-midi, la femme seule entre toujours gratuitement, le couple passe de 10 € à 5 € et l'homme seul de 25 € à 20 €. En soirée, l'homme seul paie 30 à 50 € contre 40 à 60 € de fin octobre 2011 à avril 2012, le couple 15 à 25 € contre 25 à 40 €, et la femme seule, facturée 10 € certains soirs de 2011, entre gratuitement. Ce dernier état, vieux de quatorze ans, figure dans l'encadré des tarifs.\n\nCette gratuité féminine se retrouve en ligne chez Carré Libertin, ouvert en 2007 : [ni les femmes seules ni les couples n'y paient d'abonnement](aff:carre-libertin), à condition d'afficher trois photos de profil, de quoi nouer des contacts sur la Côte d'Azur avant de choisir un lieu encore ouvert."
+        }
+      ],
+      "sources": [
+        "s3",
+        "s7",
+        "s9",
+        "s10",
+        "s12",
+        "s14",
+        "s15",
+        "s16"
+      ]
+    },
+    {
+      "id": "traces-en-ligne-2026",
+      "title": "Ni avis ni article en 2026, et un homonyme au 16 avenue Clément-Ader",
+      "icon": "globe",
+      "summary": "En octobre 2026, aucune recherche ne fait remonter d'avis, d'article ou de page active ; seuls trois annuaires non datés gardent une fiche, et Le Cercle brouille les résultats.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Seize recherches web menées le 20 octobre 2026, sur le nom du club, son ancien domaine, son portable, l'adresse sous ses deux graphies, Nice-Matin ou une fermeture, n'ont fait remonter ni article de presse, ni fiche Google, ni page Facebook publique, ni avis daté.\n\nLes trois guides des sorties niçoises consultés, publiés ou mis à jour entre mars 2025 et septembre 2026, recensent d'autres saunas de la ville, jamais Le 16."
+        },
+        {
+          "kind": "text",
+          "body": "Trois annuaires conservent une fiche, sans date ni avis :"
+        },
+        {
+          "kind": "list",
+          "items": [
+            "sauna-club-libertin.com, sous le nom « Sauna le 16 » : les horaires et la devise du site de l'été 2012 (après-midi du mardi au dimanche, vendredi et samedi soir dès 22 h), sans tarif ;",
+            "koifaire, sous le nom « Club 16 Sauna » et l'adresse fautive « rue Somlette » : après-midi du lundi au samedi de 14 h à 19 h « pour l'instant », une grille qui ne correspond à aucune de celles relevées sur le site du club en 2011-2012 ;",
+            "Near-Place, sous le nom « club le16 sauna echangistes » : coordonnées exactes du numéro 16, mais ni horaires, ni téléphone complet, ni commentaire."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Un homonyme brouille aussi les pistes : Le Cercle, sauna du 16 avenue Clément-Ader (06100), revient souvent avec le chiffre 16. C'est un autre établissement, [présent dans notre annuaire](/le-cercle-nice), dont la fiche PagesJaunes portait un avis daté du 24 mai 2026."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s31",
+        "s32",
+        "s33",
+        "s36",
+        "s37",
+        "s38"
+      ]
+    },
+    {
+      "id": "rue-smolett-exploitant",
+      "title": "« Rue Smolett » et un exploitant introuvable : onze entités au n° 16, aucune liée au club",
+      "icon": "building",
+      "summary": "Le club écrivait « rue Smolett » ; aucune société liée au lieu n'apparaît au registre ni au BODACC, et ses pages lues n'avaient pas de mentions légales.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le club se nommait « Sauna Le 16 » en 2011, « Le 16 Sauna Club » en 2012, et écrivait « rue Smolett » ; la Base Adresse Nationale retient « Smollett ». Pour retrouver d'anciennes traces du lieu, cherchez les deux graphies.\n\nL'exploitant reste inconnu. Les captures lues ne montrent pas de mentions légales ; au registre, aucune des onze entités domiciliées, hier ou aujourd'hui, au 16 rue Smollett n'a eu pour activité un sauna, un club ou un débit de boissons ; au BODACC, aucune des 1 047 annonces citant la rue ne concerne un tel établissement au numéro 16. Le groupe Facebook annoncé en 2011 reste caché derrière un mur de connexion."
+        }
+      ],
+      "sources": [
+        "s3",
+        "s15",
+        "s16",
+        "s20",
+        "s21",
+        "s22",
+        "s26"
+      ]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Lundi": "Fermé",
+      "Mardi à jeudi": "14 h - 19 h",
+      "Vendredi et samedi": "14 h - 19 h, puis soirée dès 22 h (juin 2012)",
+      "Dimanche": "14 h - 19 h"
+    },
+    "note": "Site officiel, captures des 16 et 23 juin 2012. Sur la dernière capture, du 18 juillet 2012, l'accueil n'affiche plus que les après-midi du mardi au dimanche. Aucune activité n'est visible depuis : ces horaires ne valent plus aujourd'hui.",
+    "confidence": "a_verifier",
+    "sources": [
+      "s29",
+      "s30",
+      "s16",
+      "s15"
+    ]
+  },
+  "tarifs": {
+    "rows": {
+      "Après-midi, femme seule": "Gratuit",
+      "Après-midi, couple": "5 €",
+      "Après-midi, homme seul": "20 €",
+      "Soirée, femme seule": "Gratuit",
+      "Soirée, couple": "15 à 25 € selon la soirée",
+      "Soirée, homme seul": "30 à 50 € selon la soirée"
+    },
+    "note": "Grille du site officiel en juin et juillet 2012, une consommation comprise en soirée. Tarifs historiques : le lieu ne montre plus d'activité depuis l'été 2012.",
+    "confidence": "a_verifier",
+    "sources": [
+      "s15",
+      "s29",
+      "s16"
+    ]
+  },
+  "equipements": [
+    "Jacuzzi",
+    "Sauna",
+    "Douches",
+    "Bar",
+    "Piste de danse",
+    "Salons",
+    "Chambre aux miroirs",
+    "Coin câlin fermant à clé",
+    "Glory holes",
+    "Coin SM (croix, balançoire)",
+    "Soirées avec DJ"
+  ],
+  "faq": [
+    {
+      "question": "Le Sauna Le 16, rue Smollett à Nice, est-il encore ouvert ?",
+      "answer": "Très probablement pas : dernière date annoncée le 18 juillet 2012, site disparu avant mars 2013, aucune activité relevée à l'adresse ni aucun avis ou article en ligne en octobre 2026. La date exacte de fermeture reste inconnue."
+    },
+    {
+      "question": "Où trouver un sauna libertin ouvert à Nice ?",
+      "answer": "Deux saunas niçois de notre annuaire ont été vérifiés ouverts pour cette fiche en octobre 2026 : Le Boudoir (ex-L'AS), avenue Edouard-Grinda, avec sauna et hammam l'après-midi dès 14 h sauf le mercredi, et le Sauna du Château, sauna mixte ouvert tous les jours dès 13 h."
+    },
+    {
+      "question": "Existe-t-il un club libertin dans Nice même ?",
+      "answer": "Oui : Le Boudoir, au 30 avenue Edouard-Grinda, annonçait en octobre 2026 des soirées du jeudi au samedi de 21 h 30 à 2 h 30, avec un programme daté pour tout le mois. La rubrique niçoise des clubs libertins de PagesJaunes, elle, ne renvoie qu'à Le Cannet et Fréjus. Pour [échanger avec des libertins de la région niçoise](aff:gleese) avant une sortie, Gleese, site français lancé fin 2024, s'utilise sans carte bancaire et vérifie chaque compte par téléphone, avec encore moins de membres que les sites plus anciens."
+    },
+    {
+      "question": "Le Cercle, au 16 avenue Clément-Ader, est-ce le même lieu que Le 16 ?",
+      "answer": "Non. Le 16 était au 16 rue Smollett (06300) ; Le Cercle est un autre sauna, au 16 avenue Clément-Ader (06100). Sa fiche PagesJaunes portait un avis daté du 24 mai 2026 ; son activité n'a pas été vérifiée plus avant pour cette fiche."
+    },
+    {
+      "question": "Le 16 avait-il une salle de cinéma ou un espace vidéo ?",
+      "answer": "Rien ne l'indique : aucune page de son site ne mentionne de cinéma ni d'espace vidéo. Seule une icône « salon ou espace vidéo » de l'annuaire sauna-club-libertin.com le suggère, sans date ni description."
+    },
+    {
+      "question": "Le numéro de téléphone du 16 fonctionne-t-il encore ?",
+      "answer": "Nous ne l'avons pas vérifié. Le portable affiché en 2011-2012 a pu être réattribué depuis : ne le considérez pas comme un contact du lieu."
+    }
+  ],
+  "unverified": [
+    "La date exacte de fermeture, quelque part entre le 18 juillet 2012 (dernière date annoncée) et le 12 mars 2013 (site supprimé).",
+    "La date d'ouverture du lieu, sans doute antérieure à avril 2011, quand le site annonçait une « nouvelle directrice ».",
+    "La société ou l'association qui exploitait le club.",
+    "Ce qu'affiche la fiche Google du lieu, si elle existe encore (avis, mention de fermeture) : aucune n'est ressortie des recherches web d'octobre 2026.",
+    "La période que couvre la fiche koifaire (« Club 16 Sauna », après-midi du lundi au samedi), qui ne porte aucune date.",
+    "Les conditions d'adhésion au « cercle privé » évoqué en avril 2012.",
+    "Si les massages annoncés en avril 2011 ont été proposés plus de quelques mois.",
+    "Ce qu'est devenu l'espace qu'occupait le club au 16 rue Smollett.",
+    "À qui appartient aujourd'hui le numéro de portable affiché par le club en 2011-2012."
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "sauna-club-libertin.com, fiche « Sauna Le 16 » (annuaire d'origine de notre fiche, contenu figé à l'été 2012)",
+      "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_3.php?id=14792&d=06",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s2",
+      "label": "Internet Archive, historique des captures de saunale16.net (avril 2011 à novembre 2018)",
+      "url": "https://web.archive.org/cdx/search/cdx?url=saunale16.net&fl=timestamp,statuscode&collapse=timestamp:6",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s3",
+      "label": "Site officiel, page « Bienvenue » (archive du 10/04/2011)",
+      "url": "https://web.archive.org/web/20110410050841/http://www.saunale16.net/bienvenue.ws",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s4",
+      "label": "Site officiel, page « Soirées à venir » (archive du 10/04/2011)",
+      "url": "https://web.archive.org/web/20110410050934/http://www.saunale16.net/soirees_a_venir.ws",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s5",
+      "label": "Site officiel, page « Les shows » (archive du 10/04/2011)",
+      "url": "https://web.archive.org/web/20110410050909/http://www.saunale16.net/les_shows.ws",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s6",
+      "label": "Site officiel, page « En sous-sol » (archive du 15/04/2011)",
+      "url": "https://web.archive.org/web/20110415102126/http://www.saunale16.net/en_sous_sol.ws",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s7",
+      "label": "Site officiel, page d'accueil (archive du 26/09/2011)",
+      "url": "https://web.archive.org/web/20110926045852/http://www.saunale16.net/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s8",
+      "label": "Site officiel, page « Contact » et plan d'accès (archive du 26/09/2011)",
+      "url": "https://web.archive.org/web/20110926050225/http://www.saunale16.net/contact.ws",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s9",
+      "label": "Site officiel, page d'accueil (archive du 29/10/2011)",
+      "url": "https://web.archive.org/web/20111029060145/http://www.saunale16.net/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s10",
+      "label": "Site officiel, page « Soirées » (archive du 04/11/2011)",
+      "url": "https://web.archive.org/web/20111104182207/http://www.saunale16.net/soirees.ws",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s11",
+      "label": "Site officiel, page « Coins câlins » (archive du 30/12/2011)",
+      "url": "https://web.archive.org/web/20111230035412/http://www.saunale16.net/coins_calins.ws",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s12",
+      "label": "Site officiel, page « Bienvenue » (archive du 05/01/2012)",
+      "url": "https://web.archive.org/web/20120105003439/http://www.saunale16.net/bienvenue.ws",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s13",
+      "label": "Site officiel, page « Les shows » (archive du 06/01/2012)",
+      "url": "https://web.archive.org/web/20120106224454/http://www.saunale16.net/les_shows.ws",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s14",
+      "label": "Site officiel, page d'accueil (archive du 03/04/2012)",
+      "url": "https://web.archive.org/web/20120403063419/http://www.saunale16.net/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s15",
+      "label": "Site officiel, page « Soirées » (archive du 15/06/2012)",
+      "url": "https://web.archive.org/web/20120615140846/http://www.saunale16.net/soirees.ws",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s16",
+      "label": "Site officiel, page d'accueil (archive du 18/07/2012, dernière capture du site)",
+      "url": "https://web.archive.org/web/20120718005513/http://www.saunale16.net/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s17",
+      "label": "Internet Archive, capture du 12/03/2013 : redirection vers la page d'erreur de WebSelf",
+      "url": "https://web.archive.org/web/20130312072103/http://www.saunale16.net/",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s18",
+      "label": "Internet Archive, capture du 06/05/2013 : domaine en page de parking « for sale »",
+      "url": "https://web.archive.org/web/20130506063922/http://www.saunale16.net/",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s19",
+      "label": "Registre RDAP de Verisign : saunale16.net non enregistré",
+      "url": "https://rdap.verisign.com/net/v1/domain/saunale16.net",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s20",
+      "label": "Registre des entreprises, entités domiciliées au 16 rue Smollett (06300)",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=16%20rue%20smollett&code_postal=06300",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s21",
+      "label": "BODACC, annonces commerciales mentionnant la rue Smollett ou Smolett",
+      "url": "https://bodacc-datadila.opendatasoft.com/api/explore/v2.1/catalog/datasets/annonces-commerciales/records?where=search(%22smollett%22)%20or%20search(%22smolett%22)",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s22",
+      "label": "Base Adresse Nationale, « 16 Rue Smollett 06300 Nice »",
+      "url": "https://api-adresse.data.gouv.fr/search/?q=16+rue+smollett+nice",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s23",
+      "label": "OpenStreetMap (API Overpass), lieux nommés autour du 16 rue Smollett",
+      "url": "https://overpass-api.de/api/interpreter",
+      "type": "carte",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s24",
+      "label": "PagesJaunes, saunas et hammams à Nice (46 résultats)",
+      "url": "https://www.pagesjaunes.fr/annuaire/nice-06/saunas-hammams",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s25",
+      "label": "PagesJaunes, clubs libertins à Nice (2 résultats)",
+      "url": "https://www.pagesjaunes.fr/annuaire/nice-06/clubs-libertins",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s26",
+      "label": "Facebook, groupe « le16saunaclub » annoncé par le site (mur de connexion)",
+      "url": "https://www.facebook.com/groups/le16saunaclub",
+      "type": "reseau_social",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s27",
+      "label": "Sauna du Château (Nice), site officiel, mis à jour le 12/09/2026",
+      "url": "http://www.saunaduchateau.com/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s28",
+      "label": "Le Morgan (Nice), site officiel : agenda du 20/10 au 01/11/2026, page « Infos & tarifs » (« 100 % gay »)",
+      "url": "http://morganclub.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s29",
+      "label": "Site officiel, page d'accueil (archive du 16/06/2012)",
+      "url": "https://web.archive.org/web/20120616162020/http://www.saunale16.net/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s30",
+      "label": "Site officiel, page « Bienvenue » (archive du 23/06/2012)",
+      "url": "https://web.archive.org/web/20120623151707/http://www.saunale16.net/bienvenue.ws",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s31",
+      "label": "koifaire.com, fiche « Club 16 Sauna » (annuaire, non datée, sans avis)",
+      "url": "https://www.koifaire.com/paca/club,16,sauna-64628.html",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s32",
+      "label": "Near-Place, fiche « club le16 sauna echangistes » (annuaire cartographique, sans horaires ni avis)",
+      "url": "https://fr.near-place.com/club-le16-sauna-echangistes-16-rue-smolett-nice",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s33",
+      "label": "PagesJaunes, fiche « Le Cercle Sauna », 16 avenue Clément-Ader (autre établissement ; avis du 24/05/2026)",
+      "url": "https://www.pagesjaunes.fr/pros/09042665",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s34",
+      "label": "Lâcher Prise Le Boudoir (Nice), site officiel : horaires, tarifs, sauna et hammam",
+      "url": "https://www.leboudoirlibertin-nice.com/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s35",
+      "label": "Lâcher Prise Le Boudoir (Nice), site officiel, programme des soirées d'octobre 2026",
+      "url": "https://www.leboudoirlibertin-nice.com/nos-soirees",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s36",
+      "label": "saunaclublebali.fr, « Guide libertin à Nice. Saunas & clubs (06) », publié le 15/02/2026, modifié le 18/09/2026",
+      "url": "https://www.saunaclublebali.fr/clubs-libertins-et-saunas-a-nice/",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s37",
+      "label": "toprencontre.fr, guide des clubs libertins de Nice, modifié le 25/03/2025",
+      "url": "https://toprencontre.fr/club-libertin-nice/",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s38",
+      "label": "Gay French Riviera, « Cruising Bars & Gay Sauna/Bathhouse in Nice », 30/07/2025",
+      "url": "https://gayfrenchriviera.substack.com/p/cruising-bars-and-gay-saunabathhouse",
+      "type": "autre",
+      "consulted": "2026-10-20"
+    }
+  ]
+}

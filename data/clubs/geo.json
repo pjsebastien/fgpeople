@@ -56,12 +56,12 @@
   "query": "82, Route de Lyon 01990 ST TRIVIER SUR MOIGNANS"
  },
  "le-new-bora-castillon-du-gard": {
-  "lat": 43.960634,
-  "lon": 4.569932,
+  "lat": 43.961158,
+  "lon": 4.569807,
   "precision": "street",
-  "label": "N 86 30210 Castillon-du-Gard",
-  "score": 0.83,
-  "query": "RN 86 30210 CASTILLON-DU-GARD"
+  "label": "Route de Bagnols 30210 Castillon-du-Gard",
+  "score": 0.72,
+  "query": "20 route de Bagnols/Cèze 30210 CASTILLON-DU-GARD"
  },
  "l-entre-2-moulins": {
   "lat": 49.42102,
@@ -2596,8 +2596,8 @@
   "lon": 2.219161,
   "precision": "housenumber",
   "label": "44bis Rue de la Marjolaine 95100 Argenteuil",
-  "score": 0.72,
-  "query": "44 BIS RUE MARJOLAINE 95100 ARGENTEUIL"
+  "score": 0.83,
+  "query": "44 bis rue de la Marjolaine 95100 ARGENTEUIL"
  },
  "vertige-strip-lyon": {
   "lat": 45.769037,
@@ -3062,5 +3062,21 @@
   "label": "13 Avenue Coligny 17000 La Rochelle",
   "score": 0.98,
   "query": "13 avenue Coligny 17000 La Rochelle"
+ },
+ "club-aphrodite-avignon": {
+  "lat": 43.947438,
+  "lon": 4.811628,
+  "precision": "housenumber",
+  "label": "19 Rue du Four de la Terre 84000 Avignon",
+  "score": 0.82,
+  "query": "19 rue Four de la Terre 84000 AVIGNON"
+ },
+ "le-diamant-sauve": {
+  "lat": 43.944406,
+  "lon": 3.973104,
+  "precision": "housenumber",
+  "label": "12 Impasse des Garennes 30610 Sauve",
+  "score": 0.95,
+  "query": "12 impasse des Garennes 30610 Sauve"
  }
 }

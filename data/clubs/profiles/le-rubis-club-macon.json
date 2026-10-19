@@ -1,0 +1,527 @@
+{
+  "slug": "le-rubis-club-macon",
+  "clubId": "983",
+  "researchedAt": "2026-10-20",
+  "display": { "nom": "Le Rubis Club", "ville": "Mâcon" },
+
+  "status": {
+    "value": "ferme",
+    "summary": "En 2021 encore, les mentions légales du Petit Saint Jean, au 554 route de Mâcon, parlent du « Newrubis » : le New Rubis, qui semble avoir pris la suite du Rubis en 2010, n'a fait que changer de nom en 2019, et c'est ce site-là qui s'arrête en 2021. Le Rubis d'origine s'était éteint dès 2010, avec la liquidation, le 22 janvier, de la SARL qui l'exploitait selon toute vraisemblance, puis l'arrêt de son site au printemps. À la même adresse, un autre club, La Volupté, annonce des soirées pour les samedis 10, 17, 24 et 31 octobre 2026.",
+    "sources": ["s7", "s9", "s10", "s19", "s20", "s35", "s36", "s37", "s28"]
+  },
+
+  "seo": {
+    "title": "Rubis Club et New Rubis : deux noms de club libertin disparus à Mâcon",
+    "metaDescription": "Pub de nuit avec DJ, sauna-hammam à 20 € dès 14 h : le Rubis de Mâcon s'éteint en 2010 ; le New Rubis, sa suite probable, devient Petit Saint Jean en 2019.",
+    "subtitle": "Club privé avec pub de nuit et sauna-hammam sur l'ancienne RN6, au nord de Mâcon (2007-2010)",
+    "targetQueries": [
+      "club libertin macon",
+      "club libertin mâcon",
+      "club echangiste macon",
+      "sauna libertin macon",
+      "libertine macon",
+      "rubis club macon",
+      "new rubis macon"
+    ]
+  },
+
+  "lead": "Entre 2007 et 2010, période que couvre son site, le Rubis réunissait sur l'ancienne RN6, à Saint-Jean-le-Priche, au nord de Mâcon, un bar de nuit avec DJ et un sauna-hammam ouvert dès 14 h. Le nom s'est effacé en deux temps : la société qui l'exploitait selon toute vraisemblance a été liquidée en janvier 2010, puis le New Rubis, qui a tout l'air d'avoir pris sa suite au 554 route de Mâcon, s'est rebaptisé Le Petit Saint Jean en 2019. Après La Sensation, annoncée en mars 2022 et dont la société a été liquidée en 2023, c'est La Volupté qui reçoit à cette adresse en octobre 2026, le samedi seulement.",
+
+  "glance": [
+    { "icon": "closed", "label": "Fermé sous ce nom", "value": "Le Rubis en 2010, New Rubis renommé en 2019" },
+    { "icon": "spa", "label": "Le concept (2007-2010)", "value": "Bar de nuit avec DJ et sauna-hammam" },
+    { "icon": "euro", "label": "Entrée couple (2008-10)", "value": "20 € l'après-midi · 30 à 50 € le soir" },
+    { "icon": "map", "label": "Adresse", "value": "Ex-RN6, Saint-Jean-le-Priche (Mâcon)" },
+    { "icon": "building", "label": "Au 554 route de Mâcon", "value": "La Volupté, ouverte le samedi (2026)" },
+    { "icon": "calendar", "label": "Autre club vérifié", "value": "Le Diderot, Branges (40 km), le samedi" }
+  ],
+
+  "highlights": [
+    "Le Rubis n'existe plus : la SARL qui l'exploitait selon toute vraisemblance a été liquidée en janvier 2010 et son site s'est éteint au printemps suivant.",
+    "L'ancien numéro fixe du Rubis est aujourd'hui attribué à un autre abonné selon PagesJaunes : inutile de l'appeler.",
+    "Au 554 route de Mâcon, ancienne adresse du New Rubis, La Volupté reçoit le samedi de 22 h à 6 h : couple 50 €, femme 20 € (tarifs d'octobre 2026).",
+    "Homme seul : le site de La Volupté affiche un tarif du samedi à 60 €, sur sélection, mais sa charte réserve ce soir aux couples et aux femmes. Appelez avant.",
+    "Plus de sauna libertin affiché à Mâcon en octobre 2026 : La Sensation promettait encore sauna et hammam en 2022, le site de La Volupté n'en parle plus."
+  ],
+
+  "keyFacts": [
+    {
+      "label": "Adresse",
+      "value": "Ancienne RN6 (route de Mâcon, aujourd'hui D 906), Saint-Jean-le-Priche, 71000 Mâcon ; le New Rubis précisait le n° 554",
+      "confidence": "confirme",
+      "sources": ["s1", "s4", "s15", "s20"]
+    },
+    {
+      "label": "Formule (2007-2010)",
+      "value": "Club privé : bar de nuit avec DJ et sauna-hammam l'après-midi en semaine",
+      "confidence": "confirme",
+      "sources": ["s2", "s3", "s4"]
+    },
+    {
+      "label": "Public (2008-2010)",
+      "value": "Couples et hommes seuls, majeurs ; aucun tarif femme seule affiché",
+      "confidence": "confirme",
+      "sources": ["s1", "s4", "s5"]
+    },
+    {
+      "label": "Société exploitante probable",
+      "value": "SARL Le Rubis, créée en novembre 2004, liquidée le 22 janvier 2010 (rôle déduit de l'enseigne et de l'adresse)",
+      "confidence": "a_verifier",
+      "sources": ["s9", "s10"]
+    },
+    {
+      "label": "Site officiel",
+      "value": "lerubisclub.com, de juillet 2007 à mars 2010 ; domaine abandonné",
+      "confidence": "confirme",
+      "sources": ["s7", "s8"]
+    },
+    {
+      "label": "Nom de 2010 à 2019",
+      "value": "Le New Rubis, au 554 route de Mâcon (filiation déduite du même numéro de portable)",
+      "confidence": "a_verifier",
+      "sources": ["s4", "s19", "s20"]
+    },
+    {
+      "label": "Nom de 2019 à 2021",
+      "value": "Le Petit Saint Jean : mêmes numéros, mêmes soirées et mêmes tarifs que le New Rubis",
+      "confidence": "confirme",
+      "sources": ["s22", "s35", "s36", "s37"]
+    },
+    {
+      "label": "Enseigne de 2022",
+      "value": "La Sensation (club, sauna, restaurant), ouverture annoncée le 4 mars ; société liquidée en 2023",
+      "confidence": "confirme",
+      "sources": ["s38", "s39", "s41", "s42", "s43"]
+    },
+    {
+      "label": "À la même adresse en 2026",
+      "value": "La Volupté, club libertin ouvert le samedi, sur le site rebaptisé de La Sensation (lien avec le Rubis non établi)",
+      "confidence": "confirme",
+      "sources": ["s25", "s28", "s29", "s39"]
+    }
+  ],
+
+  "sections": [
+    {
+      "id": "la-volupte-554-route-de-macon",
+      "title": "Octobre 2026 : La Volupté ouvre le samedi au 554 route de Mâcon, ancienne adresse du New Rubis",
+      "icon": "calendar",
+      "summary": "Au 554 route de Mâcon, La Volupté ouvre le samedi de 22 h à 6 h (couple 50 €, femme 20 €) et annonce des soirées les 10, 17, 24 et 31 octobre 2026.",
+      "sources": ["s20", "s25", "s26", "s27", "s28", "s29", "s35", "s39"],
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le nom Rubis a disparu, pas l'adresse. Au **554 route de Mâcon**, qu'ont occupé le New Rubis puis Le Petit Saint Jean, **La Volupté** se présente comme un club libertin « fermé tous les vendredis ». Son site annonce des soirées sur réservation pour les samedis 10, 17, 24 et 31 octobre 2026, dont Halloween ; les affiches de la soirée « topless » du 17 et de la soirée blanche du 24 promettent une animation DJ dès 22 h."
+        },
+        {
+          "kind": "table",
+          "caption": "Entrées du samedi à La Volupté, de 22 h à 6 h (site officiel, octobre 2026)",
+          "headers": ["Entrée", "Prix", "Compris ou conditions"],
+          "rows": [
+            ["Couple", "50 €", "Un verre d'alcool par personne, softs à volonté (sodas exclus)"],
+            ["Femme", "20 €", "Un verre d'alcool, softs à volonté"],
+            ["Homme seul", "60 €", "Sur sélection, réservation ou recommandation, nombre limité"],
+            ["Couple avec demi-bouteille", "70 €", "Softs à volonté"],
+            ["Couple avec bouteille", "100 €", "Softs à volonté"]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le club décrit une bâtisse en pierre de Bourgogne de plus de 350 m² sur deux niveaux, à deux pas de la sortie 28 de l'A6, avec un parking privé à l'arrière et un espace fumeur extérieur couvert."
+        },
+        {
+          "kind": "text",
+          "body": "Pas de pantalon pour les femmes, ni short ni baskets de sport pour les hommes, et les téléphones restent au vestiaire. Ceux qui découvrent les clubs peuvent le dire à l'arrivée : quelqu'un de la direction leur fait visiter les lieux."
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Homme seul : le site se contredit, appelez avant",
+          "body": "La page des tarifs admet un homme seul le samedi, « sur sélection » et en nombre limité. La charte du même site réserve pourtant le samedi « aux femmes et aux couples » et n'admet les hommes seuls que le vendredi, jour de fermeture selon l'accueil, et les veilles de jours fériés."
+        },
+        {
+          "kind": "text",
+          "body": "Le site ne parle ni du Rubis ni du New Rubis : c'est celui de La Sensation, le club annoncé à cette adresse en mars 2022, rebaptisé (voir plus bas)."
+        }
+      ]
+    },
+    {
+      "id": "branges-le-diderot-samedi",
+      "title": "Le Diderot, à Branges : l'autre club ouvert, lui aussi le samedi seulement",
+      "icon": "map",
+      "summary": "À une quarantaine de kilomètres, Le Diderot ouvre le samedi de 22 h 30 à 4 h 30 pour les couples, les femmes seules et les hommes seuls ; agenda d'octobre 2026 en ligne.",
+      "sources": ["s25", "s32"],
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "L'autre club ouvert que nous avons vérifié pour cette fiche est à une quarantaine de kilomètres, à Branges : [Le Diderot](/le-diderot-branges) ouvre le samedi seulement, de 22 h 30 à 4 h 30. Son site a publié le 2 octobre 2026 un thème pour chacun des cinq samedis d'octobre, d'une soirée « transparence » à Halloween."
+        },
+        {
+          "kind": "text",
+          "body": "Le Diderot admet couples, femmes seules et hommes seuls : pour un homme seul, c'est le seul des deux clubs dont le site l'accepte le samedi sans se contredire. Les deux ouvrant le même soir, il faut choisir."
+        },
+        {
+          "kind": "text",
+          "body": "La Volupté affiche en bas de page des bannières de Wyylde, de Nouslib et de Sy-Belle. L'agenda de Wyylde, l'ancien Netéchangisme, se consulte avec un compte gratuit et aide à [repérer un autre samedi à thème entre Saône et Bresse](aff:wyylde)."
+        }
+      ]
+    },
+    {
+      "id": "sauna-chalon-chaperon-rouge",
+      "title": "Plus de sauna affiché à Mâcon : Le Chaperon Rouge et son jacuzzi, à 46 km, à Chalon-sur-Saône",
+      "icon": "spa",
+      "summary": "La Volupté n'affiche ni sauna ni hammam ; le sauna libertin actif le plus proche est Le Chaperon Rouge, à Chalon-sur-Saône, ouvert sept jours sur sept depuis octobre 2026.",
+      "sources": ["s25", "s27", "s38", "s39", "s45", "s48"],
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le dernier sauna annoncé au 554 route de Mâcon est la « balnéo » de La Sensation, en 2022 ; le site de La Volupté, qui a repris celui de La Sensation, ne mentionne plus ni sauna ni hammam en octobre 2026."
+        },
+        {
+          "kind": "text",
+          "body": "Il faut donc aller jusqu'à Chalon-sur-Saône, à environ 46 km. Le Chaperon Rouge, boutique coquine doublée d'un sauna libertin avec jacuzzi, y montre une activité récente : son site, modifié le 14 octobre 2026, annonçait une soirée réservée aux couples le samedi 17 octobre et une ouverture sept jours sur sept depuis octobre."
+        },
+        {
+          "kind": "text",
+          "body": "Dans la même ville, Euphoria Sauna se présente comme « LGBTQ+ & hétéro-friendly », mixte ou masculin selon les jours (activité non vérifiée par nous). Les autres lieux de [Saône-et-Loire](/departement/saone-et-loire) de notre annuaire n'ont pas été revérifiés ici."
+        }
+      ]
+    },
+    {
+      "id": "rubis-new-rubis-volupte-2004-2026",
+      "title": "De la SARL Le Rubis (2004) à l'association La Volupté (2022) : vingt ans sur l'ancienne RN6",
+      "icon": "history",
+      "summary": "Rubis (2007), New Rubis (2010), Petit Saint Jean (2019), La Sensation (2022), puis La Volupté : cinq enseignes et deux sociétés liquidées, en 2010 et en 2023, sur l'ancienne RN6.",
+      "sources": ["s1", "s4", "s7", "s9", "s10", "s11", "s12", "s13", "s14", "s18", "s19", "s20", "s22", "s23", "s25", "s28", "s30", "s31", "s33", "s34", "s35", "s36", "s37", "s38", "s39", "s40", "s41", "s42", "s43", "s44", "s46", "s47"],
+      "blocks": [
+        {
+          "kind": "timeline",
+          "items": [
+            { "date": "3 novembre 2004", "text": "Création de la SARL Le Rubis, enseigne « Le Rubis », pour un café-bar-restaurant sur la RN6 à Saint-Jean-le-Priche." },
+            { "date": "20 juillet 2005", "text": "Déclaration de l'association New Rubis, siège route nationale 6 à Saint-Jean-le-Priche. Son objet (« favoriser, promouvoir le relationnel entre individus ») est mot pour mot celui d'associations domiciliées à l'adresse d'un sauna libertin lyonnais." },
+            { "date": "Juillet 2007", "text": "Première capture de lerubisclub.com : « Club Privé proche de Mâcon »." },
+            { "date": "25 juillet 2008", "text": "Le tribunal arrête un plan de redressement de la SARL sur huit ans." },
+            { "date": "22 janvier 2010", "text": "Résolution du plan et liquidation judiciaire de la SARL, cessation des paiements fixée au 10 novembre 2009. Son unique établissement est fermé au registre à cette date." },
+            { "date": "27 mars 2010", "text": "Dernière capture valide du site du Rubis ; l'adresse ne fait plus que rediriger à partir de mai." },
+            { "date": "2 avril 2010", "text": "Première capture de lenewrubis.com, « Le New Rubis », copyright 2010." },
+            { "date": "25 janvier 2013", "text": "Clôture de la liquidation de la SARL Le Rubis pour insuffisance d'actif." },
+            { "date": "Septembre 2013", "text": "Le site du New Rubis donne son adresse, 554 route de Mâcon, et le même numéro de portable que celui du Rubis." },
+            { "date": "12 novembre 2018", "text": "Dépôt de lenewrubis.fr, second site du New Rubis ; il renvoie vers le site de l'agence web qui l'a réalisé dès août 2020." },
+            { "date": "Décembre 2018", "text": "Le 19, l'association Le Petit Saint Jean est déclarée au 554 route de Mâcon avec le même objet que New Rubis ; New Rubis est cessée au registre le 27." },
+            { "date": "Octobre 2019", "text": "Après un site du New Rubis « fermé momentanément » en juin, le club reparaît en ligne sous le nom de Petit Saint Jean." },
+            { "date": "Mai 2021", "text": "Dernière version archivée du site du Petit Saint Jean ; en décembre, le domaine n'affiche plus qu'une page de parking publicitaire." },
+            { "date": "1er juillet 2021", "text": "Création de la SAS Sensation au 554 route de Mâcon." },
+            { "date": "4 mars 2022", "text": "Ouverture annoncée du club La Sensation, avec sauna et restaurant." },
+            { "date": "Automne 2022", "text": "Le site de La Sensation passe au nom de La Volupté ; l'association La Volupté est déclarée le 14 novembre à la même adresse." },
+            { "date": "28 avril 2023", "text": "Liquidation judiciaire de la SAS Sensation, cessation des paiements fixée au 1er juillet 2022 ; clôture pour insuffisance d'actif le 27 juin 2025." },
+            { "date": "Avril 2024", "text": "Première page archivée du site de La Volupté, « Copyright © 2024 »." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "quatre-passages-de-relais",
+      "title": "Rubis, New Rubis, Petit Saint Jean, Sensation, Volupté : un seul passage de relais reste sans aucun lien",
+      "icon": "info",
+      "summary": "Le New Rubis devient Le Petit Saint Jean (attesté), La Sensation devient La Volupté (même site) ; le passage du Rubis au New Rubis est déduit, celui de 2021-2022 sans lien.",
+      "sources": ["s1", "s4", "s9", "s10", "s18", "s19", "s20", "s25", "s35", "s36", "s38", "s39", "s42"],
+      "blocks": [
+        {
+          "kind": "list",
+          "title": "Ce qui relie, ou non, les enseignes successives",
+          "items": [
+            "Du Rubis au New Rubis, en 2010 : déduit. Les deux sites publient le même portable et vantent le même parking sous vidéosurveillance ; le second apparaît six jours après la dernière capture du premier.",
+            "Du New Rubis au Petit Saint Jean, en 2019 : attesté. Mêmes numéros, mêmes textes, mêmes tarifs, et des mentions légales qui nomment encore « Le Newrubis ».",
+            "Du Petit Saint Jean à La Sensation, en 2021-2022 : aucun lien public hormis l'adresse. Le téléphone, la société et le site changent.",
+            "De La Sensation à La Volupté, en 2022 : même site internet, rebaptisé, avec les mêmes textes et le même formulaire de réservation."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le rôle de la SARL Le Rubis est lui aussi déduit de son enseigne, de sa route et de son activité de bar : aucune page du club ne la nomme. Faute de numéro de voie sur le site du Rubis, son installation dans le bâtiment de ses successeurs reste probable, pas démontrée. Son ancien numéro fixe appartient aujourd'hui à un autre abonné, selon PagesJaunes."
+        }
+      ]
+    },
+    {
+      "id": "pub-jusqu-a-4-h-et-sauna-des-14-h",
+      "title": "Le Rubis de 2008 : un « Pub » ouvert jusqu'à 4 h et un sauna-hammam dès 14 h",
+      "icon": "spa",
+      "summary": "Sauna-hammam en semaine de 14 h à 22 h (20 €), « Pub » de 18 h à 4 h ; le soir, 30 à 50 € pour un couple, 50 à 65 € pour un homme seul, aucun tarif femme seule.",
+      "sources": ["s2", "s3", "s4", "s5", "s6", "s16", "s17"],
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Les annuaires rangent le Rubis parmi les saunas libertins ; lui se présentait comme un « club privé de la région mâconnaise » à deux visages. En semaine, le sauna-hammam ouvrait dès l'après-midi et le « Pub », bar de nuit avec DJ et piste de danse, en fin de journée ; le vendredi et le samedi, les deux fonctionnaient ensemble jusqu'à 5 h."
+        },
+        {
+          "kind": "text",
+          "body": "Les légendes de la galerie du site citent un bar, la piste de danse et son DJ, le sauna, des coins câlins, un coin tranquille, et deux photos placées sous le signe du champagne."
+        },
+        {
+          "kind": "text",
+          "body": "La grille, inchangée de février 2008 à mars 2010, ne connaissait que le couple et l'homme seul : aucun tarif femme seule. L'après-midi au sauna coûtait 20 € à chacun ; le soir, un homme seul payait 20 € de plus qu'un couple entier pour le Pub, 15 € de plus avec le sauna, pour trois consommations contre deux par personne en couple."
+        },
+        {
+          "kind": "text",
+          "body": "Le règlement tenait en une formule, « respect et simplicité », et en un avertissement sur l'entrée, filtrée : « nous sommes très attentifs »."
+        },
+        {
+          "kind": "text",
+          "body": "Au printemps 2009, le site ajoute une page de soirées qui en cite cinq : « Soirée Transparente », « Gang Bang », « Soirées Blanches », « Soirée Black and White » et des après-midi « détente ». Chaque fiche n'a qu'un titre et un renvoi vers des photos, sans date ni prix : on ignore leur rythme."
+        },
+        {
+          "kind": "callout",
+          "tone": "info",
+          "title": "Des horaires d'annuaire figés depuis 2009",
+          "body": "Les horaires que reprennent encore certains annuaires (club du jeudi au samedi dès 22 h 30, sauna jusqu'à 20 h) figuraient déjà mot pour mot dans une capture de février 2009 et n'ont jamais bougé depuis. Ils contredisent le site officiel de l'époque, que reprend notre encadré."
+        }
+      ]
+    },
+    {
+      "id": "new-rubis-gang-bang-vendredi",
+      "title": "Le New Rubis : gang bang le vendredi en 2013, samedi réservé aux couples et aux femmes jusqu'en 2019",
+      "icon": "flame",
+      "summary": "De 2013 à 2019, club le vendredi et le samedi, gratuit pour les femmes seules, samedi fermé aux hommes seuls ; le couple paie 35 € le vendredi en 2013, 50 € en 2017, 30 € fin 2018.",
+      "sources": ["s20", "s21", "s22"],
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "En septembre 2013, le site du New Rubis décrit un « sauna - hammam - club libertin » : piste avec DJ, bar, vestiaires fermant à clé et, « à l'étage », un « espace forme libertin » avec sauna, douche et hammam, un salon télé et des salons coquins. La nuit, le club n'ouvre plus que le vendredi et le samedi, de 23 h à 6 h."
+        },
+        {
+          "kind": "text",
+          "body": "Nouveauté par rapport aux grilles du Rubis : un tarif femme seule, et il est gratuit. Le vendredi « Gang Bang » de 2013 devient, au plus tard en octobre 2017, une « Party Night » ouverte à tous les majeurs ; le samedi, rebaptisé « The Hot Discothèque », reste fermé aux hommes seuls."
+        },
+        {
+          "kind": "table",
+          "caption": "Tarifs affichés par le site du New Rubis (archives)",
+          "headers": ["Entrée", "Septembre 2013", "Octobre 2017", "Décembre 2018"],
+          "rows": [
+            ["Vendredi, couple", "35 € ; gratuit pour un couple participant au gang bang (consommations en sus)", "50 €, open bar softs ou 4 verres d'alcool par couple", "30 €, open bar softs ou 2 verres d'alcool par couple, hors soirée spéciale"],
+            ["Vendredi, homme seul", "65 €, 2 consommations", "60 €, 2 consommations", "60 €, 2 consommations"],
+            ["Samedi, couple", "50 €, open bar hors champagne", "50 €", "50 €"],
+            ["Femme seule, vendredi et samedi", "Gratuit", "Gratuit", "Gratuit"],
+            ["Espace forme, lundi-vendredi", "14 h-19 h ; 20 € couple ou homme seul, gratuit pour les femmes", "Dès 14 h, tarif non affiché", "Plus mentionné"]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "new-rubis-deux-sites-fin-2018",
+      "title": "Fin 2018, deux sites du New Rubis : l'un retire le sauna-hammam, l'autre l'annonce encore",
+      "icon": "warning",
+      "summary": "lenewrubis.com ne parle plus du sauna-hammam dès novembre 2018 ; lenewrubis.fr, déposé le 12 novembre, l'annonce encore avec des soirées du mercredi et du jeudi.",
+      "sources": ["s22", "s23", "s24", "s31", "s34", "s35", "s46", "s47"],
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "L'espace forme de l'étage, encore décrit en août 2018, disparaît de lenewrubis.com en novembre : il n'y reste qu'un salon télé et des salons coquins. Un second site du club, lenewrubis.fr, déposé le 12 novembre 2018, l'annonce pourtant toujours, « mixte », du lundi au vendredi dès 14 h, dans sa seule version archivée, de mai 2020."
+        },
+        {
+          "kind": "text",
+          "body": "Ce second site affiche aussi des horaires inconnus ailleurs : mercredi et jeudi de 17 h à 3 h, vendredi et samedi de 22 h 30 à 5 h. Faute d'agenda daté, on ignore si ces soirées de semaine ont eu lieu et jusqu'à quand l'espace forme a fonctionné ; un annuaire non daté évoque encore sa « partie humide »."
+        },
+        {
+          "kind": "text",
+          "body": "La dernière version complète de lenewrubis.com est archivée le 21 janvier 2019 ; en juin, il ne reste que « site fermé momentanément ». Ce n'était pas une fin : dès octobre 2019, le même club reparaît en ligne sous le nom de Petit Saint Jean, et l'adresse lenewrubis.com est reprise dès 2020 pour des contenus sans rapport."
+        }
+      ]
+    },
+    {
+      "id": "petit-saint-jean-2019-2021",
+      "title": "Le Petit Saint Jean (2019-2021) : les numéros du New Rubis, et « Le Newrubis » dans ses mentions légales",
+      "icon": "building",
+      "summary": "En 2019, le New Rubis devient Le Petit Saint Jean sans changer de numéros, de soirées ni de tarifs ; le site passe aux soirées jusqu'à 3 h en 2020 et s'arrête en mai 2021.",
+      "sources": ["s13", "s22", "s35", "s36", "s37"],
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le Petit Saint Jean n'a de nouveau que son nom. Son site, en ligne dès octobre 2019, donne les deux numéros du New Rubis, dont le portable déjà publié par le Rubis, et reprend sa présentation : piste avec DJ, salon télé et salons coquins à l'étage."
+        },
+        {
+          "kind": "text",
+          "body": "Les soirées et la grille sont celles de décembre 2018 (voir le tableau plus haut), du vendredi « Party Night » à 30 € le couple au samedi réservé aux couples et aux femmes seules. Les mentions légales, recopiées, font même s'engager « Le Newrubis » à protéger les données des visiteurs."
+        },
+        {
+          "kind": "text",
+          "body": "À partir de septembre 2020, le site n'annonce plus que des soirées « ambiance libertine & musicale » jusqu'à 3 h. Sa dernière version archivée date de mai 2021 ; en décembre, le domaine n'est plus qu'une page de parking. L'association Le Petit Saint Jean, déclarée en décembre 2018 à cette adresse, reste active au registre."
+        }
+      ]
+    },
+    {
+      "id": "la-sensation-mars-2022",
+      "title": "La Sensation, mars 2022 : balnéo naturiste, restaurant de 20 couverts et bar échangiste le jeudi",
+      "icon": "drink",
+      "summary": "Annoncée pour le 4 mars 2022 avec sauna, restaurant et bar du jeudi, La Sensation dépend d'une société liquidée en 2023 ; son site, rebaptisé, est devenu celui de La Volupté.",
+      "sources": ["s12", "s14", "s25", "s28", "s38", "s39", "s40", "s41", "s42", "s43", "s44"],
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le 1er juillet 2021, une nouvelle société, la SAS Sensation, est créée au 554 route de Mâcon. Début février 2022, la chaîne YouTube du club annonce l'ouverture de **La Sensation** les 4 et 5 mars. Rien ne la relie publiquement au Petit Saint Jean : le téléphone, la société et le site sont nouveaux."
+        },
+        {
+          "kind": "list",
+          "title": "Ce qu'annonçait La Sensation en mars 2022",
+          "items": [
+            "Le club, le vendredi et le samedi de 20 h 30 à 5 h : couple 45 €, homme seul 55 €, deux consommations comprises, femme gratuite le vendredi.",
+            "Une « balnéo » naturiste avec hammam, sauna et coin de massage, serviettes et paréos fournis.",
+            "Un restaurant de vingt couverts, sur réservation obligatoire.",
+            "Le jeudi, le Tam-Tam, bar à cocktails échangiste en accès libre de 18 h à 2 h, que le club présentait comme le premier bar libertin de Saône-et-Loire.",
+            "Une charte qui refusait les moins de 21 ans, sauf les hommes venus en couple, admis dès 18 ans à l'appréciation du club. D'autres passages de ce règlement, qui citent un jacuzzi et des mardis naturistes absents du reste du site, semblent repris d'un autre établissement."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le tribunal a fixé la cessation des paiements de la société au 1er juillet 2022, moins de quatre mois après l'ouverture annoncée, puis prononcé sa liquidation le 28 avril 2023. Nous n'avons trouvé ni avis ni agenda daté sur la durée d'activité de La Sensation."
+        },
+        {
+          "kind": "text",
+          "body": "Son site, lui, a survécu. Rebaptisé à l'automne 2022 (le logo de La Volupté est mis en ligne en octobre), il sert aujourd'hui à La Volupté avec les mêmes textes, une partie des mêmes images et un formulaire de réservation qui propose encore les soirées des 11 et 12 mars 2022."
+        },
+        {
+          "kind": "text",
+          "body": "L'association La Volupté, déclarée le 14 novembre 2022 au 554 route de Mâcon, reprend par ailleurs mot pour mot l'objet de l'association New Rubis, déclarée en 2005. Le site ne dit pas qui exploite le club aujourd'hui, ni s'il s'agit de l'équipe de La Sensation."
+        }
+      ]
+    }
+  ],
+
+  "horaires": {
+    "rows": {
+      "Sauna-hammam, du lundi au vendredi": "14 h - 22 h",
+      "Pub, du lundi au vendredi": "18 h - 4 h",
+      "Pub, sauna et hammam, vendredi et samedi": "21 h - 5 h"
+    },
+    "note": "Horaires du site officiel, inchangés de février 2008 à mars 2010. Le club n'existe plus sous ce nom : ils ne valent que pour l'histoire du lieu.",
+    "confidence": "confirme",
+    "sources": ["s4", "s5"]
+  },
+
+  "tarifs": {
+    "rows": {
+      "Couple, après-midi sauna-hammam": "20 €",
+      "Couple, soirée Pub (2 consommations par personne)": "30 €",
+      "Couple, soirée Pub et sauna (2 consommations par personne)": "50 €",
+      "Homme seul, après-midi sauna-hammam": "20 €",
+      "Homme seul, soirée Pub (3 consommations)": "50 €",
+      "Homme seul, soirée Pub et sauna (3 consommations)": "65 €",
+      "Buffet du jeudi au samedi, sur réservation (2008 à janvier 2009)": "10 € (couple ou homme seul)",
+      "Boisson sans alcool, alcool, coupe de champagne": "4 €, 7 €, 10 €"
+    },
+    "note": "Grille du site officiel de février 2008 à mars 2010 ; le buffet et le prix des boissons ne figurent que dans les grilles de 2008 et de janvier 2009. Aucun tarif femme seule n'était affiché.",
+    "confidence": "confirme",
+    "sources": ["s4", "s5"]
+  },
+
+  "equipements": [
+    "Bar de nuit (« Pub »)",
+    "Piste de danse avec DJ",
+    "Sauna",
+    "Hammam",
+    "Coins câlins",
+    "Salon avec canapé",
+    "Parking privé sous vidéosurveillance"
+  ],
+
+  "officialLinks": [
+    { "label": "Site du Rubis (archive de mars 2010)", "url": "http://web.archive.org/web/20100327125418/http://lerubisclub.com/", "kind": "site" },
+    { "label": "Site du New Rubis (archive de décembre 2018)", "url": "http://web.archive.org/web/20181222163653/http://lenewrubis.com/", "kind": "autre" },
+    { "label": "Second site du New Rubis, lenewrubis.fr (archive de mai 2020)", "url": "http://web.archive.org/web/20200521005930/http://www.lenewrubis.fr/", "kind": "autre" },
+    { "label": "Site du Petit Saint Jean (archive de mai 2021)", "url": "http://web.archive.org/web/20210507122415/https://lepetitsaintjean.fr/", "kind": "autre" }
+  ],
+
+  "corrections": {
+    "telephone": "",
+    "email": "",
+    "site_web": "",
+    "sources": ["s8", "s10", "s18"]
+  },
+
+  "faq": [
+    {
+      "question": "Y a-t-il encore un club libertin à Mâcon ?",
+      "answer": "Oui, mais plus sous le nom Rubis. En octobre 2026, La Volupté, au 554 route de Mâcon à Saint-Jean-le-Priche, annonce sur son site des soirées pour les samedis 10, 17, 24 et 31 ; c'est l'adresse qu'occupaient le New Rubis jusqu'en 2019, puis Le Petit Saint Jean. Le club se dit fermé le vendredi. Le Diderot, à Branges, à une quarantaine de kilomètres, est l'autre club ouvert que nous avons vérifié dans le secteur, lui aussi le samedi."
+    },
+    {
+      "question": "Le Rubis Club de Mâcon est-il fermé ?",
+      "answer": "Oui, et depuis longtemps. Le Rubis d'origine s'est arrêté en 2010 avec la liquidation de la société qui l'exploitait selon toute vraisemblance ; le New Rubis, qui semble lui avoir succédé, a pris en 2019 le nom de Petit Saint Jean, dont le site s'arrête en 2021. Ni l'ancien site ni l'ancien numéro fixe ne mènent plus au club."
+    },
+    {
+      "question": "Le Petit Saint Jean et La Sensation, à Saint-Jean-le-Priche, existent-ils encore ?",
+      "answer": "Plus sous ces noms. Le Petit Saint Jean, nom pris par le New Rubis en 2019, n'a plus de site depuis 2021. La Sensation, dont l'ouverture était annoncée pour le 4 mars 2022, dépendait d'une société liquidée en avril 2023 ; son site sert aujourd'hui à La Volupté, qui reçoit le samedi au 554 route de Mâcon."
+    },
+    {
+      "question": "Existe-t-il un sauna libertin à Mâcon ?",
+      "answer": "Pas à notre connaissance en octobre 2026. Le Rubis avait un sauna-hammam ouvert en semaine de 14 h à 22 h (20 € en 2008-2010), et le New Rubis un « espace forme libertin » encore annoncé fin 2018 sur l'un de ses deux sites. La Sensation en promettait de nouveau un en 2022, mais le site de La Volupté, qui lui a succédé, n'en parle plus. Les plus proches sont à Chalon-sur-Saône, à environ 46 km : Le Chaperon Rouge, sauna libertin avec jacuzzi dont le site annonçait une soirée pour les couples le 17 octobre 2026, et Euphoria Sauna, mixte ou masculin selon les jours, dont l'activité n'est pas vérifiée. Notre [sélection de saunas libertins](/sauna-libertin) recense d'autres adresses."
+    },
+    {
+      "question": "Où aller en couple dans un club échangiste près de Mâcon pour une première fois ?",
+      "answer": "La Volupté est l'option la plus proche : sa charte présente le samedi comme une soirée de femmes et de couples, l'entrée couple coûte 50 € avec un verre d'alcool chacun, et la direction fait visiter les lieux à ceux qui le demandent à l'arrivée. Si vous préférez y aller à quatre la première fois, Carré Libertin, en ligne depuis 2007, ouvre gratuitement toutes ses fonctions aux couples qui publient trois photos de profil : de quoi [proposer une première sortie à un couple du Mâconnais](aff:carre-libertin) avant de réserver."
+    },
+    {
+      "question": "Comment rencontrer des libertins à Mâcon en dehors des clubs ?",
+      "answer": "Le seul club ouvert que nous ayons trouvé à Mâcon même ne reçoit qu'un soir par semaine ; le reste du temps, c'est en ligne que l'on repère des libertins du secteur. Gleese, site français lancé fin 2024, vérifie chaque profil par téléphone, modère les photos à la main et n'exige aucune carte bancaire à l'inscription : c'est la façon la moins engageante de [savoir si des Mâconnais s'y trouvent déjà](aff:gleese), sachant que nous ignorons combien d'inscrits il compte dans le secteur."
+    }
+  ],
+
+  "unverified": [
+    "La date à laquelle Le Petit Saint Jean a cessé de recevoir du public : son site, figé depuis septembre 2020, n'est plus qu'une page de parking en décembre 2021.",
+    "Combien de temps La Sensation a effectivement reçu du public après l'ouverture annoncée du 4 mars 2022 : aucun avis ni agenda daté ne l'atteste.",
+    "Si le Rubis de 2007-2010 occupait déjà le bâtiment du 554 route de Mâcon : il ne publiait pas de numéro de voie.",
+    "Si La Sensation, puis La Volupté, ont été lancées par l'équipe du Petit Saint Jean ou par de nouveaux exploitants : téléphone et société changent en 2021-2022.",
+    "L'accès des hommes seuls le samedi à La Volupté, sur lequel son site se contredit.",
+    "Jusqu'à quand le sauna-hammam du New Rubis a fonctionné, et si les soirées du mercredi et du jeudi annoncées par lenewrubis.fr ont eu lieu : ses deux sites se contredisent à partir de fin 2018.",
+    "Un éventuel article de presse sur le Rubis ou ses successeurs : nos recherches des 19 et 20 octobre 2026, Journal de Saône-et-Loire compris, n'en ont trouvé aucun."
+  ],
+
+  "sources": [
+    { "id": "s1", "label": "Site officiel du Rubis, page d'entrée (archive du 4 juillet 2007)", "url": "http://web.archive.org/web/20070704184934/http://www.lerubisclub.com/", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s2", "label": "Site officiel du Rubis, page « Accueil » (archive du 16 juillet 2008)", "url": "http://web.archive.org/web/20080716060752/http://lerubisclub.com/accueil.php", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s3", "label": "Site officiel du Rubis, « Visite des lieux » (archive du 7 février 2008)", "url": "http://web.archive.org/web/20080207145406/http://lerubisclub.com/visite.php", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s4", "label": "Site officiel du Rubis, « Renseignements » : horaires et tarifs (archive du 22 janvier 2009)", "url": "http://web.archive.org/web/20090122060951/http://lerubisclub.com/contacts.php", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s5", "label": "Site officiel du Rubis, page d'accueil refondue (archive du 27 mars 2010)", "url": "http://web.archive.org/web/20100327125418/http://lerubisclub.com/", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s6", "label": "Page des soirées du Rubis, rubis.firedeal.com (archive du 14 août 2010)", "url": "http://web.archive.org/web/20100814030633/http://rubis.firedeal.com/", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s7", "label": "Historique des captures de lerubisclub.com (Wayback Machine)", "url": "http://web.archive.org/cdx/search/cdx?url=lerubisclub.com&matchType=domain", "type": "autre", "consulted": "2026-10-16" },
+    { "id": "s8", "label": "État du domaine lerubisclub.com (RDAP Verisign : non enregistré)", "url": "https://rdap.verisign.com/com/v1/domain/lerubisclub.com", "type": "autre", "consulted": "2026-10-16" },
+    { "id": "s9", "label": "Annuaire des entreprises : SARL Le Rubis, SIREN 479 574 550", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/479574550", "type": "registre", "consulted": "2026-10-16" },
+    { "id": "s10", "label": "BODACC : procédures collectives de la SARL Le Rubis (2008-2013)", "url": "https://bodacc-datadila.opendatasoft.com/explore/dataset/annonces-commerciales/table/?q=479574550", "type": "registre", "consulted": "2026-10-16" },
+    { "id": "s11", "label": "Annuaire des entreprises : association New Rubis, SIREN 518 774 377", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/518774377", "type": "registre", "consulted": "2026-10-16" },
+    { "id": "s12", "label": "Journal officiel des associations : déclaration de New Rubis (JO du 13 août 2005)", "url": "https://journal-officiel-datadila.opendatasoft.com/explore/dataset/jo_associations/table/?q=%22NEW+RUBIS%22", "type": "registre", "consulted": "2026-10-16" },
+    { "id": "s13", "label": "Annuaire des entreprises : association Le Petit Saint Jean, SIREN 853 316 800", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/853316800", "type": "registre", "consulted": "2026-10-16" },
+    { "id": "s14", "label": "Annuaire des entreprises : association La Volupté, SIREN 922 811 161", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/922811161", "type": "registre", "consulted": "2026-10-16" },
+    { "id": "s15", "label": "OpenStreetMap : route de Mâcon (D 906, ancienne N 6) à Saint-Jean-le-Priche", "url": "https://www.openstreetmap.org/way/27689670", "type": "carte", "consulted": "2026-10-16" },
+    { "id": "s16", "label": "sauna-club-libertin.com : fiche « Le Rubis Club »", "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_3.php?id=983&d=71", "type": "annuaire", "consulted": "2026-10-16" },
+    { "id": "s17", "label": "sauna-club-libertin.com : fiche « Le Rubis Club » (archive du 28 février 2009)", "url": "http://web.archive.org/web/20090228053906/http://www.sauna-club-libertin.com/sauna_club_libertin_3.php?id=983&d=", "type": "annuaire", "consulted": "2026-10-16" },
+    { "id": "s18", "label": "PagesJaunes, annuaire inversé de l'ancien numéro fixe du Rubis", "url": "https://www.pagesjaunes.fr/annuaireinverse/recherche?quoiqui=0385375981", "type": "annuaire", "consulted": "2026-10-16" },
+    { "id": "s19", "label": "Site du New Rubis, page d'entrée (archive du 2 avril 2010)", "url": "http://web.archive.org/web/20100402201435/http://www.lenewrubis.com/", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s20", "label": "Site du New Rubis, « Tarifs & horaires », « Le club » et « Contact & accès » (archives du 30 septembre 2013)", "url": "http://web.archive.org/web/20130930044125/http://lenewrubis.com/index.php?page=tarifs_horaires", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s21", "label": "Site du New Rubis, page d'accueil (archive du 10 octobre 2017)", "url": "http://web.archive.org/web/20171010050218/http://lenewrubis.com/", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s22", "label": "Site du New Rubis, page d'accueil (archives du 22 décembre 2018 et du 21 janvier 2019)", "url": "http://web.archive.org/web/20181222163653/http://lenewrubis.com/", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s23", "label": "Site du New Rubis, « site fermé momentanément » (archive du 20 juin 2019)", "url": "http://web.archive.org/web/20190620083412/https://lenewrubis.com/maintenance-site/", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s24", "label": "lieuxcoquins.fr : fiche « Le New Rubis »", "url": "https://www.lieuxcoquins.fr/lieu/le-new-rubis/", "type": "annuaire", "consulted": "2026-10-16" },
+    { "id": "s25", "label": "Site officiel de La Volupté, accueil (texte et images comparés à ceux de La Sensation)", "url": "https://lavolupte-club.com/", "type": "officiel", "consulted": "2026-10-19" },
+    { "id": "s26", "label": "Site officiel de La Volupté, charte du club", "url": "https://lavolupte-club.com/charte/", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s27", "label": "Site officiel de La Volupté, horaires et tarifs", "url": "https://lavolupte-club.com/horaires-et-tarifs/", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s28", "label": "Site officiel de La Volupté, événements d'octobre 2026 et formulaire de réservation", "url": "https://lavolupte-club.com/evenements/", "type": "officiel", "consulted": "2026-10-19" },
+    { "id": "s29", "label": "Site officiel de La Volupté, contact et adresse", "url": "https://lavolupte-club.com/contact/", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s30", "label": "Journal officiel des associations : recherche de la formule d'objet de New Rubis", "url": "https://journal-officiel-datadila.opendatasoft.com/explore/dataset/jo_associations/", "type": "registre", "consulted": "2026-10-16" },
+    { "id": "s31", "label": "Historique des captures de lenewrubis.com (Wayback Machine)", "url": "http://web.archive.org/cdx/search/cdx?url=lenewrubis.com&matchType=domain", "type": "autre", "consulted": "2026-10-16" },
+    { "id": "s32", "label": "Site officiel du Diderot, Branges (mis à jour le 2 octobre 2026)", "url": "https://www.clublediderot.com/", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s33", "label": "Historique des captures de lavolupte-club.com (Wayback Machine)", "url": "http://web.archive.org/cdx/search/cdx?url=lavolupte-club.com&matchType=domain", "type": "autre", "consulted": "2026-10-16" },
+    { "id": "s34", "label": "Site du New Rubis, page d'accueil (archives du 22 août et du 17 novembre 2018)", "url": "http://web.archive.org/web/20181117195012/http://lenewrubis.com/", "type": "officiel", "consulted": "2026-10-19" },
+    { "id": "s35", "label": "Site du Petit Saint Jean, page d'accueil (archives du 16 octobre 2019 au 7 mai 2021)", "url": "http://web.archive.org/web/20191016140010/https://lepetitsaintjean.fr/", "type": "officiel", "consulted": "2026-10-19" },
+    { "id": "s36", "label": "Site du Petit Saint Jean, mentions légales (archive du 23 avril 2021)", "url": "http://web.archive.org/web/20210423041127/https://lepetitsaintjean.fr/politique-de-confidentialite-et-mentions-legales/", "type": "officiel", "consulted": "2026-10-19" },
+    { "id": "s37", "label": "Historique des captures de lepetitsaintjean.fr (Wayback Machine)", "url": "http://web.archive.org/cdx/search/cdx?url=lepetitsaintjean.fr&matchType=domain", "type": "autre", "consulted": "2026-10-19" },
+    { "id": "s38", "label": "Site de La Sensation, accueil (archives du 10 mars et du 30 septembre 2022)", "url": "http://web.archive.org/web/20220930200346/https://www.lasensation.fr/", "type": "officiel", "consulted": "2026-10-19" },
+    { "id": "s39", "label": "Site de La Sensation, page du club : concept, horaires, tarifs et charte (archive du 30 septembre 2022)", "url": "http://web.archive.org/web/20220930182509/https://www.lasensation.fr/club-la-sensation/", "type": "officiel", "consulted": "2026-10-19" },
+    { "id": "s40", "label": "Site de La Sensation, page du Tam-Tam bar (archive du 30 septembre 2022)", "url": "http://web.archive.org/web/20220930192721/https://www.lasensation.fr/tam-tam-swinger-cocktail-bar/", "type": "officiel", "consulted": "2026-10-19" },
+    { "id": "s41", "label": "YouTube, chaîne « club lasensation » : annonce de l'ouverture des 4 et 5 mars 2022 (vidéo de février 2022)", "url": "https://www.youtube.com/watch?v=rNnFVZtnSPQ", "type": "reseau_social", "consulted": "2026-10-19" },
+    { "id": "s42", "label": "Annuaire des entreprises : SAS Sensation (La Sensation), SIREN 900 824 343", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/900824343", "type": "registre", "consulted": "2026-10-19" },
+    { "id": "s43", "label": "BODACC : liquidation judiciaire de la SAS Sensation (2023-2025)", "url": "https://bodacc-datadila.opendatasoft.com/explore/dataset/annonces-commerciales/table/?q=900824343", "type": "registre", "consulted": "2026-10-19" },
+    { "id": "s44", "label": "Historique des captures de lasensation.fr (Wayback Machine)", "url": "http://web.archive.org/cdx/search/cdx?url=lasensation.fr&matchType=domain", "type": "autre", "consulted": "2026-10-19" },
+    { "id": "s45", "label": "Site officiel d'Euphoria Sauna, Chalon-sur-Saône", "url": "https://euphoria-sauna.fr/", "type": "officiel", "consulted": "2026-10-19" },
+    { "id": "s46", "label": "Second site du New Rubis, lenewrubis.fr, page d'accueil (archive du 21 mai 2020, actualités du 22 octobre 2018)", "url": "http://web.archive.org/web/20200521005930/http://www.lenewrubis.fr/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s47", "label": "Enregistrement du domaine lenewrubis.fr (Afnic, déposé le 12 novembre 2018) et historique de ses captures", "url": "https://rdap.nic.fr/domain/lenewrubis.fr", "type": "autre", "consulted": "2026-10-20" },
+    { "id": "s48", "label": "Site officiel du Chaperon Rouge, Chalon-sur-Saône (modifié le 14 octobre 2026)", "url": "https://www.lechaperonrouge.fr/", "type": "officiel", "consulted": "2026-10-20" }
+  ]
+}

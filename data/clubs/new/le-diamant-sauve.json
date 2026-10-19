@@ -1,0 +1,19 @@
+{
+  "id": "new-le-diamant-sauve",
+  "nom": "Le Diamant",
+  "type": "club libertin",
+  "types_normalises": ["Club"],
+  "adresse": "12 impasse des Garennes",
+  "code_postal": "30610",
+  "ville": "Sauve",
+  "departement_code": "30",
+  "departement_nom": "Gard",
+  "region": "Occitanie",
+  "pays": "France",
+  "telephone": "0636270115",
+  "email": "lediamantclub30@gmail.com",
+  "site_web": "https://lediamant-club.com/",
+  "equipements": ["Bar", "Piste de dance", "Terrasse", "Parking fermé", "Restauration"],
+  "verification": { "status": "actif" },
+  "addedAt": "2026-10-20"
+}

@@ -274,8 +274,17 @@ for (const r of rows) {
   }
 }
 
+// Chapô ouvert sur l'adresse : signalé (l'adresse est déjà dans l'en-tête).
+for (const r of rows) {
+  if (/^(au|aux)\s+\d+/i.test(bySlug.get(r.slug).lead.trim())) r.frozen.push('chapô ouvert sur l\'adresse : ouvrir sur le fait distinctif du lieu');
+}
+
 // Alerte de lot (non bloquante) : un même fait partenaire dans plus de la moitié des fiches auditées.
 if (focus.size >= 5) {
+  const firstCal = rows.filter((r) => bySlug.get(r.slug).sections[0]?.icon === 'calendar').length;
+  if (firstCal > rows.length * 0.6) console.log(`Alerte de lot : ${firstCal} fiches sur ${rows.length} s'ouvrent sur une section calendrier. Varier l'ouverture.`);
+  const lastStar = rows.filter((r) => bySlug.get(r.slug).sections.at(-1)?.icon === 'star').length;
+  if (lastStar > rows.length * 0.4) console.log(`Alerte de lot : ${lastStar} fiches sur ${rows.length} finissent par la section avis. Varier la fin.`);
   const FACTS = ['fin 2024', 'carte bancaire', 'trois photos', '3 photos', 'compte gratuit', 'netéchangisme', '7 millions', '500 000', '2018', 'à la main'];
   for (const f of FACTS) {
     const n = rows.filter((r) => corpusText.get(r.slug).includes(f)).length;

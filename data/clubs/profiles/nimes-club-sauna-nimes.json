@@ -1,0 +1,411 @@
+{
+  "slug": "nimes-club-sauna-nimes",
+  "clubId": "new-nimes-club-sauna-nimes",
+  "researchedAt": "2026-10-20",
+  "display": { "nom": "Nîmes Club Sauna", "ville": "Nîmes" },
+  "status": {
+    "value": "ouvert",
+    "summary": "Un bandeau ajouté au site officiel entre mi-juin et mi-octobre 2026 annonce que le samedi hard du 2 janvier 2027 est décalé au 9 janvier. La page Facebook du sauna, lue via un site miroir, publie jusqu'au 28 septembre 2026, et la SARL exploitante, créée en 1987, est active au registre.",
+    "sources": ["s1", "s6", "s10", "s8", "s9", "s7"]
+  },
+  "seo": {
+    "title": "Nîmes Club Sauna : sauna gay, horaires et samedi hard",
+    "metaDescription": "Sauna 100 % masculin rue Fernand-Pelloutier à Nîmes : 500 m², hammam, jacuzzi, slings, ouvert dès midi 365 jours par an. Samedi hard décalé au 9 janvier 2027.",
+    "subtitle": "Sauna gay de 500 m² en plein centre de Nîmes (30), ouvert aux hommes tous les jours dès midi",
+    "targetQueries": ["nimes club sauna", "sauna gay nimes", "nimes club sauna horaires", "nimes club sauna tarif", "samedi hard nimes"]
+  },
+  "lead": "Le Nîmes Club Sauna se dit « toujours 100 % masculin » : il n'accueille que des hommes, tous les jours de l'année à partir de midi, entre la Maison Carrée et les Arènes. Sur 500 m², il réunit hammam, sauna sec, jacuzzi, cabines à sling et labyrinthe obscur, et consacre chaque premier samedi du mois à une journée « hard ». Il revendique plus de 37 ans d'existence, et sa société exploitante date de 1987.",
+  "glance": [
+    { "icon": "calendar", "label": "Ouvert", "value": "Tous les jours de l'année, dès midi" },
+    { "icon": "clock", "label": "Fermeture", "value": "21 h lun.-jeu. · minuit ven.-dim." },
+    { "icon": "users", "label": "Public", "value": "Hommes uniquement" },
+    { "icon": "flame", "label": "Samedi hard", "value": "1er samedi du mois, de midi à minuit" },
+    { "icon": "euro", "label": "Entrée", "value": "15 ou 16 € selon les annuaires", "confidence": "a_verifier" },
+    { "icon": "ruler", "label": "Surface", "value": "500 m², hammam, sauna sec, jacuzzi" }
+  ],
+  "audience": [
+    { "who": "hommes", "status": "oui", "detail": "Tous les jours ; prix relevés par des annuaires, non confirmés par le club", "price": "15 à 16 €" },
+    { "who": "femmes", "status": "non", "detail": "Non admises : le club se dit « toujours 100 % masculin »" },
+    { "who": "couples", "status": "non", "detail": "Pas de couples hommes-femmes : l'entrée est réservée aux hommes" }
+  ],
+  "highlights": [
+    "Le samedi hard du 2 janvier 2027 n'aura pas lieu ce jour-là : le site officiel le reporte au samedi 9 janvier 2027.",
+    "Les jours de samedi hard, aucune serviette n'est fournie, les chaussures sont obligatoires et une sortie ne permet pas de revenir.",
+    "Depuis le 14 mai 2026, le sauna ferme à 21 h, et non plus à minuit, la veille des jours fériés.",
+    "Préservatifs et gel ne se prennent qu'au bar ; des pochettes à attacher au poignet ou à la cheville servent à les garder sur soi.",
+    "Le club ne publie aucun tarif : les annuaires donnent 15 ou 16 € l'entrée. Appelez le 04 66 67 65 18 pour le prix du jour."
+  ],
+  "keyFacts": [
+    { "label": "Type", "value": "Sauna gay, réservé aux hommes", "confidence": "confirme", "sources": ["s1", "s12", "s13", "s16"] },
+    { "label": "Adresse", "value": "7/9 rue Fernand-Pelloutier, 30900 Nîmes", "confidence": "confirme", "sources": ["s1", "s8"] },
+    { "label": "Téléphone", "value": "04 66 67 65 18", "confidence": "confirme", "sources": ["s1", "s12", "s13"] },
+    { "label": "Société", "value": "SARL Nimes Club Sauna, créée le 29/04/1987, active", "confidence": "confirme", "sources": ["s8", "s9"] },
+    { "label": "Ancienneté revendiquée", "value": "« Plus de 37 ans » (site officiel, 2025-2026)", "confidence": "confirme", "sources": ["s1", "s6", "s8"] },
+    { "label": "Surface", "value": "500 m²", "confidence": "source_unique", "sources": ["s1"] },
+    { "label": "Jours d'ouverture", "value": "365 jours par an, à partir de midi", "confidence": "confirme", "sources": ["s1", "s12", "s15"] },
+    { "label": "Samedi hard", "value": "Premier samedi du mois, de midi à minuit", "confidence": "confirme", "sources": ["s1", "s3", "s10", "s15"] },
+    { "label": "Entrée", "value": "15 ou 16 € ; 12 € avant 25 ans", "confidence": "a_verifier", "sources": ["s13", "s15", "s16"] }
+  ],
+  "sections": [
+    {
+      "id": "hammam-sauna-jacuzzi",
+      "title": "Hammam de 30 m² à plus de 45 °C, sauna sec à 80 °C, jacuzzi de 12 m²",
+      "icon": "spa",
+      "summary": "Côté bains, le club décrit un hammam de 30 m², un sauna sec d'une dizaine de places chauffé à près de 80 °C et un jacuzzi de plus de 12 m² encadré de douches individuelles.",
+      "blocks": [
+        {
+          "kind": "table",
+          "caption": "Les espaces chauds et humides, selon le site officiel",
+          "headers": ["Espace", "Ce que le club en dit"],
+          "rows": [
+            ["Hammam", "30 m², vapeur à plus de 45 °C, fontaine d'eau froide et douche froide"],
+            ["Sauna sec", "Une dizaine de places, près de 80 °C"],
+            ["Jacuzzi", "Plus de 12 m², avec un petit coin détente"],
+            ["Douches", "Collectives, ou individuelles de part et d'autre du jacuzzi ; une froide ; gel douche fourni ; douchettes intimes"],
+            ["Vestiaire", "Plus de 110 casiers, cintres, sèche-cheveux, magazines et journal du jour"]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le club ajoute que son vestiaire peut, certains jours, recevoir plus de monde que ses casiers. L'été, le bar et les couloirs sont climatisés. Le Wi-Fi gratuit, le défibrillateur et des aménagements pour les personnes malvoyantes apparaissent sur l'accueil du site au printemps 2024 : absents de la capture d'archive du 16 avril, ils figurent sur celle du 23 mai."
+        },
+        {
+          "kind": "callout",
+          "tone": "info",
+          "title": "Le jacuzzi, point faible selon certains avis",
+          "body": "Des avis Google relayés sans date le décrivent en panne ou froid. Si c'est lui qui motive le déplacement, un appel avant de venir lève le doute."
+        }
+      ],
+      "sources": ["s2", "s1", "s6", "s17"]
+    },
+    {
+      "id": "samedi-hard",
+      "title": "Premier samedi du mois, de midi à minuit : le hammam devient backroom",
+      "icon": "flame",
+      "summary": "Chaque premier samedi, de midi à minuit, journée « hard » : jacuzzi et sauna sec fermés, chaussures obligatoires, sortie définitive. Celle du 2 janvier 2027 passe au 9, comme en mai 2026.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "C'est le rendez-vous qui distingue le lieu. La page qui le décrit sur le site officiel a été créée en mars 2015, et les mots-clés du site parlaient déjà de soirées hard en décembre 2004."
+        },
+        {
+          "kind": "list",
+          "title": "Ce qui change ce jour-là, d'après le club",
+          "items": [
+            "Un vestiaire vous est attribué à l'arrivée.",
+            "Aucune serviette n'est distribuée : on circule habillé, ou nu pour qui le préfère.",
+            "Les chaussures sont obligatoires.",
+            "Le jacuzzi et le sauna sec sont fermés ; le hammam est transformé en grande backroom.",
+            "Toute sortie est définitive : on ne ressort pas pour revenir."
+          ]
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Janvier 2027 : le 9, pas le 2",
+          "body": "Le premier samedi de 2027 tombe le 2 janvier. Le site officiel prévient que la journée hard est reportée au samedi 9 janvier 2027. Ce n'est pas une première : en mai 2026, l'accueil du site fixait la journée du mois au samedi 9, et non au 2."
+        },
+        {
+          "kind": "text",
+          "body": "En 2026, la page Facebook du lieu, lue via un site miroir, a rappelé chaque date : 6 juin, 4 juillet, 1er août, 5 septembre, puis le 3 octobre, annoncé le 28 septembre. Le guide Spartacus annonce encore des soirées à thème le dernier samedi du mois, de minuit à 7 h : le site officiel ne mentionne rien de tel."
+        }
+      ],
+      "sources": ["s3", "s1", "s5", "s6", "s10", "s16"]
+    },
+    {
+      "id": "cabines-labyrinthe",
+      "title": "Trois cabines à sling, un labyrinthe noir et une salle vidéo sur deux niveaux",
+      "icon": "mask",
+      "summary": "L'espace de rencontre compte des cabines, dont trois avec sling, un labyrinthe sans lumière et une grande salle vidéo à matelas qui sert de pièce noire en semaine.",
+      "blocks": [
+        {
+          "kind": "list",
+          "items": [
+            "**Cabines** : papier absorbant dans chacune, éclairage dont la couleur change selon les jours ; trois sont équipées d'un sling.",
+            "**Labyrinthe** : plongé dans l'obscurité, avec coins et recoins.",
+            "**Salle vidéo** : grands matelas sur deux niveaux ; pièce noire en semaine, elle redevient salle de projection les soirs d'événement.",
+            "**Bar** : boissons chaudes et froides, restauration rapide servie à toute heure, petits snacks sucrés ; lasers et fumigène pour l'ambiance.",
+            "**Fumoir** : il donne sur le bar."
+          ]
+        },
+        {
+          "kind": "callout",
+          "tone": "tip",
+          "title": "Préservatifs : au bar seulement",
+          "body": "Préservatifs et gel ne sont disponibles qu'au bar, une règle que le club justifie par les abus de certains clients. Il fournit des pochettes à fixer au poignet ou à la cheville pour les garder sur soi."
+        }
+      ],
+      "sources": ["s2"]
+    },
+    {
+      "id": "horaires-veilles-feries",
+      "title": "Fermeture à 21 h les veilles de jours fériés depuis le 14 mai 2026",
+      "icon": "clock",
+      "summary": "Le sauna ouvre à midi tous les jours et ferme à 21 h du lundi au jeudi, à minuit du vendredi au dimanche. Les veilles de fériés, c'est 21 h depuis mai 2026.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "De mai 2024 au printemps 2026, le site promettait midi-minuit les jours fériés et leurs veilles. Le 14 mai 2026, la page Facebook a annoncé que la veille d'un jour férié, le sauna fermerait désormais à 21 h. La mention de la veille figure encore sur la capture d'archive du 11 mai 2026 et a disparu de celle du 18 juin."
+        },
+        {
+          "kind": "list",
+          "items": [
+            "Les jours fériés eux-mêmes restent ouverts de midi à minuit.",
+            "Les 24 et 31 décembre, la fermeture est avancée à 20 h.",
+            "Le tarif réduit d'après 20 h que citent deux annuaires ne couvrirait, du lundi au jeudi, qu'une heure avant la fermeture."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le club dit ouvrir 365 jours par an. Pendant la féria de mai 2026, sa page Facebook précisait qu'il restait ouvert. Le 27 juin 2026, jour de la Pride de Nîmes, l'entrée payée permettait de sortir et de revenir librement jusqu'à minuit."
+        }
+      ],
+      "sources": ["s1", "s6", "s10", "s13", "s16"]
+    },
+    {
+      "id": "prix-entree",
+      "title": "15 ou 16 € l'entrée, 12 € avant 25 ans : des prix que le club ne publie pas",
+      "icon": "euro",
+      "summary": "Le site officiel n'affiche aucun tarif. Trois annuaires donnent 15 ou 16 € l'entrée et 12 € pour les moins de 25 ans ; deux citent 9 € après 20 h.",
+      "blocks": [
+        {
+          "kind": "table",
+          "caption": "Les tarifs relevés ailleurs que chez le club",
+          "headers": ["Source", "Entrée", "Moins de 25 ans", "Après 20 h"],
+          "rows": [
+            ["Saunaclublebali (fiche de janvier 2026)", "15 €", "12 €", "9 €"],
+            ["Spartacus (non daté)", "15 €", "12 €", "9 € (6 € avant 25 ans)"],
+            ["Agendaq (non daté)", "16 €", "12 €", "Non indiqué"]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Aucun de ces montants n'est confirmé par le club, et les relevés divergent d'un euro ; un avis Google relayé sans date parle d'une entrée encaissée 16 €. Le plus sûr reste d'appeler le 04 66 67 65 18. Spartacus et le relais de la fiche Google indiquent que la carte bancaire est acceptée, ce que le site ne dit pas."
+        }
+      ],
+      "sources": ["s13", "s15", "s16", "s17", "s1"],
+      "confidence": "a_verifier"
+    },
+    {
+      "id": "avis-google-gayspot",
+      "title": "4,4/5 relayé sur 68 avis Google, et un 1/5 d'habitué en mai 2026",
+      "icon": "star",
+      "summary": "Des annuaires relaient une note Google de 4,4/5 (65 puis 68 avis), non vue sur Google. Sur gayspot, trois avis à 5/5 de 2019 à 2025 précèdent un 1/5 en mai 2026.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Nous n'avons pas consulté la fiche Google elle-même. La note de 4,4 sur 5 est relayée par minuitlibertin (68 avis, fiche mise à jour en août 2026) et par un site qui reproduit automatiquement les fiches Google (65 avis)."
+        },
+        {
+          "kind": "list",
+          "items": [
+            "Gayspot.fr : trois avis notés 5/5, en novembre 2019, juillet 2024 et mars 2025 ; celui de 2019 salue les samedis hard, celui de 2025 annonce une première visite sans la raconter.",
+            "Le plus récent, de mai 2026, est noté 1/5 : un habitué des années 2020, revenu récemment, juge les installations devenues vétustes.",
+            "Parmi les avis Google relayés sans date, certains signalent peu de monde en soirée la semaine."
+          ]
+        }
+      ],
+      "sources": ["s11", "s12", "s17"]
+    },
+    {
+      "id": "gare-arenes-parkings",
+      "title": "À 1,2 km de la gare par les Arènes, cinq parkings de 220 à 1 019 places",
+      "icon": "map",
+      "summary": "Le sauna est en plein centre, près de la Maison Carrée : un quart d'heure à pied depuis la gare par l'avenue Feuchères et les Arènes, stationnement gratuit dans les rues voisines.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "L'adresse est le 7/9 rue Fernand-Pelloutier, 30900 Nîmes ; le registre retient le n° 7. Depuis la gare, le club compte 1,2 km et 15 minutes à pied : avenue Feuchères, Arènes contournées par la gauche, boulevard Victor-Hugo, puis place Questel et rue Porte-de-France."
+        },
+        {
+          "kind": "table",
+          "caption": "Parkings cités par le club (page de 2013, hauteur de passage 1,90 m)",
+          "headers": ["Parking", "Places annoncées"],
+          "rows": [
+            ["Indigo Arènes", "1 019"],
+            ["Q-Park Gare-Feuchères", "800"],
+            ["Indigo Maison Carrée", "537"],
+            ["Q-Park boulevard Jean-Jaurès", "468"],
+            ["Indigo Jardin de la Fontaine", "220"]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le club signale aussi des places gratuites dans les rues voisines, mais range la rue Fernand-Pelloutier elle-même parmi les rues payantes en semaine et le samedi matin. Ces horaires et tarifs de stationnement ne sont pas datés et remontent peut-être à 2013. En voiture, il détaille trois itinéraires, depuis Alès, Avignon et Montpellier."
+        }
+      ],
+      "sources": ["s4", "s8", "s5"]
+    },
+    {
+      "id": "rex-rue-cordier",
+      "title": "Pour un public mixte : le Rex, sauna « toutes tendances » rue Cordier",
+      "icon": "users",
+      "summary": "Un guide de mars 2026 ne recense qu'un sauna gay à Nîmes, celui-ci. Près de la gare, le Rex se dit mixte : 30 € le couple, 40 € l'homme seul, gratuit pour une femme seule.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Les hommes venus avec une compagne n'entreront pas ici. Au 6 rue Cordier, à deux minutes de la gare selon son site, le [Rex Club Sauna](/club-30-nimes) se présente comme un sauna mixte « toutes tendances », bi, trans et hétéro. Son agenda en ligne affiche des créneaux quotidiens au moins jusqu'au 28 octobre 2026."
+        },
+        {
+          "kind": "text",
+          "body": "Sa grille, en ligne depuis octobre 2023, compte 30 € pour un couple, 40 € pour un homme seul et rien pour une femme seule. Son règlement fait entrer les hommes seuls « en fonction du nombre de couples présents »."
+        },
+        {
+          "kind": "text",
+          "body": "Un homme qui sort d'ordinaire avec sa compagne trouvera donc au Rex un sauna où entrer à deux. Carré Libertin, qui annonce environ 60 % de femmes et de couples parmi ses inscrits, ne demande aucun abonnement à un couple qui publie ses photos de profil : de quoi [échanger avec des libertins du Gard avant ce premier passage](aff:carre-libertin) rue Cordier."
+        },
+        {
+          "kind": "text",
+          "body": "Ce guide décrit le [F212](/fahrenheit-212-nimes) comme un club libertin mixte ouvert en journée ; nous n'avons pas vérifié son activité. Les autres lieux de la ville sont réunis sur la [page consacrée à Nîmes](/ville/nimes), ceux du département sur la [page du Gard](/departement/gard)."
+        },
+        {
+          "kind": "text",
+          "body": "Le site du Rex affiche aussi une bannière Wyylde. L'ancien Netéchangisme recense les soirées des clubs avec leur date, leur thème et souvent leurs conditions d'entrée, consultables avec un compte gratuit : de quoi [vérifier ce que les clubs mixtes du Gard programment](aff:wyylde) avant de se déplacer."
+        }
+      ],
+      "sources": ["s14", "s18", "s19", "s20"]
+    },
+    {
+      "id": "depuis-1987",
+      "title": "Une SARL née en avril 1987, un site archivé dès décembre 2004",
+      "icon": "history",
+      "summary": "La SARL Nimes Club Sauna existe depuis le 29 avril 1987. Le site du sauna est archivé dès décembre 2004, déjà présenté comme un lieu de plaisir entre hommes.",
+      "blocks": [
+        {
+          "kind": "timeline",
+          "items": [
+            { "date": "29 avril 1987", "text": "Création de la SARL Nimes Club Sauna, domiciliée au 7 rue Fernand-Pelloutier et toujours active." },
+            { "date": "Décembre 2004", "text": "Plus ancienne capture du site dans les archives du web. Il s'y présente comme « le partenaire plaisir entre mecs » et cite des pages bar, hammam, labyrinthe, salle de cinéma et solarium." },
+            { "date": "Octobre-novembre 2009", "text": "Le registre fait démarrer l'activité de l'établissement au 1er octobre 2009 ; le 20 novembre, le BODACC publie un objet social qui associe club, hammam, sauna et restauration." },
+            { "date": "Juillet 2013", "text": "Création des pages actuelles du site consacrées aux équipements et à l'accès." },
+            { "date": "Mars 2015", "text": "Mise en ligne de la page des samedis hards." },
+            { "date": "Mars-avril 2024", "text": "Le site parle de « plus de 30 ans » d'existence début mars, de « plus de 36 ans » mi-avril." },
+            { "date": "Mai 2024", "text": "Le 12 mai, le BODACC publie une modification de l'administration de la société. Sur la capture du 23 mai, le site ajoute le Wi-Fi gratuit, le défibrillateur, les aménagements pour malvoyants et l'ouverture jusqu'à minuit les veilles de fériés." },
+            { "date": "Printemps 2025", "text": "La formule passe à « plus de 37 ans », entre les captures du 17 mars et du 27 avril." },
+            { "date": "Mai 2026", "text": "La journée hard de mai est fixée au samedi 9 ; le 14, le sauna annonce sa fermeture à 21 h les veilles de jours fériés." }
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le club ne donne pas d'année d'ouverture. « Plus de 37 ans » renvoie à la fin des années 1980, ce qui concorde avec la création de la société. Ce que recouvrent les dates de 2009 (reprise, changement d'activité) n'est pas établi, pas plus que le lien entre le changement d'administration et la mise à jour du site, tous deux en mai 2024."
+        },
+        {
+          "kind": "text",
+          "body": "Autre bizarrerie : le domaine nimesclubsauna.fr date officiellement de mars 2009, alors que le site existait sous ce nom dès 2004 ; il est réservé jusqu'en mars 2027."
+        },
+        {
+          "kind": "text",
+          "body": "Détail administratif : le registre classe la société en restauration traditionnelle, et non dans une activité de sauna. Elle déclare un ou deux salariés en 2024 et dépose ses comptes chaque année, les derniers publiés en mars 2026."
+        }
+      ],
+      "sources": ["s8", "s9", "s6", "s5", "s1", "s7", "s10"]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Lundi à jeudi": "12 h - 21 h",
+      "Vendredi à dimanche": "12 h - minuit",
+      "Jours fériés": "12 h - minuit",
+      "Veille de jour férié": "12 h - 21 h (depuis le 14/05/2026)",
+      "24 et 31 décembre": "Fermeture à 20 h",
+      "1er samedi du mois": "Samedi hard, 12 h - minuit"
+    },
+    "note": "Ouvert 365 jours par an selon le club. Le samedi hard du 2 janvier 2027 est reporté au samedi 9 janvier 2027.",
+    "confidence": "confirme",
+    "sources": ["s1", "s3", "s10"]
+  },
+  "tarifs": {
+    "rows": {
+      "Entrée": "15 € (deux annuaires) ou 16 € (un agenda LGBT)",
+      "Moins de 25 ans": "12 €",
+      "Après 20 h": "9 € ; 6 € avant 25 ans selon Spartacus"
+    },
+    "note": "Aucun tarif sur le site officiel. Montants relevés par des annuaires (saunaclublebali, janvier 2026 ; Spartacus et agendaq, non datés) : à confirmer au 04 66 67 65 18.",
+    "confidence": "a_verifier",
+    "sources": ["s13", "s15", "s16"]
+  },
+  "equipements": [
+    "Surface de 500 m²",
+    "Climatisation l'été (bar, couloirs)",
+    "Vestiaire de plus de 110 casiers",
+    "Hammam de 30 m² (plus de 45 °C)",
+    "Sauna sec d'une dizaine de places (près de 80 °C)",
+    "Jacuzzi de plus de 12 m²",
+    "Douches collectives et individuelles, douchettes intimes",
+    "Cabines, dont 3 avec sling",
+    "Labyrinthe obscur",
+    "Salle vidéo à matelas sur deux niveaux",
+    "Bar avec restauration rapide",
+    "Fumoir",
+    "Wi-Fi gratuit",
+    "Défibrillateur (DAE)",
+    "Aménagements pour malvoyants"
+  ],
+  "officialLinks": [
+    { "label": "Site officiel", "url": "http://www.nimesclubsauna.fr/", "kind": "site" },
+    { "label": "Les samedis hards (règles)", "url": "http://www.nimesclubsauna.fr/ncs/node/22", "kind": "autre" },
+    { "label": "Page Facebook", "url": "https://www.facebook.com/206928086134075", "kind": "facebook" }
+  ],
+  "faq": [
+    {
+      "question": "Le Nîmes Club Sauna accepte-t-il les femmes ou les couples ?",
+      "answer": "Non. Le club se présente comme « toujours 100 % masculin » : seuls les hommes entrent. À Nîmes, le Rex Club Sauna, rue Cordier, se dit au contraire mixte ; sa grille affiche 30 € pour un couple et l'entrée gratuite pour une femme seule. Le site du Rex affiche une bannière Gleese, un site libertin français où chaque membre choisit qui voit ses photos : une femme ou un couple soucieux de discrétion peut y [préparer une sortie mixte à Nîmes](aff:gleese) sans s'afficher devant tous les inscrits."
+    },
+    {
+      "question": "Quels sont les horaires du Nîmes Club Sauna ?",
+      "answer": "De midi à 21 h du lundi au jeudi, de midi à minuit du vendredi au dimanche et les jours fériés. Depuis le 14 mai 2026, il ferme à 21 h la veille d'un jour férié ; les 24 et 31 décembre, à 20 h."
+    },
+    {
+      "question": "Combien coûte l'entrée au Nîmes Club Sauna ?",
+      "answer": "Le club ne publie pas ses prix. Des annuaires donnent 15 € l'entrée (16 € selon un agenda LGBT) et 12 € pour les moins de 25 ans ; deux d'entre eux citent 9 € après 20 h. À confirmer au 04 66 67 65 18."
+    },
+    {
+      "question": "Quand a lieu le prochain samedi hard à Nîmes ?",
+      "answer": "La règle est le premier samedi du mois, de midi à minuit, ce qui donne le 7 novembre et le 5 décembre 2026. Exception annoncée par le site : la journée du 2 janvier 2027 est reportée au 9 janvier 2027, comme celle de mai 2026 avait été fixée au 9 mai. Un coup d'œil au bandeau de l'accueil du site évite de se tromper de samedi."
+    },
+    {
+      "question": "Le sauna est-il toujours ouvert en 2026 ?",
+      "answer": "Oui, selon les indices les plus récents : un bandeau sur janvier 2027 ajouté au site entre juin et octobre 2026, des publications Facebook jusqu'au 28 septembre 2026, un nom de domaine réservé jusqu'en mars 2027 et une société dont le registre a mis les données à jour fin septembre 2026."
+    },
+    {
+      "question": "Où se garer près du Nîmes Club Sauna ?",
+      "answer": "Le club signale des places gratuites dans les rues voisines, la rue Fernand-Pelloutier étant payante en journée selon une page de 2013. Il cite cinq parkings, dont Indigo Arènes (1 019 places) et Indigo Maison Carrée (537 places). Depuis la gare, le trajet à pied fait 1,2 km."
+    },
+    {
+      "question": "Faut-il venir accompagné ou réserver ?",
+      "answer": "Non : rien, sur le site officiel, n'impose de venir à deux ni de réserver, et le sauna annonce une ouverture tous les jours de l'année dès midi. Pour une question précise, prix du jour compris, son numéro est le 04 66 67 65 18."
+    }
+  ],
+  "unverified": [
+    "Le prix d'entrée actuel : le site officiel n'en publie aucun et les annuaires divergent (15 ou 16 €).",
+    "L'existence d'un tarif réduit après 20 h, citée par deux annuaires seulement.",
+    "La note Google, lue uniquement sur des sites qui la relaient.",
+    "L'état actuel du jacuzzi, dit en panne ou froid dans des avis non datés.",
+    "L'année d'ouverture du sauna, et ce que recouvre le début d'activité de 2009 inscrit au registre.",
+    "La présence d'un solarium, citée par Spartacus et par l'ancien site de 2004, absente du site actuel.",
+    "L'adhésion au SNEG et la signature d'une charte de responsabilité, mentionnées par un seul annuaire.",
+    "Les moyens de paiement acceptés (Spartacus indique la carte bancaire)."
+  ],
+  "sources": [
+    { "id": "s1", "label": "Nîmes Club Sauna, site officiel, page « A propos de nous »", "url": "http://www.nimesclubsauna.fr/ncs/index.php", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s2", "label": "Nîmes Club Sauna, site officiel, pages des installations (bar, cabines, douches, fumoir, hammam, jacuzzi, labyrinthe, sauna, vestiaires, salle vidéo)", "url": "http://www.nimesclubsauna.fr/ncs/node/5", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s3", "label": "Nîmes Club Sauna, site officiel, page « Samedis hards »", "url": "http://www.nimesclubsauna.fr/ncs/node/22", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s4", "label": "Nîmes Club Sauna, site officiel, page « Comment venir ? »", "url": "http://www.nimesclubsauna.fr/ncs/node/16", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s5", "label": "Nîmes Club Sauna, flux RSS du site (dates de création des pages)", "url": "http://www.nimesclubsauna.fr/ncs/rss.xml", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s6", "label": "Site officiel archivé (Wayback Machine) : captures de 2004 et de mars 2024 à juin 2026 (dont 16/04 et 23/05/2024, 11/05 et 18/06/2026)", "url": "https://web.archive.org/web/20260618132549/http://www.nimesclubsauna.fr/ncs/index.php", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s7", "label": "AFNIC, données d'enregistrement du domaine nimesclubsauna.fr", "url": "https://rdap.nic.fr/domain/nimesclubsauna.fr", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s8", "label": "Annuaire des entreprises, SARL NIMES CLUB SAUNA (SIREN 340 919 471)", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/340919471", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s9", "label": "BODACC, annonces de la SARL NIMES CLUB SAUNA (objet social 2009, administration 2024, comptes 2008-2025)", "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:B20090224466", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s10", "label": "Page Facebook « Nîmes Club Sauna », lue via un site miroir (publications du 14/05 au 28/09/2026)", "url": "https://www.beautynailhairsalons.com/FR/N%C3%AEmes/206928086134075/N%C3%AEmes-Club-Sauna", "type": "reseau_social", "consulted": "2026-10-20" },
+    { "id": "s11", "label": "Gayspot.fr, fiche Nîmes Club Sauna (avis de 2019 à 2026)", "url": "https://gayspot.fr/lieu-de-drague-gay/1312-nimes-club-sauna-nimes.html", "type": "avis", "consulted": "2026-10-20" },
+    { "id": "s12", "label": "Minuitlibertin, fiche Nîmes Club Sauna (mise à jour le 03/08/2026)", "url": "https://minuitlibertin.com/nimes-club-sauna/", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s13", "label": "Saunaclublebali, fiche Nîmes Sauna Club (ajoutée le 29/01/2026)", "url": "https://www.saunaclublebali.fr/listing/nimes-sauna-club-nimes/", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s14", "label": "Saunaclublebali, guide des lieux libertins de Nîmes", "url": "https://www.saunaclublebali.fr/clubs-libertins-nimes/", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s15", "label": "Agendaq, guide « Nîmes club sauna »", "url": "https://www.agendaq.fr/fr/guide/nimes-club-sauna", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s16", "label": "Spartacus, fiche Nîmes Club Sauna (non datée)", "url": "https://spartacus.gayguide.travel/saunas/europe/france/nimes/14618_N%EEmes+Club+Sauna", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s17", "label": "Relais automatique de la fiche Google du Nîmes Club Sauna (note et avis sans date)", "url": "https://cristalcoiffure.fr/nimes-club-sauna/", "type": "autre", "consulted": "2026-10-20" },
+    { "id": "s18", "label": "Rex Club Sauna (6 rue Cordier, Nîmes), site officiel, accueil (bannières Wyylde et Gleese) et agenda", "url": "https://rex-club-sauna.fr/nimes/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s19", "label": "Rex Club Sauna, site officiel, page « Tarifs » (modifiée le 31/10/2023)", "url": "https://rex-club-sauna.fr/nimes/tarifs/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s20", "label": "Rex Club Sauna, site officiel, règlement (modifié le 06/06/2024)", "url": "https://rex-club-sauna.fr/nimes/reglement/", "type": "officiel", "consulted": "2026-10-20" }
+  ]
+}

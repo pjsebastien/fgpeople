@@ -1,0 +1,19 @@
+{
+  "id": "new-la-villa-rose-caissargues",
+  "nom": "La Villa Rose",
+  "type": "club libertin",
+  "types_normalises": ["Club", "Spa & Wellness", "Sauna"],
+  "adresse": "7 avenue de la Dame",
+  "code_postal": "30132",
+  "ville": "Caissargues",
+  "departement_code": "30",
+  "departement_nom": "Gard",
+  "region": "Occitanie",
+  "pays": "France",
+  "telephone": "0466232632",
+  "email": "",
+  "site_web": "https://www.club-lavillarose.fr/",
+  "equipements": ["Jacuzzi", "Hammam", "Sauna", "Bar", "Coins câlins", "Espace couple", "Salle de massage", "Vestiaires", "Parking"],
+  "verification": { "status": "actif" },
+  "addedAt": "2026-10-20"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "new-le-korosko-lorient",
+  "nom": "Le Korosko",
+  "type": "sauna gay et libertin",
+  "types_normalises": ["Sauna", "Spa & Wellness", "Gay friendly"],
+  "adresse": "18 rue Lazare Carnot",
+  "code_postal": "56100",
+  "ville": "Lorient",
+  "departement_code": "56",
+  "departement_nom": "Morbihan",
+  "region": "Bretagne",
+  "pays": "France",
+  "telephone": "0297350750",
+  "email": "",
+  "site_web": "https://www.lekorosko.com/",
+  "equipements": [
+    "Sauna",
+    "Hammam",
+    "Jacuzzi",
+    "Bar",
+    "Salon ou espace vidéo",
+    "Fumeur",
+    "Cabines",
+    "Sling",
+    "Vestiaires"
+  ],
+  "verification": { "status": "actif" },
+  "addedAt": "2026-10-20"
+}

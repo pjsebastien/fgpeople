@@ -1,0 +1,699 @@
+{
+  "slug": "la-plume-du-phenix-valence",
+  "clubId": "new-la-plume-du-phenix-valence",
+  "researchedAt": "2026-10-20",
+  "display": {
+    "nom": "La Plume du Phénix",
+    "ville": "Valence"
+  },
+  "status": {
+    "value": "ouvert",
+    "summary": "Le 31 août 2026, le syndicat SNEG & Co a présenté Le Phénix, le sauna qui occupe ces locaux l'après-midi, parmi ses adhérents. Entre mars et octobre 2026, le site de La Plume du Phénix a été remanié (buffet retiré, bar licence IV), et l'exploitant figure comme actif au registre. Aucune soirée datée n'est publiée en ligne.",
+    "sources": [
+      "s5",
+      "s1",
+      "s2",
+      "s4"
+    ]
+  },
+  "seo": {
+    "title": "La Plume du Phénix à Valence : club libertin du sauna Le Phénix",
+    "metaDescription": "Au 20 bis rue Jonchère, le sauna Le Phénix devient club libertin mixte le vendredi et le samedi, de 21 h à 2 h : couple 50 €, femme seule 10 €, jacuzzi à 37 °C.",
+    "subtitle": "Sauna masculin l'après-midi, spa-club libertin mixte le soir, en centre-ville de Valence (26)",
+    "targetQueries": [
+      "club libertin valence",
+      "club echangiste valence",
+      "libertin valence",
+      "spa libertin valence",
+      "plume du phénix valence",
+      "la plume du phénix",
+      "sauna phénix valence",
+      "sauna gay valence",
+      "plume du phénix tarif"
+    ]
+  },
+  "lead": "Le Phénix l'après-midi, La Plume du Phénix le soir : en centre-ville de Valence, un même établissement change de nom avec l'heure, sauna « 100 % masculin » sous la première enseigne, spa-club libertin mixte sous la seconde. Le vendredi et le samedi, de 21 h à 2 h, un couple homme-femme ou un homme seul paie 50 €, une femme seule 10 € ; le lundi, le mardi et le jeudi, la soirée mixte « toutes tendances » coûte 20 €. Son exploitant tenait auparavant le Double Side, rue de l'Isle.",
+  "glance": [
+    {
+      "icon": "flame",
+      "label": "Club libertin mixte",
+      "value": "Vendredi et samedi, 21 h-2 h"
+    },
+    {
+      "icon": "users",
+      "label": "Soirée toutes tendances",
+      "value": "Lundi, mardi, jeudi, 19 h-1 h · 20 €"
+    },
+    {
+      "icon": "euro",
+      "label": "Entrée du week-end",
+      "value": "Couple 50 € · homme 50 € · femme 10 €"
+    },
+    {
+      "icon": "lock",
+      "label": "Hommes uniquement",
+      "value": "Chaque après-midi, mercredi et dimanche"
+    },
+    {
+      "icon": "spa",
+      "label": "Balnéo",
+      "value": "Jacuzzi à 37 °C, hammam, sauna"
+    },
+    {
+      "icon": "history",
+      "label": "Même exploitant depuis",
+      "value": "2013 (Double Side), rue Jonchère en 2020"
+    }
+  ],
+  "audience": [
+    {
+      "who": "couples",
+      "status": "selon",
+      "detail": "Ven. et sam. 21 h-2 h (homme-femme, 50 €) ; lun., mar., jeu. 19 h-1 h (20 € chacun)",
+      "price": "40 à 50 €"
+    },
+    {
+      "who": "femmes",
+      "status": "selon",
+      "detail": "Ven. et sam. soir (10 €), soirées mixtes de semaine (20 €) ; jamais l'après-midi",
+      "price": "10 à 20 €"
+    },
+    {
+      "who": "hommes",
+      "status": "oui",
+      "detail": "Tous les jours : sauna masculin l'après-midi, soirées mixtes et week-end",
+      "price": "20 à 50 €"
+    }
+  ],
+  "highlights": [
+    "Chaque après-midi, et toute la journée le mercredi et le dimanche, le lieu est un sauna réservé aux hommes.",
+    "Le tarif couple du week-end vise les couples homme-femme : deux hommes ou deux femmes venus ensemble feront bien d'appeler le 04 75 42 93 23.",
+    "Le buffet annoncé par plusieurs annuaires n'apparaît plus sur le site en 2026 : seule la première consommation est offerte le vendredi et le samedi.",
+    "Arrivés ensemble, un homme et une femme paient 50 € au tarif couple le week-end, contre 60 € s'ils entrent chacun de leur côté.",
+    "Parking conseillé par le club : Q-Park Hôtel de Ville ou Champ de Mars, 1,10 € de 19 h à minuit."
+  ],
+  "keyFacts": [
+    {
+      "label": "Exploitant",
+      "value": "Entreprise individuelle créée le 01/09/2013, active (SIREN 794 722 579)",
+      "confidence": "confirme",
+      "sources": [
+        "s4"
+      ]
+    },
+    {
+      "label": "Enseignes",
+      "value": "« Le Phénix » (sauna masculin) et « La Plume du Phénix » (club mixte)",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s3",
+        "s4"
+      ]
+    },
+    {
+      "label": "Adresse",
+      "value": "20 bis rue Jonchère, 26000 Valence (« 20 » au registre)",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s3",
+        "s5"
+      ]
+    },
+    {
+      "label": "Rue Jonchère depuis",
+      "value": "01/01/2020 selon le registre (date administrative)",
+      "confidence": "source_unique",
+      "sources": [
+        "s4"
+      ]
+    },
+    {
+      "label": "Soirées libertines",
+      "value": "Vendredi et samedi, 21 h-2 h",
+      "confidence": "source_unique",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "label": "Soirées mixtes",
+      "value": "Lundi, mardi et jeudi, 19 h-1 h, 20 € par personne",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s3"
+      ]
+    },
+    {
+      "label": "Entrée du week-end",
+      "value": "Couple homme-femme 50 €, homme seul 50 €, femme seule 10 €",
+      "confidence": "source_unique",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "label": "Syndicat professionnel",
+      "value": "Adhérent du SNEG & Co depuis 2024",
+      "confidence": "source_unique",
+      "sources": [
+        "s5"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "deux-enseignes",
+      "title": "Le Phénix et La Plume du Phénix, deux sites pour le 20 bis rue Jonchère",
+      "icon": "building",
+      "summary": "Le sauna gay Le Phénix et le spa-club La Plume du Phénix sont un seul établissement : même adresse, même téléphone, même exploitant au registre, deux sites web.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Deux noms, une seule porte. Le site du Phénix se présente comme un « spa - sauna club 100 % masculin », celui de La Plume du Phénix comme un « spa - club libertin mixte ». Cinq éléments montrent qu'il s'agit du même lieu :"
+        },
+        {
+          "kind": "list",
+          "items": [
+            "la même adresse, 20 bis rue Jonchère ; le registre écrit « 20 », et le site de la Plume emploie les deux numéros ;",
+            "le même téléphone, 04 75 42 93 23, sur les deux sites et dans l'annonce du syndicat SNEG & Co ;",
+            "un seul exploitant au registre, dont l'établissement de la rue Jonchère porte l'enseigne « Le Phénix » ;",
+            "un lien « La Plume du Phénix - Libertin » sur le site du sauna, et la même soirée mixte annoncée des deux côtés ;",
+            "la même agence web en pied de page, et des photos nommées « LePhenixLaPlume »."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le Phénix compte depuis 2024 parmi les adhérents du SNEG & Co, syndicat professionnel des établissements gays et gay-friendly, qui l'a présenté le 31 août 2026 comme un sauna. Pour le public masculin, le lieu se range parmi les [établissements gay-friendly](/club-gay-friendly) ; les couples et les femmes, eux, n'y entrent que le soir."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    {
+      "id": "qui-entre-quand",
+      "title": "Hommes uniquement l'après-midi, mixte trois soirs, libertin le vendredi et le samedi",
+      "icon": "calendar",
+      "summary": "Le sauna est réservé aux hommes chaque après-midi, et toute la journée le mercredi et le dimanche ; soirée mixte lundi, mardi et jeudi, club libertin vendredi et samedi.",
+      "blocks": [
+        {
+          "kind": "list",
+          "title": "Qui entre, et à quel moment",
+          "items": [
+            "**Femmes et couples** : le soir seulement, aux soirées mixtes du lundi, du mardi et du jeudi, et aux soirées libertines du vendredi et du samedi.",
+            "**Hommes** : tous les jours, au sauna l'après-midi comme aux soirées.",
+            "**Mercredi et dimanche** : hommes uniquement, de 13 h à la fermeture."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le vendredi et le samedi, aucun créneau n'est affiché entre 20 h et 21 h, entre la fin du sauna et le début de la soirée libertine. Une femme ou un couple qui se présente l'après-midi trouve un établissement réservé aux hommes, quel que soit le jour."
+        },
+        {
+          "kind": "text",
+          "body": "Faute de créneau mixte le mercredi et le dimanche, un couple qui veut sortir ces soirs-là organise sa rencontre ailleurs, par exemple en [cherchant autour de Valence d'autres couples au profil authentifié](aff:gleese) sur Gleese. Notre test de ce site français y a trouvé plus de couples qu'ailleurs, mais un volume modeste hors des grandes villes."
+        },
+        {
+          "kind": "text",
+          "body": "Les soirées du lundi, du mardi et du jeudi s'intitulent « la Plume rencontre le Phénix ». Elles figurent sur les deux sites : celui du sauna les présente comme son créneau « Mixte - Toutes Tendances », celui du club les place sous le signe de l'ouverture d'esprit et de la tolérance."
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Couples de même sexe le week-end",
+          "body": "Depuis 2026, le tarif du vendredi et du samedi est libellé « Couple (Homme/Femme) ». Le site ne dit pas si deux hommes ou deux femmes venus ensemble y ont droit : posez la question au 04 75 42 93 23 avant de vous déplacer."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "id": "jacuzzi-hammam-labyrinthe",
+      "title": "Un jacuzzi à 37 °C, un hammam, un labyrinthe et une salle de cinéma",
+      "icon": "spa",
+      "summary": "Côté détente : jacuzzi à 37 °C, hammam avec plage de repos et sauna. Côté jeux : cabines, glory holes, backroom, labyrinthe, salle de cinéma et une « zone Couple ».",
+      "blocks": [
+        {
+          "kind": "list",
+          "title": "Espaces annoncés par le site officiel",
+          "items": [
+            "**Balnéo** : jacuzzi chauffé à 37 °C, hammam doté d'une grande plage de repos, sauna.",
+            "**Intimité** : cabines avec ou sans télévision, et une « zone Couple » dont l'aménagement n'est pas décrit.",
+            "**Jeux** : glory holes, backroom, labyrinthe, salle de cinéma.",
+            "**Bar** : licence IV, première consommation offerte le vendredi et le samedi.",
+            "**Linge** : paréos pour les femmes, serviettes pour les hommes."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Ce trio jacuzzi, hammam et sauna explique le mot « spa » de l'enseigne et range le lieu parmi les [spas libertins](/spa-libertin). L'établissement se dit entièrement climatisé. Un guide LGBT ajoute des douches, des vestiaires et des casiers à cadenas, que les sites officiels ne mentionnent pas."
+        },
+        {
+          "kind": "text",
+          "body": "Le sauna vend aussi des poppers, sur place ou à emporter, sous l'intitulé « Pop & Collect ». Le règlement n'est pas publié : le site prévient seulement qu'un manque de respect envers les lieux, le personnel, le matériel ou le règlement peut valoir une exclusion."
+        },
+        {
+          "kind": "callout",
+          "tone": "info",
+          "title": "Surface inconnue",
+          "body": "Les « 490 m² climatisés » cités en 2018 décrivaient l'ancien local de la rue de l'Isle, pas celui de la rue Jonchère. Les photos et la vidéo du site n'ont pas été examinées pour cette fiche."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s3",
+        "s6",
+        "s13"
+      ]
+    },
+    {
+      "id": "tarifs-depuis-2023",
+      "title": "Couple passé de 40 € à 50 €, femme seule d'invitée à 10 € depuis 2023",
+      "icon": "euro",
+      "summary": "Selon les archives du site, un couple payait 40 € avec buffet en 2023 ; il paie 50 € avec une consommation en 2026, et la femme seule, autrefois invitée, paie 10 €.",
+      "blocks": [
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "Mars 2023",
+              "text": "Couple 40 €, homme seul 50 €, femme seule invitée, buffet compris le vendredi et le samedi. Soirée « la Plume rencontre le Phénix » le mardi et le jeudi, de 20 h à 1 h."
+            },
+            {
+              "date": "Mars 2024",
+              "text": "Le couple passe à 50 €, première consommation offerte. Les soirées mixtes du mardi et du jeudi commencent à 19 h et coûtent 20 € par personne."
+            },
+            {
+              "date": "Déc. 2024 - mars 2025",
+              "text": "La femme seule n'entre plus gratuitement le week-end : 10 €."
+            },
+            {
+              "date": "Juil. - août 2025",
+              "text": "Le lundi rejoint le mardi et le jeudi parmi les soirées mixtes (absent le 19 juillet, affiché le 13 août)."
+            },
+            {
+              "date": "Mars - oct. 2026",
+              "text": "Le buffet et la mention des soirées à thème disparaissent du site, remplacés par un bar licence IV ; le tarif couple devient « Couple (Homme/Femme) »."
+            }
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Les dates sont celles des captures d'archives qui montrent le changement : il a pu intervenir un peu plus tôt. Aujourd'hui, le week-end, un homme et une femme qui arrivent ensemble paient 50 € au tarif couple, contre 60 € s'ils entrent séparément ; l'homme seul paie autant qu'un couple."
+        },
+        {
+          "kind": "text",
+          "body": "Ce tarif couple ne vaut que le vendredi et le samedi ; les lundis, mardis et jeudis, chacun paie 20 €. Un couple qui préfère découvrir ces soirées du week-end avec un autre peut [proposer un samedi rue Jonchère à un second couple](aff:carre-libertin) sur Carré Libertin : plus de 500 000 inscrits, accès complet sans abonnement pour les couples et les femmes."
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Buffet : les annuaires ont du retard",
+          "body": "Plusieurs annuaires annoncent encore un buffet inclus le week-end, dont une fiche mise en ligne en février 2026. En octobre 2026, le site officiel ne le mentionne plus : seule la première consommation est offerte."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s2",
+        "s11",
+        "s15"
+      ]
+    },
+    {
+      "id": "soirees-et-facebook",
+      "title": "Soirées à thème rayées du site en 2026, événements renvoyés vers Facebook",
+      "icon": "sparkles",
+      "summary": "Le site a cessé en 2026 d'évoquer des soirées à thème le week-end et renvoie à Facebook pour les événements ; aucune soirée datée n'a été trouvée en ligne.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Jusqu'en mars 2026 au moins, le texte du site promettait des soirées à thème le vendredi et le samedi. La version d'octobre 2026 n'en parle plus. Les guides en ligne qui en annoncent encore ne donnent aucune date de soirée."
+        },
+        {
+          "kind": "text",
+          "body": "La rubrique « Nos évènements » n'affiche aucune date : elle invite à suivre la page Facebook du club, illisible sans compte. Aucune soirée datée de 2026 n'a été trouvée, ni sur le site ni dans la presse locale."
+        },
+        {
+          "kind": "text",
+          "body": "La rubrique « Partenariats » du site affiche le logo de Wyylde, aux côtés d'Enipse (prévention), Nouslib, Bodyhouse et MOOD, à Agde. Le site du sauna cite la Villa Cacada, à Agde aussi."
+        },
+        {
+          "kind": "text",
+          "body": "L'agenda des soirées de l'ex-Netéchangisme se consulte avec un compte gratuit : de quoi [vérifier qu'un vendredi ou un samedi y est annoncé](aff:wyylde) avant de faire la route. Rien n'indique que le club y publie ses dates : un appel au 04 75 42 93 23 reste le moyen le plus sûr."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s2",
+        "s3",
+        "s9",
+        "s15"
+      ]
+    },
+    {
+      "id": "notes-relayees",
+      "title": "4,4 pour la Plume, 4,6 pour le sauna : des notes Google relayées par des guides",
+      "icon": "star",
+      "summary": "Des guides en ligne relaient une note Google de 4,4 pour La Plume du Phénix et de 4,5 à 4,6 pour Le Phénix ; elles n'ont pas été relevées sur Google même.",
+      "confidence": "a_verifier",
+      "blocks": [
+        {
+          "kind": "list",
+          "items": [
+            "**La Plume du Phénix** : 4,4 sur 36 avis selon un annuaire dont les horaires dataient du 30 mai 2025, et 4,4 sur 39 avis dans un guide non daté.",
+            "**Le Phénix (sauna)** : 4,5 sur 82 avis dans ce même guide, et 4,6 sur 83 avis sur un agrégateur dont la page a été mise à jour le 26/09/2026."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Ces chiffres sont de seconde main : ils ne permettent ni de dater ni de lire les avis eux-mêmes. Un seul des avis relayés mentionne une date, le 2 novembre 2024."
+        }
+      ],
+      "sources": [
+        "s10",
+        "s12",
+        "s14"
+      ]
+    },
+    {
+      "id": "q-park-hotel-de-ville",
+      "title": "Se garer au Q-Park Hôtel de Ville ou Champ de Mars pour 1,10 € le soir",
+      "icon": "car",
+      "summary": "Entrée au 20 bis rue Jonchère, en centre-ville. Les deux sites conseillent les Q-Park Hôtel de Ville et Champ de Mars : 1,10 € de 19 h à minuit, puis 1,10 € jusqu'à 8 h.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Les deux sites officiels conseillent les parkings Q-Park Hôtel de Ville et Champ de Mars, au tarif de 1,10 € de 19 h à minuit, puis 1,10 € de minuit à 8 h. Une soirée du samedi, de 21 h à 2 h, chevauche ces deux tranches."
+        },
+        {
+          "kind": "list",
+          "title": "Pour joindre le lieu",
+          "items": [
+            "Adresse : 20 bis rue Jonchère, 26000 Valence (« 20 rue Jonchère » en tête du site et au registre).",
+            "Téléphone : 04 75 42 93 23, commun au sauna et au club.",
+            "Courriel : contact@laplumeduphenix.fr pour le club, contact@lephenixsauna.fr pour le sauna."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Notre annuaire recense aussi à Valence [le sauna Hylas](/club-hylas-valence-balneo), dont la fiche n'a pas encore été vérifiée. Les autres adresses de la ville sont réunies sur [la page Valence](/ville/valence), celles du département sur [la page Drôme](/departement/drome)."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s3",
+        "s4"
+      ]
+    },
+    {
+      "id": "double-side-rue-de-l-isle",
+      "title": "Avant la rue Jonchère, le Double Side du 38 rue de l'Isle (2013)",
+      "icon": "history",
+      "summary": "Selon le registre, l'exploitant tenait depuis 2013 le sauna Double Side, rue de l'Isle, avant de s'installer rue Jonchère en 2020 sous l'enseigne Le Phénix ; La Plume apparaît vers 2022.",
+      "blocks": [
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "1er septembre 2013",
+              "text": "Création de l'entreprise individuelle qui exploite toujours le lieu, avec un établissement au 38 rue de l'Isle, enseigne « Double Side 26 »."
+            },
+            {
+              "date": "21 mai 2018",
+              "text": "Le magazine lyonnais Hétéroclite annonce une soirée Light Off, un lundi, au Double Side de Valence : 490 m² climatisés, et déjà le 04 75 42 93 23."
+            },
+            {
+              "date": "1er janvier 2020",
+              "text": "Début d'activité de l'établissement du 20 rue Jonchère au registre, enseigne « Le Phénix », nom commercial « Double Side Valence 26 ». Le domaine lephenixsauna.fr existe déjà en mai 2020."
+            },
+            {
+              "date": "2022",
+              "text": "Le site de La Plume du Phénix porte la mention « © 2022 ». Le 5 août 2022, un restaurant parisien presque homonyme raconte sur X avoir reçu l'appel de clients qui le prenaient pour « le club libertin » du même nom, sans citer la ville."
+            },
+            {
+              "date": "21 mars 2023",
+              "text": "Première capture du site de la Plume dans les archives du web."
+            },
+            {
+              "date": "2024",
+              "text": "Adhésion au SNEG & Co, annoncée par le syndicat le 31 août 2026."
+            }
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "L'établissement de la rue de l'Isle est fermé au registre. Un annuaire de saunas gays le présente pourtant encore sous le nom Double Side, à l'ancienne adresse : c'est rue Jonchère qu'il faut se rendre."
+        },
+        {
+          "kind": "text",
+          "body": "Le sauna de la rue de l'Isle est peut-être plus ancien que 2013 : le registre y rattache aussi, sous l'enseigne « Double Side », un établissement ouvert en octobre 2007 et fermé en mars 2019 par une SARL lyonnaise du même nom. Le lien entre les deux exploitants n'est pas documenté."
+        },
+        {
+          "kind": "text",
+          "body": "La date d'ouverture au public rue Jonchère reste inconnue : le 1er janvier 2020 est une date administrative. Celle du lancement du nom « La Plume du Phénix » aussi, faute de source datée avant 2023."
+        }
+      ],
+      "sources": [
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8",
+        "s16"
+      ]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Lundi": "13 h-19 h sauna 100 % masculin ; 19 h-1 h soirée mixte toutes tendances",
+      "Mardi": "13 h-19 h sauna 100 % masculin ; 19 h-1 h soirée mixte toutes tendances",
+      "Mercredi": "13 h-1 h sauna 100 % masculin",
+      "Jeudi": "13 h-19 h sauna 100 % masculin ; 19 h-1 h soirée mixte toutes tendances",
+      "Vendredi": "13 h-20 h sauna 100 % masculin ; 21 h-2 h club libertin mixte",
+      "Samedi": "13 h-20 h sauna 100 % masculin ; 21 h-2 h club libertin mixte",
+      "Dimanche": "13 h-minuit sauna 100 % masculin"
+    },
+    "note": "Horaires publiés par les deux sites officiels, relevés le 20/10/2026. Aucun agenda daté n'est publié.",
+    "confidence": "confirme",
+    "sources": [
+      "s1",
+      "s3"
+    ]
+  },
+  "tarifs": {
+    "rows": {
+      "Couple homme-femme (ven. et sam., 21 h-2 h)": "50 €, première consommation offerte",
+      "Homme seul (ven. et sam., 21 h-2 h)": "50 €, première consommation offerte",
+      "Femme seule (ven. et sam., 21 h-2 h)": "10 €, première consommation offerte",
+      "Soirée mixte (lun., mar., jeu., 19 h-1 h)": "20 € par personne",
+      "Sauna masculin (après-midi)": "20 € ; moins de 26 ans : 10 € sur pièce d'identité"
+    },
+    "note": "Relevés le 20/10/2026 sur les deux sites officiels. Le site ne précise pas si la réduction des moins de 26 ans vaut aussi le soir.",
+    "confidence": "source_unique",
+    "sources": [
+      "s1",
+      "s3"
+    ]
+  },
+  "equipements": [
+    "Jacuzzi (37 °C)",
+    "Hammam",
+    "Sauna",
+    "Cabines avec ou sans télévision",
+    "Zone couple",
+    "Glory holes",
+    "Backroom",
+    "Labyrinthe",
+    "Salle de cinéma",
+    "Bar licence IV",
+    "Climatisation"
+  ],
+  "officialLinks": [
+    {
+      "label": "Site de La Plume du Phénix (club mixte)",
+      "url": "https://www.laplumeduphenix.fr/",
+      "kind": "site"
+    },
+    {
+      "label": "Site du Phénix Sauna (sauna masculin)",
+      "url": "https://www.lephenixsauna.fr/",
+      "kind": "site"
+    },
+    {
+      "label": "Page Facebook de La Plume du Phénix",
+      "url": "https://www.facebook.com/La-PLUME-du-phenix-100884459202119",
+      "kind": "facebook"
+    },
+    {
+      "label": "Facebook du Phénix Sauna",
+      "url": "https://www.facebook.com/profile.php?id=100057396671550",
+      "kind": "facebook"
+    },
+    {
+      "label": "Instagram de La Plume du Phénix",
+      "url": "https://www.instagram.com/laplumeduphenixvalence/",
+      "kind": "instagram"
+    }
+  ],
+  "faq": [
+    {
+      "question": "La Plume du Phénix et le sauna Le Phénix de Valence, est-ce le même lieu ?",
+      "answer": "Oui. Les deux enseignes partagent l'adresse du 20 bis rue Jonchère, le 04 75 42 93 23 et le même exploitant au registre. Le Phénix désigne le sauna 100 % masculin de l'après-midi, La Plume du Phénix le spa-club libertin mixte du soir."
+    },
+    {
+      "question": "Quels soirs un couple peut-il aller à La Plume du Phénix ?",
+      "answer": "Le vendredi et le samedi de 21 h à 2 h, au tarif couple de 50 € avec la première consommation offerte, et le lundi, le mardi et le jeudi de 19 h à 1 h, à 20 € par personne, en soirée mixte « toutes tendances ». Le mercredi, le dimanche et tous les après-midi, le lieu est réservé aux hommes."
+    },
+    {
+      "question": "Combien paie un homme seul ?",
+      "answer": "50 € le vendredi et le samedi soir, première consommation offerte, soit autant qu'un couple ; 20 € lors des soirées mixtes de la semaine comme l'après-midi au sauna. Le sauna fait payer 10 € aux moins de 26 ans sur pièce d'identité, sans préciser si la réduction vaut le soir. Aucun quota d'hommes seuls n'est publié."
+    },
+    {
+      "question": "Une femme peut-elle venir seule ?",
+      "answer": "Oui, le vendredi et le samedi de 21 h à 2 h pour 10 €, première consommation offerte, et pendant les soirées mixtes du lundi, du mardi et du jeudi pour 20 €. Jamais l'après-midi, réservé aux hommes."
+    },
+    {
+      "question": "Y a-t-il un spa avec jacuzzi dans un club libertin à Valence ?",
+      "answer": "La Plume du Phénix en a un, selon son site : jacuzzi chauffé à 37 °C, hammam avec plage de repos et sauna, complétés par des cabines, une backroom, un labyrinthe et une salle de cinéma. Les couples et les femmes y ont accès le soir, aux jours indiqués plus haut."
+    },
+    {
+      "question": "La Plume du Phénix est-elle toujours ouverte en 2026 ?",
+      "answer": "Oui, d'après les indices réunis le 20/10/2026 : site remanié entre mars et octobre 2026, adhésion du Phénix au SNEG & Co annoncée le 31 août 2026, exploitant actif au registre. Aucune soirée datée n'est toutefois publiée en ligne : un appel au 04 75 42 93 23 lève le doute avant de venir."
+    }
+  ],
+  "unverified": [
+    "Les couples de même sexe sont-ils admis au tarif couple le vendredi et le samedi ? Le site vise les couples « Homme/Femme ».",
+    "La réduction à 10 € des moins de 26 ans, affichée pour le sauna, vaut-elle aussi le soir ?",
+    "Surface des locaux de la rue Jonchère : les 490 m² cités en 2018 concernaient l'ancien Double Side de la rue de l'Isle.",
+    "Date d'ouverture au public rue Jonchère et date de lancement du nom « La Plume du Phénix ».",
+    "Le club organise-t-il encore des soirées à thème ? Aucune n'est annoncée sur le site en octobre 2026, et la page Facebook est illisible sans compte.",
+    "Un quota d'hommes seuls s'applique-t-il le vendredi et le samedi ? Rien n'est publié.",
+    "Notes Google non relevées directement : seules des notes relayées par des guides ont été vues.",
+    "Photos et vidéo du site officiel non examinées."
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Site officiel de La Plume du Phénix (espaces, horaires, tarifs, stationnement, partenariats)",
+      "url": "https://www.laplumeduphenix.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s2",
+      "label": "Site officiel de La Plume du Phénix, archives Wayback du 21/03/2023 au 16/03/2026",
+      "url": "https://web.archive.org/web/20230321211144/https://www.laplumeduphenix.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s3",
+      "label": "Site officiel du Phénix Sauna (même établissement, volet masculin), et ses archives Wayback depuis mai 2020",
+      "url": "https://www.lephenixsauna.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s4",
+      "label": "Registre des entreprises, SIREN 794 722 579 (enseignes « Le Phénix » et « Double Side 26 »)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/794722579",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s5",
+      "label": "SNEG & Co, « Le Phenix », rubrique « Ils ont rejoint le SNEG & Co » (31/08/2026)",
+      "url": "https://www.snegandco.fr/le-phenix/",
+      "type": "autre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s6",
+      "label": "Hétéroclite, « Soirée Light Off au sauna Double Side de Valence » (21/05/2018)",
+      "url": "https://www.heteroclite.org/evenement-heteroclite/soiree-light-off-sauna-double-side-de-valence-2018-05-21",
+      "type": "presse",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s7",
+      "label": "Saunas4men, fiche « Double Side » (ancienne adresse, non mise à jour)",
+      "url": "https://saunas4men.com/en/france/valence/double-side-26",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s8",
+      "label": "X, message du 05/08/2022 du restaurant parisien « La Plume de Phénix » évoquant un club libertin homonyme",
+      "url": "https://x.com/plume_phenix/status/1555658239357894657",
+      "type": "reseau_social",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s9",
+      "label": "Page Facebook de La Plume du Phénix (mur de connexion)",
+      "url": "https://www.facebook.com/La-PLUME-du-phenix-100884459202119",
+      "type": "reseau_social",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s10",
+      "label": "kinkyee.fr, « Club Libertin Valence : Top des Clubs & Saunas (Guide 2026) »",
+      "url": "https://kinkyee.fr/club-libertin/valence/",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s11",
+      "label": "saunaclublebali.fr, fiche « La Plume du Phénix » (ajoutée en février 2026)",
+      "url": "https://www.saunaclublebali.fr/listing/la-plume-du-phenix-valence/",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s12",
+      "label": "minuitlibertin.com, « La Plume du Phénix » (informations datées du 30/05/2025)",
+      "url": "https://minuitlibertin.com/la-plume-du-phenix/",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s13",
+      "label": "Strobomag, « Etablissements Sauna Phenix »",
+      "url": "https://www.strobomag.com/fr/guide/sauna-phenix",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s14",
+      "label": "top-rated.online, « Sauna Le Phénix (sauna club) » (page du 26/09/2026)",
+      "url": "https://www.top-rated.online/cities/Valence/place/p/11129407/Sauna+Le+Ph%C3%A9nix+(sauna+club)",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s15",
+      "label": "club-libertin-france.fr, « Club libertin Valence » (texte antérieur à 2026)",
+      "url": "https://club-libertin-france.fr/club-libertin-valence/",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s16",
+      "label": "Registre des entreprises, SIREN 428 124 572 (SARL Double Side, Lyon ; établissement « Double Side » au 38 rue de l'Isle, 2007-2019)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/428124572",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    }
+  ]
+}

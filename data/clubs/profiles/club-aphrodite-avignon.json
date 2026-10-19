@@ -1,0 +1,960 @@
+{
+  "slug": "club-aphrodite-avignon",
+  "clubId": "FG069",
+  "researchedAt": "2026-10-20",
+  "display": {
+    "nom": "Club Aphrodite",
+    "ville": "Avignon"
+  },
+  "status": {
+    "value": "ouvert",
+    "summary": "Au 20 octobre 2026, l'agenda officiel aligne dix-huit soirées datées du 22 octobre au 28 novembre, dont les deux nuits des 37 ans du club (jeudi 5 et samedi 7 novembre), et les pages des soirées de décembre, jusqu'au 26, sont en ligne depuis le 5 octobre. Le livre d'or du site a reçu un nouveau message le 8 octobre 2026. Au registre, la SAS A.S.C., domiciliée à l'adresse du club et probablement son exploitante (lien déduit, aucune enseigne déclarée), est active.",
+    "sources": [
+      "s1",
+      "s10",
+      "s12",
+      "s13",
+      "s18"
+    ]
+  },
+  "seo": {
+    "title": "Club Aphrodite Avignon : le club libertin des remparts, tarifs 2026",
+    "metaDescription": "Club libertin d'Avignon intra-muros depuis 1989 selon lui : jeudi mixte, week-end couples et femmes seules, 12 salons, entrée couple de 40 à 70 €, sans CB.",
+    "subtitle": "Club libertin de nuit dans les remparts d'Avignon (84), ouvert du jeudi au samedi",
+    "targetQueries": [
+      "club libertin avignon",
+      "club echangiste avignon",
+      "libertine avignon",
+      "avignon club libertin",
+      "club libertins avignon",
+      "libertinage avignon"
+    ]
+  },
+  "lead": "Ouvert le 4 novembre 1989 selon le club, qui fête ses 37 ans les 5 et 7 novembre 2026, l'Aphrodite est le club libertin de nuit des remparts d'Avignon, au 19 rue Four de la Terre. Le jeudi est mixte et reste le seul soir des hommes seuls ; le vendredi et le samedi sont réservés aux couples et aux femmes seules. Douze salons nommés sur plusieurs étages, une entrée couple de 40 à 70 € selon le soir, et pas de carte bancaire.",
+  "keyFacts": [
+    {
+      "label": "Ouverture",
+      "value": "4 novembre 1989, selon le club (37 ans fêtés en novembre 2026)",
+      "confidence": "source_unique",
+      "sources": [
+        "s1",
+        "s11",
+        "s12",
+        "s25"
+      ]
+    },
+    {
+      "label": "Adresse",
+      "value": "19 rue Four de la Terre, Avignon intra-muros",
+      "confidence": "confirme",
+      "sources": [
+        "s7",
+        "s18",
+        "s20"
+      ]
+    },
+    {
+      "label": "Jours d'ouverture",
+      "value": "Jeudi, vendredi, samedi et veilles de jours fériés",
+      "confidence": "source_unique",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "label": "Public admis",
+      "value": "Jeudi mixte (hommes seuls « sélectionnés ») ; vendredi et samedi couples et femmes seules",
+      "confidence": "confirme",
+      "sources": [
+        "s2",
+        "s10"
+      ]
+    },
+    {
+      "label": "Entrée couple",
+      "value": "40 à 70 € avec 6 consommations, selon le soir et l'inscription avant 19 h",
+      "confidence": "confirme",
+      "sources": [
+        "s5",
+        "s10"
+      ]
+    },
+    {
+      "label": "Entrée femme seule",
+      "value": "10 € si inscrite avant 19 h, 20 € sinon, tous les soirs",
+      "confidence": "confirme",
+      "sources": [
+        "s5",
+        "s10"
+      ]
+    },
+    {
+      "label": "Paiement",
+      "value": "Carte bancaire non acceptée, selon le club",
+      "confidence": "confirme",
+      "sources": [
+        "s10",
+        "s11"
+      ]
+    },
+    {
+      "label": "Espaces",
+      "value": "Bar, piste avec cages, salle vidéo et douze salons nommés, dont deux chambres privatisables",
+      "confidence": "source_unique",
+      "sources": [
+        "s1",
+        "s3"
+      ]
+    },
+    {
+      "label": "Inscription aux soirées",
+      "value": "Flyer de chaque soirée sur Liberty Couple, avant 19 h",
+      "confidence": "confirme",
+      "sources": [
+        "s5",
+        "s15",
+        "s16"
+      ]
+    },
+    {
+      "label": "Société exploitante probable",
+      "value": "SAS A.S.C., créée en 1996 (lien déduit de l'adresse et de l'activité)",
+      "confidence": "a_verifier",
+      "sources": [
+        "s18"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "jeudi-mixte-week-end-couples",
+      "title": "Jeudi mixte, vendredi et samedi pour les couples et les femmes seules",
+      "icon": "users",
+      "summary": "Le jeudi, de 21 h à 3 h, est le seul soir des hommes seuls ; le vendredi et le samedi, dès 22 h 30, n'entrent que les couples et les femmes seules.",
+      "blocks": [
+        {
+          "kind": "table",
+          "caption": "Qui entre quel soir, d'après le site officiel (octobre 2026)",
+          "headers": [
+            "Soir",
+            "Qui entre"
+          ],
+          "rows": [
+            [
+              "Jeudi",
+              "Couples, femmes seules et hommes seuls « sélectionnés »"
+            ],
+            [
+              "Vendredi",
+              "Couples et femmes seules"
+            ],
+            [
+              "Samedi",
+              "Couples et femmes seules"
+            ],
+            [
+              "Veilles de jours fériés",
+              "Ouverture annoncée, public non précisé"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "La page Philosophie dit le club « réservé uniquement aux couples libertins », mais la même page et l'agenda admettent les femmes seules tous les soirs et les hommes seuls le jeudi, avec un équilibre entre couples et messieurs que le club dit surveiller. La formule vient de l'ancien site : en 2010, sa charte disait « Pas d'hommes seuls » et il n'annonçait qu'une soirée mixte, le troisième jeudi du mois ; le jeudi est mixte chaque semaine depuis janvier 2013 au moins. Un témoignage publié par le club trouve le vendredi plus intimiste que le samedi.\n\nLes soirs réservés aux couples, on accède aux coins câlins à deux. Le règlement interdit aussi à l'homme d'un couple de circuler seul et refuse les couples dont la femme ne serait qu'« accompagnatrice ».\n\nL'inscription sur le flyer avant 19 h fait économiser 19 € au couple le jeudi, 11 € le week-end et 20 € à l'homme seul."
+        }
+      ],
+      "sources": [
+        "s2",
+        "s4",
+        "s5",
+        "s10",
+        "s14",
+        "s28",
+        "s29"
+      ]
+    },
+    {
+      "id": "agenda-automne-2026",
+      "title": "Dix-huit soirées datées jusqu'au 28 novembre, dont les 37 ans",
+      "icon": "calendar",
+      "summary": "Au 20 octobre 2026, dix-huit soirées à thème sont datées jusqu'au 28 novembre, dont les 37 ans du club les 5 et 7 novembre ; décembre est déjà en ligne.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Chaque soirée a sa page, avec thème, tarifs et dress code ; les jeudis sont mixtes, les week-ends réservés aux couples et aux femmes seules."
+        },
+        {
+          "kind": "table",
+          "caption": "Agenda officiel au 20 octobre 2026",
+          "headers": [
+            "Date",
+            "Soirée"
+          ],
+          "rows": [
+            [
+              "Jeu. 22 oct.",
+              "« Quand tout part en sucette »"
+            ],
+            [
+              "Ven. 23 oct.",
+              "Nuit de la Féminité"
+            ],
+            [
+              "Sam. 24 oct.",
+              "Latino Night"
+            ],
+            [
+              "Jeu. 29 oct.",
+              "Osez la pluralité masculine"
+            ],
+            [
+              "Ven. 30 oct.",
+              "Soirée Femmes Bi"
+            ],
+            [
+              "Sam. 31 oct.",
+              "Halloween"
+            ],
+            [
+              "Jeu. 5 nov.",
+              "37 ans, côté mixte"
+            ],
+            [
+              "Ven. 6 nov.",
+              "Nuit du Clitoris (Lily)"
+            ],
+            [
+              "Sam. 7 nov.",
+              "37 ans de l'Aphrodite"
+            ],
+            [
+              "Jeu. 12 nov.",
+              "Gang Bang"
+            ],
+            [
+              "Ven. 13 nov.",
+              "Vendredi Découverte (Lily)"
+            ],
+            [
+              "Sam. 14 nov.",
+              "Années 90"
+            ],
+            [
+              "Jeu. 19 nov.",
+              "Nuit des Anges Diaboliques"
+            ],
+            [
+              "Ven. 20 nov.",
+              "Shooters Party"
+            ],
+            [
+              "Sam. 21 nov.",
+              "Mojito Party"
+            ],
+            [
+              "Jeu. 26 nov.",
+              "Glory Hole Party"
+            ],
+            [
+              "Ven. 27 nov.",
+              "Soirée Femmes Bi"
+            ],
+            [
+              "Sam. 28 nov.",
+              "Électro Night"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "**Les 37 ans**\nLe samedi 7 novembre commence à 20 h 30 par un cocktail dînatoire sur réservation, en formule tout compris annoncée à 85 €, avec DJ invité, deux espaces buffet et deux espaces fumeurs. L'entrée club seule, dès 23 h, coûte 70 € le couple et 20 € la femme, en open bar. Le jeudi 5 novembre, version mixte, le buffet dînatoire de 20 h est offert sur réservation, et le couple inscrit paie 50 € (70 € sinon).\n\n**Gang Bang et Glory Hole**\nPour celui du 12 novembre, le club annonce « exceptionnellement » plus d'hommes que de couples ; l'entrée y est gratuite pour les couples et les femmes adeptes inscrits avant 19 h. Le dispositif de la Glory Hole Party du 26 novembre n'est pas décrit.\n\n**Décembre**\nDéjà en ligne depuis le 5 octobre, jusqu'au samedi 26 : une soirée spéciale des membres le samedi 5 décembre, puis une « Nuit des Mères Noël » en deux versions : entre couples et femmes seules le samedi 12, mixte le jeudi 17."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s10",
+        "s11",
+        "s12"
+      ]
+    },
+    {
+      "id": "histoire-depuis-1989",
+      "title": "Né le 4 novembre 1989, fermé de mars 2020 à août 2021 par le Covid",
+      "icon": "history",
+      "summary": "Le club date sa naissance du 4 novembre 1989. Une soirée mixte par mois en 2010, tous les jeudis dès 2013 au plus tard ; fermé de mars 2020 à août 2021.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le club fixe sa naissance au 4 novembre 1989 : il le rappelait en 2020, pour des 31 ans fêtés portes closes. Le registre ne remonte pas si loin : on ignore qui exploitait le lieu avant 1996, et s'il a toujours été rue Four de la Terre, où son site le situe dès 2010."
+        },
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "4 novembre 1989",
+              "text": "Naissance de l'Aphrodite, selon le club."
+            },
+            {
+              "date": "Avril 1996",
+              "text": "Création de la société A.S.C., dont le siège, ouvert le même jour, est au 19 rue Four de la Terre (débit de boissons). Son lien avec le club est déduit de l'adresse et de l'activité : aucune enseigne au registre."
+            },
+            {
+              "date": "1999-2014",
+              "text": "La holding A.J.P.E. déclare à cette adresse un établissement à l'enseigne « APHRODITE » ; son rôle exact n'est pas connu."
+            },
+            {
+              "date": "2010",
+              "text": "Club « réservé uniquement aux Couples Libertins » ; une seule soirée mixte annoncée, le 3e jeudi du mois ; buffet du samedi à 10,50 € par personne."
+            },
+            {
+              "date": "2013",
+              "text": "Jeudis mixtes chaque semaine, de 21 h à 3 h ; entrée couple à 59 € avec six consommations ; à l'été, le site annonce de « nouveaux salons »."
+            },
+            {
+              "date": "Mars 2020",
+              "text": "Fermeture liée au Covid, annoncée le 14 mars."
+            },
+            {
+              "date": "5 août 2021",
+              "text": "Réouverture « après 16 mois de fermeture », selon le club, avec pass sanitaire ; le jeudi, le couple inscrit paie alors 30 €."
+            },
+            {
+              "date": "5 et 7 novembre 2026",
+              "text": "Les 37 ans, en mixte puis entre couples et femmes seules."
+            }
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le prix de base n'a pas bougé depuis 2013 : 59 € avec six consommations, aujourd'hui le tarif d'un couple inscrit le week-end. Plus de 880 pages de soirées publiées depuis septembre 2018 restent en ligne."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s11",
+        "s12",
+        "s18",
+        "s19",
+        "s25",
+        "s26",
+        "s27",
+        "s28",
+        "s29"
+      ]
+    },
+    {
+      "id": "femmes-bi-lily-babeth",
+      "title": "Lily, Babeth et la soirée Femmes Bi du dernier vendredi du mois",
+      "icon": "heart",
+      "summary": "Le dernier vendredi du mois, la Soirée Femmes Bi reçoit couples et femmes seules ; une femme seule paie 10 € si elle s'inscrit avant 19 h, 20 € sinon.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le club se raconte comme « une histoire de Femmes », menée par des femmes, où « Madame » décide. Deux animatrices, que le club présente par leur prénom, signent plusieurs soirées : Lily anime le Vendredi Découverte (accueil personnalisé et visite, informations au 06 98 31 87 97), la Nuit du Clitoris et la Nuit de la Féminité ; Lily et Babeth reçoivent la Soirée Femmes Bi.\n\nCelle-ci revient le dernier vendredi de chaque mois, le 30 octobre en 2026. Réservée aux couples dont la femme aime les femmes et aux femmes seules, elle laisse la piste aux femmes pendant deux heures. Le club la présente comme un concept « créé et certifié 100 % Aphrodite », revendication que nous ne pouvons pas vérifier. Le site du club la décrivait déjà en juillet 2010, le même dernier vendredi du mois, avec la piste laissée aux dames pendant près de deux heures.\n\nUne femme seule paie 10 € avec deux consommations si elle s'est inscrite avant 19 h, 20 € sinon, quel que soit le soir. Pour la Nuit de la Féminité du 23 octobre, la page de la soirée annonce même l'entrée offerte aux femmes seules inscrites, avant de reprendre plus bas le tarif de 10 € : à faire confirmer au 06 98 31 87 97. Un couple qui voudrait venir avec une partenaire déjà rencontrée peut [chercher une complice avant le dernier vendredi du mois](aff:carre-libertin) sur Carré Libertin. Ce site, ouvert en 2007 et qui annonce plus de 500 000 inscrits, ne fait rien payer aux femmes ni aux couples, pourvu qu'ils publient trois photos de profil."
+        }
+      ],
+      "sources": [
+        "s2",
+        "s10",
+        "s12",
+        "s13",
+        "s28"
+      ]
+    },
+    {
+      "id": "douze-salons",
+      "title": "La Grotte, le Labyrinthe, la White : douze salons nommés, quatre en photo",
+      "icon": "building",
+      "summary": "Douze salons décrits en page d'accueil, dont deux chambres fermant à clé ; quatre ont une photo, et celle de « la Piscine » montre une fosse capitonnée, sans eau.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le centre du club réunit le bar (cocktails maison, champagne), une piste avec barres de pole dance et cages, une salle vidéo et des coins salon, sur une musique revendiquée « deep, house, Dance floor, électro ». La page d'accueil, seule galerie officielle du club, décrit ensuite douze espaces ; au 20 octobre 2026, quatre seulement y ont une photo, mise en ligne en 2017 : la Grotte (arches voûtées pailletées de bleu, coussins au sol), le Lit rond (rideaux de velours rouge et guirlande lumineuse), la Piscine et la Pink (mur capitonné orangé, fauteuils à motifs)."
+        },
+        {
+          "kind": "list",
+          "items": [
+            "**La Grotte**, sous un plafond voûté",
+            "**Le Lit rond**, pour l'exhibition et le voyeurisme",
+            "**Le Recoin**, un renfoncement sombre",
+            "**Le Cercle**, salon rond pour les jeux à plusieurs",
+            "**Le Labyrinthe**, au 2e étage selon un témoignage",
+            "**La Pièce zébrée**, dans l'obscurité totale",
+            "**La Piscine**, un salon de coussins (voir l'encadré)",
+            "**La Pink**, dont on peut fermer la porte",
+            "**La Red**, chambre fermée à clé, privatisable dès deux couples",
+            "**La White**, même principe, avec patio et salle de bain privés",
+            "**Le Salon**, au 3e étage",
+            "**L'Antre**, une salle de jeux"
+          ]
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "« La Piscine » n'est pas un bassin",
+          "body": "Le site décrit un espace « moelleux » sans jamais parler d'eau, et sa photo montre une fosse ronde bordée de banquettes capitonnées bleues, sans bassin. Un annuaire évoque une « piscine intérieure » et un témoignage de 2016 publié par le club cite un jacuzzi, mais aucune page officielle actuelle n'en mentionne."
+        },
+        {
+          "kind": "text",
+          "body": "S'y ajoutent un vestiaire, où les téléphones sont déposés, une douche disponible dès 20 h et des espaces fumeurs. Le bar, l'espace fumeurs et la piste occupent le rez-de-chaussée, les salons les étages, selon l'ancien site du club (2010) comme selon le Petit Futé (2024), qui en compte « une quinzaine ». Un témoignage de 2019 parle de trois étages ; deux autres, en 2014 et en 2023, regrettent que le troisième étage ne soit pas toujours ouvert. Pour un événement privé, le club loue « la Suite » : 100 m², deux chambres, un espace D/s, une cuisine, une salle de bain et un patio, tarif sur demande."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s3",
+        "s5",
+        "s10",
+        "s11",
+        "s13",
+        "s22",
+        "s28",
+        "s30"
+      ]
+    },
+    {
+      "id": "flyer-liberty-couple",
+      "title": "S'inscrire sur Liberty Couple avant 19 h, et venir sans compter sur la carte",
+      "icon": "ticket",
+      "summary": "Le tarif réduit passe par l'inscription au flyer de la soirée sur Liberty Couple avant 19 h ; la carte bancaire n'est pas acceptée.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Les tarifs réduits passent par Liberty Couple, que le club présente comme « notre site gratuit » : chaque soirée y a son flyer, sur lequel il faut s'inscrire avant 19 h. Le vendredi et le samedi, la page Tarifs exige aussi une « Annonce rapide ». Le système date d'au moins 2013 : le site offrait déjà des consommations aux couples inscrits sur Liberty Couple.\n\nÀ savoir avant de passer en caisse :\n- la carte bancaire est refusée (« Pas de CB » sur chaque page de soirée) ; le site ne cite aucun autre moyen de paiement, mais un avis Google relayé par un annuaire parle d'espèces uniquement ;\n- aux soirées à thème qui offrent un open bar aux couples inscrits (Mojito Party, Halloween, années 90), il court de 22 h 30 à 1 h 30, sans les coupes de champagne ;\n- les habitués venus régulièrement et inscrits aux SMS peuvent devenir membres (open bar, entrée gratuite, accès privilégié), en s'inscrivant au 06 12 21 04 63 ; aucun prix n'est publié.\n\nSur sa page contact, le club se dit partenaire de Wyylde et évoque une « inscription de bienvenue de 7 jours » que nous n'avons pas pu vérifier. Pour comparer cette programmation à celle d'autres clubs de la vallée du Rhône, [le site libertin dont l'Aphrodite se dit partenaire](aff:wyylde) tient un agenda de soirées consultable avec un compte gratuit. Ex-Netéchangisme en ligne depuis 2001, rebaptisé en 2018, Wyylde revendique 7 millions de membres, mais sans abonnement on ne peut pas répondre aux messages."
+        }
+      ],
+      "sources": [
+        "s5",
+        "s7",
+        "s10",
+        "s12",
+        "s15",
+        "s16",
+        "s24",
+        "s29"
+      ]
+    },
+    {
+      "id": "reglement-premiere-visite",
+      "title": "Talons exigés, téléphone au vestiaire, visite guidée pour les couples débutants",
+      "icon": "shield",
+      "summary": "Talons pour les femmes, chemise pour les hommes, téléphone au vestiaire, circulation à deux ; les couples débutants se voient proposer une visite.",
+      "blocks": [
+        {
+          "kind": "list",
+          "title": "Le règlement affiché sur la page « Très important » et sur chaque soirée",
+          "items": [
+            "**Femmes** : tenue sexy et talons ; ni pantalon, ni leggings, ni chaussures plates. Possibilité d'arriver en tenue de ville et de se changer sur place.",
+            "**Hommes** : chemise et chaussures de ville ; ni baskets, ni tee-shirt, polo, pull ou col roulé, « même de marque », ni jean selon la page Philosophie.",
+            "**Téléphones** : laissés au vestiaire, où ils restent consultables.",
+            "**Dans le club** : circulation à deux, pas d'abus d'alcool ; refus ou exclusion sans remboursement en cas d'écart."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "En juillet 2015, le club expliquait dans son livre d'or remettre des préservatifs à la demande plutôt qu'en libre-service, tout en attendant des couples qu'ils apportent les leurs ; la pratique actuelle n'est pas précisée.\n\n**Une première fois**\nLes couples débutants et les femmes seules sont invités à se présenter à l'entrée pour une visite. Le livre d'or, qui rassemble quelque 75 messages datés de 2013 à 2026, choisis par le club et dont un est sa propre réponse, revient souvent sur cette visite guidée et sur la propreté. Le Vendredi Découverte du 13 novembre, animé par Lily, vise ce public. Pour échanger avec d'autres libertins avant ce premier vendredi sans rien dépenser, [tâter le terrain sur Gleese avant la visite guidée](aff:gleese) peut servir de galop d'essai : ce réseau lancé fin 2024 ne réclame aucune carte bancaire à l'inscription, vérifie chaque compte par téléphone et modère les photos à la main ; sa communauté reste plus réduite que celle des sites historiques.\n\nLes rares critiques publiées visent la musique : « assourdissante » lors d'une soirée Femmes Bi de juin 2019, pas assez variée selon un visiteur de janvier 2026."
+        }
+      ],
+      "sources": [
+        "s2",
+        "s4",
+        "s10",
+        "s13"
+      ]
+    },
+    {
+      "id": "avis-google-petit-fute",
+      "title": "Des avis à 4,2 sur Google selon les annuaires, à 4,7 chez le Petit Futé jusqu'en 2020",
+      "icon": "star",
+      "summary": "Nous n'avons pas lu la fiche Google : les annuaires lui prêtent 4,2 sur 5 (136 avis, mai 2026). Au Petit Futé (4,7 sur 23 avis), le plus récent date de janvier 2020.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Nous n'avons pas consulté nous-mêmes la fiche Google du club. L'annuaire Lieux Libertins lui prête 4,2 sur 5 pour 136 avis, relevé qu'il date du 8 mai 2026 ; un autre annuaire donnait 4,3 pour 127 avis en octobre 2025. Sur le Petit Futé, les membres lui accordent 4,7 sur 5 pour 23 avis, mais les cinq avis affichés ont été déposés entre juin 2018 et janvier 2020, le plus récent le 3 janvier 2020.\n\nDans un texte de 2024, le Petit Futé en fait « une des plus anciennes adresses libertines de France ». En février 2026, le blog d'un autre établissement libertin le présente comme « présent depuis plus de trente ans », fréquenté surtout par des couples. Sur Facebook, la page « Club Aphrodite | Avignon » comptait 3 439 abonnés le 16 octobre 2026."
+        }
+      ],
+      "sources": [
+        "s17",
+        "s21",
+        "s24",
+        "s30",
+        "s32"
+      ]
+    },
+    {
+      "id": "darjeeling-apres-midi",
+      "title": "Le Darjeeling et le Pearl dès 14 h, l'Aphrodite la nuit : trois adresses en ville",
+      "icon": "map",
+      "summary": "Deux saunas libertins reçoivent aussi les hommes seuls : le Darjeeling, le week-end de 14 h à 19 h, et le Pearl, du mardi au dimanche dès 14 h.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "[Le Darjeeling, sauna libertin de l'île Piot](/le-darjeeling-avignon), cité avec l'Aphrodite par les deux guides en ligne de 2026 que nous avons lus, ouvre le samedi et le dimanche de 14 h à 19 h d'après sa page d'accueil du 2 octobre 2026, et reçoit aussi les hommes seuls.\n\n[Le Pearl, rue Capitaine-de-Vaisseau-Henri-Bellet](/le-pearl-avignon), sauna de « plus de 700 m² » selon le blog d'un autre établissement, ouvre du mardi au dimanche dès 14 h, jusqu'à 3 h le vendredi et le samedi, d'après son site mis à jour le 2 octobre 2026. L'homme seul y paie 45 à 60 €, et l'on n'y sert pas d'alcool.\n\nUn homme seul a donc trois portes en ville : le jeudi soir rue Four de la Terre, l'après-midi sur l'île Piot ou au Pearl. Hors de la ville, le même blog mentionne [La Licorne d'Or, à Carpentras](/la-licorne-d-or-carpentras). Les autres établissements sont réunis sur [la page des lieux libertins d'Avignon](/ville/avignon) et sur [celle du Vaucluse](/departement/vaucluse)."
+        }
+      ],
+      "sources": [
+        "s20",
+        "s21",
+        "s23",
+        "s33"
+      ]
+    },
+    {
+      "id": "acces-porte-thiers",
+      "title": "Par la porte Thiers jusqu'au parking des Halles, à 100 m du club",
+      "icon": "car",
+      "summary": "Entrée par la porte Thiers, puis la rue Thiers jusqu'au parking des Halles, à 100 m du club ; parking du Palais des Papes en repli.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "En voiture, le site conseille de longer les remparts par le boulevard Limbert, d'entrer par la porte Thiers et de remonter la rue Thiers jusqu'au parking des Halles, à une centaine de mètres. Une borne rétractable se franchit en appuyant sur un bouton, et les panneaux lumineux « complet » sont à ignorer, selon le club, car il resterait toujours des places.\n\nLe trajet passe devant la porte du club : le site suggère d'y déposer sa compagne, pour qu'elle n'attende pas seule dans la rue. Repli possible au parking du Palais des Papes, à 600 m selon la page des bons plans, 700 m selon les pages de soirées. Le site liste aussi hôtels, chambres d'hôtes et restaurants proches, avec leur distance, ainsi que deux numéros de taxi."
+        }
+      ],
+      "sources": [
+        "s4",
+        "s7",
+        "s8"
+      ]
+    },
+    {
+      "id": "festival-avignon",
+      "title": "En juillet, un billet de spectacle du jour ouvre le tarif réduit",
+      "icon": "sparkles",
+      "summary": "Pendant le Festival 2026 (4-25 juillet), jeudis et vendredis mixtes, vendredi jusqu'à 5 h, et tarif réduit sur présentation d'un billet de spectacle du jour.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Pour le Festival d'Avignon 2026, du 4 au 25 juillet, le club ouvrait le jeudi et le vendredi en mixte, gardait le samedi aux couples et aux femmes seules, et prolongeait le vendredi jusqu'à 5 h. Le billet d'un spectacle du jour valait tarif réduit : 40 € le couple, 10 € la femme seule, 50 € l'homme seul. Pour se garer, le club orientait vers le parking gratuit des Italiens et ses navettes.\n\nLa formule existe au moins depuis 2018, année de création de la page « Festival d'Avignon et Libertinage ». Le samedi 1er août 2026, une semaine après la clôture, une soirée « Avignon libéré » a fêté le retour du parking des Halles. Le livre d'or garde au moins deux témoignages de visiteurs venus pendant le festival, en juillet 2016 et en juillet 2023."
+        }
+      ],
+      "sources": [
+        "s9",
+        "s12",
+        "s13"
+      ]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Jeudi": "21 h - 3 h, soirée mixte",
+      "Vendredi": "Dès 22 h 30, couples et femmes seules (heure de fin non publiée)",
+      "Samedi": "Dès 22 h 30, couples et femmes seules (heure de fin non publiée)",
+      "Dimanche à mercredi": "Fermé, sauf veille de jour férié (horaires non précisés)"
+    },
+    "note": "D'après la page Philosophie et l'agenda de l'automne 2026. Un samedi par mois, cocktail dînatoire dès 20 h sur réservation. PagesJaunes (fiche mise à jour le 1er octobre 2026) et d'autres annuaires indiquent une fermeture à 5 h le vendredi et le samedi ; le club ne la publie que pour les vendredis du Festival d'Avignon 2026 (4-25 juillet), alors mixtes.",
+    "confidence": "confirme",
+    "sources": [
+      "s2",
+      "s6",
+      "s9",
+      "s10",
+      "s31",
+      "s32"
+    ]
+  },
+  "tarifs": {
+    "rows": {
+      "Couple, jeudi": "40 € avec 6 consommations si inscrit avant 19 h et arrivé avant minuit ; 59 € sinon",
+      "Couple, vendredi et samedi": "59 € avec 6 consommations si inscrit avant 19 h (la page Tarifs demande aussi une « Annonce rapide ») ; 70 € sinon",
+      "Femme seule": "10 € avec 2 consommations si inscrite avant 19 h ; 20 € sinon",
+      "Homme seul (jeudi)": "50 € avec 1 consommation si inscrit avant 19 h ; 70 € sinon",
+      "Couple avec bouteille": "90 € (champagne), 120 € (alcool au choix), 150 € (champagne supérieur)",
+      "Cocktail dînatoire mensuel": "18 € par personne en plus de l'entrée (prix publié en 2024)"
+    },
+    "note": "Relevés sur la page Tarifs et sur les pages des soirées d'octobre et novembre 2026. Carte bancaire non acceptée selon le club. Certaines soirées ont leurs propres prix, comme les 37 ans (formule tout compris annoncée à 85 € le 7 novembre) ou le Gang Bang du 12 novembre (entrée gratuite pour les couples et femmes adeptes inscrits).",
+    "confidence": "confirme",
+    "sources": [
+      "s5",
+      "s6",
+      "s10",
+      "s11"
+    ]
+  },
+  "equipements": [
+    "Bar à cocktails",
+    "Piste de danse",
+    "Barres de pole dance",
+    "Cages",
+    "Salle vidéo",
+    "Labyrinthe",
+    "Lit rond",
+    "Salle de jeux",
+    "Chambres privatisables fermant à clé",
+    "Patio (chambre White)",
+    "Douche",
+    "Espace fumeurs",
+    "Vestiaire",
+    "DJ lors des soirées spéciales",
+    "Cocktail dînatoire mensuel"
+  ],
+  "officialLinks": [
+    {
+      "label": "Site officiel",
+      "url": "https://clubaphrodite.fr/",
+      "kind": "site"
+    },
+    {
+      "label": "Agenda des soirées",
+      "url": "https://clubaphrodite.fr/soirees/",
+      "kind": "agenda"
+    },
+    {
+      "label": "Photos de quatre salons (page d'accueil)",
+      "url": "https://clubaphrodite.fr/",
+      "kind": "galerie"
+    },
+    {
+      "label": "Inscription aux soirées (Liberty Couple)",
+      "url": "https://www.libertycouple.fr/32/liste-des-soirees",
+      "kind": "reservation"
+    },
+    {
+      "label": "Page Facebook",
+      "url": "https://www.facebook.com/club.libertin.avignon/",
+      "kind": "facebook"
+    }
+  ],
+  "corrections": {
+    "adresse": "19 rue Four de la Terre",
+    "code_postal": "84000",
+    "sources": [
+      "s7",
+      "s18"
+    ]
+  },
+  "faq": [
+    {
+      "question": "L'Aphrodite est-il un club échangiste ?",
+      "answer": "Oui : « club échangiste » et « club libertin » désignent le même type de lieu. L'Aphrodite se veut d'abord un club de couples, mais il admet les femmes seules tous les soirs et les hommes seuls le jeudi."
+    },
+    {
+      "question": "L'Aphrodite est-il toujours ouvert ?",
+      "answer": "Oui : au 20 octobre 2026, l'agenda officiel annonce des soirées jusqu'au 26 décembre, et la page d'accueil a été modifiée le 18 octobre. La seule fermeture connue date du Covid : annoncée le 14 mars 2020, elle a duré jusqu'au 5 août 2021, soit « 16 mois » selon le club."
+    },
+    {
+      "question": "Un homme seul peut-il aller à l'Aphrodite ?",
+      "answer": "Le jeudi seulement, de 21 h à 3 h, et le club parle d'hommes « sélectionnés ». Comptez 50 € avec une consommation en vous inscrivant sur le flyer de la soirée avant 19 h, 70 € sinon. Exception : pendant le Festival d'Avignon 2026, le vendredi était lui aussi mixte."
+    },
+    {
+      "question": "Combien paie une femme seule, et quels soirs peut-elle venir ?",
+      "answer": "Tous les soirs d'ouverture, pour 10 € avec deux consommations si elle s'est inscrite avant 19 h, 20 € sinon. Les vendredis animés par Lily s'affichent « 100 % couples, 100 % femmes seules », et la page de la Nuit de la Féminité du 23 octobre 2026 annonce même l'entrée offerte aux femmes seules inscrites (à confirmer au 06 98 31 87 97)."
+    },
+    {
+      "question": "Peut-on payer par carte bancaire ?",
+      "answer": "Non, selon le club : « Pas de CB » figure sur chaque page de soirée. Le site ne cite aucun autre moyen de paiement ; un avis Google relayé par un annuaire indique que seules les espèces sont acceptées. Posez la question au 06 12 21 04 63 avant de venir."
+    },
+    {
+      "question": "Faut-il réserver ?",
+      "answer": "Pas pour un soir ordinaire : sans inscription, on paie le plein tarif. L'inscription au flyer sur Liberty Couple, avant 19 h, donne le tarif réduit. La réservation est obligatoire pour le cocktail dînatoire mensuel et pour la soirée des 37 ans du 7 novembre 2026."
+    },
+    {
+      "question": "Où se garer pour aller à l'Aphrodite ?",
+      "answer": "Au parking des Halles, à 100 m, en entrant par la porte Thiers ; à défaut, au parking du Palais des Papes, à 600 m. Pendant le festival, le club conseille le parking gratuit des Italiens et ses navettes."
+    }
+  ],
+  "unverified": [
+    "L'heure de fermeture du vendredi et du samedi : 5 h selon PagesJaunes et d'autres annuaires, mais le site ne la publie qu'en période de festival.",
+    "Les moyens de paiement acceptés : un avis relayé parle d'espèces uniquement, sans confirmation du club (chèques ?).",
+    "Le prix 2026 du cocktail dînatoire mensuel, publié à 18 € par personne sur une page de 2024.",
+    "Le prix et les conditions exactes de la carte de membre.",
+    "Le nombre de niveaux et la surface du club, et l'ouverture régulière du troisième étage.",
+    "La présence d'eau dans le salon appelé « la Piscine » et l'existence actuelle d'un jacuzzi.",
+    "Le lien formel entre la SAS A.S.C. et le club, et l'exploitant du lieu entre 1989 et 1996.",
+    "Le fixe 04 90 16 03 78, numéro du club en 2010, que les annuaires donnent toujours mais que le site ne publie plus.",
+    "La note Google du club, que nous n'avons pas relevée nous-mêmes.",
+    "L'offre de bienvenue de 7 jours sur Wyylde annoncée par le club.",
+    "D'éventuels articles de presse régionale : une vingtaine de recherches en octobre 2026 n'en ont trouvé aucun, mais les archives de La Provence n'ont pas pu être interrogées."
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Site officiel, page d'accueil (modifiée le 18/10/2026)",
+      "url": "https://clubaphrodite.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s2",
+      "label": "Site officiel, page Philosophie",
+      "url": "https://clubaphrodite.fr/philosophie/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s3",
+      "label": "Site officiel, page Le Club",
+      "url": "https://clubaphrodite.fr/le-club/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s4",
+      "label": "Site officiel, page « Très important : Accès et conditions »",
+      "url": "https://clubaphrodite.fr/tres-important/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s5",
+      "label": "Site officiel, page Tarifs & Prestations",
+      "url": "https://clubaphrodite.fr/tarifs-prestations/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s6",
+      "label": "Site officiel, page Côté dînatoire (modifiée en juin 2024)",
+      "url": "https://clubaphrodite.fr/cote-dinatoire/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s7",
+      "label": "Site officiel, page Infos / Contact / Partenariat",
+      "url": "https://clubaphrodite.fr/infos-contact/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s8",
+      "label": "Site officiel, page Les Bons Plans de l'Aphrodite",
+      "url": "https://clubaphrodite.fr/les-bons-plans-de-laphrodite/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s9",
+      "label": "Site officiel, page Festival d'Avignon et Libertinage et soirées du festival 2026",
+      "url": "https://clubaphrodite.fr/avignon-lexception/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s10",
+      "label": "Site officiel, agenda et pages des soirées d'octobre à décembre 2026",
+      "url": "https://clubaphrodite.fr/soirees/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s11",
+      "label": "Site officiel, pages des soirées des 37 ans (5 et 7 novembre 2026)",
+      "url": "https://clubaphrodite.fr/soirees/37-ans-de-laphrodite-2-2-2-3/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s12",
+      "label": "Site officiel, liste technique des pages de soirées publiées depuis 2018 (API WordPress)",
+      "url": "https://clubaphrodite.fr/wp-json/wp/v2/posts",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s13",
+      "label": "Site officiel, livre d'or (témoignages sélectionnés par le club)",
+      "url": "https://clubaphrodite.fr/livre-dor/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s14",
+      "label": "Site officiel, page « On parle de nous » (témoignages non datés)",
+      "url": "https://clubaphrodite.fr/on-parle-de-nous/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s15",
+      "label": "Liberty Couple, liste des soirées du club",
+      "url": "https://www.libertycouple.fr/32/liste-des-soirees",
+      "type": "autre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s16",
+      "label": "Site officiel, page Rencontres",
+      "url": "https://clubaphrodite.fr/rencontre/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s17",
+      "label": "Page Facebook « Club Aphrodite | Avignon » (informations publiques)",
+      "url": "https://www.facebook.com/club.libertin.avignon/",
+      "type": "reseau_social",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s18",
+      "label": "Registre des entreprises, SAS A.S.C. (SIREN 404 931 925)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/404931925",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s19",
+      "label": "Registre des entreprises, A.J.P.E. (SIREN 422 698 332), cessée en 2014",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/422698332",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s20",
+      "label": "Kinkyee, guide « Club libertin Avignon » (non daté)",
+      "url": "https://kinkyee.fr/club-libertin/avignon/",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s21",
+      "label": "Blog du Sauna Club Le Bali, « Clubs libertins dans le Vaucluse » (14/02/2026)",
+      "url": "https://www.saunaclublebali.fr/clubs-libertins-dans-le-vaucluse-84-panorama-des-etablissements-a-avignon-et-carpentras/",
+      "type": "autre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s22",
+      "label": "Fuxxy, fiche annuaire « Club Aphrodite »",
+      "url": "https://fuxxy.fr/club-libertin/avignon/club-aphrodite",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s23",
+      "label": "Le Darjeeling, site officiel, page d'accueil (mise à jour le 02/10/2026)",
+      "url": "https://www.ledarjeeling.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s24",
+      "label": "Lieux Libertins, fiche « club Aphrodite Avignon » (note Google relayée, mise à jour le 08/05/2026)",
+      "url": "https://lieuxlibertins.fr/fiche/club-aphrodite-avignon/",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s25",
+      "label": "Site officiel, message des 31 ans du club (04/11/2020)",
+      "url": "https://clubaphrodite.fr/soirees/anniversaire-vous-nous-manquez/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s26",
+      "label": "Site officiel, annonce « Fermeture !!! » (14/03/2020)",
+      "url": "https://clubaphrodite.fr/soirees/fermeture/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s27",
+      "label": "Site officiel, annonce de la réouverture du 5 août 2021 et tarifs du jeudi (publiée le 01/07/2021)",
+      "url": "https://clubaphrodite.fr/soirees/le-retour-des-jeudis-de-laphrodite/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s28",
+      "label": "Site officiel, archive du 10/07/2010 (présentation, soirées, buffet, infos utiles)",
+      "url": "https://web.archive.org/web/20100710214121/http://www.clubaphrodite.fr:80/index.php?option=com_content&view=article&id=48&Itemid=54",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s29",
+      "label": "Site officiel, archives de janvier 2013 à janvier 2016 (accueil)",
+      "url": "https://web.archive.org/web/20130126165105/http://www.clubaphrodite.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s30",
+      "label": "Petit Futé, fiche « L'Aphrodite » (texte de février 2024, avis des membres de 2018 à janvier 2020)",
+      "url": "https://www.petitfute.com/v33549-avignon-84000/c9998-coquin/c1044-s-amuser-sortir/c206-club-libertin/441046-l-aphrodite.html",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s31",
+      "label": "PagesJaunes, fiche « Club Aphrodite » (mise à jour le 01/10/2026)",
+      "url": "https://www.pagesjaunes.fr/pros/59368707",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s32",
+      "label": "Minuit Libertin, fiche « Club Aphrodite à Avignon » (données du 03/10/2025)",
+      "url": "https://minuitlibertin.com/club-aphrodite-a-avignon/",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s33",
+      "label": "Le Pearl, site officiel (accueil mis à jour le 02/10/2026, tarifs)",
+      "url": "https://www.lepearlavignon.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    }
+  ],
+  "glance": [
+    {
+      "icon": "calendar",
+      "label": "Ouvert",
+      "value": "Jeu. 21 h-3 h · ven. et sam. dès 22 h 30"
+    },
+    {
+      "icon": "euro",
+      "label": "Entrée couple",
+      "value": "40 à 70 € avec 6 consommations"
+    },
+    {
+      "icon": "users",
+      "label": "Homme seul",
+      "value": "Le jeudi seulement · 50 € ou 70 €"
+    },
+    {
+      "icon": "warning",
+      "label": "Paiement",
+      "value": "Pas de carte bancaire, selon le club"
+    },
+    {
+      "icon": "history",
+      "label": "Depuis",
+      "value": "Novembre 1989, selon le club",
+      "confidence": "source_unique"
+    },
+    {
+      "icon": "car",
+      "label": "Parking",
+      "value": "Parking des Halles, à 100 m"
+    }
+  ],
+  "audience": [
+    {
+      "who": "couples",
+      "status": "oui",
+      "detail": "Jeudi, vendredi et samedi ; tarif réduit si inscrits sur le flyer avant 19 h",
+      "price": "40 à 70 €"
+    },
+    {
+      "who": "femmes",
+      "status": "oui",
+      "detail": "Tous les soirs d'ouverture ; 10 € si inscrite avant 19 h, 20 € sinon",
+      "price": "10 à 20 €"
+    },
+    {
+      "who": "hommes",
+      "status": "selon",
+      "detail": "Le jeudi seulement, hommes « sélectionnés » ; vendredi et samedi réservés aux couples",
+      "price": "50 à 70 €"
+    }
+  ],
+  "highlights": [
+    "Pas de carte bancaire, selon chaque page de soirée : prévoyez des espèces, seul paiement cité par un avis Google relayé en ligne.",
+    "Inscrivez-vous sur le flyer de la soirée, sur Liberty Couple, avant 19 h : le couple paie 40 € au lieu de 59 € le jeudi, 59 € au lieu de 70 € le week-end.",
+    "Talons et tenue sexy exigés pour les femmes, chemise et chaussures de ville pour les hommes ; baskets, polos et tee-shirts sont refusés à l'entrée.",
+    "Le téléphone reste au vestiaire, et l'on circule à deux dans tout le club : l'homme d'un couple n'y circule pas seul.",
+    "En voiture, entrez par la porte Thiers : la borne de la rue Thiers s'abaisse au bouton, et le parking des Halles est à 100 m du club."
+  ]
+}

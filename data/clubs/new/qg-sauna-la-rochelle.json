@@ -1,0 +1,19 @@
+{
+  "id": "new-qg-sauna-la-rochelle",
+  "nom": "QG Sauna",
+  "type": "sauna libertin et gay",
+  "types_normalises": ["Club", "Sauna", "Spa & Wellness", "Bar", "Gay friendly"],
+  "adresse": "13 avenue Coligny",
+  "code_postal": "17000",
+  "ville": "La Rochelle",
+  "departement_code": "17",
+  "departement_nom": "Charente-Maritime",
+  "region": "Nouvelle-Aquitaine",
+  "pays": "France",
+  "telephone": "0524091873",
+  "email": "",
+  "site_web": "https://qgsauna.com/",
+  "equipements": ["Jacuzzi", "Hammam", "Sauna", "Bar"],
+  "verification": { "status": "actif" },
+  "addedAt": "2026-10-20"
+}

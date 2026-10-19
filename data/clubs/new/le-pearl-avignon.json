@@ -1,0 +1,19 @@
+{
+  "id": "new-le-pearl-avignon",
+  "nom": "Le Pearl",
+  "type": "sauna libertin",
+  "types_normalises": ["Sauna", "Club", "Spa & Wellness"],
+  "adresse": "95 rue du Capitaine de Vaisseau Henri Bellet",
+  "code_postal": "84000",
+  "ville": "Avignon",
+  "departement_code": "84",
+  "departement_nom": "Vaucluse",
+  "region": "Provence-Alpes-Côte d'Azur",
+  "pays": "France",
+  "telephone": "",
+  "email": "contact@lepearlavignon.fr",
+  "site_web": "https://www.lepearlavignon.fr/",
+  "equipements": ["Sauna", "Hammam", "Jacuzzi", "Piscine", "Espace BDSM", "Glory hole", "Parking"],
+  "verification": { "status": "actif" },
+  "addedAt": "2026-10-20"
+}

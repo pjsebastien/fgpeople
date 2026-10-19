@@ -1,0 +1,321 @@
+{
+  "slug": "l-atlantis-aytre",
+  "clubId": "new-l-atlantis-aytre",
+  "researchedAt": "2026-10-20",
+  "display": { "nom": "L'Atlantis", "ville": "Aytré" },
+  "status": {
+    "value": "ouvert",
+    "summary": "Le 10 juillet 2026, l'exploitant a retouché deux pages du site pour y mettre en avant la climatisation de l'établissement ; la page des tarifs, elle, a été modifiée en novembre 2025. Au registre, la SARL L'Atlantis 17, que son nom et son adresse rattachent au sauna, reste active avec un établissement ouvert rue Thalès. Nous n'avons lu aucun avis ni aucune publication datés de 2026, la page Facebook ne s'affichant pas sans compte : un appel au 05 17 26 36 35 reste le moyen le plus sûr de confirmer l'ouverture du jour.",
+    "sources": ["s1", "s24", "s25", "s2", "s9", "s12", "s15"]
+  },
+  "seo": {
+    "title": "Sauna L'Atlantis (Aytré, La Rochelle) : jours mixtes et tarifs",
+    "metaDescription": "Gay quatre jours sur sept, mixte le lundi, le vendredi et le samedi : 20 € l'entrée homme, 6 € pour une femme, 260 m² en zone industrielle d'Aytré.",
+    "subtitle": "Sauna gay et libertin sur deux niveaux, zone industrielle d'Aytré (17)",
+    "targetQueries": [
+      "sauna atlantis la rochelle",
+      "sauna atlantis aytré",
+      "sauna gay la rochelle",
+      "sauna libertin la rochelle",
+      "atlantis aytré horaires"
+    ]
+  },
+  "lead": "L'Atlantis est un sauna gay qui s'ouvre aux femmes et aux couples trois jours par semaine, le lundi, le vendredi et le samedi, avec une entrée femme à 6 €. Il se présente comme un sauna « à La Rochelle », mais il occupe, depuis décembre 2019 selon le registre, un local neuf de 260 m² sur deux niveaux dans la zone industrielle d'Aytré, après plusieurs années rue de l'Arsenal, au centre de La Rochelle. Son site a été mis à jour en juillet 2026.",
+  "glance": [
+    { "icon": "couple", "label": "Journées mixtes", "value": "Lundi, vendredi et samedi" },
+    { "icon": "clock", "label": "Ouvert", "value": "7 j/7, jusqu'à minuit ven. et sam." },
+    { "icon": "euro", "label": "Entrée", "value": "Homme 20 € · femme 6 € · -26 ans 10 €" },
+    { "icon": "map", "label": "Adresse", "value": "1, rue Thalès, ZI d'Aytré (17)" },
+    { "icon": "ruler", "label": "Surface", "value": "260 m² sur 2 niveaux + terrasse 50 m²" },
+    { "icon": "history", "label": "À Aytré depuis", "value": "Déc. 2019 au registre, ex-rue de l'Arsenal", "confidence": "confirme" }
+  ],
+  "audience": [
+    { "who": "hommes", "status": "oui", "detail": "Tous les jours ; seul public des mardi, mercredi, jeudi et dimanche, annoncés « 100 % gay »", "price": "20 €" },
+    { "who": "femmes", "status": "selon", "detail": "Lundi, vendredi et samedi, jours mixtes, seules ou accompagnées", "price": "6 €" },
+    { "who": "couples", "status": "selon", "detail": "Homme-femme les jours mixtes ; pas de prix à la visite publié, pass 2 jours à 37 €" },
+    { "who": "trans", "status": "selon", "detail": "Cités par le règlement parmi la clientèle admise ; jours et tarif non précisés" }
+  ],
+  "highlights": [
+    "Le site parle de La Rochelle, mais le sauna est à Aytré : 1, rue Thalès, en zone industrielle, ligne de bus 1B, parking gratuit juste à côté.",
+    "Femmes et couples : venez un lundi, un vendredi ou un samedi. Les quatre autres jours sont annoncés « 100 % gay ».",
+    "Le jeudi, journée « spécial nudiste », est annoncé « 100 % gay » ; le sauna ferme alors à 22 h.",
+    "Douche obligatoire dès l'arrivée ; entrée refusée en état d'ébriété ; photos, vidéos et alcool apporté de l'extérieur interdits.",
+    "Fermeture annuelle les 24, 25 et 31 décembre et le 1er janvier."
+  ],
+  "keyFacts": [
+    { "label": "Concept", "value": "Sauna gay, mixte (gay, bi, hétéro) trois jours par semaine", "confidence": "confirme", "sources": ["s2", "s4", "s18"] },
+    { "label": "Adresse", "value": "1, rue Thalès, 17440 Aytré (zone industrielle)", "confidence": "confirme", "sources": ["s1", "s3", "s12"] },
+    { "label": "Téléphone", "value": "05 17 26 36 35", "confidence": "confirme", "sources": ["s3", "s9"] },
+    { "label": "Journées mixtes", "value": "Lundi, vendredi et samedi", "confidence": "confirme", "sources": ["s2", "s4", "s18"] },
+    { "label": "Entrée homme", "value": "20 € (10 € avant 26 ans)", "confidence": "confirme", "sources": ["s2", "s18"] },
+    { "label": "Entrée femme", "value": "6 €", "confidence": "source_unique", "sources": ["s2"] },
+    { "label": "Surface", "value": "260 m² sur deux niveaux, terrasse de 50 m² (250 m² sur d'autres pages)", "confidence": "source_unique", "sources": ["s1", "s5"] },
+    { "label": "À Aytré depuis", "value": "Décembre 2019 au registre ; auparavant 12, rue de l'Arsenal, à La Rochelle", "confidence": "confirme", "sources": ["s10", "s11", "s12"] },
+    { "label": "Société", "value": "L'Atlantis 17, SARL créée en octobre 2011 (rattachement déduit du nom et de l'adresse)", "confidence": "a_verifier", "sources": ["s12"] },
+    { "label": "Note Google relayée", "value": "4,2 à 4,3 sur 5 (133 à 146 avis) selon des annuaires, non vue sur Google", "confidence": "a_verifier", "sources": ["s20", "s21", "s22"] }
+  ],
+  "sections": [
+    {
+      "id": "rue-thales-aytre",
+      "title": "Un sauna « à La Rochelle » installé rue Thalès, à Aytré",
+      "icon": "map",
+      "summary": "L'adresse est le 1, rue Thalès, dans la zone industrielle d'Aytré, commune voisine de La Rochelle, sur la ligne de bus 1B, avec un parking à côté du sauna.",
+      "blocks": [
+        { "kind": "text", "body": "Le site se présente comme le sauna « à La Rochelle ». L'adresse est en réalité à **Aytré**, commune limitrophe : 1, rue Thalès, dans la zone industrielle desservie par la ligne de bus 1B. La page d'accès signale un parking « à proximité immédiate », et la page d'accueil, des places de stationnement gratuites." },
+        {
+          "kind": "list",
+          "title": "Coordonnées périmées encore en circulation",
+          "items": [
+            "12, rue de l'Arsenal, à La Rochelle : l'ancien sauna, fermé au registre le 30 juin 2018.",
+            "05 46 41 15 89 : l'ancien numéro de la rue de l'Arsenal, remplacé par le 05 17 26 36 35.",
+            "« 12, rue Thales » : probable coquille des mentions légales du site, inchangées depuis avril 2020 ; la page de contact et le registre donnent le n° 1.",
+            "17 € l'entrée et fermeture à 2 h le samedi : données non datées du guide Spartacus, antérieures à la grille de mars 2024."
+          ]
+        },
+        { "kind": "text", "body": "Un autre sauna gay et libertin se trouve à La Rochelle même : [le QG Sauna de l'avenue Coligny](/qg-sauna-la-rochelle), au n° 13, où le registre situe son exploitant. Sa grille complète celle de L'Atlantis : il est mixte le mardi et le dimanche, deux jours « 100 % gay » à Aytré, et ouvert à « toutes tendances » le jeudi soir." },
+        { "kind": "text", "body": "[Plaisirs d'O](/plaisir-d-o-la-rochelle-port-neuf), l'ancien sauna libertin de Port-Neuf, est fermé : son dernier programme en ligne s'arrêtait au 30 avril 2016." },
+        { "kind": "text", "body": "Pour une soirée en club, l'agenda d'[Angély's Club](/club-libertin-saint-jean), à Saint-Jean-d'Angély, consulté le 20 octobre 2026, annonce une soirée mixte à thème chaque samedi, du 24 octobre au 26 décembre. Les autres lieux sont réunis sur la page [Charente-Maritime](/departement/charente-maritime)." }
+      ],
+      "sources": ["s1", "s3", "s24", "s8", "s10", "s12", "s19", "s26", "s27", "s28", "s29"]
+    },
+    {
+      "id": "journees-mixtes",
+      "title": "Lundi, vendredi, samedi : trois journées mixtes et l'entrée femme à 6 €",
+      "icon": "couple",
+      "summary": "Le sauna est « 100 % gay » quatre jours sur sept ; le lundi, le vendredi et le samedi, il devient mixte et accueille femmes et couples, la femme entrant pour 6 €.",
+      "blocks": [
+        { "kind": "text", "body": "La grille officielle coupe la semaine en deux. Le **lundi, le vendredi et le samedi** sont annoncés « MIXTE (Gay, Bi, Hétéro…) ». Le **mardi, le mercredi, le jeudi et le dimanche** sont « 100 % Gay », le jeudi étant en plus « spécial nudiste »." },
+        { "kind": "text", "body": "Les journées mixtes sont aussi les plus longues : le vendredi et le samedi, la fermeture est à minuit, contre 20 h en début de semaine. Le site les présente comme ses « journées libertines » et s'adresse aux femmes, invitées à venir « seules ou accompagnées »." },
+        { "kind": "callout", "tone": "tip", "title": "Couples homme-femme", "body": "Seul le pass week-end affiche un prix « couple » : 37 € pour deux jours au choix, du vendredi au lundi. Pour une visite unique, le site ne publie pas de tarif ; demandez-le à l'accueil." },
+        { "kind": "text", "body": "Le règlement protège les deux publics : il exclut « séance tenante » les propos homophobes comme les propos « anti-bi ou anti-hétéro »." },
+        { "kind": "text", "body": "Femmes et couples ont l'accès complet gratuit sur Carré Libertin, en ligne depuis 2007, pourvu que leur profil compte trois photos. Un couple qui découvre le sauna peut y [trouver des couples rochelais partants pour un samedi mixte](aff:carre-libertin) et faire la première visite à plusieurs." }
+      ],
+      "sources": ["s2", "s4", "s7", "s18"]
+    },
+    {
+      "id": "grille-mars-2024",
+      "title": "Grille de mars 2024 : 20 € l'entrée homme, 15 € avec la carte de dix",
+      "icon": "euro",
+      "summary": "Les prix datent du 1er mars 2024 et sont « indexés sur les cours de l'énergie » ; chaque entrée inclut une boisson et un retour gratuit le jour même.",
+      "blocks": [
+        { "kind": "text", "body": "La grille complète figure dans l'encadré des tarifs. Elle est annoncée « applicable au 1er mars 2024 » et indexée sur le prix de l'énergie : elle peut donc évoluer sans préavis visible sur le site. Le **retour gratuit** le même jour, jusqu'à deux heures avant la fermeture, permet de sortir puis de revenir sans payer une seconde entrée." },
+        {
+          "kind": "table",
+          "caption": "Les remises absentes de la grille",
+          "headers": ["Offre", "Condition", "Remise"],
+          "rows": [
+            ["Dimanche +", "Une entrée plein tarif le dimanche", "Un mardi à -50 % dans le mois"],
+            ["Anniversaire", "Venir le jour même, pièce d'identité à l'appui", "-50 % à la visite suivante"],
+            ["Été", "Juillet et août, même semaine", "Retour à moitié prix"]
+          ]
+        },
+        { "kind": "text", "body": "La carte de dix entrées ramène l'entrée homme à 15 €. Les formules Duo et Trio, soit 14 € puis 12 € par personne, ne valent que le mercredi, journée réservée aux hommes." },
+        { "kind": "text", "body": "L'offre d'été figure sur une page modifiée en décembre 2025, mais sans année : vérifiez qu'elle est reconduite avant d'en tenir compte." }
+      ],
+      "sources": ["s2", "s5", "s6"]
+    },
+    {
+      "id": "deux-niveaux-terrasse",
+      "title": "260 m² sur deux niveaux : hammam, sling et terrasse de 50 m²",
+      "icon": "spa",
+      "summary": "Selon le site, le local neuf réunit sur deux niveaux climatisés un sauna finlandais, un hammam, un spa, un bar, des cabines, un sling et une terrasse de 50 m².",
+      "blocks": [
+        { "kind": "text", "body": "Le site décrit un établissement « neuf » et climatisé de **260 m² sur deux niveaux**, prolongé d'une terrasse de 50 m² avec bains de soleil et salon ombragé. D'autres pages du même site parlent de 250 m², sans expliquer l'écart." },
+        { "kind": "list", "title": "Détente", "items": ["Sauna finlandais, hammam et spa", "Vestiaires et douches, chaudes et froides selon la description de la page", "Cabines de relaxation", "Salle de massages, sur rendez-vous pris à l'accueil"] },
+        { "kind": "list", "title": "Jeux", "items": ["Sling, backroom et gloryholes", "Salons vidéo", "Préservatifs, lubrifiants et gel hydroalcoolique à disposition"] },
+        { "kind": "list", "title": "Services", "items": ["Bar avec et sans alcool, petite restauration", "Boutique de vêtements, d'accessoires et de gadgets coquins", "Local fumeur, en plus de la terrasse", "Livres et revues au salon"] },
+        { "kind": "text", "body": "Le site ne propose aucune galerie photo, et le règlement interdit de photographier à l'intérieur : nous n'avons vu aucune image officielle des lieux." }
+      ],
+      "sources": ["s1", "s5", "s7"]
+    },
+    {
+      "id": "douche-ivresse-photos",
+      "title": "Douche dès l'arrivée, ivresse refusée, ni photo ni vidéo",
+      "icon": "shield",
+      "summary": "Le règlement impose la douche à l'arrivée, refuse les personnes ivres, interdit photos, vidéos et alcool apporté, et limite la cigarette au fumoir et à la terrasse.",
+      "blocks": [
+        {
+          "kind": "list",
+          "items": [
+            "Interdit aux mineurs ; clientèle « masculine, féminine, bi et trans » selon le texte.",
+            "Douche obligatoire dès l'arrivée.",
+            "Entrée refusée en état d'ébriété ; ni alcool ni stupéfiant apporté de l'extérieur.",
+            "Aucune photo ni vidéo à l'intérieur.",
+            "Cigarette au fumoir ou en terrasse uniquement.",
+            "Expulsion pour bruit, scandale, clients importunés ou propos intolérants ; expulsion définitive en cas de prostitution."
+          ]
+        },
+        { "kind": "text", "body": "Le règlement a été mis à jour en décembre 2023. Il ne dit rien d'un dress code ni des serviettes : posez la question à l'accueil si vous comptez venir sans les vôtres." }
+      ],
+      "sources": ["s7"]
+    },
+    {
+      "id": "jeudi-naturiste-massages",
+      "title": "Jeudi naturiste et massages trois après-midi, mais aucune soirée datée",
+      "icon": "calendar",
+      "summary": "Le site ne publie aucun événement daté : seulement des rendez-vous hebdomadaires, du jeudi naturiste aux massages, et un dernier article de blog de février 2024.",
+      "blocks": [
+        {
+          "kind": "list",
+          "items": [
+            "**Jeudi après-midi** : naturisme, sur une journée annoncée « 100 % gay », avec fermeture à 22 h.",
+            "**Lundi et jeudi**, de 14 h à 18 h, et **vendredi**, de 13 h 30 à 16 h : massages, tarif et rendez-vous à l'accueil.",
+            "Privatisation pour une soirée, un anniversaire ou un enterrement de vie de garçon ou de jeune fille, sur devis."
+          ]
+        },
+        { "kind": "text", "body": "La page des événements date d'octobre 2023, et le dernier article du blog, consacré au pass week-end, de février 2024. La page Facebook officielle ne se lit pas sans compte : nous n'y avons vu aucune date." },
+        { "kind": "text", "body": "Un couple qui voudrait sortir un mardi, un mercredi, un jeudi ou un dimanche, jours annoncés « 100 % gay », doit donc regarder ailleurs. L'agenda de Wyylde, l'ex-Netéchangisme rebaptisé en 2018, se consulte avec un compte gratuit et permet de [chercher une soirée datée hors des journées mixtes](aff:wyylde)." }
+      ],
+      "sources": ["s2", "s5", "s9", "s15"]
+    },
+    {
+      "id": "arsenal-thales",
+      "title": "Rue de l'Arsenal fermée au registre en 2018, rue Thalès ouverte en décembre 2019",
+      "icon": "history",
+      "summary": "Jusqu'en 2017 au moins, L'Atlantis occupait le 12, rue de l'Arsenal, au centre de La Rochelle ; le registre ferme ce local en juin 2018 et ouvre celui d'Aytré en décembre 2019.",
+      "blocks": [
+        {
+          "kind": "timeline",
+          "items": [
+            { "date": "Novembre 2007", "text": "Première capture archivée du site sauna-atlantis.com." },
+            { "date": "2011", "text": "Création de la SARL L'Atlantis 17 en octobre, puis ouverture de son établissement du 12, rue de l'Arsenal, à La Rochelle, en décembre." },
+            { "date": "Septembre 2017", "text": "Le site place encore le sauna rue de l'Arsenal, accessible à pied depuis le port ou la place de Verdun." },
+            { "date": "30 juin 2018", "text": "L'établissement de la rue de l'Arsenal est fermé au registre." },
+            { "date": "1er décembre 2019", "text": "Ouverture au registre de l'établissement du 1, rue Thalès, à Aytré." },
+            { "date": "Février 2020", "text": "L'ancienne page Facebook publie chaque jour les horaires du sauna ; le lundi, le vendredi et le samedi y sont déjà mixtes." },
+            { "date": "Juin 2020", "text": "Annonce d'une nouvelle page Facebook, « Sauna Atlantis 17 »." },
+            { "date": "Septembre 2020", "text": "Le site affiche la rue Thalès et le 05 17 26 36 35." },
+            { "date": "Août 2023", "text": "Un avis noté 5/5 sur gayspot décrit un lieu entièrement neuf, sans rapport avec l'ancien local du centre." },
+            { "date": "10 juillet 2026", "text": "Le site ajoute « climatisé » à l'accueil de La Rochelle et passe la « CLIMATISATION » en capitales dans la présentation : c'est sa dernière mise à jour connue." }
+          ]
+        },
+        { "kind": "text", "body": "Le rôle de L'Atlantis 17 est déduit de son nom, de son adresse et de son activité : les mentions légales ne donnent aucun numéro SIREN. On ignore si le sauna a fonctionné entre juin 2018 et décembre 2019, et une vidéo de particulier intitulée « Inauguration », mise en ligne en juin 2020, ne permet pas de dater l'ouverture." },
+        { "kind": "text", "body": "Le même site présente un second établissement, [Le Cantou, à Périgueux](/sauna-le-cantou-perigueux), au 14, rue La Fayette. Cette adresse est celle d'une autre SARL active, L'Atlantis 24, créée en avril 2011 ; un propriétaire commun est probable, mais le registre consulté ne l'établit pas." }
+      ],
+      "sources": ["s8", "s9", "s10", "s11", "s12", "s13", "s14", "s16", "s17", "s23", "s24", "s25"]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Lundi": "12 h – 20 h (mixte)",
+      "Mardi": "12 h – 20 h (100 % gay)",
+      "Mercredi": "12 h – 20 h (100 % gay)",
+      "Jeudi": "12 h – 22 h (nudiste, 100 % gay)",
+      "Vendredi": "12 h – minuit (mixte)",
+      "Samedi": "14 h – minuit (mixte)",
+      "Dimanche": "14 h – 20 h (100 % gay)",
+      "Jours fériés": "14 h – 20 h"
+    },
+    "note": "Fermeture annuelle les 24, 25 et 31 décembre et le 1er janvier. Grille relevée sur le site officiel le 20/10/2026.",
+    "confidence": "confirme",
+    "sources": ["s2", "s18"]
+  },
+  "tarifs": {
+    "rows": {
+      "Homme": "20 €",
+      "Moins de 26 ans": "10 €",
+      "Femme": "6 €",
+      "Carte 10 entrées": "150 € (15 € l'entrée)",
+      "Formule Duo (mercredi)": "28 € les 2 entrées",
+      "Formule Trio (mercredi)": "36 € les 3 entrées",
+      "Entrée + poppers": "29 €",
+      "Pass week-end homme seul": "32 € (2 jours, du vendredi au dimanche)",
+      "Pass week-end couple homme-femme": "37 € (2 jours, du vendredi au lundi)"
+    },
+    "note": "Grille « applicable au 1er mars 2024 », indexée sur les cours de l'énergie selon le site. Une boisson offerte (café, thé ou jus d'orange) et un retour gratuit le jour même, jusqu'à 2 h avant la fermeture. Aucun tarif couple publié pour une seule visite.",
+    "confidence": "source_unique",
+    "sources": ["s2", "s5"]
+  },
+  "equipements": [
+    "Climatisation",
+    "Terrasse de 50 m² (bains de soleil, salon ombragé)",
+    "Vestiaires",
+    "Douches",
+    "Sauna finlandais",
+    "Hammam",
+    "Spa",
+    "Bar avec et sans alcool",
+    "Petite restauration",
+    "Local fumeur",
+    "Boutique",
+    "Cabines de relaxation",
+    "Salle de massages",
+    "Sling",
+    "Backroom",
+    "Glory holes",
+    "Salons vidéo",
+    "Préservatifs et lubrifiants à disposition",
+    "Parking à proximité"
+  ],
+  "officialLinks": [
+    { "label": "Site officiel (La Rochelle)", "url": "https://www.sauna-atlantis.com/la-rochelle/", "kind": "site" },
+    { "label": "Horaires et tarifs", "url": "https://www.sauna-atlantis.com/la-rochelle/horaires-tarifs/", "kind": "autre" },
+    { "label": "Page Facebook « Sauna Atlantis 17 »", "url": "https://www.facebook.com/sauna.atlantis17/", "kind": "facebook" }
+  ],
+  "faq": [
+    {
+      "question": "Le sauna Atlantis de La Rochelle est-il à Aytré ?",
+      "answer": "Oui. Le site parle de La Rochelle, mais le sauna est au 1, rue Thalès, 17440 Aytré, dans la zone industrielle, sur la ligne de bus 1B, avec un parking voisin. Le 12, rue de l'Arsenal, au centre de La Rochelle, est l'ancienne adresse : ce local est fermé au registre depuis le 30 juin 2018."
+    },
+    {
+      "question": "Le sauna Atlantis est-il réservé aux hommes ?",
+      "answer": "Quatre jours sur sept, il est annoncé « 100 % gay » : le mardi, le mercredi, le jeudi (naturiste) et le dimanche. Le lundi, le vendredi et le samedi sont mixtes, ouverts aux gays, aux bis et aux hétéros, femmes et couples compris."
+    },
+    {
+      "question": "Une femme peut-elle venir seule à L'Atlantis ?",
+      "answer": "Oui, les jours mixtes : le site invite les femmes à venir « seules ou accompagnées » le lundi, le vendredi ou le samedi, pour 6 € l'entrée. Pour ne pas faire seule la première visite, vous pouvez [échanger d'abord avec des femmes et des couples de l'Aunis](aff:gleese) sur Gleese, site français lancé fin 2024 dont les photos sont modérées à la main."
+    },
+    {
+      "question": "Combien paie un couple au sauna Atlantis ?",
+      "answer": "Le site ne publie pas de prix d'entrée unique pour un couple homme-femme. Il affiche seulement un pass week-end couple à 37 €, valable deux jours au choix du vendredi au lundi. Pour une seule visite, demandez le tarif au 05 17 26 36 35."
+    },
+    {
+      "question": "Quels sont les horaires du sauna Atlantis ?",
+      "answer": "De 12 h à 20 h du lundi au mercredi, de 12 h à 22 h le jeudi, de 12 h à minuit le vendredi, de 14 h à minuit le samedi, et de 14 h à 20 h le dimanche et les jours fériés. Le sauna ferme les 24, 25 et 31 décembre et le 1er janvier."
+    },
+    {
+      "question": "Quelle note les clients donnent-ils à L'Atlantis ?",
+      "answer": "Des annuaires relaient une note Google de 4,2 à 4,3 sur 5, pour 133 à 146 avis selon la date de leur relevé ; nous ne l'avons pas vérifiée sur Google. Sur gayspot, un avis d'août 2023 noté 5/5 décrit un lieu entièrement neuf, sans rapport avec l'ancien local du centre-ville."
+    }
+  ],
+  "unverified": [
+    "Le prix d'une entrée unique pour un couple homme-femme, hors pass week-end.",
+    "La reconduction de l'offre d'été à -50 %, publiée sans année.",
+    "La note Google, connue seulement par des annuaires (4,2 à 4,3 sur 5, 133 à 146 avis).",
+    "L'activité du sauna entre la fermeture de la rue de l'Arsenal (juin 2018) et l'ouverture d'Aytré (décembre 2019), et la date d'inauguration du local d'Aytré.",
+    "Le rattachement de la SARL L'Atlantis 17 au sauna, et un éventuel propriétaire commun avec Le Cantou de Périgueux.",
+    "Le dress code, la fourniture de serviettes et les jours d'accueil des personnes trans.",
+    "Une trace d'activité de 2026 extérieure au site : avis Google daté ou publication Facebook lisible sans compte."
+  ],
+  "sources": [
+    { "id": "s1", "label": "Site officiel, page « Présentation » (La Rochelle), modifiée le 10/07/2026", "url": "https://www.sauna-atlantis.com/la-rochelle/sauna-gay-la-rochelle/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s2", "label": "Site officiel, « Horaires & Tarifs » (La Rochelle), modifiée le 21/11/2025", "url": "https://www.sauna-atlantis.com/la-rochelle/horaires-tarifs/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s3", "label": "Site officiel, « Accès & Contact » (La Rochelle)", "url": "https://www.sauna-atlantis.com/la-rochelle/acces-contact/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s4", "label": "Site officiel, « Moments libertins »", "url": "https://www.sauna-atlantis.com/la-rochelle/moments-libertins/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s5", "label": "Site officiel, « Nos événements »", "url": "https://www.sauna-atlantis.com/la-rochelle/nos-evenements/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s6", "label": "Site officiel, page « Promo » (offre d'été), modifiée le 06/12/2025", "url": "https://www.sauna-atlantis.com/la-rochelle/promo/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s7", "label": "Site officiel, « Règlement intérieur », modifié le 28/12/2023", "url": "https://www.sauna-atlantis.com/reglement-interieur/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s8", "label": "Site officiel, « Mentions légales », modifiées le 02/04/2020", "url": "https://www.sauna-atlantis.com/mentions-legales/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s9", "label": "Site officiel, accueil et plan du site (dates de mise à jour des pages)", "url": "https://www.sauna-atlantis.com/page-sitemap.xml", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s10", "label": "Site officiel, archive du 10/09/2017 de la page de contact (rue de l'Arsenal)", "url": "https://web.archive.org/web/20170910161402/https://www.sauna-atlantis.com/la-rochelle/acces-contact/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s11", "label": "Site officiel, archive du 22/09/2020 de la page de contact (rue Thalès)", "url": "https://web.archive.org/web/20200922114550/https://www.sauna-atlantis.com/la-rochelle/acces-contact/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s12", "label": "Annuaire des entreprises, L'ATLANTIS 17 (SIREN 537 471 369)", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/537471369", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s13", "label": "Annuaire des entreprises, L'ATLANTIS 24 (SIREN 530 963 644)", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/530963644", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s14", "label": "Ancienne page Facebook « SAUNA Atlantis », publications de février et juin 2020 (copie publique)", "url": "https://www.beautynailhairsalons.com/FR/Aytr%C3%A9/1684089575209763/SAUNA-Atlantis", "type": "reseau_social", "consulted": "2026-10-20" },
+    { "id": "s15", "label": "Page Facebook « Sauna Atlantis 17 » (illisible sans compte)", "url": "https://www.facebook.com/sauna.atlantis17/", "type": "reseau_social", "consulted": "2026-10-20" },
+    { "id": "s16", "label": "YouTube, « Sauna Atlantis 17 Inauguration », vidéo de particulier publiée le 21/06/2020", "url": "https://www.youtube.com/watch?v=C3e46hNKHA8", "type": "autre", "consulted": "2026-10-20" },
+    { "id": "s17", "label": "gayspot.fr, fiche « L'Atlantis » à Aytré et ses avis (2022, 2023)", "url": "https://gayspot.fr/lieu-de-drague-gay/1388-l-atlantis-aytre.html", "type": "avis", "consulted": "2026-10-20" },
+    { "id": "s18", "label": "agendaq.fr, créneaux récurrents du sauna Atlantis", "url": "https://www.agendaq.fr/fr/guide/atlantis-sauna", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s19", "label": "Spartacus, fiche « Atlantis Sauna » (non datée)", "url": "https://spartacus.gayguide.travel/saunas/larochelle/39043_L'Atlantis", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s20", "label": "saunaclublebali.fr, fiche « Sauna Atlantis » du 17/03/2026 (note Google relayée)", "url": "https://www.saunaclublebali.fr/listing/sauna-atlantis-aytre/", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s21", "label": "h2o-saunapourlui.fr, saunas gay de La Rochelle (notes Google relayées)", "url": "https://www.h2o-saunapourlui.fr/saunas-gay/charente-maritime/la-rochelle/", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s22", "label": "kinkyee.fr, « Club Libertin La Rochelle » (note Google relayée)", "url": "https://kinkyee.fr/club-libertin/la-rochelle/", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s23", "label": "Wayback Machine, index des captures de sauna-atlantis.com (2007-2026)", "url": "https://web.archive.org/cdx/search/cdx?url=sauna-atlantis.com", "type": "autre", "consulted": "2026-10-20" },
+    { "id": "s24", "label": "Site officiel, accueil de La Rochelle (« Découvrez l'Atlantis »), modifié le 10/07/2026", "url": "https://www.sauna-atlantis.com/la-rochelle/sauna-gay-et-libertin/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s25", "label": "Site officiel, page « Présentation », archive du 16/04/2026 (avant la mise à jour de juillet)", "url": "https://web.archive.org/web/20260416081810/https://www.sauna-atlantis.com/la-rochelle/sauna-gay-la-rochelle/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s26", "label": "QG Sauna (La Rochelle), site officiel, horaires depuis le 04/09/2026", "url": "https://qgsauna.com/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s27", "label": "Annuaire des entreprises, RJJ SERVICES, enseigne QG SAUNA (SIREN 104 049 713)", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/104049713", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s28", "label": "Angély's Club (Saint-Jean-d'Angély), site officiel, page « Les Soirées » (octobre-décembre 2026)", "url": "https://www.angelysclub.fr/les-soir%C3%A9es/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s29", "label": "Plaisirs d'O (La Rochelle), site officiel, archive du 11/04/2016 (programme d'avril 2016)", "url": "https://web.archive.org/web/20160411105943/http://plaisirsdo.ex-flash.com/", "type": "officiel", "consulted": "2026-10-20" }
+  ]
+}

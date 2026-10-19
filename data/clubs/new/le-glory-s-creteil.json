@@ -1,0 +1,19 @@
+{
+  "id": "new-le-glory-s-creteil",
+  "nom": "Le Glory's",
+  "type": "bar libertin",
+  "types_normalises": ["Bar", "Cinéma", "Gay friendly"],
+  "adresse": "97 bis rue des Bleuets",
+  "code_postal": "94000",
+  "ville": "Créteil",
+  "departement_code": "94",
+  "departement_nom": "Val-de-Marne",
+  "region": "Île-de-France",
+  "pays": "France",
+  "telephone": "0775779488",
+  "email": "leglorys94000@gmail.com",
+  "site_web": "https://leglorys.fr/",
+  "equipements": ["Bar", "Salle vidéo", "Labyrinthe", "Glory holes", "Cabines", "Love room", "Fumoir", "Loveshop", "Parking"],
+  "verification": { "status": "actif" },
+  "addedAt": "2026-10-20"
+}

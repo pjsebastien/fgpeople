@@ -1,0 +1,19 @@
+{
+  "id": "new-la-plume-du-phenix-valence",
+  "nom": "La Plume du Phénix",
+  "type": "spa-club libertin mixte et sauna gay",
+  "types_normalises": ["Club", "Sauna", "Spa & Wellness", "Bar", "Gay friendly"],
+  "adresse": "20 bis rue Jonchère",
+  "code_postal": "26000",
+  "ville": "Valence",
+  "departement_code": "26",
+  "departement_nom": "Drôme",
+  "region": "Auvergne-Rhône-Alpes",
+  "pays": "France",
+  "telephone": "0475429323",
+  "email": "contact@laplumeduphenix.fr",
+  "site_web": "https://www.laplumeduphenix.fr/",
+  "equipements": ["Jacuzzi", "Hammam", "Sauna", "Cabines", "Glory hole", "Backroom", "Labyrinthe", "Salon ou espace vidéo", "Bar licence iv", "Climatisation"],
+  "verification": { "status": "actif" },
+  "addedAt": "2026-10-20"
+}

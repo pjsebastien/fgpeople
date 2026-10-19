@@ -1,0 +1,807 @@
+{
+  "slug": "aloha-club-valence",
+  "clubId": "15563",
+  "researchedAt": "2026-10-16",
+  "display": {
+    "nom": "Aloha Club",
+    "ville": "Valence"
+  },
+  "status": {
+    "value": "ferme",
+    "summary": "Rebaptisé « Club 10 Sauna Hammam » en juillet 2019, l'ancien Aloha Club de la rue Montplaisir a laissé un site figé : sa page d'accueil n'a plus changé d'août 2019 à sa dernière capture, en décembre 2020, et ce domaine n'existe plus. Celui du bar « Le 10 », qui occupait la même salle le week-end, s'est figé dès juillet 2019. aloha-club26.com sert depuis au moins 2021 à un webmagazine sans lien avec le club. L'unique établissement de la SAS PCE, que l'adresse et l'ancien nom désignent comme l'exploitante sans que le registre cite l'enseigne Aloha, est fermé depuis le 30 juin 2022.",
+    "sources": [
+      "s9",
+      "s10",
+      "s13",
+      "s14",
+      "s17",
+      "s38",
+      "s40"
+    ]
+  },
+  "seo": {
+    "title": "Aloha Club à Valence : club libertin fermé, où aller en 2026",
+    "metaDescription": "Ex-Eclypse rebaptisé Club 10 en 2019, l'Aloha Club du 10 rue Montplaisir à Valence est fermé : ses tarifs de 2017, ses après-midi gang-bang, son livre d'or.",
+    "subtitle": "Ancien sauna-club libertin sur deux niveaux, rue Montplaisir à Valence (26), fermé",
+    "targetQueries": [
+      "club libertin valence",
+      "club echangiste valence",
+      "aloha club",
+      "club libertin a valence",
+      "libertin valence",
+      "spa libertin valence",
+      "club libertin bourg les valence"
+    ]
+  },
+  "lead": "L'Aloha Club n'accueille plus personne : rebaptisé « Club 10 Sauna Hammam » en juillet 2019, ce sauna-club libertin du 10 rue Montplaisir n'a plus rien changé à son site ensuite, et l'établissement de sa société présumée exploitante est fermé au registre depuis juin 2022. À Valence, le sauna qui partage les murs de La Plume du Phénix figure parmi les adhérents présentés par le SNEG & Co le 31 août 2026. Nouveau nom de L'Eclypse à partir de septembre 2017, l'Aloha faisait de chaque après-midi de semaine un « gang-bang » à 15 € le couple et 55 € l'homme seul.",
+  "glance": [
+    {
+      "icon": "closed",
+      "label": "Fermé",
+      "value": "Site figé en 2019, registre fermé en 2022"
+    },
+    {
+      "icon": "history",
+      "label": "Enseignes successives",
+      "value": "L'Eclypse, Aloha (2017), Club 10 (2019)"
+    },
+    {
+      "icon": "map",
+      "label": "Ancienne adresse",
+      "value": "10 rue Montplaisir, Valence"
+    },
+    {
+      "icon": "spa",
+      "label": "Équipements (2019)",
+      "value": "Sauna, hammam, 3 coins câlins, glory-hole"
+    },
+    {
+      "icon": "euro",
+      "label": "Après-midi (2017-2019)",
+      "value": "Couple 15 € · homme seul 55 €"
+    },
+    {
+      "icon": "heart",
+      "label": "En ligne en 2026",
+      "value": "Hylas, La Plume du Phénix (Valence)",
+      "confidence": "source_unique"
+    }
+  ],
+  "highlights": [
+    "L'Aloha Club n'ouvre plus : son dernier site, celui du Club 10, n'a plus changé après l'été 2019 et son domaine n'existe plus en octobre 2026.",
+    "aloha-club26.com, encore recopié par des annuaires, héberge depuis 2021 au moins un webmagazine sans lien avec le club : ce n'est plus son site.",
+    "Le 09 80 44 19 62, affiché de 2016 à 2020, n'a pas été testé depuis : ne le prenez pas pour un numéro en service.",
+    "Les annuaires qui donnent « Le 10 », même adresse, ouvert vendredi et samedi soir, recopient un bar-discothèque non libertin, figé depuis juillet 2019.",
+    "À Valence, Hylas (avenue de Verdun) et La Plume du Phénix (rue Jonchère) publient des horaires sans agenda daté : appelez avant de vous déplacer."
+  ],
+  "keyFacts": [
+    {
+      "label": "Enseignes successives",
+      "value": "L'Eclypse, puis Aloha Club (septembre 2017), puis Club 10 Sauna Hammam (juillet 2019)",
+      "confidence": "confirme",
+      "sources": [
+        "s15",
+        "s9",
+        "s10"
+      ]
+    },
+    {
+      "label": "Association au même nom",
+      "value": "« Club Montplaisir », déclarée en 1998 au 10 rue Montplaisir, renommée L'Eclypse en 2001 ; lien avec le club déduit",
+      "confidence": "a_verifier",
+      "sources": [
+        "s35",
+        "s36"
+      ]
+    },
+    {
+      "label": "Dernier site (Club 10)",
+      "value": "Inchangé d'août 2019 à décembre 2020, domaine éteint en 2026",
+      "confidence": "confirme",
+      "sources": [
+        "s10",
+        "s13"
+      ]
+    },
+    {
+      "label": "Week-ends 2018-2019",
+      "value": "Bar-discothèque non libertin « Le 10 » dans la même salle dès le 24/11/2018 (année déduite) ; site figé en juillet 2019",
+      "confidence": "confirme",
+      "sources": [
+        "s38",
+        "s39",
+        "s40",
+        "s41"
+      ]
+    },
+    {
+      "label": "Registre",
+      "value": "SAS PCE, nom commercial L'Eclypse, établissement fermé le 30/06/2022 (lien avec l'Aloha déduit, non écrit au registre)",
+      "confidence": "a_verifier",
+      "sources": [
+        "s17"
+      ]
+    },
+    {
+      "label": "Adresse",
+      "value": "10 rue Montplaisir, 26000 Valence (« 8-10 » au registre)",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s10",
+        "s17"
+      ]
+    },
+    {
+      "label": "Genre de lieu",
+      "value": "Sauna-club libertin climatisé sur deux niveaux, avec sauna et hammam",
+      "confidence": "confirme",
+      "sources": [
+        "s11",
+        "s21"
+      ]
+    },
+    {
+      "label": "Public admis",
+      "value": "Couples, femmes seules et hommes seuls ; un samedi par mois réservé aux couples et aux femmes seules (2017)",
+      "confidence": "confirme",
+      "sources": [
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "label": "Ancien téléphone",
+      "value": "09 80 44 19 62, de 2016 à 2020, non testé depuis",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s10",
+        "s19"
+      ]
+    },
+    {
+      "label": "Surface",
+      "value": "Environ 300 m² selon un annuaire non daté",
+      "confidence": "a_verifier",
+      "sources": [
+        "s21"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "club-10-puis-fermeture",
+      "title": "Rebaptisé Club 10 en juillet 2019, fermé au registre en juin 2022",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Encore en ligne le 6 juillet 2019, le site de l'Aloha renvoie dès le 18 juillet vers club-10-sauna-hammam.com : même adresse, même numéro, même page Facebook, et des pages encore titrées « Aloha Club ». En septembre 2019, le programme se limite aux après-midi de semaine, comme depuis décembre 2018.\n\nLa page des soirées, sortie du menu, montre une affiche « Prochaine soirée Couples en préparation » déjà en ligne en octobre 2018. La page d'accueil reste identique jusqu'à sa dernière capture, le 5 décembre 2020, et le livre d'or, inchangé depuis septembre 2019, est encore archivé le 20 janvier 2021. En octobre 2026, ce domaine n'existe plus.\n\nAu registre, la SAS PCE, nom commercial « L'Eclypse », a son seul établissement au 8-10 rue Montplaisir, fermé le 30 juin 2022, sans que la société soit radiée. « Aloha » et « Club 10 » n'y figurent pas : le rôle d'exploitante de la SAS se déduit de l'adresse, de l'ancien nom et des dates.\n\nL'arrêt réel, qu'aucune annonce n'a daté, a pu précéder cette date administrative. Aucun article de presse régionale n'a été retrouvé, et les guides de 2026 sur Valence et la Drôme ignorent le lieu sous ses trois noms."
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "aloha-club26.com n'est plus le site du club",
+          "body": "Depuis juillet 2021 au moins, ce domaine héberge un webmagazine érotique sans rapport avec le lieu, et l'ancien site de L'Eclypse (sauna-club-eclypse.com) renvoie vers un sauna homonyme de Dieppe."
+        }
+      ],
+      "sources": [
+        "s9",
+        "s10",
+        "s12",
+        "s13",
+        "s14",
+        "s16",
+        "s17",
+        "s25",
+        "s26",
+        "s34",
+        "s42"
+      ],
+      "icon": "closed",
+      "summary": "Rebaptisé Club 10 Sauna Hammam en juillet 2019, le site n'a plus changé jusqu'en décembre 2020 ; l'établissement de la société présumée exploitante est fermé depuis le 30 juin 2022."
+    },
+    {
+      "id": "sortir-a-valence-2026",
+      "title": "La Plume du Phénix et Hylas : soirée mixte à 20 €, thèmes du jeudi au samedi",
+      "blocks": [
+        {
+          "kind": "list",
+          "items": [
+            "**[Hylas](/club-hylas-valence-balneo)**, 40 avenue de Verdun, se dit sauna libertin : ouvert chaque jour jusqu'à 19 h (dès 12 h en semaine, 14 h le week-end), avec des soirées à thème du jeudi au samedi de 21 h à 2 h. Sa société, immatriculée en 1997, est active ; le site ne porte aucune date.",
+            "**[La Plume du Phénix](/la-plume-du-phenix-valence)**, 20 bis rue Jonchère, spa-club libertin mixte, annonce jacuzzi, hammam, sauna, backroom et salle de cinéma. Vendredi et samedi de 21 h à 2 h : 50 € le couple comme l'homme seul, 10 € la femme seule ; lundi, mardi et jeudi de 19 h à 1 h, soirée mixte à 20 €. Le 31 août 2026, le syndicat SNEG & Co a présenté le sauna qui partage ses murs parmi ses adhérents (depuis 2024) ; le site n'affiche toujours aucun agenda.",
+            "**Le Phénix Sauna & Spa Club**, à la même adresse, réserve ses après-midi aux hommes."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Pour un premier vendredi rue Jonchère, [échanger avec des couples drômois sur Carré Libertin](aff:carre-libertin), en ligne depuis 2007, ne coûte rien aux couples ni aux femmes qui publient trois photos de profil.\n\nUn guide de mars 2026 cite aussi le Domaine du Manson, à Sauzet : une page Facebook porte son nom et une société « Le Manson », débit de boissons de la commune, est active depuis 2016, mais aucun site officiel ni aucune soirée datée n'a été trouvé.\n\nÀ Bourg-lès-Valence, le Liberty-Naje, rebaptisé [Le Sandy's au 1er mars 2016](/le-sandy-s-bourg-les-valence), a annoncé sa fermeture le 25 mars suivant, et L'Ile du Levant n'a plus de site actif. Voir aussi [les lieux libertins de Valence](/ville/valence)."
+        }
+      ],
+      "sources": [
+        "s29",
+        "s30",
+        "s27",
+        "s28",
+        "s26",
+        "s31",
+        "s32",
+        "s47",
+        "s46",
+        "s48",
+        "s49"
+      ],
+      "icon": "map",
+      "summary": "Hylas ouvre chaque après-midi, avec des soirées du jeudi au samedi ; La Plume du Phénix reçoit cinq soirs sur sept, et son sauna jumeau est cité par le SNEG & Co le 31 août 2026."
+    },
+    {
+      "id": "le-10-discotheque-2018",
+      "title": "Le 10 : une discothèque généraliste dans la salle de l'Aloha dès novembre 2018",
+      "blocks": [
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "Novembre 2017",
+              "text": "Les soirées du jeudi et du vendredi quittent le programme de l'Aloha ; reste le samedi, de 22 h à 5 h, pour les couples et les femmes seules."
+            },
+            {
+              "date": "24 novembre 2018",
+              "text": "« Le 10 », « club privé - discothèque », ouvre à la même adresse le vendredi et le samedi dès 22 h 30, avec entrée gratuite pour les femmes. Le site dit « nouveau à compter du 24 novembre » sans l'année, déduite de sa première capture, en décembre 2018."
+            },
+            {
+              "date": "Décembre 2018",
+              "text": "Le samedi soir disparaît à son tour du programme de l'Aloha, réduit aux après-midi de semaine."
+            },
+            {
+              "date": "Avril-mai 2019",
+              "text": "Le 10 devient un bar ouvert le samedi, avec karaoké dès 21 h et entrée gratuite ; le vendredi, seulement pour des groupes."
+            },
+            {
+              "date": "Juillet 2019",
+              "text": "Le bar annonce une fermeture estivale jusqu'au 24 août, puis son site ne change plus ; l'Aloha prend le nom de Club 10 Sauna Hammam."
+            }
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Rien de libertin sur le site du 10, qui se présente comme une « petite discothèque traditionnelle » : un DJ, les tubes des années 80 à 2000, un droit d'entrée réservé. Sa carte pointe le 10 rue Montplaisir, et ses photos montrent le salon de l'Aloha, reconnaissable à ses grands miroirs cerclés de LED.\n\nAucune source ne dit qui exploitait ce bar. Le titre « Club 10 » de son site, en décembre 2018, précède pourtant de sept mois le nouveau nom du sauna. Un annuaire d'horaires le donne encore ouvert le vendredi et le samedi soir : il recopie la grille de 2018, et le domaine du bar n'existe plus en octobre 2026."
+        }
+      ],
+      "sources": [
+        "s42",
+        "s38",
+        "s39",
+        "s41",
+        "s40",
+        "s43"
+      ],
+      "icon": "music",
+      "summary": "Dès le 24 novembre 2018, la salle accueille le week-end « Le 10 », discothèque puis bar karaoké sans rien de libertin, pendant que l'Aloha se replie sur ses après-midi."
+    },
+    {
+      "id": "eclypse-aloha-club-10",
+      "title": "L'Eclypse, l'Aloha, le Club 10 : trois enseignes au 10 rue Montplaisir",
+      "blocks": [
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "26 novembre 1998",
+              "text": "Une association « Club Montplaisir », vouée à « promouvoir le relationnel entre individus », est déclarée au 10 rue Montplaisir."
+            },
+            {
+              "date": "6 juin 2001",
+              "text": "Elle prend le nom de L'Eclypse, selon le Journal officiel, qui ne la relie pas expressément au club."
+            },
+            {
+              "date": "2003",
+              "text": "Premières archives du site de L'Eclypse, dont la date d'ouverture reste inconnue."
+            },
+            {
+              "date": "18 mars 2016",
+              "text": "Création de la SAS PCE, nom commercial « L'Eclypse », au 8-10 rue Montplaisir."
+            },
+            {
+              "date": "Août 2016",
+              "text": "Une nouvelle propriétaire, « Pat », annonce le 09 80 44 19 62, qui remplace le 04 75 56 57 52."
+            },
+            {
+              "date": "25 août - 10 septembre 2017",
+              "text": "Fermeture pour travaux."
+            },
+            {
+              "date": "11 septembre 2017",
+              "text": "Réouverture annoncée par « Pat et François », sous le nom d'Aloha Club."
+            },
+            {
+              "date": "18 juillet 2019",
+              "text": "Première redirection archivée du site de l'Aloha vers celui du Club 10 Sauna Hammam ; le 6 juillet, il répondait encore sous son nom."
+            }
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le nouveau nom arrive avec une identité visuelle tropicale (palmiers et fleur d'hibiscus sur la bannière d'accueil), sur un site qui garde pourtant la page Facebook « Leclypse » et, caché dans son code, l'ancien texte d'accueil."
+        }
+      ],
+      "sources": [
+        "s16",
+        "s17",
+        "s18",
+        "s19",
+        "s15",
+        "s1",
+        "s9",
+        "s35",
+        "s36"
+      ],
+      "icon": "history",
+      "summary": "Nom d'une association de l'adresse dès 2001, L'Eclypse, reprise en 2016 par « Pat », devient l'Aloha Club en septembre 2017, puis le Club 10 Sauna Hammam en juillet 2019."
+    },
+    {
+      "id": "sauna-hammam-piste-de-danse",
+      "title": "Sauna, hammam et serviette l'après-midi, une piste de danse rayée de la liste en 2019",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "En 2017 comme en 2019, la page « Le Club » décrivait un lieu « cocooning », climatisé, sur deux niveaux : sauna, hammam, trois coins câlins, un glory-hole (une « cabane », selon un client), deux douches, un bar et des vestiaires.\n\nLa piste de danse, listée en 2017, n'y figure plus en 2019. En semaine, l'ambiance était « Sauna-Hammam, serviette, détente ».\n\nUn annuaire de l'époque Eclypse plaçait le vendredi et le samedi soir côté discothèque, avec podium, barre, DJ résident et environ 300 m² : rien de cela n'est confirmé par le site de l'Aloha.\n\nDu lundi au vendredi, des massages (huiles essentielles, relaxation, « body-body ») étaient proposés en supplément, par trois masseuses en 2017, deux en 2019. Tenue demandée : « sexy » pour elles, « élégante » pour eux. La galerie photo n'a pas été archivée."
+        }
+      ],
+      "sources": [
+        "s33",
+        "s11",
+        "s7",
+        "s21",
+        "s4",
+        "s2",
+        "s5",
+        "s20"
+      ],
+      "icon": "spa",
+      "summary": "Deux niveaux climatisés avec sauna, hammam, trois coins câlins, glory-hole et bar ; la piste de danse listée en 2017 disparaît en 2019. Massages en supplément en semaine."
+    },
+    {
+      "id": "gang-bang-apres-midi",
+      "title": "L'après-midi « gang-bang » : 15 € le couple, 55 € l'homme seul",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "En octobre 2017, chaque après-midi de semaine était un « gang-bang » où l'homme seul payait plus de trois fois et demie le prix d'un couple, la femme seule entrant gratuitement ; la soirée lounge du vendredi, affichée en octobre 2017 seulement, ne lui coûtait que 10 €.\n\nS'y ajoutaient une journée « Gang bang bisexuel » de 14 h à 23 h avec buffet froid (60 € l'homme seul, 20 € les travestis), une journée « BI Love » le 10 octobre 2017 et, en juin 2018, un « Méga-GB » à 60 €.\n\nLe site affichait des bannières Netechangisme et Wyylde, et offrait en 2019 aux clients non abonnés une semaine gratuite sur Wyylde, « en partenariat » avec lui. Le club a disparu ; la plateforme publie toujours son agenda, et un compte gratuit sur l'ex-Netechangisme, renommé en 2018, suffit pour [parcourir l'agenda des soirées libertines](aff:wyylde) et y chercher la Drôme."
+        }
+      ],
+      "sources": [
+        "s2",
+        "s3",
+        "s6",
+        "s1",
+        "s8",
+        "s10",
+        "s42"
+      ],
+      "icon": "euro",
+      "summary": "En octobre 2017, l'après-midi gang-bang coûtait 15 € au couple et 55 € à l'homme seul, la femme seule entrant gratuitement ; le vendredi soir lounge, 10 € pour l'homme seul."
+    },
+    {
+      "id": "livre-d-or-2017-2018",
+      "title": "Le livre d'or de l'Aloha : 23 messages, le dernier en août 2018",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Seul retour de clients disponible, le livre d'or hébergé par le club reste une vitrine. Sur ses 23 messages, les treize premiers portent la date du 28 août 2017, en pleine fermeture pour travaux : sans doute d'anciens messages de L'Eclypse ressaisis. Les dix autres vont de mars à août 2018.\n\nIls louent la propreté, la petite taille du lieu, l'accueil par le couple de gérants ; leurs auteurs signent de Valence, de Grenoble, de Montélimar, et même d'Alsace. Seules réserves : une musique trop forte, un mercredi morne pour un homme seul sous l'ancienne direction. Aucune note publique avec nombre d'avis n'a été retrouvée."
+        }
+      ],
+      "sources": [
+        "s7",
+        "s15"
+      ],
+      "icon": "star",
+      "summary": "23 messages hébergés par le club, datés de 2017 à août 2018 : propreté, petit lieu, accueil des gérants. Aucune note publique avec nombre d'avis n'a été retrouvée."
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Lundi au vendredi, après-midi": "14 h 30 - 19 h",
+      "Jeudi soir (« Jeudis coquins »)": "à partir de 20 h 30",
+      "Vendredi soir (« Ambiance lounge »)": "à partir de 20 h 30",
+      "Deuxième samedi du mois": "22 h - 5 h, couples et femmes seules"
+    },
+    "note": "Grille publiée en octobre 2017, conservée pour mémoire : le lieu est fermé. Les soirées du jeudi et du vendredi quittent le programme dès novembre 2017, le samedi soir en décembre 2018 ; les après-midi n'avaient pas changé en septembre 2019.",
+    "confidence": "confirme",
+    "sources": [
+      "s2",
+      "s3",
+      "s8",
+      "s12",
+      "s42"
+    ]
+  },
+  "tarifs": {
+    "rows": {
+      "Après-midi, couple": "15 €, sans consommation",
+      "Après-midi, femme seule": "gratuit, 1 consommation",
+      "Après-midi, homme seul": "55 €, 1 consommation",
+      "Jeudi soir": "couple 15 €, femme seule gratuite, homme seul 50 €",
+      "Vendredi soir": "couple et femme seule gratuits, homme seul 10 €",
+      "Deuxième samedi du mois": "couple 35 €, femme seule gratuite, cocktail de bienvenue",
+      "Massage (en semaine)": "entrée 55 €, 1 consommation, massage en supplément (prix non affiché)"
+    },
+    "note": "Tarifs affichés en octobre 2017 (soirées du jeudi et du vendredi retirées dès novembre 2017) ; ceux des après-midi étaient identiques en septembre 2019.",
+    "confidence": "confirme",
+    "sources": [
+      "s2",
+      "s3",
+      "s4",
+      "s12",
+      "s42"
+    ]
+  },
+  "equipements": [
+    "Sauna",
+    "Hammam",
+    "Trois coins câlins",
+    "Glory-hole",
+    "Deux douches",
+    "Bar",
+    "Vestiaires",
+    "Piste de danse",
+    "Massages en semaine",
+    "Climatisation"
+  ],
+  "officialLinks": [
+    {
+      "label": "Ancien site de l'Aloha Club, archive d'octobre 2017",
+      "url": "https://web.archive.org/web/20171018140100/http://www.aloha-club26.com:80/",
+      "kind": "site"
+    }
+  ],
+  "corrections": {
+    "email": "",
+    "site_web": "",
+    "sources": [
+      "s14",
+      "s5"
+    ]
+  },
+  "faq": [
+    {
+      "question": "L'Aloha Club de Valence est-il toujours ouvert ?",
+      "answer": "Non. Renommé « Club 10 Sauna Hammam » en 2019, son site n'a plus changé après l'été 2019, et l'établissement inscrit au registre à son adresse est fermé depuis le 30 juin 2022."
+    },
+    {
+      "question": "Le 10, au 10 rue Montplaisir à Valence, est-il un club libertin ?",
+      "answer": "Non. « Le 10 » était une discothèque généraliste, devenue bar karaoké du samedi en 2019, installée à partir du 24 novembre 2018 dans la salle de l'Aloha. Son site n'a plus changé après juillet 2019 et son domaine n'existe plus : les horaires du vendredi et du samedi soir qu'affiche encore un annuaire sont périmés."
+    },
+    {
+      "question": "Quel était l'ancien nom de l'Aloha Club ?",
+      "answer": "L'Eclypse. Ce nom est porté dès juin 2001 par une association du 10 rue Montplaisir, et le site du sauna-club L'Eclypse est archivé de 2003 à 2017. Le lieu devient l'Aloha Club le 11 septembre 2017, puis Club 10 Sauna Hammam en juillet 2019."
+    },
+    {
+      "question": "Quel club échangiste reste ouvert à Valence ?",
+      "answer": "Deux adresses affichent des horaires sur leur site, sans agenda daté : [le sauna libertin Hylas](/club-hylas-valence-balneo), avec soirées à thème du jeudi au samedi, et La Plume du Phénix, rue Jonchère, ouverte le soir cinq jours sur sept. Le sauna qui partage les murs de cette dernière figure parmi les adhérents annoncés par le SNEG & Co le 31 août 2026."
+    },
+    {
+      "question": "Y a-t-il un spa libertin à Valence ?",
+      "answer": "L'Aloha proposait sauna et hammam, mais aucun jacuzzi n'apparaît dans ses pages. La Plume du Phénix, rue Jonchère, en annonce un. D'autres villes figurent dans notre [sélection de spas libertins](/spa-libertin)."
+    },
+    {
+      "question": "Existe-t-il un club libertin ouvert à Bourg-lès-Valence ?",
+      "answer": "L'Aloha était à Valence même. À Bourg-lès-Valence, le Liberty-Naje, devenu Le Sandy's en mars 2016, a annoncé sa fermeture le 25 mars 2016 ; L'Ile du Levant n'a plus de site en octobre 2026, et un annuaire la disait fermée dès 2019 : voyez la [page Drôme](/departement/drome). Sans club confirmé, [un compte vérifié par SMS sur Gleese](aff:gleese) s'ouvre sans carte bancaire ; lancé fin 2024, le site a encore moins de membres que ses aînés."
+    }
+  ],
+  "unverified": [
+    "La date du dernier jour d'ouverture : aucune annonce publique de fermeture n'a été retrouvée.",
+    "Le rattachement de la SAS PCE à l'enseigne Aloha : le registre ne connaît que le nom commercial « L'Eclypse ».",
+    "La date d'ouverture de L'Eclypse : les archives du site remontent à 2003, mais les pages d'alors sont en images ou en Flash, sans texte lisible.",
+    "Les horaires d'un annuaire daté de 2018 (jeudi 21 h - 2 h, vendredi 20 h 30 - 2 h, week-end fermé), qui divergent de la grille officielle de 2017.",
+    "Une éventuelle fiche Google du lieu et sa note : une recherche d'octobre 2026 n'a fait remonter ni note, ni mention de fermeture, ni article de presse régionale.",
+    "La page Facebook « Leclypse », vers laquelle renvoyaient les sites, n'est pas lisible sans compte.",
+    "Qui exploitait le bar « Le 10 » (2018-2019), et s'il s'agissait de l'équipe de l'Aloha : aucune source ne le dit.",
+    "Le rôle de l'association L'Eclypse, déclarée en 1998 sous le nom de Club Montplaisir, dans l'exploitation du club : le Journal officiel ne publie que son objet et son adresse.",
+    "L'équipement BDSM que lui prêtait notre ancienne fiche : aucune source, officielle ou d'annuaire, n'en parle, et il a été retiré.",
+    "Le lien entre la société « Le Manson » de Sauzet et le Domaine du Manson : il repose sur le nom et la commune, le registre ne citant pas d'enseigne libertine."
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Site officiel aloha-club26.com, page d'accueil (archive du 18/10/2017)",
+      "url": "https://web.archive.org/web/20171018140100/http://www.aloha-club26.com:80/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s2",
+      "label": "Site officiel, « Programme / Tarifs » (archive du 18/10/2017)",
+      "url": "https://web.archive.org/web/20171018135048/http://www.aloha-club26.com:80/agenda.php",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s3",
+      "label": "Site officiel, « Soirées à thème » (archive du 18/10/2017)",
+      "url": "https://web.archive.org/web/20171018135024/http://www.aloha-club26.com:80/privee.php",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s4",
+      "label": "Site officiel, « Massages » (archives du 20/10/2017 et du 22/10/2019)",
+      "url": "https://web.archive.org/web/20171020041610/http://www.aloha-club26.com:80/massages.php",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s5",
+      "label": "Site officiel, « Contact » et « Galerie » (archives du 20/10/2017)",
+      "url": "https://web.archive.org/web/20171020041540/http://www.aloha-club26.com:80/contact.php",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s6",
+      "label": "Site officiel, « Après-midi » (archive du 03/06/2018)",
+      "url": "https://web.archive.org/web/20180603133637/http://www.aloha-club26.com:80/apresmidi.php",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s7",
+      "label": "Livre d'or du site officiel (archives du 10/12/2017 et du 22/10/2019)",
+      "url": "https://web.archive.org/web/20191022043440/http://www.club-10-sauna-hammam.com/livrdor/livre_lire.php?pg=1&lng_sel=lg01_fr",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s8",
+      "label": "Site officiel, accueil et programme (archives des 19 et 26/06/2019)",
+      "url": "https://web.archive.org/web/20190619102331/http://www.aloha-club26.com:80/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s9",
+      "label": "Wayback Machine, historique des captures de aloha-club26.com (dernière page servie le 06/07/2019, redirections dès le 18/07/2019)",
+      "url": "https://web.archive.org/web/20190730150513/http://www.aloha-club26.com:80/agenda.php",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s10",
+      "label": "Site officiel club-10-sauna-hammam.com, accueil (archives du 24/08/2019 au 05/12/2020)",
+      "url": "https://web.archive.org/web/20190824084328/http://www.club-10-sauna-hammam.com/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s11",
+      "label": "Site du Club 10, « Le Club » (archive du 23/09/2019)",
+      "url": "https://web.archive.org/web/20190923053342/http://www.club-10-sauna-hammam.com/club.php",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s12",
+      "label": "Site du Club 10, « Programme / Tarifs » et « Soirées » (archives des 23/09 et 22/10/2019)",
+      "url": "https://web.archive.org/web/20191022042141/http://www.club-10-sauna-hammam.com/privee.php",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s13",
+      "label": "Historique des captures de club-10-sauna-hammam.com (accueil jusqu'au 05/12/2020, livre d'or jusqu'au 20/01/2021) et vérification DNS du domaine",
+      "url": "https://web.archive.org/cdx/search/cdx?url=club-10-sauna-hammam.com&fl=timestamp,statuscode&collapse=timestamp:6",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s14",
+      "label": "aloha-club26.com repris par un webmagazine érotique (archive du 27/07/2021 et vérification en ligne)",
+      "url": "https://web.archive.org/web/20210727122541/https://www.aloha-club26.com/",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s15",
+      "label": "Site officiel de L'Eclypse, annonces de l'été 2017 (archives des 21/08, 11/09 et 22/10/2017)",
+      "url": "https://web.archive.org/web/20170911182810/http://www.sauna-club-eclypse.com/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s16",
+      "label": "Historique des captures de sauna-club-eclypse.com (depuis 2003) et état du domaine",
+      "url": "https://web.archive.org/cdx/search/cdx?url=sauna-club-eclypse.com&fl=timestamp,statuscode&collapse=timestamp:6",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s17",
+      "label": "Annuaire des entreprises, SAS PCE (SIREN 820132058)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/820132058",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s18",
+      "label": "clubech.fr, fiche « L'Eclypse Valence » (archive du 15/03/2016)",
+      "url": "https://web.archive.org/web/20160315131841/http://www.clubech.fr/eclypse-valence/",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s19",
+      "label": "clubech.fr, fiche « l'Aloha Club à Valence » et commentaire du 06/08/2016 (archive du 21/09/2019)",
+      "url": "https://web.archive.org/web/20190921093945/http://www.clubech.fr/eclypse-valence/",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s20",
+      "label": "sauna-club-libertin.com, fiche « ALOHA CLUB » (non datée)",
+      "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_3.php?id=15563&d=26",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s21",
+      "label": "sauna-club-libertin.com, fiche « L'ECLYPSE » (non datée, avant 2017)",
+      "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_3.php?id=59&d=26",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s25",
+      "label": "kinkyee.fr, « Club Libertin Valence » (guide 2026)",
+      "url": "https://kinkyee.fr/club-libertin/valence/",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s26",
+      "label": "saunaclublebali.fr, « Clubs Libertins Drôme (26) » (15/03/2026)",
+      "url": "https://www.saunaclublebali.fr/clubs-libertins-drome-26/",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s27",
+      "label": "Site officiel de La Plume du Phénix",
+      "url": "https://www.laplumeduphenix.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s28",
+      "label": "Site officiel du Phénix Sauna & Spa Club",
+      "url": "https://www.lephenixsauna.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s29",
+      "label": "Site officiel de Hylas",
+      "url": "https://hylaslibertins.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s30",
+      "label": "Annuaire des entreprises, Hylas Club Sauna (SIREN 413275934)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/413275934",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s31",
+      "label": "Annuaire des entreprises, Le Manson à Sauzet (SIREN 815255955)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/815255955",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s32",
+      "label": "Vérification des sites de L'Ile du Levant, Liberty-Naje et Le Sandy's (Bourg-lès-Valence)",
+      "url": "http://www.sandys.fr/",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s33",
+      "label": "Site officiel, « Le Club » (archive du 20/10/2017)",
+      "url": "https://web.archive.org/web/20171020041635/http://www.aloha-club26.com:80/club.php",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s34",
+      "label": "Wayback Machine, affiche « Prochaine soirée Couples en préparation » archivée le 21/10/2018",
+      "url": "https://web.archive.org/web/20181021133520/http://aloha-club26.com/img/preparation.jpg",
+      "type": "autre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s35",
+      "label": "Journal officiel des associations, création de « Club Montplaisir » au 10 rue Montplaisir (déclaration du 26/11/1998)",
+      "url": "https://www.journal-officiel.gouv.fr/pages/associations-detail-annonce/?q.id=id:199900010609",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s36",
+      "label": "Journal officiel des associations, changement de titre en « L'Eclypse » (déclaration du 06/06/2001)",
+      "url": "https://www.journal-officiel.gouv.fr/pages/associations-detail-annonce/?q.id=id:200100310663",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s38",
+      "label": "Site club-10.fr du bar-discothèque « Le 10 », page d'accueil (archives du 21/12/2018 au 28/01/2020)",
+      "url": "https://web.archive.org/web/20181221210403/http://club-10.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s39",
+      "label": "Site club-10.fr, pages « Le club » et « Contact » (archives de septembre 2019) et affiche du karaoké",
+      "url": "https://web.archive.org/web/20190913212511/http://club-10.fr/contact.php",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s40",
+      "label": "Historique des captures de club-10.fr et vérification DNS du domaine",
+      "url": "https://web.archive.org/cdx/search/cdx?url=club-10.fr&fl=timestamp,statuscode,digest",
+      "type": "autre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s41",
+      "label": "Photos de la salle : visite de l'Aloha (archive du 21/10/2018) et galerie du 10 (archive du 14/10/2020)",
+      "url": "https://web.archive.org/web/20201014010130/http://club-10.fr/img/club/10.jpg",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s42",
+      "label": "Site officiel, versions successives de « Programme / Tarifs » (archives du 18/11/2017 au 23/04/2019)",
+      "url": "https://web.archive.org/web/20181216170644/http://aloha-club26.com/agenda.php",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s43",
+      "label": "horairesdouverture24.fr, fiche « Le 10 » (non datée)",
+      "url": "https://www.horairesdouverture24.fr/filiale/Valence-Le%252010-4597783G.html",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s46",
+      "label": "Page Facebook « Domaine du manson club libertin » (titre seul lisible sans connexion)",
+      "url": "https://www.facebook.com/profile.php?id=100038880287088",
+      "type": "reseau_social",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s47",
+      "label": "SNEG & Co, « Le Phenix », rubrique « Ils ont rejoint le SNEG & Co » (31/08/2026)",
+      "url": "https://www.snegandco.fr/le-phenix/",
+      "type": "autre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s48",
+      "label": "Site officiel du Sandy's, annonce de fermeture du 25/03/2016 (archive du 01/08/2016)",
+      "url": "http://web.archive.org/web/20160801192938/http://www.sandys.fr:80/Page%20web/accueil.htm",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s49",
+      "label": "Site officiel du Liberty-Naje, lettre « Au revoir » annonçant qu'il « deviendra à partir du 1er mars le Sandy's » (archive du 08/03/2016)",
+      "url": "http://web.archive.org/web/20160308123811/http://liberty-naje.fr:80/pages_webs/2016-02-fevrier/Aurevoir.htm",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    }
+  ]
+}

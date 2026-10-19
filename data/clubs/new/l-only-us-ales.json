@@ -1,0 +1,19 @@
+{
+  "id": "new-l-only-us-ales",
+  "nom": "L'Only-US",
+  "type": "club libertin",
+  "types_normalises": ["Club", "Sauna", "Spa & Wellness"],
+  "adresse": "1115 route d'Uzès",
+  "code_postal": "30100",
+  "ville": "Alès",
+  "departement_code": "30",
+  "departement_nom": "Gard",
+  "region": "Occitanie",
+  "pays": "France",
+  "telephone": "0610392937",
+  "email": "contact@lonlyus.com",
+  "site_web": "https://lonlyus.com/",
+  "equipements": ["Bar", "Piste de dance", "Sauna", "Hammam", "Jacuzzi"],
+  "verification": { "status": "actif" },
+  "addedAt": "2026-10-20"
+}

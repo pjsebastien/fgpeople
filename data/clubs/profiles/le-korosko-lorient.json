@@ -1,0 +1,843 @@
+{
+  "slug": "le-korosko-lorient",
+  "clubId": "new-le-korosko-lorient",
+  "researchedAt": "2026-10-20",
+  "display": {
+    "nom": "Le Korosko",
+    "ville": "Lorient"
+  },
+  "status": {
+    "value": "ouvert",
+    "summary": "« Réouverture le 1er juin à 15 heures » : l'annonce figurait sur l'accueil du site le 6 juin 2026, après la vente du fonds à une nouvelle SARL Le Korosko, en activité depuis cette date selon le registre. Le site a été remanié depuis (soirée naturiste le jeudi, ouverture à 14 h à partir du 1er octobre) et répondait encore le 20 octobre 2026.",
+    "sources": [
+      "s9",
+      "s12",
+      "s13",
+      "s1"
+    ]
+  },
+  "seo": {
+    "title": "Le Korosko à Lorient : sauna gay et libertin, jours et tarifs",
+    "metaDescription": "Journées gays, lundi et vendredi mixtes, mercredi TTC, soirées couples deux samedis par mois : prix par jour et reprise de juin 2026 du sauna de Lorient.",
+    "subtitle": "Sauna gay et libertin avec jacuzzi de 20 à 25 places, rue Lazare Carnot à Lorient (56)",
+    "targetQueries": [
+      "korosko lorient",
+      "le korosko lorient",
+      "sauna libertin lorient",
+      "club libertin lorient",
+      "club echangiste lorient",
+      "sauna gay lorient",
+      "le korosko tarifs",
+      "korosko avis",
+      "korosko soirée couple",
+      "libertine lorient"
+    ]
+  },
+  "lead": "Quatre jours par semaine, le Korosko est un sauna gay réservé aux hommes ; le lundi et le vendredi, il devient mixte, le mercredi s'ouvre à toutes les orientations et deux samedis soir par mois vont aux couples. Ce sauna « gays et échangistes », ainsi présenté depuis au moins 2005, a été vendu en mai 2026 à une nouvelle société du même nom et a rouvert le 1er juin. En octobre 2026, c'est le seul lieu libertin de Lorient dont l'activité est établie.",
+  "glance": [
+    {
+      "icon": "calendar",
+      "label": "Ouvert",
+      "value": "Tous les jours dès 14 h (15 h l'été)"
+    },
+    {
+      "icon": "users",
+      "label": "Entre hommes",
+      "value": "Mardi, jeudi, samedi, dimanche"
+    },
+    {
+      "icon": "couple",
+      "label": "Couples et femmes",
+      "value": "Lundi, mercredi, vendredi, 2 samedis soir"
+    },
+    {
+      "icon": "euro",
+      "label": "Homme seul, 31 ans et +",
+      "value": "17 € jour gay · 36 € lundi · 46 € vendredi"
+    },
+    {
+      "icon": "spa",
+      "label": "Balnéo",
+      "value": "Jacuzzi 20/25 places, hammam double"
+    },
+    {
+      "icon": "history",
+      "label": "Nouvel exploitant",
+      "value": "Depuis le 1er juin 2026"
+    }
+  ],
+  "audience": [
+    {
+      "who": "couples",
+      "status": "selon",
+      "detail": "Lundi, mercredi, vendredi, et soirées couples des 1er et 3e samedis (21 h - 2 h)",
+      "price": "17 à 36 €"
+    },
+    {
+      "who": "femmes",
+      "status": "selon",
+      "detail": "Mêmes créneaux que les couples ; les quatre autres jours sont réservés aux hommes",
+      "price": "6 à 11 €"
+    },
+    {
+      "who": "hommes",
+      "status": "oui",
+      "detail": "Tous les jours ; aux soirées couples, seulement dans un trio formé à l'avance",
+      "price": "7 à 46 €"
+    },
+    {
+      "who": "trans",
+      "status": "selon",
+      "detail": "Nommées dans l'accueil du mercredi TTC ; la grille ne leur fixe pas de tarif"
+    }
+  ],
+  "highlights": [
+    "Le samedi en journée est réservé aux hommes : les couples n'entrent que le soir des 1er et 3e samedis du mois, de 21 h à 2 h.",
+    "Un homme seul de 31 ans et plus paie 17 € un jour gay, mais 36 € le lundi et 46 € le vendredi, quand couples et femmes sont admis.",
+    "Chaussures de ville, baskets, escarpins et talons sont interdits au-delà des vestiaires.",
+    "Le bar ne sert pas d'alcool ; d'après une affiche de la galerie officielle, café et thé sont gratuits en libre-service.",
+    "Grille non datée et revue depuis mars 2026 (trio de deux femmes et un homme passé de 58 à 47 €) : confirmez prix et soirées au 02 97 35 07 50."
+  ],
+  "keyFacts": [
+    {
+      "label": "Type",
+      "value": "Sauna gay et libertin, « gays et échangistes » selon le site",
+      "confidence": "confirme",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "label": "Adresse",
+      "value": "18 rue Lazare Carnot, 56100 Lorient",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s12"
+      ]
+    },
+    {
+      "label": "Ouverture",
+      "value": "Tous les jours dès 14 h, 15 h du 1er mai au 30 septembre",
+      "confidence": "confirme",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "label": "Public admis",
+      "value": "Hommes tous les jours ; couples et femmes lundi, mercredi, vendredi et deux samedis soir par mois",
+      "confidence": "confirme",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "label": "Entrée homme seul",
+      "value": "11 à 17 € les jours gays, 36 € le lundi, 46 € le vendredi",
+      "confidence": "confirme",
+      "sources": [
+        "s2",
+        "s18"
+      ]
+    },
+    {
+      "label": "Entrée couple",
+      "value": "17 € le lundi, jusqu'à 36 € en soirée couples",
+      "confidence": "confirme",
+      "sources": [
+        "s2",
+        "s18"
+      ]
+    },
+    {
+      "label": "Exploitant",
+      "value": "SARL Le Korosko, créée le 16/02/2026, en activité depuis le 01/06/2026",
+      "confidence": "confirme",
+      "sources": [
+        "s12",
+        "s13"
+      ]
+    },
+    {
+      "label": "Origine",
+      "value": "Société historique créée le 02/10/1999 ; site en ligne dès janvier 2005",
+      "confidence": "confirme",
+      "sources": [
+        "s11",
+        "s5"
+      ]
+    },
+    {
+      "label": "Surface",
+      "value": "300 m² selon le Petit Futé (2024)",
+      "confidence": "source_unique",
+      "sources": [
+        "s16"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "vente-mai-2026-reouverture",
+      "title": "Vendu 120 000 € le 12 mai 2026, rouvert le 1er juin à 15 h",
+      "icon": "building",
+      "summary": "Un acte du 12 mai 2026 a cédé le fonds à une nouvelle SARL du même nom, créée en février ; le sauna a rouvert le 1er juin et son site a changé depuis.",
+      "blocks": [
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "18 juin 2025",
+              "text": "Le mercredi devient journée TTC, de 15 h à 20 h."
+            },
+            {
+              "date": "1er octobre 2025",
+              "text": "Retour de l'ouverture à 14 h pour l'hiver."
+            },
+            {
+              "date": "16-22 mars 2026",
+              "text": "Fermeture pour vacances, réouverture annoncée le lundi 23 mars à 14 h."
+            },
+            {
+              "date": "12 mai 2026",
+              "text": "Vente du fonds par acte authentique, 120 000 €, à une SARL Le Korosko créée le 16 février 2026."
+            },
+            {
+              "date": "1er juin 2026",
+              "text": "Réouverture à 15 h, date de début d'activité déclarée par le repreneur."
+            },
+            {
+              "date": "9 juin 2026",
+              "text": "Publication de la vente au BODACC, après une annonce légale parue le 22 mai dans Paysan-breton.fr."
+            },
+            {
+              "date": "Juin à octobre 2026",
+              "text": "Le jeudi devient soirée naturiste, de 18 h à 22 h ; le trio de deux femmes et un homme passe de 58 à 47 € (changement constaté entre mars et octobre)."
+            },
+            {
+              "date": "1er octobre 2026",
+              "text": "Ouverture à 14 h, selon l'annonce de l'accueil."
+            }
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Hormis les annonces légales, la reprise n'a pas été annoncée : aucun article trouvé dans la presse locale, aucun prénom de gérant mis en avant par le sauna. La société historique, créée en 1999, reste inscrite comme active en octobre 2026, mais c'est la nouvelle SARL qui exploite le lieu."
+        },
+        {
+          "kind": "text",
+          "body": "Au BODACC, le repreneur déclare, outre le sauna, le hammam et le jacuzzi, des boissons sans alcool, une petite restauration rapide, des revues spécialisées et du prêt-à-porter. Le site n'en dit rien ; une photo de la galerie montre un panneau « Boutique » au fond du salon-bar."
+        },
+        {
+          "kind": "text",
+          "body": "La date de la fermeture qui a précédé le 1er juin n'est pas connue : aucune capture de l'accueil n'existe entre le 10 mars et le 6 juin 2026."
+        }
+      ],
+      "sources": [
+        "s6",
+        "s7",
+        "s8",
+        "s9",
+        "s1",
+        "s2",
+        "s26",
+        "s11",
+        "s12",
+        "s13",
+        "s4"
+      ]
+    },
+    {
+      "id": "jours-hommes-mixtes-ttc",
+      "title": "Quatre jours entre hommes, lundi et vendredi mixtes, mercredi TTC",
+      "icon": "calendar",
+      "summary": "Couples et femmes entrent le lundi, le mercredi et le vendredi ; mardi, jeudi, samedi et dimanche sont des journées gays, réservées aux hommes.",
+      "blocks": [
+        {
+          "kind": "table",
+          "caption": "La semaine selon l'accueil du site (octobre 2026)",
+          "headers": [
+            "Jour",
+            "Formule",
+            "Qui entre"
+          ],
+          "rows": [
+            [
+              "Lundi",
+              "Journée mixte",
+              "Couples, femmes seules, hommes seuls"
+            ],
+            [
+              "Mardi",
+              "Journée gay",
+              "Hommes"
+            ],
+            [
+              "Mercredi",
+              "Journée TTC",
+              "Toutes orientations et identités"
+            ],
+            [
+              "Jeudi",
+              "Journée gay, soirée naturiste de 18 h à 22 h",
+              "Hommes"
+            ],
+            [
+              "Vendredi",
+              "Journée mixte prolongée jusqu'à 1 h",
+              "Couples, femmes seules, hommes seuls"
+            ],
+            [
+              "Samedi",
+              "Journée gay ; soirée couples les 1er et 3e samedis",
+              "Hommes le jour ; couples, femmes et trios le soir"
+            ],
+            [
+              "Dimanche",
+              "Journée gay",
+              "Hommes"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le **mercredi « TTC »** date du 18 juin 2025 : l'accueil annonçait alors que ce jour serait « ouvert à tous ». La grille ancienne que publie encore le syndicat SNEG & Co en faisait une journée gay. Le site l'adresse aux hétérosexuels, gays, bi, lesbiennes, personnes transgenres et travesties."
+        },
+        {
+          "kind": "text",
+          "body": "Le **jeudi** a changé après la reprise : en juin 2026, le site le donnait ouvert jusqu'à 22 h, sans thème ; il y affiche désormais une soirée naturiste de 18 h à 22 h. Le **vendredi** mixte est la seule journée qui dure jusqu'à 1 h ; seules les soirées couples du samedi vont plus tard, jusqu'à 2 h."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s6",
+        "s9",
+        "s15"
+      ]
+    },
+    {
+      "id": "homme-seul-17-ou-46-euros",
+      "title": "Homme seul : 17 € un dimanche, 46 € un vendredi",
+      "icon": "euro",
+      "summary": "Les jours gays, l'entrée va de 11 à 17 € selon l'âge et baisse après 18 h ; les jours mixtes, l'homme seul paie 36 € le lundi et 46 € le vendredi, la femme seule 6 €.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Pour un homme de 31 ans et plus, le prix va presque du simple au triple selon le jour : 17 € un jour gay, 20 € le mercredi, 36 € le lundi, 46 € le vendredi. Le Petit Futé relevait déjà l'écart dans sa présentation mise en ligne en 2024 : 16 € au plus en journée gay, 45 € le vendredi."
+        },
+        {
+          "kind": "list",
+          "title": "Les autres lignes de la grille",
+          "items": [
+            "**Moins de 31 ans** : 14 € de 26 à 30 ans, 11 € de 18 à 25 ans les jours gays ; 7 € après 18 h, contre 11 € à partir de 31 ans.",
+            "**Femme seule** : 6 € le lundi, le mercredi et le vendredi, 11 € en soirée couples.",
+            "**Couple**, entendu par la grille comme un homme et une femme : 17 € le lundi, 20 € le mercredi, 22 € le vendredi, 36 € en soirée couples."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Aucune ligne ne vise la soirée naturiste du jeudi. Elle commence à 18 h, un jour réservé aux hommes : le tarif réduit (11 € ou 7 €) devrait donc s'appliquer, mais c'est notre lecture de la grille, que le sauna n'a pas confirmée."
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Des grilles périmées circulent",
+          "body": "Jusqu'en mars 2026 au moins, le site comptait 58 € pour le trio de deux femmes et un homme ; il affiche 47 € en octobre 2026, mais un annuaire mis en ligne en avril 2026 reprend encore 58 € et dit, à tort, le lundi fermé. Un agrégateur annonce une ouverture à 15 h en octobre 2026, quand le site indique 14 h."
+        }
+      ],
+      "sources": [
+        "s2",
+        "s26",
+        "s1",
+        "s16",
+        "s18",
+        "s19",
+        "s21"
+      ]
+    },
+    {
+      "id": "soirees-couples-samedi",
+      "title": "Les 1er et 3e samedis, de 21 h à 2 h : couples, femmes seules et trios déjà formés",
+      "icon": "heart",
+      "summary": "Deux samedis par mois, après la journée gay qui finit à 20 h, le sauna rouvre pour les couples (36 €), les femmes seules (11 €) et les trios constitués (47 ou 72 €).",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "C'est le seul moment où les couples entrent un samedi : de 14 h à 20 h, la journée appartient aux hommes. Le site réserve la soirée aux « couples, femmes, et trios déjà constitués », et la grille ne prévoit aucune entrée pour un homme seul."
+        },
+        {
+          "kind": "text",
+          "body": "Le prix du trio dépend de sa composition : 72 € pour deux hommes et une femme, 47 € pour deux femmes et un homme (58 € sur la grille archivée en mars 2026). Le second homme coûte donc 36 € de plus qu'un couple, la seconde femme 11 €, le prix d'une femme seule."
+        },
+        {
+          "kind": "text",
+          "body": "Les autres samedis, le sauna ferme à 20 h et aucune soirée n'est prévue pour les couples. Pour ces week-ends-là, Gleese, site français où chacun choisit précisément qui voit ses photos privées, permet de [donner rendez-vous à des couples bretons hors du sauna](aff:gleese)."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s2",
+        "s26"
+      ]
+    },
+    {
+      "id": "equipements-et-regles",
+      "title": "Hammam double, sling, et chaussures de ville interdites hors vestiaires",
+      "icon": "shield",
+      "summary": "Le site annonce sauna finlandais, hammam double, jacuzzi de 20 à 25 places, salons vidéo, cabines, sling et espace fumeurs ; le bar ne sert pas d'alcool.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "La liste officielle compte aussi un bar sans alcool et « divers salons intimes ». En 2024, le Petit Futé décrivait en plus, sur 300 m², un labyrinthe peu éclairé, un salon avec table de massage, des glory-holes, du gel et des préservatifs à disposition. Le site ne reprend pas ces détails, antérieurs à la reprise."
+        },
+        {
+          "kind": "list",
+          "title": "Les règles connues",
+          "items": [
+            "Chaussures de ville, baskets, escarpins et talons aiguilles sont interdits hors des vestiaires (site officiel).",
+            "Lieu interdit aux mineurs, réservé à une clientèle « avertie » (site officiel).",
+            "Une affichette manuscrite, visible sur une photo de la galerie, rappelle « no sex » dans le jacuzzi.",
+            "Tabac : un espace fumeurs est prévu ; un panneau d'interdiction de fumer figure dans les vestiaires."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Une page du site rédigée à l'époque du Covid-19, non datée, assure que le ménage se fait avec des produits à usage hospitalier."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s3",
+        "s4",
+        "s16"
+      ]
+    },
+    {
+      "id": "avis-petit-fute-pagesjaunes",
+      "title": "2,7/5 au Petit Futé, trois avis à 5/5 sur PagesJaunes, écrits de 2015 à 2021",
+      "icon": "star",
+      "summary": "Relevé du 20/10/2026 : 2,7/5 sur 6 avis au Petit Futé ; 3 avis à 5/5 sur PagesJaunes (2018 à 2021), sans note globale affichée ; aucun avis lu après la reprise.",
+      "blocks": [
+        {
+          "kind": "list",
+          "title": "Les cinq avis affichés par le Petit Futé",
+          "items": [
+            "Avril 2015 : lieu jugé « un peu vieillot mais propre », prix trouvé élevé pour les prestations.",
+            "Décembre 2015 : accueil critiqué, sauf quand les patrons le tiennent eux-mêmes.",
+            "Décembre 2018 : hygiène mise en cause, décor jugé désuet.",
+            "Novembre 2019 : lieu vide en semaine, tarifs difficiles à comprendre.",
+            "Octobre 2020 : équipements propres, du monde un dimanche."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le sixième avis compté par le guide n'est pas affiché. Sur PagesJaunes, les trois avis, tous notés 5/5, portent sur des visites de 2018 à 2021 : la plateforme n'en tire aucune note globale, car elle ne retient que les avis de moins de quatre ans."
+        },
+        {
+          "kind": "text",
+          "body": "Google n'a pas été lu directement. Un annuaire relaie 4,2 sur 85 avis dans une page publiée en juillet 2025 et modifiée en août 2026 ; un agrégateur affiche 4,0 sur 46 avis, sans en préciser l'origine."
+        }
+      ],
+      "sources": [
+        "s16",
+        "s17",
+        "s18",
+        "s21"
+      ]
+    },
+    {
+      "id": "lorient-tropik-morbihan",
+      "title": "Seul sauna actif de Lorient en octobre 2026 : le Tropik, rue de Liège, fermé « temporairement »",
+      "icon": "map",
+      "summary": "Le Korosko est au 18 rue Lazare Carnot ; le Tropik, rue de Liège, affichait une fermeture temporaire le 12 mars 2026 et son site est suspendu en octobre.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "L'autre sauna de la ville, le [Tropik Sauna](/tropik-sauna-lorient), affichait sur son site, le 12 mars 2026, une fermeture temporaire pour « problème technique » ; le 20 octobre, la page affiche « Service suspendu ». Aucune autre adresse libertine en activité n'a été trouvée à [Lorient](/ville/lorient)."
+        },
+        {
+          "kind": "text",
+          "body": "Ailleurs dans le [Morbihan](/departement/morbihan), un annuaire d'avril 2026 cite Le Keewee à Séné, dont le site répondait le 20 octobre 2026, et Le Starman à Gourin, sans site officiel trouvé. Leur activité n'a pas été vérifiée en détail."
+        },
+        {
+          "kind": "text",
+          "body": "Avec si peu d'adresses dans le département, un couple qui hésite à découvrir seul un vendredi mixte peut [faire équipe avec un couple du pays de Lorient](aff:carre-libertin) : Carré Libertin, qui revendique plus de 500 000 inscrits, ne fait rien payer aux couples ni aux femmes qui publient trois photos de profil."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s22",
+        "s23",
+        "s20",
+        "s24"
+      ]
+    },
+    {
+      "id": "histoire-nil-1999",
+      "title": "Un nom emprunté à une localité du Nil, un site en ligne dès janvier 2005",
+      "icon": "history",
+      "summary": "La société historique est née le 2 octobre 1999, année d'adhésion au SNEG ; en 2005, le site présentait déjà un sauna « non conformiste » aux journées gays et échangistes.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "En janvier 2005, la page d'accueil, faite avec ThunderSite, donnait la même adresse et le même téléphone qu'aujourd'hui. Elle expliquait le nom : Korosko est un lieu d'Égypte sur les rives du Nil, dont le site invitait à voir des photos."
+        },
+        {
+          "kind": "list",
+          "items": [
+            "**Octobre 1999** : création de la SARL Le Korosko ; le syndicat SNEG & Co présente le sauna comme adhérent depuis 1999. La date d'ouverture du lieu lui-même n'est pas établie.",
+            "**Janvier 2005** : « sauna non conformiste avec des journées gays et échangistes », selon le site archivé.",
+            "**Juin 2022** : premières captures du site actuel ; l'ancien domaine lekorosko.fr renvoie vers lekorosko.com depuis au moins octobre 2023.",
+            "**Octobre 2023** : l'ouverture d'hiver passe à 14 h à partir du lundi 2 octobre.",
+            "**Janvier 2024** : modification de l'administration de la société, publiée au BODACC."
+          ]
+        }
+      ],
+      "sources": [
+        "s5",
+        "s11",
+        "s15",
+        "s10",
+        "s25",
+        "s14"
+      ]
+    },
+    {
+      "id": "galerie-22-photos",
+      "title": "22 photos officielles : un jacuzzi à hublots et un salon redécoré à chaque saison",
+      "icon": "camera",
+      "summary": "La galerie du site montre vestiaires, entrée, salon-bar et espace balnéo ; elle ne contient aucune image du sauna, du hammam, des cabines ni du sling.",
+      "blocks": [
+        {
+          "kind": "list",
+          "items": [
+            "**Vestiaires** (4 photos) : armoires blanches numérotées fermées par cadenas, murs lambrissés, banc, miroirs et sèche-cheveux.",
+            "**Entrée** : un sas avec comptoir et tabourets, un présentoir de dépliants « Prévention Santé », un coin de fauteuils.",
+            "**Salon-bar** : canapés autour de tables basses et réfrigérateur de boissons. Le décor suit la saison, des fourrures et lanternes à fausses flammes de l'« ambiance hiver » aux housses rayées noir, gris et blanc de l'« ambiance été ».",
+            "**Espace balnéo** (6 photos) : un grand jacuzzi aux contours irréguliers éclairé en bleu, des hublots dans la paroi, un escalier de bois vers une partie haute, et des douches dont les murs reproduisent une vue de New York."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Deux affiches lisibles sur les photos renseignent sur l'usage : café et thé sont gratuits en libre-service, avec une vingtaine de thés et infusions au choix, et l'espace bar ferme 30 minutes avant l'établissement. Les photos ne sont pas datées et peuvent précéder la reprise de 2026."
+        }
+      ],
+      "sources": [
+        "s4"
+      ]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Lundi": "14 h - 20 h · journée mixte",
+      "Mardi": "14 h - 20 h · journée gay",
+      "Mercredi": "14 h - 20 h · journée TTC",
+      "Jeudi": "14 h - 22 h · journée gay, soirée naturiste de 18 h à 22 h",
+      "Vendredi": "14 h - 1 h · journée mixte",
+      "Samedi": "14 h - 20 h · journée gay ; 1er et 3e samedis : soirée couples de 21 h à 2 h",
+      "Dimanche": "14 h - 20 h · journée gay"
+    },
+    "note": "Ouverture à 15 h du 1er mai au 30 septembre, à 14 h le reste de l'année. La fermeture du jeudi à 22 h se déduit de l'horaire de la soirée naturiste.",
+    "confidence": "confirme",
+    "sources": [
+      "s1"
+    ]
+  },
+  "tarifs": {
+    "rows": {
+      "Jours gays (mar., jeu., sam., dim.)": "17 € dès 31 ans · 14 € de 26 à 30 ans · 11 € de 18 à 25 ans",
+      "Jours gays après 18 h": "11 € dès 31 ans · 7 € avant 31 ans",
+      "Mercredi TTC": "Homme 20 € · couple 20 € · femme 6 €",
+      "Lundi mixte": "Couple 17 € · femme seule 6 € · homme seul 36 €",
+      "Vendredi mixte": "Couple 22 € · femme seule 6 € · homme seul 46 €",
+      "Soirées couples (1er et 3e samedis)": "Couple 36 € · femme seule 11 € · trio 2 hommes + 1 femme 72 € · trio 2 femmes + 1 homme 47 €"
+    },
+    "note": "« Couple » s'entend d'un homme et d'une femme. Page non datée ; comparée à ses archives, une seule ligne a changé : le trio de deux femmes et un homme, à 58 € le 10/03/2026, est passé à 47 €. Les prix des jours hommes, des jours mixtes et des soirées couples sont les mêmes qu'en avril 2024.",
+    "confidence": "confirme",
+    "sources": [
+      "s2",
+      "s26",
+      "s27"
+    ]
+  },
+  "equipements": [
+    "Sauna finlandais",
+    "Hammam double",
+    "Jacuzzi 20/25 places",
+    "Douches",
+    "Bar sans alcool",
+    "Café et thé en libre-service",
+    "Salons vidéo",
+    "Salons intimes",
+    "Cabines",
+    "Sling",
+    "Espace fumeurs",
+    "Vestiaires à casiers"
+  ],
+  "externalRatings": [
+    {
+      "platform": "Petit Futé",
+      "rating": 2.7,
+      "scale": 5,
+      "count": 6,
+      "date": "2026-10-20",
+      "url": "https://www.petitfute.com/v9512-lorient-56100/c9998-coquin/c1044-s-amuser-sortir/c208-sauna/271726-le-korosko.html"
+    }
+  ],
+  "officialLinks": [
+    {
+      "label": "Site officiel",
+      "url": "https://www.lekorosko.com/",
+      "kind": "site"
+    },
+    {
+      "label": "Galerie : vestiaires, salon-bar, espace balnéo (22 photos)",
+      "url": "https://www.lekorosko.com/photos",
+      "kind": "galerie"
+    },
+    {
+      "label": "Tarifs entrées",
+      "url": "https://www.lekorosko.com/tarifs-entrees",
+      "kind": "autre"
+    },
+    {
+      "label": "Formulaire de contact",
+      "url": "https://www.lekorosko.com/contact",
+      "kind": "autre"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Le Korosko est-il ouvert depuis la vente de 2026 ?",
+      "answer": "Oui. Le nouvel exploitant a rouvert le 1er juin 2026 à 15 h, date de début d'activité inscrite au registre, et le site a été mis à jour depuis : soirée naturiste le jeudi, ouverture à 14 h à partir du 1er octobre. Aucun avis postérieur à la reprise n'a été lu ; le 02 97 35 07 50 permet de vérifier avant de venir."
+    },
+    {
+      "question": "Quels jours un couple peut-il venir au Korosko ?",
+      "answer": "Le lundi (17 €), le mercredi (20 €) et le vendredi jusqu'à 1 h (22 €), ainsi que les 1er et 3e samedis du mois de 21 h à 2 h (36 €). Les mardis, jeudis, dimanches et samedis en journée sont réservés aux hommes."
+    },
+    {
+      "question": "Quels sont les tarifs du Korosko ?",
+      "answer": "Les femmes seules paient 6 € (11 € en soirée couples), les couples de 17 à 36 €. Pour un homme, tout dépend du jour et de l'âge : 11 à 17 € les jours gays (7 ou 11 € après 18 h), 20 € le mercredi, 36 € le lundi et 46 € le vendredi. La grille du site n'est pas datée."
+    },
+    {
+      "question": "Le Korosko est-il un sauna gay ou un sauna libertin ?",
+      "answer": "Les deux, à des jours différents. Le site parle d'un sauna « gays et échangistes » et s'intitule « Sauna libertin » : quatre journées sont réservées aux hommes, deux sont mixtes, le mercredi accueille toutes les orientations et deux samedis soir par mois vont aux couples. En 2024, le Petit Futé le disait surtout fréquenté par une clientèle gay."
+    },
+    {
+      "question": "Où trouver un club libertin ouvert à Lorient ?",
+      "answer": "En octobre 2026, le Korosko est le seul lieu libertin de Lorient dont l'activité est établie, et c'est un sauna, pas une discothèque. Le Tropik, l'autre sauna de la ville, affichait le 12 mars 2026 une fermeture temporaire, et son site est suspendu en octobre. Pour une soirée en club ailleurs en Bretagne, Wyylde, l'ex-Netéchangisme rebaptisé en 2018, permet de [consulter les dates annoncées du Morbihan au Finistère](aff:wyylde) avec un compte gratuit."
+    },
+    {
+      "question": "Faut-il réserver ou être adhérent ?",
+      "answer": "Le site ne mentionne ni réservation ni carte de membre : il précise seulement que le lieu est interdit aux mineurs et réservé à une clientèle « avertie ». Avant une soirée couples, un appel au 02 97 35 07 50 reste le seul moyen de s'en assurer."
+    },
+    {
+      "question": "Que disent les avis sur le Korosko ?",
+      "answer": "Les avis lus sont anciens : 2,7/5 sur 6 avis au Petit Futé, dont les cinq affichés datent de 2015 à 2020 et oscillent entre propreté saluée et critiques sur l'hygiène ou l'accueil, et 3 avis notés 5/5 sur PagesJaunes, pour des visites de 2018 à 2021. Aucun ne porte sur l'exploitation reprise en juin 2026."
+    }
+  ],
+  "unverified": [
+    "La date et la cause de la fermeture qui a précédé la réouverture du 1er juin 2026.",
+    "Ce que le nouvel exploitant a changé, hormis le jeudi naturiste et, probablement, le prix du trio.",
+    "La date exacte de la baisse du trio de deux femmes et un homme (58 € en mars 2026, 47 € en octobre) et qui l'a décidée.",
+    "Le prix de la soirée naturiste du jeudi, absente de la grille.",
+    "L'accueil et le tarif des personnes trans en dehors du mercredi TTC.",
+    "La surface de 300 m², le labyrinthe et les glory-holes, cités par le seul Petit Futé en 2024.",
+    "Ce que proposent la « Boutique » et la petite restauration déclarée au BODACC.",
+    "Le stationnement et l'accès en transports en commun : le site n'en dit rien.",
+    "La note Google, non consultée directement.",
+    "L'adresse électronique, affichée « www.lekorosko56@gmail.com » sur le site ; aucun réseau social officiel n'y est lié."
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Le Korosko, site officiel, accueil (publics, horaires, équipements, annonce du 1er octobre)",
+      "url": "https://www.lekorosko.com/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s2",
+      "label": "Le Korosko, site officiel, « Tarifs entrées »",
+      "url": "https://www.lekorosko.com/tarifs-entrees",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s3",
+      "label": "Le Korosko, site officiel, « Informations particulières » (hygiène, page non datée)",
+      "url": "https://www.lekorosko.com/informations-particulieres",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s4",
+      "label": "Le Korosko, site officiel, « Photos » : 22 images regardées (vestiaires, espace bar, espace balnéo)",
+      "url": "https://www.lekorosko.com/photos",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s5",
+      "label": "Le Korosko, site officiel, archive du 25/01/2005 (origine du nom, journées gays et échangistes)",
+      "url": "https://web.archive.org/web/20050125194714/http://lekorosko.com:80/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s6",
+      "label": "Le Korosko, site officiel, archive du 19/06/2025 (mercredi TTC à compter du 18 juin)",
+      "url": "https://web.archive.org/web/20250619063735/https://www.lekorosko.com/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s7",
+      "label": "Le Korosko, site officiel, archive du 07/10/2025 (ouverture à 14 h à compter du 1er octobre)",
+      "url": "https://web.archive.org/web/20251007215427/https://www.lekorosko.com/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s8",
+      "label": "Le Korosko, site officiel, archive du 10/03/2026 (fermeture pour vacances du 16 au 22 mars)",
+      "url": "https://web.archive.org/web/20260310224234/https://www.lekorosko.com/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s9",
+      "label": "Le Korosko, site officiel, archive du 06/06/2026 (« Réouverture le 1 er Juin a 15 heures ! »)",
+      "url": "https://web.archive.org/web/20260606231356/https://www.lekorosko.com/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s10",
+      "label": "Wayback Machine, captures de lekorosko.com (2005-2011, puis juin 2022 à juin 2026) ; lekorosko.fr y renvoie depuis au moins octobre 2023",
+      "url": "https://web.archive.org/cdx/search/cdx?url=lekorosko.com&fl=timestamp,statuscode&collapse=timestamp:6",
+      "type": "autre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s25",
+      "label": "Le Korosko, site officiel, archive du 02/10/2023 (ouverture à 14 h à partir du lundi 2 octobre)",
+      "url": "https://web.archive.org/web/20231002183106/https://www.lekorosko.com/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s11",
+      "label": "Registre des entreprises, LE KOROSKO, SIREN 423 127 836 (société historique, créée le 02/10/1999)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/423127836",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s12",
+      "label": "Registre des entreprises, LE KOROSKO, SIREN 101 338 655 (créée le 16/02/2026, établissement actif depuis le 01/06/2026)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/101338655",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s13",
+      "label": "BODACC, annonce « Ventes et cessions » du 09/06/2026 (acte du 12/05/2026, 120 000 €)",
+      "url": "https://bodacc-datadila.opendatasoft.com/api/explore/v2.1/catalog/datasets/annonces-commerciales/records?where=registre%20like%20%22%25101338655%25%22",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s14",
+      "label": "BODACC, annonces de la société 423 127 836 (modification de l'administration publiée le 18/01/2024)",
+      "url": "https://bodacc-datadila.opendatasoft.com/api/explore/v2.1/catalog/datasets/annonces-commerciales/records?where=registre%20like%20%22%25423127836%25%22",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s15",
+      "label": "SNEG & Co, fiche adhérent « Le Korosko » (adhérent depuis 1999, grille horaire ancienne)",
+      "url": "https://www.snegandco.fr/le-korosko/",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s16",
+      "label": "Petit Futé, fiche « Le Korosko » (texte de 2024, 6 avis de membres)",
+      "url": "https://www.petitfute.com/v9512-lorient-56100/c9998-coquin/c1044-s-amuser-sortir/c208-sauna/271726-le-korosko.html",
+      "type": "avis",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s17",
+      "label": "PagesJaunes, « Le Korosko » (3 avis, visites de 2018 à 2021)",
+      "url": "https://www.pagesjaunes.fr/pros/08273180",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s18",
+      "label": "Minuit Libertin, « Le Korosko » (grille relevée le 26/07/2025, note Google relayée)",
+      "url": "https://minuitlibertin.com/le-korosko/",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s19",
+      "label": "saunaclublebali.fr, fiche « Le Korosko » (ajoutée le 02/04/2026)",
+      "url": "https://www.saunaclublebali.fr/listing/le-korosko-lorient/",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s20",
+      "label": "saunaclublebali.fr, « Clubs libertins Morbihan (56) » (publiée le 12/04/2026)",
+      "url": "https://www.saunaclublebali.fr/clubs-libertins-morbihan-56/",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s21",
+      "label": "Qlist, « Le Korosko » (agrégateur, mise à jour affichée du 18/10/2026)",
+      "url": "https://qlist.app/venues/Lorient/Only-Carinthia/cUllTExFWHUzYndQdnFnK1RzQll6Zw/fr",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s22",
+      "label": "Tropik Sauna, site officiel, archive du 12/03/2026 (fermeture temporaire pour « problème technique »)",
+      "url": "https://web.archive.org/web/20260312112846/https://www.tropik-sauna.net/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s23",
+      "label": "Tropik Sauna, site officiel : page « Service suspendu » de l'hébergeur",
+      "url": "https://www.tropik-sauna.net/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s24",
+      "label": "Le Keewee (Séné), site officiel",
+      "url": "https://www.lekeewee.com/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s26",
+      "label": "Le Korosko, site officiel, « Tarifs entrées », archive du 10/03/2026 (trio de deux femmes et un homme à 58 €)",
+      "url": "https://web.archive.org/web/20260310210430/https://www.lekorosko.com/tarifs-entrees",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s27",
+      "label": "Le Korosko, site officiel, « Tarifs entrées », archive du 16/04/2024 (même grille, sans mercredi TTC)",
+      "url": "https://web.archive.org/web/20240416001610/https://www.lekorosko.com/tarifs-entrees",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    }
+  ]
+}

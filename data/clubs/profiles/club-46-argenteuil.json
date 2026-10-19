@@ -1,0 +1,1197 @@
+{
+  "slug": "club-46-argenteuil",
+  "clubId": "1298",
+  "researchedAt": "2026-10-16",
+  "display": {
+    "nom": "Club 46",
+    "ville": "Argenteuil"
+  },
+  "status": {
+    "value": "ferme",
+    "summary": "Dernière soirée annoncée par le club : l'élection « Miss Sexy 46 », le vendredi 6 décembre 2019. Le registre a ensuite fermé l'établissement du 44 bis rue de la Marjolaine le 18 juillet 2022 et radié la SARL Club 46 en octobre 2022, tandis que le domaine club46.fr porte depuis décembre 2020 un blog sans lien avec le lieu.",
+    "sources": [
+      "s15",
+      "s21",
+      "s27",
+      "s19",
+      "s20"
+    ]
+  },
+  "seo": {
+    "title": "Club 46 à Argenteuil : club libertin fermé, preuves et archives",
+    "metaDescription": "Sauna-hammam libertin d'Argenteuil, le Club 46 n'annonce plus de soirée après le 6 décembre 2019 ; société radiée en 2022. Tarifs d'époque, lieux, histoire.",
+    "subtitle": "Ancien sauna-hammam libertin sur trois niveaux, rue de la Marjolaine à Argenteuil (95)",
+    "targetQueries": [
+      "club libertin argenteuil",
+      "club 46 argenteuil",
+      "club 46 sauna argenteuil",
+      "club 46 argenteuil fermé"
+    ]
+  },
+  "lead": "Sauna-hammam libertin aménagé sur trois niveaux au 44 bis rue de la Marjolaine, le Club 46 a reçu couples, femmes seules et hommes seuls à Argenteuil au moins jusqu'en décembre 2019. L'adresse abritait un bar dès 1980 ; la SARL Club 46 en a racheté le fonds en 2011 pour 60 000 €. En octobre 2012, Le Parisien racontait que sa banque voulait clore son compte, le mois même où un lapsus de Jean-Claude Van Damme à la télévision belge faisait circuler le nom « Club 46 ». L'établissement est fermé au registre depuis juillet 2022, et l'ancien nom de domaine du club sert aujourd'hui à un blog sans rapport avec le lieu.",
+  "glance": [
+    {
+      "icon": "closed",
+      "label": "Fermé",
+      "value": "Fermé au registre le 18 juillet 2022"
+    },
+    {
+      "icon": "calendar",
+      "label": "Dernière soirée datée",
+      "value": "Miss Sexy 46, le 6 décembre 2019"
+    },
+    {
+      "icon": "history",
+      "label": "Activité documentée",
+      "value": "Juillet 2007 – décembre 2019"
+    },
+    {
+      "icon": "spa",
+      "label": "Le lieu",
+      "value": "250 m² sur trois niveaux, sauna et hammam",
+      "confidence": "source_unique"
+    },
+    {
+      "icon": "euro",
+      "label": "Entrée couple (2019)",
+      "value": "20 à 30 € selon le jour",
+      "confidence": "source_unique"
+    },
+    {
+      "icon": "map",
+      "label": "Ouvert dans le 95",
+      "value": "The Strip, Saint-Ouen-l'Aumône"
+    }
+  ],
+  "audience": [
+    {
+      "who": "couples",
+      "status": "oui",
+      "detail": "Tous les jours d'ouverture ; 20 € le mardi et le mercredi, 30 € les autres jours (2019)",
+      "price": "20 à 30 €"
+    },
+    {
+      "who": "femmes",
+      "status": "oui",
+      "detail": "Invitées : entrée offerte et softs à volonté (2018-2019) ; 10 € en juillet 2016"
+    },
+    {
+      "who": "hommes",
+      "status": "selon",
+      "detail": "Quota fixé selon les couples et femmes présents (charte de 2011)",
+      "price": "30 à 60 €"
+    },
+    {
+      "who": "trans",
+      "status": "oui",
+      "detail": "Invitées dans la grille de 2015, admises par le règlement de 2016 ; tarif travesti en 2019",
+      "price": "15 €"
+    }
+  ],
+  "highlights": [
+    "Le domaine club46.fr répond encore, mais héberge depuis décembre 2020 un blog sans adresse ni horaires : ce n'est plus le site du club.",
+    "Le 01 39 80 45 12 et les e-mails que listent encore les annuaires sont ceux de l'ancien club.",
+    "Aucun sauna, bar ou club ne s'est immatriculé au 44 bis rue de la Marjolaine depuis la radiation d'octobre 2022.",
+    "Dans le Val-d'Oise, The Strip annonce des soirées jusqu'au 31 octobre 2026 ; l'Eden Club de Louvres, fermé pour travaux, évoque une réouverture vers mai 2027.",
+    "Le « Club 95 » de l'annuaire 118 000 et la page « Club 46 – Bar » de la plateforme DISH, encore en ligne, désignent ce même établissement fermé."
+  ],
+  "keyFacts": [
+    {
+      "label": "Statut",
+      "value": "Fermé : établissement fermé au registre le 18 juillet 2022, société radiée en octobre 2022",
+      "confidence": "confirme",
+      "sources": [
+        "s21",
+        "s27"
+      ]
+    },
+    {
+      "label": "Dernière activité datée",
+      "value": "Soirée « Miss Sexy 46 », vendredi 6 décembre 2019",
+      "confidence": "source_unique",
+      "sources": [
+        "s15"
+      ]
+    },
+    {
+      "label": "Adresse",
+      "value": "44 bis rue de la Marjolaine, 95100 Argenteuil",
+      "confidence": "confirme",
+      "sources": [
+        "s2",
+        "s21",
+        "s24"
+      ]
+    },
+    {
+      "label": "Type de lieu",
+      "value": "Club échangiste avec sauna et hammam",
+      "confidence": "confirme",
+      "sources": [
+        "s2",
+        "s16",
+        "s24"
+      ]
+    },
+    {
+      "label": "Licence",
+      "value": "Établissement de nuit, licence IV",
+      "confidence": "source_unique",
+      "sources": [
+        "s5"
+      ]
+    },
+    {
+      "label": "Surface et niveaux",
+      "value": "250 m² sur trois niveaux selon le Petit Futé ; hammam et sauna au sous-sol selon le club (2019)",
+      "confidence": "source_unique",
+      "sources": [
+        "s16",
+        "s47"
+      ]
+    },
+    {
+      "label": "Exploitant",
+      "value": "SARL Club 46 (SIREN 531 825 107), de 2011 à 2022",
+      "confidence": "confirme",
+      "sources": [
+        "s21",
+        "s27"
+      ]
+    },
+    {
+      "label": "Rachat du fonds",
+      "value": "60 000 €, en avril 2011",
+      "confidence": "confirme",
+      "sources": [
+        "s24",
+        "s21"
+      ]
+    },
+    {
+      "label": "Public admis",
+      "value": "Couples, femmes seules invitées, hommes seuls selon un quota, personnes trans et travesties (grille de 2015, règlement de 2016)",
+      "confidence": "confirme",
+      "sources": [
+        "s4",
+        "s8",
+        "s11",
+        "s17"
+      ]
+    },
+    {
+      "label": "Entrée en 2019",
+      "value": "Couple 20 à 30 €, homme seul 30 à 60 €",
+      "confidence": "source_unique",
+      "sources": [
+        "s17"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "club46-fr-n-est-plus-le-club",
+      "title": "Le domaine club46.fr répond encore, mais le club s'est tu après le 6 décembre 2019",
+      "icon": "globe",
+      "summary": "Le site du club s'arrête sur une soirée du 6 décembre 2019 ; depuis décembre 2020, club46.fr porte un blog titré « Club libertin 46 », sans lien avec le lieu.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "La dernière page lisible du site officiel, archivée le 6 décembre 2019, annonce pour le soir même l'élection « Miss Sexy 46 », avec un DJ, à partir de 20 h 30. C'est la dernière activité datée du club que nous ayons retrouvée."
+        },
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "Décembre 2019 – février 2020",
+              "text": "www.club46.fr renvoie vers club46.fr, dont aucune page n'a été archivée."
+            },
+            {
+              "date": "Mai 2020",
+              "text": "Le domaine renvoie une erreur 403."
+            },
+            {
+              "date": "Août – octobre 2020",
+              "text": "Erreur 503, avec des fichiers d'un autre site, « kifdom »."
+            },
+            {
+              "date": "Depuis décembre 2020",
+              "text": "Un blog WordPress sur la sexualité et le couple occupe le domaine ; son flux affiche des articles datés d'août 2019 à janvier 2023, dont les plus anciens sont antérieurs à son apparition dans les archives."
+            }
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Ce blog s'intitule « Club 46 – Club libertin 46 », sans adresse, sans horaires, sans un mot sur le lieu d'Argenteuil : que le domaine réponde ne prouve donc pas que le club fonctionne."
+        },
+        {
+          "kind": "list",
+          "title": "Ce qui circule encore et ne correspond plus à rien",
+          "items": [
+            "Le 01 39 80 45 12, ligne fixe du club de 2008 à 2019.",
+            "Les adresses club46@neuf.fr (2008) et contact@club46.fr (2011-2015), la seconde rattachée à un domaine passé au blog.",
+            "Deux fiches de l'annuaire sauna-club-libertin, l'une au « 46 », l'autre au « 44 bis », et une fiche de fuxxy.fr, toutes sans date ni avis.",
+            "La page Facebook du club, sans aucun contenu public visible en octobre 2026.",
+            "Une fiche « Club 95 » de l'annuaire 118 000, au 44 bis, sous le numéro SIRET de l'établissement de la SARL Club 46.",
+            "Une page « Club 46 – Bar » sur la plateforme DISH, non datée et sans horaires, rattachée à la SARL par ses mentions légales.",
+            "Le second domaine du club, leclub46.fr, archivé jusqu'en novembre 2019 et hors ligne aujourd'hui."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "PagesJaunes et le Petit Futé, à l'inverse, ne rangent pas le Club 46 parmi les clubs libertins du Val-d'Oise en octobre 2026."
+        }
+      ],
+      "sources": [
+        "s15",
+        "s19",
+        "s20",
+        "s1",
+        "s2",
+        "s29",
+        "s30",
+        "s31",
+        "s32",
+        "s33",
+        "s50",
+        "s51",
+        "s49",
+        "s48"
+      ]
+    },
+    {
+      "id": "plus-de-club-a-argenteuil",
+      "title": "Argenteuil sans autre lieu recensé : The Strip à Saint-Ouen-l'Aumône, l'Eden de Louvres en travaux",
+      "icon": "map",
+      "summary": "Plus aucun lieu libertin recensé à Argenteuil ; dans le Val-d'Oise, The Strip annonce des soirées en octobre 2026 et l'Eden Club reste fermé pour travaux jusqu'en 2027.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "En octobre 2026, ni PagesJaunes, ni le Petit Futé, ni l'annuaire sauna-club-libertin ne connaissent d'autre lieu libertin à Argenteuil. PagesJaunes ne liste qu'un club pour tout le Val-d'Oise, le Petit Futé deux (The Strip et L'Eden), sauna-club-libertin trois, dont le Club 46, qui y a deux fiches."
+        },
+        {
+          "kind": "table",
+          "caption": "Sites officiels des deux clubs, consultés le 19 octobre 2026",
+          "headers": [
+            "Lieu",
+            "Commune",
+            "Situation relevée"
+          ],
+          "rows": [
+            [
+              "[The Strip](/the-strip-saint-ouen-l-aumone)",
+              "Saint-Ouen-l'Aumône",
+              "Ouvert : soirées annoncées du 22 au 31 octobre 2026 ; carte de membre exigée, sauf le lundi"
+            ],
+            [
+              "[L'Eden Club](/eden-club-louvres-libertin)",
+              "Louvres",
+              "Fermé pour un contrôle de sécurité et des travaux de mise en conformité ; un message non daté repousse le délai à mai 2027"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "The Strip se présente comme un « Cercle Libertin » fondé en 2014. Le reste du département est recensé sur [la page des lieux libertins du Val-d'Oise](/departement/val-d-oise).\n\nLe Club 46 se disait à « 15 minutes de Paris » : les adresses de la capitale et de sa couronne figurent sur [la page Île-de-France de l'annuaire](/region/ile-de-france)."
+        },
+        {
+          "kind": "text",
+          "body": "En 2013 et en 2015, la page d'accueil du Club 46 portait des bannières de Netéchangisme, rebaptisé Wyylde en 2018. L'agenda des soirées de ce site, lisible avec un compte gratuit, permet de [chercher une date entre Cergy et Paris](aff:wyylde) avant de prendre la route."
+        }
+      ],
+      "sources": [
+        "s32",
+        "s30",
+        "s35",
+        "s36",
+        "s2",
+        "s7",
+        "s5",
+        "s37",
+        "s38",
+        "s48"
+      ]
+    },
+    {
+      "id": "trois-niveaux-rue-de-la-marjolaine",
+      "title": "250 m², hammam et sauna au sous-sol, sept espaces isolés au-dessus",
+      "icon": "spa",
+      "summary": "En 2019, le club décrit hammam, sauna et douches au sous-sol et sept espaces isolés aux étages ; le Petit Futé lui prête 250 m², une piste de danse et une pièce SM.",
+      "blocks": [
+        {
+          "kind": "list",
+          "title": "La description du club en 2019",
+          "items": [
+            "Sous-sol : un hammam, un sauna et les douches.",
+            "Un grand espace de détente.",
+            "Mezzanine : quatre espaces isolés.",
+            "Premier étage : trois espaces isolés, dont un équipé d'une table de massage."
+          ]
+        },
+        {
+          "kind": "list",
+          "title": "Les pièces que nomment les photos du site (2011-2015)",
+          "items": [
+            "Un bar et une salle conviviale.",
+            "Des coins câlins, une chambre des miroirs et une chambre ouverte.",
+            "Une boîte à trous.",
+            "Une salle de projection, avec des accessoires en libre-service.",
+            "Des vestiaires."
+          ]
+        },
+        {
+          "kind": "list",
+          "title": "La description du Petit Futé (texte non daté)",
+          "items": [
+            "250 m² sur trois niveaux ; au rez-de-chaussée, le bar, une piste de danse, un salon vidéo et un coin câlin.",
+            "À la mezzanine et à l'étage, des salons, dont une pièce à glory-holes et une pièce équipée pour les jeux SM."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le guide place aussi le sauna et le hammam au rez-de-chaussée, quand le club les situait au sous-sol en 2019 : nous retenons la version du club."
+        },
+        {
+          "kind": "callout",
+          "tone": "info",
+          "title": "Un jacuzzi cité de 2008 à 2016, absent en 2019",
+          "body": "Le jacuzzi figure dès 2008 dans les mots-clés du site. En 2015, le club se présente comme un « sauna-hammam-jacuzzi libertin » ; en 2016, il annonce la réouverture prochaine du jacuzzi. La description de 2019 n'en parle plus, et nous ignorons s'il a refonctionné."
+        },
+        {
+          "kind": "text",
+          "body": "Le club se déclarait établissement de nuit titulaire d'une licence IV. Son site de 2008 le situait au 46 rue de la Marjolaine ; celui de 2011 à 2019, le registre et le BODACC donnent le 44 bis, l'adresse que nous retenons."
+        }
+      ],
+      "sources": [
+        "s16",
+        "s2",
+        "s7",
+        "s9",
+        "s5",
+        "s1",
+        "s21",
+        "s24",
+        "s39",
+        "s40",
+        "s47"
+      ]
+    },
+    {
+      "id": "octobre-2012-banque-et-van-damme",
+      "title": "Octobre 2012 : LCL veut clore le compte du club, Van Damme lâche « Club 46 » à la RTBF",
+      "icon": "info",
+      "summary": "Le 2 octobre 2012, Le Parisien rapporte que LCL veut fermer le compte du club ; le 21, un lapsus de Jean-Claude Van Damme sur la RTBF fait circuler le nom « Club 46 ».",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le 2 octobre 2012, Le Parisien consacre un article au Club 46 : son conseiller LCL a donné trente jours à Ben, le gérant, pour clore le compte professionnel ouvert à la reprise de la société, dix-huit mois plus tôt. La banque invoque « une perte de confiance » après une visite des lieux."
+        },
+        {
+          "kind": "text",
+          "body": "Le gérant rappelle que son activité est légale, et l'avocat du club que l'extrait Kbis mentionne « bar sauna hammam ». Faute de case « club libertin », le club est rangé en « entretien corporel ». Le gérant envisage un recours pour discrimination, sans suite publiée à notre connaissance."
+        },
+        {
+          "kind": "text",
+          "body": "Dans le même article, la journaliste décrit des serviettes au-dessus du bar, des « murs rouges capitonnés », des miroirs montant jusqu'au plafond, une vitrine d'accessoires et des alcôves avec lits, aux cloisons percées. Elle qualifie le club de « haut lieu de l'échangisme dans le Val-d'Oise »."
+        },
+        {
+          "kind": "text",
+          "body": "Le 21 octobre 2012, à Anderlecht, la RTBF demande à Jean-Claude Van Damme un mot de soutien pour l'opération caritative CAP 48 : l'acteur appelle à soutenir… le « Club 46 ». La DH puis TF1 News relaient la bourde, sans nommer Argenteuil ; la DH situe même le club « sur Paris »."
+        },
+        {
+          "kind": "text",
+          "body": "Rien ne dit que l'acteur pensait au club de la rue de la Marjolaine, mais celui-ci a repris l'épisode à son compte : de janvier 2013 à août 2015 au moins, son site affichait en colonne un lien vers la vidéo de TF1, sous le titre « la gaffe de Jean-Claude Van Damme »."
+        }
+      ],
+      "sources": [
+        "s41",
+        "s42",
+        "s43",
+        "s44"
+      ]
+    },
+    {
+      "id": "semaine-type-du-club",
+      "title": "Des « Journées bi » de 2012 au mardi gay, trans et travesti de 2018, avec un buffet chaque jeudi",
+      "icon": "calendar",
+      "summary": "Le jeudi à buffet traverse toutes les grilles ; les « Journées bi » du lundi et du mardi (2012-2014) cèdent la place en 2018 à un mardi gay, trans et travesti.",
+      "blocks": [
+        {
+          "kind": "table",
+          "caption": "Agenda du club de 2012 à 2014 ; grille de décembre 2018",
+          "headers": [
+            "Jour",
+            "2012-2014",
+            "Décembre 2018"
+          ],
+          "rows": [
+            [
+              "Lundi",
+              "« Journée bi »",
+              "Fermé"
+            ],
+            [
+              "Mardi",
+              "« Journée bi »",
+              "Gay, trans et travestis"
+            ],
+            [
+              "Mercredi",
+              "Non précisé",
+              "Hétéro"
+            ],
+            [
+              "Jeudi",
+              "« Buffet Coquin »",
+              "Buffet chaud"
+            ],
+            [
+              "Vendredi",
+              "« Soirée Débridée »",
+              "Après-midi, puis soirée à buffet froid"
+            ],
+            [
+              "Samedi",
+              "« Sex Party »",
+              "Soirée à buffet froid, après-midi fermé"
+            ],
+            [
+              "Dimanche",
+              "« Buffet Libertin »",
+              "Buffet chaud"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le club présentait le buffet chaud du jeudi comme une tradition tenue depuis ses débuts, avec un menu différent chaque semaine. En 2015, le dimanche s'appelait « Relaxation » : buffet et massage offerts, de 14 h à 22 h.\n\nFin 2017, le club ouvrait aussi le jeudi soir, de 21 h à 1 h, sur réservation, pour des soirées à thème ; en 2018, il n'en annonçait plus que « quelques » ce soir-là. En 2018 et 2019, le club se proposait aussi à la privatisation pour une soirée."
+        }
+      ],
+      "sources": [
+        "s6",
+        "s14",
+        "s12",
+        "s8",
+        "s13",
+        "s17"
+      ]
+    },
+    {
+      "id": "prix-d-entree-2011-2019",
+      "title": "Couple de 20 à 30 €, homme seul jusqu'à 70 € : les grilles de 2011 à 2019",
+      "icon": "euro",
+      "summary": "En huit ans, l'entrée couple reste entre 20 et 30 €, celle de l'homme seul en soirée descend de 69-70 € à 60 €, et les femmes seules sont presque toujours invitées.",
+      "blocks": [
+        {
+          "kind": "table",
+          "caption": "Entrée couple / homme seul, d'après les grilles publiées par le club",
+          "headers": [
+            "Créneau",
+            "Sept. 2011",
+            "Juil. 2015",
+            "Nov. 2019"
+          ],
+          "rows": [
+            [
+              "Mardi et mercredi après-midi",
+              "22 € / 39 €",
+              "20 € / 30 à 40 €",
+              "20 € / 30 €"
+            ],
+            [
+              "Jeudi à buffet",
+              "27 € / 59 €",
+              "30 € / 60 €",
+              "30 € / 60 €"
+            ],
+            [
+              "Vendredi et samedi soir",
+              "27 € / 69 €",
+              "30 € / 70 €",
+              "30 € / 60 €"
+            ],
+            [
+              "Dimanche",
+              "27 € / 59 €",
+              "30 € / 60 €",
+              "30 € / 50 €"
+            ]
+          ]
+        },
+        {
+          "kind": "list",
+          "title": "Ce que comprenait l'entrée",
+          "items": [
+            "Une consommation (2011, 2015, 2018 et 2019) ; en 2011 comme en 2015, la suivante coûtait 10 € avec alcool et 6 € sans, et un verre de vin était offert lors des formules avec buffet.",
+            "Pour les femmes seules, l'entrée offerte et des softs à volonté (2018-2019).",
+            "En 2017 : préservatifs et serviettes fournis, peignoir loué 3 € la soirée, buffet sucré-salé à volonté le jeudi après-midi, le vendredi soir, le samedi soir et le dimanche après-midi.",
+            "En 2019 encore : préservatifs, serviettes, café et thé."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Seule exception à la gratuité des femmes seules : la grille de juillet 2016, qui leur demande 10 €. Cette année-là, les couples paient 30 € tous les jours et un tarif travesti de 15 à 30 € apparaît."
+        }
+      ],
+      "sources": [
+        "s3",
+        "s8",
+        "s17",
+        "s10",
+        "s12",
+        "s14",
+        "s15"
+      ]
+    },
+    {
+      "id": "charte-et-quota",
+      "title": "Quota d'hommes seuls et trois verres d'alcool fort au plus : la charte de 2011",
+      "icon": "shield",
+      "summary": "La charte de 2011 limitait les hommes seuls selon les couples et femmes présents, refusait les tenues de sport et plafonnait l'alcool fort à trois verres, règle absente en 2016.",
+      "blocks": [
+        {
+          "kind": "list",
+          "title": "Admis",
+          "items": [
+            "Les couples et les femmes seules.",
+            "Les hommes seuls, dans une limite fixée selon le nombre de couples et de femmes seules déjà présents.",
+            "Les hommes bi et gays (charte de 2011).",
+            "Les personnes trans et travesties, ajoutées au règlement en 2016."
+          ]
+        },
+        {
+          "kind": "list",
+          "title": "Refusés ou interdits",
+          "items": [
+            "Les mineurs et les personnes ivres.",
+            "Les tenues de sport.",
+            "Le tabac à l'intérieur."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "La charte demandait aussi une tenue correcte et de l'hygiène. Le plafond de trois verres d'alcool fort, que le club s'imposait volontairement en 2011, a disparu du règlement de 2016."
+        }
+      ],
+      "sources": [
+        "s4",
+        "s11"
+      ]
+    },
+    {
+      "id": "avis-koifaire-2009-2019",
+      "title": "Sept avis Koifaire de 2009 à 2019, pour une moyenne de 3 sur 5",
+      "icon": "star",
+      "summary": "Sur Koifaire, sept avis datés de 2009 à 2019 donnent 3/5 : l'accueil de la patronne et la propreté sont salués, l'éclairage et l'âge de la clientèle critiqués.",
+      "blocks": [
+        {
+          "kind": "list",
+          "items": [
+            "Salués : un lieu très propre (mars 2012) et l'accueil de la patronne (2012 et octobre 2019).",
+            "En août 2011, un avis regrette le changement de propriétaire.",
+            "En mai 2014 : accueil jugé froid, escalier et douches mal éclairés, vitre disparue dans la salle des miroirs, hommes seuls jugés âgés.",
+            "Le 31 décembre 2019, dernier avis daté : ambiance très calme, clientèle âgée, accueil aimable."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "En avril 2013, un couple raconte sa visite sur le blog Calins Coquins : un petit club propre à l'ambiance détendue, mais trop d'hommes seuls ce jour-là. Selon le patron, les couples venaient surtout l'après-midi ; le blog note aussi une fermeture à 20 h en semaine et à 1 h le week-end."
+        }
+      ],
+      "sources": [
+        "s45",
+        "s46"
+      ]
+    },
+    {
+      "id": "histoire-du-44-bis",
+      "title": "Du Dany Bar de 1980 au rachat du fonds pour 60 000 € en 2011",
+      "icon": "history",
+      "summary": "Le 44 bis abrite un bar dès 1980 et un sauna déclaré en 2007 ; la SARL Club 46 rachète le fonds en avril 2011 et l'exploite jusqu'à sa radiation, en octobre 2022.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Avant le Club 46, l'adresse est celle d'un débit de boissons : une entreprise à l'enseigne « Dany Bar » y est immatriculée de 1980 à 2007.\n\nRien ne dit que ce bar était libertin, même si le site du club se disait, en 2011, « créé depuis plus de 20 ans », ce que le gérant répétait au Parisien en 2012 ; le Petit Futé, dans un texte non daté, parle d'« une bonne trentaine d'années »."
+        },
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "1980",
+              "text": "Un bar à l'enseigne « Dany Bar » est immatriculé au 44 bis rue de la Marjolaine."
+            },
+            {
+              "date": "Juillet 2007",
+              "text": "Un nouvel exploitant déclare une activité de sauna, de hammam et de vente de boissons."
+            },
+            {
+              "date": "Mars 2008",
+              "text": "Premières captures du site club46.fr, qui présente un club échangiste."
+            },
+            {
+              "date": "Avril 2011",
+              "text": "La SARL Club 46, créée le 13 avril, rachète pour 60 000 € le fonds de « bar club privé » connu sous l'enseigne Dany Bar."
+            },
+            {
+              "date": "Été 2015",
+              "text": "Le site annonce Dominique et Marilou comme nouveaux propriétaires ; d'après le BODACC, un nouveau gérant prend ses fonctions le 3 février 2016."
+            },
+            {
+              "date": "Fin 2017",
+              "text": "Le club ferme le lundi et le mardi ; le mardi rouvre en 2018."
+            },
+            {
+              "date": "Janvier 2019",
+              "text": "Ouverture d'un forum « Boîte à idée », dont aucun sujet n'a reçu de réponse."
+            },
+            {
+              "date": "Fin 2019",
+              "text": "Le site présente le club comme placé « sous la direction de Malou »."
+            },
+            {
+              "date": "18 juillet 2022",
+              "text": "L'établissement est fermé au registre."
+            },
+            {
+              "date": "28 octobre 2022",
+              "text": "La radiation de la SARL paraît au BODACC ; aucun sauna, bar ou club ne s'est immatriculé à l'adresse depuis."
+            }
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le registre ne connaît qu'un exploitant de 2011 à 2022, la SARL Club 46, dont l'unique établissement reste ouvert jusqu'en juillet 2022 : la reprise annoncée en 2015 passe par un changement de gérant, sans nouvelle société."
+        }
+      ],
+      "sources": [
+        "s23",
+        "s22",
+        "s25",
+        "s1",
+        "s19",
+        "s21",
+        "s24",
+        "s2",
+        "s7",
+        "s26",
+        "s13",
+        "s14",
+        "s34",
+        "s15",
+        "s27",
+        "s28",
+        "s41",
+        "s47"
+      ]
+    },
+    {
+      "id": "soirees-datees-2008-2019",
+      "title": "Antillaise en 2008, « Écolières » en 2014, beaujolais en 2019 : les soirées datées",
+      "icon": "sparkles",
+      "summary": "Les archives du site gardent une douzaine de soirées datées, de la soirée antillaise de mars 2008 à l'élection Miss Sexy 46 du 6 décembre 2019.",
+      "blocks": [
+        {
+          "kind": "list",
+          "items": [
+            "Jeudi 27 et vendredi 28 mars 2008 : soirée antillaise ; couple 30 €, homme seul 55 € le jeudi après-midi et 69 € le vendredi soir.",
+            "Du 13 au 16 septembre 2012 : quatre jours d'ambiance antillaise.",
+            "Vendredi 19 juillet 2013 : soirée gang bang.",
+            "Vendredi 5 septembre 2014 : « Soirée Écolières », entrée offerte aux couples qui jouaient le jeu du dress code.",
+            "Vendredi 6 février 2015 : soirée de la Chandeleur.",
+            "Samedi 1er août 2015 : soirée gang bang, avant une journée de fermeture le mercredi 12 août.",
+            "Début juillet 2016 : opération buffet et détente ; le même été, des toiles expressionnistes exposées un jeudi.",
+            "Mi-novembre 2017 : buffet de quiches variées, annoncé pour le « jeudi 15/11/2017 », alors que le 15 novembre 2017 tombait un mercredi.",
+            "Vendredi 15 novembre 2019 : soirée d'invitation des couples.",
+            "Jeudi 21 novembre 2019 dès 13 h, puis vendredi 22 au soir : beaujolais nouveau, ambiance musette et buffet ; couple 20 €, homme seul 60 €.",
+            "Vendredi 6 décembre 2019 : élection « Miss Sexy 46 » sur un dancefloor avec DJ ; couple 20 €, homme seul 60 €, femmes seules gratuites."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "La piste de danse que citent l'annuaire sauna-club-libertin et le Petit Futé n'apparaît, dans les archives du club, qu'à l'occasion de cette dernière soirée avec DJ."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s6",
+        "s7",
+        "s9",
+        "s13",
+        "s18",
+        "s15",
+        "s29",
+        "s40",
+        "s49",
+        "s47"
+      ]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "lundi": "Absent de la grille",
+      "mardi": "14 h – 19 h",
+      "mercredi": "14 h – 19 h",
+      "jeudi": "12 h 30 – 19 h, buffet chaud",
+      "vendredi": "14 h 30 – 19 h, puis 20 h 30 – 2 h",
+      "samedi": "21 h – 2 h",
+      "dimanche": "14 h – 22 h 30"
+    },
+    "note": "Dernière grille publiée par le club, en novembre 2019. Le club est fermé : ces horaires n'ont plus cours.",
+    "confidence": "source_unique",
+    "sources": [
+      "s17"
+    ]
+  },
+  "tarifs": {
+    "rows": {
+      "couple, mardi et mercredi": "20 €",
+      "couple, du jeudi au dimanche": "30 €",
+      "homme seul, mardi, mercredi, vendredi après-midi": "30 €",
+      "homme seul, dimanche": "50 €",
+      "homme seul, jeudi et soirées": "60 €",
+      "travesti, mardi": "15 €",
+      "femme seule": "Invitée, softs à volonté"
+    },
+    "note": "Une consommation incluse. Grille de novembre 2019, dernier état connu avant la fermeture.",
+    "confidence": "source_unique",
+    "sources": [
+      "s17"
+    ]
+  },
+  "equipements": [
+    "Sauna",
+    "Hammam",
+    "Douches",
+    "Vestiaires",
+    "Bar",
+    "Espace détente",
+    "Coins câlins",
+    "Chambre des miroirs",
+    "Boîte à trous",
+    "Salle de projection",
+    "Table de massage"
+  ],
+  "externalRatings": [
+    {
+      "platform": "Koifaire",
+      "rating": 3,
+      "scale": 5,
+      "count": 7,
+      "date": "2026-10-20",
+      "url": "https://www.koifaire.com/ile-de-france/club,46-76675.html"
+    }
+  ],
+  "officialLinks": [
+    {
+      "label": "Archive du site 2019",
+      "url": "https://web.archive.org/web/20191206132539/http://club46.fr/",
+      "kind": "autre"
+    }
+  ],
+  "corrections": {
+    "adresse": "44 bis rue de la Marjolaine",
+    "sources": [
+      "s21",
+      "s24",
+      "s2"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Le Club 46 d'Argenteuil est-il encore ouvert ?",
+      "answer": "Non. Son établissement du 44 bis rue de la Marjolaine est fermé au registre des entreprises depuis le 18 juillet 2022, et la SARL Club 46 a été radiée en octobre 2022. La dernière soirée que le club a annoncée en ligne date du 6 décembre 2019 ; nous ne savons pas s'il a encore ouvert entre 2020 et 2022."
+    },
+    {
+      "question": "Y a-t-il encore un club libertin à Argenteuil ?",
+      "answer": "Pas d'après les annuaires et guides consultés en octobre 2026 : ni PagesJaunes, ni le Petit Futé, ni sauna-club-libertin ne listent d'autre lieu dans la ville, et nos recherches en ligne n'en ont pas trouvé. Dans le Val-d'Oise, le club dont nous avons vérifié l'activité est [The Strip, à Saint-Ouen-l'Aumône](/the-strip-saint-ouen-l-aumone), qui exige une carte de membre sauf le lundi. Pour ne pas y entrer seuls la première fois, Carré Libertin permet de [faire connaissance avec des couples du nord-ouest francilien](aff:carre-libertin) : l'accès complet y est gratuit pour les couples et les femmes seules qui affichent trois photos sur leur profil."
+    },
+    {
+      "question": "Où un homme seul peut-il sortir depuis la fermeture du Club 46 ?",
+      "answer": "Le Club 46 les recevait dans la limite d'un quota, de 30 € (mardi, mercredi et vendredi après-midi) à 60 € (jeudi et soirées) en 2019, et aucune autre adresse d'Argenteuil n'apparaît dans les annuaires consultés. The Strip, à Saint-Ouen-l'Aumône, les admet avec une entrée régulée : sa carte de membre leur coûte 20 € par an, et l'entrée va de 30 € le lundi après-midi, consacré au bi et au gay (20 € avant 30 ans), à 100 € le samedi soir, hors réductions, selon sa grille d'octobre 2026. Pour arriver accompagné, Gleese, site français lancé fin 2024, permet de [se créer un profil vérifié par téléphone depuis le Val-d'Oise](aff:gleese) sans enregistrer de carte bancaire ; sa communauté reste plus petite que celle des sites plus anciens."
+    },
+    {
+      "question": "Combien coûtait l'entrée au Club 46 ?",
+      "answer": "Selon la dernière grille publiée, en novembre 2019 : 20 € pour un couple le mardi et le mercredi, 30 € les autres jours ; 30 € pour un homme seul le mardi, le mercredi et le vendredi après-midi, 50 € le dimanche, 60 € le jeudi et les soirs ; femmes seules invitées. Une consommation était incluse. Ces prix n'ont plus cours puisque le club est fermé."
+    },
+    {
+      "question": "Le Club 46 avait-il un jacuzzi ?",
+      "answer": "Le jacuzzi apparaît dès 2008 dans les mots-clés du site. Le club s'est présenté comme « sauna-hammam-jacuzzi libertin » en 2015, puis a annoncé en 2016 la réouverture prochaine de son jacuzzi. Sa description de 2019 ne cite plus que le hammam, le sauna et les douches du sous-sol. Nous ne savons pas si le jacuzzi a fonctionné après 2016."
+    },
+    {
+      "question": "Quel rapport entre le Club 46 et Jean-Claude Van Damme ?",
+      "answer": "Un lapsus : le 21 octobre 2012, invité par la RTBF à soutenir l'opération caritative CAP 48, l'acteur appelle à soutenir le « Club 46 ». La presse n'a pas nommé Argenteuil, mais le club de la rue de la Marjolaine a affiché la vidéo de TF1 sur son site de 2013 à 2015."
+    },
+    {
+      "question": "Le site club46.fr est-il celui du club ?",
+      "answer": "Plus depuis 2020. Les archives du web montrent le site du club jusqu'au 6 décembre 2019, puis des pages en erreur ; depuis décembre 2020, le domaine porte un blog d'articles généraux sur la sexualité et le couple, sans adresse ni horaires. Le dernier état du vrai site reste consultable sur la Wayback Machine, à la date du 6 décembre 2019."
+    }
+  ],
+  "unverified": [
+    "Quand le club a-t-il réellement cessé d'ouvrir, entre décembre 2019 et juillet 2022 ? Aucune source ne le dit, et le BODACC ne publie avant la radiation ni dissolution ni cessation d'activité qui daterait cet arrêt.",
+    "Le Dany Bar (1980-2007) avait-il déjà une clientèle libertine ? Rien ne le documente.",
+    "Le jacuzzi, dont la réouverture était annoncée en 2016, a-t-il fonctionné ensuite ?",
+    "Aucune note Google n'a pu être lue directement : seuls les sept avis de Koifaire (2009-2019) ont été consultés.",
+    "Aucun article de presse sur la fermeture n'a été trouvé, et l'issue du différend de 2012 avec LCL n'est pas connue.",
+    "Pourquoi l'annuaire 118 000 nomme-t-il l'établissement « Club 95 » ? Aucune autre source n'emploie ce nom.",
+    "La page Facebook du club n'affiche rien sans connexion : la date de sa dernière publication est inconnue."
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Site officiel club46.fr, page « actus » (archive du 27/03/2008)",
+      "url": "https://web.archive.org/web/20080327050504/http://www.club46.fr:80/actus.php",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s2",
+      "label": "Site officiel, page « Le Club 46 » et galerie (archive du 25/09/2011)",
+      "url": "https://web.archive.org/web/20110925041210/http://www.club46.fr:80/index.php?perma=le_club_46",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s3",
+      "label": "Site officiel, « Horaires et tarifs » (archive du 25/09/2011)",
+      "url": "https://web.archive.org/web/20110925102117/http://www.club46.fr:80/index.php?perma=horaires_et_tarifs",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s4",
+      "label": "Site officiel, « Charte du Club » (archive du 25/09/2011)",
+      "url": "https://web.archive.org/web/20110925102343/http://www.club46.fr:80/index.php?perma=charte_du_club",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s5",
+      "label": "Site officiel, page d'accueil : licence IV et bannières (archives de 2012, 2013 et 2015)",
+      "url": "https://web.archive.org/web/20131112080113/http://www.club46.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s6",
+      "label": "Site officiel, « L'agenda » (archives de décembre 2012 à septembre 2014)",
+      "url": "https://web.archive.org/web/20140903120602/http://club46.fr/index.php?perma=agenda",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s7",
+      "label": "Site officiel, page « Le Club 46 » et agenda (archives de juillet et août 2015)",
+      "url": "https://web.archive.org/web/20150812133512/http://club46.fr/index.php?perma=le_club_46",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s8",
+      "label": "Site officiel, grille des horaires et tarifs en image (archive du 12/07/2015)",
+      "url": "https://web.archive.org/web/20150712002438/http://club46.fr/view.php/horaires.web.jpg",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s9",
+      "label": "Site officiel, accueil après le changement de direction (archives de juin à décembre 2016)",
+      "url": "https://web.archive.org/web/20160623180015/http://www.club46.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s10",
+      "label": "Site officiel, horaires et tarifs (archive du 03/07/2016)",
+      "url": "https://web.archive.org/web/20160703162118/http://www.club46.fr:80/index.php/horaires-et-tarifs",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s11",
+      "label": "Site officiel, règlement du club (archive du 21/10/2016)",
+      "url": "https://web.archive.org/web/20161021060717/http://club46.fr/index.php/reglement-du-club",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s12",
+      "label": "Site officiel, « Service disponible » (archive du 11/04/2017)",
+      "url": "https://web.archive.org/web/20170411033018/http://www.club46.fr:80/index.php/service",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s13",
+      "label": "Site officiel, accueil et agenda (archives du 30/11/2017)",
+      "url": "https://web.archive.org/web/20171130130251/http://www.club46.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s14",
+      "label": "Site officiel, horaires et tarifs et agenda (archives de septembre et décembre 2018)",
+      "url": "https://web.archive.org/web/20181211124250/http://www.club46.fr:80/index.php/horaires-et-tarifs",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s15",
+      "label": "Site officiel, accueil et « Service disponible » (archives du 06/12/2019)",
+      "url": "https://web.archive.org/web/20191206132539/http://club46.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s16",
+      "label": "Site officiel, page « Sauna et Hammam » (archive du 06/12/2019)",
+      "url": "https://web.archive.org/web/20191206132549/http://club46.fr/index.php/club-46-sauna-hammam",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s17",
+      "label": "Site officiel, horaires et tarifs (archive du 15/11/2019)",
+      "url": "https://web.archive.org/web/20191115174541/http://club46.fr/index.php/horaires-et-tarifs",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s18",
+      "label": "Site officiel, agenda (archive du 18/11/2019)",
+      "url": "https://web.archive.org/web/20191118065702/http://www.club46.fr/index.php/agenda",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s19",
+      "label": "Wayback Machine, historique des captures de club46.fr (2008-2026)",
+      "url": "https://web.archive.org/cdx/search/cdx?url=club46.fr&fl=timestamp,statuscode&collapse=timestamp:6",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s20",
+      "label": "club46.fr aujourd'hui : blog et flux RSS sans lien avec le club",
+      "url": "https://www.club46.fr/feed/",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s21",
+      "label": "Registre des entreprises : SARL Club 46 (SIREN 531825107)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/531825107",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s22",
+      "label": "Registre des entreprises : exploitant du sauna de 2007 à 2011",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/498956242",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s23",
+      "label": "Registre des entreprises : bar à l'enseigne Dany Bar (1980-2007)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/319736328",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s24",
+      "label": "BODACC : achat pour 60 000 € du fonds de « bar club privé » Dany Bar par la SARL Club 46 (29/04/2011)",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A201100841666",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s25",
+      "label": "BODACC : activité de sauna et hammam déclarée depuis juillet 2007 (avril 2009)",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:B200900751993",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s26",
+      "label": "BODACC : changement de gérant de la SARL Club 46 (février 2016)",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:B201600281940",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s27",
+      "label": "BODACC : radiation de la SARL Club 46 (28/10/2022)",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:B202202102041",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s28",
+      "label": "Registre des entreprises : immatriculations au 44 rue de la Marjolaine, Argenteuil",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=44%20rue%20de%20la%20marjolaine&code_postal=95100",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s29",
+      "label": "sauna-club-libertin.com, fiche « CLUB 46 » (44 bis)",
+      "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_3.php?id=1298&d=95",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s30",
+      "label": "sauna-club-libertin.com, liste du Val-d'Oise et seconde fiche du Club 46 (46)",
+      "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_2.php?d=95",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s31",
+      "label": "fuxxy.fr, fiche « CLUB 46 »",
+      "url": "https://fuxxy.fr/club-libertin/argenteuil/club-46",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s32",
+      "label": "PagesJaunes, clubs libertins du Val-d'Oise",
+      "url": "https://www.pagesjaunes.fr/annuaire/departement/val-d-oise-95/clubs-libertins",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s33",
+      "label": "Page Facebook du Club 46 (aucun contenu public)",
+      "url": "https://www.facebook.com/pg/Club-46-102636789852951",
+      "type": "reseau_social",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s34",
+      "label": "Forum « Boîte à idée » du club",
+      "url": "http://club46.cmonfofo.com/",
+      "type": "forum",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s35",
+      "label": "The Strip (Saint-Ouen-l'Aumône), site officiel",
+      "url": "https://www.thestrip.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s36",
+      "label": "L'Eden Club (Louvres), site officiel : message de fermeture pour travaux",
+      "url": "https://www.eden-club.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s37",
+      "label": "The Strip, site officiel : horaires et tarifs",
+      "url": "https://thestrip.fr/horaires_tarifs",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s38",
+      "label": "The Strip, site officiel : la carte de membre",
+      "url": "https://thestrip.fr/carte_membre",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s39",
+      "label": "Site officiel club46.fr, page d'accueil : titre et mots-clés (archive du 27/03/2008)",
+      "url": "https://web.archive.org/web/20080327050459/http://www.club46.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s40",
+      "label": "Site officiel, « L'agenda du club 46 » (archive du 05/07/2016)",
+      "url": "https://web.archive.org/web/20160705183500/http://www.club46.fr:80/index.php/l-agenda-du-club-46",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s41",
+      "label": "Le Parisien, « Le club libertin prié de changer de banque » (02/10/2012, archive du 04/10/2012)",
+      "url": "https://web.archive.org/web/20121004230554/http://www.leparisien.fr:80/argenteuil-95100/le-club-libertin-prie-de-changer-de-banque-02-10-2012-2196581.php",
+      "type": "presse",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s42",
+      "label": "La DH, « JCVD appelle à soutenir un club échangiste... par erreur » (22/10/2012)",
+      "url": "https://www.dhnet.be/lifestyle/people/2012/10/22/jcvd-appelle-a-soutenir-un-club-echangiste-par-erreur-WXIBF7XX7RB3BEZ3EAFJ64USIE/",
+      "type": "presse",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s43",
+      "label": "TF1 News, vidéo « Club échangiste : la gaffe de Jean-Claude Van Damme » (25/10/2012, archive du 28/10/2012)",
+      "url": "https://web.archive.org/web/20121028064434/http://videos.tf1.fr/infos/2012/club-echangiste-la-gaffe-de-jean-claude-van-damme-7605951.html",
+      "type": "presse",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s44",
+      "label": "Site officiel, accueil avec le lien « la gaffe de Jean-Claude Van Damme » (archives de janvier 2013 à août 2015)",
+      "url": "https://web.archive.org/web/20130102015509/http://club46.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s45",
+      "label": "Koifaire, fiche « Club 46 » : sept avis de 2009 à 2019",
+      "url": "https://www.koifaire.com/ile-de-france/club,46-76675.html",
+      "type": "avis",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s46",
+      "label": "Calins Coquins, blog : « Le Club 46 » (02/04/2013)",
+      "url": "https://www.calinscoquins.com/avis-sur-les-clubs/le-club-46/",
+      "type": "avis",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s47",
+      "label": "Mapstr, fiche « CLUB 46 » avec la description du Petit Futé (non datée)",
+      "url": "https://mapstr.com/place/5hcMPcS0UUg",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s48",
+      "label": "Petit Futé, clubs libertins du Val-d'Oise",
+      "url": "https://www.petitfute.com/d5-val-d-oise/c9998-coquin/c1044-s-amuser-sortir/c206-club-libertin/",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s49",
+      "label": "Site officiel, second domaine leclub46.fr : accueil (archive du 11/11/2019)",
+      "url": "https://web.archive.org/web/20191111224237/http://www.leclub46.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s50",
+      "label": "118 000, fiche « Club 95 » au 44 bis rue de la Marjolaine (SIRET de la SARL Club 46)",
+      "url": "https://www.118000.fr/e_C0001091441",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s51",
+      "label": "Page « Club 46 – Bar » sur la plateforme DISH (non datée)",
+      "url": "https://club46.eatbu.com/",
+      "type": "autre",
+      "consulted": "2026-10-20"
+    }
+  ]
+}

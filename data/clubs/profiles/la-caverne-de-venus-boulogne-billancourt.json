@@ -1,0 +1,1102 @@
+{
+  "slug": "la-caverne-de-venus-boulogne-billancourt",
+  "clubId": "278",
+  "researchedAt": "2026-10-16",
+  "display": {
+    "nom": "La Récréation Sauna",
+    "ville": "Boulogne-Billancourt"
+  },
+  "status": {
+    "value": "ouvert",
+    "summary": "Le livre d'or du site officiel publie des messages datés de septembre et d'octobre 2026, dont celui d'un visiteur qui annonce y retourner le 30 septembre, et les horaires comme les tarifs y sont tenus à jour : le lieu fonctionne, sous le nom de La Récréation Sauna. La Caverne de Vénus, elle, a fermé sous ce nom à l'automne 2019 pour des travaux d'où est sortie La Récréation, à la même adresse et avec le même téléphone. Son ancien domaine, lacavernedevenus.com, a été réenregistré en février 2024 et ne mène plus au club. Quant au « fermé définitivement » affiché par PagesJaunes, il suit sans doute la radiation de l'ancienne société exploitante, absorbée en mars 2025 par une autre société installée à la même adresse.",
+    "sources": [
+      "s5",
+      "s1",
+      "s2",
+      "s9",
+      "s10",
+      "s21",
+      "s22",
+      "s37",
+      "s40"
+    ]
+  },
+  "seo": {
+    "title": "La Récréation, ex-Caverne de Vénus : sauna libertin à Boulogne",
+    "metaDescription": "Sauna-hammam et club libertin de Boulogne, ex-Caverne de Vénus : entrée gratuite femmes et couples (conso 10 €), homme seul 40 à 50 €, mercredi naturiste.",
+    "subtitle": "Sauna-hammam libertin à Boulogne-Billancourt (92), installé en 2020 dans les murs de La Caverne de Vénus",
+    "targetQueries": [
+      "club libertin boulogne billancourt",
+      "sauna libertin boulogne billancourt",
+      "la caverne de vénus boulogne",
+      "la récréation sauna boulogne",
+      "la récréation sauna tarifs",
+      "sauna naturiste boulogne"
+    ]
+  },
+  "lead": "La Caverne de Vénus a fermé pour travaux à l'automne 2019 et a rouvert en 2020 sous le nom de La Récréation Sauna, à la même adresse, près du métro Boulogne – Pont de Saint-Cloud, et avec le même numéro de téléphone. Ce sauna-hammam libertin reçoit femmes seules, couples et hommes seuls sept jours sur sept : l'après-midi en début de semaine, le soir du jeudi au samedi, en fin d'après-midi le dimanche, le mercredi étant journée naturiste. En octobre 2026, femmes et couples ne paient pas d'entrée mais une consommation à 10 € par personne ; un homme seul paie 40 € ou 50 € selon le jour.",
+  "glance": [
+    {
+      "icon": "calendar",
+      "label": "Ouvert 7 j/7",
+      "value": "Dès 14 h lun.-mer., 19 h jeu.-sam., 16 h dim."
+    },
+    {
+      "icon": "couple",
+      "label": "Femme ou couple",
+      "value": "Entrée gratuite, conso 10 € par personne"
+    },
+    {
+      "icon": "ticket",
+      "label": "Homme seul",
+      "value": "40 €, 50 € le vendredi et le samedi"
+    },
+    {
+      "icon": "water",
+      "label": "Mercredi naturiste",
+      "value": "De 14 h à 20 h, serviette facultative"
+    },
+    {
+      "icon": "history",
+      "label": "Ex-Caverne de Vénus",
+      "value": "Rebaptisée La Récréation en 2020"
+    },
+    {
+      "icon": "map",
+      "label": "Métro",
+      "value": "Ligne 10, Boulogne – Pont de Saint-Cloud"
+    }
+  ],
+  "audience": [
+    {
+      "who": "couples",
+      "status": "oui",
+      "detail": "Tous les jours ; entrée gratuite, une consommation à 10 € par personne obligatoire",
+      "price": "20 €"
+    },
+    {
+      "who": "femmes",
+      "status": "oui",
+      "detail": "Tous les jours ; entrée gratuite, consommation obligatoire, vestiaire séparé",
+      "price": "10 €"
+    },
+    {
+      "who": "hommes",
+      "status": "oui",
+      "detail": "Tous les jours, aucun quota annoncé ; tarif plus élevé le vendredi et le samedi",
+      "price": "40 à 50 €"
+    }
+  ],
+  "highlights": [
+    "Seul larecreationsauna.fr est à jour : lacavernedevenus.com affiche les prix de 2019, et des annuaires disent encore le lieu fermé le dimanche.",
+    "Douche obligatoire à l'arrivée, puis avant et après chaque passage au sauna ou au hammam ; on circule nu sous serviette, paréo ou peignoir.",
+    "Téléphones et appareils photo restent au casier ; la vidéosurveillance se limite aux accès et au bar.",
+    "Toute sortie est définitive : le fumoir intérieur évite de ressortir pour une cigarette.",
+    "Le prix des boissons n'est pas publié et le règlement renvoie aux tarifs affichés sur place : le 01 46 04 13 08 renseigne avant de venir."
+  ],
+  "keyFacts": [
+    {
+      "label": "Nom actuel",
+      "value": "La Récréation Sauna, qui a remplacé La Caverne de Vénus après les travaux engagés à l'automne 2019",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s9",
+        "s10",
+        "s11"
+      ]
+    },
+    {
+      "label": "Concept",
+      "value": "Sauna-hammam libertin avec bar sous licence IV, salon TV, cabines privatives et fumoir",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s11",
+        "s13"
+      ]
+    },
+    {
+      "label": "Public admis",
+      "value": "Femmes seules, couples mixtes et hommes seuls, chaque jour d'ouverture",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "label": "Entrée femme seule ou couple",
+      "value": "Gratuite, avec une consommation obligatoire à 10 € par personne (octobre 2026)",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "label": "Entrée homme seul",
+      "value": "40 € du lundi au jeudi et le dimanche, 50 € le vendredi et le samedi (octobre 2026)",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "label": "Journée naturiste",
+      "value": "Chaque mercredi, de 14 h à 20 h",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s15"
+      ]
+    },
+    {
+      "label": "Enseigne au registre",
+      "value": "« La Caverne de Vénus » au 114-118 avenue André Morizet dès juin 2002 ; date d'ouverture réelle du club inconnue",
+      "confidence": "confirme",
+      "sources": [
+        "s25"
+      ]
+    },
+    {
+      "label": "Société",
+      "value": "NINHAS (SARL), immatriculée à la même adresse en 2019 sous le nom « La Récréation », a absorbé en mars 2025 Suneve, l'exploitante historique ; les mentions légales du site citent encore Suneve",
+      "confidence": "confirme",
+      "sources": [
+        "s4",
+        "s24",
+        "s26",
+        "s29",
+        "s37"
+      ]
+    },
+    {
+      "label": "Dans les Hauts-de-Seine",
+      "value": "Seul lieu libertin recensé par les guides en ligne de 2026 ; Le Roi René, à Ville-d'Avray, était décrit comme fermé par Vice dès 2015",
+      "confidence": "a_verifier",
+      "sources": [
+        "s41",
+        "s43"
+      ]
+    },
+    {
+      "label": "Accès",
+      "value": "Métro ligne 10, station Boulogne – Pont de Saint-Cloud, à deux minutes à pied selon le club",
+      "confidence": "confirme",
+      "sources": [
+        "s6",
+        "s18"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "caverne-devenue-recreation",
+      "title": "Fermée pour travaux à l'automne 2019, la Caverne de Vénus a rouvert en Récréation",
+      "icon": "info",
+      "summary": "La Caverne de Vénus a fermé pour travaux à l'automne 2019 ; La Récréation a ouvert à sa place en 2020, même adresse, même téléphone. L'ancien domaine ne mène plus au club.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "À l'automne 2019, l'accueil de lacavernedevenus.com annonce une fermeture « pour travaux pendant plusieurs semaines » et l'arrivée, « courant décembre », d'un nouveau sauna-hammam, La Récréation, dans des locaux entièrement réaménagés. Le chantier dure bien plus longtemps : en mai 2020, le nouveau site évoque encore une ouverture fixée au 20 mars et repoussée par le confinement."
+        },
+        {
+          "kind": "text",
+          "body": "Le lieu a ouvert entre la mi-mai et le début de juillet 2020 : un blogueur invité à le visiter publie son récit le 9 juillet. Le code d'une capture du 20 août garde aussi, masquée, une annonce d'horaires modifiés « lundi 22 et mardi 23 juin ». Le jour exact de la première ouverture reste inconnu."
+        },
+        {
+          "kind": "list",
+          "title": "C'est bien le même lieu, pas un nouveau venu dans le quartier :",
+          "items": [
+            "La Récréation se dit installée dans les anciens locaux de la Caverne, « totalement transformés et rénovés » ;",
+            "le téléphone, 01 46 04 13 08, n'a pas changé ;",
+            "le domaine larecreationsauna.fr a été déposé le 28 août 2019 par SUNEVE, que le BODACC de novembre 2019 inscrit encore sous le nom commercial « La Caverne de Vénus » ;",
+            "en avril 2021 au plus tard, l'ancienne adresse web renvoyait vers la nouvelle avec un message sans ambiguïté : la Caverne « fait place à » la Récréation."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le concept a peu bougé. La Caverne se présentait déjà comme « Sauna / Hammam / Club Privé » ouvert aux femmes seules, aux couples et aux hommes seuls. La formule sur une clientèle bisexuelle, hétéro et gay friendly, publiée en octobre 2019 pour annoncer La Récréation, figure toujours sur le site actuel."
+        },
+        {
+          "kind": "list",
+          "title": "Ce qui a changé tient aux équipements et au vocabulaire :",
+          "items": [
+            "on parlait de « coins câlins » climatisés et d'un salon avec vidéo, on parle désormais de cabines privatives et de salon TV ;",
+            "la Caverne était non-fumeur depuis février 2007, La Récréation dispose d'un fumoir intérieur ;",
+            "le « bar climatisé » de 2007 est devenu un bar à cocktails sous licence IV, ouvert sur un espace lounge."
+          ]
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "lacavernedevenus.com n'est plus le site du lieu",
+          "body": "Ce domaine, actif depuis au moins 2004, a été réenregistré le 29 février 2024. Depuis mars 2024, il héberge un blog sans adresse ni téléphone qui recopie les textes et les prix de 2019 de la Caverne (homme seul à 65 € le soir), ainsi qu'un règlement générique où il est question d'une piscine, alors qu'aucune source officielle n'en mentionne. Des annuaires comme sauna-club-libertin.com affichent encore l'ancien nom et cette adresse. Le site du lieu est [larecreationsauna.fr](https://www.larecreationsauna.fr/)."
+        }
+      ],
+      "sources": [
+        "s9",
+        "s10",
+        "s11",
+        "s12",
+        "s13",
+        "s18",
+        "s19",
+        "s21",
+        "s22",
+        "s23",
+        "s27",
+        "s32",
+        "s35"
+      ]
+    },
+    {
+      "id": "entree-gratuite-femmes-couples",
+      "title": "Entrée offerte aux femmes et aux couples, 50 € pour un homme seul le samedi",
+      "icon": "euro",
+      "summary": "En octobre 2026, femmes et couples entrent sans payer mais prennent une consommation à 10 € chacun ; un homme seul paie 40 €, 50 € le vendredi et le samedi.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "La grille mise en ligne à l'été 2026 creuse l'écart entre publics : l'entrée est offerte aux femmes seules et aux couples mixtes, contre une consommation obligatoire à 10 € par personne, tandis qu'un homme seul paie 40 €, puis 50 € le vendredi et le samedi. Le 10 juin 2026 encore, couples et femmes payaient 30 € et 15 € du lundi au jeudi. Vestiaire à clé, tongs et serviettes sont compris pour tous."
+        },
+        {
+          "kind": "list",
+          "title": "Trois points restent flous :",
+          "items": [
+            "une consommation est-elle comprise pour un homme seul ? Jusqu'en juin 2026 au moins, le tarif du week-end l'incluait ; la mention a disparu de la grille visible et ne survit qu'en commentaire dans le code de la page ;",
+            "le prix des boissons n'est pas publié : les cartes du bar en PDF, en ligne en 2022, renvoient une erreur ;",
+            "le règlement intérieur précise que les tarifs en vigueur sont ceux affichés dans l'établissement : un appel au 01 46 04 13 08 tranche."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Méfiez-vous aussi des guides : la fiche du Petit Futé consultée en octobre 2026 indique encore 30 € pour un homme seul et 20 € pour un couple, des prix proches de la grille de 2022, et le guide en ligne Sauna Club Le Bali, publié en avril 2026, affiche la grille d'avant l'été."
+        },
+        {
+          "kind": "table",
+          "caption": "De la Caverne en 2007 à La Récréation en 2026 : les prix d'entrée relevés sur les sites officiels successifs (archives datées)",
+          "headers": [
+            "Relevé",
+            "Femme seule",
+            "Couple",
+            "Homme seul"
+          ],
+          "rows": [
+            [
+              "Janvier 2007 (Caverne)",
+              "Invitée",
+              "10 € l'après-midi, 15 € le soir, 10 € le dimanche",
+              "30 € l'après-midi, 50 € le soir, 40 € le dimanche"
+            ],
+            [
+              "Août 2019 (Caverne)",
+              "Invitée",
+              "Invité, une consommation payante obligatoire ; samedi à thème à 30 € avec deux consommations",
+              "45 € l'après-midi, 65 € le soir, 55 € le dimanche"
+            ],
+            [
+              "Mai 2020 (grille prévue avant l'ouverture)",
+              "10 €",
+              "20 €",
+              "50 €"
+            ],
+            [
+              "Août 2020 (période sanitaire)",
+              "5 €",
+              "15 €",
+              "30 €"
+            ],
+            [
+              "Juillet 2022",
+              "10 €, gratuit le samedi",
+              "20 €, gratuit le samedi",
+              "30 €"
+            ],
+            [
+              "Décembre 2023 à juin 2026",
+              "15 €, gratuit le vendredi et le samedi",
+              "30 € du lundi au jeudi, gratuit le vendredi et le samedi",
+              "40 €, 50 € le vendredi et le samedi"
+            ],
+            [
+              "Octobre 2026",
+              "Gratuit, consommation à 10 €",
+              "Gratuit, consommation à 10 € par personne",
+              "40 €, 50 € le vendredi et le samedi"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Un homme seul paie aujourd'hui 50 € un samedi soir, contre 65 € le soir à la Caverne en 2019, où deux boissons sans alcool étaient toutefois comprises (une seule en 2007). Femmes et couples, qui ont payé de 5 à 30 € d'entrée de 2020 à juin 2026 hors gratuités du week-end, retrouvent un modèle proche de l'« invitation » de l'ancienne Caverne."
+        },
+        {
+          "kind": "text",
+          "body": "Venir à deux coûte donc moins cher qu'en solo un samedi : 20 € de consommations pour un duo mixte, 50 € pour un homme seul. Un homme qui préfère venir accompagné peut [trouver avec qui venir au sauna sans carte bancaire](aff:gleese) sur Gleese, site libertin français lancé fin 2024 qui vérifie chaque profil par téléphone ; plus jeune que les sites historiques, il réunit encore bien moins de membres que Wyylde."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s2",
+        "s3",
+        "s12",
+        "s15",
+        "s16",
+        "s17",
+        "s18",
+        "s19",
+        "s34",
+        "s38",
+        "s43"
+      ]
+    },
+    {
+      "id": "semaine-et-public",
+      "title": "L'après-midi du lundi au mercredi, jusqu'à 1 h le vendredi et le samedi",
+      "icon": "calendar",
+      "summary": "De 14 h à 20 h du lundi au mercredi, 19 h à 23 h le jeudi, jusqu'à 1 h le vendredi et le samedi, 16 h à 21 h le dimanche, rouvert à l'été 2026 ; tous publics chaque jour.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "La semaine suit deux rythmes. Du lundi au mercredi, le lieu ouvre l'après-midi, de 14 h à 20 h, comme la Caverne qui ouvrait déjà de 14 h à 19 h avant une seconde séance le soir. Du jeudi au samedi, il n'ouvre qu'à 19 h, jusqu'à 23 h le jeudi et 1 h le vendredi et le samedi, l'heure à laquelle finissaient les soirées de la Caverne en 2019."
+        },
+        {
+          "kind": "text",
+          "body": "Le dimanche, de 16 h à 21 h, est un retour : le site annonçait le lieu fermé ce jour-là d'août 2024 à juin 2026 au moins, et un message de septembre 2026 du livre d'or raconte une visite un dimanche. En 2007, la Caverne y tenait ses « Dimanches Coquins » avec cocktail à 18 h, une formule encore à son programme en 2019, de 15 h à 21 h."
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Jeudi après-midi et dimanche : les annuaires ont une grille de retard",
+          "body": "Jusqu'au 10 juin 2026 au moins, le site affichait 14 h-21 h du lundi au jeudi, 19 h-1 h le vendredi et le samedi, et le dimanche fermé ; au printemps 2025, le jeudi était fermé lui aussi. Cylex (fiche mise à jour le 19 septembre 2026) et le guide Sauna Club Le Bali reprennent encore cette ancienne grille : pour un jeudi après-midi ou un dimanche, seul le site officiel fait foi."
+        },
+        {
+          "kind": "text",
+          "body": "Le site s'adresse à un public « averti, tolérant et ouvert » et revendique une clientèle mêlant bisexuels, hétérosexuels et gay friendly. La grille admet les trois catégories, femmes seules, couples mixtes et hommes seuls, chaque jour d'ouverture ; aucune soirée réservée aux couples n'est annoncée. Le règlement proscrit les attitudes agressives ou trop insistantes et les propos racistes ou homophobes."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s2",
+        "s3",
+        "s5",
+        "s18",
+        "s20",
+        "s38",
+        "s39",
+        "s43"
+      ]
+    },
+    {
+      "id": "livre-d-or-2026",
+      "title": "Dix messages au livre d'or en septembre et octobre 2026, dont quatre pour se fixer rendez-vous",
+      "icon": "users",
+      "summary": "Dix messages de septembre et d'octobre 2026, modérés par le club : rendez-vous entre couples, après-midi décontractés, propreté ; aucune note publique relevée.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le livre d'or donne un aperçu de la fréquentation, avec une limite : les messages sont déposés sur le site du club et modérés par lui. Nous en avons lu dix distincts, datés de septembre et d'octobre 2026 ; une archive de juin 2026 en montrait d'autres, de mars à juin. Aucune note publique n'a pu être relevée : ni sur Google, ni sur Cylex, où la fiche n'a aucun avis."
+        },
+        {
+          "kind": "text",
+          "body": "Quatre servent surtout à se donner rendez-vous : savoir si un autre couple viendra le jeudi suivant, proposer un vendredi soir, demander qui passe le jour même. Les autres parlent d'après-midi décontractés, de propreté et, une fois, d'une soirée masquée. Le club prévient pourtant que cette page n'accepte pas de petites annonces avec coordonnées."
+        },
+        {
+          "kind": "text",
+          "body": "Ces rendez-vous lancés sur la page d'un club restent aléatoires. Pour [trouver un couple de l'Ouest parisien partant pour un jeudi au sauna](aff:carre-libertin) avant de venir, Carré Libertin, ouvert en 2007, donne aux couples et aux femmes un accès complet gratuit, à condition de publier trois photos de profil."
+        }
+      ],
+      "sources": [
+        "s5",
+        "s38",
+        "s39"
+      ]
+    },
+    {
+      "id": "sauna-hammam-mercredi-naturiste",
+      "title": "Sauna en lumière rouge, hammam bleu et dix minutes par heure au maximum dans chacun",
+      "icon": "spa",
+      "summary": "Sauna boisé éclairé en rouge, hammam carrelé baigné de bleu, douche avant et après chaque passage, dix minutes par heure au plus ; le mercredi, la serviette est facultative.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "C'est le cœur du lieu, qui se présente lui-même comme « le sauna / hammam libertin de Boulogne ». Sur les neuf photos de sa galerie, nous en avons regardé cinq : un sauna en bois éclairé de rouge, un hammam carrelé baigné de bleu, un bar en LED bleue, un salon lounge à banquettes et poufs blancs, un coin salon dont le rideau ouvre sur un couloir."
+        },
+        {
+          "kind": "text",
+          "body": "Le club dit entretenir sauna, hammam et douches plusieurs fois par jour. La fontaine à glace prévue à l'ouverture posait, selon lui, des problèmes de fonctionnement et un risque sanitaire : en octobre 2020, il annonçait son remplacement par une douche froide, dont le site actuel ne parle plus. Un texte de la même année décrit une ventilation sans recyclage d'air, avec une extraction propre au hammam et au fumoir."
+        },
+        {
+          "kind": "text",
+          "body": "Les règles d'usage sont détaillées : douche obligatoire à l'arrivée, puis avant et après chaque passage au sauna ou au hammam ; pas plus de dix minutes par heure dans ces espaces, même en bonne santé ; usage fortement déconseillé après avoir bu. Le club invite à respecter un nombre maximal de personnes dans le sauna comme dans le hammam, sans publier ce nombre."
+        },
+        {
+          "kind": "callout",
+          "tone": "tip",
+          "title": "Le mercredi, journée naturiste de 14 h à 20 h",
+          "body": "Chaque mercredi, le club invite à se passer de serviette. Le rendez-vous figurait déjà dans la grille de juillet 2022. Les autres jours, la tenue réglementaire est le nu intégral sous la serviette, le paréo ou le peignoir, sans chaussures de ville hors des vestiaires : des tongs à usage unique sont remises à l'entrée."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s3",
+        "s11",
+        "s13",
+        "s15",
+        "s33"
+      ]
+    },
+    {
+      "id": "visite-juillet-2020",
+      "title": "Cinq coins câlins, un sauna pour trois, un hammam pour six : le lieu vu en juillet 2020",
+      "icon": "building",
+      "summary": "Le club ne publie aucune capacité ; le seul récit de visite, de juillet 2020, décrit un lieu petit avec cinq coins câlins, un sauna de trois places et un hammam de six.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le club ne publie ni surface, ni nombre de cabines, ni capacité. Le seul récit de visite trouvé est celui d'un blogueur invité par la maison, publié le 9 juillet 2020 : il décrit un lieu « flambant neuf », pas très grand mais sans effet d'entassement, au rez-de-chaussée d'un immeuble avec entrée séparée."
+        },
+        {
+          "kind": "list",
+          "title": "Son plan des lieux, à l'été 2020 :",
+          "items": [
+            "un sas de contrôle à l'entrée, puis le bar sur la droite, face à une banquette et des tables ;",
+            "les vestiaires au sous-sol, par un escalier ;",
+            "un petit fumoir et cinq coins câlins : trois pour deux ou trois personnes, deux plus grands fermant au verrou, dont un percé d'une fenêtre pour qui aime voir ou être vu ;",
+            "au bout du couloir, une grande douche, le sauna (trois personnes), le hammam (six personnes) et un salon télé avec deux marches pour s'asseoir et deux glory holes."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Ces chiffres ont six ans et viennent d'un visiteur invité, au ton très favorable : un ordre de grandeur, pas un état des lieux. Ce jour-là, en fin d'après-midi de semaine, il comptait deux couples et trois hommes."
+        },
+        {
+          "kind": "text",
+          "body": "Le Petit Futé, qui affiche le lieu comme « Recommandé 2026 », décrit pour sa part des vestiaires agrandis lors des travaux, plusieurs cabines équipées dont une avec une croix de Saint-André, et un salon vidéo ; le site du club ne mentionne pas cette croix."
+        }
+      ],
+      "sources": [
+        "s34",
+        "s35"
+      ]
+    },
+    {
+      "id": "cabines-fumoir-reglement",
+      "title": "Cabines à fermer ou à laisser ouvertes, fumoir intérieur, téléphone au casier",
+      "icon": "lock",
+      "summary": "Vestiaire réservé aux femmes, bar sous licence IV, salon TV, cabines privatives et fumoir ; téléphones au casier, prostitution et massages payants interdits.",
+      "blocks": [
+        {
+          "kind": "list",
+          "title": "Hors des espaces chauds, le site décrit :",
+          "items": [
+            "des vestiaires non mixtes, dont un réservé aux femmes ;",
+            "un bar sous licence IV (boissons chaudes et froides, cocktails avec ou sans alcool, en-cas salés ou sucrés) ouvert sur un espace lounge ;",
+            "un salon TV et des cabines privatives, à occuper à deux ou davantage, porte close ou laissée ouverte au choix des occupants ;",
+            "un fumoir, pour fumer sans quitter l'établissement, ce qui compte puisque toute sortie est définitive."
+          ]
+        },
+        {
+          "kind": "list",
+          "title": "Ce que fixe le règlement intérieur, en neuf articles :",
+          "items": [
+            "entrée interdite aux mineurs, même accompagnés ; une pièce officielle peut être demandée ;",
+            "téléphones et appareils photo restent au casier ; seuls les accès et le bar sont sous vidéosurveillance ;",
+            "préservatifs et gel en dosettes sont fournis, et leur usage systématique est demandé ;",
+            "tabac et vapotage uniquement au fumoir ; ni boisson ni nourriture apportées de l'extérieur ;",
+            "prostitution et prestations payantes, massages compris, interdites ;",
+            "le bar refuse l'alcool à une personne manifestement ivre."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "La charte du libertinage, publiée à côté, insiste sur le consentement : chacun reste libre de refuser ce dont il n'a pas envie. Ses conseils de tenue, qui déconseillent jeans, baskets et tee-shirts aux hommes, pantalons et jupes longues aux femmes, semblent écrits pour un club de soirée plutôt que pour un sauna où l'on circule en serviette."
+        },
+        {
+          "kind": "text",
+          "body": "Un espace membres en ligne, « Le Club de La Récréation », réservé aux majeurs, affiche « en cours de maintenance » en octobre 2026 ; la grille tarifaire ne mentionne aucune adhésion."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s3",
+        "s7",
+        "s8",
+        "s11",
+        "s33"
+      ]
+    },
+    {
+      "id": "chronologie-114-avenue-morizet",
+      "title": "De l'enseigne de juin 2002 au livre d'or de 2026 : vingt-quatre ans au 114 avenue André Morizet",
+      "icon": "history",
+      "summary": "Enseigne au registre dès juin 2002, tenue à partir de novembre 2002 par SUNEVE, absorbée en mars 2025 par NINHAS, installée au même numéro en 2019 ; mentions légales non mises à jour.",
+      "blocks": [
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "21 juin 2002",
+              "text": "L'enseigne « La Caverne de Vénus » apparaît au registre des entreprises au 114-118 avenue André Morizet. Elle appartient à SUNEV SARL, dont le siège est rue du Pélican, dans le 1er arrondissement de Paris."
+            },
+            {
+              "date": "18 novembre 2002",
+              "text": "Création de SUNEVE ; le même jour, l'établissement de SUNEV ferme au registre. Les dates suggèrent une reprise du fonds, sans qu'un document publié le dise."
+            },
+            {
+              "date": "Février 2004",
+              "text": "Première capture connue du domaine lacavernedevenus.com, qui renvoie vers des pages personnelles."
+            },
+            {
+              "date": "1er février 2007",
+              "text": "La Caverne passe non-fumeur. Son site décrit sauna, hammam, bar climatisé, salon vidéo et « coins câlins », et renvoie vers celui des [Nuits de Vénus](/les-nuits-de-venus-paris), à Paris."
+            },
+            {
+              "date": "Janvier 2016",
+              "text": "SUNEVE passe de SARL à SAS."
+            },
+            {
+              "date": "Fin août 2019",
+              "text": "Dernière grille tarifaire connue de la Caverne (capture du 27 août). Le 28 août, SUNEVE dépose le domaine larecreationsauna.fr."
+            },
+            {
+              "date": "18 septembre 2019",
+              "text": "Une autre société, NINHAS, démarre son activité au même numéro sous le nom commercial « La Récréation »."
+            },
+            {
+              "date": "Octobre 2019",
+              "text": "Le site de la Caverne annonce la fermeture pour travaux et l'ouverture de La Récréation en décembre."
+            },
+            {
+              "date": "Mars 2020",
+              "text": "L'ouverture, prévue le 20 mars, est repoussée par le confinement."
+            },
+            {
+              "date": "9 juillet 2020",
+              "text": "Premier récit de visite connu, sur un blog : lieu neuf, ouvert de 12 h à 22 h sauf le mercredi, comme le prévoyait la grille annoncée en mai."
+            },
+            {
+              "date": "Août 2020",
+              "text": "Le site affiche masque, jauge et tarifs abaissés à 5, 15 et 30 € ; une annonce d'horaires modifiés les 22 et 23 juin, restée masquée dans le code de la page, laisse penser que le lieu était ouvert dès juin."
+            },
+            {
+              "date": "Octobre-novembre 2020",
+              "text": "Fermeture totale pendant le couvre-feu, « comme tous les bars du département », sur décision préfectorale ; le club annonce qu'une douche froide remplacera la fontaine à glace."
+            },
+            {
+              "date": "Avril 2021 au plus tard",
+              "text": "L'ancien domaine redirige vers larecreationsauna.fr en annonçant que la Caverne a fermé ses portes."
+            },
+            {
+              "date": "Juin 2021",
+              "text": "Le 20 juin, le site affiche « Votre club est rouvert », tous les jours à partir de 14 h ; le code de la page conserve, masquée, l'annonce d'une réouverture le mercredi 9 juin."
+            },
+            {
+              "date": "Juillet 2021",
+              "text": "Le SNEG & Co, « syndicat des lieux festifs & de la diversité », présente La Récréation dans sa rubrique « Lieux libertins » comme adhérente depuis 2020."
+            },
+            {
+              "date": "Juillet 2022",
+              "text": "Journée naturiste le mercredi, « After Work » le jeudi et le vendredi dès 18 h, privatisation possible à 20 € par personne plus 200 € de l'heure."
+            },
+            {
+              "date": "29 février 2024",
+              "text": "Le domaine lacavernedevenus.com est réenregistré ; un blog sans lien démontré avec le lieu s'y installe en mars."
+            },
+            {
+              "date": "Août 2024 – juin 2026",
+              "text": "Le site annonce le lieu fermé le dimanche ; au printemps 2025, le jeudi l'est aussi. Les prix de décembre 2023 restent affichés."
+            },
+            {
+              "date": "2025-2026",
+              "text": "NINHAS, devenue l'associée unique de SUNEVE, la dissout sans liquidation : tout le patrimoine de SUNEVE lui est transmis le 14 mars 2025, jour où l'établissement de SUNEVE ferme au registre. La radiation paraît au BODACC en mai 2026."
+            },
+            {
+              "date": "Été 2026",
+              "text": "Nouvelle grille : ouverture le dimanche et le jeudi soir, entrée gratuite tous les jours pour les femmes et les couples, contre une consommation."
+            },
+            {
+              "date": "Septembre-octobre 2026",
+              "text": "Le site publie horaires et tarifs à jour et une dizaine de messages de visiteurs datés de ces deux mois."
+            }
+          ]
+        },
+        {
+          "kind": "callout",
+          "tone": "info",
+          "title": "Suneve, absorbée en 2025, figure toujours dans les mentions légales",
+          "body": "Les mentions légales du site désignent toujours la SAS Suneve (SIREN 444 160 691), qui a porté La Caverne de Vénus puis La Récréation. Or Suneve a été dissoute sans liquidation : son associée unique, NINHAS, a recueilli tout son patrimoine le 14 mars 2025, et sa radiation a paru au BODACC en mai 2026. Le site, le téléphone et les horaires restent tenus à jour en octobre 2026."
+        },
+        {
+          "kind": "text",
+          "body": "NINHAS, immatriculée au même numéro sous le nom commercial « La Récréation » dès septembre 2019, en plein chantier, détient donc désormais ce que possédait Suneve. Le registre ne dit pas quand elle en a pris le contrôle. Le Petit Futé situe un changement de propriétaires en mars 2020, et un blog de voyage salue un club qui vient de changer « de propriétaire et de nom »."
+        }
+      ],
+      "sources": [
+        "s4",
+        "s5",
+        "s9",
+        "s10",
+        "s11",
+        "s12",
+        "s13",
+        "s14",
+        "s15",
+        "s18",
+        "s19",
+        "s21",
+        "s22",
+        "s23",
+        "s24",
+        "s25",
+        "s26",
+        "s28",
+        "s29",
+        "s30",
+        "s31",
+        "s34",
+        "s35",
+        "s36",
+        "s37",
+        "s38",
+        "s42"
+      ]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Lundi": "14 h – 20 h",
+      "Mardi": "14 h – 20 h",
+      "Mercredi": "14 h – 20 h (journée naturiste)",
+      "Jeudi": "19 h – 23 h",
+      "Vendredi": "19 h – 1 h",
+      "Samedi": "19 h – 1 h",
+      "Dimanche": "16 h – 21 h"
+    },
+    "note": "Horaires affichés sur le site officiel les 16 et 20 octobre 2026, en place depuis l'été 2026 : jusqu'au 10 juin 2026 au moins, le lieu ouvrait de 14 h à 21 h du lundi au jeudi et fermait le dimanche, grille que reprennent encore des annuaires. En 2022, il fermait les 24, 25 et 31 décembre et le 1er janvier, et pouvait être privatisé ; non confirmé pour 2026.",
+    "confidence": "source_unique",
+    "sources": [
+      "s1",
+      "s5",
+      "s15",
+      "s38",
+      "s39"
+    ]
+  },
+  "tarifs": {
+    "rows": {
+      "Femme seule": "Entrée gratuite, consommation obligatoire à 10 €",
+      "Couple mixte": "Entrée gratuite, consommation obligatoire à 10 € par personne",
+      "Homme seul, du lundi au jeudi et le dimanche": "40 €",
+      "Homme seul, vendredi et samedi": "50 €",
+      "Location de peignoir": "5 €"
+    },
+    "note": "Grille du site officiel aux 16 et 20 octobre 2026, mise en ligne après le 10 juin 2026. Comprend vestiaire fermant à clé, tongs, serviettes, paréo pour les femmes, thé ou café à volonté du lundi au jeudi ; grignotage offert avec les consommations du jeudi au samedi. Toute sortie est définitive. Le règlement renvoie aux tarifs affichés sur place.",
+    "confidence": "confirme",
+    "sources": [
+      "s1",
+      "s2",
+      "s3",
+      "s38"
+    ]
+  },
+  "equipements": [
+    "Sauna",
+    "Hammam",
+    "Douches",
+    "Bar à cocktails (licence IV) et espace lounge",
+    "Salon TV",
+    "Cabines privatives",
+    "Fumoir",
+    "Vestiaires non mixtes, dont un réservé aux femmes",
+    "Casiers fermant à clé"
+  ],
+  "officialLinks": [
+    {
+      "label": "Site officiel de La Récréation Sauna",
+      "url": "https://www.larecreationsauna.fr/",
+      "kind": "site"
+    },
+    {
+      "label": "Galerie « Une visite en images » (9 photos : sauna, hammam, bar, salons), sur la page d'accueil",
+      "url": "https://www.larecreationsauna.fr/",
+      "kind": "galerie"
+    },
+    {
+      "label": "Tarifs",
+      "url": "https://www.larecreationsauna.fr/Tarif.php",
+      "kind": "autre"
+    },
+    {
+      "label": "Règlement intérieur",
+      "url": "https://www.larecreationsauna.fr/Reglement.php",
+      "kind": "autre"
+    },
+    {
+      "label": "Page Facebook liée depuis le site (illisible sans connexion)",
+      "url": "https://www.facebook.com/larecreation.saunahammam",
+      "kind": "facebook"
+    }
+  ],
+  "corrections": {
+    "site_web": "https://www.larecreationsauna.fr/",
+    "email": "contact@larecreationsauna.fr",
+    "sources": [
+      "s1",
+      "s4",
+      "s10"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Y a-t-il un club libertin à Boulogne-Billancourt ?",
+      "answer": "Notre annuaire n'en recense qu'un : La Récréation Sauna, 114 avenue André Morizet, sauna-hammam libertin ouvert aux femmes seules, aux couples et aux hommes seuls, à deux minutes à pied du métro Boulogne – Pont de Saint-Cloud (ligne 10). On n'y vient pas en tenue de soirée : on circule en serviette entre sauna, hammam, bar et cabines. L'autre établissement des Hauts-de-Seine de notre annuaire, [Le Roi René à Ville-d'Avray](/le-roi-rene-ville-d-avray), était déjà décrit par Vice en août 2015 comme fermé depuis environ deux ans ; les pages [Boulogne-Billancourt](/ville/boulogne-billancourt) et [Hauts-de-Seine](/departement/hauts-de-seine) regroupent les lieux du secteur."
+    },
+    {
+      "question": "La Caverne de Vénus est-elle fermée ?",
+      "answer": "Sous ce nom, oui, depuis l'automne 2019. Le lieu a fermé pour travaux et rouvert en 2020 sous le nom de La Récréation Sauna, à la même adresse et avec le même téléphone, le 01 46 04 13 08. Méfiez-vous de lacavernedevenus.com : réenregistré en février 2024, ce domaine ne mène plus au club et affiche des tarifs de 2019 qui ne sont plus appliqués."
+    },
+    {
+      "question": "Pourquoi PagesJaunes affiche-t-il La Récréation « fermée définitivement » ?",
+      "answer": "La fiche PagesJaunes « La Récréation », classée parmi les cafés-bars, porte cette mention et précise que le professionnel n'y est plus référencé. Le lieu fonctionne pourtant : en octobre 2026, le site officiel publie horaires, tarifs et messages de visiteurs du mois. La mention suit sans doute la fermeture au registre, en mars 2025, de l'établissement de Suneve, l'ancienne société exploitante absorbée par NINHAS. D'autres annuaires, comme Cylex, affichent des horaires d'avant l'été 2026 : en cas de doute, appelez le 01 46 04 13 08."
+    },
+    {
+      "question": "Combien paie un homme seul à La Récréation ?",
+      "answer": "40 € du lundi au jeudi et le dimanche, 50 € le vendredi et le samedi, selon le site au 20 octobre 2026. Vestiaire à clé, serviettes et tongs sont compris. Jusqu'en juin 2026 au moins, le tarif du vendredi et du samedi incluait une consommation ; la grille actuelle ne le précise plus, mieux vaut le demander au 01 46 04 13 08."
+    },
+    {
+      "question": "Le sauna de Boulogne est-il naturiste ?",
+      "answer": "Le mercredi seulement, de 14 h à 20 h, journée où le club invite à se passer de serviette. Les autres jours, le règlement impose le nu intégral sous la serviette, le paréo ou le peignoir, et interdit les chaussures de ville hors des vestiaires."
+    },
+    {
+      "question": "Y a-t-il des soirées à thème ?",
+      "answer": "Aucune n'est annoncée en octobre 2026 : le site n'affiche que le mercredi naturiste, sa page d'actualités renvoie une erreur et la page Facebook liée n'est pas lisible sans connexion. Le lieu en a eu : samedi à thème à 30 € pour les couples à la Caverne en 2019, « After Work » le jeudi et le vendredi dès 18 h en 2022, et un message de septembre 2026 du livre d'or évoque une soirée masquée sans dire qui l'organisait. Pour repérer une soirée datée dans le secteur, [l'agenda de l'ex-Netéchangisme pour Paris et les Hauts-de-Seine](aff:wyylde) se consulte avec un compte gratuit sur Wyylde ; il liste les soirées que les clubs y publient, sans que nous sachions si La Récréation en fait partie."
+    },
+    {
+      "question": "Faut-il réserver ou être membre ?",
+      "answer": "Le site ne parle ni de réservation ni d'adhésion : la grille ne liste que des droits d'entrée et des consommations. Un espace membres en ligne existe, réservé aux majeurs, mais il est en maintenance en octobre 2026. En 2022, le lieu pouvait être privatisé pour un groupe et donc fermé au public ces jours-là : un appel au 01 46 04 13 08 évite de trouver porte close."
+    },
+    {
+      "question": "Comment venir au 114 avenue André Morizet ?",
+      "answer": "En métro, ligne 10, station Boulogne – Pont de Saint-Cloud, à deux minutes à pied selon le club. L'ancien site de la Caverne conseillait en 2007 de sortir côté rond-point Rhin-et-Danube, puis de prendre la direction du centre-ville. Le site actuel ne dit rien du stationnement ; un blogueur venu en juillet 2020 décrivait une avenue large où se garer ne semblait pas difficile."
+    }
+  ],
+  "unverified": [
+    "Date à laquelle NINHAS a pris le contrôle de Suneve (le Petit Futé situe un changement de propriétaires en mars 2020) ; les mentions légales du site seront-elles mises à jour ?",
+    "Une consommation est-elle encore comprise dans l'entrée homme seul du vendredi et du samedi, comme jusqu'en juin 2026 ?",
+    "Date exacte du passage à la grille actuelle d'horaires et de tarifs, entre le 10 juin et septembre 2026.",
+    "Prix des boissons au bar : les cartes en PDF ne sont plus en ligne.",
+    "Jours de fermeture annuelle et privatisation en 2026 (en 2022 : fermé les 24, 25 et 31 décembre et le 1er janvier ; privatisation à 20 € par personne plus 200 € de l'heure).",
+    "Surface et capacités actuelles : le seul descriptif (cinq coins câlins, sauna de trois places, hammam de six) date de juillet 2020.",
+    "Date exacte d'ouverture de La Récréation (entre le 16 mai et le 9 juillet 2020) et date réelle de création de la Caverne de Vénus, peut-être antérieure à 2002.",
+    "Note Google : toujours non relevée ; Cylex n'affiche aucun avis.",
+    "Activité de la page Facebook liée depuis le site et rôle de l'espace membres, en maintenance.",
+    "Stationnement : aucune information officielle, seulement l'impression d'un visiteur de 2020."
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "La Récréation Sauna, page d'accueil du site officiel (horaires, tarifs, espaces, livre d'or)",
+      "url": "https://www.larecreationsauna.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s2",
+      "label": "La Récréation Sauna, page « Tarifs »",
+      "url": "https://www.larecreationsauna.fr/Tarif.php",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s3",
+      "label": "La Récréation Sauna, « Règlement intérieur » (9 articles)",
+      "url": "https://www.larecreationsauna.fr/Reglement.php",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s4",
+      "label": "La Récréation Sauna, « Mentions légales »",
+      "url": "https://www.larecreationsauna.fr/MentionLegale.php",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s5",
+      "label": "La Récréation Sauna, « Témoignages » (livre d'or modéré par le club)",
+      "url": "https://www.larecreationsauna.fr/Temoignage.php",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s6",
+      "label": "La Récréation Sauna, page « Contact »",
+      "url": "https://www.larecreationsauna.fr/Contact.php",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s7",
+      "label": "La Récréation Sauna, « Charte du libertinage »",
+      "url": "https://www.larecreationsauna.fr/Charte-Libertinage.php",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s8",
+      "label": "« Le Club de La Récréation », page d'accueil publique de l'espace membres",
+      "url": "https://club.larecreationsauna.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s9",
+      "label": "lacavernedevenus.com, archive du 26/10/2019 (annonce de la fermeture pour travaux)",
+      "url": "https://web.archive.org/web/20191026022048/http://www.lacavernedevenus.com/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s10",
+      "label": "lacavernedevenus.com, archive du 16/04/2021 (redirection vers La Récréation)",
+      "url": "https://web.archive.org/web/20210416131656/http://www.lacavernedevenus.com/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s11",
+      "label": "larecreationsauna.fr, archive du 16/05/2020 (ouverture repoussée par le confinement)",
+      "url": "https://web.archive.org/web/20200516074451/http://larecreationsauna.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s12",
+      "label": "larecreationsauna.fr, archive du 20/08/2020 (club ouvert, mesures sanitaires)",
+      "url": "https://web.archive.org/web/20200820153801/https://www.larecreationsauna.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s13",
+      "label": "larecreationsauna.fr, page « Présentation », archive du 28/10/2020 (et accueil du 30/11/2020)",
+      "url": "https://web.archive.org/web/20201028081305/https://larecreationsauna.fr/Presentation.php",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s14",
+      "label": "larecreationsauna.fr, archive du 20/06/2021 (réouverture)",
+      "url": "https://web.archive.org/web/20210620222641/https://www.larecreationsauna.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s15",
+      "label": "larecreationsauna.fr, « Tarifs et horaires », archive du 05/07/2022",
+      "url": "https://web.archive.org/web/20220705183126/https://www.larecreationsauna.fr/Tarif-Horaire.php",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s16",
+      "label": "larecreationsauna.fr, « Tarifs et horaires », archive du 02/12/2023",
+      "url": "https://web.archive.org/web/20231202143358/https://larecreationsauna.fr/tarifs-et-horaires/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s17",
+      "label": "larecreationsauna.fr, « Tarifs et horaires », archive du 20/05/2020 (grille prévue)",
+      "url": "https://web.archive.org/web/20200520225901/http://larecreationsauna.fr/Tarif-Horaire.php",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s18",
+      "label": "Ancien site de La Caverne de Vénus (pages perso Orange), archives de janvier 2007",
+      "url": "https://web.archive.org/web/20070118193726/http://perso.orange.fr:80/lacavernedevenus/index.htm",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s19",
+      "label": "Ancien site de La Caverne de Vénus, page « tarif », archive du 27/08/2019",
+      "url": "https://web.archive.org/web/20190827042810/http://web.lerelaisinternet.com:80/lacavernedevenus/tarif.htm",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s20",
+      "label": "Ancien site de La Caverne de Vénus, page « ouvert », archive du 25/08/2019 (et page « soirée » du 06/09/2019)",
+      "url": "https://web.archive.org/web/20190825213916/http://web.lerelaisinternet.com/lacavernedevenus/ouvert.htm",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s21",
+      "label": "lacavernedevenus.com, site actuel repris par un tiers et historique des captures Wayback",
+      "url": "https://web.archive.org/cdx/search/cdx?url=www.lacavernedevenus.com&fl=timestamp,statuscode&collapse=timestamp:6",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s22",
+      "label": "RDAP Verisign, domaine lacavernedevenus.com (enregistrement du 29/02/2024)",
+      "url": "https://rdap.verisign.com/com/v1/domain/lacavernedevenus.com",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s23",
+      "label": "RDAP AFNIC, domaine larecreationsauna.fr (titulaire SUNEVE, déposé le 28/08/2019)",
+      "url": "https://rdap.nic.fr/domain/larecreationsauna.fr",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s24",
+      "label": "Annuaire des entreprises, SUNEVE (SIREN 444 160 691)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/444160691",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s25",
+      "label": "Annuaire des entreprises, SUNEV SARL (SIREN 440 129 542), enseigne « La Caverne de Vénus »",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/440129542",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s26",
+      "label": "Annuaire des entreprises, NINHAS (SIREN 877 735 175), nom commercial « La Récréation »",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/877735175",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s27",
+      "label": "BODACC, SUNEVE « La Caverne de Vénus », modifications du 17/11/2019",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:B201902211943",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s28",
+      "label": "BODACC, SUNEVE, transmission universelle de patrimoine du 12/02/2025",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:B202500304109",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s29",
+      "label": "BODACC, SUNEVE, radiation du 26/05/2026",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:B202600988069",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s30",
+      "label": "BODACC, NINHAS, immatriculation (2019) et augmentation de capital (16/05/2025)",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:B202500942793",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s31",
+      "label": "BODACC, historique des annonces de SUNEVE (passage de SARL à SAS en 2016)",
+      "url": "https://bodacc-datadila.opendatasoft.com/api/explore/v2.1/catalog/datasets/annonces-commerciales/records?where=search(registre,%22444160691%22)",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s32",
+      "label": "sauna-club-libertin.com, fiche « La Caverne de Vénus » (annuaire non mis à jour)",
+      "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_3.php?id=278&d=92",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s33",
+      "label": "Galerie « Une visite en images » du site officiel (9 photos, 5 examinées)",
+      "url": "https://www.larecreationsauna.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s34",
+      "label": "Petit Futé, fiche « La Récréation » (Boulogne-Billancourt), mention « Recommandé 2026 »",
+      "url": "https://www.petitfute.com/v17199-boulogne-billancourt-92100/c9998-coquin/c1044-s-amuser-sortir/c208-sauna/1909639-la-recreation.html",
+      "type": "presse",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s35",
+      "label": "My Mind's Visit (blog), « Sauna – La Récréation (Boulogne-Billancourt) », récit d'une visite sur invitation, 9 juillet 2020",
+      "url": "https://mymindsvisite.wordpress.com/2020/07/09/sauna-la-recreation-boulogne-billancourt/",
+      "type": "autre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s36",
+      "label": "SNEG & Co, fiche « La Récréation » (rubrique « Lieux libertins », juillet 2021, « Adhérent depuis 2020 »)",
+      "url": "https://www.snegandco.fr/la-recreation/",
+      "type": "autre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s37",
+      "label": "societe.com, SARL Suneve : observations du greffe (dissolution, transmission du patrimoine à NINHAS le 14/03/2025) et annonces légales",
+      "url": "https://www.societe.com/societe/sarl-suneve-444160691.html",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s38",
+      "label": "larecreationsauna.fr, archives de l'accueil d'août 2024 à juin 2026 (horaires, tarifs, livre d'or)",
+      "url": "https://web.archive.org/web/20260610215848/https://www.larecreationsauna.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s39",
+      "label": "Cylex, fiche « La Récréation Bar Sauna Hammam » (mise à jour du 19/09/2026)",
+      "url": "https://www.cylex-locale.fr/entreprises/la-r%C3%A9cr%C3%A9ation-bar-sauna-hammam-14205015.html",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s40",
+      "label": "PagesJaunes, fiche « La Récréation » (« Fermé définitivement »)",
+      "url": "https://www.pagesjaunes.fr/pros/08842253",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s41",
+      "label": "Vice, « L'histoire du Roi René, premier club libertin français », 5 août 2015",
+      "url": "https://www.vice.com/fr/article/roi-rene-premier-club-libertin-francais-452/",
+      "type": "presse",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s42",
+      "label": "Voyage Insolite, « Top 4 des clubs libertins en Île-de-France, en dehors de Paris » (passage sur La Récréation ajouté après 2019)",
+      "url": "https://www.voyage-insolite.com/2019/04/08/top-4-des-clubs-libertins-en-ile-de-france-en-dehors-de-paris/",
+      "type": "autre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s43",
+      "label": "Sauna Club Le Bali, guide des Hauts-de-Seine (avril 2026) et fiche « La Récréation »",
+      "url": "https://www.saunaclublebali.fr/listing/la-recreation-boulogne-billancourt-92/",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    }
+  ]
+}

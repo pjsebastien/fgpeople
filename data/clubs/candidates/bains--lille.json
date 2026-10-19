@@ -1,0 +1,9 @@
+{
+  "nom": "Les Bains",
+  "ville": "Lille",
+  "url": "https://www.lesbains.fr/",
+  "foundIn": [
+    "orelax-lens"
+  ],
+  "status": "todo"
+}
