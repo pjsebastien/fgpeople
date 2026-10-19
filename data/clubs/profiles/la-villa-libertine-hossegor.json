@@ -1,0 +1,639 @@
+{
+  "slug": "la-villa-libertine-hossegor",
+  "clubId": "370",
+  "researchedAt": "2026-10-19",
+  "display": {
+    "nom": "La Villa Libertine",
+    "ville": "Hossegor"
+  },
+  "status": {
+    "value": "fermeture_probable",
+    "summary": "En octobre 2011, la page d'accueil du site des hôtes annonce que les sites et noms de domaine de La Villa Libertine sont « tous à vendre ». Les téléphones disparaissent en 2012, le site fin 2013 ; le domaine renvoie ensuite vers des sites tiers, expire, puis est réenregistré en 2021 par un titulaire anonyme. La dernière offre datée trouvée porte sur juillet 2010, et aucune annonce de fermeture n'a été publiée.",
+    "sources": [
+      "s8",
+      "s9",
+      "s13",
+      "s14",
+      "s12",
+      "s25"
+    ]
+  },
+  "seo": {
+    "title": "La Villa Libertine près d'Hossegor : avis et fermeture probable",
+    "metaDescription": "Maison d'hôtes libertine pour couples et femmes seules près d'Hossegor, sans activité attestée après 2011 : tarifs de 2010, vidéos de 2009, site refait en 2021.",
+    "subtitle": "Maison d'hôtes libertine du sud des Landes, sans activité attestée depuis 2011",
+    "targetQueries": [
+      "la villa libertine",
+      "club libertin hossegor",
+      "la villa libertine avis",
+      "club echangiste hossegor",
+      "la villa libertine hossegor",
+      "villa libertine",
+      "la villa libertine photos",
+      "massage erotique hossegor"
+    ]
+  },
+  "lead": "La Villa Libertine n'était ni un club ni un sauna, mais une maison d'hôtes libertine du sud des Landes : un couple y recevait d'autres couples et des femmes seules pour une soirée, un week-end ou une semaine, dîner à table et soirée à thème compris. Ouverte l'été dès 1999, relancée en 2007, déménagée en 2010 « près d'Hossegor », elle n'a plus d'activité attestée après octobre 2011, quand ses hôtes ont mis en vente leurs noms de domaine. Le site qui porte son nom a été remonté en 2021 par un titulaire anonyme, après l'expiration du domaine.",
+  "keyFacts": [
+    {
+      "label": "Nature du lieu",
+      "value": "Maison d'hôtes libertine en demi-pension, ni club ni sauna",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s5",
+        "s6",
+        "s9"
+      ]
+    },
+    {
+      "label": "Public admis",
+      "value": "Couples et femmes seules, aucun homme seul",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s3",
+        "s9"
+      ]
+    },
+    {
+      "label": "Offres publiées",
+      "value": "Étés 1999 à 2001, puis de 2007 à 2011 ; dernière offre datée en juillet 2010",
+      "confidence": "confirme",
+      "sources": [
+        "s22",
+        "s23",
+        "s1",
+        "s25",
+        "s8",
+        "s12"
+      ]
+    },
+    {
+      "label": "Localisation",
+      "value": "Bourg de Labenne en 2007-2008, puis une commune non publiée « près d'Hossegor » à partir de 2010",
+      "confidence": "source_unique",
+      "sources": [
+        "s2",
+        "s5"
+      ]
+    },
+    {
+      "label": "Chambres",
+      "value": "Cinq l'été vers 2000 ; trois ou quatre selon les semaines après 2010, plus une salle de jeux",
+      "confidence": "source_unique",
+      "sources": [
+        "s29",
+        "s5"
+      ]
+    },
+    {
+      "label": "Dernier tarif connu",
+      "value": "98 € la nuit et 600 € la semaine par couple (été 2010)",
+      "confidence": "confirme",
+      "sources": [
+        "s6",
+        "s16"
+      ]
+    },
+    {
+      "label": "Société exploitante",
+      "value": "Aucune identifiée (ni dans les mentions légales ni au registre)",
+      "confidence": "confirme",
+      "sources": [
+        "s10",
+        "s20"
+      ]
+    },
+    {
+      "label": "lavillalibertine.fr",
+      "value": "Domaine réenregistré sous anonymat en 2021, site sans lien établi avec les hôtes",
+      "confidence": "a_verifier",
+      "sources": [
+        "s14",
+        "s17",
+        "s13"
+      ]
+    },
+    {
+      "label": "Note publique",
+      "value": "Aucune vérifiable : 5/5 sur un seul avis invisible chez un annuaire, et un livre d'or de 2008 choisi par les hôtes",
+      "confidence": "a_verifier",
+      "sources": [
+        "s11",
+        "s19",
+        "s28"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "de-2007-a-2011",
+      "title": "Des étés 1999 à la mise en vente d'octobre 2011",
+      "blocks": [
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "1999-2001",
+              "text": "Un premier site, sur une page personnelle Wanadoo, propose la semaine en demi-pension à 3 000 francs par couple, réservation par courrier avec acompte et photo, et parle des « joyeux libertins 1999 et 2000 ». Un annuaire qui reprend sa présentation annonce cinq chambres en juillet et août."
+            },
+            {
+              "date": "Juillet 2000",
+              "text": "La revue Union consacre un article à la villa, selon la page presse de ce premier site ; le contenu, publié en image, n'a pas été lu."
+            },
+            {
+              "date": "Été 2007",
+              "text": "Après une interruption, le couple d'hôtes relance l'accueil et s'adresse aux habitués des saisons précédentes."
+            },
+            {
+              "date": "2008-2009",
+              "text": "Site refait, réveillons de fin d'année ; le site cite une émission de Brigitte Lahaie sur RMC, non consultée."
+            },
+            {
+              "date": "Février-avril 2009",
+              "text": "Deux nuits à 130 € tout compris ; un week-end réservé aux moins de 30 ans."
+            },
+            {
+              "date": "25 juillet 2009",
+              "text": "Les hôtes publient sur YouTube cinq vidéos de 12 à 33 secondes : tour d'horizon, table d'hôte, chambres Aphrodite, Cupidon et Messaline. Leur chaîne n'a plus rien publié depuis."
+            },
+            {
+              "date": "Janvier 2010",
+              "text": "Déménagement « en restant près d'Hossegor », avec des chambres plus spacieuses, ouvertes toute l'année sur réservation."
+            },
+            {
+              "date": "28 juin 2010",
+              "text": "Sur X, le compte de la villa signale qu'il reste quelques places du 10 au 17 juillet : c'est la dernière offre datée retrouvée."
+            },
+            {
+              "date": "Nov. 2010 – sept. 2011",
+              "text": "La page d'accueil titre « Nouveau local »."
+            },
+            {
+              "date": "Octobre 2011",
+              "text": "Ce titre cède la place à la mise en vente des sites et noms de domaine."
+            },
+            {
+              "date": "2012",
+              "text": "Téléphones retirés ; seul un courriel permet encore de joindre les hôtes."
+            },
+            {
+              "date": "2013-2021",
+              "text": "Le site d'origine, encore archivé en août 2013, a disparu en janvier 2014 ; le domaine renvoie ensuite vers des sites tiers, dont un site d'échangisme sans lien avec la villa."
+            },
+            {
+              "date": "Octobre-novembre 2021",
+              "text": "Le domaine, expiré, est réenregistré sous anonymat et un nouveau site monté en trois jours."
+            }
+          ]
+        }
+      ],
+      "sources": [
+        "s22",
+        "s23",
+        "s24",
+        "s1",
+        "s3",
+        "s4",
+        "s5",
+        "s25",
+        "s8",
+        "s9",
+        "s12",
+        "s13",
+        "s14",
+        "s17",
+        "s27",
+        "s29"
+      ],
+      "icon": "history",
+      "summary": "Ouverte l'été dès 1999, relancée en 2007, déménagée en 2010 : la villa ne publie plus aucune date après 2011, quand ses hôtes mettent leurs noms de domaine en vente."
+    },
+    {
+      "id": "site-recompose-2021",
+      "title": "lavillalibertine.fr depuis novembre 2021 : un site recomposé à partir des archives",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le site répond toujours en octobre 2026 et reprend mot pour mot les textes, les chambres et la grille tarifaire de la villa. Rien ne le relie pourtant aux hôtes d'origine :\n- le domaine a été réenregistré le 19 octobre 2021 au nom d'un service suisse d'anonymisation, après sept ans de redirection vers des sites tiers ;\n- ses pages datent du 16 au 18 novembre 2021, et trois billets portent une date antérieure au rachat ;\n- la page des chambres aligne des noms sans photo, et les images sont des photos d'illustration, dont une piscine à débordement face à des collines ;\n- un billet dit Toulouse, à près de 300 km, proche de « notre villa » et renvoie vers un site de rencontres toulousain ;\n- ni téléphone, ni adresse, ni commune.\n\nLe domaine a encore été modifié au registre en octobre 2025 : quelqu'un entretient ce site, sans que l'on sache qui."
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Des photos du couple réclamées par le formulaire « Réserver »",
+          "body": "Ce formulaire exige des photos récentes du couple et vos coordonnées, sur un site qui affiche toujours les tarifs de l'été 2010. Son destinataire n'étant pas identifié, mieux vaut ne rien envoyer tant qu'un interlocuteur n'a pas fourni une adresse et des dates vérifiables."
+        }
+      ],
+      "sources": [
+        "s15",
+        "s16",
+        "s17",
+        "s14",
+        "s13",
+        "s12"
+      ],
+      "confidence": "a_verifier",
+      "icon": "warning",
+      "summary": "Le site actuel date de novembre 2021, sur un domaine réenregistré sous anonymat : il recopie textes et tarifs de 2010, et rien ne le relie aux hôtes d'origine."
+    },
+    {
+      "id": "table-d-hote-et-soirees",
+      "title": "Apéritif vers 20 h, dîner à une seule table, puis soirée à thème",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Arrivée vers 19 h 30, apéritif de présentation vers 20 h, dîner pris ensemble, puis soirée organisée par les hôtes ; petit-déjeuner jusqu'à 10 h 30 et journées libres entre Capbreton, Hossegor et Seignosse, sorties en mer sur demande. Les hôtes proposaient de venir chercher leurs invités à l'aéroport de Biarritz ou en gare de Bayonne.\n\n**Couples et femmes seules, jamais d'homme seul**, « ni pendant ni après » les soirées. Le couple d'hôtes, dont la femme se disait bi, privilégiait les couples dans le même cas ou curieux de découvrir, réservait des périodes aux débutants et excluait le sado-masochisme comme les produits illicites. L'intérieur était non-fumeur selon le site actuel ; un annuaire coche pourtant « fumeur ».\n\n**Une trentaine de thèmes** tournaient : soirée Blanche, Romaine, Plage de Minuit, Masquée, concours de strip-tease, initiation des femmes bi, soirée massages. Un article de France-Soir écrit avec le Petit Futé présentait les hôtes comme « précurseurs » des chambres et tables d'hôtes libertines, avec quatre chambres sur réservation.\n\nCôté cuisine, le site actuel cite des recettes landaises et basques maison (axoa, millas, gâteau basque), page d'origine non relue.\n\nSans villa pour encadrer les premiers pas, un couple débutant peut commencer par échanger en ligne : Gleese, site français lancé fin 2024 aux photos modérées à la main, permet de [faire ses premiers échanges de couple sans carte bancaire](aff:gleese). Sa communauté reste loin du volume de Wyylde hors des grandes villes : la densité est à vérifier dans le sud des Landes."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s3",
+        "s6",
+        "s7",
+        "s9",
+        "s12",
+        "s16",
+        "s18",
+        "s26"
+      ],
+      "icon": "food",
+      "summary": "Arrivée vers 19 h 30, apéritif, dîner à une table commune puis soirée à thème ; couples et femmes seules seulement, jamais d'homme seul."
+    },
+    {
+      "id": "grille-ete-2010",
+      "title": "98 € la nuit pour deux à l'été 2010, dîner et soirée compris",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Les prix de l'encadré s'entendaient par couple et par chambre, sans supplément au départ. La femme seule payait moitié prix pour une soirée, mais les trois quarts du tarif couple pour la semaine (450 € contre 600 €). Les semaines commençaient en général le samedi soir, un départ anticipé sans accord n'était pas remboursé, et une carte de fidélité récompensait les habitués.\n\nDix ans plus tôt, le premier site affichait une seule formule : la semaine en demi-pension à 3 000 francs par couple (environ 457 €), arrivée le samedi à 16 h.\n\nLes montants de 2010 ont seize ans. Un annuaire les recopie aujourd'hui depuis le site recomposé, avec une erreur : 515 € pour la semaine, soit en réalité le prix de six nuits."
+        }
+      ],
+      "sources": [
+        "s6",
+        "s16",
+        "s19",
+        "s23"
+      ],
+      "icon": "euro",
+      "summary": "À l'été 2010, un couple payait 60 € la soirée avec dîner, 98 € la nuit et 600 € la semaine ; une femme seule, 30 € la soirée et 450 € la semaine."
+    },
+    {
+      "id": "labenne-puis-commune-inconnue",
+      "title": "Le bourg de Labenne en 2007, puis une commune jamais nommée",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Les hôtes ne publiaient pas d'adresse : le plan d'accès partait une fois l'acompte et le solde réglés. En 2007 et 2008, l'itinéraire de leur site menait par l'A63 jusqu'au bourg de **Labenne**, au sud de Capbreton, plage à cinq minutes. Le déménagement de janvier 2010 s'est fait « près d'Hossegor », sans plus de précision : le code postal 40150 retenu par notre annuaire et le « Soorts-Hossegor » d'autres annuaires sont des approximations.\n\nLes locaux de 2010 offraient trois ou quatre chambres selon les semaines, deux salles de bains, un coin câlins avec grande douche et une salle de jeux. Les chambres Aphrodite, Messaline et Cupidon, déjà filmées en 2009, portent toujours ces noms sur le site de 2012, à côté d'un salon et d'une pergola pour les dîners d'été.\n\nAucune page d'origine consultée ne mentionne sauna, spa, jacuzzi ou piscine. Les vidéos tournées par les hôtes en juillet 2009, avant le déménagement, montrent un salon et des chambres de maison particulière. L'étiquette « sauna club » des annuaires, piste de danse comprise, ne correspond donc pas au lieu."
+        }
+      ],
+      "sources": [
+        "s2",
+        "s7",
+        "s5",
+        "s9",
+        "s18",
+        "s19",
+        "s27"
+      ],
+      "icon": "map",
+      "summary": "En 2007-2008, l'itinéraire officiel menait au bourg de Labenne ; après le déménagement de 2010, la commune n'a jamais été publiée. Aucun sauna ni spa n'est documenté."
+    },
+    {
+      "id": "euphoria-benesse-maremne",
+      "title": "Euphoria, sur la D810 à Bénesse-Maremne : le club ouvert le plus proche",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Nos sources ne documentent aucun club libertin à Hossegor même. Le lieu en activité le plus proche de notre annuaire est [Euphoria Spa](/euphoria-spa-libertin-landes), sur la D810 à Bénesse-Maremne, à une minute de la sortie 8 de l'A63 selon son site. Il annonce 250 m² intérieurs, une ouverture du jeudi au samedi et des soirées datées, dont Chic & Provoc Sexy le samedi 24 octobre 2026 et Halloween le 31. Comme à la villa, les samedis soir y sont réservés aux couples et aux femmes seules ; mais son site ne parle ni de dîner ni de chambres et renvoie vers un hôtel partenaire pour dormir.\n\nPour un séjour avec nuitée, voyez plutôt les [gîtes et chambres d'hôtes libertins](/hebergement-libertin) d'autres régions, ou [les autres adresses libertines des Landes](/departement/landes).\n\nCe que la villa offrait d'abord, c'était un petit cercle de couples autour d'une table. Ce cercle peut se former en ligne : Carré Libertin, actif depuis 2007, laisse aux couples et aux femmes seules un accès complet gratuit dès trois photos publiées, de quoi [réunir quelques couples entre Seignosse et l'Adour](aff:carre-libertin) avant de choisir où se retrouver."
+        }
+      ],
+      "sources": [
+        "s21",
+        "s30"
+      ],
+      "icon": "heart",
+      "summary": "Pas de club à Hossegor même : le plus proche est Euphoria Spa, sur la D810 à Bénesse-Maremne, ouvert du jeudi au samedi avec des soirées datées fin octobre 2026."
+    }
+  ],
+  "tarifs": {
+    "rows": {
+      "Soirée avec dîner, sans nuit": "60 € par couple · 30 € femme seule",
+      "1 nuit (week-end)": "98 € · 66 €",
+      "2 nuits": "170 € · 120 €",
+      "3 nuits": "260 € · 180 €",
+      "4 nuits": "345 € · 260 €",
+      "5 nuits": "420 € · 340 €",
+      "6 nuits": "515 € · 400 €",
+      "Semaine en demi-pension": "600 € · 450 €"
+    },
+    "note": "Grille « vacances été 2010 », la dernière publiée par les hôtes (encore en ligne en décembre 2011) : prix par couple et par chambre, puis pour une femme seule. Apéritif, dîner et soirée à thème compris, plus le petit-déjeuner pour les nuitées. Tarifs historiques : aucune offre en cours n'est attestée.",
+    "confidence": "a_verifier",
+    "sources": [
+      "s6",
+      "s16"
+    ]
+  },
+  "equipements": [
+    "Chambres d'hôtes (trois ou quatre selon les semaines après 2010)",
+    "Salle de jeux",
+    "Coin câlins avec salle d'eau et grande douche",
+    "Salon",
+    "Pergola pour les dîners d'été",
+    "Table d'hôte (dîner compris)"
+  ],
+  "faq": [
+    {
+      "question": "La Villa Libertine accueille-t-elle encore des couples près d'Hossegor ?",
+      "answer": "Rien ne l'atteste depuis octobre 2011, quand les hôtes ont mis leurs noms de domaine en vente ; leur site a disparu entre fin août 2013 et début janvier 2014. Seuls des hôtes identifiables et joignables, proposant des dates, prouveraient une réouverture."
+    },
+    {
+      "question": "Y a-t-il un club libertin ou échangiste à Hossegor ?",
+      "answer": "Pas à Hossegor même. Le plus proche est [Euphoria Spa à Bénesse-Maremne](/euphoria-spa-libertin-landes), ouvert du jeudi au samedi. Pour le reste des Landes et le Pays basque, l'agenda de Wyylde, l'ancien Netéchangisme, se consulte avec un compte gratuit : de quoi [repérer les soirées annoncées entre Dax et Bayonne](aff:wyylde), quand elles y figurent, avant de prendre l'A63."
+    },
+    {
+      "question": "Quels avis sur La Villa Libertine ?",
+      "answer": "Aucune note vérifiable. Un annuaire de chambres d'hôtes affiche 5/5, mais sur un seul avis dont ni le texte ni la date ne sont visibles ; la fiche d'annuaire la plus récente, de mars 2026, n'en compte aucun, et nos recherches d'octobre 2026 n'ont trouvé ni fil de forum ni avis daté. Restent une quinzaine de messages du livre d'or archivé en 2008, élogieux, non datés et choisis par les hôtes : ils saluent surtout l'accueil et la cuisine. Le seul article de presse lisible retrouvé est celui de France-Soir écrit avec le Petit Futé, qui juge l'ambiance « plutôt conviviale » ; il est daté en ligne du 8 janvier 2016, mais ses prix sont exactement ceux de 2010, signe probable d'un texte plus ancien republié."
+    },
+    {
+      "question": "Où voir des photos de La Villa Libertine ?",
+      "answer": "Sur la [chaîne YouTube « LaVillaLibertine » des hôtes](https://www.youtube.com/user/LaVillaLibertine), toujours en ligne en octobre 2026 : cinq vidéos de 12 à 33 secondes publiées le 25 juillet 2009 (tour d'horizon, table d'hôte, chambres Aphrodite, Cupidon et Messaline). Tournées avant le déménagement de 2010, elles montrent la maison d'alors ; leurs vignettes laissent voir un salon à canapés et des chambres simples aux rideaux prune. Les images de lavillalibertine.fr, elles, sont des photos d'illustration sans rapport avec le lieu."
+    },
+    {
+      "question": "Est-ce la même maison que La Villa Libertine de Mougins ?",
+      "answer": "Non. [La Villa Libertine de Mougins](/la-villa-libertine-mougins), dans les Alpes-Maritimes, et [La Villa de Beaumont-Sardolles](/la-villa-beaumont-sardolles), dans la Nièvre, sont d'autres lieux de notre annuaire. La seule société nommée VILLA LIBERTINE au registre des entreprises est d'ailleurs immatriculée depuis 2005 à Beaumont-Sardolles ; aucune n'existe dans les Landes."
+    },
+    {
+      "question": "La villa proposait-elle des massages ?",
+      "answer": "Seulement comme thème de soirée entre participants : la « soirée massages » figurait au programme. Aucune prestation de massage n'était annoncée, et cette fiche ne peut orienter vers aucune offre de ce type à Hossegor."
+    }
+  ],
+  "unverified": [
+    "Une fiche Google Maps ou un fil de forum signale-t-il la villa comme définitivement fermée ? Les recherches web d'octobre 2026 n'ont trouvé ni mention de ce type ni trace d'activité après 2011.",
+    "Qui a racheté le domaine lavillalibertine.fr en octobre 2021, et qui reçoit les demandes du formulaire « Réserver » ?",
+    "Dans quelle commune la villa s'est-elle installée après le déménagement de janvier 2010 ?",
+    "Les numéros de téléphone publiés jusqu'en 2011 sont-ils encore attribués aux hôtes ?",
+    "Que dit l'unique avis noté 5/5 que relaie un annuaire de chambres d'hôtes, et de quand date-t-il ?",
+    "Que disaient l'article de la revue Union (numéro de juillet 2000) et l'émission de RMC dont le site faisait état ?",
+    "Les hôtes ont-ils continué à recevoir après 2011, sans site ou sous un autre nom ?",
+    "À quelle date l'article de France-Soir a-t-il réellement été écrit : en 2016, comme l'affiche sa page, ou vers 2010, comme le suggèrent ses prix ?"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Site d'origine, accueil et page « L'été 2007 » (archive du 12/10/2007)",
+      "url": "https://web.archive.org/web/20071012192347/http://www.lavillalibertine.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s2",
+      "label": "Site d'origine, page « Pour nous trouver » (archives d'octobre 2007 à juin 2008)",
+      "url": "https://web.archive.org/web/2008/http://www.lavillalibertine.fr/index_fichiers/trajetvilla.htm",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s3",
+      "label": "Site d'origine, page « News » (archive du 28/02/2009)",
+      "url": "https://web.archive.org/web/20090228185938/http://www.lavillalibertine.fr/accueil.php?page=news",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s4",
+      "label": "Site d'origine, page « La presse en parle » (archive du 04/11/2009)",
+      "url": "https://web.archive.org/web/20091104113900/http://www.lavillalibertine.fr/index_fichiers/la_presse_en_parle.htm",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s5",
+      "label": "Site d'origine, page « La Villa nouvelle » (archive du 11/01/2010)",
+      "url": "https://web.archive.org/web/20100111034131/http://www.lavillalibertine.fr/nouvelle.html",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s6",
+      "label": "Site d'origine, page « Tarifs » (archives du 30/08/2010 et du 11/12/2011)",
+      "url": "https://web.archive.org/web/20111211232358/http://www.lavillalibertine.fr/tarifs.html",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s7",
+      "label": "Site d'origine, page « La région » (archive du 31/03/2009)",
+      "url": "https://web.archive.org/web/20090331093943/http://www.lavillalibertine.fr/index_fichiers/region_villa.htm",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s8",
+      "label": "Site d'origine, pages d'accueil archivées en 2011, 2012 et 2013",
+      "url": "https://web.archive.org/web/20120206133455/http://www.lavillalibertine.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s9",
+      "label": "Site d'origine, pages « Description », « Chambres » et « Salon » (archives de juillet et août 2012)",
+      "url": "https://web.archive.org/web/20120815131017/http://www.lavillalibertine.fr/description.html",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s10",
+      "label": "Site d'origine, « Mentions légales » (archive du 17/03/2011)",
+      "url": "https://web.archive.org/web/20110317063242/http://www.lavillalibertine.fr/mentions-legales.html",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s11",
+      "label": "Site d'origine, « Livre d'or » (archive du 04/12/2008)",
+      "url": "https://web.archive.org/web/20081204073508/http://www.lavillalibertine.fr/index_fichiers/livre_or.htm",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s12",
+      "label": "Internet Archive, index des captures de lavillalibertine.fr (2007-2026)",
+      "url": "https://web.archive.org/cdx/search/cdx?url=www.lavillalibertine.fr&fl=timestamp,statuscode,digest",
+      "type": "autre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s13",
+      "label": "Internet Archive, captures du domaine de 2014 à 2021 (page d'hébergeur, puis redirections vers des sites tiers)",
+      "url": "https://web.archive.org/web/20140517213237/http://lavillalibertine.fr/",
+      "type": "autre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s14",
+      "label": "Registre AFNIC (RDAP) du domaine lavillalibertine.fr",
+      "url": "https://rdap.nic.fr/domain/lavillalibertine.fr",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s15",
+      "label": "lavillalibertine.fr, page d'accueil du site actuel (non attribuable aux hôtes d'origine)",
+      "url": "https://www.lavillalibertine.fr/",
+      "type": "autre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s16",
+      "label": "lavillalibertine.fr, pages « Tarif », « Modalités », « Réserver », « Soirées », « Gastronomie » et « Chambres » du site actuel",
+      "url": "https://www.lavillalibertine.fr/tarif/",
+      "type": "autre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s17",
+      "label": "lavillalibertine.fr, API WordPress publique (dates de création des pages et des billets)",
+      "url": "https://www.lavillalibertine.fr/wp-json/wp/v2/pages",
+      "type": "autre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s18",
+      "label": "sauna-club-libertin.com, fiche « La Villa Libertine » (non datée)",
+      "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_3.php?id=370&d=40",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s19",
+      "label": "saunaclublebali.fr, fiche « La Villa Libertine » (ajoutée le 22/03/2026)",
+      "url": "https://www.saunaclublebali.fr/listing/la-villa-libertine-soorts-hossegor/",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s20",
+      "label": "Registre national des entreprises, recherches « villa libertine » et « libertine » dans les Landes",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=villa%20libertine",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s21",
+      "label": "Euphoria Spa & Club Privé, site officiel (agenda d'octobre 2026)",
+      "url": "https://www.euphoriaspa.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s22",
+      "label": "Premier site des hôtes (page personnelle Wanadoo), accueil (archive du 03/10/1999)",
+      "url": "https://web.archive.org/web/19991003050009/http://perso.wanadoo.fr/villalibertinelandes/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s23",
+      "label": "Premier site des hôtes, page « Tarifs et réservation » (contenu de 2000-2001, archive du 27/12/2005)",
+      "url": "https://web.archive.org/web/20051227192433/http://perso.wanadoo.fr/villalibertinelandes/tarif-et-reservation.html",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s24",
+      "label": "Premier site des hôtes, page « Articles presse » (archive du 31/05/2001)",
+      "url": "https://web.archive.org/web/20010531182004/http://perso.wanadoo.fr/villalibertinelandes/article-de-presse-libertine.html",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s25",
+      "label": "Compte X @LaVillaLibertin, message du 28/06/2010",
+      "url": "https://x.com/LaVillaLibertin/status/17261426149",
+      "type": "reseau_social",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s26",
+      "label": "France-Soir, « Sexe : les hauts lieux de l'été en France » (page datée du 08/01/2016)",
+      "url": "https://www.francesoir.fr/lifestyle-tourisme/sexe-les-hauts-lieux-de-lete-en-france",
+      "type": "presse",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s27",
+      "label": "Chaîne YouTube « LaVillaLibertine » des hôtes (inscrite le 13/07/2009, cinq vidéos du 25/07/2009)",
+      "url": "https://www.youtube.com/user/LaVillaLibertine",
+      "type": "reseau_social",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s28",
+      "label": "annu-hotel.com, fiche « La Villa Libertine à Soorts-Hossegor » (5/5 sur un avis, sans texte ni date)",
+      "url": "https://annu-hotel.com/fr/fiche/soorts-hossegor/chambre-d-hotes/24494-la-villa-libertine.html",
+      "type": "annuaire",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s29",
+      "label": "guidevacances.com, fiche « La Villa Libertine » (présentation de l'époque du premier site, non datée)",
+      "url": "https://www.guidevacances.com/listing/la-villa-libertine/",
+      "type": "annuaire",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s30",
+      "label": "Odyssée Club, « Clubs libertins Nouvelle-Aquitaine : guide 2026 » (vérifié en août 2026)",
+      "url": "https://odyssee-club.com/clubs-libertins-bordeaux/",
+      "type": "annuaire",
+      "consulted": "2026-10-19"
+    }
+  ],
+  "officialLinks": [
+    {
+      "label": "Vidéos YouTube (2009)",
+      "url": "https://www.youtube.com/user/LaVillaLibertine",
+      "kind": "autre"
+    }
+  ],
+  "glance": [
+    {
+      "icon": "warning",
+      "label": "Fermeture probable",
+      "value": "Aucune activité datée après 2011"
+    },
+    {
+      "icon": "bed",
+      "label": "Formule",
+      "value": "Chambres d'hôtes libertines, dîner compris"
+    },
+    {
+      "icon": "history",
+      "label": "Offres publiées",
+      "value": "Étés 1999-2001, puis de 2007 à 2011"
+    },
+    {
+      "icon": "euro",
+      "label": "Nuit couple (été 2010)",
+      "value": "98 € en demi-pension, soirée comprise"
+    },
+    {
+      "icon": "users",
+      "label": "Public admis",
+      "value": "Couples et femmes seules, aucun homme seul"
+    },
+    {
+      "icon": "heart",
+      "label": "Club ouvert proche",
+      "value": "Euphoria Spa, Bénesse-Maremne (D810)"
+    }
+  ],
+  "highlights": [
+    "lavillalibertine.fr n'est plus le site des hôtes : domaine réenregistré sous anonymat en 2021, textes et tarifs de 2010 recopiés, ni adresse ni téléphone.",
+    "Son formulaire « Réserver » réclame des photos récentes du couple : n'envoyez rien tant que son destinataire n'est pas identifié.",
+    "Ce n'était ni un club ni un sauna : on venait pour une soirée, une nuit ou une semaine, dîner à une table commune et soirée à thème compris.",
+    "Aucune adresse n'a jamais été publiée : bourg de Labenne en 2007-2008, puis une commune « près d'Hossegor » jamais nommée après 2010.",
+    "Le club ouvert le plus proche, Euphoria Spa à Bénesse-Maremne, réserve ses samedis soir aux couples et aux femmes seules, selon son site."
+  ]
+}

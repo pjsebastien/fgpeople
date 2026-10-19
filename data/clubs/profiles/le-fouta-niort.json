@@ -1,0 +1,1210 @@
+{
+  "slug": "le-fouta-niort",
+  "clubId": "15574",
+  "researchedAt": "2026-10-19",
+  "display": {
+    "nom": "Pour X Raisons (ex-Le Fouta)",
+    "ville": "Niort"
+  },
+  "status": {
+    "value": "ouvert",
+    "summary": "Une « Soirée Rose » le vendredi 16 octobre 2026 et un gang bang le samedi 24 figurent sur les affiches de pourxraisons.com : le lieu de l'ancien Fouta fonctionne, sous le nom Pour X Raisons depuis juillet 2019. Ont disparu l'ancien site sauna-niort.com, qui n'est plus enregistré, et la société du sex-shop Média Paul, radiée en 2020. L'exploitant actuel, la SARL PXR, reste active au registre, et l'accueil du site a encore été modifié le 13 octobre 2026.",
+    "sources": [
+      "s4",
+      "s1",
+      "s20",
+      "s23",
+      "s24",
+      "s21",
+      "s31"
+    ]
+  },
+  "seo": {
+    "title": "Le Fouta à Niort, devenu Pour X Raisons : sauna libertin, tarifs",
+    "metaDescription": "L'ex-sauna gay Le Fouta, rue Marcel Paul, s'appelle Pour X Raisons depuis 2019 : jacuzzi, sauna, bar, entrée offerte aux couples le jeudi et le vendredi soir.",
+    "subtitle": "Sauna libertin, bar à rencontres et boutique érotique à Niort (79), l'ancien Fouta devenu PXR",
+    "targetQueries": [
+      "club libertin niort",
+      "sauna gay niort",
+      "sauna libertin niort",
+      "libertin niort",
+      "pour x raisons niort",
+      "pxr niort",
+      "le fouta niort"
+    ]
+  },
+  "lead": "Le Fouta, le sauna « gay bi et mixte » de la rue Marcel Paul à Niort, s'appelle Pour X Raisons (PXR) depuis le rachat de son fonds en juin 2019. Le lieu réunit une boutique érotique, un bar à rencontres et un espace balnéo avec jacuzzi de 5 places et sauna de 5 à 6 places, ouverts du lundi au samedi. Il se présente désormais comme libertin et mixte, après avoir réservé ses mardis aux hommes de mai à l'été 2025. Le jeudi et le vendredi, il reste ouvert jusqu'à minuit, et le soir couples comme femmes seules n'y paient qu'une consommation.",
+  "glance": [
+    {
+      "icon": "calendar",
+      "label": "Ouvert",
+      "value": "Du lundi au samedi, dès 13 h ou 14 h"
+    },
+    {
+      "icon": "clock",
+      "label": "Soirées régulières",
+      "value": "Jeudi et vendredi jusqu'à minuit"
+    },
+    {
+      "icon": "couple",
+      "label": "Entrée couple",
+      "value": "25 € le jour · 0 € le soir + 1 conso chacun"
+    },
+    {
+      "icon": "euro",
+      "label": "Homme seul ou trans",
+      "value": "20 € le jour · 25 € le soir"
+    },
+    {
+      "icon": "spa",
+      "label": "Espace balnéo",
+      "value": "Jacuzzi 5 places, sauna 5 à 6 places"
+    },
+    {
+      "icon": "history",
+      "label": "Ancien nom",
+      "value": "Le Fouta, devenu PXR en juillet 2019"
+    }
+  ],
+  "audience": [
+    {
+      "who": "couples",
+      "status": "oui",
+      "detail": "À chaque ouverture ; jeudi et vendredi soir, entrée offerte contre une conso chacun",
+      "price": "0 à 25 €"
+    },
+    {
+      "who": "femmes",
+      "status": "oui",
+      "detail": "À chaque ouverture ; le soir, entrée offerte avec une consommation minimum",
+      "price": "0 à 5 €"
+    },
+    {
+      "who": "hommes",
+      "status": "oui",
+      "detail": "À chaque ouverture ; 25 € le soir et aux gang bangs annoncés en octobre 2026",
+      "price": "20 à 25 €"
+    },
+    {
+      "who": "trans",
+      "status": "oui",
+      "detail": "Même tarif que l'homme seul ; une journée transgenre à 10 € a eu lieu en mars 2023",
+      "price": "20 à 25 €"
+    }
+  ],
+  "highlights": [
+    "Cherchez l'enseigne Pour X Raisons (PXR), pas « Le Fouta » : même adresse, 12 rue Marcel Paul, et même numéro, le 05 49 77 81 85.",
+    "Le soir, couples et femmes seules ne paient pas l'entrée mais doivent prendre au moins une consommation chacun, café exclu.",
+    "Le mardi « 100 % hommes » de l'été 2025 avait disparu le 11 octobre 2025 : chaque jour est redevenu « mixte », avec soirées gratuites pour couples et femmes.",
+    "Les dates des soirées ne figurent que sur les affiches de l'accueil du site : les pages « Programme » et « Services » sont vides.",
+    "Mardi, mercredi et samedi, le site annonce 14 h et PagesJaunes 13 h : appelez avant de venir en début d'après-midi."
+  ],
+  "keyFacts": [
+    {
+      "label": "Nom actuel",
+      "value": "Pour X Raisons (PXR), ex-Le Fouta",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s7",
+        "s8"
+      ]
+    },
+    {
+      "label": "Exploitant",
+      "value": "SARL PXR, SIREN 851 159 574, active, créée le 28 mai 2019",
+      "confidence": "confirme",
+      "sources": [
+        "s21"
+      ]
+    },
+    {
+      "label": "Reprise",
+      "value": "Fonds racheté 55 000 € à MEDIA-PAUL (acte du 6 juin 2019)",
+      "confidence": "confirme",
+      "sources": [
+        "s23"
+      ]
+    },
+    {
+      "label": "Ouverture du Fouta",
+      "value": "Années 2000, année exacte non publiée",
+      "confidence": "source_unique",
+      "sources": [
+        "s7"
+      ]
+    },
+    {
+      "label": "Concept",
+      "value": "Boutique érotique, bar à rencontres, sauna libertin",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s3"
+      ]
+    },
+    {
+      "label": "Public admis",
+      "value": "Hommes seuls, personnes trans, femmes seules, couples",
+      "confidence": "confirme",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "label": "Jours d'ouverture",
+      "value": "Du lundi au samedi ; jeudi et vendredi jusqu'à minuit",
+      "confidence": "confirme",
+      "sources": [
+        "s2",
+        "s25"
+      ]
+    },
+    {
+      "label": "Entrée couple",
+      "value": "25 € en journée, gratuite le soir avec une consommation chacun",
+      "confidence": "confirme",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "label": "Espace balnéo",
+      "value": "Jacuzzi 5 places, sauna 5 à 6 places",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s7",
+        "s10"
+      ]
+    },
+    {
+      "label": "Soirées libertines",
+      "value": "Jeudi et vendredi soir, depuis février 2023",
+      "confidence": "confirme",
+      "sources": [
+        "s51",
+        "s53",
+        "s2"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "fouta-devenu-pxr",
+      "title": "Le Fouta devenu Pour X Raisons : un fonds racheté 55 000 € en juin 2019",
+      "icon": "history",
+      "summary": "Le Fouta n'a pas fermé : la SARL PXR a racheté son fonds 55 000 € le 6 juin 2019 et l'exploite sous l'enseigne Pour X Raisons depuis juillet 2019.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le Fouta n'a pas fermé : il a changé de nom et d'exploitant. Le 6 juin 2019, la SARL PXR, créée le 28 mai, a racheté pour 55 000 € le fonds du 12 rue Marcel Paul à la société MEDIA-PAUL, selon le BODACC du 28 juin 2019. L'activité déclarée pour l'établissement ainsi acquis cite en toutes lettres les saunas et bains de vapeur.\n\nLe lieu s'affiche « Depuis Juillet 2019 » sous l'enseigne Pour X Raisons, que ses affiches abrègent en PXR. De 2020 à mai 2023, son site écrivait que tout avait commencé avec le Fouta, ouvert dans les années 2000. Le 05 49 77 81 85, lui, figurait déjà en 2016 sur l'en-tête de l'ancien site.\n\nLa naissance du sauna n'est pas datée : une annonce participative de G.Cruising dit seulement que le sex-shop Média Paul « s'agrandit et ouvre un grand Sauna » pour « fin août »."
+        },
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "Années 2000",
+              "text": "Ouverture du Fouta, selon le site de PXR (année exacte non publiée)."
+            },
+            {
+              "date": "Novembre 2005",
+              "text": "Création de MEDIA-PAUL, la société du sex-shop Média Paul, au 12 rue Marcel Paul."
+            },
+            {
+              "date": "2013 – 2017",
+              "text": "sauna-niort.com présente le Fouta, « sauna gay bi et mixte », et le sex-shop Média Paul, ouverts du lundi au samedi de 13 h à 20 h."
+            },
+            {
+              "date": "6 juin 2019",
+              "text": "Vente du fonds à la SARL PXR pour 55 000 €, publiée au BODACC le 28 juin."
+            },
+            {
+              "date": "Juillet 2019",
+              "text": "Début sous l'enseigne Pour X Raisons, d'après le site (« Depuis Juillet 2019 ») ; le registre date le début d'activité de PXR au 6 juin."
+            },
+            {
+              "date": "Décembre 2019 – mars 2020",
+              "text": "Fermeture de l'établissement de MEDIA-PAUL, puis radiation de la société."
+            },
+            {
+              "date": "Juin 2022",
+              "text": "Le BODACC publie une modification de la direction de PXR, sans autre détail."
+            },
+            {
+              "date": "Février 2023",
+              "text": "Ouverture d'un « espace rencontres libertines » le jeudi et le vendredi soir."
+            },
+            {
+              "date": "Mai – juillet 2025",
+              "text": "Mardi « 100 % hommes », redevenu mixte avant octobre 2025."
+            }
+          ]
+        }
+      ],
+      "sources": [
+        "s23",
+        "s21",
+        "s22",
+        "s24",
+        "s7",
+        "s8",
+        "s50",
+        "s16",
+        "s14",
+        "s17",
+        "s52",
+        "s60",
+        "s59",
+        "s51",
+        "s54",
+        "s55",
+        "s56"
+      ]
+    },
+    {
+      "id": "pourquoi-donne-ferme",
+      "title": "Site éteint, Média Paul radiée : pourquoi le Fouta passe pour fermé",
+      "icon": "warning",
+      "summary": "Les annuaires renvoient vers sauna-niort.com, qui n'est plus enregistré, et l'ancienne société MEDIA-PAUL a été radiée en 2020 ; l'exploitant actuel, PXR, est actif.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Des annuaires, comme sauna-club-libertin.com, pointent encore vers sauna-niort.com. Ce domaine et son jumeau sex-boutique-niort.com ne sont plus enregistrés au 16 octobre 2026 ; la dernière version lisible de sauna-niort.com date de septembre 2017.\n\nMEDIA-PAUL, la société du sex-shop « Média Paul » qui partageait l'adresse, le site et les horaires du Fouta, a fermé son établissement le 2 décembre 2019. Sa radiation a été publiée le 20 mars 2020. Qu'elle ait exploité le sauna dès sa création, en novembre 2005, est probable mais pas établi.\n\nCes traces concernent l'ancien exploitant et l'ancien site, pas le lieu : PXR est active au registre, avec une fiche mise à jour le 26 septembre 2026. Avant son enregistrement de novembre 2019, le domaine pourxraisons.com servait à une boutique des Bouches-du-Rhône ; seules ses archives de 2020 à 2026 concernent Niort."
+        }
+      ],
+      "sources": [
+        "s27",
+        "s18",
+        "s19",
+        "s20",
+        "s14",
+        "s17",
+        "s22",
+        "s24",
+        "s21",
+        "s11",
+        "s12",
+        "s13"
+      ]
+    },
+    {
+      "id": "seule-adresse-de-niort",
+      "title": "Seule adresse libertine de Niort ; Lina Tendu, en Gâtine, à vérifier",
+      "icon": "map",
+      "summary": "Notre annuaire ne recense que PXR à Niort ; dans les Deux-Sèvres, Lina Tendu, à Mazières-en-Gâtine, reste à vérifier : son ancien site est devenu un blog.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Notre annuaire ne recense aucun autre lieu libertin à Niort. PXR n'est pas un club de nuit classique : c'est un sauna doublé d'un bar à rencontres, avec une boutique érotique dans le même local, ouvert le soir les seuls jeudis et vendredis.\n\nAilleurs dans les Deux-Sèvres, la seule autre adresse que nous connaissons est [Lina Tendu, club libertin de Mazières-en-Gâtine](/lina-tendu-mazieres-en-gatine). Vérifiez qu'il ouvre encore : en octobre 2026, son ancien site, lina-tendu.com, publie un blog sans rapport avec le club.\n\nNos recherches d'octobre 2026, presse régionale comprise, n'ont fait apparaître aucun autre lieu nommé dans le département, pas plus que la liste de sauna-club-libertin.com : la [page des clubs des Deux-Sèvres](/departement/deux-sevres) reste courte. Côté Vendée, notre annuaire répertorie [Le Domaine, à Auzay](/le-domaine-auzay) ; près de Saint-Jean-d'Angély, le site de [l'Élixyr, à Vergné](/club-elixyr-vergne), affiche des horaires d'ouverture du jeudi au dimanche soir.\n\nAvec si peu d'adresses alentour, repérer en ligne des couples ou des célibataires du secteur permet de ne pas découvrir le bar de PXR seul. Gleese, site français lancé fin 2024, s'ouvre sans carte bancaire et fait valider un numéro de téléphone à chaque inscrit.\n\nSa communauté reste plus réduite que celle des sites historiques : [compter les profils vérifiés autour de Niort](aff:gleese) permet de juger sur pièce avant d'aller plus loin."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s2",
+        "s28",
+        "s62",
+        "s64"
+      ]
+    },
+    {
+      "id": "jeudis-vendredis",
+      "title": "Jeudis chauds, vendredis coquins : 0 € pour les couples, 25 € pour l'homme seul",
+      "icon": "couple",
+      "summary": "Jeudi et vendredi soir, couples et femmes seules entrent contre une consommation chacun ; l'homme seul paie 25 €, contre 20 € en journée.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "La grille du site, en octobre 2026, ne connaît que deux moments : la journée et la soirée. Les personnes trans y paient le même tarif que l'homme seul.\n\nLe jeudi soir (« Les jeudis chauds ») et le vendredi soir (« Les vendredis coquins »), l'entrée ne coûte plus rien aux couples ni aux femmes seules. Seule condition : au moins une consommation par personne, café exclu. L'homme seul paie alors 25 €, contre 20 € l'après-midi.\n\nLe site ne dit pas à quelle heure on bascule d'un tarif à l'autre : en 2025, la soirée commençait à 19 h, et en 2024 le supplément de l'homme seul s'appliquait dès 18 h le vendredi. Mieux vaut poser la question au téléphone.\n\nLes mardis et mercredis, un « After Work » de 17 h à 19 h fixe l'entrée à 10 €, affiché depuis octobre 2025 au moins. Il a succédé aux horaires longs du printemps et de l'été 2025 : le mardi « 100 % hommes » jusqu'à 22 h, le mercredi mixte jusqu'à 21 h ou 22 h.\n\nCeux qui préfèrent ne pas pousser la porte seuls la première fois peuvent [chercher un autre couple pour partager un premier jeudi soir](aff:carre-libertin) sur Carré Libertin, en ligne depuis 2007 et gratuit pour les couples comme pour les femmes, pourvu que leur profil montre trois photos."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s3",
+        "s2",
+        "s9",
+        "s10",
+        "s54",
+        "s55",
+        "s56",
+        "s57"
+      ]
+    },
+    {
+      "id": "ancien-sauna-gay",
+      "title": "Du « sauna gay bi et mixte » au mardi 100 % hommes de 2025, abandonné avant octobre",
+      "icon": "users",
+      "summary": "Le Fouta se disait « gay bi et mixte » ; PXR a réservé le mardi aux hommes, à 15 €, de mai à juillet 2025 au moins, puis l'a rendu mixte avant octobre 2025.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "De 2013 à 2017 au moins, l'ancien site présentait le Fouta comme un « Sauna Gay bi et mixte », avec deux salles de cinéma, « Gay et Hétéro », à 10 € l'entrée seule. Les annuaires spécialisés, dont une liste de saunas gays de Poitou-Charentes, le décrivaient comme ouvert aux gays comme aux hétéros.\n\nPour X Raisons s'est d'abord tourné vers le libertinage : en février 2023, il ouvre un « espace rencontres libertines » le jeudi et le vendredi soir, où l'entrée des hommes seuls est « limitée ». Il se dit depuis ouvert aux débutants comme aux confirmés.\n\nEn mai 2025, le lieu lance pourtant des « mardis gay » : de 14 h à 22 h, l'entrée est réservée aux hommes et coûte 15 € au lieu de 20 €. La grille de l'été 2025 affiche encore ce mardi « 100 % hommes », tous les autres jours étant marqués « mixte ».\n\nSur la grille relevée le 11 octobre 2025, le mardi est redevenu « mixte » et ferme à 19 h. En octobre 2026, le site ne parle plus de public gay ; il annonce des après-midi « mixtes » et l'homme seul reste admis à chaque ouverture, pour 20 € en journée.\n\nAucune source ne dit si une clientèle gay vient encore en semaine : le 05 49 77 81 85 renseigne. Pour une adresse qui s'affiche ouverte au public gay, notre [sélection d'établissements gay friendly](/club-gay-friendly) en recense d'autres."
+        }
+      ],
+      "sources": [
+        "s14",
+        "s15",
+        "s16",
+        "s27",
+        "s30",
+        "s51",
+        "s34",
+        "s54",
+        "s55",
+        "s56",
+        "s1",
+        "s3",
+        "s9"
+      ]
+    },
+    {
+      "id": "balneo-bar-boutique",
+      "title": "Jacuzzi de 5 places, sauna de 5 à 6 places et une salle vidéo de 190 cm",
+      "icon": "spa",
+      "summary": "Jacuzzi de 5 places, sauna de 5 à 6 places, bar, boutique et salle vidéo qui sert d'espace événements ; serviette et tongs fournies.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Capacités inchangées depuis l'archive d'août 2020 : un jacuzzi de 5 places et un sauna de 5 à 6 places, dans un espace balnéo où serviette et tongs sont fournies. Le lieu a fermé deux jours pour travaux en avril 2025.\n\nDe septembre 2023 à 2024, le site y ajoutait une douche de luminothérapie et des « coins câlins ». Ni l'une ni les autres ne figurent dans les textes relevés en octobre 2026 : rien ne dit s'ils existent encore.\n\nAutour de cet espace :\n- la boutique érotique, qui prend aussi des commandes ;\n- le bar à rencontres, qui accueille jusqu'au 31 octobre 2026 une exposition photo intitulée « PORN.ART » ;\n- la salle vidéo, décrite de 2020 à 2025 avec un écran HD de 190 cm et un son 5.1, que le site de 2026 présente comme « Espace Evénements - Salle vidéo », pour les shows et gang bangs ; le lieu en comptait deux en 2020, comme le Fouta ;\n- un « espace dancing » avec barre de pole dance, cité de mai 2025 à mai 2026, absent de l'accueil d'octobre 2026.\n\nLe club entier peut être privatisé pour une soirée, sur demande. Pas de galerie photo dédiée : l'accueil montre le jacuzzi rond sous lumière bleue devant un mur végétal, un néon « PXR », la boutique, avec l'inscription « Salle de projection » au-dessus d'une porte, et la vitrine sous une galerie couverte.\n\n**Accès et zones d'ombre**\nL'ancien site du Fouta conseillait de « suivre parking Marcel Paul ». Surface de 200 m², backroom, espace fumeur et parking propre, cités par d'anciens annuaires, restent à confirmer."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s3",
+        "s4",
+        "s7",
+        "s8",
+        "s9",
+        "s10",
+        "s15",
+        "s27",
+        "s46",
+        "s53",
+        "s54",
+        "s58"
+      ]
+    },
+    {
+      "id": "agenda-octobre-2026",
+      "title": "Soirée rose le 16, gang bang le 24 : l'agenda d'octobre 2026 tient sur des affiches",
+      "icon": "calendar",
+      "summary": "Octobre 2026 : soirée rose le 16, massage le 21, tatouages éphémères le 23, gang bang le 24 à 14 h 30 ; les dates ne passent que par des affiches.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "PXR ne tient plus de calendrier en ligne : son module d'événements, alimenté de 2020 à février 2026, n'a rien publié depuis, et ses pages « Programme » et « Services » sont vides. Les dates passent par des affiches sur la page d'accueil. Au 16 octobre 2026, elles annoncent :\n- vendredi 16 octobre : « Soirée Rose », aux tarifs habituels ;\n- mercredi 21 octobre, de 15 h à 18 h : séance de massage, environ 15 minutes offertes avec l'entrée ;\n- vendredi 23 octobre : soirée tatouages éphémères, motifs offerts, tarifs habituels ;\n- samedi 24 octobre à 14 h 30 : gang bang « Ouvert à tous », 25 € pour l'homme seul, dans les horaires normaux du samedi ;\n- jusqu'au 31 octobre : l'exposition photo du bar, ouverte depuis le 28 août.\n\nWyylde a déjà servi de relais : en décembre 2023 et en février 2024, deux annonces de soirées à plusieurs passaient par Wyylde : l'une donnait un pseudo Wyylde comme contact, l'autre y renvoyait pour les détails. Un compte gratuit sur l'ex-Netéchangisme suffit pour [vérifier ce que l'agenda de Wyylde annonce près de Niort](aff:wyylde)."
+        }
+      ],
+      "sources": [
+        "s4",
+        "s6",
+        "s1",
+        "s31",
+        "s44",
+        "s45"
+      ]
+    },
+    {
+      "id": "affiches-passees",
+      "title": "« Maison Close » en juin 2025, gang bang le 9 octobre 2026 : les affiches passées",
+      "icon": "ticket",
+      "summary": "Les affiches archivées sur l'accueil montrent des soirées à thème depuis 2025, à 30 € pour l'homme seul et 15 € pour le couple, et un gang bang le 9 octobre 2026.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "La rubrique des événements passés du site donne le rythme du lieu :\n- un gang bang le vendredi 9 octobre 2026 à 20 h, 25 € pour l'homme seul, sous la devise « hygiène, respect, protection » ;\n- une séance de massage le lundi 12 octobre 2026, de 14 h 30 à 16 h 30 ;\n- d'après les seuls noms des fichiers : la Saint-Valentin et le lundi de Pâques 2026, des soirées tatouages et masquées fin mai, des gang bangs les 13 juin, 28 août et 11 septembre.\n\nEn 2025, la soirée « Maison Close » du samedi 28 juin, à 21 h, exigeait une « tenue chic et galanterie obligatoire ». Comme celle du père fouettard, le samedi 13 décembre, elle coûtait 30 € à l'homme seul et 15 € au couple ; la femme seule payait 5 € en juin et rien en décembre."
+        }
+      ],
+      "sources": [
+        "s5"
+      ]
+    },
+    {
+      "id": "soirees-2020-2026",
+      "title": "Beach Party à 30 € en 2021, journée transgenre à 10 € en 2023 : 75 soirées en ligne",
+      "icon": "sparkles",
+      "summary": "De septembre 2020 à février 2026, le site a publié 75 pages d'événements : soirées réservées aux couples, journées pour un public précis, prix de 0 à 30 € selon le thème.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Avant les affiches de 2026, PXR publiait chaque soirée sur une page dédiée de son site ; 75 restent en ligne, de septembre 2020 à février 2026. Quelques jalons, choisis parmi elles :"
+        },
+        {
+          "kind": "table",
+          "caption": "Soirées annoncées sur les pages d'événements de pourxraisons.com",
+          "headers": [
+            "Date",
+            "Soirée",
+            "Public et prix annoncés"
+          ],
+          "rows": [
+            [
+              "26 sept. 2020",
+              "Premier anniversaire de PXR",
+              "Couples mixtes, 15 couples au plus, 30 €"
+            ],
+            [
+              "25 juin 2021",
+              "Soirée romaine « stop COVID »",
+              "30 personnes au plus : 6 hommes et/ou 12 couples et femmes seules"
+            ],
+            [
+              "2 oct. 2021",
+              "Beach Party",
+              "100 % couples, 30 € avec softs et collation"
+            ],
+            [
+              "Mars 2023",
+              "Tarif réduit du mois",
+              "10 € l'entrée de jour pour les moins de 30 ans"
+            ],
+            [
+              "18 mars 2023",
+              "Atelier de découverte du BDSM",
+              "Après-midi de démonstration"
+            ],
+            [
+              "31 mars 2023",
+              "Journée transgenre",
+              "10 € l'entrée pour les personnes trans"
+            ],
+            [
+              "Avril 2023",
+              "Jeudis nocturnes, 21 h – 1 h",
+              "Entrée gratuite pour les couples"
+            ],
+            [
+              "24 juin 2023",
+              "« Plaisirs saphiques »",
+              "Entrée offerte aux femmes"
+            ],
+            [
+              "14 oct. 2023",
+              "Quatre ans de PXR, soirée cabaret",
+              "Tombola, concours, défilé"
+            ],
+            [
+              "26 janv. 2024",
+              "Soirée disco",
+              "Hommes et couples 30 €, femmes 10 €, une boisson comprise"
+            ],
+            [
+              "Avril 2024",
+              "Pass deux soirs",
+              "Hommes seuls : jeudi et vendredi soir pour 40 € au lieu de 50 €"
+            ],
+            [
+              "15 nov. 2025",
+              "Soirée nuisette et pyjama",
+              "Homme hors thème 25 €, couple 15 €, femme gratuite"
+            ],
+            [
+              "10 janv. 2026",
+              "Soirée confiée à deux équipes invitées",
+              "Homme 30 €, couple 20 €, femme gratuite"
+            ],
+            [
+              "20 févr. 2026",
+              "Gang bang, dernier événement du module",
+              "« Ouvert à tous »"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Les pages de novembre 2025 et de janvier 2026 exigent hygiène, respect et préservatif. En janvier et en mai 2026, l'accueil prévenait aussi que la direction pouvait refuser l'entrée à qui n'est pas « en adéquation avec le règlement », sans publier ce règlement ; la phrase n'y figure plus en octobre 2026."
+        }
+      ],
+      "sources": [
+        "s31",
+        "s32",
+        "s36",
+        "s37",
+        "s40",
+        "s41",
+        "s35",
+        "s38",
+        "s39",
+        "s33",
+        "s42",
+        "s43",
+        "s47",
+        "s48",
+        "s49",
+        "s57",
+        "s58"
+      ]
+    },
+    {
+      "id": "tarifs-2015-2026",
+      "title": "De 16 € au Fouta à 25 € le soir chez PXR : onze ans de grilles relevées",
+      "icon": "euro",
+      "summary": "L'homme seul payait 16 € au Fouta vers 2015-2017 ; chez PXR en 2026, 20 € le jour et 25 € le soir, quand les couples ne paient le soir qu'une consommation.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Relevé dans les archives des deux sites successifs. « Gratuit » s'entend avec consommation obligatoire. Depuis septembre 2023, le site prévient que les prix changent lors des soirées à thème (« majoration si animation » le samedi en 2023 et 2024)."
+        },
+        {
+          "kind": "table",
+          "caption": "Prix d'entrée et horaires d'après les sites officiels du Fouta puis de PXR",
+          "headers": [
+            "Période",
+            "Homme seul",
+            "Femme seule",
+            "Couple",
+            "Ouverture"
+          ],
+          "rows": [
+            [
+              "Le Fouta, 2015-2017",
+              "16 €",
+              "12 €",
+              "Non affiché (28 € selon un annuaire)",
+              "Lundi-samedi, 13 h-20 h"
+            ],
+            [
+              "PXR, été 2020",
+              "18 € (spa, sauna, vidéo, salons)",
+              "2 €",
+              "20 €",
+              "12 h-19 h 30, vendredi 13 h-21 h, certains dimanches"
+            ],
+            [
+              "PXR, mars et septembre 2022",
+              "18 €",
+              "2 €",
+              "20 €",
+              "Lundi-samedi, 13 h-19 h"
+            ],
+            [
+              "PXR, février 2023",
+              "20 € le jour ; 25 € le soir, un soft offert",
+              "5 € le jour ; 10 € le soir, une boisson",
+              "25 € le jour ; 30 € le soir, deux boissons",
+              "Lundi-samedi 13 h-19 h ; jeudi et vendredi 21 h-1 h"
+            ],
+            [
+              "PXR, septembre 2023 – février 2024",
+              "20 € le jour ; 25 € jeudi soir ; vendredi 20 € + 5 € dès 18 h",
+              "5 €",
+              "25 € le jour ; gratuit jeudi soir et vendredi dès 18 h",
+              "Jeudi et vendredi jusqu'à minuit, samedi jusqu'à 19 h 30"
+            ],
+            [
+              "PXR, mai-juillet 2025",
+              "20 € le jour, 25 € le soir ; mardi 100 % hommes à 15 €",
+              "5 € le jour, gratuit le soir",
+              "25 € le jour, gratuit le soir",
+              "Mardi 14 h-22 h (hommes) ; jeudi et vendredi jusqu'à minuit"
+            ],
+            [
+              "PXR, octobre 2026",
+              "20 € le jour, 25 € le soir",
+              "5 € le jour, gratuit le soir",
+              "25 € le jour, gratuit le soir",
+              "Jeudi et vendredi jusqu'à minuit"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le Fouta incluait le prêt d'une fouta, des tongs et une boisson fraîche. Il faisait payer 2 € le retour dans la journée et vendait une carte de cinq entrées à 80 €, plus une offerte.\n\nUne mention ambiguë associait aussi « 25ans » au tarif de 12 €, qu'un annuaire lisait comme un prix réduit pour les moins de 25 ans.\n\nLe vrai tournant date de février 2023 : l'ouverture des soirées s'accompagne d'une hausse de toutes les entrées de jour. Les couples, qui payaient d'abord 30 € le soir avec deux boissons, entrent gratuitement le jeudi dès avril 2023 et le vendredi dès 18 h en septembre 2023."
+        }
+      ],
+      "sources": [
+        "s15",
+        "s16",
+        "s7",
+        "s8",
+        "s50",
+        "s51",
+        "s38",
+        "s53",
+        "s9",
+        "s54",
+        "s55",
+        "s1",
+        "s27"
+      ]
+    },
+    {
+      "id": "notes-publiques",
+      "title": "5/5 sur un avis PagesJaunes, 4,3/5 relayé par un guide : les notes d'octobre 2026",
+      "icon": "star",
+      "summary": "PagesJaunes affiche 5/5 sur un seul avis, de septembre 2026 ; un annuaire relaie 4,3/5 sur 42 avis sans en citer l'origine, et la note Google n'a pas été relevée.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Sur PagesJaunes, qui classe le lieu parmi les commerces d'articles et librairies érotiques, la fiche affiche 5/5 sur un seul avis. Celui-ci est daté du 9 septembre 2026 ; la note a été relevée le 16 octobre 2026.\n\nCe texte d'une ligne évoque une disponibilité « jusqu'à 1h du matin » sans dire de quoi il s'agit : il ne suffit pas à contredire le minuit des horaires officiels.\n\nLe guide de saunas d'un spa stéphanois, H2O, affiche 4,3/5 sur 42 avis, sans dire d'où vient cette note. Sur G.Cruising, site participatif, la fiche du « sauna mixte » totalise 2,5 sur un seul avis, non daté.\n\nUn résumé de recherche attribue à Petit Futé une note de 3,7/5 sur 3 avis, mais la page n'a pas pu être ouverte pour le confirmer. La note Google n'a pas été relevée directement."
+        }
+      ],
+      "sources": [
+        "s25",
+        "s61",
+        "s60",
+        "s29"
+      ]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "lundi": "13 h – 19 h",
+      "mardi": "14 h – 19 h (After Work 17 h – 19 h)",
+      "mercredi": "14 h – 19 h (After Work 17 h – 19 h)",
+      "jeudi": "14 h – minuit",
+      "vendredi": "14 h – minuit",
+      "samedi": "14 h – 19 h",
+      "dimanche": "Fermé (selon PagesJaunes)"
+    },
+    "note": "Image des horaires publiée sur le site officiel, consultée le 16 octobre 2026 et non datée. PagesJaunes et Mappy indiquent une ouverture à 13 h le mardi, le mercredi et le samedi. Certaines soirées à thème ont été annoncées jusqu'à 1 h (mars 2024, mai et novembre 2025, janvier 2026). Le lieu a ouvert les jours fériés de mai 2026 (8 mai et Ascension jusqu'à minuit, lundi de Pentecôte jusqu'à 19 h), les 24 et 31 décembre 2025 de 14 h à 17 h, et tout l'été 2025 sauf le 14 juillet et les 15 et 16 août.",
+    "confidence": "confirme",
+    "sources": [
+      "s2",
+      "s3",
+      "s25",
+      "s26",
+      "s58",
+      "s57",
+      "s55",
+      "s9",
+      "s10",
+      "s47",
+      "s48"
+    ]
+  },
+  "tarifs": {
+    "rows": {
+      "Homme seul ou personne trans, journée": "20 €",
+      "Homme seul ou personne trans, soirée": "25 €",
+      "Femme seule, journée": "5 €",
+      "Femme seule, soirée": "Gratuit, une consommation minimum",
+      "Couple, journée": "25 €",
+      "Couple, soirée": "Gratuit, une consommation minimum par personne",
+      "After Work (mardi, mercredi, 17 h – 19 h)": "10 €",
+      "Gang bang du 24 octobre 2026, homme seul": "25 €"
+    },
+    "note": "Grille du site officiel au 16 octobre 2026. La consommation exigée en soirée exclut le café. Serviette et tongs fournies. Deux soirées à thème de 2025 coûtaient 30 € à l'homme seul.",
+    "confidence": "confirme",
+    "sources": [
+      "s1",
+      "s3",
+      "s4",
+      "s5"
+    ]
+  },
+  "equipements": [
+    "Jacuzzi (5 places)",
+    "Sauna (5 à 6 places)",
+    "Bar à rencontres",
+    "Salle vidéo et espace événements",
+    "Boutique érotique",
+    "Serviette et tongs fournies"
+  ],
+  "externalRatings": [
+    {
+      "platform": "PagesJaunes",
+      "rating": 5,
+      "scale": 5,
+      "count": 1,
+      "date": "2026-10-19",
+      "url": "https://www.pagesjaunes.fr/pros/60023387"
+    }
+  ],
+  "officialLinks": [
+    {
+      "label": "Site officiel Pour X Raisons (horaires, tarifs, affiches des soirées)",
+      "url": "https://www.pourxraisons.com/",
+      "kind": "site"
+    }
+  ],
+  "corrections": {
+    "email": "pourxraisons79@gmail.com",
+    "site_web": "https://www.pourxraisons.com/",
+    "sources": [
+      "s1",
+      "s20"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Y a-t-il un club libertin à Niort ?",
+      "answer": "Notre annuaire n'y recense qu'un lieu : Pour X Raisons (PXR), l'ancien Fouta, au 12 rue Marcel Paul, un sauna doublé d'un bar à rencontres. Il ouvre l'après-midi du lundi au samedi et jusqu'à minuit le jeudi et le vendredi, soirs où couples et femmes seules n'ont qu'une consommation à payer. Dans le reste des Deux-Sèvres, nous connaissons aussi Lina Tendu, à Mazières-en-Gâtine, mais son ancien site héberge désormais un blog sans rapport : vérifiez qu'il ouvre encore. Voir aussi la [page consacrée à Niort](/ville/niort)."
+    },
+    {
+      "question": "Le Fouta à Niort est-il fermé ?",
+      "answer": "Non. Il a changé de nom en juillet 2019, après le rachat du fonds par la SARL PXR, et fonctionne sous l'enseigne Pour X Raisons, à la même adresse et au même numéro. Seuls ont disparu l'ancien site sauna-niort.com et la société du sex-shop Média Paul, radiée en 2020."
+    },
+    {
+      "question": "Le Fouta est-il toujours un sauna gay ?",
+      "answer": "Il ne se présente plus ainsi : le « sauna gay bi et mixte » d'avant 2019 est devenu un lieu de rencontres libertines aux après-midi « mixtes », dont les soirées visent couples et femmes. De mai à juillet 2025 au moins, PXR a bien tenu des « mardis gay », réservés aux hommes de 14 h à 22 h pour 15 €, mais le mardi était redevenu mixte en octobre 2025. Les hommes seuls restent admis à chaque ouverture ; pour savoir si une clientèle gay vient encore, appelez le 05 49 77 81 85."
+    },
+    {
+      "question": "Combien coûte l'entrée au sauna libertin de Niort ?",
+      "answer": "En octobre 2026, en journée : 20 € pour un homme seul ou une personne trans, 5 € pour une femme seule, 25 € pour un couple. Le soir : 25 € pour l'homme seul ; une femme seule ou un couple ne paie que sa consommation, au moins une par personne, café exclu. L'After Work du mardi et du mercredi (17 h – 19 h) coûte 10 €."
+    },
+    {
+      "question": "Quels sont les horaires de Pour X Raisons ?",
+      "answer": "D'après le site : lundi 13 h – 19 h ; mardi, mercredi et samedi 14 h – 19 h ; jeudi et vendredi 14 h – minuit. PagesJaunes donne le dimanche fermé et une ouverture à 13 h le mardi, le mercredi et le samedi. Le lieu a ouvert les jours fériés de mai 2026 : jusqu'à minuit le 8 mai et à l'Ascension, de 14 h à 19 h le lundi de Pentecôte. Des soirées à thème ont été annoncées jusqu'à 1 h de 2024 à janvier 2026 : en cas de doute, appelez le 05 49 77 81 85."
+    },
+    {
+      "question": "Où voir les prochaines soirées de PXR ?",
+      "answer": "Sur l'accueil de pourxraisons.com, sous forme d'affiches datées. Les rubriques « Programme » et « Services » restent vides, le module d'événements n'a rien publié depuis février 2026 et le site ne renvoie vers aucun réseau social. Pour une privatisation ou une question précise, le lieu affiche le 05 49 77 81 85 et l'adresse pourxraisons79@gmail.com."
+    }
+  ],
+  "unverified": [
+    "L'année exacte d'ouverture du Fouta (le site de PXR dit seulement « années 2000 ») et le rôle de MEDIA-PAUL dans l'exploitation du sauna avant 2019.",
+    "La place du public gay depuis la fin du mardi « 100 % hommes », affiché de mai à juillet 2025 et retiré avant octobre 2025.",
+    "L'heure à laquelle le tarif de soirée remplace celui de journée le jeudi et le vendredi.",
+    "L'heure d'ouverture du mardi, du mercredi et du samedi (14 h selon le site, 13 h selon PagesJaunes) et l'heure réelle de fermeture des soirées (minuit annoncé, 1 h pour certaines).",
+    "L'ouverture du dimanche, non mentionnée par le site et donnée fermée par PagesJaunes.",
+    "La douche de luminothérapie et les coins câlins décrits de septembre 2023 à 2024, et l'espace dancing avec barre de pole dance cité de mai 2025 à mai 2026 : toujours en place ?",
+    "La surface de 200 m², l'entrée par le sex-shop, la backroom, l'espace fumeur et le parking signalés par d'anciens annuaires.",
+    "La note Google (un annuaire relaie 4,3/5 sur 42 avis sans en citer l'origine) et la note Petit Futé (3,7/5 sur 3 avis d'après un résumé de recherche, page non lisible).",
+    "L'adresse de la page Facebook signalée par PagesJaunes : la page « Pour X raisons » qui ressort des recherches est celle d'un collectif de musiciens homonyme.",
+    "L'année où le sauna a été ajouté au sex-shop Média Paul (annonce participative non datée)."
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Pour X Raisons, site officiel, page d'accueil (tarifs, espaces, contact)",
+      "url": "https://www.pourxraisons.com/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s2",
+      "label": "Pour X Raisons, image « Jours et horaires d'ouverture » du site officiel",
+      "url": "https://static.wixstatic.com/media/3ba361_c359601f6033499c8fc167b79e21f8f2~mv2.jpg",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s3",
+      "label": "Pour X Raisons, affiches « Les rendez-vous réguliers du PXR » (après-midi mixtes, After Work, jeudis et vendredis)",
+      "url": "https://static.wixstatic.com/media/3ba361_1f562d3d1a1240bebd9c8872830a1296~mv2.jpg",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s4",
+      "label": "Pour X Raisons, affiches « Evènements à venir » (octobre 2026)",
+      "url": "https://static.wixstatic.com/media/3ba361_071dd1909d66467eaa6ef8676acb3190~mv2.jpg",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s5",
+      "label": "Pour X Raisons, affiches des événements passés (2025-2026)",
+      "url": "https://static.wixstatic.com/media/3ba361_a83fe7d592bc44f29942d96944370430~mv2.jpg",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s6",
+      "label": "Pour X Raisons, pages « Programme » et « Services » (vides)",
+      "url": "https://www.pourxraisons.com/programme",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s7",
+      "label": "Pour X Raisons, site officiel, archive du 14/08/2020 (origines, tarifs et horaires 2020)",
+      "url": "https://web.archive.org/web/20200814015324/https://www.pourxraisons.com/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s8",
+      "label": "Pour X Raisons, site officiel, archive du 24/03/2022",
+      "url": "https://web.archive.org/web/20220324053605/https://www.pourxraisons.com/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s9",
+      "label": "Pour X Raisons, site officiel, archive du 25/02/2024 (soirées du jeudi et du vendredi)",
+      "url": "https://web.archive.org/web/20240225082134/https://www.pourxraisons.com/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s10",
+      "label": "Pour X Raisons, site officiel, archive du 18/04/2025 (soirées coquines à partir du 6 mai 2025)",
+      "url": "https://web.archive.org/web/20250418033400/https://www.pourxraisons.com/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s11",
+      "label": "Wayback Machine, historique des captures de pourxraisons.com",
+      "url": "https://web.archive.org/cdx/search/cdx?url=pourxraisons.com&fl=timestamp,statuscode&collapse=timestamp:6",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s12",
+      "label": "pourxraisons.com, archive du 04/02/2010 (boutique sans lien avec Niort)",
+      "url": "https://web.archive.org/web/20100204021258/http://www.pourxraisons.com/",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s13",
+      "label": "RDAP Verisign, enregistrement du domaine pourxraisons.com",
+      "url": "https://rdap.verisign.com/com/v1/domain/pourxraisons.com",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s14",
+      "label": "Le Fouta et sex-shop Média Paul, ancien site sauna-niort.com, archives 2013 et 2017",
+      "url": "https://web.archive.org/web/20170911202452/http://www.sauna-niort.com/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s15",
+      "label": "Le Fouta, ancien site, page « sauna gay bi mixte Niort », archive du 30/06/2017 (tarifs)",
+      "url": "https://web.archive.org/web/20170630153528/http://sauna-niort.com/sauna-gay-bi-mixte-niort.html",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s16",
+      "label": "Le Fouta, ancien site, image d'en-tête, archive du 22/04/2016 (horaires, téléphone)",
+      "url": "https://web.archive.org/web/20160422080619/http://sauna-niort.com/img/head-suna-gay-mixte.png",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s17",
+      "label": "Sex-shop Média Paul, ancien site, archive du 17/02/2015",
+      "url": "https://web.archive.org/web/20150217165952/http://sauna-niort.com/sex-shop-niort.html",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s18",
+      "label": "Wayback Machine, historique des captures de sauna-niort.com",
+      "url": "https://web.archive.org/cdx/search/cdx?url=sauna-niort.com&fl=timestamp,statuscode,mimetype",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s19",
+      "label": "sex-boutique-niort.com, archive du 05/01/2018",
+      "url": "https://web.archive.org/web/20180105030049/http://www.sex-boutique-niort.com/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s20",
+      "label": "Vérification DNS et RDAP des anciens domaines sauna-niort.com et sex-boutique-niort.com (non enregistrés)",
+      "url": "https://rdap.verisign.com/com/v1/domain/sauna-niort.com",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s21",
+      "label": "Annuaire des entreprises, PXR (POUR X RAISONS), SIREN 851 159 574",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/851159574",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s22",
+      "label": "Annuaire des entreprises, MEDIA-PAUL, SIREN 484 879 135",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/484879135",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s23",
+      "label": "BODACC A, annonce du 28/06/2019, vente du fonds du 12 rue Marcel Paul à PXR",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A201901231145",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s24",
+      "label": "BODACC B, radiation de MEDIA-PAUL publiée le 20/03/2020",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:B20200057928",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s25",
+      "label": "PagesJaunes, fiche « Pour X Raisons » (horaires, 1 avis)",
+      "url": "https://www.pagesjaunes.fr/pros/60023387",
+      "type": "annuaire",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s26",
+      "label": "Mappy, fiche « Pour X Raisons »",
+      "url": "https://fr.mappy.com/poi/5e2e9b9e54c4c04a4eb990b1",
+      "type": "carte",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s27",
+      "label": "sauna-club-libertin.com, fiche « Le Fouta » (non datée, ancienne)",
+      "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_3.php?id=15574&d=79",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s28",
+      "label": "sauna-club-libertin.com, liste des Deux-Sèvres",
+      "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_2.php?d=79",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s29",
+      "label": "Petit Futé, fiche « Pour X Raisons » (vue en résumé de recherche uniquement)",
+      "url": "https://www.petitfute.co.uk/v32317-niort-79000/c9998-coquin-sexe/c1267-shopping-mode-cadeaux/c731-sex-shop/605002-pour-x-raisons.html",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s30",
+      "label": "sauna-gay.fr, liste Poitou-Charentes (vue en résumé de recherche)",
+      "url": "http://www.sauna-gay.fr/listing-category/poitou-charentes/",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s31",
+      "label": "Pour X Raisons, sitemaps du site (75 pages d'événements de 2020 à février 2026, accueil modifié le 13/10/2026)",
+      "url": "https://www.pourxraisons.com/event-pages-sitemap.xml",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s32",
+      "label": "Pour X Raisons, page d'événement « 1 an de PXR » (26/09/2020)",
+      "url": "https://www.pourxraisons.com/infos-evenement/1-an-de-pxr",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s33",
+      "label": "Pour X Raisons, page d'événement « PXR souffle ses 4 bougies » (14/10/2023)",
+      "url": "https://www.pourxraisons.com/infos-evenement/pxr-souffle-ses-4-bougies",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s34",
+      "label": "Pour X Raisons, page d'événement « mardis gay OFFRE MAI » et son affiche (mai 2025)",
+      "url": "https://www.pourxraisons.com/infos-evenement/mardis-gay-offre-mai",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s35",
+      "label": "Pour X Raisons, page d'événement « journée TRANSGENRE » (31/03/2023)",
+      "url": "https://www.pourxraisons.com/infos-evenement/journee-transgenre",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s36",
+      "label": "Pour X Raisons, page d'événement « Soirée Romaine stop COVID » (25/06/2021)",
+      "url": "https://www.pourxraisons.com/infos-evenement/soiree-romaine-stop-covid-incription-internet-close-incription-boutique-ouverte",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s37",
+      "label": "Pour X Raisons, page d'événement « Beach Party » (02/10/2021)",
+      "url": "https://www.pourxraisons.com/infos-evenement/beach-party",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s38",
+      "label": "Pour X Raisons, pages d'événement « Jeudis nocturnes d'avril couples gratuits » (avril 2023)",
+      "url": "https://www.pourxraisons.com/infos-evenement/jeudis-nocturnes-davril-couples-gratuits-2023-04-06-21-00",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s39",
+      "label": "Pour X Raisons, page d'événement « Plaisirs saphiques » (24/06/2023)",
+      "url": "https://www.pourxraisons.com/infos-evenement/plaisirs-saphiques",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s40",
+      "label": "Pour X Raisons, page d'événement « En mars les moins de 30 ans tarif réduit » (mars 2023)",
+      "url": "https://www.pourxraisons.com/infos-evenement/en-mars-les-de-30-ans-tarif-reduit",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s41",
+      "label": "Pour X Raisons, page d'événement « Atelier BDSM soumission » (18/03/2023)",
+      "url": "https://www.pourxraisons.com/infos-evenement/atelier-bdsm-soumission",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s42",
+      "label": "Pour X Raisons, page d'événement « Soirée disco » (26/01/2024)",
+      "url": "https://www.pourxraisons.com/infos-evenement/soiree-disco",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s43",
+      "label": "Pour X Raisons, page d'événement « Pass 2 soirs hommes seuls » (avril 2024)",
+      "url": "https://www.pourxraisons.com/infos-evenement/pass-2-soirs-hommes-seuls",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s44",
+      "label": "Pour X Raisons, page d'événement du 08/12/2023 renvoyant vers un profil Wyylde",
+      "url": "https://www.pourxraisons.com/infos-evenement/wanted-des-hommes-pour-une-pluralite",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s45",
+      "label": "Pour X Raisons, page d'événement du 09/02/2024 (« plus de détail chez PXR ou sur Wyylde »)",
+      "url": "https://www.pourxraisons.com/infos-evenement/pluralite",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s46",
+      "label": "Pour X Raisons, page « Fermé pour travaux » (14 et 15/04/2025)",
+      "url": "https://www.pourxraisons.com/infos-evenement/ferme-pour-travaux",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s47",
+      "label": "Pour X Raisons, page d'événement « Soirée nuisette et pyjama » (15/11/2025)",
+      "url": "https://www.pourxraisons.com/infos-evenement/soiree-nuisette-et-pyjama",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s48",
+      "label": "Pour X Raisons, page d'événement du 10/01/2026 (soirée de deux équipes invitées)",
+      "url": "https://www.pourxraisons.com/infos-evenement/bab",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s49",
+      "label": "Pour X Raisons, dernière page d'événement publiée (gang bang du 20/02/2026)",
+      "url": "https://www.pourxraisons.com/infos-evenement/winter-gang-bang-shower-cum",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s50",
+      "label": "Pour X Raisons, site officiel, archive du 26/09/2022 (tarifs, sans soirée)",
+      "url": "https://web.archive.org/web/20220926060002/https://www.pourxraisons.com/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s51",
+      "label": "Pour X Raisons, site officiel, archive du 05/02/2023 (ouverture de l'espace rencontres libertines)",
+      "url": "https://web.archive.org/web/20230205233326/https://www.pourxraisons.com/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s52",
+      "label": "Pour X Raisons, site officiel, archive du 30/05/2023 (soirées couples, travaux)",
+      "url": "https://web.archive.org/web/20230530204638/https://www.pourxraisons.com/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s53",
+      "label": "Pour X Raisons, site officiel, archive du 24/09/2023 (horaires jusqu'à minuit, grille)",
+      "url": "https://web.archive.org/web/20230924200732/https://www.pourxraisons.com/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s54",
+      "label": "Pour X Raisons, site officiel, archive du 22/05/2025 (mardi 100 % hommes)",
+      "url": "https://web.archive.org/web/20250522130034/https://www.pourxraisons.com/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s55",
+      "label": "Pour X Raisons, site officiel, archives des 21/06 et 19/07/2025 (horaires d'été, jours mixtes)",
+      "url": "https://web.archive.org/web/20250719204417/https://www.pourxraisons.com/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s56",
+      "label": "Pour X Raisons, site officiel, archive du 11/10/2025 (mardi redevenu mixte, After work)",
+      "url": "https://web.archive.org/web/20251011222716/https://www.pourxraisons.com/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s57",
+      "label": "Pour X Raisons, site officiel, archive du 18/01/2026 (ouvertures de fin d'année, règlement)",
+      "url": "https://web.archive.org/web/20260118012031/https://www.pourxraisons.com/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s58",
+      "label": "Pour X Raisons, site officiel, archive du 15/05/2026 (jours fériés, pole dance)",
+      "url": "https://web.archive.org/web/20260515194900/https://www.pourxraisons.com/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s59",
+      "label": "BODACC B, annonce du 15/06/2022, modification de la direction de PXR",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:B202201151814",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s60",
+      "label": "G.Cruising, fiche participative « Pour X Raisons Sauna Mixte » (non datée)",
+      "url": "https://fr.gcruising.com/lieu-drague/8816,pour-x-raisons-sauna-mixte",
+      "type": "forum",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s61",
+      "label": "Guide H2O « Sauna gay Niort » (note relayée, origine non indiquée)",
+      "url": "https://www.h2o-saunapourlui.fr/saunas-gay/deux-sevres/niort/",
+      "type": "annuaire",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s62",
+      "label": "lina-tendu.com, ancien domaine du club Lina Tendu, devenu un blog",
+      "url": "https://www.lina-tendu.com/",
+      "type": "autre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s64",
+      "label": "Élixyr (Vergné), site officiel",
+      "url": "https://elixyr.eu/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    }
+  ]
+}

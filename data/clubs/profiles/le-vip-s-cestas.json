@@ -1,0 +1,1033 @@
+{
+  "slug": "le-vip-s-cestas",
+  "clubId": "85",
+  "researchedAt": "2026-10-16",
+  "display": {
+    "nom": "Le VIP'S",
+    "ville": "Cestas"
+  },
+  "status": {
+    "value": "ouvert",
+    "summary": "Halloween le samedi 31 octobre, BDSM le 14 novembre : le programme daté publié par le VIP'S court jusqu'au réveillon du jeudi 31 décembre 2026. La SARL LE TAFFY, qui exploite le club sous l'enseigne LE VIP'S, figure comme active au registre le 19 octobre 2026, et la fiche PagesJaunes, dont le contenu est édité par le professionnel, a été mise à jour le 2 octobre.",
+    "sources": [
+      "s3",
+      "s12",
+      "s26"
+    ]
+  },
+  "seo": {
+    "title": "Le VIP'S, club libertin à Cestas (Bordeaux) : photos et tarifs",
+    "metaDescription": "Galerie officielle, couple 50 €, femme seule 15 €, homme seul sur invitation, vendredi et samedi de 23h à 5h : le VIP'S de Cestas vérifié en octobre 2026.",
+    "subtitle": "Boîte de nuit libertine pour couples et femmes seules à Cestas, sur la route d'Arcachon (33)",
+    "targetQueries": [
+      "le vip's club libertin bordeaux cestas photos",
+      "vip's cestas tarifs",
+      "vip's cestas horaires",
+      "vip's cestas avis",
+      "vip's cestas homme seul",
+      "vip's cestas programme soirées",
+      "club libertin bordeaux cestas"
+    ]
+  },
+  "lead": "Le VIP'S se décrit comme une « vraie boîte de nuit libertine » : piste, DJ résident, bar et coins câlins, ouverts le vendredi et le samedi de 23h à 5h à Cestas. Le club reçoit d'abord les couples (50 €) et les femmes seules (15 €) ; les hommes seuls n'y entrent que sur invitation. Son adresse est attestée depuis 2001, et son site revendiquait dès 2003 l'héritage d'un premier Vip's bordelais tenu de 1967 à 1988. En octobre 2026, ses samedis à thème sont programmés jusqu'au réveillon.",
+  "glance": [
+    {
+      "icon": "calendar",
+      "label": "Ouvert",
+      "value": "Vendredi et samedi, 23h-5h"
+    },
+    {
+      "icon": "euro",
+      "label": "Entrée couple",
+      "value": "50 € avec 4 consommations"
+    },
+    {
+      "icon": "users",
+      "label": "Hommes seuls",
+      "value": "Sur invitation uniquement, 50 €"
+    },
+    {
+      "icon": "camera",
+      "label": "Photos",
+      "value": "Galerie officielle sur club-vips.com"
+    },
+    {
+      "icon": "history",
+      "label": "À cette adresse",
+      "value": "Attesté depuis juillet 2001"
+    },
+    {
+      "icon": "phone",
+      "label": "Téléphone",
+      "value": "06 85 39 47 88 (aussi WhatsApp)"
+    }
+  ],
+  "audience": [
+    {
+      "who": "couples",
+      "status": "oui",
+      "detail": "Vendredi et samedi ; vestiaire obligatoire et 4 consommations compris",
+      "price": "50 €"
+    },
+    {
+      "who": "femmes",
+      "status": "oui",
+      "detail": "Vendredi et samedi ; entrée offerte certains vendredis avant minuit avec la carte",
+      "price": "15 €"
+    },
+    {
+      "who": "hommes",
+      "status": "selon",
+      "detail": "Sur invitation, pas au vendredi découverte ; coins câlins accompagné d'une femme",
+      "price": "50 €"
+    }
+  ],
+  "highlights": [
+    "Téléphones déposés à l'accueil pour toute la soirée, lunettes connectées interdites : photographier ou filmer vaut une exclusion définitive.",
+    "Tenue élégante exigée, sans vêtements de sport : la direction se réserve le droit d'entrée.",
+    "Sauna et jacuzzi ne figurent plus sur le site depuis 2015 : appelez le club si c'est ce que vous venez chercher.",
+    "Tout se règle au départ sur un ticket unique ; carte bancaire à partir de 15 €, chèques refusés.",
+    "Le 05 56 07 65 13 encore affiché par PagesJaunes est l'ancien fixe : le club répond au 06 85 39 47 88."
+  ],
+  "keyFacts": [
+    {
+      "label": "Activité",
+      "value": "Ouvert, programme publié jusqu'au 31 décembre 2026",
+      "confidence": "confirme",
+      "sources": [
+        "s3",
+        "s12"
+      ]
+    },
+    {
+      "label": "Société exploitante",
+      "value": "SARL LE TAFFY (SIREN 389 445 800), créée en décembre 1992, active",
+      "confidence": "confirme",
+      "sources": [
+        "s11",
+        "s12"
+      ]
+    },
+    {
+      "label": "Public admis",
+      "value": "Couples et femmes seules ; hommes seuls sur invitation",
+      "confidence": "confirme",
+      "sources": [
+        "s2",
+        "s5",
+        "s23"
+      ]
+    },
+    {
+      "label": "Jours d'ouverture",
+      "value": "Vendredi et samedi, 23h-5h",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s2",
+        "s26"
+      ]
+    },
+    {
+      "label": "Entrée couple",
+      "value": "50 €, avec 4 consommations et le vestiaire",
+      "confidence": "confirme",
+      "sources": [
+        "s2",
+        "s23",
+        "s31"
+      ]
+    },
+    {
+      "label": "À cette adresse depuis",
+      "value": "Au moins juillet 2001 (première archive du site)",
+      "confidence": "confirme",
+      "sources": [
+        "s13",
+        "s37"
+      ]
+    },
+    {
+      "label": "DJ résident",
+      "value": "DJ Fabio, résident attesté depuis novembre 2024",
+      "confidence": "source_unique",
+      "sources": [
+        "s1",
+        "s22"
+      ]
+    },
+    {
+      "label": "Sauna et jacuzzi",
+      "value": "Cités en 2003 et 2015, absents du site actuel",
+      "confidence": "a_verifier",
+      "sources": [
+        "s1",
+        "s18",
+        "s19"
+      ]
+    },
+    {
+      "label": "Téléphone",
+      "value": "06 85 39 47 88 (le 05 56 07 65 13 est l'ancien fixe)",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s11"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "photos-du-club",
+      "title": "Photos officielles du VIP'S : sept espaces montrés sans clients, du bar rouge au salon intime",
+      "icon": "camera",
+      "summary": "La galerie officielle, sur l'accueil de club-vips.com, montre bar, piste, lounge, salons et salon intime sans clients ; aucune photo de soirée n'est autorisée.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Les photos officielles du VIP'S sont sur la page d'accueil de son site, dans la galerie « Visitez le club espace par espace ». Ses légendes, relevées le 16 octobre 2026, passent en revue le bar, la piste de danse, l'espace lounge, les salons, l'espace détente, les espaces privés et le salon intime.\n\nCe sont des vues des lieux sans clientèle, avec un bar éclairé de rouge et une piste lumineuse.\n\nNe cherchez pas de photos prises par des clients pendant une soirée : le règlement les exclut. Les téléphones restent à l'accueil, les lunettes connectées à caméra sont interdites, aucune photo n'est faite sans accord écrit, et quiconque filme ou photographie est exclu définitivement."
+        },
+        {
+          "kind": "list",
+          "title": "Les autres images officielles",
+          "items": [
+            "**YouTube** (@club-vips) : 14 vidéos au 19 octobre 2026. Les 13 que nous avons pu dater, mises en ligne entre le 19 octobre 2024 et le 2 janvier 2025, comprennent une « Visite du club », une soirée Halloween de 2024 et deux vidéos sur la privatisation du club.",
+            "**Instagram** (@levipsofficiel) et **groupe Facebook** : rien n'est lisible sans connexion, hormis le titre du groupe.",
+            "**Le site de 2003**, dans les archives du web, montrait douches, chambres, coin câlin, bain remous, sauna et vestiaire : des vues vieilles de plus de vingt ans."
+          ]
+        }
+      ],
+      "sources": [
+        "s1",
+        "s4",
+        "s10",
+        "s16",
+        "s24",
+        "s25",
+        "s38"
+      ]
+    },
+    {
+      "id": "discotheque-libertine",
+      "title": "Pole dance, cage et alcôve fermée à clé : une discothèque avant d'être un club",
+      "icon": "music",
+      "summary": "Piste, pole dance, cage et DJ Fabio le samedi, puis un espace intime avec alcôve fermée à clé. Sauna et jacuzzi ne sont plus cités par le site depuis 2015.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le VIP'S se veut d'abord une boîte de nuit : DJ, piste, lumières, bar et espaces lounge, où l'on peut venir seulement danser et boire un verre. Le club se dit « à taille humaine », sans publier de surface ni de capacité.\n\nSa page de visite de 2025 décrivait une partie discothèque avec **barre de pole dance** et **cage**, puis un bar dit « érotique ». Venait ensuite un espace plus intime, où l'on s'isole dans une **alcôve fermée à clé** ou derrière un rideau. Dès 2003, le club séparait « volontairement » discothèque et coins câlins.\n\nLe samedi, les platines reviennent à **DJ Fabio**, crédité par le site de 40 ans d'expérience. Des avis Google de novembre 2024, repris alors par le club, saluent un « nouveau » DJ, « désormais le DJ résident ».\n\nAu programme : disco, funk, années 80 et 90, latino, reggaeton, électro ; un formulaire à l'accueil permet de demander un titre."
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Sauna et jacuzzi : plus mentionnés depuis 2015",
+          "body": "Le site officiel citait un sauna et un jacuzzi en 2003 et encore en janvier 2015 ; ni la visite de 2025 ni le site de 2026 n'en parlent. Deux guides en ligne attribuent toujours au club un « coin sauna », sans date ni source.\n\nDans une réponse à un avis Google, affichée par Restaurant Guru comme datant de deux ans au 19 octobre 2026 (soit vers 2024), le responsable écrivait que la rénovation du « parc piscine » était prévue, sous réserve de financement ; rien n'indique qu'elle a eu lieu. Demandez avant de vous déplacer."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s4",
+        "s18",
+        "s19",
+        "s21",
+        "s22",
+        "s32",
+        "s34",
+        "s29"
+      ]
+    },
+    {
+      "id": "qui-entre-et-pour-combien",
+      "title": "50 € le couple, 15 € la femme seule, l'homme seul sur invitation",
+      "icon": "euro",
+      "summary": "Couple 50 € avec 4 consommations, femme seule 15 €, homme seul 50 € et uniquement sur invitation ; tenue élégante exigée.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le VIP'S s'adresse d'abord aux couples et aux femmes seules. L'entrée couple (50 €) comprend quatre consommations et le vestiaire obligatoire ; celle d'une femme seule (15 €), une consommation alcoolisée ou deux sans alcool.\n\nAvec la carte de membre, gratuite, une femme seule entre sans payer certains vendredis avant minuit, hors soirées spéciales. D'autres pages du site parlent d'une entrée offerte « sous conditions », sans les détailler.\n\nLes hommes seuls paient 50 € pour deux consommations, mais **n'entrent que sur invitation**, tenue et attitude strictement contrôlées. Aux coins câlins, ils doivent être accompagnés d'une femme. Le vendredi découverte est annoncé « réservé aux couples et aux femmes seules », et le site ne dit pas comment s'obtient une invitation."
+        },
+        {
+          "kind": "list",
+          "title": "Une règle qui a varié pour les hommes seuls",
+          "items": [
+            "**2003** : admis les mercredis, jeudis et dimanches, invités et parrainés par un couple ; le vendredi et le samedi sont réservés aux couples.",
+            "**2015 à 2020** : le club se dit « exclusivement réservé aux couples et aux femmes ».",
+            "**Depuis 2025** : un tarif « solitaire sur invitation » apparaît sur la grille."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Tenue élégante, sans vêtements de sport ; la direction se réserve le droit d'entrée.\n\nPour une première visite, le club recommande le vendredi découverte, une soirée qu'il dit « plus douce ». Un couple qui préfère arriver en connaissant déjà quelqu'un peut d'abord [sonder les couples inscrits autour de Bordeaux](aff:carre-libertin) : Carré Libertin, en ligne depuis 2007, ne réclame aucun abonnement aux couples ni aux femmes seules pour un accès complet, seulement trois photos sur leur profil."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s2",
+        "s3",
+        "s5",
+        "s6",
+        "s18",
+        "s19",
+        "s20",
+        "s23"
+      ]
+    },
+    {
+      "id": "prix-entree-et-bar",
+      "title": "De 250 francs en 2003 à 50 € : l'entrée couple et la carte du bar",
+      "icon": "drink",
+      "summary": "L'entrée couple du week-end est passée de 38,12 € en 2003 à 50 € ; au bar, le verre coûte 8 € et le champagne du club 70 € la bouteille.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "De 2003 à 2026, l'entrée couple du week-end est passée de 250 francs (38,12 €) à 50 €. Un avis Google d'octobre 2024 évoque 40 €, montant non recoupé ; les 50 € sont relevés depuis au moins juin 2025."
+        },
+        {
+          "kind": "table",
+          "caption": "La carte du bar, selon le site officiel (octobre 2026), service compris",
+          "headers": [
+            "Consommation",
+            "Prix"
+          ],
+          "rows": [
+            [
+              "Alcool, cocktail, bière ou coupe de champagne",
+              "8 €"
+            ],
+            [
+              "Sans alcool",
+              "5 €"
+            ],
+            [
+              "Demi-bouteille de champagne",
+              "50 €"
+            ],
+            [
+              "Champagne VIP'S (75 cl)",
+              "70 €"
+            ],
+            [
+              "Mercier ou Canard-Duchêne",
+              "80 €"
+            ],
+            [
+              "Bouteille d'alcool (70 cl)",
+              "90 à 100 €"
+            ],
+            [
+              "Mumm, Laurent-Perrier, Taittinger ou Moët & Chandon",
+              "100 €"
+            ],
+            [
+              "Veuve Clicquot",
+              "120 €"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Les bouteilles sont servies avec deux carafes ; une carafe supplémentaire coûte 5 €."
+        }
+      ],
+      "sources": [
+        "s2",
+        "s18",
+        "s22",
+        "s23",
+        "s31"
+      ]
+    },
+    {
+      "id": "bracelets-et-telephones",
+      "title": "Bracelet blanc, rose, bleu ou noir, et téléphone laissé à l'accueil",
+      "icon": "shield",
+      "summary": "Un bracelet de couleur dit ce que l'on cherche (noir : rien) ; téléphone, sac et clés restent au vestiaire, et tout se paie au départ.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le club présente son code de bracelets comme une exclusivité maison, ce que nous n'avons pas vérifié :"
+        },
+        {
+          "kind": "table",
+          "caption": "Le code des bracelets, selon le site officiel (octobre 2026)",
+          "headers": [
+            "Bracelet",
+            "Ce qu'il signale"
+          ],
+          "rows": [
+            [
+              "Blanc",
+              "Recherche un couple"
+            ],
+            [
+              "Rose",
+              "Recherche une femme"
+            ],
+            [
+              "Bleu",
+              "Recherche un homme"
+            ],
+            [
+              "Noir",
+              "Ne recherche rien ; le club le dit rassurant pour une première visite"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "À l'arrivée, sacs, vestes, téléphones, cartes et clés partent au vestiaire contre un **ticket unique**, sur lequel le bar inscrit aussi chaque consommation. L'équipe explique les règles et fait visiter piste, bar et espaces intimes ; tout se règle au départ (carte bancaire dès 15 €, chèques refusés)."
+        },
+        {
+          "kind": "list",
+          "title": "Le règlement affiché par le club",
+          "items": [
+            "**Téléphones** : laissés à l'accueil toute la soirée ; si vous attendez un appel important, l'équipe garde le vôtre derrière le bar.",
+            "**Appareils** : lunettes connectées à caméra et tout appareil qui filme sont interdits, sous peine d'exclusion définitive.",
+            "**Coins câlins** : ni verre ni bouteille ; les hommes seuls n'y vont qu'accompagnés d'une femme.",
+            "**Consentement** : demandé avant toute approche ; un refus n'a pas à être justifié.",
+            "**Hygiène** : douches, préservatifs et gel fournis, selon le site. **Tabac** : aucune règle publiée."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Les récits de la page « Première fois » sont, de l'aveu du club, des exemples, pas des avis de clients."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s2",
+        "s4",
+        "s5"
+      ]
+    },
+    {
+      "id": "programme-fin-2026",
+      "title": "Halloween le 31 octobre, BDSM le 14 novembre, réveillon le 31 décembre",
+      "icon": "calendar",
+      "summary": "Vendredi découverte, samedi à thème : Halloween le 31 octobre, BDSM le 14 novembre, réveillon le jeudi 31 décembre 2026.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le vendredi est une soirée découverte, sauf le dernier du mois, date spéciale (« La soirée du club » en septembre, « Anniversaire » ensuite). Le samedi a un thème facultatif, mais les membres qui le suivent gagnent des tampons sur leur carte.\n\nAprès Uniformes, Black-Out, Féline, Strings et Strip-tease, voici les dates à venir, relevées le 16 octobre 2026 et revues le 19 octobre. Le programme étant « susceptible d'évoluer », le club conseille d'appeler avant les dates spéciales."
+        },
+        {
+          "kind": "table",
+          "caption": "Programme de fin octobre à décembre 2026. Les autres vendredis sont des soirées découverte.",
+          "headers": [
+            "Date",
+            "Soirée"
+          ],
+          "rows": [
+            [
+              "Samedi 24 octobre",
+              "Disco"
+            ],
+            [
+              "Vendredi 30 octobre",
+              "Anniversaire"
+            ],
+            [
+              "Samedi 31 octobre",
+              "Halloween"
+            ],
+            [
+              "Samedi 7 novembre",
+              "Mini-jupe"
+            ],
+            [
+              "Samedi 14 novembre",
+              "BDSM"
+            ],
+            [
+              "Samedi 21 novembre",
+              "Black & White"
+            ],
+            [
+              "Vendredi 27 novembre",
+              "Anniversaire"
+            ],
+            [
+              "Samedi 28 novembre",
+              "Mixte"
+            ],
+            [
+              "Samedi 5 décembre",
+              "Masquée"
+            ],
+            [
+              "Samedi 12 décembre",
+              "Rouge"
+            ],
+            [
+              "Samedi 19 décembre",
+              "Strass"
+            ],
+            [
+              "Vendredi 25 décembre",
+              "Anniversaire"
+            ],
+            [
+              "Samedi 26 décembre",
+              "Latino"
+            ],
+            [
+              "Jeudi 31 décembre",
+              "Réveillon"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "La soirée BDSM prolonge une ouverture affichée dès 2025 (« Bdsm, Gay, Bisex, Lesbienne »). Le contenu du thème « Mixte » n'est pas précisé.\n\nPour situer un samedi du VIP'S parmi les autres soirées girondines du même week-end, [le calendrier national des soirées libertines de Wyylde](aff:wyylde) se consulte avec un simple compte gratuit, qui ne permet pas, en revanche, de répondre aux messages."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s3",
+        "s22"
+      ]
+    },
+    {
+      "id": "anniversaires-et-fidelite",
+      "title": "Anniversaires de 4 à 25 couples, carte de membre gratuite et loterie trimestrielle",
+      "icon": "ticket",
+      "summary": "Le dernier vendredi du mois accueille des anniversaires sur réservation ; la carte de membre, gratuite, offre l'entrée de certains vendredis avant minuit.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le dernier vendredi accueille des anniversaires de 4 à 25 couples, sur réservation et pour les membres, avec, selon le site, entrée offerte, bulles et gâteau. La formule existait déjà en janvier 2020. Le club se privatise aussi ce soir-là, avec lunch, cocktail ou buffet froid selon la formule."
+        },
+        {
+          "kind": "list",
+          "title": "Fidélité : carte, tampons et loterie",
+          "items": [
+            "**Carte de membre** : gratuite, à présenter avant minuit ; pleine, elle vaut une soirée offerte, même un samedi.",
+            "**Loterie trimestrielle** : tirage le dernier vendredi de chaque trimestre ; cinq lots, dont deux Pass VIP de trois mois.",
+            "**Soirée des 500 membres** : un vendredi, entrée offerte à 20 couples ou femmes seules du groupe Facebook ; date non publiée au 19 octobre 2026."
+          ]
+        }
+      ],
+      "sources": [
+        "s1",
+        "s2",
+        "s6",
+        "s7",
+        "s8",
+        "s20"
+      ]
+    },
+    {
+      "id": "avis-google",
+      "title": "4/5 sur 85 avis Google selon trois relais, contre 3,9 sur 76 en 2025",
+      "icon": "star",
+      "summary": "Trois relais affichent 4/5 sur 85 avis Google en octobre 2026 ; l'accueil et le DJ sont salués, mais 15 de ces avis ne donnent qu'une étoile.",
+      "confidence": "source_unique",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Nous n'avons pas consulté Google directement. En octobre 2026, trois relais affichent **4/5 sur 85 avis** : Restaurant Guru (page mise à jour le 26 septembre 2026), autour-de-moi (fiche du 4 octobre 2026) et Libertimax.\n\nAutour-de-moi détaille la répartition : 49 avis à cinq étoiles, 15 à quatre, 5 à trois, 1 à deux et 15 à une étoile. Un annuaire relevait 3,9/5 sur 76 avis en juin 2025 ; le site du club en affichait 74 en juillet 2025. Sur PagesJaunes, deux avis de 2022 et 2023 donnent 5/5."
+        },
+        {
+          "kind": "list",
+          "title": "Ce qui revient dans les avis que nous avons lus",
+          "items": [
+            "L'accueil du patron et de l'équipe revient souvent, avec une ambiance dite festive et respectueuse.",
+            "Le DJ et ses sets latins (zouk, bachata) sont salués dès 2023 ; des avis de 2023 et 2024 jugent le club et ses coins câlins propres.",
+            "Les critiques, lues le 16 octobre 2026 dans des avis de 2018 à 2023 qu'un relais n'affichait plus trois jours plus tard, visaient l'hygiène, un service lent au bar, une musique ou un décor datés, un prix contesté et, en 2020, une sélection à l'entrée vécue comme discriminante."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le responsable se présente sous son prénom, Philippe, sur le site et dans ses réponses aux avis. Dans des réponses affichées comme datant de deux ans au 19 octobre 2026, soit vers 2024, il écrivait que seuls les couples et les femmes étaient admis ; la grille actuelle prévoit pourtant une entrée homme seul sur invitation.\n\nQuant aux avis cités sur l'accueil du VIP'S, ils sont choisis par le club."
+        }
+      ],
+      "sources": [
+        "s9",
+        "s21",
+        "s22",
+        "s26",
+        "s28",
+        "s29",
+        "s30",
+        "s31"
+      ]
+    },
+    {
+      "id": "acces-gazinet",
+      "title": "Au 55 avenue de Lattre de Tassigny, à Gazinet, avec parking sur place",
+      "icon": "map",
+      "summary": "55 avenue du Maréchal de Lattre de Tassigny, quartier de Gazinet, avec parking sur place ; le numéro actuel est le 06 85 39 47 88.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le club est au 55 avenue du Maréchal de Lattre de Tassigny (« 55 Avenue de Tassigny » sur son site), dans le quartier de Gazinet. En 2003, le site le situait « sur la Route d'Arcachon (RN250) », accessible par la rocade, sortie 13, ou par l'A63, sortie 25 : un itinéraire vieux de plus de vingt ans, à vérifier au GPS.\n\nLe site de 2025 le plaçait à quelques minutes de Canéjan, Pessac et Gradignan, et à 30 minutes d'Arcachon. On se gare sur place.\n\nLe numéro à composer est le **06 85 39 47 88**, aussi joignable par WhatsApp. Le 05 56 07 65 13, encore sur PagesJaunes, est l'ancien fixe de 2001 ; il n'apparaît plus sur le site officiel.\n\nL'accueil du site affiche trois partenaires : l'annuaire Libertimax, l'application de rencontre et de covoiturage libertin Liberty Car (code de réduction de 50 %), et Gleese, pour lequel le club annonce « quatre mois d'abonnement offerts » avec le code LEVIPS. Cette offre est propre au club et nous ne l'avons pas vérifiée.\n\nCe qui est établi, c'est qu'on peut [tester ce partenaire du VIP'S sans carte bancaire](aff:gleese) : Gleese, site libertin français lancé fin 2024, vérifie chaque inscrit par téléphone et modère les photos à la main.\n\nLe VIP'S est la seule adresse de Cestas dans notre annuaire. La [page des clubs de Gironde](/departement/gironde) regroupe les autres fiches du département, dont [le 113 Avenue à Eysines](/113-avenue-eysines-bordeaux), [La Chaloupe](/la-chaloupe-bordeaux) et [le Nirvanna Club](/nirvanna-club-bordeaux) à Bordeaux."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s10",
+        "s11",
+        "s13",
+        "s17",
+        "s18",
+        "s21",
+        "s24",
+        "s26",
+        "s30"
+      ]
+    },
+    {
+      "id": "histoire-depuis-1967",
+      "title": "Un Vip's bordelais revendiqué depuis 1967, une adresse à Cestas attestée depuis 2001",
+      "icon": "history",
+      "summary": "En 2003, le site revendiquait l'héritage d'un Vip's bordelais ouvert en 1967 ; la société date de 1992 et le club est attesté à cette adresse depuis 2001.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Les « 100 ans d'histoire » qu'un annuaire lui prête ne s'appuient sur aucune source que nous ayons trouvée. Le rythme, lui, est passé de cinq nuits par semaine en 2001 à deux depuis au moins 2015."
+        },
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "1967-1988",
+              "text": "Selon le site du club en 2003, un premier Vip's, tenu par un certain Michel, fut « le premier club discothèque échangiste de Bordeaux ». Rien ne documente son adresse ni un lien avec le club actuel."
+            },
+            {
+              "date": "Décembre 1992",
+              "text": "Création de la SARL LE TAFFY, immatriculée dès l'origine au 55 avenue du Maréchal de Lattre de Tassigny et qui exploite aujourd'hui le club. Qu'il y ait ouvert dès 1992 n'est pas établi."
+            },
+            {
+              "date": "Juillet 2001",
+              "text": "Première archive de club-vips.com : une « discothèque, club libertin » pour couples et femmes seules, à la même adresse, ouverte du mercredi au dimanche de 22h30 à 4h."
+            },
+            {
+              "date": "2003",
+              "text": "Neuf alcôves, dont une pièce centrale avec un grand matelas à eau, plus sauna, jacuzzi et douches. Les femmes doivent venir en jupe ou en robe, « les pantalons étant exclus »."
+            },
+            {
+              "date": "Janvier 2015",
+              "text": "Ouverture réduite au vendredi et au samedi, dès 23h ; sauna et jacuzzi encore cités par le site."
+            },
+            {
+              "date": "Janvier 2020",
+              "text": "Les anniversaires du dernier vendredi figurent déjà sur le site."
+            },
+            {
+              "date": "Novembre 2024",
+              "text": "Des avis Google relayés par le site saluent le « nouveau » DJ italien, Fabio, « désormais » résident."
+            },
+            {
+              "date": "2025",
+              "text": "Tarif « solitaire sur invitation » ; la visite en ligne décrit pole dance, cage et alcôve fermée à clé."
+            },
+            {
+              "date": "2026",
+              "text": "Le site actuel publie programme daté, code des bracelets, carte de membre et loterie."
+            }
+          ]
+        }
+      ],
+      "sources": [
+        "s12",
+        "s13",
+        "s14",
+        "s15",
+        "s18",
+        "s19",
+        "s20",
+        "s21",
+        "s22",
+        "s32",
+        "s23"
+      ]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Vendredi": "23h - 5h (soirée découverte ; anniversaires le dernier vendredi du mois)",
+      "Samedi": "23h - 5h (soirée à thème avec DJ)",
+      "Dimanche à jeudi": "Fermé, sauf dates spéciales (réveillon le jeudi 31 décembre 2026)"
+    },
+    "note": "Selon le site officiel, consulté le 16 octobre 2026. Les annuaires qui affichent un créneau le dimanche de 0h à 5h décrivent la fin de la nuit du samedi, pas une ouverture le dimanche.",
+    "confidence": "confirme",
+    "sources": [
+      "s1",
+      "s2",
+      "s3",
+      "s26",
+      "s27"
+    ]
+  },
+  "tarifs": {
+    "rows": {
+      "Couple": "50 €, 4 consommations et vestiaire compris",
+      "Femme seule": "15 €, 1 consommation alcoolisée ou 2 sans alcool ; offerte certains vendredis avant minuit avec la carte de membre",
+      "Homme seul": "50 €, sur invitation uniquement, 2 consommations",
+      "Verre ou coupe au bar": "8 € (5 € sans alcool)",
+      "Champagne du club (75 cl)": "70 €"
+    },
+    "note": "Tarifs du site officiel au 16 octobre 2026. Consommations notées sur un ticket unique et réglées au départ ; carte bancaire à partir de 15 €, chèques refusés.",
+    "confidence": "confirme",
+    "sources": [
+      "s2",
+      "s23",
+      "s31"
+    ]
+  },
+  "equipements": [
+    "Piste de danse",
+    "DJ résident",
+    "Bar",
+    "Barre de pole dance",
+    "Cage",
+    "Espace lounge",
+    "Salons",
+    "Espace détente",
+    "Coins câlins",
+    "Alcôve fermée à clé",
+    "Douches",
+    "Vestiaire",
+    "Parking sur place"
+  ],
+  "externalRatings": [
+    {
+      "platform": "PagesJaunes",
+      "rating": 5,
+      "scale": 5,
+      "count": 2,
+      "date": "2026-10-16",
+      "url": "https://www.pagesjaunes.fr/pros/06658033"
+    }
+  ],
+  "officialLinks": [
+    {
+      "label": "Site officiel du VIP'S",
+      "url": "https://www.club-vips.com/",
+      "kind": "site"
+    },
+    {
+      "label": "Galerie officielle : bar, piste, lounge, salons et salon intime",
+      "url": "https://www.club-vips.com/",
+      "kind": "galerie"
+    },
+    {
+      "label": "Programme des soirées 2026",
+      "url": "https://www.club-vips.com/soirees-libertines-bordeaux/",
+      "kind": "agenda"
+    },
+    {
+      "label": "Réserver un anniversaire (dernier vendredi du mois)",
+      "url": "https://www.club-vips.com/anniversaire-club-vips/",
+      "kind": "reservation"
+    },
+    {
+      "label": "Groupe Facebook du club",
+      "url": "https://www.facebook.com/groups/140508314614/",
+      "kind": "facebook"
+    },
+    {
+      "label": "Instagram @levipsofficiel",
+      "url": "https://www.instagram.com/levipsofficiel/",
+      "kind": "instagram"
+    },
+    {
+      "label": "Chaîne YouTube du club",
+      "url": "https://www.youtube.com/@club-vips",
+      "kind": "autre"
+    }
+  ],
+  "corrections": {
+    "telephone": "0685394788",
+    "site_web": "https://www.club-vips.com/",
+    "sources": [
+      "s1",
+      "s11"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Où voir des photos du VIP'S à Cestas ?",
+      "answer": "Sur la page d'accueil du site officiel, dans la galerie « Visitez le club espace par espace » : bar, piste, lounge, salons, espace détente, espaces privés et salon intime, photographiés sans clients. La chaîne YouTube du club compte 14 vidéos, dont une « Visite du club » ; celles que nous avons pu dater ont été mises en ligne entre octobre 2024 et janvier 2025. Le règlement exclut les photos de soirée : téléphones à l'accueil, aucune photo sans accord écrit."
+    },
+    {
+      "question": "Un homme seul peut-il entrer au VIP'S ?",
+      "answer": "Uniquement sur invitation, pour 50 € avec deux consommations, et sans accès aux coins câlins s'il n'est pas accompagné d'une femme. Le site ne dit pas qui peut inviter ni comment : appelez le 06 85 39 47 88 avant de vous déplacer."
+    },
+    {
+      "question": "Le VIP'S ouvre-t-il en semaine ?",
+      "answer": "Non : le vendredi et le samedi de 23h à 5h, plus des dates exceptionnelles comme le réveillon du jeudi 31 décembre 2026. Au début des années 2000, le club ouvrait du mercredi au dimanche."
+    },
+    {
+      "question": "Combien coûte une soirée en couple ?",
+      "answer": "50 € avec quatre consommations et le vestiaire, puis 8 € le verre ou la coupe. Tout est noté sur un ticket unique et réglé au départ ; carte bancaire dès 15 €, pas de chèque. Les tarifs publiés ne comportent aucune adhésion : la carte de membre est gratuite."
+    },
+    {
+      "question": "Que disent les avis sur le VIP'S ?",
+      "answer": "En octobre 2026, trois relais des avis Google affichent 4/5 sur 85 avis, dont 49 à cinq étoiles et 15 à une étoile. Les avis positifs que nous avons lus citent surtout l'accueil du patron et de l'équipe, le DJ et la propreté des coins câlins. Les avis repris sur le site du club sont une sélection faite par le club."
+    },
+    {
+      "question": "Y a-t-il un sauna ou un jacuzzi au VIP'S ?",
+      "answer": "Rien ne le confirme aujourd'hui : le site officiel en parlait en 2003 et en 2015, plus en 2025 ni en 2026. Si c'est important pour vous, demandez au club."
+    }
+  ],
+  "unverified": [
+    "La présence actuelle d'un sauna et d'un jacuzzi, cités par le site en 2003 et en 2015 mais plus depuis.",
+    "La manière d'obtenir une invitation pour un homme seul, et qui peut la donner.",
+    "Les conditions exactes de l'entrée offerte le vendredi avant minuit (« certains vendredis » ou « tous les vendredis, sous conditions » selon les pages).",
+    "Un lien, de lieu ou de société, entre le premier Vip's bordelais (1967-1988) et le club de Cestas, et la date à laquelle le club s'est installé à cette adresse (société créée en 1992, club attesté en 2001).",
+    "La surface, le nombre de niveaux et la capacité du lieu.",
+    "Une règle sur le tabac ou un espace fumeurs.",
+    "Le « Chemin des Sources » donné comme adresse par un annuaire : lieu-dit voisin ou erreur.",
+    "L'itinéraire de 2003 (rocade sortie 13, A63 sortie 25), non revérifié sur le terrain.",
+    "La date de la « soirée des 500 membres ».",
+    "La rénovation du « parc piscine » annoncée comme prévue par le responsable, dans une réponse à un avis Google affichée comme datant de deux ans au 19 octobre 2026 (vers 2024) : réalisée ou non, et à quelle date exacte."
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Site officiel du VIP'S, page d'accueil (galerie, tarifs, règles, partenaires)",
+      "url": "https://www.club-vips.com/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s2",
+      "label": "Site officiel, « Tarifs et horaires »",
+      "url": "https://www.club-vips.com/tarifs-horaires-club-vips/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s3",
+      "label": "Site officiel, programme des soirées 2026",
+      "url": "https://www.club-vips.com/soirees-libertines-bordeaux/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s4",
+      "label": "Site officiel, « Première fois en club libertin » et règlement",
+      "url": "https://www.club-vips.com/premiere-fois-club-libertin-bordeaux/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s5",
+      "label": "Site officiel, « Club libertin pour couples »",
+      "url": "https://www.club-vips.com/club-libertin-couples-bordeaux/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s6",
+      "label": "Site officiel, « Carte membre »",
+      "url": "https://www.club-vips.com/carte-membre-club-vips/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s7",
+      "label": "Site officiel, « Anniversaire »",
+      "url": "https://www.club-vips.com/anniversaire-club-vips/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s8",
+      "label": "Site officiel, « Privatiser »",
+      "url": "https://www.club-vips.com/privatiser-club-libertin-bordeaux/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s9",
+      "label": "Site officiel, « Avis & VIP'S TV »",
+      "url": "https://www.club-vips.com/avis-temoignages/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s10",
+      "label": "Site officiel, « Accès »",
+      "url": "https://www.club-vips.com/acces-club-libertin-cestas/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s11",
+      "label": "Site officiel, mentions légales (SARL LE TAFFY)",
+      "url": "https://www.club-vips.com/mentions-legales/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s12",
+      "label": "Annuaire des entreprises, SARL LE TAFFY (SIREN 389 445 800)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/389445800",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s13",
+      "label": "Site officiel, archive du 21/07/2001 (accueil)",
+      "url": "https://web.archive.org/web/20010721214740/http://club-vips.com/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s14",
+      "label": "Site officiel, archive du 06/02/2002 (page « Le club »)",
+      "url": "https://web.archive.org/web/20020206150407/http://club-vips.com/LeClub.htm",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s15",
+      "label": "Site officiel, archive du 12/12/2003 (historique)",
+      "url": "https://web.archive.org/web/20031212122622/http://www.club-vips.com/Decouvre.htm",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s16",
+      "label": "Site officiel, archive du 06/11/2003 (visite en images)",
+      "url": "https://web.archive.org/web/20031106140831/http://www.club-vips.com/decouvre1.htm",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s17",
+      "label": "Site officiel, archive du 25/11/2003 (accès)",
+      "url": "https://web.archive.org/web/20031125030625/http://www.club-vips.com/Acces.htm",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s18",
+      "label": "Site officiel, archive du 12/12/2003 (questions fréquentes)",
+      "url": "https://web.archive.org/web/20031212122627/http://www.club-vips.com/Faq.htm",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s19",
+      "label": "Site officiel, archive du 27/01/2015 (accueil)",
+      "url": "https://web.archive.org/web/20150127021235/http://club-vips.com/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s20",
+      "label": "Site officiel, archive du 27/01/2020 (accueil)",
+      "url": "https://web.archive.org/web/20200127173152/http://club-vips.com/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s21",
+      "label": "Site officiel, archive du 08/07/2025 (visite du club)",
+      "url": "https://web.archive.org/web/20250708073610/https://www.club-vips.com/visite-du-club-libertin-le-vips/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s22",
+      "label": "Site officiel, archive du 14/08/2025 (accueil et avis Google de 2024)",
+      "url": "https://web.archive.org/web/20250814180121/http://club-vips.com/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s23",
+      "label": "Site officiel, archive du 15/09/2025 (tarifs)",
+      "url": "https://web.archive.org/web/20250915122522/https://www.club-vips.com/tarifs-du-club-libertin-le-vips/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s24",
+      "label": "Chaîne YouTube officielle « Club Libertin Le VIP'S Bordeaux Cestas »",
+      "url": "https://www.youtube.com/@club-vips",
+      "type": "reseau_social",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s25",
+      "label": "Groupe Facebook officiel du club (titre seul lisible sans connexion)",
+      "url": "https://www.facebook.com/groups/140508314614/",
+      "type": "reseau_social",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s26",
+      "label": "PagesJaunes, fiche « Le Vip's » gérée par le professionnel",
+      "url": "https://www.pagesjaunes.fr/pros/06658033",
+      "type": "annuaire",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s27",
+      "label": "118712, fiche « Le Vip's »",
+      "url": "https://www.118712.fr/professionnels/X0RXW19VHgI",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s28",
+      "label": "Libertimax, fiche « Le Vip's Club »",
+      "url": "https://libertimax.fr/club-libertin/bordeaux/le-vip-s-club",
+      "type": "annuaire",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s29",
+      "label": "Restaurant Guru, relais des avis Google",
+      "url": "https://restaurantguru.com/Le-Vips-Cestas",
+      "type": "avis",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s30",
+      "label": "autour-de-moi.com, relais des notes Google (fiche du 4 octobre 2026)",
+      "url": "https://club-de-divertissement-pour-adultes.autour-de-moi.com/f/le-vip-s-club-libertin-bordeaux-cestas-7296398/",
+      "type": "avis",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s31",
+      "label": "Minuit Libertin, fiche « Le Vip's Club » (informations de juin 2025)",
+      "url": "https://minuitlibertin.com/le-vips-club/",
+      "type": "annuaire",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s32",
+      "label": "Sauna Club Le Bali, guide des clubs libertins de Gironde",
+      "url": "https://www.saunaclublebali.fr/clubs-libertins-gironde-33/",
+      "type": "annuaire",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s34",
+      "label": "France Sud Ouest, « Les clubs libertins en Gironde »",
+      "url": "https://www.francesudouest.com/les-clubs-libertins-en-gironde/",
+      "type": "annuaire",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s37",
+      "label": "Wayback Machine, historique des captures de club-vips.com",
+      "url": "https://web.archive.org/cdx/search/cdx?url=club-vips.com",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s38",
+      "label": "Chaîne YouTube officielle, flux public des vidéos (dates de mise en ligne)",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLyryRIAjDFYyPATPxszh-Q",
+      "type": "reseau_social",
+      "consulted": "2026-10-19"
+    }
+  ]
+}

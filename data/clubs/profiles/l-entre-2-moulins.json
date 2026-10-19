@@ -1,0 +1,776 @@
+{
+  "slug": "l-entre-2-moulins",
+  "clubId": "2",
+  "researchedAt": "2026-10-19",
+  "display": {
+    "nom": "L'Entre 2",
+    "ville": "Moulins"
+  },
+  "status": {
+    "value": "ferme",
+    "summary": "Le tribunal de commerce de Saint-Quentin a ouvert le 9 septembre 2013 la liquidation judiciaire de la SARL TRISTAR, seule société trouvée au registre à l'adresse du club et son exploitante probable, puis l'a close pour insuffisance d'actif le 21 novembre 2014. Le site le-must.fr, encore à jour au printemps 2013, ne renvoyait plus que des redirections dès juillet 2013 ; aucune reprise n'a été immatriculée à Moulins depuis, et les guides libertins de l'Aisne parus en 2025 et 2026 ne citent plus le village.",
+    "sources": [
+      "s1",
+      "s2",
+      "s3",
+      "s4",
+      "s20",
+      "s22",
+      "s23"
+    ]
+  },
+  "seo": {
+    "title": "Club libertin à Moulins (02) : L'Entre 2, ex-Le Must, fermé",
+    "metaDescription": "À Moulins (Aisne), Le Must, rebaptisé L'Entre 2, a reçu les libertins de 1996 à 2013 au plus tard : sa liquidation, sa maison de maître et sa grille de 2012.",
+    "subtitle": "Ancien club libertin de l'Aisne (1996-2013), dans une maison de maître de Moulins, près de Laon",
+    "targetQueries": [
+      "club libertin moulins",
+      "libertines moulins",
+      "club echangiste moulins",
+      "sauna libertin moulins",
+      "l'entre 2 moulins",
+      "le must moulins club libertin"
+    ]
+  },
+  "lead": "Le Must, rebaptisé L'Entre 2 entre 2010 et 2011, était un club libertin installé depuis 1996 dans une ancienne maison de maître de Moulins, village de 74 habitants de l'Aisne (02), à quelque 17 km de Laon : rien à voir avec Moulins, préfecture de l'Allier. Le club ouvert le plus proche que nous ayons vérifié, le 3D Sauna Club, est à une douzaine de kilomètres. L'Entre 2, lui, a fermé au plus tard en 2013, l'année où la société qui l'exploitait selon toute vraisemblance a été placée en liquidation judiciaire.",
+  "glance": [
+    {
+      "icon": "closed",
+      "label": "Fermé",
+      "value": "Au plus tard en 2013 (liquidation)"
+    },
+    {
+      "icon": "history",
+      "label": "Période d'activité",
+      "value": "1996-2013 : Le Must, puis L'Entre 2"
+    },
+    {
+      "icon": "map",
+      "label": "Ancienne adresse",
+      "value": "1 place de l'Église, Moulins (Aisne)"
+    },
+    {
+      "icon": "warning",
+      "label": "Pas Moulins (Allier)",
+      "value": "Village de 74 habitants à 17 km de Laon"
+    },
+    {
+      "icon": "euro",
+      "label": "Entrée couple (2012)",
+      "value": "35 € le week-end, une conso. chacun"
+    },
+    {
+      "icon": "heart",
+      "label": "Ouvert vérifié, 12 km",
+      "value": "3D Sauna Club (samedi, 1er vendredi)"
+    }
+  ],
+  "highlights": [
+    "L'Entre 2 n'existe plus : la société qui l'exploitait selon toute vraisemblance a été mise en liquidation le 9 septembre 2013, sans reprise depuis.",
+    "Ce Moulins est un village de l'Aisne près de Laon ; Moulins, dans l'Allier, est à 319 km et notre annuaire n'y recense aucun club.",
+    "Le site le-must.fr présente en 2026 un snack de Nice ; le 03 23 24 46 08 était le numéro du club en 2011-2012, non vérifié depuis.",
+    "Club ouvert vérifié le plus proche : le 3D Sauna Club, à 12 km, le samedi de 21 h à 4 h et le premier vendredi du mois de 20 h à 1 h.",
+    "À Reims (32 km), le Sauna Le Lotus affiche des soirées datées d'octobre 2026 ; le Must Club de Reims, lui, n'a aucun lien avec l'ancien Must de Moulins."
+  ],
+  "keyFacts": [
+    {
+      "label": "Noms successifs",
+      "value": "Le Must, puis L'Entre 2 (changement entre juin 2010 et août 2011)",
+      "confidence": "confirme",
+      "sources": [
+        "s8",
+        "s11",
+        "s12",
+        "s14",
+        "s18"
+      ]
+    },
+    {
+      "label": "Statut",
+      "value": "Fermé au plus tard en 2013",
+      "confidence": "confirme",
+      "sources": [
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    {
+      "label": "Adresse",
+      "value": "1 place de l'Église, 02160 Moulins (Aisne)",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s12",
+        "s19",
+        "s31"
+      ]
+    },
+    {
+      "label": "Ouverture",
+      "value": "1996",
+      "confidence": "confirme",
+      "sources": [
+        "s7",
+        "s17",
+        "s1"
+      ]
+    },
+    {
+      "label": "Société exploitante (déduite)",
+      "value": "SARL TRISTAR (SIREN 403 595 150), bar, restaurant et dancing à l'adresse, sans enseigne déclarée",
+      "confidence": "a_verifier",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "label": "Bâtiment",
+      "value": "Ancienne maison de maître, 250 m² sur deux niveaux",
+      "confidence": "source_unique",
+      "sources": [
+        "s17",
+        "s7"
+      ]
+    },
+    {
+      "label": "Public admis en 2012",
+      "value": "Couples, femmes seules ; hommes seuls selon le nombre de couples présents",
+      "confidence": "source_unique",
+      "sources": [
+        "s15"
+      ]
+    },
+    {
+      "label": "Fréquentation en 2009",
+      "value": "20 à 30 personnes par soirée, selon L'Union",
+      "confidence": "source_unique",
+      "sources": [
+        "s17"
+      ]
+    },
+    {
+      "label": "Club ouvert vérifié le plus proche",
+      "value": "3D Sauna Club, à environ 12 km",
+      "confidence": "source_unique",
+      "sources": [
+        "s24",
+        "s28"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "moulins-aisne-pas-allier",
+      "title": "Moulins (02), 74 habitants près de Laon, et non la préfecture de l'Allier",
+      "icon": "map",
+      "summary": "Le club était au 1 place de l'Église à Moulins (02), village de 74 habitants à 17 km de Laon ; à Moulins dans l'Allier, notre annuaire ne recense aucun club.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le club se trouvait au **1 place de l'Église, 02160 Moulins**, dans l'Aisne. Ce Moulins-là est un village de 74 habitants (recensement 2023) du Chemin des Dames, à environ 17 km de Laon et 31 km de Reims à vol d'oiseau. Rien à voir, donc, avec Moulins, préfecture de l'Allier, à quelque 319 km."
+        },
+        {
+          "kind": "callout",
+          "tone": "tip",
+          "title": "Vous cherchiez Moulins dans l'Allier (03) ?",
+          "body": "Notre annuaire ne recense aucun club libertin à Moulins même, et aucune des quatre adresses qu'il connaît dans un rayon d'environ 65 km à vol d'oiseau n'a pu être vérifiée ouverte au 19 octobre 2026 :\n\n- [La Villa](/la-villa-beaumont-sardolles), Beaumont-Sardolles (Nièvre, 43 km) : site muet, aucune activité récente trouvée ;\n- [L'Equatorial Sauna](/l-equatorial-sauna-nevers-nevers), Nevers (49 km) : un annuaire y place un « Poseidon » « temporairement fermé », mention publiée en mars 2025 et maintenue à sa mise à jour d'août 2026 ;\n- Le Lotus d'Or, Domérat (Allier, 63 km) : fermé, sa société exploitante a été mise en liquidation en 2021 ;\n- l'Addict Club, Tronsanges (Nièvre, 65 km) : fermé à la mi-mars 2020 et devenu restaurant, selon Le Journal du Centre.\n\nVoyez la [page des clubs de l'Allier](/departement/allier). Faute d'adresse ouverte confirmée, une femme ou un couple peut aussi [repérer des partenaires côté Allier sans payer l'accès](aff:carre-libertin) : Carré Libertin, en ligne depuis 2007, ouvre tout le site aux femmes et aux couples qui publient trois photos de profil."
+        }
+      ],
+      "sources": [
+        "s27",
+        "s28",
+        "s29",
+        "s30",
+        "s34",
+        "s35",
+        "s36",
+        "s37"
+      ]
+    },
+    {
+      "id": "liquidation-septembre-2013",
+      "title": "Liquidation en septembre 2013, clôture pour insuffisance d'actif en novembre 2014",
+      "icon": "closed",
+      "summary": "La SARL TRISTAR, exploitante présumée du club, est mise en liquidation le 9 septembre 2013 ; la procédure est close pour insuffisance d'actif le 21 novembre 2014.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le club n'avait pas d'enseigne déclarée, mais une seule société a été trouvée au registre à son adresse : la **SARL TRISTAR** (SIREN 403 595 150), créée le 26 janvier 1996, l'année où le club dit avoir ouvert, et déclarée au BODACC pour « l'exploitation d'un bar, restaurant, dancing ». C'est très probablement elle qui l'exploitait, sans que le registre le dise.\n\nLe tribunal de commerce de Saint-Quentin a ouvert sa **liquidation judiciaire simplifiée le 9 septembre 2013** (BODACC du 25 septembre 2013). La procédure a été **close pour insuffisance d'actif le 21 novembre 2014** : il ne restait pas de quoi payer les créanciers.\n\nSociete.com présente la société comme radiée ; le répertoire SIRENE, qui l'affiche encore active sans date de fin, n'a manifestement pas été mis à jour. Ses derniers comptes publiés, ceux de 2009, font état d'un chiffre d'affaires de 54 900 et d'un résultat de 1 078 (unité non affichée, vraisemblablement des euros)."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "id": "site-eteint-juillet-2013",
+      "title": "Dernière soirée lue le 5 mai 2012, site éteint en juillet 2013",
+      "icon": "globe",
+      "summary": "Aucune annonce de fermeture : la dernière soirée datée lue est du 5 mai 2012, le site s'éteint en juillet 2013 et rien n'a repris l'adresse depuis.",
+      "blocks": [
+        {
+          "kind": "list",
+          "title": "Les repères qui datent la fin, faute d'annonce",
+          "items": [
+            "samedi 5 mai 2012 : dernière soirée datée lue sur le site, une « Nuit érotique » ;",
+            "2 avril 2013 : la page « Plan d'accès » est encore en ligne ;",
+            "8 mai 2013 : dernière capture valide de la page d'accueil ;",
+            "2 juillet 2013 : le domaine ne renvoie plus que des redirections ;",
+            "9 septembre 2013 : ouverture de la liquidation."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "La lecture la plus probable est une fermeture au printemps ou à l'été 2013, mais aucune source ne la date. Rien n'a pris la suite : aucune des 39 annonces publiées au BODACC pour Moulins entre 2008 et 2024 ne crée ni ne reprend un débit de boissons ou un lieu de nuit, et les deux guides libertins de l'Aisne mis à jour en 2026 ne citent plus le village."
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "le-must.fr n'est plus le site du club",
+          "body": "Le domaine a changé de mains : page de parking de 2014 à 2017, puis d'autres commerces homonymes, réenregistrement le 28 mai 2025 et, en octobre 2026, un snack-restaurant de Nice. Quant au 03 23 24 46 08, c'était le numéro du club en 2011-2012 ; il n'a pas été vérifié depuis."
+        }
+      ],
+      "sources": [
+        "s2",
+        "s4",
+        "s5",
+        "s6",
+        "s16",
+        "s20",
+        "s22",
+        "s23"
+      ]
+    },
+    {
+      "id": "3d-sauna-club-a-12-km",
+      "title": "Le 3D Sauna Club, à 12 km dans le même code postal 02160",
+      "icon": "heart",
+      "summary": "Le 3D Sauna Club, à 12 km dans le même code postal, ouvre le samedi de 21 h à 4 h et le premier vendredi du mois de 20 h à 1 h ; il affichait ses « 3 ans » le 19 octobre 2026.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le club libertin ouvert le plus proche que nous ayons pu vérifier est le [3D Sauna Club](/club-3d-la-ville-aux-bois-les-pontavert), au 10 bis RD 1044 à La Ville-aux-Bois-lès-Pontavert, à environ 12 km de l'ancien Must et dans le même code postal. Son site, relu le 19 octobre 2026, annonce une ouverture le samedi de 21 h à 4 h et le premier vendredi du mois de 20 h à 1 h, et met en avant la soirée des « 3 ans du club ».\n\nLe 3D n'ouvrant que le samedi et un vendredi par mois, un couple de Laon ou de Reims qui veut sortir un autre soir peut [chercher une soirée datée côté Aisne ou Marne dans l'agenda de Wyylde](aff:wyylde) : l'ancien Netéchangisme, en ligne depuis 2001, y liste des soirées de clubs de toute la France. Un compte gratuit suffit pour le consulter, pas pour converser avec les membres."
+        }
+      ],
+      "sources": [
+        "s24",
+        "s28"
+      ]
+    },
+    {
+      "id": "deux-lotus-lizy-et-reims",
+      "title": "Le Lotus de Lizy « fermé provisoirement », le Sauna Le Lotus de Reims actif en octobre 2026",
+      "icon": "map",
+      "summary": "À Lizy (21 km), Le Lotus se dit fermé provisoirement après un incident ; à Reims (32 km), le Sauna Le Lotus annonce des soirées datées d'octobre à décembre 2026.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Côté Aisne, Le Lotus de Lizy (Anizy-le-Grand), à environ 21 km, ne répond plus sur son ancien domaine ; sa page de remplacement affichait le 19 octobre 2026, sans date, que le club était « fermé provisoirement » à la suite d'un incident. Un annuaire mis à jour en septembre 2026 dit aussi le 3AC-Monkey d'Achery peut-être fermé.\n\nÀ Reims, à 32 km, le [Sauna Le Lotus](/sauna-le-lotus-reims) de la rue de Witry tient un agenda daté : soirées du vendredi dès 19 h 30 en octobre 2026 (BDSM le 16, Halloween le 30), programme annoncé jusqu'au 11 décembre. Les après-midi du mercredi et du samedi y sont réservés aux hommes gays et bi ; certains samedis soir, comme le 14 novembre 2026, aux couples et aux femmes seules.\n\nLe Must Club de Reims, lui, n'est **pas** l'ancien club de Moulins malgré son nom : cet établissement distinct, absent de notre annuaire, annonce des soirées libertines le samedi de 23 h à 7 h. La [page des clubs de l'Aisne](/departement/aisne) rassemble ce que nous savons du département."
+        }
+      ],
+      "sources": [
+        "s32",
+        "s30",
+        "s26",
+        "s33",
+        "s38",
+        "s25"
+      ]
+    },
+    {
+      "id": "maison-de-maitre-1996-2013",
+      "title": "De 1996 à 2013 : Le Must, puis L'Entre 2, dans la maison de maître de la place de l'Église",
+      "icon": "history",
+      "summary": "Ouvert en 1996 sous le nom Le Must, le club devient L'Entre 2 entre juin 2010 et août 2011, sans changer d'adresse ni de site, puis disparaît au plus tard en 2013.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le bâtiment, une ancienne maison de maître qui, selon L'Union, « trône au cœur du village », a accueilli le club pendant environ dix-sept ans. Le nom a changé en cours de route, pas l'adresse ni le domaine le-must.fr : le site s'intitule « LE MUST » jusqu'en juin 2010 au moins, puis « L'entre 2 Club Privé Libertin » en août 2011. Aucune source n'explique le choix du nouveau nom ni ne date précisément le changement."
+        },
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "26 janvier 1996",
+              "text": "Création de la SARL TRISTAR au 1 place de l'Église. Le site du club affichera plus tard « Depuis 1996 »."
+            },
+            {
+              "date": "Octobre 2007",
+              "text": "Premières captures de le-must.fr : soirées le jeudi, le vendredi et le samedi, mixte le dernier samedi du mois, hommes seuls sur réservation."
+            },
+            {
+              "date": "11 août 2009",
+              "text": "Reportage de L'Union sur « le seul club libertin de l'Aisne »."
+            },
+            {
+              "date": "Juin 2010",
+              "text": "Dernier agenda lu sous le nom Le Must ; le jeudi a disparu du programme hebdomadaire."
+            },
+            {
+              "date": "Août 2011",
+              "text": "Première capture du site sous le nom L'Entre 2."
+            },
+            {
+              "date": "Novembre 2012",
+              "text": "Un annuaire régional inscrit le club sous ses deux noms, « Le Must - L'entre2 », l'un des deux seuls de Picardie avec Le 288 à Beauvais."
+            },
+            {
+              "date": "2013-2014",
+              "text": "Liquidation de TRISTAR ouverte le 9 septembre 2013, close pour insuffisance d'actif le 21 novembre 2014."
+            }
+          ]
+        }
+      ],
+      "sources": [
+        "s1",
+        "s2",
+        "s4",
+        "s7",
+        "s8",
+        "s9",
+        "s11",
+        "s12",
+        "s13",
+        "s17",
+        "s18",
+        "s19"
+      ]
+    },
+    {
+      "id": "reportage-l-union-2009",
+      "title": "Vingt à trente personnes par soir : le reportage de L'Union en août 2009",
+      "icon": "users",
+      "summary": "En août 2009, L'Union décrit le seul club libertin de l'Aisne : 20 à 30 personnes par soir, surtout des couples et des hommes seuls, venus jusque de la Marne et du Nord.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le 11 août 2009, le quotidien L'Union présente le lieu comme **le seul club libertin de l'Aisne**, ce que confirment les annuaires de l'époque. Le journaliste y trouve un couple aux commandes « depuis bientôt treize ans » et une fréquentation moyenne de vingt à trente personnes par soirée, surtout des couples et des hommes seuls. D'après les exploitants, la clientèle venait d'abord de l'extérieur du Laonnois, puis le bouche-à-oreille a attiré des gens de la région ; sur le parking, les plaques d'immatriculation montraient le Nord, la Marne et la région parisienne.\n\nLe reportage décrit un début de soirée encore hésitant, des clients qui se contentent parfois de discuter, de boire un verre ou de danser, et des exploitants qui répètent que rien n'est imposé. Dans la maison, certaines pièces fermaient à clé ; d'autres n'étaient séparées du reste que par un minuscule rideau que chacun pouvait écarter. Le couple confiait aussi une déception : l'implantation d'un Center Parcs à proximité, annoncée un peu plus de deux ans avant l'article, n'avait pas sensiblement accru l'activité."
+        }
+      ],
+      "sources": [
+        "s17",
+        "s18",
+        "s19"
+      ]
+    },
+    {
+      "id": "250-m2-salons-au-sous-sol",
+      "title": "250 m² sur deux niveaux : bar, piste, salons coquins au sous-sol et salon fumeur",
+      "icon": "building",
+      "summary": "250 m² sur deux niveaux selon le site du Must ; en 2012, salons coquins et douche au sous-sol, bar, dancefloor et salon fumeur. Aucun sauna documenté.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Du temps du Must, le site annonçait **250 m² répartis sur deux niveaux**, avec un bar, une piste de danse et de nombreux coins câlins. La présentation de L'Entre 2, en novembre 2012, précise la disposition : les salons coquins et une douche au sous-sol, un bar présenté comme « design », un dancefloor, un salon fumeur et des accès discrets aux coins câlins.\n\nLe club se définissait alors à la fois comme « un dancing pour adultes » et comme « un restaurant coquin ». Aucune carte n'a été retrouvée ; sont documentés des buffets lors des jeudis à thème, des fêtes privées préparées sur demande quinze jours à l'avance (buffet, gâteau, spectacle) et la location du club entier pour une soirée. La présentation posait deux principes, « tout est suggéré, rien est obligé » et des femmes « toujours les reines », et promettait d'être intraitable sur la galanterie de la clientèle. Tenue correcte exigée au Must, « sexy et correcte » à L'Entre 2 : la direction se réservait le droit d'entrée."
+        },
+        {
+          "kind": "callout",
+          "tone": "info",
+          "title": "Ce que des annuaires ajoutent sans preuve",
+          "body": "Un annuaire prête au lieu un coin SM, un espace vidéo, un DJ, un parking et des vestiaires, sans confirmation officielle ni de presse : L'Union mentionne bien un parking, sans dire s'il appartenait au club. Aucune page du club que nous avons lue ne parle de sauna, de hammam ou de spa."
+        }
+      ],
+      "sources": [
+        "s7",
+        "s12",
+        "s14",
+        "s15",
+        "s16",
+        "s17",
+        "s31"
+      ]
+    },
+    {
+      "id": "grille-janvier-2012",
+      "title": "Janvier 2012 : 35 € le couple, 70 € l'homme seul, 10 € la femme seule",
+      "icon": "euro",
+      "summary": "En janvier 2012, l'homme seul payait 70 €, le double d'un couple, et n'entrait que selon le nombre de couples présents, y compris le samedi « soirée couple ».",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "La grille du 14 janvier 2012 (voir l'encadré des tarifs) dit beaucoup de la politique d'accueil. Le week-end, l'entrée comprenait une consommation par personne ; l'homme seul payait le double d'un couple et sept fois le prix d'une femme seule. Le samedi était intitulé « soirée couple », mais la grille gardait un tarif homme seul pour ce soir-là : l'admission se faisait selon le nombre de couples déjà présents, pour préserver, disait le club, « l'harmonie » en son sein.\n\nDu temps du Must, l'accès des hommes seuls était plus encadré encore : uniquement sur réservation et après sélection par le club, d'après le site de 2009-2010. Le jeudi, alors soir d'ouverture hebdomadaire, disparaît du programme en juin 2010 ; la grille de janvier 2012 le fait réapparaître une fois par mois, en soirée à thème."
+        }
+      ],
+      "sources": [
+        "s15",
+        "s7",
+        "s9",
+        "s10",
+        "s11"
+      ]
+    },
+    {
+      "id": "jeudi-gang-bang-et-nuits-debutants",
+      "title": "Du « Bissex trio et plus » de 2007 au jeudi gang-bang de mai 2012",
+      "icon": "calendar",
+      "summary": "Soirées datées de 2007 à 2012 : « Bissex trio et plus », nuits pour débutants, nuit du bikini et un jeudi gang-bang mensuel à 60 € le couple, 90 € l'homme seul.",
+      "blocks": [
+        {
+          "kind": "list",
+          "items": [
+            "jeudi 1er novembre 2007 : « Bissex trio et plus », au Must ;",
+            "samedi 3 octobre 2009 : « Débutants & initiés », présentée comme une première fois pour ceux qui n'osent pas, reprise le 5 juin 2010 ;",
+            "vendredi 29 et samedi 30 juillet 2011 : « La nuit du bikini », puis « Soirée sans dessous » (22 h 30-4 h, sur réservation) ;",
+            "jeudi 3 mai 2012 : « Soirée gang bang », 20 h-1 h, buffet et boissons compris, 60 € le couple, 90 € l'homme seul ;",
+            "vendredi 4 et samedi 5 mai 2012 : « Nuit découverte et initiation », puis « Nuit érotique »."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Les mots-clés du site évoquaient aussi, sans date, une soirée « Strass et paillettes », une nuit des infirmières, une soirée militaire et un apéro coquin. Un annuaire figé depuis 2013 place le gang-bang le deuxième jeudi du mois, mais celui du 3 mai 2012 tombait un premier jeudi , et finissait à 1 h selon l'annonce de mai, à 4 h selon la grille de janvier.\n\nCes nuits d'initiation ont disparu avec le club. Pour échanger avant une première sortie, [tester Gleese depuis le Laonnois sans carte bancaire](aff:gleese) ne demande qu'un téléphone vérifié, et les photos y sont modérées à la main. Ce réseau français n'a été lancé qu'à la fin de 2024 : regardez combien de profils il réunit autour de Laon."
+        }
+      ],
+      "sources": [
+        "s9",
+        "s10",
+        "s11",
+        "s13",
+        "s16",
+        "s14",
+        "s15",
+        "s31"
+      ]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Vendredi": "22 h 30 – 4 h, soirée mixte",
+      "Samedi": "22 h 30 – 4 h, soirée couples",
+      "Un jeudi par mois": "20 h – 4 h, soirée à thème sur réservation"
+    },
+    "note": "Horaires de janvier 2012, sans valeur aujourd'hui : le club a fermé au plus tard en 2013. La soirée gang-bang du jeudi 3 mai 2012 s'arrêtait à 1 h. En 2009, du temps du Must, le club ouvrait aussi chaque jeudi, les veilles de jours fériés et le premier dimanche du mois d'octobre à mai.",
+    "confidence": "confirme",
+    "sources": [
+      "s15",
+      "s31",
+      "s16",
+      "s7"
+    ]
+  },
+  "tarifs": {
+    "rows": {
+      "Couple, vendredi ou samedi": "35 €, une consommation chacun",
+      "Homme seul, vendredi ou samedi": "70 €, une consommation",
+      "Femme seule, vendredi ou samedi": "10 €, une consommation",
+      "Jeudi à thème, couple": "60 €, buffet et trois consommations chacun",
+      "Jeudi à thème, homme seul": "90 €, buffet et trois consommations",
+      "Jeudi à thème, femme seule": "30 €, buffet et trois consommations",
+      "Consommation supplémentaire": "soft 5 €, alcool 10 €, cocktail 12 €",
+      "Champagne (75 cl, avec accompagnements)": "90 €"
+    },
+    "note": "Grille affichée le 14 janvier 2012 sur le site du club, sans valeur depuis la fermeture. Les hommes seuls étaient admis selon le nombre de couples déjà présents.",
+    "confidence": "source_unique",
+    "sources": [
+      "s15"
+    ]
+  },
+  "equipements": [
+    "Bar",
+    "Piste de danse",
+    "Coins câlins",
+    "Salons coquins au sous-sol",
+    "Douche",
+    "Salon fumeur"
+  ],
+  "faq": [
+    {
+      "question": "Existe-t-il encore un club libertin à Moulins ?",
+      "answer": "Pas dans l'Aisne : L'Entre 2, ex-Le Must, a fermé au plus tard en 2013 sans reprise depuis ; le plus proche club vérifié ouvert est le 3D Sauna Club, à environ 12 km. Dans l'Allier, notre annuaire ne connaît aucun club à Moulins, et aucune des quatre adresses qu'il recense entre 43 et 65 km n'a pu être vérifiée ouverte au 19 octobre 2026 : deux ont fermé, en 2020 et en 2021."
+    },
+    {
+      "question": "Le Must et L'Entre 2, est-ce le même établissement ?",
+      "answer": "Oui : même adresse et même site le-must.fr, et un annuaire de 2010 donnait déjà pour Le Must le numéro qu'affichera L'Entre 2. Le club a pris le nom L'Entre 2 entre juin 2010 et août 2011. Il n'a rien à voir avec le Must Club de Reims, établissement distinct dont le site affiche l'année 2026, ni avec le snack niçois qui occupe aujourd'hui son ancien domaine."
+    },
+    {
+      "question": "Pourquoi le club a-t-il fermé ?",
+      "answer": "Aucune explication publique n'a été retrouvée. On sait seulement que la SARL TRISTAR, exploitante présumée, a été mise en liquidation judiciaire le 9 septembre 2013, close pour insuffisance d'actif en novembre 2014. Ses comptes de 2009 montraient un résultat de 1 078 pour 54 900 de chiffre d'affaires (unité non affichée), et les exploitants disaient alors que le Center Parcs voisin n'avait pas dopé leur activité."
+    },
+    {
+      "question": "Y avait-il un sauna libertin à Moulins ?",
+      "answer": "Aucune source sur Le Must ou L'Entre 2 ne mentionne de sauna, de hammam ou de spa : c'était un dancing libertin, avec bar, piste et salons. Le plus proche à se présenter comme sauna-club est le 3D Sauna Club, à environ 12 km."
+    },
+    {
+      "question": "Combien coûtait une soirée à L'Entre 2 ?",
+      "answer": "En janvier 2012, le vendredi ou le samedi : 35 € pour un couple, 70 € pour un homme seul, 10 € pour une femme seule, une consommation comprise. Le jeudi à thème mensuel, buffet et trois consommations compris : 60 €, 90 € et 30 €."
+    },
+    {
+      "question": "Où rencontrer des libertins autour de Moulins aujourd'hui ?",
+      "answer": "Côté Aisne, au 3D Sauna Club, ouvert le samedi soir et le premier vendredi du mois. Côté Marne, le Sauna Le Lotus de Reims, à 32 km, affiche un agenda de soirées du vendredi daté d'octobre 2026. Côté Allier, aucun club recensé dans un rayon de 65 km n'a pu être vérifié ouvert ; en ligne, un compte gratuit sur Wyylde permet de [repérer les membres inscrits autour de Moulins dans l'Allier](aff:wyylde), mais pas de leur répondre sans abonnement."
+    }
+  ],
+  "unverified": [
+    "La date de la dernière soirée et la raison de la fermeture : aucune annonce publique n'a été retrouvée.",
+    "Le sens du nom « L'Entre 2 » et la date exacte du changement de nom, situé entre juin 2010 et août 2011.",
+    "Le lien éventuel entre la modification administrative de TRISTAR publiée le 11 janvier 2012 et le nouveau nom.",
+    "Le contenu des deux encadrés de L'Union sur la sélection à l'entrée et les soirées à thème, jamais archivés.",
+    "La présence d'un coin SM, d'un espace vidéo, d'un DJ ou d'un parking propre au club, cités par un seul annuaire.",
+    "Le profil Facebook « Lemust-Libertin », lié au site en 2011, n'a pas pu être consulté sans connexion.",
+    "L'usage du bâtiment du 1 place de l'Église depuis 2013.",
+    "L'horaire « dimanche, 11 h » de notre ancienne fiche, issu d'un annuaire : il ne figure dans aucune source sur le club et a été écarté."
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Registre des entreprises, SARL TRISTAR (SIREN 403 595 150), lu via l'API recherche-entreprises",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/403595150",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s2",
+      "label": "BODACC, annonces de la SARL TRISTAR (activité déclarée, comptes, administration, liquidation, clôture)",
+      "url": "https://bodacc-datadila.opendatasoft.com/api/explore/v2.1/catalog/datasets/annonces-commerciales/records?where=registre%20like%20%22403595150%22",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s3",
+      "label": "Societe.com, SARL TRISTAR : « Fermée définitivement Radiée », dernier bilan 2009",
+      "url": "https://www.societe.com/societe/sarl-tristar-403595150.html",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s4",
+      "label": "Internet Archive, historique des captures de le-must.fr (2007-2022)",
+      "url": "https://web.archive.org/cdx/search/cdx?url=le-must.fr&fl=timestamp,statuscode,original&collapse=timestamp:6",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s5",
+      "label": "le-must.fr en octobre 2026 : site d'un snack-restaurant de Nice (vérification de l'état du site)",
+      "url": "https://le-must.fr/",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s6",
+      "label": "AFNIC (RDAP), domaine le-must.fr : enregistré le 28/05/2025",
+      "url": "https://rdap.nic.fr/domain/le-must.fr",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s7",
+      "label": "Site officiel Le Must, page d'accueil, archive du 07/10/2009 (« Depuis 1996 », 250 m², jours d'ouverture)",
+      "url": "https://web.archive.org/web/20091007235259/http://www.le-must.fr:80/accueil2.php",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s8",
+      "label": "Site officiel Le Must, page d'entrée, archive du 25/01/2010",
+      "url": "https://web.archive.org/web/20100125030935/http://www.le-must.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s9",
+      "label": "Site officiel Le Must, « L'agenda du Must », archive du 01/11/2007",
+      "url": "https://web.archive.org/web/20071013064639/http://www.le-must.fr/ag.php?day=01&month=11&year=2007",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s10",
+      "label": "Site officiel Le Must, « L'agenda du Must », archive du 03/10/2009",
+      "url": "https://web.archive.org/web/20091009021340/http://www.le-must.fr:80/ag.php?day=03&month=10&year=2009",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s11",
+      "label": "Site officiel Le Must, « L'agenda du Must », archive du 05/06/2010",
+      "url": "https://web.archive.org/web/20100612213043/http://www.le-must.fr:80/ag.php?day=05&month=06&year=2010",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s12",
+      "label": "Site officiel L'Entre 2, page d'entrée, archive du 06/08/2011",
+      "url": "https://web.archive.org/web/20110806195808/http://le-must.fr:80/accueil/index.html",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s13",
+      "label": "Site officiel L'Entre 2, « Evénements du club », archive du 07/08/2011",
+      "url": "https://web.archive.org/web/20110807013055/http://le-must.fr/index.php?option=com_content&view=article&id=1&Itemid=4",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s14",
+      "label": "Site officiel L'Entre 2, page d'accueil, archive du 23/11/2012",
+      "url": "https://web.archive.org/web/20121123194200/http://www.le-must.fr:80/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s15",
+      "label": "Site officiel L'Entre 2, « Horaires et Tarifs », archive du 14/01/2012",
+      "url": "https://web.archive.org/web/20120114115010/http://www.le-must.fr/index.php/horaires-et-tarifs",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s16",
+      "label": "Site officiel L'Entre 2, « Nos soirées », archive du 02/05/2012",
+      "url": "https://web.archive.org/web/20120502085816/http://www.le-must.fr/index.php/nos-soirees",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s17",
+      "label": "L'Union, « Le seul club libertin de l'Aisne / Rencontres d'un autre type », 11/08/2009 (archive du 13/06/2013)",
+      "url": "https://web.archive.org/web/20130613224050/http://www.lunion.presse.fr/article/a-la-une/le-seul-club-libertin-de-laisne-rencontres-dun-autre-type",
+      "type": "presse",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s18",
+      "label": "picardie-libertine.fr, « Clubs libertins en Picardie », archive du 11/11/2012",
+      "url": "https://web.archive.org/web/20121111010748/http://www.picardie-libertine.fr/clubs-libertins.html",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s19",
+      "label": "L'Anneau de Justine, « Liste des Etablissements Libertins en France » (2010)",
+      "url": "https://www.anneaudejustine.com/2010/11/liste-des-etablissements-libertins-en-france/",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s20",
+      "label": "BODACC, ensemble des annonces pour Moulins (02160), 2008-2024",
+      "url": "https://bodacc-datadila.opendatasoft.com/api/explore/v2.1/catalog/datasets/annonces-commerciales/records?where=cp%3D%2202160%22%20and%20ville%20like%20%22Moulins%22",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s22",
+      "label": "minuitlibertin.com, « Club échangiste dans l'Aisne (02) », mis à jour le 04/08/2026",
+      "url": "https://minuitlibertin.com/club-echangiste-dans-laisne-02/",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s23",
+      "label": "saunaclublebali.fr, « Clubs libertins en Hauts-de-France : guide complet 2026 » (19/04/2026)",
+      "url": "https://www.saunaclublebali.fr/clubs-libertins-hauts-de-france/",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s24",
+      "label": "Site officiel du 3D Sauna Club, La Ville-aux-Bois-lès-Pontavert",
+      "url": "https://www.club-3d.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s25",
+      "label": "Site officiel du Must Club de Reims (établissement homonyme distinct)",
+      "url": "https://www.lemustclubreims.fr/club-libertin/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s26",
+      "label": "minuitlibertin.com, « Le 3AC-Monkey à Achery », mis à jour le 30/09/2026",
+      "url": "https://minuitlibertin.com/le-3ac-monkey-a-achery/",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s27",
+      "label": "Wikipédia, « Moulins, Aisne » (population 2023, intercommunalité, canton)",
+      "url": "https://en.wikipedia.org/wiki/Moulins,_Aisne",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s28",
+      "label": "Base Adresse Nationale, géocodage des communes autour de Moulins (02160) et calcul des distances",
+      "url": "https://api-adresse.data.gouv.fr/search/?type=municipality&q=Moulins&postcode=02160",
+      "type": "carte",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s29",
+      "label": "Base Adresse Nationale, géocodage des communes autour de Moulins (03000) et calcul des distances",
+      "url": "https://api-adresse.data.gouv.fr/search/?type=municipality&q=Moulins&postcode=03000",
+      "type": "carte",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s30",
+      "label": "Test de l'état des sites lotusdor.net, lavilla-libertine.com, addictclub.fr, lequatorialsauna.com et le-lotus.com (aucune réponse normale)",
+      "url": "http://www.lotusdor.net/",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s31",
+      "label": "sauna-club-libertin.com, fiche « L'ENTRE 2 » (texte inchangé depuis 2013)",
+      "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_3.php?id=2&d=02",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s32",
+      "label": "Le Lotus (Lizy), site officiel : accueil (« fermé provisoirement » à la suite d'un incident) et page horaires et tarifs",
+      "url": "https://le-lotus.wixsite.com/le-lotus",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s33",
+      "label": "Sauna Le Lotus (Reims), site officiel : agenda d'octobre 2026 ; l'accueil (sauna-lotus.fr) donne les horaires par jour et les soirées jusqu'au 11 décembre",
+      "url": "https://www.sauna-lotus.fr/agenda-soirees-libertines-reims/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s34",
+      "label": "Le Journal du Centre, « Le club libertin l'Addict, à Tronsanges, s'est transformé en restaurant », 30/05/2020",
+      "url": "https://www.lejdc.fr/nevers-58000/actualites/le-club-libertin-laddict-a-tronsanges-s-est-transforme-en-restaurant_13793841/",
+      "type": "presse",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s35",
+      "label": "BODACC, SARL DDMMJ (Domérat) : liquidation judiciaire du 16/04/2021, clôture pour insuffisance d'actif le 18/03/2022, radiation",
+      "url": "https://bodacc-datadila.opendatasoft.com/api/explore/v2.1/catalog/datasets/annonces-commerciales/records?where=registre%20like%20%22809381247%22",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s36",
+      "label": "Site officiel du Lotus d'Or, mentions légales, archive du 05/11/2015 (SARL DDMMJ propriétaire du site)",
+      "url": "https://web.archive.org/web/20151105052631/http://lotusdor.net:80/mentions.php",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s37",
+      "label": "minuitlibertin.com, « Club échangiste dans l'Allier (03) », mis à jour le 04/08/2026 (Le Poseidon, Nevers, « temporairement fermé »)",
+      "url": "https://minuitlibertin.com/club-echangiste-dans-lallier-03/",
+      "type": "annuaire",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s38",
+      "label": "Base Adresse Nationale, géocodage du 33 rue de Witry à Reims et distance depuis Moulins (02160)",
+      "url": "https://api-adresse.data.gouv.fr/search/?q=33+rue+de+witry+51100+Reims",
+      "type": "carte",
+      "consulted": "2026-10-19"
+    }
+  ]
+}

@@ -1,0 +1,488 @@
+{
+  "slug": "l-olisbos-auxerre",
+  "clubId": "275",
+  "researchedAt": "2026-10-19",
+  "display": {
+    "nom": "L'Olisbos",
+    "ville": "Monéteau (Auxerre)"
+  },
+  "status": {
+    "value": "ferme",
+    "summary": "Le 24 avril 2018, six jours avant la remise des clés que le club avait annoncée pour le 30, le tribunal de commerce de Troyes a placé son exploitant en liquidation judiciaire. En novembre 2018, le site de l'Olisbos n'affichait plus qu'une ligne : « fermeture définitive ». L'entreprise qui avait racheté le fonds en 2008 a cessé son activité en mars 2019, et un autre club, Le Cap, occupe l'adresse depuis août 2021.",
+    "sources": ["s4", "s5", "s18", "s20", "s21"]
+  },
+  "seo": {
+    "title": "L'Olisbos à Auxerre : club libertin fermé en 2018, Le Cap ouvert",
+    "metaDescription": "Fermé fin avril 2018 après près de 14 ans, l'Olisbos de Monéteau avait son Donjon BDSM mensuel. Le Cap, à la même adresse depuis 2021, ouvre le samedi soir.",
+    "subtitle": "Ancien club libertin de la ZA Terres du Canada, à Monéteau, aux portes d'Auxerre (2004-2018)",
+    "targetQueries": [
+      "club libertin auxerre",
+      "club echangiste auxerre",
+      "libertine auxerre",
+      "libertin auxerre",
+      "meslibertines auxerre",
+      "olisbos auxerre",
+      "olisbos moneteau",
+      "club libertin moneteau"
+    ]
+  },
+  "lead": "L'Olisbos a fermé fin avril 2018, après près de quatorze ans d'activité au 14 rue des Isles, à Monéteau, dans l'agglomération d'Auxerre. Le club a ouvert jusqu'à cinq jours par semaine, avec des samedis réservés aux couples, un après-midi BDSM le dernier dimanche du mois et, en 2008, une soirée gay et bi le vendredi. Depuis août 2021, ses anciens murs abritent un autre club libertin, Le Cap, ouvert le samedi soir et exploité par une autre société.",
+  "glance": [
+    { "icon": "closed", "label": "Fermé", "value": "Depuis fin avril 2018" },
+    { "icon": "history", "label": "Période d'activité", "value": "Été 2004 – avril 2018" },
+    { "icon": "map", "label": "Adresse réelle", "value": "14 rue des Isles, 89470 Monéteau" },
+    { "icon": "building", "label": "Au même endroit", "value": "Le Cap, chaque samedi de 22 h à 5 h" },
+    { "icon": "mask", "label": "Rendez-vous phare", "value": "Le Donjon, BDSM le dernier dimanche" },
+    { "icon": "euro", "label": "Couple (grille 2017)", "value": "20 € jeudi et vendredi · 40 € le samedi" }
+  ],
+  "highlights": [
+    "L'Olisbos a fermé fin avril 2018 : le téléphone et l'e-mail que reprennent les annuaires datent d'avant la fermeture.",
+    "Ne vous fiez pas à olisbos-libertin.com : repris par un tiers en mars 2026, ce domaine affiche des annonces sans rapport avec le club.",
+    "L'adresse exacte est le 14 rue des Isles à Monéteau (89470), et non une « rue de l'Isle » à Auxerre, qui n'existe pas.",
+    "À la même adresse, Le Cap ouvre chaque samedi de 22 h à 5 h ; c'est un autre club, créé en 2021 par une autre société.",
+    "Au Cap, le téléphone reste au vestiaire et, selon son site, les femmes en pantalon ne sont pas admises."
+  ],
+  "keyFacts": [
+    { "label": "Statut", "value": "Fermé fin avril 2018", "confidence": "confirme", "sources": ["s4", "s5", "s20"] },
+    { "label": "Adresse", "value": "14 rue des Isles, ZA Terres du Canada, 89470 Monéteau", "confidence": "confirme", "sources": ["s7", "s19", "s26"] },
+    { "label": "Ouverture", "value": "Été 2004 (registre le 31 juillet 2004 ; cinq ans fêtés le 4 juillet 2009)", "confidence": "confirme", "sources": ["s1", "s2", "s17", "s29"] },
+    { "label": "Exploitants", "value": "Fondateur (2004-2008), repreneur (dès 2008), SARL LYS (2014-2018)", "confidence": "confirme", "sources": ["s17", "s18", "s19", "s20"] },
+    { "label": "Public", "value": "Couples, femmes seules, hommes seuls selon les soirs, gays et bi, travestis", "confidence": "confirme", "sources": ["s4", "s6", "s9"] },
+    { "label": "Dernier programme", "value": "Jeudi, vendredi et samedi soir, un dimanche après-midi par mois", "confidence": "confirme", "sources": ["s3", "s6"] },
+    { "label": "Entrée couple (2017)", "value": "20 € jeudi et vendredi, 40 € le samedi et au Donjon", "confidence": "confirme", "sources": ["s6"] },
+    { "label": "Espaces", "value": "Discothèque, bar, salle SM, étage de coins câlins", "confidence": "confirme", "sources": ["s8"] },
+    { "label": "Fin de l'exploitant", "value": "Liquidation judiciaire le 24 avril 2018, radiation en 2021", "confidence": "confirme", "sources": ["s20"] },
+    { "label": "À la même adresse", "value": "Le Cap, autre club, depuis le 25 août 2021", "confidence": "confirme", "sources": ["s21", "s22"] }
+  ],
+  "sections": [
+    {
+      "id": "fin-avril-2018",
+      "title": "Avril 2018 : un bail non renouvelé et un exploitant en liquidation",
+      "icon": "closed",
+      "summary": "En février 2018, le club annonce qu'il rendra les clés le 30 avril, faute de bail ; le 24 avril, son exploitant, en redressement depuis octobre 2017, est liquidé.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "En février 2018, l'accueil du site titre « Une page se tourne ». Les deux gérants, qui tenaient le club depuis quatre ans, y annoncent la fin de leur gérance : le bail n'est pas renouvelé et les clés seront rendues le 30 avril. Début avril, la page invite à profiter des dernières soirées."
+        },
+        {
+          "kind": "text",
+          "body": "Les annonces légales racontent l'autre versant. La SARL LYS, qui exploitait l'Olisbos depuis juin 2014, était en redressement judiciaire depuis octobre 2017, avec une cessation des paiements fixée au 24 avril 2016."
+        },
+        {
+          "kind": "timeline",
+          "items": [
+            { "date": "24 octobre 2017", "text": "Le tribunal de commerce de Troyes ouvre un redressement judiciaire contre l'exploitant." },
+            { "date": "Février 2018", "text": "Le club annonce la fin de sa gérance et la remise des clés au 30 avril." },
+            { "date": "24 avril 2018", "text": "Le redressement est converti en liquidation judiciaire." },
+            { "date": "30 avril 2018", "text": "Date annoncée de la remise des clés, terme des dernières soirées." },
+            { "date": "22 novembre 2018", "text": "Le site n'affiche plus que « fermeture définitive de l'Olisbos »." },
+            { "date": "4 mars 2019", "text": "L'entreprise qui avait racheté le fonds en 2008 cesse son activité." },
+            { "date": "24 février 2021", "text": "Liquidation close pour insuffisance d'actif ; la SARL LYS est radiée." }
+          ]
+        },
+        {
+          "kind": "callout",
+          "tone": "info",
+          "title": "Bail ou dettes ?",
+          "body": "Le club n'a parlé que du bail. Les annonces légales montrent des difficultés de paiement dès 2016. Les deux faits sont datés et compatibles : aucune source ne dit lequel a décidé de la fermeture."
+        }
+      ],
+      "sources": ["s4", "s5", "s18", "s19", "s20"]
+    },
+    {
+      "id": "le-cap-meme-adresse",
+      "title": "Le Cap, au 14 rue des Isles depuis 2021 : le samedi de 22 h à 5 h",
+      "icon": "building",
+      "summary": "Dans les murs de l'Olisbos, une autre société a créé Le Cap en août 2021 ; ce club privé libertin ouvre chaque samedi, 60 € l'entrée couple en 2026.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Près d'Auxerre, l'ancienne adresse de l'Olisbos n'est pas vide. **Le Cap**, « club privé libertin entièrement rénové » selon son [site officiel](https://le-cap-moneteau.eatbu.com/), y ouvre chaque samedi de 22 h à 5 h."
+        },
+        {
+          "kind": "callout",
+          "tone": "info",
+          "title": "Une autre maison, pas une reprise",
+          "body": "Le Cap est exploité par la SASU LE CAP, active depuis le 25 août 2021. Au BODACC, son fonds est une création et non un rachat, et son site ne cite jamais l'Olisbos : seule l'adresse les relie."
+        },
+        {
+          "kind": "table",
+          "caption": "Entrées affichées par Le Cap pour 2026, modifiables lors des soirées spéciales",
+          "headers": ["Public", "Prix", "Compris"],
+          "rows": [
+            ["Couple", "60 €", "2 consommations"],
+            ["Femme seule", "20 €", "1 consommation"],
+            ["Homme seul", "75 €", "1 consommation"]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Un homme seul paie donc 15 € de plus qu'un couple, pour une consommation au lieu de deux. Pour venir à deux, Gleese, réseau libertin français lancé fin 2024, permet de [faire connaissance avec une partenaire de l'Yonne](aff:gleese) avant la soirée : l'inscription se fait sans carte bancaire et chaque profil est vérifié par téléphone."
+        }
+      ],
+      "sources": ["s21", "s22", "s23"]
+    },
+    {
+      "id": "le-cap-470-m2",
+      "title": "470 m², deux barres de pole dance et un fumoir couvert au Cap",
+      "icon": "sparkles",
+      "summary": "Le site du Cap décrit un bar, une piste, des chambres à thème et un coin BDSM ; en octobre 2026, son agenda annonçait une soirée chaque samedi.",
+      "blocks": [
+        {
+          "kind": "list",
+          "title": "Ce que décrit son site",
+          "items": [
+            "470 m², un bar et une piste de danse avec deux barres de pole dance",
+            "Chambres à thème, coin BDSM, grand lit rond, douches",
+            "Deux terrasses, dont un fumoir couvert",
+            "Parking privé et sécurisé, camping-cars et vans acceptés, accès PMR",
+            "Téléphones au vestiaire ; ni pantalon pour les femmes, ni baskets pour les hommes"
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "En octobre 2026, l'agenda annonçait « Dentelle chic » le 17, une soirée libre et découverte le 24 et Halloween le 31. Le club avait programmé la fête de ses cinq ans le 19 septembre 2026."
+        },
+        {
+          "kind": "text",
+          "body": "Bottin et Minuit Libertin relaient pour Le Cap une note Google de 4,8 à 4,9 sur 5, sur une quarantaine d'avis (relevé du 19 octobre 2026). Nous ne l'avons pas lue sur Google même."
+        }
+      ],
+      "sources": ["s22", "s36", "s40"]
+    },
+    {
+      "id": "histoire-2004-2018",
+      "title": "Ouvert à l'été 2004, revendu 50 000 € en 2008, exploité par une SARL dès 2014",
+      "icon": "history",
+      "summary": "Inscrit au registre le 31 juillet 2004, le club est vendu en septembre 2008 à un ancien client, puis exploité de juin 2014 à avril 2018 par la SARL LYS.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Selon ses exploitants, interrogés par L'Yonne Républicaine en 2011, le bâtiment abritait auparavant une entreprise de peinture ; le quotidien présentait le club comme une « boîte échangiste » de l'agglomération. Le club, lui, se disait « à Auxerre », à cinq minutes des sorties d'autoroute Sud et Nord."
+        },
+        {
+          "kind": "timeline",
+          "items": [
+            { "date": "Juillet 2004", "text": "Le site présente un « nouveau club libertin » ; l'établissement est créé au registre le 31 juillet." },
+            { "date": "Septembre 2004", "text": "Premier programme connu : jeudi mixte, samedi couples, et deux dimanches après-midi par mois, l'un mixte, l'autre SM." },
+            { "date": "29 septembre 2008", "text": "Le fondateur vend le fonds 50 000 € à un ancien client ; le BODACC décrit un club privé avec discothèque et librairie spécialisée." },
+            { "date": "4 juillet 2009", "text": "Soirée spéciale pour les cinq ans de l'Olisbos, annoncée sur le blog du club dès la mi-juin." },
+            { "date": "11 mai 2011", "text": "Portrait du couple propriétaire dans L'Yonne Républicaine, relayé par le club ; un second Olisbos à Dijon y est évoqué, sans suite connue." },
+            { "date": "Fin 2011", "text": "La salle se loue pour des soirées privées, cocktails et réceptions." },
+            { "date": "17 juin 2014", "text": "La SARL LYS prend l'exploitation sous l'enseigne L'Olisbos, ce que le club appellera sa « gérance »." }
+          ]
+        }
+      ],
+      "sources": ["s1", "s2", "s12", "s13", "s14", "s15", "s17", "s18", "s19", "s20", "s29"]
+    },
+    {
+      "id": "semaine-type",
+      "title": "Lundi mixte en 2008, mercredi bar en 2013 : la semaine selon les années",
+      "icon": "calendar",
+      "summary": "Le programme a souvent bougé : cinq rendez-vous par semaine en 2008 comme fin 2013, quatre en 2017-2018, du jeudi au samedi plus un dimanche par mois.",
+      "blocks": [
+        {
+          "kind": "table",
+          "caption": "Programme affiché par le club (— : aucune soirée affichée ce jour-là)",
+          "headers": ["Jour", "Décembre 2008", "Fin 2013", "Décembre 2017"],
+          "rows": [
+            ["Lundi", "Mixte, 18 h – minuit", "—", "—"],
+            ["Mercredi", "—", "Bar, 20 h – minuit, étage fermé", "—"],
+            ["Jeudi", "Mixte, 22 h 30 – 3 h", "Mixte, 22 h – 3 h", "Mixte, 22 h – 3 h"],
+            ["Vendredi", "Gay & Bi, 22 h 30 – 4 h", "Mixte, 22 h – 3 h", "Mixte, 22 h – 3 h"],
+            ["Samedi", "Couples, 22 h 30 – 5 h", "Couples, 22 h – 4 h", "Couples, 22 h – 4 h"],
+            ["Dimanche", "Clair-Obscur (BDSM), 15 h – 20 h", "BDSM, 15 h – 20 h", "Le Donjon, dernier du mois, 15 h – 20 h"]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le vendredi est la soirée qui a le plus changé. Réservée aux gays et aux bi en 2008, elle devient fin 2011 une « soirée découverte » libertine et mixte, puis une simple soirée mixte en 2016. Du temps de la soirée gay, les couples hétérosexuels pouvaient entrer, mais l'étage restait interdit aux femmes."
+        },
+        {
+          "kind": "list",
+          "title": "Soirées à thème relevées dans l'agenda",
+          "items": [
+            "Jeudi « Trio ou Gangbang » (2011)",
+            "Élection de Miss Olisbos (2007, 2008 et 2010)",
+            "Nuit des débutants, Sexy carnaval, Nuit fluo, Exhib totale",
+            "Soirées secrétaires, écolières, nuisettes et pyjamas",
+            "Samedi « Femmes bi » le 16 juillet 2016, fermé aux hommes seuls",
+            "Un samedi « trio » par an vers la fin de l'été, pour les couples venus avec un homme",
+            "Halloween et réveillons du 31 décembre"
+          ]
+        }
+      ],
+      "sources": ["s2", "s3", "s6", "s9", "s10", "s16"]
+    },
+    {
+      "id": "entrees-2008-2018",
+      "title": "Femme seule gratuite, homme seul de 60 € à 40 € : les entrées de 2008 à 2018",
+      "icon": "euro",
+      "summary": "Dans les grilles de 2008, 2013 et 2017, la femme seule entre gratuitement ; en semaine, le couple passe de la gratuité à 20 €, et l'homme seul de 60 € à 40 €.",
+      "blocks": [
+        {
+          "kind": "table",
+          "caption": "Entrée du jeudi soir mixte, selon les grilles du club",
+          "headers": ["Public", "2008", "2013", "2017-2018"],
+          "rows": [
+            ["Femme seule", "Gratuit, consommations en sus", "Gratuit", "Gratuit, sans consommation"],
+            ["Couple", "Gratuit, consommations en sus", "20 €", "20 €, sans consommation"],
+            ["Homme seul", "60 €, 2 consommations", "60 €, 2 consommations", "40 €, sans consommation"]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le samedi a coûté 40 € par couple, consommations comprises, de 2008 à 2018. L'homme seul n'y entrait que « sur sélection » en 2013. En 2017-2018, il payait 60 €, sur sélection, parrainage ou invitation d'un couple, et restait refusé aux soirées « 100 % couples »."
+        },
+        {
+          "kind": "text",
+          "body": "Selon la foire aux questions du site, en ligne fin 2011, les hommes seuls n'étaient admis qu'aux soirées mixtes du jeudi et des veilles de jours fériés, au vendredi gay et au dimanche SM."
+        },
+        {
+          "kind": "text",
+          "body": "En 2011, le club disait recevoir de 18 à 65 ans environ, sans critère physique, et ses exploitants situaient l'âge moyen entre 35 et 40 ans. La moitié de la clientèle venait selon eux de Troyes, de Dijon ou de la région parisienne."
+        },
+        {
+          "kind": "table",
+          "caption": "Dernier réveillon du club, 31 décembre 2017",
+          "headers": ["Formule", "Couple", "Homme seul", "Femme seule"],
+          "rows": [
+            ["Repas et soirée, sur réservation", "180 €", "140 €", "70 €"],
+            ["Soirée seule, dès 23 h", "90 €", "110 €", "15 €"]
+          ]
+        }
+      ],
+      "sources": ["s3", "s6", "s10", "s11", "s14"]
+    },
+    {
+      "id": "le-donjon",
+      "title": "Un dimanche BDSM par mois de 2004 à 2018, devenu « Le Donjon »",
+      "icon": "mask",
+      "summary": "Dès 2004, le club réserve un dimanche après-midi, de 15 h à 20 h, au BDSM et au fétichisme ; en 2017-2018, ce rendez-vous du dernier dimanche s'appelle « Le Donjon ».",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Comme le jeudi mixte et le samedi réservé aux couples, il figure dans chacun des programmes connus du club. Il s'appelle « SM Fétichisme » en septembre 2004, « Clair-Obscur » en 2008, puis « Le Donjon de l'Olisbos » en 2017 et 2018."
+        },
+        {
+          "kind": "text",
+          "body": "Le club disait l'avoir créé parce que « les lieux appropriés » manquaient dans la région. Ces après-midi-là, selon la page du Donjon, le club se transformait en donjon ; la visite virtuelle du site annonçait par ailleurs une salle SM."
+        },
+        {
+          "kind": "list",
+          "title": "Ce qu'annonçait la page du Donjon en 2017",
+          "items": [
+            "Croix de Saint-André, cordes, martinet, cire",
+            "Tenue cuir, vinyle ou latex, et noir au minimum",
+            "Couple 40 € et homme seul 60 €, deux consommations comprises ; femme « invitée », consommations en sus",
+            "Séance annoncée en avril 2017 : le dimanche 30 avril"
+          ]
+        }
+      ],
+      "sources": ["s2", "s6", "s8", "s9"]
+    },
+    {
+      "id": "regles-et-espaces",
+      "title": "Jupe exigée, préservatifs au bar, aucune caméra dans les coins câlins",
+      "icon": "shield",
+      "summary": "Les règles publiées en 2011 refusaient les femmes en pantalon, imposaient des rapports protégés et garantissaient l'absence de caméras dans les coins câlins, compris dans l'entrée.",
+      "blocks": [
+        {
+          "kind": "list",
+          "title": "Règles affichées en 2011, encore en ligne fin 2017",
+          "items": [
+            "Femmes : jupe ou robe, short sexy toléré ; un pantalon valait refus à l'entrée.",
+            "Hommes : chemise et pantalon de ville, jean toléré, ni baskets ni tee-shirt.",
+            "Préservatifs à disposition au bar ; pénétrations toujours protégées.",
+            "Chacun pouvait dire non, à tout moment ; en cas de problème, on s'adressait à la direction.",
+            "Première visite : un membre de l'équipe faisait le tour des lieux avec les nouveaux venus.",
+            "Coins câlins accessibles sans supplément, et sans aucune caméra."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "La page de visite virtuelle, dont les images ne sont pas archivées de façon lisible, annonçait une partie discothèque, un bar, une salle SM et l'« étage des Coquineries », avec des coins câlins accessibles par l'escalier. Le club mentionnait aussi des poutres apparentes (2013) et des alcôves (2017)."
+        },
+        {
+          "kind": "text",
+          "body": "En 2017, la page des coordonnées signalait un parking privé et surveillé, ouvert aux camping-cars. Ni la surface ni le nombre de coins câlins n'ont été publiés : les 470 m² annoncés aujourd'hui à cette adresse sont ceux du Cap, après rénovation."
+        }
+      ],
+      "sources": ["s3", "s7", "s8", "s10", "s11", "s22"]
+    },
+    {
+      "id": "adresse-et-faux-site",
+      "title": "Rue des Isles à Monéteau, pas rue de l'Isle : l'adresse et le faux site",
+      "icon": "map",
+      "summary": "Le club était au 14 rue des Isles, ZA Terres du Canada, 89470 Monéteau ; son ancien nom de domaine, repris en mars 2026, héberge aujourd'hui un site d'annonces sans rapport.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Certains annuaires, dont sauna-club-libertin.com, situent encore l'Olisbos au « 14 rue de l'Isle, 89000 Auxerre ». La Base Adresse Nationale ne connaît aucune rue de ce nom à Auxerre. Le club, le registre et le BODACC donnent tous le 14 rue des Isles, dans la zone Terres du Canada, à Monéteau."
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "olisbos-libertin.com n'est plus le club",
+          "body": "Le site du club est archivé de juillet 2004 à janvier 2019. Le domaine a ensuite renvoyé vers un raccourcisseur d'adresses, puis a été réenregistré par un tiers le 28 mars 2026. En octobre 2026, il affichait des annonces pour adultes sans lien avec l'Olisbos : nous ne le lions pas."
+        },
+        {
+          "kind": "text",
+          "body": "Lieux Coquins, dont la fiche date d'avril 2018, affiche bien l'Olisbos comme définitivement fermé, mais à une « rue de l'Isle-Terre-du-Canada » qui mêle le nom de la zone et une rue inexistante."
+        },
+        {
+          "kind": "text",
+          "body": "Nous n'avons trouvé aucune note publique de l'ancien club : en octobre 2026, Restaurant Guru et horaires-commerces n'affichaient aucun avis, et PagesJaunes aucune fiche. Koifaire garde deux commentaires élogieux sans note, dont l'un, de juin 2009, salue les cinq ans du club. Ses pages d'époque restent lisibles dans les archives de la Wayback Machine citées en sources."
+        }
+      ],
+      "sources": ["s7", "s16", "s17", "s19", "s20", "s24", "s25", "s26", "s31", "s33", "s34"]
+    },
+    {
+      "id": "ailleurs-dans-l-yonne",
+      "title": "Sauna rue Denis-Papin, bar naturiste à Joigny : l'Yonne libertine en 2026",
+      "icon": "globe",
+      "summary": "À Auxerre, le sauna de l'ancien KLS publiait des dates en août 2026, et La P'tite Pause, à Joigny, en octobre ; le Rubix est fermé et le Venusia ne répond plus.",
+      "blocks": [
+        {
+          "kind": "list",
+          "items": [
+            "[Le Sauna KLS, à Auxerre](/sauna-kls-auxerre) : au 8 rue Denis Papin, le Sauna Icaunais Mixte se dit ouvert 7 jours sur 7 depuis avril 2025 et annonçait encore des fermetures ponctuelles en août 2026. Son site renvoie à une fiche qui le présente comme l'ancien KLS, prisé pour des rencontres gays et bi.",
+            "La P'tite Pause, à Joigny : un bar naturiste pour adultes, nu intégral exigé, sauf le premier samedi du mois, consacré au BDSM. Ouvert du mercredi au samedi de 14 h à 20 h, sans droit d'entrée mais à 25 € la consommation ; son site publiait des rendez-vous d'octobre 2026.",
+            "L'Implicite, à Villeblevin, à vingt minutes de Sens selon son site : un sauna échangiste dont la grille de tarifs date de janvier 2025, sans annonce plus récente.",
+            "[Le Rubix, à Appoigny](/le-rubix-appoigny) : société cessée, établissement fermé depuis le 12 mars 2015, nom de domaine à vendre.",
+            "[Le Venusia, à Vergigny](/le-venusia-vergigny) : son site ne répondait pas le 19 octobre 2026, et le guide clubech.fr le range parmi les lieux fermés."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Nos fiches du département sont regroupées sur la page des [clubs libertins de l'Yonne](/departement/yonne). En 2017 et 2018, l'Olisbos affichait un bandeau de Wyylde, et dès 2013 un lien vers Netéchangisme, l'ancien nom de ce site."
+        },
+        {
+          "kind": "text",
+          "body": "Ce site, en ligne depuis 2001, tient un agenda des soirées lisible avec un compte gratuit : de quoi [passer en revue les dates annoncées autour d'Auxerre](aff:wyylde) plutôt que de se fier à une fiche d'annuaire figée."
+        }
+      ],
+      "sources": ["s3", "s4", "s6", "s27", "s28", "s32", "s35", "s38", "s39"]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Jeudi": "22 h – 3 h, soirée mixte",
+      "Vendredi": "22 h – 3 h, soirée mixte",
+      "Samedi": "22 h – 4 h, soirée couples",
+      "Dernier dimanche du mois": "15 h – 20 h, Le Donjon (BDSM et fétichisme)"
+    },
+    "note": "Dernier programme publié par le club, de décembre 2017 à avril 2018. L'Olisbos est fermé depuis fin avril 2018.",
+    "confidence": "confirme",
+    "sources": ["s3", "s6"]
+  },
+  "tarifs": {
+    "rows": {
+      "Jeudi et vendredi": "Couple 20 € · femme seule gratuite · homme seul 40 € (sans consommation)",
+      "Samedi": "Couple 40 € (2 consommations) · femme seule gratuite · homme seul 60 €, sur sélection ou parrainage",
+      "Le Donjon (dernier dimanche)": "Couple 40 € · homme seul 60 € (2 consommations) · femme seule gratuite"
+    },
+    "note": "Grille affichée en décembre 2017, la dernière avant la fermeture. Homme seul refusé aux soirées « 100 % couples ».",
+    "confidence": "confirme",
+    "sources": ["s6"]
+  },
+  "equipements": [
+    "Piste de danse (partie discothèque)",
+    "Bar",
+    "Salle SM",
+    "Coins câlins à l'étage",
+    "Alcôves",
+    "Parking privé et surveillé"
+  ],
+  "officialLinks": [
+    {
+      "label": "Ancien site du club (archive de janvier 2018)",
+      "url": "https://web.archive.org/web/20180124221125/http://www.olisbos-libertin.com:80/club/",
+      "kind": "site"
+    }
+  ],
+  "corrections": {
+    "adresse": "14 rue des Isles, ZA Terres du Canada",
+    "code_postal": "89470",
+    "telephone": "",
+    "email": "",
+    "site_web": "",
+    "sources": ["s5", "s7", "s16", "s19", "s26"]
+  },
+  "faq": [
+    {
+      "question": "L'Olisbos est-il encore ouvert ?",
+      "answer": "Non. Le club a fermé fin avril 2018, après près de quatorze ans d'activité. Son exploitant a été placé en liquidation judiciaire le 24 avril 2018, et le site du club annonçait en novembre de la même année une fermeture définitive."
+    },
+    {
+      "question": "Existe-t-il encore un club libertin ou échangiste à Auxerre ?",
+      "answer": "À l'ancienne adresse de l'Olisbos, à Monéteau, [Le Cap](https://le-cap-moneteau.eatbu.com/) ouvre chaque samedi de 22 h à 5 h ; son agenda d'octobre 2026 annonçait une soirée chacun des cinq samedis du mois. Dans Auxerre même, le Sauna Icaunais Mixte, à l'adresse de l'ancien Sauna KLS, publiait encore des annonces datées en août 2026. Notre [page consacrée à Auxerre](/ville/auxerre) recense les fiches de la ville et leur statut."
+    },
+    {
+      "question": "Le Cap a-t-il remplacé l'Olisbos ?",
+      "answer": "Il occupe les mêmes murs, mais rien n'établit de lien entre les deux. Le Cap a été créé en août 2021 par une autre société, son fonds est déclaré comme une création et non comme un rachat, et son site ne mentionne jamais l'Olisbos."
+    },
+    {
+      "question": "Où se trouvait exactement l'Olisbos ?",
+      "answer": "Au 14 rue des Isles, ZA Terres du Canada, 89470 Monéteau, dans l'agglomération d'Auxerre. Le club se disait à cinq minutes des sorties d'autoroute Sud et Nord et disposait d'un parking privé."
+    },
+    {
+      "question": "Combien coûtait l'entrée à l'Olisbos ?",
+      "answer": "Dans sa dernière grille (décembre 2017), un couple payait 20 € le jeudi et le vendredi, 40 € le samedi et au Donjon du dimanche. Les femmes seules entraient gratuitement ; les hommes seuls payaient 40 € en semaine, 60 € au Donjon et 60 € le samedi, sur sélection ou parrainage."
+    },
+    {
+      "question": "Où rencontrer des libertines et des couples autour d'Auxerre ?",
+      "answer": "En club, Le Cap reçoit couples, femmes et hommes seuls le samedi soir ; à Joigny, le bar naturiste La P'tite Pause annonçait aussi des rendez-vous en octobre 2026. En ligne, Carré Libertin, ouvert en 2007, laisse aux femmes et aux couples un accès complet gratuit, à condition de publier trois photos de profil : de quoi [entrer en relation avec des couples icaunais](aff:carre-libertin) avant une première sortie."
+    }
+  ],
+  "unverified": [
+    "Le montage de 2014 à 2018 : le club parle de « gérance » et de « bail », mais aucune annonce publiée n'établit une location-gérance.",
+    "La surface de l'Olisbos et le nombre de ses coins câlins.",
+    "Une note Google de l'ancien club : les annuaires consultés en octobre 2026 n'en relaient aucune, et la page Facebook du club n'est pas lisible sans compte.",
+    "Le projet d'un second Olisbos à Dijon, évoqué en 2011 : aucune trace de réalisation, y compris dans une recherche web d'octobre 2026.",
+    "L'activité en 2026 de L'Implicite, à Villeblevin : son site ne montre rien de plus récent que des tarifs de janvier 2025.",
+    "Le Cap : la date exacte de sa réouverture après rénovation, une soirée du 11 juillet étant présentée sur son site comme préalable à « l'ouverture définitive ».",
+    "Le numéro 03 86 40 60 16 n'a pas été appelé."
+  ],
+  "sources": [
+    { "id": "s1", "label": "Site officiel de l'Olisbos, portail d'entrée (archives de 2004 et du 11/01/2019)", "url": "https://web.archive.org/web/20041127034723/http://www.olisbos-libertin.com/", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s2", "label": "Site officiel, horaires « dès septembre » 2004 (archive du 26/10/2004)", "url": "https://web.archive.org/web/20041026221108/http://www.olisbos-libertin.com/nv_horaires.htm", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s3", "label": "Site officiel, programme de la semaine (archives de 2013 à janvier 2018)", "url": "https://web.archive.org/web/20180124221125/http://www.olisbos-libertin.com:80/club/", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s4", "label": "Site officiel, annonce de la fin de gérance (archives des 22/02 et 04/04/2018)", "url": "https://web.archive.org/web/20180222104559/http://www.olisbos-libertin.com:80/club/", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s5", "label": "Site officiel, annonce de fermeture définitive (archive du 22/11/2018)", "url": "https://web.archive.org/web/20181122101221/http://www.olisbos-libertin.com/club/", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s6", "label": "Site officiel, page Tarifs (archives de 2008, 2013 et 2017)", "url": "https://web.archive.org/web/20171212013500/http://www.olisbos-libertin.com:80/club/tarifs/", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s7", "label": "Site officiel, page Coordonnées (archives de 2009 et 2017)", "url": "https://web.archive.org/web/20171212013418/http://www.olisbos-libertin.com:80/club/coordonnees/", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s8", "label": "Site officiel, page Visite du club (archive du 04/04/2018)", "url": "https://web.archive.org/web/20180404203637/http://www.olisbos-libertin.com:80/club/visite-du-club/", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s9", "label": "Site officiel, pages des soirées et du Donjon (archives de 2011 à 2017)", "url": "https://web.archive.org/web/20170427152339/http://www.olisbos-libertin.com:80/club/presentation/donjon-2/", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s10", "label": "Site officiel, dress code, première fois et questions-réponses (archives du 25/12/2011)", "url": "https://web.archive.org/web/20111225184224/http://www.olisbos-libertin.com:80/club/presentation/dress-code/", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s11", "label": "Site officiel, réveillon 2017-2018 (archive du 12/12/2017)", "url": "https://web.archive.org/web/20171212013353/http://www.olisbos-libertin.com:80/club/reveillon-du-31/", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s12", "label": "Site officiel, location de la salle (archive du 25/12/2011)", "url": "https://web.archive.org/web/20111225183638/http://www.olisbos-libertin.com:80/club/presentation/a-louer/", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s13", "label": "Site officiel, rubrique Presse (archive du 06/11/2013)", "url": "https://web.archive.org/web/20131106105707/http://www.olisbos-libertin.com:80/club/presentation/lyonne-republicaine/", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s14", "label": "L'Yonne Républicaine, portrait des propriétaires de l'Olisbos, 11/05/2011 (archive)", "url": "https://web.archive.org/web/20110514115420/http://www.lyonne.fr/editions_locales/region/clemence_et_philippe_rois_du_coquinage@CARGNjFdJSsBEBMBBxk-.html", "type": "presse", "consulted": "2026-10-16" },
+    { "id": "s15", "label": "Site officiel, anniversaire des 5 ans du club (archive du 21/08/2010)", "url": "https://web.archive.org/web/20100821164813/http://www.olisbos-libertin.com:80/club/anniversaire-5-ans-du-club/", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s16", "label": "Historique du domaine olisbos-libertin.com (Wayback Machine, RDAP, test du 16/10/2026)", "url": "https://web.archive.org/cdx/search/cdx?url=olisbos-libertin.com&fl=timestamp,statuscode&collapse=timestamp:6", "type": "autre", "consulted": "2026-10-16" },
+    { "id": "s17", "label": "Registre des entreprises, établissement « L'Olisbos » de 2004 à 2008 (fondateur)", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/331755603", "type": "registre", "consulted": "2026-10-16" },
+    { "id": "s18", "label": "Registre des entreprises, repreneur du fonds en 2008, cessé en 2019", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/378598189", "type": "registre", "consulted": "2026-10-16" },
+    { "id": "s19", "label": "Registre des entreprises, SARL LYS, exploitant de 2014 à 2018", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/802890350", "type": "registre", "consulted": "2026-10-16" },
+    { "id": "s20", "label": "BODACC, vente du fonds (2008), procédures collectives et radiations (2017-2021)", "url": "https://bodacc-datadila.opendatasoft.com/api/explore/v2.1/catalog/datasets/annonces-commerciales/records", "type": "registre", "consulted": "2026-10-16" },
+    { "id": "s21", "label": "Registre des entreprises et BODACC, SASU LE CAP (même adresse depuis 2021)", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/902025824", "type": "registre", "consulted": "2026-10-16" },
+    { "id": "s22", "label": "Site officiel du Cap, autre club à la même adresse", "url": "https://le-cap-moneteau.eatbu.com/", "type": "officiel", "consulted": "2026-10-19" },
+    { "id": "s23", "label": "PagesJaunes, fiche Le Cap Club Privé", "url": "https://www.pagesjaunes.fr/pros/63357590", "type": "annuaire", "consulted": "2026-10-16" },
+    { "id": "s24", "label": "PagesJaunes, recherches de clubs libertins à Auxerre, à Monéteau et dans l'Yonne", "url": "https://www.pagesjaunes.fr/annuaire/departement/yonne-89/clubs-libertins", "type": "annuaire", "consulted": "2026-10-16" },
+    { "id": "s25", "label": "sauna-club-libertin.com, fiche L'Olisbos", "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_3.php?id=275&d=89", "type": "annuaire", "consulted": "2026-10-16" },
+    { "id": "s26", "label": "Base Adresse Nationale, 14 rue des Isles à Monéteau", "url": "https://api-adresse.data.gouv.fr/search/?q=14+rue+des+Isles+89470+Moneteau", "type": "carte", "consulted": "2026-10-16" },
+    { "id": "s27", "label": "Registre des entreprises, Rubix Club, Le K.L.S et Sauna Icaunais Mixte", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/539757245", "type": "registre", "consulted": "2026-10-16" },
+    { "id": "s28", "label": "Test d'accès aux sites du Venusia, du Sauna KLS et du Rubix (19/10/2026)", "url": "http://www.venusia-rencontre-libertin-vergigny.com", "type": "autre", "consulted": "2026-10-19" },
+    { "id": "s29", "label": "Site officiel, blog de juin 2009 : soirée des 5 ans de l'Olisbos le 4 juillet 2009 (archive du 07/09/2009)", "url": "https://web.archive.org/web/20090907021930/http://www.olisbos-libertin.com:80/club/2009/06/", "type": "officiel", "consulted": "2026-10-19" },
+    { "id": "s31", "label": "Lieux Coquins, fiche « L'Olisbos – Fermé » (publiée en avril 2018)", "url": "https://www.lieuxcoquins.fr/lieu/lolisbos/", "type": "annuaire", "consulted": "2026-10-19" },
+    { "id": "s32", "label": "clubech.fr, pages de l'Olisbos et du Venusia classés « fermé » (titres vus en résultat de recherche)", "url": "http://www.clubech.fr/venusia/", "type": "annuaire", "consulted": "2026-10-19" },
+    { "id": "s33", "label": "Koifaire, fiche L'Olisbos et ses deux commentaires (dont un du 07/06/2009)", "url": "https://www.koifaire.com/bourgogne/l,olisbos-8510.html", "type": "annuaire", "consulted": "2026-10-19" },
+    { "id": "s34", "label": "Restaurant Guru, fiche L'Olisbos sans avis (comme horaires-commerces)", "url": "https://restaurantguru.com/LOlisbos-Moneteau", "type": "annuaire", "consulted": "2026-10-19" },
+    { "id": "s35", "label": "Site officiel du Sauna Icaunais Mixte, 8 rue Denis Papin à Auxerre", "url": "https://www.sauna-auxerre.fr/", "type": "officiel", "consulted": "2026-10-19" },
+    { "id": "s36", "label": "Minuit Libertin, fiche Le Cap (note Google relayée : 4,9 sur 41 avis)", "url": "https://minuitlibertin.com/le-cap-a-auxerre/", "type": "annuaire", "consulted": "2026-10-19" },
+    { "id": "s38", "label": "Site officiel de La P'tite Pause, bar naturiste à Joigny", "url": "https://www.ptitepause.com/", "type": "officiel", "consulted": "2026-10-19" },
+    { "id": "s39", "label": "Site officiel de L'Implicite, horaires et tarifs 2025", "url": "https://www.limplicite.com/tarifsethoraires.html", "type": "officiel", "consulted": "2026-10-19" },
+    { "id": "s40", "label": "Bottin, fiche Le Cap club privé (note Google relayée : 4,8/5, plus de 40 votes)", "url": "https://www.bottin.fr/fiche-locale/iiegcjdcjeficgcbfdj--le-cap-club-prive--moneteau.htm", "type": "annuaire", "consulted": "2026-10-19" }
+  ]
+}

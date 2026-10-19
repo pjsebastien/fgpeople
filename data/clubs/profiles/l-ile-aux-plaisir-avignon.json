@@ -1,0 +1,682 @@
+{
+  "slug": "l-ile-aux-plaisir-avignon",
+  "clubId": "352",
+  "researchedAt": "2026-10-19",
+  "display": {
+    "nom": "L'Île aux Plaisirs",
+    "ville": "Avignon"
+  },
+  "status": {
+    "value": "ferme",
+    "summary": "Le 9 février 2010, la page tarifs du Vynil's Klub, nom adopté par le club au printemps 2009, ne distingue plus couples, hommes et femmes : entrée offerte le vendredi, 10 € avec une consommation le samedi. En avril 2010, le lieu se présente comme une discothèque généraliste. Ses deux domaines sont en page parking dès 2011 et ne sont plus enregistrés en 2026 ; un bar y a été immatriculé de 2011 à 2020, puis une compagnie de théâtre s'y est installée.",
+    "sources": [
+      "s11",
+      "s12",
+      "s13",
+      "s9",
+      "s14",
+      "s15",
+      "s17",
+      "s23"
+    ]
+  },
+  "seo": {
+    "title": "Club libertin à Avignon : L'Île aux Plaisirs, fermé vers 2010",
+    "metaDescription": "L'Aphrodite, Le Darjeeling et Le Pearl sont ouverts en 2026 ; ce club de l'île de la Barthelasse est devenu Vynil's Klub en 2009, puis discothèque en 2010.",
+    "subtitle": "Ancien club échangiste de l'île de la Barthelasse, à Avignon (84), fermé entre fin 2009 et début 2010",
+    "targetQueries": [
+      "club libertin avignon",
+      "club echangiste avignon",
+      "libertine avignon",
+      "avignon club libertin",
+      "club libertins avignon",
+      "libertinage avignon"
+    ]
+  },
+  "lead": "Au 2155 chemin de la Barthelasse, sur l'île du Rhône rattachée à la commune d'Avignon, ce club échangiste ouvrait du jeudi au dimanche en 2008, le samedi en soirée couples. Rebaptisé Vynil's Klub au printemps 2009, il n'est plus qu'une discothèque au début de 2010. L'adresse abrite depuis l'automne 2020 un lieu de théâtre et de marionnette : plus de club à y chercher.",
+  "glance": [
+    {
+      "icon": "closed",
+      "label": "Fermé",
+      "value": "Entre octobre 2009 et février 2010"
+    },
+    {
+      "icon": "history",
+      "label": "Club libertin attesté",
+      "value": "D'octobre 2007 à octobre 2009"
+    },
+    {
+      "icon": "map",
+      "label": "Adresse",
+      "value": "2155 chemin de la Barthelasse"
+    },
+    {
+      "icon": "building",
+      "label": "Le lieu aujourd'hui",
+      "value": "Pôle Théâtre et Marionnette (depuis 2020)"
+    },
+    {
+      "icon": "euro",
+      "label": "Entrée couple (2008)",
+      "value": "30 € avec deux consommations",
+      "confidence": "source_unique"
+    },
+    {
+      "icon": "heart",
+      "label": "Clubs actifs à Avignon",
+      "value": "Club Aphrodite · Le Darjeeling · Le Pearl"
+    }
+  ],
+  "highlights": [
+    "Le 2155 chemin de la Barthelasse n'est plus un club : la compagnie Déraïdenz y a installé à l'automne 2020 un pôle théâtre et marionnette de 50 places.",
+    "Le téléphone et le site ile-aux-plaisirs.com que listent encore des annuaires ne mènent plus au club : le domaine n'est même plus enregistré en 2026.",
+    "Le Vynil's Klub n'est pas un autre club libertin de l'île : c'est le nom pris par L'Île aux Plaisirs en 2009, devenu discothèque en 2010.",
+    "Sur la même île, Le Darjeeling (24 chemin de l'île Piot) annonçait le 19 octobre 2026 un sauna mixte le samedi et le dimanche, de 14 h à 19 h.",
+    "En centre-ville, le Club Aphrodite, ouvert depuis 1989, annonce des soirées datées des 22, 23 et 24 octobre 2026 et ses 37 ans les 5 et 7 novembre."
+  ],
+  "keyFacts": [
+    {
+      "label": "Statut",
+      "value": "Fermé : activité libertine attestée jusqu'au 1er octobre 2009, disparue au 9 février 2010",
+      "confidence": "confirme",
+      "sources": [
+        "s11",
+        "s12",
+        "s13"
+      ]
+    },
+    {
+      "label": "Adresse",
+      "value": "2155 chemin de la Barthelasse, 84000 Avignon (île de la Barthelasse)",
+      "confidence": "confirme",
+      "sources": [
+        "s3",
+        "s7",
+        "s10"
+      ]
+    },
+    {
+      "label": "Noms successifs",
+      "value": "L'Ile aux Plaisirs (2007), L'île ô plaisirs (2008), Vynil's Klub (mai 2009)",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s4",
+        "s10"
+      ]
+    },
+    {
+      "label": "Présence en ligne attestée",
+      "value": "D'octobre 2007 à octobre 2009 comme club libertin",
+      "confidence": "confirme",
+      "sources": [
+        "s9",
+        "s11"
+      ]
+    },
+    {
+      "label": "Jours d'ouverture (2008)",
+      "value": "Jeudi au dimanche, samedi en soirée couples",
+      "confidence": "confirme",
+      "sources": [
+        "s4",
+        "s5",
+        "s11"
+      ]
+    },
+    {
+      "label": "Entrées (octobre 2008)",
+      "value": "Couple 30 € (offert le dimanche), homme seul 50 € (10 € le dimanche), femme offerte",
+      "confidence": "source_unique",
+      "sources": [
+        "s5"
+      ]
+    },
+    {
+      "label": "Exploitant",
+      "value": "Non identifié : aucune enseigne du club n'a été déclarée au registre",
+      "confidence": "a_verifier",
+      "sources": [
+        "s16",
+        "s17"
+      ]
+    },
+    {
+      "label": "À l'adresse aujourd'hui",
+      "value": "Pôle Théâtre et Marionnette de la compagnie Déraïdenz, salle de 50 places, depuis l'automne 2020",
+      "confidence": "confirme",
+      "sources": [
+        "s23",
+        "s24",
+        "s25"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "fin-du-club",
+      "title": "Vynil's Klub en mai 2009, discothèque en février 2010 : la fin du club",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le club n'a pas fermé d'un coup : il a changé de nom, puis de métier. Encore libertin le 1er octobre 2009 sous le nom de Vynil's Klub, il affiche des tarifs de discothèque le 9 février 2010 ; la dernière soirée, entre les deux, n'est pas datée. Les dates ci-dessous sont celles des pages archivées."
+        },
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "Octobre-décembre 2007",
+              "text": "Premier site archivé, « L'Ile aux Plaisirs » : tarifs du vendredi, du samedi et du dimanche."
+            },
+            {
+              "date": "Septembre 2008",
+              "text": "Nouveau site, « L'île ô plaisirs » : ouverture du jeudi au dimanche, tapas et forum."
+            },
+            {
+              "date": "16 mai 2009",
+              "text": "vynilsklub.com reprend le texte d'accueil du club, signé « l'équipe du Vynil's Klub », avec la même adresse et le même numéro."
+            },
+            {
+              "date": "16 juin 2009",
+              "text": "L'ancien domaine redirige vers le nouveau."
+            },
+            {
+              "date": "1er octobre 2009",
+              "text": "Dernière trace libertine : soirées mixtes, samedi réservé aux couples."
+            },
+            {
+              "date": "Février 2010",
+              "text": "Tarifs sans catégorie de public. Un internaute date du 6 février la reprise par le Vynil's Klub de L'Hacienda, discothèque enregistrée au même numéro."
+            },
+            {
+              "date": "Avril 2010",
+              "text": "Le lieu se présente en « Discothèque Electro-House Généraliste », avec une salle années 80/90."
+            },
+            {
+              "date": "2011",
+              "text": "Les deux domaines passent en page parking ; le bar Le Belano s'immatricule au 2155 le 1er février."
+            },
+            {
+              "date": "2017-2020",
+              "text": "Redressement judiciaire, liquidation, puis radiation du Belano le 30 janvier 2020."
+            },
+            {
+              "date": "Automne 2020",
+              "text": "La compagnie Déraïdenz y installe son Pôle Théâtre et Marionnette, 50 places, lieu du Festival Off."
+            }
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Zone d'ombre : de 2005 à octobre 2010, le registre recense au même numéro un débit de boissons à l'enseigne L'Hacienda. Partageait-il les murs ou l'exploitant du club ? Aucune source ne le dit, et aucune enseigne au nom du club ne figure au registre."
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Les coordonnées encore en circulation ne mènent plus au club",
+          "body": "Un annuaire d'échangisme compte encore L'Île ô Plaisirs parmi les deux clubs d'Avignon en 2025, avec la même liste qu'en 2009 ; un annuaire de saunas et clubs reproduit sa fiche, téléphone et site compris, sans changement depuis 2013 au moins. 118000.fr et allo-loisirs, eux, classent l'adresse en discothèque.\n\nLes domaines du club ne sont plus enregistrés en 2026, et son numéro servait déjà à la discothèque en avril 2010. Les avis Google de 2017-2018 qu'un agrégateur affiche pour le 2155 concernent Le Belano."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s2",
+        "s4",
+        "s9",
+        "s10",
+        "s11",
+        "s12",
+        "s13",
+        "s14",
+        "s15",
+        "s16",
+        "s17",
+        "s18",
+        "s19",
+        "s20",
+        "s21",
+        "s22",
+        "s23",
+        "s24",
+        "s25",
+        "s26",
+        "s27",
+        "s28",
+        "s29",
+        "s37"
+      ],
+      "confidence": "confirme",
+      "icon": "closed",
+      "summary": "Rebaptisé Vynil's Klub en mai 2009, encore libertin le 1er octobre 2009, le club affiche des tarifs de discothèque le 9 février 2010 ; un théâtre occupe l'adresse depuis 2020."
+    },
+    {
+      "id": "clubs-avignon-2026",
+      "title": "Club libertin à Avignon en 2026 : l'Aphrodite, Le Darjeeling sur l'île Piot et le sauna du Pearl",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Trois lieux d'Avignon montrent une activité récente sur leur site, consulté le 19 octobre 2026.\n\n- Le [Club Aphrodite](/club-aphrodite-avignon), au centre-ville, se dit ouvert depuis 1989. Il annonce des soirées les 22, 23 et 24 octobre, puis ses 37 ans le jeudi 5 novembre (mixte) et le samedi 7 novembre (couples et femmes seules).\n- [Le Darjeeling](/le-darjeeling-avignon), 24 chemin de l'île Piot, occupe l'ancienne conciergerie du château de l'île Piot, qui forme la pointe sud de l'île de la Barthelasse. Ce sauna mixte annonçait pour cette semaine-là une ouverture le samedi et le dimanche, de 14 h à 19 h : couple 35 €, homme seul 45 €, femme offerte jusqu'à 17 h puis 10 €.\n- Le Pearl, 95 rue du Capitaine-de-Vaisseau-Henri-Bellet, absent de notre annuaire, est un sauna libertin de 700 m² avec bassin, jacuzzi et hammam, sans alcool et interdit aux moins de 21 ans. Fermé le lundi, il ouvre dès 14 h, jusqu'à 3 h le vendredi et le samedi : couple 40 €, homme seul 45 à 60 €, femme 10 €.\n\nNi le Petit Futé 2026 ni les guides libertins récents ne citent L'Île aux Plaisirs. Les pages [clubs libertins d'Avignon](/ville/avignon) et [lieux libertins du Vaucluse](/departement/vaucluse) recensent le reste du département, dont [La Licorne d'Or](/la-licorne-d-or-carpentras) à Carpentras.\n\nWyylde, l'ancien Netéchangisme, ouvre son agenda aux comptes gratuits, qui ne peuvent toutefois pas répondre à qui leur écrit. [Repérer les soirées datées autour d'Avignon](aff:wyylde) avant de prendre la route évite de trouver porte close, comme au 2155 depuis 2010."
+        }
+      ],
+      "sources": [
+        "s35",
+        "s36",
+        "s39",
+        "s40",
+        "s38",
+        "s30",
+        "s31",
+        "s32",
+        "s34"
+      ],
+      "confidence": "confirme",
+      "icon": "heart",
+      "summary": "En octobre 2026, l'Aphrodite publie un agenda daté, Le Darjeeling annonce son week-end sur la même île que l'ancien club, et Le Pearl, sauna de 700 m², ouvre du mardi au dimanche."
+    },
+    {
+      "id": "tarifs-2007-2009",
+      "title": "Couple à 30 €, homme seul à 50 € : les tarifs de 2007 à 2009",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Trois grilles archivées, qui varient d'une année à l'autre ; aucune ne s'applique plus."
+        },
+        {
+          "kind": "table",
+          "caption": "Les entrées payantes comprenaient deux consommations (une pour l'homme seul le dimanche) ; les forfaits du samedi 2007 en comptaient quatre, sans préciser s'ils valaient par couple.",
+          "headers": [
+            "Soirée",
+            "Décembre 2007",
+            "Octobre 2008",
+            "Mai à octobre 2009 (Vynil's Klub)"
+          ],
+          "rows": [
+            [
+              "Jeudi",
+              "Aucune page archivée",
+              "Mixte, 22 h-2 h : couple 30 € (offert avant minuit), homme 50 €",
+              "22 h-2 h : couple 20 €, homme 50 €"
+            ],
+            [
+              "Vendredi",
+              "22 h 30-4 h : couple 30 € (offert avant minuit), homme 50 €",
+              "Mixte dès 21 h 30 : couple 30 €, homme 50 €",
+              "Dès 22 h 30 : couple 30 €, homme 50 €"
+            ],
+            [
+              "Samedi",
+              "22 h 30-5 h : forfait 50 €, ou 80 € dès 20 h 30 avec apéritif et repas",
+              "Soirée couples dès 21 h 30 : couple 30 €, femme offerte, pas de tarif homme",
+              "Couples dès 21 h 30 : couple 30 €, femme offerte, pas de tarif homme"
+            ],
+            [
+              "Dimanche",
+              "19 h-minuit : hommes et couples offerts, consommation obligatoire",
+              "Mixte, 19 h-minuit : couple offert, homme 10 €",
+              "20 h-1 h : couple 20 €, homme 20 €"
+            ],
+            [
+              "Femme seule",
+              "Non précisé",
+              "Offerte tous les soirs",
+              "« Femme, Trav, Trans : entrée offerte »"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "L'homme seul payait 50 € le jeudi et le vendredi, plus qu'un couple, et la grille du samedi ne lui prévoyait aucun tarif en 2008 et 2009 ; le dimanche était le soir bon marché.\n\nAucune page archivée ne présente le club comme un restaurant. La table n'y était qu'un appoint : repas du samedi sur réservation en 2007, tapas salés et sucrés offerts de 21 h 30 à 23 h le vendredi et le samedi en 2008, apéritif dînatoire du samedi en 2009."
+        }
+      ],
+      "sources": [
+        "s2",
+        "s5",
+        "s6",
+        "s10",
+        "s11"
+      ],
+      "confidence": "source_unique",
+      "icon": "euro",
+      "summary": "De 2007 à 2009, le couple entrait pour 30 € au plus (hors forfaits du samedi 2007), l'homme seul pour 50 € le jeudi et le vendredi ; femmes offertes en 2008 et 2009."
+    },
+    {
+      "id": "reglement-et-forum",
+      "title": "Pantalons proscrits en 2008, 940 comptes de robots sur le forum en 2010",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le site de 2008 fixait quelques règles : tenues sexy appréciées et « pantalons proscrits » pour les femmes, qui pouvaient se changer sur place ; tenue correcte mais « cool » pour les hommes. Il demandait de signaler une première visite, et la direction se réservait le droit de refuser l'entrée sans justification.\n\nLe club animait aussi un forum : 18 membres et 169 messages en octobre 2008, 124 comptes et 319 messages en mai 2009, le plus récent déjà sous un pseudonyme d'allure automatique.\n\nLe forum a survécu au club. Le 2 mars 2010, trois semaines après la grille de discothèque du Vynil's Klub archivée le 9 février, son compteur affichait 940 comptes aux pseudonymes de robots : selon toute apparence, plus personne ne le modérait."
+        }
+      ],
+      "sources": [
+        "s4",
+        "s8",
+        "s12"
+      ],
+      "confidence": "source_unique",
+      "icon": "shield",
+      "summary": "En 2008 : pantalons proscrits pour les femmes, tenue « cool » mais correcte pour les hommes, première visite à signaler. Le forum affichait 940 comptes de robots en mars 2010."
+    }
+  ],
+  "corrections": {
+    "telephone": "",
+    "email": "",
+    "site_web": "",
+    "sources": [
+      "s15",
+      "s13"
+    ]
+  },
+  "officialLinks": [
+    {
+      "label": "Site du club archivé par la Wayback Machine (octobre 2008)",
+      "url": "https://web.archive.org/web/20081020212203/http://www.ile-aux-plaisirs.com:80/fr/",
+      "kind": "autre"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Existe-t-il encore un club libertin sur l'île de la Barthelasse ?",
+      "answer": "Plus au 2155, devenu en 2020 le Pôle Théâtre et Marionnette de la compagnie Déraïdenz. Le Darjeeling, 24 chemin de l'île Piot, est en revanche sur la même île, côté pointe sud : un sauna mixte qui annonçait, le 19 octobre 2026, une ouverture le samedi et le dimanche de 14 h à 19 h."
+    },
+    {
+      "question": "Après cette fermeture, vers quel club échangiste d'Avignon se tourner ?",
+      "answer": "Le Club Aphrodite, au centre-ville, publie des soirées datées pour fin octobre et novembre 2026 ; Le Darjeeling annonçait à la même date une ouverture le samedi et le dimanche après-midi. Le Pearl, sauna libertin enregistré en juillet 2024 au 95 rue du Capitaine-de-Vaisseau-Henri-Bellet, ouvre du mardi au dimanche dès 14 h et annonce une soirée Halloween le samedi 31 octobre ; il n'a pas encore de fiche chez nous. Un blog de février 2026 nomme aussi La Licorne d'Or, à Carpentras."
+    },
+    {
+      "question": "Un homme seul peut-il entrer dans un club libertin d'Avignon ?",
+      "answer": "Oui, mais il paie plus qu'un couple, comme à L'Île aux Plaisirs en 2008 (50 € contre 30 € le jeudi et le vendredi). Le 19 octobre 2026, Le Pearl affichait 60 € pour l'homme seul du vendredi au dimanche (45 € du mardi au jeudi) contre 40 € pour le couple, et Le Darjeeling 45 € contre 35 €. Comme jadis le samedi de L'Île aux Plaisirs, l'Aphrodite ferme certaines soirées aux hommes seuls : celles du vendredi 23 octobre et du samedi 7 novembre sont annoncées « 100 % couples et femmes seules ». Pour y entrer, il faut venir avec une partenaire. Sur Gleese, réseau français ouvert fin 2024 où l'inscription se fait sans carte bancaire, un homme seul peut [chercher une partenaire pour les soirées couples de l'Aphrodite](aff:gleese) ; hors des grandes villes, le site compte encore moins d'inscrits que ses aînés."
+    },
+    {
+      "question": "Qu'est devenu le Vynil's Klub ?",
+      "answer": "Le nom pris par le club au printemps 2009. Au début de 2010, il devient une discothèque généraliste à deux salles ; son site est une page parking fin 2011. Le bar Le Belano est ensuite immatriculé à l'adresse, de 2011 à sa radiation en 2020."
+    },
+    {
+      "question": "Comment rencontrer des libertins autour d'Avignon sans passer par un club ?",
+      "answer": "Sur les sites libertins. Carré Libertin, en ligne depuis 2007, l'année des premières archives du site de L'Île aux Plaisirs, revendique plus de 500 000 inscrits ; [les femmes et les couples y ont un accès complet sans payer](aff:carre-libertin), pourvu que le profil porte au moins trois photos. Un homme seul peut s'inscrire et parcourir les profils, mais doit s'abonner pour engager la conversation."
+    }
+  ],
+  "unverified": [
+    "La date de la dernière soirée libertine, quelque part entre le 1er octobre 2009 et le 9 février 2010.",
+    "Le lien entre le club et L'Hacienda, débit de boissons enregistré à la même adresse de 2005 à 2010 : même bâtiment, même exploitant, ou simple voisinage ?",
+    "La société qui exploitait le club : aucune enseigne à son nom au registre.",
+    "Les thèmes des soirées de 2008 : les affiches archivées (fichiers nommés « saphique » et « xchange ») n'ont pas pu être lues.",
+    "Les espaces du club (surface, salles, équipements) : la page « Le Club » de 2008 n'était qu'une animation Flash, et la visite de 2007 ne contenait que des images.",
+    "Un article de presse sur le club : aucun n'a été trouvé en ligne (La Provence, Vaucluse Matin, ICI) en octobre 2026, et les archives papier n'ont pas été consultées.",
+    "L'origine du classement « restaurant club libertin » de notre ancienne fiche, reprise d'un annuaire inchangé depuis 2013 au moins : aucune page archivée du club ne le présente comme un restaurant. Le téléphone, l'e-mail et le site que donnait cette fiche ne mènent plus au club et en ont été retirés."
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Site officiel L'Ile aux Plaisirs, page d'accueil intérieure (archive du 30/10/2007)",
+      "url": "https://web.archive.org/web/20071030174957/http://ile-aux-plaisirs.com:80/page2.html",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s2",
+      "label": "Site officiel, pages horaires et tarifs du vendredi, du samedi et du dimanche (archives des 16 et 17/12/2007)",
+      "url": "https://web.archive.org/web/20071216141349/http://www.ile-aux-plaisirs.com:80/page23.html",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s3",
+      "label": "Site officiel, page contact (archive du 02/12/2007)",
+      "url": "https://web.archive.org/web/20071202091247/http://www.ile-aux-plaisirs.com:80/page7.html",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s4",
+      "label": "Site officiel L'île ô plaisirs, accueil et règles (archive du 20/10/2008)",
+      "url": "https://web.archive.org/web/20081020212203/http://www.ile-aux-plaisirs.com:80/fr/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s5",
+      "label": "Site officiel, horaires et tarifs du jeudi au dimanche (archive du 13/10/2008)",
+      "url": "https://web.archive.org/web/20081013125422/http://www.ile-aux-plaisirs.com:80/fr/horaires.php",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s6",
+      "label": "Site officiel, page « Tapas Plaisirs » (archive du 13/10/2008)",
+      "url": "https://web.archive.org/web/20081013125426/http://www.ile-aux-plaisirs.com:80/fr/restaurant.php",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s7",
+      "label": "Site officiel, page contact (archive du 15/09/2008)",
+      "url": "https://web.archive.org/web/20080915101620/http://www.ile-aux-plaisirs.com:80/fr/contact.php",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s8",
+      "label": "Forum du club (archives d'octobre 2008, mai 2009 et mars 2010)",
+      "url": "https://web.archive.org/web/20090501012921/http://www.ile-aux-plaisirs.com:80/fr/forum/index.php",
+      "type": "forum",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s9",
+      "label": "Historique des captures de ile-aux-plaisirs.com (Wayback Machine)",
+      "url": "https://web.archive.org/cdx/search/cdx?url=ile-aux-plaisirs.com&fl=timestamp,statuscode&collapse=timestamp:6",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s10",
+      "label": "Site du Vynil's Klub, accueil, tarifs et contact (archives des 16 et 17/05/2009)",
+      "url": "https://web.archive.org/web/20090516024336/http://www.vynilsklub.com:80/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s11",
+      "label": "Site du Vynil's Klub, accueil et tarifs (archives du 01/10/2009)",
+      "url": "https://web.archive.org/web/20091001163503/http://www.vynilsklub.com:80/VynilsKlub/tarifs.php",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s12",
+      "label": "Site du Vynil's Klub, tarifs de discothèque (archive du 09/02/2010)",
+      "url": "https://web.archive.org/web/20100209033548/http://www.vynilsklub.com:80/tarifs.php",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s13",
+      "label": "Site du Vynil's Klub, présentation « Discothèque Electro-House Généraliste » (archives d'avril 2010)",
+      "url": "https://web.archive.org/web/20100417082630/http://www.vynilsklub.com:80/crbst_4.html",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s14",
+      "label": "Historique des captures de vynilsklub.com (Wayback Machine)",
+      "url": "https://web.archive.org/cdx/search/cdx?url=vynilsklub.com&fl=timestamp,statuscode&collapse=timestamp:6",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s15",
+      "label": "État des domaines ile-aux-plaisirs.com et vynilsklub.com (RDAP Verisign : non enregistrés)",
+      "url": "https://rdap.verisign.com/com/v1/domain/ile-aux-plaisirs.com",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s16",
+      "label": "Registre des entreprises, établissement à l'enseigne L'Hacienda au 2155 chemin de la Barthelasse",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/390201259",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s17",
+      "label": "Registre des entreprises, Le Belano (bar, 2011-2020)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/530007251",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s18",
+      "label": "societe.com, procédures collectives de Le Belano",
+      "url": "https://www.societe.com/societe/le-belano-530007251.html",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s19",
+      "label": "Guide de Nuit, fiche « Hacienda Club Et After » (non datée)",
+      "url": "http://www.guidedenuit.com/discotheques_vaucluse/hacienda-club-after",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s20",
+      "label": "Guide de Nuit, avis d'internaute sur la reprise de L'Hacienda par le Vynil's Klub",
+      "url": "http://www.guidedenuit.com/avis_vaucluse/37156-hacienda-ete-repris-c-est-vynil",
+      "type": "avis",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s21",
+      "label": "Guide de Nuit, fiche « Vynil's Klub » (non datée)",
+      "url": "https://www.guidedenuit.com/discotheques_vaucluse/vynil-klub",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s22",
+      "label": "koifaire.com, « Vynil's Klub Discothèque » (non daté)",
+      "url": "https://www.koifaire.com/paca/vynil,s,klub,discotheque-92635.html",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s23",
+      "label": "ICI Vaucluse, « Sur l'île de la Barthelasse, il y a un pôle théâtre et marionnette ! » (20/10/2022)",
+      "url": "https://www.ici.fr/emissions/un-jour-en-vaucluse/vaucluse/avignon-sur-l-ile-de-la-barthelasse-il-y-a-un-pole-theatre-et-marionnette",
+      "type": "presse",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s24",
+      "label": "Festival Off Avignon, lieu « Pôle Théâtre et Marionnette »",
+      "url": "https://www.festivaloffavignon.com/lieux/329-pole-theatre-et-marionnette",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s25",
+      "label": "Registre des entreprises, compagnie Déraïdenz (siège au 2155 depuis le 09/10/2020)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/829129733",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s26",
+      "label": "sauna-club-libertin.com, fiche « L'ILE AUX PLAISIR » (figée depuis 2013 au moins)",
+      "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_3.php?id=352&d=84",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s27",
+      "label": "118000.fr, « L'île aux Plaisirs », catégorie discothèque",
+      "url": "https://www.118000.fr/e_C0027374219",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s28",
+      "label": "allo-loisirs.fr, « L'île aux Plaisirs », catégorie boîte de nuit",
+      "url": "https://www.allo-loisirs.fr/Avignon-84000/club-discotheque-boite-de-nuit/club-discotheque-boite-de-nuit_L-ile-aux-Plaisirs,134928.html",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s29",
+      "label": "sluurpy.fr, « Le Belano » (avis Google de 2017-2018)",
+      "url": "https://www.sluurpy.fr/avignon/restaurant/2022345/le-belano",
+      "type": "avis",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s30",
+      "label": "kinkyee.fr, « Club Libertin Avignon » (non daté)",
+      "url": "https://kinkyee.fr/club-libertin/avignon/",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s31",
+      "label": "saunaclublebali.fr, « Clubs libertins dans le Vaucluse » (14/02/2026)",
+      "url": "https://www.saunaclublebali.fr/clubs-libertins-dans-le-vaucluse-84-panorama-des-etablissements-a-avignon-et-carpentras/",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s32",
+      "label": "cerclelibertin.net, « Lieux libertins à Avignon » (mis à jour le 24/12/2025)",
+      "url": "https://www.cerclelibertin.net/lieux-libertins-a-avignon-lieux-de-rencontre-a-decouvrir/",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s34",
+      "label": "Wikipédia, « Île de la Barthelasse » (l'île Piot en forme la pointe sud)",
+      "url": "https://fr.wikipedia.org/wiki/%C3%8Ele_de_la_Barthelasse",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s35",
+      "label": "Site officiel du Darjeeling, accueil (horaires, tarifs et adresse)",
+      "url": "https://www.ledarjeeling.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s36",
+      "label": "Site officiel du Club Aphrodite, accueil et agenda",
+      "url": "https://clubaphrodite.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s37",
+      "label": "club-echangiste.net, « club echangiste Avignon » (liste identique en 2009 et en 2025, lue via les archives)",
+      "url": "https://web.archive.org/web/20250808012233/http://club-echangiste.net/vaucluse/avignon.html",
+      "type": "annuaire",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s38",
+      "label": "Petit Futé, clubs libertins et échangistes à Avignon en 2026",
+      "url": "https://www.petitfute.com/v33549-avignon-84000/c9998-coquin/c1044-s-amuser-sortir/c206-club-libertin/",
+      "type": "annuaire",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s39",
+      "label": "Site officiel du Pearl, accueil, horaires, tarifs et mentions légales",
+      "url": "https://www.lepearlavignon.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s40",
+      "label": "Registre des entreprises, SJ Marchand d'Azur (établissement du Pearl, enregistré le 29/07/2024)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/842503872",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    }
+  ]
+}

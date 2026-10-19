@@ -1,0 +1,1067 @@
+{
+  "slug": "sauna-eros-troyes",
+  "clubId": "298",
+  "researchedAt": "2026-10-16",
+  "display": {
+    "nom": "Sauna Eros",
+    "ville": "Troyes"
+  },
+  "status": {
+    "value": "ferme",
+    "summary": "Un billet du site officiel daté du 16 octobre 2018 annonçait la fermeture du sauna « pour travaux » après un incendie survenu dans la nuit d'un dimanche à un lundi. En janvier 2019, Champagne FM, citant L'Est-Éclair, le décrivait partiellement détruit et fermé ; en juin 2019, le site en parlait au passé et renvoyait sa clientèle vers un autre club de l'Aube. En septembre 2024, une entreprise de matériel médical a installé son siège à l'adresse, le mois même où la société exploitante, JOHNCAFE, était placée en liquidation judiciaire ; sa radiation a été publiée au BODACC le 2 octobre 2025.",
+    "sources": [
+      "s5",
+      "s6",
+      "s36",
+      "s4",
+      "s29",
+      "s25",
+      "s26",
+      "s21",
+      "s27"
+    ]
+  },
+  "seo": {
+    "title": "Sauna Eros, sauna libertin de Troyes fermé depuis octobre 2018",
+    "metaDescription": "Le sauna libertin et gay du 36 Mail des Charmilles, à Troyes, a fermé après un incendie en octobre 2018. Tarifs, soirées, liquidation et pistes qui restent.",
+    "subtitle": "Ancien sauna gay et échangiste de 250 m² au Mail des Charmilles, à Troyes (10), fermé depuis 2018",
+    "targetQueries": [
+      "sauna libertin troyes",
+      "club libertin troyes",
+      "sauna eros troyes",
+      "libertine troyes",
+      "libertin troyes",
+      "eros troyes",
+      "sauna eros pau"
+    ]
+  },
+  "lead": "Le Sauna Eros, au 36 Mail des Charmilles à Troyes, est fermé depuis un incendie survenu en octobre 2018. De 2007 au moins jusqu'à ce sinistre, ce sauna de 250 m² alternait, selon le jour et l'heure, des créneaux réservés aux hommes et des créneaux mixtes ouverts aux couples, aux femmes et aux hommes seuls. La fermeture annoncée « pour travaux » est devenue définitive : la société exploitante, placée en liquidation en 2024, a été radiée en 2025, et une autre entreprise occupe désormais l'adresse.",
+  "glance": [
+    {
+      "icon": "closed",
+      "label": "Fermé",
+      "value": "Depuis l'incendie d'octobre 2018"
+    },
+    {
+      "icon": "history",
+      "label": "Période d'activité",
+      "value": "2007 à 2018, traces dès 2006"
+    },
+    {
+      "icon": "users",
+      "label": "Public",
+      "value": "Créneaux mixtes et créneaux gays"
+    },
+    {
+      "icon": "euro",
+      "label": "Dernière grille (2018)",
+      "value": "Couple 20 € · homme 30 € · femme gratuite"
+    },
+    {
+      "icon": "building",
+      "label": "À l'adresse aujourd'hui",
+      "value": "Entreprise médicale depuis sept. 2024"
+    },
+    {
+      "icon": "warning",
+      "label": "Club cité en 2019",
+      "value": "Mille et une Nuits, Cormost : non vérifié",
+      "confidence": "a_verifier"
+    }
+  ],
+  "highlights": [
+    "Le 36 Mail des Charmilles n'accueille plus de sauna : il est fermé depuis l'incendie d'octobre 2018 et une autre entreprise y est installée depuis 2024.",
+    "Les horaires et tarifs encore affichés par des annuaires sont ceux de 2017-2018 : aucun des sept consultés ne signale la fermeture.",
+    "Le site saunaeros.fr n'appartient plus au club : depuis décembre 2025, c'est une page de vente du nom de domaine.",
+    "Le Mille et une Nuits de Cormost, vers lequel le sauna renvoyait en 2019, n'a plus de site depuis fin 2021 : vérifiez qu'il ouvre avant de rouler.",
+    "Le Sauna Eros de Pau est un autre établissement, exploité par une autre société, sans lien connu avec celui de Troyes."
+  ],
+  "keyFacts": [
+    {
+      "label": "Statut",
+      "value": "Fermé depuis l'incendie d'octobre 2018, jamais rouvert",
+      "confidence": "confirme",
+      "sources": [
+        "s5",
+        "s6",
+        "s36",
+        "s4"
+      ]
+    },
+    {
+      "label": "Adresse",
+      "value": "36 Mail des Charmilles, 10000 Troyes (autre occupant depuis septembre 2024)",
+      "confidence": "confirme",
+      "sources": [
+        "s21",
+        "s22",
+        "s27"
+      ]
+    },
+    {
+      "label": "Concept",
+      "value": "Sauna gay et échangiste, publics séparés selon le jour et l'heure",
+      "confidence": "confirme",
+      "sources": [
+        "s16",
+        "s7",
+        "s8"
+      ]
+    },
+    {
+      "label": "Surface annoncée",
+      "value": "250 m²",
+      "confidence": "source_unique",
+      "sources": [
+        "s9"
+      ]
+    },
+    {
+      "label": "Exploitants",
+      "value": "EURL Sauna Lorenzo (2007-2015), puis JOHNCAFE (rachat en 2015, radiée en 2025)",
+      "confidence": "confirme",
+      "sources": [
+        "s22",
+        "s21",
+        "s23"
+      ]
+    },
+    {
+      "label": "Rachat du fonds",
+      "value": "70 000 €, acte du 21 septembre 2015",
+      "confidence": "confirme",
+      "sources": [
+        "s23",
+        "s21"
+      ]
+    },
+    {
+      "label": "Dernière grille (2018)",
+      "value": "Femme gratuite, couple 20 €, homme 30 €, créneau gay 10 ou 20 €",
+      "confidence": "confirme",
+      "sources": [
+        "s8",
+        "s5"
+      ]
+    },
+    {
+      "label": "Fin de la société",
+      "value": "Liquidation ouverte le 10/09/2024, radiation publiée le 02/10/2025",
+      "confidence": "confirme",
+      "sources": [
+        "s25",
+        "s26",
+        "s21"
+      ]
+    },
+    {
+      "label": "Site saunaeros.fr",
+      "value": "Revendu en 2023, page « domaine à vendre » depuis décembre 2025",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s2",
+        "s3"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "incendie-octobre-2018",
+      "title": "Octobre 2018 : un incendie, puis une fermeture « pour travaux » jamais levée",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Les dernières semaines se lisent dans le fil d'actualités du site officiel. Le sauna ferme exceptionnellement le dimanche 9 septembre 2018, organise le samedi 22 septembre un apéro dînatoire, puis publie le mardi 16 octobre un billet : un incendie s'est déclaré « dans la nuit de dimanche à lundi » et l'établissement ferme pour travaux."
+        },
+        {
+          "kind": "text",
+          "body": "D'après le calendrier, il s'agit très probablement de la nuit du 14 au 15 octobre 2018, mais aucune source consultée ne l'écrit."
+        },
+        {
+          "kind": "text",
+          "body": "La presse locale confirme le sinistre. Le 8 janvier 2019, Champagne FM, reprenant L'Est-Éclair, indique que l'établissement a été « partiellement détruit » par un incendie en octobre et qu'il est fermé. L'origine du feu n'est précisée nulle part."
+        },
+        {
+          "kind": "text",
+          "body": "Les travaux n'ont jamais débouché sur une réouverture. De juin à septembre 2019, la page d'accueil parle du sauna au passé (il « était fermé pour Travaux »), annonce un nouveau club « bientôt » dans l'agglomération troyenne, oriente la clientèle vers Le Mille et une Nuits, un club libertin de Cormost, et promet aux anciens membres un futur site de rencontres."
+        },
+        {
+          "kind": "text",
+          "body": "Ce nouveau club n'a laissé aucune trace au nom de la société exploitante, qui ne compte au registre que deux établissements, tous deux fermés."
+        },
+        {
+          "kind": "table",
+          "caption": "Après l'incendie : ce que montrent les archives du site et le registre des entreprises",
+          "headers": [
+            "Date",
+            "Ce qui se passe"
+          ],
+          "rows": [
+            [
+              "16/10/2018",
+              "Dernier billet du site en activité : « fermeture exceptionnelle pour travaux » après l'incendie"
+            ],
+            [
+              "Mai 2020 à avril 2021",
+              "saunaeros.fr redirige vers le site du Mille et une Nuits"
+            ],
+            [
+              "10/03/2023",
+              "Date de cessation des paiements retenue par le tribunal : la société a continué d'exister plus de quatre ans après l'incendie, avec une activité inconnue"
+            ],
+            [
+              "12/07/2023",
+              "saunaeros.fr est ré-enregistré par un revendeur de noms de domaine"
+            ],
+            [
+              "01/09/2024",
+              "Une société de fabrication de matériel médical installe son siège au 36 Mail des Charmilles"
+            ],
+            [
+              "10/09/2024",
+              "Liquidation judiciaire de JOHNCAFE, tribunal de commerce de Troyes"
+            ],
+            [
+              "24/09/2025",
+              "Clôture pour insuffisance d'actif ; établissement fermé au registre le 26/09"
+            ],
+            [
+              "02/10/2025",
+              "Radiation d'office publiée au BODACC"
+            ],
+            [
+              "Depuis déc. 2025",
+              "saunaeros.fr affiche une page « domaine à vendre », toujours en place le 16/10/2026"
+            ]
+          ]
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Une date de fermeture trompeuse au registre",
+          "body": "Le registre des entreprises date la fermeture de l'établissement au 26 septembre 2025. C'est la fin de la liquidation, pas celle de l'activité : le sauna n'a plus reçu de public après octobre 2018."
+        },
+        {
+          "kind": "callout",
+          "tone": "tip",
+          "title": "Vous cherchiez l'Eros de Pau ?",
+          "body": "Le nom Eros a servi à d'autres saunas. Celui de Pau, exploité au 8 rue René Fournets par une autre société sous l'enseigne « Eros Sauna », est lui aussi fermé : [sa fiche distincte dans l'annuaire](/sauna-eros-pau) retrace son histoire. Aucun lien connu avec le sauna troyen."
+        }
+      ],
+      "sources": [
+        "s5",
+        "s6",
+        "s36",
+        "s4",
+        "s21",
+        "s20",
+        "s3",
+        "s2",
+        "s1",
+        "s25",
+        "s26",
+        "s27",
+        "s37"
+      ],
+      "icon": "closed",
+      "summary": "Un incendie, annoncé le 16 octobre 2018, a fermé le sauna « pour travaux ». Il n'a jamais rouvert et son exploitant a été liquidé en 2024, puis radié en 2025."
+    },
+    {
+      "id": "apres-eros-cormost-reims-dijon",
+      "title": "Après l'Eros : un club à Cormost au statut inconnu, des saunas à Reims et Dijon",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Pour qui cherche aujourd'hui un sauna libertin à Troyes, la réponse est courte : le seul que nous ayons pu documenter, l'Eros, n'existe plus. De 2008 à 2015, il se présentait d'ailleurs comme « le seul sauna libertin de l'Aube », affirmation promotionnelle invérifiable."
+        },
+        {
+          "kind": "text",
+          "body": "Notre annuaire ne recense aucun autre établissement libertin dans le [département de l'Aube](/departement/aube), et notre recherche d'octobre 2026 n'a fait ressortir aucun lieu fixe dont l'activité actuelle soit vérifiable."
+        },
+        {
+          "kind": "text",
+          "body": "**Le Mille et une Nuits, à Cormost**, est la seule piste locale liée à l'Eros. C'est vers ce club du lieu-dit la Belle Étoile (D444), qui se disait « premier club libertin de l'Aube », que le site du sauna renvoyait ses clients en 2019, avant de rediriger vers le1001nuits.com en 2020 et 2021."
+        },
+        {
+          "kind": "text",
+          "body": "La société qui l'exploite depuis 2019, après un changement de propriétaire annoncé en 2018, a son siège à Épothémont, comme la société qui exploitait l'Eros, à une adresse presque identique ; ce sont pourtant deux entreprises distinctes, sans lien juridique établi. Son établissement de Cormost, ouvert en juin 2019, est toujours actif au registre."
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Le Mille et une Nuits ouvre-t-il encore ?",
+          "body": "Rien ne le prouve. Le site du club ne répond plus (dernière capture valide en octobre 2021, code 410 en octobre 2026), et l'agrégateur Restaurant Guru l'affiche « permanently closed », avec des avis les plus récents vieux d'environ cinq ans. Ce dernier indice est faible : vérifiez qu'une soirée y est annoncée avant de vous déplacer."
+        },
+        {
+          "kind": "text",
+          "body": "Hors de l'Aube, notre annuaire référence notamment [Sauna Le Lotus](/sauna-le-lotus-reims) à Reims, dans la Marne, ainsi que [Le Tantra Sauna](/le-tantra-sauna-dijon) à Dijon et le club [La Dérobade à Chenôve](/la-derobade-chenove), en Côte-d'Or. Leur statut n'a pas été contrôlé pour cette fiche ; la [liste des établissements du Grand Est](/region/grand-est) élargit le choix."
+        },
+        {
+          "kind": "text",
+          "body": "Un déplacement hors du département se prépare. L'agenda de Wyylde, l'ex-Netéchangisme, se consulte avec un compte gratuit et recense des soirées en club dans toute la France : il permet de [s'assurer qu'une soirée est bien programmée avant de rouler vers Reims ou Dijon](aff:wyylde)."
+        },
+        {
+          "kind": "text",
+          "body": "Pour les couples et les femmes, Carré Libertin, en ligne depuis 2007, offre l'accès complet sans payer dès que le profil compte trois photos, de quoi [nouer contact avec des couples de l'agglomération troyenne](aff:carre-libertin) avant de choisir un lieu."
+        }
+      ],
+      "sources": [
+        "s14",
+        "s17",
+        "s4",
+        "s20",
+        "s21",
+        "s28",
+        "s29",
+        "s38"
+      ],
+      "icon": "map",
+      "summary": "Aucun autre lieu libertin vérifié dans l'Aube. Le Mille et une Nuits, à Cormost, n'a plus de site depuis 2021 ; notre annuaire référence des saunas à Reims et à Dijon."
+    },
+    {
+      "id": "semaine-gay-et-mixte-2018",
+      "title": "Lundi soir entre hommes, samedi soir mixte : la semaine du sauna en 2018",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "La dernière grille publiée, en avril 2018, comptait treize demi-journées d'ouverture. Trois étaient réservées aux hommes, sous l'intitulé « masculins (Gay) » : le lundi soir et les après-midi du mercredi et du samedi. Toutes les soirées du mardi au samedi étaient mixtes, et le sauna fermait le dimanche soir."
+        },
+        {
+          "kind": "table",
+          "caption": "Semaine type d'avril 2018, selon la grille officielle (plus en vigueur)",
+          "headers": [
+            "Jour",
+            "Après-midi",
+            "Soir"
+          ],
+          "rows": [
+            [
+              "Lundi",
+              "14h-18h30, mixte",
+              "19h30-0h, gay"
+            ],
+            [
+              "Mardi",
+              "14h-19h, mixte",
+              "21h-1h30, mixte"
+            ],
+            [
+              "Mercredi",
+              "14h-19h, gay",
+              "21h-1h30, mixte"
+            ],
+            [
+              "Jeudi",
+              "14h-19h, mixte",
+              "21h-1h30, mixte"
+            ],
+            [
+              "Vendredi",
+              "14h-19h, mixte",
+              "21h-1h30, mixte"
+            ],
+            [
+              "Samedi",
+              "14h-19h, gay",
+              "21h-1h30, mixte"
+            ],
+            [
+              "Dimanche",
+              "14h-19h",
+              "fermé"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "D'une grille à l'autre, les prix ont peu bougé pour les hommes et beaucoup pour les femmes :"
+        },
+        {
+          "kind": "list",
+          "items": [
+            "femme seule : 10 € avec une boisson en 2011, 5 € avec une consommation en 2016, gratuit en 2018 ;",
+            "couple : 15 € en 2011, puis 20 € ; au printemps 2017, plusieurs soirées à thème le facturaient 30 € ;",
+            "homme seul : 30 € sur toute la période, 35 € puis 40 € les soirs de soirée spéciale ;",
+            "créneaux gays : moitié prix pour les moins de 25 ans en 2016 comme en 2018 ;",
+            "« happy hour gay » annoncée en mai 2017 : à partir de juillet, entrée à moitié prix le lundi de 19h30 à 21h, soit 10 € dans la grille de 2018."
+          ]
+        },
+        {
+          "kind": "table",
+          "caption": "Prix d'entrée selon les grilles officielles successives",
+          "headers": [
+            "Public",
+            "2011",
+            "2016",
+            "2018"
+          ],
+          "rows": [
+            [
+              "Femme seule",
+              "10 € avec une boisson",
+              "5 € avec une consommation",
+              "gratuit"
+            ],
+            [
+              "Couple",
+              "15 €",
+              "20 €",
+              "20 €"
+            ],
+            [
+              "Homme seul, créneau mixte",
+              "30 €",
+              "30 € (35 € soirées spéciales)",
+              "30 € (40 € soirées spéciales)"
+            ],
+            [
+              "Tarif jeunes",
+              "10 € (18-25 ans, pièce d'identité exigée)",
+              "10 € (18-24 ans, créneau gay)",
+              "10 € (18-24 ans, créneau gay)"
+            ],
+            [
+              "Créneau masculin (gay)",
+              "18 €",
+              "20 € (25 ans et plus)",
+              "20 € avec une consommation (25 ans et plus)"
+            ]
+          ]
+        }
+      ],
+      "sources": [
+        "s8",
+        "s11",
+        "s15",
+        "s12",
+        "s13",
+        "s39",
+        "s40",
+        "s32"
+      ],
+      "icon": "calendar",
+      "summary": "En 2018, trois créneaux sur treize étaient réservés aux hommes. Sur les autres : femme gratuite, couple 20 €, homme seul 30 € (40 € les soirées spéciales)."
+    },
+    {
+      "id": "lieu-250-m2-mail-des-charmilles",
+      "title": "250 m² derrière une grille du Mail des Charmilles : hammam, salle vidéo et « 7 coins câlins »",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le club annonçait 250 m². Sa page « Première fois », en ligne en 2013, décrivait le parcours d'un nouveau venu : grille sur la rue, cour, double porte, puis guichet où l'on recevait une serviette et la clé d'une armoire de vestiaire, plus un paréo pour les femmes ; les consommations se réglaient en partant."
+        },
+        {
+          "kind": "text",
+          "body": "À partir d'avril 2017, on entrait par un sas équipé d'une sonnette."
+        },
+        {
+          "kind": "list",
+          "title": "Les espaces décrits par le club",
+          "items": [
+            "un sauna et un hammam, accessibles après une douche obligatoire",
+            "un bar avec salon, servi le soir à partir de 20h30 en 2018",
+            "une salle vidéo, présente dès 2007",
+            "des cabines à une ou deux couchettes (2013) et, d'après la visite en photos de 2018, « 7 coins câlins »",
+            "une croix de Saint-André (2013) et une salle S/M (2018)",
+            "un glory hole (2018)",
+            "un jacuzzi, cité dans l'accroche de la page d'accueil en 2017 et 2018, mais absent du règlement détaillé de 2018 et des pages plus anciennes, d'où notre réserve"
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le buffet a longtemps fait partie de l'entrée : gratuit et à volonté du lundi au samedi en 2007, servi de 20h30 à 1h30 en 2011, proposé du mercredi au samedi en 2015, il n'apparaît plus dans la grille de 2018."
+        },
+        {
+          "kind": "text",
+          "body": "Le sauna distribuait gratuitement préservatifs et lubrifiant, et a accueilli des journées de dépistage, par exemple le 25 février 2017 de 14h à 19h. En 2011, le site conseillait le bus n° 7, arrêt « Charmilles »."
+        },
+        {
+          "kind": "list",
+          "title": "Le règlement affiché en 2018",
+          "items": [
+            "douche avant et après le passage au sauna et au hammam ; produit de nettoyage et papier dans chaque cabine",
+            "téléphones, appareils photo et tout objet menaçant l'anonymat des clients interdits",
+            "préservatif obligatoire, substances illicites proscrites",
+            "pas de consommation dans les couloirs ; une porte fermée signale qu'on ne souhaite pas être dérangé",
+            "un lieu réservé aux « adultes avertis », de plus de 18 ans selon la page d'accueil"
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "La page « Photorama », archivée en avril 2018, rangeait ses photos par espace (vestiaires, bar, coins câlins, salle S/M, salle vidéo…) et comportait un plan du sauna. Nous n'en reprenons aucune image ; le lien vers l'archive figure en haut de page."
+        }
+      ],
+      "sources": [
+        "s9",
+        "s18",
+        "s12",
+        "s10",
+        "s7",
+        "s16",
+        "s15",
+        "s14"
+      ],
+      "icon": "spa",
+      "summary": "Sur 250 m² annoncés : sauna, hammam, bar, salle vidéo, cabines, « 7 coins câlins » et salle S/M. Le jacuzzi n'apparaît que dans l'accroche du site."
+    },
+    {
+      "id": "soirees-a-theme-2017-2018",
+      "title": "Body painting, topless, élection des plus belles fesses : les samedis à thème de 2017-2018",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Les archives du site conservent dix-huit soirées annoncées entre février 2017 et septembre 2018. Toutes tombaient un samedi. Sept au moins appliquaient un tarif homme majoré à 40 €, et trois soirées du printemps 2017 un tarif couple de 30 € au lieu de 20 €."
+        },
+        {
+          "kind": "table",
+          "caption": "Soirées annoncées par le site officiel",
+          "headers": [
+            "Date",
+            "Soirée"
+          ],
+          "rows": [
+            [
+              "25/02/2017",
+              "Webcamming"
+            ],
+            [
+              "04/03/2017",
+              "Black out (homme 40 €)"
+            ],
+            [
+              "18/03/2017",
+              "Body painting (couple 30 €, homme 40 €)"
+            ],
+            [
+              "08/04/2017",
+              "Masque (couple 30 €, homme 40 €)"
+            ],
+            [
+              "22/04/2017",
+              "Domination (couple 30 €, homme 40 €)"
+            ],
+            [
+              "01/07/2017",
+              "Barbecue (homme 40 €)"
+            ],
+            [
+              "14/10/2017",
+              "Apéro dînatoire"
+            ],
+            [
+              "04/11/2017",
+              "Halloween (homme 40 €)"
+            ],
+            [
+              "25/11/2017",
+              "Photo sexy"
+            ],
+            [
+              "06/01/2018",
+              "Galette des rois"
+            ],
+            [
+              "10/02/2018",
+              "Recto/verso"
+            ],
+            [
+              "17/02/2018",
+              "Saint-Valentin (homme 40 €, tenue correcte exigée)"
+            ],
+            [
+              "14/04/2018",
+              "Black & white"
+            ],
+            [
+              "05/05/2018",
+              "Topless"
+            ],
+            [
+              "26/05/2018",
+              "Barbecue, sur inscription au forum"
+            ],
+            [
+              "30/06/2018",
+              "Élection des plus belles fesses"
+            ],
+            [
+              "18/08/2018",
+              "Blackout aux bracelets fluo"
+            ],
+            [
+              "22/09/2018",
+              "Apéro dînatoire, dernier événement avant l'incendie"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le vendredi 6 juillet 2018, le sauna est resté fermé pour une raison extérieure : une manifestation bloquait la rue. Le forum communautaire du site, forum.saunaeros.fr, servait notamment à s'inscrire à certains rendez-vous ; il est aujourd'hui injoignable."
+        }
+      ],
+      "sources": [
+        "s13",
+        "s5",
+        "s12",
+        "s39",
+        "s40",
+        "s7",
+        "s6"
+      ],
+      "icon": "mask",
+      "summary": "Dix-huit soirées à thème annoncées de février 2017 à septembre 2018, toutes un samedi. La dernière, un apéro dînatoire, a eu lieu le 22 septembre 2018."
+    },
+    {
+      "id": "histoire-sauna-lorenzo-johncafe",
+      "title": "De l'EURL Sauna Lorenzo à JOHNCAFE : un seul changement d'exploitant entre 2007 et 2018",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Depuis 2007, le lieu n'a changé de mains qu'une fois, en 2015, sans changer de nom ni d'adresse. Sa plus ancienne trace remonte à 2006, mais elle ne repose que sur ce que le club disait de lui-même."
+        },
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "Octobre 2006",
+              "text": "Le club cite un film X tourné dans ses murs par Ursus-Video : plus ancienne trace d'activité, rapportée par le seul site du sauna."
+            },
+            {
+              "date": "Janvier 2007",
+              "text": "Création de l'EURL Sauna Lorenzo au 36 Mail des Charmilles, sous l'enseigne « Eros », avec un code d'activité d'entretien corporel (96.04Z)."
+            },
+            {
+              "date": "Juin 2007",
+              "text": "Première capture connue de saunaeros.fr, qui se présente comme le rendez-vous gay et échangiste de la région de Troyes : sauna, hammam, bar, salle vidéo, soirées à thème."
+            },
+            {
+              "date": "2008-2014",
+              "text": "Les pages presse du site citent le magazine Liberty-Naje (septembre 2008), le guide libertin du Petit Futé (édition 2008, p. 152) et le n° 300 de COUPLES magazine ; nous n'avons pas lu ces articles."
+            },
+            {
+              "date": "21 septembre 2015",
+              "text": "JOHNCAFE rachète le fonds de commerce pour 70 000 €, selon l'annonce publiée au BODACC le 29 octobre 2015."
+            },
+            {
+              "date": "Novembre 2015",
+              "text": "Nouveau site, nouveaux horaires à compter du 16 novembre ; le sauna vend aussi des poppers. La dissolution de l'ancien exploitant est publiée le même mois, sa radiation en mars 2016."
+            },
+            {
+              "date": "1er août 2016",
+              "text": "Le sauna ouvre désormais aussi le mardi."
+            },
+            {
+              "date": "Octobre 2016",
+              "text": "Entrée à 10 € sur les créneaux réservés aux hommes pendant tout le mois."
+            },
+            {
+              "date": "Mai 2017",
+              "text": "Lancement d'une carte de fidélité, toujours mentionnée dans la grille de 2018."
+            }
+          ]
+        }
+      ],
+      "sources": [
+        "s17",
+        "s22",
+        "s16",
+        "s3",
+        "s23",
+        "s24",
+        "s21",
+        "s14",
+        "s12",
+        "s8",
+        "s5"
+      ],
+      "icon": "history",
+      "summary": "Deux exploitants seulement : l'EURL Sauna Lorenzo de 2007 à 2015, puis JOHNCAFE, qui a racheté le fonds 70 000 € en septembre 2015."
+    },
+    {
+      "id": "annuaires-et-avis",
+      "title": "Sept annuaires muets sur la fermeture, aucune note exploitable",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Les annuaires n'ont pas suivi : aucun des sept consultés le 16 octobre 2026 ne signale l'incendie ni la fermeture."
+        },
+        {
+          "kind": "list",
+          "items": [
+            "sauna-club-libertin.com garde un texte des années 2000 qui vante un buffet gratuit ;",
+            "lieuxcoquins.fr et gatlass.com reprennent la grille de 2017-2018 ;",
+            "koifaire.com publie un texte de spa passe-partout, avec jacuzzi et massages ;",
+            "mapstr.com et toutendroit.com se limitent pour l'essentiel aux coordonnées ;",
+            "le-site-de.com affiche des horaires de bureau (9h-12h, 14h-18h) sans valeur."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Notre propre annuaire le donnait actif en janvier 2026, parce que le contrôle automatique avait reçu une réponse de saunaeros.fr, qui n'était plus que la page de vente du domaine."
+        },
+        {
+          "kind": "text",
+          "body": "Côté réputation, aucune note publique n'est utilisable : pas d'avis sur lieuxcoquins.fr ni sur gatlass.com, une note de 3,2 sans nombre d'avis ni date sur toutendroit.com, aucune note Google relevée. Le livre d'or du site comptait 1 903 messages en mars 2017, écrits surtout pour annoncer sa venue ou chercher des partenaires, pas pour juger le lieu."
+        },
+        {
+          "kind": "text",
+          "body": "Ce tableau d'annonces a disparu avec le site. Pour chercher des partenaires dans le secteur sans engager d'argent, Gleese, plateforme française lancée fin 2024, s'ouvre sans carte bancaire et vérifie chaque profil par téléphone. Plus récente que les sites historiques, elle réunit moins de membres : l'inscription sert justement à [compter les profils aubois avant de payer quoi que ce soit](aff:gleese)."
+        }
+      ],
+      "sources": [
+        "s30",
+        "s31",
+        "s32",
+        "s33",
+        "s34",
+        "s35",
+        "s1",
+        "s19"
+      ],
+      "icon": "star",
+      "summary": "Aucun des sept annuaires consultés ne signale la fermeture, et aucune note publique avec nombre d'avis et date n'a pu être relevée."
+    }
+  ],
+  "equipements": [
+    "Sauna",
+    "Hammam",
+    "Bar et salon",
+    "Salle vidéo",
+    "Cabines et coins câlins",
+    "Salle S/M",
+    "Croix de Saint-André",
+    "Glory hole",
+    "Vestiaires et douches"
+  ],
+  "officialLinks": [
+    {
+      "label": "Photorama du site officiel (archive d'avril 2018)",
+      "url": "https://web.archive.org/web/20180418074019/http://saunaeros.fr/photorama/",
+      "kind": "galerie"
+    },
+    {
+      "label": "Site officiel saunaeros.fr, archive d'avril 2018",
+      "url": "https://web.archive.org/web/20180419130709/http://saunaeros.fr/",
+      "kind": "site"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Existe-t-il encore un sauna libertin à Troyes ?",
+      "answer": "Pas à notre connaissance. Le Sauna Eros, au 36 Mail des Charmilles, est le seul sauna libertin troyen que nous ayons pu documenter, et il a fermé après un incendie en octobre 2018. Notre annuaire ne recense pas d'autre lieu libertin dans l'Aube ; il liste notamment des saunas à Reims et à Dijon, dont le statut est à vérifier sur leurs fiches."
+    },
+    {
+      "question": "Le Sauna Eros de Troyes va-t-il rouvrir ?",
+      "answer": "Rien ne l'indique. En 2019, le site promettait un nouveau club dans l'agglomération troyenne, mais aucun club n'a été déclaré au nom de la société exploitante, liquidée en 2024 puis radiée d'office en 2025. Le domaine saunaeros.fr est à vendre, et une autre entreprise a son siège au 36 Mail des Charmilles depuis septembre 2024."
+    },
+    {
+      "question": "Quel club libertin fréquenter près de Troyes depuis la fermeture ?",
+      "answer": "En 2019, le site du sauna orientait ses clients vers Le Mille et une Nuits, à Cormost (lieu-dit la Belle Étoile, D444). Son établissement est actif au registre, mais son site est hors ligne depuis fin 2021 et un agrégateur le donne fermé : vérifiez qu'il annonce une soirée récente avant de vous déplacer. Sinon, il faut regarder vers la Côte-d'Or (Dijon, Chenôve) ou la Marne (Reims)."
+    },
+    {
+      "question": "Combien coûtait l'entrée au Sauna Eros ?",
+      "answer": "Selon la dernière grille, d'avril 2018 : sur les créneaux mixtes, gratuit pour les femmes, 20 € pour un couple, 30 € pour un homme seul et 40 € les soirs de soirée spéciale ; sur les créneaux gays, 10 € de 18 à 24 ans et 20 € avec une consommation à partir de 25 ans. Ces prix ont disparu avec la fermeture d'octobre 2018."
+    },
+    {
+      "question": "Le Sauna Eros était-il un sauna gay ou échangiste ?",
+      "answer": "Les deux, à des heures différentes. Dès 2007, le club se présentait comme le rendez-vous gay et échangiste de la région de Troyes. En 2018, le lundi soir et les après-midi du mercredi et du samedi étaient réservés aux hommes ; les autres après-midi de semaine et toutes les soirées du mardi au samedi étaient mixtes."
+    },
+    {
+      "question": "Quel rapport avec le Sauna Eros de Pau ?",
+      "answer": "Aucun lien connu : le sauna de Pau, à l'enseigne « Eros Sauna », est un établissement distinct, exploité au 8 rue René Fournets par une autre société. Il a sa propre fiche dans notre annuaire."
+    }
+  ],
+  "unverified": [
+    "La date exacte de l'incendie (très probablement la nuit du 14 au 15 octobre 2018, déduite de la date de l'annonce), son origine et le détail des dégâts : la seule brève consultée (Champagne FM, janvier 2019) parle d'un établissement « partiellement détruit ».",
+    "Ce qu'a fait la société JOHNCAFE entre l'incendie et sa cessation des paiements de mars 2023.",
+    "La nature du lien entre l'Eros et Le Mille et une Nuits de Cormost : renvoi du site, redirection du domaine et sièges dans la même commune, mais deux sociétés distinctes.",
+    "Le Mille et une Nuits reçoit-il encore du public ? Son site est hors ligne depuis fin 2021 et un agrégateur le donne fermé, sans date.",
+    "La présence d'un jacuzzi, citée dans une seule page de 2018.",
+    "Les reportages que le club disait lui avoir été consacrés (Liberty-Naje, Petit Futé 2008, COUPLES magazine n° 300) : non lus.",
+    "L'existence d'un autre sauna ou club libertin ouvert dans l'Aube en 2026 : une recherche d'octobre 2026 n'a renvoyé que des annuaires non datés.",
+    "Aucune note publique (Google ou autre) n'a pu être relevée."
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "saunaeros.fr aujourd'hui : page « domaine à vendre » (Dovendi)",
+      "url": "https://saunaeros.fr/",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s2",
+      "label": "AFNIC, données RDAP du domaine saunaeros.fr (ré-enregistré le 12/07/2023)",
+      "url": "https://rdap.nic.fr/domain/saunaeros.fr",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s3",
+      "label": "Wayback Machine, historique des captures de saunaeros.fr (2007-2026)",
+      "url": "https://web.archive.org/cdx/search/cdx?url=saunaeros.fr&fl=timestamp,statuscode&collapse=timestamp:6",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s4",
+      "label": "Site officiel, page d'accueil de fermeture (archives de juin et août 2019)",
+      "url": "https://web.archive.org/web/20190614102350/http://saunaeros.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s5",
+      "label": "Site officiel, fil d'actualités (archive du 23/01/2019)",
+      "url": "https://web.archive.org/web/20190123102408/http://saunaeros.fr/feed/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s6",
+      "label": "Site officiel, accueil (archive du 10/01/2019)",
+      "url": "https://web.archive.org/web/20190110053841/https://saunaeros.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s7",
+      "label": "Site officiel, accueil (archives d'avril et septembre 2018)",
+      "url": "https://web.archive.org/web/20180419130709/http://saunaeros.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s8",
+      "label": "Site officiel, « Horaires & Tarifs » (archive du 18/04/2018)",
+      "url": "https://web.archive.org/web/20180418054429/http://saunaeros.fr/horaires-tarifs/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s9",
+      "label": "Site officiel, « Hygiène & règlement » (archive du 18/04/2018)",
+      "url": "https://web.archive.org/web/20180418053903/http://saunaeros.fr/hygiene-reglement/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s10",
+      "label": "Site officiel, « Photorama » (archive du 18/04/2018)",
+      "url": "https://web.archive.org/web/20180418074019/http://saunaeros.fr/photorama/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s11",
+      "label": "Site officiel, « Horaires & Tarifs » (archive du 21/12/2016)",
+      "url": "https://web.archive.org/web/20161221092653/http://saunaeros.fr/horaires-tarifs/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s12",
+      "label": "Site officiel, billets de 2016 à 2018 : ouverture le mardi, dépistage, sas d'entrée, carte de fidélité, happy hour (archives)",
+      "url": "https://web.archive.org/web/20160930163754/http://saunaeros.fr/entrees-moments-reserves-aux-hommes-seront-a-10-euros-mois-doctobre/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s13",
+      "label": "Site officiel, fil d'actualités (archives du 17/11/2017 et du 25/07/2018)",
+      "url": "https://web.archive.org/web/20180725090432/http://saunaeros.fr/feed/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s14",
+      "label": "Site officiel, accueils et billet d'horaires de 2015 (archives)",
+      "url": "https://web.archive.org/web/20150626161426/http://saunaeros.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s15",
+      "label": "Site officiel, pages « Horaires » et « Plan » (archives de mars 2011)",
+      "url": "https://web.archive.org/web/20110319170338/http://saunaeros.fr/eroshoraires.html",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s16",
+      "label": "Site officiel, accueil (archive du 26/06/2007)",
+      "url": "https://web.archive.org/web/20070626073510/http://saunaeros.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s17",
+      "label": "Site officiel, pages presse (archives de 2008, 2013 et 2014)",
+      "url": "https://web.archive.org/web/20081024200809/http://saunaeros.fr/presseros.html",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s18",
+      "label": "Site officiel, « Première fois au sauna EROS » (archive du 26/10/2013)",
+      "url": "https://web.archive.org/web/20131026201821/http://saunaeros.fr/erospremier.php",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s19",
+      "label": "Site officiel, livre d'or (archive du 11/03/2017)",
+      "url": "https://web.archive.org/web/20170311045948/http://saunaeros.fr/livre-dor/comment-page-53/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s20",
+      "label": "Wayback Machine, redirections de saunaeros.fr vers le1001nuits.com (2020-2021)",
+      "url": "https://web.archive.org/web/20210308162729/http://saunaeros.fr/",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s21",
+      "label": "Annuaire des entreprises : JOHNCAFE (SIREN 813 520 228)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/813520228",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s22",
+      "label": "Annuaire des entreprises : EURL Sauna Lorenzo (SIREN 493 621 957)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/493621957",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s23",
+      "label": "BODACC : vente du fonds du 36 Mail des Charmilles (annonce du 29/10/2015)",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A2015020866",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s24",
+      "label": "BODACC : dissolution puis radiation de l'EURL Sauna Lorenzo (2015-2016)",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:B2015021368",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s25",
+      "label": "BODACC : liquidation judiciaire de JOHNCAFE (annonce du 15/09/2024)",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202401791010",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s26",
+      "label": "BODACC : clôture pour insuffisance d'actif et radiation de JOHNCAFE (02/10/2025)",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202501892359",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s27",
+      "label": "Annuaire des entreprises : société installée au 36 Mail des Charmilles depuis le 01/09/2024",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/912552148",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s28",
+      "label": "Annuaire des entreprises : exploitant du Mille et une Nuits à Cormost (SIREN 849 195 250)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/849195250",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s29",
+      "label": "Sites du Mille et une Nuits, Cormost (archives 2018-2021 et état actuel)",
+      "url": "https://web.archive.org/web/20211023075159/https://www.le1001nuits.com/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s30",
+      "label": "sauna-club-libertin.com, fiche « SAUNA EROS »",
+      "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_3.php?id=298&d=10",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s31",
+      "label": "lieuxcoquins.fr, fiche « Eros »",
+      "url": "https://www.lieuxcoquins.fr/lieu/eros/",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s32",
+      "label": "gatlass.com, fiche « Sauna Eros »",
+      "url": "https://www.gatlass.com/place/509/saunaeros/troyes",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s33",
+      "label": "koifaire.com, fiche « Sauna Eros »",
+      "url": "https://www.koifaire.com/champagne-ardenne/sauna,eros-8547.html",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s34",
+      "label": "toutendroit.com, fiche « Sauna Eros »",
+      "url": "https://www.toutendroit.com/article-sauna-eros-1111614/",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s35",
+      "label": "le-site-de.com et mapstr.com, fiches « Sauna Eros »",
+      "url": "https://www.le-site-de.com/sauna-eros-troyes_116221.html",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s36",
+      "label": "Champagne FM, brève du 8 janvier 2019 citant L'Est-Éclair (sauna Eros partiellement détruit par un incendie en octobre, fermé)",
+      "url": "https://www.champagnefm.com/news/un-cadavre-decouvert-dans-un-sauna-echangiste-46111",
+      "type": "presse",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s37",
+      "label": "Annuaire des entreprises : PAU ZEN, enseigne « EROS SAUNA », 8 rue René Fournets à Pau (SIREN 523 665 149)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/523665149",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s38",
+      "label": "Restaurant Guru, fiche « Le Mille et une Nuits, Cormost »",
+      "url": "https://restaurantguru.com/Le-Mille-et-une-Nuits-Cormost",
+      "type": "annuaire",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s39",
+      "label": "Site officiel, rubrique « Actualités » (archive du 12/03/2017) : soirées body painting, masque et domination",
+      "url": "https://web.archive.org/web/20170312140243/http://saunaeros.fr/category/non-classe/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s40",
+      "label": "Site officiel, fil d'actualités (archive du 01/07/2017) : barbecue du 1er juillet 2017, happy hour gay",
+      "url": "https://web.archive.org/web/20170701061544/http://saunaeros.fr/feed/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    }
+  ]
+}

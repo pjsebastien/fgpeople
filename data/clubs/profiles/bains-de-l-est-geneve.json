@@ -1,0 +1,1013 @@
+{
+  "slug": "bains-de-l-est-geneve",
+  "clubId": "384",
+  "researchedAt": "2026-10-19",
+  "display": {
+    "nom": "Les Bains de l'Est",
+    "ville": "Genève"
+  },
+  "status": {
+    "value": "ouvert",
+    "summary": "Le 6 octobre 2026, le club a ajouté à son agenda une « Halloween Mega Mixte Mousse Party » pour le samedi 24 octobre, puis a modifié le 12 octobre la fiche de ses lundis LGBTQIA+. Le 19 octobre 2026, le site affichait le programme du jour et le magazine 360° relayait ses soirées jusqu'au 22 novembre ; nous n'avons relevé aucun indice de fermeture.",
+    "sources": [
+      "s1",
+      "s8",
+      "s32"
+    ]
+  },
+  "seo": {
+    "title": "Les Bains de l'Est, Genève : sauna gay et libertin, jours et prix",
+    "metaDescription": "Sauna gay des Eaux-Vives, mixte le mardi et le vendredi, échangiste le dernier samedi à 100 CHF le couple : programme, prix 2026 et accès en tram.",
+    "subtitle": "Sauna et sex club gay des Eaux-Vives, avec journées mixtes et une soirée échangiste par mois",
+    "targetQueries": [
+      "club libertin geneve",
+      "sauna libertin geneve",
+      "bains de l'est geneve",
+      "bains de l'est tarifs",
+      "bains de l'est soirée échangiste"
+    ]
+  },
+  "lead": "Ouverts depuis 1999 selon leurs propres dires, les Bains de l'Est sont d'abord un sauna gay du quartier des Eaux-Vives, dont le magazine romand 360° raconte les soirées depuis 2006. Leur agenda prévoit pourtant deux journées mixtes par semaine, le mardi et le vendredi (15 CHF l'entrée femme, 40 CHF le couple) et, le dernier samedi du mois, une soirée échangiste réservée aux couples homme-femme, à 100 CHF. C'est donc une adresse à moitié libertine : tout dépend du jour.",
+  "glance": [
+    {
+      "icon": "calendar",
+      "label": "Ouvert",
+      "value": "Tous les jours, dès 12h (14h le week-end)"
+    },
+    {
+      "icon": "users",
+      "label": "Jours mixtes",
+      "value": "Mardi, vendredi ; jeudi ouvert à tous"
+    },
+    {
+      "icon": "couple",
+      "label": "Soirée couples",
+      "value": "Dernier samedi, 21h-4h, 100 CHF"
+    },
+    {
+      "icon": "euro",
+      "label": "Entrée femme / couple",
+      "value": "15 / 40 CHF (mardi, jeudi, vendredi)"
+    },
+    {
+      "icon": "euro",
+      "label": "Entrée homme",
+      "value": "39 CHF"
+    },
+    {
+      "icon": "history",
+      "label": "Depuis",
+      "value": "1999 selon le club ; attesté dès 2006",
+      "confidence": "source_unique"
+    }
+  ],
+  "audience": [
+    {
+      "who": "couples",
+      "status": "selon",
+      "detail": "Tarif couple le mardi, le jeudi et le vendredi ; seuls admis le dernier samedi soir",
+      "price": "40 à 100 CHF"
+    },
+    {
+      "who": "femmes",
+      "status": "selon",
+      "detail": "Mardi, jeudi et vendredi ; prix des autres jours non affiché",
+      "price": "15 CHF"
+    },
+    {
+      "who": "hommes",
+      "status": "oui",
+      "detail": "Tous les jours, public surtout gay ; exclus de la soirée couples du dernier samedi",
+      "price": "39 CHF"
+    },
+    {
+      "who": "trans",
+      "status": "selon",
+      "detail": "Lundi inclusif LGBTQIA+ ; la page anglaise cite les trans aux mardis et vendredis mixtes",
+      "price": "39 CHF"
+    }
+  ],
+  "highlights": [
+    "C'est d'abord un sauna gay : seuls le mardi et le vendredi sont annoncés mixtes, le jeudi et le troisième samedi ouverts à tous.",
+    "La soirée échangiste du dernier samedi (21h-4h, 100 CHF) est réservée aux couples homme-femme : on entre et on ressort à deux.",
+    "Les prix femme (15 CHF) et couple (40 CHF) ne sont affichés que pour le mardi, le jeudi et le vendredi.",
+    "Le dimanche, l'heure de fermeture varie selon les pages du site (1h ou minuit) : appelez le +41 22 786 33 00 avant de venir tard.",
+    "Prix en francs suisses ; paiement en espèces ou par carte, mais pas d'American Express."
+  ],
+  "keyFacts": [
+    {
+      "label": "Nature du lieu",
+      "value": "Sauna et sex club gay, avec journées mixtes et soirée échangiste mensuelle",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s6",
+        "s8",
+        "s20"
+      ]
+    },
+    {
+      "label": "Ouverture",
+      "value": "1999 selon le club ; cité par la presse dès 2006",
+      "confidence": "source_unique",
+      "sources": [
+        "s1",
+        "s15"
+      ]
+    },
+    {
+      "label": "Jours mixtes",
+      "value": "Mardi et vendredi ; jeudi et troisième samedi ouverts à tous",
+      "confidence": "confirme",
+      "sources": [
+        "s8",
+        "s5"
+      ]
+    },
+    {
+      "label": "Soirée couples",
+      "value": "Dernier samedi du mois, 21h à 4h, couples homme-femme, 100 CHF",
+      "confidence": "confirme",
+      "sources": [
+        "s8",
+        "s2"
+      ]
+    },
+    {
+      "label": "Entrée homme",
+      "value": "39 CHF",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "label": "Entrée femme / couple",
+      "value": "15 CHF / 40 CHF, le mardi, le jeudi et le vendredi",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "label": "Accès",
+      "value": "Eaux-Vives, rive gauche ; tram 12, arrêt Terrassière",
+      "confidence": "confirme",
+      "sources": [
+        "s3",
+        "s7",
+        "s10"
+      ]
+    },
+    {
+      "label": "Exploitant",
+      "value": "Tzara Productions SA, société genevoise dont le siège est au 3 rue de l'Est",
+      "confidence": "confirme",
+      "sources": [
+        "s27",
+        "s28",
+        "s29",
+        "s30"
+      ]
+    },
+    {
+      "label": "Réseau professionnel",
+      "value": "Membre de VEGAS, l'association des établissements gay suisses",
+      "confidence": "source_unique",
+      "sources": [
+        "s21"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "sauna-gay-jours-mixtes",
+      "title": "Un sauna gay qui devient mixte le mardi et le vendredi",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Si vous cherchez un club libertin à Genève, sachez d'abord ce que sont les Bains de l'Est : un sauna gay, historiquement, qui partage aujourd'hui sa semaine entre clientèle masculine et journées mixtes. En janvier 2015, le titre de son site était « Sauna gay Geneva » ; un an plus tard, son pied de page indiquait « Sex-club + Sauna Gay »."
+        },
+        {
+          "kind": "text",
+          "body": "Le gérant qui l'a repris en 2012 expliquait à 360°, en avril 2015, avoir voulu préserver un sauna gay à Genève ; en 2021, le guide genevois du même magazine décrivait encore un public « gay, ou mixte certains jours »."
+        },
+        {
+          "kind": "text",
+          "body": "Le site actuel joue sur les deux registres. L'accueil aligne les mots sex club, sauna, gay, échangisme et libertin ; une page « Gay » se dit la référence du sex club gay genevois, une page « Hétéro » s'adresse aux libertins et aux épicuriens.\n\nLes partenaires affichés en bas de page reflètent ce grand écart :\n- côté gay, le magazine LGBT 360°, l'association VEGAS (dont la liste des membres inclut bien les Bains), Mens Go et Bear www ;\n- côté libertin, Nouslibertins, dont la fiche consacrée au club a été supprimée, et Wyylde."
+        },
+        {
+          "kind": "text",
+          "body": "Le lien vers Wyylde mène à une page au nom des Bains, que nous n'avons pas pu lire : elle exige d'être connecté. Pour la consulter, il faut un compte sur [le réseau libertin que le club affiche parmi ses partenaires](aff:wyylde), l'ancien Netéchangisme, en ligne depuis 2001 et rebaptisé en 2018.\n\nLe compte gratuit y donne accès à l'agenda des soirées en club, mais pas à la réponse aux messages, réservée aux abonnés."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s5",
+        "s6",
+        "s7",
+        "s10",
+        "s11",
+        "s14",
+        "s20",
+        "s21"
+      ],
+      "icon": "users",
+      "summary": "Sauna gay à l'origine (« Sauna gay Geneva » en 2015), le lieu partage aujourd'hui sa semaine entre clientèle masculine et journées mixtes, et se dit aussi libertin."
+    },
+    {
+      "id": "semaine-agenda",
+      "title": "Lundi LGBTQIA+, vendredi mixte, samedi Bear : la semaine telle que l'agenda la découpe",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "L'agenda officiel, tenu à jour en octobre 2026, attribue à chaque jour une soirée et une ou plusieurs catégories (Gay, Hétéro, Femmes, Mixte). Nous n'avons trouvé sur le site aucune règle d'admission écrite selon les jours : ces catégories sont la meilleure indication du public attendu."
+        },
+        {
+          "kind": "table",
+          "caption": "Programme récurrent relevé dans l'agenda officiel les 16 et 19 octobre 2026",
+          "headers": [
+            "Jour",
+            "Soirée annoncée",
+            "Catégories de l'agenda",
+            "Horaires"
+          ],
+          "rows": [
+            [
+              "Lundi",
+              "LGBTQIA+, journée inclusive",
+              "Gay",
+              "12h à 1h"
+            ],
+            [
+              "Mardi",
+              "Mixte mardi",
+              "Femmes, Hétéro, Mixte",
+              "12h à 2h"
+            ],
+            [
+              "Mercredi",
+              "Gay Mousse Party, mousse au sous-sol dès 20h",
+              "Gay",
+              "12h à 1h"
+            ],
+            [
+              "Jeudi",
+              "Jeudi ouvert à tous, en lingerie, jockstrap ou nu",
+              "Femmes, Gay, Hétéro, Mixte",
+              "12h à 2h"
+            ],
+            [
+              "Vendredi",
+              "Mixte vendredi",
+              "Femmes, Hétéro, Mixte",
+              "12h à 4h"
+            ],
+            [
+              "1er samedi",
+              "Naked / Blackout, nu et sans lumière dès 23h",
+              "Gay",
+              "14h à 4h"
+            ],
+            [
+              "2e samedi",
+              "Bear, en-cas offerts et mousse dès 20h",
+              "Gay",
+              "14h à 4h"
+            ],
+            [
+              "3e samedi",
+              "Samedi pour tous",
+              "Femmes, Gay, Hétéro, Mixte",
+              "14h à 4h"
+            ],
+            [
+              "Dernier samedi",
+              "Après-midi gays et lesbiennes, puis soirée échangiste et mousse",
+              "Femmes, Gay, Hétéro, Mixte",
+              "14h à 19h, puis 21h à 4h"
+            ],
+            [
+              "Dimanche",
+              "Deux ambiances : zone serviette et « cage » nue de 15h à 19h, pâtisseries dès 16h",
+              "Gay",
+              "dès 14h"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Pour une sortie libertine, quatre créneaux comptent :\n- le **mardi** et le **vendredi**, dont les textes d'agenda s'adressent d'abord aux femmes venues rencontrer des hommes ; le vendredi ferme à 4h, comme le samedi ;\n- le **jeudi** et le **troisième samedi**, ouverts à tous, gays et hétéros mêlés ;\n- le **dernier samedi soir**, seul créneau réservé aux couples.\n\nCertains mois, un samedi « Mega Mixte » s'intercale : le 22 novembre 2025, le 24 janvier 2026 (mousse de 22h à 4h) et le 24 octobre 2026 pour Halloween, avec accès dès 14h et mousse à partir de 22h."
+        },
+        {
+          "kind": "text",
+          "body": "Le magazine 360° reprend ce programme dans son agenda : au 19 octobre 2026, il annonçait la mousse de chaque mercredi à 20h jusqu'au 18 novembre, le Naked Blackout du 7 novembre et la soirée Bears du 14. Le dimanche y prend le nom de « Cake Party et Zone Naked »."
+        }
+      ],
+      "sources": [
+        "s8",
+        "s1",
+        "s5",
+        "s32"
+      ],
+      "icon": "calendar",
+      "summary": "Lundi LGBTQIA+, mercredi mousse gay, mardi et vendredi mixtes, jeudi ouvert à tous ; le samedi change chaque semaine, du Naked gay à la soirée échangiste."
+    },
+    {
+      "id": "soiree-echangiste-dernier-samedi",
+      "title": "Le dernier samedi du mois : 100 CHF le couple, entrée et sortie à deux",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "C'est le rendez-vous qui ressemble le plus à un club échangiste. Le dernier samedi de chaque mois, de 21h à 4h, la « Soirée Échangistes & Mousse Party » est réservée aux couples homme-femme : on y entre à deux et on en ressort à deux, précise la fiche de l'agenda. L'entrée coûte 100 CHF par couple, buffet compris."
+        },
+        {
+          "kind": "text",
+          "body": "Prochaines dates inscrites au 19 octobre 2026 : **31 octobre, 28 novembre et 26 décembre 2026, puis 30 janvier 2027**. Le club ayant fermé les 24 et 31 décembre 2025, confirmez la date de décembre au +41 22 786 33 00."
+        },
+        {
+          "kind": "text",
+          "body": "Le même samedi, l'après-midi (14h-19h) reste une journée gays et lesbiennes à 25 CHF : le lieu change de public en début de soirée.\n\nLe prix du soir n'a pas bougé en dix ans. L'archive du site de janvier 2016 affichait déjà 100 CHF par couple, tout comme la grille de juin 2021, alors que l'entrée journalière est passée de 32 à 39 CHF sur la même période."
+        },
+        {
+          "kind": "list",
+          "title": "Deux points à vérifier avant de venir",
+          "items": [
+            "**La réduction jeunes** : moitié prix, mais pour les moins de 26 ans selon la page tarifs, pour les moins de 30 ans (pièce d'identité à l'appui) selon la fiche de la soirée.",
+            "**Le champagne** : un annuaire en ligne promet encore champagne et buffet offerts ; la fiche actuelle du club ne mentionne que le buffet."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Si aucun couple de votre entourage n'est tenté, Carré Libertin, en ligne depuis 2007 et entièrement gratuit pour les couples qui publient trois photos de profil, permet de [proposer la soirée des Eaux-Vives à un second couple](aff:carre-libertin). Combien de ses membres vivent dans le bassin genevois, nous l'ignorons : une recherche par localisation vous le dira."
+        }
+      ],
+      "sources": [
+        "s8",
+        "s2",
+        "s10",
+        "s12",
+        "s22"
+      ],
+      "icon": "couple",
+      "summary": "Dernier samedi du mois, 21h-4h : couples homme-femme uniquement, 100 CHF buffet compris, prix inchangé depuis 2016. Prochaines dates : 31 octobre, 28 novembre, 26 décembre."
+    },
+    {
+      "id": "grille-tarifs-2026",
+      "title": "Femme à 15 CHF trois jours sur sept, homme à 39 : sept francs de plus qu'en 2016",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "La grille complète figure dans l'encadré des tarifs. Quelques lignes demandent une lecture attentive :\n- **Les tarifs femme (15 CHF) et couple (40 CHF) ne valent que le mardi, le jeudi et le vendredi.** La page ne dit pas ce que paient une femme ou un couple les autres jours.\n- **Moins de 26 ans** : 25 CHF du mardi au samedi, rien à payer le lundi et le dimanche à condition de consommer au bar. La mention « Gratuit » des dimanches dans l'agenda renvoie sans doute à cette règle : la grille ne prévoit pas d'entrée gratuite pour tous.\n- **Le mercredi**, l'entrée passe de 39 à 20 CHF avec la [carte de fidélité](https://www.adelyashop.com/Adelyaview/bainsdelest/signup/Les-Bains-de-l%27Est.html?lang=fr), gratuite.\n- **Dix entrées pour 290 CHF**, valables un an, ramènent l'entrée à 29 CHF ; ce forfait coûtait déjà 290 CHF en juin 2021, quand l'entrée simple valait 35 CHF.\n- **Paiement** en espèces ou par carte, sauf American Express, une exclusion déjà affichée en 2016."
+        },
+        {
+          "kind": "table",
+          "caption": "Dix ans de tarifs, d'après les archives du site officiel",
+          "headers": [
+            "Tarif",
+            "Janvier 2016",
+            "Juin 2021",
+            "Octobre 2026"
+          ],
+          "rows": [
+            [
+              "Entrée journalière (homme en 2026)",
+              "32 CHF",
+              "35 CHF",
+              "39 CHF"
+            ],
+            [
+              "Entrée femme",
+              "10 CHF (mardi, vendredi)",
+              "11 CHF (mardi, jeudi, vendredi)",
+              "15 CHF (mardi, jeudi, vendredi)"
+            ],
+            [
+              "Soirée échangiste, par couple",
+              "100 CHF",
+              "100 CHF",
+              "100 CHF"
+            ],
+            [
+              "Dix entrées",
+              "265 CHF",
+              "290 CHF",
+              "290 CHF"
+            ],
+            [
+              "Massage, une heure",
+              "80 CHF",
+              "80 CHF",
+              "100 CHF"
+            ]
+          ]
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Ignorez la version anglaise du site",
+          "body": "Elle n'a pas suivi les mises à jour : on y lit encore une entrée à 25 CHF tous les jours pour les moins de 26 ans, un vendredi soir à 50 CHF pour les non-membres et un dimanche de 16h à minuit. La version française, dont la page tarifs a été modifiée le 19 mai 2025, fait foi."
+        }
+      ],
+      "sources": [
+        "s2",
+        "s1",
+        "s7",
+        "s8",
+        "s9",
+        "s10",
+        "s12",
+        "s23"
+      ],
+      "icon": "euro",
+      "summary": "Homme 39 CHF ; femme 15 CHF et couple 40 CHF le mardi, le jeudi et le vendredi ; moins de 26 ans 25 CHF. L'entrée journalière a pris 7 CHF depuis 2016."
+    },
+    {
+      "id": "jacuzzi-hammam-sous-sol",
+      "title": "Jacuzzi, hammam, cabines et un sous-sol réservé à la mousse",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Voici l'équipement tel que le club le décrit dans sa galerie, organisée en cinq rubriques (entrée, vestiaire et douches ; bar ; espace bien-être ; club ; communauté). Nous en avons lu les textes ; les photos ne sont pas commentées ici."
+        },
+        {
+          "kind": "list",
+          "items": [
+            "**Accueil et vestiaires** : vestiaires sécurisés, serviettes et paréos fournis, douches, sanitaires et un coin beauté (sèche-cheveux, rasoirs, lait hydratant, gel).",
+            "**Espace bien-être** : un sauna, un hammam avec douche froide et recoins, et un jacuzzi que le club présente comme le plus grand de Suisse dans un sex club, ce que nous n'avons pas pu vérifier. Le guide de 360° parlait en 2021 d'un « grand jacuzzi ».",
+            "**Espace club** : cabines ouvertes, fermées ou ajourées, slings, glory holes, tables tournantes, salon télé, accès internet et fumoir ; l'agenda du mercredi évoque aussi des labyrinthes.",
+            "**Sous-sol** : il accueille les mousse parties du mercredi et du samedi Bear, à partir de 20h.",
+            "**Bar** avec barmans et musique, réaménagé à la réouverture de juin 2020 selon 360°.",
+            "**Massages** de midi à 21h, sur réservation par téléphone.",
+            "**Selon le guide Travel Gay**, dans un texte non daté que le club ne reprend pas : une salle de fitness, un solarium et un labyrinthe de 500 m², dans un lieu dit « récemment rénové »."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le club met en avant des caméras, des surveillants et des boutons d'alerte, et se réserve le droit de refuser l'entrée en cas de comportement jugé déplacé ou suspect, ou quand l'affluence est trop forte."
+        }
+      ],
+      "sources": [
+        "s4",
+        "s1",
+        "s2",
+        "s8",
+        "s18",
+        "s20",
+        "s34"
+      ],
+      "icon": "spa",
+      "summary": "Sauna, hammam, jacuzzi que le club dit le plus grand de Suisse dans un sex club, cabines, slings, glory holes, fumoir et un sous-sol dédié aux mousse parties."
+    },
+    {
+      "id": "avis-google-travel-gay",
+      "title": "4,2 sur 5 pour 201 avis Google selon Wanderlog, et un bracelet qui sert de clé",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Nous n'avons pas consulté la fiche Google du lieu nous-mêmes. Au 19 octobre 2026, l'agrégateur Wanderlog lui attribue 4,2/5 sur 201 avis Google, dont 138 à cinq étoiles et 23 à une étoile : une note à prendre avec cette réserve."
+        },
+        {
+          "kind": "text",
+          "body": "Le guide Travel Gay publie quatre avis, de mai 2017 à janvier 2020, qui saluent la propreté, l'équipe et la mousse party. Celui de juin 2019 précise que le bracelet remis à l'entrée sert de clé de casier et enregistre les consommations du bar, réglées en sortant."
+        },
+        {
+          "kind": "text",
+          "body": "Les sept témoignages de l'accueil du site, qui louent surtout la propreté et l'accueil, sont des extraits choisis par le club, pas des avis vérifiables."
+        }
+      ],
+      "sources": [
+        "s33",
+        "s34",
+        "s1"
+      ],
+      "icon": "star",
+      "summary": "Wanderlog relaie 4,2/5 sur 201 avis Google au 19 octobre 2026, une note que nous n'avons pas lue sur Google ; les avis Travel Gay de 2017 à 2020 louent la propreté."
+    },
+    {
+      "id": "eaux-vives-et-frontiere",
+      "title": "Tram 12 jusqu'à Terrassière, et les autres adresses de part et d'autre de la frontière",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Les Bains occupent le 3 rue de l'Est, dans le quartier des Eaux-Vives, sur la rive gauche. Pour y venir, le club indique le tram 12 ou les bus 1, 2, 5 et 10, arrêts Terrassière ou Place des Eaux-Vives. Il ne dit rien du stationnement, et un avis publié en 2017 sur Travel Gay signalait la difficulté à se garer."
+        },
+        {
+          "kind": "text",
+          "body": "Dans le canton, notre annuaire ne recense pas d'autre établissement, mais deux adresses existent, toutes deux membres de VEGAS comme les Bains :\n- le **Sauna Les Avanchets**, à Vernier près de l'aéroport, dont le site annonce une ouverture mixte tous les jours sauf le dimanche ;\n- le **Cruising Canyon**, club de cruising réservé aux hommes, ouvert du jeudi au dimanche."
+        },
+        {
+          "kind": "text",
+          "body": "Côté français, nous recensons le [King Sauna à Ambilly](/king-sauna-ambilly), que 360° rangeait en 2021 parmi les adresses gay situées juste après la frontière, et [Le Loving à Annemasse](/le-loving-annemasse) ; leur activité n'a pas été vérifiée pour cette fiche. Les autres lieux du département sont réunis sur [notre page Haute-Savoie](/departement/haute-savoie).\n\nEn Suisse, le [sauna New Relax de Lausanne](/sauna-new-relax-suisse), autre membre de VEGAS, complète [la sélection suisse de l'annuaire](/etranger/suisse). Toujours à Lausanne, le Trafick, avenue de Tivoli, se présente comme un club libertin doublé d'un donjon BDSM ; il ne figure pas encore dans notre annuaire."
+        }
+      ],
+      "sources": [
+        "s3",
+        "s7",
+        "s20",
+        "s21",
+        "s24",
+        "s25",
+        "s34",
+        "s35"
+      ],
+      "icon": "map",
+      "summary": "3 rue de l'Est, aux Eaux-Vives : tram 12 ou bus 1, 2, 5 et 10 jusqu'à Terrassière. Alentour : Les Avanchets à Vernier, le King Sauna et Le Loving côté français."
+    },
+    {
+      "id": "histoire-depuis-2006",
+      "title": "De la soirée « Q Nu » de 2006 à la mousse d'Halloween 2026",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le club dit exister depuis 1999 ; nous n'avons trouvé aucune trace antérieure à 2006, année de la première capture de son domaine par les archives du web et du plus ancien article de 360° que nous ayons lu sur ses soirées."
+        },
+        {
+          "kind": "text",
+          "body": "Le site n'a pas de mentions légales, et aucune société ne porte le nom des Bains au registre du commerce. L'exploitant est Tzara Productions SA : les données cantonales genevoises la donnent comme raison sociale des Bains, les annuaires téléphoniques suisses la rattachent au numéro du club, et son siège est au 3 rue de l'Est.\n\nSes statuts du 27 mars 2024 lui donnent pour but la gestion et l'exploitation de saunas et de restaurants. Elle s'appelait auparavant Holding Advest SA ; les données cantonales genevoises la désignaient déjà comme raison sociale des Bains en 2021."
+        },
+        {
+          "kind": "text",
+          "body": "Deux rendez-vous traversent les époques : le samedi nu du début de mois, appelé « Q Nu » en 2006 et « Naked / Blackout » aujourd'hui, et la soirée bear, désormais fixée au deuxième samedi."
+        },
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "1999",
+              "text": "Année d'ouverture revendiquée par le club, sans autre source."
+            },
+            {
+              "date": "Juillet 2006",
+              "text": "Première capture de bainsdelest.ch par les archives du web. La même année, 360° décrit la soirée « Q Nu » des premiers samedis du mois."
+            },
+            {
+              "date": "Septembre 2007",
+              "text": "Dans un article consacré aux Swissbears, 360° écrit que les soirées bear des Bains « font le plein »."
+            },
+            {
+              "date": "2012",
+              "text": "Reprise par un nouveau gérant, qui dira avoir voulu assurer une continuité et garder un sauna gay à Genève."
+            },
+            {
+              "date": "Janvier 2015",
+              "text": "Le site s'intitule « Sauna gay Geneva », mais l'agenda propose déjà des journées mixtes et un samedi gay jusqu'à 19h, hétéro dès 21h. 360° signale en mars la naked party du premier samedi."
+            },
+            {
+              "date": "Avril 2015",
+              "text": "Reportage de 360° : clientèle de 30 à 40 ans en moyenne, difficulté à attirer les jeunes, et des clients hétérosexuels que le gérant juge parfois délicats à encadrer, notamment à cause de l'alcool."
+            },
+            {
+              "date": "Fin 2016 - début 2017",
+              "text": "Création des pages du site actuel ; les soirées récurrentes de l'agenda sont créées en janvier 2018."
+            },
+            {
+              "date": "Janvier 2020",
+              "text": "Dans l'émission Question Q du 17 janvier, la RTS consacre un reportage radio de près de onze minutes à ce « sex spa » genevois, dont le patron fait visiter les couloirs."
+            },
+            {
+              "date": "6 juin 2020",
+              "text": "Réouverture après le premier confinement : bar réaménagé, casiers redistribués, consignes affichées du jacuzzi au hammam et au fumoir."
+            },
+            {
+              "date": "26 octobre 2020",
+              "text": "Les Bains suspendent leur activité à partir de ce lundi, face à la deuxième vague de Covid-19, selon 360°."
+            },
+            {
+              "date": "Mai 2021",
+              "text": "Le guide LGBTQ+ de 360° décrit un complexe de saunas au public gay, mixte certains jours."
+            },
+            {
+              "date": "Mars 2024",
+              "text": "Tzara Productions SA, la société qui exploite les Bains, adopte de nouveaux statuts : son but devient la gestion et l'exploitation de saunas et de restaurants."
+            },
+            {
+              "date": "Octobre 2026",
+              "text": "Halloween Mega Mixte Mousse Party le 24 octobre, soirée échangiste le 31."
+            }
+          ]
+        }
+      ],
+      "sources": [
+        "s1",
+        "s8",
+        "s9",
+        "s10",
+        "s11",
+        "s13",
+        "s14",
+        "s15",
+        "s16",
+        "s17",
+        "s18",
+        "s19",
+        "s20",
+        "s26",
+        "s27",
+        "s28",
+        "s29",
+        "s30",
+        "s31"
+      ],
+      "icon": "history",
+      "summary": "Revendiqué depuis 1999, attesté depuis 2006, repris en 2012, suspendu en octobre 2020 (Covid) ; exploité par Tzara Productions SA, dont le but est depuis 2024 les saunas."
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Lundi": "12h à 1h",
+      "Mardi": "12h à 2h",
+      "Mercredi": "12h à 1h",
+      "Jeudi": "12h à 2h",
+      "Vendredi": "12h à 4h",
+      "Samedi": "14h à 4h (dernier samedi : soirée couples de 21h à 4h)",
+      "Dimanche": "14h à 1h (minuit selon la page contact)"
+    },
+    "note": "Horaires de la page d'accueil (mise à jour le 20 septembre 2025), relevés les 16 et 19 octobre 2026. Pour le dimanche, l'accueil et l'agenda indiquent 1h, la page contact minuit. En 2025, l'agenda a annoncé des fermetures exceptionnelles le 23 octobre, le 24 et le 31 décembre.",
+    "confidence": "confirme",
+    "sources": [
+      "s1",
+      "s3",
+      "s8",
+      "s9"
+    ]
+  },
+  "tarifs": {
+    "rows": {
+      "Entrée homme": "39 CHF (« welcome back » gratuit)",
+      "Entrée femme": "15 CHF le mardi, le jeudi et le vendredi",
+      "Couple homme-femme": "40 CHF le mardi, le jeudi et le vendredi",
+      "Moins de 26 ans": "25 CHF du mardi au samedi ; gratuit le lundi et le dimanche avec une consommation au bar",
+      "Midi (12h-14h)": "25 CHF",
+      "Après 21h, dimanche et lundi": "30 CHF",
+      "Mercredi": "39 CHF, 20 CHF avec la carte de fidélité",
+      "Samedis Naked et Bear": "39 CHF ; 30 CHF de 23h à minuit (Naked) ou de 19h à 20h (Bear)",
+      "Samedi Mega Mixte": "39 CHF",
+      "Soirée échangiste (dernier samedi)": "100 CHF par couple, buffet offert",
+      "Après-midi du dernier samedi (14h-19h)": "25 CHF",
+      "Abonnement 10 entrées": "290 CHF, valable un an",
+      "Massage": "100 CHF l'heure, 60 CHF la demi-heure",
+      "Paiement": "Espèces ou carte, sauf American Express"
+    },
+    "note": "Francs suisses. Page tarifs modifiée le 19 mai 2025 et agenda, relevés les 16 et 19 octobre 2026. Le prix des femmes et des couples n'est indiqué que pour le mardi, le jeudi et le vendredi.",
+    "confidence": "confirme",
+    "sources": [
+      "s1",
+      "s2",
+      "s8"
+    ]
+  },
+  "equipements": [
+    "Sauna",
+    "Hammam avec douche froide",
+    "Jacuzzi",
+    "Bar",
+    "Vestiaires sécurisés",
+    "Serviettes et paréos fournis",
+    "Douches",
+    "Coin beauté",
+    "Cabines ouvertes, fermées et ajourées",
+    "Slings",
+    "Glory holes",
+    "Salle de mousse party au sous-sol",
+    "Labyrinthes",
+    "Salon télé",
+    "Accès internet",
+    "Fumoir",
+    "Massages sur réservation"
+  ],
+  "officialLinks": [
+    {
+      "label": "Site officiel",
+      "url": "https://bainsdelest.ch/",
+      "kind": "site"
+    },
+    {
+      "label": "Agenda des soirées",
+      "url": "https://bainsdelest.ch/events/",
+      "kind": "agenda"
+    },
+    {
+      "label": "Galerie officielle : vestiaires, bar, bien-être, club",
+      "url": "https://bainsdelest.ch/galerie/",
+      "kind": "galerie"
+    },
+    {
+      "label": "Grille des tarifs",
+      "url": "https://bainsdelest.ch/tarifs/",
+      "kind": "autre"
+    },
+    {
+      "label": "Facebook (connexion requise)",
+      "url": "https://www.facebook.com/LesBainsDeLEst/",
+      "kind": "facebook"
+    },
+    {
+      "label": "Instagram",
+      "url": "https://www.instagram.com/bainsdelest/",
+      "kind": "instagram"
+    },
+    {
+      "label": "X (ex-Twitter)",
+      "url": "https://twitter.com/bainsdelest",
+      "kind": "x"
+    }
+  ],
+  "corrections": {
+    "code_postal": "1207",
+    "telephone": "+41 22 786 33 00",
+    "site_web": "https://bainsdelest.ch/",
+    "sources": [
+      "s1",
+      "s3"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Les Bains de l'Est sont-ils un club libertin ?",
+      "answer": "En partie seulement. C'est d'abord un sauna gay, mais l'agenda prévoit des journées mixtes le mardi et le vendredi, un jeudi et un troisième samedi ouverts à tous, et une soirée échangiste réservée aux couples homme-femme le dernier samedi du mois, de 21h à 4h, à 100 CHF."
+    },
+    {
+      "question": "Une femme seule peut-elle venir aux Bains de l'Est ?",
+      "answer": "Oui : les textes des journées mixtes du mardi et du vendredi s'adressent explicitement aux femmes, qui paient 15 CHF ces jours-là ainsi que le jeudi. Pour une première visite, vous pouvez aussi venir accompagnée, et même en couple au samedi échangiste : sur Gleese, site libertin français lancé fin 2024, on peut [choisir un cavalier parmi des profils vérifiés](aff:gleese), chaque inscrit validant son numéro de téléphone et chaque photo étant modérée à la main. L'inscription ne demande pas de carte bancaire ; le nombre de membres côté genevois, lui, reste à découvrir."
+    },
+    {
+      "question": "Combien coûte l'entrée aux Bains de l'Est ?",
+      "answer": "39 CHF pour un homme ; 15 CHF pour une femme et 40 CHF pour un couple homme-femme le mardi, le jeudi et le vendredi ; 25 CHF pour les moins de 26 ans du mardi au samedi, et rien le lundi et le dimanche avec une consommation au bar ; 100 CHF par couple pour la soirée échangiste. Tarifs relevés le 16 et revérifiés le 19 octobre 2026."
+    },
+    {
+      "question": "Jusqu'à quelle heure les Bains de l'Est sont-ils ouverts le dimanche ?",
+      "answer": "L'ouverture est à 14h ; la fermeture est annoncée à 1h sur l'accueil et dans l'agenda, mais à minuit sur la page contact (la version anglaise, périmée, indique même 16h-minuit). Pour ne pas être pris de court, appelez le +41 22 786 33 00."
+    },
+    {
+      "question": "Comment venir aux Bains de l'Est en transports publics ?",
+      "answer": "Tram 12 ou bus 1, 2, 5 et 10 jusqu'à l'arrêt Terrassière ou Place des Eaux-Vives, les arrêts que le club indique pour rejoindre le 3 rue de l'Est, 1207 Genève."
+    },
+    {
+      "question": "À quoi sert la carte de fidélité ?",
+      "answer": "Gratuite, elle donne des points, des réductions et un accès facilité les jours d'affluence ; le mercredi, elle fait passer l'entrée de 39 à 20 CHF. Les grilles de 2016 et 2021 subordonnaient le « welcome back » gratuit à la présentation d'une carte ; la grille actuelle ne reprend plus cette condition."
+    }
+  ],
+  "unverified": [
+    "Note Google lue sur la plateforme elle-même : non relevée (4,2/5 sur 201 avis selon l'agrégateur Wanderlog au 19 octobre 2026).",
+    "Date à laquelle Tzara Productions SA a commencé à exploiter les Bains : non publiée (la société figure déjà dans les données cantonales de 2021).",
+    "Prix d'entrée des femmes et des couples le lundi, le mercredi, le samedi et le dimanche.",
+    "Âge du tarif jeune à la soirée échangiste : moins de 26 ans (page tarifs) ou moins de 30 ans (fiche de la soirée).",
+    "Heure de fermeture du dimanche : 1h (accueil, agenda) ou minuit (page contact).",
+    "Fermetures de fin d'année 2026 : rien n'est encore annoncé, alors que le club avait fermé les 24 et 31 décembre 2025.",
+    "Âge minimum, dress code hors soirées à thème, règles sur les téléphones et les préservatifs : non précisés sur le site.",
+    "Surface et nombre de niveaux : le club ne mentionne que le sous-sol ; le labyrinthe de 500 m² et la rénovation récente qu'annonce Travel Gay ne sont pas datés.",
+    "Ce que recouvre exactement le « welcome back » gratuit.",
+    "Contenu de la page du club sur Wyylde et des comptes Facebook, Instagram et X, illisibles sans connexion.",
+    "L'adresse e-mail sauna@bainsdelest.ch, reprise par des annuaires, n'apparaît pas sur le site officiel, qui ne propose qu'un formulaire."
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Les Bains de l'Est, site officiel : accueil",
+      "url": "https://bainsdelest.ch/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s2",
+      "label": "Site officiel : tarifs (page modifiée le 19/05/2025)",
+      "url": "https://bainsdelest.ch/tarifs/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s3",
+      "label": "Site officiel : contact et accès",
+      "url": "https://bainsdelest.ch/contact/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s4",
+      "label": "Site officiel : galerie",
+      "url": "https://bainsdelest.ch/galerie/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s5",
+      "label": "Site officiel : page Hétéro",
+      "url": "https://bainsdelest.ch/hetero/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s6",
+      "label": "Site officiel : page Gay",
+      "url": "https://bainsdelest.ch/gay/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s7",
+      "label": "Site officiel : version anglaise",
+      "url": "https://bainsdelest.ch/en/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s8",
+      "label": "Site officiel : agenda des soirées (lu d'octobre 2025 à février 2027)",
+      "url": "https://bainsdelest.ch/events/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s9",
+      "label": "Site officiel : liste publique des pages et dates de mise à jour",
+      "url": "https://bainsdelest.ch/wp-json/wp/v2/pages",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s10",
+      "label": "Site officiel, archive du 13/01/2016 : informations pratiques",
+      "url": "https://web.archive.org/web/20160113161552/http://bainsdelest.ch/info.php",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s11",
+      "label": "Site officiel, archive du 18/01/2015 : accueil",
+      "url": "https://web.archive.org/web/20150118220705/http://bainsdelest.ch/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s12",
+      "label": "Site officiel, archive du 20/06/2021 : tarifs",
+      "url": "https://web.archive.org/web/20210620073254/https://bainsdelest.ch/tarifs/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s13",
+      "label": "Internet Archive : historique des captures de bainsdelest.ch",
+      "url": "https://web.archive.org/cdx/search/cdx?url=bainsdelest.ch",
+      "type": "autre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s14",
+      "label": "360°, « À l'Est, un bain de chaleur humaine », 27/04/2015",
+      "url": "https://360.ch/suisse/34098-a-lest-un-bain-de-chaleur-humaine/",
+      "type": "presse",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s15",
+      "label": "360°, « Naked parties : sueur et trémoussements », 05/07/2006",
+      "url": "https://360.ch/suisse/2363-naked_parties_sueur_et_tremoussements/",
+      "type": "presse",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s16",
+      "label": "360°, « Au nom du bear… », 01/09/2007",
+      "url": "https://360.ch/tendances/3363-au_nom_du_bear/",
+      "type": "presse",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s17",
+      "label": "360°, « Comment draguer cul-nu tout en restant chic », 08/03/2015",
+      "url": "https://360.ch/sexualites/33605-comment-draguer-cul-nu-tout-enrestant-chic/",
+      "type": "presse",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s18",
+      "label": "360°, « Saunas et backrooms se déconfinent avec prudence », 05/06/2020",
+      "url": "https://360.ch/sexualites/55973-saunas-et-backrooms-se-deconfinent-avec-prudence/",
+      "type": "presse",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s19",
+      "label": "360°, « Une si brève éclaircie… », 24/10/2020",
+      "url": "https://360.ch/suisse/57693-scene-gay-berne-suisse-une-si-breve-eclaircie/",
+      "type": "presse",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s20",
+      "label": "360°, « Genève, le guide LGBTQ+ », 09/05/2021, mis à jour le 20/10/2023",
+      "url": "https://360.ch/guide/61961-gay-geneve-le-guide-lgbtq/",
+      "type": "presse",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s21",
+      "label": "VEGAS, association des établissements gay suisses : liste des membres",
+      "url": "https://vegas-web.ch/",
+      "type": "autre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s22",
+      "label": "Annuaire sauna-club-libertin.com, fiche n° 384",
+      "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_3.php?id=384&d=suisse",
+      "type": "annuaire",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s23",
+      "label": "Carte de fidélité des Bains de l'Est (prestataire Adelya) : page d'inscription",
+      "url": "https://www.adelyashop.com/Adelyaview/bainsdelest/signup/Les-Bains-de-l%27Est.html?lang=fr",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s24",
+      "label": "Sauna Les Avanchets, site officiel",
+      "url": "https://www.saunalesavanchets.ch/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s25",
+      "label": "Cruising Canyon, site officiel",
+      "url": "https://www.cruisingcanyon.org/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s26",
+      "label": "Registre du commerce suisse (Zefix) : recherche « Bains de l'Est »",
+      "url": "https://www.zefix.ch",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s27",
+      "label": "Registre du commerce suisse (Zefix) : Tzara Productions SA, CHE-103.145.368",
+      "url": "https://www.zefix.ch/fr/search/entity/list/firm/302479",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s28",
+      "label": "local.ch : fiche « Bains de l'Est », au nom de Tzara Productions SA",
+      "url": "https://www.local.ch/fr/d/geneve/1207/bains-de-l-est-Mn-r-3kCKQzGWlMpiLPgRg",
+      "type": "annuaire",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s29",
+      "label": "search.ch : fiche « Bains de l'Est », au nom de Tzara Productions SA",
+      "url": "https://search.ch/tel/geneve/rue-de-lest-3/bains-de-lest.fr.html",
+      "type": "annuaire",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s30",
+      "label": "Esprit de Genève : fiche « Les Bains de l'Est » (données cantonales SITG de novembre 2021)",
+      "url": "http://espritdegeneve.ch/les-bains-de-lest/",
+      "type": "annuaire",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s31",
+      "label": "RTS, Question Q, « Confesse : reportage dans un sauna gay », 17/01/2020",
+      "url": "https://www.rts.ch/audio-podcast/2020/audio/confesse-reportage-dans-un-sauna-gay-25100376.html",
+      "type": "presse",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s32",
+      "label": "360° : fiche et agenda des Bains de l'Est",
+      "url": "https://360.ch/lieu/bains-de-lest/",
+      "type": "presse",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s33",
+      "label": "Wanderlog : note Google relayée (4,2/5, 201 avis)",
+      "url": "https://wanderlog.com/place/details/3844435/bains-de-lest",
+      "type": "avis",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s34",
+      "label": "Travel Gay : fiche des Bains de l'Est et avis de 2017 à 2020",
+      "url": "https://www.travelgay.com/venue/bains-de-lest",
+      "type": "annuaire",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s35",
+      "label": "Trafick (Lausanne), site officiel",
+      "url": "https://trafick.ch/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    }
+  ]
+}

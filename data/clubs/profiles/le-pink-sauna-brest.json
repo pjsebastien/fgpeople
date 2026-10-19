@@ -1,0 +1,912 @@
+{
+  "slug": "le-pink-sauna-brest",
+  "clubId": "355",
+  "researchedAt": "2026-10-16",
+  "display": {
+    "nom": "Attitude Sauna (ex-Pink Sauna)",
+    "ville": "Brest"
+  },
+  "status": {
+    "value": "ouvert",
+    "summary": "Après la soirée « Bracelets » du 16 octobre 2026, l'agenda d'Attitude Sauna, nom que porte le Pink Sauna depuis sa reprise en 2018, annonce « Tentation » le 23 et « Couple trio » le 30. La grille tarifaire date du 2 janvier 2026 et EPI LOISIRS, la société qui exploite le lieu, est active au registre. Seul l'ancien site pink-sauna.com est hors service.",
+    "sources": [
+      "s3",
+      "s4",
+      "s2",
+      "s16",
+      "s18"
+    ]
+  },
+  "seo": {
+    "title": "Sauna libertin à Brest : Attitude Sauna (ex-Pink), tarifs 2026",
+    "metaDescription": "Le Pink Sauna du 35 rue Duperré s'appelle Attitude Sauna depuis 2018. Soirée mixte le vendredi 20 h-1 h : couple 20 €, femme 5 €, homme seul 35 €. Spa à 36 °C.",
+    "subtitle": "Sauna gay, créneaux toutes tendances et vendredi mixte, rue Duperré à Brest (29)",
+    "targetQueries": [
+      "club libertin brest",
+      "sauna libertin brest",
+      "club echangiste brest",
+      "spa libertin brest",
+      "pink sauna brest",
+      "attitude sauna brest",
+      "attitude sauna tarifs"
+    ]
+  },
+  "lead": "Le Pink Sauna n'a pas disparu : repris en 2018, le sauna du 35 rue Duperré s'appelle aujourd'hui **Attitude Sauna** et publie un agenda daté jusqu'à fin octobre 2026. Gay le lundi, le mercredi et les après-midi du vendredi au dimanche, il s'ouvre à tous les publics le mardi et le jeudi de 13 h à 1 h, le samedi et le dimanche soir, et chaque vendredi de 20 h à 1 h pour une soirée mixte à thème. Avec son spa à débordement à 36 °C, son hammam et son sauna sec, c'est le seul sauna de Brest que recense le guide Spartacus.",
+  "keyFacts": [
+    {
+      "label": "Nom actuel",
+      "value": "Attitude Sauna, qui a succédé au Pink Sauna (« le Pink's »)",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s16",
+        "s17",
+        "s23"
+      ]
+    },
+    {
+      "label": "Exploitant",
+      "value": "EPI LOISIRS, SARL créée le 9 janvier 2018, active (SIREN 841 188 279)",
+      "confidence": "confirme",
+      "sources": [
+        "s9",
+        "s16",
+        "s26"
+      ]
+    },
+    {
+      "label": "Date de la reprise",
+      "value": "Automne 2018, probablement octobre (date exacte non vérifiée)",
+      "confidence": "a_verifier",
+      "sources": [
+        "s8",
+        "s22",
+        "s29"
+      ]
+    },
+    {
+      "label": "Public",
+      "value": "Gay le lundi, le mercredi et les après-midi du vendredi au dimanche ; toutes tendances le mardi, le jeudi et le week-end en soirée ; mixte le vendredi de 20 h à 1 h",
+      "confidence": "confirme",
+      "sources": [
+        "s2",
+        "s3",
+        "s7"
+      ]
+    },
+    {
+      "label": "Entrée couple",
+      "value": "20 € sur tous les créneaux ouverts aux couples (grille du 2 janvier 2026)",
+      "confidence": "confirme",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "label": "Espace humide",
+      "value": "Spa à débordement à 36 °C, hammam aux huiles essentielles, sauna sec",
+      "confidence": "confirme",
+      "sources": [
+        "s5",
+        "s7"
+      ]
+    },
+    {
+      "label": "Surface",
+      "value": "Près de 400 m² selon le site du Pink en 2008, chiffre non publié par Attitude Sauna",
+      "confidence": "a_verifier",
+      "sources": [
+        "s19",
+        "s23"
+      ]
+    },
+    {
+      "label": "Adresse",
+      "value": "35 rue Duperré, centre-ville, près de l'église Saint-Martin",
+      "confidence": "confirme",
+      "sources": [
+        "s5",
+        "s9",
+        "s16"
+      ]
+    },
+    {
+      "label": "Réservation",
+      "value": "Aucune décrite : formulaire de contact et rappel téléphonique",
+      "confidence": "confirme",
+      "sources": [
+        "s12"
+      ]
+    },
+    {
+      "label": "Contact",
+      "value": "02 98 80 68 57 ; contact@attitudesauna.com (mentions légales)",
+      "confidence": "confirme",
+      "sources": [
+        "s9",
+        "s12"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "pink-devenu-attitude",
+      "title": "Le Pink Sauna n'a pas fermé : il s'appelle Attitude Sauna depuis la reprise de 2018",
+      "icon": "history",
+      "summary": "Même adresse, autre exploitant : EPI LOISIRS, créée en janvier 2018, exploite le lieu sous l'enseigne Attitude Sauna ; l'établissement Pink Sauna a fermé au registre en 2019.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le Pink Sauna de Brest se trouve toujours au 35 rue Duperré, sous un autre nom et avec un autre exploitant. Au registre des entreprises, l'établissement à l'enseigne PINK SAUNA, immatriculé le 24 novembre 2005, a été fermé le 20 février 2019 ; la société qui le portait a ensuite changé d'activité et de nom, puis elle a été cessée en février 2022. Le lieu est désormais exploité par **EPI LOISIRS**, une SARL créée le 9 janvier 2018, sous l'enseigne ATTITUDE SAUNA : c'est une reprise par une nouvelle société, pas un simple changement d'enseigne.\n\nLa date de la bascule reste approximative. Le site du Pink vivait encore en août 2018. Une publication Facebook du 10 octobre 2018 annoncerait le changement de direction, mais nous ne l'avons vue que résumée par un moteur de recherche, les pages Facebook du Pink comme d'Attitude étant illisibles sans compte. Un témoignage d'octobre 2021 sur le site du club, qui évoque la fête des 3 ans du lieu, conforte l'automne 2018."
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Ce qui est périmé dans les annuaires",
+          "body": "Le domaine pink-sauna.com n'affiche plus qu'une page d'attente en anglais. Saunas4men et Gayspot listent encore le lieu sous son ancien nom, le Petit Futé garde une fiche « Le Pink's » à côté de celle d'Attitude Sauna, et Restaurant Guru conserve « Pink-Sauna-Brest » dans l'adresse de sa page. Spartacus et TravelGay donnent bien le nouveau nom, mais parlent d'un « mardi mixte » hérité du Pink ; Spartacus recopie même des horaires de 2016. Les références à suivre sont attitudesauna.com et le 02 98 80 68 57, numéro toujours affiché par le club."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s8",
+        "s9",
+        "s16",
+        "s17",
+        "s18",
+        "s22",
+        "s23",
+        "s25",
+        "s26",
+        "s29",
+        "s30",
+        "s31",
+        "s32",
+        "s33",
+        "s35"
+      ]
+    },
+    {
+      "id": "toutes-tendances-mixte-tarifs-2026",
+      "title": "Mardi et jeudi toutes tendances, vendredi mixte : 20 € le couple, jusqu'à 35 € l'homme seul",
+      "icon": "couple",
+      "summary": "Couple 20 € et femme 5 € le mardi, le jeudi, le week-end dès 18 h et le vendredi soir ; l'homme seul paie de 22 à 35 € selon le soir.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Attitude Sauna reste d'abord un sauna gay, ce qui le sépare d'un club échangiste classique : le lundi, le mercredi et l'après-midi du vendredi au dimanche, l'entrée est réservée aux hommes. Les couples et les femmes viennent sur deux types de créneaux.\n\n- **Toutes tendances** : le mardi et le jeudi de 13 h à 1 h, le samedi et le dimanche de 18 h à 1 h. L'agenda du club les présente comme ouverts aux hétéros, gays, bis, trans et travestis ; le tarif correspondant s'applique à partir de 17 h.\n- **Mixte** : le vendredi de 20 h à 1 h, avec un thème différent chaque semaine. La page consacrée à cette soirée la présente comme libertine, hétéro, bi et lesbienne.\n\nCôté gay, l'agenda d'octobre 2026 prévoit aussi une journée jeunes le mercredi et un après-midi Bears le samedi 31 octobre.\n\nLes prix de 2026 en disent long. Le couple paie 20 € et la femme 5 €, quel que soit le soir. L'homme seul paie 22 € le mardi, le jeudi et le dimanche soir, 25 € le samedi et 35 € le vendredi, soit 13 € de plus qu'un mardi.\n\nLe vendredi mixte n'est pas toujours ouvert aux hommes seuls. La liste des événements du site garde des pages non datées de soirées « Couples et Femmes » et « Couples/trios » présentées comme interdites aux hommes seuls, ainsi qu'une « soirée couples » une veille de jour férié.\n\nLes annonces d'octobre 2026 ne mentionnent aucune restriction de ce type. Avant de venir seul un vendredi, appelez le 02 98 80 68 57."
+        }
+      ],
+      "sources": [
+        "s2",
+        "s3",
+        "s4",
+        "s7",
+        "s12",
+        "s13",
+        "s14"
+      ]
+    },
+    {
+      "id": "vendredis-octobre-2026",
+      "title": "Débutants le 2, Couple trio le 30 : les vendredis à thème d'octobre 2026",
+      "icon": "mask",
+      "summary": "Débutants le 2, Rouge le 9, Bracelets le 16, Tentation le 23, Couple trio le 30 : cinq vendredis mixtes de 20 h à 1 h en octobre 2026.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Chaque soirée mixte du vendredi porte un nom, annoncé dans l'agenda mixte du site. En octobre 2026, toutes ont lieu de 20 h à 1 h :"
+        },
+        {
+          "kind": "list",
+          "items": [
+            "**2 octobre, Débutants** : une soirée que le club destine aux curieux qui découvrent le sauna et le libertinage.",
+            "**9 octobre, Rouge** : thème de la passion et de la sensualité, sans code vestimentaire annoncé.",
+            "**16 octobre, Bracelets** : la page n'en explique pas le principe ; une ancienne soirée « Fluo » du club demandait d'afficher sa préférence avec un bracelet fluo.",
+            "**23 octobre, Tentation** : aucun détail publié.",
+            "**30 octobre, Couple trio** : à la veille d'Halloween, l'annonce invite à sortir masques et déguisements. Une ancienne soirée « Couples/trios » était interdite aux hommes seuls ; l'annonce de 2026 ne le précise pas."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "La liste des événements du site montre d'autres thèmes revenus au fil des saisons, rarement datés : Gang Bang mixte, Gourmandises, Soumission/Domination, Fluo, Sucettes, Lingerie et dentelles, Couples et femmes, ainsi que des soirées d'anniversaire.\n\nLa soirée Soumission/Domination se passe d'espace SM, que la description des lieux ne mentionne pas : le club y prête le matériel et permet de rester habillé au bar, en tenue sexy ou BDSM.\n\nPour ne pas aborder la soirée Débutants sans connaître personne, un couple peut d'abord chercher des libertins du pays de Brest en ligne. Un compte gratuit permet de [filtrer par localisation les membres de l'ex-Netéchangisme](aff:wyylde), rebaptisé Wyylde en 2018 et qui revendique 7 millions de membres ; il faut en revanche un abonnement pour répondre aux messages reçus.\n\nLa soirée Couple trio, si l'on prend son nom au mot, se vit à trois. Pour trouver ce troisième partenaire avant le 30 octobre, un couple peut [chercher le ou la troisième sur Carré Libertin](aff:carre-libertin), site ouvert en 2007 où l'accès complet est gratuit pour les couples et les femmes qui publient trois photos de profil."
+        }
+      ],
+      "sources": [
+        "s3",
+        "s14"
+      ]
+    },
+    {
+      "id": "spa-36-degres-labyrinthe",
+      "title": "Un spa à débordement à 36 °C, un hammam aux huiles essentielles et un labyrinthe",
+      "icon": "spa",
+      "summary": "Spa à débordement à 36 °C, hammam aux huiles essentielles et sauna sec, plus cabines, salle vidéo, labyrinthe et slings ; aucune surface publiée.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Pour qui cherche un spa libertin à Brest, la partie humide d'Attitude Sauna réunit un spa à débordement maintenu à 36 °C, que les clients appellent « jacuzzi » dans leurs témoignages, un hammam parfumé aux huiles essentielles et un sauna sec. Le reste du lieu, tel que le décrit le site officiel, comprend des cabines de relaxation, une salle vidéo, un labyrinthe, des slings en cuir, des vestiaires avec casiers et des douches, ainsi qu'un bar qui sert une petite restauration (plats préparés, croque-monsieur), avec un petit coin fumeur juste à côté.\n\nLe club ne publie pas de surface. Les 400 m² souvent cités, repris par le guide Spartacus, sont ceux qu'annonçait le Pink en 2008 ; l'agencement a pu changer avec les travaux de juillet 2019 et les nouveaux aménagements (nouveau spa, nouvelles salles de jeux, éclairage revu) que saluent des témoignages de 2021 et 2022 ; un témoignage de 2025 évoque aussi un étage.\n\nLa galerie officielle compte 12 photos non datées. Cinq sont légendées « Bar », deux « Hammam » et une « Spa » ; les quatre autres portent une légende générique (« Sauna gay Brest », « Sauna libertin Brest »). Aucune n'est légendée cabine ou labyrinthe."
+        },
+        {
+          "kind": "callout",
+          "tone": "info",
+          "title": "Cage, salle SM, glory holes : des équipements que rien ne confirme aujourd'hui",
+          "body": "L'ancienne version de notre fiche, reprise d'un annuaire, prêtait au lieu une cage d'exhibition, une salle SM et des glory holes, que la description actuelle d'Attitude Sauna ne mentionne pas. Les glory holes ont existé au Pink, dont le site de 2008 décrivait une quinzaine de cabines, un grand labyrinthe qui en était équipé et un spa habillé de bois précieux et de mosaïque italienne. L'espace SM (croix de Saint-André, pilori) n'y était annoncé que comme un projet, et aucune source ne montre qu'il a vu le jour. Seul indice récent : un témoignage de septembre 2022, publié par le club, évoque l'essai de « la prison publique », sans la décrire."
+        }
+      ],
+      "sources": [
+        "s5",
+        "s6",
+        "s7",
+        "s8",
+        "s10",
+        "s15",
+        "s19",
+        "s20",
+        "s23"
+      ]
+    },
+    {
+      "id": "premiere-visite-serviette-casier",
+      "title": "Une serviette pour seule tenue et le téléphone au casier : pièce d'identité possible à l'accueil, alcool au bar seulement",
+      "icon": "shield",
+      "summary": "Serviette pour seule tenue, téléphone au casier, alcool au bar seulement, contrôle d'identité possible ; ni réservation ni adhésion décrites.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "La page « Première visite » du site décrit le déroulé de l'arrivée. L'entrée est interdite aux mineurs et une pièce d'identité peut être demandée à l'accueil : qui refuse ce contrôle n'entre pas. Chacun reçoit une serviette, complétée d'un paréo pour les femmes, et une clé de vestiaire. Les serviettes supplémentaires sont gratuites, mais le club facture les abus."
+        },
+        {
+          "kind": "list",
+          "title": "Les règles affichées",
+          "items": [
+            "Ni maillot de bain ni sous-vêtements : on circule en serviette.",
+            "Le téléphone, réglé sur vibreur, reste dans le casier.",
+            "L'alcool se boit uniquement au bar, et les drogues sont interdites.",
+            "Pas de harcèlement des femmes et des couples, et l'on ne force pas la porte d'une cabine fermée.",
+            "Bijoux à laisser au casier (chaleur et humidité), douche régulière avec le savon fourni.",
+            "Prudence dans les pratiques : le club met à disposition la documentation de prévention du SNEG.",
+            "Une caméra de surveillance est en place ; une personne énervée, ivre ou bruyante se voit refuser l'accès.",
+            "Selon une page du site destinée au public gay, on s'installe au bar déshabillé, même pour un simple verre."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le site ne décrit ni réservation ni adhésion obligatoire, seulement un formulaire de contact et un rappel téléphonique. Plusieurs témoignages de 2022 à 2026 disent qu'on leur a fait visiter les lieux à leur première venue. Pour le paiement, PagesJaunes indique la carte bancaire, Apple Pay et les espèces, une information que le site du club ne donne pas."
+        }
+      ],
+      "sources": [
+        "s2",
+        "s6",
+        "s8",
+        "s11",
+        "s12",
+        "s26"
+      ]
+    },
+    {
+      "id": "seul-sauna-brest-rennes-2026",
+      "title": "Seul sauna brestois du guide Spartacus, avec un deuxième établissement à Rennes depuis mars 2026",
+      "icon": "map",
+      "summary": "Seul sauna de Brest pour Spartacus, seule adresse libertine du Finistère pour un annuaire d'avril 2026 ; l'exploitant a un second établissement à Rennes.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le guide Spartacus ne liste qu'un sauna à Brest, celui-ci. Un annuaire libertin daté d'avril 2026 n'en recense lui aussi aucun autre dans le Finistère, et notre recherche d'octobre 2026 n'a fait ressortir aucun club distinct à Quimper ou à Morlaix. La [page des lieux libertins de Brest](/ville/brest) et celle du [Finistère](/departement/finistere) ne mènent donc qu'à cette fiche ; pour d'autres adresses, voyez [les établissements de toute la Bretagne](/region/bretagne).\n\nL'exploitant d'Attitude Sauna s'étend à Rennes. Depuis le 18 mars 2026, le registre rattache à EPI LOISIRS un second établissement, à l'enseigne California, au 7-9 rue de Léon : l'adresse du [Sauna California de Rennes](/sauna-california-rennes). Le registre ne dit pas s'il s'agit d'une création ou d'une reprise.\n\nDans un département où notre annuaire ne recense que ce lieu, une partie des rencontres se prépare sur les sites. Gleese, réseau libertin français lancé fin 2024, permet de [sonder sans carte bancaire la communauté du Finistère](aff:gleese) : chaque inscrit y vérifie son numéro de téléphone et les photos sont modérées à la main. Sa communauté reste plus réduite hors des grandes villes, et une recherche autour de Brest montrera vite si elle suffit."
+        }
+      ],
+      "sources": [
+        "s16",
+        "s23",
+        "s24",
+        "s26",
+        "s36"
+      ]
+    },
+    {
+      "id": "pink-2008-2018",
+      "title": "Le Pink's de 2008 à 2018 : naturistes le jeudi, FOG Party le samedi, couples le mardi",
+      "icon": "history",
+      "summary": "Dès 2008, le Pink's recevait les couples le mardi soir pour 15 € ; le vendredi mixte de 20 h à 1 h, toujours en place, date de la fin de 2010.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le Pink, que son site appelait « le Pink's », a laissé une trace précise dans les archives du web, à défaut d'une date d'ouverture : la plus ancienne capture de son site date d'octobre 2008. Le principe d'aujourd'hui y figure déjà, un sauna gay ouvert certains soirs aux couples et aux femmes, et la soirée mixte du vendredi de 20 h à 1 h remonte à la fin de 2010."
+        },
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "24 novembre 2005",
+              "text": "Immatriculation de l'établissement PINK SAUNA au 35 rue Duperré."
+            },
+            {
+              "date": "Octobre 2008",
+              "text": "Ouvert 7 jours sur 7. Soirée naturiste avec buffet le jeudi dès 19 h, FOG Party (« rencontres dans le brouillard ») le samedi, soirée mixte-libertine avec buffet le mardi dès 19 h 30."
+            },
+            {
+              "date": "Novembre 2010 (annonce lue en février 2011)",
+              "text": "Deuxième soirée mixte, le vendredi de 20 h à 1 h. Le parrainage d'un nouveau couple donne droit à une entrée offerte."
+            },
+            {
+              "date": "2016",
+              "text": "Horaires resserrés : 13 h-20 h en semaine (22 h le jeudi, naturiste dès 19 h), 14 h-20 h le week-end."
+            },
+            {
+              "date": "Août 2018",
+              "text": "Dernière capture valide du site du Pink, avec sa grille de tarifs."
+            },
+            {
+              "date": "Octobre 2018 (probable)",
+              "text": "Changement de direction : le lieu devient Attitude Sauna."
+            },
+            {
+              "date": "20 février 2019",
+              "text": "Fermeture au registre de l'établissement PINK SAUNA. L'ancienne société, dissoute en 2021 selon des annuaires d'entreprises, est cessée en février 2022."
+            },
+            {
+              "date": "22 juillet - 2 août 2019",
+              "text": "Fermeture pour travaux."
+            },
+            {
+              "date": "Décembre 2022",
+              "text": "Fermeture exceptionnelle, avec « réouverture le 26 décembre 2022 » ; date de début non précisée."
+            },
+            {
+              "date": "1er juillet 2023",
+              "text": "Fermeture anticipée à 18 h, après des événements survenus les nuits précédentes à Brest et visant « certains commerces LGBT », selon un message du compte X du club lu dans un résultat de recherche."
+            },
+            {
+              "date": "18 mars 2026",
+              "text": "Le registre rattache à EPI LOISIRS un second établissement, à l'enseigne California, à Rennes."
+            }
+          ]
+        },
+        {
+          "kind": "table",
+          "caption": "Ce que coûtait l'entrée, d'après les archives du site du Pink puis le site d'Attitude Sauna",
+          "headers": [
+            "Relevé",
+            "Entrée homme en journée",
+            "Soirée mixte : couple",
+            "Femme seule",
+            "Homme seul"
+          ],
+          "rows": [
+            [
+              "Octobre 2008",
+              "7, 9 ou 12 € selon l'âge",
+              "15 € (mardi)",
+              "5 €",
+              "30 €"
+            ],
+            [
+              "Novembre 2013",
+              "8, 10 ou 13 € selon l'âge",
+              "15 € (mardi)",
+              "5 €",
+              "30 €"
+            ],
+            [
+              "2015-2016",
+              "9, 11 ou 14 € selon l'âge",
+              "non affiché",
+              "non affiché",
+              "non affiché"
+            ],
+            [
+              "Août 2018",
+              "12 € (moins de 30 ans) ou 15 €",
+              "20 €",
+              "gratuit",
+              "30 €"
+            ],
+            [
+              "Janvier 2026",
+              "10, 15 ou 18 € selon l'âge",
+              "20 € (vendredi)",
+              "5 €",
+              "35 €"
+            ]
+          ]
+        }
+      ],
+      "sources": [
+        "s2",
+        "s14",
+        "s15",
+        "s16",
+        "s17",
+        "s19",
+        "s20",
+        "s21",
+        "s22",
+        "s28",
+        "s29",
+        "s34"
+      ]
+    },
+    {
+      "id": "temoignages-4-81-sur-62",
+      "title": "4,81/5 sur 62 témoignages publiés par le club, reproches compris",
+      "icon": "star",
+      "summary": "4,81/5 sur 62 témoignages sélectionnés par le club (2019-2026) : propreté et accueil salués, quelques reproches précis laissés en ligne.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le site d'Attitude Sauna publie 62 témoignages datés du 27 avril 2019 au 16 juillet 2026, avec une moyenne affichée de 4,81/5 (relevé du 16 octobre 2026). Ce sont des avis retenus par le club lui-même, pas une note indépendante. Ils reviennent surtout sur la propreté, l'accueil du personnel et les rénovations. Le club a toutefois laissé en ligne des reproches précis :"
+        },
+        {
+          "kind": "list",
+          "items": [
+            "l'absence de table de massage, signalée en 2019 puis en 2023 ;",
+            "des hommes qui n'acceptent pas un refus, en 2022 ;",
+            "des téléphones sortis au bar malgré le règlement, en 2023 ;",
+            "une température de l'eau jugée « un peu faible » en janvier 2024, puis un chlore du jacuzzi qui pique les yeux en mars 2024 ;",
+            "des clients qui en suivent d'autres d'un espace à l'autre, en mars 2024."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Ailleurs, les relevés sont maigres : ni PagesJaunes ni Restaurant Guru n'affichent d'avis, nous n'avons pas relevé la note Google, et aucun article de la presse régionale sur le Pink ou sur Attitude Sauna n'est ressorti de nos recherches."
+        }
+      ],
+      "sources": [
+        "s8",
+        "s26",
+        "s33"
+      ]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "lundi": "13 h - 20 h (gay)",
+      "mardi": "13 h - 1 h (toutes tendances)",
+      "mercredi": "13 h - 20 h (gay, journée jeunes)",
+      "jeudi": "13 h - 1 h (toutes tendances)",
+      "vendredi": "13 h - 19 h (gay), puis 20 h - 1 h (soirée mixte)",
+      "samedi": "13 h - 18 h (gay), puis 18 h - 1 h (toutes tendances)",
+      "dimanche": "13 h - 18 h (gay), puis 18 h - 1 h (toutes tendances)"
+    },
+    "note": "Grille du site officiel, relevée le 16 octobre 2026. L'agenda gay du même site annonce une ouverture à 12 h le lundi et le vendredi, un bandeau du site affiche « Lundi Gay de 12h à 22h », et l'agenda mixte écrit « minuit » dans le titre des mardis mais 1 h dans le détail. PagesJaunes et Mappy affichent encore d'autres variantes.",
+    "confidence": "confirme",
+    "sources": [
+      "s2",
+      "s3",
+      "s4",
+      "s26",
+      "s27"
+    ]
+  },
+  "tarifs": {
+    "rows": {
+      "Soirée mixte du vendredi (20 h - 1 h)": "Couple 20 €, femme 5 €, homme seul 35 €",
+      "Toutes tendances, mardi et jeudi": "Couple 20 €, femme 5 €, homme 22 €",
+      "Toutes tendances, samedi soir": "Couple 20 €, femme 5 €, homme seul 25 €",
+      "Toutes tendances, dimanche (18 h - 1 h)": "Couple 20 €, femme 5 €, homme seul 22 €",
+      "Créneaux gay, plein tarif": "18 €, ou 13 € dans les deux heures avant la fermeture",
+      "Créneaux gay, 25-30 ans": "15 €, ou 11 € la première heure et dans les deux heures avant la fermeture",
+      "Créneaux gay, 18-24 ans": "10 €, ou 8 € aux mêmes heures ; 6 € le mercredi et le dimanche avant 14 h",
+      "Abonnement 10 entrées": "160 €, valable les jours gay"
+    },
+    "note": "Tarifs en vigueur depuis le 2 janvier 2026 selon le site officiel. Serviette, paréo pour les femmes et casier compris. L'agenda gay annonce d'autres tarifs jeunes (5 € le mercredi, 4 € le dimanche pour les moins de 25 ans), et une ancienne page du site affiche encore une grille à 15 € : la grille datée fait foi.",
+    "confidence": "confirme",
+    "sources": [
+      "s2",
+      "s4",
+      "s6",
+      "s11"
+    ]
+  },
+  "equipements": [
+    "Spa à débordement à 36 °C",
+    "Hammam aux huiles essentielles",
+    "Sauna sec",
+    "Cabines de relaxation",
+    "Salle vidéo",
+    "Labyrinthe",
+    "Slings en cuir",
+    "Bar avec petite restauration",
+    "Espace fumeur",
+    "Vestiaires avec casiers",
+    "Douches"
+  ],
+  "officialLinks": [
+    {
+      "label": "Site officiel Attitude Sauna",
+      "url": "https://www.attitudesauna.com/",
+      "kind": "site"
+    },
+    {
+      "label": "Agenda des soirées mixtes et toutes tendances",
+      "url": "https://www.attitudesauna.com/agenda?genre=1",
+      "kind": "agenda"
+    },
+    {
+      "label": "Agenda des journées gay",
+      "url": "https://www.attitudesauna.com/agenda?genre=0",
+      "kind": "agenda"
+    },
+    {
+      "label": "Galerie officielle : 12 photos du bar, du sauna, du hammam et du spa",
+      "url": "https://www.attitudesauna.com/galerie/c-28.html",
+      "kind": "galerie"
+    },
+    {
+      "label": "Horaires et tarifs 2026",
+      "url": "https://www.attitudesauna.com/horaires-tarifs/c-22.html",
+      "kind": "autre"
+    },
+    {
+      "label": "Page Facebook Attitude sauna",
+      "url": "https://www.facebook.com/p/Attitude-sauna-100063535514097/",
+      "kind": "facebook"
+    }
+  ],
+  "corrections": {
+    "adresse": "35 rue Duperré",
+    "email": "contact@attitudesauna.com",
+    "site_web": "https://www.attitudesauna.com/",
+    "sources": [
+      "s1",
+      "s9",
+      "s12"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Le Pink Sauna de Brest est-il fermé ?",
+      "answer": "Non : il a changé de nom et d'exploitant. Le lieu du 35 rue Duperré s'appelle Attitude Sauna depuis sa reprise par EPI LOISIRS, probablement en octobre 2018. Seul l'ancien site pink-sauna.com est hors service ; attitudesauna.com publie un agenda daté jusqu'à fin octobre 2026."
+    },
+    {
+      "question": "Existe-t-il un club libertin ou échangiste à Brest ?",
+      "answer": "Le seul lieu libertin de Brest que nous ayons identifié est un sauna d'abord gay, Attitude Sauna (ex-Pink Sauna). Les couples y entrent le mardi et le jeudi de 13 h à 1 h, le samedi et le dimanche de 18 h à 1 h, et le vendredi de 20 h à 1 h pour la soirée mixte. Certaines soirées du vendredi ont été réservées aux couples et aux femmes. Nous n'avons trouvé aucun autre club libertin dans le Finistère."
+    },
+    {
+      "question": "Combien coûte l'entrée pour un couple, une femme ou un homme seul ?",
+      "answer": "Selon la grille du 2 janvier 2026, le couple paie 20 € et la femme 5 € sur tous les créneaux qui leur sont ouverts. L'homme seul paie 22 € le mardi, le jeudi et le dimanche soir, 25 € le samedi soir et 35 € le vendredi, quand la soirée ne lui est pas fermée. En journée gay, l'entrée est à 18 €, moins pour les moins de 30 ans. Serviette et casier sont compris."
+    },
+    {
+      "question": "Faut-il réserver ou prendre une carte de membre ?",
+      "answer": "Ni l'un ni l'autre d'après le site, qui propose un formulaire de contact et un rappel téléphonique ; l'abonnement de 10 entrées (160 €) ne vaut que les jours gay. Une pièce d'identité peut être demandée à l'accueil. Le téléphone est le 02 98 80 68 57 ; les mentions légales du site donnent aussi l'adresse contact@attitudesauna.com."
+    },
+    {
+      "question": "Où se garer et comment venir ?",
+      "answer": "Le site officiel ne donne aucune indication sur le stationnement ni sur les transports en commun. L'adresse est le 35 rue Duperré, dans le centre de Brest, près de l'église Saint-Martin."
+    },
+    {
+      "question": "Où voir des photos d'Attitude Sauna ?",
+      "answer": "La galerie du site officiel compte 12 photos du bar, du sauna, du hammam et du spa, d'après leurs légendes. Les photos de l'époque du Pink ne sont plus en ligne."
+    }
+  ],
+  "unverified": [
+    "La date exacte de la reprise : octobre 2018 repose sur une publication Facebook du 10 octobre 2018 que nous n'avons pas pu lire, et sur un témoignage évoquant les 3 ans du lieu en octobre 2021.",
+    "La surface actuelle : les 400 m² sont le chiffre du Pink en 2008, avant les travaux de 2019.",
+    "Ce qui distingue concrètement une soirée « mixte » d'un créneau « toutes tendances », et si la soirée Couple trio du 30 octobre 2026 est fermée aux hommes seuls comme l'était une ancienne soirée « Couples/trios ».",
+    "Les règles de la soirée « Bracelets » du 16 octobre 2026 (une ancienne soirée « Fluo » utilisait des bracelets pour afficher ses préférences).",
+    "L'existence aujourd'hui d'une cage, d'un espace SM ou de glory holes, annoncés par l'annuaire dont venait notre ancienne fiche ; un témoignage de 2022 parle seulement d'une « prison publique ».",
+    "L'adresse pink-sauna@hotmail.fr reprise par d'anciens annuaires : aucune source actuelle ne la mentionne ; les mentions légales du site donnent contact@attitudesauna.com.",
+    "La note Google du lieu, non relevée.",
+    "L'annonce de cession du 29 septembre 2026 signalée par PagesJaunes pour un établissement de Rennes.",
+    "La présence d'autres lieux libertins dans le Finistère : une recherche d'octobre 2026 et un annuaire d'avril 2026 n'en montrent aucun, sans vérification sur place.",
+    "Le stationnement et les transports en commun à proximité."
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Site officiel Attitude Sauna, page d'accueil",
+      "url": "https://www.attitudesauna.com/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s2",
+      "label": "Site officiel, horaires et tarifs (grille du 2 janvier 2026)",
+      "url": "https://www.attitudesauna.com/horaires-tarifs/c-22.html",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s3",
+      "label": "Site officiel, agenda mixte d'octobre 2026",
+      "url": "https://www.attitudesauna.com/agenda?genre=1",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s4",
+      "label": "Site officiel, agenda gay d'octobre 2026",
+      "url": "https://www.attitudesauna.com/agenda?genre=0",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s5",
+      "label": "Site officiel, page « Le club »",
+      "url": "https://www.attitudesauna.com/le-club/c-19.html",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s6",
+      "label": "Site officiel, page « Première visite »",
+      "url": "https://www.attitudesauna.com/premiere-visite/c-27.html",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s7",
+      "label": "Site officiel, page « Mixte »",
+      "url": "https://www.attitudesauna.com/mixte/c-20.html",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s8",
+      "label": "Site officiel, témoignages de clients (sélectionnés par le club, 2019-2026)",
+      "url": "https://www.attitudesauna.com/temoignage",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s9",
+      "label": "Site officiel, mentions légales",
+      "url": "https://www.attitudesauna.com/mentions",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s10",
+      "label": "Site officiel, galerie photo",
+      "url": "https://www.attitudesauna.com/galerie/c-28.html",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s11",
+      "label": "Site officiel, page « Boîte gay Brest »",
+      "url": "https://www.attitudesauna.com/boite-gay-brest/4-2.htm",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s12",
+      "label": "Site officiel, page contact",
+      "url": "https://www.attitudesauna.com/contact",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s13",
+      "label": "Site officiel, page « Gay »",
+      "url": "https://www.attitudesauna.com/gay/c-3.html",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s14",
+      "label": "Site officiel, liste des événements",
+      "url": "https://www.attitudesauna.com/blog",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s15",
+      "label": "Site officiel Attitude Sauna, archive du 24/07/2019",
+      "url": "https://web.archive.org/web/20190724002742/http://attitudesauna.com/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s16",
+      "label": "Registre des entreprises, EPI LOISIRS (SIREN 841 188 279)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/841188279",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s17",
+      "label": "Registre des entreprises, ancienne société exploitante du Pink Sauna (SIREN 487 535 197)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/487535197",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s18",
+      "label": "pink-sauna.com, état du domaine (page d'attente)",
+      "url": "https://www.pink-sauna.com/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s19",
+      "label": "Site du Pink Sauna, archives d'octobre 2008 (accueil, horaires, tarifs, soirées)",
+      "url": "https://web.archive.org/web/20081016144521/http://www.pink-sauna.com/index.html",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s20",
+      "label": "Site du Pink Sauna, archive du 07/02/2011",
+      "url": "https://web.archive.org/web/20110207161314/http://pink-sauna.com/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s21",
+      "label": "Site du Pink Sauna, archives des tarifs 2013-2016 et horaires 2016",
+      "url": "https://web.archive.org/web/20131109222129/http://www.pink-sauna.com/tarifs.html",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s22",
+      "label": "Site du Pink Sauna, archives 2017-2018 (dernière capture valide du 20/08/2018) et page parking de 2024",
+      "url": "https://web.archive.org/web/20180820185149/http://www.pink-sauna.com/tarifs.html",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s23",
+      "label": "Spartacus Gay Sauna Guide, « Attitude Sauna (former Pink) »",
+      "url": "https://spartacus.gayguide.travel/saunas/brest/74399_Attitude+Sauna+(former+Pink)",
+      "type": "annuaire",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s24",
+      "label": "Spartacus, liste des saunas de Brest",
+      "url": "https://spartacus.gayguide.travel/saunas/europe/france/brest",
+      "type": "annuaire",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s25",
+      "label": "TravelGay, « Attitude Sauna (Pink Sauna) » (titre et extrait vus en résultat de recherche)",
+      "url": "https://www.travelgay.com/venue/attitude-sauna",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s26",
+      "label": "PagesJaunes, fiche Attitude Sauna",
+      "url": "https://www.pagesjaunes.fr/pros/50621449",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s27",
+      "label": "Mappy, fiche Attitude Sauna",
+      "url": "https://fr.mappy.com/poi/55d8f829e4b0d6317db0a701",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s28",
+      "label": "Compte X @AttitudeSauna, message du 01/07/2023 (texte vu en résultat de recherche)",
+      "url": "https://x.com/AttitudeSauna/status/1675096069531639808",
+      "type": "reseau_social",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s29",
+      "label": "Page Facebook « Pink Sauna » (contenu non lisible, publication du 10/10/2018 connue par un résumé de moteur de recherche)",
+      "url": "https://www.facebook.com/p/Pink-Sauna-100040544025583/",
+      "type": "reseau_social",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s30",
+      "label": "Page Facebook « Attitude sauna » (contenu non lisible sans compte)",
+      "url": "https://www.facebook.com/p/Attitude-sauna-100063535514097/",
+      "type": "reseau_social",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s31",
+      "label": "Saunas4men, saunas de Brest",
+      "url": "https://saunas4men.com/en/france/brest",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s32",
+      "label": "Gayspot, fiche « Pink Sauna »",
+      "url": "https://gayspot.fr/lieu-de-drague-gay/1443-pink-sauna-brest.html",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s33",
+      "label": "Restaurant Guru, fiche Attitude Sauna",
+      "url": "https://restaurantguru.com/Pink-Sauna-Brest",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s34",
+      "label": "Pappers, fiche société du SIREN 487 535 197 (extraits vus en résultat de recherche)",
+      "url": "https://www.pappers.fr/entreprise/lakeshore-trading-and-investment-487535197",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s35",
+      "label": "Petit Futé, fiches « Le Pink's » et « Attitude Sauna » (titres et extraits vus en résultat de recherche)",
+      "url": "https://www.petitfute.co.uk/v8763-brest-29200/c9998-coquin/c1044-s-amuser-sortir/c208-sauna/604424-le-pink-s.html",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s36",
+      "label": "Annuaire saunaclublebali.fr, « Club libertin dans le Finistère (29) » (article du 12 avril 2026)",
+      "url": "https://www.saunaclublebali.fr/clubs-libertins-finistere-29/",
+      "type": "annuaire",
+      "consulted": "2026-10-19"
+    }
+  ],
+  "glance": [
+    {
+      "icon": "calendar",
+      "label": "Ouvert",
+      "value": "7 j/7 dès 13 h, jusqu'à 1 h sauf lun. et mer."
+    },
+    {
+      "icon": "couple",
+      "label": "Couples et femmes",
+      "value": "Mar., jeu., week-end dès 18 h, vendredi 20 h"
+    },
+    {
+      "icon": "euro",
+      "label": "Entrée couple",
+      "value": "20 € · femme 5 € · homme seul 22 à 35 €"
+    },
+    {
+      "icon": "users",
+      "label": "Réservé aux hommes",
+      "value": "Lun., mer. et après-midi du ven. au dim."
+    },
+    {
+      "icon": "spa",
+      "label": "Espace humide",
+      "value": "Spa à débordement à 36 °C, hammam, sauna"
+    },
+    {
+      "icon": "history",
+      "label": "Ex-Pink Sauna",
+      "value": "Repris en 2018, sans doute en octobre",
+      "confidence": "a_verifier"
+    }
+  ],
+  "audience": [
+    {
+      "who": "couples",
+      "status": "oui",
+      "detail": "Mar. et jeu. dès 13 h, sam. et dim. dès 18 h, vendredi 20 h-1 h en soirée mixte",
+      "price": "20 €"
+    },
+    {
+      "who": "femmes",
+      "status": "oui",
+      "detail": "Mêmes créneaux que les couples ; soirées « Couples et Femmes » ouvertes aux femmes seules",
+      "price": "5 €"
+    },
+    {
+      "who": "hommes",
+      "status": "selon",
+      "detail": "Journées gay ; mixte et toutes tendances aussi, hors soirées interdites aux hommes seuls",
+      "price": "10 à 35 €"
+    },
+    {
+      "who": "trans",
+      "status": "selon",
+      "detail": "Cités parmi les publics des créneaux toutes tendances ; aucun tarif propre publié"
+    }
+  ],
+  "highlights": [
+    "Une serviette pour seule tenue : maillot et sous-vêtements interdits, téléphone au casier ; même au bar, on reste dévêtu selon une page du site.",
+    "Certaines soirées du vendredi (« Couples et Femmes », « Couples/trios ») ont été interdites aux hommes seuls : vérifiez le thème dans l'agenda mixte.",
+    "Homme seul : 35 € le vendredi mixte contre 22 € le mardi ou le jeudi ; le couple paie 20 € et la femme 5 € quel que soit le soir.",
+    "Une pièce d'identité peut être demandée à l'accueil, et refuser ce contrôle, c'est ne pas entrer.",
+    "Le site pink-sauna.com est mort : l'adresse à suivre est attitudesauna.com, et le numéro reste le 02 98 80 68 57."
+  ]
+}

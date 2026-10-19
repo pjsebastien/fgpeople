@@ -1,0 +1,620 @@
+{
+  "slug": "le-sandy-s-bourg-les-valence",
+  "clubId": "15495",
+  "researchedAt": "2026-10-16",
+  "display": {
+    "nom": "Le Sandy's",
+    "ville": "Bourg-lès-Valence"
+  },
+  "status": {
+    "value": "ferme",
+    "summary": "Le vendredi 25 mars 2016, la page d'accueil de sandys.fr a annoncé la fermeture du club « à compter de ce jour », « pour une durée indéterminée », et ce message n'a plus changé jusqu'à la dernière capture du site, le 2 novembre 2016. Le domaine a ensuite servi à un restaurant de Béziers en 2017-2018 avant de disparaître, et aucune société ni enseigne « Sandy's » n'apparaît au registre dans la commune.",
+    "sources": [
+      "s2",
+      "s5",
+      "s6",
+      "s7",
+      "s18"
+    ]
+  },
+  "seo": {
+    "title": "Le Sandy's (ex-Liberty-Naje), Bourg-lès-Valence : fermé en 2016",
+    "metaDescription": "Né en 2007 sous le nom de Liberty-Naje, le club de la route de Châteauneuf devient le Sandy's le 1er mars 2016 et ferme le 25 : archives et registre à l'appui.",
+    "subtitle": "Ancien club libertin du 16 route de Châteauneuf-sur-Isère (26), fermé depuis le 25 mars 2016",
+    "targetQueries": [
+      "club libertin bourg les valence",
+      "sandy's bourg les valence",
+      "sandys club valence",
+      "liberty naje bourg les valence",
+      "liberty naje"
+    ]
+  },
+  "lead": "Le Sandy's n'a porté ce nom que quelques semaines : il succédait au Liberty-Naje, club libertin fondé en octobre 2007 dans un ancien garage du 16 route de Châteauneuf-sur-Isère, à Bourg-lès-Valence, et vendu par sa fondatrice début 2016. Rebaptisé au 1er mars 2016, le lieu a fermé le vendredi 25 mars « pour une durée indéterminée » et n'a pas rouvert depuis, à notre connaissance.",
+  "keyFacts": [
+    {
+      "label": "Statut",
+      "value": "Fermé depuis le vendredi 25 mars 2016, selon l'annonce du club ; jamais rouvert sous ce nom à notre connaissance",
+      "confidence": "confirme",
+      "sources": [
+        "s2",
+        "s5",
+        "s7"
+      ]
+    },
+    {
+      "label": "Nom précédent",
+      "value": "Liberty-Naje, d'octobre 2007 à fin février 2016",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s8",
+        "s14",
+        "s17"
+      ]
+    },
+    {
+      "label": "Changement de nom",
+      "value": "Annoncé pour le 1er mars 2016, après la vente du club par sa fondatrice",
+      "confidence": "confirme",
+      "sources": [
+        "s8",
+        "s20"
+      ]
+    },
+    {
+      "label": "Durée sous le nom Sandy's",
+      "value": "Trois semaines et demie au plus ; aucune soirée datée retrouvée",
+      "confidence": "a_verifier",
+      "sources": [
+        "s2",
+        "s8"
+      ]
+    },
+    {
+      "label": "Adresse",
+      "value": "16 route de Châteauneuf-sur-Isère, 26500 Bourg-lès-Valence",
+      "confidence": "confirme",
+      "sources": [
+        "s11",
+        "s17",
+        "s19",
+        "s20",
+        "s30"
+      ]
+    },
+    {
+      "label": "Exploitant du Sandy's",
+      "value": "Inconnu : aucune société ni enseigne « Sandy's » au registre dans le 26500",
+      "confidence": "confirme",
+      "sources": [
+        "s18"
+      ]
+    },
+    {
+      "label": "Société du Liberty-Naje",
+      "value": "NAJE PRODUCTION, SARL créée le 26 octobre 2007 (NAF 96.04Z), toujours inscrite comme active",
+      "confidence": "confirme",
+      "sources": [
+        "s12",
+        "s17"
+      ]
+    },
+    {
+      "label": "Public admis (période Liberty-Naje)",
+      "value": "Couples, femmes seules et hommes seuls de plus de 18 ans, carte de membre gratuite obligatoire",
+      "confidence": "source_unique",
+      "sources": [
+        "s10",
+        "s13",
+        "s15"
+      ]
+    },
+    {
+      "label": "Site officiel",
+      "value": "sandys.fr, abandonné fin 2016 ; domaine plus enregistré en octobre 2026",
+      "confidence": "confirme",
+      "sources": [
+        "s5",
+        "s7"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "fermeture-du-25-mars-2016",
+      "title": "Vendredi 25 mars 2016 : une fermeture annoncée le jour même, sans date de retour",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le Sandy's a prévenu de sa fermeture sur la seule page d'accueil de son site : le club serait fermé « à compter de ce jour (vendredi 25 Mars) », pour des raisons techniques dites indépendantes de sa volonté, « pour une durée indéterminée ». Ce message, conclu par un « A bientôt », reste identique dans les archives du 29 mars au 2 novembre 2016."
+        },
+        {
+          "kind": "list",
+          "title": "Le club n'a jamais parlé de fermeture définitive, mais rien n'a suivi :",
+          "items": [
+            "plus aucun contenu du club n'apparaît sur sandys.fr après novembre 2016 ;",
+            "le domaine sert en 2017-2018 à un restaurant de hamburgers de Béziers, puis n'est plus enregistré (constat du 16 octobre 2026) ;",
+            "aucune société ni enseigne « Sandy's » n'a été immatriculée dans la commune ;",
+            "deux guides libertins de la Drôme parus en 2026 ignorent les deux noms (sources faibles)."
+          ]
+        }
+      ],
+      "sources": [
+        "s2",
+        "s5",
+        "s6",
+        "s7",
+        "s18",
+        "s25",
+        "s26"
+      ],
+      "icon": "closed",
+      "summary": "Un seul message sur la page d'accueil, le 25 mars 2016 : fermeture « pour une durée indéterminée », sans retour annoncé ; le domaine change de mains dès 2017."
+    },
+    {
+      "id": "sandys-logo-cygne-pages-perdues",
+      "title": "Un logo en forme de cygne et des pages jamais archivées : le peu qu'on sait du Sandy's",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le site du Sandy's affichait « Sandy's Club Libertin » avec un logo en forme de cygne, saluait les « Libertines et Libertins » au nom de Sandy et de son équipe, et portait la signature du concepteur web du Liberty-Naje. Aucune des pages de son menu (programme hebdomadaire, photos, tarifs et horaires, charte) n'a été archivée : horaires, prix et soirées du Sandy's restent inconnus, et rien ne prouve qu'il ait repris le fonctionnement du Liberty-Naje."
+        },
+        {
+          "kind": "text",
+          "body": "**Qui l'exploitait ?** On l'ignore. NAJE PRODUCTION, la société du Liberty-Naje, reste inscrite comme active avec ses seules enseignes Liberty, sans qu'on sache si elle a été cédée avec le club. Les deux numéros affichés en 2016 ne sont pas reproduits ici : ils ont pu être réattribués."
+        },
+        {
+          "kind": "text",
+          "body": "**Où il se trouvait.** Au nord de la commune, près de l'échangeur entre l'A7 et la N7 selon le plan du club. L'adresse « 1 allée des Rossignols » qu'un annuaire donne pour le Liberty-Naje désigne le même secteur, à environ 90 mètres du point GPS publié par le Sandy's."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s17",
+        "s18",
+        "s19",
+        "s21",
+        "s30"
+      ],
+      "icon": "info",
+      "summary": "Du Sandy's ne restent qu'une page d'accueil, un logo au cygne et un plan d'accès : horaires, tarifs, soirées et exploitant sont inconnus."
+    },
+    {
+      "id": "liberty-naje-apres-midi-et-pub-and-fun",
+      "title": "Le Liberty-Naje en 2016 : ouvert l'après-midi en semaine, « Pub & Fun » à 10 € le vendredi",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le club d'avant, mieux documenté, ouvrait la plupart des jours l'après-midi. Ses horaires, tels que son site les affichait encore début mars 2016 :"
+        },
+        {
+          "kind": "table",
+          "caption": "Horaires affichés par le Liberty-Naje début 2016 (ceux du Sandy's sont inconnus)",
+          "headers": [
+            "Jour",
+            "Horaires"
+          ],
+          "rows": [
+            [
+              "Lundi, mercredi, jeudi",
+              "14 h – 19 h"
+            ],
+            [
+              "Mardi",
+              "14 h – minuit"
+            ],
+            [
+              "Vendredi",
+              "14 h – 19 h, puis 21 h – 2 h"
+            ],
+            [
+              "Samedi",
+              "À partir de 22 h 30"
+            ],
+            [
+              "Dimanche",
+              "Non mentionné"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le vendredi soir, la formule « Pub & Fun » réunissait spa naturiste, DJ et massage payant : 10 € l'entrée pour toutes les catégories (couple, femme seule ou travestie, homme seul), 5 € la boisson sans alcool, 10 € avec. Les après-midi et le samedi soir restaient, selon le club, « 100 % libertin »."
+        },
+        {
+          "kind": "text",
+          "body": "Seul autre prix conservé : pour les 7 ans du club, en octobre 2014, un passeport deux soirées, deux consommations par soir, à 60 € pour un couple, 40 € pour une femme seule et 90 € pour un homme seul."
+        },
+        {
+          "kind": "text",
+          "body": "Le programme de février 2016 alignait une soirée LGBT & Friendly le samedi 20, un gang bang le mardi 23 et un « Mercredi Bi-attitude » le 24. Une page d'horaires archivée en octobre 2015 réservait deux jeudis aux visiteurs inscrits à l'avance : une journée « Bi-sexe » et une soirée gang bang."
+        },
+        {
+          "kind": "text",
+          "body": "La charte exigeait d'avoir plus de 18 ans, de se doucher (le club citait son hammam et son bain à remous), des rapports protégés et, en soirée, une tenue élégante pour les hommes, sexy pour les femmes. La carte de membre, obligatoire, était gratuite."
+        },
+        {
+          "kind": "text",
+          "body": "Ces soirées n'ont plus d'adresse route de Châteauneuf. Wyylde, l'ancien Netéchangisme, tient un agenda des soirées en club consultable avec un compte gratuit : [y chercher une soirée bi ou gang bang dans la vallée du Rhône](aff:wyylde) permet de vérifier qu'une date existe avant de faire la route."
+        }
+      ],
+      "sources": [
+        "s10",
+        "s13",
+        "s14",
+        "s15",
+        "s16"
+      ],
+      "icon": "clock",
+      "summary": "Début 2016, le Liberty-Naje ouvrait cinq après-midi par semaine, le vendredi soir à 10 € l'entrée et le samedi dès 22 h 30 ; rien ne dit que le Sandy's ait suivi."
+    },
+    {
+      "id": "liberty-naje-sandys-et-deux-domaines",
+      "title": "Huit ans de Liberty-Naje, trois semaines de Sandy's, puis deux noms de domaine perdus",
+      "blocks": [
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "Octobre 2007",
+              "text": "Création de la SARL NAJE PRODUCTION le 26 octobre. Le Liberty-Naje s'installe dans un ancien garage, transformé en club avec l'aide de proches, selon sa fondatrice."
+            },
+            {
+              "date": "24-25 octobre 2014",
+              "text": "Week-end des 7 ans, avec le spectacle d'une troupe transformiste invitée le samedi."
+            },
+            {
+              "date": "Janvier 2016",
+              "text": "sandys.fr est en ligne dès le 10 janvier et se présente comme le nouveau site de l'ancien Liberty-Naje."
+            },
+            {
+              "date": "Février 2016",
+              "text": "Lettre d'adieu de la fondatrice : le club est vendu et deviendra le Sandy's le 1er mars."
+            },
+            {
+              "date": "26-27 février 2016",
+              "text": "Dernier week-end du Liberty-Naje, conclu par un spectacle d'adieu."
+            },
+            {
+              "date": "25 mars 2016",
+              "text": "Le Sandy's annonce sa fermeture."
+            },
+            {
+              "date": "Novembre 2016",
+              "text": "Dernière capture du site du Sandy's, le 2 novembre, toujours avec l'annonce de fermeture ; liberty-naje.fr n'est plus qu'un domaine parqué."
+            },
+            {
+              "date": "Mai 2026",
+              "text": "liberty-naje.fr, réenregistré, affiche un site de téléphone rose sans lien avec le club."
+            }
+          ]
+        }
+      ],
+      "sources": [
+        "s1",
+        "s5",
+        "s8",
+        "s9",
+        "s12",
+        "s14",
+        "s17",
+        "s2",
+        "s22",
+        "s28",
+        "s30"
+      ],
+      "icon": "history",
+      "summary": "Liberty-Naje de fin 2007 à février 2016, Sandy's à partir du 1er mars, fermeture le 25 mars ; les deux sites ont ensuite été repris par des activités sans rapport."
+    },
+    {
+      "id": "pistes-autour-de-valence-en-2026",
+      "title": "L'Île du Levant donnée fermée dès 2019, Hylas et la rue Jonchère à Valence : les adresses de 2026",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Dans la commune, l'autre adresse de notre annuaire, [L'Île du Levant, 50 rue de Verdun](/l-ile-du-levant-bourg-les-valence), est rangée parmi les clubs « fermés » du guide clubech dans une archive d'août 2019. Sa société, un débit de boissons créé en 2001, reste active au registre, ce qui ne prouve aucune activité de club. Voir aussi [la page Bourg-lès-Valence](/ville/bourg-les-valence)."
+        },
+        {
+          "kind": "text",
+          "body": "À Valence, deux guides de 2026 citent comme actifs [le sauna libertin Hylas, avenue de Verdun](/club-hylas-valence-balneo) et La Plume du Phénix, 20 rue Jonchère ; l'un d'eux ajoute le sauna Le Phénix au 20 bis. Ces deux derniers ne figurent pas encore dans notre annuaire."
+        },
+        {
+          "kind": "text",
+          "body": "Selon son site, consulté le 16 octobre 2026, Hylas ouvre tous les jours l'après-midi (dès 12 h en semaine, 14 h le week-end) et organise des soirées à thème du jeudi au samedi, de 21 h à 2 h ; la page n'affiche aucune actualité datée. Le reste du département figure sur [notre page Drôme](/departement/drome)."
+        },
+        {
+          "kind": "text",
+          "body": "Sans club confirmé dans la commune, faire connaissance en ligne évite de découvrir une adresse à l'aveugle : [les couples et les femmes seules ont tout gratuitement](aff:carre-libertin) sur Carré Libertin dès qu'ils affichent trois photos de profil. De quoi y chercher des libertins de l'agglomération valentinoise avant de pousser une porte rue Jonchère ou avenue de Verdun."
+        }
+      ],
+      "sources": [
+        "s25",
+        "s26",
+        "s27",
+        "s29",
+        "s31"
+      ],
+      "icon": "map",
+      "summary": "Aucun club n'est confirmé à Bourg-lès-Valence ; deux guides de 2026 citent comme actifs Hylas et La Plume du Phénix, tous deux à Valence."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Le Sandy's de Bourg-lès-Valence est-il toujours ouvert ?",
+      "answer": "Non. Il a annoncé sa fermeture le vendredi 25 mars 2016, moins d'un mois après avoir pris ce nom, et son site, resté figé sur cette annonce, a été abandonné la même année."
+    },
+    {
+      "question": "Le Sandy's et le Liberty-Naje, est-ce le même club ?",
+      "answer": "Oui, c'est le même lieu : la fondatrice du Liberty-Naje a annoncé l'avoir vendu et précisé qu'il deviendrait le Sandy's le 1er mars 2016. Le repreneur n'est pas connu."
+    },
+    {
+      "question": "Reste-t-il un club libertin à Bourg-lès-Valence ?",
+      "answer": "Aucun n'est confirmé : L'Île du Levant, rue de Verdun, figure parmi les clubs « fermés » d'un guide dès 2019, et les lieux cités comme actifs en 2026, dont Hylas, sont à Valence."
+    },
+    {
+      "question": "Les sites sandys.fr et liberty-naje.fr fonctionnent-ils encore ?",
+      "answer": "Non. sandys.fr n'est plus enregistré (constat du 16 octobre 2026), et liberty-naje.fr porte depuis mai 2026 un site de téléphone rose surtaxé sans aucun lien avec le club. Pour rencontrer des libertins de la région sans ce genre de ligne, [Gleese, qui authentifie chaque inscrit par téléphone](aff:gleese), modère les photos à la main et ne demande aucune carte bancaire à l'inscription."
+    },
+    {
+      "question": "Quels étaient les horaires et les tarifs du Sandy's ?",
+      "answer": "On ne les connaît pas : ces pages de sandys.fr n'ont jamais été archivées. Ceux du Liberty-Naje en mars 2016 sont détaillés plus haut, sans preuve que le Sandy's les ait gardés."
+    }
+  ],
+  "unverified": [
+    "Le Sandy's a-t-il réellement accueilli du public dès le 1er mars 2016 ? Aucune soirée datée à son nom n'a été retrouvée.",
+    "Ses horaires, tarifs, soirées et règles : les pages correspondantes de sandys.fr n'ont pas été archivées.",
+    "La société qui exploitait le Sandy's, et le sort de NAJE PRODUCTION (parts cédées ou seule vente du fonds).",
+    "Une autre activité libertine au 16 route de Châteauneuf-sur-Isère après 2016 : aucune trace trouvée, mais la recherche dans la presse locale (Le Dauphiné Libéré) reste à faire.",
+    "Une page Facebook ou une fiche Google au nom du Sandy's : rien trouvé lors d'une recherche web le 19 octobre 2026 ; la page Facebook du Liberty-Naje ne montre aucune publication datée.",
+    "Les équipements que seul un annuaire attribue au Liberty-Naje : jacuzzi, backrooms, coin SM, cage."
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Site officiel du Sandy's, page d'accueil (archive du 26/01/2016)",
+      "url": "http://web.archive.org/web/20160126204526/http://sandys.fr/Page%20web/accueil.htm",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s2",
+      "label": "Site officiel du Sandy's, page d'accueil avec l'annonce de fermeture (archives des 29/03, 26/04, 30/06 et 01/08/2016)",
+      "url": "http://web.archive.org/web/20160801192938/http://www.sandys.fr:80/Page%20web/accueil.htm",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s3",
+      "label": "Site officiel du Sandy's, page Contact (archive du 28/04/2016)",
+      "url": "http://web.archive.org/web/20160428021622/http://www.sandys.fr:80/Page%20web/Contact_1.php",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s4",
+      "label": "Site officiel du Sandy's, bannières et plan d'accès (archives de janvier à mai 2016)",
+      "url": "http://web.archive.org/web/20160523071559/http://sandys.fr/Page%20web/images/Carte%20Club%20Sandys.JPG",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s5",
+      "label": "Wayback Machine, index des captures de sandys.fr",
+      "url": "http://web.archive.org/cdx/search/cdx?url=sandys.fr*&fl=timestamp,original,statuscode",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s6",
+      "label": "sandys.fr devenu le site d'un restaurant de Béziers (archive du 30/03/2018)",
+      "url": "http://web.archive.org/web/20180330050100/http://sandys.fr/",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s7",
+      "label": "AFNIC, interrogation RDAP du domaine sandys.fr (domaine introuvable)",
+      "url": "https://rdap.nic.fr/domain/sandys.fr",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s8",
+      "label": "Site officiel du Liberty-Naje, lettre « Au revoir » de la fondatrice (archive du 08/03/2016)",
+      "url": "http://web.archive.org/web/20160308123811/http://liberty-naje.fr:80/pages_webs/2016-02-fevrier/Aurevoir.htm",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s9",
+      "label": "Site officiel du Liberty-Naje, dernier week-end « Hello Good Bye » (archive du 07/03/2016)",
+      "url": "http://web.archive.org/web/20160307045703/http://liberty-naje.fr:80/pages_webs/2016-02-fevrier/S_27_02-Aurevoir.htm",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s10",
+      "label": "Site officiel du Liberty-Naje, page d'accueil, horaires et programme (archive du 07/03/2016)",
+      "url": "http://web.archive.org/web/20160307074557/http://www.liberty-naje.fr/pages_webs/accueil.htm",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s11",
+      "label": "Site officiel du Liberty-Naje, page d'entrée avec l'adresse (archive du 06/04/2016)",
+      "url": "http://web.archive.org/web/20160406214804/http://www.liberty-naje.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s12",
+      "label": "Site officiel du Liberty-Naje, mentions légales (archive du 27/09/2011)",
+      "url": "http://web.archive.org/web/20110927070526/http://www.liberty-naje.fr:80/pages_webs/mention_legales.htm",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s13",
+      "label": "Site officiel du Liberty-Naje, charte du club (archive du 08/03/2016)",
+      "url": "http://web.archive.org/web/20160308123835/http://www.liberty-naje.fr/pages_webs/charte.htm",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s14",
+      "label": "Site officiel du Liberty-Naje, week-end des 7 ans (archive du 18/10/2014)",
+      "url": "http://web.archive.org/web/20141018110432/http://liberty-naje.fr:80/pages_webs/2014-10-octobre/24-25_7ansliberty-naje.htm",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s15",
+      "label": "Site officiel du Liberty-Naje, formule du vendredi « Pub & Fun » (archive du 08/03/2016)",
+      "url": "http://web.archive.org/web/20160308123830/http://liberty-naje.fr:80/pages_webs/2016-02-fevrier/Vendredi_new_formule.htm",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s16",
+      "label": "Site officiel du Liberty-Naje, page Horaires (archive du 17/10/2015)",
+      "url": "http://web.archive.org/web/20151017044603/http://www.liberty-naje.fr/pages_webs/horaires.htm",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s17",
+      "label": "Annuaire des entreprises, NAJE PRODUCTION (SIREN 500 995 295)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/500995295",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s18",
+      "label": "Recherche d'entreprises : sociétés du 16 route de Châteauneuf-sur-Isère et enseignes « Sandy's » dans le 26500",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=16%20route%20de%20chateauneuf%20sur%20isere&code_postal=26500",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s19",
+      "label": "Base Adresse Nationale, allée des Rossignols à Bourg-lès-Valence (distances calculées par nous)",
+      "url": "https://api-adresse.data.gouv.fr/search/?q=1%20allee%20des%20Rossignols%2026500%20Bourg-les-Valence",
+      "type": "carte",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s20",
+      "label": "sauna-club-libertin.com, fiche « Le Sandy's » (annuaire, source faible)",
+      "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_3.php?id=15495&d=26",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s21",
+      "label": "sauna-club-libertin.com, fiche « Liberty-Naje » (annuaire, source faible)",
+      "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_3.php?id=14799&d=26",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s22",
+      "label": "AFNIC, interrogation RDAP du domaine liberty-naje.fr (réenregistré le 01/05/2026, site sans rapport avec le club)",
+      "url": "https://rdap.nic.fr/domain/liberty-naje.fr",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s25",
+      "label": "saunaclublebali.fr, « Clubs libertins Drôme (26) », guide publié le 15/03/2026 (source faible)",
+      "url": "https://www.saunaclublebali.fr/clubs-libertins-drome-26/",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s26",
+      "label": "kinkyee.fr, « Club libertin Valence », guide 2026 (source faible)",
+      "url": "https://kinkyee.fr/club-libertin/valence/",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s27",
+      "label": "Annuaire des entreprises, ILE DU LEVANT (SIREN 439 142 993)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/439142993",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s28",
+      "label": "Wayback Machine, index des captures de liberty-naje.fr",
+      "url": "http://web.archive.org/cdx/search/cdx?url=liberty-naje.fr&matchType=domain&fl=timestamp,original,statuscode",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s29",
+      "label": "Site officiel de Hylas, sauna libertin à Valence (autre établissement)",
+      "url": "https://hylaslibertins.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s30",
+      "label": "Site officiel du Sandy's, page d'avertissement avec l'adresse (archive du 10/01/2016)",
+      "url": "http://web.archive.org/web/20160110083304/http://sandys.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s31",
+      "label": "clubech.fr, fiche « L'Ile du Levant (fermé) » (archive du 17/08/2019, guide, source faible)",
+      "url": "http://web.archive.org/web/20190817203647/http://www.clubech.fr/ile-du-levant-bourg-valence/",
+      "type": "annuaire",
+      "consulted": "2026-10-19"
+    }
+  ],
+  "glance": [
+    {
+      "icon": "closed",
+      "label": "Fermé",
+      "value": "Depuis le vendredi 25 mars 2016"
+    },
+    {
+      "icon": "history",
+      "label": "Sous le nom Sandy's",
+      "value": "Du 1er au 25 mars 2016 au plus",
+      "confidence": "a_verifier"
+    },
+    {
+      "icon": "building",
+      "label": "Nom précédent",
+      "value": "Liberty-Naje, d'octobre 2007 à février 2016"
+    },
+    {
+      "icon": "map",
+      "label": "Ancienne adresse",
+      "value": "16 route de Châteauneuf-sur-Isère"
+    },
+    {
+      "icon": "globe",
+      "label": "Site sandys.fr",
+      "value": "Domaine plus enregistré en octobre 2026"
+    },
+    {
+      "icon": "heart",
+      "label": "Cités actifs en 2026",
+      "value": "Hylas, La Plume du Phénix (Valence)",
+      "confidence": "source_unique"
+    }
+  ],
+  "highlights": [
+    "Le Sandy's a annoncé sa fermeture le vendredi 25 mars 2016 « pour une durée indéterminée » ; aucune réouverture n'a été trouvée depuis.",
+    "Sandy's et Liberty-Naje désignent le même lieu : la fondatrice a vendu le club, rebaptisé au 1er mars 2016.",
+    "liberty-naje.fr affiche depuis mai 2026 un service de téléphone rose surtaxé sans lien avec le club ; sandys.fr ne répond plus.",
+    "L'autre adresse de la commune, L'Île du Levant (rue de Verdun), figure parmi les clubs « fermés » d'un guide dès 2019.",
+    "Les lieux cités comme actifs par deux guides de 2026 sont à Valence : Hylas, avenue de Verdun, et La Plume du Phénix, rue Jonchère."
+  ]
+}

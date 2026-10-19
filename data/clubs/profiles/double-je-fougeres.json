@@ -1,0 +1,900 @@
+{
+  "slug": "double-je-fougeres",
+  "clubId": "15398",
+  "researchedAt": "2026-10-16",
+  "display": {
+    "nom": "Double Je",
+    "ville": "Fougères"
+  },
+  "status": {
+    "value": "ferme",
+    "summary": "Le site du club annonce une fermeture « jusqu'à nouvel ordre », « suite aux mesures gouvernementales », dans les archives d'août 2020, de juin 2021 et de décembre 2021, sans aucune trace de réouverture. Le 9 novembre 2021, le tribunal de commerce de Troyes a placé la société exploitante en liquidation judiciaire, en fixant sa cessation des paiements au 9 mai 2020. Un avis de mars 2022 qualifie le club de « définitivement fermé », et un article de mai 2025, connu par son seul titre et son chapô, annonce la reconversion du local.",
+    "sources": [
+      "s9",
+      "s15",
+      "s17",
+      "s24",
+      "s23"
+    ]
+  },
+  "seo": {
+    "title": "Club libertin à Fougères : le Double Je, fermé depuis 2020",
+    "metaDescription": "Dernier club libertin connu de Fougères, le Double Je (164 rue de Laval) n'a pas rouvert après 2020 : preuves, histoire du lieu, clubs actifs près de Rennes.",
+    "subtitle": "Ancien club libertin et sauna de 325 m² au 164 rue de Laval, à Fougères (35), fermé depuis le printemps 2020",
+    "targetQueries": [
+      "club libertin fougères",
+      "club libertin fougeres",
+      "double je fougères",
+      "double je club libertin",
+      "club échangiste fougères"
+    ]
+  },
+  "lead": "Fougères n'a plus de club libertin : le Double Je, ouvert en août 2014 au 164 rue de Laval, a fermé au printemps 2020 « suite aux mesures gouvernementales » et n'a jamais rouvert ; son exploitant a été placé en liquidation judiciaire en novembre 2021. Ses 325 m² réunissaient sauna, hammam, piste de pole dance, coins câlins, salle BDSM et, à la fin, un jacuzzi. Les plus proches établissements dont l'activité est attestée en octobre 2026 sont à Rennes (44 km) et à Bréal-sous-Montfort (60 km).",
+  "keyFacts": [
+    {
+      "label": "Statut",
+      "value": "Fermé depuis le printemps 2020, sans réouverture",
+      "confidence": "confirme",
+      "sources": [
+        "s9",
+        "s15",
+        "s24"
+      ]
+    },
+    {
+      "label": "Adresse",
+      "value": "164 rue de Laval, 35300 Fougères (et non « route de Laval »)",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s2",
+        "s12",
+        "s16"
+      ]
+    },
+    {
+      "label": "Début d'activité",
+      "value": "10 août 2014",
+      "confidence": "confirme",
+      "sources": [
+        "s12",
+        "s13",
+        "s14"
+      ]
+    },
+    {
+      "label": "Exploitants",
+      "value": "SARL THIANN (2014-2019), puis LES JOLIS COINS DE FRANCE, placée en liquidation judiciaire en novembre 2021",
+      "confidence": "confirme",
+      "sources": [
+        "s12",
+        "s14",
+        "s15",
+        "s17"
+      ]
+    },
+    {
+      "label": "Avant le club",
+      "value": "Soins corporels dès 2006, sauna en 2008, puis sauna-club libertin à l'enseigne L'Émeraude de 2009 à 2014",
+      "confidence": "confirme",
+      "sources": [
+        "s18"
+      ]
+    },
+    {
+      "label": "Surface",
+      "value": "325 m²",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s2",
+        "s21",
+        "s22"
+      ]
+    },
+    {
+      "label": "Espaces (2020)",
+      "value": "Sauna, hammam, jacuzzi, piste avec 4 barres de pole dance, 5 coins câlins, salle BDSM",
+      "confidence": "source_unique",
+      "sources": [
+        "s9"
+      ]
+    },
+    {
+      "label": "Public admis",
+      "value": "Couples, femmes seules, trios ; hommes seuls limités à 10 certains samedis jusqu'en 2019",
+      "confidence": "confirme",
+      "sources": [
+        "s2",
+        "s3",
+        "s7"
+      ]
+    },
+    {
+      "label": "Entrée couple (2019-2020)",
+      "value": "20 € en semaine, 30 € le samedi soir (grille de septembre 2019)",
+      "confidence": "confirme",
+      "sources": [
+        "s5",
+        "s25"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "164-rue-de-laval-2006-2026",
+      "title": "Un sauna en 2008, un club libertin dès 2009 : le 164 rue de Laval en dates",
+      "icon": "history",
+      "summary": "Sauna en 2008, sauna-club L'Émeraude de 2009 à 2014, Double Je d'août 2014 à 2020, revendu 59 000 € en 2019, exploitant liquidé en 2021.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le Double Je n'a pas inventé le lieu. De 2009 à 2014, l'adresse abritait déjà un sauna-club libertin à l'enseigne L'Émeraude, la même que [le club de Châteauneuf-d'Ille-et-Vilaine](/l-emeraude-chateauneuf-ille-et-vilaine), dont l'exploitant tenait ici un établissement secondaire. Ce sont deux lieux distincts."
+        },
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "Avril 2006",
+              "text": "Un établissement de soins corporels, exploité par la SARL L'Emeraude, ouvre à l'adresse."
+            },
+            {
+              "date": "30 juin 2008",
+              "text": "La société CAPILAU rachète 85 000 € le fonds, décrit comme « sauna, relaxation, détente et soins du corps », avec restaurant et bar."
+            },
+            {
+              "date": "Août 2009",
+              "text": "Le lieu devient un « sauna, club libertin » à l'enseigne L'Émeraude."
+            },
+            {
+              "date": "10 août 2014",
+              "text": "La SARL THIANN, qui a racheté 40 000 € le fonds de « club privé libertin », lance le Double Je ; la soirée d'ouverture est annoncée pour le 12 septembre."
+            },
+            {
+              "date": "2015 à 2018",
+              "text": "Le club fête chaque année son anniversaire, avec un « shoot photos moto » pour ses deux ans."
+            },
+            {
+              "date": "Février 2019",
+              "text": "Les gérants mettent le club en vente sur Le Bon Coin, « urgent à vendre cause santé », pour 69 000 €. Le Tribunal du Net et Starmag relaient l'annonce ; selon le premier, certains clients venaient de 200 km."
+            },
+            {
+              "date": "28 mai 2019",
+              "text": "Vente pour 59 000 € à LES JOLIS COINS DE FRANCE, une société de l'Aube qui rachète aussi en juin un club-discothèque à Cormost. Le 31 mai, l'équipe fondatrice fait ses adieux sur le livre d'or : « Voilà c'est fini pour nous »."
+            },
+            {
+              "date": "Juin à décembre 2019",
+              "text": "La nouvelle équipe élargit les horaires, ouvre tous les jours dès 15 h à partir du 2 septembre, puis annonce un nouveau spa en décembre."
+            },
+            {
+              "date": "Printemps 2020",
+              "text": "Fermeture « suite aux mesures gouvernementales » ; la cessation des paiements sera fixée au 9 mai 2020. La SARL THIANN, le vendeur, est radiée le 3 avril 2020."
+            },
+            {
+              "date": "9 novembre 2021",
+              "text": "Liquidation judiciaire de l'exploitant, prononcée à Troyes."
+            },
+            {
+              "date": "2024 à 2026",
+              "text": "Les domaines du club passent à des tiers (2024), un article annonce la reconversion du local (mai 2025), puis un débit de boissons à l'enseigne SAXO ouvre au 164 rue de Laval, sans lien établi avec l'ancien club (août 2026)."
+            }
+          ]
+        }
+      ],
+      "sources": [
+        "s1",
+        "s3",
+        "s5",
+        "s8",
+        "s10",
+        "s11",
+        "s12",
+        "s13",
+        "s14",
+        "s15",
+        "s18",
+        "s19",
+        "s21",
+        "s22",
+        "s23",
+        "s26"
+      ]
+    },
+    {
+      "id": "ferme-depuis-2020",
+      "title": "Fermé « jusqu'à nouvel ordre » en 2020, liquidé en 2021 : six preuves datées",
+      "icon": "closed",
+      "summary": "Le club annonce sa fermeture « jusqu'à nouvel ordre » dès août 2020 ; l'exploitant est liquidé en novembre 2021 et un article de mai 2025 annonce la reconversion du local.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "En octobre 2026, aucun club libertin n'est en activité à Fougères : le Double Je était le seul que nous ayons trouvé dans la ville. La date de sa dernière soirée n'est pas connue. L'ancien site, capturé pour la dernière fois le 12 décembre 2019, annonçait encore une ouverture quotidienne et un nouveau spa ; le bandeau de fermeture apparaît au plus tard le 8 août 2020, et le club l'attribue aux « mesures gouvernementales »."
+        },
+        {
+          "kind": "list",
+          "title": "Ce qui établit la fermeture",
+          "items": [
+            "**Le club l'annonçait lui-même** : sur clubdoubleje.com, fermeture « jusqu'à nouvel ordre », avec un message identique dans les captures du 8 août 2020, du 16 juin 2021 et du 18 décembre 2021.",
+            "**Liquidation judiciaire** de la société exploitante, prononcée le 9 novembre 2021 par le tribunal de commerce de Troyes, avec une cessation des paiements fixée au 9 mai 2020.",
+            "**Un avis du 25 mars 2022** sur lieuxcoquins.fr : « club définitivement fermé ! ». Son auteur, venu avec un autre couple, dit avoir fait 160 km pour rien.",
+            "**Les deux noms de domaine du club** sont passés à des tiers en 2024 (voir la FAQ).",
+            "**Un article du 2 mai 2025**, « Une nouvelle vie pour l'ancien club échangiste de Fougères », annonce pour le local « une tout autre activité ». Il n'est plus en ligne : nous n'en connaissons que le titre et le chapô.",
+            "**Le Petit Futé** ne mentionne plus le lieu : l'adresse de son ancienne fiche renvoie à sa sélection 2026 pour Fougères, où le Double Je ne figure pas."
+          ]
+        },
+        {
+          "kind": "callout",
+          "tone": "info",
+          "title": "Pourquoi le registre affiche encore « actif »",
+          "body": "Au registre des entreprises, l'établissement de Fougères de la société exploitante figure toujours comme actif. C'est une situation administrative restée en l'état malgré la liquidation judiciaire de 2021, pas un signe d'activité. Les annuaires qui affichent encore un numéro ou des horaires reprennent, eux, des données publiées entre 2014 et 2018."
+        }
+      ],
+      "sources": [
+        "s9",
+        "s10",
+        "s11",
+        "s15",
+        "s16",
+        "s17",
+        "s23",
+        "s24",
+        "s27",
+        "s28",
+        "s29"
+      ]
+    },
+    {
+      "id": "sortir-depuis-fougeres-2026",
+      "title": "Rennes à 44 km, Bréal-sous-Montfort à 60 km : deux programmes datés relevés le 16 octobre 2026",
+      "icon": "map",
+      "summary": "Aucun club actif trouvé à moins de 40 km : Sauna California à Rennes (44 km) et Le Plaisir Club à Bréal-sous-Montfort (60 km) affichent un programme daté d'octobre 2026.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "En 2020, le Double Je se disait « à 30 minutes de Rennes ». Le trajet se fait désormais dans l'autre sens. Distances à vol d'oiseau depuis Fougères, activité relevée sur les sites officiels le 16 octobre 2026 :"
+        },
+        {
+          "kind": "list",
+          "items": [
+            "[Sauna California](/sauna-california-rennes), rue de Léon à Rennes, **44 km** : un sauna à deux univers, « Gay » et « Mixte », qui publiait le programme de la semaine du 16 au 22 octobre 2026, avec des créneaux mixtes le mardi, le jeudi, le vendredi soir et le samedi soir.",
+            "[Le Plaisir Club](/le-plaisir-club-breal-sous-monfort), à Bréal-sous-Montfort, **60 km** : neuf dates annoncées jusqu'au 14 novembre 2026, soirées le vendredi et le samedi, après-midi balnéo le dimanche.",
+            "[La Petite Cheminée](/petite-cheminee-saint-aubin), près de Châteaugiron, **40 km**, la plus proche : ouverture affichée le vendredi et le samedi soir, mais aucun agenda daté de l'année ; activité non vérifiée pour cette fiche.",
+            "L'Émeraude, à Châteauneuf-d'Ille-et-Vilaine, **59 km** : site en ligne, activité non vérifiée."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Vers l'est et le nord, nous n'avons trouvé aucun lieu actif : le site du Manoir, à Juvigné (Mayenne), a disparu, celui du Point G, près d'Avranches, n'a plus rien d'un club, et un guide d'avril 2026 ne recense aucun établissement libertin actif en Mayenne. Les autres adresses figurent sur [notre carte des clubs d'Ille-et-Vilaine](/departement/ille-et-vilaine).\n\nLes deux couples venus pour rien en 2022 le rappellent : un club encore listé en ligne n'est pas forcément ouvert. Avant une heure de route vers Rennes ou Bréal, consultez le calendrier du club, puis [recoupez la date sur l'agenda de Wyylde](aff:wyylde) : l'ancien Netéchangisme, en ligne depuis 2001, ouvre son agenda des soirées aux comptes gratuits, mais il faut un abonnement pour répondre aux messages.\n\nNous n'avons trouvé aucun club en activité à moins de 40 km de Fougères : pour un couple du pays fougerais, chaque sortie en club suppose désormais une longue route. Sur Carré Libertin, en ligne depuis 2007 et qui annonce plus de 500 000 inscrits, couples et femmes ont un accès complet gratuit s'ils publient trois photos de profil : de quoi [repérer des couples entre Fougères et Vitré](aff:carre-libertin), et peut-être partager la route vers un club rennais."
+        }
+      ],
+      "sources": [
+        "s9",
+        "s24",
+        "s30",
+        "s31",
+        "s32",
+        "s33",
+        "s34"
+      ]
+    },
+    {
+      "id": "325-m2-sauna-jacuzzi",
+      "title": "Sauna et hammam dès 2014, jacuzzi fin 2019 : les 325 m² au fil des versions du site",
+      "icon": "spa",
+      "summary": "Sauna, hammam, piste avec cage et pole dance dès 2014 ; sept coins coquins en 2019 ; jacuzzi, salle BDSM et cinq coins câlins sur la page de 2020.",
+      "blocks": [
+        {
+          "kind": "table",
+          "caption": "Équipements décrits par le club lui-même, à trois dates (sites officiels archivés)",
+          "headers": [
+            "Espace",
+            "2014, à l'ouverture",
+            "Juin 2019",
+            "2020, page « Le club »"
+          ],
+          "rows": [
+            [
+              "Espace humide",
+              "Sauna, hammam, douches",
+              "Sauna, hammam, films, douches à l'italienne",
+              "Sauna, hammam, jacuzzi, douches, vestiaires"
+            ],
+            [
+              "Coins câlins",
+              "Coins ouverts ou fermés",
+              "7 coins ouverts ou fermés, literie en simili, coin massage",
+              "5 coins ouverts ou fermés, coin massage avec huile fournie"
+            ],
+            [
+              "Matériel BDSM",
+              "Non mentionné",
+              "Un coin avec « seXe machine », balançoire, croix de Saint-André et lit rond",
+              "Coin BDSM et salle avec balançoire, croix de Saint-André, carcan et fouet"
+            ],
+            [
+              "Piste",
+              "Piste de danse, cage, pole dance",
+              "Piste avec cage et plusieurs barres de pole dance",
+              "Piste avec 4 barres de pole dance, DJ le samedi soir"
+            ],
+            [
+              "Bar et restauration",
+              "Bar « relooké » (cocktails, champagne)",
+              "Non détaillé",
+              "Alcools, softs et cocktails ; croque-monsieur toute la semaine"
+            ],
+            [
+              "Vestiaire",
+              "Casiers individuels",
+              "Vestiaire à l'entrée, casiers fermant à clé avec serviettes",
+              "Serviettes et paréo fournis"
+            ],
+            [
+              "Fumeurs",
+              "Espace fumeurs (intérieur avec extracteur en 2015)",
+              "Espaces intérieur et extérieur",
+              "Non mentionné (extérieur seulement en décembre 2019)"
+            ],
+            [
+              "Stationnement",
+              "Parking privé et éclairé",
+              "Non mentionné",
+              "Parking discret, camping-car ou caravane possible un peu plus loin"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le jacuzzi est l'apport de la seconde équipe : aucune source antérieure à décembre 2019 n'en parle, et le site l'annonce alors comme « notre nouveau S.P.A. ». Les coins câlins passent de sept à cinq entre 2019 et 2020, signe probable d'un réaménagement. La piscine et le glory hole parfois associés au club n'apparaissent sur aucune page du club ni dans aucun article."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s2",
+        "s3",
+        "s6",
+        "s9",
+        "s21",
+        "s22"
+      ]
+    },
+    {
+      "id": "ten-men-hommes-seuls",
+      "title": "« Ten Men » : dix hommes seuls au plus, certains samedis, jusqu'en 2019",
+      "icon": "users",
+      "summary": "Jusqu'en 2019, le premier samedi du mois excluait les hommes seuls et les autres samedis en admettaient dix au plus ; fin 2019, vendredis et samedis deviennent mixtes.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "À l'été 2015, les hommes seuls n'entraient le samedi soir que le dernier samedi du mois, pour une soirée « Ten Mens » à 50 €. La règle s'est ensuite précisée : sur le site de juin 2019, le premier samedi du mois était réservé, « sauf annonce contraire », aux couples, aux femmes seules et aux trios constitués ; les autres samedis, la soirée « Ten Men » acceptait dix hommes seuls au plus, « connus et sélectionnés à l'entrée ». Le vendredi était mixte. En décembre 2019, vendredis et samedis devenaient mixtes, avec un contrôle des entrées masculines.\n\nLe club se disait ouvert à tous (« couple, homme, femme, LGBT »), débutants compris ; en 2020, un membre de l'équipe expliquait les règles et faisait visiter les lieux à l'arrivée."
+        },
+        {
+          "kind": "list",
+          "title": "Les règles affichées par le club (2015 à 2020)",
+          "items": [
+            "Téléphones portables interdits à l'intérieur.",
+            "Préservatif obligatoire et fourni ; « une porte fermée reste fermée ».",
+            "Douche obligatoire avant le sauna, le hammam et, en 2020, le spa.",
+            "Exclusion définitive pour usage de stupéfiants ; mineurs interdits.",
+            "Tenue de 2015 à 2019 : chemise ou polo, pantalon et chaussures de ville pour les hommes, tennis refusées ; jupe, robe, tenue sexy ou lingerie pour les femmes, pantalon refusé. En 2019, les thèmes de soirée étaient « proposés, jamais imposés ».",
+            "Privatisation possible sur demande."
+          ]
+        }
+      ],
+      "sources": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s6",
+        "s7",
+        "s9"
+      ]
+    },
+    {
+      "id": "tarifs-2014-2019",
+      "title": "Le samedi soir, l'entrée couple est passée de 45 € en 2015 à 30 € en 2019",
+      "icon": "euro",
+      "summary": "Le couple payait 45 € le samedi soir en 2015 et 30 € sur la grille de septembre 2019 ; en 2015, la première boisson était comprise dans toute entrée payante.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le Double Je a connu au moins quatre grilles en six ans. En 2015, la première boisson était comprise dans toute entrée payante, puis softs et cafés offerts, et une carte d'adhérent gratuite offrait la dixième entrée. Le dimanche après-midi (15 h-19 h), fermé l'été et rouvert le 4 octobre 2015, le couple payait 30 €, l'homme seul 45 €."
+        },
+        {
+          "kind": "table",
+          "caption": "Tarifs d'entrée en soirée, 2014 et 2015 (site officiel archivé). En 2014, les deux soirées allaient de 21 h 30 à 3 h ; le jour de la seconde n'est pas lisible sur l'archive.",
+          "headers": [
+            "Entrée",
+            "2014, soirée mixte",
+            "2014, soirée sans tarif homme",
+            "Été 2015, vendredi 22 h-3 h 30",
+            "Été 2015, samedi 22 h-4 h 30"
+          ],
+          "rows": [
+            [
+              "Couple",
+              "30 €",
+              "40 €",
+              "30 € (moitié prix avec consommation avant 23 h)",
+              "45 €"
+            ],
+            [
+              "Homme seul",
+              "45 €",
+              "Pas de tarif",
+              "45 €",
+              "50 €, le dernier samedi du mois seulement"
+            ],
+            [
+              "Femme seule",
+              "10 €",
+              "10 €",
+              "Gratuit, ou 8 € avec une boisson",
+              "10 €"
+            ],
+            [
+              "Trio",
+              "60 €",
+              "75 €",
+              "60 € (une femme, deux hommes)",
+              "80 € (une femme, deux hommes)"
+            ],
+            [
+              "Couple avec bouteille de champagne",
+              "Non proposé",
+              "Non proposé",
+              "75 €",
+              "90 €"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Des pages non datées, encore en ligne en juillet 2019, proposaient l'entrée offerte avant 22 h 30 aux couples et aux femmes seules, contre une consommation de 7 € par personne. La dernière grille, en vigueur dès le 2 septembre 2019 et reprise dans l'encadré des tarifs, baisse le prix pour les couples (30 € le samedi soir au lieu de 45 € en 2015) et crée un tarif pour les personnes travesties ou trans."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s4",
+        "s5",
+        "s7"
+      ]
+    },
+    {
+      "id": "miss-mister-libertic-hawai",
+      "title": "Miss et Mister Double Je, soirées Libertic, Hawaï : les thèmes gardés par les archives",
+      "icon": "sparkles",
+      "summary": "Les archives gardent les titres des soirées : élections Miss et Mister Double Je, soirées Libertic, thèmes Gladiateur ou French cancan, galeries Halloween, Hawaï et Pirates.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Les galeries et les flyers ne sont plus consultables, mais les archives du site en gardent les titres ; nous n'avons pas vu leur contenu."
+        },
+        {
+          "kind": "list",
+          "items": [
+            "**Élections** : Miss Double Je le samedi 3 mars 2018, puis Miss et Mister Double Je 2019.",
+            "**Soirées Libertic** : tee-shirts mouillés le 8 août 2015, nouvelle édition le 3 novembre 2018.",
+            "**Thèmes** : Super héros, Bikini, Hôtesse de l'air, Gladiateur, Orgie romaine, French cancan, Cowboy indien, Uniformes, Domination, Topless, Strip ladies, Coupe du monde.",
+            "**Dernières galeries** (site de 2020) : Halloween, Hawaï et Pirates ; un visuel de jeu-concours « Hawaï » figurait sur le site en décembre 2019."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "La page « Le club » du site de 2020 annonçait un DJ tous les samedis soir. Le site de 2019 affichait une bannière vers Wyylde, celui de 2020 un encart vers un partenaire de rencontres qu'il ne nommait pas."
+        }
+      ],
+      "sources": [
+        "s2",
+        "s3",
+        "s9",
+        "s10"
+      ]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Lundi au jeudi (2019-2020)": "15 h - 0 h 30",
+      "Vendredi (2019-2020)": "15 h - 3 h",
+      "Samedi (2019-2020)": "15 h - 19 h 30, puis 21 h - 4 h 30",
+      "Dimanche (2019-2020)": "15 h - minuit"
+    },
+    "note": "Horaires en vigueur du 2 septembre 2019 à la fermeture du printemps 2020, relevés sur l'archive du site officiel. Le club n'ouvre plus.",
+    "confidence": "confirme",
+    "sources": [
+      "s5",
+      "s25"
+    ]
+  },
+  "tarifs": {
+    "rows": {
+      "Femme seule": "Gratuit",
+      "Couple, en semaine": "20 €",
+      "Couple, samedi soir": "30 € (20 € de 21 h à 22 h)",
+      "Homme seul, en semaine": "30 € (45 € le vendredi dès 21 h)",
+      "Homme seul, samedi soir": "45 €",
+      "Travesti ou trans": "10 € en semaine, 20 € le samedi soir (10 € de 21 h à 22 h)"
+    },
+    "note": "Dernière grille du club, du 2 septembre 2019 à la fermeture. Elle distinguait seulement « en semaine » et « samedi soir 21 h », sans préciser le cas du samedi après-midi ni du dimanche.",
+    "confidence": "confirme",
+    "sources": [
+      "s5",
+      "s25"
+    ]
+  },
+  "equipements": [
+    "Sauna",
+    "Hammam",
+    "Jacuzzi (ajouté fin 2019)",
+    "Douches",
+    "Vestiaires avec casiers",
+    "Bar",
+    "Piste de danse",
+    "Barres de pole dance",
+    "Cage",
+    "Coins câlins ouverts ou fermés",
+    "Coin massage",
+    "Salle BDSM (croix de Saint-André, balançoire, carcan)",
+    "Lit rond",
+    "Espace vidéo",
+    "Espace fumeurs",
+    "Parking"
+  ],
+  "officialLinks": [
+    {
+      "label": "Ancien site officiel doublejeclub.com (archive du 6 décembre 2019)",
+      "url": "https://web.archive.org/web/20191206014944/http://www.doublejeclub.com/",
+      "kind": "site"
+    },
+    {
+      "label": "Dernier site du club, avec le bandeau de fermeture (archive du 18 décembre 2021)",
+      "url": "https://web.archive.org/web/20211218002744/https://www.clubdoubleje.com/",
+      "kind": "autre"
+    }
+  ],
+  "corrections": {
+    "adresse": "164 rue de Laval",
+    "email": "contactdoubleje@gmail.com",
+    "site_web": "https://web.archive.org/web/20211218002744/https://www.clubdoubleje.com/",
+    "sources": [
+      "s2",
+      "s9",
+      "s11",
+      "s12",
+      "s16"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Y a-t-il encore un club libertin à Fougères ?",
+      "answer": "Non. Le Double Je, au 164 rue de Laval, était le seul club libertin de la ville que nous ayons trouvé ; il est fermé depuis le printemps 2020, et la sélection 2026 du Petit Futé pour Fougères ne le cite plus. Les plus proches sont La Petite Cheminée, près de Châteaugiron (40 km, activité non vérifiée), et Sauna California, à Rennes (44 km)."
+    },
+    {
+      "question": "Le Double Je peut-il rouvrir ?",
+      "answer": "Rien ne l'indique : son exploitant a été placé en liquidation judiciaire le 9 novembre 2021, aucun établissement à l'enseigne Double Je n'a été déclaré au registre depuis 2019, et un article de mai 2025 annonçait pour le local « une tout autre activité »."
+    },
+    {
+      "question": "Qu'y a-t-il aujourd'hui au 164 rue de Laval ?",
+      "answer": "L'adresse regroupe plusieurs locaux : le registre y montre une salle Basic-Fit depuis le 20 mai 2024 et, depuis le 26 août 2026, un débit de boissons à l'enseigne SAXO. Rien n'établit lequel occupe l'ancien club, et l'article de 2025 sur sa reconversion n'est plus en ligne."
+    },
+    {
+      "question": "Pourquoi doublejeclub.com et clubdoubleje.com ne parlent-ils plus du club ?",
+      "answer": "Parce qu'ils ne lui appartiennent plus. clubdoubleje.com, son site de 2020-2021, a été réenregistré en mars 2024 et vend des sextoys ; doublejeclub.com, son adresse depuis 2014, a été réenregistré en décembre 2024 et héberge un blog généraliste qui cite des clubs parisiens. Les anciennes pages du club restent lisibles sur archive.org, par les liens de nos sources."
+    },
+    {
+      "question": "Le téléphone et les horaires affichés par les annuaires sont-ils encore valables ?",
+      "answer": "Non. En mars 2022, un avis sur un annuaire renvoyait déjà à des commentaires signalant un numéro de téléphone invalide et un site hors service. Les annuaires qui affichent encore ce numéro, les horaires de 2015 (vendredi 22 h-3 h 30, samedi 22 h-4 h 30) ou une adresse « route de Laval » n'ont pas été mis à jour depuis la fermeture."
+    },
+    {
+      "question": "Où faire des rencontres libertines autour de Fougères depuis la fermeture ?",
+      "answer": "En club, comptez de 40 à 60 km jusqu'au bassin rennais. En ligne, Gleese, un site français lancé fin 2024, accepte l'inscription sans carte bancaire, vérifie chaque profil par téléphone et modère les photos à la main. Nous ignorons combien de membres il compte dans le secteur : le plus simple est d'[aller voir si des Fougerais y ont déjà un profil](aff:gleese) avant de décider s'il vous sert."
+    }
+  ],
+  "unverified": [
+    "La date exacte de la dernière soirée : les archives montrent le site actif en décembre 2019, puis le bandeau de fermeture en août 2020, sans rien entre les deux.",
+    "La nouvelle activité du local annoncée en mai 2025 : l'article d'origine n'a pas pu être lu en entier ni son média identifié.",
+    "Si le débit de boissons SAXO, ouvert en août 2026 au 164 rue de Laval, occupe l'ancien local du club ou un autre local de cet ensemble.",
+    "Le jour de la deuxième grille tarifaire de 2014 (sans tarif homme seul), présentée par un visuel illisible sur l'archive.",
+    "Le contenu des galeries photo et des pages « Soirées à venir » et « Soirées passées » du site de 2020, non archivées ou non relues.",
+    "L'activité réelle de La Petite Cheminée et de L'Émeraude en octobre 2026, dont les sites répondent sans agenda daté."
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Site officiel doublejeclub.com, première version (archive du 31/08/2014)",
+      "url": "https://web.archive.org/web/20140831083006/http://www.doublejeclub.com/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s2",
+      "label": "Site officiel doublejeclub.com, accueil (archive du 29/06/2019)",
+      "url": "https://web.archive.org/web/20190629170229/http://www.doublejeclub.com/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s3",
+      "label": "Site officiel doublejeclub.com, accueil (archive du 06/12/2019)",
+      "url": "https://web.archive.org/web/20191206014944/http://www.doublejeclub.com/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s4",
+      "label": "Site officiel, « Horaires et Tarifs » (archive du 19/06/2015)",
+      "url": "https://web.archive.org/web/20150619011230/http://www.doublejeclub.com/index.php/horaires",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s5",
+      "label": "Site officiel, « Horaires/Tarifs » à partir du 02/09/2019 (archive du 12/12/2019)",
+      "url": "https://web.archive.org/web/20191212001844/http://www.doublejeclub.com/index.php/horaires",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s6",
+      "label": "Site officiel, « La charte » (archive du 11/09/2015)",
+      "url": "https://web.archive.org/web/20150911090758/http://www.doublejeclub.com/index.php/photos",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s7",
+      "label": "Site officiel, pages « Les soirées » non datées (archives du 19/07/2019)",
+      "url": "https://web.archive.org/web/20190719150114/http://doublejeclub.com/index.php/les-soirees/177-samedis-ten-men",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s8",
+      "label": "Site officiel, livre d'or, message de l'équipe fondatrice du 31/05/2019 (archive du 18/08/2019)",
+      "url": "https://web.archive.org/web/20190818173549/http://doublejeclub.com/index.php/livre-d-or?start=0",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s9",
+      "label": "Site officiel clubdoubleje.com, accueil et page « Le club » (archives des 08/08/2020, 16/06/2021 et 18/12/2021)",
+      "url": "https://web.archive.org/web/20211218002744/https://www.clubdoubleje.com/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s10",
+      "label": "Internet Archive, historique des captures de doublejeclub.com et clubdoubleje.com",
+      "url": "https://web.archive.org/cdx/search/cdx?url=doublejeclub.com&fl=timestamp,statuscode&collapse=timestamp:6",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s11",
+      "label": "Registre des noms de domaine (RDAP) et état actuel de clubdoubleje.com et doublejeclub.com",
+      "url": "https://rdap.verisign.com/com/v1/domain/clubdoubleje.com",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s12",
+      "label": "Annuaire des entreprises, SARL THIANN (enseigne DOUBLE JE)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/803739754",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s13",
+      "label": "societe.com, établissement DOUBLE JE de la SARL THIANN",
+      "url": "https://www.societe.com/etablissement/double-je-80373975400015.html",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s14",
+      "label": "BODACC, annonces de la SARL THIANN (2014-2020)",
+      "url": "https://bodacc-datadila.opendatasoft.com/api/explore/v2.1/catalog/datasets/annonces-commerciales/records?where=registre%20like%20%22803739754%22",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s15",
+      "label": "BODACC, annonces de LES JOLIS COINS DE FRANCE (achat du fonds en 2019, liquidation en 2021)",
+      "url": "https://bodacc-datadila.opendatasoft.com/api/explore/v2.1/catalog/datasets/annonces-commerciales/records?where=registre%20like%20%22849195250%22",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s16",
+      "label": "Annuaire des entreprises, établissement DOUBLE JE de LES JOLIS COINS DE FRANCE à Fougères",
+      "url": "https://annuaire-entreprises.data.gouv.fr/etablissement/84919525000048",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s17",
+      "label": "societe.com, LES JOLIS COINS DE FRANCE (procédures collectives)",
+      "url": "https://www.societe.com/societe/les-jolis-coins-de-france-849195250.html",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s18",
+      "label": "Annuaire des entreprises et BODACC, exploitants du 164 rue de Laval de 2006 à 2014",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/504686981",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s19",
+      "label": "Recherche d'entreprises, établissements enregistrés au 164 rue de Laval à Fougères",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=164%20rue%20de%20laval&code_postal=35300",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s21",
+      "label": "Le Tribunal du Net, « Ils mettent en vente leur club libertin sur Le Bon Coin » (20/02/2019)",
+      "url": "https://www.letribunaldunet.fr/insolite/mettent-vente-club-libertin-le-bon-coin.html",
+      "type": "presse",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s22",
+      "label": "Starmag, « Bretagne : Un club libertin à vendre sur Le Bon Coin » (26/02/2019)",
+      "url": "https://www.starmag.com/insolite/bretagne-un-club-libertin-a-vendre-sur-le-bon-coin-324310.html",
+      "type": "presse",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s23",
+      "label": "« Une nouvelle vie pour l'ancien club échangiste de Fougères » (02/05/2025), reprise Sports-Addict, page aujourd'hui supprimée, lue en extrait",
+      "url": "https://www.sports-addict.net/fr/article/basketball-feminin/une-nouvelle-vie-pour-l-ancien-club-echangiste-de-fougeres/6814de4ddb84dce51d063ee1",
+      "type": "presse",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s24",
+      "label": "lieuxcoquins.fr, fiche « Le Double Je » et avis du 25/03/2022",
+      "url": "https://www.lieuxcoquins.fr/lieu/double-je/",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s25",
+      "label": "L'Apéro Libertin, « Top 8 des clubs libertins en Bretagne » (non daté)",
+      "url": "https://www.apero-libertin.com/top-8-des-clubs-libertins-en-bretagne-rennes-lorient/",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s26",
+      "label": "Mapstr, fiche « Double Je - Club privé Libertin » (texte repris du Petit Futé)",
+      "url": "https://mapstr.com/place/2rRb60hxT7g",
+      "type": "carte",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s27",
+      "label": "Petit Futé, lieux coquins à Fougères et aux alentours en 2026 (ancienne fiche Double Je redirigée)",
+      "url": "https://www.petitfute.com/v9116-fougeres-35300/c9998-coquin/c1044-s-amuser-sortir/c206-club-libertin/1517994-double-je.html",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s28",
+      "label": "horairesdouverture24.fr, fiche « Double Je Club »",
+      "url": "https://www.horairesdouverture24.fr/filiale/Fougeres-Double%2520Je%2520Club-1789279J.html",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s29",
+      "label": "sauna-club-libertin.com, fiche du Double Je",
+      "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_3.php?id=15398&d=35",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s30",
+      "label": "saunaclublebali.fr, « Club libertin en Mayenne (53) : alternatives et guide 2026 » (11/04/2026)",
+      "url": "https://www.saunaclublebali.fr/clubs-libertins-mayenne-53/",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s31",
+      "label": "Vérification de l'état des sites des clubs voisins (Le Manoir, Le Point G, L'Émeraude)",
+      "url": "https://www.lemeraudeclub.fr/",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s32",
+      "label": "Le Plaisir Club (Bréal-sous-Montfort), page « Événements »",
+      "url": "https://www.plaisirclub.fr/events",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s33",
+      "label": "Sauna California (Rennes), page d'accueil et programme de la semaine",
+      "url": "https://www.saunacalifornia.com/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s34",
+      "label": "La Petite Cheminée (Saint-Aubin-du-Pavail), page d'accueil",
+      "url": "https://www.club-libertin-bretagne.com/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    }
+  ],
+  "glance": [
+    {
+      "icon": "closed",
+      "label": "Fermé",
+      "value": "Depuis le printemps 2020, sans réouverture"
+    },
+    {
+      "icon": "history",
+      "label": "En activité",
+      "value": "Août 2014 – printemps 2020"
+    },
+    {
+      "icon": "ruler",
+      "label": "Surface",
+      "value": "325 m², sauna, hammam, jacuzzi (fin 2019)"
+    },
+    {
+      "icon": "euro",
+      "label": "Entrée couple (2019)",
+      "value": "20 € en semaine, 30 € le samedi soir"
+    },
+    {
+      "icon": "map",
+      "label": "Plus proche en activité",
+      "value": "Sauna California, Rennes (44 km)"
+    },
+    {
+      "icon": "phone",
+      "label": "Téléphone",
+      "value": "Numéro signalé invalide en mars 2022"
+    }
+  ],
+  "audience": [
+    {
+      "who": "couples",
+      "status": "oui",
+      "detail": "Admis à toutes les soirées ; tarif de la dernière grille (sept. 2019)",
+      "price": "20 à 30 €"
+    },
+    {
+      "who": "femmes",
+      "status": "oui",
+      "detail": "Entrée gratuite tous les jours sur la grille de septembre 2019",
+      "price": "0 €"
+    },
+    {
+      "who": "hommes",
+      "status": "selon",
+      "detail": "Dix au plus certains samedis jusqu'en 2019 (« Ten Men »), puis soirées mixtes filtrées",
+      "price": "30 à 45 €"
+    },
+    {
+      "who": "trans",
+      "status": "oui",
+      "detail": "Tarif « trav / trans » créé sur la grille de septembre 2019",
+      "price": "10 à 20 €"
+    }
+  ],
+  "highlights": [
+    "Le Double Je n'ouvre plus : bandeau « fermeture jusqu'à nouvel ordre » dès août 2020, liquidation judiciaire de l'exploitant le 9 novembre 2021.",
+    "Horaires et téléphone encore affichés par certains annuaires datent d'avant 2020 : selon un avis de mars 2022, deux couples ont roulé 160 km pour rien.",
+    "doublejeclub.com et clubdoubleje.com n'appartiennent plus au club depuis 2024 : l'un héberge un blog généraliste, l'autre une boutique de sextoys.",
+    "Le lieu actif le plus proche est Sauna California, à Rennes (44 km), avec des créneaux mixtes plusieurs jours par semaine en octobre 2026.",
+    "Le Plaisir Club, à Bréal-sous-Montfort (60 km), annonçait des soirées sans réservation jusqu'au 14 novembre 2026."
+  ]
+}

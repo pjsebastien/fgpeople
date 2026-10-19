@@ -1,0 +1,875 @@
+{
+  "slug": "club-22-ploufragan",
+  "clubId": "15539",
+  "researchedAt": "2026-10-19",
+  "display": {
+    "nom": "Club 22",
+    "ville": "Ploufragan"
+  },
+  "status": {
+    "value": "fermeture_probable",
+    "summary": "Le dernier site du Club 22, club22libertin.fr, n'affichait plus qu'une erreur WordPress en 2018, puis, d'août 2019 à février 2020 (dernière capture), la page vide de son hébergeur ; en octobre 2026, son nom de domaine n'est plus enregistré. L'entreprise qui exploitait le lieu depuis août 2014 a été liquidée, procédure ouverte en 2016 et close en 2018. La page Facebook reste en ligne, mais ses publications ne se datent pas sans compte, et aucune annonce de fermeture n'a été trouvée : fermeture probable, non certaine. Hot Box à Trégueux et Le Club 3 à Plérin, à moins de 5 km, avaient des sites actifs en octobre 2026.",
+    "sources": [
+      "s11",
+      "s12",
+      "s9",
+      "s8",
+      "s14",
+      "s34",
+      "s35"
+    ]
+  },
+  "seo": {
+    "title": "Club 22 à Ploufragan : probablement fermé, son histoire, ses tarifs",
+    "metaDescription": "Site éteint en 2018, exploitant liquidé en 2016 : le Club 22 de Ploufragan, près de Saint-Brieuc, semble fermé. Tarifs 2012, deux lieux actifs à 1,5 et 4,3 km.",
+    "subtitle": "Ancien club libertin sur trois niveaux, zone du Carpont à Ploufragan, près de Saint-Brieuc (22)",
+    "targetQueries": [
+      "club 22 ploufragan",
+      "club 22 saint-brieuc",
+      "club 22 libertin",
+      "club 22 ploufragan fermé",
+      "club libertin ploufragan",
+      "club 22 ploufragan tarifs"
+    ]
+  },
+  "lead": "Au 1 rue du Carpont, dans la zone commerciale de Ploufragan, le Club 22 a reçu des libertins de 2002 au moins jusqu'en 2014, dans un décor troglodytique étagé sur trois niveaux. Son site de 2002 visait même les visiteurs britanniques, en se situant à une heure des ports de Saint-Malo et de Roscoff. Son dernier site, en ligne en 2017, n'affichait plus qu'une erreur dès 2018 et son domaine n'est plus enregistré ; l'entreprise qui exploitait le club depuis 2014 a été liquidée : nous le tenons pour probablement fermé. À moins de 5 km, le sauna Hot Box et Le Club 3 avaient des sites actifs en octobre 2026.",
+  "glance": [
+    {
+      "icon": "closed",
+      "label": "Statut",
+      "value": "Probablement fermé, site éteint en 2018"
+    },
+    {
+      "icon": "history",
+      "label": "Traces d'activité",
+      "value": "De 2002 à 2017"
+    },
+    {
+      "icon": "building",
+      "label": "Le lieu",
+      "value": "Trois niveaux, décor troglodytique"
+    },
+    {
+      "icon": "euro",
+      "label": "Tarifs en 2012",
+      "value": "Couple 20 € · homme seul 40 €"
+    },
+    {
+      "icon": "spa",
+      "label": "Alternative à 1,5 km",
+      "value": "Hot Box, sauna à Trégueux (site actif)"
+    },
+    {
+      "icon": "couple",
+      "label": "Alternative à 4,3 km",
+      "value": "Le Club 3, club à Plérin (site actif)"
+    }
+  ],
+  "audience": [
+    {
+      "who": "couples",
+      "status": "oui",
+      "detail": "En 2012, tous les jours d'ouverture ; un espace leur était réservé le samedi",
+      "price": "20 €"
+    },
+    {
+      "who": "femmes",
+      "status": "oui",
+      "detail": "En 2012, entrée offerte l'après-midi et avant minuit, 10 € ensuite",
+      "price": "0 à 10 €"
+    },
+    {
+      "who": "hommes",
+      "status": "oui",
+      "detail": "40 € en 2002 comme en 2012 ; en 2002, le samedi était réservé aux couples",
+      "price": "40 €"
+    }
+  ],
+  "highlights": [
+    "Le site club22libertin.fr ne répond plus : son nom de domaine n'est plus enregistré en octobre 2026.",
+    "La page Facebook « Club22Libertin » existe encore (3 412 abonnés en octobre 2026), mais sans compte on ne peut pas dater sa dernière publication.",
+    "Les derniers tarifs retrouvés (20 € le couple, 40 € l'homme seul) datent du site officiel de 2012 ; rien de plus récent n'a été publié à notre connaissance.",
+    "Le Club 3 de Plérin, ouvert en 2019 selon un annuaire, est un autre établissement : aucune source ne le rattache au Club 22.",
+    "Deux numéros ont circulé, le 02 96 78 28 05 (2002-2014) puis le 02 96 69 95 48 ; aucun n'a été vérifié en 2026."
+  ],
+  "keyFacts": [
+    {
+      "label": "Adresse",
+      "value": "1 rue du Carpont, 22440 Ploufragan, près du centre E. Leclerc du Carpont",
+      "confidence": "confirme",
+      "sources": [
+        "s3",
+        "s8",
+        "s15",
+        "s20",
+        "s31"
+      ]
+    },
+    {
+      "label": "Traces d'activité",
+      "value": "Du premier site (2002) au dernier, en ligne en 2017",
+      "confidence": "confirme",
+      "sources": [
+        "s23",
+        "s26",
+        "s10",
+        "s2"
+      ]
+    },
+    {
+      "label": "Ouverture",
+      "value": "Date inconnue, sans doute à la fin des années 1990",
+      "confidence": "a_verifier",
+      "sources": [
+        "s5",
+        "s6",
+        "s32"
+      ]
+    },
+    {
+      "label": "Activité déclarée",
+      "value": "« Club privé de rencontres » (registre, 2014)",
+      "confidence": "confirme",
+      "sources": [
+        "s6",
+        "s8"
+      ]
+    },
+    {
+      "label": "Dernier exploitant identifié",
+      "value": "Entreprise individuelle installée en août 2014, liquidée de 2016 à 2018",
+      "confidence": "confirme",
+      "sources": [
+        "s8"
+      ]
+    },
+    {
+      "label": "Espaces",
+      "value": "Trois niveaux, décor troglodytique, piste de danse, coins câlins",
+      "confidence": "source_unique",
+      "sources": [
+        "s28",
+        "s33",
+        "s36"
+      ]
+    },
+    {
+      "label": "Équipements annoncés",
+      "value": "Sauna, douches, podium avec barre de pole dance",
+      "confidence": "source_unique",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "label": "Entrée couple (2012)",
+      "value": "20 €, offerte le lundi et le jeudi après-midi",
+      "confidence": "source_unique",
+      "sources": [
+        "s29"
+      ]
+    },
+    {
+      "label": "Page Facebook",
+      "value": "3 412 abonnés au 19 octobre 2026, activité non datée",
+      "confidence": "source_unique",
+      "sources": [
+        "s14"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "site-eteint-exploitant-liquide",
+      "title": "Un site en erreur dès 2018, un exploitant liquidé en 2016",
+      "icon": "closed",
+      "summary": "Le dernier site du club s'éteint entre 2018 et 2019, l'exploitant installé en 2014 est liquidé et les annuaires récents ne citent plus le club ; seule la page Facebook subsiste.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Aucune annonce de fermeture n'a été trouvée : ni message du club, ni article de presse régionale (recherches d'octobre 2026). Le verdict repose sur des indices, classés ici par date."
+        },
+        {
+          "kind": "table",
+          "headers": [
+            "Date",
+            "Ce que montrent les sources"
+          ],
+          "rows": [
+            [
+              "Août 2014",
+              "Une nouvelle entreprise individuelle ouvre à l'adresse un « club privé de rencontres »."
+            ],
+            [
+              "Entre juin 2015 et oct. 2017",
+              "Un annuaire remplace l'ancienne fiche par un texte « nouvelle direction », avec un nouveau numéro et le site club22libertin.fr."
+            ],
+            [
+              "Mars 2016",
+              "L'entreprise de 2014 cesse ses paiements ; liquidation judiciaire prononcée la même année."
+            ],
+            [
+              "Juin 2017",
+              "Premières captures connues de club22libertin.fr."
+            ],
+            [
+              "Août et sept. 2018",
+              "Le site n'affiche plus qu'un avertissement technique de WordPress."
+            ],
+            [
+              "3 sept. 2018",
+              "Liquidation close pour insuffisance d'actif, puis radiation."
+            ],
+            [
+              "Août 2019 – fév. 2020",
+              "Redirection vers la page par défaut d'un hébergement vide ; plus aucune capture ensuite."
+            ],
+            [
+              "Mars 2025 – oct. 2026",
+              "Quatre annuaires récents couvrant les Côtes-d'Armor ignorent le club ; seul un annuaire figé le cite encore."
+            ],
+            [
+              "16 oct. 2026",
+              "Le domaine club22libertin.fr n'est plus enregistré."
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Depuis 2014, le BODACC ne signale aucun autre exploitant de club ou de lieu de rencontres au 1 rue du Carpont."
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Pourquoi nous n'écrivons pas « fermé »",
+          "body": "- La page Facebook « Club22Libertin | Ploufragan » se décrit toujours au présent comme un « lieu de rencontre libertinage, couple et mixte » (3 412 abonnés au 19 octobre 2026). Ses publications ne se lisent qu'avec un compte.\n- La « nouvelle direction » apparue entre 2015 et 2017 ne correspond à aucune structure juridique retrouvée : la liquidation de 2016-2018 ne vise peut-être pas le dernier exploitant réel."
+        }
+      ],
+      "sources": [
+        "s8",
+        "s2",
+        "s4",
+        "s10",
+        "s11",
+        "s12",
+        "s9",
+        "s16",
+        "s17",
+        "s18",
+        "s19",
+        "s1",
+        "s21",
+        "s14"
+      ]
+    },
+    {
+      "id": "hot-box-club-3-autour-du-carpont",
+      "title": "Hot Box à 1,5 km, Le Club 3 à 4,3 km : les adresses actives autour du Carpont",
+      "icon": "map",
+      "summary": "Le sauna Hot Box à Trégueux et le club échangiste Le Club 3 à Plérin avaient tous deux un site actif en octobre 2026 ; leurs horaires et tarifs restent à vérifier.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Lieu",
+            "Distance du Carpont",
+            "Ce que dit son site (octobre 2026)"
+          ],
+          "rows": [
+            [
+              "[Hot Box](/hot-box-tregueux), Trégueux",
+              "1,5 km",
+              "« Sauna gay et libertin » avec piscine, spa et hammam, ouvert aux couples comme aux célibataires, sans alcool"
+            ],
+            [
+              "[Le Club 3](/le-club-3-plerin), Plérin",
+              "4,3 km",
+              "Club échangiste près de Saint-Brieuc, pour couples et célibataires, avec des soirées à thème non datées sur l'accueil"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "La page d'accueil de Hot Box a été modifiée le 16 octobre 2026, celle du Club 3 le 7 juillet 2026. Le Club 3 a ouvert en avril 2019 selon un annuaire, quelques mois avant que club22libertin.fr ne bascule sur une page d'hébergeur. Aucune source ne relie pour autant les deux lieux."
+        },
+        {
+          "kind": "text",
+          "body": "Plus loin, [Les Logis coquins du Gros Hibou](/les-logis-coquins-du-gros-hibou-henanbihen) à Hénanbihen (30 km) et [Le Bilitis](/le-bilitis-plounerin-gare) à Plounérin (59 km) ont aussi leur fiche, sans que leur activité ait été vérifiée ici. Les [autres lieux libertins des Côtes-d'Armor](/departement/cotes-d-armor) sont regroupés sur la page du département."
+        },
+        {
+          "kind": "text",
+          "body": "Pour ne pas franchir seuls la porte du Club 3 lors d'une première soirée, un couple peut d'abord [entrer en relation avec des couples briochins](aff:carre-libertin) sur Carré Libertin. Ce site ouvert en 2007 donne aux couples et aux femmes un accès complet gratuit, une fois trois photos de profil publiées."
+        }
+      ],
+      "sources": [
+        "s20",
+        "s34",
+        "s35",
+        "s17"
+      ]
+    },
+    {
+      "id": "trois-niveaux-troglodytiques",
+      "title": "Un décor troglodytique sur trois niveaux, avec sauna et barre de pole dance",
+      "icon": "building",
+      "summary": "Le club s'étageait sur trois niveaux reliés par des escaliers, avec piste de danse, bar, sauna, douches et coins câlins ouverts ou fermés, selon ses descriptions de 2012 à 2018.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le site leclub22.fr de 2012 parlait d'un « décor troglodytique » réparti sur trois niveaux, avec une piste de danse et de nombreux coins câlins, ouverts ou fermés. La même présentation figure encore sur le site en octobre 2013 et en février 2014."
+        },
+        {
+          "kind": "list",
+          "title": "Ce qu'ajoute le texte « nouvelle direction », en ligne au plus tard en février 2018",
+          "items": [
+            "des escaliers entre les trois niveaux, avec des salons câlins et des salons collectifs à chaque étage ;",
+            "une piste de danse équipée de miroirs et de jeux de lumière ;",
+            "un podium avec barre de pole dance, installé face au bar ;",
+            "un sauna et des douches."
+          ]
+        },
+        {
+          "kind": "callout",
+          "tone": "info",
+          "body": "Ce second texte ne nous parvient que par un annuaire, sauna-club-libertin.com, qui l'affiche toujours sans date. Sa précision laisse penser qu'il vient du club, sans preuve. Aucune photo du lieu n'a pu être ouverte dans les archives : ni la galerie de 2012 ni les images du diaporama de 2014 n'ont été conservées."
+        }
+      ],
+      "sources": [
+        "s28",
+        "s33",
+        "s36",
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "id": "histoire-1997-2014",
+      "title": "Un encart pour les visiteurs britanniques en 2002, le départ du gérant en 2013",
+      "icon": "history",
+      "summary": "Attesté dès 2002, sans doute ouvert à la fin des années 1990, le club a eu le même gérant jusqu'en février 2013, puis deux nouveaux exploitants d'avril 2013 à août 2014.",
+      "blocks": [
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "10 août 1997",
+              "text": "Une SARL nommée CLUB 22 est créée au 1 rue du Carpont. Son rôle dans le club n'est pas établi : seuls le nom, l'adresse et le code d'activité le suggèrent."
+            },
+            {
+              "date": "Décembre 1999",
+              "text": "Une entreprise individuelle s'immatricule à la même adresse ; en 2013, c'est elle qui détient le fonds de commerce « CLUB 22 »."
+            },
+            {
+              "date": "Novembre 2002",
+              "text": "Le site leclub22.com est en ligne. Un encart en anglais revendique plus de 3 000 visiteurs par an et vise les Britanniques et les habitants des îles Anglo-Normandes, à environ une heure des ports de Saint-Malo et de Roscoff."
+            },
+            {
+              "date": "Janvier 2003",
+              "text": "Le site propose un forum, un chat, des petites annonces et un livre d'or."
+            },
+            {
+              "date": "Novembre 2005",
+              "text": "leclub22.com redirige vers un nouveau domaine, leclub22.fr, dont une version plus complète apparaît dans les archives en janvier 2012."
+            },
+            {
+              "date": "Novembre 2011",
+              "text": "Délaissé, leclub22.com renvoie désormais vers des sites de rencontres ; un tiers sans rapport avec le club le possède depuis décembre 2021."
+            },
+            {
+              "date": "23 février 2013",
+              "text": "Fête de départ du gérant, salué dans le livre d'or pour « ces 13 années au service du libertinage »."
+            },
+            {
+              "date": "Avril 2013 – mars 2014",
+              "text": "Le fonds est confié en location-gérance à une autre entreprise individuelle, qui déclare un « club de rencontres privé pour couples non conformistes ». Le site affiche alors une nouvelle hôtesse et un partenariat avec une boutique de lingerie de Dinan."
+            },
+            {
+              "date": "Août 2014",
+              "text": "Une troisième entreprise individuelle déclare un « club privé de rencontres » à la même adresse, fonds noté « création » ; la suite, jusqu'à la liquidation, est détaillée plus haut."
+            }
+          ]
+        }
+      ],
+      "sources": [
+        "s5",
+        "s6",
+        "s23",
+        "s24",
+        "s26",
+        "s13",
+        "s27",
+        "s32",
+        "s33",
+        "s8"
+      ]
+    },
+    {
+      "id": "tarifs-2002-2012",
+      "title": "32 € boissons comprises en 2002, 20 € en 2012 : l'entrée couple au Club 22",
+      "icon": "euro",
+      "summary": "L'homme seul payait 40 € en 2002 comme en 2012 ; le couple est passé de 32 €, boissons comprises toute la nuit, à 20 €, boissons sans alcool offertes à volonté.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Public",
+            "En 2002",
+            "Ce qui change en 2012"
+          ],
+          "rows": [
+            [
+              "Couple",
+              "32 €, boissons comprises toute la nuit",
+              "20 €, avec des après-midi offerts ; boissons sans alcool offertes à volonté"
+            ],
+            [
+              "Femme seule",
+              "40 €, tarif « personne seule »",
+              "Entrée offerte jusqu'à minuit, 10 € ensuite"
+            ],
+            [
+              "Homme seul",
+              "40 €, tarif « personne seule »",
+              "Inchangé : 40 €"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "En 2012, l'entrée couple du mercredi, du jeudi et du dimanche donnait aussi droit à une invitation pour la visite suivante. La grille complète figure dans l'encadré des horaires et tarifs d'époque."
+        },
+        {
+          "kind": "text",
+          "body": "La page Facebook, non datée, annonce une boisson sans alcool offerte, la bière et le champagne étant payants. Aucun tarif postérieur à 2012 n'a été retrouvé."
+        }
+      ],
+      "sources": [
+        "s23",
+        "s29",
+        "s14"
+      ]
+    },
+    {
+      "id": "samedi-couples-mardi-ferme",
+      "title": "Samedi réservé aux couples en 2002, simple espace couples en 2012",
+      "icon": "couple",
+      "summary": "Réservé aux couples le samedi en 2002, le club n'impose plus de jour aux personnes seules en 2012 mais garde un espace couples chaque samedi ; il ferme toujours le mardi.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Créneau",
+            "En 2003",
+            "Écart avec la grille de 2012"
+          ],
+          "rows": [
+            [
+              "Après-midi, 15 h – 19 h",
+              "Lundi, jeudi, vendredi, dimanche",
+              "Le vendredi après-midi disparaît"
+            ],
+            [
+              "Soirées de semaine",
+              "Mercredi, jeudi, dimanche, 21 h – 2 h",
+              "Début repoussé à 21 h 30"
+            ],
+            [
+              "Vendredi soir",
+              "21 h 30 – 3 h",
+              "22 h – 4 h"
+            ],
+            [
+              "Samedi soir",
+              "22 h – 5 h, « avec buffet »",
+              "Fin avancée à 4 h"
+            ],
+            [
+              "Mardi",
+              "Fermé",
+              "Fermé"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "En 2002, le site annonçait un samedi réservé aux couples. En 2012, les tarifs « soirées mixtes » ne fixent plus de jour pour les personnes seules, mais un espace est réservé aux couples tous les samedis."
+        },
+        {
+          "kind": "text",
+          "body": "En 2003, le site interdisait l'entrée aux moins de 18 ans et exigeait une tenue correcte. En 2012, cela voulait dire chemise ou chemisette et chaussures de ville pour les hommes, tenue sexy pour les femmes."
+        }
+      ],
+      "sources": [
+        "s23",
+        "s25",
+        "s29"
+      ]
+    },
+    {
+      "id": "soiree-transparence-reveillons",
+      "title": "Soirée Transparence, Nuit Noir et réveillons du 31 : les fêtes du Club 22",
+      "icon": "sparkles",
+      "summary": "Soirées spéciales deux fois par mois en 2002, samedis à thème en 2012, réveillon du 31 sur réservation téléphonique : le club rythmait l'année par des fêtes datées.",
+      "blocks": [
+        {
+          "kind": "list",
+          "items": [
+            "**2002** : soirées spéciales deux fois par mois, selon l'encart en anglais du site.",
+            "**Janvier 2003** : la direction rappelle que le réveillon du 31 se réserve uniquement par téléphone, les places étant limitées.",
+            "**Samedi 14 avril 2012** : « Soirée Transparence », avec une coupe de champagne offerte aux femmes habillées dans le thème.",
+            "**Samedi 5 mai 2012** : « Soirée Nuit Noir », selon l'orthographe du site.",
+            "**2013-2014** : un gâteau d'anniversaire offert, à réserver 48 h à l'avance.",
+            "**Après 2015** : le texte « nouvelle direction » évoque des thèmes réguliers et des soirées plus festives en fin de semaine."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le livre d'or du site compte dix messages entre mai 2012 et février 2013. Ils saluent l'accueil, la musique, les anniversaires et les réveillons, mais le club les a choisis et publiés lui-même. Aucune note Google ni autre avis public n'a pu être relevé."
+        },
+        {
+          "kind": "text",
+          "body": "Ces dates appartiennent au passé : pour [savoir quelle soirée à thème se tient près de Saint-Brieuc](aff:wyylde), l'agenda de Wyylde, l'ancien Netéchangisme, se consulte avec un compte gratuit."
+        }
+      ],
+      "sources": [
+        "s23",
+        "s24",
+        "s30",
+        "s33",
+        "s32",
+        "s1"
+      ]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Lundi": "15 h – 19 h",
+      "Mardi": "Fermé",
+      "Mercredi": "21 h 30 – 2 h",
+      "Jeudi": "15 h – 19 h et 21 h 30 – 2 h",
+      "Vendredi": "22 h – 4 h",
+      "Samedi": "22 h – 4 h",
+      "Dimanche": "15 h – 19 h et 21 h 30 – 2 h",
+      "Veilles de jours fériés": "À partir de 22 h"
+    },
+    "note": "Horaires affichés par le site officiel leclub22.fr en janvier et en avril 2012 (archives). Aucune grille plus récente n'a été retrouvée.",
+    "confidence": "source_unique",
+    "sources": [
+      "s29"
+    ]
+  },
+  "tarifs": {
+    "rows": {
+      "Couple, lundi et jeudi après-midi": "Offert",
+      "Couple, mercredi, jeudi et dimanche": "20 € et une invitation pour la visite suivante",
+      "Couple, vendredi, samedi, veilles de fériés": "20 €",
+      "Femme seule": "Offert l'après-midi et avant minuit, 10 € ensuite",
+      "Homme seul": "40 €",
+      "Boissons sans alcool": "Offertes à volonté"
+    },
+    "note": "Tarifs « soirées mixtes » du site officiel en 2012 (archives). En 2002 : 32 € par couple et 40 € par personne seule, boissons comprises.",
+    "confidence": "source_unique",
+    "sources": [
+      "s29",
+      "s23"
+    ]
+  },
+  "equipements": [
+    "Coins câlins ouverts et fermés",
+    "Salons collectifs",
+    "Piste de danse",
+    "Podium avec barre de pole dance",
+    "Bar",
+    "Sauna",
+    "Douches"
+  ],
+  "officialLinks": [
+    {
+      "label": "Page Facebook Club22Libertin (en ligne, activité non datée)",
+      "url": "https://www.facebook.com/club22libertin/",
+      "kind": "facebook"
+    },
+    {
+      "label": "Ancien site leclub22.fr, archive de janvier 2012",
+      "url": "https://web.archive.org/web/20120121005248/http://www.leclub22.fr:80/1-accueil.html",
+      "kind": "autre"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Le Club 22 de Ploufragan est-il toujours ouvert ?",
+      "answer": "Très probablement pas. Son dernier site, club22libertin.fr, ne montre plus rien depuis 2018 et son nom de domaine n'est plus enregistré ; l'entreprise qui exploitait le club depuis 2014 a été liquidée entre 2016 et 2018. Seule sa page Facebook reste en ligne : la date de sa dernière publication, visible avec un compte, permettrait de lever le doute."
+    },
+    {
+      "question": "Où sortir près de Ploufragan et de Saint-Brieuc à la place ?",
+      "answer": "Les deux lieux les plus proches sont le sauna gay et libertin Hot Box, à Trégueux (1,5 km), et le club échangiste [Le Club 3](/le-club-3-plerin), à Plérin (4,3 km). Leurs sites étaient actifs en octobre 2026, mais leurs horaires et tarifs n'ont pas été vérifiés pour cette fiche : consultez-les avant de vous déplacer."
+    },
+    {
+      "question": "Combien coûtait l'entrée au Club 22 ?",
+      "answer": "En 2012, selon le site officiel : 20 € pour un couple (offert le lundi et le jeudi après-midi), 40 € pour un homme seul ; une femme seule entrait gratuitement l'après-midi et avant minuit, puis payait 10 €. En 2002, le couple payait 32 € et la personne seule 40 €, boissons comprises. Aucun tarif plus récent n'a été retrouvé."
+    },
+    {
+      "question": "Les hommes seuls étaient-ils admis au Club 22 ?",
+      "answer": "Oui, pour 40 € en 2002 comme en 2012, mais pas le samedi en 2002, soirée alors réservée aux couples. En 2012, un espace restait réservé aux couples chaque samedi. Pour découvrir à deux un lieu des environs, un homme seul peut [chercher une cavalière du côté de Ploufragan](aff:gleese) sur Gleese : ce site français lancé fin 2024 vérifie chaque profil par téléphone et ne demande aucune carte bancaire à l'inscription."
+    },
+    {
+      "question": "Le Club 3 de Plérin a-t-il remplacé le Club 22 ?",
+      "answer": "Rien ne l'indique. Le Club 3, rue du Stade à Plérin, a ouvert en avril 2019 selon un annuaire, quelques mois avant que le site du Club 22 ne bascule sur une page d'hébergeur vide. Aucune des sources consultées ne relie les deux établissements."
+    },
+    {
+      "question": "Quels numéros et quels sites le Club 22 a-t-il utilisés ?",
+      "answer": "De 2002 à 2014, ses sites officiels donnaient le 02 96 78 28 05. Après 2015, un annuaire indique le 02 96 69 95 48 et l'adresse club22libertin@gmail.com, que nous n'avons pas pu vérifier. Aucun des trois sites successifs n'est plus celui du club : leclub22.com appartient depuis décembre 2021 à un tiers sans rapport, leclub22.fr a été abandonné dès 2015 et club22libertin.fr n'existe plus."
+    }
+  ],
+  "unverified": [
+    "Date de la dernière publication de la page Facebook « Club22Libertin », lisible seulement avec un compte.",
+    "Identité juridique de la « nouvelle direction » apparue entre 2015 et 2017, et date de sa dernière soirée.",
+    "Date d'ouverture du club : attesté en 2002, sans doute ouvert dès la fin des années 1990.",
+    "Usage actuel du bâtiment du 1 rue du Carpont.",
+    "Note et avis Google : aucun relevé n'a pu être fait.",
+    "Photos du lieu : aucune galerie officielle n'a été conservée dans les archives.",
+    "Les numéros 02 96 78 28 05 et 02 96 69 95 48 n'ont pas été appelés.",
+    "Horaires, tarifs et conditions d'entrée actuels de Hot Box et du Club 3."
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Sauna-club-libertin.com, fiche « CLUB 22 » (texte « nouvelle direction »)",
+      "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_3.php?id=15539&d=22",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s2",
+      "label": "Sauna-club-libertin.com, même fiche, archive du 6 février 2018",
+      "url": "https://web.archive.org/web/20180206052147/http://www.sauna-club-libertin.com:80/v2/sauna_club_libertin_3.php?id=15539&d=",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s3",
+      "label": "Sauna-club-libertin.com, ancienne fiche « CLUB 22 », archive du 30 octobre 2013",
+      "url": "https://web.archive.org/web/20131030075921/http://www.sauna-club-libertin.com:80/v2/sauna_club_libertin_3.php?id=52&d=",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s4",
+      "label": "Sauna-club-libertin.com, liste des Côtes-d'Armor, archives du 29 juin 2015 (ancienne fiche) et du 5 octobre 2017 (fiche « nouvelle direction »)",
+      "url": "https://web.archive.org/web/20171005131700/http://www.sauna-club-libertin.com/v2/sauna_club_libertin_2.php?d=22",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s5",
+      "label": "Registre des entreprises, CLUB 22 SARL (SIREN 413 078 817)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/413078817",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s6",
+      "label": "BODACC et registre, fonds « CLUB 22 » : propriétaire immatriculé en 1999, location-gérance 2013-2014",
+      "url": "https://bodacc-datadila.opendatasoft.com/explore/dataset/annonces-commerciales/table/?q=Carpont+Ploufragan+location-g%C3%A9rance",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s8",
+      "label": "BODACC, entreprise installée au 1 rue du Carpont en août 2014 : création, liquidation, clôture, radiation",
+      "url": "https://bodacc-datadila.opendatasoft.com/explore/dataset/annonces-commerciales/table/?q=Carpont+Ploufragan+liquidation",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s9",
+      "label": "AFNIC, interrogation RDAP du domaine club22libertin.fr (nom non enregistré)",
+      "url": "https://rdap.nic.fr/domain/club22libertin.fr",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s10",
+      "label": "Wayback Machine, liste des captures de club22libertin.fr (2017-2020)",
+      "url": "https://web.archive.org/cdx/search/cdx?url=club22libertin.fr&matchType=domain",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s11",
+      "label": "club22libertin.fr, archive du 4 août 2018 (erreur WordPress)",
+      "url": "https://web.archive.org/web/20180804214326/http://www.club22libertin.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s12",
+      "label": "club22libertin.fr, archive du 20 février 2020 (page par défaut de l'hébergeur)",
+      "url": "https://web.archive.org/web/20200220223828/http://www.club22libertin.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s13",
+      "label": "RDAP Verisign, domaine leclub22.com (enregistré par un tiers en décembre 2021)",
+      "url": "https://rdap.verisign.com/com/v1/domain/leclub22.com",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s14",
+      "label": "Facebook, page « Club22Libertin | Ploufragan » (métadonnées publiques)",
+      "url": "https://www.facebook.com/club22libertin/",
+      "type": "reseau_social",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s15",
+      "label": "OpenStreetMap, bâtiment « Club 22 » de la zone du Carpont",
+      "url": "https://www.openstreetmap.org/way/94493487",
+      "type": "carte",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s16",
+      "label": "Minuitlibertin, clubs échangistes des Côtes-d'Armor (page de mars 2025)",
+      "url": "https://minuitlibertin.com/trouvez-un-club-echangiste-dans-les-cotes-darmor-22/",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s17",
+      "label": "Club-libertin-france, « Club libertin Saint-Brieuc »",
+      "url": "https://club-libertin-france.fr/club-libertin-saint-brieuc/",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s18",
+      "label": "Fuxxy, clubs libertins en Bretagne",
+      "url": "https://fuxxy.fr/club-libertin/region/bretagne",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s19",
+      "label": "Lieuxcoquins, Côtes-d'Armor",
+      "url": "https://www.lieuxcoquins.fr/localisation/france/bretagne/cotes-darmor-22/",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s20",
+      "label": "Base adresse nationale, 1 rue du Carpont à Ploufragan (position et distances)",
+      "url": "https://api-adresse.data.gouv.fr/search/?q=1%20rue%20du%20Carpont%20Ploufragan",
+      "type": "carte",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s21",
+      "label": "BODACC, annonces mentionnant le Carpont à Ploufragan",
+      "url": "https://bodacc-datadila.opendatasoft.com/explore/dataset/annonces-commerciales/table/?q=Carpont&refine.ville=Ploufragan",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s23",
+      "label": "leclub22.com, accueil, archive du 25 novembre 2002",
+      "url": "https://web.archive.org/web/20021125223812/http://www.leclub22.com/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s24",
+      "label": "leclub22.com, accueil, archive du 2 février 2003",
+      "url": "https://web.archive.org/web/20030202224235/http://www.leclub22.com:80/accueil/index.php3",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s25",
+      "label": "leclub22.com, page Horaires, archive du 7 mai 2003",
+      "url": "https://web.archive.org/web/20030507191804/http://leclub22.com:80/horaires/index.php3",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s26",
+      "label": "Wayback Machine, historique des captures de leclub22.com",
+      "url": "https://web.archive.org/cdx/search/cdx?url=leclub22.com&matchType=domain",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s27",
+      "label": "Wayback Machine, historique des captures de leclub22.fr",
+      "url": "https://web.archive.org/cdx/search/cdx?url=leclub22.fr/&collapse=timestamp:6",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s28",
+      "label": "leclub22.fr, accueil, archive du 21 janvier 2012",
+      "url": "https://web.archive.org/web/20120121005248/http://www.leclub22.fr:80/1-accueil.html",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s29",
+      "label": "leclub22.fr, Horaires & Tarifs, archive du 21 janvier 2012",
+      "url": "https://web.archive.org/web/20120121005253/http://www.leclub22.fr:80/4-horaires-tarifs.html",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s30",
+      "label": "leclub22.fr, Nos soirées, archive du 19 avril 2012",
+      "url": "https://web.archive.org/web/20120419050233/http://www.leclub22.fr:80/3-nos-soirees.html",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s31",
+      "label": "leclub22.fr, Plan d'accès, archive du 21 janvier 2012",
+      "url": "https://web.archive.org/web/20120121005258/http://www.leclub22.fr:80/6-plan-dacces.html",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s32",
+      "label": "leclub22.fr, Livre d'or, archive du 5 mars 2013 (messages publiés par le club)",
+      "url": "https://web.archive.org/web/20130305144721/http://www.leclub22.fr:80/8-livre-dor.html",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s33",
+      "label": "leclub22.fr, accueil, archive du 13 octobre 2013 (hôtesse, gâteau d'anniversaire, partenaire lingerie de Dinan)",
+      "url": "https://web.archive.org/web/20131013093634/http://www.leclub22.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s36",
+      "label": "leclub22.fr, accueil, archive du 9 février 2014",
+      "url": "https://web.archive.org/web/20140209171047/http://www.leclub22.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s34",
+      "label": "Hot Box (Trégueux), site officiel",
+      "url": "https://www.hot-box.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s35",
+      "label": "Le Club 3 (Plérin), site officiel",
+      "url": "https://www.leclub3.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    }
+  ]
+}

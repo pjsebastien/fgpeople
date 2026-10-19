@@ -1,0 +1,907 @@
+{
+  "slug": "l-unik-nancy",
+  "clubId": "863",
+  "researchedAt": "2026-10-16",
+  "display": {
+    "nom": "L'Unik",
+    "ville": "Nancy"
+  },
+  "status": {
+    "value": "ferme",
+    "summary": "Un jugement du 4 mai 2010 a placé FANA CLUB, la société qui exploitait L'Unik, en liquidation judiciaire ; le fonds a été repris en novembre 2010 et la société radiée le 24 juin 2011, d'après le BODACC. La dernière capture du site unikbar.com montrant le club date du 13 octobre 2010 ; dès janvier 2011, le domaine n'affiche plus qu'une page parking, et il n'est plus enregistré en octobre 2026.",
+    "sources": [
+      "s13",
+      "s15",
+      "s16",
+      "s18"
+    ]
+  },
+  "seo": {
+    "title": "L'Unik à Nancy, fermé en 2010 : quel club libertin aujourd'hui ?",
+    "metaDescription": "Sauna-bar gay ouvert aux couples certains jours rue Jean Lamour, L'Unik a été liquidé en mai 2010. Son histoire, ses tarifs et l'état des clubs du 54.",
+    "subtitle": "Ancien sauna-bar gay aux soirées mixtes, rue Jean Lamour à Nancy, fermé en 2010",
+    "targetQueries": [
+      "club libertin nancy",
+      "club echangiste nancy",
+      "libertine nancy",
+      "libertin nancy",
+      "libertinage nancy",
+      "rencontre libertine nancy",
+      "club libertain nancy",
+      "l'unik nancy",
+      "unik bar nancy",
+      "sauna gay nancy"
+    ]
+  },
+  "lead": "Au 9 rue Jean Lamour, dans le faubourg des Trois-Maisons, L'Unik a été, de la fin 2008 au moins jusqu'en 2010, un sauna-bar gay de 250 m² sur deux niveaux, avec licence IV, ouvert aux couples, aux femmes et aux hommes seuls certains jours. Sa société a été placée en liquidation judiciaire en mai 2010, puis radiée en 2011. En octobre 2026, le lieu libertin mixte le plus proche dont l'activité soit datée est le Sauna 51, à Laxou, à moins de 3 km ; Le Rubis, à Saint-Nicolas-de-Port (12 km), affichait aussi une soirée datée du 21 octobre.",
+  "keyFacts": [
+    {
+      "label": "Statut",
+      "value": "Fermé : liquidation judiciaire le 4 mai 2010, radiation le 24 juin 2011",
+      "confidence": "confirme",
+      "sources": [
+        "s18",
+        "s19"
+      ]
+    },
+    {
+      "label": "Concept",
+      "value": "Sauna-bar gay avec licence IV, ouvert au public mixte certains jours",
+      "confidence": "confirme",
+      "sources": [
+        "s4",
+        "s9",
+        "s11"
+      ]
+    },
+    {
+      "label": "Surface annoncée",
+      "value": "250 m² sur deux niveaux (site et blog du club, 2008-2009)",
+      "confidence": "confirme",
+      "sources": [
+        "s4",
+        "s41",
+        "s42"
+      ]
+    },
+    {
+      "label": "Adresse",
+      "value": "9 rue Jean Lamour, 54000 Nancy (7-9 au registre)",
+      "confidence": "confirme",
+      "sources": [
+        "s4",
+        "s17",
+        "s18"
+      ]
+    },
+    {
+      "label": "Société exploitante",
+      "value": "FANA CLUB, SARL créée en février 2005 (SIREN 480 739 887)",
+      "confidence": "confirme",
+      "sources": [
+        "s17",
+        "s18"
+      ]
+    },
+    {
+      "label": "Période d'activité",
+      "value": "Ouverture probable début 2008 ; site en ligne jusqu'en octobre 2010",
+      "confidence": "a_verifier",
+      "sources": [
+        "s9",
+        "s13",
+        "s15",
+        "s18",
+        "s20"
+      ]
+    },
+    {
+      "label": "Créneaux mixtes",
+      "value": "Lundi après-midi, mardi et mercredi soir (grille d'octobre 2009)",
+      "confidence": "confirme",
+      "sources": [
+        "s11"
+      ]
+    },
+    {
+      "label": "Enseigne précédente",
+      "value": "L'In-Interdit, débit de boissons associatif du même local (2005-2007)",
+      "confidence": "confirme",
+      "sources": [
+        "s43",
+        "s45",
+        "s20",
+        "s1"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "adresses-du-54-en-octobre-2026",
+      "title": "Le Rubis à 12 km, seul lieu de notre annuaire avec une soirée datée en octobre 2026",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Si vous cherchez un club libertin ou échangiste à Nancy, L'Unik n'est plus une option depuis 2010. Voici ce que nous avons constaté les 16 et 19 octobre 2026 pour les autres lieux de [Meurthe-et-Moselle](/departement/meurthe-et-moselle) que recense notre annuaire : un seul annonce une soirée datée."
+        },
+        {
+          "kind": "table",
+          "caption": "Constats des 16 et 19 octobre 2026, sur les sites et registres publics",
+          "headers": [
+            "Lieu",
+            "Commune",
+            "Ce que nous avons constaté"
+          ],
+          "rows": [
+            [
+              "[Le Rubis](/rubis-saint-nicolas-club)",
+              "Saint-Nicolas-de-Port",
+              "Affiche d'une soirée le mercredi 21 octobre 2026 en page d'accueil (mise en ligne le 17 octobre) ; page horaires et tarifs mise à jour le 14 octobre"
+            ],
+            [
+              "[Club LG](/club-lg-nancy)",
+              "Nancy",
+              "Site injoignable ; l'adresse, 5 rue Alfred Mézières, abrite La Détente, un « sauna pour hommes » dont le site publie son planning d'octobre 2026"
+            ],
+            [
+              "[Le Bounty](/le-bounty-maxeville)",
+              "Maxéville",
+              "Site en erreur 410 (contenu supprimé)"
+            ],
+            [
+              "Vos Nuits Blanches",
+              "Laneuveville-devant-Nancy (La Madeleine)",
+              "Site injoignable"
+            ],
+            [
+              "L'Apothéose",
+              "Bayonville-sur-Mad",
+              "Nom de domaine repris par un site d'annonces de rencontres sans rapport avec le club"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le Rubis est à environ 12 km à vol d'oiseau de la rue Jean Lamour. Sa grille d'octobre 2026, publiée en image, prévoit :\n- des après-midi du lundi au vendredi, de 14 h à 18 h : couple 10 €, homme 20 € ;\n- des soirées du mercredi au samedi : couple 30 à 50 €, homme 40 à 60 € ;\n- pour les femmes, l'entrée gratuite le jeudi (hors consommations), 10 € le vendredi et le samedi.\n\nLe club précise « Pas de CB » : prévoyez des espèces."
+        },
+        {
+          "kind": "text",
+          "body": "Pour d'autres dates, vous pouvez [parcourir ce que l'agenda de Wyylde affiche pour la Lorraine](aff:wyylde) : l'ex-Netéchangisme, en ligne depuis 2001, y recense des soirées de clubs de toute la France, visibles avec un compte gratuit."
+        }
+      ],
+      "sources": [
+        "s3",
+        "s24",
+        "s25",
+        "s30",
+        "s33",
+        "s34",
+        "s35",
+        "s36",
+        "s37",
+        "s55",
+        "s57"
+      ],
+      "icon": "map",
+      "summary": "Dans notre annuaire, seul Le Rubis (Saint-Nicolas-de-Port) annonce une soirée datée, le 21 octobre 2026 ; Club LG, le Bounty et Vos Nuits Blanches n'ont plus de site actif."
+    },
+    {
+      "id": "sauna-51-laxou-club-87",
+      "title": "Hors de notre annuaire : le Sauna 51 de Laxou, mixte quatre jours sur sept, à 2,8 km",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le lieu mixte actif le plus proche de l'ancien Unik n'a pas encore de fiche chez nous : le Sauna 51, 51 avenue de la Libération à Laxou, à environ 2,8 km à vol d'oiseau. Son site, mis à jour en 2026, le présente comme un « sauna libertin mixte » de 300 m², ouvert sans réservation."
+        },
+        {
+          "kind": "table",
+          "caption": "Grille et tarifs du Sauna 51, relevés sur son site le 19 octobre 2026",
+          "headers": [
+            "",
+            "Journées mixtes",
+            "Journées « 100 % masculin »"
+          ],
+          "rows": [
+            [
+              "Jours",
+              "Mardi, jeudi, vendredi, samedi",
+              "Mercredi, dimanche"
+            ],
+            [
+              "Horaires",
+              "14 h - 19 h 30 (19 h le samedi)",
+              "14 h - 19 h"
+            ],
+            [
+              "Homme seul",
+              "25 € (15 € après 18 h, du mardi au vendredi)",
+              "20 € (10 € après 18 h le mercredi, 10 € avant 25 ans)"
+            ],
+            [
+              "Couple",
+              "25 €",
+              "—"
+            ],
+            [
+              "Femme seule",
+              "Gratuit",
+              "—"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Son programme annonce des soirées mixtes de 20 h à 1 h les vendredis 9 et 23 octobre 2026 : 40 € pour un couple ou un homme seul, entrée libre pour les femmes, buffet froid compris. Un avis Gayspot de juillet 2026 le dit « 100%gay » le mercredi et le dimanche, ses deux journées masculines."
+        },
+        {
+          "kind": "text",
+          "body": "À Nancy même, une autre piste reste à vérifier : le Club 87, rue Jeanne d'Arc, un sex-shop doublé de salles de cinéma X et d'un « labyrinthe » qu'il dit ouverts aux rencontres mixtes. Son site a été remanié en juillet 2026, mais n'annonce aucune soirée datée. Les autres fiches de la ville sont sur [la page Nancy](/ville/nancy)."
+        }
+      ],
+      "sources": [
+        "s27",
+        "s28",
+        "s29",
+        "s38",
+        "s50",
+        "s57"
+      ],
+      "icon": "spa",
+      "summary": "Le Sauna 51, à Laxou, se dit « sauna libertin mixte » et annonce des soirées les 9 et 23 octobre 2026 ; le Club 87, rue Jeanne d'Arc, reste une piste à vérifier."
+    },
+    {
+      "id": "avant-l-unik-rue-jean-lamour",
+      "title": "Avant L'Unik : l'In-Interdit au 7, un restaurant puis un débit de boissons au 9 rue Jean Lamour",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Au registre, le 9 rue Jean Lamour accueille un restaurant de 1993 à 2001, puis une entreprise individuelle de débit de boissons, créée en 2001 et sans enseigne. Au 7, l'association L'In-Interdit tient un débit de boissons d'avril 2005 à décembre 2007."
+        },
+        {
+          "kind": "text",
+          "body": "Début 2009, un guide des sorties nancéien situait encore l'In-Interdit au « 7-9 rue Jean Lamour », l'adresse que le registre donne à L'Unik. Un annuaire attribue aussi à ce « club privé » le 03 83 36 95 52, le numéro qu'affichait L'Unik de 2008 à 2010."
+        },
+        {
+          "kind": "text",
+          "body": "Les deux enseignes ont donc occupé le même local, et L'Unik a pris la suite de l'In-Interdit, ce qu'écrit aussi un annuaire libertin."
+        },
+        {
+          "kind": "text",
+          "body": "La date d'ouverture de L'Unik n'est pas connue. En février 2008, FANA CLUB, la SARL qui exploitera L'Unik, déclare une nouvelle activité, « Sauna club de détente service d'astrologie et ou de voyance », et fin 2008 le site vante un « nouveau lieu » : l'ouverture se situe donc probablement au début de 2008."
+        },
+        {
+          "kind": "text",
+          "body": "Le site rattachait aussi l'une des deux personnes de l'accueil au « dédicace ». Le registre atteste un bar Le Dédicace dans la même rue en 2003, sans en préciser le numéro."
+        }
+      ],
+      "sources": [
+        "s43",
+        "s45",
+        "s4",
+        "s13",
+        "s9",
+        "s17",
+        "s18",
+        "s20",
+        "s21",
+        "s22",
+        "s23",
+        "s1",
+        "s2"
+      ],
+      "confidence": "a_verifier",
+      "icon": "history",
+      "summary": "L'Unik succède dans le même local à l'In-Interdit, débit de boissons associatif fermé fin 2007 ; il a probablement ouvert début 2008, sans date confirmée."
+    },
+    {
+      "id": "licence-iv-post-love-t-dance",
+      "title": "250 m² sur deux niveaux, une licence IV, le post'love du mardi et le T-Dance du dimanche",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "En décembre 2008, le site présentait L'Unik comme un « sauna bar gay » de 250 m², « à deux pas de la vieille ville » : ambiance sauna masculin en journée, bar club le soir et le week-end. Il se disait « mieux qu'un club sauna » grâce à sa licence IV, et « mieux qu'un bar » grâce à son sauna."
+        },
+        {
+          "kind": "text",
+          "body": "Le blog du club, ouvert en novembre 2008, et un guide des sorties nancéien de 2009 précisent que ces 250 m² s'étageaient sur deux niveaux. En bas, le bar et une piste de danse ; à l'étage, selon le guide, les cabines, la salle vidéo, la backroom, la douche et le sauna."
+        },
+        {
+          "kind": "text",
+          "body": "Le même guide signale une barre et une cage d'exhibition sur la piste. Un annuaire libertin cite aussi la cage, ainsi qu'un labyrinthe dont aucune autre source ne parle. Ni la cage ni le labyrinthe n'apparaissent dans les pages archivées du site du club."
+        },
+        {
+          "kind": "list",
+          "title": "Les rendez-vous annoncés par le club",
+          "items": [
+            "Le mardi, « post'love », une soirée messages (fin 2008).",
+            "Le mercredi, « privilège jeunes » : entrée offerte aux moins de 25 ans (fin 2008).",
+            "Un jeudi sur deux, soirée naturiste ou underwear en alternance (fin 2008).",
+            "La Saint-Sylvestre 2008 avec le restaurant La Chamade : dîner à 20 h, bar dès 23 h, 60 € par convive, réservation avant le 29 décembre.",
+            "Le samedi 31 janvier 2009, une soirée messages, annoncée sur le blog du club.",
+            "Le dimanche, un T-Dance dès 16 h, présenté comme « nouveau » en septembre 2009."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "L'agenda archivé en mai 2010 ne contient plus que des affiches, que nous n'avons pas pu lire, et la page Photos portait encore la mention « En construction » en juin 2010."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s4",
+        "s5",
+        "s8",
+        "s9",
+        "s10",
+        "s12",
+        "s13",
+        "s14",
+        "s41",
+        "s42"
+      ],
+      "icon": "drink",
+      "summary": "En 2008, un sauna-bar gay de 250 m² sur deux niveaux avec licence IV : sauna masculin le jour, bar club le soir, soirées naturistes, underwear ou « privilège jeunes »."
+    },
+    {
+      "id": "mixte-du-lundi-aux-soirees-de-semaine",
+      "title": "Le mixte : un lundi en 2008, trois jours en 2009, l'homme seul à 30 €",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "La place des couples a grandi en un an. En décembre 2008, le mixte se limitait au lundi après-midi ; le reste de la semaine était masculin, ou ouvert aux « gays, lesbiennes, bi., trans. » le week-end, à 10 € l'entrée (8 € avant 25 ans)."
+        },
+        {
+          "kind": "table",
+          "caption": "Les créneaux mixtes dans les grilles publiées par le club",
+          "headers": [
+            "",
+            "Décembre 2008",
+            "Octobre 2009"
+          ],
+          "rows": [
+            [
+              "Jours et heures",
+              "Lundi, 14 h - 21 h",
+              "Lundi 14 h - 20 h ; mardi et mercredi 21 h - 2 h"
+            ],
+            [
+              "Couple",
+              "15 €",
+              "15 €"
+            ],
+            [
+              "Homme seul",
+              "25 €",
+              "20 € le lundi, 30 € le soir"
+            ],
+            [
+              "Femme seule",
+              "Invitée",
+              "Offert"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "En octobre 2009, les soirées gay se resserrent du jeudi au samedi, entrée libre contre une consommation de 6 € minimum. Le dimanche disparaît de la grille en janvier 2010 (voir l'encadré des horaires et tarifs)."
+        },
+        {
+          "kind": "callout",
+          "tone": "info",
+          "title": "Les horaires « 14h-19h » des annuaires",
+          "body": "Dès mai 2009, un guide des sorties nancéien annonçait un accueil mixte du lundi au vendredi de 14 h à 19 h, et des soirées gay de 20 h à 2 h du mardi au dimanche. Un annuaire libertin affiche toujours ce créneau mixte, depuis février 2010 au moins. Aucune des grilles publiées par le club entre 2008 et 2010 ne lui correspond."
+        }
+      ],
+      "sources": [
+        "s6",
+        "s11",
+        "s41",
+        "s42",
+        "s1",
+        "s2"
+      ],
+      "icon": "couple",
+      "summary": "Le mixte passe d'un lundi après-midi en 2008 à trois créneaux en 2009 ; le couple paie 15 €, l'homme seul 20 à 30 €, et la femme seule entre gratuitement."
+    },
+    {
+      "id": "liquidation-mai-2010",
+      "title": "Liquidation le 4 mai 2010, fonds cédé 25 000 € en novembre",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Selon le jugement de liquidation, FANA CLUB était en cessation des paiements depuis le 1er avril 2009 ; le site du club est pourtant resté en ligne jusqu'en octobre 2010."
+        },
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "4 mai 2010",
+              "text": "Ouverture de la liquidation judiciaire ; l'établissement est fermé à cette date dans le répertoire SIRENE."
+            },
+            {
+              "date": "13 octobre 2010",
+              "text": "Dernière capture du site unikbar.com montrant le club."
+            },
+            {
+              "date": "17 novembre 2010",
+              "text": "Un particulier commence à exploiter le fonds de « bar brasserie club de rencontres », acquis 25 000 € ; la vente paraît dans L'Est Républicain le 30 novembre."
+            },
+            {
+              "date": "31 janvier 2011",
+              "text": "Le domaine n'affiche plus qu'une page parking publicitaire."
+            },
+            {
+              "date": "24 juin 2011",
+              "text": "Radiation de la société, dix jours après la clôture de la liquidation pour insuffisance d'actif."
+            },
+            {
+              "date": "Octobre 2026",
+              "text": "Le nom de domaine n'est plus enregistré."
+            }
+          ]
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Ce que les registres ne disent pas",
+          "body": "L'acheteur exploite le fonds depuis le 17 novembre 2010, sous un nom inconnu. Une entreprise individuelle de débit de boissons créée en 2001 au 9 reste active au registre, sans enseigne, mais OpenStreetMap ne cartographie aucun bar au 7-9 et les guides gays de 2026 ignorent L'Unik. SIRENE et Societe.com disent encore FANA CLUB active ; nous retenons la radiation publiée au BODACC."
+        },
+        {
+          "kind": "text",
+          "body": "Des pages en ligne présentent pourtant encore L'Unik comme ouvert, dont un blog qui le range parmi les discothèques gays de Nancy. Aucune n'apporte un fait daté postérieur à 2010. Nos recherches d'octobre 2026 n'ont trouvé aucun article de presse sur le club, et son blog Skyrock, seule trace sur un réseau social, s'arrête en janvier 2009."
+        }
+      ],
+      "sources": [
+        "s41",
+        "s13",
+        "s15",
+        "s16",
+        "s17",
+        "s18",
+        "s19",
+        "s21",
+        "s24",
+        "s25",
+        "s26",
+        "s31",
+        "s47"
+      ],
+      "icon": "closed",
+      "summary": "Liquidée le 4 mai 2010, la société de L'Unik a vu son fonds repris 25 000 € en novembre 2010, puis a été radiée le 24 juin 2011 ; ce qu'est devenu le local reste inconnu."
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Lundi": "14 h - 20 h, mixte",
+      "Mardi": "21 h - 2 h, mixte",
+      "Mercredi": "21 h - 2 h, mixte",
+      "Jeudi": "20 h - 2 h, gay",
+      "Vendredi": "20 h - 2 h, gay",
+      "Samedi": "20 h - 2 h, gay",
+      "Dimanche": "16 h - minuit en octobre 2009, absent de la grille de janvier 2010"
+    },
+    "note": "Dernière grille publiée par le club (archives d'octobre 2009 et de janvier 2010). L'Unik a fermé en 2010 : ces horaires n'ont plus qu'une valeur historique.",
+    "confidence": "confirme",
+    "sources": [
+      "s11"
+    ]
+  },
+  "tarifs": {
+    "rows": {
+      "Mixte, lundi après-midi": "Homme seul 20 €, couple 15 €, femme seule offert",
+      "Mixte, mardi et mercredi soir": "Homme seul 30 €, couple 15 €, femme seule offert",
+      "Soirées gay, du jeudi au samedi": "Entrée gratuite, consommation de 6 € minimum"
+    },
+    "note": "Toute entrée payante donnait droit à une boisson. Tarifs d'octobre 2009 et de janvier 2010, sans valeur aujourd'hui.",
+    "confidence": "confirme",
+    "sources": [
+      "s11"
+    ]
+  },
+  "equipements": [
+    "Bar (licence IV)",
+    "Sauna",
+    "Douche",
+    "Vestiaires",
+    "Cabines ouvertes et fermées",
+    "Backroom",
+    "Salon vidéo",
+    "Croix",
+    "Table gynécologique"
+  ],
+  "officialLinks": [
+    {
+      "label": "Site unikbar.com, archive du 13 octobre 2010 (Wayback Machine)",
+      "url": "https://web.archive.org/web/20101013080855/http://www.unikbar.com:80/",
+      "kind": "autre"
+    },
+    {
+      "label": "Horaires et tarifs du club, archive de janvier 2010",
+      "url": "https://web.archive.org/web/20100124050843/http://www.unikbar.com:80/horaires.htm",
+      "kind": "autre"
+    }
+  ],
+  "faq": [
+    {
+      "question": "L'Unik, rue Jean Lamour à Nancy, est-il encore ouvert ?",
+      "answer": "Non. Sa société a été liquidée le 4 mai 2010 et radiée le 24 juin 2011, après la revente du fonds en novembre 2010. Des annuaires reprennent encore son ancien numéro, le 03 83 36 95 52, et certaines pages le présentent comme ouvert, sans aucun fait daté après 2010. On ignore ce qu'est devenu le local ; OpenStreetMap n'y signale aujourd'hui ni bar ni club."
+    },
+    {
+      "question": "Quel club libertin ou échangiste reste-t-il à Nancy ?",
+      "answer": "À Nancy même, aucun que nous ayons pu vérifier ouvert en octobre 2026 : l'autre fiche nancéienne, Club LG, a un site mort, et son adresse abrite aujourd'hui un sauna pour hommes. Le lieu mixte le plus proche dont l'activité soit datée est le Sauna 51, à Laxou, à environ 2,8 km : un « sauna libertin mixte » de 300 m², ouvert aux couples et aux femmes le mardi, le jeudi, le vendredi et le samedi, qui annonce des soirées les 9 et 23 octobre 2026. En ville, le Club 87, 85 rue Jeanne d'Arc, reste une piste à vérifier : un sex-shop avec salles de cinéma X et labyrinthe que son site, remanié en juillet 2026, dit ouvert aux rencontres « Mixte / LGBT » tous les jours de 10 h à 20 h, pour 10 € la journée, sans aucune soirée datée. Le Rubis, à Saint-Nicolas-de-Port (environ 12 km), annonçait le 19 octobre 2026 une soirée pour le mercredi 21 octobre."
+    },
+    {
+      "question": "Couple ou femme seule : où faire une rencontre libertine autour de Nancy ?",
+      "answer": "Les soirées mixtes de L'Unik, à 15 € le couple et gratuites pour les femmes seules, ont disparu en 2010. Au Sauna 51 de Laxou, à moins de 3 km, le couple paie aujourd'hui 25 € et la femme seule entre gratuitement en journée mixte. Avant d'y aller, vous pouvez [chercher des libertins dans l'agglomération nancéienne](aff:carre-libertin) sur Carré Libertin : ce site ouvert en 2007, qui compte plus de 500 000 inscrits, laisse aux couples et aux femmes seules l'usage complet de ses fonctions sans abonnement, pourvu que leur profil affiche trois photos."
+    },
+    {
+      "question": "Homme seul : que faire maintenant que les soirées mixtes de L'Unik ont disparu ?",
+      "answer": "À L'Unik, l'entrée mixte lui coûtait 20 € le lundi après-midi et 30 € en soirée. Au Sauna 51 de Laxou, elle est de 25 € en journée mixte (15 € après 18 h du mardi au vendredi) et de 40 € lors de ses soirées mixtes. Au Rubis, la grille mise en ligne en octobre 2026 affiche l'homme à 20 € l'après-midi en semaine, et de 40 à 60 € le soir, du mercredi au samedi. Pour échanger avec des couples avant d'y aller, [un compte Gleese validé par SMS](aff:gleese) s'ouvre sans carte bancaire : ce réseau libertin français lancé fin 2024 vérifie chaque inscrit par téléphone et modère les photos à la main, mais compte encore moins de membres que les sites plus anciens."
+    },
+    {
+      "question": "Existe-t-il encore un sauna gay à Nancy ?",
+      "answer": "Plus rue Jean Lamour. À environ 450 m de là, 5 rue Alfred Mézières, le Sauna La Détente se présente sur son site comme un « sauna pour hommes » et publie son planning d'octobre 2026 : formule Duo le mardi, soirée Blackout le jeudi. À Laxou, le Sauna 51 réserve le mercredi et le dimanche aux hommes, avec une entrée à 20 € (10 € avant 25 ans), et ouvre les autres jours aux couples et aux femmes."
+    }
+  ],
+  "unverified": [
+    "Ce qu'est devenu le local du 7-9 rue Jean Lamour après la reprise du fonds le 17 novembre 2010 : bar sous un autre nom, fermeture, et à quelle date.",
+    "La date exacte d'ouverture de L'Unik, déduite autour de début 2008.",
+    "Le numéro de rue du bar Le Dédicace (2003) et son lien réel avec L'Unik.",
+    "Le contenu des affiches de l'agenda 2010 et des sept photos du site, non lisibles dans les archives.",
+    "La cage d'exhibition et le labyrinthe, que seuls un annuaire et un guide des sorties de 2009 mentionnent.",
+    "Si le créneau mixte du lundi au vendredi de 14 h à 19 h, publié par un guide local en 2009 puis par un annuaire, a jamais été pratiqué : aucune grille du club ne le mentionne.",
+    "Un éventuel article de L'Est Républicain sur l'ouverture ou la fermeture du club : nos recherches d'octobre 2026 n'en ont trouvé aucun.",
+    "Les règles d'accès du Rubis (tenue, réservation, quotas d'hommes), que ses pages ne publient pas en texte.",
+    "L'activité réelle du Club 87, 85 rue Jeanne d'Arc, et l'accueil qu'il réserve aux couples : son site, remanié en juillet 2026, ne publie ni soirée datée ni règles d'accès."
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "sauna-club-libertin.com, fiche « L'UNIK » (annuaire, source de notre base)",
+      "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_3.php?id=863&d=54",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s2",
+      "label": "sauna-club-libertin.com, fiche « L'UNIK », archives de décembre 2008 à février 2011",
+      "url": "https://web.archive.org/web/20081203232152/http://www.sauna-club-libertin.com/sauna_club_libertin_3.php?id=863&d=",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s3",
+      "label": "sauna-club-libertin.com, liste des lieux de Meurthe-et-Moselle",
+      "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_2.php?d=54",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s4",
+      "label": "unikbar.com, page d'accueil, archive du 19 décembre 2008",
+      "url": "https://web.archive.org/web/20081219041647/http://unikbar.com/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s5",
+      "label": "unikbar.com, programme de la semaine (main.htm), archive du 29 décembre 2008",
+      "url": "https://web.archive.org/web/20081229050317/http://www.unikbar.com/main.htm",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s6",
+      "label": "unikbar.com, horaires et tarifs, archive du 6 décembre 2008",
+      "url": "https://web.archive.org/web/20081206165636/http://www.unikbar.com:80/horaires.htm",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s8",
+      "label": "unikbar.com, page Accès, archive du 6 décembre 2008",
+      "url": "https://web.archive.org/web/20081206165614/http://www.unikbar.com:80/acces.htm",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s9",
+      "label": "unikbar.com, présentation du lieu (doc.htm), archive du 6 décembre 2008",
+      "url": "https://web.archive.org/web/20081206165631/http://www.unikbar.com:80/doc.htm",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s10",
+      "label": "unikbar.com, menu de la Saint-Sylvestre 2008, archive du 1er janvier 2009",
+      "url": "https://web.archive.org/web/20090101044911/http://www.unikbar.com:80/menunouvelan%20.htm",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s11",
+      "label": "unikbar.com, horaires et tarifs, archives d'octobre 2009 et de janvier 2010",
+      "url": "https://web.archive.org/web/20100124050843/http://www.unikbar.com:80/horaires.htm",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s12",
+      "label": "unikbar.com, page d'accueil de septembre 2009 (index2.htm), archive du 22 janvier 2010",
+      "url": "https://web.archive.org/web/20100122120309/http://www.unikbar.com:80/index2.htm",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s13",
+      "label": "unikbar.com, dernières pages archivées (agenda de mai 2010, accueil du 13 octobre 2010)",
+      "url": "https://web.archive.org/web/20101013080855/http://www.unikbar.com:80/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s14",
+      "label": "unikbar.com, page Photos, archive du 16 juin 2010",
+      "url": "https://web.archive.org/web/20100616005716/http://www.unikbar.com:80/photos.htm",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s15",
+      "label": "Wayback Machine, index des captures du domaine unikbar.com (2008-2019)",
+      "url": "http://web.archive.org/cdx/search/cdx?url=unikbar.com&matchType=domain&collapse=timestamp:6",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s16",
+      "label": "État du domaine unikbar.com (connexion, DNS et RDAP Verisign)",
+      "url": "https://rdap.verisign.com/com/v1/domain/unikbar.com",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s17",
+      "label": "Annuaire des entreprises, FANA CLUB (SIREN 480 739 887)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/480739887",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s18",
+      "label": "BODACC, annonces légales de FANA CLUB (2008-2011)",
+      "url": "https://bodacc-datadila.opendatasoft.com/explore/dataset/annonces-commerciales/table/?q=480739887",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s19",
+      "label": "Societe.com, fiche FANA CLUB",
+      "url": "https://www.societe.com/societe/fana-club-480739887.html",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s20",
+      "label": "Annuaire des entreprises, association L'IN-INTERDIT (SIREN 483 598 124)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/483598124",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s21",
+      "label": "Annuaire des entreprises, débit de boissons au 9 rue Jean Lamour (SIREN 438 127 235)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/438127235",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s22",
+      "label": "Annuaire des entreprises, établissement « Bar Le Dédicace rue Jean Lamour » (SIREN 422 786 368)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/422786368",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s23",
+      "label": "Annuaire des entreprises, CLEFLO (SIREN 391 838 646)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/391838646",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s24",
+      "label": "Spartacus, saunas de Nancy",
+      "url": "https://spartacus.gayguide.travel/saunas/europe/france/nancy",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s25",
+      "label": "Saunas4men, Nancy",
+      "url": "https://saunas4men.com/en/france/nancy",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s26",
+      "label": "Gayspot, lieux de Meurthe-et-Moselle",
+      "url": "https://gayspot.fr/drague-gay/grand-est/54-meurthe-et-moselle/",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s27",
+      "label": "Gayspot, fiche « club 87 Nancy » (un seul avis, août 2023)",
+      "url": "https://gayspot.fr/lieu-de-drague-gay/1379-club-87-nancy-nancy.html",
+      "type": "annuaire",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s28",
+      "label": "Gayspot, fiche « Sauna le 51 » à Laxou",
+      "url": "https://gayspot.fr/lieu-de-drague-gay/1400-sauna-le-51-laxou.html",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s29",
+      "label": "Annuaire des entreprises, CONSER (Sauna 51, Laxou)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/953737905",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s30",
+      "label": "Annuaire des entreprises, SARL LA DETENTE (5 rue Alfred Mézières, Nancy)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/750714214",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s31",
+      "label": "OpenStreetMap et Base adresse nationale, 7-9 rue Jean Lamour",
+      "url": "https://www.openstreetmap.org/#map=19/48.70101/6.17600",
+      "type": "carte",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s33",
+      "label": "Domaine club-apotheose.com (repris par un site d'annonces de rencontres)",
+      "url": "http://www.club-apotheose.com/",
+      "type": "autre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s34",
+      "label": "Site du Rubis : dates de modification des pages (API WordPress) et page Contact",
+      "url": "https://www.rubis-club.fr/wp-json/wp/v2/pages",
+      "type": "autre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s35",
+      "label": "État des sites lebounty.net, vosnuitsblanches.com et saunalg.com",
+      "url": "http://www.lebounty.net/",
+      "type": "autre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s36",
+      "label": "Site du Rubis, page d'accueil : affiche de la soirée du mercredi 21 octobre 2026 (mise en ligne le 17 octobre)",
+      "url": "https://www.rubis-club.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s37",
+      "label": "Site du Rubis, page Horaires et tarifs : grille en image publiée le 14 octobre 2026",
+      "url": "https://www.rubis-club.fr/horaires-et-tarif/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s38",
+      "label": "Site du Club 87 (club87-nancy.com) : accueil, page Labyrinthe et dates de mise à jour (API WordPress, juillet 2026)",
+      "url": "https://club87-nancy.com/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s41",
+      "label": "Blog Skyrock « unik-bar » tenu au nom du club (novembre 2008 - janvier 2009), archive du 2 juillet 2013",
+      "url": "https://web.archive.org/web/20130702065452/http://unik-bar.skyrock.com/",
+      "type": "reseau_social",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s42",
+      "label": "Nancy By Night, guide des sorties : fiche « L'UNIK », archive du 26 mai 2009 (texte inchangé jusqu'en 2023)",
+      "url": "https://web.archive.org/web/20090526052146/http://www.nancybynight.com:80/guide-nancy-lieu-l-unik-459.html",
+      "type": "annuaire",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s43",
+      "label": "Nancy By Night, guide des sorties : fiche « In-interdit (l') », archive du 2 janvier 2009",
+      "url": "https://web.archive.org/web/20090102170751/http://www.nancybynight.com/guide-nancy-lieu-in-interdit-l-46.html",
+      "type": "annuaire",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s45",
+      "label": "Koifaire, fiche « Club Privé L In Interdit » (7 rue Jean Lamour, 03 83 36 95 52)",
+      "url": "https://www.koifaire.com/lorraine/club,priva,l,in,interdit-6298.html",
+      "type": "annuaire",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s47",
+      "label": "barlentre2.fr, « Les 10 meilleurs bars gay à Nancy » (article non daté qui présente L'Unik comme ouvert)",
+      "url": "https://barlentre2.fr/10-meilleurs-bars-gay-nancy-notre-selection-soiree-festive-conviviale/",
+      "type": "autre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s50",
+      "label": "Site du Sauna 51 (Laxou) : accueil, horaires, tarifs et programme d'octobre 2026",
+      "url": "https://sauna51.fr/programme/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s55",
+      "label": "Site du Sauna La Détente (5 rue Alfred Mézières) : présentation et planning d'octobre 2026",
+      "url": "https://www.sauna-ladetente.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s57",
+      "label": "Base adresse nationale : géocodage des adresses citées (distances à vol d'oiseau depuis le 9 rue Jean Lamour)",
+      "url": "https://api-adresse.data.gouv.fr/search/?q=9+rue+Jean+Lamour+54000+Nancy",
+      "type": "carte",
+      "consulted": "2026-10-19"
+    }
+  ],
+  "glance": [
+    {
+      "icon": "closed",
+      "label": "Fermé",
+      "value": "Société liquidée le 4 mai 2010"
+    },
+    {
+      "icon": "history",
+      "label": "En activité",
+      "value": "De début 2008 (probable) à 2010",
+      "confidence": "a_verifier"
+    },
+    {
+      "icon": "couple",
+      "label": "Mixte (grille 2009)",
+      "value": "Lundi après-midi, mardi et mercredi soir"
+    },
+    {
+      "icon": "euro",
+      "label": "Entrée mixte (2009)",
+      "value": "Couple 15 € · homme 20-30 € · femme offert"
+    },
+    {
+      "icon": "map",
+      "label": "Adresse",
+      "value": "9 rue Jean Lamour, Nancy (Trois-Maisons)"
+    },
+    {
+      "icon": "heart",
+      "label": "Lieu mixte à ≈ 3 km",
+      "value": "Sauna 51 (Laxou), soirées en octobre 2026"
+    }
+  ],
+  "highlights": [
+    "L'Unik n'existe plus : sa société a été placée en liquidation le 4 mai 2010, radiée le 24 juin 2011, et aucune source ne montre le nom actif après octobre 2010.",
+    "Le téléphone, l'e-mail et le site unikbar.com que reprennent encore des annuaires datent de 2008-2010 ; le domaine n'est plus enregistré.",
+    "Ce n'était pas un club échangiste classique : un sauna-bar gay qui n'ouvrait aux couples et aux femmes que sur des créneaux mixtes.",
+    "Les horaires mixtes « 14h à 19h » du lundi au vendredi, repris par des annuaires depuis 2009, ne figurent dans aucune grille du site du club.",
+    "Lieu mixte actif le plus proche : le Sauna 51 à Laxou (≈ 2,8 km), soirées datées en octobre 2026. Le Rubis, à ≈ 12 km, précise « Pas de CB »."
+  ]
+}

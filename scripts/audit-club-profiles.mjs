@@ -39,6 +39,8 @@ const BANNED = [
   'expérience unique', 'dans le respect et la discrétion', 'un must', 'havre de paix', 'ne manquez pas',
   'que vous soyez', 'pour tous les goûts', 'en toute discrétion', 'à couper le souffle', 'écrin',
   'propice aux rencontres', 'atmosphère propice', 'nul doute', 'il va sans dire', 'en somme',
+  // FG People ne parle pas de sa propre base dans la fiche (règle 5) :
+  'notre ancienne fiche', "l'annuaire dont provient notre fiche", 'qui figurait dans notre annuaire',
 ];
 
 function texts(p) {
@@ -244,7 +246,7 @@ for (const r of rows) {
   for (const sentence of texts(p).split(/(?<=[.!?])\s+|\n+/)) {
     for (const m of sentence.matchAll(/\]\(\/([a-z0-9-]+)\)/g)) {
       if (['ferme', 'fermeture_probable'].includes(statusOf.get(m[1])) && !/ferm/i.test(sentence)) {
-        r.frozen.push(`lien vers /${m[1]}, fermé selon sa fiche, sans le dire dans la phrase`);
+        r.frozen.push(`lien vers /${m[1]} : ce lieu est fermé selon sa fiche, la phrase doit le dire`);
       }
     }
   }
@@ -252,6 +254,32 @@ for (const r of rows) {
     if (/\.(run\.app|firebaseapp\.com|web\.app|wixsite\.com|netlify\.app|vercel\.app|herokuapp\.com|github\.io)\b/.test(l.url)) {
       r.frozen.push(`lien officiel vers un hébergeur (${l.url}) : donner le domaine du club`);
     }
+  }
+}
+
+// Squelettes communs : titres SEO de toutes les fiches, questions de FAQ des
+// fiches fermées (nom et ville neutralisés), comparés par trigrammes.
+for (const r of rows) {
+  const p = bySlug.get(r.slug);
+  const myTitle = trigrams(neutral(p.seo.title, p));
+  const twin = profiles.find((o) => o.slug !== p.slug && jaccard(myTitle, trigrams(neutral(o.seo.title, o))) >= 0.5);
+  if (twin) r.frozen.push(`titre SEO bâti comme celui de ${twin.slug} : « ${p.seo.title} » ≈ « ${twin.seo.title} »`);
+  if (isClosed(p)) {
+    // « Est-il encore ouvert ? » est la question légitime de tout visiteur d'un lieu fermé : elle n'est pas comptée.
+    for (const q of p.faq.filter((x) => !/ouvert|ferm|tarif|prix|co[uû]t|combien|horaire|adresse|où se trouv/i.test(x.question))) {
+      const mine = trigrams(neutral(q.question, p));
+      const same = profiles.filter((o) => o.slug !== p.slug && isClosed(o) && o.faq.some((x) => jaccard(mine, trigrams(neutral(x.question, o))) >= 0.6));
+      if (same.length >= 3) r.frozen.push(`question de FAQ commune à ${same.length} autres fiches fermées : « ${q.question} »`);
+    }
+  }
+}
+
+// Alerte de lot (non bloquante) : un même fait partenaire dans plus de la moitié des fiches auditées.
+if (focus.size >= 5) {
+  const FACTS = ['fin 2024', 'carte bancaire', 'trois photos', '3 photos', 'compte gratuit', 'netéchangisme', '7 millions', '500 000', '2018', 'à la main'];
+  for (const f of FACTS) {
+    const n = rows.filter((r) => corpusText.get(r.slug).includes(f)).length;
+    if (n > rows.length / 2) console.log(`Alerte de lot : le fait partenaire « ${f} » figure dans ${n} fiches sur ${rows.length}. Faire tourner les faits.`);
   }
 }
 

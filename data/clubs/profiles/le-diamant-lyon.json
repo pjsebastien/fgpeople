@@ -1,0 +1,366 @@
+{
+  "slug": "le-diamant-lyon",
+  "clubId": "189",
+  "researchedAt": "2026-10-19",
+  "display": { "nom": "Le Diamant", "ville": "Lyon" },
+  "status": {
+    "value": "ouvert",
+    "summary": "Programme daté jusqu'au samedi 12 décembre 2026 sur le site officiel, flyers de ces soirées déposés entre le 15 septembre et le 13 octobre 2026 : le club fonctionne, et l'agenda était toujours en ligne le 19 octobre 2026. Deux trous dans le calendrier, annoncés par le club : les vendredis 16 et 23 octobre 2026, fermés à titre exceptionnel, le vendredi 30 restant ouvert.",
+    "sources": ["s1", "s7", "s10", "s12"]
+  },
+  "seo": {
+    "title": "Le Diamant club Lyon 5e : glory hole, fétish, tarifs et photos",
+    "metaDescription": "Club privé de Saint-Just : couple gratuit le jeudi, glory hole et croix de Saint-André, shibari le 30 octobre 2026. Programme et prix du site officiel.",
+    "subtitle": "Club libertin privé de la rue des Macchabées, à Saint-Just (Lyon 5e)",
+    "targetQueries": [
+      "le diamant club lyon",
+      "photos de diamant-libertin",
+      "glory hole lyon",
+      "gloryhole lyon",
+      "fetish lyon",
+      "bar libertin lyon - bada bar avis",
+      "bar libertin lyon",
+      "sauna libertin lyon",
+      "hotel libertin lyon"
+    ]
+  },
+  "lead": "Au 24 rue des Macchabées, à Saint-Just, Le Diamant se décrit comme « le petit club sur Lyon » : aucun sauna ni jacuzzi annoncé, mais un glory hole, une croix de Saint-André et un banc à fessée. Le gang bang du jeudi y est gratuit pour les couples, chaque samedi porte un thème différent, et le programme publié court jusqu'au 12 décembre 2026. Le même patron, Dani, tient le club depuis sa reprise en mai 2006.",
+  "glance": [
+    { "icon": "calendar", "label": "Ouvert", "value": "Jeu., ven. et sam. soir, après-midi datés" },
+    { "icon": "couple", "label": "Entrée couple", "value": "0 € jeudi · 20 € vendredi · 40 € samedi" },
+    { "icon": "euro", "label": "Homme seul", "value": "50 € (ven., après-midi) · 70 € (jeu., sam.)" },
+    { "icon": "flame", "label": "Équipements annoncés", "value": "Glory hole, croix, banc à fessée" },
+    { "icon": "map", "label": "Adresse", "value": "24 rue des Macchabées, Saint-Just (5e)" },
+    { "icon": "history", "label": "Repris en", "value": "Mai 2006, par Dani, encore patron en 2026" }
+  ],
+  "audience": [
+    { "who": "couples", "status": "oui", "detail": "Tous les soirs d'ouverture ; entrée gratuite le jeudi, soir de gang bang", "price": "0 à 40 €" },
+    { "who": "femmes", "status": "oui", "detail": "« Libertine seule confirmée » : entrée offerte selon la grille officielle", "price": "0 €" },
+    { "who": "hommes", "status": "selon", "detail": "En nombre limité, sur acceptation à la porte, habitués prioritaires", "price": "50 à 70 €" },
+    { "who": "trans", "status": "oui", "detail": "Travestis : tarif dédié le week-end ; soirée bi et transgenre le 7 novembre 2026", "price": "20 à 30 €" }
+  ],
+  "highlights": [
+    "Fermé le vendredi 23 octobre 2026 ; le vendredi 30, soirée SM/BDSM de 22 h à 4 h avec découverte des cordes shibari.",
+    "Dress code contrôlé à l'entrée : jupe ou robe pour les femmes ; baskets, jeans déchirés, t-shirts et polaires refusés.",
+    "Hommes seuls en nombre limité, acceptés ou non à la porte, habitués en priorité ; les personnes venues en groupe sont refusées.",
+    "Téléphone interdit à l'intérieur sous peine d'exclusion ; une carte de membre est demandée, sans prix publié.",
+    "Congés d'été en août, environ trois semaines et demie : du 2 au 26 août en 2026, réouverture le jeudi 28 août en 2025, selon le site du club."
+  ],
+  "keyFacts": [
+    { "label": "Adresse", "value": "24 rue des Macchabées, 69005 Lyon (Saint-Just)", "confidence": "confirme", "sources": ["s1", "s5", "s13"] },
+    { "label": "Téléphone", "value": "04 72 57 76 90", "confidence": "confirme", "sources": ["s1", "s5", "s17"] },
+    { "label": "Jours d'ouverture", "value": "Jeudi, vendredi et samedi soir, plus des après-midi à dates programmées", "confidence": "confirme", "sources": ["s1"] },
+    { "label": "Public admis", "value": "Mixte ; hommes seuls en nombre limité, femme seule « confirmée » gratuite", "confidence": "confirme", "sources": ["s1", "s2", "s3"] },
+    { "label": "Entrée couple", "value": "Gratuite le jeudi, 20 € le vendredi, 40 € le samedi", "confidence": "confirme", "sources": ["s2", "s6", "s10"] },
+    { "label": "Équipements annoncés", "value": "Glory hole, croix de Saint-André, banc à fessée, table de pole dance", "confidence": "confirme", "sources": ["s1"] },
+    { "label": "Sauna, jacuzzi, hébergement", "value": "Aucun mentionné", "confidence": "confirme", "sources": ["s1", "s16", "s18"] },
+    { "label": "Adhésion", "value": "Carte de membre demandée, prix non publié", "confidence": "source_unique", "sources": ["s11"] },
+    { "label": "Reprise du club", "value": "Mai 2006, par Dani, selon le site du club dès octobre 2006", "confidence": "confirme", "sources": ["s22", "s24", "s20"] },
+    { "label": "Structure", "value": "Association « Le Diamant Bleu », déclarée en mars 2006 au même siège (lien avec le club déduit, non confirmé)", "confidence": "a_verifier", "sources": ["s13", "s14"] }
+  ],
+  "sections": [
+    {
+      "id": "treize-dates-jusqu-au-12-decembre",
+      "title": "Treize dates jusqu'au 12 décembre 2026, deux vendredis d'octobre fermés",
+      "icon": "calendar",
+      "summary": "Le 16 octobre 2026, le site affichait treize soirées et après-midi jusqu'au 12 décembre ; les vendredis 16 et 23 octobre sont fermés, le vendredi 30 reste ouvert.",
+      "blocks": [
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Fermé les vendredis 16 et 23 octobre 2026",
+          "body": "Le club annonce une fermeture exceptionnelle de ses vendredis d'octobre, sauf le 30. Jeudis, samedis et après-midi programmés ne sont pas touchés."
+        },
+        {
+          "kind": "table",
+          "caption": "Agenda du site officiel relevé le 16 octobre 2026, toujours en ligne le 19 (les après-midi vont de 14 h à 17 h)",
+          "headers": ["Date", "Thème annoncé"],
+          "rows": [
+            ["Sam. 17 oct.", "Sexy et topless"],
+            ["Lun. 19 oct., après-midi", "Gang bang avec plusieurs couples"],
+            ["Jeu. 22 oct.", "Gang bang « pluralité »"],
+            ["Sam. 24 oct.", "Cougars et « bourgeoises libertines »"],
+            ["Mer. 28 oct., après-midi", "Gang bang"],
+            ["Jeu. 29 oct.", "Gang bang « pluralité »"],
+            ["Ven. 30 oct.", "SM/BDSM fétish, initiation shibari"],
+            ["Sam. 31 oct.", "Halloween, open bar si déguisé"],
+            ["Jeu. 5 nov.", "Gang bang « pluralité »"],
+            ["Sam. 7 nov.", "Bi et transgenre"],
+            ["Lun. 9 nov., après-midi", "Gang bang"],
+            ["Sam. 14 nov.", "Hot wife"],
+            ["Sam. 12 déc.", "Anniversaire du patron"]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Les visuels de ces soirées ont été déposés sur le site entre le 15 septembre et le 13 octobre 2026.\n\nLe club relaie aussi ses dates sur Wyylde, mais prévient en capitales que cocher « je participe » ne vaut pas entrée. [Les dates du Diamant reprises dans l'agenda de Wyylde](aff:wyylde), consultable avec un compte gratuit, servent donc à repérer une soirée ; l'entrée, elle, se décide à la porte."
+        }
+      ],
+      "sources": ["s1", "s6", "s7", "s8", "s9", "s10", "s12"]
+    },
+    {
+      "id": "vacances-du-2-au-26-aout",
+      "title": "En vacances du 2 au 26 août 2026, comme en août 2024 et 2025",
+      "icon": "clock",
+      "summary": "Le site annonçait « vacances » du 2 au 26 août 2026, réouverture le jeudi 27 ; il avait rouvert le jeudi 28 août en 2025 et le jeudi 29 août en 2024.",
+      "blocks": [
+        {
+          "kind": "table",
+          "caption": "Congés d'été relevés dans les archives du site officiel (Wayback Machine)",
+          "headers": ["Été", "Pause annoncée", "Réouverture"],
+          "rows": [
+            ["2022", "Fin août, après un après-midi le mardi 23", "Jeudi 1er septembre"],
+            ["2024", "Après le samedi 3 août, hors un après-midi le jeudi 22", "Jeudi 29 août"],
+            ["2025", "Du 3 au 27 août", "Jeudi 28 août"],
+            ["2026", "Du 2 au 26 août", "Jeudi 27 août, vendredi 28 fermé"]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "En 2024, le club précisait « réouverture jeudi 29, sauf si après-midi gang bang organisé ». Aucune capture du site ne couvre le mois d'août 2023.\n\nHors de ces congés, le club annonce aussi des fermetures ponctuelles sur sa page d'accueil, comme celles des vendredis d'octobre 2026 : un coup d'œil à l'agenda avant de prendre la route en fin d'été évite la porte close."
+        }
+      ],
+      "sources": ["s26", "s27", "s7"]
+    },
+    {
+      "id": "prix-selon-le-soir",
+      "title": "Couple gratuit le jeudi, 40 € le samedi : ce que les prix disent de chaque soir",
+      "icon": "euro",
+      "summary": "Couple : gratuit le jeudi, 20 € le vendredi, 40 € le samedi. Homme seul : 50 € le vendredi et l'après-midi, 70 € le jeudi et le samedi, entrée non garantie.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le **jeudi**, soir de gang bang, l'entrée est gratuite pour les couples, avec open bar sans alcool, deux verres alcoolisés et pizza, quand l'homme seul paie 70 €. Le **vendredi**, un couple paie 20 € et un homme seul 50 €.\n\nLe **samedi** est le soir le plus cher pour un couple, 40 €. Une femme seule « confirmée » entre gratuitement.\n\nCôté hommes seuls, la page « Infos Club » prévient : entrée « sous réserve d'acceptation », en nombre limité, habitués prioritaires. Le site du club affiche une bannière Gleese, réseau français lancé fin 2024 aux profils vérifiés par téléphone, où l'on peut [chercher une partenaire lyonnaise pour passer la porte à deux](aff:gleese) sans saisir de carte bancaire."
+        },
+        {
+          "kind": "text",
+          "body": "Cette grille a bougé. Le week-end, un couple payait 30 € de 2006 à début 2023, puis 40 € au plus tard en avril 2024 ; l'homme seul est passé de 65 € à 70 € entre novembre 2022 et février 2023.\n\nLe vendredi a pris le chemin inverse : 40 € pour un couple et 70 € pour un homme seul encore en novembre 2025, 20 € et 50 € depuis avril 2026 au plus tard. Un guide en ligne comme Apéro du Jeudi affiche toujours 65 € et 30 €, soit la grille d'avant 2023."
+        }
+      ],
+      "sources": ["s1", "s2", "s3", "s6", "s8", "s10", "s23", "s25", "s29"]
+    },
+    {
+      "id": "glory-hole-croix-banc-fessee",
+      "title": "Glory hole, croix de Saint-André et banc à fessée, mais ni sauna ni jacuzzi",
+      "icon": "flame",
+      "summary": "Le club annonce glory hole, croix de Saint-André, banc à fessée et table de pole dance ; aucun sauna, hammam ni jacuzzi n'est mentionné, par le site comme par les guides.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le diaporama d'accueil annonce un glory hole, une croix de Saint-André et un banc à fessée « à disposition », plus une table de pole dance, un bar et des sanitaires que le club dit neufs. Ni sauna, ni hammam, ni jacuzzi ne sont mentionnés.\n\nPour le fétish, le thème « fétish & soumission » impose un dress code noir et rouge, et la soirée SM/BDSM du vendredi 30 octobre 2026 (22 h-4 h) propose de découvrir les cordes shibari. Au bar, la carte aligne six cocktails au champagne, tous à 10 €."
+        }
+      ],
+      "sources": ["s1", "s4", "s8", "s16", "s18"]
+    },
+    {
+      "id": "75-m2-vus-par-les-guides-lyonnais",
+      "title": "75 m² climatisés et douze passages du Petit Paumé entre 2010 et 2024",
+      "icon": "star",
+      "summary": "Le club annonçait 75 m² climatisés, une piste à miroirs et un salon VIP de 2006 à 2016 ; Le Petit Paumé l'a testé douze fois, verdict « Très bien » en 2024.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le site actuel ne publie ni surface ni plan. Sa présentation d'origine, en ligne dès octobre 2006 et encore en février 2016 selon les archives du web, décrivait :\n\n- 75 m² climatisés ;\n- une piste de danse avec miroirs et barre d'exhibition ;\n- un salon VIP, un coin câlin alors refait, des vidéos et une douche ;\n- deux parkings gratuits à proximité, dans un quartier dit calme.\n\nLe webzine Lyon Clubbing a repris ce texte en 2015. En octobre 2021, Tribune de Lyon parlait d'un espace « certes exigu, mais particulièrement efficace » ; rien ne dit que l'aménagement de 2016 est resté le même."
+        },
+        {
+          "kind": "text",
+          "body": "Le Petit Paumé, guide lyonnais qui l'appelle « Le Diamant Bleu », l'a testé douze fois entre 2010 et 2024, sans passage en 2025 ni en 2026. Son test 2024, verdict « Très bien », présente le club comme le « secret le mieux gardé » du 5e et trouve les glory holes « un peu bas ».\n\nAvant, il avait donné « Bien ++ » en 2023 et « Bien » en 2019, année où la croix de Saint-André et le banc à fessées étaient son coup de cœur. Ses textes évoquent aussi un petit bar (2012), de petites chambres sombres (2015) et des salles câlins (2017)."
+        }
+      ],
+      "sources": ["s19", "s20", "s21", "s22", "s24", "s28"]
+    },
+    {
+      "id": "repris-par-dani-mai-2006",
+      "title": "Repris par Dani en mai 2006, toujours aux commandes vingt ans plus tard",
+      "icon": "history",
+      "summary": "Le site du club annonce dès octobre 2006 sa reprise par Dani en mai 2006 ; le même patron fête son anniversaire au programme du 12 décembre 2026.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le site du club l'écrit dès octobre 2006 : « repris par Dani en mai 2006 ». Ce patron, « figure locale » du libertinage selon Tribune de Lyon en 2021, fête son anniversaire au programme du 12 décembre 2026.\n\nEn 2006, le club ouvrait aussi l'après-midi, dimanche compris, et jusqu'à l'aube le vendredi et le samedi. En 2021, Dani déplorait dans Tribune de Lyon « une sacrée concurrence » : celle des soirées privées annoncées sur internet, qui avaient continué pendant les fermetures sanitaires."
+        },
+        {
+          "kind": "timeline",
+          "items": [
+            { "date": "Mars 2006", "text": "Déclaration de l'association Le Diamant Bleu à la préfecture du Rhône (JO du 22 avril 2006)." },
+            { "date": "Mai 2006", "text": "Reprise du club par Dani, annoncée sur le site du club dès octobre 2006." },
+            { "date": "Octobre 2006", "text": "Plus ancienne archive du site : après-midi en semaine et le dimanche, couple à 30 € le soir." },
+            { "date": "2010", "text": "Premier des douze tests du club par Le Petit Paumé." },
+            { "date": "Septembre 2021", "text": "Fiche du club sur Gruiii, qui relaie encore ses soirées en 2026." },
+            { "date": "Octobre 2021", "text": "Tribune de Lyon range Le Diamant parmi les adresses libertines lyonnaises « qui parviennent à perdurer »." },
+            { "date": "2024", "text": "Dernier test du Petit Paumé, verdict « Très bien »." },
+            { "date": "Août 2026", "text": "Congés du 2 au 26 août, réouverture le jeudi 27." },
+            { "date": "12 décembre 2026", "text": "Anniversaire du patron, dernière date affichée." }
+          ]
+        }
+      ],
+      "sources": ["s10", "s14", "s18", "s19", "s20", "s21", "s22", "s23", "s26", "s30"]
+    },
+    {
+      "id": "regles-a-la-porte",
+      "title": "Jupe ou robe, ni baskets ni téléphone, groupes refusés à la porte",
+      "icon": "shield",
+      "summary": "Jupe ou robe pour les femmes, tenue élégante pour les hommes, ni baskets ni jeans déchirés, téléphone interdit ; personnes alcoolisées et groupes refusés.",
+      "blocks": [
+        {
+          "kind": "list",
+          "items": [
+            "**Femmes** : jupe ou robe, « tenues sexy ».",
+            "**Hommes** : tenue élégante.",
+            "**Pour tous** : tenue correcte exigée ; baskets, jeans déchirés, t-shirts et polaires refusés.",
+            "**Téléphone** : interdit à l'intérieur sous peine d'exclusion.",
+            "**Refusés** : personnes alcoolisées, personnes « en groupe (2, 3, 4…) », vêtements sales ou mauvaise odeur ; le club peut écarter quiconque ne correspond pas à la soirée.",
+            "**Protections** : pas de règle générale publiée ; pour l'après-midi du 28 octobre 2026, dépistage à jour exigé pour les rapports non protégés, préservatif sinon."
+          ]
+        }
+      ],
+      "sources": ["s1", "s3", "s6", "s9", "s11"]
+    },
+    {
+      "id": "photos-facade-bleue",
+      "title": "Photos : la façade bleue sur le site, des banquettes roses dans la presse en 2021",
+      "icon": "camera",
+      "summary": "Le site officiel ne montre que la façade de nuit ; une photo publiée par Tribune de Lyon en octobre 2021 montre la salle, ses banquettes roses et sa barre de pole dance.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le site officiel n'a pas de galerie. Son diaporama ne montre qu'une vraie photo du lieu : la façade de nuit, une vitrine en rez-de-chaussée, l'enseigne « Le Diamant Club Privé » posée sur un diamant, un éclairage bleu et une porte éclairée en rouge. Le reste se compose de visuels d'illustration sans rapport visible avec la salle.\n\nL'intérieur apparaît sur une photo de presse de Tribune de Lyon, en octobre 2021 : banquettes et tabourets de velours rose, papier peint noir à motifs, cadres de pin-up, lustres et barre de pole dance fixée sur une table ronde. Une affiche y reprend la devise du « petit club ». La page Facebook du club reste illisible sans connexion."
+        }
+      ],
+      "sources": ["s1", "s12", "s21"]
+    },
+    {
+      "id": "bar-sauna-hotel-ailleurs",
+      "title": "Ni bar libertin, ni sauna, ni chambres : où chercher ces formats à Lyon",
+      "icon": "map",
+      "summary": "Le Diamant a un bar mais fonctionne en club, sans sauna ni hébergement annoncés : pour ces formats, voyez les bars et saunas libertins recensés à Lyon.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le Diamant a un bar mais fonctionne en club : horaires fixes, entrée tarifée, dress code. Pour un bar libertin, notre annuaire recense le [Bada Bar](/bada-bar-rencontres-libertines) et [Le Trou](/trou-lyon-club-libertin), dont nous n'avons pas vérifié ici l'activité.\n\nPour un sauna, voyez les [saunas libertins de Lyon](/sauna-libertin/ville/lyon), dont [Le Luxor](/luxor-lyon-etablissement-libertin), statut là aussi non vérifié. Aucun hébergement n'est mentionné rue des Macchabées. Les autres [lieux libertins lyonnais](/ville/lyon) figurent sur la page de la ville."
+        }
+      ],
+      "sources": ["s1", "s2", "s3", "s16", "s18"]
+    },
+    {
+      "id": "diamant-bleu-association-2006",
+      "title": "Le Diamant, Diamant Libertin ou Diamant Bleu : une association au même siège depuis mars 2006",
+      "icon": "building",
+      "summary": "Façade, site et guides emploient trois noms ; l'association Le Diamant Bleu, déclarée en mars 2006 à cette adresse, est active, sans lien officiel établi avec le club.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "« Le Diamant » sur la façade, « Diamant Libertin » pour le site, « le diamant bleu » dans les textes de soirées, chez Place Libertine et au Petit Paumé.\n\nUne association loi 1901, Le Diamant Bleu, a été déclarée le 21 mars 2006 au 24 rue des Macchabées, pour « la pratique de la danse, des loisirs et des rencontres ». Elle est toujours active au registre.\n\nFaute de mentions légales, rien n'établit officiellement qu'elle porte le club ; le nom, l'adresse, la date et la carte de membre exigée le rendent vraisemblable. À ne pas confondre avec Le Diamant Noir, SARL du quai Pierre-Scize (5e) dont l'établissement est fermé depuis janvier 2019 : aucun lien n'est établi."
+        }
+      ],
+      "sources": ["s11", "s13", "s14", "s15", "s17", "s19"]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Lundi à jeudi après-midi": "14 h - 17 h, seulement aux dates programmées",
+      "Jeudi soir": "21 h - 1 h (gang bang)",
+      "Vendredi": "22 h - 4 h (vendredis d'octobre 2026 fermés, sauf le 30)",
+      "Samedi": "22 h 30 - 4 h"
+    },
+    "note": "Relevé sur le site officiel le 16 octobre 2026, vérifié le 19. Aucune ouverture n'est annoncée le dimanche. Congés d'été en août : du 2 au 26 août en 2026.",
+    "confidence": "confirme",
+    "sources": ["s1", "s7", "s26"]
+  },
+  "tarifs": {
+    "rows": {
+      "Couple, jeudi": "Gratuit (open bar soft, 2 consommations alcoolisées, pizza)",
+      "Homme seul, jeudi": "70 € (3 consommations, pizza)",
+      "Homme seul, après-midi": "50 € (1 consommation)",
+      "Couple, vendredi": "20 € (4 consommations)",
+      "Homme seul, vendredi": "50 € (1 consommation)",
+      "Couple, samedi": "40 € (4 consommations)",
+      "Homme seul, samedi": "70 € (3 consommations)",
+      "Travesti, vendredi et samedi": "30 € (2 consommations) ; 20 € avec 1 consommation annoncés le 30 octobre 2026",
+      "Femme seule « confirmée »": "Gratuit",
+      "Cocktail au champagne": "10 €"
+    },
+    "note": "Grille officielle et pages de soirées relevées le 16 octobre 2026, vérifiées le 19. Carte de membre demandée, prix non publié.",
+    "confidence": "confirme",
+    "sources": ["s2", "s4", "s6", "s8", "s10"]
+  },
+  "equipements": ["Glory hole", "Croix de Saint-André", "Banc à fessée", "Table de pole dance", "Bar à cocktails"],
+  "officialLinks": [
+    { "label": "Site officiel Diamant Libertin (agenda en page d'accueil)", "url": "https://www.diamant-libertin.com/", "kind": "site" },
+    { "label": "Grille des tarifs", "url": "https://www.diamant-libertin.com/tarifs.php", "kind": "autre" },
+    { "label": "Règles d'entrée (Infos Club)", "url": "https://www.diamant-libertin.com/infos.php", "kind": "autre" },
+    { "label": "Page Facebook liée par le club", "url": "https://www.facebook.com/le-diamant-118284039197/", "kind": "facebook" }
+  ],
+  "faq": [
+    {
+      "question": "Où se trouve le club Le Diamant à Lyon ?",
+      "answer": "Au 24 rue des Macchabées, dans le 5e arrondissement, quartier Saint-Just. Téléphone : 04 72 57 76 90 ; e-mail : diamantlibertin@hotmail.fr. Le site actuel ne dit rien du stationnement ; la présentation du club signalait, de 2006 à 2016, deux parkings gratuits à proximité, information non vérifiée depuis."
+    },
+    {
+      "question": "Y a-t-il un glory hole au Diamant ?",
+      "answer": "Oui, selon le club, avec une croix de Saint-André et un banc à fessée ; aucune photo n'en est publiée. Le Petit Paumé, qui l'a testé en 2024, a trouvé les glory holes « un peu bas »."
+    },
+    {
+      "question": "Le Diamant organise-t-il des soirées fétish ou BDSM ?",
+      "answer": "Oui : le club affiche un thème « fétish & soumission » avec dress code noir et rouge, et programme une soirée SM/BDSM le vendredi 30 octobre 2026, de 22 h à 4 h, avec découverte des cordes shibari. Ce soir-là, l'entrée est à 20 € pour un couple, 50 € pour un homme seul et 20 € pour une personne travestie."
+    },
+    {
+      "question": "Où voir des photos du Diamant Libertin ?",
+      "answer": "Le site officiel ne montre que la façade de nuit, sans galerie. Pour la salle, une photo de presse publiée par Tribune de Lyon en octobre 2021 montre des banquettes de velours rose, un papier peint noir et une barre de pole dance."
+    },
+    {
+      "question": "Le Diamant a-t-il un sauna ou des chambres pour dormir ?",
+      "answer": "Non : ni le site officiel ni les guides consultés ne mentionnent de sauna, de hammam, de jacuzzi ou d'hébergement. Les « petites chambres sombres » qu'évoquait Le Petit Paumé en 2015 sont des espaces de jeu du club, pas un hébergement."
+    },
+    {
+      "question": "Un couple qui débute peut-il y aller ?",
+      "answer": "Le club cite parmi ses thèmes une soirée mixte « débutants (jeunes) » : le site en annonçait une, « débutants & coquines en devenir », le vendredi 4 septembre 2026, mais aucune n'est au programme relevé le 16 octobre. Demandez la prochaine au 04 72 57 76 90. Le jeudi, gratuit à deux, reste une soirée gang bang, pas une soirée de découverte. Avant une première fois, [prendre la température auprès de couples lyonnais habitués des clubs](aff:carre-libertin) ne coûte rien sur Carré Libertin, en ligne depuis 2007 : à deux, messagerie et annonces y sont gratuites, pourvu que votre profil de couple montre au moins 3 photos."
+    },
+    {
+      "question": "Faut-il réserver sa place ?",
+      "answer": "Le site ne propose aucun système de réservation, et le club précise qu'une participation cochée sur Wyylde ne vaut pas entrée : l'accès se décide sur place, habitués prioritaires pour les hommes seuls. Une carte de membre est demandée."
+    }
+  ],
+  "unverified": [
+    "Note et nombre d'avis Google : non relevés de nos yeux ; un annuaire affichait 4,4/5 sur 71 avis au 12 août 2025, sur une fiche à l'adresse erronée.",
+    "Prix et conditions de la carte de membre.",
+    "Date d'ouverture et nom du club avant sa reprise en mai 2006, et lien formel avec l'association Le Diamant Bleu (le site n'a pas de mentions légales).",
+    "Surface et aménagement actuels : les 75 m², le salon VIP et la piste à miroirs viennent de la présentation du club, en ligne jusqu'en 2016.",
+    "Stationnement : les deux parkings gratuits cités par le club jusqu'en 2016 n'ont pas été vérifiés.",
+    "Tarif des personnes travesties le vendredi après le 30 octobre 2026 : 30 € ou 20 €.",
+    "Contenu de la page Facebook du club, illisible sans connexion.",
+    "Presse quotidienne régionale : aucun article sur le club dans Le Progrès, Lyon Capitale, Lyon Mag ou actu.fr lors de recherches du 19 octobre 2026 ; seul l'hebdomadaire Tribune de Lyon en a parlé, en 2021."
+  ],
+  "sources": [
+    { "id": "s1", "label": "Diamant Libertin, page d'accueil (diaporama, horaires, agenda « Nos Soirées », coordonnées)", "url": "https://www.diamant-libertin.com/", "type": "officiel", "consulted": "2026-10-19" },
+    { "id": "s2", "label": "Diamant Libertin, page « Tarifs »", "url": "https://www.diamant-libertin.com/tarifs.php", "type": "officiel", "consulted": "2026-10-19" },
+    { "id": "s3", "label": "Diamant Libertin, page « Infos Club » (dress code, conditions d'entrée)", "url": "https://www.diamant-libertin.com/infos.php", "type": "officiel", "consulted": "2026-10-19" },
+    { "id": "s4", "label": "Diamant Libertin, carte des cocktails", "url": "https://www.diamant-libertin.com/cocktail.php", "type": "officiel", "consulted": "2026-10-19" },
+    { "id": "s5", "label": "Diamant Libertin, page « Contact »", "url": "https://www.diamant-libertin.com/contact.html", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s6", "label": "Diamant Libertin, soirée gang bang « pluralité » du jeudi 22 octobre 2026 (même texte les 29 octobre et 5 novembre)", "url": "https://www.diamant-libertin.com/event.php?id=1751", "type": "officiel", "consulted": "2026-10-19" },
+    { "id": "s7", "label": "Diamant Libertin, fermeture exceptionnelle des vendredis 16 et 23 octobre 2026", "url": "https://www.diamant-libertin.com/event.php?id=1748", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s8", "label": "Diamant Libertin, soirée SM/BDSM fétish du vendredi 30 octobre 2026", "url": "https://www.diamant-libertin.com/event.php?id=1744", "type": "officiel", "consulted": "2026-10-19" },
+    { "id": "s9", "label": "Diamant Libertin, après-midi des 19 et 28 octobre et du 9 novembre 2026", "url": "https://www.diamant-libertin.com/event.php?id=1755", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s10", "label": "Diamant Libertin, samedis à thème du 17 octobre au 12 décembre 2026", "url": "https://www.diamant-libertin.com/event.php?id=1739", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s11", "label": "Diamant Libertin, note épinglée « téléphone interdit » et carte de membre", "url": "https://www.diamant-libertin.com/event.php?id=1572", "type": "officiel", "consulted": "2026-10-19" },
+    { "id": "s12", "label": "Dates de mise en ligne des images du site officiel (en-têtes HTTP Last-Modified)", "url": "https://www.diamant-libertin.com/images/event/", "type": "autre", "consulted": "2026-10-19" },
+    { "id": "s13", "label": "Registre SIRENE, association Le Diamant Bleu (SIREN 495 102 782)", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/495102782", "type": "registre", "consulted": "2026-10-19" },
+    { "id": "s14", "label": "Journal officiel des associations, création de « Diamant Bleu » (JO du 22 avril 2006)", "url": "https://journal-officiel-datadila.opendatasoft.com/api/explore/v2.1/catalog/datasets/jo_associations/records?where=id%3D%22200600161247%22", "type": "registre", "consulted": "2026-10-19" },
+    { "id": "s15", "label": "Registre SIRENE, SARL Le Diamant Noir (homonyme, quai Pierre-Scize)", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/437953839", "type": "registre", "consulted": "2026-10-19" },
+    { "id": "s16", "label": "Sauna-club-libertin.com, fiche « Le Diamant »", "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_3.php?id=189&d=69", "type": "annuaire", "consulted": "2026-10-19" },
+    { "id": "s17", "label": "Place Libertine, annuaire libertin (section Rhône), fiche « Le Diamant Bleu »", "url": "https://www.placelibertine.com/fr/annuaire-libertin.html", "type": "annuaire", "consulted": "2026-10-19" },
+    { "id": "s18", "label": "Gruiii, fiche « Le Diamant, club libertin à Lyon (5e) »", "url": "https://www.gruiii.com/locations/le-diamant/", "type": "annuaire", "consulted": "2026-10-19" },
+    { "id": "s19", "label": "Le Petit Paumé, fiche « Le Diamant Bleu » (tests de 2010 à 2024)", "url": "https://www.petitpaume.com/etablissements/le-diamant-bleu", "type": "presse", "consulted": "2026-10-19" },
+    { "id": "s20", "label": "Lyon Clubbing, fiche « Le Diamant » publiée le 30 mars 2015", "url": "https://www.lyonclubbing.com/article/5469/le-diamant-2", "type": "presse", "consulted": "2026-10-19" },
+    { "id": "s21", "label": "Tribune de Lyon, « Ces sites Internet qui concurrencent les adresses du Lyon libertin » (15 octobre 2021, mis à jour le 9 janvier 2024), avec une photo de l'intérieur du Diamant", "url": "https://tribunedelyon.fr/societe/ces-sites-internet-qui-concurrencent-les-adresses-du-lyon-libertin/", "type": "presse", "consulted": "2026-10-19" },
+    { "id": "s22", "label": "Diamant Libertin, présentation du club, archive du 30 octobre 2006 (« repris par Dani en mai 2006 », 75 m²)", "url": "https://web.archive.org/web/20061030083003/http://www.diamant-libertin.com:80/club.php", "type": "officiel", "consulted": "2026-10-19" },
+    { "id": "s23", "label": "Diamant Libertin, horaires et tarifs, archive du 30 octobre 2006", "url": "https://web.archive.org/web/20061030083326/http://www.diamant-libertin.com:80/tarifs.php", "type": "officiel", "consulted": "2026-10-19" },
+    { "id": "s24", "label": "Diamant Libertin, présentation du club, archive du 26 février 2016", "url": "https://web.archive.org/web/20160226094706/http://www.diamant-libertin.com/club.php", "type": "officiel", "consulted": "2026-10-19" },
+    { "id": "s25", "label": "Diamant Libertin, page « Tarifs », archives de juin 2017, janvier et novembre 2022, février 2023, avril 2024, janvier et novembre 2025, avril 2026", "url": "https://web.archive.org/web/20250125060023/http://www.diamant-libertin.com/tarifs.php", "type": "officiel", "consulted": "2026-10-19" },
+    { "id": "s26", "label": "Diamant Libertin, page d'accueil, archives d'août 2022, juillet 2024, août 2025 et août 2026 (congés d'été)", "url": "https://web.archive.org/web/20260818173921/http://www.diamant-libertin.com/", "type": "officiel", "consulted": "2026-10-19" },
+    { "id": "s27", "label": "Minuit Libertin, fiche « Le Diamant Bleu à Lyon » (fermeture du 3 au 27 août 2025, informations au 12 août 2025)", "url": "https://minuitlibertin.com/le-diamant-bleu-a-lyon/", "type": "annuaire", "consulted": "2026-10-19" },
+    { "id": "s28", "label": "Le Petit Paumé, test 2024 du Diamant Bleu (page « lieux »)", "url": "https://www.petitpaume.com/lieux/le-diamant-bleu", "type": "presse", "consulted": "2026-10-19" },
+    { "id": "s29", "label": "Apéro du Jeudi, « Soirée coquine à Lyon » (page non datée, tarifs du Diamant à 65 € et 30 €)", "url": "https://www.aperodujeudi.com/bar-club-libertin-lyon/", "type": "annuaire", "consulted": "2026-10-19" },
+    { "id": "s30", "label": "Diamant Libertin, agenda, archive du 30 octobre 2006 (après-midi mixtes, dimanche compris)", "url": "https://web.archive.org/web/20061030082629/http://www.diamant-libertin.com:80/agenda.php", "type": "officiel", "consulted": "2026-10-19" }
+  ]
+}

@@ -1,0 +1,1245 @@
+{
+  "slug": "bossuet-dijon-club-libertin",
+  "clubId": "FG045",
+  "researchedAt": "2026-10-19",
+  "display": {
+    "nom": "Le Bossuet",
+    "ville": "Dijon"
+  },
+  "status": {
+    "value": "ouvert",
+    "summary": "La soirée mousse du samedi 17 octobre 2026 affichait 51 inscrits sur la page Wyylde du club, qui annonçait encore le 19 octobre des soirées jusqu'au 26 novembre 2026, dont une soirée Transparence le samedi 7 novembre. Le site officiel programme les samedis à thème jusqu'à Halloween ; la société exploitante ATLANTIDE est active au registre et ses comptes 2024 ont été publiés au BODACC le 23 décembre 2025.",
+    "sources": [
+      "s6",
+      "s16",
+      "s17",
+      "s18",
+      "s19"
+    ]
+  },
+  "seo": {
+    "title": "Le Bossuet, sauna club libertin et gay à Dijon : avis, photos",
+    "metaDescription": "Sauna entre hommes l'après-midi, soirées libertines du mardi au samedi : couple de 25 à 45 €, homme seul 40 à 45 €, mousse 70 € en couple. Photos, règles, avis.",
+    "subtitle": "Sauna gay l'après-midi, club libertin mixte le soir, rue du Jardin des Plantes à Dijon (21)",
+    "targetQueries": [
+      "club libertin dijon",
+      "avis sur le bossuet sauna club libertin et gay",
+      "le bossuet sauna club libertin et gay photos",
+      "sauna libertin dijon",
+      "le bossuet sauna club libertin et gay avis",
+      "bar libertin dijon",
+      "la derobade dijon 21",
+      "club libertin à dijon",
+      "soirée mousse dijon",
+      "sauna gay dijon",
+      "bossuet dijon tarifs",
+      "bossuet dijon horaires"
+    ]
+  },
+  "lead": "Au 3 bis rue du Jardin des Plantes, Le Bossuet change de public dans la journée : sauna réservé aux hommes l'après-midi, soirées libertines mixtes le soir, du mardi au samedi. Sur trois étages selon le club, hammam, sauna sec et jacuzzi y côtoient une piste de danse avec cage et barre de pole dance, et un bassin pour les soirées mousse. Né en 1990 place Bossuet d'après le registre, installé ici depuis 2003, il programme des soirées jusqu'à fin novembre 2026.",
+  "keyFacts": [
+    {
+      "label": "Concept",
+      "value": "Sauna entre hommes l'après-midi, soirées libertines mixtes le soir",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "label": "Adresse",
+      "value": "3 bis rue du Jardin des Plantes, 21000 Dijon",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s14",
+        "s18"
+      ]
+    },
+    {
+      "label": "Soirées libertines",
+      "value": "Du mardi au samedi, le jeudi dès 12 h",
+      "confidence": "confirme",
+      "sources": [
+        "s2",
+        "s17"
+      ]
+    },
+    {
+      "label": "Samedi",
+      "value": "Couples et femmes seules (tarif homme seul à la seule soirée mousse)",
+      "confidence": "confirme",
+      "sources": [
+        "s2",
+        "s6",
+        "s17"
+      ]
+    },
+    {
+      "label": "Entrée couple",
+      "value": "De 25 € à 45 € selon le soir, 70 € à la soirée mousse",
+      "confidence": "confirme",
+      "sources": [
+        "s2",
+        "s17"
+      ]
+    },
+    {
+      "label": "Homme seul",
+      "value": "40 € à 45 € du mardi au vendredi, chemise exigée",
+      "confidence": "confirme",
+      "sources": [
+        "s2",
+        "s4",
+        "s17"
+      ]
+    },
+    {
+      "label": "Espaces",
+      "value": "3 étages selon le club : hammam, sauna, jacuzzi, 14 cabines, bassin à mousse",
+      "confidence": "confirme",
+      "sources": [
+        "s4"
+      ]
+    },
+    {
+      "label": "À cette adresse depuis",
+      "value": "Mai 2003 (place Bossuet de 1990 à 2003)",
+      "confidence": "confirme",
+      "sources": [
+        "s18"
+      ]
+    },
+    {
+      "label": "Société",
+      "value": "ATLANTIDE, SARL active (SIREN 379 527 252)",
+      "confidence": "confirme",
+      "sources": [
+        "s18",
+        "s19"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "apres-midi-hommes-soirees-mixtes",
+      "title": "Sauna entre hommes l'après-midi, soirées mixtes du mardi au samedi",
+      "sources": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s8",
+        "s10",
+        "s11",
+        "s16",
+        "s17",
+        "s32"
+      ],
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le titre du site officiel, « Le Bossuet - Sauna Libertin Gay Dijon », résume un emploi du temps en deux parties. L'après-midi, la page « Entres Hommes » ouvre le sauna aux seuls hommes, six jours sur sept. Le soir, du mardi au samedi, les mêmes espaces accueillent des soirées libertines, et le jeudi la soirée commence dès midi, sans après-midi gay."
+        },
+        {
+          "kind": "table",
+          "caption": "Qui entre, et quand (grille officielle du 16 octobre 2026 ; mixte = couples, femmes seules et hommes seuls)",
+          "headers": [
+            "Jour",
+            "Après-midi",
+            "Soirée annoncée",
+            "Public du soir"
+          ],
+          "rows": [
+            [
+              "Lundi",
+              "Hommes",
+              "Aucune",
+              "—"
+            ],
+            [
+              "Mardi",
+              "Hommes",
+              "Soirée Balnéo",
+              "Mixte"
+            ],
+            [
+              "Mercredi",
+              "Hommes",
+              "Soirée Mixte Balnéo",
+              "Mixte"
+            ],
+            [
+              "Jeudi",
+              "Pas de sauna gay",
+              "Jeudi Libertin, dès 12 h",
+              "Mixte"
+            ],
+            [
+              "Vendredi",
+              "Hommes",
+              "Soirée Lounge et Balnéo",
+              "Mixte"
+            ],
+            [
+              "Samedi",
+              "Hommes",
+              "Soirée club avec DJ, souvent à thème",
+              "Couples et femmes seules (mixte à la soirée mousse)"
+            ],
+            [
+              "Dimanche",
+              "Hommes, certains dimanches à thème",
+              "Aucune",
+              "—"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le soir, l'homme seul paie davantage qu'un couple : 40 € contre 25 € un mardi. Le club se dit ouvert à « toutes orientations sexuelles », et sa charte prévoit l'exclusion définitive pour des propos homophobes ou racistes."
+        },
+        {
+          "kind": "list",
+          "title": "Les thèmes des après-midi gay du dimanche (non datés)",
+          "items": [
+            "Fetish : cuir, latex, sous-vêtements",
+            "Sous-vêtements, ou bracelets de couleur",
+            "« Black Out », avec des espaces privés de lumière",
+            "Anniversaires : entrée offerte aux natifs du mois, sur pièce d'identité"
+          ]
+        },
+        {
+          "kind": "list",
+          "title": "Trois formats récents, datés par les archives du site",
+          "items": [
+            "**Jeudi libertin dès midi** : entré dans la grille entre août et novembre 2025",
+            "**Soirée 100 % femmes**, 15 € avec verre de bienvenue et collation : annoncée une fois par mois à partir du mardi 9 décembre 2025, le premier mardi du mois selon la grille d'avril 2026",
+            "**Mardi** : soirée mixte chaque semaine depuis avril 2026, et non plus une fois par mois"
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Pour le jeudi, le club écrit « Inscription sur Wyylde conseillé » : sa page y compte 1 040 fans (19 octobre 2026) et publie chaque soirée avec ses tarifs et son nombre d'inscrits. [Créer un profil gratuit sur l'ex-Netéchangisme](aff:wyylde) suffit pour parcourir cet agenda ; répondre aux messages des membres demande un abonnement."
+        }
+      ],
+      "icon": "users",
+      "summary": "L'après-midi, sauna réservé aux hommes six jours sur sept ; le soir, du mardi au samedi, soirées libertines, et le jeudi dès midi."
+    },
+    {
+      "id": "samedi-couples-femmes",
+      "title": "Samedi : couples et femmes seules à 45 € et 15 €, DJ puis balnéo vers 22 h 30",
+      "sources": [
+        "s1",
+        "s2",
+        "s5",
+        "s6",
+        "s8",
+        "s9",
+        "s16",
+        "s17",
+        "s32"
+      ],
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le samedi est réservé aux couples (un homme et une femme) et aux femmes seules, en « ambiance club » : DJ Manu aux platines en octobre 2026, DJ Mika sur les pages de l'été 2026. La piste de danse d'abord, puis, vers 22 h-22 h 30, l'ouverture du balnéo (sauna, hammam, jacuzzi) et la distribution des serviettes et des paréos. Règle affichée : « Toute entrée couple = sortie en couple »."
+        },
+        {
+          "kind": "text",
+          "body": "La grille officielle et Wyylde donnent, pour octobre 2026, 45 € par couple et 15 € par femme. Le 19 avril 2026, la grille archivée affichait encore 40 € et 10 €, comme les pages des samedis jusqu'en juillet : la hausse est venue ensuite, sans annonce que nous ayons trouvée."
+        },
+        {
+          "kind": "list",
+          "title": "Les samedis d'octobre 2026, de 20 h à 2 h",
+          "items": [
+            "10 octobre : Soirée Rose",
+            "17 octobre : Soirée Mousse avec DJ Manu (voir ci-dessous)",
+            "24 octobre : La nuit des Anniversaires, demi-bouteille de crémant offerte selon l'annonce",
+            "31 octobre : Halloween Party, verre de bienvenue et un second punch pour qui vient costumé"
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Au 19 octobre, le site ne publiait rien au-delà d'Halloween. La page Wyylde du club annonçait déjà une soirée Transparence avec DJ Manu le samedi 7 novembre, et un « Apéro Mix en terrasse » le vendredi 20 novembre."
+        },
+        {
+          "kind": "text",
+          "body": "Le site garde aussi la trace des soirées Black and White (21 mars 2026), Fluo (26 juillet 2025, avec un parrainage à 30 € par couple pour deux couples venus ensemble) et blanche (26 octobre 2024), années déduites du calendrier, ainsi que de samedis non datés Strass & Paillettes, Lingerie ou Élégance & Désir."
+        },
+        {
+          "kind": "callout",
+          "tone": "info",
+          "title": "La tenue exigée le samedi",
+          "body": "Hommes : chemise ou chemisette obligatoire, sinon location à 15 €. Femmes : robe, jupe, body ou lingerie avec chaussures de ville ou à talons, pantalon toléré s'il est élégant. Refusés : jean troué, survêtement, baggy, legging, tenue de travail ; l'annonce de la Soirée Rose du 10 octobre refusait aussi le polo. Les annonces de 2026 acceptent pour les hommes des baskets « propres et non abîmées », que la charte interdit encore : dans le doute, prévoyez des chaussures de ville."
+        },
+        {
+          "kind": "text",
+          "body": "Ce public de couples et de femmes seules est justement celui à qui Carré Libertin, en ligne depuis 2007, ouvre l'accès complet sans payer (trois photos de profil requises) : de quoi [repérer d'autres couples de Côte-d'Or avant un premier samedi](aff:carre-libertin) et, pourquoi pas, convenir d'y aller ensemble."
+        }
+      ],
+      "icon": "couple",
+      "summary": "Le samedi est réservé aux couples (45 €) et aux femmes seules (15 €) : DJ et piste de danse dès 20 h, puis ouverture du balnéo vers 22 h-22 h 30."
+    },
+    {
+      "id": "soiree-mousse",
+      "title": "La soirée mousse : bassin dédié, buffet compris, 90 € pour un homme seul",
+      "sources": [
+        "s2",
+        "s4",
+        "s6",
+        "s7",
+        "s9",
+        "s17",
+        "s22",
+        "s31",
+        "s32"
+      ],
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "C'est le rendez-vous le plus souvent daté dans les pages du club : 18 novembre et 16 décembre 2023, 21 septembre 2024, 11 juillet et 17 octobre 2026 ; des avis de 2022 en parlaient déjà. La description du site promet une mousse « une fois tous les mois », dans un texte inchangé depuis 2024 au moins ; l'agenda d'octobre 2026 en compte une."
+        },
+        {
+          "kind": "text",
+          "body": "Elle se tient autour d'un grand bassin prévu pour elle. C'est le seul samedi où la grille prévoit un tarif homme seul, la direction se réservant de filtrer selon la clientèle présente."
+        },
+        {
+          "kind": "text",
+          "body": "C'est aussi la plus chère : 70 € pour un couple, 25 € pour une femme, 90 € pour un homme seul, buffet compris, plus 15 € de location de chemise pour l'homme qui n'en porte pas. En 2023 et 2024, les annonces la vendaient 50 € au couple, 20 € à la femme et 60 puis 70 € à l'homme seul."
+        },
+        {
+          "kind": "text",
+          "body": "Elle durait de 20 h à 4 h en 2023 et 2024. En 2026, l'annonce du 11 juillet prévient « EXCEPTIONNELLEMENT JUSQU'À 02H », celle du 17 octobre « ATTENTION, JUSQU'À 02H », alors que la grille indique toujours 3 h 45. Fiez-vous à l'annonce de chaque soirée."
+        },
+        {
+          "kind": "text",
+          "body": "Elle attire aussi du monde : le 16 octobre 2026, la mousse du lendemain comptait 51 inscrits et 6 154 vues sur la page Wyylde du club, contre 12 inscrits pour la soirée du vendredi 16 octobre."
+        }
+      ],
+      "icon": "water",
+      "summary": "La soirée la plus chère : 70 € en couple, 25 € pour une femme, 90 € pour un homme seul, buffet compris ; en 2026, elle s'est terminée à 2 h."
+    },
+    {
+      "id": "evolution-tarifs",
+      "title": "Femme seule de 5 à 10 €, mousse de 50 à 70 € : la grille de juin 2024 à octobre 2026",
+      "sources": [
+        "s2",
+        "s32"
+      ],
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Les archives de la page « Libertins » conservent six états de la grille, de juin 2024 à avril 2026. Comparés au relevé du 16 octobre 2026, ils montrent deux hausses : entre juin 2024 et janvier 2025 (mousse, homme seul en semaine), puis presque toute la grille après avril 2026."
+        },
+        {
+          "kind": "table",
+          "caption": "Ce qui a changé sur la grille officielle (tarifs avec verre de bienvenue ; mousse avec buffet)",
+          "headers": [
+            "Entrée",
+            "Juin 2024",
+            "Janvier 2025 à avril 2026",
+            "Octobre 2026"
+          ],
+          "rows": [
+            [
+              "Couple, jeudi",
+              "25 €",
+              "25 €",
+              "30 €"
+            ],
+            [
+              "Couple, vendredi",
+              "30 €",
+              "30 €",
+              "35 €"
+            ],
+            [
+              "Couple, samedi",
+              "40 €",
+              "40 €",
+              "45 €"
+            ],
+            [
+              "Femme seule, en semaine",
+              "5 €",
+              "5 €",
+              "10 €"
+            ],
+            [
+              "Femme seule, samedi",
+              "10 €",
+              "10 €",
+              "15 €"
+            ],
+            [
+              "Homme seul, mercredi",
+              "35 €",
+              "40 €",
+              "40 €"
+            ],
+            [
+              "Homme seul, jeudi",
+              "35 €",
+              "40 €",
+              "45 €"
+            ],
+            [
+              "Homme seul, vendredi",
+              "40 €",
+              "40 €",
+              "45 €"
+            ],
+            [
+              "Mousse : couple, femme, homme",
+              "50, 20 et 70 €",
+              "60, 20 et 80 €",
+              "70, 25 et 90 €"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le mercredi a gardé ses prix pour les couples (25 €) et pour les hommes seuls (40 € depuis 2025). Aucune capture de la grille n'existe entre le 19 avril et le 16 octobre 2026 : la date exacte de la dernière hausse reste inconnue."
+        }
+      ],
+      "icon": "euro",
+      "summary": "En deux ans, l'entrée femme en semaine est passée de 5 à 10 € et la mousse de 50 à 70 € par couple ; la dernière hausse date d'après avril 2026."
+    },
+    {
+      "id": "regles",
+      "title": "Téléphone interdit, douche obligatoire et sacs à dos contrôlés à l'accueil",
+      "sources": [
+        "s4",
+        "s5",
+        "s14",
+        "s17",
+        "s33"
+      ],
+      "blocks": [
+        {
+          "kind": "list",
+          "items": [
+            "Téléphone portable strictement interdit dans l'établissement",
+            "Douche obligatoire avant d'utiliser les installations",
+            "Préservatifs et gel lubrifiant à disposition dans tous les espaces ; la charte renvoie vers AIDES, la page « Liens Utiles » vers l'association Flag!",
+            "Consentement : la charte le résume en « Non c'est NON »",
+            "Stupéfiants interdits, alcool avec modération ; la direction peut refuser les personnes alcoolisées",
+            "Jacuzzi réservé à la détente, relations sexuelles interdites sous peine d'expulsion ; interdites aussi sur la terrasse",
+            "Sacs à dos vérifiés à l'accueil, bouteilles et gourdes suspectes ouvertes",
+            "Le club décline toute responsabilité en cas de vol"
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "**Hommes seuls.** Tous les soirs, chemise à manches longues ou courtes et jean ou pantalon de ville ; jogging, casquette, tee-shirt et tenue de sport sont refusés. Le polo, encore admis en 2024 et 2025, ne figure plus dans la règle. La direction peut aussi refuser l'entrée selon le nombre d'hommes déjà présents, et demande à l'homme seul qui vient pour la première fois de se renseigner directement auprès du club (03 80 53 06 28)."
+        },
+        {
+          "kind": "text",
+          "body": "Sur Wyylde, le club affiche un tarif « Transgenres » à 30 € le mardi et le vendredi, absent de son site."
+        }
+      ],
+      "icon": "shield",
+      "summary": "Téléphone interdit, douche obligatoire, consentement, pas de sexe au jacuzzi ni en terrasse ; hommes seuls en chemise, filtrés selon l'affluence."
+    },
+    {
+      "id": "trois-etages",
+      "title": "Hammam aux huiles essentielles, 14 cabines et cinq espaces vidéo sur trois étages",
+      "sources": [
+        "s4",
+        "s6",
+        "s8",
+        "s11",
+        "s13",
+        "s20",
+        "s30"
+      ],
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le club annonce « une grande surface sur 3 étages », sans superficie. Spartacus parle de 700 m² sur deux niveaux, TravelGay de 1 000 m² : aucun de ces chiffres n'est donné par le club. La liste officielle est détaillée :"
+        },
+        {
+          "kind": "list",
+          "items": [
+            "Balnéo : sauna sec, hammam avec diffuseur d'huiles essentielles, jacuzzi réservé à la détente",
+            "2 backrooms et 14 cabines fermables sur 2 niveaux, avec préservatifs et gel",
+            "Un labyrinthe, 5 espaces vidéo X, des glory holes et un mur de glory holes",
+            "Un espace de massage sensuel et un espace réservé aux couples",
+            "Côté club : grande piste de danse, barre de pole dance, cage de danse, bassin pour les soirées mousse"
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "La cage de la liste est une cage de danse, et le texte du site ne parle ni de donjon ni d'espace SM. Sa galerie montre pourtant une croix de Saint-André en bois devant un mur capitonné, et une vitrine éclairée garnie d'un masque, de menottes et d'un paddle. Le seul rendez-vous fetish annoncé reste un après-midi gay du dimanche."
+        }
+      ],
+      "icon": "spa",
+      "summary": "Trois étages selon le club : balnéo (sauna, hammam, jacuzzi), 14 cabines, 2 backrooms, labyrinthe, vidéo, piste de danse, bassin à mousse ; une croix de Saint-André en photo."
+    },
+    {
+      "id": "photos",
+      "title": "Une galerie officielle sans personne : terrasse à l'olivier, croix de Saint-André, bar au logo B",
+      "sources": [
+        "s13"
+      ],
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "La page [« Photos »](https://www.saunabossuet.com/photos) du site charge au moins 33 images, que nous avons toutes regardées le 19 octobre 2026 (un diaporama de la page peut en masquer quelques autres). Ce sont des vues des lieux vides, souvent sous des éclairages violets ou rouges ; aucune ne montre de personne dénudée."
+        },
+        {
+          "kind": "list",
+          "title": "Ce que montre la galerie",
+          "items": [
+            "Le comptoir noir frappé du logo « B Bossuet », et un second bar sous un plafond de canisses aux suspensions en rotin",
+            "Une terrasse plantée d'un olivier, avec guirlandes lumineuses, bambous et salons en résine tressée",
+            "Une croix de Saint-André en bois devant un mur capitonné, et une vitrine avec masque, menottes et paddle",
+            "Une cabine en bois à gradins éclairée en rouge, une table de massage et un panneau « Nouvel espace réservé aux couples »",
+            "Des couloirs au papier peint tropical (palmiers dorés, feuillages noir et blanc), une salle sous néons violets et des bustes de mannequin lumineux",
+            "Côté table : croques, ardoise de tapas, seau à champagne et flûtes au logo du club"
+          ]
+        }
+      ],
+      "icon": "camera",
+      "summary": "Au moins 33 photos officielles, toutes regardées : bars, terrasse à l'olivier, croix de Saint-André, cabine à gradins, couloirs décorés ; aucune personne dénudée."
+    },
+    {
+      "id": "histoire",
+      "title": "Du 25 place Bossuet en 1990 au 3 bis rue du Jardin des Plantes en 2003",
+      "sources": [
+        "s1",
+        "s4",
+        "s7",
+        "s10",
+        "s9",
+        "s18",
+        "s19",
+        "s20",
+        "s22",
+        "s24",
+        "s29",
+        "s32",
+        "s33",
+        "s44",
+        "s46"
+      ],
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le club ne raconte pas son histoire ; le registre des entreprises, si. La société exploitante, ATLANTIDE, a d'abord tenu le sauna au 25 place Bossuet, en plein centre de Dijon, dont il tient très probablement son nom, avant de le transférer rue du Jardin des Plantes en 2003. Le site présente aujourd'hui Eric et Mickael comme les hôtes du lieu."
+        },
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "Octobre 1990",
+              "text": "Création de la SARL ATLANTIDE et immatriculation de l'établissement « SAUNA LE BOSSUET », 25 place Bossuet."
+            },
+            {
+              "date": "Mai 2003",
+              "text": "Création de l'établissement du 3 rue du Jardin des Plantes, le jour même où celui de la place Bossuet est fermé au registre."
+            },
+            {
+              "date": "Novembre 2011",
+              "text": "Modification de l'activité publiée au BODACC : l'activité déclarée mentionne alors les « soirées à thèmes avec buffet ». Sans doute l'arrivée des soirées mixtes, sans preuve directe."
+            },
+            {
+              "date": "Février 2015",
+              "text": "La mention « cruising bar » s'ajoute à l'activité déclarée."
+            },
+            {
+              "date": "Avril 2023",
+              "text": "Modification de la gérance publiée au BODACC. Le site actuel porte « ©2023 » ; ses plus anciens événements conservés datent de novembre 2023."
+            },
+            {
+              "date": "2023-2024",
+              "text": "Des avis PagesJaunes de novembre 2023 et d'octobre 2024 saluent des travaux et une décoration refaite ; nous n'avons trouvé aucune annonce du club à ce sujet."
+            },
+            {
+              "date": "Mars 2025",
+              "text": "Un avis PagesJaunes présente comme nouvelle l'organisation du samedi soir, avec l'ouverture du balnéo à 22 h."
+            },
+            {
+              "date": "Automne 2025",
+              "text": "Le jeudi libertin s'ouvre à midi : absent de la grille archivée en août, il y figure le 17 novembre 2025."
+            },
+            {
+              "date": "Décembre 2025",
+              "text": "Le site annonce une soirée 100 % femmes mensuelle à partir du mardi 9 décembre. En avril 2026, le mardi devient une soirée mixte chaque semaine."
+            },
+            {
+              "date": "Après avril 2026",
+              "text": "Hausse de presque toute la grille des soirées (voir le tableau plus haut)."
+            }
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "La page d'informations du site parlait d'un établissement « existant depuis 19 ans » de 2024 au printemps 2026, puis « depuis 21 ans » : un décompte qui renvoie au milieu des années 2000, plus près de l'installation rue du Jardin des Plantes que de 1990. Le lien entre la gérance de 2023 et la refonte du site reste une supposition."
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "sauna-bossuet.com et sauna-bossuet.fr ne mènent pas au club",
+          "body": "L'adresse www.sauna-bossuet.com, encore indiquée par le guide Spartacus, affiche aujourd'hui un site indonésien de jeux d'argent. Le domaine sauna-bossuet.fr, donné par un site de classement avec un courriel du même nom, renvoie vers un site tiers. Le site officiel est www.saunabossuet.com, sans tiret, et le courriel du club sauna.bossuet@gmail.com."
+        }
+      ],
+      "icon": "history",
+      "summary": "D'après le registre, le sauna a été immatriculé en 1990 au 25 place Bossuet, dont il tient sans doute son nom, puis transféré rue du Jardin des Plantes en mai 2003."
+    },
+    {
+      "id": "avis",
+      "title": "Avis : 4,2/5 sur cinq avis PagesJaunes de 2023 à 2025, aucune note Google",
+      "sources": [
+        "s16",
+        "s19",
+        "s22",
+        "s29",
+        "s30",
+        "s41"
+      ],
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Sur PagesJaunes, cinq avis publiés entre le 6 novembre 2023 et le 28 mars 2025 donnent 4,2/5 (relevé du 19 octobre 2026). Tous sont postérieurs à la modification de gérance d'avril 2023."
+        },
+        {
+          "kind": "list",
+          "title": "Ce qui revient dans ces cinq avis",
+          "items": [
+            "Dans les avis à 5/5 de 2023 et 2024 : propreté, place, travaux et nouvelle décoration",
+            "Un buffet de mousse jugé copieux (octobre 2024)",
+            "La formule du samedi, balnéo à 22 h, saluée comme nouvelle (mars 2025)",
+            "Un avis à 1/5 (janvier 2024) reproche au gérant des pratiques « déplacées » envers des clients et un manque de professionnalisme, sans autre détail"
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le guide TravelGay affiche 3/5 sur 60 évaluations, sans préciser d'où elles viennent (page mise à jour le 1er juillet 2025). Ses deux avis visibles, de juillet et de novembre 2023, trouvent l'entrée chère et la clientèle du dimanche après-midi nombreuse et peu aimable."
+        },
+        {
+          "kind": "text",
+          "body": "L'annuaire Kinkyee affiche de son côté 3,8/5 sur 163 avis, sans nommer la plateforme ni dater le relevé : nous n'avons pas pu vérifier ce chiffre."
+        },
+        {
+          "kind": "text",
+          "body": "Plus anciens, deux avis Saunas4men de 2022 donnent 4,5/5 : propreté, personnel et mousse, mais un buffet critiqué et un crémant à 5 € jugé petit. Aucune note Google relevée ; la page Wyylde du club, qui ne note pas, comptait 1 040 fans au 19 octobre 2026."
+        },
+        {
+          "kind": "text",
+          "body": "Aucun avis lu ne date de 2026. Gleese, réseau libertin français lancé fin 2024, s'ouvre sans carte bancaire et fait valider à chaque membre son numéro de téléphone : de quoi [vérifier s'il compte des inscrits autour de Dijon](aff:gleese) et interroger ceux qui y sont allés cette année. Récent, il réunit encore moins de profils que Wyylde."
+        }
+      ],
+      "icon": "star",
+      "summary": "4,2/5 sur cinq avis PagesJaunes (2023-2025), 3/5 affiché par TravelGay, 4,5/5 sur deux avis Saunas4men de 2022 ; aucune note Google relevée."
+    },
+    {
+      "id": "saunas-voisins",
+      "title": "Le Relaxe, le Tantra, l'Angel's : trois saunas de l'agglomération radiés entre 2019 et 2021",
+      "sources": [
+        "s27",
+        "s34",
+        "s35",
+        "s37",
+        "s38",
+        "s39"
+      ],
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Des quatre saunas de l'agglomération que nous connaissons, Le Bossuet est le seul dont nous ayons trouvé une activité en 2026. Pour les trois autres, le registre des entreprises et le BODACC racontent la même fin :"
+        },
+        {
+          "kind": "list",
+          "items": [
+            "[Le Tantra Sauna, rue de Longvic](/le-tantra-sauna-dijon) : société mise en liquidation judiciaire en juin 2020, radiée en mars 2021 ; aucune autre n'est inscrite à l'adresse pour cette activité",
+            "[L'Angel's Sauna de Marsannay-la-Côte](/angel-sauna-marsannay-la-cote) : liquidation ouverte en 2017, société radiée en mai 2020",
+            "Le Relaxe, 97 rue Berbisey, sauna gay présent depuis 1980 selon le guide Spartacus : liquidation en 2018, radiation en 2019 ; le guide TravelGay le marque fermé"
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "[La Dérobade, à Chenôve](/la-derobade-chenove), parfois cherchée comme « La Dérobade Dijon », reste active au registre sous la dénomination « La Dérobade - Le Phenix Club », avec des comptes 2024 déposés en octobre 2025 ; nous n'avons pas vérifié ses soirées. La liste complète est sur [la page des lieux libertins de Dijon](/ville/dijon) et sur [celle de la Côte-d'Or](/departement/cote-d-or)."
+        }
+      ],
+      "icon": "closed",
+      "summary": "Les entreprises du Relaxe, du Tantra Sauna et de l'Angel's Sauna ont été liquidées puis radiées entre 2019 et 2021 ; La Dérobade, à Chenôve, reste active au registre."
+    },
+    {
+      "id": "acces-parking",
+      "title": "Pas de parking propre : le silo Monge de 457 places, à cinq minutes à pied",
+      "sources": [
+        "s4",
+        "s14",
+        "s26"
+      ],
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le club n'a pas de parking. Il indique le parking Monge, à cinq minutes à pied : un silo public de 457 places près de la gare, avec 7 bornes de recharge, entrée des voitures rue Charles Vêques, relié au tram T2. La page « Liens Utiles » renvoie aussi aux horaires des trams Divia et à un taxi, dont le numéro n'est pas celui du club."
+        }
+      ],
+      "icon": "map",
+      "summary": "Pas de parking propre : le club renvoie au parking Monge (457 places, près de la gare et du tram T2), à cinq minutes à pied."
+    },
+    {
+      "id": "bar-restauration",
+      "title": "Bar sous licence IV, fumoir et ardoises à 20 € pour deux",
+      "sources": [
+        "s4",
+        "s6",
+        "s8",
+        "s12",
+        "s28"
+      ],
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le Bossuet n'est pas un bar de nuit, mais un sauna-club doté d'un bar sous licence IV, d'un fumoir, d'une salle de détente avec télévision et d'une terrasse « ouverte tous les jours » selon une page du site (« en été », précise une autre), où les relations sexuelles sont interdites. Le vendredi s'intitule « Soirée Lounge et Balnéo ». Selon la page « Petites Faims », on mange tous les soirs sans réservation."
+        },
+        {
+          "kind": "table",
+          "caption": "Carte de la page « Petites Faims » (non datée) ; formule Bossuet d'après les fiches des soirées",
+          "headers": [
+            "Ce qui est proposé",
+            "Prix"
+          ],
+          "rows": [
+            [
+              "Planche de dégustation, pour deux",
+              "20 €"
+            ],
+            [
+              "Ardoise de tapas, pour deux",
+              "20 €"
+            ],
+            [
+              "Ardoise végétarienne, pour deux",
+              "20 €"
+            ],
+            [
+              "Nuggets-frites",
+              "10 €"
+            ],
+            [
+              "Croque-monsieur",
+              "6 €"
+            ],
+            [
+              "Fondant au chocolat",
+              "6 €"
+            ],
+            [
+              "Frites",
+              "5 €"
+            ],
+            [
+              "Glace ou muffin",
+              "3 €"
+            ],
+            [
+              "« Formule Bossuet » : planche, boisson (vin ou soda) et assiette sucrée",
+              "Prix non affiché"
+            ]
+          ]
+        }
+      ],
+      "icon": "drink",
+      "summary": "Pas un bar de nuit mais un bar sous licence IV avec fumoir et terrasse ; petite restauration tous les soirs, planches et ardoises à 20 € pour deux."
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Lundi": "Sauna entre hommes 12 h-18 h 45 ; pas de soirée",
+      "Mardi": "Sauna entre hommes 12 h-18 h 45 ; soirée mixte 20 h-0 h 45",
+      "Mercredi": "Sauna entre hommes 12 h-18 h 45 ; soirée mixte 20 h-0 h 45",
+      "Jeudi": "Jeudi libertin mixte 12 h-0 h 45 (pas d'après-midi gay)",
+      "Vendredi": "Sauna entre hommes 12 h-18 h 45 ; soirée mixte 20 h-1 h 45",
+      "Samedi": "Sauna entre hommes 12 h-18 h 45 ; soirée couples et femmes seules 20 h-1 h 45 (20 h-2 h pour les samedis à thème d'octobre 2026)",
+      "Dimanche": "Sauna entre hommes 13 h-19 h 45 ; pas de soirée",
+      "Jours fériés": "Sauna entre hommes 13 h-18 h 45",
+      "Soirée mousse": "20 h-2 h aux mousses de juillet et d'octobre 2026 ; la grille indique 3 h 45"
+    },
+    "note": "Grille des pages « Libertins » et « Entres Hommes » du site officiel, relevée le 16 octobre 2026. Sur Wyylde, le club annonce parfois d'autres horaires (fin à 1 h en semaine, vendredi dès 18 h ou 19 h) : en cas de doute, appelez le 03 80 53 06 28.",
+    "confidence": "confirme",
+    "sources": [
+      "s2",
+      "s3",
+      "s6",
+      "s17"
+    ]
+  },
+  "tarifs": {
+    "rows": {
+      "Couple, mardi et mercredi": "25 €",
+      "Couple, jeudi": "30 €",
+      "Couple, vendredi": "35 €",
+      "Couple, samedi": "45 €",
+      "Femme seule, mardi au vendredi": "10 €",
+      "Femme seule, samedi": "15 €",
+      "Homme seul, mardi et mercredi": "40 €",
+      "Homme seul, jeudi et vendredi": "45 €",
+      "Homme seul, samedi": "Non admis, sauf soirée mousse",
+      "Soirée mousse": "Couple 70 €, femme 25 €, homme 90 € (buffet compris)",
+      "Location de chemise (samedi, mousse)": "15 €",
+      "Soirée 100 % femmes (grille d'avril 2026)": "15 €, plus affichée en octobre 2026",
+      "Sauna entre hommes": "20 € ; 10 € dès 17 h 30 ou pour les moins de 25 ans"
+    },
+    "note": "Verre de bienvenue inclus à chaque soirée. Grille officielle relevée le 16 octobre 2026, identique aux tarifs des soirées Wyylde d'octobre et novembre 2026. Le 19 avril 2026, la grille archivée affichait encore 40 € (couple) et 10 € (femme) le samedi, 5 € pour une femme en semaine. Tarif moins de 25 ans sur pièce d'identité originale.",
+    "confidence": "confirme",
+    "sources": [
+      "s2",
+      "s3",
+      "s9",
+      "s10",
+      "s17",
+      "s32"
+    ]
+  },
+  "equipements": [
+    "Sauna sec",
+    "Hammam aux huiles essentielles",
+    "Jacuzzi",
+    "Bassin pour soirées mousse",
+    "Piste de danse",
+    "Cage de danse",
+    "Barre de pole dance",
+    "2 backrooms",
+    "14 cabines fermables",
+    "Espace réservé aux couples",
+    "Espace de massage",
+    "Labyrinthe",
+    "5 espaces vidéo",
+    "Glory holes",
+    "Bar (licence IV)",
+    "Fumoir",
+    "Salle de détente avec télévision",
+    "Terrasse",
+    "Petite restauration",
+    "Croix de Saint-André (vue sur la galerie officielle)"
+  ],
+  "externalRatings": [
+    {
+      "platform": "PagesJaunes",
+      "rating": 4.2,
+      "scale": 5,
+      "count": 5,
+      "date": "2026-10-19",
+      "url": "https://www.pagesjaunes.fr/pros/08923206"
+    },
+    {
+      "platform": "Saunas4men",
+      "rating": 4.5,
+      "scale": 5,
+      "count": 2,
+      "date": "2026-10-19",
+      "url": "https://saunas4men.com/en/france/dijon/le-bossuet"
+    }
+  ],
+  "officialLinks": [
+    {
+      "label": "Site officiel",
+      "url": "https://www.saunabossuet.com",
+      "kind": "site"
+    },
+    {
+      "label": "Galerie photos officielle (au moins 33 images)",
+      "url": "https://www.saunabossuet.com/photos",
+      "kind": "galerie"
+    },
+    {
+      "label": "Horaires et tarifs des soirées libertines",
+      "url": "https://www.saunabossuet.com/blank-1",
+      "kind": "autre"
+    },
+    {
+      "label": "Soirées programmées sur la page Wyylde du club",
+      "url": "https://app.wyylde.com/fr-fr/page/fda85900-a2e0-11e4-a604-2db1289d4e9c/sauna-le-bossuet/events",
+      "kind": "agenda"
+    }
+  ],
+  "corrections": {
+    "adresse": "3 bis rue du Jardin des Plantes",
+    "sources": [
+      "s1",
+      "s4"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Le Bossuet à Dijon est-il un club libertin ou un sauna gay ?",
+      "answer": "Les deux, à des heures différentes : sauna réservé aux hommes l'après-midi (sauf le jeudi), soirées libertines du mardi au samedi. Le samedi, seuls les couples et les femmes seules entrent, sauf à la soirée mousse."
+    },
+    {
+      "question": "Que valent les avis sur Le Bossuet, sauna club libertin et gay ?",
+      "answer": "Ils sont peu nombreux : 4,2/5 sur cinq avis PagesJaunes publiés de novembre 2023 à mars 2025, 3/5 sur 60 évaluations TravelGay d'origine non précisée, 4,5/5 sur deux avis Saunas4men de 2022. L'annuaire Kinkyee affiche 3,8/5 sur 163 avis sans en donner la source. Aucune note Google relevée au 19 octobre 2026."
+    },
+    {
+      "question": "Le Bossuet est-il le seul sauna libertin ou gay de Dijon ?",
+      "answer": "C'est le seul de l'agglomération dont nous ayons trouvé une activité en 2026. Les entreprises du Tantra Sauna (rue de Longvic), de l'Angel's Sauna (Marsannay-la-Côte) et du Relaxe (rue Berbisey) ont été liquidées puis radiées entre 2019 et 2021, d'après le registre et le BODACC."
+    },
+    {
+      "question": "Où voir des photos du Bossuet ?",
+      "answer": "Sur la page « Photos » du site officiel, qui charge au moins 33 images : les bars, la terrasse plantée d'un olivier, une croix de Saint-André, une cabine à gradins, les couloirs au papier peint tropical et la restauration. Nous les avons toutes regardées le 19 octobre 2026 : aucune ne montre de personne dénudée."
+    },
+    {
+      "question": "Combien coûte une soirée au Bossuet ?",
+      "answer": "En semaine, de 25 à 35 € pour un couple, 10 € pour une femme, 40 à 45 € pour un homme seul ; le samedi, 45 € pour un couple et 15 € pour une femme. La mousse coûte 70, 25 et 90 €, buffet compris. L'après-midi entre hommes : 20 €, 10 € dès 17 h 30 (grille du 16 octobre 2026)."
+    },
+    {
+      "question": "Quels sont les horaires du Bossuet ?",
+      "answer": "Sauna entre hommes de 12 h à 18 h 45 (13 h-19 h 45 le dimanche), sauf le jeudi. Soirées de 20 h à 0 h 45 les mardis et mercredis, à 1 h 45 les vendredis et samedis ; le jeudi, de 12 h à 0 h 45. Les samedis à thème d'octobre 2026 vont jusqu'à 2 h (grille et agenda officiels relevés en octobre 2026)."
+    },
+    {
+      "question": "Un homme seul peut-il venir le samedi ?",
+      "answer": "La grille officielle ne prévoit pas de tarif homme seul le samedi, sauf à la soirée mousse (90 €, chemise obligatoire), où la direction peut aussi filtrer. En semaine, il paie 40 à 45 €, porte chemise et pantalon de ville, et peut être refusé selon le nombre d'hommes présents. Avant une première visite, le club invite à se renseigner au 03 80 53 06 28."
+    },
+    {
+      "question": "La Dérobade est-elle à Dijon ?",
+      "answer": "Non, à Chenôve, dans l'agglomération dijonnaise : voir [notre fiche sur La Dérobade](/la-derobade-chenove)."
+    }
+  ],
+  "unverified": [
+    "Note Google, non relevée ; origine des 60 évaluations affichées par TravelGay et des 163 avis à 3,8/5 relayés par Kinkyee",
+    "Rythme réel des soirées mousse : « une fois tous les mois » selon la description du site, texte non daté",
+    "Les « deux soirées 100 % couples par mois » de cette même description, qu'aucun samedi d'octobre 2026 ne porte",
+    "Jour actuel de la soirée 100 % femmes : premier mardi du mois en avril 2026, plus mentionnée sur la grille d'octobre",
+    "Surface réelle : 3 étages selon le club, 700 m² sur 2 niveaux selon Spartacus, 1 000 m² selon TravelGay",
+    "Date exacte de la hausse de la grille, intervenue entre le 19 avril et le 16 octobre 2026",
+    "Heure d'ouverture du vendredi soir : 20 h selon la grille officielle, 18 h ou 19 h certaines semaines sur Wyylde",
+    "Cumul des deux réductions de l'après-midi entre hommes (dès 17 h 30, moins de 25 ans) et application le dimanche",
+    "Nombre de casiers, illisible chez Spartacus (« 100/14 ») et non donné par le club",
+    "Paiement par carte bancaire, indiqué par Spartacus sans date",
+    "Activité actuelle de La Dérobade (Chenôve), active au registre mais non vérifiée sur place"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Site officiel du Bossuet, accueil",
+      "url": "https://www.saunabossuet.com/accueil",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s2",
+      "label": "Site officiel, page « Libertins » (horaires et tarifs des soirées)",
+      "url": "https://www.saunabossuet.com/blank-1",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s3",
+      "label": "Site officiel, page « Entres Hommes » (horaires et tarifs du sauna gay)",
+      "url": "https://www.saunabossuet.com/gay",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s4",
+      "label": "Site officiel, « Informations Clients » (équipements, tenue, filtrage, accès)",
+      "url": "https://www.saunabossuet.com/informations-clients",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s5",
+      "label": "Site officiel, « Charte Libertin »",
+      "url": "https://www.saunabossuet.com/about-1",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s6",
+      "label": "Site officiel, samedis d'octobre 2026 (Rose, Mousse, Anniversaires, Halloween)",
+      "url": "https://www.saunabossuet.com/event-details-registration/soiree-mousse-7",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s7",
+      "label": "Site officiel, événements de 2023 et 2024 (soirées mousse, soirées de semaine)",
+      "url": "https://www.saunabossuet.com/event-details-registration/soiree-mousse",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s8",
+      "label": "Site officiel, fiches des soirées du mercredi au samedi (non datées)",
+      "url": "https://www.saunabossuet.com/services-6",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s9",
+      "label": "Site officiel, pages des samedis à thème de 2024 à 2026",
+      "url": "https://www.saunabossuet.com/about-2-1",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s10",
+      "label": "Site officiel, « Nouveautés » (jeudi libertin, soirée 100 % femmes)",
+      "url": "https://www.saunabossuet.com/about-9",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s11",
+      "label": "Site officiel, après-midi gay du dimanche",
+      "url": "https://www.saunabossuet.com/apr%C3%A8s-midi-gay",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s12",
+      "label": "Site officiel, « Petites Faims » (carte de restauration)",
+      "url": "https://www.saunabossuet.com/services-9",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s13",
+      "label": "Site officiel, galerie « Photos »",
+      "url": "https://www.saunabossuet.com/photos",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s14",
+      "label": "Site officiel, Contact et « Liens Utiles » (parking, trams, taxi, AIDES, Flag!)",
+      "url": "https://www.saunabossuet.com/blank",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s16",
+      "label": "Wyylde, page publique « Sauna Le Bossuet » tenue par le club",
+      "url": "https://app.wyylde.com/fr-fr/page/fda85900-a2e0-11e4-a604-2db1289d4e9c/sauna-le-bossuet/wall",
+      "type": "reseau_social",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s17",
+      "label": "Wyylde, fiches publiques des soirées du 16 octobre au 26 novembre 2026 (ex. mousse du 17 octobre)",
+      "url": "https://app.wyylde.com/fr-fr/event/party/9240bd30-ca54-11f1-b122-2db1289d4e9c",
+      "type": "reseau_social",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s18",
+      "label": "Annuaire des entreprises, ATLANTIDE (SIREN 379 527 252)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/379527252",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s19",
+      "label": "BODACC, annonces de la société RCS Dijon 379 527 252 (2008-2025)",
+      "url": "https://bodacc-datadila.opendatasoft.com/api/explore/v2.1/catalog/datasets/annonces-commerciales/records?where=registre%20like%20%22%25379527252%25%22",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s20",
+      "label": "Spartacus Gay Sauna Guide, « Le Bossuet » (non daté)",
+      "url": "https://spartacus.gayguide.travel/saunas/dijon/5460_Le+Bossuet",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s22",
+      "label": "Saunas4men, « Sauna Le Bossuet » (2 avis de 2022)",
+      "url": "https://saunas4men.com/en/france/dijon/le-bossuet",
+      "type": "annuaire",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s24",
+      "label": "Ancien domaine sauna-bossuet.com, état au 16 octobre 2026",
+      "url": "https://www.sauna-bossuet.com/",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s26",
+      "label": "Dijon Métropole, « Parking Monge »",
+      "url": "https://www.dijon-metropole.fr/projets/parking-monge/",
+      "type": "autre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s27",
+      "label": "Spartacus, « Le Relaxe » (Dijon)",
+      "url": "https://spartacus.gayguide.travel/saunas/dijon/2768_Le+Relaxe",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s28",
+      "label": "Site officiel, page « Infos client » (terrasse ouverte tous les jours)",
+      "url": "https://www.saunabossuet.com/about-1-2",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s29",
+      "label": "PagesJaunes, « Sauna le Bossuet » (5 avis, 2023-2025)",
+      "url": "https://www.pagesjaunes.fr/pros/08923206",
+      "type": "avis",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s30",
+      "label": "TravelGay, « Le Bossuet » (3/5 sur 60 évaluations, page mise à jour en juillet 2025)",
+      "url": "https://www.travelgay.com/venue/le-bossuet",
+      "type": "annuaire",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s31",
+      "label": "Site officiel, description de la page d'accueil (« depuis 19 ans », « soirée mousse une fois tous les mois »), inchangée depuis juin 2024",
+      "url": "https://www.saunabossuet.com/accueil",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s32",
+      "label": "Site officiel, page « Libertins » archivée par la Wayback Machine (six captures, juin 2024 à avril 2026)",
+      "url": "https://web.archive.org/web/20260419110414/https://www.saunabossuet.com/blank-1",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s33",
+      "label": "Site officiel, page « Informations Clients » archivée (« 19 ans » de 2024 à mars 2026, « 21 ans » en juin 2026)",
+      "url": "https://web.archive.org/web/20240613233139/https://www.saunabossuet.com/informations-clients",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s34",
+      "label": "BODACC, entreprise du 97 rue Berbisey (Le Relaxe) : liquidation en 2018, radiation en 2019",
+      "url": "https://bodacc-datadila.opendatasoft.com/api/explore/v2.1/catalog/datasets/annonces-commerciales/records?where=registre%20like%20%22%25419163027%25%22",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s35",
+      "label": "TravelGay, « Le Relaxe - CLOSED » (page mise à jour en juillet 2025)",
+      "url": "https://www.travelgay.com/venue/le-relaxe",
+      "type": "annuaire",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s37",
+      "label": "Annuaire des entreprises et BODACC, société TANTRA, enseigne « Tantra Sauna » (SIREN 441 288 594)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/441288594",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s38",
+      "label": "Annuaire des entreprises et BODACC, société à l'enseigne « Angel' Sauna » (SIREN 439 083 494)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/439083494",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s39",
+      "label": "Annuaire des entreprises et BODACC, La Dérobade - Le Phenix Club (SIREN 537 555 856)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/537555856",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s41",
+      "label": "Kinkyee, « Club libertin Dijon : Top des Clubs & Saunas (Guide 2026) »",
+      "url": "https://kinkyee.fr/club-libertin/bourgogne-franche-comte/cote-dor/dijon/",
+      "type": "annuaire",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s44",
+      "label": "Domaine sauna-bossuet.fr, état au 19 octobre 2026 (renvoi vers un site tiers)",
+      "url": "https://sauna-bossuet.fr/",
+      "type": "autre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s46",
+      "label": "TopRencontre, « Les 5 Meilleurs Clubs libertins à Dijon » (modifié en mars 2025)",
+      "url": "https://toprencontre.fr/club-libertin-dijon/",
+      "type": "autre",
+      "consulted": "2026-10-19"
+    }
+  ],
+  "glance": [
+    {
+      "icon": "calendar",
+      "label": "Ouvert",
+      "value": "Soirées datées jusqu'au 26 novembre 2026"
+    },
+    {
+      "icon": "clock",
+      "label": "Soirées libertines",
+      "value": "Mardi-samedi dès 20 h, jeudi dès 12 h"
+    },
+    {
+      "icon": "users",
+      "label": "Après-midi",
+      "value": "Sauna entre hommes, sauf le jeudi"
+    },
+    {
+      "icon": "euro",
+      "label": "Entrée couple",
+      "value": "25 € (mardi) à 45 € (samedi)"
+    },
+    {
+      "icon": "water",
+      "label": "Soirée mousse",
+      "value": "Couple 70 €, femme 25 €, homme 90 €"
+    },
+    {
+      "icon": "history",
+      "label": "Jardin des Plantes",
+      "value": "Depuis mai 2003 (place Bossuet dès 1990)"
+    }
+  ],
+  "audience": [
+    {
+      "who": "couples",
+      "status": "oui",
+      "detail": "Du mardi au samedi ; couple = un homme et une femme, entrés et sortis ensemble",
+      "price": "25 à 45 €"
+    },
+    {
+      "who": "femmes",
+      "status": "oui",
+      "detail": "Du mardi au samedi ; soirée 100 % femmes mensuelle à 15 € annoncée en 2025-2026",
+      "price": "10 à 15 €"
+    },
+    {
+      "who": "hommes",
+      "status": "selon",
+      "detail": "Soirs de semaine et mousse, en chemise, filtrés ; sauna entre hommes l'après-midi",
+      "price": "40 à 45 €"
+    },
+    {
+      "who": "trans",
+      "status": "selon",
+      "detail": "Tarif « Transgenres » affiché sur Wyylde le mardi et le vendredi, absent du site",
+      "price": "30 €"
+    }
+  ],
+  "highlights": [
+    "Le samedi soir, la grille ne prévoit pas d'entrée homme seul, sauf à la soirée mousse (90 €).",
+    "Chemise obligatoire pour les hommes le samedi et à la mousse, sinon location à 15 € ; les hommes seuls la portent tous les soirs.",
+    "Téléphone portable strictement interdit et douche obligatoire avant d'utiliser les installations.",
+    "Pas de parking propre : le club indique le parking Monge, silo public près de la gare, à 5 minutes à pied.",
+    "Les mousses de juillet et d'octobre 2026 finissaient à 2 h, pas à 3 h 45 comme le dit la grille : lisez l'annonce de chaque soirée."
+  ]
+}

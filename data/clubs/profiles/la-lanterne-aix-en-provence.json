@@ -1,0 +1,964 @@
+{
+  "slug": "la-lanterne-aix-en-provence",
+  "clubId": "15359",
+  "researchedAt": "2026-10-16",
+  "display": {
+    "nom": "La Lanterne",
+    "ville": "Aix-en-Provence"
+  },
+  "status": {
+    "value": "ouvert",
+    "summary": "L'agenda du site officiel détaille l'Afterwork du mardi 13 octobre 2026, la soirée « Welcom Ibiza » du vendredi 16 et « Avalanche de cadeaux » le samedi 17, avec des affiches jusqu'au vendredi 30 ; les pages du site ont été modifiées le 12 octobre. PGEA, la SAS qui exploite le lieu, reste active au registre, et le dépôt de ses comptes a été publié au BODACC le 15 février 2026.",
+    "sources": [
+      "s1",
+      "s6",
+      "s9",
+      "s11",
+      "s12"
+    ]
+  },
+  "seo": {
+    "title": "Club libertin à Aix-en-Provence : La Lanterne, tarifs et soirées",
+    "metaDescription": "Route de Sisteron, La Lanterne ouvre mardi, vendredi et samedi : dîner et club dès 60 € le couple, club gratuit pour les femmes seules, piscine l'été.",
+    "subtitle": "Club libertin, restaurant et piscine naturiste au 4039 route de Sisteron, Aix-en-Provence (13)",
+    "targetQueries": [
+      "club libertin aix en provence",
+      "la lanterne aix en provence",
+      "la lanterne club libertin",
+      "la lanterne aix tarifs",
+      "la lanterne aix homme seul",
+      "mahoa beach aix en provence"
+    ]
+  },
+  "lead": "Ouverte un samedi soir de mai 2014 au 4039 route de Sisteron, La Lanterne est le seul établissement libertin d'Aix-en-Provence de notre annuaire, et son agenda d'octobre 2026 est en ligne. Le lieu réunit un restaurant dont le dîner ouvre le club, un club actif le mardi, le vendredi et le samedi, et l'été une piscine naturiste, le Mahoa Beach. Les hommes seuls y entrent le mardi et le vendredi, jamais le samedi.",
+  "glance": [
+    {
+      "icon": "calendar",
+      "label": "Ouvert",
+      "value": "Mardi, vendredi et samedi soir"
+    },
+    {
+      "icon": "euro",
+      "label": "Entrée club couple",
+      "value": "40 € mardi · 50 € vendredi et samedi"
+    },
+    {
+      "icon": "food",
+      "label": "Dîner et club, couple",
+      "value": "60 € mardi · 100 € vendredi et samedi"
+    },
+    {
+      "icon": "users",
+      "label": "Homme seul",
+      "value": "Mardi et vendredi ; refusé le samedi"
+    },
+    {
+      "icon": "water",
+      "label": "Mahoa Beach",
+      "value": "Piscine naturiste, close le 13/09/2026"
+    },
+    {
+      "icon": "history",
+      "label": "Depuis",
+      "value": "Mai 2014, route de Sisteron"
+    }
+  ],
+  "audience": [
+    {
+      "who": "couples",
+      "status": "oui",
+      "detail": "Mardi, vendredi et samedi ; 2 consommations comprises",
+      "price": "40 à 100 €"
+    },
+    {
+      "who": "femmes",
+      "status": "oui",
+      "detail": "Les trois soirs ; club gratuit hors boissons, dîner et club de 20 à 40 €",
+      "price": "0 à 40 €"
+    },
+    {
+      "who": "hommes",
+      "status": "selon",
+      "detail": "Mardi et vendredi seulement, une consommation comprise ; refusés le samedi",
+      "price": "50 à 70 €"
+    }
+  ],
+  "highlights": [
+    "Le samedi est réservé aux couples et aux femmes seules : un homme seul n'entre que le mardi et le vendredi.",
+    "Le dîner se réserve au 07 82 06 62 89 : l'agenda d'octobre 2026 l'annonce « uniquement sur réservation ».",
+    "Tenue soignée exigée ; les consignes publiées par le club depuis 2014 demandent chemise, pantalon et chaussures de ville aux hommes.",
+    "La piscine Mahoa Beach a fermé le 13 septembre 2026 : hors saison, seuls le restaurant et le club fonctionnent.",
+    "Parking principal complet ? Un voiturier gare la voiture pour 10 € ; un avis PagesJaunes d'août 2024 signale un sol en graviers, peu pratique en talons."
+  ],
+  "keyFacts": [
+    {
+      "label": "Ouverture",
+      "value": "Samedi 10 mai 2014",
+      "confidence": "confirme",
+      "sources": [
+        "s13",
+        "s11",
+        "s12"
+      ]
+    },
+    {
+      "label": "Exploitant",
+      "value": "PGEA, SAS au capital de 1 000 € (SIREN 799 145 693), active",
+      "confidence": "confirme",
+      "sources": [
+        "s8",
+        "s11"
+      ]
+    },
+    {
+      "label": "Soirs d'ouverture",
+      "value": "Mardi, vendredi et samedi ; piscine du mardi au dimanche en été",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s3",
+        "s5"
+      ]
+    },
+    {
+      "label": "Public",
+      "value": "Couples et femmes seules les trois soirs ; hommes seuls le mardi et le vendredi",
+      "confidence": "confirme",
+      "sources": [
+        "s2",
+        "s3",
+        "s6"
+      ]
+    },
+    {
+      "label": "Entrée club, couple",
+      "value": "40 € le mardi, 50 € le vendredi et le samedi, 2 consommations comprises",
+      "confidence": "confirme",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "label": "Entrée club, femme seule",
+      "value": "Gratuite, consommations en sus",
+      "confidence": "confirme",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "label": "Espaces",
+      "value": "Club, restaurant « semi-gastronomique », piscine Mahoa Beach (été)",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    {
+      "label": "Réservation",
+      "value": "07 82 06 62 89 ou via Wyylde ; dîner uniquement sur réservation (agenda)",
+      "confidence": "confirme",
+      "sources": [
+        "s6",
+        "s7"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "qui-entre-quel-soir",
+      "title": "Mardi pour tous, vendredi mixte, samedi sans hommes seuls",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "La Lanterne n'ouvre que trois soirs par semaine, chacun avec sa règle d'entrée (grille et agenda du site officiel, relus le 16 octobre 2026) :\n- **le mardi**, l'Afterwork va du dîner de 19 h à la fermeture du club à 1 h, tous profils admis ;\n- **le vendredi**, la soirée à thème est mixte, hommes seuls compris ;\n- **le samedi** reste réservé aux couples et aux femmes seules, comme depuis l'ouverture en 2014.\n\nL'écart entre profils est net : au club, une femme seule ne paie que ses boissons, un couple 20 à 25 € par personne avec deux consommations, un homme seul 50 à 60 € pour une seule.\n\nLe **Pass Privilège** fidélise sur la semaine : un couple venu le mardi entre gratuitement au club le vendredi, un couple venu le vendredi entre gratuitement le samedi ; en février 2026, il ne se cumulait ni ne se reportait."
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Le vendredi, la page Tarifs se contredit",
+          "body": "Une phrase de la page Tarifs réserve le vendredi et le samedi aux couples et aux femmes seules, mais la même page chiffre l'entrée des hommes seuls le vendredi (60 € au club, 70 € avec le dîner), et l'agenda annonce le vendredi 16 octobre comme soirée mixte, comme il l'était déjà en 2021. Un homme seul a intérêt à appeler le 07 82 06 62 89 avant de prendre la route."
+        },
+        {
+          "kind": "text",
+          "body": "L'agenda d'octobre 2026 impose la réservation pour le dîner et l'Afterwork (la page du restaurant la dit seulement « conseillée »), par téléphone ou en ligne : les boutons « réservez sur wyylde » renvoient vers les événements que le club publie sur Wyylde.\n\nPour [suivre les dates de La Lanterne dans l'agenda de l'ex-Netéchangisme](aff:wyylde), un compte gratuit suffit ; il permet aussi de recevoir des messages, mais pas d'y répondre sans abonnement."
+        }
+      ],
+      "sources": [
+        "s2",
+        "s6",
+        "s3",
+        "s13",
+        "s14",
+        "s22",
+        "s1",
+        "s27",
+        "s4"
+      ],
+      "icon": "couple",
+      "summary": "Mardi Afterwork ouvert à tous, vendredi mixte, samedi réservé aux couples et aux femmes seules ; au club, une femme seule ne paie que ses boissons."
+    },
+    {
+      "id": "restaurant-entree-offerte",
+      "title": "Le dîner qui ouvre le club : 60 € le mardi, 100 € le week-end pour un couple",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Toute formule dîner inclut l'entrée au club. Le site qualifie sa table de « semi-gastronomique » (de « gastronomique » sur l'accueil) et se présente comme l'un des rares clubs libertins de la région dotés d'un restaurant.\n\nLa carte d'octobre 2026, faite maison avec des produits de saison, va de la salade César au ceviche de dorade, du tartare de bœuf à l'entrecôte, avec pizza et brochettes de poulet. Un client cité par le club lui-même tempère l'étiquette : « on n'est pas dans un gastro ».\n\nLa table se partage : un article du blog du club destiné aux hommes seuls (2024) indique qu'au restaurant ou au cocktail, on est installé avec des femmes seules ou des couples expérimentés. Des témoignages publiés par le club évoquent des chanteurs le samedi, et la galerie de février 2026 décrivait un bar lounge avec scène.\n\nLe restaurant ferme l'été au profit de la piscine. Il a aussi changé d'enseigne : une page mise à jour en février 2023 annonce que « Le Comptoir du Divino », voisin du club, devient le Restaurant La Lanterne."
+        },
+        {
+          "kind": "text",
+          "body": "Si vous préférez partager ce premier dîner avec des gens déjà rencontrés, vous pouvez [convenir d'un premier dîner à quatre avec un couple du pays d'Aix](aff:carre-libertin) sur Carré Libertin : en ligne depuis 2007, le site ne fait rien payer aux couples ni aux femmes seules, à condition d'afficher trois photos sur leur profil. Réservez ensuite la table au 07 82 06 62 89."
+        }
+      ],
+      "sources": [
+        "s4",
+        "s1",
+        "s3",
+        "s24",
+        "s33",
+        "s26",
+        "s23",
+        "s2"
+      ],
+      "icon": "food",
+      "summary": "Chaque formule dîner donne l'entrée au club : 60 € le mardi, 100 € le vendredi ou le samedi pour un couple ; le restaurant ferme l'été."
+    },
+    {
+      "id": "homme-seul",
+      "title": "Homme seul : 50 € le mardi, 60 € le vendredi, refusé le samedi",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le samedi lui est fermé depuis toujours : en mai 2014, le club réservait même le vendredi et le samedi aux couples et aux femmes seules, et ne recevait les hommes seuls que le jeudi et le dimanche, sur réservation, pour 70 €. Aujourd'hui, il entre le mardi et le vendredi, avec une seule consommation et sans Pass Privilège.\n\nEn 2024, le blog du club leur consacrait un article : pantalon, chemise et chaussures de ville, et au dîner une place aux côtés de femmes seules ou de couples expérimentés ; il citait aussi les soirées « pluralité masculine ». En 2021, t-shirt, polo ou baskets valaient un refus à l'entrée.\n\nVenir accompagné ouvre le samedi et allège la note : à deux, l'entrée du vendredi revient à 25 € par personne au lieu de 60 €. Sur Gleese, réseau libertin français lancé fin 2024 dont les profils sont vérifiés par téléphone, vous pouvez [trouver la complice qui vous ouvrira les samedis aixois](aff:gleese) sans enregistrer de carte bancaire ; la plateforme étant récente, regardez d'abord combien de profils elle compte autour d'Aix."
+        }
+      ],
+      "sources": [
+        "s2",
+        "s13",
+        "s33",
+        "s14"
+      ],
+      "icon": "users",
+      "summary": "Admis le mardi (50 € au club) et le vendredi (60 €), avec une consommation, jamais le samedi ; chemise, pantalon et chaussures de ville attendus."
+    },
+    {
+      "id": "agenda-octobre-2026",
+      "title": "Afterwork le 13, Ibiza le 16, « Avalanche de cadeaux » le 17 : octobre 2026",
+      "blocks": [
+        {
+          "kind": "table",
+          "caption": "Soirées détaillées sur la page « Les évènements », consultée le 16 octobre 2026",
+          "headers": [
+            "Date",
+            "Soirée",
+            "Horaires",
+            "Public"
+          ],
+          "rows": [
+            [
+              "Mardi 13 octobre",
+              "Afterwork « rendez-vous lib » : 60 € le couple, 20 € la femme, 60 € l'homme seul",
+              "19 h - 1 h",
+              "Tous profils"
+            ],
+            [
+              "Vendredi 16 octobre",
+              "« Welcom Ibiza », soirée shatta avec CT Event",
+              "20 h 30 - 5 h",
+              "Mixte"
+            ],
+            [
+              "Samedi 17 octobre",
+              "« Avalanche de cadeaux »",
+              "20 h 30 - 5 h",
+              "Couples et femmes seules"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Pour la suite du mois, l'accueil n'affiche que des affiches datées (20, 23, 24, 27 et 30 octobre). Les thèmes cités en présentation : soirée fluo, « I Love Sex », « Oh My Gode ! », afterwork reggaeton ; en février et mars 2026, une « Soirée Pornstar » et des « Soirées Femmes BI »."
+        },
+        {
+          "kind": "list",
+          "title": "Ce que le club a déjà programmé, d'après ses propres pages",
+          "items": [
+            "**Miss Lanterne**, élection documentée en 2020, puis en 2024 dans les témoignages publiés par le club ;",
+            "soirées « débutants », Halloween PinkLady, ateliers de shibari et de wax play (2024) ;",
+            "Cuir Latex Vinyle, Eyes Wide Shut ou « Soirée Membres Wyylde » (2020-2021) ;",
+            "un jeudi par mois en 2022 : cocktail dînatoire, puis club jusqu'à 2 h."
+          ]
+        }
+      ],
+      "sources": [
+        "s6",
+        "s1",
+        "s2",
+        "s27",
+        "s17",
+        "s24",
+        "s28",
+        "s20",
+        "s22"
+      ],
+      "icon": "calendar",
+      "summary": "Afterwork le mardi 13, « Welcom Ibiza » le vendredi 16, « Avalanche de cadeaux » le samedi 17 octobre 2026, puis des affiches jusqu'au 30."
+    },
+    {
+      "id": "mahoa-beach",
+      "title": "Mahoa Beach, la piscine naturiste de l'été : saison 2026 close le 13 septembre",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Inauguré les 27 et 28 mai 2022, le Mahoa Beach est l'espace extérieur que le club dit « libertin et naturiste » : piscine, bar, transats, lits king size et, sur la galerie de février 2026, du sable fin. Son restaurant sert midi et soir, avec des grillades au feu de bois du vendredi au dimanche.\n\nLe club y annonce des pool parties l'après-midi et, le soir, des spectacles avec danseurs et chanteurs.\n\nIl ouvre à partir de début juin, du mardi au dimanche, et le restaurant intérieur ferme pendant ce temps. En 2026, ses deux dernières journées tombaient les dimanches 6 et 13 septembre : à la mi-octobre, seuls le restaurant et le club fonctionnent, et la reprise de 2027 n'est pas datée.\n\nCôté prix, la grille affiche 15 € pour une femme, 40 € pour un homme et 30 € pour un couple, tout en précisant que les tarifs s'entendent par personne : faites préciser si les 30 € valent pour deux."
+        }
+      ],
+      "sources": [
+        "s5",
+        "s22",
+        "s26",
+        "s1",
+        "s2"
+      ],
+      "icon": "water",
+      "summary": "Piscine extérieure libertine et naturiste inaugurée en mai 2022, ouverte du mardi au dimanche à partir de juin ; saison 2026 close le 13 septembre."
+    },
+    {
+      "id": "espaces-cage-love-room",
+      "title": "Une cage sur la piste, une pièce BDSM, une Love Room : aucun spa dans les pages du club",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le site d'octobre 2026 se contente d'évoquer une piste, un bar à cocktails et « plusieurs espaces privatifs ». L'inventaire ci-dessous vient des pages publiées par le club de 2020 à février 2026, avec l'année de dernière mention."
+        },
+        {
+          "kind": "list",
+          "items": [
+            "**Piste avec une cage** en son centre, ronde selon la page de 2025 ; bar garni de barres pour danser dessus (2022).",
+            "**Coins câlins** dans des alcôves que le club dit « de pierre » : recoins à rideaux, lits dans les couloirs, une pièce à verrou, une pièce vitrée à deux lits (2022).",
+            "**Pièce BDSM** avec croix et menottes (2022).",
+            "**Love Room** : balançoire, lit à barreaux, glory hole (février 2026).",
+            "**Patio chauffé** avec canapés, climatisation dans tout l'établissement (2020).",
+            "**Fumoir** semi-extérieur couvert et chauffé (2022) ; des témoignages publiés par le club en 2024 parlent d'un grand coin fumeur extérieur."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Ni la surface, ni le nombre de niveaux, ni la capacité ne sont publiés ; un témoignage relayé par le club place le club « à l'étage inférieur » du restaurant. Aucune page du club ne mentionne le spa que lui prêtent certains annuaires ; les douches n'apparaissent que dans un témoignage publié par le club en 2024."
+        }
+      ],
+      "sources": [
+        "s3",
+        "s22",
+        "s25",
+        "s26",
+        "s17",
+        "s1",
+        "s24",
+        "s31"
+      ],
+      "icon": "building",
+      "summary": "Cage au centre de la piste, alcôves, pièce BDSM (2022) et Love Room avec balançoire (février 2026) ; ni surface ni capacité publiées, aucun spa."
+    },
+    {
+      "id": "histoire-route-de-sisteron",
+      "title": "Du Divino à La Lanterne : le 4039 route de Sisteron depuis 2011",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "L'adresse, que le registre des entreprises nomme « Mas Aubère les Platanes », a accueilli d'autres débits de boissons avant le club ; rien dans ces documents n'indique qu'ils étaient libertins."
+        },
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "2011-2012",
+              "text": "La société Divino reprend sur place, en location-gérance, une discothèque et débit de boissons ; liquidation judiciaire en mars 2012."
+            },
+            {
+              "date": "2012-2015",
+              "text": "Le Trokadero Art'Club (B.O.N.D Animation) ouvre en septembre 2012 ; sa société est mise en redressement en mars 2015, puis liquidée en juin."
+            },
+            {
+              "date": "Décembre 2013",
+              "text": "Immatriculation de PGEA, toujours exploitante ; mise en activité le 25 avril 2014."
+            },
+            {
+              "date": "10 mai 2014",
+              "text": "Ouverture, un samedi soir ; le club fonctionne alors du jeudi au dimanche."
+            },
+            {
+              "date": "Printemps 2020",
+              "text": "Fermeture liée au Covid : pas de réouverture au déconfinement du 11 mai 2020."
+            },
+            {
+              "date": "2021",
+              "text": "Nouveau logo à deux L et nouveau site, lalanterneclub.com ; ouverture le mardi, le jeudi, le vendredi et le samedi."
+            },
+            {
+              "date": "27-28 mai 2022",
+              "text": "Inauguration du Mahoa Beach."
+            },
+            {
+              "date": "Février 2023 au plus tard",
+              "text": "Le Comptoir du Divino devient le Restaurant La Lanterne."
+            },
+            {
+              "date": "Juillet 2025",
+              "text": "Le club se dit héritier de l'« esprit » du Moulin aux Anges, club fermé de Lambesc : une revendication, pas une reprise documentée."
+            },
+            {
+              "date": "Février 2026",
+              "text": "Trois soirs : mardi, vendredi, samedi ; dépôt des comptes publié au BODACC le 15 février."
+            },
+            {
+              "date": "Octobre 2026",
+              "text": "Nouveau site ; les anciennes pages photos et avis ne répondent plus."
+            }
+          ]
+        },
+        {
+          "kind": "table",
+          "caption": "Douze ans de prix publiés par le club (pages de 2014, 2021 et octobre 2026)",
+          "headers": [
+            "Formule",
+            "Mai 2014",
+            "Juin 2021",
+            "Octobre 2026"
+          ],
+          "rows": [
+            [
+              "Couple, club seul, vendredi",
+              "60 €, 4 consommations",
+              "40 €, 1 consommation chacun",
+              "50 €, 2 consommations"
+            ],
+            [
+              "Couple, dîner et club, samedi",
+              "80 €, 4 consommations",
+              "80 €, menu complet",
+              "100 €, 2 consommations"
+            ],
+            [
+              "Femme seule, club seul",
+              "10 €, 1 consommation",
+              "gratuit",
+              "gratuit, consommations en sus"
+            ],
+            [
+              "Femme seule, dîner et club, samedi",
+              "25 €, 1 consommation",
+              "gratuit, repas compris",
+              "40 €, 1 consommation"
+            ],
+            [
+              "Homme seul, club seul, vendredi",
+              "non admis (70 € le jeudi et le dimanche)",
+              "50 €, 1 consommation",
+              "60 €, 1 consommation"
+            ],
+            [
+              "Soirs d'ouverture",
+              "jeudi au dimanche",
+              "mardi, jeudi, vendredi, samedi",
+              "mardi, vendredi, samedi"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le samedi n'a jamais reçu d'hommes seuls ; le vendredi s'est ouvert à eux entre 2014 et 2021, et le dîner du samedi, offert aux femmes seules en 2021, leur coûte 40 € en 2026. Dernière hausse : le dîner du mardi d'un couple est passé de 50 € en février 2026 à 60 € en octobre, montant que l'agenda appelle pourtant « tarif exceptionnel ».\n\nAttention à l'ancien domaine, lerendezvousdelalanterne.fr, que des annuaires donnent encore avec un code postal erroné (13090) : en juillet 2026 au plus tard, il est devenu un magazine d'affiliation édité par un entrepreneur du Var, et non par PGEA, même si le site du club y renvoie encore son adresse /faq. Le site du club est lalanterneclub.com."
+        }
+      ],
+      "sources": [
+        "s30",
+        "s11",
+        "s12",
+        "s13",
+        "s16",
+        "s14",
+        "s18",
+        "s21",
+        "s20",
+        "s22",
+        "s23",
+        "s25",
+        "s26",
+        "s1",
+        "s9",
+        "s27",
+        "s6",
+        "s2",
+        "s29",
+        "s31"
+      ],
+      "icon": "history",
+      "summary": "Deux débits de boissons liquidés en 2012 et 2015 avant le club, ouvert le 10 mai 2014 ; piscine en 2022, restaurant voisin absorbé au plus tard en 2023."
+    },
+    {
+      "id": "voisinage-bouches-du-rhone",
+      "title": "Seule adresse d'Aix dans notre annuaire : Pélissanne, Salon et Gignac pour comparer",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "La Lanterne est le seul établissement d'Aix-en-Provence de notre annuaire (voir [les lieux libertins recensés à Aix-en-Provence](/ville/aix-en-provence)), mais notre recherche n'a pas couvert tout le pays d'Aix. Le club cite un ancien voisin, le **Moulin aux Anges**, club-restaurant de Lambesc dont il parle au passé ; sa date de fermeture reste à vérifier.\n\nÀ ne pas confondre avec [Le Moulin, à Pélissanne](/le-moulin-pelissanne) : avec [Le 391 à Salon-de-Provence](/le-391-salon-de-provence) et [L'Extase Club à Gignac-la-Nerthe](/l-extase-club-gignac-la-nerthe), ce sont les adresses les plus proches de notre annuaire. À Marseille, [Le Taxi des Sens](/le-taxi-des-sens-marseille) y est classé lui aussi comme club-restaurant. Ces fiches n'ont pas toutes été vérifiées avec la méthode employée ici : regardez leur statut avant de partir, ou parcourez la [page Bouches-du-Rhône](/departement/bouches-du-rhone)."
+        }
+      ],
+      "sources": [
+        "s25",
+        "s28"
+      ],
+      "icon": "map",
+      "summary": "Seul lieu d'Aix dans notre annuaire ; les plus proches que nous recensons sont à Pélissanne, Salon-de-Provence et Gignac-la-Nerthe."
+    },
+    {
+      "id": "acces-premier-soir",
+      "title": "Voiturier à 10 €, visite sur demande : arriver un premier soir route de Sisteron",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le club publie ses coordonnées GPS (43.543613, 5.4603934). Le parking est gardé, et une place VIP se réserve sur demande ; quand le parking principal est complet, un voiturier gare la voiture pour 10 € dans un parking secondaire privé. Le vestiaire est gratuit.\n\nPour une première visite, la page du club de 2022 invitait à le signaler à l'accueil, l'équipe guidant alors la découverte des lieux. La tenue doit être « soignée » ; les consignes publiées de 2014 à 2024 précisaient jupe ou robe pour les femmes, chemise, pantalon et chaussures de ville pour les hommes.\n\nLe règlement intérieur, mentionné sur la page du club, n'est pas publié. Pour un anniversaire, le club offrait en février 2026 le gâteau, et le champagne aux groupes d'au moins dix personnes. Une page de 2020, archivée en 2021, citait deux hôtels proches, à Venelles."
+        }
+      ],
+      "sources": [
+        "s7",
+        "s1",
+        "s6",
+        "s22",
+        "s26",
+        "s3",
+        "s13",
+        "s14",
+        "s15",
+        "s33",
+        "s27",
+        "s17"
+      ],
+      "icon": "car",
+      "summary": "Voiturier à 10 € quand le parking principal est complet, vestiaire gratuit, tenue soignée exigée ; une première visite se signale à l'accueil."
+    },
+    {
+      "id": "temoignages-sans-note",
+      "title": "Trustpilot 2,6/5 et PagesJaunes 1,8/5 : le volume sonore et l'équipe en question",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Relevées le 19 octobre 2026, les notes publiques reposent sur peu d'avis : 2,6/5 sur Trustpilot (9 avis, de juillet 2024 à mars 2026, dont sept notés 1/5) et 1,8/5 sur PagesJaunes (5 avis de 2022 à 2024). Nous n'avons pas relevé de note Google. Ce qui revient :\n- le volume de la musique, critiqué sur les deux plateformes, jusqu'en mars 2026 ;\n- l'attitude de l'équipe ou du service de sécurité, mise en cause dans plusieurs avis notés 1/5 de 2023 à 2025, que nous n'avons pas pu vérifier ;\n- en positif, le restaurant, salué dans les avis PagesJaunes de 2022 et d'août 2024."
+        },
+        {
+          "kind": "text",
+          "body": "La page d'avis du club, supprimée depuis (archive de mai 2024), montrait l'autre versant : des témoignages choisis par lui, souvent adressés à « Maurice », prénom que le club met en avant (son anniversaire était fêté en soirée en juillet 2025).\n\nIls louaient la cuisine, les voituriers et le respect du dress code ; même là, certains trouvaient la musique trop forte. Le compte Instagram @teamlanterne, lié depuis le site, ne se lit pas sans connexion."
+        }
+      ],
+      "sources": [
+        "s34",
+        "s35",
+        "s24",
+        "s25",
+        "s32"
+      ],
+      "icon": "star",
+      "summary": "Peu d'avis publics et des notes basses : 2,6/5 sur Trustpilot (9 avis), 1,8/5 sur PagesJaunes (5) ; le volume sonore et l'équipe reviennent."
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Mardi (Afterwork)": "Restaurant 19 h - 22 h, club 22 h - 1 h",
+      "Vendredi": "Restaurant 20 h 30 - 0 h, club 23 h - 5 h",
+      "Samedi": "Restaurant 20 h 30 - 0 h, club 23 h - 5 h",
+      "Lundi, mercredi, jeudi, dimanche": "Fermé (hors piscine en saison)",
+      "Mahoa Beach (début juin à mi-septembre)": "Mardi 12 h - 18 h ; mercredi à dimanche 12 h - 19 h ; fermé le lundi"
+    },
+    "note": "Le restaurant ferme l'été au profit du Mahoa Beach. La saison 2026 de la piscine s'est achevée le dimanche 13 septembre.",
+    "confidence": "confirme",
+    "sources": [
+      "s1",
+      "s3",
+      "s5"
+    ]
+  },
+  "tarifs": {
+    "rows": {
+      "Mardi, dîner et club": "Couple 60 €, femme seule 20 €, homme seul 60 €",
+      "Vendredi, dîner et club": "Couple 100 €, femme seule 40 €, homme seul 70 €",
+      "Samedi, dîner et club": "Couple 100 €, femme seule 40 € ; hommes seuls non admis",
+      "Mardi, club seul (dès 22 h)": "Couple 40 €, femme seule gratuit, homme seul 50 €",
+      "Vendredi, club seul (dès 23 h)": "Couple 50 €, femme seule gratuit, homme seul 60 €",
+      "Samedi, club seul": "Couple 50 €, femme seule gratuit ; hommes seuls non admis",
+      "Mahoa Beach (été)": "Couple 30 €, femme 15 €, homme 40 €",
+      "Voiturier": "10 €"
+    },
+    "note": "Consommations comprises : deux pour un couple, une par personne seule ; les femmes seules entrées gratuitement au club paient leurs boissons. Pass Privilège : une formule couple du mardi donne l'entrée gratuite au club le vendredi, celle du vendredi l'entrée du samedi (en février 2026 : même semaine, ni cumul ni report). Mahoa Beach : grille dite « par personne », montant couple à faire préciser. Grille du site officiel au 16 octobre 2026.",
+    "confidence": "confirme",
+    "sources": [
+      "s2",
+      "s1",
+      "s27"
+    ]
+  },
+  "equipements": [
+    "Piste de danse avec cage",
+    "Bar à cocktails",
+    "Barres de danse au bar (2022)",
+    "Coins câlins en alcôves",
+    "Pièce fermant à verrou (2022)",
+    "Pièce vitrée à deux lits (2022)",
+    "Pièce BDSM avec croix (2022)",
+    "Love Room : balançoire, lit à barreaux, glory hole",
+    "Restaurant",
+    "Bar lounge avec scène",
+    "Piscine extérieure naturiste (été)",
+    "Patio chauffé (2020)",
+    "Fumoir couvert et chauffé (2022)",
+    "Vestiaire gratuit",
+    "Parking gardé, places VIP",
+    "Voiturier (10 €)"
+  ],
+  "externalRatings": [
+    {
+      "platform": "Trustpilot",
+      "rating": 2.6,
+      "scale": 5,
+      "count": 9,
+      "date": "2026-10-19",
+      "url": "https://fr.trustpilot.com/review/lalanterneclub.com"
+    },
+    {
+      "platform": "PagesJaunes",
+      "rating": 1.8,
+      "scale": 5,
+      "count": 5,
+      "date": "2026-10-19",
+      "url": "https://www.pagesjaunes.fr/pros/56015263"
+    }
+  ],
+  "officialLinks": [
+    {
+      "label": "Site officiel",
+      "url": "https://www.lalanterneclub.com/",
+      "kind": "site"
+    },
+    {
+      "label": "Agenda des soirées",
+      "url": "https://www.lalanterneclub.com/les-evenements",
+      "kind": "agenda"
+    },
+    {
+      "label": "Tarifs",
+      "url": "https://www.lalanterneclub.com/tarifs",
+      "kind": "autre"
+    },
+    {
+      "label": "Mahoa Beach (piscine)",
+      "url": "https://www.lalanterneclub.com/mahoa-beach",
+      "kind": "autre"
+    },
+    {
+      "label": "Galerie photo du club (archive du 6 février 2026)",
+      "url": "https://web.archive.org/web/20260206143123/https://lalanterneclub.com/photos-lanterne/",
+      "kind": "galerie"
+    },
+    {
+      "label": "Instagram @teamlanterne",
+      "url": "https://www.instagram.com/teamlanterne/",
+      "kind": "instagram"
+    },
+    {
+      "label": "Groupe Facebook du club",
+      "url": "https://www.facebook.com/share/g/1Ciaf9JQVd/",
+      "kind": "facebook"
+    }
+  ],
+  "corrections": {
+    "code_postal": "13100",
+    "email": "contact@lalanterneclub.com",
+    "site_web": "https://www.lalanterneclub.com/",
+    "sources": [
+      "s1",
+      "s7",
+      "s8",
+      "s11"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Existe-t-il un club libertin à Aix-en-Provence ?",
+      "answer": "Oui : La Lanterne, 4039 route de Sisteron (13100), ouverte depuis mai 2014 et toujours active en octobre 2026. C'est le seul établissement d'Aix de notre annuaire ; les plus proches que nous recensons sont à Pélissanne, Salon-de-Provence et Gignac-la-Nerthe."
+    },
+    {
+      "question": "Combien coûte une soirée à La Lanterne ?",
+      "answer": "Au club : gratuit pour une femme seule (hors boissons), 40 à 50 € pour un couple, 50 à 60 € pour un homme seul. Avec le dîner : 60 à 100 € pour un couple, 20 à 40 € pour une femme seule, 60 à 70 € pour un homme seul, consommations comprises."
+    },
+    {
+      "question": "Un homme seul peut-il aller à La Lanterne ?",
+      "answer": "Le mardi et le vendredi, oui, en chemise, pantalon et chaussures de ville ; le samedi, non. La page Tarifs se contredit sur le vendredi : appelez le 07 82 06 62 89 avant de vous déplacer."
+    },
+    {
+      "question": "Quels sont les horaires de La Lanterne ?",
+      "answer": "Mardi : dîner dès 19 h, club de 22 h à 1 h. Vendredi et samedi : dîner dès 20 h 30, club de 23 h à 5 h. Fermé les autres soirs ; l'été, la piscine ouvre du mardi au dimanche dès 12 h."
+    },
+    {
+      "question": "Qu'est-ce que le Mahoa Beach ?",
+      "answer": "La piscine extérieure du club, libertine et naturiste, inaugurée en mai 2022 et ouverte l'été du mardi au dimanche à partir de début juin. La saison 2026 s'est achevée le dimanche 13 septembre ; la reprise de 2027 n'est pas annoncée."
+    },
+    {
+      "question": "Où voir des photos de La Lanterne ?",
+      "answer": "Le site actuel n'a plus de galerie. Sa dernière version archivée (6 février 2026) montrait le restaurant et sa scène, les coins câlins et la Love Room, puis la piscine. Le compte Instagram @teamlanterne n'est pas consultable sans connexion. L'image de cette fiche est une illustration."
+    },
+    {
+      "question": "Que disent les avis sur La Lanterne ?",
+      "answer": "Au 19 octobre 2026, Trustpilot affiche 2,6/5 sur 9 avis et PagesJaunes 1,8/5 sur 5 avis : c'est peu. Les critiques portent surtout sur le volume de la musique et l'attitude de l'équipe ; le restaurant est plutôt apprécié. Les témoignages du site du club, eux, sont choisis par le club."
+    },
+    {
+      "question": "Comment réserver à La Lanterne ?",
+      "answer": "Au 07 82 06 62 89, ou via les pages Wyylde liées depuis l'agenda du site ; c'est obligatoire pour le dîner et l'Afterwork. Courriel : contact@lalanterneclub.com."
+    }
+  ],
+  "unverified": [
+    "Note Google et nombre d'avis : non relevés ; les notes Trustpilot et PagesJaunes reposent sur moins de dix avis chacune.",
+    "Mahoa Beach : les 30 € affichés pour un couple valent-ils pour deux ou par personne ?",
+    "Le dîner du mardi à 60 € pour un couple (50 € en février 2026) est-il un nouveau tarif ou une promotion ?",
+    "Conditions actuelles du Pass Privilège (cumul, report) : les dernières publiées datent de février 2026.",
+    "Pièce BDSM, pièce à verrou, pièce vitrée et fumoir décrits en 2022 : toujours en place en 2026 ?",
+    "Surface, nombre de niveaux et capacité du club.",
+    "Règlement intérieur, règles sur les préservatifs et les téléphones : non publiés.",
+    "Date de fermeture du Moulin aux Anges à Lambesc, et existence d'autres lieux libertins dans le pays d'Aix."
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Site officiel, accueil",
+      "url": "https://www.lalanterneclub.com/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s2",
+      "label": "Site officiel, page Tarifs",
+      "url": "https://www.lalanterneclub.com/tarifs",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s3",
+      "label": "Site officiel, page Le club",
+      "url": "https://www.lalanterneclub.com/le-club",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s4",
+      "label": "Site officiel, page Le restaurant",
+      "url": "https://www.lalanterneclub.com/le-restaurant",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s5",
+      "label": "Site officiel, page Mahoa Beach",
+      "url": "https://www.lalanterneclub.com/mahoa-beach",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s6",
+      "label": "Site officiel, page Les évènements (agenda d'octobre 2026)",
+      "url": "https://www.lalanterneclub.com/les-evenements",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s7",
+      "label": "Site officiel, page Contact",
+      "url": "https://www.lalanterneclub.com/contact",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s8",
+      "label": "Site officiel, mentions légales",
+      "url": "https://www.lalanterneclub.com/mentions-legales",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s9",
+      "label": "Site officiel, plan du site (pages modifiées le 12/10/2026)",
+      "url": "https://www.lalanterneclub.com/sitemap.xml",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s11",
+      "label": "Registre des entreprises : PGEA, SIREN 799 145 693",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/799145693",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s12",
+      "label": "BODACC : annonces de PGEA (immatriculation 2013, dépôts des comptes jusqu'au 15/02/2026)",
+      "url": "https://bodacc-datadila.opendatasoft.com/explore/dataset/annonces-commerciales/",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s13",
+      "label": "Ancien site officiel, accueil (archive du 15/05/2014)",
+      "url": "https://web.archive.org/web/20140515013648/http://www.lerendezvousdelalanterne.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s14",
+      "label": "Ancien site officiel, Réservation & Tarifs (archive du 18/06/2021)",
+      "url": "https://web.archive.org/web/20210618183014/https://www.lerendezvousdelalanterne.fr/Reservation-Tarifs",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s15",
+      "label": "Ancien site officiel, Concept (archive du 15/06/2021)",
+      "url": "https://web.archive.org/web/20210615092152/https://lerendezvousdelalanterne.fr/Concept",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s16",
+      "label": "Ancien site officiel, « La Lanterne est toujours confinée » (archive du 18/01/2021)",
+      "url": "https://web.archive.org/web/20210118222043/https://lerendezvousdelalanterne.fr/La-Lanterne-est-toujours-confinee-88",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s17",
+      "label": "Ancien site officiel, élection Miss Lanterne 2020 (archive du 08/03/2021)",
+      "url": "https://web.archive.org/web/20210308101227/https://lerendezvousdelalanterne.fr/Election-Miss-Lanterne-2020-et-ses-60",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s18",
+      "label": "Ancien site officiel, mentions légales (archive du 25/07/2021)",
+      "url": "https://web.archive.org/web/20210725025110/https://lerendezvousdelalanterne.fr/Mentions-legales/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s20",
+      "label": "Wayback Machine, historique des captures de lalanterneclub.com et lerendezvousdelalanterne.fr",
+      "url": "https://web.archive.org/cdx/search/cdx?url=lalanterneclub.com",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s21",
+      "label": "Site officiel, « Le club La Lanterne fait peau neuve » (archive du 16/10/2021)",
+      "url": "https://web.archive.org/web/20211016083206/https://lalanterneclub.com/bienvenue/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s22",
+      "label": "Site officiel, page Le Club La Lanterne (archive du 24/05/2022)",
+      "url": "https://web.archive.org/web/20220524033512/https://lalanterneclub.com/club/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s23",
+      "label": "Site officiel, ouverture du Restaurant La Lanterne (page mise à jour en février 2023, archive du 25/04/2024)",
+      "url": "https://web.archive.org/web/20240425095236/https://lalanterneclub.com/restaurant-libertin-ouverture/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s24",
+      "label": "Site officiel, page d'avis : témoignages choisis par le club (archive du 20/05/2024)",
+      "url": "https://web.archive.org/web/20240520144942/https://lalanterneclub.com/avis-lanterne/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s25",
+      "label": "Site officiel, « L'héritier du Moulin aux Anges » (archive du 04/07/2025)",
+      "url": "https://web.archive.org/web/20250704045627/https://lalanterneclub.com/moulin-aux-anges/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s26",
+      "label": "Site officiel, galerie photos (archive du 06/02/2026)",
+      "url": "https://web.archive.org/web/20260206143123/https://lalanterneclub.com/photos-lanterne/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s27",
+      "label": "Site officiel, page Tarifs (archive du 23/02/2026)",
+      "url": "https://web.archive.org/web/20260223101830/https://lalanterneclub.com/tarifs/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s28",
+      "label": "Site officiel, blog : anciennes boîtes de nuit d'Aix-en-Provence (archive du 26/05/2024)",
+      "url": "https://web.archive.org/web/20240526065354/https://lalanterneclub.com/anciennes-boites-aix/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s29",
+      "label": "lerendezvousdelalanterne.fr, magazine tiers installé sur l'ancien domaine du club (mentions légales)",
+      "url": "https://lerendezvousdelalanterne.fr/mentions-legales/",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s30",
+      "label": "Registre et BODACC : entreprises antérieures au 4039 route de Sisteron (Divino, B.O.N.D Animation)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/530078351",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s31",
+      "label": "sauna-club-libertin.com, fiche « LA LANTERNE »",
+      "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_3.php?id=15359&d=13",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s32",
+      "label": "Instagram @teamlanterne",
+      "url": "https://www.instagram.com/teamlanterne/",
+      "type": "reseau_social",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s33",
+      "label": "Site officiel, blog : conseils pour les hommes seuls (archive du 26/05/2024)",
+      "url": "https://web.archive.org/web/20240526053243/https://lalanterneclub.com/hommes-seuls/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s34",
+      "label": "Trustpilot, avis sur lalanterneclub.com (2,6/5, 9 avis)",
+      "url": "https://fr.trustpilot.com/review/lalanterneclub.com",
+      "type": "avis",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s35",
+      "label": "PagesJaunes, fiche La Lanterne (1,8/5, 5 avis)",
+      "url": "https://www.pagesjaunes.fr/pros/56015263",
+      "type": "avis",
+      "consulted": "2026-10-19"
+    }
+  ]
+}

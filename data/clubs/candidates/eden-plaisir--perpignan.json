@@ -5,5 +5,8 @@
   "foundIn": [
     "l-atlantis-rivesaltes"
   ],
-  "status": "todo"
+  "status": "rejected",
+  "duplicateOf": "sauna-libertin-perpignan",
+  "reason": "Doublon : Eden Plaisir est l'ancien nom du Déstressium (9 rue Joseph Cugnot, Perpignan), déjà dans la base. Le site ledestressium.fr déclare « Eden plaisir » comme nom alternatif (données structurées, lues le 19/10/2026) et sa page « Actualités » dit : « En achetant le fonds de commerce Eden plaisir… » ; l'annuaire sauna-club-libertin.com (fiche 15338) place Eden Plaisir au 9 rue Joseph Cugnot. Vérifié le 2026-10-19 (dossier l-atlantis-rivesaltes, S47, S48, S57, S58).",
+  "qualifiedAt": "2026-10-19"
 }

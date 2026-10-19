@@ -1,0 +1,621 @@
+{
+  "slug": "l-inattendue-club-libertin-sauna-roquebrune-sur-argens",
+  "clubId": "14973",
+  "researchedAt": "2026-10-16",
+  "display": {
+    "nom": "L'Inattendue",
+    "ville": "Roquebrune-sur-Argens"
+  },
+  "status": {
+    "value": "ferme",
+    "summary": "Le 4 juin 2018, le tribunal de commerce de Fréjus a transformé en liquidation judiciaire le redressement ouvert six mois plus tôt contre la SARL L'Inattendue. Le fonds a été revendu en janvier 2019 et Abso Spa occupe l'adresse depuis l'été 2019 au plus tard. La dernière capture du site du club date de juin 2017 ; la date de la dernière soirée n'a jamais été annoncée.",
+    "sources": [
+      "s3",
+      "s4",
+      "s7",
+      "s17",
+      "s18",
+      "s20",
+      "s21"
+    ]
+  },
+  "seo": {
+    "title": "L'Inattendue à Roquebrune-sur-Argens : fermé en 2018, devenu Abso Spa",
+    "metaDescription": "Club-sauna libertin de 400 m² ouvert en 2011 sur la RN 7, L'Inattendue a fermé après sa liquidation en 2018. Anciens tarifs, histoire, ce qui l'a remplacé.",
+    "subtitle": "Ancien club libertin et sauna mixte de la RN 7, ouvert en 2011 et fermé en 2018",
+    "targetQueries": [
+      "club libertin roquebrune sur argens",
+      "l'inattendue roquebrune sur argens",
+      "l'inattendue club libertin sauna",
+      "l'inattendue tarifs",
+      "sauna libertin roquebrune sur argens",
+      "abso spa roquebrune"
+    ]
+  },
+  "lead": "Ouvert en novembre 2011 au bord de la RN 7, au lieu-dit Les Castagniers, L'Inattendue était un club libertin et sauna mixte de 400 m² sur deux niveaux : balnéo l'après-midi, discothèque du jeudi au samedi soir. Il a fermé en 2018, après le redressement puis la liquidation judiciaire de sa société. Depuis 2019 au plus tard, Abso Spa, lié au club L'Absolu de Mougins, occupe les lieux.",
+  "keyFacts": [
+    {
+      "label": "Fermeture",
+      "value": "2018 (liquidation le 4 juin) ; date exacte inconnue, aucune annonce publique",
+      "confidence": "a_verifier",
+      "sources": [
+        "s3",
+        "s4",
+        "s18"
+      ]
+    },
+    {
+      "label": "Ouverture",
+      "value": "Novembre 2011",
+      "confidence": "confirme",
+      "sources": [
+        "s10",
+        "s2"
+      ]
+    },
+    {
+      "label": "Société",
+      "value": "SARL L'Inattendue (SIREN 533 551 586), radiée en mai 2023",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s6"
+      ]
+    },
+    {
+      "label": "Adresse",
+      "value": "RN 7, lieu-dit Les Castagniers, 83520 Roquebrune-sur-Argens",
+      "confidence": "confirme",
+      "sources": [
+        "s10",
+        "s17",
+        "s1"
+      ]
+    },
+    {
+      "label": "Surface",
+      "value": "400 m² sur deux niveaux",
+      "confidence": "confirme",
+      "sources": [
+        "s10",
+        "s14",
+        "s17"
+      ]
+    },
+    {
+      "label": "Public admis",
+      "value": "Couples, femmes seules, hommes seuls, travestis",
+      "confidence": "confirme",
+      "sources": [
+        "s14",
+        "s12"
+      ]
+    },
+    {
+      "label": "Âge minimum",
+      "value": "23 ans (règlement de 2013)",
+      "confidence": "source_unique",
+      "sources": [
+        "s12"
+      ]
+    },
+    {
+      "label": "Sur place aujourd'hui",
+      "value": "Abso Spa, spa libertin du groupe de L'Absolu, depuis 2019 au plus tard",
+      "confidence": "confirme",
+      "sources": [
+        "s20",
+        "s21",
+        "s23"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "liquidation-juin-2018",
+      "title": "Redressement fin 2017, liquidation en juin 2018",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le 4 décembre 2017, le tribunal de commerce de Fréjus place la SARL exploitante en redressement judiciaire, la cessation des paiements étant fixée au 30 novembre ; il prononce la liquidation le 4 juin 2018. Les difficultés étaient anciennes : selon societe.com, les capitaux propres étaient passés sous la moitié du capital dès 2013, et 2016, dernier exercice publié, affiche une perte d'environ 15 700 € pour 209 000 € de chiffre d'affaires.\n\nAucune annonce de fermeture n'a été retrouvée : la dernière soirée se situe entre décembre 2017 et l'été 2018. Le site du club, capturé pour la dernière fois en juin 2017, répondait par une erreur dès le 22 mars 2018."
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Site, e-mail et annuaires périmés",
+          "body": "Le domaine club-linattendue.fr n'appartient plus au club : il sert une page de parking, encore le 16 octobre 2026, et l'adresse e-mail associée est caduque. Les numéros 04 89 25 00 58 et 06 14 69 28 98 étaient ceux du club ; nous ignorons leur attribution actuelle. Plusieurs annuaires listent encore L'Inattendue sans signaler sa fermeture."
+        }
+      ],
+      "sources": [
+        "s3",
+        "s4",
+        "s9",
+        "s1",
+        "s11",
+        "s17",
+        "s18",
+        "s19",
+        "s27",
+        "s28"
+      ],
+      "icon": "closed",
+      "summary": "Redressement judiciaire le 4 décembre 2017, liquidation le 4 juin 2018 : la dernière soirée n'a jamais été annoncée, et le site ne répondait plus dès mars 2018."
+    },
+    {
+      "id": "abso-spa-1479-rn7",
+      "title": "Au 1479 RN 7, Abso Spa a remplacé le sauna en 2019",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le fonds est vendu 40 000 € le 8 janvier 2019 à la SARL Zion, créée le 1er octobre 2018, qui déclare exploiter un « espace Spa libertin » avec piscine. Qu'elle exploite Abso Spa est une déduction (même adresse, même activité, aucune enseigne déclarée), pas une information publiée.\n\nEn août 2019, le site du club [L'Absolu, à Mougins](/l-absolu-mougins) présente Abso Spa comme sa « nouvelle destination », au 1479 RN 7, les Castagniers, avec piscine extérieure, sauna, hammam et jacuzzi ; le couple y paie alors 50 € avec deux consommations. Un blog libertin écrit en août 2021 qu'il a ouvert « en lieu et place de l'ancien sauna l'Inattendue », après des mois de travaux.\n\nDes pages d'événements archivées jusqu'en mars 2025, un article de cannes-tendances.com mis à jour le 3 septembre 2026 et la page de liens du groupe, qui donne toujours son adresse, plaident pour une activité continue."
+        }
+      ],
+      "sources": [
+        "s7",
+        "s8",
+        "s20",
+        "s21",
+        "s22",
+        "s23",
+        "s24"
+      ],
+      "icon": "building",
+      "summary": "Le fonds est revendu 40 000 € en janvier 2019 ; en août 2019, L'Absolu (Mougins) présente Abso Spa à la même adresse, toujours citée en 2026."
+    },
+    {
+      "id": "klub-frejus-octobre-2026",
+      "title": "Le Klub à Fréjus : mercredi LGBT et après-midi à thème jusqu'au 1er novembre 2026",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Dans la commune voisine, [Le Klub, hammam libertin de Fréjus](/klub-frejus-libertin-oriental), affiche sur sa page Wyylde, relevée le 19 octobre 2026, un programme quotidien jusqu'au 1er novembre : mercredi LGBT, soirée exhib et voyeurisme le jeudi, soirée « nuisette et pyjama » le samedi 24 octobre, après-midi gang bang ou pluralité selon le jour. Son site renvoie à cette page pour l'actualité. C'est aussi là qu'on peut [repérer les soirées varoises annoncées sur Wyylde](aff:wyylde), l'agenda se consultant avec un compte gratuit.\n\nÀ Roquebrune-sur-Argens même, notre annuaire liste [Le Diablotin Club](/le-diablotin-club-roquebrunes-sur-argens) : aucune source ne le relie à L'Inattendue et son activité n'a pas été vérifiée pour cette fiche. Les autres lieux du département sont sur [notre page Var](/departement/var)."
+        }
+      ],
+      "sources": [
+        "s25",
+        "s26"
+      ],
+      "icon": "heart",
+      "summary": "À Fréjus, Le Klub publie sur Wyylde un programme quotidien relevé le 19 octobre 2026 ; à Roquebrune, Le Diablotin Club figure dans notre annuaire sans vérification."
+    },
+    {
+      "id": "balneo-discotheque-400-m2",
+      "title": "400 m² sur deux niveaux : balnéo en paréo l'après-midi, discothèque de 22 h à 3 h",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le site décrivait, de 2011 à 2017 :\n\n- un bar d'ambiance avec piste de danse ;\n- un sauna, un hammam et un jacuzzi ;\n- des espaces détente à thème et une salle fumeurs ;\n- un parking privé, près d'une sortie d'autoroute.\n\nL'après-midi, de 14 h à 19 h, place à la balnéo : nu ou en paréo, casier, paréo et serviette fournis. Du jeudi au samedi, de 22 h à 3 h, le lieu passait en discothèque, tenue élégante pour les hommes et sexy pour les femmes ; en 2016, la balnéo rouvrait le samedi de 0 h 30 à 3 h.\n\nLe dimanche, ouvert jusqu'à minuit en 2012 et 2014, fermait à 19 h en 2016 et 2017. La cage d'exhib, le lit rond et les backrooms que citent des annuaires n'apparaissent sur aucune page officielle consultée."
+        }
+      ],
+      "sources": [
+        "s10",
+        "s11",
+        "s12",
+        "s14",
+        "s15",
+        "s17",
+        "s27"
+      ],
+      "icon": "spa",
+      "summary": "Sauna, hammam, jacuzzi, bar et piste de danse sur 400 m² : balnéo de 14 h à 19 h tous les jours, discothèque du jeudi au samedi de 22 h à 3 h."
+    },
+    {
+      "id": "agenda-2013",
+      "title": "Gang bang chaque jeudi après-midi et voyages à Marrakech en jeu, en 2013",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le seul programme lisible, de juillet à décembre 2013, place un après-midi « super gang bang » chaque jeudi, et deux grandes soirées gang bang en balnéo les vendredis 6 et 20 décembre. Les vendredis et samedis soir, des thèmes mixtes tournent :\n\n- seins nus, triolisme, « No string », Black and White, Halloween ;\n- une loterie libertine avec deux voyages à Marrakech à gagner, en septembre et en décembre ;\n- un réveillon « Sexe et Bulles » le 31 décembre.\n\nL'entrée était souvent offerte aux couples de 22 h à 23 h. Les agendas suivants, jusqu'en juillet 2016, sont des images que nous n'avons pas pu lire."
+        }
+      ],
+      "sources": [
+        "s13",
+        "s16"
+      ],
+      "icon": "calendar",
+      "summary": "Le seul agenda lisible, de juillet à décembre 2013, place un « super gang bang » chaque jeudi après-midi et des soirées à thème mixtes le vendredi et le samedi."
+    },
+    {
+      "id": "regles-23-ans-hommes-seuls",
+      "title": "23 ans minimum, téléphones interdits, hommes seuls admis selon les couples présents",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le club recevait couples, femmes seules, hommes seuls et travestis. Son règlement de 2013 fixait l'âge minimum à 23 ans, pièce d'identité à l'appui sur demande, et proscrivait téléphones, appareils photo et caméras, comme l'ivresse et les stupéfiants. Ses dix « commandements » laissaient « le pouvoir de décision aux Femmes ».\n\nLes hommes seuls entraient l'après-midi comme le soir, en nombre limité selon les couples triolistes présents, et certaines soirées leur étaient fermées. Celui qui préfère aujourd'hui être invité par un couple plutôt qu'attendre à une porte peut [se faire inviter par un couple varois via Gleese](aff:gleese) : l'inscription se fait sans carte bancaire, avec un numéro de téléphone vérifié. Ce site français, lancé fin 2024, compte encore peu de profils comparé aux plus anciens : à juger dans le Var."
+        }
+      ],
+      "sources": [
+        "s12",
+        "s14"
+      ],
+      "icon": "shield",
+      "summary": "Règlement de 2013 : 23 ans minimum, téléphones et appareils photo interdits, hommes seuls admis en nombre limité selon les couples triolistes présents."
+    },
+    {
+      "id": "chronologie-2011-2023",
+      "title": "Des Castagniers au tribunal de Fréjus, de 2011 à 2023",
+      "blocks": [
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "Juillet 2011",
+              "text": "Création de la SARL L'Inattendue, au capital de 2 000 €."
+            },
+            {
+              "date": "17 novembre 2011",
+              "text": "Mise en activité ; le site annonçait l'ouverture pour début novembre."
+            },
+            {
+              "date": "25 juin 2017",
+              "text": "Dernière capture du site du club."
+            },
+            {
+              "date": "4 décembre 2017",
+              "text": "Redressement judiciaire."
+            },
+            {
+              "date": "4 juin 2018",
+              "text": "Liquidation judiciaire."
+            },
+            {
+              "date": "1er octobre 2018",
+              "text": "Début d'activité de la SARL Zion à la même adresse."
+            },
+            {
+              "date": "8 janvier 2019",
+              "text": "Vente du fonds pour 40 000 €."
+            },
+            {
+              "date": "Août 2019",
+              "text": "L'Absolu annonce Abso Spa."
+            },
+            {
+              "date": "Juin 2021",
+              "text": "Première capture du domaine en page de parking."
+            },
+            {
+              "date": "24 avril 2023",
+              "text": "Clôture pour insuffisance d'actif, puis radiation publiée le 7 mai."
+            }
+          ]
+        }
+      ],
+      "sources": [
+        "s1",
+        "s9",
+        "s2",
+        "s10",
+        "s17",
+        "s18",
+        "s3",
+        "s4",
+        "s8",
+        "s7",
+        "s20",
+        "s5",
+        "s6"
+      ],
+      "icon": "history",
+      "summary": "Création en juillet 2011, ouverture en novembre, redressement fin 2017, liquidation en juin 2018, fonds revendu en 2019, société radiée en mai 2023."
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Tous les jours (2017)": "14 h – 19 h",
+      "Jeudi, vendredi et samedi soir (2017)": "22 h – 3 h"
+    },
+    "note": "Dernière version publiée par le site officiel (archive du 25 juin 2017). En 2012 et 2014, le dimanche allait de 14 h à minuit sans interruption. Le club est fermé depuis 2018 : ces horaires n'ont plus cours.",
+    "confidence": "confirme",
+    "sources": [
+      "s17",
+      "s11",
+      "s14"
+    ]
+  },
+  "tarifs": {
+    "rows": {
+      "Femme seule, travesti (sauf jeudi soir)": "Gratuit",
+      "Couple, après-midi": "20 €",
+      "Homme seul, après-midi": "40 €",
+      "Jeudi soir, toute personne": "15 €",
+      "Couple, vendredi et samedi soir": "30 €",
+      "Homme seul, vendredi et samedi soir": "50 €"
+    },
+    "note": "Grille de mai 2016, la dernière lisible sur le site officiel archivé ; boissons non comprises. Ces prix n'ont plus cours : le club est fermé.",
+    "confidence": "confirme",
+    "sources": [
+      "s15"
+    ]
+  },
+  "equipements": [
+    "Bar d'ambiance",
+    "Piste de danse",
+    "Sauna",
+    "Hammam",
+    "Jacuzzi",
+    "Espaces détente à thème",
+    "Salle fumeurs",
+    "Vestiaires et casiers",
+    "Parking privé"
+  ],
+  "officialLinks": [
+    {
+      "label": "Ancien site officiel (archive du 25 juin 2017)",
+      "url": "https://web.archive.org/web/20170625193711/http://club-linattendue.fr/",
+      "kind": "autre"
+    }
+  ],
+  "corrections": {
+    "site_web": "",
+    "email": "",
+    "sources": [
+      "s18",
+      "s19"
+    ]
+  },
+  "faq": [
+    {
+      "question": "L'Inattendue est-il toujours ouvert à Roquebrune-sur-Argens ?",
+      "answer": "Non. Sa société a été mise en liquidation le 4 juin 2018 et le fonds revendu en janvier 2019 ; Abso Spa, spa libertin du groupe de L'Absolu, occupe désormais l'adresse."
+    },
+    {
+      "question": "Reste-t-il un club libertin à Roquebrune-sur-Argens ?",
+      "answer": "À l'ancienne adresse de L'Inattendue, Abso Spa, spa libertin du groupe de L'Absolu, a pris le relais ; ses horaires et tarifs actuels ne sont pas vérifiés ici. Notre annuaire liste aussi Le Diablotin Club, dont l'activité n'a pas été vérifiée. À Fréjus, Le Klub publie un programme relevé le 19 octobre 2026. Faute d'horaires vérifiés pour ces deux adresses de la commune, le plus sûr est de se renseigner auprès de ceux qui y sortent : on peut [interroger des libertins de la basse vallée de l'Argens](aff:carre-libertin) sur Carré Libertin, en ligne depuis 2007, où femmes et couples ont l'accès complet sans abonnement, contre trois photos de profil."
+    },
+    {
+      "question": "Combien coûtait l'entrée à L'Inattendue ?",
+      "answer": "En mai 2016, le couple payait 20 € l'après-midi et 30 € le vendredi ou le samedi soir, l'homme seul 40 € et 50 € (35 € l'après-midi en 2012) ; le jeudi soir, l'entrée était à 15 € par personne. Une bouteille de champagne d'au moins 80 € offrait l'entrée du couple le soir, 120 € celle de l'homme seul ; hors jeudi soir, femmes seules et travestis entraient gratuitement."
+    },
+    {
+      "question": "Le site club-linattendue.fr et le 04 89 25 00 58 mènent-ils encore au club ?",
+      "answer": "Non pour le site, devenu une page de parking. Le 04 89 25 00 58 et le 06 14 69 28 98 étaient les lignes de L'Inattendue ; nous ne les avons pas appelés. Abso Spa publiait en 2019 ses propres numéros, dont le 07 83 99 12 69."
+    }
+  ],
+  "unverified": [
+    "La date exacte de la dernière soirée, quelque part entre décembre 2017 et juin 2018.",
+    "Les tarifs et horaires pratiqués en 2017 et 2018 : la dernière grille lisible date de mai 2016.",
+    "L'âge minimum après 2013, et les équipements que seuls les annuaires citent (cage d'exhib, lit rond, backrooms, salon vidéo).",
+    "Le lien entre la SARL Zion, qui a racheté le fonds, et Abso Spa : déduit de l'adresse et de l'activité, jamais déclaré.",
+    "Les horaires, tarifs et conditions d'accès actuels d'Abso Spa.",
+    "D'éventuels avis clients ou articles de Var-Matin sur L'Inattendue : aucune note publique n'a été trouvée et la presse locale n'a pas pu être consultée.",
+    "L'activité actuelle du Diablotin Club, rue de l'Industrie."
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Registre des entreprises (Sirene), SARL L'Inattendue, SIREN 533 551 586",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/533551586",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s2",
+      "label": "BODACC, mise en activité de la SARL L'Inattendue (17 novembre 2011)",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:B201102311660",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s3",
+      "label": "BODACC, ouverture du redressement judiciaire (4 décembre 2017)",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A201702413962",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s4",
+      "label": "BODACC, conversion en liquidation judiciaire (4 juin 2018)",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A201801072091",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s5",
+      "label": "BODACC, clôture pour insuffisance d'actif (24 avril 2023)",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202300842554",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s6",
+      "label": "BODACC, radiation de la SARL L'Inattendue (7 mai 2023)",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:B202300895123",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s7",
+      "label": "BODACC, vente du fonds de commerce à la SARL Zion (avis du 20 février 2019)",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A201900362208",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s8",
+      "label": "Registre des entreprises (Sirene), SARL Zion, SIREN 848 264 024",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/848264024",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s9",
+      "label": "societe.com, fiche de la SARL L'Inattendue (capital, non-dissolution de 2013, chiffre d'affaires)",
+      "url": "https://www.societe.com/societe/l-inattendue-533551586.html",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s10",
+      "label": "Site officiel, page « visite », archive du 14 octobre 2011",
+      "url": "https://web.archive.org/web/20111014223727/http://www.club-linattendue.fr:80/visite.html",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s11",
+      "label": "Site officiel, page « horaires-tarifs », archive du 9 février 2012",
+      "url": "https://web.archive.org/web/20120209042350/http://www.club-linattendue.fr:80/horaires-tarifs.html",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s12",
+      "label": "Site officiel, page « code du libertinage », archive du 20 décembre 2013",
+      "url": "https://web.archive.org/web/20131220091910/http://www.club-linattendue.fr/code-du-libertinage.html",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s13",
+      "label": "Site officiel (version mobile), fil des événements d'octobre à décembre 2013, archive du 22 décembre 2013",
+      "url": "https://web.archive.org/web/20131222040549/http://mobile.club-linattendue.fr:80/evenements-fil_rss.xml",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s14",
+      "label": "Site officiel, page d'accueil, archive du 20 février 2014",
+      "url": "https://web.archive.org/web/20140220030353/http://www.club-linattendue.fr:80/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s15",
+      "label": "Site officiel, page « horaires-tarifs », archive du 22 mai 2016",
+      "url": "https://web.archive.org/web/20160522171708/http://club-linattendue.fr/horaires-tarifs.html",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s16",
+      "label": "Site officiel, agenda de juillet 2016, archive du 19 juillet 2016",
+      "url": "https://web.archive.org/web/20160719164907/http://www.club-linattendue.fr:80/club_linattendue_evenements_juillet_2016.html",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s17",
+      "label": "Site officiel refait sous WordPress, accueil, archive du 25 juin 2017 (dernière capture)",
+      "url": "https://web.archive.org/web/20170625193711/http://club-linattendue.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s18",
+      "label": "Wayback Machine, historique des captures du domaine club-linattendue.fr (2011-2025)",
+      "url": "https://web.archive.org/cdx/search/cdx?url=club-linattendue.fr&matchType=domain&fl=timestamp,statuscode,original&collapse=urlkey",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s19",
+      "label": "Domaine club-linattendue.fr, état le 16 octobre 2026 (page de parking)",
+      "url": "https://club-linattendue.fr/",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s20",
+      "label": "Site officiel du club L'Absolu (Mougins), page Abso Spa, archive du 26 août 2019",
+      "url": "https://web.archive.org/web/20190826003322/https://www.clubabsolu.com/abso-spa-first-swinger-cannes-mougins-club-libertin-roquebrune-frejus/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s21",
+      "label": "Libertinage sans complexe, « Avis sur Abso SPA à Roquebrunes sur Argens » (blog, publié le 25 août 2021)",
+      "url": "https://libertinage-sans-complexe.com/avis-sur-abso-spa-a-roquebrunes-sur-argens/",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s22",
+      "label": "Cannes Tendances, « Abso Spa : le spa libertin du Club Absolu à 30 min de Cannes » (4 juillet 2022, mis à jour le 3 septembre 2026)",
+      "url": "https://cannes-tendances.com/le-nouveau-joyau-de-absolu-groupe-abso-spa/",
+      "type": "presse",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s23",
+      "label": "Page de liens officielle « ABSOLU Group » (Linktree)",
+      "url": "https://linktr.ee/clubabsolu",
+      "type": "reseau_social",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s24",
+      "label": "Wayback Machine, pages d'événements Abso Spa du site clubabsolu.com (2019-2025)",
+      "url": "https://web.archive.org/cdx/search/cdx?url=clubabsolu.com/*",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s25",
+      "label": "Le Klub (Fréjus), page Wyylde, onglet Événements (programme du 19 octobre au 1er novembre 2026)",
+      "url": "https://app.wyylde.com/fr-fr/page/b00ac2a0-c0bf-11e8-a6a2-2913d1888a94/le-klub-hammam-libertin/events",
+      "type": "reseau_social",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s26",
+      "label": "Le Klub (Fréjus), site officiel, page Agenda",
+      "url": "https://www.leklublibertin.com/agenda/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s27",
+      "label": "sauna-club-libertin.com, fiche L'Inattendue (annuaire, non datée)",
+      "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_3.php?id=14973&d=83",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s28",
+      "label": "lieuxcoquins.fr, fiche « L'Inattendue Sauna Libertin » (annuaire, non datée)",
+      "url": "https://www.lieuxcoquins.fr/lieu/linattendue/",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    }
+  ],
+  "glance": [
+    {
+      "icon": "closed",
+      "label": "Fermé",
+      "value": "En 2018, après une liquidation judiciaire"
+    },
+    {
+      "icon": "history",
+      "label": "Période d'activité",
+      "value": "Novembre 2011 – 2018"
+    },
+    {
+      "icon": "building",
+      "label": "Le lieu aujourd'hui",
+      "value": "Abso Spa, spa libertin du groupe L'Absolu"
+    },
+    {
+      "icon": "euro",
+      "label": "Entrée couple (2016)",
+      "value": "20 € après-midi · 30 € ven. et sam. soir"
+    },
+    {
+      "icon": "ruler",
+      "label": "Surface",
+      "value": "400 m² sur deux niveaux"
+    },
+    {
+      "icon": "heart",
+      "label": "Club actif voisin",
+      "value": "Le Klub, Fréjus : programme daté oct. 2026"
+    }
+  ],
+  "highlights": [
+    "Le domaine club-linattendue.fr ne mène plus au club : c'est une page de revente de domaine, constatée le 16 octobre 2026.",
+    "Sur la RN 7, aux Castagniers, l'ancien club est devenu Abso Spa, lié à L'Absolu de Mougins, au plus tard à l'été 2019.",
+    "Les prix encore visibles dans des annuaires datent au mieux de mai 2016 (couple 20 € l'après-midi, 30 € le soir) et n'ont plus cours.",
+    "Le 04 89 25 00 58 et le 06 14 69 28 98 étaient les lignes du club ; nous ignorons à qui ils sont attribués aujourd'hui.",
+    "À Fréjus, Le Klub publie sur Wyylde un programme d'après-midi et de soirées relevé le 19 octobre 2026 jusqu'au 1er novembre."
+  ]
+}

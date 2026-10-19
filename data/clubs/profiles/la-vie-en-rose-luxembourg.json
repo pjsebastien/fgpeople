@@ -1,0 +1,837 @@
+{
+  "slug": "la-vie-en-rose-luxembourg",
+  "clubId": "956",
+  "researchedAt": "2026-10-16",
+  "display": {
+    "nom": "La Vie en Rose",
+    "ville": "Kayl"
+  },
+  "status": {
+    "value": "ferme",
+    "summary": "Un dégât des eaux a fait fermer le club en 2011 : l'association parlait d'une fermeture temporaire, mais son message est resté mot pour mot sur le site jusqu'en juillet 2012, sans date de réouverture. En juin 2014, L'essentiel présentait le Quai 27 d'Esch-sur-Alzette comme l'unique club échangiste du pays. Le domaine lavieenrose.lu n'est plus enregistré en octobre 2026, et aucune trace de réouverture n'a été trouvée ; le registre des associations n'a pas pu être consulté.",
+    "sources": [
+      "s12",
+      "s13",
+      "s14",
+      "s26"
+    ]
+  },
+  "seo": {
+    "title": "La Vie en Rose (Kayl, Luxembourg) : club libertin fermé en 2011",
+    "metaDescription": "Club échangiste associatif de Kayl, avec sauna et jacuzzi, fermé en 2011 après un dégât des eaux. Tarifs 2008, soirées, et où en sont Dudelange et Esch.",
+    "subtitle": "Ancien club échangiste associatif à Kayl (Luxembourg), avec sauna et jacuzzi, fermé en 2011",
+    "targetQueries": [
+      "club libertin luxembourg",
+      "club echangiste luxembourg",
+      "sauna libertin luxembourg",
+      "libertin luxembourg",
+      "luxembourg club libertin"
+    ]
+  },
+  "lead": "Club échangiste tenu par une association au 18, rue du Faubourg à Kayl, dans le sud du Grand-Duché, La Vie en Rose se disait le premier du genre au Luxembourg. Son règlement date de 1996 ; en 2008, il ouvrait tous les soirs, avec sauna et jacuzzi. Un dégât des eaux l'a fermé en 2011, « temporairement » selon l'association, sans réouverture connue.",
+  "keyFacts": [
+    {
+      "label": "Statut",
+      "value": "Fermé depuis 2011 (dégât des eaux, fermeture annoncée comme temporaire)",
+      "confidence": "confirme",
+      "sources": [
+        "s12",
+        "s13",
+        "s14"
+      ]
+    },
+    {
+      "label": "Exploitant",
+      "value": "La Vie En Rose a.s.b.l., association sans but lucratif",
+      "confidence": "confirme",
+      "sources": [
+        "s2",
+        "s8"
+      ]
+    },
+    {
+      "label": "Adresse",
+      "value": "18, rue du Faubourg, L-3640 Kayl (Luxembourg)",
+      "confidence": "confirme",
+      "sources": [
+        "s2",
+        "s16"
+      ]
+    },
+    {
+      "label": "Plus ancienne date connue",
+      "value": "Règlement intérieur signé à Kayl le 4 mars 1996",
+      "confidence": "source_unique",
+      "sources": [
+        "s8"
+      ]
+    },
+    {
+      "label": "Public admis (2008)",
+      "value": "Couples, femmes seules, trios mixtes ; hommes seuls souvent en nombre limité, pas le samedi",
+      "confidence": "confirme",
+      "sources": [
+        "s7",
+        "s10"
+      ]
+    },
+    {
+      "label": "Espaces (2008)",
+      "value": "Sauna, jacuzzi, bar, buffet, salon, coins câlins, douches",
+      "confidence": "source_unique",
+      "sources": [
+        "s9"
+      ]
+    },
+    {
+      "label": "Entrée couple (2008)",
+      "value": "50 € avec réservation, 70 € sans",
+      "confidence": "confirme",
+      "sources": [
+        "s7",
+        "s10"
+      ]
+    },
+    {
+      "label": "Entrée homme seul (2008)",
+      "value": "150 € avec réservation, 180 € sans",
+      "confidence": "confirme",
+      "sources": [
+        "s7",
+        "s10"
+      ]
+    },
+    {
+      "label": "Accès",
+      "value": "Adhésion à l'association ; inscription préalable obligatoire dès décembre 2008 ou janvier 2009",
+      "confidence": "confirme",
+      "sources": [
+        "s8",
+        "s10",
+        "s11"
+      ]
+    },
+    {
+      "label": "Site officiel",
+      "value": "lavieenrose.lu, dernière capture en octobre 2012, domaine non enregistré en 2026",
+      "confidence": "confirme",
+      "sources": [
+        "s13",
+        "s14"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "sauna-jacuzzi-2008",
+      "title": "Sauna, jacuzzi et coins câlins à Kayl : on y circulait en bikini, paréo ou serviette",
+      "icon": "spa",
+      "summary": "La page « Club » de 2008 listait sauna, jacuzzi, bar, buffet, salon, coins câlins et douches, sans surface ni nombre de niveaux ; une serviette était remise à l'entrée.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Un sauna libertin au Luxembourg ? La Vie en Rose en avait un, disparu avec le club. Sa page « Club » de 2008 énumérait réception et vestiaires, bar, buffet, salle, salon, coins câlins, douches, sauna et jacuzzi, sans surface ni nombre de niveaux."
+        },
+        {
+          "kind": "text",
+          "body": "On y circulait en sous-vêtements, bikini, paréo, peignoir ou serviette, fournie par le club ; le lundi « Découverte », la page « Dresscode » demandait une tenue sexy aux femmes et correcte aux hommes, quand la grille tarifaire parlait de « tenue libre ». Massages et pédicure se réservaient du lundi au jeudi. Les galeries photo des soirées 2007-2008 ne subsistent qu'en archives ; nous n'en reproduisons aucune."
+        }
+      ],
+      "sources": [
+        "s4",
+        "s6",
+        "s9",
+        "s10",
+        "s13",
+        "s19",
+        "s7"
+      ]
+    },
+    {
+      "id": "k-ress-messancy-belgique",
+      "title": "K-Ress à Messancy, côté belge : une soirée annoncée le 22 août 2026",
+      "icon": "globe",
+      "summary": "Seul club mixte à l'activité vérifiée par nos recherches : K-Ress, à Messancy (Belgique), annonçait une soirée le 22 août 2026 ; son fonds de commerce est à vendre.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Pour une soirée échangiste près de Kayl, la seule piste vérifiée passe la frontière belge. À Messancy, dans l'arrondissement d'Arlon, [le K-Ress, déjà présent dans notre annuaire](/k-ress-france), se présente comme le club libertin des « 3 Frontières »."
+        },
+        {
+          "kind": "text",
+          "body": "Son site, modifié le 8 août 2026, annonçait une soirée d'anniversaire le samedi 22 août 2026, de 20 h à 3 h."
+        },
+        {
+          "kind": "list",
+          "title": "La semaine type affichée par le club en 2026",
+          "items": [
+            "vendredi : après-midi de 12 h à 17 h, soirée de 20 h à 2 h, gang bang le troisième vendredi du mois ;",
+            "samedi : après-midi de 13 h à 17 h, soirée de 20 h à 3 h ;",
+            "premier mardi du mois : après-midi gang bang ;",
+            "tenue demandée : lingerie sexy."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Selon la page des tarifs, modifiée en janvier 2026, chacun prend d'abord une carte de membre à 30 € pour douze mois. L'entrée coûte ensuite de 20 € à 60 € pour un couple selon le créneau, de 10 € à 30 € pour une femme seule et de 70 € à 100 € pour un homme seul."
+        },
+        {
+          "kind": "text",
+          "body": "Le club décrit une maison sur deux niveaux : bar, piste de danse avec DJ, salle fumeurs, salon, buffet, douches et spa, plus un espace extérieur avec bar et grillades par beau temps. Le parking compte plus de 100 places."
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Un club à vendre",
+          "body": "Le patron part à la retraite : le fonds de commerce est en vente, et le club assure rester ouvert jusqu'à l'arrivée d'un repreneur. Tout ceci vient du seul site du club, sans avis ni publication extérieure vérifiés : consultez son agenda avant de passer la frontière."
+        }
+      ],
+      "sources": [
+        "s28",
+        "s29",
+        "s30",
+        "s31"
+      ]
+    },
+    {
+      "id": "dudelange-esch-thionville-2026",
+      "title": "Dudelange, Esch-sur-Alzette et la Moselle : six sites de clubs hors service en octobre 2026",
+      "icon": "map",
+      "summary": "Ni LUST à Dudelange ni QUAI 27 à Esch-sur-Alzette n'ont un site actif en octobre 2026 ; en Moselle, seul un sauna gay de Metz montre une activité datée.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Un annuaire en ligne spécialisé recense encore trois adresses au Luxembourg : La Vie en Rose, [LUST à Dudelange](/lust-france) et [QUAI 27 à Esch-sur-Alzette](/quai-27-france)."
+        },
+        {
+          "kind": "text",
+          "body": "En juin 2014, L'essentiel présentait déjà le Quai 27 comme le seul club échangiste du pays. Le 16 octobre 2026, le site de LUST se réduisait à une page de domaine peut-être à vendre, et celui de QUAI 27 ne répondait pas."
+        },
+        {
+          "kind": "text",
+          "body": "Aucune de ces adresses n'a donc pu être confirmée ouverte, et OpenStreetMap ne cartographie aucun club libertin au Grand-Duché."
+        },
+        {
+          "kind": "text",
+          "body": "Côté Moselle, les sites des clubs de notre annuaire testés le même jour ne font pas mieux : à Thionville, le site du Tiki Sauna est muet et le domaine du Club Liberty sert à un site sans rapport ; à Marly, celui du Labyrinthe renvoie vers une page de vente."
+        },
+        {
+          "kind": "text",
+          "body": "À Metz, le site de L'Intim n'affichait le 20 octobre 2026 qu'une page d'attente. Près de la gare, le Blue Club annonce bien une soirée Halloween le 30 octobre 2026, mais c'est un sauna gay réservé aux hommes."
+        },
+        {
+          "kind": "text",
+          "body": "Surveillez les clubs de [Thionville](/ville/thionville) ou de [toute la Moselle](/departement/moselle), et vérifiez chaque adresse avant de prendre la route."
+        },
+        {
+          "kind": "text",
+          "body": "Gleese, lancé fin 2024 et encore loin du volume des sites plus anciens, valide chaque inscrit par téléphone : de quoi [compter les profils frontaliers sans saisir de moyen de paiement](aff:gleese) avant de prévoir un déplacement."
+        },
+        {
+          "kind": "text",
+          "body": "Pour repérer, en Lorraine ou ailleurs en France, un club qui annonce une soirée à date fixe, [l'agenda des soirées que Wyylde recense club par club](aff:wyylde) se lit avec un compte gratuit ; ce compte ne permet pas, en revanche, de répondre aux messages reçus."
+        }
+      ],
+      "sources": [
+        "s15",
+        "s18",
+        "s21",
+        "s22",
+        "s23",
+        "s24",
+        "s25",
+        "s26",
+        "s32",
+        "s33"
+      ]
+    },
+    {
+      "id": "grille-tarifaire-2008",
+      "title": "150 € pour un homme seul, 50 € pour un couple : la grille de mai 2008",
+      "icon": "euro",
+      "summary": "En mai 2008, l'homme seul payait 150 € avec réservation, trois fois le prix d'un couple (50 €) ; un encadré annonçait 20 € et 80 € du lundi au jeudi.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "La grille de mai 2008, reprise dans l'encadré des horaires et tarifs, pesait surtout sur l'homme seul : 150 € réservé, **trois fois le prix d'un couple**, 180 € sans réservation, et aucun accès le samedi."
+        },
+        {
+          "kind": "text",
+          "body": "Au 1er janvier 2007, le couple était passé de 40 € à 50 €, l'homme seul de 125 € à 150 €. L'entrée incluait vestiaire, serviette et boissons."
+        },
+        {
+          "kind": "text",
+          "body": "Réserver supposait de confirmer par téléphone le jour même, après 18 h. L'inscription préalable devient obligatoire au 1er décembre 2008 ou au 1er janvier 2009, selon la langue du site ; à partir de 2009, on n'entrait plus après minuit."
+        },
+        {
+          "kind": "text",
+          "body": "Un encadré « Nouveau » de mai 2008 affichait pourtant 20 € pour un couple et 80 € pour un homme seul du lundi au jeudi, valables « jusqu'au mois d'avril » d'une année non précisée."
+        }
+      ],
+      "sources": [
+        "s6",
+        "s7",
+        "s10",
+        "s11"
+      ]
+    },
+    {
+      "id": "mercredi-gang-bang-jeudi-naturiste",
+      "title": "Mercredi Gang Bang, jeudi naturiste, soirée « Cuir » : le programme de 2002 à 2011",
+      "icon": "calendar",
+      "summary": "Mercredi Gang Bang puis soirée échangiste libre, jeudi naturiste dès décembre 2008, et onze soirées à thème au programme de 2009.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le mercredi « Gang Bang » de mai 2008 devient en décembre une soirée échangiste libre, et le jeudi mixte une soirée naturiste, à 200 € pour l'homme seul sans réservation."
+        },
+        {
+          "kind": "table",
+          "caption": "Soirées à thème annoncées sur le site officiel",
+          "headers": [
+            "Date",
+            "Soirée"
+          ],
+          "rows": [
+            [
+              "18 octobre 2002",
+              "Soirée spéciale avec spectacle et buffet"
+            ],
+            [
+              "9 mai 2008",
+              "« Nudiste »"
+            ],
+            [
+              "14 juin 2008",
+              "Bizarre (écrit « Bizarde » sur le site)"
+            ],
+            [
+              "12 juillet 2008",
+              "« Gang Bang »"
+            ],
+            [
+              "15 août 2008",
+              "« Surprise »"
+            ],
+            [
+              "13 septembre 2008",
+              "« Cuir »"
+            ],
+            [
+              "16 janvier 2009",
+              "Soirée bi"
+            ],
+            [
+              "13 février 2009",
+              "Soirée lesbienne"
+            ],
+            [
+              "14 mars 2009",
+              "Voyeurs et exhibitionnistes"
+            ],
+            [
+              "11 avril 2009",
+              "« Soirée à peloter »"
+            ],
+            [
+              "8 mai 2009",
+              "Nudistes"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "S'y ajoutaient des rendez-vous fixes : spectacle et buffet froid offert les 1er et 3e vendredis du mois en 2002, soirée lesbiennes et femmes bi chaque dernier mercredi en 2007. En 2011, l'association recrutait encore des bénévoles pour des soirées gangbang et SM."
+        }
+      ],
+      "sources": [
+        "s4",
+        "s6",
+        "s7",
+        "s9",
+        "s10",
+        "s11"
+      ]
+    },
+    {
+      "id": "asbl-reglement-1996",
+      "title": "Une a.s.b.l. échangiste et un règlement signé à Kayl le 4 mars 1996",
+      "icon": "history",
+      "summary": "Une association sans but lucratif tenait le club ; son règlement, signé le 4 mars 1996, imposait 18 ans révolus, préservatifs et tenue libertine.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le club appartenait à une association sans but lucratif, La Vie En Rose a.s.b.l., née selon son site de « la communauté échangiste au Luxembourg ». Chaque visiteur en devenait membre ; le comité pouvait retirer une carte sans se justifier."
+        },
+        {
+          "kind": "text",
+          "body": "Le règlement est signé « Kayl, le 4 mars 1996 », plus ancienne date connue du club, sans preuve que l'association soit née ce jour-là."
+        },
+        {
+          "kind": "text",
+          "body": "Le site, en ligne depuis 2001 au moins, parlait français, allemand et anglais, avec un avertissement d'entrée aussi en luxembourgeois et en portugais."
+        },
+        {
+          "kind": "text",
+          "body": "En 2011, l'association se disait « le premier Club luxembourgeois » de ce qu'elle appelait un nouvel art de vivre, revendication qu'aucune autre source ne confirme. Son code de conduite de 2002 mettait en avant la politesse, l'hygiène et le « non veut dire non »."
+        },
+        {
+          "kind": "list",
+          "title": "Ce que le règlement imposait aux membres",
+          "items": [
+            "18 ans révolus et préservatifs obligatoires ;",
+            "ni drogue ; pas de prostitution, ni dans les locaux ni à l'extérieur ;",
+            "tenue libertine, personnes ivres refusées ;",
+            "respect du voisinage, sans stationner devant l'immeuble."
+          ]
+        }
+      ],
+      "sources": [
+        "s1",
+        "s2",
+        "s5",
+        "s8",
+        "s10",
+        "s11",
+        "s12",
+        "s27"
+      ]
+    },
+    {
+      "id": "degat-des-eaux-2011",
+      "title": "Le dégât des eaux de 2011 et une fermeture « temporaire » restée sans suite",
+      "icon": "closed",
+      "summary": "Fermé en 2011 après un dégât des eaux : l'annonce d'une fermeture « temporaire » est restée inchangée jusqu'en juillet 2012, puis le site a disparu.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le site annonçait encore une soirée nudistes le 14 mai 2011. En septembre 2011 au plus tard, sa page d'accueil affichait un « Message important » signé « Le Conseil » : un gros dégât des eaux imposait de fermer temporairement et de rénover entièrement le club, sans date de réouverture."
+        },
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "31 mai 2011",
+              "text": "Dernière mise à jour (« Last Changed ») indiquée sur la page de l'annonce."
+            },
+            {
+              "date": "Septembre 2011",
+              "text": "L'annonce est archivée en allemand et en français."
+            },
+            {
+              "date": "Juillet 2012",
+              "text": "Le message est toujours en ligne, inchangé."
+            },
+            {
+              "date": "29 octobre 2012",
+              "text": "Dernière capture valide du site."
+            },
+            {
+              "date": "2013 à 2021",
+              "text": "Le domaine redirige vers un site de rencontres sans rapport avec le club."
+            },
+            {
+              "date": "16 octobre 2026",
+              "text": "lavieenrose.lu n'existe plus au registre luxembourgeois des domaines."
+            }
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Editus, l'annuaire luxembourgeois, ne connaît plus l'ancien numéro du club (56 09 66) ni aucune entreprise au 18, rue du Faubourg, et OpenStreetMap n'y signale aucun établissement ; l'adresse figure toujours au référentiel national."
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Les limites de notre vérification",
+          "body": "Nos recherches web d'octobre 2026 n'ont trouvé aucune activité du club après 2011. Le registre des associations, protégé par un captcha, et les réseaux sociaux n'ont pas été consultés : une reprise des locaux sous un autre nom n'est pas exclue."
+        }
+      ],
+      "sources": [
+        "s11",
+        "s12",
+        "s13",
+        "s14",
+        "s16",
+        "s17",
+        "s18",
+        "s26"
+      ]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Lundi (2008)": "21 h - 3 h, soirée « Découverte »",
+      "Mardi et dimanche (2008)": "21 h - 3 h, soirée mixte",
+      "Mercredi (2008)": "21 h - 3 h, « Gang Bang » en mai, soirée échangiste libre en décembre",
+      "Jeudi (2008)": "21 h - 3 h, mixte en mai, naturiste en décembre",
+      "Vendredi (2008)": "21 h - 5 h, soirée mixte",
+      "Samedi (2008)": "21 h - 5 h, soirée couples",
+      "Après-midi coquin (2008)": "Mardi et jeudi, 15 h - 20 h, sur réservation, 6 personnes minimum"
+    },
+    "note": "Programme publié en mai et en décembre 2008, donné à titre historique : le club est fermé depuis 2011. En 2002, il ouvrait tous les jours à partir de 20 h.",
+    "confidence": "confirme",
+    "sources": [
+      "s3",
+      "s7",
+      "s10"
+    ]
+  },
+  "tarifs": {
+    "rows": {
+      "Couple (2008)": "50 € avec réservation, 70 € sans",
+      "Femme seule (2008)": "20 € avec réservation, 40 € sans",
+      "Homme seul (2008)": "150 € avec réservation, 180 € sans ; pas admis le samedi",
+      "Trio mixte (2008)": "100 € avec réservation (120 € vendredi et samedi), 150 € sans",
+      "Lundi « Découverte » (2008)": "Couple 20 €, femme seule 10 €, homme seul 80 € avec réservation",
+      "Soirées spéciales (2008)": "Couple 50 €, femme seule 20 €, homme seul 180 €, trio 200 € avec réservation",
+      "Après-midi coquin (2008)": "Couple 20 €, femme seule 10 €, homme seul 80 € avec réservation"
+    },
+    "note": "Grille « à partir du 01/05/2008 » : vestiaire, serviette et boissons compris. Tarifs historiques, le club est fermé depuis 2011.",
+    "confidence": "confirme",
+    "sources": [
+      "s7",
+      "s10"
+    ]
+  },
+  "equipements": [
+    "Sauna",
+    "Jacuzzi",
+    "Bar",
+    "Buffet",
+    "Salon",
+    "Coins câlins",
+    "Douches",
+    "Vestiaires"
+  ],
+  "officialLinks": [
+    {
+      "label": "Site officiel archivé : l'annonce de fermeture (septembre 2011)",
+      "url": "https://web.archive.org/web/20110917031122/http://www.lavieenrose.lu:80/index.php?id=welcome&L=2",
+      "kind": "autre"
+    }
+  ],
+  "corrections": {
+    "adresse": "18, rue du Faubourg",
+    "code_postal": "L-3640",
+    "sources": [
+      "s2",
+      "s16"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Club libertin ou club échangiste au Luxembourg : en reste-t-il un d'ouvert ?",
+      "answer": "Au Grand-Duché, aucun n'a pu être confirmé en octobre 2026 : les deux autres adresses citées par un annuaire spécialisé, à Dudelange et à Esch-sur-Alzette, n'ont plus de site actif, et L'essentiel ne comptait déjà qu'un club échangiste dans le pays en 2014. Juste après la frontière belge, K-Ress, à Messancy, annonçait encore une soirée le 22 août 2026, mais son fonds de commerce est à vendre. Côté allemand, en Sarre ou autour de Trèves, nous n'avons rien vérifié."
+    },
+    {
+      "question": "Comment rencontrer d'autres libertins au Luxembourg sans club ouvert à proximité ?",
+      "answer": "Par les sites de rencontre, en sachant qu'ils sont français : le nombre de profils près de la frontière est à vérifier vous-même. Carré Libertin, ouvert en 2007, ne fait rien payer aux couples ni aux femmes seules : [son accès intégral, réservé aux profils avec trois photos](aff:carre-libertin), suffit pour sonder le secteur."
+    },
+    {
+      "question": "La Vie en Rose à Kayl a-t-elle rouvert après 2011 ?",
+      "answer": "Pas à notre connaissance : l'annonce de fermeture est restée figée jusqu'en juillet 2012, puis le site a disparu, et nos recherches web d'octobre 2026 n'ont trouvé aucune activité ultérieure. Le registre luxembourgeois des associations, non consulté, pourrait encore révéler une reprise sous un autre nom."
+    },
+    {
+      "question": "La Vie en Rose était-elle un sauna libertin ?",
+      "answer": "Non : c'était un club échangiste, doté en 2008 d'un sauna et d'un jacuzzi, fermés avec lui en 2011. Notre [liste des saunas libertins](/sauna-libertin) couvre la France ; vérifiez-y l'activité récente de chaque lieu."
+    }
+  ],
+  "unverified": [
+    "Une réouverture après 2011, sous ce nom ou un autre, au 18, rue du Faubourg : dix recherches web du 19 octobre 2026 n'en montrent aucune trace, et L'essentiel ne cite en 2014 que le Quai 27 ; Facebook et les archives du Luxemburger Wort ou du Tageblatt n'ont pas été consultés directement.",
+    "La date de création et la situation actuelle de La Vie En Rose a.s.b.l. : le registre luxembourgeois des associations n'a pas pu être consulté.",
+    "La surface, le nombre de niveaux et la capacité du club.",
+    "Le tarif réellement appliqué en semaine en 2008 : 20 € et 80 € selon l'encadré « Nouveau », 50 € et 150 € selon la grille.",
+    "La revendication de « premier club luxembourgeois », que seul le club avance.",
+    "L'activité en 2026 de LUST (Dudelange) et de QUAI 27 (Esch-sur-Alzette), dont les sites ne fonctionnent plus.",
+    "L'activité de K-Ress (Messancy) après août 2026 et l'issue de la vente de son fonds de commerce : seul le site du club en parle.",
+    "L'existence de clubs ouverts côté allemand, en Sarre ou autour de Trèves : nos recherches d'octobre 2026 ne les ont pas couverts."
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Site officiel lavieenrose.lu, page d'accueil (archive du 29/11/2002)",
+      "url": "https://web.archive.org/web/20021129140119/http://www.lavieenrose.lu:80/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s2",
+      "label": "Site officiel, « Qui sommes-nous ? » (archive du 13/12/2002)",
+      "url": "https://web.archive.org/web/20021213230524/http://www.lavieenrose.lu:80/intro_fr.htm",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s3",
+      "label": "Site officiel, « Heures d'ouverture » (archive du 14/12/2002)",
+      "url": "https://web.archive.org/web/20021214081756/http://www.lavieenrose.lu:80/open_hours_fr.htm",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s4",
+      "label": "Site officiel, « Calendrier des événements » (archive du 24/10/2002)",
+      "url": "https://web.archive.org/web/20021024214658/http://www.lavieenrose.lu:80/calendar_fr.htm",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s5",
+      "label": "Site officiel, code de conduite échangiste (archive du 14/12/2002)",
+      "url": "https://web.archive.org/web/20021214080122/http://www.lavieenrose.lu:80/etiqette_fr.htm",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s6",
+      "label": "Site officiel, pages tarif, présentation, accès et soirées (archives de janvier et février 2007)",
+      "url": "https://web.archive.org/web/20070110114847/http://www.lavieenrose.lu:80/page44a.html",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s7",
+      "label": "Site officiel, « Ouvertures & Tarifs » à partir du 01/05/2008 (archive du 01/05/2008)",
+      "url": "https://web.archive.org/web/20080501172449/http://www.lavieenrose.lu:80/html/Tarif_fr.htm",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s8",
+      "label": "Site officiel, « Règlement » daté du 4 mars 1996 (archive du 01/05/2008)",
+      "url": "https://web.archive.org/web/20080501172444/http://www.lavieenrose.lu:80/html/Reglement_fr.htm",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s9",
+      "label": "Site officiel, pages « Club », « Dresscode », « Events », « Contacts » et « Services » (archives de mai et août 2008)",
+      "url": "https://web.archive.org/web/20080501172405/http://www.lavieenrose.lu:80/html/Club.htm",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s10",
+      "label": "Site officiel, version allemande : accueil, prix, règlement, programme 2009, services (archives du 22/12/2008)",
+      "url": "https://web.archive.org/web/20081222162015/http://www.lavieenrose.lu:80/index.php?id=price",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s11",
+      "label": "Site officiel, « Bienvenu » (archive du 09/05/2011, page modifiée le 13/04/2011)",
+      "url": "https://web.archive.org/web/20110509002700/http://www.lavieenrose.lu:80/index.php?id=welcome&L=2",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s12",
+      "label": "Site officiel, annonce de fermeture pour dégât des eaux (archives du 16/09/2011 au 12/07/2012)",
+      "url": "https://web.archive.org/web/20110917031122/http://www.lavieenrose.lu:80/index.php?id=welcome&L=2",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s13",
+      "label": "Internet Archive, historique des captures de lavieenrose.lu (2002-2021)",
+      "url": "https://web.archive.org/cdx/search/cdx?url=lavieenrose.lu&matchType=domain&fl=timestamp,statuscode,original&collapse=timestamp:6",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s14",
+      "label": "Registre DNS-LU (whois) et test de connexion : lavieenrose.lu inexistant",
+      "url": "https://www.dns.lu/",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s15",
+      "label": "sauna-club-libertin.com, fiche « La Vie en Rose » et liste Luxembourg (annuaire, source faible)",
+      "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_2.php?d=luxembourg",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s16",
+      "label": "Géoportail national du Luxembourg, géocodage du 18, rue du Faubourg à Kayl",
+      "url": "https://apiv3.geoportail.lu/geocode/search?queryString=18%20rue%20du%20Faubourg%20Kayl",
+      "type": "carte",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s17",
+      "label": "Editus.lu, recherches sur le 56 09 66 et le 18, rue du Faubourg à Kayl",
+      "url": "https://www.editus.lu/fr/recherche?q=560966",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s18",
+      "label": "OpenStreetMap (Overpass), lieux autour du 18, rue du Faubourg et clubs libertins au Luxembourg",
+      "url": "https://www.openstreetmap.org/#map=18/49.48451/6.03861",
+      "type": "carte",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s19",
+      "label": "Site officiel, liste des albums photo des soirées (archive du 03/05/2008)",
+      "url": "https://web.archive.org/web/20080503101828/http://www.lavieenrose.lu:80/Gallery/albums.php?set_albumListPage=3",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s21",
+      "label": "Test du site de LUST (Dudelange) : page de domaine à vendre",
+      "url": "http://www.lust-dudelange.com",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s22",
+      "label": "Test du site de QUAI 27 (Esch-sur-Alzette) : aucune réponse",
+      "url": "http://www.quai27.com",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s23",
+      "label": "Test du site du Labyrinthe (Marly) : redirection vers une page de vente du domaine",
+      "url": "https://www.le-labyrinthe.com/",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s24",
+      "label": "Test du site du Club Liberty (Thionville) : domaine repris par un site sans rapport (lien vers l'historique d'archives du domaine)",
+      "url": "https://web.archive.org/web/*/libertythionville.com",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s25",
+      "label": "Test du site du Tiki Sauna (Thionville) : aucune réponse",
+      "url": "http://www.tiki-sauna.com",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s26",
+      "label": "L'essentiel, reportage « Libertinage au Luxembourg » au Quai 27 d'Esch-sur-Alzette (24/06/2014)",
+      "url": "https://www.lessentiel.lu/fr/story/lechangisme-c-est-notre-cerise-sur-le-gateau-320994601378",
+      "type": "presse",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s27",
+      "label": "Site officiel, page d'entrée avec avertissement en cinq langues (archive du 17/10/2012)",
+      "url": "https://web.archive.org/web/20121017125609/http://www.lavieenrose.lu:80/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s28",
+      "label": "K-Ress (Messancy, Belgique), site officiel : accueil et page « Events » (soirée du 22/08/2026, club en vente)",
+      "url": "https://www.k-ress.com/events/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s29",
+      "label": "K-Ress, site officiel : « Tarifs du Cercle » (page modifiée le 11/01/2026)",
+      "url": "https://www.k-ress.com/tarifs/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s30",
+      "label": "K-Ress, dates de modification des pages publiées par le site (accueil et « Events » le 08/08/2026)",
+      "url": "https://www.k-ress.com/wp-json/wp/v2/pages?per_page=50&_fields=id,slug,modified,link",
+      "type": "autre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s31",
+      "label": "OpenStreetMap (Nominatim) : Messancy, arrondissement d'Arlon, province de Luxembourg (Belgique)",
+      "url": "https://nominatim.openstreetmap.org/search?city=Messancy&country=Belgium&format=json&addressdetails=1",
+      "type": "carte",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s32",
+      "label": "Sauna Blue Club (Metz), site officiel : soirée Halloween du 30/10/2026, accès réservé aux hommes",
+      "url": "https://www.saunablueclub.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s33",
+      "label": "Test du site de L'Intim (Metz) : page « Coming Soon »",
+      "url": "http://lintim57.fr",
+      "type": "autre",
+      "consulted": "2026-10-20"
+    }
+  ],
+  "glance": [
+    {
+      "icon": "closed",
+      "label": "Fermé",
+      "value": "Depuis 2011, après un dégât des eaux"
+    },
+    {
+      "icon": "history",
+      "label": "Plus ancienne trace",
+      "value": "Règlement signé à Kayl le 4 mars 1996",
+      "confidence": "source_unique"
+    },
+    {
+      "icon": "map",
+      "label": "Adresse",
+      "value": "18, rue du Faubourg, L-3640 Kayl"
+    },
+    {
+      "icon": "euro",
+      "label": "Entrée en 2008",
+      "value": "Couple 50 € · homme seul 150 € (réservé)"
+    },
+    {
+      "icon": "spa",
+      "label": "Espaces en 2008",
+      "value": "Sauna, jacuzzi, bar, coins câlins",
+      "confidence": "source_unique"
+    },
+    {
+      "icon": "globe",
+      "label": "Club ouvert vérifié",
+      "value": "K-Ress à Messancy (Belgique), août 2026"
+    }
+  ],
+  "audience": [
+    {
+      "who": "couples",
+      "status": "oui",
+      "detail": "En 2008, tous les soirs ; le samedi était la soirée « Couples »",
+      "price": "50 €"
+    },
+    {
+      "who": "femmes",
+      "status": "oui",
+      "detail": "En 2008, tous les soirs ; en nombre limité le samedi",
+      "price": "20 €"
+    },
+    {
+      "who": "hommes",
+      "status": "selon",
+      "detail": "En 2008, admis en semaine, souvent en nombre limité ; pas de tarif le samedi",
+      "price": "150 à 180 €"
+    }
+  ],
+  "highlights": [
+    "Le club du 18, rue du Faubourg à Kayl est fermé depuis 2011 : son site, figé sur l'annonce du dégât des eaux, a disparu après octobre 2012.",
+    "Annoncée « temporaire », la fermeture n'a jamais été levée : le message est resté inchangé de septembre 2011 à juillet 2012, sans date de retour.",
+    "L'ancien 56 09 66 n'est plus attribué selon Editus, et le domaine lavieenrose.lu n'existe plus en octobre 2026 : aucun moyen de joindre le club.",
+    "LUST (Dudelange) et QUAI 27 (Esch-sur-Alzette) n'ont plus de site actif ; côté belge, K-Ress à Messancy annonçait une soirée le 22 août 2026.",
+    "Horaires et tarifs de cette page datent de 2008 : ils décrivent l'ancien club et ne valent pas pour un autre établissement."
+  ]
+}
