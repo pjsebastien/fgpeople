@@ -1,0 +1,32 @@
+{
+  "id": "new-altromondo-rixheim",
+  "nom": "Altromondo",
+  "type": "club libertin (lifestyle club) avec espace extérieur et piscine",
+  "types_normalises": ["Club", "Spa & Wellness"],
+  "adresse": "10 rue des Artisans",
+  "code_postal": "68170",
+  "ville": "Rixheim",
+  "departement_code": "68",
+  "departement_nom": "Haut-Rhin",
+  "region": "Grand Est",
+  "pays": "France",
+  "telephone": "0677385557",
+  "email": "info@altromondo.fr",
+  "site_web": "https://altromondo.fr/",
+  "equipements": [
+    "700 m² intérieurs et 1 000 m² extérieurs",
+    "13 espaces thématiques (coins câlins)",
+    "Piste de danse avec DJ",
+    "Bar",
+    "Buffet et repas chaud inclus dans l'entrée",
+    "Piscine chauffée (en saison)",
+    "Tipis extérieurs et transats",
+    "Grand bar extérieur",
+    "Arène à mousse (en saison)",
+    "Sauna",
+    "Jacuzzi",
+    "Parking privé de 16 places"
+  ],
+  "verification": { "status": "actif" },
+  "addedAt": "2026-10-20"
+}

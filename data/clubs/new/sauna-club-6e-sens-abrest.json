@@ -1,0 +1,31 @@
+{
+  "id": "new-sauna-club-6e-sens-abrest",
+  "nom": "Sauna Club 6e Sens",
+  "type": "sauna gay exclusivement masculin",
+  "types_normalises": ["Sauna", "Spa & Wellness", "Bar", "Gay friendly"],
+  "adresse": "164 avenue des Graviers",
+  "code_postal": "03200",
+  "ville": "Abrest",
+  "departement_code": "03",
+  "departement_nom": "Allier",
+  "region": "Auvergne-Rhône-Alpes",
+  "pays": "France",
+  "telephone": "0470328938",
+  "email": "",
+  "site_web": "https://6sens-sauna.com/",
+  "equipements": [
+    "Hammam à gradins (environ 15 places) avec douche froide",
+    "Sauna sec (au moins 10 places)",
+    "Jacuzzi 6 places",
+    "Bar sans alcool (boissons chaudes et fraîches, en-cas, glaces)",
+    "Salle vidéo",
+    "Cabines",
+    "Labyrinthe",
+    "Sling",
+    "Vestiaire de 37 casiers",
+    "Cabine fumeur (4 personnes)",
+    "Vitrine de gadgets sexuels"
+  ],
+  "verification": { "status": "actif" },
+  "addedAt": "2026-10-20"
+}

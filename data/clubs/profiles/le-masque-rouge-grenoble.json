@@ -1,0 +1,465 @@
+{
+  "slug": "le-masque-rouge-grenoble",
+  "clubId": "15342",
+  "researchedAt": "2026-10-21",
+  "display": { "nom": "Le Masque Rouge", "ville": "Grenoble" },
+  "status": {
+    "value": "ferme",
+    "summary": "Liquidation judiciaire prononcée le 26 juillet 2016 contre la SARL Les 2 Bergers, qui exploitait le club ; un billet « CLUB FERMER », en ligne sur le site au plus tard le 20 septembre 2016, a confirmé la fermeture décidée par les gérants. La procédure a été close pour insuffisance d'actif le 11 juillet 2017, et le domaine masquerouge.fr n'existe plus en octobre 2026.",
+    "sources": ["s26", "s1", "s2", "s28", "s20"]
+  },
+  "seo": {
+    "title": "Le Masque Rouge à Grenoble : sauna libertin fermé en 2016",
+    "metaDescription": "Deux jacuzzis de dix places, un hammam et des gang bangs l'après-midi : Le Masque Rouge, sauna-club libertin de la rue des Bergers, a fermé à l'été 2016.",
+    "subtitle": "Ancien sauna-club libertin et naturiste de 300 m², rue des Bergers à Grenoble (2013-2016)",
+    "targetQueries": [
+      "club libertin grenoble",
+      "club echangiste grenoble",
+      "libertine grenoble",
+      "sauna libertin grenoble",
+      "libertines grenoble",
+      "libertin grenoble",
+      "libertinage grenoble",
+      "rencontre libertine grenoble",
+      "echangiste grenoble",
+      "bar libertin grenoble",
+      "club libertain grenoble",
+      "masque rouge grenoble"
+    ]
+  },
+  "lead": "Le Masque Rouge a fermé à l'été 2016 : la SARL qui l'exploitait a été placée en liquidation judiciaire le 26 juillet, et le site du club a annoncé la fermeture décidée par ses gérants. Lancé fin 2013, ce sauna-club libertin et naturiste de 300 m² comptait deux jacuzzis de dix places, un hammam et un sauna ; il programmait des gang bangs, le soir puis l'après-midi, et n'admettait le samedi soir qu'un homme seul pour deux couples.",
+  "glance": [
+    { "icon": "closed", "label": "Fermé", "value": "Depuis l'été 2016 (liquidation le 26/07)" },
+    { "icon": "history", "label": "Période d'activité", "value": "Novembre 2013 – été 2016" },
+    { "icon": "spa", "label": "Espaces (site officiel)", "value": "300 m², 2 jacuzzis de 10 places, hammam" },
+    { "icon": "euro", "label": "Dernière grille (2016)", "value": "Couple 10-15 € · homme 25-55 € · femme 0 €" },
+    { "icon": "users", "label": "Samedi soir", "value": "Un homme seul pour deux couples" },
+    { "icon": "map", "label": "Ouvert le plus proche", "value": "Les Dunes 38, rue Nicolas-Chorier (450 m)" }
+  ],
+  "audience": [
+    { "who": "couples", "status": "oui", "detail": "Tous les jours (grille 2016) ; jeudi soir réservé aux couples en décembre 2013", "price": "10 à 15 €" },
+    { "who": "femmes", "status": "oui", "detail": "Tous les jours ; entrée offerte de 2014 à 2016, 10 € fin 2013", "price": "0 €" },
+    { "who": "hommes", "status": "selon", "detail": "Selon le nombre de couples présents ; samedi soir : un homme pour deux couples", "price": "25 à 55 €" }
+  ],
+  "highlights": [
+    "Fermé depuis l'été 2016 : des annuaires le donnent encore ouvert « toute l'année », ou affichent sa grille horaire de juin 2016 comme actuelle.",
+    "Le domaine masquerouge.fr n'est plus celui du club depuis 2017 : il a renvoyé vers des sites de rencontres jusqu'en mars 2025.",
+    "Les Dunes, à 450 m rue Nicolas-Chorier, ouvre en mixte tous les jours au 21 octobre 2026 ; soirée couple à 25 €, 45 € le samedi.",
+    "L'ancien Oxygène, rue Mallifaud, s'appelle Sun7 depuis 2019 : gay du lundi au jeudi, mixte du vendredi au dimanche, carte bancaire refusée."
+  ],
+  "keyFacts": [
+    { "label": "Exploitant", "value": "SARL Les 2 Bergers (SIREN 798 502 928), enseigne « Masque Rouge »", "confidence": "confirme", "sources": ["s21", "s22", "s26"] },
+    { "label": "Début d'activité", "value": "12 novembre 2013 ; site en ligne au plus tard le 23 décembre", "confidence": "confirme", "sources": ["s22", "s4", "s18"] },
+    { "label": "Fermeture", "value": "Liquidation judiciaire le 26 juillet 2016, close le 11 juillet 2017", "confidence": "confirme", "sources": ["s26", "s28", "s1"] },
+    { "label": "Dernière activité datée", "value": "Après-midi gang bang du lundi 23 mai 2016", "confidence": "source_unique", "sources": ["s3"] },
+    { "label": "Type de lieu", "value": "Sauna-club libertin et naturiste, réservé aux majeurs", "confidence": "source_unique", "sources": ["s4", "s10"] },
+    { "label": "Surface et bassins", "value": "300 m², deux jacuzzis de dix personnes, hammam, sauna", "confidence": "source_unique", "sources": ["s4", "s10"] },
+    { "label": "Public admis", "value": "Couples et femmes seules ; hommes seuls selon le nombre de couples", "confidence": "source_unique", "sources": ["s11", "s9"] },
+    { "label": "Adresse", "value": "4 rue des Bergers, 38000 Grenoble", "confidence": "confirme", "sources": ["s12", "s21"] }
+  ],
+  "sections": [
+    {
+      "id": "jacuzzis-hammam-sauna",
+      "title": "Deux jacuzzis de dix places, un hammam, un sauna et un coin SM sur 300 m²",
+      "icon": "spa",
+      "summary": "Selon son site (2013-2016), le club réunissait sur 300 m² deux jacuzzis de dix personnes, un hammam, un sauna, un bar et des coins câlins, dont une chambre miroir et un coin SM.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le Masque Rouge se présentait comme un « club libertin et naturiste » réservé aux majeurs, sous l'intitulé « Sauna Club Libertin Grenoble ». Sa description des lieux a peu changé de décembre 2013 à 2016. Aucune source extérieure ne la recoupe, et les photos du site n'ont pas été examinées."
+        },
+        {
+          "kind": "table",
+          "caption": "Espaces décrits par le site officiel",
+          "headers": ["Espace", "2013-2015", "2016"],
+          "rows": [
+            ["Jacuzzis", "Deux, « de dix personnes »", "Inchangé"],
+            ["Hammam, sauna, salle de repos", "Oui", "Oui"],
+            ["Bar", "« Sans alcool en semaine »", "Mention retirée"],
+            ["Chambre miroir, coin SM, chambre king size, chambre couple", "Oui", "Oui"],
+            ["Chambre noire", "Oui", "Plus citée"],
+            ["Lit exhibe", "Non cité", "Ajouté"]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le bar entretenait une ambiguïté : sa mention « sans alcool en semaine » côtoyait, dès décembre 2013, une carte à 5 € la bière et 8 € la coupe, sans que le site précise quand l'alcool était servi. La carte de 2016 ajoutait une Desperados à 8 € et une coupe de champagne rosé à 10 €."
+        },
+        {
+          "kind": "text",
+          "body": "En janvier 2014, deux visiteurs notaient dans le livre d'or du site que le bar ne servait pas d'alcool, faute de licence. Le registre n'enregistre un « débit de boissons (licence IV) » qu'en février 2015, alors que l'accueil affichait encore le bar « sans alcool en semaine » en novembre 2015."
+        },
+        {
+          "kind": "text",
+          "body": "Jusqu'en 2015, le site promettait des peignoirs ou des serviettes remis gratuitement à l'entrée, et une ouverture « toute l'année, même les jours fériés ». Le vestiaire avait son propre album dans la visite en ligne du club."
+        }
+      ],
+      "sources": ["s4", "s5", "s10", "s6", "s9", "s13", "s42", "s23"]
+    },
+    {
+      "id": "liquidation-juillet-2016",
+      "title": "Liquidé le 26 juillet 2016, deux mois après le dernier après-midi annoncé, le 23 mai",
+      "icon": "closed",
+      "summary": "Dernier rendez-vous daté le 23 mai 2016, cessation des paiements fixée au 31 mai, liquidation le 26 juillet ; les gérants ont évoqué des raisons personnelles.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le dernier événement daté du site est un après-midi gang bang, le lundi 23 mai 2016, de 14 h à 19 h. Le jugement du 26 juillet 2016 qui a ouvert la liquidation judiciaire de la SARL Les 2 Bergers, exploitante sous l'enseigne « Masque Rouge », a fixé sa cessation des paiements au 31 mai, huit jours plus tard."
+        },
+        {
+          "kind": "text",
+          "body": "Le livre d'or du site, qui avait reçu dix messages en avril 2016, n'en publie plus aucun après le 25 mai."
+        },
+        {
+          "kind": "text",
+          "body": "Sur le site, un billet titré « CLUB FERMER », absent de l'accueil le 26 mai, était en ligne au plus tard le 20 septembre. Les gérants y expliquaient avoir décidé la fermeture « en raison de soucis personnel » et remerciaient leurs clients. Un billet « FERMETURE EXEPTIONNELLE » l'avait précédé ; son contenu n'a jamais été archivé."
+        },
+        {
+          "kind": "text",
+          "body": "Visible le 15 octobre 2016, un dernier billet, « Invitation… », conviait le soir même à une soirée naturiste « 100% couple » dans un « restaurant au Nord » (texte coupé) : rien n'y annonce une réouverture ni une soirée rue des Bergers."
+        },
+        {
+          "kind": "timeline",
+          "items": [
+            { "date": "Novembre 2016", "text": "Dernière capture du site du club par la Wayback Machine." },
+            { "date": "22 mars 2017", "text": "Dépôt de l'état des créances de la liquidation." },
+            { "date": "11 juillet 2017", "text": "Clôture de la liquidation pour insuffisance d'actif." },
+            { "date": "2017 – 2025", "text": "masquerouge.fr renvoie vers un site sans rapport, puis vers des sites de rencontres." },
+            { "date": "Octobre 2026", "text": "Le domaine n'est plus enregistré auprès de l'Afnic ; des annuaires présentent pourtant toujours le club comme ouvert, l'un avec ses horaires de juin 2016." }
+          ]
+        },
+        {
+          "kind": "callout",
+          "tone": "info",
+          "title": "Active pour Sirene, radiée selon societe.com",
+          "body": "Le répertoire Sirene affiche encore la SARL comme active en octobre 2026, alors que le site societe.com, qui reprend les annonces légales, la donne radiée depuis la clôture du 11 juillet 2017. Ce statut « actif » ne traduit aucune activité."
+        }
+      ],
+      "sources": ["s3", "s44", "s1", "s2", "s26", "s27", "s28", "s18", "s19", "s20", "s29", "s47", "s21", "s45"]
+    },
+    {
+      "id": "les-dunes-sun7-grenoble",
+      "title": "Les Dunes à 450 mètres, Sun7 rue Mallifaud : deux saunas libertins actifs à Grenoble",
+      "icon": "map",
+      "summary": "Au 21 octobre 2026, Les Dunes, rue Nicolas-Chorier, affiche un programme mixte daté ; l'ancien Oxygène, repris en 2019 sous le nom Sun7, est mixte du vendredi au dimanche.",
+      "blocks": [
+        {
+          "kind": "table",
+          "caption": "Sites officiels consultés le 21 octobre 2026 ; distances à vol d'oiseau depuis la rue des Bergers",
+          "headers": ["Lieu", "Distance", "Qui, quand", "Entrée"],
+          "rows": [
+            ["[Les Dunes 38](/les-dunes-38-grenoble), rue Nicolas-Chorier", "450 m", "Mixte tous les jours dès 13 h ou 13 h 30 (14 h le week-end) ; soirées le mardi, le jeudi (sans interruption jusqu'à 1 h), le vendredi et le samedi", "Soirée : couple 25 € (45 € le samedi), homme seul 32 à 55 €, femme offerte"],
+            ["[Sun7, l'ancien Oxygène](/oxygene-grenoble), rue Mallifaud", "1,3 km", "Gay et gay friendly du lundi au jeudi ; mixte et libertin le vendredi (14 h – minuit), le samedi (14 h – 19 h) et le dimanche (14 h – 20 h)", "Week-end : 23 € le couple ou l'homme seul, femme invitée, 10 € avant 25 ans"]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Les Dunes annonçait des après-midi et des soirées mixtes datés du 20 au 23 octobre 2026, dont un jeudi à une entrée offerte pour une achetée, sur présentation du flyer. Le samedi soir, les hommes seuls y entrent « en nombre limité », règle voisine du quota d'un homme pour deux couples qu'appliquait le Masque Rouge."
+        },
+        {
+          "kind": "text",
+          "body": "Le club a aussi publié, en septembre puis en octobre 2026, plusieurs annonces de « soirée couples », sous forme d'affiches, à consulter dans la rubrique Actualités de son site. Un couple qui découvrirait Les Dunes à cette occasion peut [inviter un couple de la cuvette grenobloise à l'une de ces soirées](aff:carre-libertin), en le cherchant parmi les plus de 500 000 inscrits que revendique Carré Libertin."
+        },
+        {
+          "kind": "text",
+          "body": "Rue Mallifaud, la société Sun7 Sauna a racheté début 2019, pour 19 000 €, le fonds de commerce de l'Oxygène, dont elle garde le numéro de téléphone. Son site, mis à jour le 16 octobre 2026, annonce une soirée « Reconnexion » le 14 novembre et prévient que la carte bancaire n'est pas acceptée."
+        },
+        {
+          "kind": "text",
+          "body": "Le Rhodes, rue Gabriel-Péri, reste sans activité vérifiée : son site répond par une erreur 404. Ces trois adresses figurent sur la page des [lieux libertins de Grenoble](/ville/grenoble)."
+        }
+      ],
+      "sources": ["s48", "s49", "s50", "s52", "s53", "s54", "s55", "s56", "s34"]
+    },
+    {
+      "id": "sauna-libertin-autour-de-grenoble",
+      "title": "Le Sunbeach de Chambéry à 45 km, les jeudis gang bang du Diamant à Lyon",
+      "icon": "car",
+      "summary": "Hors de Grenoble, le Sunbeach (Chambéry), La Plume du Phénix (Valence) et Le Diamant (Lyon) avaient une activité vérifiée sur leurs sites officiels le 20 octobre 2026.",
+      "blocks": [
+        {
+          "kind": "table",
+          "caption": "Sites officiels consultés le 20 octobre 2026 ; distances à vol d'oiseau depuis la rue des Bergers",
+          "headers": ["Lieu", "Distance", "Ce qu'annonce son site"],
+          "rows": [
+            ["[Sunbeach Club](/le-sunbeach-club-chambery), Chambéry", "45 km", "Tous les jours dès 13 h (13 h 30 le dimanche), jusqu'à 20 h ou 22 h ; 20 € l'entrée, 10 € avant 26 ans"],
+            ["[La Plume du Phénix](/la-plume-du-phenix-valence), Valence", "71 km", "Club mixte le vendredi et le samedi, de 21 h à 2 h ; 50 € le couple"],
+            ["[Le Diamant](/le-diamant-lyon), Lyon 5e", "95 km", "Gang bang chaque jeudi de 21 h à 1 h, gratuit pour les couples, 70 € l'homme seul"]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le Sunbeach réunit des équipements comparables à ceux du Masque Rouge : ce « sauna libertin » mixte décrivait fin 2025 un spa à débordement pour dix personnes, un sauna finlandais et un hammam. Les gang bangs, eux, se retrouvent chaque jeudi soir au Diamant."
+        },
+        {
+          "kind": "text",
+          "body": "Les autres lieux du département sont réunis parmi [les adresses de l'Isère](/departement/isere) : téléphonez avant de vous déplacer."
+        }
+      ],
+      "sources": ["s36", "s37", "s38", "s39", "s40", "s41", "s35"]
+    },
+    {
+      "id": "un-homme-seul-pour-deux-couples",
+      "title": "Un homme seul pour deux couples le samedi soir, le jeudi soir aux couples fin 2013",
+      "icon": "users",
+      "summary": "L'entrée d'un homme seul dépendait du nombre de couples présents ; le samedi soir, d'avril 2014 à juin 2016, la règle était d'un homme seul pour deux couples.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le règlement intérieur, identique en 2013 et en 2016, subordonnait l'entrée d'un homme seul au nombre de couples présents à son arrivée. Il lui rappelait que l'initiative revenait aux couples et aux femmes seules, et exigeait un comportement irréprochable, sous peine d'exclusion définitive."
+        },
+        {
+          "kind": "text",
+          "body": "Les grilles ont chiffré la règle : « un homme seul pour deux couples » le samedi soir, d'avril 2014 à juin 2016. En décembre 2013, le jeudi soir, de 21 h à 3 h avec buffet, était réservé aux couples ; en avril 2014, le jeudi était devenu une journée mixte sans interruption jusqu'à 2 h."
+        },
+        {
+          "kind": "list",
+          "title": "Autres règles affichées par le club",
+          "items": [
+            "Préservatif de rigueur : la charte invite à laisser tomber ses tabous, « mais jamais les préservatifs ».",
+            "Prostitution et escorting interdits.",
+            "Vidéosurveillance, consultable par le responsable et, au besoin, par les autorités.",
+            "Tenue « exclusivement naturiste » dans l'espace spa, rappelée pour la soirée LGBT d'avril 2016."
+          ]
+        }
+      ],
+      "sources": ["s11", "s6", "s7", "s8", "s9", "s14"]
+    },
+    {
+      "id": "livre-d-or-pannes-2016",
+      "title": "Jacuzzis et hammam en panne au printemps 2016, d'après le livre d'or du club",
+      "icon": "star",
+      "summary": "Six messages du livre d'or, du 26 février au 22 avril 2016, signalent jacuzzis ou hammam en panne ; les autres saluent surtout l'accueil, le décor et la propreté.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Une recherche menée le 21 octobre 2026 n'a fait remonter ni avis Google, Facebook ou de forum lisible, ni article de la presse locale sur le club."
+        },
+        {
+          "kind": "text",
+          "body": "La seule parole de clients disponible est le livre d'or du site, dont le club modérait les messages : ce ne sont pas des avis indépendants. Les archives en conservent un peu plus de 90, du 30 décembre 2013 au 25 mai 2016."
+        },
+        {
+          "kind": "list",
+          "items": [
+            "**Sur l'ensemble des messages** : l'accueil, le décor et la propreté sont les compliments les plus fréquents.",
+            "**Novembre 2014** : un visiteur juge le club « pas très commercial avec les hommes seuls », quand un couple espère au contraire qu'il en limite le nombre.",
+            "**Février 2015** : un visiteur regrette déjà un hammam hors service.",
+            "**26 février – 22 avril 2016** : six messages signalent les jacuzzis ou le hammam en panne, l'un « depuis des mois » ; le club s'excuse et promet des réparations, et un message du 1er mai trouve le jacuzzi réparé.",
+            "**Début avril 2016** : deux messages réclament de la bière, en rupture deux jours selon le club."
+          ]
+        }
+      ],
+      "sources": ["s42", "s43", "s44"]
+    },
+    {
+      "id": "tarifs-2013-2015",
+      "title": "75 € le samedi soir pour un homme seul en 2013, entrée gratuite des couples en avril 2014",
+      "icon": "euro",
+      "summary": "Avant la grille de juin 2016, l'homme seul a payé jusqu'à 75 € le samedi soir ; les couples, facturés 15 € fin 2013, entraient gratuitement en avril 2014.",
+      "blocks": [
+        {
+          "kind": "table",
+          "caption": "Grilles archivées du site officiel ; celle de juin 2016 figure dans l'encadré des horaires et tarifs",
+          "headers": ["Entrée", "Décembre 2013", "Avril 2014", "Mars 2015"],
+          "rows": [
+            ["Homme seul, journée", "23 € (25 € le lundi)", "23 € (25 € le lundi)", "24 €"],
+            ["Homme seul, soir de semaine", "Pas de soirée ouverte (jeudi : couples)", "30 € après 19 h (mar., mer., jeu.)", "30 € après 19 h (mar., mer., jeu.)"],
+            ["Homme seul, vendredi soir", "55 €", "55 €", "55 €"],
+            ["Homme seul, samedi soir", "75 €", "75 €", "55 €"],
+            ["Couple", "15 € ; samedi soir gratuit", "Gratuit tous les jours", "10 € l'après-midi, 15 € le soir"],
+            ["Femme seule", "10 €", "Gratuit", "Gratuit"],
+            ["Promotion dès 18 h", "8 € par personne", "10 € (lun., ven., sam., dim.)", "10 € (lun., ven., sam., dim.)"],
+            ["Fin des soirées", "3 h", "2 h", "2 h"]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le samedi soir, l'homme seul est passé de 75 € à 55 € en 2015, montant inchangé en 2016. Les couples ont connu trois régimes : 15 € fin 2013, la gratuité en avril 2014, puis 10 € l'après-midi et 15 € le soir, deux consommations comprises."
+        },
+        {
+          "kind": "text",
+          "body": "Une soirée couple du jeudi à 50 €, annoncée pour février 2014, ne figure plus dans la grille d'avril."
+        },
+        {
+          "kind": "text",
+          "body": "Les nuits ont raccourci : fin des soirées à 3 h fin 2013, à 2 h en 2014-2015, à 1 h en juin 2016. De 2013 à 2015, les grilles promettaient une boisson sans alcool offerte en journée et deux le soir, même si celle de 2015 affichait l'après-midi des couples « sans consommation »."
+        }
+      ],
+      "sources": ["s6", "s7", "s8", "s9"]
+    },
+    {
+      "id": "sarl-les-2-bergers-2013",
+      "title": "Créée le 12 novembre 2013 pour « hammam, sauna, jaccuzi, spa » : la SARL Les 2 Bergers",
+      "icon": "history",
+      "summary": "La SARL Les 2 Bergers, au capital de 8 000 €, a commencé son activité le 12 novembre 2013 rue des Bergers, puis y a ajouté un débit de boissons de licence IV en février 2015.",
+      "blocks": [
+        {
+          "kind": "timeline",
+          "items": [
+            { "date": "2002 – 2008", "text": "Une autre société déclare au 4 rue des Bergers un établissement d'entretien corporel (code 96.04Z), puis transfère son siège route de Lyon (Bodacc, mai 2009). Siège seul ou lieu ouvert au public : on l'ignore, et rien n'établit que le club ait repris ses installations." },
+            { "date": "12 novembre 2013", "text": "Début d'activité de la SARL Les 2 Bergers, capital de 8 000 €, déclarée pour « hammam, sauna, jaccuzi, spa » (annonce au Bodacc le 15 décembre)." },
+            { "date": "23 décembre 2013", "text": "Première capture du site masquerouge.fr, sous-titré « Sauna Club Libertin », sans aucun événement annoncé." },
+            { "date": "30 décembre 2013", "text": "Plus ancien message du livre d'or du site : un visiteur y décrit un lancement encore peu fréquenté." },
+            { "date": "Février – mars 2014", "text": "Fermeture d'environ un mois pour travaux, connue seulement par des messages de visiteurs ; l'un d'eux salue la reprise le 30 mars." },
+            { "date": "Avril 2014", "text": "Le site est désormais sous-titré « Sauna Club Libertin Grenoble »." },
+            { "date": "Février 2015", "text": "L'activité déclarée s'élargit à un « débit de boissons (licence IV) », selon le Bodacc du 20 février." }
+          ]
+        }
+      ],
+      "sources": ["s30", "s22", "s21", "s4", "s18", "s42", "s7", "s23"]
+    },
+    {
+      "id": "gang-bang-lingerie-lgbt",
+      "title": "Gang bangs l'après-midi, défilés de lingerie en 2015, soirée LGBT les 13 et 20 avril 2016",
+      "icon": "mask",
+      "summary": "Les rendez-vous datés vont d'avril 2015 à mai 2016 : deux défilés de lingerie, des gang bangs le soir puis l'après-midi, la Saint-Valentin et deux mercredis LGBT.",
+      "blocks": [
+        {
+          "kind": "list",
+          "items": [
+            "**Vendredi 24 avril 2015**, 21 h : défilé et vente de lingerie.",
+            "**Vendredi 23 octobre 2015**, 21 h à 2 h : défilé « lingerie et tenue sexy ».",
+            "**Vendredi 4 décembre 2015**, 21 h à 2 h : soirée gang bang.",
+            "**Janvier – mars 2016** : soirées gang bang annoncées fin janvier, le vendredi 5 février et le vendredi 11 mars (homme 60 €, couples et femmes offerts), un buffet d'anniversaire le 23 janvier et une soirée de la Saint-Valentin le samedi 13 février (couple 20 €, homme 60 €).",
+            "**Lundis après-midi, dès fin janvier 2016**, 14 h à 19 h : un rendez-vous à thème hebdomadaire avec une invitée, à 30 € pour un homme et 10 € pour un couple.",
+            "**Mercredis 13 et 20 avril 2016**, 21 h à 1 h : soirée LGBT, à 30 € pour un homme, 15 € pour un couple et 10 € pour une femme, consommations comprises.",
+            "**Lundi 16, vendredi 20 et lundi 23 mai 2016**, 14 h à 19 h : après-midi gang bang organisés par un couple invité."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le gang bang réglait aussi les horaires : en mars 2015, le jeudi « non stop » s'interrompait les soirs de gang bang pour rouvrir à 21 h. Plus tôt, en avril 2014, la grille baptisait le lundi « après-midi gourmet », sans dire ce que la formule recouvrait."
+        }
+      ],
+      "sources": ["s8", "s15", "s5", "s16", "s14", "s3", "s7"]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Lundi, mardi, mercredi, dimanche": "14 h – 19 h",
+      "Jeudi": "14 h – minuit sans interruption (tarif du soir dès 19 h)",
+      "Vendredi et samedi": "14 h – 20 h, puis soirée de 21 h à 1 h"
+    },
+    "note": "Dernière grille publiée par le club, encore en ligne le 9 juin 2016, quelques semaines avant la liquidation.",
+    "confidence": "source_unique",
+    "sources": ["s9"]
+  },
+  "tarifs": {
+    "rows": {
+      "Couple, après-midi": "10 €, sans consommation",
+      "Couple, soir (jeudi dès 19 h, vendredi, samedi)": "15 €, deux consommations",
+      "Homme seul, après-midi": "25 € (30 € le lundi), une boisson sans alcool",
+      "Homme seul, jeudi soir": "30 €, une consommation",
+      "Homme seul, vendredi et samedi soir": "55 €, deux consommations ; samedi : un homme pour deux couples",
+      "Femme seule": "Entrée offerte",
+      "Dès 18 h (mar., mer., ven., sam., dim.)": "10 € par personne"
+    },
+    "note": "Grille de juin 2016. Le vendredi après-midi, l'homme seul payait 30 € les jours de gang bang. La carte de fidélité offrait un après-midi pour six entrées payantes, sauf le lundi.",
+    "confidence": "source_unique",
+    "sources": ["s9"]
+  },
+  "equipements": [
+    "Deux jacuzzis de dix personnes",
+    "Hammam",
+    "Sauna",
+    "Salle de repos",
+    "Bar",
+    "Vestiaire",
+    "Chambre miroir",
+    "Coin SM",
+    "Chambre king size",
+    "Chambre couple",
+    "Lit exhibe (2016)",
+    "Chambre noire (2013-2015)"
+  ],
+  "officialLinks": [
+    { "label": "Site officiel archivé (accueil du 15 octobre 2016)", "url": "https://web.archive.org/web/20161015161204/http://www.masquerouge.fr/", "kind": "autre" }
+  ],
+  "faq": [
+    {
+      "question": "Le Masque Rouge, à Grenoble, est-il encore ouvert ?",
+      "answer": "Non. Le club a fermé à l'été 2016 : la SARL Les 2 Bergers, qui l'exploitait, a été placée en liquidation judiciaire le 26 juillet 2016, et le site a annoncé la fermeture décidée par les gérants. L'annuaire sauna-club-libertin.com le présente encore comme ouvert « toute l'année » en octobre 2026, avec le texte du site de 2013, et un site d'horaires affiche toujours sa grille de juin 2016 : ces informations sont périmées."
+    },
+    {
+      "question": "Reste-t-il un club ou un sauna libertin ouvert à Grenoble ?",
+      "answer": "Oui. Au 21 octobre 2026, Les Dunes 38, rue Nicolas-Chorier, à 450 mètres de l'ancien Masque Rouge, ouvre tous les jours en mixte et publie un programme daté ; le samedi soir, les hommes seuls y entrent en nombre limité. Rue Mallifaud, l'ancien Oxygène, devenu Sun7 en 2019, est gay du lundi au jeudi et mixte du vendredi au dimanche. Le site du Rhodes, rue Gabriel-Péri, répond par une erreur 404. Hors de la ville, le Sunbeach Club de Chambéry (45 km à vol d'oiseau) ouvre chaque après-midi, 20 € l'entrée par personne. La route peut se faire à plusieurs : [organisez le covoiturage grenoblois vers le Sunbeach](aff:gleese) avec des partenaires de sortie rencontrés sur Gleese, dont la formule la moins chère, l'abonnement d'un an, se règle 45 € en une fois (3,75 € par mois)."
+    },
+    {
+      "question": "Rencontre libertine à Grenoble : club ou site de rencontre ?",
+      "answer": "Les deux se complètent. Les Dunes accueille chaque jour couples, femmes et hommes seuls, et le Sun7 le week-end ; une partie des rencontres se prépare pourtant en ligne, avant la soirée. Sur Wyylde, la formule la moins chère, 8,33 € par mois, se paie douze mois d'avance, et la reconduction automatique est activée par défaut : [évaluez avec un compte gratuit le nombre de profils grenoblois sur Wyylde](aff:wyylde) avant de souscrire, puis coupez le renouvellement dès le paiement."
+    },
+    {
+      "question": "Combien coûtait l'entrée au Masque Rouge ?",
+      "answer": "D'après la dernière grille, en juin 2016 : 10 € pour un couple l'après-midi et 15 € le soir, 25 € pour un homme seul l'après-midi (30 € le lundi), 30 € le jeudi soir et 55 € le vendredi et le samedi soir ; l'entrée était offerte aux femmes. Fin 2013 et en 2014, un homme seul payait 75 € le samedi soir."
+    },
+    {
+      "question": "Un homme seul pouvait-il entrer au Masque Rouge ?",
+      "answer": "Oui, selon le nombre de couples présents à son arrivée, d'après le règlement du club. Le samedi soir, la règle était d'un homme seul pour deux couples, de 2014 à 2016 ; en décembre 2013, le jeudi soir était réservé aux couples."
+    },
+    {
+      "question": "Le site masquerouge.fr est-il encore celui du club ?",
+      "answer": "Non. Dès juin 2017, le domaine renvoyait vers un site sans rapport ; il a ensuite servi de page publicitaire ou de redirection pour des sites de rencontres, jusqu'en mars 2025. Le 20 octobre 2026, il n'est plus enregistré et ne répond plus."
+    }
+  ],
+  "unverified": [
+    "Le jour exact de la dernière ouverture au public, entre le 23 mai et le 26 juillet 2016.",
+    "Le contenu du billet « FERMETURE EXEPTIONNELLE », qui a précédé l'annonce définitive : il n'a jamais été archivé.",
+    "Les heures auxquelles le bar servait de l'alcool, la mention « sans alcool en semaine » cohabitant avec une carte de bières et de champagne.",
+    "La nature et les dates exactes des travaux de début 2014, connus seulement par des messages de visiteurs.",
+    "Une backroom fermant à clé, des douches et un hébergement, attribués au club par des annuaires : aucune page officielle archivée ne les mentionne.",
+    "La nature des locaux du 4 rue des Bergers entre 2002 et 2008 (siège seul ou établissement ouvert au public), et leur occupation actuelle.",
+    "L'activité actuelle du Quai 10, club libertin de Voiron cité par des annuaires : son ancien domaine n'affiche plus qu'une page parking en 2026.",
+    "Des avis indépendants et des articles de presse sur le club : la recherche du 21 octobre 2026 n'a trouvé ni article du Dauphiné libéré ou du Petit Bulletin, ni page Facebook identifiable, ni note Google lisible ; seul le livre d'or du club, modéré par lui, a été lu."
+  ],
+  "sources": [
+    { "id": "s1", "label": "Site officiel du Masque Rouge, billet « CLUB FERMER » (archive du 20/09/2016)", "url": "https://web.archive.org/web/20160920093420/http://www.masquerouge.fr/club-fermer", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s2", "label": "Site officiel, accueil avec les billets « Invitation… » et « CLUB FERMER » (archive du 15/10/2016)", "url": "https://web.archive.org/web/20161015161204/http://www.masquerouge.fr/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s3", "label": "Site officiel, accueil : après-midi gang bang des 16, 20 et 23 mai 2016 (archive du 26/05/2016)", "url": "https://web.archive.org/web/20160526072546/http://www.masquerouge.fr/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s4", "label": "Site officiel, accueil et présentation du club (archive du 23/12/2013)", "url": "https://web.archive.org/web/20131223055542/http://masquerouge.fr/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s5", "label": "Site officiel, accueil (archives du 17/12/2014 et du 29/11/2015)", "url": "https://web.archive.org/web/20151129021745/http://www.masquerouge.fr/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s6", "label": "Site officiel, tarifs et horaires de décembre 2013 (archive du 24/12/2013)", "url": "https://web.archive.org/web/20131224192241/http://masquerouge.fr/tarifs/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s7", "label": "Site officiel, tarifs et horaires d'avril 2014 (archive du 06/04/2014)", "url": "https://web.archive.org/web/20140406144532/http://masquerouge.fr/tarifs/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s8", "label": "Site officiel, tarifs et horaires de mars 2015 (archive du 30/03/2015)", "url": "https://web.archive.org/web/20150330022852/http://www.masquerouge.fr/tarifs/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s9", "label": "Site officiel, tarifs et horaires de juin 2016 (archive du 09/06/2016)", "url": "https://web.archive.org/web/20160609160207/http://www.masquerouge.fr/tarifs/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s10", "label": "Site officiel, page « Présentation » de 2016 (archive du 21/04/2016)", "url": "https://web.archive.org/web/20160421134801/http://www.masquerouge.fr/presentation/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s11", "label": "Site officiel, règlement intérieur (« Charte »), identique en 2013 et en 2016 (archive du 13/11/2016)", "url": "https://web.archive.org/web/20161113002554/http://www.masquerouge.fr/charte/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s12", "label": "Site officiel, page « Contact / Accès » (archive du 20/04/2016)", "url": "https://web.archive.org/web/20160420163308/http://www.masquerouge.fr/contact/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s13", "label": "Site officiel, page « Visite du club » (archive du 13/11/2016)", "url": "https://web.archive.org/web/20161113002620/http://www.masquerouge.fr/visite-du-club/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s14", "label": "Site officiel, billet « Soirée LGBT » d'avril 2016 (archive du 21/04/2016)", "url": "https://web.archive.org/web/20160421195141/http://www.masquerouge.fr/soiree-lgbt/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s15", "label": "Site officiel, défilés de lingerie d'avril et d'octobre 2015 (archives du 31/03 et du 21/10/2015)", "url": "https://web.archive.org/web/20151021035714/http://www.masquerouge.fr/event/soiree-defile-lingerie-et-tenue-sexy/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s16", "label": "Site officiel, billets de janvier et février 2016 (flux RSS archivé le 05/02/2016)", "url": "https://web.archive.org/web/20160205053500/http://www.masquerouge.fr/feed/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s18", "label": "Wayback Machine, historique des captures du domaine masquerouge.fr (2013-2025)", "url": "https://web.archive.org/cdx/search/cdx?url=masquerouge.fr&matchType=domain&fl=timestamp,original,statuscode&collapse=timestamp:6", "type": "autre", "consulted": "2026-10-20" },
+    { "id": "s19", "label": "masquerouge.fr devenu une page publicitaire pour un site de rencontres (archive du 16/08/2020)", "url": "https://web.archive.org/web/20200816235452/http://masquerouge.fr/", "type": "autre", "consulted": "2026-10-20" },
+    { "id": "s20", "label": "Afnic, interrogation RDAP du domaine masquerouge.fr (domaine introuvable)", "url": "https://rdap.nic.fr/domain/masquerouge.fr", "type": "autre", "consulted": "2026-10-20" },
+    { "id": "s21", "label": "Registre des entreprises, SARL Les 2 Bergers (SIREN 798 502 928)", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/798502928", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s22", "label": "Bodacc A du 15/12/2013 : immatriculation de la SARL Les 2 Bergers", "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20130241287", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s23", "label": "Bodacc B du 20/02/2015 : activité étendue au débit de boissons (licence IV)", "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:B20150036746", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s26", "label": "Bodacc A du 31/07/2016 : liquidation judiciaire de la SARL Les 2 Bergers (« Masque Rouge »)", "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A201601491648", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s27", "label": "Bodacc A du 07/05/2017 : dépôt de l'état des créances", "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A201700882393", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s28", "label": "Bodacc A du 18/07/2017 : clôture pour insuffisance d'actif", "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A201701352085", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s29", "label": "sauna-club-libertin.com, fiche du Masque Rouge (toujours présentée comme ouverte)", "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_3.php?id=15342&d=38", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s30", "label": "Registre et Bodacc : établissement précédent au 4 rue des Bergers (2002-2008)", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/442912697", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s34", "label": "Site du Rhodes (lerhodessauna.sitew.com) : erreur 404", "url": "http://www.lerhodessauna.sitew.com", "type": "autre", "consulted": "2026-10-20" },
+    { "id": "s35", "label": "Base Adresse Nationale : géocodage des adresses de Grenoble, Chambéry, Valence et Lyon (distances calculées à vol d'oiseau)", "url": "https://api-adresse.data.gouv.fr/search/?q=4+rue+des+Bergers+38000+Grenoble", "type": "carte", "consulted": "2026-10-20" },
+    { "id": "s36", "label": "Sunbeach Club (Chambéry), site officiel : horaires et entrée", "url": "https://www.sunbeachclub.com/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s37", "label": "Sunbeach Club, ancien site, « Venir au SunBeachClub » (archive du 07/12/2025)", "url": "http://web.archive.org/web/20251207185921/http://www.sunbeachclub.com/modules/news/article.php?storyid=2", "type": "officiel", "consulted": "2026-10-19" },
+    { "id": "s38", "label": "La Plume du Phénix (Valence), site officiel : horaires et tarifs", "url": "https://www.laplumeduphenix.fr/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s39", "label": "Le Diamant (Lyon), page « Tarifs »", "url": "https://www.diamant-libertin.com/tarifs.php", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s40", "label": "Le Diamant, soirée gang bang du jeudi 22 octobre 2026", "url": "https://www.diamant-libertin.com/event.php?id=1751", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s41", "label": "Le Diamant, accueil et programme d'octobre 2026", "url": "https://www.diamant-libertin.com/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s42", "label": "Livre d'or du site officiel, messages modérés par le club, de décembre 2013 à avril 2014 (archives du 31/03 et du 06/04/2014)", "url": "https://web.archive.org/web/20140406144447/http://masquerouge.fr/livre-dor/", "type": "avis", "consulted": "2026-10-20" },
+    { "id": "s43", "label": "Livre d'or du site officiel, messages d'octobre 2014 à novembre 2015 (archives de janvier, mars et octobre 2015, février 2016)", "url": "https://web.archive.org/web/20151021080349/http://www.masquerouge.fr/livre-dor/", "type": "avis", "consulted": "2026-10-20" },
+    { "id": "s44", "label": "Livre d'or du site officiel, messages de décembre 2015 au 25 mai 2016, avec réponses du club (archives du 04/05 et du 13/11/2016)", "url": "https://web.archive.org/web/20161113002732/http://www.masquerouge.fr/livre-dor/", "type": "avis", "consulted": "2026-10-20" },
+    { "id": "s45", "label": "societe.com, SARL Les 2 Bergers : « Fermée définitivement, radiée » au 11/07/2017", "url": "https://www.societe.com/societe/sarl-les-2-bergers-798502928.html", "type": "registre", "consulted": "2026-10-21" },
+    { "id": "s47", "label": "horairesdouverture24.fr, fiche « Le Masque Rouge - Hammam Jacuzzi Sauna » (horaires de 2016 affichés comme actuels)", "url": "https://www.horairesdouverture24.fr/filiale/Grenoble-Le%20Masque%20Rouge%20-%20Hammam%20Jacuzzi%20Sauna-511861H.html", "type": "annuaire", "consulted": "2026-10-21" },
+    { "id": "s48", "label": "Les Dunes 38 (Grenoble), site officiel : horaires et publications datées d'octobre 2026", "url": "https://www.lesdunes38.fr/", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s49", "label": "Les Dunes 38, page « Soirées » : programme du 20 au 23 octobre 2026", "url": "https://www.lesdunes38.fr/soirees/", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s50", "label": "Les Dunes 38, page « Tarifs et horaires »", "url": "https://www.lesdunes38.fr/tarifs-et-horaires/", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s52", "label": "Sun7Klub (Grenoble), site officiel : horaires et tarifs du week-end (mis à jour le 16/10/2026)", "url": "https://sun7klub.com/", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s53", "label": "Sun7 Sauna, site officiel : semaine gay, week-end mixte, soirée du 14 novembre 2026", "url": "https://sun7sauna.com/", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s54", "label": "Registre des entreprises, SUN7 SAUNA (SIREN 844 443 259), enseigne « Sun7 Sauna Klub »", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/844443259", "type": "registre", "consulted": "2026-10-21" },
+    { "id": "s55", "label": "Bodacc A du 27/02/2019 : Sun7 Sauna rachète le fonds d'Oxygène, 24 rue Mallifaud", "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20190041664", "type": "registre", "consulted": "2026-10-21" },
+    { "id": "s56", "label": "Base Adresse Nationale : géocodage des rues Nicolas-Chorier et Mallifaud (distances à vol d'oiseau)", "url": "https://api-adresse.data.gouv.fr/search/?q=27+rue+Nicolas+Chorier+38000+Grenoble", "type": "carte", "consulted": "2026-10-21" }
+  ]
+}

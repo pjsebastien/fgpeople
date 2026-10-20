@@ -62,7 +62,7 @@ const fresh = candidates.filter((c) => c.status === 'todo')
   .map((c) => ({ kind: 'new', key: c.key, candidate: { nom: c.nom, ville: c.ville, url: c.url, foundIn: c.foundIn }, depth: 'full', from: 'qualify' }));
 // Nouveaux clubs qualifiés (fiche de base créée), qui suivent ensuite le même circuit.
 const added = candidates.filter((c) => c.status === 'added' && c.slug)
-  .map((c) => ({ kind: 'new', key: c.key, slug: c.slug, depth: 'full', from: stage(c.slug) }));
+  .map((c) => ({ kind: 'new', key: c.key, slug: c.slug, depth: 'full', from: stage(c.slug), hasDraft: fs.existsSync(`data/clubs/drafts/${c.slug}.json`) }));
 
 const all = [...existing, ...added];
 const args = process.argv.slice(2);

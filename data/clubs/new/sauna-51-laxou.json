@@ -1,0 +1,19 @@
+{
+  "id": "new-sauna-51-laxou",
+  "nom": "Sauna 51",
+  "type": "sauna libertin mixte et gay",
+  "types_normalises": ["Sauna", "Spa & Wellness", "Gay friendly"],
+  "adresse": "51 avenue de la Libération",
+  "code_postal": "54520",
+  "ville": "Laxou",
+  "departement_code": "54",
+  "departement_nom": "Meurthe-et-Moselle",
+  "region": "Grand Est",
+  "pays": "France",
+  "telephone": "0383980448",
+  "email": "",
+  "site_web": "https://sauna51.fr/",
+  "equipements": ["Surface de 300 m²", "Vestiaires", "Sauna", "Hammam", "Douches", "Salles vidéo", "Coins câlins ouverts ou fermés", "Labyrinthe avec glory hole", "Sling", "Salle et siège de massage", "Bar sans alcool avec snacks", "Accès aux personnes à mobilité réduite"],
+  "verification": { "status": "actif" },
+  "addedAt": "2026-10-20"
+}

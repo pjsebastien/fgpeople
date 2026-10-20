@@ -5,5 +5,8 @@
   "foundIn": [
     "l-unik-nancy"
   ],
-  "status": "todo"
+  "status": "rejected",
+  "duplicateOf": "club-87-nancy",
+  "reason": "Même lieu que la fiche ajoutée club-87-nancy (qualifiée le 20/10/2026).",
+  "qualifiedAt": "2026-10-20"
 }

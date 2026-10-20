@@ -1,0 +1,19 @@
+{
+  "id": "new-club-le-7-nice",
+  "nom": "Club Le 7",
+  "type": "sex-club gay et bar de cruising",
+  "types_normalises": ["Club", "Bar", "Cinéma", "Gay friendly"],
+  "adresse": "7 rue Foncet",
+  "code_postal": "06000",
+  "ville": "Nice",
+  "departement_code": "06",
+  "departement_nom": "Alpes-Maritimes",
+  "region": "Provence-Alpes-Côte d'Azur",
+  "pays": "France",
+  "telephone": "0493622502",
+  "email": "",
+  "site_web": "https://le7-nice.fr/",
+  "equipements": ["Bar", "Piste de danse", "Salle cinéma", "Cabines", "Backroom", "Sling", "Hammam", "Vestiaires", "Douches", "Fumoir"],
+  "verification": { "status": "actif" },
+  "addedAt": "2026-10-20"
+}

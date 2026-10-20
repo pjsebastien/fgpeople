@@ -1,0 +1,537 @@
+{
+  "slug": "villa-anges-club-libertin",
+  "clubId": "FG046",
+  "researchedAt": "2026-10-21",
+  "display": {
+    "nom": "La Villa des Anges",
+    "ville": "Chocques"
+  },
+  "status": {
+    "value": "ouvert",
+    "summary": "Le 12 octobre 2026, le club a mis en ligne les affiches de neuf week-ends à thème, du 16-17 octobre au 11-12 décembre, dont une Halloween Party les 30 et 31 octobre. Sa société est en redressement judiciaire depuis le 12 novembre 2025 ; d'après les mentions du registre reprises par societe.com, le tribunal de commerce d'Arras a décidé le 14 octobre 2026 de maintenir la période d'observation et la poursuite d'activité.",
+    "sources": ["s2", "s7", "s21", "s22", "s23"]
+  },
+  "seo": {
+    "title": "La Villa des Anges à Chocques : tarifs 2026, soirées et règlement",
+    "metaDescription": "Près de Béthune, club libertin ouvert vendredi et samedi : 70 à 95 € le couple, repas et alcool jusqu'à 2 h compris, un thème par week-end, 21 ans minimum.",
+    "subtitle": "Club libertin avec restaurant et piste de danse à Chocques, près de Béthune (62)",
+    "targetQueries": [
+      "villa des anges chocques",
+      "villa des anges tarif",
+      "villa des anges soirées",
+      "club libertin béthune",
+      "club libertin pas-de-calais",
+      "villa des anges photos",
+      "villa des anges avis"
+    ]
+  },
+  "lead": "Un thème différent chaque week-end, le repas du chef et l'alcool compris jusqu'à 2 h : La Villa des Anges ouvre le vendredi, le samedi et les veilles de fête, dans une bâtisse de la D943, à la sortie de Chocques, qui abritait déjà une discothèque en 2001. Ouvert au printemps 2018, le club se présente comme « le plus grand club au nord de Paris » et revendique 24 coins câlins. Son programme est affiché jusqu'au 12 décembre 2026, alors que sa société poursuit son activité sous redressement judiciaire depuis novembre 2025.",
+  "glance": [
+    { "icon": "calendar", "label": "Ouvert", "value": "Vendredi, samedi et veilles de fête" },
+    { "icon": "euro", "label": "Entrée couple", "value": "70 € (vendredi) · 95 € (samedi)" },
+    { "icon": "food", "label": "Compris", "value": "Repas du chef et alcool jusqu'à 2 h" },
+    { "icon": "sparkles", "label": "Soirées", "value": "Un thème par week-end, affiches au 12/12" },
+    { "icon": "history", "label": "Depuis", "value": "Printemps 2018" },
+    { "icon": "warning", "label": "Société", "value": "Redressement judiciaire, activité poursuivie" }
+  ],
+  "audience": [
+    { "who": "couples", "status": "oui", "detail": "Vendredi, samedi et veilles de fête ; repas et alcool jusqu'à 2 h compris", "price": "70 à 95 €" },
+    { "who": "femmes", "status": "oui", "detail": "Mêmes soirs ; 10 € de remise pour toutes les femmes à la Catherinette (20-21/11)", "price": "15 à 30 €" },
+    { "who": "hommes", "status": "oui", "detail": "Chaque soir d'ouverture, au prix d'un couple ; quota cité par le Petit Futé, pas par le club", "price": "70 à 95 €" }
+  ],
+  "highlights": [
+    "Entrée interdite aux moins de 21 ans : la carte de membre annuelle, obligatoire, n'est établie que sur présentation d'une pièce d'identité.",
+    "Messieurs : baskets, shorts et joggings sont refusés, le club conseille pantalon et chemise. Le portable est « strictement interdit » à l'intérieur.",
+    "La société exploitante est en redressement judiciaire depuis novembre 2025 : appelez le 07 82 25 57 60 pour confirmer la soirée avant de prendre la route.",
+    "Pas de sauna, de hammam ni de jacuzzi annoncés : c'est un club de nuit avec restaurant, bar, piste de danse et coins câlins.",
+    "L'alcool est compris jusqu'à 2 h, mais le règlement le coupe 1 h 30 avant la fermeture : vers 1 h 30 le vendredi (fermeture à 3 h), 2 h 30 le samedi."
+  ],
+  "keyFacts": [
+    { "label": "Société", "value": "SAS La Villa des Anges, SIREN 832 361 869, immatriculée en octobre 2017", "confidence": "confirme", "sources": ["s21", "s22"] },
+    { "label": "Ouverture", "value": "Printemps 2018 (annoncée pour les 30 et 31 mars, activité déclarée au 20 avril)", "confidence": "confirme", "sources": ["s12", "s21", "s22"] },
+    { "label": "Jours d'ouverture", "value": "Vendredi, samedi et veilles de fête", "confidence": "confirme", "sources": ["s3", "s29"] },
+    { "label": "Public admis", "value": "Couples, femmes seules, hommes seuls et trios, chacun avec son tarif", "confidence": "confirme", "sources": ["s3"] },
+    { "label": "Âge minimum", "value": "21 ans, carte de membre annuelle obligatoire", "confidence": "confirme", "sources": ["s4", "s14"] },
+    { "label": "Entrée couple", "value": "70 € le vendredi, 95 € le samedi (page Tarif modifiée le 20/04/2025)", "confidence": "source_unique", "sources": ["s3"] },
+    { "label": "Compris dans l'entrée", "value": "Restauration et alcool jusqu'à 2 h", "confidence": "confirme", "sources": ["s1", "s3"] },
+    { "label": "Espaces annoncés", "value": "Piste de danse de 200 m² et 24 coins câlins, selon le club", "confidence": "source_unique", "sources": ["s1"] },
+    { "label": "Situation juridique", "value": "Redressement judiciaire ouvert le 12/11/2025, activité poursuivie", "confidence": "confirme", "sources": ["s22", "s23", "s45", "s2"] }
+  ],
+  "sections": [
+    {
+      "id": "week-ends-a-theme",
+      "title": "Huit thèmes à venir jusqu'au 12 décembre, dont Halloween les 30 et 31 octobre",
+      "icon": "sparkles",
+      "summary": "Chaque vendredi-samedi a son thème, « proposé » et non imposé ; les affiches mises en ligne le 12 octobre 2026 vont jusqu'au week-end des 11 et 12 décembre.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le club change de thème chaque week-end, en précisant que ses thèmes sont « proposés » et « pas imposés ». Les affiches sortent par séries sur la page « Les soirées ». L'accueil du site cite aussi des soirées « masque, seins nus, string »."
+        },
+        {
+          "kind": "table",
+          "caption": "Programme affiché sur le site officiel au 20 octobre 2026 (vendredi et samedi)",
+          "headers": ["Dates", "Thème", "Précision de l'affiche"],
+          "rows": [
+            ["23-24 octobre", "Sexy et glamour", "–"],
+            ["30-31 octobre", "Halloween Party", "–"],
+            ["6-7 novembre", "Uniforme", "Couscous au menu"],
+            ["13-14 novembre", "Enlève-moi ma culotte", "–"],
+            ["20-21 novembre", "Catherinette", "10 € de réduction pour toutes les femmes"],
+            ["27-28 novembre", "Cuir et latex", "–"],
+            ["4-5 décembre", "« Suce-moi »", "10 € de réduction pour les hommes"],
+            ["11-12 décembre", "Strass et paillettes", "–"]
+          ]
+        },
+        {
+          "kind": "list",
+          "title": "Les week-ends passés depuis l'été 2026, d'après les affiches lues",
+          "items": [
+            "24-25 juillet : Sous les tropiques",
+            "31 juillet-1er août : débutants-débutantes",
+            "7-8 août : BBQ Party, barbecue le samedi seulement",
+            "28-29 août : Retro Party",
+            "4-5 septembre : soirée écolière",
+            "18-19 septembre : Sexy lingerie",
+            "25-26 septembre : Attache-moi si tu veux",
+            "2-3 octobre : débutant-débutante",
+            "9-10 octobre : Angel and Demon",
+            "16-17 octobre : Gourmande Gourmandise"
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Les deux week-ends « débutants » relevés sur les affiches de l'été et de la rentrée 2026 (31 juillet-1er août, 2-3 octobre) sont passés, et aucun autre n'est affiché d'ici au 12 décembre."
+        },
+        {
+          "kind": "text",
+          "body": "Un couple qui préfère ne pas découvrir seul son premier club peut [chercher un autre couple débutant autour de Lillers ou de Béthune](aff:carre-libertin) : Carré Libertin revendique environ 20 000 membres actifs par semaine, chiffre retenu dans notre avis, de quoi viser ensemble la prochaine date pour novices quand le club l'affichera."
+        }
+      ],
+      "sources": ["s1", "s2", "s7", "s10", "s11"]
+    },
+    {
+      "id": "formule-et-prix",
+      "title": "Repas du chef et alcool jusqu'à 2 h dans le prix : le couple paie 70 € le vendredi, 95 € le samedi",
+      "icon": "food",
+      "summary": "L'entrée comprend le repas et l'alcool jusqu'à 2 h ; l'homme seul paie le prix d'un couple, et la grille a augmenté entre février et avril 2025.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "La Villa vend une « formule tout compris restauration & boisson ». Selon le site, le chef sert une cuisine traditionnelle dont le menu change avec les semaines et les thèmes. En 2020, le gérant décrivait un restaurant en libre-service."
+        },
+        {
+          "kind": "text",
+          "body": "Depuis un « 1er février » que les archives du site permettent de situer en 2024, l'alcool est compris dans l'entrée jusqu'à 2 h. En 2018 déjà, le club annonçait softs à volonté et alcools « à discrétion », avec le champagne et certains alcools en supplément."
+        },
+        {
+          "kind": "text",
+          "body": "L'homme seul paie le même prix qu'un couple, la femme seule entre pour 15 € le vendredi et 30 € le samedi. Une catégorie « trio » a son propre tarif, sans que le club précise sa composition."
+        },
+        {
+          "kind": "table",
+          "caption": "Le prix d'entrée selon les grilles successives du site officiel",
+          "headers": ["Entrée", "Mars 2018", "Oct. 2023 à févr. 2025", "Depuis avril 2025 au plus tard"],
+          "rows": [
+            ["Couple, vendredi", "60 €", "60 €", "70 €"],
+            ["Couple, samedi", "80 €", "90 €", "95 €"],
+            ["Femme seule, vendredi", "20 €", "10 €", "15 €"],
+            ["Femme seule, samedi", "25 €", "30 €", "30 €"],
+            ["Trio, vendredi", "non affiché", "110 €", "120 €"],
+            ["Trio, samedi", "non affiché", "150 €", "160 €"]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "La page officielle facture la veille de fête comme un vendredi. L'annuaire Minuit Libertin, qui l'affiche au prix du samedi, diverge sur ce point."
+        },
+        {
+          "kind": "text",
+          "body": "La carte de membre coûtait 10 € par personne en 2018 comme en 2020 ; son prix actuel n'est pas affiché. Elle donne droit à un demi-tarif offert pour l'anniversaire de son titulaire."
+        }
+      ],
+      "sources": ["s1", "s3", "s13", "s16", "s17", "s18", "s29", "s41", "s43", "s44"]
+    },
+    {
+      "id": "reveillon-saint-sylvestre",
+      "title": "Saint-Sylvestre : 200 € le couple avec repas depuis 2023, 120 € sans repas à partir de 23 h",
+      "icon": "ticket",
+      "summary": "Le réveillon se réserve sur formulaire : 200 € le couple avec repas dès 19 h de 2023 à 2025, contre 180 € en 2021 et 2022 ; depuis 2024, 120 € sans repas dès 23 h.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Pour le 31 décembre 2025, le club annonçait des « places limitées » et souhaitait les réservations avant le 15 décembre. De 2021 à 2024, ses formulaires demandaient un acompte et le numéro de carte de membre, ou à partir de 2023 les noms, avant le 15 puis le 10 décembre."
+        },
+        {
+          "kind": "table",
+          "caption": "Prix des réveillons du 31 décembre selon les formulaires et affiches officiels (formule sans repas de 2024 : affiche titrée « 2025 », rattachée au 31/12/2024 d'après sa mise en ligne le 11/12/2024)",
+          "headers": ["Formule", "Couple", "Homme seul", "Femme seule"],
+          "rows": [
+            ["2025, avec repas dès 19 h", "200 €", "150 €", "70 €"],
+            ["2025, sans repas dès 23 h", "120 €", "100 €", "50 €"],
+            ["2024, avec repas dès 19 h", "200 €", "150 €", "70 €"],
+            ["2024, sans repas dès 23 h", "120 €", "100 €", "50 €"],
+            ["2023, avec repas dès 19 h", "200 €", "150 €", "70 €"],
+            ["2022, soirée dès 19 h", "180 €", "150 €", "60 €"],
+            ["2021, avec repas et open bar dès 19 h", "180 €", "150 €", "60 €"]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le menu de 2023 annonçait une ouverture de 19 h à 7 h, l'affiche de 2024 une soirée de 19 h à 6 h, uniquement sur réservation. Les deux promettaient une coupe et des cotillons aux douze coups de minuit."
+        },
+        {
+          "kind": "list",
+          "title": "Les menus mis en ligne avec les formulaires de 2024 et de 2025",
+          "items": [
+            "2025 : Saint-Jacques au riesling ou volaille au foie gras, puis sanglier aux marrons, filet d'oie ou suprême de chapon aux morilles ; code couleur noir et or ;",
+            "2024 : cabillaud et Saint-Jacques ou foie gras aux morilles, puis souris de cerf à la bière ou filet d'oie ; code couleur blanc, strass et paillettes ;",
+            "les deux années : velouté de courgette en ouverture, fromages, desserts et soupe à l'oignon."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Au 20 octobre 2026, ni formulaire ni prix ne sont publiés pour le 31 décembre 2026, et les liens vers les formulaires passés sont masqués sur l'accueil. Ces dernières années, le formulaire est paru entre le 28 octobre (2023) et le 10 décembre (2025)."
+        }
+      ],
+      "sources": ["s1", "s7", "s8", "s9", "s32", "s33", "s34", "s35", "s36", "s37"]
+    },
+    {
+      "id": "d943-entre-lillers-et-bethune",
+      "title": "Sur la D943 entre Lillers et Béthune, le seul club libertin que le Petit Futé recense à 20 km de Béthune",
+      "icon": "map",
+      "summary": "La bâtisse est à la sortie de Chocques, à 7 ou 8 km de Béthune à vol d'oiseau ; parmi les lieux libertins des environs, seul O'Relax, à Lens, a une activité vérifiée en octobre 2026.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le club occupe une « belle bâtisse », selon le Petit Futé, au 3721 de l'ancienne RN 43 devenue RD 943, en sortant de Chocques. D'après les coordonnées du registre, il est à vol d'oiseau à environ 4 km du centre de Lillers et à 7 ou 8 km de celui de Béthune."
+        },
+        {
+          "kind": "text",
+          "body": "Le règlement mentionne des parkings, le Petit Futé un « grand parking ». Dans un rayon de 20 km autour de Béthune, ce guide ne recense qu'un club libertin : celui-ci."
+        },
+        {
+          "kind": "list",
+          "title": "Les autres lieux libertins des environs",
+          "items": [
+            "[O'Relax, à Lens](/orelax-lens) : sauna libertin mixte le mardi, le jeudi et le dimanche, réservé aux hommes le mercredi, ouvert aux couples et aux femmes seules le vendredi soir ; son site annonçait le 20 octobre 2026 une soirée Halloween les 29 et 30 octobre.",
+            "[Abxara, à Bruay-la-Buissière](/abxara-bruay-la-buissiere), à environ 7 km : activité non vérifiée.",
+            "[L'Osmose, à Aire-sur-la-Lys](/l-osmose-aire-sur-la-lys), à environ 14 km : activité non vérifiée.",
+            "[SaunAmusez Vous, à Béthune](/saunamusezvous-bethune) : sauna fermé, sa société ayant été mise en liquidation en septembre 2015 puis radiée en 2016.",
+            "O'Pulsions, à Hénin-Beaumont (environ 32 km) : son site reprend l'adresse de La Berjeurie, que recensent le Petit Futé et Minuit Libertin, et l'ancien domaine de celle-ci y renvoie ; activité non vérifiée."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "La liste complète figure sur la page des [lieux libertins du Pas-de-Calais](/departement/pas-de-calais)."
+        },
+        {
+          "kind": "text",
+          "body": "La Villa n'ouvrant que deux soirs par semaine, [rencontrer des libertins du Béthunois en semaine](aff:wyylde) passe par un site comme Wyylde, qui revendique 7 millions de membres. Réserve : sa formule annuelle à 8,33 € par mois se paie d'un coup (99,90 €) et se reconduit seule si l'on ne coupe pas le renouvellement."
+        }
+      ],
+      "sources": ["s4", "s5", "s21", "s27", "s28", "s30", "s31", "s38", "s39"]
+    },
+    {
+      "id": "redressement-judiciaire",
+      "title": "Redressement judiciaire depuis le 12 novembre 2025 : selon societe.com, le tribunal d'Arras a maintenu l'activité le 14 octobre 2026",
+      "icon": "warning",
+      "summary": "La société exploitante est en période d'observation ; le club continue d'ouvrir, mais l'issue de la procédure n'est pas connue au 21 octobre 2026.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le tribunal de commerce d'Arras a ouvert le 12 novembre 2025 un redressement judiciaire à l'égard de la SAS La Villa des Anges et fixé la cessation des paiements au 24 septembre 2025 (BODACC du 20 novembre 2025)."
+        },
+        {
+          "kind": "timeline",
+          "items": [
+            { "date": "12/11/2025", "text": "Ouverture du redressement judiciaire, avec une période d'observation de six mois." },
+            { "date": "07/01/2026", "text": "Poursuite de l'activité autorisée jusqu'au 29 avril 2026." },
+            { "date": "13/05/2026", "text": "Période d'observation prolongée de six mois." },
+            { "date": "14/10/2026", "text": "Selon societe.com, « maintien de la période d'observation et la poursuite d'activité »." }
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Les décisions de janvier et de mai 2026 figurent sur societe.com et sur Infonet, qui reprennent le registre ; celle du 14 octobre sur societe.com seulement, le jour où la fiche du registre national a été mise à jour. Aucune n'apparaît au BODACC en ligne, et nous n'avons trouvé aucun article de presse sur la procédure au 21 octobre 2026."
+        },
+        {
+          "kind": "text",
+          "body": "Pendant la période d'observation, l'établissement reste ouvert, comme le montrent les affiches publiées en octobre. L'issue, plan de redressement, cession ou liquidation, reste à connaître."
+        },
+        {
+          "kind": "callout",
+          "tone": "tip",
+          "body": "Avant un long trajet, un appel au 07 82 25 57 60 ou au 07 72 20 06 07 confirme que la soirée a lieu. Le premier numéro figure sur huit des neuf affiches mises en ligne le 12 octobre 2026."
+        }
+      ],
+      "sources": ["s2", "s5", "s21", "s22", "s23", "s45"]
+    },
+    {
+      "id": "histoire-du-3721",
+      "title": "Une discothèque dès 2001, puis La Villa Cos'y, avant le club libertin ouvert au printemps 2018",
+      "icon": "history",
+      "summary": "Le bâtiment a abrité une discothèque puis une salle de soirées privées et de thés dansants, toutes deux liquidées, avant l'ouverture du club au printemps 2018.",
+      "blocks": [
+        {
+          "kind": "timeline",
+          "items": [
+            { "date": "2001", "text": "La SARL La Villa exploite une discothèque au 3721 route Nationale ; fermée en 2006, sa liquidation est close en 2008." },
+            { "date": "2008", "text": "La Villa Cos'y rachète pour 50 000 € le fonds « de discothèque spectacle débit de boissons restauration » et déclare location de salles, soirées privées et thés dansants." },
+            { "date": "2016", "text": "Liquidation judiciaire de La Villa Cos'y, clôturée en janvier 2018." },
+            { "date": "Octobre 2017", "text": "Immatriculation de la SAS La Villa des Anges au RCS d'Arras." },
+            { "date": "Printemps 2018", "text": "Le site annonce l'ouverture pour les 30 et 31 mars ; le registre date le début d'activité au 20 avril." },
+            { "date": "Octobre-novembre 2020", "text": "Deux semaines de fermeture sur arrêté préfectoral (détail ci-dessous), puis fermeture pendant le confinement." },
+            { "date": "Août 2021", "text": "Nouveau site sous WordPress, qui remplace celui de 2018, et nouvelle galerie photo." },
+            { "date": "2024 (probable)", "text": "L'alcool entre dans le prix d'entrée jusqu'à 2 h, « à partir du 1er février »." },
+            { "date": "Février-avril 2025", "text": "Nouvelle grille, en ligne au plus tard le 20 avril : 70 € le couple le vendredi, 95 € le samedi." }
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le registre décrit les deux exploitations précédentes comme une discothèque, puis une activité de location de salles, de soirées privées et de thés dansants ; aucune source ne dit qu'elles étaient libertines. Un annuaire présente encore La Villa Cos'y comme un restaurant de réceptions, pour mariages, banquets et séminaires."
+        }
+      ],
+      "sources": ["s3", "s7", "s12", "s17", "s19", "s20", "s21", "s22", "s24", "s25", "s41", "s44", "s46"]
+    },
+    {
+      "id": "fermeture-prefectorale-2020",
+      "title": "Octobre 2020 : deux semaines de fermeture sur arrêté du préfet, contestées par le gérant",
+      "icon": "shield",
+      "summary": "Un arrêté du 16 octobre 2020 a fermé le club deux semaines pour « manquements répétés » aux règles sanitaires ; le gérant en contestait une partie et visait une vidéo de clients.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Par un arrêté du 16 octobre 2020, en pleine épidémie de Covid-19, le préfet du Pas-de-Calais a fermé le club pour deux semaines, à compter du 17 selon Horizon Actu. Il invoquait des « manquements répétés » aux règles sanitaires, après une mise en demeure adressée fin août. France 3 et ICI Nord ont aussi rapporté la décision."
+        },
+        {
+          "kind": "list",
+          "title": "Les manquements reprochés par la préfecture",
+          "items": [
+            "le port du masque et la distanciation ;",
+            "la danse, interdite par un arrêté préfectoral du 2 octobre 2020 ;",
+            "l'hygiène de la restauration."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Sur son site, le club attribuait la sanction à une vidéo tournée le 19 septembre 2020 par quatre personnes présentes ce soir-là, dont l'une serait apparentée à un concurrent. Selon France 3, cette vidéo avait attiré l'attention des autorités."
+        },
+        {
+          "kind": "list",
+          "title": "Ce que répondait le gérant, interrogé par ICI Nord",
+          "items": [
+            "il contestait une partie des griefs : selon lui, les clients portaient le masque dans les espaces communs, et 25 contrôles de police depuis le déconfinement n'avaient rien relevé ;",
+            "il disait disposer de 20 points de gel et servir le repas en libre-service, avec un personnel masqué ;",
+            "il reconnaissait que les clients « se dandinent », mais estimait pouvoir ouvrir, son établissement étant classé bar et restaurant ;",
+            "il annonçait une plainte pour harcèlement contre deux autres clubs, accusés de l'avoir dénoncé, et chargeait deux avocats de demander l'annulation de l'arrêté."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le club annonçait une fermeture du 16 au 30 octobre et un retour le 31 pour Halloween ; la presse prévoyait une réouverture le 2 novembre. Fin novembre 2020, son site indiquait qu'il restait fermé « pour le confinement »."
+        }
+      ],
+      "sources": ["s26", "s40", "s41", "s42", "s43", "s44"]
+    },
+    {
+      "id": "reglement-21-ans",
+      "title": "Pas avant 21 ans, ni en baskets : des consignes inchangées mot pour mot depuis mars 2018",
+      "icon": "lock",
+      "summary": "Carte de membre annuelle sur pièce d'identité, portable interdit, dernier verre une heure et demie avant la fermeture : le règlement n'a pas bougé depuis l'ouverture.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le règlement affiché en 2026 reproduit mot pour mot celui de mars 2018. Ses points principaux :"
+        },
+        {
+          "kind": "list",
+          "items": [
+            "entrée interdite aux moins de 21 ans ;",
+            "carte de membre annuelle obligatoire, établie sur présentation d'une pièce d'identité ;",
+            "téléphone portable « strictement interdit » ;",
+            "personnes ivres refusées, et plus d'alcool servi 1 h 30 avant la fermeture ;",
+            "pratiques s'apparentant à la prostitution interdites ;",
+            "tout manquement sanctionné par une exclusion définitive, sans remboursement."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Une « tenue correcte » est exigée. Les hommes ne passent pas en baskets, short ou jogging, et le club leur conseille pantalon et belle chemise. Aux femmes, il suggère une tenue sexy accordée au thème, « fortement appréciée »."
+        },
+        {
+          "kind": "text",
+          "body": "Le Petit Futé ajoute, dans une fiche non datée, que le nombre d'hommes seuls est limité ; le site du club ne parle d'aucun quota. Chaque page du site porte la mention « Gay Friendly », sans autre précision."
+        }
+      ],
+      "sources": ["s1", "s4", "s14", "s27"]
+    },
+    {
+      "id": "galerie-2021-2022",
+      "title": "Piste sous des arches, lit bateau et « Impasse des célibataires » : la galerie officielle de 2021-2022",
+      "icon": "camera",
+      "summary": "Le club annonce une piste de 200 m² et 24 coins câlins ; ses 35 photos de 2021-2022 montrent aussi un vestiaire à casiers, un coin cinéma, un sling et le jardin, sans sauna.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le site présente la Villa comme le « plus grand club au nord de Paris » : piste de danse de 200 m² avec DJ, lasers et sono, bar, restaurant et 24 coins câlins. Ces chiffres sont ceux du club ; nous n'avons pas pu les vérifier."
+        },
+        {
+          "kind": "text",
+          "body": "La galerie « Le Club » réunit 35 photos mises en ligne entre août 2021 et septembre 2022, que nous avons toutes regardées. On y voit :"
+        },
+        {
+          "kind": "list",
+          "items": [
+            "la piste, sous des arches éclairées de rose et de violet, avec une cabine-podium cylindrique cerclée de tubes lumineux, des boules à facettes et des lasers vus depuis une galerie en surplomb ;",
+            "le bar en lumière bleue, ses tabourets housés de blanc et ses colonnes rayées de néon ;",
+            "la salle du restaurant, sous des arches de pierre et de brique, avec un sol de carreaux de terre cuite et des chaises housées de blanc ;",
+            "une chambre au lit bateau, avec lustre à pampilles, fausse cheminée, poutres et arche de briques ;",
+            "une pièce rouge meublée d'une table d'examen en skaï noir, et des alcôves fermées par des grilles ;",
+            "un coin « Cinéma » à deux fauteuils de salle rouges, et une salle à écran mural avec un grand lit rouge arrondi ;",
+            "un couloir signalé « Impasse des célibataires », où pend une balançoire (sling) ;",
+            "un vestiaire aux rangées de casiers métalliques numérotés, avec des bancs ;",
+            "le jardin, avec des salons en résine près d'un auvent de bois."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le Petit Futé cite en plus un podium à deux barres de pole dance et des douches ; une archive du site de 2019 vantait des terrasses extérieures et la climatisation. De 2018 à 2026, aucune des pages officielles que nous avons lues ne parle de sauna, de hammam, de jacuzzi ou de piscine."
+        }
+      ],
+      "sources": ["s1", "s6", "s15", "s27"]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Lundi": "Fermé",
+      "Mardi": "Fermé",
+      "Mercredi": "Fermé",
+      "Jeudi": "Fermé",
+      "Vendredi": "20 h 30 - 3 h",
+      "Samedi": "20 h - 4 h",
+      "Dimanche": "Fermé",
+      "Veilles de fête": "20 h 30 - 3 h"
+    },
+    "note": "Horaires de la page Tarif du site officiel, modifiée le 20/04/2025 et relue le 20/10/2026. Le club n'annonce aucune ouverture du dimanche au jeudi en dehors des veilles de fête. Plus d'alcool servi 1 h 30 avant la fermeture.",
+    "confidence": "confirme",
+    "sources": ["s3", "s29"]
+  },
+  "tarifs": {
+    "rows": {
+      "Couple": "70 € vendredi et veille de fête · 95 € samedi",
+      "Homme seul": "70 € vendredi et veille de fête · 95 € samedi",
+      "Femme seule": "15 € vendredi et veille de fête · 30 € samedi",
+      "Trio": "120 € vendredi et veille de fête · 160 € samedi",
+      "Carte de membre annuelle": "Obligatoire, prix non affiché (10 € par personne en 2018 et en 2020)"
+    },
+    "note": "Grille de la page Tarif du site officiel (modifiée le 20/04/2025, relue le 20/10/2026). L'entrée comprend la restauration et l'alcool jusqu'à 2 h. Réductions ponctuelles annoncées sur les affiches de certains week-ends.",
+    "confidence": "source_unique",
+    "sources": ["s3", "s13", "s43", "s2"]
+  },
+  "equipements": ["Piste de danse", "DJ", "Bar", "Restaurant", "Coins câlins", "Vestiaire à casiers", "Jardin", "Parking"],
+  "officialLinks": [
+    { "label": "Site officiel la-villa-des-anges.fr", "url": "https://la-villa-des-anges.fr/", "kind": "site" },
+    { "label": "Programme des soirées à thème", "url": "https://la-villa-des-anges.fr/les-soirees/", "kind": "agenda" },
+    { "label": "Galerie photo « Le Club »", "url": "https://la-villa-des-anges.fr/photos/", "kind": "galerie" },
+    { "label": "Horaires et tarifs", "url": "https://la-villa-des-anges.fr/tarif/", "kind": "autre" }
+  ],
+  "corrections": {
+    "adresse": "3721 route Nationale (RD 943)",
+    "email": "",
+    "sources": ["s5", "s10", "s21"]
+  },
+  "faq": [
+    {
+      "question": "La Villa des Anges est-elle toujours ouverte ?",
+      "answer": "Oui. Le club affiche ses week-ends à thème jusqu'au 12 décembre 2026, et sa société, en redressement judiciaire depuis novembre 2025, a obtenu le 14 octobre 2026 le maintien de la poursuite d'activité, selon societe.com. L'issue de la procédure n'étant pas connue, appelez le 07 82 25 57 60 avant de venir."
+    },
+    {
+      "question": "Combien coûte l'entrée à la Villa des Anges ?",
+      "answer": "Le vendredi et les veilles de fête : 70 € pour un couple ou un homme seul, 15 € pour une femme seule, 120 € pour un trio. Le samedi : 95 €, 30 € et 160 €. Le repas et l'alcool jusqu'à 2 h sont compris ; s'y ajoute la carte de membre annuelle, dont le prix actuel n'est pas affiché (10 € par personne en 2020)."
+    },
+    {
+      "question": "À quelle heure le club ouvre-t-il et ferme-t-il ?",
+      "answer": "À 20 h 30 le vendredi et les veilles de fête, jusqu'à 3 h ; à 20 h le samedi, jusqu'à 4 h. Le club n'annonce aucune ouverture du dimanche au jeudi en dehors des veilles de fête."
+    },
+    {
+      "question": "Combien coûte le réveillon du 31 décembre à la Villa des Anges ?",
+      "answer": "Le prix 2026 n'était pas publié au 20 octobre 2026. De 2023 à 2025, le réveillon avec repas, dès 19 h, coûtait 200 € pour un couple, 150 € pour un homme seul et 70 € pour une femme seule ; depuis 2024, l'entrée sans repas, dès 23 h, revient à 120, 100 ou 50 €. Ces dernières années, le formulaire de réservation est paru entre le 28 octobre et le 10 décembre."
+    },
+    {
+      "question": "Une femme peut-elle venir seule ?",
+      "answer": "Oui : 15 € le vendredi, 30 € le samedi, et 10 € de réduction pour toutes les femmes au week-end Catherinette des 20 et 21 novembre 2026. Celle qui préfère venir accompagnée d'un couple déjà rencontré peut [trouver ses partenaires de Catherinette sur Gleese](aff:gleese), dont l'équipe contrôle à la main, une à une, les photos de profil. Nous ne savons pas combien de ses membres vivent dans le Pas-de-Calais."
+    },
+    {
+      "question": "Y a-t-il un sauna, un spa ou un jacuzzi ?",
+      "answer": "Aucune des pages officielles que nous avons lues, de 2018 à 2026, n'en mentionne. La Villa est un club de nuit avec piste de danse, bar, restaurant et coins câlins. O'Relax, à Lens, est en revanche un sauna libertin dont l'activité est vérifiée en octobre 2026."
+    },
+    {
+      "question": "Quelle note les clients donnent-ils à la Villa des Anges ?",
+      "answer": "Nous n'avons pas relevé la note Google nous-mêmes. L'annuaire Minuit Libertin indiquait au 2 août 2025 une note de 3,9 sur 5 pour 58 avis Google. Le Petit Futé n'affiche aucun avis de membre."
+    },
+    {
+      "question": "Où se trouve la Villa des Anges et peut-on se garer ?",
+      "answer": "Au 3721 route Nationale (RD 943, ex-RN 43), 62920 Chocques, en sortant de la commune par la D943, entre Lillers et Béthune. Le règlement évoque des parkings et le Petit Futé un « grand parking »."
+    }
+  ],
+  "unverified": [
+    "L'issue du redressement judiciaire (plan, cession ou liquidation) n'est pas connue au 21 octobre 2026 ; la décision du 14 octobre 2026 n'a été lue que sur societe.com.",
+    "Le prix actuel de la carte de membre (10 € par personne en 2018 et en 2020) n'est pas affiché.",
+    "Le quota d'hommes seuls évoqué par le Petit Futé n'apparaît sur aucune page du club.",
+    "La composition attendue d'un « trio » n'est pas précisée par le club.",
+    "Douches et barres de pole dance ne sont cités que par le Petit Futé ; l'aménagement actuel des salles n'a pas été vu (photos mises en ligne en 2021-2022).",
+    "Sauna, spa et espace BDSM, signalés par des annuaires, ne sont confirmés par aucune source officielle.",
+    "Le programme après le 12 décembre 2026, réveillon compris, n'était pas publié au 20 octobre 2026.",
+    "Aucune page Facebook ou Instagram n'a pu être lue sans connexion ni rattachée avec certitude au club, et la note Google n'a pas été relevée directement.",
+    "L'issue de la plainte et de la demande d'annulation annoncées par le gérant en octobre 2020 n'est pas connue."
+  ],
+  "sources": [
+    { "id": "s1", "label": "Site officiel, page d'accueil", "url": "https://la-villa-des-anges.fr/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s2", "label": "Site officiel, page « Les soirées » et ses neuf affiches mises en ligne le 12/10/2026", "url": "https://la-villa-des-anges.fr/les-soirees/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s3", "label": "Site officiel, page « Tarif » (modifiée le 20/04/2025)", "url": "https://la-villa-des-anges.fr/tarif/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s4", "label": "Site officiel, page « Dress code / Règlement »", "url": "https://la-villa-des-anges.fr/dress-code/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s5", "label": "Site officiel, page « Contact »", "url": "https://la-villa-des-anges.fr/contact/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s6", "label": "Site officiel, galerie « Photos – Le Club » (35 photos mises en ligne en 2021-2022)", "url": "https://la-villa-des-anges.fr/photos/", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s7", "label": "Site officiel, métadonnées publiques WordPress (dates des pages et des médias)", "url": "https://la-villa-des-anges.fr/wp-json/wp/v2/pages", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s8", "label": "Site officiel, formulaire de réservation du réveillon 2025 (PDF)", "url": "https://la-villa-des-anges.fr/wp-content/uploads/2025/12/reveillon.pdf", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s9", "label": "Site officiel, formulaire du réveillon du 31 décembre 2022 (PDF)", "url": "https://la-villa-des-anges.fr/wp-content/uploads/2022/11/villa-2022_c.pdf", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s10", "label": "Site officiel, affiches de l'été 2026 (mises en ligne le 23/07/2026)", "url": "https://la-villa-des-anges.fr/wp-content/uploads/2026/07/tropiques.png", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s11", "label": "Site officiel, affiches de septembre 2026", "url": "https://la-villa-des-anges.fr/wp-content/uploads/2026/09/IMG_20260901_014918_01.jpg", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s12", "label": "Site officiel, archive de l'accueil du 25/03/2018 (Wayback Machine)", "url": "https://web.archive.org/web/20180325042141/http://www.la-villa-des-anges.fr/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s13", "label": "Site officiel, archive de la page Tarifs du 27/03/2018", "url": "https://web.archive.org/web/20180327062605/http://www.la-villa-des-anges.fr/TARIFS.P.htm", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s14", "label": "Site officiel, archive de la page Règlement du 27/03/2018", "url": "https://web.archive.org/web/20180327062600/http://www.la-villa-des-anges.fr/REGLEMENT.O.htm", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s15", "label": "Site officiel, archive de l'accueil du 28/09/2019", "url": "https://web.archive.org/web/20190928233205/http://www.la-villa-des-anges.fr:80/accueil.e.htm", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s16", "label": "Site officiel, archive de la page Tarif du 04/10/2023", "url": "https://web.archive.org/web/20231004144317/https://la-villa-des-anges.fr/tarif/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s17", "label": "Site officiel, archive de la page Tarif du 22/06/2024 (première mention du « 1er février »)", "url": "https://web.archive.org/web/20240622011138/https://la-villa-des-anges.fr/tarif/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s18", "label": "Site officiel, archive de la page Tarif du 14/02/2025", "url": "https://web.archive.org/web/20250214030600/https://la-villa-des-anges.fr/tarif/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s19", "label": "Internet Archive, historique des captures de la-villa-des-anges.fr (2018-2026)", "url": "https://web.archive.org/cdx/search/cdx?url=la-villa-des-anges.fr&fl=timestamp,statuscode,original&collapse=timestamp:6", "type": "autre", "consulted": "2026-10-20" },
+    { "id": "s20", "label": "Afnic (RDAP), nom de domaine la-villa-des-anges.fr", "url": "https://rdap.nic.fr/domain/la-villa-des-anges.fr", "type": "autre", "consulted": "2026-10-20" },
+    { "id": "s21", "label": "Annuaire des entreprises, SAS La Villa des Anges (SIREN 832 361 869)", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/832361869", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s22", "label": "BODACC, annonces de la SAS La Villa des Anges (création, mise en activité, redressement judiciaire)", "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202502232127", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s23", "label": "societe.com, La Villa des Anges (jugements du tribunal de commerce d'Arras repris du registre)", "url": "https://www.societe.com/societe/la-villa-des-anges-832361869.html", "type": "autre", "consulted": "2026-10-20" },
+    { "id": "s24", "label": "Annuaire des entreprises, sociétés antérieures au 3721 route Nationale (La Villa, La Villa Cos'y)", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/500643390", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s25", "label": "BODACC, annonces des SARL La Villa et La Villa Cos'y", "url": "https://bodacc-datadila.opendatasoft.com/api/explore/v2.1/catalog/datasets/annonces-commerciales/records?where=registre%20like%20%22500643390%22", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s26", "label": "linfo.re, « Béthune : un arrêté préfectoral annonce la fermeture d'un club échangiste jusqu'au 2 novembre prochain » (21/10/2020)", "url": "https://www.linfo.re/france/faits-divers/bethune-un-arrete-prefectoral-annonce-la-fermeture-d-un-club-echangiste-jusqu-au-2-novembre-prochain", "type": "presse", "consulted": "2026-10-20" },
+    { "id": "s27", "label": "Petit Futé, fiche « La Villa des Anges – Club libertin – Chocques »", "url": "https://www.petitfute.com/v26797-chocques-62920/c9998-coquin/c1044-s-amuser-sortir/c206-club-libertin/1821606-la-villa-des-anges.html", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s28", "label": "Petit Futé, lieux coquins à Béthune et alentours (rayon de 20 km)", "url": "https://www.petitfute.com/v26695-bethune-62400/c9998-coquin/?distance=20", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s29", "label": "Minuit Libertin, « La Villa des Anges à Chocques » (informations au 02/08/2025)", "url": "https://minuitlibertin.com/la-villa-des-anges-a-chocques/", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s30", "label": "Minuit Libertin, clubs échangistes du Pas-de-Calais", "url": "https://minuitlibertin.com/trouvez-un-club-echangiste-dans-le-pas-de-calais-62/", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s31", "label": "Site officiel d'O'Relax (Lens), pages Prix & Horaires et Événements, constats de sa fiche vérifiée", "url": "https://orelax-379687720214.europe-west1.run.app/events", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s32", "label": "Site officiel, formulaire « Réveillon 2024 – Dimanche 31 décembre » (nuit du 31/12/2023, PDF)", "url": "https://la-villa-des-anges.fr/wp-content/uploads/2023/10/NOUVEL-AN-2024.pdf", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s33", "label": "Site officiel, page « Réveillon » : formulaire et menu du 31 décembre 2024 (mis en ligne le 29/11/2024)", "url": "https://la-villa-des-anges.fr/reveillon/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s34", "label": "Site officiel, affiche « 2025 New Year's Eve » du réveillon du 31/12/2024 (mise en ligne le 11/12/2024)", "url": "https://la-villa-des-anges.fr/wp-content/uploads/2024/12/IMG_20241211_024720_01.jpg", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s35", "label": "Site officiel, menu de la Saint-Sylvestre mis en ligne avec le formulaire 2025 (10/12/2025)", "url": "https://la-villa-des-anges.fr/wp-content/uploads/2025/12/IMG_20251210_020833_01-2.jpg", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s36", "label": "Site officiel, page « Menu de la St Sylvestre 2022 » : menu et formulaire du réveillon du 31 décembre 2021 (créée le 16/11/2021)", "url": "https://la-villa-des-anges.fr/menu-st-sylvestre-2021-2022/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s37", "label": "Site officiel, page « Nouvel an 2024 » : menu du réveillon du 31 décembre 2023 (mis en ligne le 16/11/2023)", "url": "https://la-villa-des-anges.fr/nouvel-an-2024-2/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s38", "label": "Site officiel d'O'Pulsions (Hénin-Beaumont), adresse et ancien domaine laberjeurie.com qui y renvoie", "url": "https://www.opulsions.com/", "type": "autre", "consulted": "2026-10-21" },
+    { "id": "s39", "label": "BODACC, annonces de TOVA SAUNA (SaunAmusez Vous, Béthune) : liquidation ouverte le 30/09/2015, radiation publiée le 30/06/2016", "url": "https://bodacc-datadila.opendatasoft.com/api/explore/v2.1/catalog/datasets/annonces-commerciales/records?where=commercant%20like%20%22TOVA%20SAUNA%22", "type": "registre", "consulted": "2026-10-21" },
+    { "id": "s40", "label": "France 3 Hauts-de-France, « Covid-19 : un club libertin de Chocques fermé deux semaines suite à des \"manquements répétés\" aux règles sanitaires » (20/10/2020)", "url": "https://france3-regions.franceinfo.fr/hauts-de-france/pas-calais/covid-19-club-libertin-chocques-ferme-deux-semaines-suite-manquements-repetes-aux-regles-sanitaires-1886390.html", "type": "presse", "consulted": "2026-10-21" },
+    { "id": "s41", "label": "ICI Nord, « Coronavirus : un club libertin du Pas-de-Calais fermé pour deux semaines sur arrêté préfectoral » (20/10/2020)", "url": "https://www.ici.fr/infos/societe/le-prefet-du-pas-de-calais-ordonne-la-fermeture-temporaire-d-un-club-libertin-a-chocques-1603200236", "type": "presse", "consulted": "2026-10-21" },
+    { "id": "s42", "label": "Horizon Actu, « Le préfet annonce la fermeture temporaire du club libertin à Choques, près de Béthune » (21/10/2020)", "url": "https://www.horizonactu.fr/actualite-24000-le-prefet-annonce-la-fermeture-temporaire-du-club-libertin-a-choques-pres-de-bethune", "type": "presse", "consulted": "2026-10-21" },
+    { "id": "s43", "label": "Site officiel, archive de l'accueil du 23/10/2020 : message sur la fermeture préfectorale, carte de membre à 10 €", "url": "https://web.archive.org/web/20201023023237/http://www.la-villa-des-anges.fr/", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s44", "label": "Site officiel, archive de l'accueil du 25/11/2020 : club fermé pendant le confinement", "url": "https://web.archive.org/web/20201125022001/http://www.la-villa-des-anges.fr/", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s45", "label": "Infonet, La Villa des Anges (observations du registre : jugements du 07/01/2026 et du 13/05/2026)", "url": "https://infonet.fr/entreprises/83236186900015-la-villa-des-anges/", "type": "autre", "consulted": "2026-10-21" },
+    { "id": "s46", "label": "annuaire-horaire.fr, fiche « La Villa Cos'Y », restaurant pour réceptions au 3721 route Nationale 43", "url": "https://www.annuaire-horaire.fr/societe/Restaurant-pour-receptions-Chocques-La-Villa-CosY/4992847", "type": "annuaire", "consulted": "2026-10-21" }
+  ]
+}

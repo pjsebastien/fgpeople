@@ -1,0 +1,19 @@
+{
+  "id": "new-le-beluga-club-ifs",
+  "nom": "Le Beluga Club",
+  "type": "club libertin avec dancefloor et balnéo",
+  "types_normalises": ["Club", "Spa & Wellness", "Sauna"],
+  "adresse": "Rue de la Dronnière",
+  "code_postal": "14123",
+  "ville": "Ifs",
+  "departement_code": "14",
+  "departement_nom": "Calvados",
+  "region": "Normandie",
+  "pays": "France",
+  "telephone": "0642881190",
+  "email": "lebelugaclub@orange.fr",
+  "site_web": "https://www.lebelugaclub.fr/",
+  "equipements": ["Surface de plus de 500 m²", "Bar lounge", "Dancefloor avec DJ", "Jacuzzi à débordement", "Piscine à jets", "Sauna", "Hammam", "Douches", "Vestiaire", "Love rooms", "Love cage", "BDSM room", "Black room avec glory hole", "Couloir d'alcôves", "Salle de massage", "Parking privé"],
+  "verification": { "status": "actif" },
+  "addedAt": "2026-10-21"
+}

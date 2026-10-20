@@ -1,0 +1,369 @@
+{
+  "slug": "l-antre-nous-la-seyne-sur-mer",
+  "clubId": "14724",
+  "researchedAt": "2026-10-21",
+  "display": { "nom": "L'Antre Nous", "ville": "La Seyne-sur-Mer" },
+  "status": {
+    "value": "ferme",
+    "summary": "Le 26 septembre 2013, le redressement judiciaire de la SARL LOVISY, qui exploitait L'Antre Nous, a été converti en liquidation ; une semaine plus tard, le site du club n'affichait plus que « site introuvable ». L'établissement est fermé au registre, et la procédure a été close le 28 mai 2015 pour insuffisance d'actif.",
+    "sources": ["s15", "s17", "s19", "s20", "s22"]
+  },
+  "seo": {
+    "title": "L'Antre Nous à La Seyne-sur-Mer : restaurant libertin fermé en 2013",
+    "metaDescription": "Dîner puis club libertin sur 400 m² : L'Antre Nous a fermé à l'automne 2013, après sa liquidation. Vendredis trio, élection de Miss Antre Nous, couple à 20 €.",
+    "subtitle": "Restaurant et club libertin de 400 m² à La Seyne-sur-Mer (83), ouvert vers 2009 et fermé à l'automne 2013",
+    "targetQueries": [
+      "l'antre nous la seyne sur mer",
+      "l'antre nous club libertin",
+      "club libertin la seyne sur mer"
+    ]
+  },
+  "lead": "L'Antre Nous faisait dîner ses clients avant d'ouvrir son club : restaurant sur réservation le vendredi et le samedi, tapas le jeudi, puis discothèque et huit coins câlins sur 400 m². Ouvert vers septembre 2009, il réservait ses samedis aux couples et aux femmes. En redressement judiciaire depuis mars 2013, sa société exploitante a été liquidée le 26 septembre 2013, et le club n'a pas rouvert.",
+  "glance": [
+    { "icon": "closed", "label": "Fermé", "value": "Depuis l'automne 2013 (liquidation)" },
+    { "icon": "history", "label": "Années d'activité", "value": "Vers 2009 à 2013", "confidence": "source_unique" },
+    { "icon": "food", "label": "Formule", "value": "Dîner puis club libertin, sur 400 m²" },
+    { "icon": "euro", "label": "Entrée couple en 2013", "value": "20 € jeudi et vendredi · 30 € samedi" },
+    { "icon": "map", "label": "Club voisin", "value": "La Chrysalide : soirée le 26 sept. 2026" },
+    { "icon": "calendar", "label": "Dernière soirée datée", "value": "29 juin 2013, « soirée blanche »" }
+  ],
+  "highlights": [
+    "Le club n'a pas rouvert : sa société a été liquidée le 26 septembre 2013, et la procédure close le 28 mai 2015 pour insuffisance d'actif.",
+    "Ne vous fiez pas à lantrenous-83.com : réenregistré par un tiers le 28 mars 2026, ce domaine n'a plus rien à voir avec le club.",
+    "Aucun repreneur connu : le BODACC ne publie aucune vente du fonds de L'Antre Nous, et nous ignorons ce qu'est devenu son local du 413 chemin Robert Brun.",
+    "À La Seyne, La Chrysalide annonçait sur son blog une soirée à six DJ le 26 septembre 2026 ; ses horaires et tarifs restent derrière une vérification d'âge.",
+    "Le 21 octobre 2026, un annuaire généraliste rangeait encore L'Antre Nous parmi les restaurants de l'avenue Robert Brun, sans signaler sa fermeture de 2013."
+  ],
+  "keyFacts": [
+    { "label": "Statut", "value": "Fermé à l'automne 2013, après la liquidation du 26 septembre", "confidence": "confirme", "sources": ["s15", "s17", "s20"] },
+    { "label": "Ouverture du club", "value": "Vers septembre 2009 (deux ans fêtés le 24 septembre 2011)", "confidence": "source_unique", "sources": ["s12"] },
+    { "label": "Concept", "value": "Restaurant sur réservation et club libertin avec discothèque", "confidence": "confirme", "sources": ["s1", "s2", "s4"] },
+    { "label": "Surface annoncée", "value": "400 m²", "confidence": "confirme", "sources": ["s2", "s4"] },
+    { "label": "Équipements (2013)", "value": "Discothèque, écran géant, 8 coins câlins dont 2 fermant à clé", "confidence": "confirme", "sources": ["s1", "s4"] },
+    { "label": "Public en 2013", "value": "Jeudi mixte, vendredi trio, samedi couples et femmes", "confidence": "confirme", "sources": ["s1", "s4"] },
+    { "label": "Société exploitante", "value": "SARL LOVISY (SIREN 502 458 151), créée en février 2008", "confidence": "confirme", "sources": ["s11", "s17", "s18"] },
+    { "label": "Fin de la procédure", "value": "Clôture pour insuffisance d'actif le 28 mai 2015", "confidence": "confirme", "sources": ["s22"] }
+  ],
+  "sections": [
+    {
+      "id": "diner-puis-club",
+      "title": "Dîner sur réservation, puis la piste et huit coins câlins sur 400 m²",
+      "icon": "food",
+      "summary": "L'Antre Nous servait à dîner le vendredi et le samedi, des tapas le jeudi, puis ouvrait son club : discothèque, écran géant, huit coins câlins dont deux fermant à clé.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le site se présentait comme un « restaurant club libertin » de 400 m², ouvert trois ou quatre soirs par semaine selon les années, plus les veilles de fête. Le vendredi et le samedi, le restaurant fonctionnait sur réservation ; le site ne donnait pas l'heure du dîner.\n\nLe jeudi, une assiette de tapas avec un verre de vin, à 15 € en 2011 comme en 2013, remplaçait le dîner. En octobre 2011, l'apéritif tapas commençait à 20 h 30 et le club ouvrait à 22 h 30 ; en juin 2013, les tapas étaient servies de 20 h 30 à 22 h 30 sur réservation, un jeudi comme un vendredi."
+        },
+        {
+          "kind": "list",
+          "title": "Les espaces décrits par le site en 2013",
+          "items": [
+            "Une salle de restaurant, sur réservation le vendredi et le samedi",
+            "Une discothèque, avec un DJ attitré présenté pour les deux ans du club en septembre 2011 et encore à l'affiche en juin 2013",
+            "Un écran géant qui diffusait Canal+",
+            "Huit coins câlins, dont deux fermant à clé",
+            "Une salle de bain et un vestiaire"
+          ]
+        },
+        {
+          "kind": "callout",
+          "tone": "info",
+          "title": "Piscine et jacuzzi : seulement en 2010",
+          "body": "En août 2010, le site ajoutait une terrasse, une piscine et un jacuzzi, ces deux derniers « en été ». Ils disparaissent des descriptifs de 2011 et de 2013 : nous ignorons s'ils ont été supprimés ou simplement plus mis en avant."
+        }
+      ],
+      "sources": ["s1", "s2", "s4", "s6", "s12", "s13", "s27", "s30", "s32", "s33", "s34"]
+    },
+    {
+      "id": "lovisy-2008-2015",
+      "title": "De la SARL LOVISY créée en 2008 à la liquidation du 26 septembre 2013",
+      "icon": "history",
+      "summary": "La société exploitante, créée en février 2008, a été placée en redressement en mars 2013 ; le club annonçait encore des soirées fin juin, avant la liquidation du 26 septembre.",
+      "blocks": [
+        {
+          "kind": "timeline",
+          "items": [
+            { "date": "1er février 2008", "text": "Début d'activité de la SARL LOVISY : restauration, prestations de services, détente, loisirs." },
+            { "date": "Vers septembre 2009", "text": "Ouverture du club, déduite de ses deux ans fêtés le 24 septembre 2011." },
+            { "date": "Août 2010", "text": "Mise en ligne d'un nouveau site." },
+            { "date": "Automne 2011", "text": "« Nouvelle direction, nouvelle équipe » annoncée en page d'accueil ; aucune cession n'est publiée, la société exploitante reste LOVISY." },
+            { "date": "11 mars 2013", "text": "Redressement judiciaire ouvert par le tribunal de commerce de Toulon, cessation des paiements fixée au 1er mars." },
+            { "date": "Juin 2013", "text": "L'accueil affiche « l'établissement est ouvert » avec un numéro mobile de renseignements, mention encore en ligne le 2 septembre ; des soirées sont annoncées jusqu'au 29 juin." },
+            { "date": "26 septembre 2013", "text": "Conversion en liquidation judiciaire. La dernière version complète du site est archivée le même jour." },
+            { "date": "3 octobre 2013", "text": "Le site n'affiche plus que « site introuvable »." },
+            { "date": "4 mars 2014", "text": "Date de fermeture de l'établissement au registre, jour du dépôt de la liste des créances." },
+            { "date": "28 mai 2015", "text": "Clôture de la liquidation pour insuffisance d'actif." },
+            { "date": "28 mars 2026", "text": "Après avoir surtout redirigé vers des sites de rencontre de fin 2014 à juillet 2025, le domaine lantrenous-83.com est réenregistré par un tiers, pour un site sans rapport avec le club." }
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "La date de la dernière soirée reste inconnue, quelque part entre le 29 juin et la fin septembre 2013.\n\nLe registre affiche encore la société comme active, mais son unique établissement y est fermé. Aucune vente du fonds n'a été publiée au BODACC. Le numéro 413 regroupe plusieurs entreprises de la zone d'activités, et nous ignorons ce qu'est devenu le local du club."
+        }
+      ],
+      "sources": ["s1", "s2", "s3", "s12", "s13", "s15", "s16", "s17", "s18", "s19", "s20", "s21", "s22", "s31", "s33"]
+    },
+    {
+      "id": "la-chrysalide-camp-laurent",
+      "title": "La Chrysalide, au quartier Camp Laurent depuis novembre 2013",
+      "icon": "map",
+      "summary": "Seul lieu libertin repéré à La Seyne, La Chrysalide s'y est installée deux mois après la liquidation de L'Antre Nous ; son blog annonçait une soirée le 26 septembre 2026.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "En 2011, un message signé [La Chrysalide](/la-chrysalide-saint-cyr-sur-mer) sur un annuaire la présentait comme « le nouveau club » de Saint-Cyr-sur-Mer. Le 29 novembre 2013, sa société y fermait son établissement Le Fantasy et installait son siège au 118 avenue Marcel Berre, quartier Camp Laurent, à moins d'un kilomètre de l'ancien club selon les géocodages du registre.\n\nCe n'est pas une reprise : la société est différente, et son fonds a été acheté 199 000 € à la société Le Palais de la Réception, pas à LOVISY (annonce de mars 2014). Pour La Seyne, trois guides des clubs varois de 2025-2026 ne nomment qu'elle, et aucun ne cite L'Antre Nous."
+        },
+        {
+          "kind": "list",
+          "title": "Son activité vérifiable au 21 octobre 2026",
+          "items": [
+            "Son site se dit « situé à La Seyne sur mer » et « le plus grand club libertin en PACA », formule non vérifiée",
+            "Sur son blog, un billet du 21 septembre 2026 annonçait pour le samedi 26 une soirée à six DJ dans deux salles ; un autre, du 11 octobre, racontait une soirée du 18 septembre",
+            "Accueil du site modifié le 14 octobre 2026 ; pages horaires et tarifs, événements, restaurant, spa, clubbing, label BDSM",
+            "Société active, 10 à 19 salariés en 2024, comptes publiés le 1er octobre 2026",
+            "Horaires et tarifs masqués par une vérification d'âge, donc non lus"
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Pour réunir des partenaires avant de pousser la porte de La Chrysalide, Gleese, dont la formule annuelle revient à 3,75 € par mois, permet de [mesurer ce que l'Ouest varois compte de profils libertins](aff:gleese) avant de chercher un couple ou une partenaire de sortie. Ailleurs dans le département, voyez [les clubs et saunas libertins recensés dans le Var](/departement/var)."
+        }
+      ],
+      "sources": ["s24", "s25", "s41", "s42", "s43", "s44", "s45"]
+    },
+    {
+      "id": "samedi-couples-vendredi-trio",
+      "title": "Le samedi sans homme seul, le vendredi en trio, le jeudi mixte",
+      "icon": "users",
+      "summary": "En 2013, le samedi était réservé aux couples et aux femmes, le vendredi annoncé « trio » et le jeudi mixte ; en 2010, le site se disait réservé aux couples et aux femmes.",
+      "blocks": [
+        {
+          "kind": "table",
+          "caption": "Jours et publics selon les versions du site",
+          "headers": ["Version du site", "Soirs d'ouverture", "Public annoncé"],
+          "rows": [
+            ["Août 2010", "Vendredi, samedi, dimanche et veilles de fête", "Couples et femmes ; dimanche « trio »"],
+            ["Fin 2011", "Jeudi (dès octobre), vendredi, samedi, dimanche", "Jeudi et dimanche mixtes, vendredi trio, samedi couples et femmes"],
+            ["Septembre 2013", "Jeudi, vendredi, samedi et veilles de fête", "Jeudi mixte, vendredi trio, samedi couples et femmes"]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Sans tarif dans la grille de 2010, les hommes seuls figurent dans celle de décembre 2011, affichée sur la même page que l'annonce d'une « nouvelle direction » et de l'ouverture du jeudi. Ils payaient alors 50 €, deux fois et demie l'entrée d'un couple, et n'avaient pas d'entrée le samedi."
+        },
+        {
+          "kind": "list",
+          "title": "Les règles publiées sur le site entre 2010 et 2013",
+          "items": [
+            "Femmes : jupe ou robe obligatoire, tenues à thème bienvenues",
+            "Hommes : ni baskets ni tee-shirt publicitaire",
+            "Réservation en ligne 24 heures à l'avance, sinon par téléphone",
+            "La direction se réservait le droit d'entrée"
+          ]
+        }
+      ],
+      "sources": ["s2", "s3", "s4", "s5", "s6", "s8", "s10"]
+    },
+    {
+      "id": "tarifs-2010-2013",
+      "title": "De 15 € l'entrée en 2010 à la formule dîner et club à 90 € en 2013",
+      "icon": "euro",
+      "summary": "En 2010, l'entrée valait 15 € par personne avec une consommation ; en 2013, un couple payait 20 ou 30 € selon le soir, et la formule dîner plus club 90 €.",
+      "blocks": [
+        {
+          "kind": "table",
+          "caption": "Les deux premières grilles publiées (celle de septembre 2013 figure dans l'encadré des tarifs)",
+          "headers": ["Formule", "Août 2010", "Décembre 2011"],
+          "rows": [
+            ["Entrée club seule", "15 € par personne avec une consommation, dès 23 h", "Couple 20 €, 30 € le samedi, deux consommations"],
+            ["Femme seule", "Entrée gratuite", "Entrée offerte vendredi, samedi et dimanche"],
+            ["Homme seul", "Aucun tarif publié (site « réservé aux couples et aux femmes »)", "50 € le jeudi, le vendredi et le dimanche"],
+            ["Dîner avec entrée club", "30 € par personne", "Couple 60 €, femme 30 €, homme 40 € (sauf samedi), boissons en sus"],
+            ["Dimanche, couple", "Entrée offerte (soirée trio)", "20 €"]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "La grille de septembre 2013 garde le couple à 20 € le jeudi et le vendredi, à 30 € le samedi, et l'homme seul à 50 €. Elle fait en revanche payer 10 € aux femmes, dont l'entrée était offerte fin 2011.\n\nDernière nouveauté avant la fermeture : une « nouvelle formule resto + club » à 90 € par couple, le vendredi, le samedi et les veilles de fête. Elle comprenait entrée, apéritif, repas, vin en pichet à discrétion, café, puis une consommation par personne au club."
+        }
+      ],
+      "sources": ["s4", "s5", "s6"]
+    },
+    {
+      "id": "acces-a50-castorama",
+      "title": "Sortie 13 de l'A50, puis le fléchage « L'Antre Nous » côté Castorama",
+      "icon": "car",
+      "summary": "Le club occupait le 413 chemin Robert Brun ; son site guidait depuis la sortie 13 de l'A50, puis par un fléchage avenue Robert Brun, avec Castorama pour repère.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Les mentions légales, le pied de page du site et le registre donnent la même adresse : **413 chemin Robert Brun, 83500 La Seyne-sur-Mer**. La page d'accès du club écrivait « avenue Robert Brun », et deux annuaires ont propagé une coquille, « Brum »."
+        },
+        {
+          "kind": "list",
+          "title": "L'itinéraire publié par le club",
+          "items": [
+            "Autoroute A50, sortie n° 13",
+            "Fléchage « L'Antre Nous » avenue Robert Brun, avec Castorama pour repère",
+            "Pour dormir à proximité, une page conseillait cinq hôtels de La Seyne et de Six-Fours, dont le Novotel de Camp Laurent"
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le registre rattache ce numéro à la zone industrielle de Camp Laurent : plusieurs entreprises domiciliées au 413 portent cette mention, que le site du club ne donnait pas. Les coordonnées GPS publiées par le club et celles du registre diffèrent d'environ 300 m ; nous ne retenons aucun point précis.\n\nCette adresse circule encore sans mention de la fermeture. Le 21 octobre 2026, un annuaire généraliste rangeait L'Antre Nous parmi les restaurants du 413 avenue Robert Brun ; un annuaire de clubs échangistes a affiché la même fiche, soirées du vendredi au dimanche, de 2011 à 2020 au moins."
+        }
+      ],
+      "sources": ["s1", "s7", "s11", "s17", "s23", "s31", "s36", "s37", "s38"]
+    },
+    {
+      "id": "miss-antre-nous-et-soirees",
+      "title": "Élection de Miss Antre Nous, soirée blanche et gang bang du deuxième jeudi",
+      "icon": "sparkles",
+      "summary": "Le club annonçait des soirées à thème (dentelle, fluo, Black and White), un gang bang chaque deuxième jeudi en 2011 et l'élection de Miss Antre Nous le 15 juin 2013.",
+      "blocks": [
+        {
+          "kind": "timeline",
+          "items": [
+            { "date": "Juillet 2010", "text": "Quatre soirées à thème en neuf jours : string le 23, fluo le 24, guêpière le 30, dentelle le 31." },
+            { "date": "Printemps 2011", "text": "Une soirée antillaise, avec l'apéritif offert, puis une soirée VIP, annoncées sans date en avril et en mai ; une page « Élection Mister Antre Nous » existait aussi, mais son archive de juin est vide." },
+            { "date": "25 juin 2011", "text": "« Soirée femme bi », annoncée en bandeau." },
+            { "date": "Octobre 2011", "text": "Jeudis et dimanches « apéro coquin » avec tapas ; gang bang chaque deuxième jeudi du mois ; « Black and White » réservée aux couples, en noir et blanc, le samedi 22 ; ouverture exceptionnelle le lundi 31, veille de jour férié." },
+            { "date": "31 décembre 2011", "text": "Saint-Sylvestre à places limitées, réservation conseillée." },
+            { "date": "Juin 2013", "text": "Jeudis « 3eme sex et mixte », trio le vendredi 7, femme bi le samedi 8, élection de Miss Antre Nous le samedi 15, Black and White mixte le vendredi 28." },
+            { "date": "29 juin 2013", "text": "« Soirée blanche » réservée aux couples, en tenue blanche : la dernière soirée datée que nous ayons retrouvée." }
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Les albums photo du site, que nous n'avons pas ouverts, portaient d'autres thèmes : Halloween, Saint-Valentin 2011, Pâques 2011, soirées bulles, transparence, mini-jupes, andalouse, galette des rois 2012.\n\nPour retrouver des complices d'une soirée en blanc ou en noir et blanc, Wyylde permet de [réunir des partenaires de soirée à thème dans l'aire toulonnaise](aff:wyylde) ; son tarif le plus bas, 8,33 € par mois, se règle d'un coup pour l'année, et le renouvellement reste actif tant que vous ne l'avez pas coupé."
+        }
+      ],
+      "sources": ["s1", "s12", "s13", "s14", "s15", "s27", "s28", "s29", "s30", "s33", "s34", "s35", "s49", "s50"]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Jeudi": "Soirée mixte · tapas de 20 h 30 à 22 h 30",
+      "Vendredi": "Soirée trio · restaurant sur réservation",
+      "Samedi": "Couples et femmes · restaurant sur réservation",
+      "Veilles de fête": "Ouvert",
+      "Dimanche à mercredi": "Fermé (le dimanche était mixte fin 2011)"
+    },
+    "note": "Programme de septembre 2013, le dernier publié avant la fermeture de l'automne 2013. Heure du dîner non précisée par le site ; club à 22 h 30 selon les annonces d'octobre 2011.",
+    "confidence": "source_unique",
+    "sources": ["s1", "s4", "s13", "s30", "s32"]
+  },
+  "tarifs": {
+    "rows": {
+      "Jeudi": "Couple 20 € · femme 10 € · homme seul 50 € · tapas 15 €",
+      "Vendredi": "Couple 20 € · femme 10 € · homme seul 50 €",
+      "Samedi": "Couple 30 € · femme 10 € · pas d'homme seul",
+      "Dîner et entrée club": "Couple 60 € · femme 30 € · homme 40 € (vendredi uniquement)",
+      "Formule resto + club": "90 € par couple (vendredi, samedi, veilles de fête)"
+    },
+    "note": "Grille de septembre 2013, la dernière publiée avant la fermeture. Entrées avec une ou deux consommations selon la formule ; dîner hors boissons ; la formule à 90 € comprend apéritif, repas, vin en pichet, café et une consommation par personne au club.",
+    "confidence": "source_unique",
+    "sources": ["s4"]
+  },
+  "equipements": [
+    "Restaurant (sur réservation)",
+    "Discothèque",
+    "Écran géant (Canal+)",
+    "Coins câlins (8, dont 2 fermant à clé)",
+    "Salle de bain",
+    "Vestiaire"
+  ],
+  "corrections": {
+    "adresse": "413 chemin Robert Brun",
+    "telephone": "",
+    "email": "",
+    "site_web": "",
+    "sources": ["s11", "s16", "s17", "s20"]
+  },
+  "faq": [
+    {
+      "question": "L'Antre Nous est-il encore ouvert ?",
+      "answer": "Non. La SARL LOVISY, qui exploitait le club, a été placée en liquidation judiciaire le 26 septembre 2013, et le site n'affichait plus que « site introuvable » une semaine plus tard. La procédure a été close le 28 mai 2015 pour insuffisance d'actif, et aucune vente du fonds n'a été publiée."
+    },
+    {
+      "question": "Quel club libertin est ouvert à La Seyne-sur-Mer aujourd'hui ?",
+      "answer": "Le seul lieu libertin que nous ayons repéré dans la commune est [La Chrysalide](/la-chrysalide-saint-cyr-sur-mer), au quartier Camp Laurent depuis novembre 2013. Son blog annonçait une soirée à six DJ le samedi 26 septembre 2026, mais horaires et tarifs ne se lisent qu'après une vérification d'âge : consultez son programme avant de vous déplacer. Si vous préférez ne pas y aller seuls, Carré Libertin, qui annonce plus de 500 000 inscrits, permet de [trouver le couple qui vous accompagnera à Camp Laurent](aff:carre-libertin)."
+    },
+    {
+      "question": "Où se trouvait L'Antre Nous ?",
+      "answer": "Au 413 chemin Robert Brun, 83500 La Seyne-sur-Mer, selon ses mentions légales et le registre. Le club guidait ses clients depuis la sortie 13 de l'A50, puis par un fléchage avenue Robert Brun, avec Castorama pour repère."
+    },
+    {
+      "question": "Combien coûtait une soirée à L'Antre Nous ?",
+      "answer": "Dans la dernière grille publiée, en septembre 2013 : couple 20 € le jeudi et le vendredi, 30 € le samedi ; femme seule 10 € ; homme seul 50 €, sans entrée le samedi. Le dîner avec entrée au club coûtait 60 € pour un couple, et une formule à 90 € par couple incluait apéritif, repas, vin et café. En 2010, l'entrée était de 15 € par personne."
+    },
+    {
+      "question": "Les hommes seuls étaient-ils admis à L'Antre Nous ?",
+      "answer": "La grille de 2010 ne leur donnait aucun tarif, et le site se disait alors réservé aux couples et aux femmes. Dans les grilles de décembre 2011 et de septembre 2013, ils entraient le jeudi, soir mixte, et le vendredi, soir trio, pour 50 € (le dimanche aussi, fin 2011). Aucune entrée homme seul n'était prévue le samedi."
+    },
+    {
+      "question": "Que disaient les avis sur L'Antre Nous ?",
+      "answer": "Il en reste très peu. Sur un annuaire de clubs échangistes, deux commentaires étaient en ligne en juin 2011 ; un seul décrivait le club, pour saluer sa propreté et l'accueil de ses patrons. Nous n'avons trouvé ni note Google, ni page Facebook du club, ni article de Var-matin ou de La Marseillaise à son sujet."
+    },
+    {
+      "question": "Existe-t-il encore un restaurant libertin à La Seyne-sur-Mer ?",
+      "answer": "Aucun restaurant libertin n'a repris le fonds de L'Antre Nous : le BODACC ne publie aucune vente. La Chrysalide affiche une page « Restaurant » sur son site, consulté le 20 octobre 2026, mais son contenu, masqué par la vérification d'âge, n'a pas pu être lu : demandez au club ses jours de service avant de réserver."
+    }
+  ],
+  "unverified": [
+    "La date de la dernière soirée : entre le 29 juin 2013, dernière soirée datée, et la liquidation du 26 septembre 2013.",
+    "L'activité de la société entre février 2008, date de sa création, et l'ouverture présumée du club vers septembre 2009.",
+    "Le sort de la piscine et du jacuzzi annoncés en 2010, absents des descriptifs suivants.",
+    "Ce qu'est devenu le local du 413 chemin Robert Brun après 2013.",
+    "Un article de presse locale (Var-matin, La Marseillaise), une page Facebook ou une note Google du club : aucun retrouvé lors de nos recherches du 21 octobre 2026.",
+    "Adresse : deux annuaires donnent « 413 avenue Robert Brum » ; nous retenons « 413 chemin Robert Brun », graphie du registre et des mentions légales du club.",
+    "Les horaires et tarifs actuels de La Chrysalide, non lisibles sans vérification d'âge.",
+    "L'activité des autres lieux cités autour de la rade : Le Calistria (Six-Fours-les-Plages) et Crazy Lib (La Valette-du-Var), nommés par des guides de 2025-2026 ; Le Lipstick (Six-Fours-les-Plages), dit fermé depuis décembre 2010 par un message de 2011 signé La Chrysalide, et dont le domaine était en vente le 20 octobre 2026 ; Le Boudoir Club (Ollioules), au 14 rue Nationale, adresse qu'un annuaire non daté attribue à un club nommé Le Cyrano."
+  ],
+  "sources": [
+    { "id": "s1", "label": "Site officiel de L'Antre Nous, page d'accueil (archive du 02/09/2013)", "url": "https://web.archive.org/web/20130902062005/http://www.lantrenous-83.com:80/accueil-1.html", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s2", "label": "Site officiel, page d'accueil (archive du 15/08/2010)", "url": "https://web.archive.org/web/20100815073210/http://www.lantrenous-83.com:80/accueil-1.html", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s3", "label": "Site officiel, page d'accueil : « nouvelle direction » et ouverture du jeudi (archive du 27/11/2011)", "url": "https://web.archive.org/web/20111127170702/http://www.lantrenous-83.com:80/accueil-1.html", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s4", "label": "Site officiel, présentation et tarifs (archive du 14/09/2013)", "url": "https://web.archive.org/web/20130914002255/http://www.lantrenous-83.com:80/lantre-nous-2.html", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s5", "label": "Site officiel, présentation et tarifs (archive du 02/12/2011)", "url": "https://web.archive.org/web/20111202042548/http://www.lantrenous-83.com:80/lantre-nous-2.html", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s6", "label": "Site officiel, présentation et tarifs (archive du 15/08/2010)", "url": "https://web.archive.org/web/20100815075153/http://www.lantrenous-83.com:80/lantre-nous-2.html", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s7", "label": "Site officiel, infos utiles et accès (archive du 18/09/2013)", "url": "https://web.archive.org/web/20130918010956/http://www.lantrenous-83.com:80/infos-utiles-6.html", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s8", "label": "Site officiel, dress code (archive du 15/08/2010)", "url": "https://web.archive.org/web/20100815075147/http://www.lantrenous-83.com:80/dress-code-15.html", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s10", "label": "Site officiel, réservation (archive du 15/08/2010)", "url": "https://web.archive.org/web/20100815075308/http://www.lantrenous-83.com:80/reservation-4.html", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s11", "label": "Site officiel, mentions légales : SARL LOVISY (archive du 10/01/2011)", "url": "https://web.archive.org/web/20110110025818/http://www.lantrenous-83.com:80/modules/cometik_4/views/mentionslegales/popup.php?v=ODMwMDIx", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s12", "label": "Site officiel, actualité « Happy birthday » : deux ans le 24 septembre (archive du 11/09/2011)", "url": "https://web.archive.org/web/20110911210712/http://www.lantrenous-83.com:80/actualites-13-32_14-happy-birthday.html", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s13", "label": "Site officiel, « Nos soirées » et annonces de juin 2013 (archive du 18/09/2013)", "url": "https://web.archive.org/web/20130918010842/http://www.lantrenous-83.com:80/nos-soirees-3.html", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s14", "label": "Site officiel, albums photo, partenaires et hôtels proches du club (archives de 2011)", "url": "https://web.archive.org/web/20110109010655/http://www.lantrenous-83.com:80/nos-photos-19-75_page-1.html", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s15", "label": "Internet Archive, historique des captures du domaine lantrenous-83.com (2010-2025)", "url": "https://web.archive.org/cdx/search/cdx?url=lantrenous-83.com&matchType=domain&fl=timestamp,original,statuscode&collapse=timestamp:6", "type": "autre", "consulted": "2026-10-20" },
+    { "id": "s16", "label": "Enregistrement du domaine lantrenous-83.com (RDAP Verisign) et état du site au 20/10/2026", "url": "https://rdap.verisign.com/com/v1/domain/lantrenous-83.com", "type": "autre", "consulted": "2026-10-20" },
+    { "id": "s17", "label": "Annuaire des entreprises, SARL LOVISY (SIREN 502 458 151), enseigne L'ANTRE NOUS", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/502458151", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s18", "label": "BODACC, immatriculation de LOVISY (publiée le 29/02/2008)", "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A200800373056", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s19", "label": "BODACC, ouverture du redressement judiciaire de LOVISY (jugement du 11/03/2013)", "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A201300621913", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s20", "label": "BODACC, conversion en liquidation judiciaire de LOVISY (jugement du 26/09/2013)", "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A201301971695", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s21", "label": "BODACC, dépôt de la liste des créances de LOVISY (04/03/2014)", "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A201400561632", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s22", "label": "BODACC, clôture pour insuffisance d'actif de LOVISY (jugement du 28/05/2015)", "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A201501112092", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s23", "label": "Sauna Club Libertin, fiche L'Antre Nous (annuaire, non datée)", "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_3.php?id=14724&d=83", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s24", "label": "Annuaire des entreprises et BODACC, LA CHRYSALIDE SARL (SIREN 508 565 892)", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/508565892", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s25", "label": "Site officiel de La Chrysalide (accueil et flux, modifié le 14/10/2026)", "url": "https://lachrysalide.fr/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s27", "label": "Site officiel, actualité « Ouverture du club le jeudi » (archive du 28/09/2011)", "url": "https://web.archive.org/web/20110928050320/http://www.lantrenous-83.com:80/actualites-13-32_15-ouverture-du-club-le-jeudi.html", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s28", "label": "Site officiel, actualité « Attention » : Saint-Sylvestre 2011 (archive du 27/11/2011)", "url": "https://web.archive.org/web/20111127090813/http://www.lantrenous-83.com:80/actualites-13-32_19-attention.html", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s29", "label": "Site officiel, « Nos soirées » de l'été 2010 (archive du 15/08/2010)", "url": "https://web.archive.org/web/20100815073216/http://www.lantrenous-83.com:80/nos-soirees-3.html", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s30", "label": "Site officiel, annonces des soirées du 20 au 23 octobre 2011 (archives à partir du 20/10/2011)", "url": "https://web.archive.org/web/20111020065048/http://www.lantrenous-83.com:80/nos-soirees-3-15_155-jeudi-20-octobre.html", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s31", "label": "Annuaire des entreprises, établissements domiciliés au 413 chemin Robert Brun (ZI de Camp Laurent)", "url": "https://annuaire-entreprises.data.gouv.fr/rechercher?terme=413%20robert%20brun&cp_dep=83500", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s32", "label": "Site officiel, annonce de la soirée du jeudi 6 juin 2013 : tapas de 20 h 30 à 22 h 30 (archive du 13/06/2013)", "url": "https://web.archive.org/web/20130613130202/http://www.lantrenous-83.com:80/nos-soirees-3-15_312-jeudi-6-juin.html", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s33", "label": "Site officiel, annonce de la « soirée blanche » du samedi 29 juin 2013 (archive du 02/07/2013)", "url": "https://web.archive.org/web/20130702020844/http://www.lantrenous-83.com:80/nos-soirees-3-15_311-samedi-29-juin.html", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s34", "label": "Site officiel, annonce de la soirée Black and White du vendredi 28 juin 2013 (archive du 30/06/2013)", "url": "https://web.archive.org/web/20130630010017/http://www.lantrenous-83.com:80/nos-soirees-3-15_314-vendredi-28-juin.html", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s35", "label": "Site officiel, actualité « Élection Mister Antre Nous » et bandeau de la soirée femme bi du 25 juin 2011 (archive du 20/06/2011)", "url": "https://web.archive.org/web/20110620192042/http://www.lantrenous-83.com:80/actualites-13-32_12-election-mister-antre-nous.html", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s36", "label": "Site officiel, « Les hôtels proches du club » (archive du 11/09/2011)", "url": "https://web.archive.org/web/20110911191444/http://www.lantrenous-83.com:80/les-hotels-proches-du-club-12.html", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s37", "label": "Club-echangiste.net, fiche L'Antre Nous et ses deux avis (archives du 26/06/2011 au 11/08/2020)", "url": "https://web.archive.org/web/20200811000428/http://club-echangiste.net/l-antre-nous-286.html", "type": "annuaire", "consulted": "2026-10-21" },
+    { "id": "s38", "label": "Le-site-de.com, fiche L'Antre Nous en rubrique restaurants (non datée)", "url": "https://www.le-site-de.com/l-antre-nous-seyne-sur-mer-la_196050.html", "type": "annuaire", "consulted": "2026-10-21" },
+    { "id": "s41", "label": "Blog officiel de La Chrysalide : billets du 21/09/2026 (soirée du 26 septembre) et du 11/10/2026", "url": "https://blog.lachrysalide.fr/feed/", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s42", "label": "Sauna Club Le Bali, guide des clubs libertins de Toulon et de sa métropole (17/02/2026)", "url": "https://www.saunaclublebali.fr/clubs-libertins-a-toulon-et-dans-la-metropole-guide-complet-la-seyne-la-valette-six-fours/", "type": "annuaire", "consulted": "2026-10-21" },
+    { "id": "s43", "label": "Minuit Libertin, « Trouvez un club échangiste dans le Var (83) » (mis à jour le 03/08/2026)", "url": "https://minuitlibertin.com/trouvez-un-club-echangiste-dans-le-var-83/", "type": "annuaire", "consulted": "2026-10-21" },
+    { "id": "s44", "label": "Var Actu, « Découverte des clubs libertins dans le Var » (11/07/2025)", "url": "https://www.varactu.fr/decouverte-des-clubs-libertins-dans-le-var-entre-raffinement-discretion-et-liberte-assumee/", "type": "presse", "consulted": "2026-10-21" },
+    { "id": "s45", "label": "Club-echangiste.net, fiche Le Lipstick et message signé La Chrysalide (archive du 07/10/2011)", "url": "https://web.archive.org/web/20111007152921/http://club-echangiste.net/le-lipstick-75.html", "type": "annuaire", "consulted": "2026-10-21" },
+    { "id": "s49", "label": "Site officiel, actualité « Soirée antillaise » (archive du 28/04/2011)", "url": "https://web.archive.org/web/20110428163145/http://www.lantrenous-83.com:80/actualites-13-32_7-soiree-antillaise.html", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s50", "label": "Site officiel, actualité « Soirée VIP » (archive du 22/05/2011)", "url": "https://web.archive.org/web/20110522082200/http://www.lantrenous-83.com:80/actualites-13-32_7-soiree-vip.html", "type": "officiel", "consulted": "2026-10-21" }
+  ]
+}

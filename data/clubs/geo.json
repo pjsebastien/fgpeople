@@ -208,12 +208,12 @@
   "query": "avenue du languedoc Montredon des Corbières 11100 NARBONNE"
  },
  "le-triton-narbonne": {
-  "lat": 43.182404,
-  "lon": 2.994927,
+  "lat": 43.182908,
+  "lon": 2.994997,
   "precision": "housenumber",
-  "label": "28 Avenue de Toulouse 11100 Narbonne",
-  "score": 0.97,
-  "query": "28 avenue de Toulouse 11100 NARBONNE"
+  "label": "28bis Avenue de Toulouse 11100 Narbonne",
+  "score": 0.82,
+  "query": "28 bis avenue de Toulouse 11100 NARBONNE"
  },
  "atrium-carcassonne": {
   "lat": 43.229403,
@@ -1541,7 +1541,7 @@
   "precision": "street",
   "label": "Rue Condorcet 66750 Saint-Cyprien",
   "score": 0.76,
-  "query": "rue condorcet 66750 SAINT CYPRIEN PORT"
+  "query": "Rue Condorcet 66750 SAINT CYPRIEN PORT"
  },
  "equateur-sauna-strasbourg": {
   "lat": 48.580988,
@@ -3078,5 +3078,157 @@
   "label": "12 Impasse des Garennes 30610 Sauve",
   "score": 0.95,
   "query": "12 impasse des Garennes 30610 Sauve"
+ },
+ "le-jet-boulou": {
+  "lat": 42.531923,
+  "lon": 2.836243,
+  "precision": "housenumber",
+  "label": "1409bis Chemin du Mas Llinas 66160 Le Boulou",
+  "score": 0.76,
+  "query": "1409 bis chemin du Mas Llinas 66160 BOULOU"
+ },
+ "villa-anges-club-libertin": {
+  "lat": 50.544959,
+  "lon": 2.536143,
+  "precision": "housenumber",
+  "label": "3721 Route Nationale 43 62920 Chocques",
+  "score": 0.75,
+  "query": "3721 route Nationale (RD 943) 62920 CHOCQUES"
+ },
+ "boy-s-bar-nantes": {
+  "lat": 47.218733,
+  "lon": -1.551665,
+  "precision": "housenumber",
+  "label": "4 Rue Ogée 44000 Nantes",
+  "score": 0.97,
+  "query": "4 rue Ogée 44000 Nantes"
+ },
+ "amphibi-sauna-travestis": {
+  "lat": 48.890336,
+  "lon": 2.322374,
+  "precision": "housenumber",
+  "label": "15 Rue Lacroix 75017 Paris",
+  "score": 0.98,
+  "query": "15 rue Lacroix 75017 PARIS"
+ },
+ "bada-club-dardilly": {
+  "lat": 45.821659,
+  "lon": 4.762581,
+  "precision": "street",
+  "label": "Avenue de la Porte de Lyon 69570 Dardilly",
+  "score": 0.68,
+  "query": "Porte de Lyon 69570 Dardilly"
+ },
+ "altromondo-rixheim": {
+  "lat": 47.759685,
+  "lon": 7.400877,
+  "precision": "housenumber",
+  "label": "10 Rue des Artisans 68170 Rixheim",
+  "score": 0.96,
+  "query": "10 rue des Artisans 68170 Rixheim"
+ },
+ "le-33-by-ozen-rixheim": {
+  "lat": 47.751773,
+  "lon": 7.402663,
+  "precision": "housenumber",
+  "label": "32b Rue de Mulhouse 68170 Rixheim",
+  "score": 0.97,
+  "query": "32B rue de Mulhouse 68170 Rixheim"
+ },
+ "camping-libertin-la-roseraie-brugheas": {
+  "lat": 46.079636,
+  "lon": 3.382247,
+  "precision": "housenumber",
+  "label": "4 Lieu Dit la Boucharde 03700 Brugheas",
+  "score": 0.66,
+  "query": "4 La Boucharde 03700 Brugheas"
+ },
+ "club-le-7-nice": {
+  "lat": 43.701124,
+  "lon": 7.273244,
+  "precision": "housenumber",
+  "label": "7 Rue Foncet 06000 Nice",
+  "score": 0.97,
+  "query": "7 rue Foncet 06000 Nice"
+ },
+ "l-apollon-caen": {
+  "lat": 49.18446,
+  "lon": -0.351943,
+  "precision": "housenumber",
+  "label": "16 Rue Varignon 14000 Caen",
+  "score": 0.97,
+  "query": "16 rue Varignon 14000 Caen"
+ },
+ "club-87-nancy": {
+  "lat": 48.684066,
+  "lon": 6.173163,
+  "precision": "housenumber",
+  "label": "85 Rue Jeanne d'Arc 54000 Nancy",
+  "score": 0.98,
+  "query": "85 rue Jeanne d'Arc 54000 Nancy"
+ },
+ "les-bains-lille": {
+  "lat": 50.62415,
+  "lon": 3.072074,
+  "precision": "housenumber",
+  "label": "52 Rue de Cambrai 59000 Lille",
+  "score": 0.98,
+  "query": "52 rue de Cambrai 59000 Lille"
+ },
+ "le-ran-du-chabrier-saint-privat-de-champclos": {
+  "lat": 44.269572,
+  "lon": 4.377787,
+  "precision": "street",
+  "label": "Impasse du Ran du Chabrier 30430 Saint-Privat-de-Champclos",
+  "score": 0.7,
+  "query": "Le Ran du Chabrier 30430 Saint-Privat-de-Champclos"
+ },
+ "le-beluga-club-ifs": {
+  "lat": 49.139173,
+  "lon": -0.337048,
+  "precision": "street",
+  "label": "Rue de la Dronnière 14123 Ifs",
+  "score": 0.96,
+  "query": "Rue de la Dronnière 14123 Ifs"
+ },
+ "les-bains-douches-nice": {
+  "lat": 43.699569,
+  "lon": 7.273252,
+  "precision": "housenumber",
+  "label": "7 Rue Gubernatis 06000 Nice",
+  "score": 0.98,
+  "query": "7 rue Gubernatis 06000 Nice"
+ },
+ "sauna-blue-club-metz": {
+  "lat": 49.108909,
+  "lon": 6.173877,
+  "precision": "housenumber",
+  "label": "8 Rue Sébastien Leclerc 57000 Metz",
+  "score": 0.97,
+  "query": "8 rue Sébastien Leclerc 57000 Metz"
+ },
+ "sauna-arena-brive-la-gaillarde": {
+  "lat": 45.151101,
+  "lon": 1.532741,
+  "precision": "housenumber",
+  "label": "10 Rue Auguste Comte 19100 Brive-la-Gaillarde",
+  "score": 0.97,
+  "query": "10 rue Auguste Comte 19100 Brive-la-Gaillarde"
+ },
+ "sauna-51-laxou": {
+  "lat": 48.678396,
+  "lon": 6.160104,
+  "precision": "housenumber",
+  "label": "51 Avenue de la Libération 54520 Laxou",
+  "score": 0.97,
+  "query": "51 avenue de la Libération 54520 Laxou"
+ },
+ "sauna-club-6e-sens-abrest": {
+  "lat": 46.112204,
+  "lon": 3.438967,
+  "precision": "housenumber",
+  "label": "164 Avenue des Graviers 03200 Abrest",
+  "score": 0.96,
+  "query": "164 avenue des Graviers 03200 Abrest"
  }
 }

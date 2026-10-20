@@ -1,0 +1,19 @@
+{
+  "id": "new-club-87-nancy",
+  "nom": "Club 87",
+  "type": "cinéma libertin mixte et LGBT avec sex-shop",
+  "types_normalises": ["Cinéma", "Club", "Gay friendly"],
+  "adresse": "85 rue Jeanne d'Arc",
+  "code_postal": "54000",
+  "ville": "Nancy",
+  "departement_code": "54",
+  "departement_nom": "Meurthe-et-Moselle",
+  "region": "Grand Est",
+  "pays": "France",
+  "telephone": "0383286770",
+  "email": "contact.sexshopnancy@gmail.com",
+  "site_web": "https://club87-nancy.com/",
+  "equipements": ["Surface de 400 m² sur trois niveaux", "Boutique sex-shop", "Salles de cinéma X (gay et trans, libertine, mixte)", "Cabines", "Salons", "Backroom", "Labyrinthe", "Glory holes", "Croix de Saint-André", "Sling", "Douches", "Casiers individuels", "Fumoir", "Climatisation", "Distributeur de boissons fraîches et de café"],
+  "verification": { "status": "actif" },
+  "addedAt": "2026-10-20"
+}

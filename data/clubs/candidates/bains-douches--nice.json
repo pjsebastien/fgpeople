@@ -3,7 +3,9 @@
   "ville": "Nice",
   "url": "https://gayfrenchriviera.substack.com/p/cruising-bars-and-gay-saunabathhouse",
   "foundIn": [
-    "sauna-le-16-nice"
+    "sauna-le-16-nice",
+    "club-le-7-nice"
   ],
-  "status": "todo"
+  "status": "added",
+  "slug": "les-bains-douches-nice"
 }

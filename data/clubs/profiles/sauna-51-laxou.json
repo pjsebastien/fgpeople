@@ -1,0 +1,408 @@
+{
+  "slug": "sauna-51-laxou",
+  "clubId": "new-sauna-51-laxou",
+  "researchedAt": "2026-10-20",
+  "status": {
+    "value": "ouvert",
+    "summary": "Le programme du site annonce deux soirées mixtes, les vendredis 9 et 23 octobre 2026, et les pages d'horaires ont été modifiées en juin 2026. L'exploitant, la SARL CONSER, propriétaire du fonds depuis août 2023, est actif au registre ; le dépôt de ses comptes a été publié au BODACC le 12 juin 2026.",
+    "sources": ["s2", "s8", "s3", "s17", "s23"]
+  },
+  "seo": {
+    "title": "Sauna 51 à Laxou : jours mixtes, tarifs et soirées du vendredi",
+    "metaDescription": "Sauna libertin de 300 m² près de Nancy : mixte quatre jours sur six, couple ou homme à 25 €, femme gratuite, soirées les vendredis 9 et 23 octobre 2026.",
+    "subtitle": "Sauna libertin mixte de 300 m² à Laxou, aux portes de Nancy (54)",
+    "targetQueries": [
+      "sauna 51",
+      "sauna 51 laxou",
+      "sauna le 51",
+      "sauna 51 tarifs",
+      "sauna 51 horaires",
+      "sauna libertin nancy",
+      "club libertin nancy",
+      "club echangiste nancy",
+      "libertin nancy"
+    ]
+  },
+  "lead": "Le Sauna 51 se présente comme un « sauna libertin mixte » de 300 m² : couples, femmes et hommes s'y croisent le mardi, le jeudi, le vendredi et le samedi, tandis que le mercredi et le dimanche sont « 100 % masculin ». Ouvert l'après-midi, il ferme à 19 h 30 au plus tard selon ses horaires mis à jour en juin 2026 ; son programme ne prévoit de soirée que les vendredis 9 et 23 octobre 2026, en mixte. Une première société y a démarré l'activité en 2008 ; la SARL CONSER exploite le lieu depuis août 2023.",
+  "glance": [
+    { "icon": "calendar", "label": "Ouvert", "value": "Mardi-dimanche, 14 h à 19 h ou 19 h 30" },
+    { "icon": "couple", "label": "Jours mixtes", "value": "Mardi, jeudi, vendredi, samedi" },
+    { "icon": "users", "label": "100 % masculin", "value": "Mercredi et dimanche" },
+    { "icon": "euro", "label": "Entrée journée mixte", "value": "25 € couple ou homme · femme gratuite" },
+    { "icon": "sparkles", "label": "Soirées mixtes", "value": "Ven. 9 et 23 oct. 2026, 20 h-1 h, 40 €" },
+    { "icon": "ruler", "label": "Surface", "value": "300 m², bar sans alcool" }
+  ],
+  "audience": [
+    {
+      "who": "couples",
+      "status": "selon",
+      "detail": "Mardi, jeudi, vendredi et samedi ; 40 € en soirée ; pas le mercredi ni le dimanche",
+      "price": "25 €"
+    },
+    {
+      "who": "femmes",
+      "status": "selon",
+      "detail": "Gratuit les jours mixtes et en soirée ; mercredi et dimanche réservés aux hommes",
+      "price": "Gratuit"
+    },
+    {
+      "who": "hommes",
+      "status": "oui",
+      "detail": "Tous les jours d'ouverture : 25 € en mixte, 20 € les jours masculins, 40 € en soirée",
+      "price": "20 à 40 €"
+    },
+    {
+      "who": "trans",
+      "status": "selon",
+      "detail": "Tarif affiché pour les journées mixtes ; rien de précisé pour les jours masculins",
+      "price": "10 €"
+    }
+  ],
+  "highlights": [
+    "Couples et femmes n'entrent que le mardi, le jeudi, le vendredi et le samedi : le mercredi et le dimanche sont « 100 % masculin ».",
+    "Horaires mis à jour en juin 2026 : fermeture à 19 h 30 (19 h le mercredi, le samedi et le dimanche) ; les 20 h que donnent des annuaires sont périmés.",
+    "Le bar ne sert pas d'alcool ; un café ou un thé est compris dans chaque entrée.",
+    "Deux serviettes sont fournies par personne, la troisième est facturée 1 €.",
+    "Le sauna dit ne pas communiquer sur sa clientèle : un appel ne vous dira pas qui est là. Aucune réservation n'est demandée."
+  ],
+  "keyFacts": [
+    { "label": "Type", "value": "Sauna libertin mixte, deux jours « 100 % masculin »", "confidence": "confirme", "sources": ["s1", "s2"] },
+    { "label": "Surface", "value": "300 m²", "confidence": "confirme", "sources": ["s1", "s13", "s26"] },
+    { "label": "Jours mixtes", "value": "Mardi, jeudi, vendredi, samedi", "confidence": "confirme", "sources": ["s1", "s2"] },
+    { "label": "Entrée journée mixte", "value": "25 € (couple ou homme), 10 € (trans), femme gratuite", "confidence": "confirme", "sources": ["s4"] },
+    { "label": "Soirées annoncées", "value": "Vendredis 9 et 23 octobre 2026, de 20 h à 1 h", "confidence": "confirme", "sources": ["s2"] },
+    { "label": "Bar", "value": "Sans alcool, avec snacks", "confidence": "confirme", "sources": ["s5", "s22"] },
+    { "label": "Exploitant", "value": "SARL CONSER, depuis le 14 août 2023", "confidence": "confirme", "sources": ["s7", "s17", "s22"] },
+    { "label": "Activité à cette adresse", "value": "Depuis août 2008 (première société)", "confidence": "confirme", "sources": ["s18", "s20"] },
+    { "label": "Réservation", "value": "Non nécessaire", "confidence": "confirme", "sources": ["s2", "s3"] },
+    { "label": "Accès en fauteuil", "value": "Annoncé par le site", "confidence": "source_unique", "sources": ["s5"] }
+  ],
+  "sections": [
+    {
+      "id": "mixte-ou-masculin",
+      "title": "Mixte quatre jours sur six, réservé aux hommes le mercredi et le dimanche",
+      "icon": "couple",
+      "summary": "Couples, femmes et hommes se croisent le mardi, le jeudi, le vendredi et le samedi ; le mercredi et le dimanche sont « 100 % masculin » ; le lundi, c'est fermé.",
+      "blocks": [
+        {
+          "kind": "table",
+          "caption": "La semaine affichée sur le site en octobre 2026",
+          "headers": ["Jour", "Journée", "Couples et femmes"],
+          "rows": [
+            ["Lundi", "Fermé, sauf jour férié", "—"],
+            ["Mardi", "Mixte", "Oui"],
+            ["Mercredi", "100 % masculin", "Non"],
+            ["Jeudi", "Mixte", "Oui"],
+            ["Vendredi", "Mixte, soirée le 9 et le 23 octobre", "Oui"],
+            ["Samedi", "Mixte", "Oui"],
+            ["Dimanche", "100 % masculin", "Non"]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le programme ouvre les journées mixtes « à tout le monde : hommes, femmes, couples, gays, bi ». La page Horaires accueille, elle, les « hommes seuls respectueux ». Aucune réservation n'est demandée."
+        },
+        {
+          "kind": "text",
+          "body": "Le samedi a changé de statut. En décembre 2023, le site le classait parmi les journées « 100 % masculin » ; un blog annuaire le disait en 2025 mixte ou gay une semaine sur deux ; le programme, mis à jour le 30 septembre 2026, le range désormais parmi les journées mixtes."
+        },
+        {
+          "kind": "text",
+          "body": "L'annuaire Gayspot classe toujours le 51 parmi les saunas gays : l'avis qu'il a repris en juillet 2026 retient le mercredi et le dimanche « 100%gay ». En 2013, le lieu se disait encore « sauna gay et mixte libertin », mixte le mardi et le jeudi seulement."
+        },
+        {
+          "kind": "text",
+          "body": "Le sauna prévient qu'il ne communique pas sur sa clientèle : impossible de savoir par téléphone combien de couples viendront un mardi."
+        }
+      ],
+      "sources": ["s1", "s2", "s3", "s6", "s8", "s10", "s11", "s14", "s25", "s27"]
+    },
+    {
+      "id": "soirees-du-vendredi",
+      "title": "Vendredis 9 et 23 octobre 2026 : soirée mixte de 20 h à 1 h, buffet froid compris",
+      "icon": "sparkles",
+      "summary": "Deux soirées « mixte Sexy » sont annoncées en octobre 2026, seuls créneaux de nuit du sauna : 40 € pour un couple ou un homme seul, gratuit pour une femme.",
+      "blocks": [
+        {
+          "kind": "list",
+          "title": "Ce qu'annonce le programme d'octobre",
+          "items": [
+            "Dates : vendredi 9 et vendredi 23 octobre 2026, de 20 h à 1 h.",
+            "Entrée : 40 € pour un couple homme-femme, 40 € pour un homme seul, gratuite pour une femme.",
+            "Buffet froid compris dans l'entrée de soirée, selon la page Tarifs.",
+            "Pas de réservation : le programme précise qu'elle n'est pas nécessaire."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Ces soirées font exception. En seize ans, l'heure de fermeture est passée de 23 h du mardi au samedi (2010) à 21 h tous les jours (2022), puis à 20 h (fin 2023) et à 19 h ou 19 h 30 (2026) : le 51 est devenu un sauna d'après-midi."
+        },
+        {
+          "kind": "text",
+          "body": "Le programme n'écrit pas l'année, mais le 9 et le 23 octobre tombent un vendredi en 2026, et la page a été modifiée le 30 septembre 2026."
+        },
+        {
+          "kind": "text",
+          "body": "Le rendez-vous semble régulier : un extrait de la page Facebook du sauna, que nous n'avons pas pu ouvrir, annonçait déjà une « Soirée Sexy Mixte » de 20 h à 1 h un vendredi 27 février, vraisemblablement en 2026. Le 20 octobre 2026, le programme ne listait encore aucune date de novembre."
+        },
+        {
+          "kind": "text",
+          "body": "Pour arriver accompagné le 23 octobre, cherchez dans le plus gros vivier : Wyylde revendique 7 millions de membres, un volume qu'aucun concurrent français n'approche. Vous pourrez y [repérer dans le Grand Nancy un partenaire pour cette soirée](aff:wyylde) ; répondre aux messages demande toutefois un abonnement."
+        }
+      ],
+      "sources": ["s2", "s3", "s4", "s8", "s13", "s14", "s15", "s29"]
+    },
+    {
+      "id": "tarifs-et-after-work",
+      "title": "25 € pour un couple comme pour un homme seul, 15 € en After Work dès 18 h",
+      "icon": "euro",
+      "summary": "En journée mixte, couple et homme seul paient 25 €, une personne trans 10 €, une femme rien ; l'After Work de 18 h ne dure plus qu'une heure ou une heure et demie.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "La grille, modifiée pour la dernière fois en octobre 2025, ne fait pas payer le couple plus cher que l'homme seul : 25 € l'un comme l'autre en journée mixte, café ou thé compris. Les jours masculins, l'entrée descend à 20 €, et à 10 € avant 25 ans."
+        },
+        {
+          "kind": "text",
+          "body": "L'After Work (15 € en mixte, 10 € les jours masculins) commence à 18 h, du mardi au vendredi. Avec les horaires de juin 2026, il dure une heure et demie le mardi, le jeudi et le vendredi, une heure seulement le mercredi."
+        },
+        {
+          "kind": "text",
+          "body": "Une heure et demie laisse peu de temps pour faire connaissance sur place. Mieux vaut avoir échangé avant : sur Gleese, où un an d'abonnement se paie 45 €, soit 3,75 € par mois, vous pouvez [fixer un After Work mixte avec des libertins lorrains](aff:gleese)."
+        },
+        {
+          "kind": "table",
+          "caption": "L'entrée en 2010, en 2013 et en 2026, d'après les archives et le site actuel",
+          "headers": ["Entrée", "2010", "2013", "2026"],
+          "rows": [
+            ["Homme seul", "17 €", "17 € (jours gays), 20 € (mardi et jeudi mixtes)", "20 € (jours masculins), 25 € (jours mixtes)"],
+            ["Couple", "Non précisé", "Gratuit (jours mixtes)", "25 € (jours mixtes)"],
+            ["Femme seule", "Non précisé", "Gratuite (jours mixtes)", "Gratuite"],
+            ["Moins de 25 ans", "13 €", "5 €", "10 € (jours masculins)"],
+            ["Fin de journée", "Non précisé", "12 € après 19 h (jours gays)", "15 € ou 10 € dès 18 h (After Work)"]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le couple, qui entrait gratuitement les jours mixtes en 2013, paie donc 25 € en 2026, tandis que la femme seule entre toujours sans payer."
+        }
+      ],
+      "sources": ["s1", "s3", "s4", "s8", "s11", "s15"]
+    },
+    {
+      "id": "trois-exploitants",
+      "title": "Ouvert en 2008, revendu en 2018 puis en 2023 : trois exploitants au 51 avenue de la Libération",
+      "icon": "history",
+      "summary": "La SARL Sauna Le 51 démarre l'activité en août 2008 ; le fonds passe à un exploitant individuel en 2018 pour 25 000 €, puis à la SARL CONSER en 2023 pour 100 000 €.",
+      "blocks": [
+        {
+          "kind": "timeline",
+          "items": [
+            { "date": "Août 2008", "text": "La SARL Sauna Le 51 commence l'exploitation d'un sauna-hammam à cette adresse : début d'activité le 8 août, d'après le BODACC." },
+            { "date": "2009-2010", "text": "Le site du réseau Sauna Club LG (Besançon, Mulhouse, Nancy) renvoie vers « Le Sauna 51 » : 17 € l'entrée, ouvert jusqu'à 23 h du mardi au samedi, même téléphone qu'aujourd'hui." },
+            { "date": "Novembre 2012", "text": "Ouverture du site sauna51.fr. En mars 2013, le lieu se dit « sauna gay et mixte libertin », mixte le mardi et le jeudi, avec des journées naturistes, « Black out » et « Bears »." },
+            { "date": "Février 2018", "text": "Le fonds est vendu 25 000 € à un exploitant individuel, qui le tient sous l'enseigne « Sauna 51 » ; le site actuel est monté en avril 2018." },
+            { "date": "Mai 2022", "text": "Le site parle désormais de « sauna libertin mixte » de 300 m², mixte le lundi, le mardi, le jeudi et le vendredi, ouvert de 14 h à 21 h tous les jours." },
+            { "date": "Août 2023", "text": "La SARL CONSER, créée en juin, rachète le fonds 100 000 € par un acte du 14 août. En décembre, le sauna ferme à 20 h." },
+            { "date": "2024-2025", "text": "Les 33 photos de la galerie actuelle sont mises en ligne entre février 2024 et octobre 2025." },
+            { "date": "Juin 2026", "text": "Le site annonce un « changement » d'horaires : fermeture à 19 h ou 19 h 30 au lieu de 20 h ; le lundi était déjà fermé en 2025 selon un blog annuaire. Le dépôt des comptes de CONSER est publié au BODACC le 12 juin." }
+          ]
+        }
+      ],
+      "sources": ["s1", "s3", "s8", "s9", "s10", "s13", "s14", "s15", "s17", "s18", "s19", "s20", "s21", "s22", "s23", "s27"]
+    },
+    {
+      "id": "autour-de-nancy",
+      "title": "À 2,4 km de la place Stanislas, 2,6 km de l'ancien Sauna LG et 11,6 km du Rubis",
+      "icon": "map",
+      "summary": "Le sauna est à 2,4 km à vol d'oiseau de la place Stanislas ; il était lié en 2009-2010 au Sauna LG de Nancy ; Le Rubis annonçait une soirée le 21 octobre 2026.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le site situe le sauna « à Laxou à côté de Nancy » : 2,4 km à vol d'oiseau le séparent de la place Stanislas. Aucune source consultée ne précise où se garer avenue de la Libération."
+        },
+        {
+          "kind": "text",
+          "body": "En 2009 et 2010, le réseau Sauna Club LG, qui présentait un sauna au 5 rue Alfred Mézières à Nancy (2,6 km), renvoyait vers le 51 sur son site. Selon un guide local non daté, le 51 a été ouvert par l'ancienne équipe du [Sauna LG](/club-lg-nancy) : le renvoi prouve un lien entre les deux maisons, non l'identité des équipes."
+        },
+        {
+          "kind": "text",
+          "body": "En 2013, l'équipe du 51 revendiquait « 15 années d'expérience », sans dire où. Rue Alfred Mézières, le registre montre l'établissement de SAUNANCY fermé le 1er juin 2010, puis la SARL La Détente, créée en 2012 dans la même activité d'entretien corporel ; rien n'y relie nommément les deux équipes."
+        },
+        {
+          "kind": "list",
+          "title": "Deux autres adresses de Meurthe-et-Moselle : Le Rubis en activité, L'Unik fermé",
+          "items": [
+            "[Le Rubis](/rubis-saint-nicolas-club), à Saint-Nicolas-de-Port (11,6 km) : le 19 octobre 2026, son site annonçait une soirée pour le mercredi 21 octobre, et sa grille du 14 octobre affiche des tarifs du soir du mercredi au samedi. Ses pages étaient encore mises à jour le 20 octobre.",
+            "[L'Unik](/l-unik-nancy), rue Jean Lamour à Nancy (2,8 km) : fermé, sa société ayant été placée en liquidation judiciaire le 4 mai 2010."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Les autres lieux du département sont regroupés sur la page [Meurthe-et-Moselle](/departement/meurthe-et-moselle), ceux de la ville voisine sur la page [Nancy](/ville/nancy)."
+        }
+      ],
+      "sources": ["s1", "s12", "s15", "s16", "s24", "s28", "s30", "s31", "s32", "s33"]
+    },
+    {
+      "id": "espaces-et-galerie",
+      "title": "300 m² et un bar sans alcool : hammam, labyrinthe, sling et croix de Saint-André",
+      "icon": "spa",
+      "summary": "Le site liste sauna, hammam, douches, salles vidéo, coins câlins, labyrinthe avec glory hole, sling et massage ; ses 33 photos montrent aussi une croix de Saint-André.",
+      "blocks": [
+        {
+          "kind": "list",
+          "title": "Les espaces listés par le sauna",
+          "items": [
+            "Sauna, hammam et douches",
+            "Salles vidéo",
+            "Coins câlins ouverts ou fermés",
+            "Labyrinthe avec glory hole",
+            "Sling",
+            "Salle et siège de massage",
+            "Vestiaires ; deux serviettes par personne, 1 € la suivante",
+            "Bar de boissons chaudes et fraîches, sans alcool, avec snacks salés et sucrés"
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "L'absence d'alcool n'est pas nouvelle : les ventes du fonds de 2018 et de 2023 décrivent déjà un commerce de boissons non alcoolisées. Le site se déclare accessible aux personnes à mobilité réduite ; la galerie montre des toilettes équipées d'une barre d'appui."
+        },
+        {
+          "kind": "text",
+          "body": "Nous avons regardé les 33 photos de la [galerie officielle](https://sauna51.fr/photos/), mises en ligne entre février 2024 et octobre 2025. Elles montrent des pièces sombres éclairées de néons rouges, bleus ou roses :"
+        },
+        {
+          "kind": "list",
+          "items": [
+            "des vestiaires à casiers métalliques rouges, voisins d'un comptoir de bar ;",
+            "une cabine de sauna en bois et un hammam carrelé à banquettes ;",
+            "un salon avec canapés, fauteuils rouges et télévision ;",
+            "des couloirs noirs décorés de panneaux de signalisation routière, avec des écrans de projection ;",
+            "des plateformes matelassées rouges, une chambre à fresque de flammes et des cabines à petites fenêtres ;",
+            "une chaise longue ondulée et une croix de Saint-André, absente de la liste des prestations."
+          ]
+        }
+      ],
+      "sources": ["s5", "s9", "s21", "s22", "s8"]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Lundi": "Fermé (sauf jour férié)",
+      "Mardi": "14 h - 19 h 30 (mixte)",
+      "Mercredi": "14 h - 19 h (100 % masculin)",
+      "Jeudi": "14 h - 19 h 30 (mixte)",
+      "Vendredi": "14 h - 19 h 30 (mixte) ; soirée 20 h - 1 h les 9 et 23 octobre 2026",
+      "Samedi": "14 h - 19 h (mixte)",
+      "Dimanche": "14 h - 19 h (100 % masculin)"
+    },
+    "note": "Horaires de la page mise à jour le 11 juin 2026 ; plusieurs annuaires donnent encore une fermeture à 20 h. After Work à partir de 18 h, du mardi au vendredi.",
+    "confidence": "confirme",
+    "sources": ["s1", "s2", "s3", "s6", "s8"]
+  },
+  "tarifs": {
+    "rows": {
+      "Couple homme-femme (journée mixte)": "25 €",
+      "Homme seul (journée mixte)": "25 €",
+      "Femme seule (journée mixte ou soirée)": "Gratuit",
+      "Personne trans (journée mixte)": "10 €",
+      "After Work dès 18 h (journée mixte)": "15 €",
+      "Homme seul (journée 100 % masculin)": "20 €",
+      "After Work dès 18 h (journée masculine)": "10 €",
+      "Moins de 25 ans (journée masculine)": "10 €",
+      "Soirée : couple ou homme seul": "40 €, buffet froid compris"
+    },
+    "note": "Un café ou un thé compris dans chaque entrée. Deux serviettes fournies, 1 € la serviette supplémentaire. Grille de la page Tarifs (modifiée le 2 octobre 2025) ; prix des soirées confirmés par le programme d'octobre 2026.",
+    "confidence": "confirme",
+    "sources": ["s4", "s2", "s5", "s8"]
+  },
+  "equipements": [
+    "Sauna",
+    "Hammam",
+    "Douches",
+    "Salles vidéo",
+    "Coins câlins ouverts ou fermés",
+    "Labyrinthe avec glory hole",
+    "Sling",
+    "Salle et siège de massage",
+    "Vestiaires",
+    "Bar sans alcool avec snacks",
+    "Accès annoncé pour les personnes à mobilité réduite"
+  ],
+  "officialLinks": [
+    { "label": "Site officiel", "url": "https://sauna51.fr/", "kind": "site" },
+    { "label": "Programme des soirées", "url": "https://sauna51.fr/programme/", "kind": "agenda" },
+    { "label": "Galerie photos (33 photos, 2024-2025)", "url": "https://sauna51.fr/photos/", "kind": "galerie" },
+    { "label": "Page Facebook liée depuis le site", "url": "https://www.facebook.com/Sauna-51-108699207560336/", "kind": "facebook" }
+  ],
+  "faq": [
+    {
+      "question": "Le Sauna 51 de Laxou est-il un sauna gay ?",
+      "answer": "En partie. Le mercredi et le dimanche sont « 100 % masculin » ; le mardi, le jeudi, le vendredi et le samedi, le sauna est mixte et ouvert aux couples comme aux femmes. Gayspot le classe encore parmi les saunas gays ; en 2013, le lieu se disait « sauna gay et mixte libertin » et n'était mixte que deux jours."
+    },
+    {
+      "question": "Quels sont les horaires du Sauna 51 ?",
+      "answer": "Selon les pages mises à jour en juin 2026 : de 14 h à 19 h 30 le mardi, le jeudi et le vendredi, de 14 h à 19 h le mercredi, le samedi et le dimanche, fermé le lundi sauf jour férié. Les annuaires qui indiquent 20 h reprennent une heure de fermeture antérieure, déjà affichée sur le site fin 2023. Les soirées mixtes du vendredi vont de 20 h à 1 h."
+    },
+    {
+      "question": "Combien coûte l'entrée au Sauna 51 ?",
+      "answer": "En journée mixte, 25 € pour un couple ou un homme seul, 10 € pour une personne trans, rien pour une femme, et 15 € en After Work à partir de 18 h. Les jours masculins, 20 € (10 € en After Work ou avant 25 ans). En soirée, 40 € pour un couple ou un homme, buffet froid compris, gratuit pour une femme."
+    },
+    {
+      "question": "Faut-il réserver ou appeler avant de venir ?",
+      "answer": "Non : le site précise qu'aucune réservation n'est nécessaire, en journée comme pour les soirées. Le numéro publié est le 03 83 98 04 48, avec un formulaire de contact mais sans adresse e-mail ; le sauna prévient qu'il ne renseigne pas sur sa clientèle."
+    },
+    {
+      "question": "Comment ne pas tomber sur un après-midi mixte sans couples ?",
+      "answer": "Le sauna ne le dira pas : il ne communique pas sur sa fréquentation. Le plus sûr est de venir avec vos propres partenaires, disponibles l'après-midi puisque les journées mixtes finissent à 19 h 30 au plus tard. Carré Libertin, dont les femmes et les couples composent, à l'en croire, quelque 60 % des effectifs, permet de [trouver des couples nancéiens libres un mardi ou un jeudi après-midi](aff:carre-libertin)."
+    },
+    {
+      "question": "Que disent les avis sur le Sauna 51 ?",
+      "answer": "Nous n'avons lu aucune note directement sur Google ou sur une plateforme d'avis. Un blog annuaire relaie une note Google de 4,4/5 sur 84 avis, que nous n'avons pas pu vérifier. Sur Gayspot, un seul avis, repris d'un autre site en juillet 2026 et noté 4/5, cite le sauna, le hammam et les deux jours masculins."
+    }
+  ],
+  "unverified": [
+    "Le stationnement : aucune source consultée ne dit où se garer avenue de la Libération.",
+    "Le dress code et les règles de la maison (téléphone, protections, tabac), que le site ne publie pas.",
+    "Les dates des soirées après octobre 2026 : le programme ne liste que celles du mois en cours.",
+    "Les périodes de fermeture annuelle, que le site ne publie pas.",
+    "Le lien exact entre l'équipe du Sauna 51 et celle de l'ancien Sauna LG de Nancy.",
+    "Les notes Google et GoWork, que nous n'avons pas pu lire sur les plateformes elles-mêmes."
+  ],
+  "sources": [
+    { "id": "s1", "label": "Site officiel, accueil (horaires, journées mixtes et masculines, After Work)", "url": "https://sauna51.fr/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s2", "label": "Site officiel, page Programme (soirées d'octobre 2026)", "url": "https://sauna51.fr/programme/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s3", "label": "Site officiel, page Horaires", "url": "https://sauna51.fr/horaires/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s4", "label": "Site officiel, page Tarifs", "url": "https://sauna51.fr/tarifs/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s5", "label": "Site officiel, page Prestations", "url": "https://sauna51.fr/prestations/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s6", "label": "Site officiel, page Contact", "url": "https://sauna51.fr/contact/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s7", "label": "Site officiel, mentions légales (éditeur SARL CONSER)", "url": "https://sauna51.fr/mentions-legales/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s8", "label": "Site officiel, dates de création et de modification des pages (API WordPress)", "url": "https://sauna51.fr/wp-json/wp/v2/pages", "type": "autre", "consulted": "2026-10-20" },
+    { "id": "s9", "label": "Site officiel, galerie Photos (33 photos regardées)", "url": "https://sauna51.fr/photos/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s10", "label": "Site officiel, archive de l'accueil du 15/03/2013", "url": "https://web.archive.org/web/20130315000027/http://sauna51.fr/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s11", "label": "Site officiel, archive de la page Tarifs et horaires du 15/03/2013", "url": "https://web.archive.org/web/20130315000129/http://sauna51.fr/tarifs_sauna_51_nancy_laxou.html", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s12", "label": "Site officiel, archive de la page Qui sommes-nous du 15/03/2013", "url": "https://web.archive.org/web/20130315000057/http://sauna51.fr/qui_sommes_nous_sauna51_nancy.html", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s13", "label": "Site officiel, archive de l'accueil du 23/05/2022", "url": "https://web.archive.org/web/20220523111446/https://sauna51.fr/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s14", "label": "Site officiel, archive de l'accueil du 11/12/2023", "url": "https://web.archive.org/web/20231211121743/https://sauna51.fr/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s15", "label": "Site du réseau Sauna Club LG, page « Sauna Le 51 », archive du 14/08/2010", "url": "https://web.archive.org/web/20100814184008/http://www.saunalg.com/le51.htm", "type": "autre", "consulted": "2026-10-20" },
+    { "id": "s16", "label": "Site du réseau Sauna Club LG, fiche du sauna de Nancy, archive du 24/05/2010", "url": "https://web.archive.org/web/20100524214707/http://www.saunalg.com/description.php?s=3", "type": "autre", "consulted": "2026-10-20" },
+    { "id": "s17", "label": "Annuaire des entreprises, CONSER (sigle SAUNA 51), SIREN 953 737 905", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/953737905", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s18", "label": "Annuaire des entreprises, SAUNA LE 51, SIREN 507 901 841 (cessée)", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/507901841", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s19", "label": "Annuaire des entreprises, entreprise individuelle à l'enseigne SAUNA 51, SIREN 448 766 089", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/448766089", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s20", "label": "BODACC, création de SAUNA LE 51 (publiée le 24/09/2008)", "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20080172774", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s21", "label": "BODACC, vente du fonds à un exploitant individuel (publiée le 30/03/2018)", "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20180063677", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s22", "label": "BODACC, vente du fonds à CONSER (publiée le 26/09/2023)", "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202301851003", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s23", "label": "BODACC, dépôt des comptes de CONSER (publié le 12/06/2026)", "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:C202601102608", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s24", "label": "Recherche d'entreprises, établissements du 5 rue Alfred Mézières à Nancy (SAUNANCY, SARL LA DETENTE)", "url": "https://recherche-entreprises.api.gouv.fr/search?q=5%20rue%20alfred%20mezieres&code_postal=54000", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s25", "label": "Gayspot, fiche « Sauna le 51 » (avis de juillet 2026)", "url": "https://gayspot.fr/lieu-de-drague-gay/1400-sauna-le-51-laxou.html", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s26", "label": "Sauna Club Le Bali, fiche « Sauna 51 » (ajoutée le 05/04/2026)", "url": "https://www.saunaclublebali.fr/listing/sauna-51-laxou/", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s27", "label": "Minuit Libertin, article « Sauna 51 » (2025, mis à jour en 2026)", "url": "https://minuitlibertin.com/sauna-51/", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s28", "label": "Nancy54, fiche « Sauna Le 51 Laxou » (non datée)", "url": "https://www.nancy54.com/sauna-le-51-laxou", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s29", "label": "Page Facebook « Sauna 51 » (contenu non lisible sans connexion ; extrait de moteur de recherche)", "url": "https://www.facebook.com/Sauna-51-108699207560336/", "type": "reseau_social", "consulted": "2026-10-20" },
+    { "id": "s30", "label": "Base adresse nationale, géocodage des adresses (distances à vol d'oiseau)", "url": "https://api-adresse.data.gouv.fr/search/?q=51+avenue+de+la+Liberation+54520+Laxou", "type": "carte", "consulted": "2026-10-20" },
+    { "id": "s31", "label": "Annuaire des entreprises, FANA CLUB, exploitante de L'Unik (liquidation du 04/05/2010)", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/480739887", "type": "registre", "consulted": "2026-10-16" },
+    { "id": "s32", "label": "Site du Rubis, accueil : soirée du mercredi 21 octobre 2026 (constat du 19/10/2026, pages revues le 20/10/2026)", "url": "https://www.rubis-club.fr/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s33", "label": "Site du Rubis, page Horaires et tarifs (grille du 14/10/2026)", "url": "https://www.rubis-club.fr/horaires-et-tarif/", "type": "officiel", "consulted": "2026-10-19" }
+  ]
+}

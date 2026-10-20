@@ -1,0 +1,1165 @@
+{
+  "slug": "sauna-eros-pau",
+  "clubId": "1440",
+  "researchedAt": "2026-10-21",
+  "display": {
+    "nom": "La Station (ex-Sauna Eros)",
+    "ville": "Pau"
+  },
+  "status": {
+    "value": "ferme",
+    "summary": "Le nom Sauna Eros a disparu au printemps 2016 : le fonds du 8 rue René Fournets a été revendu le 1er avril et, en juin, le site officiel titrait « Le Sauna Eros devient La Station ! ». Rebaptisé, le lieu a fermé au printemps 2025. Une image nommée « fermeture-definitive » est apparue en tête de son site fin mars, la liquidation judiciaire de l'exploitante a été prononcée le 1er avril 2025, et aucune reprise n'était publiée au BODACC au 20 octobre 2026. Depuis, un internaute l'a dit « fermé définitivement » en novembre 2025, et sa fiche Google apparaissait comme telle en juin 2026 sur un site qui relaie Google Maps.",
+    "sources": [
+      "s12",
+      "s26",
+      "s19",
+      "s18",
+      "s28",
+      "s35",
+      "s37",
+      "s36"
+    ]
+  },
+  "seo": {
+    "title": "Sauna Eros, devenu La Station Sauna, à Pau : fermé en 2025",
+    "metaDescription": "Le Sauna Eros, rebaptisé La Station en 2016, a fermé au printemps 2025 : preuves datées, horaires de 2011 à 2025, tarifs de 2010 à 2023, incendie de 2017.",
+    "subtitle": "Sauna gay et mixte du centre de Pau (64) : Sauna Eros jusqu'en 2016, puis La Station jusqu'à sa fermeture en 2025",
+    "targetQueries": [
+      "sauna eros pau",
+      "la station sauna pau",
+      "sauna gay pau",
+      "sauna libertin pau",
+      "club libertin pau",
+      "club echangiste pau",
+      "libertin pau",
+      "sauna eros troyes"
+    ]
+  },
+  "lead": "Sauna Eros jusqu'au printemps 2016, La Station ensuite : ce sauna libertin du centre de Pau, ouvert selon lui au milieu des années 1990, réservait au début des années 2010 trois jours sur sept aux gays et aux lesbiennes. Revendu le 1er avril 2016 et rebaptisé, il s'annonçait en 2025 mixte tous les jours, sur quatre niveaux. Il a fermé au printemps 2025 : une image « fermeture-definitive » est apparue en tête de son site fin mars, et son exploitante a été placée en liquidation judiciaire le 1er avril.",
+  "glance": [
+    {
+      "icon": "closed",
+      "label": "Fermé au printemps 2025",
+      "value": "Sauna Eros, puis La Station dès 2016"
+    },
+    {
+      "icon": "history",
+      "label": "Ouvert depuis",
+      "value": "Milieu des années 1990, selon le lieu",
+      "confidence": "source_unique"
+    },
+    {
+      "icon": "users",
+      "label": "Public selon l'époque",
+      "value": "Gay-lesbien 3 j/7 (2011), mixte 7 j/7 (2025)"
+    },
+    {
+      "icon": "euro",
+      "label": "Entrée homme seul",
+      "value": "15 € (Eros, 2011) · 19 € (La Station, 2023)"
+    },
+    {
+      "icon": "map",
+      "label": "Autre sauna à Pau",
+      "value": "Le Lokal, 3 rue Duboué : activité à confirmer",
+      "confidence": "a_verifier"
+    },
+    {
+      "icon": "calendar",
+      "label": "Club actif proche",
+      "value": "La Plage, Sauvagnon : soirées oct. 2026"
+    }
+  ],
+  "highlights": [
+    "Le Sauna Eros et La Station Sauna sont le même lieu du 8 rue René Fournets : revendu en avril 2016 et rebaptisé dans la foulée, il a fermé au printemps 2025.",
+    "sauna-eros.fr et lastation-sauna.com n'appartiennent plus au sauna : le premier affiche une page vide, le second renvoie vers des jeux d'argent.",
+    "Des annuaires affichent encore des horaires du Sauna Eros ou de La Station : ce sont ceux d'avant la fermeture.",
+    "Au n° 6 de la même rue, le Jo's Bar, ouvert en septembre 2025, est un bar LGBT et non un sauna, même si un annuaire le classe parmi les saunas.",
+    "Le Lokal, 3 rue Duboué, est le seul autre sauna repéré à Pau ; il ne publie pas d'horaires vérifiables : confirmez son ouverture par téléphone."
+  ],
+  "keyFacts": [
+    {
+      "label": "Statut",
+      "value": "Fermé au printemps 2025 sous le nom de La Station ; le nom Sauna Eros avait été abandonné au printemps 2016",
+      "confidence": "confirme",
+      "sources": [
+        "s12",
+        "s26",
+        "s19",
+        "s28"
+      ]
+    },
+    {
+      "label": "Adresse",
+      "value": "8 rue René Fournets, 64000 Pau (centre-ville)",
+      "confidence": "confirme",
+      "sources": [
+        "s9",
+        "s10",
+        "s17",
+        "s22"
+      ]
+    },
+    {
+      "label": "Ouverture",
+      "value": "Milieu des années 1990, selon le lieu (1995 ou 1996)",
+      "confidence": "source_unique",
+      "sources": [
+        "s12",
+        "s20"
+      ]
+    },
+    {
+      "label": "Concept",
+      "value": "Sauna Eros : sauna libertin et naturiste, gay, lesbien et mixte ; La Station : sauna gay et mixte, « club mixte, libertin, échangiste » selon son site",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s5",
+        "s8",
+        "s16",
+        "s60"
+      ]
+    },
+    {
+      "label": "Public selon le jour",
+      "value": "Gay et lesbien le lundi, le mercredi et le dimanche, mixte les autres jours (grilles de 2011 à 2014) ; mixte tous les jours en 2025",
+      "confidence": "confirme",
+      "sources": [
+        "s5",
+        "s6",
+        "s8",
+        "s60",
+        "s20"
+      ]
+    },
+    {
+      "label": "Surface annoncée",
+      "value": "350 m² en 2010, 400 m² en 2014, 600 m² sur quatre niveaux à la réouverture d'octobre 2018, 650 m² sur une page de 2025, selon les sites officiels",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s9",
+        "s62",
+        "s60",
+        "s20"
+      ]
+    },
+    {
+      "label": "Exploitant de 2010 à 2016",
+      "value": "SARL SAUNA EROS, renommée PAU ZEN, radiée en janvier 2026",
+      "confidence": "confirme",
+      "sources": [
+        "s10",
+        "s22",
+        "s25",
+        "s27"
+      ]
+    },
+    {
+      "label": "Nom de 2016 à 2025",
+      "value": "La Station (La Station Sauna), exploitée par la SASU ALEX jusqu'à sa fermeture au printemps 2025",
+      "confidence": "confirme",
+      "sources": [
+        "s12",
+        "s17",
+        "s23",
+        "s26"
+      ]
+    },
+    {
+      "label": "Fiche Google",
+      "value": "Marquée définitivement fermée, 3,8/5 sur 141 avis (relevé d'un agrégateur, juin 2026)",
+      "confidence": "a_verifier",
+      "sources": [
+        "s36"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "revente-avril-2016-la-station",
+      "title": "Printemps 2016 : le Sauna Eros revendu 130 000 € et rebaptisé La Station",
+      "icon": "history",
+      "summary": "Le 1er avril 2016, PAU ZEN a vendu le fonds 130 000 € à la SASU ALEX ; en juin, le site officiel annonçait « Le Sauna Eros devient La Station ! ».",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le Sauna Eros de Pau n'a pas fermé sous ce nom : depuis le printemps 2016, le sauna du 8 rue René Fournets s'appelait **La Station**."
+        },
+        {
+          "kind": "text",
+          "body": "Le 1er avril 2016, la SARL PAU ZEN, qui exploitait le lieu sous l'enseigne « EROS SAUNA », a vendu son fonds de commerce 130 000 € à la SASU ALEX, d'après l'annonce publiée au BODACC le 30 avril 2016."
+        },
+        {
+          "kind": "text",
+          "body": "L'établissement de PAU ZEN est clos au registre à la date de la vente, et l'acheteuse a démarré son activité dès le lendemain, le 2 avril."
+        },
+        {
+          "kind": "text",
+          "body": "Le changement s'est lu sur le site officiel. En juin 2016, l'accueil de sauna-eros.fr laisse place à une page provisoire qui annonce le nouveau nom, une nouvelle décoration et un nouveau hammam."
+        },
+        {
+          "kind": "text",
+          "body": "La même page programme un week-end pour les 20 ans du lieu : soirée Black Out et naturiste le vendredi 3 juin, soirée Caraïbes avec buffet et punch le samedi 4, et le dimanche 5 juin la « 1ère soirée Mousse »."
+        },
+        {
+          "kind": "text",
+          "body": "Le site lastation-sauna.com, en ligne au plus tard en décembre 2016, présente alors La Station comme un sauna gay et mixte à Pau, « anciennement le Sauna Eros », mention qu'il portait encore en juillet 2025. En 2017, l'ancienne adresse sauna-eros.fr renvoyait d'ailleurs vers ce nouveau site."
+        },
+        {
+          "kind": "callout",
+          "tone": "info",
+          "title": "Sauna Eros, La Station : un seul sauna, deux noms successifs",
+          "body": "Même adresse, même téléphone fixe (05 59 27 48 80) dans les mentions légales des deux sites officiels, même fonds de commerce passé de PAU ZEN à ALEX : le Sauna Eros, nom affiché jusqu'au printemps 2016, et La Station Sauna, de 2016 à 2025, sont un seul et même établissement."
+        }
+      ],
+      "sources": [
+        "s26",
+        "s22",
+        "s23",
+        "s12",
+        "s13",
+        "s16",
+        "s18",
+        "s14",
+        "s10",
+        "s17"
+      ]
+    },
+    {
+      "id": "jours-gay-lesbien-et-jours-mixtes",
+      "title": "Lundi, mercredi et dimanche gay et lesbien, les quatre autres jours mixtes",
+      "icon": "users",
+      "summary": "De 2011 à 2014, le lundi, le mercredi et le dimanche étaient réservés aux gays et aux lesbiennes ; les jours mixtes, la femme seule entrait gratuitement et le couple payait 18 €.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "En 2010, le site se présentait comme celui d'un sauna « libertin naturiste, Gay, Lesbien et Mixte » ; début 2016, son accueil parlait d'un « club libertin mixte, gay, échangiste ». Entre les deux formules, une constante : le public changeait selon le jour."
+        },
+        {
+          "kind": "text",
+          "body": "D'après les grilles publiées en 2011, 2013 et 2014, les lundis, mercredis et dimanches étaient réservés aux gays et aux lesbiennes, les mardis, jeudis, vendredis et samedis ouverts à tous, couples hétérosexuels compris. Le sauna ouvrait chaque jour, dès midi en semaine, et prolongeait jusqu'à 4 heures du matin les nuits du vendredi et du samedi."
+        },
+        {
+          "kind": "text",
+          "body": "Le tarif suivait la même partition. Les jours mixtes, la femme seule entrait gratuitement ; les jours gay et lesbien, elle payait comme un homme, 18 € dans la grille de juillet 2010, puis 15 € à partir de juillet 2011."
+        },
+        {
+          "kind": "text",
+          "body": "À cette date, l'entrée de l'homme seul est passée de 18 à 15 €, celle du couple restant à 18 €. Les 18-25 ans payaient moins, et une happy hour ramenait l'entrée à 12 € entre 18 et 20 heures."
+        },
+        {
+          "kind": "text",
+          "body": "Sous La Station, les prix sont remontés par paliers : l'homme seul payait 16 € fin 2016, puis 19 € en septembre 2023, comme le couple mixte ; le couple gay est passé de 26 à 34 €."
+        },
+        {
+          "kind": "table",
+          "caption": "Le prix d'entrée au 8 rue René Fournets de 2010 à 2023, d'après les grilles du site officiel",
+          "headers": [
+            "Grille",
+            "Homme seul",
+            "Couple H/F",
+            "Femme seule",
+            "Moins de 25 ans"
+          ],
+          "rows": [
+            [
+              "Juillet 2010 (Sauna Eros)",
+              "18 €",
+              "18 €",
+              "Gratuit les jours mixtes, 18 € les jours gay et lesbien",
+              "15 € les jours mixtes, 12 € les jours gay et lesbien"
+            ],
+            [
+              "Juillet 2011, mêmes prix principaux fin 2014 (Sauna Eros)",
+              "15 €",
+              "18 €",
+              "Gratuit les jours mixtes, 15 € les jours gay et lesbien",
+              "12 € (fin 2014 : de 18h à 20h)"
+            ],
+            [
+              "Fin 2016 (La Station)",
+              "16 €",
+              "18 €",
+              "Gratuit",
+              "8 €, gratuit le mercredi dès 18h"
+            ],
+            [
+              "Septembre 2023 (La Station)",
+              "19 €",
+              "19 €, gratuit dès 18h certains soirs",
+              "Gratuit",
+              "10 €, gratuit le mercredi dès 18h"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "En ville, Le Lokal, rue Duboué, mixte cinq jours sur sept selon le Petit Futé, est ce qui se rapproche le plus de ce modèle. Avant une première visite là-bas ou à Sauvagnon, [trouver un couple palois qui connaît déjà les lieux](aff:carre-libertin) se fait sur Carré Libertin, où environ 20 000 membres sont actifs chaque semaine."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s11",
+        "s2",
+        "s5",
+        "s6",
+        "s8",
+        "s16",
+        "s18",
+        "s20",
+        "s43"
+      ]
+    },
+    {
+      "id": "la-station-2016-dimanche-gay-samedi-mousse",
+      "title": "Juin-décembre 2016 : dimanche gay, mercredi « Young Boys » et samedi mousse",
+      "icon": "sparkles",
+      "summary": "La première grille de La Station ouvre en mixte du lundi au samedi, de midi à minuit et jusqu'à 3 h le vendredi et le samedi, et garde le dimanche pour la clientèle gay.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Avec le nom, le calendrier a changé de logique. Le Sauna Eros réservait trois jours par semaine au public gay et lesbien ; la première grille de La Station, affichée de juin à décembre 2016, ouvre en mixte du lundi au samedi et ne garde que le dimanche pour la clientèle gay."
+        },
+        {
+          "kind": "table",
+          "caption": "Les horaires au 8 rue René Fournets, d'après les grilles des sites officiels",
+          "headers": [
+            "Jour",
+            "Sauna Eros, 2011-2013",
+            "La Station, 2016",
+            "La Station, 2025"
+          ],
+          "rows": [
+            ["Lundi", "12h-2h, gay et lesbien", "12h-minuit, mixte", "13h-22h, mixte"],
+            ["Mardi", "12h-2h, mixte", "12h-minuit, mixte", "13h-22h, mixte"],
+            ["Mercredi", "12h-2h, gay et lesbien", "12h-minuit, mixte", "13h-22h, mixte"],
+            ["Jeudi", "12h-2h, mixte", "12h-minuit, mixte", "13h-22h, mixte"],
+            ["Vendredi", "12h-4h, mixte", "12h-3h, mixte", "13h-2h, mixte"],
+            ["Samedi", "13h30-4h, mixte", "12h-3h, mixte", "13h-2h, mixte"],
+            ["Dimanche", "14h-minuit, gay et lesbien", "12h-minuit, gay", "13h-20h, mixte"]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le nouveau site décrit un « club mixte, libertin, échangiste » de 450 m², à l'espace balnéo refait à neuf. Le mercredi soir, « Young Boys », est gratuit dès 18 h pour les moins de 25 ans ; la happy hour reste à 12 € de 18 h à 20 h, et une seconde entrée le même jour est offerte."
+        },
+        {
+          "kind": "text",
+          "body": "En juin 2016, chaque jeudi du mois avait son thème, dans l'ordre : « No Limit », « I Love Bears », « Anonymous » et « Blackout-Fluo ». En décembre, le site annonçait aussi une soirée naturiste chaque vendredi et une soirée mousse chaque samedi, de 20 h à 3 h."
+        }
+      ],
+      "sources": [
+        "s5",
+        "s6",
+        "s12",
+        "s13",
+        "s16",
+        "s60",
+        "s20"
+      ]
+    },
+    {
+      "id": "incendie-2017-reouverture-2018",
+      "title": "Août 2017 : l'incendie, puis la réouverture d'octobre 2018 sur quatre niveaux",
+      "icon": "flame",
+      "summary": "Fermée après un incendie le 25 août 2017, La Station a rouvert le 19 octobre 2018 en annonçant 600 m² sur quatre niveaux, contre 450 m² en 2016.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "De février à septembre 2018, l'accueil annonçait La Station « momentanément fermée » à la suite du « sinistre incendie du 25 août », celui de 2017, et suspendait les soirées. Le site a ensuite fixé la réouverture au vendredi 19 octobre 2018, à midi."
+        },
+        {
+          "kind": "text",
+          "body": "La Station rouvre agrandie, selon sa communication : « de nouveaux espaces de convivialité », un bar musical et 600 m² sur quatre niveaux, contre 450 m² en 2016. Le jeudi devient alors la soirée des couples."
+        },
+        {
+          "kind": "text",
+          "body": "La surface affichée a grandi d'une version du site à l'autre : 350 m² en 2010, 400 m² de 2014 à début 2016, 450 m² à la reprise de juin 2016, puis 600 ou 650 m² sur quatre niveaux selon les pages de La Station en 2025."
+        },
+        {
+          "kind": "text",
+          "body": "Le détail des travaux n'est pas connu ; ces surfaces restent celles de la communication du lieu. Autres écarts : les deux hammams de 2011 n'en font plus qu'un, « refait à neuf », en 2025, et le bar, sans alcool du temps du Sauna Eros, servait de l'alcool sept jours sur sept à La Station."
+        }
+      ],
+      "sources": [
+        "s61",
+        "s62",
+        "s12",
+        "s1",
+        "s9",
+        "s11",
+        "s18",
+        "s20",
+        "s3",
+        "s7"
+      ]
+    },
+    {
+      "id": "la-station-2025-mixte-tous-les-jours",
+      "title": "La Station en 2025 : sept jours mixtes et des couples gratuits dès 18 h",
+      "icon": "calendar",
+      "summary": "Début 2025, La Station ouvrait en mixte tous les jours dès 13 h ; les couples mixtes entraient gratuitement dès 18 h le mardi, le jeudi et deux samedis par mois.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "En 2025, le dimanche n'est plus réservé aux gays : le site de La Station annonce un sauna mixte tous les jours dès 13 h, avec un rendez-vous propre à chaque jour de la semaine."
+        },
+        {
+          "kind": "list",
+          "title": "Le programme affiché sur l'accueil début 2025",
+          "items": [
+            "**Lundi** : soirée Blackout.",
+            "**Mardi et jeudi** : entrée gratuite pour les couples mixtes dès 18 h ; le jeudi gratuit pour les couples existait déjà en février 2017, comme offre de soldes.",
+            "**Mercredi** : entrée gratuite dès 18 h pour les 18-25 ans.",
+            "**Vendredi** : soirée masquée ou Blackout fluo.",
+            "**Samedi** : couples gratuits dès 18 h les 1er et 3e samedis du mois, mousse dans le hammam le 2e, années 80 le 4e.",
+            "**Dimanche** : après-midi coquin mixte."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "En mars 2025, quelques semaines avant la liquidation, l'accueil retire deux rendez-vous du samedi : la soirée cabaret du premier samedi, annoncée depuis mai 2019, et le buffet salé-sucré servi dès 20 h."
+        },
+        {
+          "kind": "text",
+          "body": "La page « Le Sauna » de 2025 compte 20 cabines, dont des cabines à thème (zèbre, léopard, militaire), une cabine sling et une cabine bondage, ainsi qu'une backroom, des glory holes et deux salons vidéo, l'un mixte, l'autre gay. Le sauna sec y est annoncé à 70 °C, le hammam à 40 °C, les deux jacuzzis à 35 °C."
+        },
+        {
+          "kind": "text",
+          "body": "Au lounge bar, la carte affichait le café à 1,50 € et l'alcool à 6 € les 4 cl. L'accueil faisait aussi sex-shop ; une seconde entrée le même jour était gratuite, et la carte de dix entrées coûtait 140 €."
+        }
+      ],
+      "sources": [
+        "s60",
+        "s19",
+        "s20",
+        "s63",
+        "s28"
+      ]
+    },
+    {
+      "id": "fermeture-printemps-2025",
+      "title": "Mars-avril 2025 : l'image « fermeture-definitive » et la liquidation d'ALEX",
+      "icon": "closed",
+      "summary": "Fin mars 2025, une image « fermeture-definitive » s'affiche en tête du site ; le 1er avril, l'exploitante est mise en liquidation. Aucune reprise n'est connue en octobre 2026.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Sous son nouveau nom, le lieu a tenu neuf ans, dont plus d'un an de fermeture après un incendie en 2017. Les difficultés de l'exploitante apparaissent au BODACC en décembre 2022, avec l'ouverture d'un redressement judiciaire ; un plan de redressement sur dix ans est arrêté en juin 2024."
+        },
+        {
+          "kind": "text",
+          "body": "Il ne dure pas dix mois : le 1er avril 2025, le tribunal de commerce de Pau prononce sa résolution et la liquidation judiciaire de la SASU ALEX, en fixant la cessation des paiements au 24 février 2025."
+        },
+        {
+          "kind": "text",
+          "body": "Le site officiel avait pris les devants. Dans la version de l'accueil modifiée le 26 mars 2025, une image nommée « fermeture-definitive », téléversée ce mois-là, s'affiche tout en haut de la page ; elle sert aussi d'illustration quand la page est partagée."
+        },
+        {
+          "kind": "text",
+          "body": "Absente des captures du 14 et du 18 mars, elle y reste jusqu'à la dernière capture du vrai site, le 15 juillet 2025. L'image elle-même n'a jamais été archivée : nous connaissons son nom et sa place, pas son texte. Le dernier jour d'ouverture, le motif affiché et l'éventuelle mention d'un repreneur restent donc inconnus."
+        },
+        {
+          "kind": "text",
+          "body": "D'autres traces vont dans le même sens, sans dater le dernier jour d'ouverture. Le 3 novembre 2025, un internaute écrit sur un guide participatif des lieux gays que le sauna est « fermé définitivement ». En juin 2026, un site qui relaie les fiches Google Maps présentait celle de La Station comme définitivement fermée, notée 3,8/5 sur 141 avis."
+        }
+      ],
+      "sources": [
+        "s28",
+        "s61",
+        "s19",
+        "s18",
+        "s37",
+        "s36"
+      ]
+    },
+    {
+      "id": "depuis-2025-rue-rene-fournets",
+      "title": "Depuis 2025 : aucun repreneur au n° 8, deux domaines perdus, un bar LGBT au n° 6",
+      "icon": "warning",
+      "summary": "Aucune reprise publiée au BODACC au 20 octobre 2026 ; les deux domaines du sauna appartiennent à des tiers, et le Jo's Bar voisin, au n° 6, n'est pas un sauna.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Rien n'indique de suite. Aucune vente du fonds du 8 rue René Fournets n'a été publiée au BODACC entre juin 2024 et le 20 octobre 2026, et aucune société de sauna ou de loisirs n'a été immatriculée à cette adresse depuis ALEX."
+        },
+        {
+          "kind": "text",
+          "body": "Que celle-ci figure toujours comme « active » au répertoire des entreprises n'y change rien : une société reste inscrite tant que sa liquidation n'est pas clôturée, et celle d'ALEX suivait encore son cours en juin 2026."
+        },
+        {
+          "kind": "text",
+          "body": "Deux bars de la même rue peuvent prêter à confusion : « La Station des Artistes », débit de boissons enregistré au 8, et le Jo's Bar, bar LGBT ouvert au 6 en septembre 2025, qu'un annuaire range parmi les saunas de Pau. Rien, dans nos sources, ne relie l'un ou l'autre au sauna."
+        },
+        {
+          "kind": "text",
+          "body": "Jusqu'à sa dernière version, l'accueil du site de La Station portait une bannière Wyylde, reliée par un lien de partenariat direct d'après le code de la page archivée ; cela ne dit pas si le sauna y annonçait ses propres soirées."
+        },
+        {
+          "kind": "text",
+          "body": "À Sauvagnon, La Plage s'appuie elle aussi sur Wyylde : le 20 octobre 2026, son site renvoyait vers Wyylde pour sa soirée anti-crise gratuite du 30 octobre. Si vous y créez un compte pour vous inscrire, [faire certifier votre profil Wyylde avant d'écrire aux couples](aff:wyylde) vaut la démarche : facultative, la certification par photo limite les faux comptes."
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "sauna-eros.fr et lastation-sauna.com n'appartiennent plus au sauna",
+          "body": "Les deux domaines officiels ont été repris par des tiers. sauna-eros.fr, après avoir renvoyé vers un site de rencontres (2020) puis vers un blog sans rapport (2023 à mars 2025), a été réenregistré le 18 mars 2026 et n'affiche qu'une page d'hébergeur vide. lastation-sauna.com, réenregistré le 8 janvier 2026, renvoie depuis février vers des jeux d'argent."
+        }
+      ],
+      "sources": [
+        "s35",
+        "s33",
+        "s23",
+        "s28",
+        "s54",
+        "s55",
+        "s50",
+        "s18",
+        "s51",
+        "s14",
+        "s15",
+        "s21"
+      ]
+    },
+    {
+      "id": "sauna-finlandais-deux-hammams-deux-jacuzzis",
+      "title": "Sauna finlandais, deux hammams, deux jacuzzis : l'intérieur décrit de 2010 à 2014",
+      "icon": "spa",
+      "summary": "Sauna finlandais, deux hammams, deux jacuzzis, backrooms et darkroom dans un espace tout naturiste, annoncé à 350 m² en 2010 puis à 400 m² en 2014 par le site.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "En novembre 2010, quelques mois après une reprise, le site annonçait 350 m² « totalement rénové[s] » et une nouvelle équipe."
+        },
+        {
+          "kind": "text",
+          "body": "La liste d'équipements publiée début 2011 détaille la partie détente (sauna finlandais, deux hammams, deux jacuzzis, douches) et la partie rencontres : deux salles vidéo, trois backrooms, une darkroom, un sling, des glory holes, des cabines à miroirs et à barreaux."
+        },
+        {
+          "kind": "text",
+          "body": "S'y ajoutaient un bar sans alcool avec salon, des vestiaires à casiers fermant à clé et un espace fumeurs ; tout l'espace était naturiste. La page de visite de fin 2014 reprend l'essentiel, compte plus de quinze cabines et parle d'un double hammam."
+        },
+        {
+          "kind": "text",
+          "body": "Côté consignes, la page consacrée à l'hygiène demandait une douche avant le sauna et le hammam et une serviette nouée à la taille dans le sauna, et précisait que les espaces étaient désinfectés avec des produits de qualité hospitalière. Gel et préservatifs étaient fournis, en partenariat avec le SNEG et AIDES d'après le site de 2010."
+        },
+        {
+          "kind": "text",
+          "body": "La page d'accès résumait l'état d'esprit par la formule « tout est permis mais rien n'est obligatoire » et insistait sur la discrétion de l'entrée, dans une rue calme du centre-ville, près de l'Hôtel de Ville, entre la Préfecture et le quartier du Château ; pour se garer, elle renvoyait au parking du Hédas, place Récaborde."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s3",
+        "s7",
+        "s9",
+        "s11",
+        "s5",
+        "s4"
+      ]
+    },
+    {
+      "id": "le-lokal-la-plage-apres-la-station",
+      "title": "Après La Station : Le Lokal rue Duboué, La Plage et ses soirées d'octobre 2026",
+      "icon": "map",
+      "summary": "À Pau, Le Lokal (3 rue Duboué), sauna et sex-shop, montre des signes d'activité ; à Sauvagnon, La Plage annonce des soirées jusqu'au 1er novembre 2026.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "À quelques rues de la rue René Fournets, un autre sauna montre des signes d'activité après la fermeture de La Station : **Le Lokal**, au 3 rue Duboué."
+        },
+        {
+          "kind": "list",
+          "items": [
+            "**Au registre** : un commerce à l'enseigne LE LOKAL y est inscrit depuis avril 2010, toujours actif en octobre 2026.",
+            "**Le lieu** : sex-shop, cinéma et sauna-balnéo (sauna, hammam, bassin à bulles, une dizaine de cabines, espace cruising), selon le Petit Futé et la page Facebook du lieu.",
+            "**Le public** : d'après le Petit Futé, mixte cinq jours sur sept et réservé aux hommes le mercredi et le dimanche, avec une entrée à 18 € pour un homme seul comme pour un couple (texte de 2024 au plus tard).",
+            "**Signes d'activité** : des avis d'internautes datés de mai 2025 et de février 2026 ; aucun horaire publié par le lieu lui-même que nous ayons pu authentifier. Appelez avant de vous déplacer."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Hors de la ville, [La Plage, à Sauvagnon](/plage-sauvagnon-club-libertin), a une activité datée : son site officiel annonçait le 20 octobre 2026 quatre soirées entre le 23 octobre et le 1er novembre."
+        },
+        {
+          "kind": "list",
+          "items": [
+            "**À l'est, à Soumoulou** : [L'Eclypse](/l-eclypse-soumoulou), présenté comme un club libertin par les annuaires.",
+            "**Pour un sauna gay sur la côte** : le [S 64 Sauna, à Bayonne](/sauna-bayonne-gay-mixte) ; à Anglet, [le sauna du 27 rue de Beaulieu](/le-beaulieu-anglet), exploité sous l'enseigne L'Euforia d'après le registre.",
+            "**Tout le département**, du Béarn au Pays basque : [les adresses libertines des Pyrénées-Atlantiques](/departement/pyrenees-atlantiques)."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Une réserve : l'activité de L'Eclypse, du S 64 et de L'Euforia n'a pas été vérifiée ici. Un appel avant de partir évite un trajet pour rien."
+        }
+      ],
+      "sources": [
+        "s44",
+        "s43",
+        "s45",
+        "s47",
+        "s48",
+        "s51",
+        "s56",
+        "s19",
+        "s28"
+      ]
+    },
+    {
+      "id": "trois-societes-rue-rene-fournets",
+      "title": "D'EROS PAU à ALEX : trois sociétés au 8 rue René Fournets de 2005 à 2025",
+      "icon": "building",
+      "summary": "EROS PAU (2005-2010), SAUNA EROS devenue PAU ZEN (2010-2016), puis ALEX (2016-2025) : trois sociétés se sont succédé à l'adresse, deux finissant en liquidation.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le lieu fait remonter son ouverture au milieu des années 1990 : il fêtait ses 20 ans en juin 2016, et La Station se disait installée à Pau « depuis 1995 » en 2025. Le registre des entreprises ne permet pas de remonter avant 2005 ; l'exploitant des premières années n'est pas identifié."
+        },
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "1995 ou 1996",
+              "text": "Ouverture du sauna, selon le lieu lui-même. Exploitant non identifié."
+            },
+            {
+              "date": "2005",
+              "text": "Création de la SARL EROS PAU au 8 rue René Fournets, déclarée comme débit de boissons. Son activité de sauna se déduit de son nom et de son adresse, sans autre preuve."
+            },
+            {
+              "date": "12 janvier 2010",
+              "text": "Liquidation judiciaire d'EROS PAU, dont l'établissement est fermé au registre ce jour-là. La procédure est close pour extinction du passif en février 2014."
+            },
+            {
+              "date": "15 juin 2010",
+              "text": "La SARL SAUNA EROS rachète le fonds 180 000 € et commence son activité, déclarée comme sauna avec vente de boissons à consommer sur place."
+            },
+            {
+              "date": "2012-2013",
+              "text": "La société SAUNA EROS prend le nom de PAU ZEN ; l'enseigne « EROS SAUNA » reste inscrite au registre."
+            },
+            {
+              "date": "1er avril 2016",
+              "text": "Vente du fonds à la SASU ALEX pour 130 000 € ; l'établissement de PAU ZEN est fermé au registre."
+            },
+            {
+              "date": "3-5 juin 2016",
+              "text": "Week-end des 20 ans et annonce du nouveau nom, La Station."
+            },
+            {
+              "date": "25 août 2017",
+              "text": "Un incendie ferme La Station ; le site annonce une fermeture « momentanée » et la suspension des soirées."
+            },
+            {
+              "date": "19 octobre 2018",
+              "text": "Réouverture annoncée par le site, avec de nouveaux espaces et 600 m² sur quatre niveaux."
+            },
+            {
+              "date": "Novembre 2020",
+              "text": "Un billet du site, archivé le 24 novembre, annonce que La Station ferme « jusqu'à nouvel ordre » après les nouvelles mesures gouvernementales ; un billet ultérieur rend le pass sanitaire obligatoire."
+            },
+            {
+              "date": "13 décembre 2022",
+              "text": "Ouverture d'un redressement judiciaire pour ALEX."
+            },
+            {
+              "date": "11 juin 2024",
+              "text": "Plan de redressement sur dix ans."
+            },
+            {
+              "date": "Fin mars 2025",
+              "text": "L'image « fermeture-definitive » apparaît en tête du site officiel."
+            },
+            {
+              "date": "1er avril 2025",
+              "text": "Résolution du plan et liquidation judiciaire d'ALEX."
+            },
+            {
+              "date": "3 novembre 2025",
+              "text": "Sur un guide participatif des lieux gays, un internaute signale le sauna « fermé définitivement »."
+            },
+            {
+              "date": "Décembre 2025 - janvier 2026",
+              "text": "PAU ZEN, sans établissement depuis 2016, est radiée d'office (avis BODACC du 4 janvier 2026) ; le domaine lastation-sauna.com est réenregistré par un tiers le 8 janvier 2026."
+            }
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Les annuaires spécialisés n'ont pas suivi cette histoire. L'un des plus répandus reprend toujours, en 2026, la présentation du site de 2010 (350 m², une « nouvelle équipe »), ne signale ni le changement de nom ni la fermeture, et liste La Station comme un établissement distinct."
+        },
+        {
+          "kind": "text",
+          "body": "Aucune des trois sociétés paloises n'a de lien connu avec le Sauna Eros de Troyes, son homonyme fermé après un incendie en octobre 2018."
+        }
+      ],
+      "sources": [
+        "s12",
+        "s20",
+        "s24",
+        "s29",
+        "s25",
+        "s22",
+        "s1",
+        "s10",
+        "s26",
+        "s61",
+        "s62",
+        "s34",
+        "s28",
+        "s19",
+        "s18",
+        "s37",
+        "s27",
+        "s21",
+        "s30",
+        "s31",
+        "s59"
+      ]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Lundi à jeudi (mixte)": "13h – 22h",
+      "Vendredi et samedi (mixte)": "13h – 2h",
+      "Dimanche (mixte)": "13h – 20h"
+    },
+    "note": "Derniers horaires affichés par La Station, sur son site de janvier à juillet 2025 ; ceux du Sauna Eros (2011-2013) et de 2016 sont comparés dans le tableau des horaires. Historique : le lieu a fermé au printemps 2025.",
+    "confidence": "confirme",
+    "sources": [
+      "s60",
+      "s18",
+      "s20"
+    ]
+  },
+  "tarifs": {
+    "rows": {
+      "Homme seul": "19 €",
+      "Femme seule": "Gratuit",
+      "Couple mixte": "19 € ; gratuit dès 18h le mardi, le jeudi, les 1er et 3e samedis",
+      "Couple gay": "34 €",
+      "Moins de 25 ans": "10 € ; gratuit le mercredi dès 18h",
+      "Carte de 10 entrées": "140 €"
+    },
+    "note": "Grille de La Station « au 8 Septembre 2023 », la dernière publiée, encore affichée en juillet 2025 ; seconde entrée gratuite le même jour. Les grilles du Sauna Eros (2010 et 2011) figurent dans le tableau des prix. Historique : le lieu est fermé.",
+    "confidence": "confirme",
+    "sources": [
+      "s60",
+      "s18",
+      "s20"
+    ]
+  },
+  "equipements": [
+    "Sauna sec (finlandais en 2011, à 70 °C en 2025)",
+    "Hammam (deux en 2011, un seul refait à neuf en 2025)",
+    "Deux jacuzzis",
+    "Douches",
+    "Bar et salon (sans alcool du temps du Sauna Eros, lounge bar avec alcool à La Station)",
+    "Vestiaires à casiers fermés",
+    "Espace fumeurs (deux fumoirs en 2025)",
+    "Salles vidéo (un salon mixte et un salon gay en 2025)",
+    "Backrooms et darkroom",
+    "Sling",
+    "Glory holes",
+    "Cabines (plus de quinze en 2014, vingt en 2025, dont cabines à thème et cabine bondage)",
+    "Sex-shop à l'accueil (2025)"
+  ],
+  "faq": [
+    {
+      "question": "La Station Sauna, l'ancien Sauna Eros de Pau, est-elle encore ouverte ?",
+      "answer": "Non. Le Sauna Eros a pris le nom de La Station au printemps 2016, après sa revente, et La Station a fermé à son tour au printemps 2025 : image « fermeture-definitive » sur son site fin mars, liquidation judiciaire de l'exploitante le 1er avril. Aucune reprise du lieu n'était publiée au BODACC au 20 octobre 2026, et sa fiche Google apparaissait comme définitivement fermée en juin 2026, d'après un site qui relaie Google Maps."
+    },
+    {
+      "question": "La Station Sauna et le Sauna Eros sont-ils le même établissement ?",
+      "answer": "Oui : même adresse au 8 rue René Fournets, même téléphone fixe, et un fonds de commerce vendu le 1er avril 2016 par la société du Sauna Eros à celle de La Station. De 2016 à 2025, le site de La Station se présentait comme l'ancien Sauna Eros."
+    },
+    {
+      "question": "Quels étaient les horaires et les tarifs de La Station ?",
+      "answer": "En 2025, son site annonçait une ouverture en mixte tous les jours : de 13 h à 22 h du lundi au jeudi, de 13 h à 2 h le vendredi et le samedi, de 13 h à 20 h le dimanche. La dernière grille, datée du 8 septembre 2023, demandait 19 € à l'homme seul comme au couple mixte, 34 € au couple gay et 10 € aux moins de 25 ans ; la femme seule entrait gratuitement. À ses débuts, fin 2016, La Station fermait à minuit en semaine et réservait le dimanche aux gays ; l'homme seul y payait 16 €. Ces informations n'ont plus cours : le lieu est fermé depuis le printemps 2025."
+    },
+    {
+      "question": "Reste-t-il un sauna gay à Pau ?",
+      "answer": "Un seul a été repéré en octobre 2026 : Le Lokal, au 3 rue Duboué, qui réunit sex-shop, cinéma et sauna, inscrit au registre depuis 2010 et toujours actif. Selon le Petit Futé, il est réservé aux hommes le mercredi et le dimanche et mixte les autres jours. Des avis d'internautes de mai 2025 et de février 2026 le décrivent en activité, mais le lieu ne publie pas d'horaires vérifiables : appelez avant d'y aller. Sur la côte, Bayonne (le S 64) et Anglet (L'Euforia) ont chacune un sauna, dont l'activité n'a pas été vérifiée ici."
+    },
+    {
+      "question": "Où trouver un club libertin ou échangiste près de Pau ?",
+      "answer": "Dans Pau même, aucun club libertin en activité n'a été trouvé en octobre 2026. Le plus proche dont l'activité est datée est La Plage, à Sauvagnon : son site officiel annonçait, le 20 octobre 2026, des soirées jusqu'au 1er novembre. L'Eclypse, à Soumoulou, et les clubs de Bayonne et d'Anglet n'ont pas été vérifiés ici. Faute de club en ville, Gleese permet d'[observer en direct des couples libertins avant de leur écrire](aff:gleese) : des lives y sont diffusés chaque jour, souvent animés par des couples, et la messagerie accepte les messages vocaux. Combien de membres vivent autour de Pau, seul un passage sur le site le dira."
+    },
+    {
+      "question": "Le Sauna Eros de Pau a-t-il un lien avec celui de Troyes ?",
+      "answer": "Aucun lien établi. Le [Sauna Eros de Troyes](/sauna-eros-troyes), fermé lui aussi depuis un incendie survenu en octobre 2018, est un établissement distinct, dans l'Aube. Les sociétés qui ont exploité le sauna palois avaient toutes leur siège au 8 rue René Fournets, à Pau."
+    }
+  ],
+  "unverified": [
+    "Le texte de l'image « fermeture-definitive » de mars 2025 : date effective, motif, repreneur éventuel.",
+    "Le dernier jour d'ouverture de La Station.",
+    "La fiche Google du lieu, vue seulement à travers un agrégateur (définitivement fermée, 3,8/5 sur 141 avis en juin 2026) ; aucun article de presse trouvé au 20 octobre 2026.",
+    "Les horaires, tarifs et jours mixtes actuels du Lokal, rue Duboué, qu'aucune source officielle datée ne confirme.",
+    "L'exploitant du sauna entre 1995 et 2005, et l'activité réelle de la SARL EROS PAU (2005-2010), déduite de son nom et de son adresse.",
+    "Une reprise des locaux par un autre lieu libertin ou gay après 2025.",
+    "La licence de débit de boissons alcoolisées de La Station, l'annonce de 2016 ne déclarant que des boissons non alcoolisées.",
+    "La nature des travaux faits entre l'incendie du 25 août 2017 et la réouverture du 19 octobre 2018, et la raison des écarts de surface annoncés, de 350 à 650 m²."
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Site officiel sauna-eros.fr, accueil (archive du 05/11/2010)",
+      "url": "https://web.archive.org/web/20101105113638/http://www.sauna-eros.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s2",
+      "label": "Site officiel, « Les Tarifs » au 1er juillet 2010 (archive du 05/11/2010)",
+      "url": "https://web.archive.org/web/20101105142450/http://www.accueil.sauna-eros.fr/index.php/tarifs.html",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s3",
+      "label": "Site officiel, équipements (archive du 17/02/2011)",
+      "url": "https://web.archive.org/web/20110217182107/http://www.accueil.sauna-eros.fr/index.php/nos-equipements.html",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s4",
+      "label": "Site officiel, « Accès » (archive du 18/02/2011)",
+      "url": "https://web.archive.org/web/20110218214624/http://www.accueil.sauna-eros.fr/index.php/acces.html",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s5",
+      "label": "Site officiel, « Horaires » et « Hygiène » (archives du 17/02/2011)",
+      "url": "https://web.archive.org/web/20110217141356/http://www.accueil.sauna-eros.fr/index.php/symboles.html",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s6",
+      "label": "Site officiel, « Tarifs et Horaires », grille du 19/07/2011 (archive du 18/06/2013)",
+      "url": "https://web.archive.org/web/20130618030956/http://www.sauna-eros.fr/index.php/tarifs-et-horaires",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s7",
+      "label": "Site officiel, « Visite du Sauna » (archive du 29/12/2014)",
+      "url": "https://web.archive.org/web/20141229201956/http://www.sauna-eros.fr/sauna-libertin-pau.html",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s8",
+      "label": "Site officiel, « Tarifs - Horaires du Sauna » (archive du 29/12/2014)",
+      "url": "https://web.archive.org/web/20141229201950/http://www.sauna-eros.fr/horaires-sauna-eros.html",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s9",
+      "label": "Site officiel, « Accès - Contact » (archive du 29/12/2014)",
+      "url": "https://web.archive.org/web/20141229215051/http://www.sauna-eros.fr/contact-sauna-pau.html",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s10",
+      "label": "Site officiel, mentions légales : SARL Pau Zen (archive du 04/01/2015)",
+      "url": "https://web.archive.org/web/20150104152623/http://www.sauna-eros.fr/mentions-legales.html",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s11",
+      "label": "Site officiel, accueil (archive du 09/01/2016)",
+      "url": "https://web.archive.org/web/20160109203112/http://sauna-eros.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s12",
+      "label": "Site officiel, accueil « Le Sauna Eros devient La Station ! » (archive du 08/06/2016)",
+      "url": "https://web.archive.org/web/20160608163434/http://www.sauna-eros.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s13",
+      "label": "Site officiel, accueil La Station (archive du 25/10/2016)",
+      "url": "https://web.archive.org/web/20161025120440/http://www.sauna-eros.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s14",
+      "label": "Wayback Machine, historique des captures et redirections de sauna-eros.fr",
+      "url": "https://web.archive.org/cdx/search/cdx?url=sauna-eros.fr&matchType=domain&fl=timestamp,original,statuscode&collapse=timestamp:6",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s15",
+      "label": "AFNIC, registre du domaine sauna-eros.fr (réenregistré le 18/03/2026)",
+      "url": "https://rdap.nic.fr/domain/sauna-eros.fr",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s16",
+      "label": "Site officiel lastation-sauna.com, accueil (archive du 08/12/2016)",
+      "url": "https://web.archive.org/web/20161208165341/http://www.lastation-sauna.com/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s17",
+      "label": "Site officiel La Station, mentions légales : SASU ALEX (archive du 12/05/2017)",
+      "url": "https://web.archive.org/web/20170512045739/http://www.lastation-sauna.com/mentions-legales/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s18",
+      "label": "Site officiel La Station, accueil (archive du 25/06/2025)",
+      "url": "https://web.archive.org/web/20250625082702/https://www.lastation-sauna.com/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s19",
+      "label": "Site officiel La Station, accueils de février à avril 2025 (archive du 22/04/2025)",
+      "url": "https://web.archive.org/web/20250422100319/https://www.lastation-sauna.com/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s20",
+      "label": "Site officiel La Station, « Le Sauna » (archive du 25/06/2025)",
+      "url": "https://web.archive.org/web/20250625084454/https://www.lastation-sauna.com/le-sauna/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s21",
+      "label": "Verisign, registre du domaine lastation-sauna.com (réenregistré le 08/01/2026)",
+      "url": "https://rdap.verisign.com/com/v1/domain/lastation-sauna.com",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s22",
+      "label": "Annuaire des entreprises : PAU ZEN, ex-SAUNA EROS (SIREN 523 665 149)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/523665149",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s23",
+      "label": "Annuaire des entreprises : ALEX, La Station Sauna (SIREN 819 708 967)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/819708967",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s24",
+      "label": "Annuaire des entreprises : EROS PAU (SIREN 481 003 192)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/481003192",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s25",
+      "label": "BODACC, achat du fonds par SAUNA EROS (12/08/2010)",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20100155439",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s26",
+      "label": "BODACC, vente du fonds de PAU ZEN à ALEX (30/04/2016)",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20160086961",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s27",
+      "label": "BODACC, radiation d'office de PAU ZEN (04/01/2026)",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:B202600013087",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s28",
+      "label": "BODACC, procédures collectives d'ALEX (2022 à 2026), dont la liquidation du 01/04/2025",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202500713236",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s29",
+      "label": "BODACC, liquidation judiciaire d'EROS PAU (2010-2014)",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A201000312162",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s30",
+      "label": "sauna-club-libertin.com, fiche « Sauna EROS »",
+      "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_3.php?id=1440&d=64",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s31",
+      "label": "sauna-club-libertin.com, fiche « La Station Sauna »",
+      "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_3.php?id=15583&d=64",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s33",
+      "label": "Recherche d'entreprises, sociétés domiciliées au 8 rue René Fournets",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=8%20rue%20rene%20fournets&code_postal=64000",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s34",
+      "label": "Site officiel La Station, billet de fermeture covid (archive du 24/11/2020) ; billet « Pass Sanitaire obligatoire » visible dans l'archive du 23/01/2022",
+      "url": "https://web.archive.org/web/20201124005500/https://www.lastation-sauna.com/fermeturecovid/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s35",
+      "label": "BODACC, annonces visant la rue René Fournets depuis juin 2024",
+      "url": "https://bodacc-datadila.opendatasoft.com/api/explore/v2.1/catalog/datasets/annonces-commerciales/records?where=search(listeetablissements,%22Ren%C3%A9%20Fournets%22)%20and%20dateparution%3E%3D%222024-06-01%22",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s36",
+      "label": "top-rated.online, fiche « LA STATION SAUNA » relayant Google Maps : « permanently closed », 3,8/5 sur 141 avis (page mise à jour le 24/06/2026)",
+      "url": "https://www.top-rated.online/cities/Pau/place/p/10013514/LA+STATION+SAUNA",
+      "type": "avis",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s37",
+      "label": "gayspot.fr (ex-lieux-gays.com), fiche « La Station Sauna » : avis du 03/11/2025 « C'est fermé définitivement »",
+      "url": "https://gayspot.fr/lieu-de-drague-gay/1300-la-station-sauna-pau.html",
+      "type": "avis",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s43",
+      "label": "Petit Futé, « LE LOKAL SAUNA », 3 rue Duboué (texte daté de 2024 au plus tard)",
+      "url": "https://www.petitfute.com/v3091-pau-64000/c9998-coquin/c1044-s-amuser-sortir/c208-sauna/604356-le-lokal-sauna.html",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s44",
+      "label": "Annuaire des entreprises : SHOP 64, enseigne LE LOKAL, 3 rue Duboué (SIREN 513 496 448)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/513496448",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s45",
+      "label": "Page Facebook « Le lokal | Pau » (présentation publique)",
+      "url": "https://www.facebook.com/Le-lokal-400031107277446/",
+      "type": "reseau_social",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s47",
+      "label": "gayspot.fr, fiche « Le Lokal » : avis datés de 2022 à mai 2025",
+      "url": "https://gayspot.fr/lieu-de-drague-gay/1397-le-lokal-pau.html",
+      "type": "avis",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s48",
+      "label": "lieuxcoquins.fr, « Le Lokal Sauna » : avis du 03/02/2026",
+      "url": "https://www.lieuxcoquins.fr/lieu/le-lokal-sauna/",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s50",
+      "label": "h2o-saunapourlui.fr, « Sauna gay Pau (64000) : Top 4 adresses en 2026 »",
+      "url": "https://www.h2o-saunapourlui.fr/saunas-gay/pyrenees-atlantiques/pau/",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s51",
+      "label": "Site officiel de La Plage (Sauvagnon) : soirées annoncées du 23/10 au 01/11/2026",
+      "url": "https://www.la-plage.net/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s54",
+      "label": "Annuaire des entreprises : JOTH64, enseigne JO'S BAR PAU au 6 rue René Fournets depuis le 06/09/2025 (SIREN 989 299 268)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/989299268",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s55",
+      "label": "StroboMag, « Jo's Bar Pau » (agenda LGBTQI+)",
+      "url": "https://www.strobomag.com/fr/agenda/ouvert-19h-2h-14",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s56",
+      "label": "Annuaire des entreprises : BEAULIEU, enseigne L'EUFORIA, 27 rue de Beaulieu à Anglet (SIREN 423 539 741)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/423539741",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s59",
+      "label": "Site officiel du Sauna Eros de Troyes, billet du 16/10/2018 sur la fermeture après incendie (archive du 23/01/2019)",
+      "url": "https://web.archive.org/web/20190123102408/http://saunaeros.fr/feed/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s61",
+      "label": "Site officiel La Station, accueil : fermeture après le « sinistre incendie du 25 août » (archive du 04/02/2018, même annonce jusqu'au 16/09/2018)",
+      "url": "https://web.archive.org/web/20180204063152/http://www.lastation-sauna.com/",
+      "type": "officiel",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s62",
+      "label": "Site officiel La Station, accueil : « Réouverture de La station le vendredi 19 octobre », 600 m² sur 4 niveaux (archive du 17/10/2018)",
+      "url": "https://web.archive.org/web/20181017103343/http://www.lastation-sauna.com/",
+      "type": "officiel",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s63",
+      "label": "Site officiel La Station, accueil : soldes avec entrée gratuite pour les couples le jeudi jusqu'au 16 février (archive du 12/02/2017)",
+      "url": "https://web.archive.org/web/20170212071622/http://www.lastation-sauna.com/",
+      "type": "officiel",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s60",
+      "label": "Site officiel La Station, accueil de début 2025 : programme de la semaine et des samedis, horaires, tarifs (archive du 10/02/2025)",
+      "url": "https://web.archive.org/web/20250210104657/https://www.lastation-sauna.com/",
+      "type": "officiel",
+      "consulted": "2026-10-21"
+    }
+  ]
+}

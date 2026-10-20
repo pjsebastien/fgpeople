@@ -1,0 +1,1088 @@
+{
+  "slug": "club-30-nimes",
+  "clubId": "386",
+  "researchedAt": "2026-10-20",
+  "display": {
+    "nom": "Rex Club Sauna (ex-Club 30)",
+    "ville": "Nîmes"
+  },
+  "status": {
+    "value": "ouvert",
+    "summary": "Relue le 20 octobre 2026, la première page de l'agenda du site officiel affiche deux rendez-vous par jour jusqu'au vendredi 30 octobre (un seul, de 14 h à 23 h, le dimanche). La page suivante et l'export du calendrier y ajoutent un « Special Halloween » le samedi 31 à 21 h. La page d'accueil a été retouchée en mars 2026, et la SARL que le registre rattache à l'adresse a déposé ses comptes 2025 en juin 2026. Le nom Club 30 a disparu avec la liquidation de sa société, le 25 novembre 2015.",
+    "sources": [
+      "s4",
+      "s44",
+      "s1",
+      "s20",
+      "s21",
+      "s19"
+    ]
+  },
+  "seo": {
+    "title": "Rex Club Sauna (ex-Club 30) à Nîmes : prix, horaires et soirées",
+    "metaDescription": "L'ex-Club 30 de la rue Cordier, devenu Rex Club Sauna en 2016 : ouvert 7 j/7, couple 30 €, homme seul 40 €, femme gratuite, un thème chaque après-midi et soir.",
+    "subtitle": "Sauna libertin mixte avec hammam, jacuzzi et backrooms, près de la gare de Nîmes (30)",
+    "targetQueries": [
+      "club libertin nimes",
+      "sauna libertin nimes",
+      "rex club sauna nimes",
+      "club 30 nimes",
+      "sauna mixte nimes"
+    ]
+  },
+  "lead": "Le Club 30 a disparu avec la liquidation de sa société en novembre 2015 ; depuis juin 2016, le sauna libertin de la rue Cordier s'appelle Rex Club Sauna. Il ouvre tous les jours, l'après-midi et le soir, avec une grille unique : 30 € le couple, 40 € l'homme seul, entrée libre pour les femmes seules. Son agenda donne un thème à chaque après-midi et à chaque soirée, jusqu'au « Special Halloween » du samedi 31 octobre 2026.",
+  "glance": [
+    {
+      "icon": "calendar",
+      "label": "Ouvert",
+      "value": "Tous les jours, dès 14 h"
+    },
+    {
+      "icon": "clock",
+      "label": "Fermeture",
+      "value": "1 h en semaine · 2 h ven.-sam. · 23 h dim."
+    },
+    {
+      "icon": "euro",
+      "label": "Entrée couple",
+      "value": "30 €, deux softs compris"
+    },
+    {
+      "icon": "spa",
+      "label": "Espaces",
+      "value": "Sauna, hammam, jacuzzi, backrooms"
+    },
+    {
+      "icon": "sparkles",
+      "label": "Agenda",
+      "value": "Un thème l'après-midi, un autre le soir"
+    },
+    {
+      "icon": "history",
+      "label": "Ancien nom",
+      "value": "Club 30 (2007-2015), Rex depuis 2016"
+    }
+  ],
+  "audience": [
+    {
+      "who": "couples",
+      "status": "oui",
+      "detail": "Tous les jours, même prix l'après-midi et le soir",
+      "price": "30 €"
+    },
+    {
+      "who": "femmes",
+      "status": "oui",
+      "detail": "Entrée libre tous les jours, l'après-midi comme le soir",
+      "price": "0 €"
+    },
+    {
+      "who": "hommes",
+      "status": "selon",
+      "detail": "Admis selon le nombre de couples présents ; entrée non remboursée",
+      "price": "40 €"
+    },
+    {
+      "who": "trans",
+      "status": "oui",
+      "detail": "« Toutes tendances » ; gratuit à la plupart des soirées de 21 h (agenda d'octobre 2026)"
+    }
+  ],
+  "highlights": [
+    "Homme seul : l'entrée se décide selon le nombre de couples déjà présents, et elle n'est pas remboursée.",
+    "Toute sortie est définitive, et le lieu ferme de 19 h à 21 h du lundi au samedi : choisissez l'après-midi ou la soirée.",
+    "Plusieurs annuaires donnent le samedi en soirée seulement ; le site et l'agenda d'octobre 2026 ouvrent dès 14 h. Un appel au 04 66 05 60 48 lève le doute.",
+    "Club humide : douche avant, après et entre chaque rapport. Serviette et casier fournis ; une clé perdue est facturée 20 €.",
+    "Les annuaires qui affichent encore « Club 30 » et le 04 66 36 10 66 sont périmés : le club publie le 04 66 05 60 48."
+  ],
+  "keyFacts": [
+    {
+      "label": "Nom actuel",
+      "value": "Rex Club Sauna, à cette adresse depuis juin 2016",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s10",
+        "s11"
+      ]
+    },
+    {
+      "label": "Ancien nom",
+      "value": "Club 30 (SARL Serenite), de 2007 à la liquidation de novembre 2015",
+      "confidence": "confirme",
+      "sources": [
+        "s18",
+        "s19",
+        "s13"
+      ]
+    },
+    {
+      "label": "Concept",
+      "value": "Sauna libertin mixte « toutes tendances » : sauna, hammam, jacuzzi, backrooms",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s4"
+      ]
+    },
+    {
+      "label": "Jours d'ouverture",
+      "value": "Tous les jours, l'après-midi et le soir",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s3",
+        "s4"
+      ]
+    },
+    {
+      "label": "Entrée couple",
+      "value": "30 €, deux softs compris",
+      "confidence": "confirme",
+      "sources": [
+        "s2",
+        "s4"
+      ]
+    },
+    {
+      "label": "Homme seul",
+      "value": "40 €, admis selon le nombre de couples présents",
+      "confidence": "confirme",
+      "sources": [
+        "s2",
+        "s5"
+      ]
+    },
+    {
+      "label": "Âge minimum",
+      "value": "18 ans",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s5"
+      ]
+    },
+    {
+      "label": "Exploitant",
+      "value": "SARL MP Courtage selon le registre ; les mentions légales nomment une autre société",
+      "confidence": "a_verifier",
+      "sources": [
+        "s20",
+        "s21",
+        "s6"
+      ]
+    },
+    {
+      "label": "Accès",
+      "value": "Environ 800 m à vol d'oiseau de la gare de Nîmes",
+      "confidence": "confirme",
+      "sources": [
+        "s30",
+        "s31",
+        "s9"
+      ]
+    },
+    {
+      "label": "Téléphone",
+      "value": "04 66 05 60 48",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s6",
+        "s11"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "agenda-quotidien",
+      "title": "Orgie romaine le mardi, buffet sucré-salé le dimanche : deux thèmes par jour à l'agenda",
+      "icon": "sparkles",
+      "summary": "Du lundi au samedi, l'agenda fixe un thème à 14 h et un autre à 21 h ; le dimanche, un seul créneau de 14 h à 23 h, avec buffet sucré-salé.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le Rex tient son agenda sur son propre site. L'export du calendrier compte 652 fiches depuis octobre 2023, entre 13 et 23 nouvelles chaque mois, sans mois vide. Au 20 octobre 2026, la première page de l'agenda donne un thème à chaque après-midi et à chaque soirée jusqu'au vendredi 30. La page suivante, comme l'export, se termine sur le « Special Halloween » du samedi 31 à 21 h."
+        },
+        {
+          "kind": "table",
+          "caption": "Programme affiché du 20 au 31 octobre 2026 (agenda relevé les 20 et 21/10)",
+          "headers": [
+            "Jour",
+            "Après-midi (14 h)",
+            "Soir (21 h)"
+          ],
+          "rows": [
+            [
+              "Lundi",
+              "« Escapade libertine »",
+              "Strip-tease"
+            ],
+            [
+              "Mardi",
+              "« GangBang » le 20, « Orgies romaines » le 27",
+              "« Soirée découverte débutants »"
+            ],
+            [
+              "Mercredi",
+              "« Mercredi c'est permis »",
+              "Soirée massage, gratuite pour les couples de moins de 30 ans"
+            ],
+            [
+              "Jeudi",
+              "« Maîtres & Soumises » le 22, « GangBang & Bukkake » le 29",
+              "« LGBTQ friendly night »"
+            ],
+            [
+              "Vendredi",
+              "« GloryHole Party »",
+              "« Désirs cachés »"
+            ],
+            [
+              "Samedi",
+              "« Unis par l'envie »",
+              "« Sans – Limite » le 24, « Special Halloween » le 31"
+            ],
+            [
+              "Dimanche",
+              "« Débridé et coquin », buffet sucré-salé",
+              "En continu jusqu'à 23 h"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Les titres changent au fil des mois. De janvier à mai 2026, le jeudi soir s'appelait « Soirée femmes gourmandes » ; depuis juin, c'est une « LGBTQ friendly night », gratuite pour les personnes trans et travesties. L'année a aussi eu ses dates uniques : Saint-Valentin, dimanche de Pâques, défilé."
+        },
+        {
+          "kind": "text",
+          "body": "Une femme seule entre ici sans payer, l'après-midi comme le soir. Si vous préférez ne pas franchir la porte seule, vous pouvez [repérer une partenaire de sortie dans l'agglomération nîmoise](aff:carre-libertin) sur Carré Libertin, où femmes et couples formeraient environ 60 % des membres, selon les chiffres que le site avance."
+        }
+      ],
+      "sources": [
+        "s4",
+        "s44"
+      ]
+    },
+    {
+      "id": "prix-et-admission",
+      "title": "40 € pour l'homme seul, admis selon le nombre de couples ; rien à payer pour une femme seule",
+      "icon": "users",
+      "summary": "La grille, réécrite le 31 octobre 2023, est la même tous les jours, après-midi et soir ; l'entrée d'un homme seul dépend des couples déjà présents.",
+      "blocks": [
+        {
+          "kind": "list",
+          "title": "Compris dans l'entrée",
+          "items": [
+            "L'accès au sauna, au hammam, au jacuzzi et aux backrooms",
+            "Un soft pour un homme seul, deux pour un couple",
+            "Une serviette par personne, 1 € la suivante en cas d'abus",
+            "Un casier à clé ; une clé perdue est facturée 20 €"
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Pour un homme seul, le règlement pose une condition : l'entrée se décide « en fonction du nombre de couples présents », sans remboursement. Il ne précise ni le seuil, ni le cas d'un homme venu avec un couple ; un appel au 04 66 05 60 48 avant la route reste le plus sûr."
+        },
+        {
+          "kind": "text",
+          "body": "Le site du Rex affiche une bannière Wyylde, réseau qui revendique 7 millions de membres. Y [chercher un couple gardois prêt à vous emmener rue Cordier](aff:wyylde) évite au moins de se présenter seul à l'accueil."
+        },
+        {
+          "kind": "text",
+          "body": "Absentes de la grille générale, les personnes trans entrent gratuitement, comme les femmes seules, à la plupart des soirées de 21 h : strip-tease du lundi, massage du mercredi, nuit LGBTQ du jeudi, vendredi et samedi soir. Le massage du mercredi est aussi gratuit pour les couples de moins de 30 ans."
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Des prix d'annuaires à ignorer",
+          "body": "Une fiche d'annuaire mise à jour en août 2026 reprend des prix « en date du 4 juin 2025 » : homme 20 €, ou 30 € du vendredi soir au dimanche, couple 30 à 40 €. Un autre guide avance « 15–40 € », sans source. Le site officiel dit 30 € et 40 €."
+        }
+      ],
+      "sources": [
+        "s2",
+        "s4",
+        "s5",
+        "s1",
+        "s32",
+        "s35"
+      ]
+    },
+    {
+      "id": "galerie-officielle",
+      "title": "Quatorze photos officielles : vestiaire rouge, lit rond, sauna en bois et cloison à glory hole",
+      "icon": "camera",
+      "summary": "La galerie montre un vestiaire à casiers rouges, un bar, des salons avec écran, une chambre à lit rond, un sauna en bois et une cloison percée ; photos vraisemblablement de 2016.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Chaque fiche de l'agenda 2026 résume le lieu en quatre mots : sauna, hammam, jacuzzi, backrooms. La page « Découvrir le REX » en donne quatorze photos sans légende, que nous avons regardées une à une."
+        },
+        {
+          "kind": "list",
+          "items": [
+            "La façade, avec la plaque « REX CLUB SAUNA – SAUNA MIXTE » et l'inscription « SAUNA HAMMAM JACUZZI » sur la porte",
+            "Un vestiaire à casiers rouges",
+            "Un bar à tabourets hauts",
+            "Des salons avec canapés et écran",
+            "Un escalier qui monte à un étage",
+            "Une chambre avec lit rond, écran et miroir",
+            "Une cabine de sauna en bois",
+            "Une cloison percée d'ouvertures, le glory hole des soirées du même nom"
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Les noms des fichiers reprennent des identifiants de photos Facebook de mi-2016 : ces images datent vraisemblablement de l'ouverture du Rex, et l'aménagement a pu changer depuis. Un message du livre d'or d'août 2024 mentionne une cabine à l'étage."
+        },
+        {
+          "kind": "text",
+          "body": "Le site ne parle que des « softs » compris dans l'entrée. Un annuaire mis à jour en mars 2026 décrit un bar sans alcool, comme l'était celui du Club 30 sur son site leclub30.chez.com en 2008-2009 ; le Rex ne l'écrit pas lui-même."
+        }
+      ],
+      "sources": [
+        "s4",
+        "s7",
+        "s8",
+        "s2",
+        "s34",
+        "s26"
+      ]
+    },
+    {
+      "id": "club-humide",
+      "title": "Un « club humide » : douche avant, après et entre chaque rapport, nudité sous drap de bain",
+      "icon": "shield",
+      "summary": "Le règlement de juin 2024 impose la douche à chaque étape et la nudité sous drap de bain ou paréo fournis ; téléphones interdits, tabac limité au fumoir.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le règlement intérieur, modifié le 6 juin 2024, se présente comme celui d'un « club humide » : les sols sont glissants, la douche est obligatoire avant, après et entre chaque rapport, et l'on circule nu sous le drap de bain ou le paréo fourni."
+        },
+        {
+          "kind": "list",
+          "title": "Interdit à l'intérieur",
+          "items": [
+            "Le téléphone portable et l'appareil photo",
+            "Les substances illicites",
+            "La prostitution et le racolage",
+            "La cigarette hors du fumoir dédié"
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "L'établissement se déclare non-fumeur, mais garde un fumoir ; le Club 30 avait lui aussi ouvert un « Espace Fumeur » à l'hiver 2008. L'entrée est réservée aux plus de 18 ans."
+        }
+      ],
+      "sources": [
+        "s5",
+        "s1",
+        "s3",
+        "s13"
+      ]
+    },
+    {
+      "id": "le-club-30",
+      "title": "Le Club 30 de 2007 à 2015 : couples gratuits l'après-midi et consommations offertes",
+      "icon": "history",
+      "summary": "Sous l'enseigne Club 30, la SARL Serenite a exploité le sauna de 2007 à sa liquidation, le 25 novembre 2015 ; en 2009, les couples entraient gratuitement l'après-midi.",
+      "blocks": [
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "27 mars 1998",
+              "text": "Une société de « soins corporels » s'immatricule au 6 rue Cordier ; rien n'indique qu'il s'agissait déjà d'un sauna."
+            },
+            {
+              "date": "15 janvier 2007",
+              "text": "Cette société ferme son établissement ; le même jour naît la SARL Serenite, enseigne « Club 30 »."
+            },
+            {
+              "date": "Juillet 2007",
+              "text": "Premières captures du site club30nimes.fr : sauna, hammam, jacuzzi, salons, bar et « coins câlins »."
+            },
+            {
+              "date": "Décembre 2008",
+              "text": "Un autre site, leclub30.chez.com : « sauna libertin », cabines, bar sans alcool. Fermeture du 21 décembre au 4 janvier."
+            },
+            {
+              "date": "Printemps 2009",
+              "text": "Soirées à thème le vendredi et le samedi : « Fêtes aux Fleurs », « Betty Boop », « Chasse et Pêche »."
+            },
+            {
+              "date": "25 novembre 2015",
+              "text": "Liquidation judiciaire de Serenite ; le site, qui décrit encore un club « libertin, échangiste, naturiste », tient jusqu'en janvier 2016."
+            },
+            {
+              "date": "22 mai 2019",
+              "text": "Clôture de la liquidation pour insuffisance d'actif."
+            }
+          ]
+        },
+        {
+          "kind": "table",
+          "caption": "Le Club 30 en avril 2009 et le Rex en 2026, d'après leurs sites",
+          "headers": [
+            "Critère",
+            "Club 30 (avril 2009)",
+            "Rex (2026)"
+          ],
+          "rows": [
+            [
+              "Femme seule",
+              "Gratuit",
+              "Gratuit"
+            ],
+            [
+              "Homme seul",
+              "35 €",
+              "40 €, un soft compris"
+            ],
+            [
+              "Couple",
+              "Gratuit l'après-midi et aux soirées mixtes, 25 € les autres soirs",
+              "30 €, deux softs compris"
+            ],
+            [
+              "Trio (deux hommes, une femme)",
+              "50 €",
+              "Pas de tarif affiché"
+            ],
+            [
+              "Boissons",
+              "« Toutes nos consommations sont offertes »",
+              "Softs compris dans l'entrée"
+            ],
+            [
+              "Après-midi",
+              "14 h - 18 h 30, tous les jours",
+              "14 h - 19 h ; le dimanche jusqu'à 23 h"
+            ],
+            [
+              "Soirées",
+              "21 h - 2 h, vendredi et samedi au programme",
+              "Tous les soirs, jusqu'à 1 h ou 2 h"
+            ]
+          ]
+        }
+      ],
+      "sources": [
+        "s22",
+        "s18",
+        "s19",
+        "s13",
+        "s26",
+        "s14",
+        "s15",
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "id": "arrivee-du-rex",
+      "title": "Juin 2016 : le Rex s'installe rue Cordier, six mois après la liquidation du Club 30",
+      "icon": "globe",
+      "summary": "Le BODACC désigne la société du Club 30 comme précédente propriétaire de la licence achetée 20 000 € par l'exploitant du Rex ; le nom Club 30 ne survit que dans des annuaires.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "La continuité du lieu est nette : même adresse, mêmes coordonnées au registre, même trio sauna, hammam et jacuzzi. Elle a aussi une trace écrite : l'annonce BODACC du 21 avril 2017 sur l'achat d'une licence de 20 000 € par la SARL MP Courtage, au 6 rue Cordier, nomme la SARL Serenite, celle du Club 30, comme précédente propriétaire."
+        },
+        {
+          "kind": "text",
+          "body": "Aucun document public ne dit, en revanche, si les équipements et la clientèle ont suivi, ni ne présente le Rex comme « le nouveau Club 30 »."
+        },
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "Mai-juin 2016",
+              "text": "Le domaine rex-club-sauna.fr est enregistré le 19 mai ; le 1er juin, une autre société ouvre un établissement de sauna au 6 rue Cordier. Le 19, le site du Rex affiche « un nom, deux adresses » : Montpellier et Nîmes."
+            },
+            {
+              "date": "Juillet 2016",
+              "text": "club30nimes.fr ne renvoie plus qu'une erreur ; en 2017 et 2018, le domaine sert à une boutique de chaussures de sport."
+            },
+            {
+              "date": "Décembre 2016 - avril 2017",
+              "text": "MP Courtage publie l'achat d'une licence pour 20 000 €, cédée par Serenite, la société du Club 30 alors en liquidation."
+            },
+            {
+              "date": "Mars 2017",
+              "text": "Le site présente « LE REX CLUB SAUNA NIMES », rue Cordier, avec le 04 66 05 60 48, numéro qu'il publie toujours."
+            },
+            {
+              "date": "Octobre 2023",
+              "text": "Le Rex réécrit ses pages tarifs et horaires et relance un agenda en ligne, tenu sans interruption depuis."
+            },
+            {
+              "date": "29 mai 2026",
+              "text": "club30nimes.fr est réenregistré ; en octobre 2026, il héberge un site de rencontres sans rapport avec le club."
+            }
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le nom survit dans les annuaires. Une liste communautaire de 2010 associait le Club 30 au 04 66 36 10 66 ; Yelp, dont la fiche est annoncée à jour en août 2025, et Koifaire le reprennent toujours, tandis que CercleLibertin fait du Club 30 un lieu distinct du Rex, à la même adresse."
+        }
+      ],
+      "sources": [
+        "s18",
+        "s20",
+        "s17",
+        "s10",
+        "s15",
+        "s11",
+        "s2",
+        "s3",
+        "s4",
+        "s16",
+        "s27",
+        "s36",
+        "s42",
+        "s35",
+        "s21",
+        "s19"
+      ]
+    },
+    {
+      "id": "acces-et-autres-lieux",
+      "title": "À 800 m de la gare, et le seul lieu mixte vérifié du secteur ouvert le soir en début de semaine",
+      "icon": "map",
+      "summary": "Le club se dit à 2 minutes de la gare, sa page contact à 10 : comptez environ 800 m à vol d'oiseau. Autour : un sauna réservé aux hommes et un club mixte à Caissargues.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le pied de page du site annonce le Rex « à 2 mn de la gare » ; sa page contact écrit « à 10 mn ». Entre les coordonnées de l'adresse et celles de la gare de Nîmes, nous mesurons environ 800 m à vol d'oiseau : prévoyez une dizaine de minutes à pied."
+        },
+        {
+          "kind": "list",
+          "title": "Les autres lieux du secteur",
+          "items": [
+            "[Le Nîmes Club Sauna](/nimes-club-sauna-nimes), rue Fernand-Pelloutier, se dit « toujours 100 % masculin » : couples et femmes n'y entrent pas. Son site annonce une ouverture dès midi, 365 jours par an (consulté le 20/10/2026).",
+            "[La Villa Rose](/la-villa-rose-caissargues), club libertin mixte de Caissargues avec jacuzzi, hammam et sauna sec, ouvre tous les après-midi et le soir du jeudi au samedi ; sa page d'événements affichait, le 20/10/2026, des dates jusqu'au 1er novembre.",
+            "[Le Fahrenheit 212](/fahrenheit-212-nimes), que les annuaires de 2025-2026 appellent Club F212 : nous n'avons pas vérifié son activité.",
+            "Le Sensuality Club, rue Pierre-Semard, listé par un annuaire mis à jour en août 2026 : activité non vérifiée."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "À Nîmes et à Caissargues, le Rex est le seul lieu mixte dont nous avons vérifié l'activité qui reçoive aussi le soir du lundi au mercredi. Les autres adresses figurent sur la page [des lieux libertins de Nîmes](/ville/nimes) et sur celle [des clubs du Gard](/departement/gard)."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s9",
+        "s30",
+        "s31",
+        "s39",
+        "s40",
+        "s41",
+        "s38",
+        "s43"
+      ]
+    },
+    {
+      "id": "avis-et-notes",
+      "title": "Une visite de février 2026 notée 5/5 sur PagesJaunes, et des notes Google relayées de 3,9 à 4,4",
+      "icon": "star",
+      "summary": "Seul avis tiers lu : 5/5 sur PagesJaunes pour une visite du 28/02/2026. Des annuaires relaient une note Google de 3,9 à 4,4, que nous n'avons pas pu consulter.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Sur PagesJaunes, un unique avis, publié le 16 mars 2026 pour une visite du 28 février, salue l'accueil, la propreté et la discrétion. Un seul avis ne permet aucune moyenne. Les notes Google ne circulent que de seconde main : 3,9 (guide modifié en mars 2025), 4,3 sur 187 avis (juin 2025), 4,4 sur 210 (guide 2026)."
+        },
+        {
+          "kind": "text",
+          "body": "Le livre d'or du site, hébergé et modéré par le club, compte cinq messages de décembre 2023 à octobre 2024. Ils louent l'accueil et la propreté ; un couple de Lozère dit être revenu deux fois après une première visite en septembre 2024, un autre message trouve le fumoir froid (août 2024)."
+        },
+        {
+          "kind": "text",
+          "body": "Une page Facebook « REX CLUB SAUNA NIMES » réunit 2 359 abonnés au 20 octobre 2026. PagesJaunes la relie au club, mais le site officiel ne la cite pas, et ses publications ne sont pas lisibles sans compte."
+        }
+      ],
+      "sources": [
+        "s28",
+        "s37",
+        "s32",
+        "s33",
+        "s8",
+        "s29"
+      ]
+    },
+    {
+      "id": "societe-et-marque",
+      "title": "Une enseigne née à Montpellier en 2014, une SARL en plan de redressement jusqu'en 2034",
+      "icon": "building",
+      "summary": "Le registre rattache le sauna à la SARL MP Courtage, sous plan de redressement de dix ans depuis septembre 2024 ; les mentions légales du site nomment pourtant une autre société.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le nom vient de Montpellier : un premier Rex Club Sauna « toutes tendances » y fonctionnait avenue du Pont-Juvénal dès 2014. En 2018, le bouton Montpellier menait vers therex.fr ; ce site, celui de The Rex à Mauguio, annonce aujourd'hui sa fermeture définitive (page modifiée en juin 2025). La racine de rex-club-sauna.fr renvoie désormais vers Nîmes."
+        },
+        {
+          "kind": "text",
+          "body": "Le site du Kalyptus by Rex, à Montpellier, présente en octobre 2026 son repreneur, « Mr Rex », comme fondateur de The Rex et « toujours maître du Rexclub Sauna à Nîmes », avec « 41 ans d'expérience »."
+        },
+        {
+          "kind": "list",
+          "title": "La SARL MP Courtage au registre",
+          "items": [
+            "Créée en juillet 2014 à Saint-Jean-de-Védas (Hérault) ; activité de sauna ajoutée en avril 2016",
+            "Établissement ouvert au 6 rue Cordier le 1er juin 2016, siège transféré à Nîmes",
+            "Achat à Serenite, la société du Club 30, d'une licence pour 20 000 €, publié fin 2016 puis au BODACC en avril 2017",
+            "Redressement judiciaire le 6 septembre 2023 ; plan de dix ans arrêté le 17 septembre 2024",
+            "Comptes 2025 déposés (annonce du 4 juin 2026) ; active, une à deux personnes salariées en 2024"
+          ]
+        },
+        {
+          "kind": "callout",
+          "tone": "info",
+          "title": "Deux sociétés pour un même site",
+          "body": "Les mentions légales du Rex désignent la SARL Nîmes Club Sauna, avec un siège « 6 rue Cordier ». Au registre, cette société a son siège rue Fernand-Pelloutier, celle du sauna gay du même nom, et aucun établissement rue Cordier. Nous retenons MP Courtage, avec cette réserve."
+        }
+      ],
+      "sources": [
+        "s12",
+        "s10",
+        "s25",
+        "s24",
+        "s1",
+        "s20",
+        "s21",
+        "s19",
+        "s6",
+        "s23"
+      ]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Lundi": "14 h - 19 h et 21 h - 1 h",
+      "Mardi": "14 h - 19 h et 21 h - 1 h",
+      "Mercredi": "14 h - 19 h et 21 h - 1 h",
+      "Jeudi": "14 h - 19 h et 21 h - 1 h",
+      "Vendredi": "14 h - 19 h et 21 h - 2 h",
+      "Samedi": "14 h - 19 h et 21 h - 2 h",
+      "Dimanche": "14 h - 23 h sans interruption",
+      "Jours fériés": "14 h - 23 h sans interruption"
+    },
+    "note": "Toute sortie est définitive. PagesJaunes et deux annuaires ne donnent le samedi qu'en soirée ; le site officiel et l'agenda d'octobre 2026 ouvrent le samedi dès 14 h.",
+    "confidence": "confirme",
+    "sources": [
+      "s1",
+      "s3",
+      "s4"
+    ]
+  },
+  "tarifs": {
+    "rows": {
+      "Couple": "30 € (deux softs offerts)",
+      "Homme seul": "40 € (un soft offert), selon le nombre de couples présents",
+      "Femme seule": "Gratuit"
+    },
+    "note": "Même grille tous les jours, l'après-midi comme le soir. Serviette et casier compris ; serviette supplémentaire 1 € en cas d'abus, clé perdue 20 €. Les fiches de la plupart des soirées annoncent aussi l'entrée gratuite pour les personnes trans, et la soirée massage du mercredi pour les couples de moins de 30 ans.",
+    "confidence": "confirme",
+    "sources": [
+      "s2",
+      "s4",
+      "s5"
+    ]
+  },
+  "equipements": [
+    "Sauna",
+    "Hammam",
+    "Jacuzzi",
+    "Backrooms",
+    "Glory hole",
+    "Chambre avec lit rond",
+    "Salons avec écran",
+    "Bar",
+    "Vestiaire à casiers",
+    "Fumoir"
+  ],
+  "externalRatings": [
+    {
+      "platform": "PagesJaunes",
+      "rating": 5,
+      "scale": 5,
+      "count": 1,
+      "date": "2026-10-20",
+      "url": "https://www.pagesjaunes.fr/pros/56514327"
+    }
+  ],
+  "officialLinks": [
+    {
+      "label": "Site officiel du Rex Club Sauna",
+      "url": "https://rex-club-sauna.fr/nimes/",
+      "kind": "site"
+    },
+    {
+      "label": "Agenda des soirées",
+      "url": "https://rex-club-sauna.fr/nimes/agenda/",
+      "kind": "agenda"
+    },
+    {
+      "label": "Galerie « Découvrir le REX » (14 photos)",
+      "url": "https://rex-club-sauna.fr/nimes/decouvrir-le-rexclub/",
+      "kind": "galerie"
+    }
+  ],
+  "corrections": {
+    "telephone": "04 66 05 60 48",
+    "email": "contact@rex-club-sauna.fr",
+    "site_web": "https://rex-club-sauna.fr/nimes/",
+    "sources": [
+      "s1",
+      "s6"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Le Club 30 de Nîmes existe-t-il encore ?",
+      "answer": "Plus sous ce nom. Sa société a été mise en liquidation judiciaire le 25 novembre 2015, et son ancien domaine, club30nimes.fr, héberge aujourd'hui un site de rencontres sans rapport. Depuis juin 2016, le sauna libertin du 6 rue Cordier s'appelle Rex Club Sauna, dont l'exploitant a racheté une licence à la société du Club 30. Il publie le 04 66 05 60 48 ; le 04 66 36 10 66 que reprennent encore Yelp ou Koifaire était celui du Club 30."
+    },
+    {
+      "question": "Combien coûte l'entrée au Rex Club Sauna ?",
+      "answer": "Selon le site officiel, 30 € pour un couple avec deux softs, 40 € pour un homme seul avec un soft, et rien pour une femme seule, tous les jours et à toute heure. Une serviette et un casier sont compris. Un annuaire affiche d'autres prix (homme seul à 20 €, couple de 30 à 40 € selon le jour), relevés en juin 2025 et contredits par l'agenda d'octobre 2026."
+    },
+    {
+      "question": "Le Rex Club Sauna est-il ouvert le samedi après-midi ?",
+      "answer": "Oui selon le club : son site ouvre le samedi de 14 h à 19 h, et son agenda programme « Unis par l'envie » à 14 h les samedis 24 et 31 octobre 2026. PagesJaunes et deux annuaires ne donnent pourtant que le samedi soir. En cas de doute, appelez le 04 66 05 60 48."
+    },
+    {
+      "question": "Qu'est-ce que la soirée découverte du mardi ?",
+      "answer": "Le mardi à 21 h, l'agenda annonce une « soirée découverte débutants », affichée les mardis 20 et 27 octobre ; inscrite depuis décembre 2023, elle se tenait le mercredi jusqu'en 2025 et a pris le mardi en avril 2026. Sa fiche n'en donne que l'horaire (21 h - 1 h), les tarifs habituels et la mention « ouvert à toutes et à tous » : le déroulé se demande au club. Pour échanger d'abord avec d'autres novices, Gleese revient à 3,75 € par mois en formule annuelle (45 € réglés en une fois), de quoi [préparer avec des débutants gardois un premier mardi rue Cordier](aff:gleese)."
+    },
+    {
+      "question": "Où sortir d'autre en club libertin à Nîmes ?",
+      "answer": "Pour un couple ou une femme, l'autre lieu mixte dont nous avons vérifié l'activité est La Villa Rose, à Caissargues, à cinq minutes de Nîmes selon le club, avec des soirées du jeudi au samedi. Le Nîmes Club Sauna n'accueille que des hommes. Le Fahrenheit 212 et le Sensuality Club figurent dans des annuaires, sans vérification de notre part."
+    },
+    {
+      "question": "Le Rex est-il loin de la gare de Nîmes ?",
+      "answer": "Non : environ 800 m à vol d'oiseau, soit une dizaine de minutes à pied, ce que dit aussi la page contact du club. La mention « à 2 mn de la gare » du pied de page est optimiste."
+    }
+  ],
+  "unverified": [
+    "La note Google actuelle et son nombre d'avis : nous n'avons lu que des notes relayées par des annuaires (3,9 à 4,4).",
+    "Le nombre de couples à partir duquel un homme seul est admis, et la façon dont est compté un homme venu avec un couple.",
+    "L'ouverture effective du samedi après-midi, annoncée par le club mais absente de PagesJaunes et de deux annuaires.",
+    "La société qui exploite le lieu : MP Courtage selon le registre, Nîmes Club Sauna selon les mentions légales du site.",
+    "La reprise des équipements et de la clientèle du Club 30 : seule la cession d'une licence par sa société au futur exploitant du Rex est publiée.",
+    "Le bar sert-il de l'alcool ? Le site ne parle que de softs.",
+    "Le rattachement au club de la page Facebook « REX CLUB SAUNA NIMES » et la date de ses dernières publications.",
+    "L'aménagement actuel : les photos officielles semblent dater de 2016.",
+    "L'activité du Club 30 entre 2010 et 2015, faute d'archives lisibles de son site."
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Rex Club Sauna, site officiel, page d'accueil (modifiée le 05/03/2026)",
+      "url": "https://rex-club-sauna.fr/nimes/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s2",
+      "label": "Rex Club Sauna, page Tarifs (modifiée le 31/10/2023)",
+      "url": "https://rex-club-sauna.fr/nimes/tarifs/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s3",
+      "label": "Rex Club Sauna, page Horaires (modifiée le 31/10/2023)",
+      "url": "https://rex-club-sauna.fr/nimes/horaires/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s4",
+      "label": "Rex Club Sauna, agenda en ligne : première page (20 au 30/10/2026), page suivante et fiche « Special Halloween » (31/10/2026)",
+      "url": "https://rex-club-sauna.fr/nimes/agenda/",
+      "type": "officiel",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s5",
+      "label": "Rex Club Sauna, règlement intérieur (modifié le 06/06/2024)",
+      "url": "https://rex-club-sauna.fr/nimes/reglement/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s6",
+      "label": "Rex Club Sauna, mentions légales (modifiées le 06/06/2024)",
+      "url": "https://rex-club-sauna.fr/nimes/mentions-legales/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s7",
+      "label": "Rex Club Sauna, galerie « Découvrir le REX » (14 photos)",
+      "url": "https://rex-club-sauna.fr/nimes/decouvrir-le-rexclub/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s8",
+      "label": "Rex Club Sauna, livre d'or (5 messages, décembre 2023 à octobre 2024)",
+      "url": "https://rex-club-sauna.fr/nimes/livre-dor/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s9",
+      "label": "Rex Club Sauna, page Contact/accès (modifiée le 16/11/2017)",
+      "url": "https://rex-club-sauna.fr/nimes/contactacces-sauna-mixte-nimes/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s10",
+      "label": "rex-club-sauna.fr archivé le 19/06/2016 (« un nom, deux adresses ») et le 28/12/2018 (Wayback Machine)",
+      "url": "https://web.archive.org/web/20160619201941/http://www.rex-club-sauna.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s11",
+      "label": "Rex Club Sauna Nîmes, page archivée le 21/03/2017 (Wayback Machine)",
+      "url": "https://web.archive.org/web/20170321010859/http://rex-club-sauna.fr/nimes/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s12",
+      "label": "rexclubsauna.fr, ancien site du Rex Club Sauna de Montpellier, archivé le 12/06/2015 (Wayback Machine)",
+      "url": "https://web.archive.org/web/20150612135100/http://www.rexclubsauna.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s13",
+      "label": "Club 30, site officiel club30nimes.fr archivé en 2007 et 2008 (Wayback Machine)",
+      "url": "https://web.archive.org/web/20071222174309/http://www.club30nimes.fr/accueil.html",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s14",
+      "label": "Club 30, horaires, tarifs et programme archivés en avril 2009 (Wayback Machine)",
+      "url": "https://web.archive.org/web/20090416022853/http://www.club30nimes.fr/horaire_tarifs.html",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s15",
+      "label": "club30nimes.fr archivé de décembre 2015 à juin 2018 (Wayback Machine)",
+      "url": "https://web.archive.org/web/20160708211035/http://www.club30nimes.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s16",
+      "label": "AFNIC, enregistrement du domaine club30nimes.fr (29/05/2026) et page servie en octobre 2026",
+      "url": "https://rdap.nic.fr/domain/club30nimes.fr",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s17",
+      "label": "AFNIC, enregistrement du domaine rex-club-sauna.fr",
+      "url": "https://rdap.nic.fr/domain/rex-club-sauna.fr",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s18",
+      "label": "Annuaire des entreprises, SARL Serenite (SIREN 493 888 051, enseigne Club 30)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/493888051",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s19",
+      "label": "BODACC, liquidation judiciaire de la SARL Serenite (2015) et clôture pour insuffisance d'actif (2019)",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20150232822",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s20",
+      "label": "Annuaire des entreprises, SARL MP Courtage (SIREN 803 802 719)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/803802719",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s21",
+      "label": "BODACC, annonces de la SARL MP Courtage (2016 à 2026)",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20240188756",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s22",
+      "label": "Annuaire des entreprises, SARL Loisir et Détente du Languedoc (SIREN 418 215 737)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/418215737",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s23",
+      "label": "Annuaire des entreprises, SARL Nîmes Club Sauna (SIREN 340 919 471)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/340919471",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s24",
+      "label": "Kalyptus by Rex (Montpellier), site officiel (page modifiée le 08/10/2026)",
+      "url": "https://kalyptusbyrex.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s25",
+      "label": "The Rex (Mauguio), site officiel (page modifiée le 10/06/2025)",
+      "url": "http://www.therex.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s26",
+      "label": "leclub30.chez.com, site du Club 30 archivé en 2008 et 2009 (Wayback Machine)",
+      "url": "https://web.archive.org/web/20090305124249/http://leclub30.chez.com/present2.html",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s27",
+      "label": "L'Anneau de Justine, liste des établissements libertins en France (novembre 2010)",
+      "url": "https://www.anneaudejustine.com/2010/11/liste-des-etablissements-libertins-en-france/",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s28",
+      "label": "PagesJaunes, fiche « Rex Club Sauna Nîmes » (1 avis, publié le 16/03/2026)",
+      "url": "https://www.pagesjaunes.fr/pros/56514327",
+      "type": "avis",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s29",
+      "label": "Facebook, page « REX CLUB SAUNA NIMES » (aperçu public)",
+      "url": "https://www.facebook.com/p/REX-CLUB-SAUNA-NIMES-100049057795213/",
+      "type": "reseau_social",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s30",
+      "label": "SNCF Open Data, gares de voyageurs (coordonnées de la gare de Nîmes)",
+      "url": "https://ressources.data.sncf.com/explore/dataset/gares-de-voyageurs/",
+      "type": "autre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s31",
+      "label": "Base Adresse Nationale, 6 rue Cordier, 30000 Nîmes",
+      "url": "https://api-adresse.data.gouv.fr/search/?q=6%20rue%20Cordier%2030000%20Nimes",
+      "type": "carte",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s32",
+      "label": "Minuitlibertin, fiche « Rex Club Sauna » (publiée le 04/06/2025, mise à jour le 03/08/2026)",
+      "url": "https://minuitlibertin.com/rex-club-sauna/",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s33",
+      "label": "Kinkyee, « Club Libertin Nîmes (Guide 2026) »",
+      "url": "https://kinkyee.fr/club-libertin/nimes/",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s34",
+      "label": "Saunaclublebali, fiche « Rex Club Sauna » (mise à jour le 10/03/2026)",
+      "url": "https://www.saunaclublebali.fr/listing/rex-club-sauna-nimes/",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s35",
+      "label": "CercleLibertin, « Lieux libertins à Nîmes »",
+      "url": "https://www.cerclelibertin.net/lieux-libertins-a-nimes-les-adresses-qui-font-le-buzz/",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s36",
+      "label": "Yelp, fiche « CLUB 30 » (vue en résultat de recherche)",
+      "url": "https://www.yelp.com/biz/club-30-nimes-3",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s37",
+      "label": "Top Rencontre, clubs libertins à Nîmes (modifié le 24/03/2025)",
+      "url": "https://toprencontre.fr/club-libertin-nimes/",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s38",
+      "label": "Minuitlibertin, « Trouvez un club libertin à Nîmes » (mis à jour le 03/08/2026)",
+      "url": "https://minuitlibertin.com/trouvez-un-club-libertin-a-nimes/",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s39",
+      "label": "Nîmes Club Sauna, site officiel",
+      "url": "http://www.nimesclubsauna.fr/ncs/index.php",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s40",
+      "label": "La Villa Rose (Caissargues), site officiel, accueil",
+      "url": "https://www.club-lavillarose.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s41",
+      "label": "La Villa Rose, page d'événements sur Wyylde (liée depuis le site officiel)",
+      "url": "https://app.wyylde.com/fr-fr/page/67864730-098d-11ec-bd58-fd23692e9d8d/club-la-villa-rose/events",
+      "type": "reseau_social",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s42",
+      "label": "Koifaire, fiche « Club 30 Nimes »",
+      "url": "https://www.koifaire.com/languedoc-roussillon/club,30-31875.html",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s43",
+      "label": "Minuitlibertin, fiches « Sensuality Club » et « Club F212 »",
+      "url": "https://minuitlibertin.com/sensuality-club/",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s44",
+      "label": "Rex Club Sauna, export ICS du calendrier (652 fiches, d'octobre 2023 au « Special Halloween » du 31/10/2026)",
+      "url": "https://rex-club-sauna.fr/nimes/?plugin=all-in-one-event-calendar&controller=ai1ec_exporter_controller&action=export_events",
+      "type": "officiel",
+      "consulted": "2026-10-21"
+    }
+  ]
+}

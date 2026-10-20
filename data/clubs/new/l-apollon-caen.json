@@ -1,0 +1,19 @@
+{
+  "id": "new-l-apollon-caen",
+  "nom": "L'Apollon",
+  "type": "bar de cruising gay exclusivement masculin",
+  "types_normalises": ["Bar", "Gay friendly"],
+  "adresse": "16 rue Varignon",
+  "code_postal": "14000",
+  "ville": "Caen",
+  "departement_code": "14",
+  "departement_nom": "Calvados",
+  "region": "Normandie",
+  "pays": "France",
+  "telephone": "0231930082",
+  "email": "lapollon@aol.com",
+  "site_web": "https://lapollon.fr/",
+  "equipements": ["Bar", "Backroom", "Sling", "Glory hole", "Salon ou espace vidéo", "Fumoir", "Vestiaire (facultatif)", "Vitrine de poppers"],
+  "verification": { "status": "actif" },
+  "addedAt": "2026-10-20"
+}

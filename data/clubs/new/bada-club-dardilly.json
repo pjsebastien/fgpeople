@@ -1,0 +1,31 @@
+{
+  "id": "new-bada-club-dardilly",
+  "nom": "Bada Club",
+  "type": "club et sauna libertin",
+  "types_normalises": ["Club", "Sauna", "Spa & Wellness"],
+  "adresse": "Porte de Lyon",
+  "code_postal": "69570",
+  "ville": "Dardilly",
+  "departement_code": "69",
+  "departement_nom": "Rhône",
+  "region": "Auvergne-Rhône-Alpes",
+  "pays": "France",
+  "telephone": "0482293218",
+  "email": "contact@bada-club.fr",
+  "site_web": "https://bada-club.fr/",
+  "equipements": [
+    "Surface de 1 200 m²",
+    "Deux zones : une zone réservée aux couples et une zone mixte",
+    "Sauna finlandais",
+    "Hammam",
+    "Jacuzzi",
+    "Plus de quinze coins câlins",
+    "Labyrinthe et backroom",
+    "Salle cinéma",
+    "Bar et piste de danse",
+    "Vestiaire avec casiers, serviette et paréo fournis",
+    "Parking privé gratuit et fermé"
+  ],
+  "verification": { "status": "actif" },
+  "addedAt": "2026-10-21"
+}

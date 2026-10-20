@@ -1,0 +1,422 @@
+{
+  "slug": "taken-club-paris-ile-saint-louis",
+  "clubId": "FG012",
+  "researchedAt": "2026-10-20",
+  "display": { "nom": "Taken Club", "ville": "Paris" },
+  "status": {
+    "value": "ouvert",
+    "summary": "Le mardi 20 octobre 2026, l'accueil du site annonçait la soirée Trio du soir, de 22 h 30 à 4 h, et sa grille tarifaire a augmenté entre mai et octobre 2026. L'exploitant, la SAS A.C.A, est actif au registre (mise à jour du 23 septembre 2026).",
+    "sources": ["s21", "s2", "s17", "s8"]
+  },
+  "seo": {
+    "title": "Taken Club, Paris 4e : photos, tarifs 2026 et soirée Trio",
+    "metaDescription": "Club libertin voûté de l'île Saint-Louis : ce que montrent ses 9 photos officielles, couple de 78 à 110 €, hommes seuls le mardi, dress code et voiturier.",
+    "subtitle": "Club libertin de nuit sous les voûtes de l'île Saint-Louis, Paris 4e",
+    "targetQueries": [
+      "taken-club photos",
+      "photos de taken club",
+      "club libertin paris",
+      "club bdsm paris",
+      "club libertin bdsm paris",
+      "sauna libertin paris",
+      "hotel libertin paris",
+      "club l'escarpin paris"
+    ]
+  },
+  "lead": "Sous les voûtes de pierre d'une salle en contrebas de la rue, sur l'île Saint-Louis, le Taken est un club libertin de nuit ouvert du mardi au samedi. Annoncé en décembre 2013 comme la nouvelle adresse de l'équipe du No Comment, il a été inauguré le 17 janvier 2014. En octobre 2026, le couple y paie de 78 à 110 € selon le soir, et l'homme seul n'entre que le mardi.",
+  "glance": [
+    { "icon": "calendar", "label": "Ouvert", "value": "Du mardi au samedi, dès 22 h 30" },
+    { "icon": "euro", "label": "Entrée couple", "value": "78 € (mardi) à 110 € (formule Champagne)" },
+    { "icon": "users", "label": "Hommes seuls", "value": "Le mardi (112 €), ou en trio le week-end" },
+    { "icon": "shield", "label": "Tenue exigée", "value": "Jupe ou robe ; chemise à manches longues" },
+    { "icon": "camera", "label": "Photos officielles", "value": "9, sur les pages Visite du site" },
+    { "icon": "history", "label": "Depuis", "value": "Décembre 2013 (inauguré le 17/01/2014)" }
+  ],
+  "audience": [
+    { "who": "couples", "status": "oui", "detail": "Du mardi au samedi ; le vendredi et le samedi sont les soirées « couple »", "price": "78 à 110 €" },
+    { "who": "femmes", "status": "oui", "detail": "Du mardi au samedi selon la grille ; un vendredi a été annoncé « réservé aux couples »", "price": "38 €" },
+    { "who": "hommes", "status": "selon", "detail": "Seuls le mardi (soirée Trio) ; vendredi et samedi, seulement en trio avec deux femmes", "price": "112 €" }
+  ],
+  "highlights": [
+    "Un homme seul n'entre que le mardi (soirée Trio, 112 €) ; le vendredi et le samedi, seulement à trois avec deux femmes (126 € le trio).",
+    "Tenue vérifiée à la porte : robe ou jupe et talons pour elles, pas de pantalon ; chemise à manches longues pour eux, ni tee-shirt ni baskets.",
+    "On sonne, et c'est une femme de l'équipe qui ouvre et décide de l'entrée (blog, 2025). Les téléphones restent au vestiaire.",
+    "Selon un blog de 2025, les consommations en plus de celles comprises dans l'entrée sont notées sur une carte et réglées en partant : 20 € la coupe, 25 € le cocktail.",
+    "Les après-midi et la navette depuis le parking, encore cités par des annuaires, n'existent plus : le club n'ouvre que le soir depuis fin 2019."
+  ],
+  "keyFacts": [
+    { "label": "Ouverture", "value": "Site en ligne en décembre 2013, inauguration le 17 janvier 2014", "confidence": "confirme", "sources": ["s10", "s11", "s12"] },
+    { "label": "Origine", "value": "Lancé par l'équipe du No Comment (Paris 8e), selon le club", "confidence": "confirme", "sources": ["s11", "s12", "s18"] },
+    { "label": "Société", "value": "SAS A.C.A, SIREN 400 628 806, enseigne TAKEN-CLUB, active", "confidence": "confirme", "sources": ["s8"] },
+    { "label": "Effectif déclaré", "value": "3 à 5 salariés (tranche 2024)", "confidence": "source_unique", "sources": ["s8"] },
+    { "label": "Jours d'ouverture", "value": "Du mardi au samedi, 22 h 30 à 4 h (5 h le vendredi et le samedi)", "confidence": "confirme", "sources": ["s2", "s3", "s21"] },
+    { "label": "Public admis", "value": "Couples et femmes seules ; hommes seuls le mardi", "confidence": "confirme", "sources": ["s2", "s3"] },
+    { "label": "Entrée couple", "value": "78 à 110 € selon le soir (octobre 2026)", "confidence": "confirme", "sources": ["s2", "s21"] },
+    { "label": "Espaces", "value": "Bar voûté, piste, salons, fumoir ; ni spa ni jacuzzi", "confidence": "confirme", "sources": ["s5", "s11", "s13"] }
+  ],
+  "sections": [
+    {
+      "id": "photos-officielles",
+      "title": "Neuf photos officielles : cave voûtée, velours rouge et lits à baldaquin",
+      "icon": "camera",
+      "summary": "Le site du club répartit 9 photos sur ses pages Visite : entrée dorée, bar voûté en pierre, piste aux lustres rouges, salons à baldaquin et fumoir vitré.",
+      "blocks": [
+        { "kind": "text", "body": "Le Taken n'a pas de galerie unique : ses photos sont réparties sur les cinq pages « Visite » de son site (entrée, bar, piste, salons, fumoir). Nous avons regardé ces neuf images le 16 octobre 2026 et n'en reproduisons aucune." },
+        {
+          "kind": "table",
+          "caption": "Ce que montrent les photos du site officiel",
+          "headers": ["Page", "Photos", "Ce qu'on y voit"],
+          "rows": [
+            ["Entrée", "1", "Moulures dorées, lustre de cristal, escalier à rampe de fer forgé qui descend"],
+            ["Bar", "3", "Salle voûtée en pierre, banquette et chaises de velours rouge, mobilier doré, tableaux encadrés"],
+            ["Piste", "2", "Banquettes rouges sous une voûte, lustres rouges"],
+            ["Salons", "2", "Lits à baldaquin voilés de rideaux, alcôve cintrée fermée de barreaux"],
+            ["Fumoir", "1", "Alcôve vitrée sous une arche de brique"]
+          ]
+        },
+        { "kind": "text", "body": "Les récits de visite collent à ces images. Un billet de janvier 2023 signale une pièce aux miroirs et des « copies de tableaux plus ou moins érotiques ». En septembre 2026, Paris ZigZag parle d'un décor « XVIIIe siècle », avec bustes sculptés et reproductions de tableaux." }
+      ],
+      "sources": ["s5", "s29", "s31"]
+    },
+    {
+      "id": "semaine-type",
+      "title": "Mardi Trio, Champagne le mercredi et le jeudi, couples jusqu'à 5 h le week-end",
+      "icon": "calendar",
+      "summary": "Du mardi au samedi dès 22 h 30 : Trio le mardi (seul soir des hommes seuls), Champagne le mercredi et le jeudi, soirées couple jusqu'à 5 h le vendredi et le samedi.",
+      "blocks": [
+        {
+          "kind": "table",
+          "caption": "La semaine affichée par le club en octobre 2026",
+          "headers": ["Soir", "Formule", "Qui entre", "Fin"],
+          "rows": [
+            ["Mardi", "Soirée Trio", "Couples, femmes seules, hommes seuls", "4 h"],
+            ["Mercredi, jeudi", "Bulles de Champagne", "Couples, femmes seules", "4 h"],
+            ["Vendredi, samedi", "Soirée couple", "Couples, femmes seules, trios de deux femmes et un homme", "5 h"],
+            ["Dimanche, lundi", "Fermé au public", "Location de la salle sur demande", "-"]
+          ]
+        },
+        { "kind": "text", "body": "Le mercredi et le jeudi, le couple choisit entre une formule à six coupes de champagne et une formule à deux consommations, et la grille ne prévoit aucun tarif homme seul. Le week-end, un homme n'entre qu'au sein d'un trio avec deux femmes." },
+        { "kind": "text", "body": "La soirée Trio a souvent changé de jour : le mercredi soir d'octobre 2017 à janvier 2020, absente de la grille d'octobre 2021, le mardi de mai 2022 à janvier 2023, le mardi et le mercredi de février 2025 à mai 2026, puis le mardi seul en octobre 2026. Un témoignage qui annonce les hommes seuls le mercredi décrit donc une grille ancienne." },
+        { "kind": "callout", "tone": "warning", "title": "Le vendredi, femmes seules admises ?", "body": "Le 16 octobre 2026, le message du jour annonçait une « soirée réservée aux couples ». Pourtant, la page Tarifs donne un prix femme seule ce soir-là et l'agenda classe le vendredi en « soirée couple et femme seule ». Mieux vaut appeler le 01 43 25 76 93." },
+        { "kind": "text", "body": "La femme seule paie 38 € depuis au moins octobre 2021, pendant que le couple du week-end passait de 92 à 102 €. Si venir seule dans une salle où, selon les témoignages, les couples dominent vous fait hésiter, vous pouvez d'abord en rencontrer sur [Carré Libertin, qui annonce environ 60 % de femmes et de couples parmi ses membres](aff:carre-libertin)." }
+      ],
+      "sources": ["s2", "s3", "s1", "s21", "s14", "s15", "s35", "s16", "s17", "s29"]
+    },
+    {
+      "id": "porte-et-tenue",
+      "title": "Sonnette, chemise à manches longues et consommations réglées en partant",
+      "icon": "shield",
+      "summary": "On sonne, une femme de l'équipe décide de l'entrée et la tenue compte : robe ou jupe pour elles, chemise à manches longues pour eux. Les extras se paient à la sortie.",
+      "blocks": [
+        { "kind": "text", "body": "Pas de videur : selon un blog anglophone qui raconte une visite en 2025, on sonne et c'est une femme de l'équipe qui ouvre et tranche. Le site prévient que « l'élégance et la séduction » conditionnent l'entrée, et la direction « se réserve le droit d'entrée ». Plusieurs avis en ligne racontent des refus liés à la tenue." },
+        {
+          "kind": "list",
+          "title": "Le dress code publié par le club",
+          "items": [
+            "Femmes : tenue « élégante et sexy », robe ou jupe, talons hauts ; pas de pantalon.",
+            "Hommes : chemise à manches longues, pantalon classique ou jean noir ; ni tee-shirt ni baskets."
+          ]
+        },
+        {
+          "kind": "list",
+          "title": "Une fois la porte passée",
+          "items": [
+            "Manteaux et téléphones restent au vestiaire du salon d'accueil.",
+            "Les consommations au-delà de celles comprises dans l'entrée sont notées sur une carte et payées en partant (blog, 2025).",
+            "Pour une première visite, l'équipe propose de faire le tour des lieux ; un client de février 2026 dit en avoir profité.",
+            "Les valeurs affichées demandent d'accepter un refus sans insister ; des préservatifs sont à disposition."
+          ]
+        },
+        { "kind": "text", "body": "Le livre d'or de 2024 et un blog de 2019 décrivent une clientèle d'habitués qui se connaissent. Si vous préférez échanger en ligne avec des libertins parisiens avant de sonner rue Le Regrattier, [ne retenez sur Wyylde que les profils passés par la certification](aff:wyylde) : elle reste facultative, mais limite les faux comptes." }
+      ],
+      "sources": ["s23", "s6", "s1", "s7", "s5", "s20", "s19", "s28", "s25", "s27"]
+    },
+    {
+      "id": "affluence",
+      "title": "Quatre couples un jeudi de février 2026, coins câlins « surpeuplés » un samedi",
+      "icon": "users",
+      "summary": "Les témoignages opposent des samedis très fréquentés, salle pleine après minuit, à des soirs de semaine calmes : quatre couples et pas de DJ un jeudi de février 2026.",
+      "blocks": [
+        {
+          "kind": "list",
+          "items": [
+            "Samedis de 2016 et d'octobre 2017 : club « bondé » et coins câlins « surpeuplés », selon un blog qui trouvait la semaine plus agréable.",
+            "Fiche Je Libertine, non datée : affluence signalée le week-end.",
+            "Visite de 2025 racontée par un blog anglophone : la salle se remplit après minuit.",
+            "Jeudi 26 février 2026 : quatre couples présents et pas de DJ, d'après le livre d'or du club."
+          ]
+        },
+        { "kind": "text", "body": "Le même blog de 2025 trouve le public du Taken plus jeune que celui du Mask et des Chandelles, les deux autres grands clubs parisiens qu'il a comparés." },
+        { "kind": "text", "body": "Pour ne pas passer un mercredi ou un jeudi Champagne à deux au milieu d'une poignée de couples, vous pouvez proposer la soirée à un couple rencontré avant, par exemple sur [Gleese, accessible dès 3,75 € par mois en formule annuelle](aff:gleese)." }
+      ],
+      "sources": ["s27", "s29", "s23", "s20"]
+    },
+    {
+      "id": "salle-voutee",
+      "title": "Bar voûté, piste à barre de pole dance et une dizaine de coins câlins sans portes",
+      "icon": "building",
+      "summary": "Après le vestiaire, on descend vers un bar voûté, une piste avec DJ et barre de pole dance, des salons (miroirs, obscur, fétichiste), un fumoir vitré et une salle de bain.",
+      "blocks": [
+        {
+          "kind": "list",
+          "title": "Les espaces décrits par le club",
+          "items": [
+            "**Entrée** : une porte discrète sur la rue, puis un salon d'accueil avec vestiaire.",
+            "**Bar** : fauteuils et canapés.",
+            "**Piste** : parquet, DJ et barre de pole dance.",
+            "**Salons** : un grand lit pour les jeux à plusieurs, des alcôves, un salon aux miroirs, un salon obscur, un salon fétichiste et une salle de bain.",
+            "**Fumoir** intérieur."
+          ]
+        },
+        { "kind": "text", "body": "Les visiteurs nuancent la promesse d'une « grande piste ». Un client de février 2026 la trouve « pas très grande ». Un blog de 2025 la dit modeste mais suffisante pour danser, avec un DJ qui passait de la house et de l'électro. En 2019, un autre blog y note un grand miroir." },
+        { "kind": "text", "body": "Le fumoir est une alcôve vitrée qui donne sur la piste, pour six à huit personnes selon le blog de 2019. Un client de février 2026 compte, dans le livre d'or, une dizaine de coins câlins, au même niveau que la salle mais à l'écart ; le blog de 2025 précise qu'ils n'ont pas de portes et trouve l'aération faible quand ils se remplissent." },
+        { "kind": "text", "body": "En décembre 2016, une cliente regrettait le manque de places assises hors du bar et des tables réservées. Côté hygiène, deux blogs, en 2016 et en 2023, décrivent un club très propre, et la salle de bain fournit des serviettes (février 2026)." }
+      ],
+      "sources": ["s5", "s20", "s23", "s28", "s29", "s18", "s27"]
+    },
+    {
+      "id": "ni-spa-ni-chambres",
+      "title": "Ni spa, ni sauna, ni chambres : un club de nuit, voisin du Secret dans le Marais",
+      "icon": "info",
+      "summary": "Ni spa, ni sauna, ni chambre sur le site du club en 2014, 2016 ou 2026. Pour un sauna : l'Atlantide (12e) ou Amphibi (17e) ; tout près, le Secret reçoit rue Cloche Percé.",
+      "blocks": [
+        { "kind": "text", "body": "Le Taken est un club de nuit avec bar, piste et salons. Son site n'a jamais mentionné de spa, de jacuzzi, de sauna ou de hammam, ni en 2014, ni en 2016, ni en octobre 2026, et ses photos n'en montrent pas. Il ne propose pas d'hébergement et ne se présente pas comme club BDSM, malgré son salon fétichiste." },
+        { "kind": "text", "body": "Pour un sauna, il faut quitter l'île. Deux saunas parisiens ont leur fiche chez nous, avec des publics très différents selon leurs sites, consultés le 21 octobre 2026 :" },
+        {
+          "kind": "list",
+          "items": [
+            "[L'Atlantide, sauna et hammam du 12e](/atlantide-paris), près de la gare de Lyon, se dit ouvert à tous, seuls ou en couple, tous les jours de 12 h à 22 h.",
+            "[Amphibi, sauna des Batignolles](/amphibi-sauna-travestis), dans le 17e, n'admet que les hommes, les travestis et les femmes trans, tous les jours de 13 h à 22 h."
+          ]
+        },
+        { "kind": "text", "body": "De l'autre côté du pont, dans le Marais, le Secret occupe le 1 rue Cloche Percé : club du mardi au samedi avec restaurant en option, ouvert le mardi aux couples, aux trios, aux femmes seules et à quelques hommes « sur sélection ». Son site annonçait des soirées jusqu'au 29 octobre 2026." },
+        { "kind": "text", "body": "[L'Escarpin](/l-escarpin-paris), dans le 4e, et le [Quai 17](/quai-17-paris) ont aussi leur fiche sur notre site, mais nous n'avons pas contrôlé leur activité pour cette page. Pour un hôtel, un cinéma ou un club gay, cherchez dans la [liste des lieux libertins de Paris](/ville/paris)." }
+      ],
+      "sources": ["s1", "s5", "s11", "s13", "s33", "s36", "s37"]
+    },
+    {
+      "id": "voiturier-pont-marie",
+      "title": "Voiturier à 14 € devant la porte, ou parking Vinci Pont-Marie",
+      "icon": "car",
+      "summary": "Le club conseille le parking Vinci Pont-Marie, 48 rue de l'Hôtel-de-Ville, et propose un voiturier à 14 € ; ses pages se contredisent sur les jours et le paiement.",
+      "blocks": [
+        { "kind": "text", "body": "Se garer sur l'île Saint-Louis est difficile, prévient la fiche Je Libertine. Le club oriente vers le parking Vinci Pont-Marie, 48 rue de l'Hôtel-de-Ville (4e), et propose un voiturier devant la porte." },
+        {
+          "kind": "table",
+          "caption": "Le voiturier selon les pages du site (octobre 2026)",
+          "headers": ["Page", "Jours", "Paiement", "Réserve"],
+          "rows": [
+            ["Accueil, en français et en anglais", "Vendredi et samedi", "Carte ou espèces", "-"],
+            ["Adresse", "Samedi", "Espèces", "Pas en août"]
+          ]
+        },
+        { "kind": "text", "body": "Le prix, 14 €, est le même partout : prévoyez des espèces et, pour un vendredi, appelez avant. La navette gratuite depuis le parking, que Lieux Coquins annonce encore, date des débuts du club (fin 2013 et 2014) : le site d'octobre 2026 ne parle plus que du voiturier." }
+      ],
+      "sources": ["s1", "s4", "s7", "s29", "s11", "s12", "s24"]
+    },
+    {
+      "id": "prix-depuis-2014",
+      "title": "Entrée couple : 70 € en janvier 2014, 102 € le samedi en octobre 2026",
+      "icon": "euro",
+      "summary": "Le couple payait 70 € en 2014 et paie 102 € le week-end en octobre 2026 ; la femme seule est passée de 34 à 38 €, l'homme seul du mardi de 108 à 112 € en 2026.",
+      "blocks": [
+        {
+          "kind": "table",
+          "caption": "Tarifs relevés sur le site officiel et ses archives",
+          "headers": ["Relevé", "Soirée couple", "Femme seule", "Trio : couple / homme seul"],
+          "rows": [
+            ["Janvier 2014", "70 €", "34 €", "-"],
+            ["Décembre 2016", "75 €", "35 €", "-"],
+            ["Janvier 2020", "78 €", "36 €", "51 € / 120 € (mercredi)"],
+            ["Octobre 2021", "92 €", "38 €", "Pas de soirée Trio"],
+            ["Mai 2022", "92 €", "38 €", "53 € / 108 € (mardi)"],
+            ["Janvier 2023", "92 €", "38 €", "68 € / 108 € (mardi)"],
+            ["Février 2025 à mai 2026", "96 €", "38 €", "74 € / 108 € (mardi, mercredi)"],
+            ["Octobre 2026", "102 €", "38 €", "78 € / 112 € (mardi)"]
+          ]
+        },
+        { "kind": "text", "body": "La dernière hausse tombe entre la capture du 9 mai et le relevé du 16 octobre 2026 : 6 € de plus pour le couple du week-end, 4 € pour le couple et l'homme seul du mardi." },
+        { "kind": "callout", "tone": "info", "title": "Le prix que montre Google est celui de 2016", "body": "Le 20 octobre 2026, la description technique de la page Tarifs indiquait encore 75 € le couple et 35 € la femme seule. Ce texte, que Google peut reprendre dans ses résultats, date de la grille de 2016." },
+        { "kind": "text", "body": "À 20 € la coupe au bar, la formule Champagne du mercredi et du jeudi se calcule vite : pour 8 € de plus que la formule à deux consommations, le couple reçoit six coupes au lieu de deux consommations." }
+      ],
+      "sources": ["s12", "s13", "s15", "s35", "s16", "s17", "s2", "s21"]
+    },
+    {
+      "id": "notes-en-ligne",
+      "title": "Lieux Coquins 2/5 sur trois avis, Tripopola 3,8/5 sur 81",
+      "icon": "star",
+      "summary": "Aucune note Google lue directement. Lieux Coquins affiche 2/5 sur trois avis, Tripopola 3,8/5 sur 81 avis anciens ; le décor plaît, la sélection à la porte divise.",
+      "blocks": [
+        {
+          "kind": "list",
+          "items": [
+            "Lieux Coquins : 2,0/5 sur 3 avis (2017, 2021, 2024), relevé le 20 octobre 2026. Trop peu pour conclure.",
+            "Tripopola : 3,8/5 sur 81 avis, en partie repris de Google, les plus récents de 2020 et 2022. C'est un agrégateur : une indication, pas un relevé.",
+            "Yelp, GoWork et Petit Futé : notes de 2,6 à 3,6 vues dans les résultats de recherche, pages inaccessibles à la lecture."
+          ]
+        },
+        { "kind": "text", "body": "D'une source à l'autre, le décor, la musique et la propreté reviennent en positif. La sélection à la porte, l'attitude du personnel et la foule du samedi reviennent en négatif." },
+        { "kind": "text", "body": "Le livre d'or du site, modéré par le club, salue les hôtes, le DJ et les coins câlins. Ses messages de 2025 et 2026 ne s'affichaient plus en octobre 2026, mais restent lisibles dans une archive d'avril 2026." },
+        { "kind": "text", "body": "Plusieurs guides, dont Paris ZigZag, répètent que le Taken a été « élu meilleur club libertin d'Île de France » en 2019, sans dire par qui." }
+      ],
+      "sources": ["s24", "s25", "s26", "s18", "s19", "s20", "s23", "s27", "s29", "s31"]
+    },
+    {
+      "id": "histoire",
+      "title": "Du No Comment au Taken : l'inauguration du vendredi 17 janvier 2014",
+      "icon": "history",
+      "summary": "Annoncé en décembre 2013 comme la nouvelle adresse de l'équipe du No Comment, le Taken est inauguré le 17 janvier 2014 ; Isa et Alain signent encore son accueil en 2026.",
+      "blocks": [
+        {
+          "kind": "timeline",
+          "items": [
+            { "date": "Avril 1995", "text": "Création de la SAS A.C.A, exploitante actuelle (enseigne TAKEN-CLUB), établie au 8 rue Le Regrattier ; son activité avant 2013 n'est pas connue." },
+            { "date": "Décembre 2013", "text": "Le site est en ligne : « Retrouvez l'équipe du No Comment ». Couples du mercredi au samedi dès 22 h 30, entrée à 70 €." },
+            { "date": "31 décembre 2013", "text": "Réveillon à 150 € par couple, mignardises, fruits et boissons à volonté." },
+            { "date": "Janvier 2014", "text": "Le site présente Isa et Alain, venus du No Comment, et promet que « les règles restent inchangées ». Inauguration le vendredi 17 janvier à 22 h 30." },
+            { "date": "2016", "text": "Formule « buffet chaud + club » le 2e week-end du mois, 154 € le couple, sur réservation." },
+            { "date": "2017", "text": "Absents de la grille de décembre 2016, des après-midi et des formules repas figurent dans celle d'octobre 2017 ; ils durent jusqu'à l'automne 2019." },
+            { "date": "Mai 2018", "text": "Time Out range le Taken parmi « 8 lieux pour échanger sa moitié »." },
+            { "date": "Mars 2019", "text": "Le mardi, encore fermé en janvier 2019, s'ajoute à la semaine : après-midi puis soirée couple." },
+            { "date": "Mai 2022", "text": "Première trace dans les archives de la soirée « bulles de Champagne » du jeudi et de la soirée Trio du mardi." },
+            { "date": "Août 2025", "text": "Club fermé le week-end du 15 août, selon le livre d'or." }
+          ]
+        },
+        { "kind": "text", "body": "Le [No Comment](/no-comment-paris), lui, a continué rue de Ponthieu (8e) sous un nouveau propriétaire de la marque, que présente un article non daté de Stars Media (ses images ont été mises en ligne fin 2015). L'établissement à cette enseigne est inscrit fermé au registre depuis le 21 juin 2022." },
+        { "kind": "text", "body": "Le registre date du 21 décembre 2014 le « début d'activité » de l'établissement, un an après l'ouverture, probablement à la suite d'une formalité administrative. Le club n'existe pas pour autant depuis 1995." }
+      ],
+      "sources": ["s8", "s9", "s10", "s11", "s12", "s13", "s14", "s34", "s35", "s15", "s16", "s22", "s32", "s20", "s2", "s17"]
+    },
+    {
+      "id": "apres-midi-2017-2019",
+      "title": "Après-midi Trio à 28 € et dîner couples à 167 € : les années 2017 à 2019",
+      "icon": "clock",
+      "summary": "D'octobre 2017 à l'automne 2019, le Taken ouvrait aussi l'après-midi (28 à 36 € le couple) et servait des repas : d'où les horaires « dès 16 h » encore affichés par des annuaires.",
+      "blocks": [
+        {
+          "kind": "table",
+          "caption": "Formules relevées dans les archives du site, 2017 à 2019",
+          "headers": ["Formule", "Horaires", "Couple", "Femme seule", "Homme seul"],
+          "rows": [
+            ["Après-midi Trio, octobre 2017 à janvier 2019 (mercredi, jeudi ; vendredi en 2018)", "15 h 30 ou 16 h à 19 h, 19 h 30 ou 20 h", "28 €", "16 €", "48 €"],
+            ["Après-midi couple, 2019 (du mardi au vendredi selon les mois)", "15 h 30 à 19 h 30, puis 16 h 30 à 20 h 30", "36 €", "21 €", "-"],
+            ["Après-midi Trio, octobre 2019 (mercredi)", "16 h 30 à 20 h 30", "36 €", "21 €", "48 €"],
+            ["Buffet froid et club (mercredi, 2017-2018)", "Buffet de 20 h 30 à 22 h 30", "70 €", "50 € (2018)", "145 € (2018)"],
+            ["Dîner réservé aux couples (samedi)", "Arrivée avant 20 h 45", "157 € (2017), 167 € (2018), 89 € hors club (2019)", "-", "-"]
+          ]
+        },
+        { "kind": "text", "body": "Time Out décrivait en mai 2018 ces après-midi et un « buffet gastronomique ». La grille du 15 octobre 2019 annonçait encore la reprise des après-midi ; celle du 15 décembre 2019 n'en montre plus : depuis, le club n'ouvre qu'à 22 h 30. Les horaires « 16:00 - 05:00 » de Lieux Coquins datent de cette époque." }
+      ],
+      "sources": ["s14", "s34", "s22", "s15", "s24"]
+    },
+    {
+      "id": "sekhmet-party",
+      "title": "Sekhmet Party : soirées SM au Taken les jeudis 17 octobre et 12 décembre 2024",
+      "icon": "mask",
+      "summary": "Des soirées SM « Sekhmet Party », organisées par des tiers, ont eu lieu au Taken en octobre et décembre 2024 (50 €, tenue fétichiste) ; aucune date 2026 n'a été trouvée.",
+      "blocks": [
+        { "kind": "text", "body": "Le Taken, qui compte un salon fétichiste, a accueilli des soirées organisées par d'autres. L'agenda de la boutique Métamorph'Ose, rue Quincampoix, annonçait deux « Sekhmet Party » au Taken Club, chacune de 21 h à 3 h :" },
+        { "kind": "list", "items": ["Jeudi 17 octobre 2024.", "Jeudi 12 décembre 2024."] },
+        { "kind": "text", "body": "Entrée à 50 €, buffet, dress code « fetish-BDSM chic » obligatoire. En novembre 2025, les organisateurs remerciaient encore le club dans son livre d'or pour l'accueil de leurs soirées." },
+        { "kind": "callout", "tone": "info", "title": "Rythme et suite non confirmés", "body": "Je Libertine parle d'une soirée par mois, sans date. Nous n'avons trouvé aucune date annoncée au Taken pour 2026, et le site du club n'en dit rien : son agenda ne montre que la semaine type." }
+      ],
+      "sources": ["s30", "s20", "s29", "s3", "s5"]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Mardi": "22 h 30 - 4 h (soirée Trio)",
+      "Mercredi": "22 h 30 - 4 h (soirée Champagne)",
+      "Jeudi": "22 h 30 - 4 h (soirée Champagne)",
+      "Vendredi": "22 h 30 - 5 h (soirée couple)",
+      "Samedi": "22 h 30 - 5 h (soirée couple)",
+      "Dimanche et lundi": "Fermé ; salle à louer, demande par SMS au 06 88 74 59 86"
+    },
+    "note": "Horaires relevés sur le site officiel le 16 et le 20 octobre 2026. Le calendrier du site reprend la semaine type sans exception : le club était pourtant fermé le week-end du 15 août 2025, selon le livre d'or.",
+    "confidence": "confirme",
+    "sources": ["s2", "s3", "s21", "s20"]
+  },
+  "tarifs": {
+    "rows": {
+      "Mardi, soirée Trio": "Couple 78 € · femme seule 38 € · homme seul 112 €",
+      "Mercredi et jeudi, Champagne": "Couple 110 € (6 coupes) ou 102 € (2 consommations) · femme seule 38 €",
+      "Vendredi et samedi": "Couple 102 € · femme seule 38 € · trio deux femmes et un homme 126 €",
+      "Consommations": "Eau 4 € · café 7 € · soft 10 € · bière 12 € · vin 14 € · champagne ou alcool 20 € · alcool supérieur 22 € · cocktail 25 €",
+      "Bouteilles, entrée comprise": "Vin 145 € · champagne 185 à 430 € · gin, vodka ou rhum 175 à 245 €"
+    },
+    "note": "Grille du 16 octobre 2026, inchangée le 20. Vestiaire compris tous les soirs ; une consommation par personne comprise le mardi (hors cocktails et alcools supérieurs), le vendredi et le samedi. Renouvellement des softs d'une bouteille : 10 € ou 17 €.",
+    "confidence": "confirme",
+    "sources": ["s2", "s21"]
+  },
+  "equipements": ["Bar", "Piste de danse avec barre de pole dance", "Salon aux miroirs", "Salon obscur", "Salon fétichiste", "Alcôves", "Fumoir", "Salle de bain", "Vestiaire"],
+  "officialLinks": [
+    { "label": "Site officiel", "url": "https://www.taken-club.fr/", "kind": "site" },
+    { "label": "Visite en photos (entrée, bar, piste, salons, fumoir)", "url": "https://www.taken-club.fr/fr/accueil.php", "kind": "galerie" },
+    { "label": "Agenda des soirées", "url": "https://www.taken-club.fr/fr/agenda.php", "kind": "agenda" },
+    { "label": "Tarifs et horaires", "url": "https://www.taken-club.fr/fr/tarifs.php", "kind": "autre" }
+  ],
+  "corrections": {
+    "telephone": "01 43 25 76 93",
+    "sources": ["s1", "s4", "s21"]
+  },
+  "faq": [
+    { "question": "Où voir des photos du Taken Club ?", "answer": "Sur le site officiel, dans les cinq pages « Visite » : neuf photos au total, une de l'entrée, trois du bar, deux de la piste, deux des salons et une du fumoir. Elles montrent des voûtes de pierre, du velours rouge, des lustres et des lits à baldaquin. Nous n'en reproduisons aucune." },
+    { "question": "Combien coûte l'entrée au Taken ?", "answer": "En octobre 2026, le couple paie 78 € le mardi, 102 € ou 110 € le mercredi et le jeudi selon la formule Champagne, et 102 € le vendredi et le samedi. La femme seule paie 38 € chaque soir, l'homme seul 112 € le mardi, et le trio de deux femmes et un homme 126 € le week-end. Le vestiaire est compris." },
+    { "question": "Un homme seul peut-il aller au Taken ?", "answer": "Seul, uniquement le mardi, pendant la soirée Trio : 112 €, de 22 h 30 à 4 h. Le mercredi et le jeudi, la grille ne prévoit aucun tarif homme seul. Le vendredi et le samedi, un homme n'entre qu'avec deux femmes, au tarif trio de 126 €." },
+    { "question": "Quelle tenue faut-il pour entrer au Taken ?", "answer": "Pour les femmes, une tenue élégante et sexy : robe ou jupe, talons hauts, pas de pantalon. Pour les hommes, une chemise à manches longues et un pantalon classique ou un jean noir, sans tee-shirt ni baskets. Des visiteurs racontent des refus à la porte pour une tenue jugée insuffisante." },
+    { "question": "Le Taken est-il un sauna, un spa ou un hôtel libertin ?", "answer": "Non. C'est un club de nuit avec bar, piste et salons, sans spa, jacuzzi, sauna, hammam ni chambres : son site n'en a mentionné ni en 2014, ni en 2016, ni en 2026." },
+    { "question": "Où se garer pour aller au Taken, sur l'île Saint-Louis ?", "answer": "Le club conseille le parking Vinci Pont-Marie, 48 rue de l'Hôtel-de-Ville (4e). Un voiturier à 14 € fonctionne devant la porte le samedi, et aussi le vendredi selon la page d'accueil, mais pas en août. La page Adresse demande un paiement en espèces." },
+    { "question": "Peut-on louer le Taken pour une soirée privée ?", "answer": "Le dimanche et le lundi, jours de fermeture au public, la page Tarifs indique que la salle est ouverte à la location, sur demande par SMS au 06 88 74 59 86. Le prix et les conditions ne sont pas publiés." },
+    { "question": "Le Taken est-il toujours ouvert en 2026 ?", "answer": "Oui. Le 20 octobre 2026, le site annonçait la soirée Trio du jour, avec une grille tarifaire modifiée entre mai et octobre 2026, et la société exploitante est active au registre. Le club ferme le dimanche et le lundi." }
+  ],
+  "unverified": [
+    "Note Google Maps : la fiche « Taken-Club » existe, mais sa note et son nombre d'avis n'ont pas été relevés.",
+    "Jours et paiement du voiturier : vendredi et samedi par carte ou en espèces selon l'accueil, samedi seulement et en espèces selon la page Adresse.",
+    "Admission des femmes seules le vendredi, un message du jour ayant annoncé une soirée « réservée aux couples ».",
+    "Présence d'un DJ chaque soir ou seulement certains soirs.",
+    "Rythme des soirées Sekhmet Party et leur poursuite au Taken en 2026.",
+    "Compte Instagram @letakenclub et page Facebook « Taken Club » : vus dans des résultats de recherche, ni lus ni liés par le site du club.",
+    "Organisateur de la distinction de « meilleur club libertin d'Île de France » 2019 citée par plusieurs guides.",
+    "Activité de la société A.C.A au 8 rue Le Regrattier avant l'ouverture du club fin 2013.",
+    "Spa, jacuzzi et douches attribués au lieu par des annuaires : aucune trace sur le site officiel depuis 2014."
+  ],
+  "sources": [
+    { "id": "s1", "label": "Taken Club, site officiel : accueil en français", "url": "https://www.taken-club.fr/fr/index.php", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s2", "label": "Taken Club, site officiel : Tarifs et Horaires", "url": "https://www.taken-club.fr/fr/tarifs.php", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s3", "label": "Taken Club, site officiel : Agenda soirées (octobre et novembre 2026)", "url": "https://www.taken-club.fr/fr/agenda.php", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s4", "label": "Taken Club, site officiel : Adresse", "url": "https://www.taken-club.fr/fr/adresse.php", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s5", "label": "Taken Club, site officiel : pages Visite et leurs photos (entrée, bar, piste, salons, fumoir)", "url": "https://www.taken-club.fr/fr/accueil.php", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s6", "label": "Taken Club, site officiel : Dress-code, Nos valeurs, Première fois", "url": "https://www.taken-club.fr/fr/dress-code.php", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s7", "label": "Taken Club, site officiel : version anglaise", "url": "https://www.taken-club.fr/en/index.php", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s8", "label": "Registre des entreprises : SAS A.C.A, enseigne TAKEN-CLUB", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/400628806", "type": "registre", "consulted": "2026-10-16" },
+    { "id": "s9", "label": "Registre des entreprises : ANGEL PROD, enseigne NO COMMENT", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/538046251", "type": "registre", "consulted": "2026-10-16" },
+    { "id": "s10", "label": "Wayback Machine : historique des captures de taken-club.fr (2013 à 2026)", "url": "https://web.archive.org/cdx/search/cdx?url=taken-club.fr&fl=timestamp,statuscode,original&collapse=timestamp:6", "type": "autre", "consulted": "2026-10-16" },
+    { "id": "s11", "label": "Taken Club, site officiel, accueil archivé (14/12/2013, 03/01/2014, 08/02/2014)", "url": "https://web.archive.org/web/20131214144825/http://taken-club.fr/", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s12", "label": "Taken Club, site officiel, pages archivées le 05/01/2014 (présentation, inauguration, tarifs, accès)", "url": "https://web.archive.org/web/20140105005838/http://taken-club.fr/article.php?id=4", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s13", "label": "Taken Club, site officiel, tarifs archivés le 27/12/2016", "url": "https://web.archive.org/web/20161227061118/http://www.taken-club.fr/fr/tarifs.php", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s14", "label": "Taken Club, site officiel, tarifs archivés d'octobre 2017 à décembre 2019", "url": "https://web.archive.org/web/20180519164825/http://www.taken-club.fr/fr/tarifs.php", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s15", "label": "Taken Club, site officiel, tarifs archivés le 19/01/2020", "url": "https://web.archive.org/web/20200119053425/http://www.taken-club.fr/fr/tarifs.php", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s16", "label": "Taken Club, site officiel, tarifs archivés le 27/01/2023", "url": "https://web.archive.org/web/20230127174601/http://www.taken-club.fr/fr/tarifs.php", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s17", "label": "Taken Club, site officiel, tarifs archivés du 14/02/2025 au 09/05/2026", "url": "https://web.archive.org/web/20260509171907/https://www.taken-club.fr/fr/tarifs.php", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s18", "label": "Taken Club, livre d'or en ligne (messages de 2014 à 2017, modérés par le club)", "url": "https://www.taken-club.fr/fr/livre-dor.php?page=1", "type": "avis", "consulted": "2026-10-16" },
+    { "id": "s19", "label": "Taken Club, livre d'or archivé le 06/08/2024 (messages de 2024)", "url": "https://web.archive.org/web/20240806110534/http://www.taken-club.fr/fr/livre-dor.php?page=26", "type": "avis", "consulted": "2026-10-16" },
+    { "id": "s20", "label": "Taken Club, livre d'or archivé le 18/04/2026 (messages d'août 2025 à mars 2026)", "url": "https://web.archive.org/web/20260418083113/https://www.taken-club.fr/fr/livre-dor.php?page=27", "type": "avis", "consulted": "2026-10-16" },
+    { "id": "s21", "label": "Taken Club, site officiel relu le 20/10/2026 (accueil, tarifs, agenda)", "url": "https://www.taken-club.fr/fr/index.php", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s22", "label": "Time Out Paris, « 8 lieux pour échanger sa moitié » (17/05/2018)", "url": "https://www.timeout.fr/paris/clubbing/le-meilleur-du-club-libertin-a-paris", "type": "presse", "consulted": "2026-10-20" },
+    { "id": "s23", "label": "Vanilla Swingers, « Inside Paris Taken Club: Hot Vibes or Just Haute Drama? » (blog, visite de 2025)", "url": "https://www.vanillaswingers.com/inside-paris-taken-club-hot-vibes-or-just-haute-drama/", "type": "autre", "consulted": "2026-10-20" },
+    { "id": "s24", "label": "Lieux Coquins, fiche « Le Taken » (2,0/5 sur 3 avis)", "url": "https://www.lieuxcoquins.fr/lieu/taken-club/", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s25", "label": "Tripopola, « Taken club » (agrégateur, 3,8/5 sur 81 avis)", "url": "https://www.tripopola.com/location/paris/taken-club/11638", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s26", "label": "Yelp, GoWork et Petit Futé : notes vues dans les résultats de recherche, pages non lues", "url": "https://www.yelp.com/biz/taken-club-paris", "type": "avis", "consulted": "2026-10-20" },
+    { "id": "s27", "label": "Blog Over-blog, billet « Le Taken Paris » (avril 2016, ajout d'octobre 2017)", "url": "https://gaby789.over-blog.com/2016/04/le-taken-paris.html", "type": "autre", "consulted": "2026-10-20" },
+    { "id": "s28", "label": "Blog mymindsvisite, « Taken Club » (10/06/2019)", "url": "https://mymindsvisite.wordpress.com/2019/06/10/taken-club-paris/", "type": "autre", "consulted": "2026-10-20" },
+    { "id": "s29", "label": "Je Libertine, fiche « Le Taken » et billet du 10/01/2023", "url": "https://jelibertine.com/club/le-taken/", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s30", "label": "Métamorph'Ose, agenda « Sekhmet party » (archives de février et mars 2026)", "url": "https://www.metamorphose.fr/agenda/sekhmet-party/", "type": "autre", "consulted": "2026-10-20" },
+    { "id": "s31", "label": "Paris ZigZag, « Vous cherchez un club libertin à Paris ? » (modifié le 22/09/2026)", "url": "https://www.pariszigzag.fr/insolite/lieux-insolites/club-libertin-paris/", "type": "presse", "consulted": "2026-10-20" },
+    { "id": "s32", "label": "Stars Media, « Le nouveau \"No Comment\" à Paris révolutionne les codes du libertinage » (non daté)", "url": "https://www.stars-media.fr/le-nouveau-no-comment-a-paris-revolutionne-les-codes-du-libertinage/", "type": "presse", "consulted": "2026-10-20" },
+    { "id": "s33", "label": "Secret (club du 4e), site officiel : accueil, tarifs et horaires", "url": "https://club-secret.fr/tarifs-horaires/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s34", "label": "Taken Club, site officiel, tarifs archivés en 2019 (26/01, 03/03, 04/06 et 15/10/2019)", "url": "https://web.archive.org/web/20190303060046/http://www.taken-club.fr/fr/tarifs.php", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s35", "label": "Taken Club, site officiel, tarifs archivés le 19/10/2021 et le 16/05/2022", "url": "https://web.archive.org/web/20220516115906/http://www.taken-club.fr/fr/tarifs.php", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s36", "label": "Atlantide Sauna (Paris 12e), site officiel : accueil et informations pratiques", "url": "https://atlantide-sauna.com/", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s37", "label": "Amphibi (Paris 17e), site officiel : Infos pratiques", "url": "https://www.amphibi.fr/infos-pratiques/", "type": "officiel", "consulted": "2026-10-21" }
+  ]
+}

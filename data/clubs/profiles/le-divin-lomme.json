@@ -1,0 +1,315 @@
+{
+  "slug": "le-divin-lomme",
+  "clubId": "14753",
+  "researchedAt": "2026-10-20",
+  "display": { "nom": "Le Divin", "ville": "Lomme" },
+  "status": {
+    "value": "ferme",
+    "summary": "L'établissement à l'enseigne « LE DIVIN » est fermé au registre depuis le 21 novembre 2018, et sa société, dissoute en janvier 2019, a été radiée le 10 mars 2019. Le site du club, dont l'accueil est vide dès juillet 2018, a été suspendu en juin 2019 ; son domaine sert depuis 2020 à un site d'annonces sans rapport. Yelp signale lui aussi le commerce comme fermé.",
+    "sources": ["s16", "s17", "s8", "s13", "s14", "s15", "s30"]
+  },
+  "seo": {
+    "title": "Club libertin à Lomme : Le Divin, sauna échangiste fermé en 2018",
+    "metaDescription": "Le Divin, sauna échangiste de Lomme, a fermé fin 2018 après dix ans. Son jeton des hommes seuls, ses tarifs 2012-2018 et le sort de ledivinsauna.com.",
+    "subtitle": "Ancien sauna échangiste mixte de l'avenue de Dunkerque à Lomme (59), actif de 2008 à 2018",
+    "targetQueries": ["club libertin lomme", "le divin lomme", "le divin sauna", "ledivinsauna", "sauna échangiste lomme"]
+  },
+  "lead": "Le Divin se présentait comme « le sauna échangiste du nord » : un sauna mixte de Lomme, ouvert sept jours sur sept selon ses grilles horaires, actif de mai 2008 à fin 2018, qui annonçait à son ouverture un grand hammam, un jacuzzi à débordement et dix salons câlins à thèmes. Son système de jetons valait une entrée gratuite au couple ayant accepté un homme seul. L'établissement a été fermé au registre le 21 novembre 2018, et le domaine ledivinsauna.com appartient depuis 2020 à un site d'annonces sans rapport avec le club. À environ 3 km, La Tentation, à Prémesques, annonce des soirées pour octobre 2026.",
+  "glance": [
+    { "icon": "closed", "label": "Fermé", "value": "Depuis fin 2018 (registre : 21/11/2018)" },
+    { "icon": "history", "label": "En activité", "value": "Mai 2008 à 2018, pause février-juin 2016" },
+    { "icon": "spa", "label": "Concept", "value": "Sauna échangiste mixte, hammam et jacuzzi" },
+    { "icon": "euro", "label": "Dernier tarif (2018)", "value": "Homme seul 35 €, couple 25 €, femme gratuite", "confidence": "source_unique" },
+    { "icon": "globe", "label": "ledivinsauna.com", "value": "Site d'annonces sans lien, depuis 2020" },
+    { "icon": "map", "label": "Le plus proche ouvert", "value": "La Tentation, Prémesques (≈ 3 km)" }
+  ],
+  "highlights": [
+    "Le Divin est fermé depuis fin 2018 : aucune activité de loisirs n'a été déclarée depuis au 912 bis avenue de Dunkerque.",
+    "ledivinsauna.com n'appartient plus au club : depuis août 2020, ce domaine sert à des annonces de rencontre qui reprennent son nom.",
+    "Un annuaire consulté le 20/10/2026 affiche encore la grille horaire de 2017-2018 du club, sans signaler sa fermeture.",
+    "Le Cent Douze, rue de Cambrai à Lille, est exploité par l'ancien locataire-gérant du Divin (2013-2016) : c'est un autre lieu.",
+    "À Prémesques, La Tentation n'ouvre que le vendredi, le samedi et les veilles de jours fériés, de 21 h à 4 h : pas en semaine."
+  ],
+  "keyFacts": [
+    { "label": "Type de lieu", "value": "Sauna échangiste mixte, « 100 % échangiste » selon son règlement", "confidence": "confirme", "sources": ["s3", "s4", "s7"] },
+    { "label": "Ouverture", "value": "31 mai 2008 (début d'activité au registre)", "confidence": "confirme", "sources": ["s16", "s17", "s1"] },
+    { "label": "Fermeture", "value": "Fin 2018 ; établissement fermé au registre le 21/11/2018", "confidence": "confirme", "sources": ["s16", "s17", "s8"] },
+    { "label": "Société exploitante", "value": "SARL L'AGATHEE-TYCHEE, dissoute en 2019, radiée le 10/03/2019", "confidence": "confirme", "sources": ["s16", "s17"] },
+    { "label": "Location-gérance", "value": "EURL Good Prospect, du 07/10/2013 au 01/02/2016 (fin selon le registre)", "confidence": "source_unique", "sources": ["s17", "s18", "s19"] },
+    { "label": "Public admis", "value": "Couples, femmes seules et hommes seuls, tous les jours", "confidence": "confirme", "sources": ["s2", "s3", "s5"] },
+    { "label": "Dernier tarif connu", "value": "Homme seul 35 €, couple 25 €, femme seule gratuite (août 2018)", "confidence": "source_unique", "sources": ["s2"] },
+    { "label": "Installations", "value": "Sauna sec, grand hammam, jacuzzi à débordement, dix salons câlins à thèmes (annoncés en 2008) ; bar cité en 2014-2015", "confidence": "source_unique", "sources": ["s29", "s4", "s1"] },
+    { "label": "Domaine ledivinsauna.com", "value": "Repris par un site d'annonces depuis 2020", "confidence": "confirme", "sources": ["s13", "s14", "s15"] }
+  ],
+  "sections": [
+    {
+      "id": "jeton-hommes-seuls",
+      "title": "Le jeton de l'homme seul, échangé par le couple contre une entrée gratuite",
+      "icon": "ticket",
+      "summary": "D'avril 2012 à 2018, chaque homme seul recevait un jeton ; le couple ou la femme qui l'acceptait en cabine le rendait en partant contre une entrée gratuite à la visite suivante.",
+      "blocks": [
+        { "kind": "text", "body": "Le système est annoncé sur le site officiel le 21 avril 2012, dans un billet consacré aux hommes seuls. À l'entrée, chacun reçoit un jeton. Le couple ou la femme seule qui l'accepte en cabine récupère ce jeton et le remet en partant : il reçoit une carte d'entrée gratuite, valable pour sa visite suivante.\n\nLe règlement de 2018 décrit encore ce mécanisme. La dernière grille de tarifs, archivée en août 2018, en garde la trace : l'entrée du couple y devient gratuite avec une carte obtenue « en participant » avec les hommes seuls." },
+        { "kind": "list", "title": "Les autres règles du jeu entre couples et hommes seuls", "items": [
+          "**Trios et pluralité** : selon la grille en ligne de 2012 à mai 2016, entrée gratuite sept jours sur sept pour le couple qui jouait en trio (deux hommes, une femme) ou en pluralité.",
+          "**Un samedi « 100 % pluralité »** : programmé le 25 octobre 2014.",
+          "**Carte de membre** : 10 € pour l'homme seul à sa première visite, offerte aux couples et aux femmes seules ; valable un an à partir de 2017-2018, à présenter avec une pièce d'identité.",
+          "**Le choix appartient aux femmes** : le règlement précisait que l'homme seul n'avait « en aucun cas » de droit sur elles, et demandait aux couples la même correction envers lui."
+        ] },
+        { "kind": "text", "body": "Le jeton n'a plus cours depuis la fermeture. Un homme seul de la métropole qui cherche aujourd'hui à rencontrer des couples peut se tourner vers [un site où femmes et couples font environ six membres sur dix](aff:carre-libertin), selon les chiffres qu'annonce Carré Libertin." }
+      ],
+      "sources": ["s12", "s3", "s2", "s5", "s6"]
+    },
+    {
+      "id": "fermeture-2018",
+      "title": "Fermé au registre le 21 novembre 2018, sans reprise du fonds",
+      "icon": "closed",
+      "summary": "Le site se vide à l'été 2018, l'établissement ferme au registre le 21/11/2018 et la société, dissoute en janvier 2019, est radiée en mars ; aucune reprise n'est publiée.",
+      "blocks": [
+        { "kind": "text", "body": "Les archives du site officiel que nous avons lues ne contiennent aucune annonce de fermeture définitive. La fin du Divin se lit dans une série de constats datés, tous concordants." },
+        { "kind": "table", "headers": ["Date", "Ce que montrent les sources"], "rows": [
+          ["13-24 août 2017", "Congés d'été et horaires réduits : dernière annonce datée du site"],
+          ["30 juillet 2018", "La page d'accueil du site est vide"],
+          ["13 août 2018", "Dernière capture de la page des tarifs"],
+          ["21 novembre 2018", "L'établissement à l'enseigne « LE DIVIN » est fermé au registre"],
+          ["20 janvier 2019", "Le BODACC publie la dissolution de la société et la nomination d'un liquidateur"],
+          ["10 mars 2019", "Radiation de la société"],
+          ["12 juin 2019", "L'hébergeur OVH affiche le site comme suspendu"]
+        ] },
+        { "kind": "text", "body": "La fermeture se situe donc entre l'été 2018 et le 21 novembre 2018, sans mois plus précis. Le BODACC ne mentionne ni vente du fonds ni reprise par une autre société. Au registre, aucune activité de loisirs n'a été créée au 912 bis avenue de Dunkerque depuis 2013." },
+        { "kind": "callout", "tone": "warning", "title": "ledivinsauna.com n'est plus le site du club", "body": "Le domaine a été réenregistré le 2 juin 2020. Depuis août 2020, il héberge un annuaire d'annonces de rencontre entre particuliers, classées par ville, qui reprend le nom « Le Divin Sauna » sans donner ni adresse, ni horaires, ni tarifs du club. C'était toujours le cas le 20 octobre 2026." },
+        { "kind": "text", "body": "Deux annuaires libertins consultés le 20 octobre 2026 présentent encore Le Divin sans mention de fermeture ; l'un affiche les horaires de 2017-2018 sous un copyright de 2018. À l'inverse, Yelp signale le commerce comme fermé au 21 octobre 2026, et deux guides des clubs du Nord, publiés ou mis à jour en avril et en août 2026, ne le mentionnent pas." }
+      ],
+      "sources": ["s8", "s2", "s16", "s17", "s13", "s14", "s15", "s43", "s24", "s21", "s22", "s30", "s38", "s40"]
+    },
+    {
+      "id": "tentation-cent-douze",
+      "title": "Prémesques à 3 km, rue de Cambrai à 7 km : La Tentation et Le Cent Douze",
+      "icon": "map",
+      "summary": "La Tentation (Prémesques) annonce trois week-ends à thème en octobre 2026 ; Le Cent Douze (Lille) affiche une soirée Halloween le samedi 31 octobre 2026.",
+      "blocks": [
+        { "kind": "text", "body": "Nous ne connaissons aucun autre lieu libertin à Lomme. Deux adresses voisines montrent une activité en ligne au 20 octobre 2026." },
+        { "kind": "table", "headers": ["Lieu", "Distance", "Ce qui est daté"], "rows": [
+          ["[La Tentation](/la-tentation-premesques), Prémesques", "≈ 3 km à vol d'oiseau", "Ouvert vendredi et samedi de 21 h à 4 h ; soirées Latino (16-17 octobre), Rétro (23-24 octobre) et Halloween (30-31 octobre 2026)"],
+          ["[Le Cent Douze](/le-cent-douze-lille), 112 rue de Cambrai, Lille", "≈ 7 km", "Sauna libertin ; affiche « Horror Halloween » le samedi 31 octobre 2026, de 19 h à 2 h"]
+        ] },
+        { "kind": "text", "body": "Le Cent Douze est exploité par Good Prospect, ancien locataire-gérant du Divin (octobre 2013 à février 2016). Son établissement lillois a ouvert au registre le 1er février 2016, le jour même où son établissement de Lomme y était fermé. Les lieux restent distincts : Le Divin a rouvert en juin 2016 et a fonctionné jusqu'en 2018, sans qu'aucune autre location-gérance soit publiée au BODACC." },
+        { "kind": "list", "title": "Horaires affichés par Le Cent Douze (20/10/2026)", "items": [
+          "Lundi au mercredi : 12 h à 21 h",
+          "Jeudi : 12 h à minuit",
+          "Vendredi : 14 h à minuit",
+          "Samedi : 19 h à 2 h",
+          "Dimanche : 14 h à 20 h"
+        ] },
+        { "kind": "text", "body": "L'affiche de cette soirée, publiée sur son site, annonce 35 € pour un couple, 50 € pour un homme seul et l'entrée gratuite pour les femmes et les femmes trans. Au registre, la société est active et a déposé ses comptes de l'exercice clos en septembre 2025.\n\nLa Tentation, que le Petit Futé présente comme la seule discothèque libertine du département, n'ouvre que deux nuits par semaine. Un vendredi ou un samedi, le statut « Dispo » de Gleese, qui signale aux autres membres que vous êtes ouverts à une rencontre le soir même, permet de [chercher dans l'après-midi avec qui sortir à Prémesques](aff:gleese). Les autres lieux du Nord figurent sur [la page du département](/departement/nord)." }
+      ],
+      "sources": ["s23", "s20", "s18", "s19", "s41"]
+    },
+    {
+      "id": "tarifs-horaires-2012-2018",
+      "title": "35 € l'homme seul de 2012 à 2018, et la semaine écourtée de 22 h à 20 h",
+      "icon": "euro",
+      "summary": "De 2012 à 2018, l'homme seul a payé 35 € ; le couple 25 €, sauf une formule à 10 € en septembre 2017 ; la femme seule entrait sans payer, et la semaine fermait à 20 h dès 2017.",
+      "blocks": [
+        { "kind": "table", "caption": "Grilles du site officiel, d'après les archives du web", "headers": ["Grille", "Couple", "Femme seule", "Homme seul"], "rows": [
+          ["2012 (page encore en ligne en mai 2016)", "25 €, deux consommations ; gratuit à trois ou en pluralité", "Offerte", "35 €, deux consommations, plus la carte à 10 € à la première visite"],
+          ["Fin 2015", "25 €, une consommation et un café ; une entrée achetée, une offerte", "Offerte", "35 €, une consommation et un café"],
+          ["Mars 2017", "25 €, open-bar", "Offerte", "35 €, open-bar"],
+          ["Septembre 2017", "10 € avec une consommation chacun, ou 0 € en open-bar avec une carte d'entrée gratuite", "Invitée, open-bar", "35 €, open-bar"],
+          ["Août 2018 (la dernière)", "25 € en open-bar, ou gratuit avec la carte gagnée auprès des hommes seuls", "Gratuite, open-bar", "35 €, open-bar"]
+        ] },
+        { "kind": "text", "body": "L'entrée comprenait la serviette, la clé de casier et l'accès à toutes les installations ; deux consommations étaient incluses en 2012-2014. L'open-bar arrive avec la réouverture du 6 juin 2016, annoncée à prix inchangés." },
+        { "kind": "text", "body": "Les horaires ont raccourci. En 2012 comme en mai 2016, le club ouvrait de 14 h à 22 h du lundi au jeudi, jusqu'à minuit le vendredi, de 20 h à 2 h le samedi. En mars 2017, la semaine finit à 20 h et le samedi à 1 h 30, puis à 1 h dès septembre." }
+      ],
+      "sources": ["s2", "s5", "s3", "s8"]
+    },
+    {
+      "id": "samedis-a-theme",
+      "title": "« Vilaine fille », « Sexy-Trouille », « Sexy Christmas » : les samedis de 2014-2015",
+      "icon": "sparkles",
+      "summary": "En 2014-2015, le programme donnait un thème à de nombreux samedis, rappelés par une lettre hebdomadaire ; fin 2015 s'y ajoutent des « Dimanches mixtes ». L'anniversaire se fêtait en mai.",
+      "blocks": [
+        { "kind": "list", "title": "Samedis à thème relevés dans le programme", "items": [
+          "1er février 2014 : « Vilaine fille »",
+          "8 février 2014 : « Soirée Miss Betty »",
+          "15 février 2014 : « Naughty Valentine's Night »",
+          "1er novembre 2014 : « Sexy-Trouille », pour Halloween",
+          "14 février 2015 : Saint-Valentin",
+          "7 mars 2015 : « Une Nuit Libertine »",
+          "19 décembre 2015 : « Sexy Christmas »"
+        ] },
+        { "kind": "text", "body": "De septembre à décembre 2015, chaque dimanche était annoncé comme « Dimanche mixte ». Le 19 mai 2012, une soirée marque les quatre ans du club ; le cinquième anniversaire fait l'objet de billets sur le site fin mai 2013.\n\nPlus tôt, le fil d'actualité de 2012-2013 annonçait aussi des journées à thème en semaine. Le mardi 11 juin 2013, l'une d'elles réunit douze femmes seules, un nouveau record selon le club. Le samedi 13 octobre 2012, une soirée salue le départ en retraite d'un reporter-photographe du magazine « Club Nord »." },
+        { "kind": "text", "body": "Dernier événement daté connu : le mardi 28 février 2017, à partir de 14 h, une après-midi « gang-bang » réservée aux couples inscrits, avec une entrée limitée aux 40 premiers hommes seuls." }
+      ],
+      "sources": ["s6", "s1", "s8"]
+    },
+    {
+      "id": "location-gerance-travaux",
+      "title": "D'un blog ouvert en août 2007 à la réouverture du 6 juin 2016 : location-gérance et travaux",
+      "icon": "history",
+      "summary": "Préparé dès août 2007 et ouvert le 31 mai 2008, le club passe en location-gérance d'octobre 2013 à février 2016, ferme pour des travaux de remise aux normes et rouvre le 6 juin 2016.",
+      "blocks": [
+        { "kind": "timeline", "items": [
+          { "date": "26 août 2007", "text": "Premier billet du blog du club, « Nous travaillons à votre futur bien-être ». Son texte, complété après l'ouverture du 31 mai 2008, détaille les installations du club." },
+          { "date": "12 avril 2008", "text": "Première capture du site ledivinsauna.com, en Flash, avec l'adresse et le téléphone du club." },
+          { "date": "31 mai 2008", "text": "Début d'activité de la SARL « L'AGATHEE-TYCHEE » (capital 7 500 €, enseigne « LE DIVIN »), déclarée pour un espace détente « toutes tendances » avec sauna, hammam et spa." },
+          { "date": "5 juin 2008", "text": "Billet titré « Ouverture du 1er sauna échangiste du Nord » : c'est le club qui l'affirme, nous n'avons pas pu le vérifier." },
+          { "date": "25 octobre 2012", "text": "Fermeture d'une journée pour réinstaller le jacuzzi et le remettre en eau." },
+          { "date": "7 octobre 2013", "text": "L'établissement est mis en location-gérance au profit de l'EURL Good Prospect ; en novembre, le siège de la société propriétaire part à Salperwick, dans le Pas-de-Calais." },
+          { "date": "2014-2015", "text": "Le site change d'apparence et de titre (« Sauna Echangiste - Club Libertin - Lille »), puis retrouve son ancienne structure en 2016. Le lien avec la location-gérance est une déduction, pas une annonce du club." },
+          { "date": "Février 2016", "text": "Le 1er, l'établissement de Good Prospect à Lomme est fermé au registre. Le club annonce une fermeture pour « travaux de remise aux normes et d'entretien » et une réouverture début mars." },
+          { "date": "6 juin 2016", "text": "Réouverture à 14 h, environ trois mois après la date d'abord annoncée." }
+        ] },
+        { "kind": "text", "body": "Sur sa page « Liens », le site renvoyait vers [Le Pied Marin](/le-pied-marin-dunkerque), à Dunkerque, vers des annuaires libertins et vers une bannière Netéchangisme. Aucun autre club de la métropole lilloise n'y figurait." }
+      ],
+      "sources": ["s29", "s13", "s16", "s17", "s1", "s18", "s19", "s4", "s5", "s6", "s7", "s8", "s11"],
+      "confidence": "confirme"
+    },
+    {
+      "id": "nudite-lingerie-telephones",
+      "title": "Nudité exigée le week-end en 2012, lingerie admise hors du spa en 2018",
+      "icon": "shield",
+      "summary": "Téléphones, photos et vidéos interdits ; la nudité du week-end, exigée en 2012, quitte le règlement en 2014, et la lingerie est admise hors du spa en 2018.",
+      "blocks": [
+        { "kind": "text", "body": "Le règlement du site prenait la forme de questions-réponses. Il se définissait comme « 100 % échangiste », avec la tolérance que cela suppose de chacun." },
+        { "kind": "list", "title": "Interdit", "items": [
+          "Le manque de respect",
+          "Les mineurs",
+          "Les stupéfiants et la prostitution",
+          "Les téléphones portables, les photos et les vidéos",
+          "Les chaussures à talons, de 2012 à 2014 ; elles ne figurent plus dans la liste de 2018"
+        ] },
+        { "kind": "list", "title": "Exigé à chaque visite", "items": [
+          "Une pièce d'identité et la carte de membre",
+          "Une douche savonneuse",
+          "La nudité totale le samedi et le dimanche, selon la version de 2012 ; la mention a disparu en 2014"
+        ] },
+        { "kind": "text", "body": "En 2018, le règlement admet la lingerie dans tout l'établissement, sauf dans le spa." }
+      ],
+      "sources": ["s3"]
+    },
+    {
+      "id": "installations-acces",
+      "title": "Dix salons câlins à thèmes et un jacuzzi à débordement, à 200 m d'un parking de 14 places",
+      "icon": "spa",
+      "summary": "En 2008, le club annonçait sauna sec, grand hammam, jacuzzi à débordement et dix salons câlins à thèmes ; pas de parking propre, mais trois parkings publics à 200-350 m.",
+      "blocks": [
+        { "kind": "list", "title": "Installations citées par le club", "items": [
+          "Un sauna sec et un grand hammam",
+          "Un jacuzzi à débordement, remis en eau en octobre 2012",
+          "Dix salons câlins à thèmes, chacun avec son ambiance musicale, selon le blog de 2008 ; les pages de 2012-2015 parlent de coins câlins « avec différentes ambiances » et de cabines",
+          "Un espace bar",
+          "Un vestiaire à casiers, la serviette fournie, des douches"
+        ] },
+        { "kind": "text", "body": "Le blog illustrait son annonce par une pièce au décor marin : murs bleus, papier peint d'étoiles de mer et bouée de sauvetage, sous le slogan « Bienvenue à bord du navire Le Divin ». Le club s'y disait aussi « le moins cher de la région à service égal », sans publier de prix.\n\nLe site ne disait ni la surface du lieu, ni le nombre de niveaux, ni si les cabines fermaient à clé. Rien n'indique non plus si les dix salons existaient encore après les travaux de 2016." },
+        { "kind": "list", "title": "Accès décrit par le club (2015-2018)", "items": [
+          "Depuis Lille : A25 direction Dunkerque, sortie 6 Englos-Lomme, puis D652 jusqu'à la sortie 3, Lomme Bourg ; le club était sur la gauche.",
+          "Des places le long de l'avenue de Dunkerque, selon le club.",
+          "14 places de stationnement à 200 m, à l'angle de la rue Rabelais et de l'avenue de Dunkerque.",
+          "36 places sans limite de durée et 4 limitées, à 300 m, à l'angle des rues Jean-Moulin et Saint-Vincent-de-Paul.",
+          "38 places à 350 m, rue Rabelais, sur le parking d'une résidence.",
+          "Itinéraires également fournis depuis Dunkerque et Roubaix-Tourcoing.",
+          "Un arrêt de transport en commun nommé « Bourg » est indiqué à environ 130 m de l'adresse par un annuaire d'avis ; le club n'en parlait pas."
+        ] }
+      ],
+      "sources": ["s29", "s4", "s1", "s12", "s3", "s5", "s9", "s31"]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Lundi au jeudi": "14 h – 20 h",
+      "Vendredi": "14 h – 22 h",
+      "Samedi": "20 h – 1 h",
+      "Dimanche": "16 h – 21 h",
+      "Jours fériés": "Fermé"
+    },
+    "note": "Dernière grille publiée, de septembre 2017 à août 2018 ; pas d'entrée pendant la dernière heure. Le club est fermé depuis fin 2018.",
+    "confidence": "confirme",
+    "sources": ["s2", "s22"]
+  },
+  "tarifs": {
+    "rows": {
+      "Couple": "25 € en open-bar, ou gratuit avec la carte obtenue auprès des hommes seuls",
+      "Femme seule": "Gratuit, open-bar",
+      "Homme seul": "35 € en open-bar",
+      "Carte de membre": "10 € pour l'homme seul, offerte aux couples et aux femmes ; valable un an"
+    },
+    "note": "Grille d'août 2018, la dernière archivée. Serviette, casier et accès aux installations compris.",
+    "confidence": "source_unique",
+    "sources": ["s2", "s3"]
+  },
+  "equipements": ["Sauna", "Hammam", "Jacuzzi", "Bar", "Coins câlins", "Cabines", "Vestiaires", "Douche"],
+  "faq": [
+    {
+      "question": "Le Divin, à Lomme, est-il encore ouvert ?",
+      "answer": "Non. L'établissement a été fermé au registre le 21 novembre 2018, et la société qui l'exploitait a été dissoute en janvier 2019 puis radiée le 10 mars 2019. Le site du club ne publiait plus rien depuis l'été 2018, et aucune activité de loisirs n'a été déclarée depuis au 912 bis avenue de Dunkerque."
+    },
+    {
+      "question": "Comment marchait le jeton des hommes seuls ?",
+      "answer": "Chaque homme seul recevait un jeton à l'entrée. Le couple ou la femme seule qui l'acceptait en cabine gardait le jeton et le remettait à la sortie contre une carte d'entrée gratuite, valable pour la visite suivante. Le système est annoncé en avril 2012 et figure encore dans le règlement de 2018."
+    },
+    {
+      "question": "Combien coûtait l'entrée au Divin ?",
+      "answer": "D'après la dernière grille archivée, en août 2018 : 35 € pour un homme seul, open-bar compris ; 25 € pour un couple en open-bar, ou rien avec la carte obtenue auprès des hommes seuls ; gratuit pour une femme seule. Le tarif de l'homme seul n'a pas bougé de 2012 à 2018."
+    },
+    {
+      "question": "Où trouver un club libertin ouvert près de Lomme ?",
+      "answer": "Le plus proche dont l'activité est datée est La Tentation, à Prémesques, à environ 3 km : son site annonce des week-ends à thème les 16-17, 23-24 et 30-31 octobre 2026. À Lille, à environ 7 km, Le Cent Douze affiche une soirée Halloween le samedi 31 octobre 2026. Au-delà de la métropole, [la base de 7 millions de membres revendiquée par Wyylde](aff:wyylde), la plus vaste en France, permet de chercher des partenaires dans tout le Nord."
+    },
+    {
+      "question": "Le Cent Douze a-t-il pris la suite du Divin ?",
+      "answer": "Pas au sens d'une reprise. Good Prospect, qui exploite Le Cent Douze rue de Cambrai, avait tenu Le Divin en location-gérance à partir d'octobre 2013 ; son établissement de Lomme est fermé au registre le 1er février 2016, le jour où elle ouvre son établissement lillois. Le Divin a rouvert en juin 2016 et fermé fin 2018 ; le BODACC ne publie aucune vente de son fonds."
+    },
+    {
+      "question": "Les annonces « Le Divin Sauna » de ledivinsauna.com viennent-elles du club de Lomme ?",
+      "answer": "Elles n'en gardent que le nom. Depuis août 2020, l'ancien domaine du club publie des annonces de rencontre entre particuliers, rangées en pages par ville de France : celle d'Aubagne, dans les Bouches-du-Rhône, s'intitule par exemple « Aubagne (libertinage, échangisme) sauna, hammam, bar… ». Aucune de ces pages ne parle de Lomme ni de l'avenue de Dunkerque. Le site du sauna, lui, était suspendu par son hébergeur dès juin 2019, un an avant le réenregistrement du domaine par un tiers."
+    },
+    {
+      "question": "Quelle note Le Divin garde-t-il sur Yelp et Unilocal ?",
+      "answer": "2,5 sur 5 sur Yelp et 1 sur 5 sur Unilocal, pour trois avis en tout (relevé du 21 octobre 2026). Yelp, qui signale le commerce comme fermé, n'affiche ni le texte ni la date de ses deux avis. Celui d'Unilocal n'est pas daté, mais il cite des soirées de décembre 2011 et de janvier 2012 ; son auteur y critique le ton cru des titres de soirées du site et dit avoir renoncé à venir : ce n'est pas un récit de visite."
+    }
+  ],
+  "unverified": [
+    "Le mois exact de la fermeture définitive et ses raisons : aucune annonce n'a été trouvée.",
+    "La surface du lieu, son nombre de niveaux et l'existence d'un service de massage.",
+    "Si les cabines fermaient à clé.",
+    "Le contenu des quinze photos de la galerie officielle, que les archives du web n'ont pas conservées.",
+    "Si les dix salons câlins à thèmes annoncés en 2008 existaient encore après les travaux de 2016.",
+    "La note Google du lieu, et le texte des deux avis Yelp, qui ne s'affichent pas.",
+    "L'adresse contact@ledivinsauna.com, affichée par un annuaire, n'apparaît sur aucune page officielle archivée.",
+    "Un article de la presse régionale sur l'ouverture ou la fermeture du club : aucun n'est apparu dans les moteurs de recherche le 21 octobre 2026, et les archives de La Voix du Nord et de Nord Éclair n'ont pas pu être interrogées.",
+    "Si la page Facebook que le site liait en 2014-2015 a annoncé la fermeture : elle n'est pas lisible sans connexion, et aucun moteur n'en montrait de publication au 21 octobre 2026.",
+    "Ce qu'est devenu le local du 912 bis avenue de Dunkerque après 2018."
+  ],
+  "sources": [
+    { "id": "s1", "label": "Site officiel, page « Actualité » (archives de mai 2012 à septembre 2013)", "url": "https://web.archive.org/web/20130924223302/http://www.ledivinsauna.com/news/news_liste.php", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s2", "label": "Site officiel, page « Tarifs & Horaires » (archives de 2012 à août 2018)", "url": "https://web.archive.org/web/20180813233810/http://www.ledivinsauna.com/pages/tarifs_horaires.html", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s3", "label": "Site officiel, page « Dress-Code » (versions 2012, 2014 et 2018)", "url": "https://web.archive.org/web/20180813235442/http://www.ledivinsauna.com/pages/dresscode.html", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s4", "label": "Site officiel, accueil de la version 2014-2015 (archive du 23/08/2015)", "url": "https://web.archive.org/web/20150823033848/http://www.ledivinsauna.com/accueil.php", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s5", "label": "Site officiel, page « InfosPratiques » (archive du 11/12/2015)", "url": "https://web.archive.org/web/20151211175754/http://www.ledivinsauna.com/infospratiques.html", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s6", "label": "Site officiel, page « Programmes » (archives de 2014-2015)", "url": "https://web.archive.org/web/20151213024659/http://www.ledivinsauna.com/programmes.php", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s7", "label": "Site officiel, image d'accueil de février 2016 (archive du 19/03/2016)", "url": "https://web.archive.org/web/20160319235523/http://ledivinsauna.com/index.jpg", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s8", "label": "Site officiel, page d'accueil intérieure (archives de mai 2016 à mai 2019)", "url": "https://web.archive.org/web/20170819114016/http://www.ledivinsauna.com/mailing/accueil.php", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s9", "label": "Site officiel, page « Accès » (archive du 14/08/2018)", "url": "https://web.archive.org/web/20180814064746/http://www.ledivinsauna.com/pages/acces.html", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s11", "label": "Site officiel, page « Liens » (archives de 2013 à 2018)", "url": "https://web.archive.org/web/20130929002709/http://www.ledivinsauna.com/pages/liens.html", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s12", "label": "Site officiel, billet « Information concernant les hommes seuls » du 21/04/2012", "url": "https://web.archive.org/web/20120529135203/http://www.ledivinsauna.com/news/news_fiche.php?id=1", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s13", "label": "Wayback Machine, historique des captures de ledivinsauna.com (2008-2026)", "url": "https://web.archive.org/web/20190612044412/http://ledivinsauna.com/", "type": "autre", "consulted": "2026-10-20" },
+    { "id": "s14", "label": "Données d'enregistrement du domaine ledivinsauna.com (RDAP Verisign)", "url": "https://rdap.verisign.com/com/v1/domain/ledivinsauna.com", "type": "autre", "consulted": "2026-10-20" },
+    { "id": "s15", "label": "ledivinsauna.com, état du site au 20/10/2026", "url": "https://www.ledivinsauna.com/", "type": "autre", "consulted": "2026-10-20" },
+    { "id": "s16", "label": "Annuaire des entreprises, L'AGATHEE-TYCHEE (SIREN 504 666 124)", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/504666124", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s17", "label": "BODACC, annonces de L'AGATHEE-TYCHEE (2008-2019)", "url": "https://bodacc-datadila.opendatasoft.com/api/explore/v2.1/catalog/datasets/annonces-commerciales/records?where=registre%20like%20%22504666124%22", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s18", "label": "Annuaire des entreprises, GOOD PROSPECT (SIREN 797 547 866)", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/797547866", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s19", "label": "BODACC, annonces de GOOD PROSPECT (2013-2026)", "url": "https://bodacc-datadila.opendatasoft.com/api/explore/v2.1/catalog/datasets/annonces-commerciales/records?where=registre%20like%20%22797547866%22", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s20", "label": "Le Cent Douze (Lille), site officiel : horaires, mentions légales et affiche « Horror Halloween » du 31/10/2026 (page « Soirées à thème »)", "url": "https://www.lecentdouze-libertin-lille.fr/soiree-theme", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s21", "label": "sauna-club-libertin.com, fiche « Le Divin » (annuaire)", "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_3.php?id=14753&d=59", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s22", "label": "lieuxcoquins.fr, fiche « Le Divin » (annuaire)", "url": "https://www.lieuxcoquins.fr/lieu/le-divin/", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s23", "label": "La Tentation (Prémesques), site officiel, page des prochaines soirées", "url": "https://la-tentation.fr/nos-prochaines-soirees/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s24", "label": "Recherche d'entreprises par adresse, 912 avenue de Dunkerque (Lomme, 59000 Lille au registre)", "url": "https://recherche-entreprises.api.gouv.fr/search?q=912%20avenue%20de%20Dunkerque&code_postal=59000", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s29", "label": "Blog du club « SAUNA CLUB DE LILLE » (billets du 26/08/2007 et du 05/06/2008)", "url": "https://ledivin.blogspot.com/", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s30", "label": "Yelp, fiche « Le Divin » (commerce signalé fermé ; 2,5/5 sur 2 avis)", "url": "https://www.yelp.fr/biz/le-divin-lomme", "type": "avis", "consulted": "2026-10-21" },
+    { "id": "s31", "label": "Unilocal, fiche « Le Divin » (1 avis ; arrêts de transport proches)", "url": "https://unilocal.net/france/lomme/le-divin", "type": "avis", "consulted": "2026-10-21" },
+    { "id": "s38", "label": "saunaclublebali.fr, « Clubs libertins dans le Nord (59) : guide complet 2026 » (19/04/2026)", "url": "https://www.saunaclublebali.fr/clubs-libertins-nord-59/", "type": "annuaire", "consulted": "2026-10-21" },
+    { "id": "s40", "label": "Minuit Libertin, « Trouvez un club échangiste dans le Nord (59) » (mise à jour du 03/08/2026)", "url": "https://minuitlibertin.com/trouvez-un-club-echangiste-dans-le-nord-59/", "type": "annuaire", "consulted": "2026-10-21" },
+    { "id": "s41", "label": "Petit Futé, clubs libertins et échangistes du Nord (fiche de La Tentation)", "url": "https://www.petitfute.com/d1-nord/c9998-coquin/c1044-s-amuser-sortir/c206-club-libertin/", "type": "annuaire", "consulted": "2026-10-21" },
+    { "id": "s43", "label": "ledivinsauna.com, page d'annonces d'Aubagne (13), état au 21/10/2026", "url": "https://www.ledivinsauna.com/sauna-hammam-bar-spa/aubagne-13", "type": "autre", "consulted": "2026-10-21" }
+  ]
+}

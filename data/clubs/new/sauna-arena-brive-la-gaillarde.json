@@ -1,0 +1,19 @@
+{
+  "id": "new-sauna-arena-brive-la-gaillarde",
+  "nom": "Sauna Arena",
+  "type": "sauna gay masculin",
+  "types_normalises": ["Sauna", "Spa & Wellness", "Bar", "Gay friendly"],
+  "adresse": "10 rue Auguste Comte",
+  "code_postal": "19100",
+  "ville": "Brive-la-Gaillarde",
+  "departement_code": "19",
+  "departement_nom": "Corrèze",
+  "region": "Nouvelle-Aquitaine",
+  "pays": "France",
+  "telephone": "0555883347",
+  "email": "contact@sauna-arena.fr",
+  "site_web": "https://sauna-arena.fr/",
+  "equipements": ["Jacuzzi", "Hammam", "Sauna sec", "Cabines de détente", "Espace vidéo", "Bar sans alcool (café, thé)", "Climatisation"],
+  "verification": { "status": "actif" },
+  "addedAt": "2026-10-20"
+}

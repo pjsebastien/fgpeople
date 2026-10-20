@@ -1,0 +1,379 @@
+{
+  "slug": "sauna-club-6e-sens-abrest",
+  "clubId": "new-sauna-club-6e-sens-abrest",
+  "researchedAt": "2026-10-20",
+  "display": { "nom": "Sauna Club 6e Sens", "ville": "Abrest" },
+  "status": {
+    "value": "ouvert",
+    "summary": "Le site du 6e Sens, modifié le 24 juin 2026, annonce désormais des brumisateurs d'eau fraîche dans le hammam pendant les fortes chaleurs. ANTHARES, la société qui l'exploite, est active au registre (mise à jour du 25/09/2026), et le gérant répondait encore aux messages de clients en mars 2026.",
+    "sources": ["s1", "s3", "s4", "s10"]
+  },
+  "seo": {
+    "title": "Sauna gay 6e Sens à Abrest, près de Vichy : prix, horaires, photos",
+    "metaDescription": "Sauna réservé aux hommes, 300 m² à Abrest : hammam, jacuzzi, sling. Entrée 20 € (10 € jusqu'à 25 ans), de midi à 18 h sauf le mardi, sans carte bancaire.",
+    "subtitle": "Sauna gay exclusivement masculin de 300 m² à Abrest, aux portes de Vichy (03)",
+    "targetQueries": [
+      "sauna gay vichy",
+      "6e sens vichy",
+      "sauna 6e sens abrest",
+      "sauna club 6e sens",
+      "6eme sens sauna",
+      "sauna gay allier",
+      "6e sens vichy tarif",
+      "6e sens vichy horaires"
+    ]
+  },
+  "lead": "Le 6e Sens est un sauna d'après-midi réservé aux hommes : ouvert à midi (13 h le week-end), il ferme à 18 h et fait relâche le mardi. Sur 300 m², il aligne hammam à gradins, sauna sec, jacuzzi de six places, cabines, labyrinthe, sling et un bar sans alcool ; l'entrée, à 20 €, se règle en espèces ou par chèque. Jean-Luc, présenté par le site en 2018 comme le nouveau propriétaire, signait encore en mars 2026 les réponses aux messages des clients.",
+  "glance": [
+    { "icon": "users", "label": "Public", "value": "Hommes uniquement" },
+    { "icon": "clock", "label": "Ouvert", "value": "Midi à 18 h (13 h le week-end), sauf mardi" },
+    { "icon": "euro", "label": "Entrée", "value": "20 € · 10 € de 18 à 25 ans" },
+    { "icon": "lock", "label": "Paiement", "value": "Espèces ou chèque, pas de carte bancaire" },
+    { "icon": "ruler", "label": "Surface", "value": "300 m², hammam, sauna sec, jacuzzi" },
+    { "icon": "history", "label": "Exploitant actuel", "value": "Depuis avril 2017" }
+  ],
+  "audience": [
+    { "who": "hommes", "status": "oui", "detail": "Établissement exclusivement masculin, ouvert l'après-midi six jours sur sept", "price": "10 à 20 €" },
+    { "who": "couples", "status": "non", "detail": "Non admis : aucun jour mixte n'est annoncé sur le site" },
+    { "who": "femmes", "status": "non", "detail": "Non admises : le site décrit un lieu exclusivement masculin" }
+  ],
+  "highlights": [
+    "Pas de carte bancaire : seuls les espèces et les chèques sont acceptés.",
+    "Fermé le mardi, et chaque jour dès 18 h ; selon le gérant, la fréquentation chute à partir de 16 h-16 h 30.",
+    "18-25 ans inclus, ou mois de votre anniversaire sur pièce d'identité : 10 € au lieu de 20 €.",
+    "Aucune chaussure dans l'enceinte, talons interdits par hygiène, bas tolérés (réponse du gérant, mars 2026).",
+    "Douche obligatoire avant le jacuzzi, où un panneau interdit tout acte sexuel (photos du site officiel)."
+  ],
+  "keyFacts": [
+    { "label": "Nom", "value": "Sauna Club 6e Sens (enseigne « 6EME SENS »)", "confidence": "confirme", "sources": ["s1", "s10"] },
+    { "label": "Public admis", "value": "Hommes uniquement", "confidence": "confirme", "sources": ["s1", "s13", "s15"] },
+    { "label": "Jours d'ouverture", "value": "Tous les jours sauf le mardi, de 12 h ou 13 h à 18 h", "confidence": "confirme", "sources": ["s1", "s13", "s15"] },
+    { "label": "Entrée", "value": "20 € ; 10 € de 18 à 25 ans", "confidence": "confirme", "sources": ["s1", "s13", "s15"] },
+    { "label": "Paiement", "value": "Espèces ou chèque uniquement", "confidence": "source_unique", "sources": ["s1"] },
+    { "label": "Surface", "value": "300 m²", "confidence": "source_unique", "sources": ["s1", "s5"] },
+    { "label": "Société", "value": "SAS ANTHARES, créée en novembre 2016", "confidence": "confirme", "sources": ["s10", "s11"] },
+    { "label": "Reprise du fonds", "value": "Avril 2017, pour 60 000 €", "confidence": "confirme", "sources": ["s11", "s9"] },
+    { "label": "Bar", "value": "Sans alcool", "confidence": "confirme", "sources": ["s1", "s11"] }
+  ],
+  "sections": [
+    {
+      "id": "fermeture-a-18-h",
+      "title": "Fermeture à 18 h, creux dès 16 h 30 et relâche le mardi",
+      "icon": "clock",
+      "summary": "Ouvert de 12 h à 18 h en semaine, de 13 h à 18 h le week-end et les jours fériés, fermé le mardi ; selon le gérant, la salle se vide vite à partir de 16 h-16 h 30.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le 6e Sens ne fonctionne que l'après-midi : six heures d'ouverture en semaine, cinq le week-end et les jours fériés, et aucune soirée au programme du site. Le mardi est le jour de fermeture hebdomadaire."
+        },
+        {
+          "kind": "callout",
+          "tone": "tip",
+          "title": "Venir en début d'après-midi",
+          "body": "En décembre 2025, répondant à un client, le gérant écrivait qu'« à partir de 16h, 16h30 ça se vide vite ». Pour trouver du monde, mieux vaut viser les premières heures."
+        },
+        {
+          "kind": "text",
+          "body": "La fermeture du soir revient dans les avis Google que le site reproduit : un client la regrette, un autre réclame des horaires plus tardifs le vendredi et le samedi."
+        },
+        {
+          "kind": "text",
+          "body": "Il n'en a pas toujours été ainsi : en avril 2018, le site affichait une fermeture à 20 h, soit de 12 h à 20 h en semaine et de 14 h à 20 h le week-end. Il proposait alors un tarif réduit à partir de 18 h et annonçait, dès mai, une ouverture jusqu'à minuit le premier samedi du mois."
+        }
+      ],
+      "sources": ["s1", "s4", "s5"]
+    },
+    {
+      "id": "tarifs-2018-2026",
+      "title": "20 € l'entrée, 10 € de 18 à 25 ans ou le mois de son anniversaire",
+      "icon": "euro",
+      "summary": "L'entrée coûte 20 €, ramenée à 10 € pour les 18-25 ans et pendant le mois de l'anniversaire ; le sauna n'accepte que les espèces et les chèques.",
+      "blocks": [
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Pas de carte bancaire",
+          "body": "Le site le précise sous sa grille : seuls les chèques et les espèces sont acceptés. Prévoyez la somme avant de partir."
+        },
+        {
+          "kind": "text",
+          "body": "La grille n'a pas bougé depuis au moins avril 2025 : un blog libertin relevait déjà 20 € et 10 €, et l'archive du site de mai 2026 affiche les mêmes montants. Deux lignes complètent le tarif : un « droit de retour » à 2 €, que le site n'explique pas, et la deuxième serviette à 1 €. En 2018, il annonçait des « retours gratuits toute la journée »."
+        },
+        {
+          "kind": "table",
+          "caption": "Ce qui a changé depuis la grille d'avril 2018 (archive du site officiel)",
+          "headers": ["Formule", "Avril 2018", "Octobre 2026"],
+          "rows": [
+            ["Jeunes", "12 € avant 25 ans", "10 € de 18 à 25 ans inclus"],
+            ["Mois de l'anniversaire", "10 €", "10 €, sur pièce d'identité"],
+            ["Après 18 h", "10 €", "Sans objet : fermeture à 18 h"],
+            ["Premier samedi du mois", "18 €, ouverture jusqu'à minuit annoncée dès mai", "Formule absente du site"],
+            ["Abonnement", "10 entrées pour 150 €", "Non mentionné"],
+            ["Fidélité", "11e entrée offerte", "Non mentionnée"],
+            ["Retour dans la journée", "Gratuit", "« Droit de retour » à 2 €"],
+            ["Serviette", "Comprise", "1 € la deuxième"]
+          ]
+        }
+      ],
+      "sources": ["s1", "s5", "s7", "s13"]
+    },
+    {
+      "id": "hammam-sauna-jacuzzi",
+      "title": "Hammam d'environ 15 places, sauna sec et jacuzzi de six sur 300 m²",
+      "icon": "spa",
+      "summary": "Le site décrit un hammam à gradins rénové avec douche froide, un sauna sec en bois ancien et pierre, un jacuzzi central, une salle vidéo, des cabines, un labyrinthe et un sling.",
+      "blocks": [
+        {
+          "kind": "table",
+          "caption": "Les espaces annoncés par le site officiel (octobre 2026)",
+          "headers": ["Espace", "Ce qu'en dit le site"],
+          "rows": [
+            ["Hammam", "Gradins sur deux niveaux d'assises, environ 15 places, douche froide, « fraîchement rénové » ; brumisateurs d'eau fraîche l'été"],
+            ["Sauna sec", "Bois ancien et pierre naturelle, banquettes à niveaux décalés, au moins 10 places"],
+            ["Jacuzzi", "Au centre de l'établissement, 6 personnes au plus"],
+            ["Espaces de rencontre", "Salle vidéo, cabines, labyrinthe, sling"],
+            ["Bar", "Sans alcool : boissons chaudes et fraîches, café, en-cas, glaces"],
+            ["Vitrine", "Gadgets sexuels et vente de poppers"],
+            ["Vestiaire", "37 casiers, toilettes"],
+            ["Fumoir", "Cabine de 4 personnes au plus"]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le bar sans alcool n'est pas un choix récent : l'acte de cession de 2017 décrivait déjà un « snack, bar (boissons sans alcool) »."
+        },
+        {
+          "kind": "callout",
+          "tone": "info",
+          "title": "Des travaux annoncés, sans date",
+          "body": "Un édito du gérant annonce des améliorations côté jacuzzi et une nouvelle cabine « spacieuse ». Ce texte n'est pas daté et figurait déjà sur le site en août 2025 : on ignore où en est le chantier."
+        }
+      ],
+      "sources": ["s1", "s6", "s11"]
+    },
+    {
+      "id": "galerie-officielle",
+      "title": "Treize photos officielles, du Discobole au bord du jacuzzi au sling pendu à ses chaînes",
+      "icon": "camera",
+      "summary": "La galerie du site montre un décor éclairé en rose, violet et rouge : jacuzzi octogonal, sauna en planches brutes, bar-salon, vestiaire en bois, cabine, salle vidéo et sling.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Nous avons regardé les treize photos de la galerie le 20 octobre 2026. Elles ne sont pas datées : les fichiers ont été versés sur le site en mai 2025, mais plusieurs reprennent des images publiées dès 2019 ou en 2024."
+        },
+        {
+          "kind": "list",
+          "items": [
+            "Le jacuzzi octogonal, sous un éclairage bleu et violet avec projection d'étoiles, entouré de palmiers et d'une réplique du Discobole ; un panneau y rappelle la douche obligatoire, un autre limite le bassin à six personnes.",
+            "Le sauna sec : un mur de pierre, un mur de planches brutes, des banquettes claires sur deux niveaux et un poêle à pierres, puis la même pièce en lumière rouge.",
+            "Le bar-salon : fauteuils, tables, tabourets hauts et écran mural sous des éclairages rose et violet.",
+            "Le vestiaire, avec ses casiers en bois numérotés jusqu'à 37 autour d'un banc central, et la porte du « coin des fumeurs ».",
+            "Une cabine meublée d'un matelas noir, la salle vidéo avec sa banquette à coussins face à l'écran, et le sling suspendu par des chaînes dans une pièce aux murs peints en fausses briques."
+          ]
+        }
+      ],
+      "sources": ["s2", "s3"]
+    },
+    {
+      "id": "couples-femmes-sexy-moon",
+      "title": "Couples et femmes refusés, un club mixte annoncé près de Vichy depuis septembre 2025",
+      "icon": "couple",
+      "summary": "Réservé aux hommes, le 6e Sens refuse couples et femmes ; près de Vichy, le Sexy Moon se présente comme un club mixte ouvert depuis septembre 2025, du vendredi au dimanche.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le site décrit un établissement « exclusivement masculin », et deux annuaires le confirment : ni couples ni femmes, et aucun jour mixte. La confusion reste possible, car un blog libertin ne cite que le 6e Sens dans sa page sur les clubs échangistes de l'Allier, mise à jour en août 2026."
+        },
+        {
+          "kind": "text",
+          "body": "Côté mixte, la [page de l'Allier](/departement/allier) n'offre pas d'alternative ouverte : le [Lotus d'Or de Montluçon-Domérat](/le-lotus-d-or-montlucon-domerat) est fermé depuis la liquidation judiciaire de sa société, en avril 2021."
+        },
+        {
+          "kind": "text",
+          "body": "Plus près, le Sexy Moon, que nous n'avons pas encore vérifié, se présente sur son site comme un club libertin « à 2 pas de Vichy », ouvert depuis septembre 2025, du vendredi au dimanche, et interdit aux moins de 30 ans. Il demande d'être contacté avant une première venue."
+        },
+        {
+          "kind": "text",
+          "body": "Ce club se dit « partenaire officiel » de Wyylde. Pour y préparer une première sortie avec d'autres couples, [l'engagement de douze mois réglé 99,90 € d'avance](aff:wyylde) ramène le mois à 8,33 € ; la reconduction automatique, activée par défaut, se coupe dès la souscription dans les paramètres de facturation."
+        },
+        {
+          "kind": "text",
+          "body": "Un couple du secteur peut aussi [sonder le vivier libertin du bassin vichyssois](aff:carre-libertin) sur Carré Libertin avant de tenter une sortie mixte. Le site annonce environ 60 % de femmes et de couples parmi ses membres, mais ce chiffre est national : une recherche autour d'Abrest dira combien vivent à portée de route."
+        }
+      ],
+      "sources": ["s1", "s13", "s14", "s15", "s19", "s20"]
+    },
+    {
+      "id": "reprise-2017-soirees-anniversaire",
+      "title": "Fonds racheté 60 000 € en avril 2017, anniversaires fêtés jusqu'à 4 h en 2018 et 2019",
+      "icon": "history",
+      "summary": "La SAS ANTHARES a racheté en avril 2017 un sauna déjà en activité ; ses deux premiers anniversaires ont donné lieu à des soirées « Blackout » de 21 h à 4 h.",
+      "blocks": [
+        {
+          "kind": "timeline",
+          "items": [
+            { "date": "Avant 2017", "text": "Un exploitant individuel tient déjà au 164 avenue des Graviers un centre de détente avec sauna, hammam, jacuzzi, snack et bar. Sa date d'ouverture n'est pas établie." },
+            { "date": "22 novembre 2016", "text": "Création de la SAS ANTHARES, future exploitante." },
+            { "date": "6 avril 2017", "text": "ANTHARES achète le fonds pour 60 000 € ; l'établissement du vendeur est fermé au registre le même jour. L'annonce paraît au BODACC le 17 mai 2017." },
+            { "date": "Avril 2018", "text": "Le site, qui salue l'arrivée d'un « nouveau propriétaire », annonce deux journées naturistes, le mercredi et le samedi." },
+            { "date": "7 avril 2018", "text": "Soirée anniversaire de 21 h à 4 h, sur réservation et à places limitées : « Blackout » avec cagoule fournie et bracelet fluo signalant son orientation, 20 € avec kir et buffet." },
+            { "date": "6 avril 2019", "text": "« Déjà 2 ans » : nouvelle soirée Blackout aux bracelets fluo, de 21 h à 4 h sur réservation, 22 € avec kir, buffet et spectacle." },
+            { "date": "Janvier-février 2026", "text": "Nouveau logo, puis quatre nouvelles photos versées sur le site." },
+            { "date": "Juin 2026", "text": "Le site, modifié le 24 juin, annonce des brumisateurs d'eau fraîche dans le hammam pendant les fortes chaleurs." }
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Les journées naturistes du mercredi et du samedi, annoncées en 2018, ne figurent plus sur le site actuel."
+        }
+      ],
+      "sources": ["s1", "s3", "s5", "s7", "s8", "s9", "s10", "s11", "s12"]
+    },
+    {
+      "id": "avis-google-livre-d-or",
+      "title": "« BIEN » sur 14 avis Google, et 373 messages validés par le gérant",
+      "icon": "star",
+      "summary": "Le widget Google du site affiche « BIEN » sur 14 avis, sans note chiffrée ; deux annuaires relaient 4,2/5 et 4,1, et la page « Avis » du site est modérée par le gérant.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Aucune note n'a été relevée directement sur Google. Le widget du site indique « BIEN » sur 14 avis ; un blog libertin relaie 4,2/5 sur 13 avis, un annuaire 4,1 sur 23 avis, sans date ni plateforme précisée."
+        },
+        {
+          "kind": "text",
+          "body": "Les cinq avis affichés par ce widget, non datés, louent la propreté, l'accueil du gérant et la « nouvelle déco » colorée ; l'un juge le prix « correct ». Outre la fermeture du soir, un client réclame une rampe pour accéder au jacuzzi."
+        },
+        {
+          "kind": "text",
+          "body": "La page « Avis » du site annonce 373 messages ; les dix plus récents, de décembre 2025 à mars 2026, portent chacun une réponse signée Jean-Luc. Le gérant indique valider lui-même les messages avant publication : ce livre d'or ne vaut pas note indépendante."
+        },
+        {
+          "kind": "text",
+          "body": "La page Facebook « Sauna Sixième Sens », qui semble tenue par la société exploitante, n'est pas lisible sans connexion : aucune publication datée n'a pu y être consultée."
+        }
+      ],
+      "sources": ["s1", "s4", "s13", "s16", "s18"]
+    },
+    {
+      "id": "aides-enipse-chaussures",
+      "title": "Dépistage gratuit avec AIDES chaque premier mercredi, et aucune chaussure dans l'enceinte",
+      "icon": "shield",
+      "summary": "Le site annonce un dépistage gratuit avec AIDES le premier mercredi du mois et avec l'ENIPSE tous les trois mois ; le gérant proscrit toute chaussure à l'intérieur, talons compris.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le 6e Sens affiche deux associations de prévention parmi ses partenaires : AIDES, pour un dépistage gratuit et des conseils chaque premier mercredi du mois, et l'ENIPSE, tous les trois mois. Ces dates n'ont pas été confirmées auprès des associations : un appel au 04 70 32 89 38 évite un déplacement inutile."
+        },
+        {
+          "kind": "text",
+          "body": "Le site ne publie pas de règlement. En mars 2026, le gérant a toutefois précisé à un client que les talons sont interdits pour des raisons d'hygiène, que les bas sont tolérés et qu'aucune chaussure n'entre dans l'enceinte. Les photos officielles montrent aussi, à l'espace jacuzzi, un panneau « douche obligatoire » et un autre qui y interdit tout acte sexuel."
+        }
+      ],
+      "sources": ["s1", "s2", "s4"]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Lundi": "12 h - 18 h",
+      "Mardi": "Fermé",
+      "Mercredi": "12 h - 18 h",
+      "Jeudi": "12 h - 18 h",
+      "Vendredi": "12 h - 18 h",
+      "Samedi": "13 h - 18 h",
+      "Dimanche": "13 h - 18 h",
+      "Jours fériés": "13 h - 18 h"
+    },
+    "note": "Horaires du site officiel au 20/10/2026, identiques au relevé d'avril 2025 d'un blog libertin. Une fiche de cartes reprise par un agrégateur indique 13 h le jeudi : en cas de doute, appelez le 04 70 32 89 38.",
+    "confidence": "confirme",
+    "sources": ["s1", "s13", "s15", "s17"]
+  },
+  "tarifs": {
+    "rows": {
+      "Entrée": "20 €",
+      "18-25 ans inclus": "10 €",
+      "Mois de l'anniversaire": "10 € (sur pièce d'identité)",
+      "Droit de retour": "2 €",
+      "Deuxième serviette": "1 €"
+    },
+    "note": "Paiement par chèque ou en espèces uniquement : la carte bancaire n'est pas acceptée.",
+    "confidence": "confirme",
+    "sources": ["s1", "s13", "s15"]
+  },
+  "equipements": [
+    "Hammam à gradins (environ 15 places) avec douche froide",
+    "Sauna sec (au moins 10 places)",
+    "Jacuzzi (6 places)",
+    "Salle vidéo",
+    "Cabines",
+    "Labyrinthe",
+    "Sling",
+    "Bar sans alcool (boissons chaudes et fraîches, en-cas, glaces)",
+    "Vestiaire de 37 casiers",
+    "Cabine fumeur (4 places)",
+    "Vitrine de gadgets sexuels et vente de poppers"
+  ],
+  "officialLinks": [
+    { "label": "Site officiel", "url": "https://6sens-sauna.com/", "kind": "site" },
+    { "label": "Galerie de 13 photos (hammam, jacuzzi, bar, vestiaire, cabines)", "url": "https://6sens-sauna.com/#galerie", "kind": "galerie" },
+    { "label": "Messages de clients et réponses du gérant", "url": "https://6sens-sauna.com/avis/", "kind": "autre" },
+    { "label": "Page Facebook « Sauna Sixième Sens »", "url": "https://www.facebook.com/anthares.antharessauna/", "kind": "facebook" }
+  ],
+  "faq": [
+    {
+      "question": "Le sauna 6e Sens de Vichy ouvre-t-il le soir ?",
+      "answer": "Non. Il ferme à 18 h tous les jours d'ouverture, après avoir ouvert à 12 h en semaine (hors mardi) et à 13 h le week-end et les jours fériés. Les soirées de 21 h à 4 h organisées pour ses anniversaires en 2018 et 2019 n'ont pas de successeur annoncé sur le site."
+    },
+    {
+      "question": "Combien coûte l'entrée au 6e Sens, et la carte bancaire est-elle acceptée ?",
+      "answer": "L'entrée coûte 20 €, ou 10 € pour les 18-25 ans et pendant le mois de votre anniversaire, sur pièce d'identité. Le droit de retour est à 2 €, la deuxième serviette à 1 €. La carte bancaire n'est pas acceptée : prévoyez des espèces ou un chéquier."
+    },
+    {
+      "question": "Les couples et les femmes peuvent-ils entrer au 6e Sens ?",
+      "answer": "Non, le lieu est exclusivement masculin, quel que soit le jour. Pour une sortie mixte près de Vichy, voyez plus haut le cas du Sexy Moon, que nous n'avons pas encore vérifié. Pour échanger d'abord avec d'autres couples du secteur, [la formule annuelle de Gleese](aff:gleese) revient à 3,75 € par mois, soit 45 € réglés en une fois."
+    },
+    {
+      "question": "Le 6e Sens est-il fermé ? Un annuaire l'affiche « Fermé ».",
+      "answer": "Le 20 octobre 2026, un annuaire affichait « Aujourd'hui : Fermé » : c'était un mardi, jour de fermeture hebdomadaire. Aucune annonce de fermeture n'a été trouvée ; le site a été modifié en juin 2026 et la société exploitante est active au registre."
+    },
+    {
+      "question": "Le sauna est-il à Vichy ou à Abrest ?",
+      "answer": "Au 164 avenue des Graviers, à Abrest, commune limitrophe de Vichy : le sauna écrit lui-même « Abrest - Vichy ». Plus d'une dizaine d'entreprises, actuelles ou passées, ont été immatriculées à ce numéro, dont des centres de contrôle technique. En 2018, le site annonçait un stationnement gratuit ; le site actuel n'en parle plus, et un annuaire signale toujours un parking. Téléphone : 04 70 32 89 38."
+    },
+    {
+      "question": "Y a-t-il un autre sauna gay près de Vichy ?",
+      "answer": "Nous n'en avons trouvé aucun dans l'agglomération. Un annuaire commercial publie bien un « top 5 » des saunas gays de Vichy pour 2026, mais le 6e Sens est la seule de ses cinq adresses dont nous ayons pu vérifier qu'elle est un sauna, et la liste compte même un parc municipal. Pour chercher plus loin, [les lieux gay friendly recensés en France](/club-gay-friendly) sont réunis sur une page dédiée."
+    }
+  ],
+  "unverified": [
+    "Ce que recouvre exactement le « droit de retour » facturé 2 € : le site ne l'explique pas ; en 2018, les retours dans la journée étaient gratuits.",
+    "L'heure d'ouverture du jeudi : 12 h selon le site, 13 h selon une fiche de cartes reprise par un agrégateur.",
+    "L'avancement des travaux annoncés côté jacuzzi et de la nouvelle cabine, dont l'annonce n'est pas datée.",
+    "Les prochaines dates de dépistage avec AIDES et l'ENIPSE, non confirmées auprès des associations.",
+    "La date d'ouverture du sauna avant sa reprise en 2017 : un message de client avance 1996, sans aucune source fiable.",
+    "La note Google actuelle : les relevés trouvés vont de 13 à 23 avis, et aucun n'a été vu sur Google.",
+    "Le maintien du stationnement gratuit annoncé par le site en 2018 : le site actuel n'en parle plus, seul un annuaire signale un parking.",
+    "Le maintien de l'abonnement de 10 entrées et de la carte de fidélité proposés en 2018."
+  ],
+  "sources": [
+    { "id": "s1", "label": "Site officiel, page d'accueil (présentation, espaces, tarifs, horaires, partenaires, widget d'avis Google)", "url": "https://6sens-sauna.com/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s2", "label": "Site officiel, galerie de 13 photos (regardées le 20/10/2026)", "url": "https://6sens-sauna.com/#galerie", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s3", "label": "Site officiel, API WordPress : dates de modification des pages et de la médiathèque", "url": "https://6sens-sauna.com/wp-json/wp/v2/pages", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s4", "label": "Site officiel, page « Avis » (messages de clients modérés et réponses du gérant)", "url": "https://6sens-sauna.com/avis/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s5", "label": "Site officiel, archive du 21/04/2018 (nouveau propriétaire, journées naturistes, grille de 2018)", "url": "https://web.archive.org/web/20180421125325/http://6sens-sauna.com/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s6", "label": "Site officiel, archive du 03/08/2025 (édito sur les travaux)", "url": "https://web.archive.org/web/20250803205706/https://6sens-sauna.com/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s7", "label": "Site officiel, archive du 14/05/2026 (grille à 20 €, sans l'avis sur les brumisateurs)", "url": "https://web.archive.org/web/20260514134214/https://6sens-sauna.com/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s8", "label": "Site officiel, affiche de la soirée anniversaire du 7 avril 2018", "url": "https://6sens-sauna.com/wp-content/uploads/2018/01/affiche-V1.jpg", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s9", "label": "Site officiel, affiche de la soirée « déjà 2 ans » du 6 avril 2019", "url": "https://6sens-sauna.com/wp-content/uploads/2019/03/6sens-sauna-affiche-6avril19psd.jpg", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s10", "label": "Registre des entreprises : SAS ANTHARES, enseigne « 6EME SENS » (SIREN 824 100 705)", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/824100705", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s11", "label": "BODACC, annonce A2017009415 du 17/05/2017 : achat du fonds par ANTHARES", "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A2017009415", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s12", "label": "Registre des entreprises : établissements immatriculés au 164 avenue des Graviers, Abrest", "url": "https://recherche-entreprises.api.gouv.fr/search?q=164%20avenue%20des%20graviers&code_postal=03200", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s13", "label": "Minuit Libertin, « Le 6éme Sens à Abrest » (blog annuaire, relevé d'avril 2025)", "url": "https://minuitlibertin.com/le-6eme-sens-a-abrest/", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s14", "label": "Minuit Libertin, « Club échangiste dans l'Allier (03) » (mis à jour le 04/08/2026)", "url": "https://minuitlibertin.com/club-echangiste-dans-lallier-03/", "type": "annuaire", "consulted": "2026-10-19" },
+    { "id": "s15", "label": "Sauna Club Le Bali, fiche « Sauna Club 6e Sens » (annuaire, ajoutée le 12/03/2026)", "url": "https://www.saunaclublebali.fr/listing/le-6eme-sens-vichy/", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s16", "label": "H2O Sauna pour lui, « Sauna gay Vichy (03200) : Top 5 adresses en 2026 » (annuaire commercial)", "url": "https://www.h2o-saunapourlui.fr/saunas-gay/allier/vichy/", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s17", "label": "Travel M, fiche « Sauna Club 6e Sens » (données de cartes reprises)", "url": "https://travelm.de/fr-FR/place/chij1q0mcipn9kcrsylxwrwq0_i-fr-sauna-club-6e-sens", "type": "carte", "consulted": "2026-10-20" },
+    { "id": "s18", "label": "Facebook, page « Sauna Sixième Sens » (non lisible sans connexion)", "url": "https://www.facebook.com/anthares.antharessauna/", "type": "reseau_social", "consulted": "2026-10-20" },
+    { "id": "s19", "label": "Sexy Moon, site officiel du club libertin (page d'accueil)", "url": "https://sexymoon.fr/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s20", "label": "BODACC, avis du 22/04/2021 : liquidation judiciaire de la SARL DDMMJ, exploitante du Lotus d'Or (constat repris de sa fiche vérifiée)", "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202100792278", "type": "registre", "consulted": "2026-10-16" }
+  ]
+}

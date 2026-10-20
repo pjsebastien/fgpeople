@@ -30,7 +30,7 @@ const POOL = {
     { fact: 'en ligne depuis 2007', marks: ['2007'] },
     { fact: 'plus de 500 000 inscrits', marks: ['500 000'] },
     { fact: 'environ 20 000 membres actifs chaque semaine', marks: ['20 000'] },
-    { fact: 'environ 60 % de femmes et de couples selon les chiffres annoncés', marks: ['60 %'] },
+    { fact: 'environ 60 % de femmes et de couples selon les chiffres annoncés', marks: ['60 %', 'six membres sur dix', 'six sur dix'] },
     { fact: 'accès complet gratuit pour les femmes et les couples, avec trois photos de profil', marks: ['trois photos', '3 photos'] },
   ],
   gleese: [
@@ -55,7 +55,8 @@ for (const dir of ['data/clubs/profiles', 'data/clubs/drafts']) {
   if (!fs.existsSync(dir)) continue;
   for (const f of fs.readdirSync(dir).filter((x) => x.endsWith('.json') && x !== `${slug}.json`)) {
     let text;
-    try { text = JSON.stringify(JSON.parse(fs.readFileSync(path.join(dir, f), 'utf8'))).toLowerCase(); } catch { continue; }
+    // Les espaces insécables (« 60 % ») sont ramenées à des espaces simples pour le repérage.
+    try { text = JSON.stringify(JSON.parse(fs.readFileSync(path.join(dir, f), 'utf8'))).toLowerCase().replace(/[  ]/g, ' '); } catch { continue; }
     for (const key of Object.keys(sentences)) {
       // Le paragraphe autour du lien : 400 caractères de part et d'autre.
       for (const m of text.matchAll(new RegExp(`\\(aff:${key}\\)`, 'g'))) sentences[key].push(text.slice(Math.max(0, m.index - 400), m.index + 400));
@@ -70,6 +71,11 @@ for (const [key, pool] of Object.entries(POOL)) {
     uses: sentences[key].filter((s) => p.marks.some((m) => s.includes(m))).length,
     tie: hash(`${slug}:${key}:${i}`),
   })).sort((a, b) => a.uses - b.uses || a.tie - b.tie);
+  // Des fiches rédigées en parallèle voient le même corpus : sans hasard,
+  // elles retiendraient toutes le même fait « à privilégier ». On tire donc
+  // le fait proposé parmi les trois moins employés, selon le slug.
+  const pick = hash(`${slug}:${key}`) % Math.min(3, scored.length);
+  [scored[0], scored[pick]] = [scored[pick], scored[0]];
   const total = sentences[key].length || 1;
   console.log(`${key} :`);
   console.log(`   à privilégier : ${scored[0].fact} (déjà dans ${scored[0].uses}/${total} fiches)`);

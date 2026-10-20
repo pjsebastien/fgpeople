@@ -1,0 +1,19 @@
+{
+  "id": "new-le-ran-du-chabrier-saint-privat-de-champclos",
+  "nom": "Le Ran du Chabrier",
+  "type": "camping libertin",
+  "types_normalises": ["Hébergement", "Bar", "Restaurant"],
+  "adresse": "Le Ran du Chabrier",
+  "code_postal": "30430",
+  "ville": "Saint-Privat-de-Champclos",
+  "departement_code": "30",
+  "departement_nom": "Gard",
+  "region": "Occitanie",
+  "pays": "France",
+  "telephone": "0466245155",
+  "email": "contact@camping-libertin.com",
+  "site_web": "https://camping-libertin.com/",
+  "equipements": ["Bar", "Restauration", "Douches", "Parking", "Karaoké"],
+  "verification": { "status": "actif" },
+  "addedAt": "2026-10-21"
+}

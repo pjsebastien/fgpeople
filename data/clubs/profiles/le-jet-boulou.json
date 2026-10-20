@@ -1,0 +1,989 @@
+{
+  "slug": "le-jet-boulou",
+  "clubId": "15436",
+  "researchedAt": "2026-10-21",
+  "display": {
+    "nom": "Le Jet Club",
+    "ville": "Le Boulou"
+  },
+  "status": {
+    "value": "ouvert",
+    "summary": "Après un Halloween costumé le samedi 31 octobre, le programme du site mène jusqu'à la Roulette Russe du vendredi 6 novembre 2026 ; ses affiches ont été mises en ligne les 4 et 11 octobre. La grille en vigueur depuis le 28 juin 2026 ouvre le club le vendredi et le samedi, de 22 h à 4 h.",
+    "sources": [
+      "s2",
+      "s3"
+    ]
+  },
+  "seo": {
+    "title": "Le Jet Club au Boulou : vendredi et samedi, 20 € le couple",
+    "metaDescription": "Club libertin avec sauna et jacuzzi au Boulou (66), ouvert le vendredi et le samedi de 22 h à 4 h. Couple 20 €, homme seul 40 €, buffet à volonté compris.",
+    "subtitle": "Club libertin, discothèque, sauna et jacuzzi au Boulou (66), entre Perpignan et l'Espagne",
+    "targetQueries": [
+      "le jet club",
+      "jet club le boulou",
+      "le jet boulou",
+      "club libertin le boulou",
+      "club échangiste perpignan",
+      "le jet club tarifs",
+      "le jet club horaires",
+      "jet club halloween"
+    ]
+  },
+  "lead": "Un club libertin existait déjà en 2009 dans la zone artisanale nord du Boulou ; l'équipe actuelle l'a rouvert en juin 2016 sous le nom de Le Jet Club. Il n'ouvre plus que le vendredi et le samedi soir, à des tarifs qui n'ont pas bougé depuis août 2023 et comprennent un buffet à volonté. Sauna, jacuzzi et piste de danse accompagnent un thème différent à chaque soirée, dont un Halloween où le déguisement est obligatoire le 31 octobre 2026.",
+  "glance": [
+    {
+      "icon": "calendar",
+      "label": "Ouvert",
+      "value": "Vendredi et samedi, 22 h – 4 h"
+    },
+    {
+      "icon": "euro",
+      "label": "Entrée couple",
+      "value": "20 €, buffet à volonté compris"
+    },
+    {
+      "icon": "ticket",
+      "label": "Soirée VIP",
+      "value": "Entrée offerte aux couples et femmes (Wyylde)"
+    },
+    {
+      "icon": "spa",
+      "label": "Équipements",
+      "value": "Sauna, jacuzzi, piste de danse, bar"
+    },
+    {
+      "icon": "history",
+      "label": "Depuis",
+      "value": "Juin 2016 ; un club sur ce chemin dès 2009"
+    }
+  ],
+  "audience": [
+    {
+      "who": "couples",
+      "status": "oui",
+      "detail": "Vendredi et samedi ; entrée offerte aux inscrits Wyylde les soirs VIP",
+      "price": "20 €"
+    },
+    {
+      "who": "femmes",
+      "status": "oui",
+      "detail": "Vendredi et samedi ; coupe offerte aux participantes de certains thèmes",
+      "price": "10 €"
+    },
+    {
+      "who": "hommes",
+      "status": "oui",
+      "detail": "Vendredi et samedi ; admis si tenue et attitude correctes, selon le club",
+      "price": "40 €"
+    }
+  ],
+  "highlights": [
+    "Des annuaires affichent encore des après-midi et des dimanches supprimés en 2023 ; l'heure d'arrivée suit la saison : seule la page Horaires du site fait foi.",
+    "Samedi 31 octobre 2026 : déguisement obligatoire, et le club prévient qu'il ne fera aucune exception.",
+    "Entrée difficile à repérer de nuit selon un message de 2017 : entrez le 1409 bis chemin du Mas Llinas dans Google Maps, préféré à Waze par un message de 2025.",
+    "Téléphones interdits et laissés au vestiaire, a rappelé le club en 2017 : aucune photo à l'intérieur.",
+    "Le domaine lejetclub.com, celui de l'équipe d'avant 2016, est à vendre : le site du club est lejetclub.fr."
+  ],
+  "keyFacts": [
+    {
+      "label": "Ouverture",
+      "value": "Juin 2016 (reprise) ; un club sur ce chemin dès 2009",
+      "confidence": "confirme",
+      "sources": [
+        "s6",
+        "s10",
+        "s11"
+      ]
+    },
+    {
+      "label": "Jours d'ouverture",
+      "value": "Vendredi et samedi, 22 h – 4 h (grille du 28/06/2026)",
+      "confidence": "confirme",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "label": "Entrée couple",
+      "value": "20 €, buffet à volonté compris",
+      "confidence": "confirme",
+      "sources": [
+        "s2",
+        "s15"
+      ]
+    },
+    {
+      "label": "Public admis",
+      "value": "Mixte : couples, femmes seules, hommes seuls",
+      "confidence": "confirme",
+      "sources": [
+        "s2",
+        "s5"
+      ]
+    },
+    {
+      "label": "Tenue",
+      "value": "Correcte exigée ; thème obligatoire à Halloween",
+      "confidence": "confirme",
+      "sources": [
+        "s3"
+      ]
+    },
+    {
+      "label": "Équipements",
+      "value": "Sauna, jacuzzi, discothèque, bar",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s3",
+        "s5"
+      ]
+    },
+    {
+      "label": "Société exploitante",
+      "value": "Non identifiée (aucune mention légale sur le site)",
+      "confidence": "a_verifier",
+      "sources": [
+        "s1",
+        "s17"
+      ]
+    },
+    {
+      "label": "Contact",
+      "value": "07 68 90 60 75 · contact@lejetclub.fr",
+      "confidence": "confirme",
+      "sources": [
+        "s4"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "prix-et-horaires",
+      "title": "Des prix figés depuis août 2023, une ouverture à 21 h ou 22 h selon la saison",
+      "icon": "euro",
+      "summary": "Même prix le vendredi et le samedi, buffet compris, depuis le 18 août 2023 ; seule l'heure d'ouverture varie : 22 h depuis le 28 juin 2026, 21 h l'hiver dernier.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le vendredi et le samedi, l'entrée coûte le même prix et comprend le buffet à volonté. Les archives du site montrent cette grille de prix sans changement depuis le 18 août 2023, date à laquelle le club s'est limité à ces deux soirs."
+        },
+        {
+          "kind": "text",
+          "body": "Ce qui change, c'est l'heure d'arrivée. Le club republie ses horaires une à deux fois par an, avec leur date d'entrée en vigueur :"
+        },
+        {
+          "kind": "table",
+          "caption": "Grilles successives du vendredi et du samedi",
+          "headers": [
+            "Grille « à compter du »",
+            "Horaires"
+          ],
+          "rows": [
+            [
+              "18 août 2023",
+              "21 h – 4 h"
+            ],
+            [
+              "14 août 2024",
+              "21 h – 4 h"
+            ],
+            [
+              "1er juillet 2025",
+              "22 h – 4 h"
+            ],
+            [
+              "1er novembre 2025",
+              "21 h – 4 h"
+            ],
+            [
+              "28 juin 2026 (en vigueur)",
+              "22 h – 4 h"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le 21 octobre 2026, aucune grille d'hiver n'était en ligne. Un passage à 21 h comme en novembre 2025 reste possible, mais le club ne l'a pas annoncé."
+        },
+        {
+          "kind": "text",
+          "body": "Ailleurs sur le web, d'anciennes grilles circulent encore : la page du club sur OOpss en est restée à novembre 2022, dimanche compris, et horairesdouverture24 à mars 2018, avec des après-midi en semaine."
+        },
+        {
+          "kind": "table",
+          "caption": "Le samedi soir dans trois lieux libertins actifs du département (relevés du 20/10/2026)",
+          "headers": [
+            "Lieu et horaires",
+            "Couple",
+            "Femme seule",
+            "Homme seul",
+            "Compris"
+          ],
+          "rows": [
+            [
+              "Le Jet Club (Le Boulou), 22 h – 4 h",
+              "20 €",
+              "10 €",
+              "40 €",
+              "Buffet à volonté"
+            ],
+            [
+              "L'Atlantis (Rivesaltes), 21 h 30 – 4 h",
+              "45 €",
+              "Gratuit",
+              "55 €",
+              "Deux consommations (couple), une (homme)"
+            ],
+            [
+              "Le Déstressium (Perpignan), 20 h – 3 h",
+              "20 €",
+              "10 €",
+              "40 € (35 € avant 31 ans)",
+              "Une boisson sans alcool"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "À Rivesaltes, [L'Atlantis](/l-atlantis-rivesaltes) demande plus du double à un couple le samedi soir, mais inclut des consommations et laisse entrer les femmes sans payer. [Le Déstressium, sauna libertin de Perpignan](/sauna-libertin-perpignan), affiche les mêmes prix de base que le Jet Club, mais avec une boisson sans alcool au lieu du buffet."
+        }
+      ],
+      "sources": [
+        "s2",
+        "s7",
+        "s19",
+        "s20",
+        "s26",
+        "s27"
+      ]
+    },
+    {
+      "id": "halloween-et-roulette-russe",
+      "title": "Halloween costumé sans exception, Roulette Russe à minuit : sept soirées jusqu'au 6 novembre",
+      "icon": "mask",
+      "summary": "Chaque soir d'ouverture a son thème : Shorty, Porte-Jarretelles, Résilles, Body, Halloween le 31 octobre (déguisement obligatoire), Roulette Russe le 6 novembre.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Chaque soirée a son thème, publié sur la page « Nos soirées » sous une règle générale : tenue correcte exigée. Le programme au 21 octobre 2026 :"
+        },
+        {
+          "kind": "table",
+          "headers": [
+            "Date",
+            "Soirée",
+            "Annonce du club"
+          ],
+          "rows": [
+            [
+              "Vendredi 16 octobre",
+              "Nuit du Shorty Sexy",
+              "Coupe offerte aux personnes en shorty"
+            ],
+            [
+              "Samedi 17 octobre",
+              "Nuit du Porte-Jarretelles",
+              "Coupe de bulles aux femmes dans le thème"
+            ],
+            [
+              "Vendredi 23 octobre",
+              "Soirée VIP",
+              "Entrée offerte aux inscrits Wyylde"
+            ],
+            [
+              "Samedi 24 octobre",
+              "Soirée Résilles",
+              "Résille, tenue au choix"
+            ],
+            [
+              "Vendredi 30 octobre",
+              "Soirée Body Sexy",
+              "Coupe de bulles aux participantes"
+            ],
+            [
+              "Samedi 31 octobre",
+              "Halloween Coquin",
+              "Déguisement obligatoire, coupe pour tous"
+            ],
+            [
+              "Vendredi 6 novembre",
+              "Roulette Russe",
+              "Une clé tirée au sort à minuit"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "**Halloween** est un rendez-vous ancien : le club en organisait déjà un le samedi 2 novembre 2019, puis le samedi 2 novembre 2024. Pour 2026, il prévient que le thème est obligatoire « comme l'année dernière » et qu'il ne fera aucune exception ; sans costume, choisissez un autre soir."
+        },
+        {
+          "kind": "text",
+          "body": "Si c'est votre première visite, Carré Libertin, qui annonce environ 20 000 membres actifs chaque semaine, permet de [trouver un couple complice pour la nuit du 31 octobre](aff:carre-libertin) et d'accorder les costumes avant de prendre la route."
+        },
+        {
+          "kind": "text",
+          "body": "La **Roulette Russe** revient régulièrement (2 juin 2023, 29 août 2025). À minuit, un seul numéro de clé est tiré au sort ; le ou les titulaires se voient offrir l'entrée et toutes les consommations prises avant cette heure."
+        },
+        {
+          "kind": "list",
+          "title": "Autres soirées relevées dans les archives du site",
+          "items": [
+            "Mai et juin 2026 : Exhib, RoseBud, Candaulisme, Animal, Pink Party Sexy, Strass & Paillettes, Uniforme.",
+            "Samedi 20 septembre 2025 : une soirée BDSM, absente du programme d'octobre 2026.",
+            "Samedi 17 juin 2023 : la soirée anniversaire du club (« 7 ans déjà », disait l'annonce)."
+          ]
+        }
+      ],
+      "sources": [
+        "s3",
+        "s8"
+      ]
+    },
+    {
+      "id": "sauna-jacuzzi-bar",
+      "title": "Un bar central en U, un sauna et un jacuzzi « coquin et non de thalasso »",
+      "icon": "spa",
+      "summary": "Les affiches de 2026 annoncent discothèque, sauna et jacuzzi, et le buffet est compris dans l'entrée ; hammam, pole dance ou fumoir ne sont cités que par des clients.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Les affiches de l'automne 2026 résument le lieu en quatre mots : club libertin, discothèque, sauna, jacuzzi. La photo d'accueil du site montre un grand bar en U bordé de tabourets, sous un éclairage violet et bleu. Le site n'a pas de galerie."
+        },
+        {
+          "kind": "list",
+          "title": "Ce que le club confirme lui-même",
+          "items": [
+            "Un **sauna**, qui a « toujours » fonctionné, assurait le club dans une réponse ajoutée au site en mars 2026.",
+            "Un **jacuzzi**, « coquin et non de thalasso » selon sa réponse à une critique d'avril 2024 ; signalé en panne depuis environ trois semaines dans ce message de mars 2026, il devait être réparé le week-end suivant.",
+            "Une **piste de danse** pour les soirées dansantes, un bar et un **buffet à volonté** compris dans le prix d'entrée."
+          ]
+        },
+        {
+          "kind": "callout",
+          "tone": "info",
+          "title": "Cités seulement par des clients",
+          "body": "Des témoignages publiés entre 2017 et 2023 évoquent un hammam, une table de massage, une barre de pole dance, une « chambre fermée », des pièces à grands lits et un fumoir. Aucune page officielle actuelle ne les confirme ; l'image de pole dance du site est une photo d'illustration."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s3",
+        "s5"
+      ]
+    },
+    {
+      "id": "soiree-vip-wyylde",
+      "title": "Soirée VIP du 23 octobre : entrée offerte aux couples et femmes inscrits via Wyylde",
+      "icon": "ticket",
+      "summary": "Couples et femmes seules inscrits à la soirée VIP sur Wyylde avant le vendredi 8 h entrent gratuitement, soit 20 € ou 10 € d'économie ; prochaine date : 23 octobre 2026.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le club organise régulièrement une soirée VIP dont l'inscription passe par Wyylde, le site de rencontres libertines dont il affiche une bannière partenaire sur sa page d'accueil. Les couples et les femmes seules inscrits avant le vendredi 8 h entrent sans payer ; l'annonce ne mentionne pas les hommes seuls."
+        },
+        {
+          "kind": "list",
+          "title": "Soirées VIP relevées sur le site et ses archives",
+          "items": [
+            "Vendredi 9 juin 2023",
+            "Vendredi 18 octobre 2024",
+            "Vendredi 26 septembre 2025",
+            "Vendredi 29 mai 2026",
+            "Vendredi 23 octobre 2026"
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le club ne précise pas si un compte gratuit suffit pour s'inscrire. Si un abonnement est demandé, faites le calcul : l'entrée offerte vaut 20 € pour un couple, alors que [la formule Wyylde à 8,33 € par mois](aff:wyylde) se règle en une fois pour douze mois (99,90 €) et se reconduit d'elle-même tant qu'on ne désactive pas le renouvellement."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s3",
+        "s8"
+      ]
+    },
+    {
+      "id": "public-et-regles",
+      "title": "Hommes seuls admis les deux soirs, et des coins câlins ouverts aux personnes habillées",
+      "icon": "users",
+      "summary": "Couples, femmes seules et hommes seuls entrent le vendredi comme le samedi, sans quota affiché ; aux hommes seuls, le club demande une tenue et une attitude correctes.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le vendredi comme le samedi, la porte est ouverte aux trois publics : aucun soir n'est réservé aux couples. Interrogé en 2018 dans ses témoignages, le club répondait qu'il est mixte et que les hommes seuls sont bienvenus si l'esprit est libertin, l'attitude et la tenue correctes."
+        },
+        {
+          "kind": "list",
+          "title": "Les règles affichées ou rappelées par le club",
+          "items": [
+            "Tenue correcte exigée, en tête de la page des soirées ; le thème devient obligatoire pour Halloween.",
+            "Téléphones interdits et déposés au vestiaire, rappelait le club en 2017 en réponse à une question sur les photos.",
+            "Des personnes habillées peuvent circuler dans les coins câlins : « c'est un club et non un sauna », répondait-il la même année."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le site ne publie ni quota d'hommes seuls ni système de réservation. Un témoignage de mars 2023 décrit un bon accueil des personnes trans et travesties ; en 2017, le club consacrait même ses mercredis après-midi à des rendez-vous « LGBT », absents des programmes depuis 2018."
+        }
+      ],
+      "sources": [
+        "s2",
+        "s3",
+        "s5",
+        "s8"
+      ]
+    },
+    {
+      "id": "acces-mas-llinas",
+      "title": "Chemin du Mas Llinas : une zone artisanale où Google Maps vaut mieux que Waze",
+      "icon": "map",
+      "summary": "Zone artisanale nord, sur un chemin qui mène aussi à un camping familial : visez le 1409 bis. Pas d'enseigne signalée en 2017 ; Google Maps conseillé plutôt que Waze en 2025.",
+      "confidence": "a_verifier",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le club se situe au 1409 bis chemin du Mas Llinas, dans la zone artisanale nord du Boulou ; il se présente lui-même comme installé entre Perpignan et l'Espagne. Le numéro existe dans la Base adresse nationale, à une soixantaine de mètres du repère Google Maps donné sur la page contact."
+        },
+        {
+          "kind": "text",
+          "body": "Le même chemin mène aussi au camping familial du Mas Llinas, un quatre-étoiles ouvert du 17 mars au 2 novembre 2026. Entrez donc le numéro, 1409 bis, et pas seulement le nom du chemin."
+        },
+        {
+          "kind": "text",
+          "body": "Trouver l'entrée de nuit a posé problème : en juin 2017, des visiteurs disaient n'avoir vu ni panneau ni enseigne, et le club répondait que Google Maps localisait bien l'adresse. Un message de novembre 2025 assure que le lieu existe bien et conseille Google Maps plutôt que Waze."
+        },
+        {
+          "kind": "text",
+          "body": "Pour le stationnement, les sources divergent : un annuaire mis en ligne en février 2026 parle d'un parking privé, un témoignage critique de juillet 2019 de six places. Le site du club ne dit rien à ce sujet."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s4",
+        "s5",
+        "s16",
+        "s18",
+        "s28",
+        "s29"
+      ]
+    },
+    {
+      "id": "les-autres-soirs",
+      "title": "Fermé du dimanche au jeudi : Rivesaltes et Perpignan ouvrent ces soirs-là",
+      "icon": "calendar",
+      "summary": "Les soirs où le Jet Club est fermé, L'Atlantis à Rivesaltes ouvre du mercredi au dimanche et Le Déstressium à Perpignan le lundi, le mercredi et le dimanche.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Sur les cinq jours où le club reste fermé, deux lieux du département dont l'activité est vérifiée en octobre 2026 prennent le relais :"
+        },
+        {
+          "kind": "list",
+          "items": [
+            "[L'Atlantis](/l-atlantis-rivesaltes), à Rivesaltes : mercredi et jeudi soir, jeudi et vendredi après-midi, dimanche de 17 h à 1 h, pour 20 € le couple et 35 € l'homme seul sur ces créneaux (grille relevée le 20/10/2026).",
+            "[Le Déstressium](/sauna-libertin-perpignan), sauna libertin de Perpignan : lundi de 18 h à minuit, mercredi de midi à minuit, dimanche de 14 h à 20 h, aux mêmes prix qu'au Jet Club ; son agenda réserve aussi des journées aux hommes."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Cinq jours sans soirée au Boulou, c'est aussi le temps de [préparer en semaine la rencontre du vendredi](aff:gleese) : Gleese diffuse des lives en HD chaque jour et permet d'échanger des messages vocaux, de quoi voir et entendre un couple avant de lui donner rendez-vous chemin du Mas Llinas."
+        },
+        {
+          "kind": "text",
+          "body": "Les autres adresses connues sont réunies sur la page des [lieux libertins des Pyrénées-Orientales](/departement/pyrenees-orientales)."
+        }
+      ],
+      "sources": [
+        "s2",
+        "s19",
+        "s20",
+        "s21"
+      ]
+    },
+    {
+      "id": "reprise-de-2016",
+      "title": "Rouvert en juin 2016 : de sept soirs sur sept en 2017 au seul week-end depuis août 2023",
+      "icon": "history",
+      "summary": "Ouvert tous les jours après sa reprise de juin 2016, le club a lancé en 2020 une cagnotte pour les clubs fermés par le Covid ; il n'ouvre que deux soirs depuis août 2023.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le domaine lejetclub.fr a été réservé le 11 avril 2016 ; à l'automne, l'accueil du site annonçait l'« ouverture Juin 2016 ». Le club présente toujours le couple qui le dirige, David et Alex, et un espace « totalement rénové » à la reprise. Le site a été archivé presque chaque mois depuis octobre 2016."
+        },
+        {
+          "kind": "table",
+          "caption": "Les jours d'ouverture successifs, d'après les archives du site",
+          "headers": [
+            "Période",
+            "Ouverture",
+            "Particularités"
+          ],
+          "rows": [
+            [
+              "Fin 2016",
+              "Tous les jours",
+              "Après-midi 14 h – 19 h en semaine ; vendredi et samedi 21 h – 4 h ; couples gratuits de 21 h à 22 h, puis 30 €"
+            ],
+            [
+              "2017",
+              "Semaine à thèmes, 7 soirs sur 7 l'été",
+              "Mercredi LGBT et jeudi « Jeud'X » l'après-midi, karaoké le vendredi, masseuse certains jours"
+            ],
+            [
+              "Été 2019",
+              "Tous les soirs, 21 h – 2 h en semaine",
+              "Lundi naturiste ; mardi « Girly » réservé aux couples et aux femmes"
+            ],
+            [
+              "Octobre 2019",
+              "Du jeudi au dimanche",
+              "Homme seul à 25 € le jeudi ; dimanche de 14 h à 2 h sans interruption"
+            ],
+            [
+              "Captures de mai et septembre 2020",
+              "Fermé",
+              "Page « Fermeture COVID-19 » sur le site"
+            ],
+            [
+              "Octobre 2020",
+              "Réouverture annoncée au 16 octobre",
+              "Vendredi, samedi et dimanche ; grille réduite aux après-midi du week-end au 23 octobre ; fermeture de nouveau affichée le 29 octobre"
+            ],
+            [
+              "Captures de novembre 2020 à septembre 2022",
+              "Fermé",
+              "Page « Fermeture COVID-19 » sur le site"
+            ],
+            [
+              "1er novembre 2022",
+              "Vendredi, samedi et dimanche",
+              "Réouverture après la crise sanitaire"
+            ],
+            [
+              "Depuis le 18 août 2023",
+              "Vendredi et samedi",
+              "Fin du dimanche non-stop ; couple à 20 € et femme à 10 €, au lieu de 30 € (gratuit avant 22 h) et de l'entrée libre"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Pendant le premier confinement, Alex et David ont ouvert sur le site une cagnotte « Solidarité Clubs Libertins », à partager à parts égales entre les clubs inscrits. Douze clubs de toute la France, jusqu'à La Réunion, y participaient ; le compteur affichait 257 € le 10 mai 2020, puis 467 € le 18 août."
+        },
+        {
+          "kind": "text",
+          "body": "Une page du site, non datée, annonçait aussi la soirée des 3 ans du club, avec shows, cadeaux et paella préparée par un traiteur."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s6",
+        "s7",
+        "s8",
+        "s9",
+        "s10",
+        "s22",
+        "s23",
+        "s24",
+        "s26"
+      ]
+    },
+    {
+      "id": "temoignages-et-note-google",
+      "title": "103 témoignages sur le site, une note Google relayée de 4,2 sur 5",
+      "icon": "star",
+      "summary": "103 messages de clients (2017-2025) sur le site, positifs pour la plupart et modérés par le club ; ailleurs, un avis à 1/5 (avril 2023) et une note Google relayée de 4,2/5.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le livre d'or du site compte 103 messages, datés du 9 mars 2017 au 1er novembre 2025 : 37 la première année, aucun entre juin 2020 et novembre 2022, puis cinq à dix par an. Le club les modère et y répond, ce qui en fait une vitrine plus qu'un relevé indépendant."
+        },
+        {
+          "kind": "text",
+          "body": "La grande majorité est positive. En mars 2017, un message remercie la « nouvelle direction » d'avoir remis à neuf un club laissé « dans un triste état » ; en 2019, un ancien client dit ne plus reconnaître l'endroit."
+        },
+        {
+          "kind": "list",
+          "title": "Les critiques publiées, avec réponse du club",
+          "items": [
+            "Des matelas usés, signalés en 2019 puis en 2024.",
+            "Le jacuzzi en panne depuis environ trois semaines, dans un message affiché au 10 mars 2025 mais ajouté après ceux de novembre 2025 (son image date du 10 mars 2026).",
+            "Une soirée naturiste du lundi désertée, en juillet 2019."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Hors du site, les avis sont rares. Sur l'annuaire Lieux Coquins, le seul avis publié (1/5, avril 2023) relate un refus d'entrée un soir où le parking semblait peu rempli, un accueil jugé agressif à la porte et des e-mails restés sans réponse."
+        },
+        {
+          "kind": "text",
+          "body": "L'annuaire Minuit Libertin affiche une note Google de 4,2/5 sur 62 avis, sans date de relevé ; nous ne l'avons pas vue sur Google."
+        }
+      ],
+      "sources": [
+        "s5",
+        "s15",
+        "s25"
+      ]
+    },
+    {
+      "id": "avant-2016",
+      "title": "Avant 2016 : le JetClub de 2009, puis un « Swing Club » rénové en 2015",
+      "icon": "building",
+      "summary": "Un club discothèque, sauna et jacuzzi existait sur ce chemin dès 2009, dit le plus actif du département en 2010 ; l'équipe actuelle n'est arrivée qu'en 2016.",
+      "blocks": [
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "Février 2005",
+              "text": "Le domaine lejetclub.com n'affiche qu'une page d'attente."
+            },
+            {
+              "date": "2009",
+              "text": "« Le JetClub », club discothèque, sauna et jacuzzi, ouvre du lundi au jeudi l'après-midi et le soir, et le week-end jusqu'à 5 h l'été. Couples gratuits l'après-midi ; le week-end, gratuits avant 22 h 30 puis 30 €, hommes seuls 40 € (25 € en semaine)."
+            },
+            {
+              "date": "Juillet 2010",
+              "text": "À l'ouverture d'un bar échangiste à Saint-Cyprien, le média en ligne La Clau présente l'établissement du Boulou comme le plus célèbre et le plus actif du département."
+            },
+            {
+              "date": "2015",
+              "text": "Le site, traduit en anglais et en espagnol, devient « Le Jet, Swing Club » et se réclame des créateurs de l'Aphrodite d'Avignon et de l'association SAS Europe."
+            },
+            {
+              "date": "2016 – 2021",
+              "text": "L'ancien domaine lejetclub.com renvoie vers un site de rencontres sans lien avec le club, expire fin 2019, puis est mis en vente à partir de 2021."
+            }
+          ]
+        },
+        {
+          "kind": "list",
+          "title": "Les installations annoncées en 2015",
+          "items": [
+            "Piste de danse avec DJ, bar et espace restaurant, avec un dîner aux chandelles le vendredi et le samedi.",
+            "Jacuzzi, sauna et solarium.",
+            "Salles réservées aux couples, salle trio, « piste obscure », « espace harem », zone gang bang et salle de massage."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Rien n'indique que ces espaces existent encore après la rénovation de 2016. La référence à l'Aphrodite d'Avignon concernait l'ancienne équipe, pas la direction actuelle."
+        }
+      ],
+      "sources": [
+        "s11",
+        "s12",
+        "s13",
+        "s14"
+      ]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Lundi": "Fermé",
+      "Mardi": "Fermé",
+      "Mercredi": "Fermé",
+      "Jeudi": "Fermé",
+      "Vendredi": "22h00 – 4h00",
+      "Samedi": "22h00 – 4h00",
+      "Dimanche": "Fermé"
+    },
+    "note": "Grille « à compter du 28/06/2026 », relue le 21 octobre 2026. L'heure d'ouverture change selon la saison : l'hiver dernier, le club ouvrait à 21 h à partir du 1er novembre 2025.",
+    "confidence": "confirme",
+    "sources": [
+      "s2",
+      "s7"
+    ]
+  },
+  "tarifs": {
+    "rows": {
+      "Couple (vendredi et samedi)": "20 €",
+      "Femme seule (vendredi et samedi)": "10 €",
+      "Homme seul (vendredi et samedi)": "40 €",
+      "Soirée VIP, couples et femmes inscrits sur Wyylde avant le vendredi 8 h": "Entrée offerte"
+    },
+    "note": "Buffet à volonté compris. Prix inchangés depuis le 18 août 2023.",
+    "confidence": "confirme",
+    "sources": [
+      "s2",
+      "s3",
+      "s7"
+    ]
+  },
+  "equipements": [
+    "Sauna",
+    "Jacuzzi",
+    "Discothèque (piste de danse)",
+    "Bar",
+    "Buffet à volonté"
+  ],
+  "officialLinks": [
+    {
+      "label": "Site officiel",
+      "url": "https://www.lejetclub.fr/",
+      "kind": "site"
+    },
+    {
+      "label": "Programme des soirées",
+      "url": "https://www.lejetclub.fr/nos-soirees-libertines",
+      "kind": "agenda"
+    }
+  ],
+  "corrections": {
+    "adresse": "1409 bis chemin du Mas Llinas",
+    "telephone": "07 68 90 60 75",
+    "email": "contact@lejetclub.fr",
+    "site_web": "https://www.lejetclub.fr/",
+    "sources": [
+      "s4"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Le Jet Club est-il ouvert le dimanche ou en semaine ?",
+      "answer": "Non. Depuis le 18 août 2023, le club n'ouvre que le vendredi et le samedi soir, et la grille en vigueur depuis le 28 juin 2026 le dit fermé du dimanche au jeudi. Le club le confirmait aussi dans une réponse publiée le 31 décembre 2024. Les annuaires qui annoncent un dimanche ou des après-midi recopient d'anciennes grilles du club."
+    },
+    {
+      "question": "Combien coûte l'entrée au Jet Club du Boulou ?",
+      "answer": "20 € pour un couple, 10 € pour une femme seule et 40 € pour un homme seul, buffet à volonté compris, au même prix le vendredi et le samedi. Les soirs VIP, l'entrée est offerte aux couples et aux femmes seules inscrits sur Wyylde avant le vendredi 8 h."
+    },
+    {
+      "question": "À quelle heure ouvre le Jet Club ?",
+      "answer": "À 22 h, jusqu'à 4 h, selon la grille du 28 juin 2026. L'horaire varie avec la saison : l'hiver dernier, l'ouverture passait à 21 h à partir du 1er novembre. Aucune grille d'hiver n'était publiée le 21 octobre 2026 : vérifiez la page Horaires & Tarifs du site avant de partir."
+    },
+    {
+      "question": "Un homme seul peut-il entrer au Jet Club ?",
+      "answer": "Oui, les deux soirs, pour 40 €. Le club se dit mixte et accueille les hommes seuls dont la tenue et l'attitude sont correctes. Son site n'affiche aucun quota ; seule la soirée VIP offre l'entrée aux couples et aux femmes, pas aux hommes seuls."
+    },
+    {
+      "question": "Faut-il être déguisé pour Halloween au Jet Club ?",
+      "answer": "Oui. Pour le samedi 31 octobre 2026, le club annonce un thème obligatoire, sans exception, comme l'an dernier. Une coupe de bulles est offerte à tous."
+    },
+    {
+      "question": "Comment trouver le Jet Club au Boulou de nuit ?",
+      "answer": "Visez le 1409 bis chemin du Mas Llinas, dans la zone artisanale nord. Un message de 2017 signalait une entrée difficile à repérer de nuit ; le club renvoie vers Google Maps, et un message de 2025 déconseille Waze. Le club se joint au 07 68 90 60 75."
+    },
+    {
+      "question": "Quels autres clubs libertins près de Perpignan sont ouverts ?",
+      "answer": "L'Atlantis, à Rivesaltes, ouvre du mercredi au dimanche, avec une entrée couple à 45 € le vendredi et le samedi soir. Le Déstressium, sauna libertin de Perpignan, affiche les mêmes prix de base que le Jet Club et ouvre aussi le lundi, le mercredi et le dimanche. Les deux sites affichaient une activité datée d'octobre 2026."
+    }
+  ],
+  "unverified": [
+    "La société qui exploite le club : le site n'a pas de mentions légales et le registre ne connaît aucune enseigne « Jet » au Boulou.",
+    "L'horaire de l'hiver 2026-2027 : un retour à 21 h, comme en novembre 2025, n'était pas annoncé au 21 octobre 2026.",
+    "La réouverture annoncée pour le 16 octobre 2020 : aucun témoignage ne confirme que le club a effectivement accueilli du public avant la fermeture affichée le 29 octobre.",
+    "Le parking : « privé » selon un annuaire de 2026, six places selon un témoignage de 2019.",
+    "Le hammam, la table de massage, la barre de pole dance, la « chambre fermée » et le fumoir cités par des clients entre 2017 et 2023.",
+    "La note Google de 4,2/5 sur 62 avis, relayée par un annuaire sans date et non vue sur Google.",
+    "Le 06 66 39 07 45 et l'adresse en lejetclub.com, relayés par d'anciens annuaires, ne figurent plus sur le site : nous ne savons pas s'ils fonctionnent encore.",
+    "Les comptes du club sur les réseaux sociaux : le site renvoie vers un profil Facebook illisible sans connexion."
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Site officiel, page d'accueil (présentation, gérants, bannière Wyylde)",
+      "url": "https://www.lejetclub.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s2",
+      "label": "Site officiel, « Horaires & Tarifs » (grille à compter du 28/06/2026)",
+      "url": "https://www.lejetclub.fr/horaires-tarifs-club-echangistes",
+      "type": "officiel",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s3",
+      "label": "Site officiel, « Nos soirées » (programme du 16 octobre au 6 novembre 2026, affiches mises en ligne les 4 et 11 octobre)",
+      "url": "https://www.lejetclub.fr/nos-soirees-libertines",
+      "type": "officiel",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s4",
+      "label": "Site officiel, page contact (adresse, téléphone, e-mail, repère Google Maps)",
+      "url": "https://www.lejetclub.fr/club-libertin-boulou-perpignan",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s5",
+      "label": "Site officiel, « Témoignages » : 103 messages de clients (2017-2025) et réponses du club",
+      "url": "https://www.lejetclub.fr/temoignages-le-jet-club?limit=0",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s6",
+      "label": "Site officiel, archive de l'accueil du 04/10/2016 (« ouverture Juin 2016 »)",
+      "url": "https://web.archive.org/web/20161004065406/http://www.lejetclub.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s7",
+      "label": "Site officiel, archives de « Horaires & Tarifs » (15 captures, octobre 2016 à juin 2026)",
+      "url": "https://web.archive.org/web/20161018135702/http://lejetclub.fr/horaires-tarifs-club-echangistes",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s8",
+      "label": "Site officiel, archives de « Nos soirées » (2017 à mai 2026)",
+      "url": "https://web.archive.org/web/20170512212707/http://lejetclub.fr/nos-soirees-libertines",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s9",
+      "label": "Historique des captures de lejetclub.fr (Wayback Machine, 2007-2026)",
+      "url": "https://web.archive.org/cdx/search/cdx?url=www.lejetclub.fr&fl=timestamp,statuscode&collapse=timestamp:6",
+      "type": "autre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s10",
+      "label": "Registre AFNIC du domaine lejetclub.fr (créé le 11/04/2016)",
+      "url": "https://rdap.nic.fr/domain/lejetclub.fr",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s11",
+      "label": "Ancien site lejetclub.com, archives 2009-2013 (« Le JetClub », horaires et tarifs de 2009)",
+      "url": "https://web.archive.org/web/20091009012733/http://lejetclub.com/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s12",
+      "label": "Ancien site lejetclub.com, archives 2015 (« Le Jet, Swing Club », installations)",
+      "url": "https://web.archive.org/web/20150527033447/http://lejetclub.com/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s13",
+      "label": "Devenir du domaine lejetclub.com (captures 2005-2025, en vente en 2026)",
+      "url": "https://web.archive.org/cdx/search/cdx?url=lejetclub.com&fl=timestamp,statuscode&collapse=timestamp:6",
+      "type": "autre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s14",
+      "label": "La Clau, « Le phénomène du libertinage se développe en Pays Catalan » (05/07/2010, archive)",
+      "url": "https://web.archive.org/web/20221130203547/https://www.la-clau.net/societe/saint-cyprien-un-bar-echangiste-derange-les-bonnes-moeurs-4719-22020/",
+      "type": "presse",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s15",
+      "label": "Minuit Libertin, fiche « Le Jet Club » (horaires et tarifs au 08/08/2025, note Google relayée)",
+      "url": "https://minuitlibertin.com/le-jet-club/",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s16",
+      "label": "saunaclublebali.fr, fiche « Le Jet Club » (ajoutée le 20/02/2026)",
+      "url": "https://www.saunaclublebali.fr/listing/le-jet-club-le-boulou/",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s17",
+      "label": "Registre des entreprises, recherches « jet club », « le jet » et « mas llinas » au Boulou (aucune enseigne Jet)",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=mas%20llinas&code_postal=66160",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s18",
+      "label": "Base adresse nationale, 1409 chemin du Mas Llinas, Le Boulou",
+      "url": "https://api-adresse.data.gouv.fr/search/?q=1409%20chemin%20du%20mas%20llinas%2066160%20le%20boulou",
+      "type": "carte",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s19",
+      "label": "L'Atlantis (Rivesaltes), site officiel : horaires et tarifs actuels (page modifiée le 14/10/2026)",
+      "url": "https://www.atlantis66.com/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s20",
+      "label": "Le Déstressium (Perpignan), site officiel : tarifs et horaires (page modifiée le 16/09/2026)",
+      "url": "https://ledestressium.fr/tarifs-horaires-libertin/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s21",
+      "label": "Le Déstressium, agenda (page modifiée le 15/10/2026)",
+      "url": "https://ledestressium.fr/agenda/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s22",
+      "label": "Site officiel, page « Les 3 Ans du JET CLUB » (non datée)",
+      "url": "https://www.lejetclub.fr/les-3-ans-du-jet-club",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s23",
+      "label": "Site officiel, archives de la page « Solidarité Clubs Libertins » (cagnotte, mai à décembre 2020)",
+      "url": "https://web.archive.org/web/20201203134852/http://lejetclub.fr/solidarite-clubs-libertins",
+      "type": "officiel",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s24",
+      "label": "Site officiel, archive de « Horaires & Tarifs » du 30/09/2020 (réouverture annoncée au 16/10/2020), puis captures du 29/10/2020 et suivantes (fermeture)",
+      "url": "https://web.archive.org/web/20200930053557/http://lejetclub.fr/horaires-tarifs-club-echangistes",
+      "type": "officiel",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s25",
+      "label": "Lieux Coquins, fiche « Le Jet Club » (un avis, 1/5, du 24/04/2023)",
+      "url": "https://www.lieuxcoquins.fr/lieu/le-jet-club/",
+      "type": "annuaire",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s26",
+      "label": "OOpss, page professionnelle « Le Jet Club » (grilles du 23/10/2020 et du 01/11/2022)",
+      "url": "https://www.oopss.fr/agenda-pro-le-jet-club-94461151506.html",
+      "type": "annuaire",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s27",
+      "label": "horairesdouverture24.fr, fiche « Le Jet Club » (reprend la grille officielle de mars 2018)",
+      "url": "https://www.horairesdouverture24.fr/filiale/Le%2520Boulou-Le%2520Jet%2520Club-1795743W.html",
+      "type": "annuaire",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s28",
+      "label": "Camping Le Mas Llinas, page contact (chemin du Mas Llinas, camping quatre étoiles)",
+      "url": "https://mas-llinas.com/en/contact/",
+      "type": "autre",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s29",
+      "label": "Pyrénées-Orientales Tourisme, « Camping Le Mas Llinas » (camping familial, ouvert du 17 mars au 2 novembre 2026)",
+      "url": "https://www.tourisme-pyreneesorientales.com/sorganiser/trouver-un-hebergement/campings-et-aires-de-camping-car/camping-le-mas-llinas-le-boulou-fr-5743172/",
+      "type": "autre",
+      "consulted": "2026-10-21"
+    }
+  ]
+}

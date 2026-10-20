@@ -1,0 +1,1144 @@
+{
+  "slug": "le-triton-narbonne",
+  "clubId": "19",
+  "researchedAt": "2026-10-20",
+  "display": {
+    "nom": "Le Triton",
+    "ville": "Narbonne"
+  },
+  "status": {
+    "value": "ouvert",
+    "summary": "Onze rendez-vous, du mardi 20 au samedi 31 octobre 2026, ont été mis en ligne le 29 septembre sur le site officiel, et le public y laissait encore des commentaires le 20 octobre au soir. La grille des tarifs a été mise à jour le 31 août 2026 ; la SAS DIMITTAS, exploitante depuis juillet 2024, a déposé ses comptes 2025 en juillet 2026.",
+    "sources": [
+      "s4",
+      "s5",
+      "s3",
+      "s9",
+      "s11"
+    ]
+  },
+  "seo": {
+    "title": "Le Triton à Narbonne : sauna libertin depuis 1998, avis et prix",
+    "metaDescription": "Sauna coquin mixte de 400 m² ouvert en 1998 : hammam, deux jacuzzis, douze salons. Femmes gratuites, couple 35 € le soir, Blackout bi le mardi.",
+    "subtitle": "Sauna libertin mixte de 400 m² sur deux niveaux à Narbonne (11), ouvert en 1998",
+    "targetQueries": [
+      "club libertin narbonne",
+      "sauna libertin narbonne",
+      "club echangiste narbonne",
+      "avis sur le triton - sauna libertin",
+      "le triton - sauna libertin photos",
+      "le triton - sauna libertin avis",
+      "libertin narbonne",
+      "libertinage narbonne",
+      "photos de le triton - sauna libertin",
+      "libertine narbonne",
+      "club libertain narbonne",
+      "spa libertin narbonne",
+      "boite echangiste narbonne",
+      "le triton - sauna libertin"
+    ]
+  },
+  "lead": "Ouvert en 1998 et présenté par le club comme le plus ancien établissement libertin de l'Aude, Le Triton est un « sauna coquin » de 400 m² qui revendique une mixité complète : couples, hommes seuls et femmes, ces dernières entrant gratuitement. Exploité depuis juillet 2024 par une nouvelle société, la SAS DIMITTAS, il ouvre l'après-midi du mardi au dimanche et quatre soirs par semaine, dont le mardi « Blackout », lumières coupées. Son agenda d'octobre 2026 court jusqu'à la soirée Halloween du samedi 31.",
+  "glance": [
+    {
+      "icon": "history",
+      "label": "Depuis",
+      "value": "1998, nouvel exploitant en 2024"
+    },
+    {
+      "icon": "clock",
+      "label": "Horaires",
+      "value": "Mar.-dim. 14 h-19 h ; 4 soirs 21 h-2 h"
+    },
+    {
+      "icon": "euro",
+      "label": "Entrée couple",
+      "value": "25 € l'après-midi · 35 € le soir"
+    },
+    {
+      "icon": "users",
+      "label": "Homme seul",
+      "value": "40 € l'après-midi · 45 € le soir"
+    },
+    {
+      "icon": "ruler",
+      "label": "Surface",
+      "value": "400 m², hammam, sauna, deux jacuzzis"
+    },
+    {
+      "icon": "flame",
+      "label": "Soirée phare",
+      "value": "Mardi Blackout, courant coupé, 100 % bi"
+    }
+  ],
+  "audience": [
+    {
+      "who": "couples",
+      "status": "oui",
+      "detail": "Chaque ouverture ; l'échange entre couples seuls n'est « pas notre priorité », dit le club",
+      "price": "25 à 35 €"
+    },
+    {
+      "who": "femmes",
+      "status": "oui",
+      "detail": "Entrée gratuite l'après-midi comme le soir, selon la grille officielle",
+      "price": "Gratuit"
+    },
+    {
+      "who": "hommes",
+      "status": "oui",
+      "detail": "Admis à chaque ouverture ; aucun quota publié, un avis de mai 2026 parle de sélection",
+      "price": "40 à 45 €"
+    },
+    {
+      "who": "trans",
+      "status": "inconnu",
+      "detail": "Le site cite les « travestis », admis gratuitement ; rien sur les personnes trans"
+    }
+  ],
+  "highlights": [
+    "Fermé le lundi ; le mercredi et le dimanche, ouverture l'après-midi seulement, de 14 h à 19 h.",
+    "Au bar, des boissons sans alcool offertes selon le club, qui ne mentionne aucun alcool ; un fumoir se trouve au rez-de-chaussée.",
+    "Le site ne publie ni règlement, ni dress code, ni conditions de vestiaire : appelez le 04 68 41 76 58 avant une première visite.",
+    "Le mardi soir, courant coupé : la soirée « Blackout » est annoncée « 100% bisexe », de 21 h à 2 h.",
+    "Itinéraire officiel : 28 bis avenue de Toulouse. Selon un avis de mai 2026, l'entrée est au bout d'une petite rue en impasse, invisible depuis l'avenue."
+  ],
+  "keyFacts": [
+    {
+      "label": "Ouverture",
+      "value": "1998",
+      "confidence": "confirme",
+      "sources": [
+        "s2",
+        "s14",
+        "s20"
+      ]
+    },
+    {
+      "label": "Ancienneté revendiquée",
+      "value": "« Le plus ancien établissement libertin de l'Aude », selon le club",
+      "confidence": "source_unique",
+      "sources": [
+        "s2",
+        "s14"
+      ]
+    },
+    {
+      "label": "Exploitant",
+      "value": "SAS DIMITTAS, depuis le 3 juillet 2024",
+      "confidence": "confirme",
+      "sources": [
+        "s7",
+        "s9",
+        "s11"
+      ]
+    },
+    {
+      "label": "Exploitant précédent",
+      "value": "SAS MARACUJA, à cette adresse de 2001 à 2024",
+      "confidence": "confirme",
+      "sources": [
+        "s10",
+        "s12",
+        "s38"
+      ]
+    },
+    {
+      "label": "Surface",
+      "value": "400 m² sur deux niveaux",
+      "confidence": "confirme",
+      "sources": [
+        "s2",
+        "s14",
+        "s16"
+      ]
+    },
+    {
+      "label": "Public admis",
+      "value": "Couples, hommes seuls, femmes et travestis (gratuit)",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s3"
+      ]
+    },
+    {
+      "label": "Jours d'ouverture",
+      "value": "Du mardi au dimanche, fermé le lundi",
+      "confidence": "confirme",
+      "sources": [
+        "s3",
+        "s23"
+      ]
+    },
+    {
+      "label": "Entrée couple",
+      "value": "25 € l'après-midi, 35 € le soir",
+      "confidence": "confirme",
+      "sources": [
+        "s3",
+        "s4"
+      ]
+    },
+    {
+      "label": "Bar",
+      "value": "Boissons sans alcool offertes, selon le club",
+      "confidence": "source_unique",
+      "sources": [
+        "s2",
+        "s24"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "mixite-hommes-seuls-femmes",
+      "title": "Femmes gratuites, hommes seuls admis : un sauna qui ne mise pas sur l'échange entre couples",
+      "icon": "users",
+      "summary": "Le club se dit « 100% mixte » : couples, hommes et femmes entrent à chaque ouverture, et la grille actuelle ne réserve aucun jour aux couples.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Sur son accueil, Le Triton se décrit comme un « sauna libertin au sens le plus large ». Il y défend la mixité, « couples, messieurs et dames », et écrit que les échanges entre couples seuls ne sont « pas notre priorité ». Qui cherche un club échangiste fermé aux hommes seuls n'y trouvera pas ce cadre."
+        },
+        {
+          "kind": "list",
+          "title": "Qui entre, d'après le site",
+          "items": [
+            "**Couples** : 25 € l'après-midi, 35 € le soir ; le site les veut « joueurs et partageurs ».",
+            "**Hommes seuls** : admis l'après-midi comme le soir, à 40 € puis 45 € ; le site les veut « joueurs et respectueux », sans publier de quota ni de condition d'entrée. Un avis déposé au Petit Futé en mai 2026 affirme pourtant qu'ils n'entrent « pas aussi facilement » que les couples.",
+            "**Femmes seules et travestis** : entrée gratuite à toute heure, d'après la grille officielle."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "La grille ne réserve aucun jour aux couples : elle applique les mêmes catégories du mardi au dimanche, et les affiches d'octobre 2026 annoncent un dimanche 25 « mixte » et un samedi 24 « 100% mixte »."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s3",
+        "s4",
+        "s34"
+      ]
+    },
+    {
+      "id": "agenda-fin-octobre-2026",
+      "title": "Glory hole le 24, masturbation le 29, Halloween le 31 : l'agenda de fin octobre 2026",
+      "icon": "calendar",
+      "summary": "Onze rendez-vous du 20 au 31 octobre 2026 : après-midi à thème le mercredi et le dimanche, soirées à thème le jeudi et le samedi, « toutes tendances » le vendredi.",
+      "blocks": [
+        {
+          "kind": "table",
+          "caption": "Programme mis en ligne le 29 septembre 2026 sur la page « Évènements – Soirées »",
+          "headers": [
+            "Date",
+            "Rendez-vous",
+            "Horaires"
+          ],
+          "rows": [
+            [
+              "Mardi 20 octobre",
+              "Black Out",
+              "21 h-2 h"
+            ],
+            [
+              "Mercredi 21 octobre",
+              "Après-midi toutes tendances",
+              "14 h-19 h"
+            ],
+            [
+              "Jeudi 22 octobre",
+              "Spécial douche",
+              "21 h-2 h"
+            ],
+            [
+              "Vendredi 23 octobre",
+              "Soirée toutes tendances",
+              "21 h-2 h"
+            ],
+            [
+              "Samedi 24 octobre",
+              "Soirée glory hole, « 100% mixte »",
+              "21 h-2 h"
+            ],
+            [
+              "Dimanche 25 octobre",
+              "Après-midi mixte",
+              "14 h-19 h"
+            ],
+            [
+              "Mardi 27 octobre",
+              "Mardi Blackout",
+              "21 h-2 h"
+            ],
+            [
+              "Mercredi 28 octobre",
+              "Après-midi toutes tendances",
+              "14 h-19 h"
+            ],
+            [
+              "Jeudi 29 octobre",
+              "Soirée masturbation",
+              "21 h-2 h"
+            ],
+            [
+              "Vendredi 30 octobre",
+              "Soirée toutes tendances",
+              "21 h-2 h"
+            ],
+            [
+              "Samedi 31 octobre",
+              "Soirée Halloween",
+              "21 h-2 h"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le site promet « 3 soirées spéciales » par semaine : en octobre, ce sont le Blackout du mardi et les thèmes du jeudi et du samedi. Des « 4 après-midi à thèmes » annoncés, seuls le mercredi et le dimanche ont leur affiche ce mois-ci."
+        },
+        {
+          "kind": "text",
+          "body": "Les affiches de soirée regardées portent toutes « couple 35 € / homme 45 € ». Le programme d'octobre a été publié d'un bloc le 29 septembre ; celui de novembre n'était pas encore en ligne le 21 octobre. Dès 2003, le jeudi était déjà le soir des thèmes : nuit noire, sado maso, massage."
+        }
+      ],
+      "sources": [
+        "s2",
+        "s4",
+        "s5",
+        "s16"
+      ]
+    },
+    {
+      "id": "mardi-blackout",
+      "title": "Le mardi, courant coupé : la soirée « Blackout » 100 % bi, déjà au programme en 2017",
+      "icon": "flame",
+      "summary": "Chaque mardi de 21 h à 2 h, le club coupe la lumière pour une soirée annoncée « 100% bisexe » ; un « Black Out » figurait déjà à l'agenda le mardi 6 juin 2017.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "L'affiche du mardi, mise en ligne en décembre 2025, promet une « coupure de courant » et une soirée « 100% bisexe », de 21 h à 2 h, au tarif habituel du soir. Le club y ajoute un slogan maison : « Souvent copié Jamais égalé »."
+        },
+        {
+          "kind": "text",
+          "body": "Le concept précède la reprise : le site de 2017 annonçait déjà une soirée « Black Out » le mardi 6 juin. La soirée bi, elle, a changé de jour. Affichée le vendredi en 2019, et encore en 2023 selon un blog, elle occupe le mardi en 2026, le vendredi étant devenu « toutes tendances »."
+        },
+        {
+          "kind": "text",
+          "body": "Le mardi ouvert à toutes les orientations n'est pas neuf non plus : en 2015 et 2016, le Petit Futé notait que « toutes les tendances » s'y retrouvaient, l'après-midi comme le soir."
+        },
+        {
+          "kind": "text",
+          "body": "Une soirée dans le noir se prépare mieux quand on a déjà entendu ses partenaires. Gleese, avec ses lives HD quotidiens et ses messages vocaux, permet d'[échanger quelques vocaux avant un premier Blackout](aff:gleese) plutôt que d'arriver sans repère."
+        }
+      ],
+      "sources": [
+        "s4",
+        "s19",
+        "s20",
+        "s29",
+        "s35"
+      ]
+    },
+    {
+      "id": "rez-de-chaussee-bains",
+      "title": "Hammam, sauna en bois et deux jacuzzis au rez-de-chaussée, ouverts dès 14 h",
+      "icon": "spa",
+      "summary": "En bas : douches, hammam, sauna en bois, deux jacuzzis, un bar aux boissons sans alcool offertes et un fumoir ; un patio avec terrasse prolonge l'ensemble.",
+      "blocks": [
+        {
+          "kind": "list",
+          "items": [
+            "**Bains** : douches, un hammam, un sauna en bois et deux jacuzzis.",
+            "**Bar** : boissons sans alcool, gratuites selon la page « Le Club », qui ne parle d'aucun alcool.",
+            "**Fumoir**, au même niveau que le bar.",
+            "**Patio** : terrasse semi-couverte, salon de détente et chaises longues « aux beaux jours ».",
+            "**Fournis** : préservatifs, lubrifiants, huile de massage et accessoires, d'après le site."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Ces espaces sont accessibles dès l'après-midi, de 14 h à 19 h du mardi au dimanche. Le nombre de bassins a varié d'une description à l'autre : « deux jolis bains à remous » en 2017, « un très beau bain à bulles » fin 2023, deux jacuzzis depuis septembre 2024."
+        },
+        {
+          "kind": "callout",
+          "tone": "info",
+          "body": "Le Petit Futé décrit toujours une « petite piste de danse avec barre d'exhibition et une cage ». Sa notice les cite dès 2015, et le site du club l'a reprise mot pour mot jusqu'en 2024. Depuis septembre 2024, la présentation officielle n'en parle plus : nous ignorons si elles existent encore."
+        }
+      ],
+      "sources": [
+        "s2",
+        "s14",
+        "s18",
+        "s21",
+        "s24",
+        "s34",
+        "s35"
+      ]
+    },
+    {
+      "id": "etage-salons-bdsm",
+      "title": "À l'étage, douze salons, une croix de Saint-André et un glory hole",
+      "icon": "lock",
+      "summary": "L'étage compte douze salons ouverts ou fermés, une pièce BDSM avec pilori, croix de Saint-André et balançoire, des boîtes à trous, un glory hole et une chambre noire.",
+      "blocks": [
+        {
+          "kind": "list",
+          "items": [
+            "Douze salons, ouverts ou fermés.",
+            "Une pièce BDSM : pilori, croix de Saint-André, balançoire.",
+            "De grandes boîtes à trous présentées comme « dédiées aux femmes », et un glory hole.",
+            "Une chambre noire et une « chambre à barreau »."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le chapô du reportage de L'Indépendant, en août 2025, cite lui aussi les douze salons et l'espace BDSM ; une légende photo y montre un salon qui s'ouvre ou se ferme au choix, devant des estampes érotiques."
+        },
+        {
+          "kind": "text",
+          "body": "Plusieurs espaces sont anciens : le site parlait d'un « donjon » dès 2003, de « pièces à trous » et de « salons vidéo » en 2017. Seuls les salons vidéo ne sont plus cités aujourd'hui."
+        }
+      ],
+      "sources": [
+        "s2",
+        "s14",
+        "s16",
+        "s18"
+      ]
+    },
+    {
+      "id": "photo-salon-led-violettes",
+      "title": "Une seule photo du lieu en ligne : un salon aux LED violettes et sa banquette rose",
+      "icon": "camera",
+      "summary": "Le site n'a pas de galerie : l'accueil montre une photo d'un salon éclairé en violet, le reste se compose d'affiches de soirée et d'illustrations.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Nous avons regardé l'unique photo du lieu publiée sur l'accueil : un salon baigné de LED violettes, une banquette rose et, au mur, une toile en cinq panneaux où des lèvres laissent couler une peinture rouge parmi des éclaboussures roses."
+        },
+        {
+          "kind": "text",
+          "body": "Le reste du site montre des illustrations et les affiches des soirées. La page Facebook du club, liée depuis l'accueil, ne se lit pas sans compte. Le site de 2017 avait des rubriques de photos de soirées et de photos diverses, que nous n'avons pas consultées."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s4",
+        "s25"
+      ]
+    },
+    {
+      "id": "reprise-juillet-2024",
+      "title": "Racheté 56 600 € en juillet 2024 : lundi fermé, couple à 35 € et homme seul à 45 € le soir",
+      "icon": "building",
+      "summary": "La SAS DIMITTAS rachète le fonds le 3 juillet 2024. Entre avril et fin juillet, le lundi ferme, le mercredi perd sa soirée et chaque entrée prend 5 € ; grille inchangée depuis.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le registre date le changement d'exploitant : la SAS DIMITTAS, immatriculée le 19 juin 2024 au capital de 500 €, achète le 3 juillet le fonds du 28 avenue de Toulouse pour 56 600 €, dont 10 860 € de matériel. Elle figure comme propriétaire du site dans les mentions légales, modifiées le 5 juillet 2024."
+        },
+        {
+          "kind": "list",
+          "title": "Entre la grille d'avril et celle de fin juillet 2024",
+          "items": [
+            "Le lundi, ouvert l'après-midi seulement en avril, devient jour de fermeture.",
+            "Le mercredi perd sa soirée et n'ouvre plus que l'après-midi, comme le dimanche.",
+            "Chaque entrée payante prend 5 €, si bien que l'écart entre un homme seul et un couple ne bouge pas : 15 € l'après-midi, 10 € le soir."
+          ]
+        },
+        {
+          "kind": "table",
+          "caption": "Prix d'entrée selon les grilles officielles successives (site et archives)",
+          "headers": [
+            "Relevé",
+            "Couple",
+            "Homme seul",
+            "Femme seule"
+          ],
+          "rows": [
+            [
+              "Février 2004",
+              "20 € (dimanche) à 31 € (samedi soir)",
+              "25 € (après-midi) à 35 € (nocturne, dimanche)",
+              "Non indiqué"
+            ],
+            [
+              "Décembre 2019",
+              "Offert certains après-midi, sinon 20 à 30 €",
+              "20 à 40 € selon le jour",
+              "Non indiqué"
+            ],
+            [
+              "Avril 2024",
+              "20 € après-midi, 30 € soir",
+              "35 € après-midi, 40 € soir",
+              "Gratuit"
+            ],
+            [
+              "Juillet 2024 à octobre 2026",
+              "25 € après-midi, 35 € soir",
+              "40 € après-midi, 45 € soir",
+              "Gratuit"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le vendeur, la SAS MARACUJA, avait un établissement à cette adresse depuis 2001 ; l'annonce légale de la vente dit le fonds « connu sous le nom commercial LE TRITON ». Cessation d'activité déclarée en août 2024, dissolution et liquidation amiable décidées le 17 janvier 2025, radiation le 31 janvier, publiée au BODACC en avril."
+        },
+        {
+          "kind": "text",
+          "body": "DIMITTAS déclare une activité de « centre de relaxation, hammam, sauna » ; ses comptes 2024 et 2025 ont été déposés, sans être publiés."
+        }
+      ],
+      "sources": [
+        "s3",
+        "s4",
+        "s5",
+        "s7",
+        "s9",
+        "s10",
+        "s11",
+        "s12",
+        "s16",
+        "s20",
+        "s22",
+        "s23",
+        "s38"
+      ]
+    },
+    {
+      "id": "avis-petit-fute-google",
+      "title": "Quatre avis au Petit Futé, 23 avis Google relayés : la propreté revient d'un avis à l'autre",
+      "icon": "star",
+      "summary": "Le Petit Futé affiche 5/5 sur quatre avis de 2014 à 2026 ; un annuaire relaie 4,6/5 sur 23 avis Google, mis à jour le 8 mai 2026. Propreté et accueil dominent.",
+      "blocks": [
+        {
+          "kind": "table",
+          "caption": "Notes publiques relevées au 21 octobre 2026",
+          "headers": [
+            "Où",
+            "Note",
+            "Nombre d'avis",
+            "Date"
+          ],
+          "rows": [
+            [
+              "Petit Futé, avis de membres (lus sur le site)",
+              "5/5",
+              "4 (2014, 2018, 2024, 2026)",
+              "Dernier avis le 18 mai 2026"
+            ],
+            [
+              "Google, relayé par un annuaire",
+              "4,6/5",
+              "23",
+              "Mise à jour du 8 mai 2026"
+            ],
+            [
+              "Google, relayé par un blog",
+              "4,8/5",
+              "8",
+              "Affiché dès août 2025"
+            ],
+            [
+              "Google, relayé par un autre blog",
+              "4,1/5",
+              "Non indiqué",
+              "Affiché dès octobre 2022"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Les deux avis du Petit Futé postérieurs à la reprise, d'octobre 2024 et de mai 2026, comme les dix extraits Google repris par l'annuaire, insistent sur la propreté, l'accueil de la direction et une clientèle respectueuse. Plusieurs émanent de couples venus pendant leurs vacances."
+        },
+        {
+          "kind": "text",
+          "body": "Nous n'avons pas vu les notes Google sur Google même : prenez-les comme des ordres de grandeur. La fiche Google du club s'intitule « Le Triton - Sauna Libertin »."
+        }
+      ],
+      "sources": [
+        "s28",
+        "s34",
+        "s36",
+        "s37"
+      ]
+    },
+    {
+      "id": "histoire-1998-2024",
+      "title": "De 1998 à 2024 : un « donjon » dès 2003, sept jours sur sept en 2019",
+      "icon": "history",
+      "summary": "Ouvert en 1998, probablement en décembre, Le Triton a connu trois sites successifs ; on y lit un « donjon » dès 2003 et une ouverture tous les jours en 2019.",
+      "blocks": [
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "1998",
+              "text": "Ouverture, selon le site (« depuis 1998 ») et L'Indépendant. Un « anniversaire du Triton » fêté le 18 décembre 2003 et une soirée « 21ans » le 8 décembre 2019 laissent penser à une ouverture en décembre."
+            },
+            {
+              "date": "2003-2004",
+              "text": "Premier site archivé : 400 m², sauna, hammam, bains à remous, « donjon », et un compteur à 120 973 visiteurs. Le samedi soir est réservé aux couples, sauf le dernier du mois, ouvert aux hommes seuls « sur sélection »."
+            },
+            {
+              "date": "2010",
+              "text": "Une liste des établissements libertins de France donne déjà l'adresse et le numéro de téléphone actuels."
+            },
+            {
+              "date": "2015-2016",
+              "text": "Le Petit Futé décrit un club ouvert tous les jours, dimanche jusqu'à 21 h. Le premier samedi du mois est réservé aux couples, le mardi ouvert à « toutes les tendances » ; en 2016, l'entrée est offerte aux couples le lundi et le mercredi après-midi."
+            },
+            {
+              "date": "2017",
+              "text": "Nouveau site, avec petites annonces. Il cite « deux jolis bains à remous », des salons vidéo et un gâteau offert aux dames le jour de leur anniversaire."
+            },
+            {
+              "date": "2019",
+              "text": "Ouvert tous les jours, avec des après-midi gang bang « offert aux couples » le lundi, le mercredi et le vendredi."
+            },
+            {
+              "date": "2020",
+              "text": "Le site passe sous WordPress ; il est redessiné en février 2025."
+            }
+          ]
+        }
+      ],
+      "sources": [
+        "s2",
+        "s5",
+        "s14",
+        "s16",
+        "s18",
+        "s20",
+        "s25",
+        "s30",
+        "s35"
+      ]
+    },
+    {
+      "id": "narbonne-deux-adresses",
+      "title": "Avenue de Toulouse ou avenue de la Coupé : les deux adresses libertines de Narbonne",
+      "icon": "map",
+      "summary": "Le Triton partage Narbonne avec Histoires d'Ô, balnéo-club de l'avenue de la Coupé ; Sexynine, à Montredon-des-Corbières, est fermé depuis 2013.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "En novembre 2025, L'Indépendant comptait trois établissements libertins dans l'Aude, deux à Narbonne et un à Carcassonne. Les annuaires de 2025-2026 nomment les mêmes : Le Triton, Histoires d'Ô et Le Jul's."
+        },
+        {
+          "kind": "table",
+          "caption": "Les deux lieux narbonnais, d'après leurs sites consultés le 20 octobre 2026",
+          "headers": [
+            "",
+            "Le Triton",
+            "Histoires d'Ô"
+          ],
+          "rows": [
+            [
+              "Adresse",
+              "28 bis avenue de Toulouse",
+              "10 avenue de la Coupé"
+            ],
+            [
+              "Lundi",
+              "Fermé",
+              "Dès 13 h 30, fermé le soir"
+            ],
+            [
+              "Mardi au vendredi",
+              "14 h-19 h ; soirée sauf le mercredi",
+              "13 h 30-2 h, mixte"
+            ],
+            [
+              "Samedi soir",
+              "Soirée à thème, hommes seuls au tarif du soir",
+              "Dès 20 h, couples et femmes seules"
+            ],
+            [
+              "Agenda publié",
+              "Jusqu'au 31 octobre 2026",
+              "Jusqu'au 30 novembre 2026"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Sexynine, à Montredon-des-Corbières, est [fermé depuis 2013](/sexynine-narbonne) : sa société exploitante a été placée en liquidation judiciaire le 8 octobre de cette année-là. Le Jul's, à Carcassonne, se présente comme un sauna gay, mixte le samedi jusqu'à 22 h ; nous n'y avons pas trouvé d'activité datée récente."
+        },
+        {
+          "kind": "text",
+          "body": "Le Triton affiche une bannière Wyylde sur son accueil. Sur ce site, la certification des profils, facultative, limite les faux comptes : de quoi [repérer des profils certifiés autour de Narbonne](aff:wyylde) avant de choisir entre les deux adresses de la ville. Les autres lieux du département sont réunis sur [la page de l'Aude](/departement/aude)."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s15",
+        "s26",
+        "s27",
+        "s31",
+        "s32",
+        "s33"
+      ]
+    },
+    {
+      "id": "acces-28-bis-avenue-de-toulouse",
+      "title": "28 bis avenue de Toulouse : une impasse en 2026, l'arrière d'un tapissier auto en 2003",
+      "icon": "car",
+      "summary": "L'itinéraire officiel mène au 28 bis avenue de Toulouse ; selon un avis de mai 2026, l'entrée est au bout d'une petite rue en impasse, invisible depuis l'avenue.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le site écrit « 28 Avenue de Toulouse » en pied de page, mais son lien « Comment venir », ses mentions légales et le registre des entreprises donnent le 28 bis. Le code postal est 11100 : le « 11000 » des mentions légales est une coquille."
+        },
+        {
+          "kind": "text",
+          "body": "Un avis déposé au Petit Futé en mai 2026 décrit l'arrivée : l'entrée ne donne pas sur l'avenue mais se trouve au bout d'une petite rue adjacente, en impasse, dans un quartier pavillonnaire ; elle est bien éclairée le soir. C'est le seul témoignage récent sur l'accès que nous ayons trouvé."
+        },
+        {
+          "kind": "text",
+          "body": "En décembre 2003, le site guidait les visiteurs depuis la sortie d'autoroute Narbonne Sud, direction Carcassonne, vers une enseigne posée sur la façade d'un tapissier auto, le club occupant l'arrière du même bâtiment. Le registre recense toujours à cette adresse une sellerie automobile, active depuis 2017, et une menuiserie métallique, depuis fin 2022."
+        },
+        {
+          "kind": "text",
+          "body": "Le stationnement dans la rue serait « assez facile », selon la notice du Petit Futé, que le site du club a reprise jusqu'en septembre 2024 ; la version actuelle n'en parle plus. Pour joindre le club : le 04 68 41 76 58 ou le formulaire de la page contact, le site n'affichant aucune adresse e-mail."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s7",
+        "s8",
+        "s9",
+        "s13",
+        "s16",
+        "s24",
+        "s34",
+        "s39"
+      ]
+    },
+    {
+      "id": "annonces-en-commentaires",
+      "title": "Depuis décembre 2025, on s'annonce en commentaire sous la soirée choisie",
+      "icon": "heart",
+      "summary": "Les petites annonces du site sont devenues des commentaires : chacun écrit sous la soirée visée s'il vient et ce qu'il attend ; seize messages du 29 septembre au 20 octobre 2026.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "La page « RDV & annonces », modifiée le 11 décembre 2025, présente la « nouvelle organisation » : plus de rubrique d'annonces, mais des commentaires sous chaque soirée, où l'on indique si l'on participe et ce que l'on attend. Le site avait déjà une rubrique de petites annonces en 2017."
+        },
+        {
+          "kind": "text",
+          "body": "Seize commentaires ont été publiés du 29 septembre au 20 octobre 2026 (relevé du 21 octobre) ; nous ne les reproduisons pas. Le dispositif a deux limites : tout y est public, et le volume reste modeste."
+        },
+        {
+          "kind": "text",
+          "body": "Pour préparer une soirée hors de cette vitrine, Carré Libertin annonce environ 20 000 membres actifs chaque semaine. Ses annonces permettent de [lire ce que cherchent les membres avant de leur écrire](aff:carre-libertin), puis de proposer un jeudi ou un samedi à thème au Triton à des partenaires choisis."
+        }
+      ],
+      "sources": [
+        "s5",
+        "s6",
+        "s25"
+      ]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Lundi": "Fermé",
+      "Mardi": "14 h-19 h et 21 h-2 h",
+      "Mercredi": "14 h-19 h (fermé le soir)",
+      "Jeudi": "14 h-19 h et 21 h-2 h",
+      "Vendredi": "14 h-19 h et 21 h-2 h",
+      "Samedi": "14 h-19 h et 21 h-2 h",
+      "Dimanche": "14 h-19 h (fermé le soir)"
+    },
+    "note": "Page officielle « Tarifs & Horaires », mise à jour le 31 août 2026 ; grille inchangée depuis juillet 2024.",
+    "confidence": "confirme",
+    "sources": [
+      "s3",
+      "s23"
+    ]
+  },
+  "tarifs": {
+    "rows": {
+      "Couple, après-midi": "25 €",
+      "Couple, soirée": "35 €",
+      "Homme seul, après-midi": "40 €",
+      "Homme seul, soirée": "45 €",
+      "Femme seule": "Gratuit",
+      "Travesti": "Gratuit"
+    },
+    "note": "Prix de la page officielle (31 août 2026), confirmés pour les soirées par les affiches d'octobre 2026. Le site ne précise pas ce que comprend l'entrée, sinon les boissons sans alcool offertes.",
+    "confidence": "confirme",
+    "sources": [
+      "s3",
+      "s4",
+      "s2"
+    ]
+  },
+  "equipements": [
+    "Hammam",
+    "Sauna",
+    "Jacuzzi (deux)",
+    "Douches",
+    "Bar sans alcool",
+    "Fumoir",
+    "Patio avec terrasse",
+    "Douze salons",
+    "Pièce BDSM",
+    "Boîtes à trous",
+    "Glory hole",
+    "Chambre noire"
+  ],
+  "externalRatings": [
+    {
+      "platform": "Petit Futé (avis de membres, 2014 à 2026)",
+      "rating": 5,
+      "scale": 5,
+      "count": 4,
+      "date": "2026-10-21",
+      "url": "https://www.petitfute.com/v18543-narbonne-11100/c9998-coquin/c1044-s-amuser-sortir/c208-sauna/604620-le-triton.html"
+    }
+  ],
+  "officialLinks": [
+    {
+      "label": "Site officiel",
+      "url": "https://www.le-triton.com/",
+      "kind": "site"
+    },
+    {
+      "label": "Agenda des soirées",
+      "url": "https://www.le-triton.com/les-soirees-au-triton/",
+      "kind": "agenda"
+    },
+    {
+      "label": "Tarifs et horaires",
+      "url": "https://www.le-triton.com/tarifs-horaires/",
+      "kind": "autre"
+    },
+    {
+      "label": "Page Facebook (liée depuis le site)",
+      "url": "https://www.facebook.com/letriton2024saunalibertinnarbonne",
+      "kind": "facebook"
+    }
+  ],
+  "corrections": {
+    "adresse": "28 bis avenue de Toulouse",
+    "site_web": "https://www.le-triton.com/",
+    "sources": [
+      "s1",
+      "s7",
+      "s9"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Quels clubs libertins sont ouverts à Narbonne ?",
+      "answer": "Deux lieux publient une activité datée en octobre 2026 : Le Triton, sauna libertin ouvert depuis 1998 avenue de Toulouse, dont l'agenda court jusqu'au 31 octobre, et Histoires d'Ô, balnéo-club de l'avenue de la Coupé, programmé jusqu'au 30 novembre. Sexynine, à Montredon-des-Corbières, a fermé en 2013. Tous les lieux recensés figurent sur [la page des clubs libertins de Narbonne](/ville/narbonne)."
+    },
+    {
+      "question": "Le Triton est-il un sauna ou un club échangiste ?",
+      "answer": "Les deux, avec une nuance. Le rez-de-chaussée est un espace de bains (hammam, sauna en bois, deux jacuzzis) ouvert l'après-midi, l'étage aligne douze salons et une pièce BDSM. Mais le club se veut mixte et écrit que l'échange entre couples seuls n'est « pas notre priorité » : il relève des [saunas libertins mixtes](/sauna-libertin) plus que des clubs réservés aux couples."
+    },
+    {
+      "question": "Quels sont les avis sur Le Triton ?",
+      "answer": "Le Petit Futé affiche 5 sur 5 pour quatre avis de membres, dont deux postérieurs au changement d'exploitant (octobre 2024 et mai 2026). Un annuaire relaie une note Google de 4,6 sur 5 pour 23 avis, mise à jour le 8 mai 2026, que nous n'avons pas vérifiée sur Google ; un blog en annonçait 4,8 pour 8 avis dès août 2025. Les avis récents saluent surtout la propreté et l'accueil ; dans sa partie publique, le reportage de L'Indépendant d'août 2025 présente un club qui « résiste depuis 1998 »."
+    },
+    {
+      "question": "Où voir des photos du Triton ?",
+      "answer": "Le site officiel n'a pas de galerie : une photo de salon sur l'accueil, des affiches de soirée et des illustrations. La page Facebook liée au site demande un compte."
+    },
+    {
+      "question": "Combien paie un homme seul, et y a-t-il une limite ?",
+      "answer": "40 € l'après-midi et 45 € le soir, d'après la grille en ligne depuis juillet 2024 au moins, contre 25 € et 35 € pour un couple. Le site ne publie ni quota ni condition d'entrée particulière, et ne parle pas de réservation ; un avis de mai 2026 évoque toutefois une sélection des hommes seuls à la porte. En cas de doute, appelez le 04 68 41 76 58."
+    },
+    {
+      "question": "Le Triton est-il ouvert le lundi ?",
+      "answer": "Non : le lundi est fermé, d'après la grille en ligne depuis fin juillet 2024 au moins. Le mercredi et le dimanche, le club n'ouvre que l'après-midi, de 14 h à 19 h. À Narbonne, Histoires d'Ô ouvre le lundi dès 13 h 30, selon son site."
+    }
+  ],
+  "unverified": [
+    "Note Google actuelle : non vue sur Google même ; des annuaires relaient 4,8 sur 5 pour 8 avis (dès août 2025), puis 4,6 sur 5 pour 23 avis (mise à jour du 8 mai 2026).",
+    "Existence actuelle de la piste de danse, de la barre d'exhibition et de la cage, que décrit encore la notice du Petit Futé.",
+    "Vestiaire, serviettes, dress code, règlement intérieur : rien sur le site actuel ; seule la notice du Petit Futé de 2015 mentionnait un passage par le vestiaire. Un blog indique « tenue correcte exigée », mais la même mention figure pour tous les clubs de sa liste : non retenu.",
+    "Règles d'accès propres au week-end et sélection éventuelle à l'entrée : le site applique la même grille du mardi au dimanche et n'en dit pas plus.",
+    "Identité et projet des repreneurs de 2024 : le club ne les présente pas ; seul le registre date le changement d'exploitant.",
+    "Accueil des personnes trans : le site ne parle que des « travestis », admis gratuitement ; deux annuaires de 2025-2026 écrivent « trans », sans source officielle.",
+    "Mois exact de l'ouverture en 1998 : décembre probable, d'après les anniversaires fêtés en 2003 et 2019.",
+    "Accès : l'entrée au bout d'une impasse ne repose que sur un avis de mai 2026 ; le stationnement « assez facile » vient d'une notice du Petit Futé en ligne depuis 2020 au moins.",
+    "L'adresse e-mail letriton@le-triton.com, reprise par des annuaires, n'apparaît plus sur le site officiel, qui renvoie vers un formulaire.",
+    "Contenu de la page Facebook (publications, abonnés) : inaccessible sans compte.",
+    "Quota ou filtrage des hommes seuls, âge du public : rien sur le site officiel ; un seul avis client (mai 2026) parle de sélection, et le reportage de L'Indépendant (août 2025) n'est lisible en entier que par ses abonnés."
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Site officiel, accueil (présentation, bannières, coordonnées, lien d'itinéraire, photo du salon)",
+      "url": "https://www.le-triton.com/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s2",
+      "label": "Site officiel, page « Le Club » (espaces, 400 m², depuis 1998), modifiée le 21/07/2026",
+      "url": "https://www.le-triton.com/le-triton/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s3",
+      "label": "Site officiel, page « Tarifs & Horaires », modifiée le 31/08/2026",
+      "url": "https://www.le-triton.com/tarifs-horaires/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s4",
+      "label": "Site officiel, page « Évènements – Soirées » et affiches (octobre 2026, Blackout de décembre 2025)",
+      "url": "https://www.le-triton.com/les-soirees-au-triton/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s5",
+      "label": "Site officiel, données publiques WordPress (dates de publication des soirées et des pages, commentaires)",
+      "url": "https://www.le-triton.com/wp-json/wp/v2/posts",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s6",
+      "label": "Site officiel, page « RDV & annonces », modifiée le 11/12/2025",
+      "url": "https://www.le-triton.com/les-annonces-coquines-du-triton/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s7",
+      "label": "Site officiel, mentions légales (SAS DIMITTAS, 28 bis avenue de Toulouse)",
+      "url": "https://www.le-triton.com/mentions-legales/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s8",
+      "label": "Site officiel, page « Contact / FAQ » (téléphone, formulaire)",
+      "url": "https://www.le-triton.com/contact-faq/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s9",
+      "label": "Registre des entreprises, SAS DIMITTAS (SIREN 929 646 206)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/929646206",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s10",
+      "label": "Registre des entreprises, SAS MARACUJA (SIREN 434 573 549), établissement du 28 avenue de Toulouse de 2001 à 2024",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/434573549",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s11",
+      "label": "BODACC, annonces de DIMITTAS : immatriculation (06/2024), achat du fonds à MARACUJA pour 56 600 € (07/2024), comptes 2024 et 2025",
+      "url": "https://bodacc-datadila.opendatasoft.com/explore/dataset/annonces-commerciales/",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s12",
+      "label": "BODACC, annonces de MARACUJA : cessation d'activité (08/2024), dissolution et radiation (2025)",
+      "url": "https://bodacc-datadila.opendatasoft.com/explore/dataset/annonces-commerciales/",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s13",
+      "label": "Registre des entreprises, établissements enregistrés autour du 28 avenue de Toulouse",
+      "url": "https://recherche-entreprises.api.gouv.fr/near_point?lat=43.1824394&long=2.9949858&radius=0.15",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s14",
+      "label": "L'Indépendant, « À Narbonne, le club libertin Le Triton résiste depuis 1998… », 22/08/2025 (titre, chapô et légende d'ouverture publics ; suite réservée aux abonnés)",
+      "url": "https://www.lindependant.fr/2025/08/22/a-narbonne-le-club-libertin-le-triton-resiste-depuis-1998-et-simpose-comme-un-incontournable-lieu-de-liberte-12880589.php",
+      "type": "presse",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s15",
+      "label": "L'Indépendant, « DOSSIER. Libertinage : des pratiques sexuelles à la hausse… », 01/11/2025",
+      "url": "https://www.lindependant.fr/2025/11/01/dossier-libertinage-des-pratiques-sexuelles-a-la-hausse-qui-ne-sont-pas-quune-affaire-de-jambes-en-lair-13004110.php",
+      "type": "presse",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s16",
+      "label": "Site officiel, archives de 2003-2004 (présentation, soirées du jeudi, horaires, tarifs, accès)",
+      "url": "https://web.archive.org/web/20031211224627/http://www.le-triton.com/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s18",
+      "label": "Site officiel, page « services » (archive du 19/02/2017)",
+      "url": "https://web.archive.org/web/20170219005228/http://le-triton.com/services",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s19",
+      "label": "Site officiel, soirée « Black Out » du mardi 6 juin 2017 (archive)",
+      "url": "https://web.archive.org/web/20170606061727/http://le-triton.com/soiree/black-out-10",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s20",
+      "label": "Site officiel, tarifs, horaires et soirée « 21ans » (archives de décembre 2019)",
+      "url": "https://web.archive.org/web/20191229172748/http://le-triton.com/tarifs",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s21",
+      "label": "Site officiel, page « Le Club » (archive du 07/12/2023)",
+      "url": "https://web.archive.org/web/20231207013434/https://www.le-triton.com/le-triton/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s22",
+      "label": "Site officiel, « Tarifs & Horaires » (archive du 13/04/2024, ouvert 7 jours sur 7)",
+      "url": "https://web.archive.org/web/20240413183758/https://www.le-triton.com/tarifs-horaires/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s23",
+      "label": "Site officiel, « Tarifs & Horaires » (archive du 24/07/2024, grille actuelle)",
+      "url": "https://web.archive.org/web/20240724083826/https://www.le-triton.com/tarifs-horaires/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s24",
+      "label": "Site officiel, page « Le Club » (archive du 07/09/2024)",
+      "url": "https://web.archive.org/web/20240907183820/https://www.le-triton.com/le-triton/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s25",
+      "label": "Internet Archive, historique des captures de le-triton.com (2003-2026)",
+      "url": "https://web.archive.org/cdx/search/cdx?url=le-triton.com",
+      "type": "autre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s26",
+      "label": "saunaclublebali.fr, « Clubs libertins Aude (11) » (06/03/2026)",
+      "url": "https://www.saunaclublebali.fr/clubs-libertins-aude-11/",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s27",
+      "label": "minuitlibertin.com, « Trouvez un club libertin à Narbonne » (modifié le 03/08/2026)",
+      "url": "https://minuitlibertin.com/trouvez-un-club-libertin-a-narbonne/",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s28",
+      "label": "toprencontre.fr, « Les 4 meilleurs clubs libertins à Narbonne » (publié le 06/10/2022, modifié le 24/03/2025 ; « 4.1 étoiles sur Google » sans nombre d'avis, déjà affiché en octobre 2022)",
+      "url": "https://toprencontre.fr/club-libertin-narbonne/",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s29",
+      "label": "monpetitdate.fr, « Ma short-list des meilleurs clubs libertins à Narbonne » (12/2023)",
+      "url": "https://www.monpetitdate.fr/club-libertin-narbonne/",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s30",
+      "label": "anneaudejustine.com, « Liste des établissements libertins en France » (11/2010)",
+      "url": "https://www.anneaudejustine.com/2010/11/liste-des-etablissements-libertins-en-france/",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s31",
+      "label": "Histoires d'Ô Narbonne, site officiel (accueil, horaires, agenda jusqu'au 30/11/2026)",
+      "url": "https://www.histoiresdo-narbonne.com/fr/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s32",
+      "label": "Le Jul's (Carcassonne), site officiel",
+      "url": "https://saunalejuls.com/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s33",
+      "label": "BODACC, 22/10/2013 : liquidation judiciaire de CORBIERES LOISIRS (Sexynine), jugement du 8 octobre 2013",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A201302041451",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s34",
+      "label": "Petit Futé, fiche « Le Triton » : quatre avis de membres (22/10/2014 au 18/05/2026, note 5/5) et notice éditoriale « Recommandé 2026 »",
+      "url": "https://www.petitfute.com/v18543-narbonne-11100/c9998-coquin/c1044-s-amuser-sortir/c208-sauna/604620-le-triton.html",
+      "type": "avis",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s35",
+      "label": "Petit Futé, archives de la fiche « Le Triton » (14/09/2015, 14/07/2016, 22/10/2019, 22/10/2020)",
+      "url": "https://web.archive.org/web/20150914000353/https://www.petitfute.com/v18543-narbonne-11100/c9998-coquin/c1044-s-amuser-sortir/c208-sauna/604620-le-triton.html",
+      "type": "annuaire",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s36",
+      "label": "lieuxlibertins.fr, fiche « Le Triton - Sauna Libertin » (note Google relayée : 4,6/5 sur 23 avis, mise à jour du 08/05/2026)",
+      "url": "https://lieuxlibertins.fr/fiche/le-triton-sauna-libertin-narbonne/",
+      "type": "annuaire",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s37",
+      "label": "minuitlibertin.com, fiche « Le Triton club libertin » (29/04/2025, modifiée le 03/08/2026 ; note Google relayée : 4,8/5 sur 8 avis, dès août 2025)",
+      "url": "https://minuitlibertin.com/le-triton-club-libertin/",
+      "type": "annuaire",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s38",
+      "label": "societe.com, MARACUJA : annonce légale de cession du fonds « connu sous le nom commercial LE TRITON » (03/07/2024), dissolution et clôture de la liquidation amiable (01/2025)",
+      "url": "https://www.societe.com/societe/maracuja-434573549.html",
+      "type": "registre",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s39",
+      "label": "Registre des entreprises, OXAL (menuiserie métallique, 28 B avenue de Toulouse, depuis 2022)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/922511308",
+      "type": "registre",
+      "consulted": "2026-10-21"
+    }
+  ]
+}

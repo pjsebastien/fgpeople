@@ -1,9 +1,11 @@
 {
   "nom": "Le BB Club",
   "ville": "Bordeaux",
-  "url": null,
+  "url": "https://lebbclub.com/",
   "foundIn": [
     "le-vip-s-cestas"
   ],
-  "status": "todo"
+  "status": "rejected",
+  "reason": "Fermé : Le BB Club (« Le BB Sex Club »), club libertin du 28 rue Francis Garnier, 33300 Bordeaux (le site écrivait 33000), quartier Bordeaux-Lac / Les Aubiers, tél. 07 83 79 35 59. Les indices de fermeture sont indépendants et vont dans le même sens. 1) Registre : la SARL BDX NORD (SIREN 922 370 093, enseigne et nom commercial « BB », siège au 28 rue Francis Garnier 33300, créée le 01/01/2023, NAF 56.10C) n'a plus aucun établissement ouvert, son siège ayant été fermé le 30/06/2025. Le seul dirigeant inscrit est un liquidateur (https://annuaire-entreprises.data.gouv.fr/entreprise/922370093). Ce lien avec le club est déduit, sans mention légale qui le confirme : même enseigne, même adresse, et le domaine lebbclub.com a été enregistré le 02/02/2023. Aucune autre société « BB » de bar, club ou loisirs n'est enregistrée en Gironde. 2) La fiche Google du lieu (4,0/5, 35 avis) est relayée comme « définitivement fermé » par autour-de-moi.com (fiche mise à jour le 22/08/2026) et par top-rated.online (« permanently closed », mise à jour le 20/10/2026). 3) Le site officiel est mort le 20/10/2026 : lebbclub.com refuse le HTTPS et son HTTP redirige vers www.lebbclub.com, qui n'existe plus en DNS. La dernière capture Wayback valide date du 20/01/2026, et le site était figé depuis janvier 2025 (« Programme des soirées libertines 2023 », affiches ajoutées en 01/2025, © 2023). Indice contraire : la page Wyylde « Le BB sex club » est toujours en ligne (1 215 fans). Sa photo de profil et sa couverture ont été changées les 18 et 19/12/2025, mais elle n'indique plus d'adresse (« Bordeaux, Gironde, France ») et ses seuls événements sont des occurrences générées automatiquement d'une soirée récurrente « Le BB Only Couples tous les vendredis » (modèle de décembre 2024, couple 30 €, 0 participant). Ce n'est pas la preuve d'une soirée tenue. Aucune nouvelle adresse ni aucune activité datée de 2026 n'a été trouvée (presse, réseaux, guides). Le guide d'odyssee-club.com (août 2026) le classe « à confirmer », et lescinqtoits.fr (mis à jour en 2026) ne le cite plus. Pas de doublon dans la base : find-club ne trouve rien pour « BB Club », « Francis Garnier » ni le téléphone, et aucun autre fichier de la file ne correspond. À reprendre si le club annonce une nouvelle adresse avec des soirées datées.",
+  "qualifiedAt": "2026-10-21"
 }

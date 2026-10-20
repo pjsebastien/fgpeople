@@ -4,7 +4,11 @@
   "url": "https://www.saunablueclub.fr/",
   "foundIn": [
     "royal-metz-metz",
-    "la-vie-en-rose-luxembourg"
+    "la-vie-en-rose-luxembourg",
+    "club-liberty-thionville-thionville"
   ],
-  "status": "todo"
+  "status": "added",
+  "slug": "sauna-blue-club-metz",
+  "reason": "Sauna gay réservé aux hommes majeurs au 8 rue Sébastien Leclerc, près de la gare, ouvert. Le site officiel saunablueclub.fr (page modifiée le 14/10/2026) annonce une soirée Halloween le vendredi 30 octobre 2026, des congés du 2 au 12 novembre et une journée AIDeS le 29 novembre. Exploitant WELLHO SAS (SIREN 842 515 231, nom commercial BLUE CLUB SAUNA), active, qui a repris le fonds de la SARL Blue Club le 16/11/2018 (BODACC du 16/12/2018) et a déposé ses comptes en juin 2026. Absent de la base (find-club par nom, ville, adresse et téléphone 03 87 18 09 40) et des autres fichiers de la file.",
+  "qualifiedAt": "2026-10-21"
 }

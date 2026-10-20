@@ -5,5 +5,7 @@
   "foundIn": [
     "l-aparte-bar-perigueux"
   ],
-  "status": "todo"
+  "status": "rejected",
+  "reason": "Fermé : sauna libertin « Le 16 » (16 ZAC La Roque, 24100 Creysse). 1) Le site officiel a annoncé lui-même sa fin : billet « FERMETURE DEFINITIVE DU 16 » du 6/10/2023 (« Clôture définitive de notre établissement »), lu dans la capture Wayback du 17/10/2023, dernière capture du site ; la capture du 3/10/2023 montrait encore des soirées datées des 2 et 5/10/2023. 2) Registre : l'exploitant (entrepreneur individuel, SIREN 326 372 166, NAF 96.04Z, établissement 16 La Roque) est cessé, établissement fermé le 30/09/2023 (https://annuaire-entreprises.data.gouv.fr/entreprise/326372166). 3) Domaine le-16.fr : inexistant en DNS le 20/10/2026, réenregistré le 30/09/2025 par une société sans rapport (EURL Le Resto, Thionville), en statut « client hold ». Aucune entreprise active (NAF 96.04Z, 93.29Z, 56.30Z) à la ZAC La Roque de Creysse, aucune annonce de reprise trouvée. Les guides qui le citent encore (francesudouest.com, non daté ; clubech.fr) sont périmés. Pas de doublon dans la base (find-club par nom, ville, adresse ; Club 53 Sauna à Gardonne est un autre lieu). Vérifié le 2026-10-20.",
+  "qualifiedAt": "2026-10-20"
 }

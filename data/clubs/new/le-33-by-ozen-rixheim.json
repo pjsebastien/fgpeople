@@ -1,0 +1,30 @@
+{
+  "id": "new-le-33-by-ozen-rixheim",
+  "nom": "Le 33 by Ozen",
+  "type": "sauna club libertin mixte",
+  "types_normalises": ["Sauna", "Club", "Spa & Wellness", "Bar", "Gay friendly"],
+  "adresse": "32B rue de Mulhouse",
+  "code_postal": "68170",
+  "ville": "Rixheim",
+  "departement_code": "68",
+  "departement_nom": "Haut-Rhin",
+  "region": "Grand Est",
+  "pays": "France",
+  "telephone": "0369158951",
+  "email": "O.zen.rixheim@gmail.com",
+  "site_web": "https://le33byozen.fr/",
+  "equipements": [
+    "Sauna à chaleur sèche",
+    "Hammam",
+    "Salon vidéo",
+    "Espaces intimes (coins câlins)",
+    "Table de massage avec huiles",
+    "Bar et lounge (boissons et collations)",
+    "Vestiaires avec casiers à clé",
+    "Douches",
+    "Climatisation",
+    "Parking gratuit à proximité"
+  ],
+  "verification": { "status": "actif" },
+  "addedAt": "2026-10-20"
+}

@@ -1,0 +1,966 @@
+{
+  "slug": "sun-libertin-lyon",
+  "clubId": "15290",
+  "researchedAt": "2026-10-20",
+  "display": {
+    "nom": "Le Sun Libertin",
+    "ville": "Lyon"
+  },
+  "status": {
+    "value": "ferme",
+    "summary": "Depuis le lundi 28 septembre 2026, une salle Fitness Park occupe les anciens locaux du Sun, que Lyon Entreprises et Vivre Villes disent fermé depuis la période du covid. La dernière date sûre est la réouverture annoncée par Têtu pour le 9 juin 2021 ; des avis Google de mai 2024 évoquent encore une reprise réservée aux libertins, sans date. Le site est figé depuis le 31 mai 2022, et les deux sociétés liées à l'adresse, dont le rôle d'exploitant est déduit du registre, ont été liquidées en 2019 et en 2022.",
+    "sources": [
+      "s35",
+      "s36",
+      "s37",
+      "s39",
+      "s1",
+      "s8",
+      "s17",
+      "s18",
+      "s19",
+      "s20",
+      "s46"
+    ]
+  },
+  "seo": {
+    "title": "Le Sun Libertin à Lyon : sauna fermé, photos et anciens tarifs",
+    "metaDescription": "Le sauna libertin de 2 800 m² des Terreaux, gay du dimanche au mardi, a laissé place à Fitness Park en septembre 2026. Photos, anciens tarifs, histoire.",
+    "subtitle": "Ancien sauna libertin au décor hindou, gay du dimanche au mardi, 3 rue Sainte-Marie-des-Terreaux (Lyon 1er) : fermé, remplacé par Fitness Park",
+    "targetQueries": [
+      "photos de le sun libertin",
+      "sauna libertin lyon",
+      "glory hole lyon",
+      "gloryhole lyon",
+      "fetish lyon",
+      "bar libertin lyon",
+      "le diamant club lyon",
+      "sun libertin lyon fermé",
+      "sun libertin tarifs",
+      "sun club lyon",
+      "sun city lyon",
+      "sun gay lyon"
+    ]
+  },
+  "lead": "Le Sun Libertin revendiquait 2 800 m² de sauna libertin au décor « hindou », à deux pas de la place des Terreaux : on y circulait sans vêtements du mercredi au samedi, entre un jacuzzi de 50 m² et plus de 50 cabines, et les mêmes murs devenaient un sauna gay du dimanche au mardi. La dernière date sûre est sa réouverture de juin 2021, et des avis Google de 2024 évoquent encore une reprise réservée aux libertins. Le lieu est fermé : une salle Fitness Park s'y est installée le 28 septembre 2026.",
+  "glance": [
+    {
+      "icon": "closed",
+      "label": "Fermé",
+      "value": "Date inconnue ; « depuis le covid » (presse)"
+    },
+    {
+      "icon": "building",
+      "label": "À sa place",
+      "value": "Fitness Park, ouvert le 28 septembre 2026"
+    },
+    {
+      "icon": "calendar",
+      "label": "Dernière date sûre",
+      "value": "Réouverture annoncée le 9 juin 2021",
+      "confidence": "source_unique"
+    },
+    {
+      "icon": "users",
+      "label": "Libertin, puis gay",
+      "value": "Mer.-sam. libertin, dim.-mar. sauna gay"
+    },
+    {
+      "icon": "ruler",
+      "label": "Surface annoncée",
+      "value": "2 800 m², plafonds de plus de 8 m"
+    },
+    {
+      "icon": "spa",
+      "label": "Sauna libertin actif",
+      "value": "Histoire d'Eau, 1 rue Romarin (Lyon 1er)"
+    }
+  ],
+  "highlights": [
+    "Le Sun est fermé : une salle Fitness Park a ouvert le 28 septembre 2026 dans ses anciens locaux, selon trois articles de la presse lyonnaise.",
+    "Le site le-sun-libertin.fr répond toujours, avec des tarifs au présent et un agenda arrêté en 2018 : il n'a plus été mis à jour depuis mai 2022.",
+    "Le 04 72 10 02 21 ne mène plus à un lieu ouvert, et des annuaires comme Minuit Libertin présentent encore le Sun comme ouvert.",
+    "Du dimanche au mardi, les mêmes murs abritaient un sauna gay, « Le Sun Gay » : ce créneau a disparu avec le lieu, et son site dès l'été 2021.",
+    "Dans le 1er, Histoire d'Eau (rue Romarin) publiait un agenda daté d'octobre 2026 ; le Sauna Club des Terreaux avait un site en erreur le 16 octobre."
+  ],
+  "keyFacts": [
+    {
+      "label": "Statut",
+      "value": "Fermé ; « depuis la période Covid » selon la presse, mais date exacte inconnue",
+      "confidence": "confirme",
+      "sources": [
+        "s35",
+        "s36",
+        "s37",
+        "s1",
+        "s8",
+        "s46"
+      ]
+    },
+    {
+      "label": "Adresse",
+      "value": "3 rue Sainte-Marie-des-Terreaux, 69001 Lyon",
+      "confidence": "confirme",
+      "sources": [
+        "s6",
+        "s23",
+        "s24"
+      ]
+    },
+    {
+      "label": "Concept",
+      "value": "Sauna libertin du mercredi au samedi, sauna gay (« Le Sun Gay ») du dimanche au mardi",
+      "confidence": "confirme",
+      "sources": [
+        "s3",
+        "s4",
+        "s9",
+        "s44",
+        "s45"
+      ]
+    },
+    {
+      "label": "Autre nom",
+      "value": "Sun City Lyon (enseigne SUNCITY au registre)",
+      "confidence": "confirme",
+      "sources": [
+        "s19",
+        "s42",
+        "s48"
+      ]
+    },
+    {
+      "label": "Surface annoncée",
+      "value": "2 800 m², selon le club (1 800 m² sur le site gay en 2013)",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s9",
+        "s13",
+        "s41",
+        "s44"
+      ]
+    },
+    {
+      "label": "Dernière activité datée",
+      "value": "Réouverture annoncée le 9 juin 2021 (partie gay le 13 juin) ; indices plus faibles jusqu'en 2024",
+      "confidence": "source_unique",
+      "sources": [
+        "s39",
+        "s46",
+        "s48"
+      ]
+    },
+    {
+      "label": "Sociétés liées",
+      "value": "EVOLUTION (enseigne SUNCITY) et SUN DE LYON, liquidées ; rôle d'exploitant déduit",
+      "confidence": "a_verifier",
+      "sources": [
+        "s17",
+        "s19"
+      ]
+    },
+    {
+      "label": "Espace club",
+      "value": "Le Sun Club, 700 m², inauguré le 14 décembre 2013 selon un annuaire",
+      "confidence": "source_unique",
+      "sources": [
+        "s15",
+        "s25"
+      ]
+    },
+    {
+      "label": "À la même adresse en 2026",
+      "value": "Fitness Park, dans les anciens locaux, ouvert le 28 septembre 2026",
+      "confidence": "confirme",
+      "sources": [
+        "s35",
+        "s36",
+        "s37",
+        "s22"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "site-fige-reouverture-juin-2021",
+      "title": "Un site toujours en ligne, une dernière réouverture annoncée pour le 9 juin 2021",
+      "icon": "closed",
+      "summary": "Fermé « depuis la période Covid » selon la presse : dernière date sûre en juin 2021, une reprise évoquée par des avis de 2024, et un site figé depuis mai 2022.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le site du Sun répond toujours, et c'est ce qui égare. Sa page d'accueil n'a pas bougé depuis le 31 mai 2022, sa grille de prix parle au présent et son agenda s'arrête sur une « Mousse coquine » du 31 août 2018. Les archives du Web l'ont trouvé en erreur en mars et mai 2021, puis de décembre 2021 à mars 2022."
+        },
+        {
+          "kind": "text",
+          "body": "Nous n'avons trouvé aucune annonce de fermeture publiée par le club. La dernière date précise vient de Têtu, qui relaie le 9 juin 2021 la réouverture du sauna pour sa partie libertine, et le 13 juin pour sa partie gay.\n\nLa suite repose sur des indices plus faibles. L'édition 2022 du Petit Paumé publie un avis de visite. Des avis Google de mai 2024, relayés par Wanderlog, décrivent une réouverture réservée aux libertins, sans les journées gay ; un avis de mars 2025 regrette que le lieu n'ait pas rouvert, un autre d'octobre 2025 le dit fermé.\n\nEn septembre 2026, Lyon Entreprises et Vivre Villes le décrivent comme fermé depuis la période du covid ; Lyon People fait durer le sauna libertin jusqu'en 2023. La société à l'enseigne SUNCITY, liée au Sun par déduction, a été liquidée en novembre 2022."
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Ne vous fiez ni au site ni à certains annuaires",
+          "body": "Le 04 72 10 02 21 et les adresses contact@ et info@le-sun-libertin.fr ne mènent plus à un lieu ouvert. Minuit Libertin le présente encore comme ouvert, avec des informations « en date du 15 août 2025 » tirées du site figé ; Sortir Lyon le signale fermé."
+        },
+        {
+          "kind": "text",
+          "body": "Le Sun montre qu'une page en ligne ne prouve rien. La même prudence vaut pour les profils des sites de rencontre : si vous cherchez des partenaires lyonnais pour découvrir un autre sauna, [triez d'abord les membres dont Wyylde a contrôlé l'identité](aff:wyylde). Le membre certifié a envoyé une photo de lui tenant un code manuscrit, validée par la modération ; la démarche reste facultative, et un profil sans badge reste incertain."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s3",
+        "s6",
+        "s8",
+        "s19",
+        "s20",
+        "s26",
+        "s28",
+        "s35",
+        "s36",
+        "s37",
+        "s39",
+        "s46",
+        "s48"
+      ]
+    },
+    {
+      "id": "glory-hole-fetiche-gang-bang-octobre-2026",
+      "title": "Glory hole, soirée fétiche, gang bang : ce qu'affichent quatre lieux lyonnais en octobre 2026",
+      "icon": "map",
+      "summary": "Le Sun n'affichait ni glory hole ni soirée fétiche. En octobre 2026, Le Diamant annonce une soirée SM/BDSM et Histoire d'Eau un gang bang le mardi.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Aucune page officielle du Sun que nous avons lue ne parle de glory hole, de coin SM ou de soirée fétiche, et sa galerie ne montre qu'un sling. Son programme tournait autour du gang bang du mercredi, des après-midi entre couples et des soirées mousse ; ses coins câlins « à barreaux et vitres » visaient l'exhibition.\n\nCe qu'affichaient quatre lieux lyonnais le 16 octobre :"
+        },
+        {
+          "kind": "list",
+          "items": [
+            "[Histoire d'Eau](/histoire-eau-club-lyon), 1 rue Romarin (1er), se présente comme un sauna libertin naturiste, « depuis 1998 ». Son agenda est daté : « Mardi Gang Bang » le 20 octobre 2026, « Jeudi 100% Couples avec Buffet » le 22.",
+            "[Le Diamant, club de la rue des Macchabées à Saint-Just](/le-diamant-lyon) (5e), affiche sur son accueil « glory hole / croix de ST André / banc a fessée » et annonce une « soirée mixte SM/BDSM Fétish » le vendredi 30 octobre 2026 (22 h – 4 h).",
+            "[Le Trou](/trou-lyon-club-libertin), 6 rue Romarin, se définit comme un « Gay Cruising Club » et publie des soirées datées des 16, 17 et 18 octobre 2026. Son accueil ne parle pas de glory hole.",
+            "[Le Bada Bar](/bada-bar-rencontres-libertines), 44 quai Gailleton (2e), bar à rencontres libertin ouvert du mardi au samedi dès 18 h selon son site, sans aucune soirée datée."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le Sauna Club des Terreaux, rue Sainte-Catherine, à quelques rues de l'ancien Sun, avait un site en erreur ce jour-là : appelez avant de vous déplacer. Les autres établissements sont recensés sur [notre page des lieux libertins lyonnais](/ville/lyon)."
+        }
+      ],
+      "sources": [
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s31",
+        "s32",
+        "s33",
+        "s34"
+      ]
+    },
+    {
+      "id": "galerie-24-photos-visite",
+      "title": "Les 24 photos de la page « Visite » : un jacuzzi cerné d'éléphants sculptés",
+      "icon": "camera",
+      "summary": "Avant la fermeture : un bassin cerné de statues blanches sous un plafond peint en ciel, des couloirs aux portes sculptées, un fumoir vitré, un sling et une salle de musculation.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "La galerie officielle reste en ligne : 24 photos non datées, prises avant la fermeture, toutes regardées le 21 octobre 2026."
+        },
+        {
+          "kind": "list",
+          "items": [
+            "**Le jacuzzi** (cinq photos) : un grand bassin bordé d'éléphants, de lions et de singes sculptés en blanc, avec deux kiosques sur colonnes dans l'eau et une vasque ornée d'éléphants ; son « entrée » est un escalier gardé par deux fauves.",
+            "**La salle principale** : plafond peint en ciel nuageux, lustres rouges, kiosques du bassin, lumière violette et rose.",
+            "**Le bar** (deux vues du même comptoir), **le salon** et **la salle de buffet** : arcades de bois sculpté, fauteuils club en cuir, tables rondes devant des panneaux peints en turquoise.",
+            "**Le fumoir** (deux vues) et **le hammam** : une pièce vitrée baignée de rouge, avec banquettes et cendriers sur pied ; une salle de mosaïque sombre aux bancs carrelés.",
+            "**Les couloirs** (cinq photos) : portes sculptées ou cloutées, statues de divinités hindoues, dont un Ganesh, et une fenêtre à barreaux ouverte sur une salle éclairée.",
+            "**Les coins câlins** (quatre photos, trois pièces) : un lit surélevé à colonnes, une alcôve à banquette creusée dans la pierre, une pièce rouge où un sling de cuir pend à des chaînes.",
+            "**La salle de sport** : appareils de musculation et haltères sous un plafond peint de branches."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Un ancien logo, « Eclipse », « Sun City », « soirées libertines », subsiste dans le coin d'une vue de couloir. La vidéo intégrée à la page n'est plus disponible sur YouTube."
+        }
+      ],
+      "sources": [
+        "s5"
+      ]
+    },
+    {
+      "id": "2800-m2-plafonds-8-m-jacuzzi",
+      "title": "2 800 m² sous plus de 8 m de plafond, un jacuzzi de 50 m² et plus de 50 cabines",
+      "icon": "ruler",
+      "summary": "Un sauna sans vêtements sur 2 800 m² annoncés : jacuzzi de 50 m² à 35 °C, sauna, hammam, bar sous mezzanine, plus de 50 coins câlins et une salle de sport au sous-sol.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Au Sun, les vêtements n'étaient pas admis. À l'arrivée, chacun recevait un bracelet de vestiaire, une serviette et un paréo, et rangeait ses affaires dans un casier à clé ; consommations et massages étaient portés sur le numéro de vestiaire.\n\nSelon ses propres pages, le club offrait 2 800 m², un chiffre invérifiable, avec un jacuzzi de 50 m² à 35 °C, un sauna, un « immense hammam », des salons, un fumoir, un bar lounge et une salle de buffet.\n\nPlus de 50 coins câlins se répartissaient en trois familles : ouverts, fermés, ou à barreaux et vitres pour ceux qui aiment être vus."
+        },
+        {
+          "kind": "list",
+          "title": "Ce qu'y ont vu deux journalistes",
+          "items": [
+            "**La Voix du X, avril 2016** : des plafonds de plus de 8 mètres, une piscine à bulles dotée d'une cascade intérieure, un bar surmonté d'une mezzanine de salles de détente, un labyrinthe de recoins à l'étage.",
+            "**CityCrunch, janvier 2018** : une entrée gardée par un vigile sous deux statues hindoues, les vestiaires et les appareils de musculation au sous-sol, la piscine et un bain à remous au rez-de-chaussée, une barre de pole dance et des lits à baldaquin."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le club mettait en avant des préservatifs et du gel dans chaque cabine, leur désinfection après chaque passage et des coiffeuses pour se préparer avant de repartir."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s4",
+        "s5",
+        "s9",
+        "s13",
+        "s40",
+        "s41"
+      ]
+    },
+    {
+      "id": "mercredi-gang-bang-jeudi-couples",
+      "title": "Mercredi Gang Bang à 24 € le couple, jeudi réservé aux couples à 54 €",
+      "icon": "calendar",
+      "summary": "Mercredi gang bang (couple 24 €, homme seul 74 €), jeudi réservé aux couples à 54 €, vendredi mixte, samedi entre couples l'après-midi : chaque jour avait son public.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "La dernière grille publiée, celle de l'agenda de 2018-2019, donnait à chaque jour son public ; les mêmes thèmes figuraient encore sur l'accueil du site en janvier 2021 :"
+        },
+        {
+          "kind": "list",
+          "items": [
+            "**Mercredi** : « Gang Bang Party », avec une majorité d'hommes seuls ; chaque couple recevait une bouteille.",
+            "**Jeudi** : couples et femmes seules uniquement, présenté comme le jour des débutants, avec une collation offerte dès 15 h.",
+            "**Vendredi** : mixte. Le dernier vendredi du mois, la « Soirée Jeunes » faisait payer moitié prix aux couples de moins de 29 ans.",
+            "**Samedi** : couples seulement de 14 h à 20 h, collation comprise, puis mixte jusqu'à 5 h."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Les prix suivaient une logique particulière : le jeudi, jour sans hommes seuls, était le plus cher pour les couples (54 €, contre 44 € le vendredi et le samedi et 24 € le mercredi).\n\nHors soirées spéciales, l'homme seul payait 74 € chaque jour où il était admis, trois fois le tarif couple du mercredi, et n'entrait qu'à raison d'un homme pour un couple présent. Les femmes seules ne payaient pas.\n\nEn 2019, le club conseillait aux couples et aux femmes seules de réserver ; son règlement proscrivait la prostitution et l'escorting, signalés à la police, ainsi que la drogue, et permettait de refouler les clients trop alcoolisés.\n\nLe jeudi « 100 % couples » servait de porte d'entrée aux débutants. Faute de ce rendez-vous, un couple novice peut [repérer dans l'agglomération d'autres débutants prêts à franchir le pas](aff:carre-libertin) avant de choisir un club : Carré Libertin annonce environ 20 000 membres actifs chaque semaine."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s2",
+        "s3",
+        "s11",
+        "s13",
+        "s40"
+      ]
+    },
+    {
+      "id": "sun-gay-dimanche-mardi",
+      "title": "Du dimanche au mardi, « Le Sun Gay » : 16 € l'entrée en 2013, gratuite le mardi avant 26 ans",
+      "icon": "users",
+      "summary": "Les mêmes locaux devenaient un sauna gay du dimanche au mardi, « Le Sun Gay », avec son propre site de juin 2013 à janvier 2021 et une réouverture annoncée le 13 juin 2021.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le Sun n'était libertin que quatre jours sur sept. Du dimanche au mardi, les mêmes locaux devenaient un sauna gay, « Le Sun Gay », doté de son propre site, en ligne de juin 2013 à janvier 2021. Têtu annonçait la réouverture de cette partie le dimanche 13 juin 2021, quatre jours après la partie libertine."
+        },
+        {
+          "kind": "list",
+          "items": [
+            "**Tarifs de 2013** : 16 € le dimanche ; 13 € avant 14 h puis 15 € le lundi et le mardi ; 11 € pour les moins de 26 ans le dimanche et le lundi, gratuit pour eux le mardi ; entrée offerte le jour de l'anniversaire.",
+            "**Horaires de 2021** : dimanche et lundi de 12 h à minuit, mardi de 12 h à 1 h.",
+            "**Rendez-vous de 2021** : lundi « naked », mardi des jeunes, « Dimanche du Sun » et soirée « Bears » le premier dimanche du mois.",
+            "**Équipements annoncés** : sauna sec, hammam, salle de cinéma diffusant des films X gays, bar lounge, et un jacuzzi présenté comme mesurant 150 m², trois fois la taille annoncée côté libertin."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Les chiffres varient d'une version à l'autre du site gay : un dédale de pièces « sur 1800 m2 » en 2013, un sauna de 2 800 m² en 2021. Le domaine le-sun-gay.fr était en revente dès juillet 2021.\n\nCes jours-là, le site libertin renvoyait vers un « partenaire », le Moon, dont le domaine, moon-libertin.fr, n'héberge plus qu'un blog générique."
+        }
+      ],
+      "sources": [
+        "s39",
+        "s41",
+        "s44",
+        "s45",
+        "s1",
+        "s30"
+      ]
+    },
+    {
+      "id": "sun-club-700-m2",
+      "title": "Le Sun Club : 700 m², une piste et des barres de pole dance le week-end",
+      "icon": "music",
+      "summary": "Un club échangiste de 700 m² au même décor, ouvert le vendredi et le samedi de 22 h à 5 h, inauguré en décembre 2013 selon un annuaire ; son site a disparu dès 2016.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le complexe comptait aussi un club de nuit. Même adresse, même téléphone, même décor « hindou » : le Sun Club se présentait en 2014 comme un club échangiste de 700 m², avec piste de danse, barres de pole dance et salons privés, ouvert le vendredi et le samedi de 22 h à 5 h.\n\nUn annuaire non daté fixe son inauguration au samedi 14 décembre 2013, et des témoignages publiés par le club en février 2014 évoquent bien une « soirée d'inauguration ».\n\nLe même annuaire décrit un vendredi mixte et un samedi réservé aux couples et aux femmes seules : 68 € pour l'homme seul, 28 € le vendredi ou 48 € le samedi pour un couple, une consommation comprise.\n\nLe club partageait la newsletter et le domaine e-mail du sauna, et lors de la soirée des fêtes de décembre 2013, l'« option club » était offerte aux couples du sauna. On ignore si ses 700 m² s'ajoutaient aux 2 800 m² du sauna.\n\nSon site, sun-club-echangiste.fr, n'était plus qu'un blog générique dès 2016 ; rien n'indique jusqu'à quand il a fonctionné."
+        }
+      ],
+      "sources": [
+        "s15",
+        "s16",
+        "s25",
+        "s8"
+      ]
+    },
+    {
+      "id": "suncity-2010-fitness-park-2026",
+      "title": "De l'enseigne SUNCITY en 2010 à l'ouverture de Fitness Park le 28 septembre 2026",
+      "icon": "history",
+      "summary": "Sun City, puis Sun Libertin et Sun Gay ; deux sociétés liquidées en 2019 et 2022, une réouverture en juin 2021, puis une salle Fitness Park dans les murs en septembre 2026.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Faute de mentions légales, les sociétés citées sont rattachées au Sun par déduction (adresse, code d'activité, nom). Avant lui, selon Lyon People, le bâtiment avait été théâtre, usine textile et espace de coworking."
+        },
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "6 mars 2010",
+              "text": "EVOLUTION, enseigne SUNCITY, démarre son activité à l'adresse. En 2018, CityCrunch annonce « les 7 ans du Sun » pour le 9 mars, ce qui placerait l'ouverture vers 2011."
+            },
+            {
+              "date": "2013",
+              "text": "SUN DE LYON naît le 1er février pour exploiter un sauna ; les sites du Sun Libertin et du Sun Gay sont en ligne en juin."
+            },
+            {
+              "date": "Juillet 2016",
+              "text": "Sauvegarde ouverte le 6 pour « EVOLUTION, Sun City » ; le 16, La Voix du X classe le « Sun City Lyon » 8e des clubs libertins français."
+            },
+            {
+              "date": "Été 2019",
+              "text": "« Fermeture exceptionnelle » en juillet, « Réouverture du Sun ! » le 3 août, liquidation de SUN DE LYON le 29 août : le sauna continue."
+            },
+            {
+              "date": "15 février 2020",
+              "text": "Brunch et après-midi mousse entre couples : dernière soirée datée sur le site."
+            },
+            {
+              "date": "9 et 13 juin 2021",
+              "text": "Têtu annonce la réouverture de la partie libertine le mercredi 9, puis de la partie gay le dimanche 13 : dernière activité précisément datée."
+            },
+            {
+              "date": "2021-2022",
+              "text": "Site libertin en erreur dans les captures de 2021, jusqu'en mars 2022. EVOLUTION cesse ses paiements le 10 juin 2022 et est liquidée le 3 novembre ; les deux liquidations sont clôturées en 2023 et 2024."
+            },
+            {
+              "date": "2022-2025",
+              "text": "Indices sans date précise : un avis de visite dans l'édition 2022 du Petit Paumé, des avis Google de mai 2024 sur une reprise réservée aux libertins, puis des avis de 2025 qui le disent fermé."
+            },
+            {
+              "date": "28 septembre 2026",
+              "text": "Fitness Park ouvre, selon Lyon People, « dans les anciens locaux » du Sun, selon Lyon Entreprises : 1 500 m² autour d'une verrière de plus de 400 m². La salle était active au registre dès le 15 juin."
+            }
+          ]
+        }
+      ],
+      "sources": [
+        "s1",
+        "s8",
+        "s10",
+        "s11",
+        "s12",
+        "s14",
+        "s17",
+        "s18",
+        "s19",
+        "s20",
+        "s21",
+        "s35",
+        "s36",
+        "s38",
+        "s39",
+        "s40",
+        "s42",
+        "s44",
+        "s45",
+        "s46",
+        "s48"
+      ]
+    },
+    {
+      "id": "avis-google-palmares-2016",
+      "title": "3,3/5 sur 155 avis Google relayés, et une 8e place nationale en 2016",
+      "icon": "star",
+      "summary": "Deux agrégateurs relaient une note Google de 3,3/5 sur 155 avis et une fiche « définitivement fermée » ; La Voix du X le classait 8e des clubs libertins français en 2016.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Wanderlog et Top-Rated, qui relaient Google, affichent 3,3/5 sur 154 à 155 avis et une fiche « définitivement fermée » (relevé du 20 octobre 2026) ; nous n'avons pas consulté Google lui-même. Sur Wanderlog, deux avis de mai 2024, notés 1/5, regrettent une réouverture limitée aux libertins, sans les journées gay ; un avis de mars 2025 déplore que le lieu n'ait pas rouvert, un autre d'octobre 2025 le dit fermé.\n\nSur Lieux Coquins, trois internautes l'ont noté entre mars 2018 et mai 2021, pour une moyenne de 3,3/5 (relevé du 16 octobre 2026)."
+        },
+        {
+          "kind": "text",
+          "body": "Le palmarès que revendiquait le club existe bien : en juillet 2016, La Voix du X plaçait le « Sun City Lyon » 8e de son top 10 des clubs libertins français, pour ses dimensions. Il ne figure plus dans le top 20 publié en 2019.\n\nQuant au titre de « plus grand » sauna de France ou d'Europe, revendiqué par le club et repris par ce magazine et par des annuaires, aucune mesure ne l'étaye."
+        }
+      ],
+      "sources": [
+        "s7",
+        "s27",
+        "s29",
+        "s41",
+        "s42",
+        "s43",
+        "s44",
+        "s46",
+        "s47"
+      ]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Mercredi": "13 h – 2 h",
+      "Jeudi": "13 h – 3 h",
+      "Vendredi": "13 h – 3 h",
+      "Samedi": "14 h – 5 h",
+      "Dimanche et lundi (sauna gay)": "12 h – minuit",
+      "Mardi (sauna gay)": "12 h – 1 h"
+    },
+    "note": "Horaires d'avant la fermeture. Du mercredi au samedi, ceux du sauna libertin tels que les affichent encore le site figé et l'agenda de 2019 (la version de 2020 ouvrait une heure plus tôt et fermait à 4 h le samedi) ; du dimanche au mardi, ceux du Sun Gay tels que les donnait son site en janvier 2021.",
+    "confidence": "confirme",
+    "sources": [
+      "s1",
+      "s3",
+      "s9",
+      "s11",
+      "s12",
+      "s13",
+      "s45"
+    ]
+  },
+  "tarifs": {
+    "rows": {
+      "Couple, mercredi": "24 € (une bouteille offerte)",
+      "Couple, jeudi": "54 €",
+      "Couple, vendredi et samedi": "44 €",
+      "Couple de moins de 29 ans, Soirée Jeunes": "22 €",
+      "Homme seul (mercredi, vendredi, samedi soir)": "74 €",
+      "Femme seule": "Entrée offerte",
+      "Sauna gay, dimanche (2013)": "16 € (11 € avant 26 ans)",
+      "Sauna gay, lundi et mardi (2013)": "13 € avant 14 h, puis 15 €"
+    },
+    "note": "À lire au passé : le lieu est fermé. Sauna libertin : dernière grille publiée (agenda de 2018-2019) ; l'entrée comprenait une consommation par personne, le buffet du soir (20 h 30 – 22 h 30 selon la page Tarifs), l'accès à toutes les installations, le paréo, la serviette, les préservatifs et le gel. Soirées spéciales : mousses de l'été 2018 à 54 € le couple, 84 € l'homme seul et 14 € la femme seule ; soirée des fêtes de décembre 2013 à 68 € le couple et 98 € l'homme seul. Sauna gay : grille de juin 2013, avec 11 € le lundi et l'entrée gratuite le mardi pour les moins de 26 ans.",
+    "confidence": "confirme",
+    "sources": [
+      "s2",
+      "s3",
+      "s8",
+      "s11",
+      "s44"
+    ]
+  },
+  "equipements": [
+    "Jacuzzi de 50 m² (eau à 35 °C)",
+    "Sauna",
+    "Hammam",
+    "Plus de 50 coins câlins (ouverts, fermés, à barreaux et vitres)",
+    "Sling suspendu à des chaînes (un coin câlin, d'après la galerie)",
+    "Fumoir",
+    "Bar lounge",
+    "Salle de buffet",
+    "Salons de détente",
+    "Salle de sport",
+    "Vestiaires avec casiers à clé",
+    "Massages",
+    "Salle de cinéma (journées gay)",
+    "Piste de danse et barres de pole dance (Sun Club)"
+  ],
+  "officialLinks": [
+    {
+      "label": "Site officiel, figé depuis le 31 mai 2022",
+      "url": "https://www.le-sun-libertin.fr/",
+      "kind": "site"
+    },
+    {
+      "label": "Page « Visite » : 24 photos d'avant la fermeture",
+      "url": "https://www.le-sun-libertin.fr/visite-sun-sauna-libertin-lyon.php",
+      "kind": "galerie"
+    }
+  ],
+  "corrections": {
+    "telephone": "04 72 10 02 21",
+    "email": "contact@le-sun-libertin.fr",
+    "sources": [
+      "s6"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Le Sun Libertin est-il encore ouvert ?",
+      "answer": "Non. Une salle de sport Fitness Park a ouvert le 28 septembre 2026 dans ses anciens locaux, et la presse lyonnaise le dit fermé depuis la période du covid. Sa dernière activité précisément datée est la réouverture annoncée le 9 juin 2021 ; des avis Google de mai 2024 évoquent encore une reprise réservée aux libertins, sans qu'aucune soirée de cette période ait été retrouvée."
+    },
+    {
+      "question": "Pourquoi le Sun a-t-il fermé ?",
+      "answer": "Nous n'avons trouvé aucune annonce du club. Trois articles de septembre 2026 relient sa fin à la période du covid ; l'un d'eux, celui de Lyon People, met aussi en cause, sans entrer dans le détail, des agissements de la direction de l'époque. Les deux sociétés liées à l'adresse avaient été mises en liquidation judiciaire : SUN DE LYON en août 2019, puis EVOLUTION, à l'enseigne SUNCITY, en novembre 2022, après une cessation des paiements en juin."
+    },
+    {
+      "question": "Qu'y a-t-il aujourd'hui au 3 rue Sainte-Marie-des-Terreaux ?",
+      "answer": "Une salle Fitness Park, que la marque appelle « Lyon Terreaux », ouverte au public le lundi 28 septembre 2026 dans les anciens locaux du Sun selon Lyon People, Lyon Entreprises et Vivre Villes. Elle compte 1 500 m² organisés autour d'une verrière de plus de 400 m² et est exploitée par la SAS FIT FACTORY HUB ONE, créée en novembre 2025."
+    },
+    {
+      "question": "Le Sun était-il aussi un sauna gay ?",
+      "answer": "Oui. Du dimanche au mardi, les mêmes locaux accueillaient « Le Sun Gay », qui avait son propre site de 2013 à 2021 ; en 2021, il ouvrait le dimanche et le lundi de 12 h à minuit et le mardi jusqu'à 1 h. Le sauna libertin occupait le reste de la semaine, du mercredi au samedi."
+    },
+    {
+      "question": "Les hommes seuls pouvaient-ils entrer au Sun Libertin ?",
+      "answer": "Le mercredi, le vendredi et le samedi soir, pour 74 €, et seulement s'il y avait assez de couples : un homme par couple présent. Le jeudi et le samedi après-midi leur étaient fermés. Le lieu n'existant plus, un homme seul qui veut entrer accompagné dans un autre club lyonnais peut [échanger en direct avec des couples rhodaniens avant de leur proposer une sortie](aff:gleese) : Gleese diffuse chaque jour des lives HD où des membres se présentent et permet d'envoyer des messages vocaux. Sa communauté reste loin du volume de Wyylde."
+    },
+    {
+      "question": "Quelle société exploitait le Sun Libertin ?",
+      "answer": "Le site du club ne nomme aucune société. Deux SARL de l'adresse lui sont liées par déduction : EVOLUTION, à l'enseigne SUNCITY depuis 2010, nom sous lequel La Voix du X classait le lieu en 2016, et SUN DE LYON, créée en 2013 pour exploiter un sauna. Laquelle le tenait, et à quelle période, reste inconnu ; l'activité s'est en tout cas poursuivie après la liquidation de SUN DE LYON en août 2019."
+    }
+  ],
+  "unverified": [
+    "La date exacte de la fermeture : aucune activité datée après la réouverture annoncée pour le 9 juin 2021 ; deux articles parlent d'une fermeture « depuis la période Covid », Lyon People fait durer le sauna libertin jusqu'en 2023.",
+    "La reprise limitée aux libertins que décrivent des avis Google de mai 2024 : ni sa date ni sa durée ne sont connues, et aucune soirée datée de 2022 à 2025 n'a été retrouvée.",
+    "Le contenu de la page Facebook du club et de la fiche Google elle-même, non consultées directement (mur de connexion pour Facebook).",
+    "L'année d'ouverture : la société à l'enseigne SUNCITY est active à l'adresse dès mars 2010, mais CityCrunch annonçait « les 7 ans du Sun » en mars 2018, ce qui placerait l'ouverture vers 2011. Qu'il s'agisse d'abord d'un sauna uniquement gay n'est affirmé que par un lecteur de Lyon People.",
+    "Le contenu de l'annonce « Fermeture exceptionnelle » du 4 juillet 2019, publiée sous forme d'image et non archivée.",
+    "Laquelle des deux SARL, EVOLUTION ou SUN DE LYON, exploitait le sauna, et à quelles dates.",
+    "Les dimensions réelles : 1 800 m² puis 2 800 m² selon les versions du site, un jacuzzi de 50 m² côté libertin et de 150 m² côté gay, et si les 700 m² du Sun Club s'y ajoutaient.",
+    "Les jours libertins de 2016 : « du lundi au samedi » selon La Voix du X, contre « du mercredi au samedi » sur le site officiel.",
+    "Un lien avec le sauna gay parisien Sun City, que suggèrent le nom et un avis Google, sans source officielle."
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Le Sun Libertin, site officiel, accueil (version figée, Last-Modified 31/05/2022)",
+      "url": "https://www.le-sun-libertin.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s2",
+      "label": "Le Sun Libertin, page « Tarifs » et règles de conduite",
+      "url": "https://www.le-sun-libertin.fr/tarifs-sun-libertin-lyon.php",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s3",
+      "label": "Le Sun Libertin, page « Agenda » (soirées jusqu'au 31/08/2018)",
+      "url": "https://www.le-sun-libertin.fr/agenda-sauna-sun-libertin.php",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s4",
+      "label": "Le Sun Libertin, page « Première fois »",
+      "url": "https://www.le-sun-libertin.fr/sauna-libertin-lyon.php",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s5",
+      "label": "Le Sun Libertin, page « Visite » (galerie de 24 photos)",
+      "url": "https://www.le-sun-libertin.fr/visite-sun-sauna-libertin-lyon.php",
+      "type": "officiel",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s6",
+      "label": "Le Sun Libertin, page « Contact »",
+      "url": "https://www.le-sun-libertin.fr/contact.php",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s7",
+      "label": "Le Sun Libertin, blog (article sur le classement La Voix du X)",
+      "url": "https://www.le-sun-libertin.fr/blog-sun-libertin-lyon.php",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s8",
+      "label": "Wayback Machine, historique des captures de le-sun-libertin.fr",
+      "url": "https://web.archive.org/cdx/search/cdx?url=le-sun-libertin.fr&matchType=domain",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s9",
+      "label": "Le Sun Libertin, site officiel, archive du 07/06/2013",
+      "url": "https://web.archive.org/web/20130607061439/http://le-sun-libertin.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s10",
+      "label": "Le Sun Libertin, article « Fermeture exceptionnelle » du 04/07/2019, archive",
+      "url": "https://web.archive.org/web/20190718051916/https://www.le-sun-libertin.fr/fermeture-exceptionnelle/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s11",
+      "label": "Le Sun Libertin, agenda, archive du 17/08/2019",
+      "url": "https://web.archive.org/web/20190817175958/https://www.le-sun-libertin.fr/agenda-sauna-sun-libertin/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s12",
+      "label": "Le Sun Libertin, « Brunch + après-midi mousse 100 % couples » (15/02/2020), archive",
+      "url": "https://web.archive.org/web/20200806132142/https://www.le-sun-libertin.fr/brunch-apres-midi-mousse-100-couples/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s13",
+      "label": "Le Sun Libertin, accueil, archives du 30/10/2020 et du 23/01/2021",
+      "url": "https://web.archive.org/web/20201030112121/https://www.le-sun-libertin.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s14",
+      "label": "Le Sun Libertin, accueil, archive du 20/06/2022",
+      "url": "https://web.archive.org/web/20220620095949/https://www.le-sun-libertin.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s15",
+      "label": "Sun Club Échangiste, site officiel, archive du 17/02/2014",
+      "url": "https://web.archive.org/web/20140217034443/http://sun-club-echangiste.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s16",
+      "label": "sun-club-echangiste.fr, archives de 2019 et 2021 (blog générique, puis parking)",
+      "url": "https://web.archive.org/web/20191209062112/http://sun-club-echangiste.fr/",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s17",
+      "label": "Annuaire des entreprises, SUN DE LYON (SIREN 790 800 460)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/790800460",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s18",
+      "label": "BODACC, annonces de SUN DE LYON (immatriculation, liquidation, clôture)",
+      "url": "https://bodacc-datadila.opendatasoft.com",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s19",
+      "label": "Annuaire des entreprises, EVOLUTION, enseigne SUNCITY (SIREN 508 672 052)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/508672052",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s20",
+      "label": "BODACC, annonces d'EVOLUTION (sauvegarde, liquidation, clôture)",
+      "url": "https://bodacc-datadila.opendatasoft.com",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s21",
+      "label": "Annuaire des entreprises, FIT FACTORY HUB ONE (SIREN 993 935 436)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/993935436",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s22",
+      "label": "Fitness Park, page « Lyon Terreaux »",
+      "url": "https://www.fitnesspark.fr/club/lyon-terreaux/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s23",
+      "label": "Base Adresse Nationale, 3 rue Sainte-Marie-des-Terreaux",
+      "url": "https://api-adresse.data.gouv.fr/search/?q=3+rue+sainte+marie+des+terreaux+lyon",
+      "type": "carte",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s24",
+      "label": "sauna-club-libertin.com, fiche « SUN LIBERTIN »",
+      "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_3.php?id=15290&d=69",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s25",
+      "label": "sauna-club-libertin.com, fiche « LE SUN CLUB »",
+      "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_3.php?id=15314&d=69",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s26",
+      "label": "Sortir Lyon, « Le Sun Libertin »",
+      "url": "https://www.sortir-lyon.com/etablissements/coquins/le-sun-libertin",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s27",
+      "label": "Lieux Coquins, « Le Sun Libertin » (3 avis, 2018-2021)",
+      "url": "https://www.lieuxcoquins.fr/lieu/le-sun-libertin/",
+      "type": "avis",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s28",
+      "label": "Minuit Libertin, « Le Sun Libertin à Lyon »",
+      "url": "https://minuitlibertin.com/le-sun-libertin-a-lyon/",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s29",
+      "label": "Club Libertin France, « club libertin Lyon »",
+      "url": "https://club-libertin-france.fr/club-libertin-lyon/",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s30",
+      "label": "moon-libertin.fr, état actuel du site",
+      "url": "https://moon-libertin.fr/",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s31",
+      "label": "Le Diamant, site officiel, accueil et soirée SM/BDSM du 30/10/2026",
+      "url": "https://www.diamant-libertin.com/event.php?id=1744",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s32",
+      "label": "Histoire d'Eau, site officiel, agenda d'octobre 2026",
+      "url": "https://www.histoiredeau.fr/event-list",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s33",
+      "label": "Le Trou, site officiel, accueil et agenda",
+      "url": "https://www.letrou.fr/fr-fr/index.html",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s34",
+      "label": "Bada Bar, site officiel",
+      "url": "https://www.bada-bar.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s35",
+      "label": "Lyon People, « Un célèbre club libertin s'échange avec un club de fitness » (29/09/2026)",
+      "url": "https://www.lyonpeople.com/actualites-lyon/actualites-economiques/lyon-un-celebre-club-libertin-sechange-avec-un-club-de-fitness-2026-09-29.html",
+      "type": "presse",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s36",
+      "label": "Lyon Entreprises, « Fitness Park ouvre aux Terreaux et vise cinq salles à Lyon » (01/09/2026)",
+      "url": "https://www.lyon-entreprises.com/actualites/article/fitness-park-ouvre-aux-terreaux-et-vise-cinq-salles-a-lyon",
+      "type": "presse",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s37",
+      "label": "Vivre Villes, « Une immense salle de fitness de 1 500 m2 ouvre ce mois-ci aux Terreaux » (02/09/2026)",
+      "url": "https://www.vivre-villes.fr/lyon/a-la-une-de-lyon/2026/09/02/une-immense-salle-de-fitness-de-1-500-m2-ouvre-ce-mois-ci-aux-terreaux-a-lyon/",
+      "type": "presse",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s38",
+      "label": "Toute la Franchise, Fitness Park aux Terreaux (05/09/2026)",
+      "url": "https://www.toute-la-franchise.com/news-fitness-park-terreaux-lyon",
+      "type": "presse",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s39",
+      "label": "Têtu, article du 09/06/2021 sur le Sun Libertin et sa réouverture",
+      "url": "https://tetu.com/2021/06/09/lyon-gerant-sauna-sun-libertin-condamne-trafic-cannabis-drogue/",
+      "type": "presse",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s40",
+      "label": "CityCrunch Lyon, « On a testé le Sun, le sauna libertin de Lyon » (17/01/2018)",
+      "url": "https://lyon.citycrunch.fr/club-echangiste-lyon/2018/01/17/",
+      "type": "presse",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s41",
+      "label": "La Voix du X, « On a testé le Sun Lyon » (28/04/2016)",
+      "url": "https://www.lavoixdux.com/2016/04/28/on-a-teste-le-sun-lyon/",
+      "type": "presse",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s42",
+      "label": "La Voix du X, « Les 10 meilleurs clubs libertins en France » (16/07/2016)",
+      "url": "https://www.lavoixdux.com/2016/07/16/les-10-meilleurs-clubs-libertins-en-france/",
+      "type": "presse",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s43",
+      "label": "La Voix du X, « Le top 20 des meilleurs clubs libertins de France » (24/07/2019)",
+      "url": "https://www.lavoixdux.com/2019/07/24/le-top-20-des-meilleurs-clubs-libertins-de-france/",
+      "type": "presse",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s44",
+      "label": "Le Sun Gay, site officiel, archive du 08/06/2013 (tarifs du dimanche au mardi)",
+      "url": "https://web.archive.org/web/20130608095552/http://le-sun-gay.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s45",
+      "label": "Le Sun Gay, site officiel, archive du 23/01/2021 (horaires et rendez-vous)",
+      "url": "https://web.archive.org/web/20210123145054/https://www.le-sun-gay.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s46",
+      "label": "Wanderlog, « Le Sun Libertin » (note et avis Google relayés)",
+      "url": "https://wanderlog.com/place/details/10193410/le-sun-libertin",
+      "type": "avis",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s47",
+      "label": "Top-Rated.Online, « Le Sun Libertin » (note Google relayée)",
+      "url": "https://www.top-rated.online/cities/Lyon/place/p/5038403/Le+Sun+Libertin",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s48",
+      "label": "Le Petit Paumé, « Le Sun Libertin (SunCity) »",
+      "url": "https://www.petitpaume.com/etablissements/le-sun-libertin-suncity-",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    }
+  ]
+}

@@ -1,9 +1,13 @@
 {
   "nom": "Camping La Roseraie (libellé « Camping libertin la Roseraie » au BODACC, à vérifier)",
   "ville": "Brugheas (03700)",
-  "url": null,
+  "url": "https://www.campinglibertinlaroseraie.com/",
   "foundIn": [
-    "le-lotus-d-or-montlucon-domerat"
+    "le-lotus-d-or-montlucon-domerat",
+    "sauna-club-6e-sens-abrest"
   ],
-  "status": "todo"
+  "status": "added",
+  "slug": "camping-libertin-la-roseraie-brugheas",
+  "reason": "Camping 100 % libertin et candauliste (hébergement libertin, dans le périmètre), 4 La Boucharde à Brugheas, près de Vichy, saisonnier de fin mai à mi-septembre. Activité établie : le site officiel campinglibertinlaroseraie.com annonce que « la saison 2026 est finie » et fixe la saison 2027 du 22/05 au 13/09 ; son livre d'or a des messages du 05/07 au 30/08/2026 ; avis PagesJaunes du 16/07/2026. L'exploitant SAS De La Roseraie (SIREN 537 423 683, NAF 55.30Z) est actif, mise à jour RNE le 24/09/2026 ; achat du fonds en 2011 (BODACC A2011022053), conversion au libertinage le 15/06/2015 (site et archive du 01/01/2015). Le bandeau PagesJaunes « probablement fermé » est contredit par ces preuves (fermeture saisonnière). Absent de la base : find-club ne trouve rien par nom, ville, adresse ni téléphone (04 70 32 43 33).",
+  "qualifiedAt": "2026-10-21"
 }

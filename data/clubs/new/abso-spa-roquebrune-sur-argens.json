@@ -1,0 +1,19 @@
+{
+  "id": "new-abso-spa-roquebrune-sur-argens",
+  "nom": "Abso Spa",
+  "type": "spa libertin",
+  "types_normalises": ["Spa & Wellness", "Sauna", "Club", "Restaurant", "Discothèque"],
+  "adresse": "1479 route Nationale 7, Les Castagniers",
+  "code_postal": "83520",
+  "ville": "Roquebrune-sur-Argens",
+  "departement_code": "83",
+  "departement_nom": "Var",
+  "region": "Provence-Alpes-Côte d'Azur",
+  "pays": "France",
+  "telephone": "0783991269",
+  "email": "",
+  "site_web": "https://clubabsolu.com/homepages/abso-spa/",
+  "equipements": ["Piscine extérieure", "Patio", "Sauna", "Hammam", "Jacuzzi", "Thermes romains", "Salle de massage", "Coins câlins à thème", "Restaurant", "Discothèque", "Parking"],
+  "verification": { "status": "actif" },
+  "addedAt": "2026-10-20"
+}

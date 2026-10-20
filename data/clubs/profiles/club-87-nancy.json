@@ -1,0 +1,350 @@
+{
+  "slug": "club-87-nancy",
+  "clubId": "new-club-87-nancy",
+  "researchedAt": "2026-10-20",
+  "display": { "nom": "Club 87", "ville": "Nancy" },
+  "status": {
+    "value": "ouvert",
+    "summary": "Le 10 octobre 2026, la page Facebook du Club 87 (lue via un site miroir) annonçait encore une ouverture le samedi et le dimanche de 10 h à 20 h ; en juillet, le site avait mis en ligne seize photos des espaces, dont un « nouvel espace glory hole ».",
+    "sources": ["s11", "s7", "s22", "s15"]
+  },
+  "seo": {
+    "title": "Club 87 Nancy : cinéma X mixte et LGBT, horaires et entrée à 10 €",
+    "metaDescription": "Sex-shop, cinéma X et sex-club rue Jeanne d'Arc : trois salles (gay et trans, libertine, mixte), 400 m², ouvert 7 j/7 de 10 h à 20 h, entrée 10 €.",
+    "subtitle": "Sex-shop, cinéma X et sex-club mixte et LGBT sur trois niveaux, rue Jeanne d'Arc à Nancy (54)",
+    "targetQueries": [
+      "club 87 nancy",
+      "club 87 nancy avis",
+      "club 87 nancy horaires",
+      "club 87 nancy tarif",
+      "club 87 nancy photos",
+      "cinéma x nancy",
+      "sex shop nancy rue jeanne d'arc",
+      "x shop nancy",
+      "club libertin nancy"
+    ]
+  },
+  "lead": "Le Club 87 réunit sur 400 m² et trois niveaux un sex-shop, un cinéma X permanent et un sex-club, avec backroom, labyrinthe et glory holes. Ses trois salles de projection séparent les publics : gay et trans, libertin, mixte. Ouvert tous les jours de 10 h à 20 h, il fait payer 10 € l'entrée valable la journée, un prix déjà affiché en 2020, et sa page Facebook publiait encore le 10 octobre 2026.",
+  "glance": [
+    { "icon": "clock", "label": "Ouvert", "value": "Tous les jours, 10 h-20 h" },
+    { "icon": "euro", "label": "Entrée", "value": "10 € la journée · 20 € les 4 entrées" },
+    { "icon": "users", "label": "Trois salles X", "value": "Gay et trans · libertine · mixte" },
+    { "icon": "ruler", "label": "Surface", "value": "400 m² sur trois niveaux" },
+    { "icon": "ticket", "label": "Trans et travestis", "value": "Entrée gratuite vendredi et samedi" },
+    { "icon": "map", "label": "Accès", "value": "Tram 1, arrêt Mon Désert" }
+  ],
+  "audience": [
+    { "who": "hommes", "status": "oui", "detail": "Tous les jours de 10 h à 20 h ; backroom ouverte à tous les publics selon le site", "price": "10 €" },
+    { "who": "couples", "status": "oui", "detail": "Une salle de cinéma libertine ; aucun tarif couple publié, à demander" },
+    { "who": "femmes", "status": "oui", "detail": "Lieu annoncé mixte ; aucun tarif ni jour réservé aux femmes n'est publié" },
+    { "who": "trans", "status": "oui", "detail": "Gratuit le vendredi et le samedi (visuel de juin 2026) ; salle gay et trans", "price": "0 € ven.-sam., 10 € sinon" }
+  ],
+  "highlights": [
+    "Fermeture à 20 h tous les jours : les nocturnes jusqu'à minuit citées par d'anciens annuaires ne figurent sur aucune source officielle de 2026.",
+    "Le billet de 10 € reste valable toute la journée ; la carte de quatre entrées à 20 € ramène l'entrée à 5 €.",
+    "Pas de bar annoncé, seulement un distributeur de boissons fraîches et de café ; le lieu est climatisé et dispose d'un fumoir.",
+    "Trans et travestis entrent gratuitement le vendredi et le samedi ; une affiche du club ajoute le dimanche, à faire confirmer sur place.",
+    "Tram 1, arrêt Mon Désert, à cinq minutes de la gare selon le club ; l'adresse publiée est le 85, le registre cite le 87."
+  ],
+  "keyFacts": [
+    { "label": "Type de lieu", "value": "Sex-shop, cinéma X permanent et sex-club", "confidence": "confirme", "sources": ["s1", "s2", "s8"] },
+    { "label": "Public", "value": "Mixte et LGBT : hétéros, gays, bis, trans, couples", "confidence": "confirme", "sources": ["s1", "s2", "s3", "s10"] },
+    { "label": "Jours d'ouverture", "value": "Tous les jours, de 10 h à 20 h", "confidence": "confirme", "sources": ["s1", "s11", "s13", "s15"] },
+    { "label": "Entrée", "value": "10 € la journée, 20 € les quatre entrées", "confidence": "confirme", "sources": ["s1", "s3", "s10"] },
+    { "label": "Gratuité", "value": "Trans et travestis, vendredi et samedi", "confidence": "confirme", "sources": ["s8", "s17"] },
+    { "label": "Surface", "value": "400 m² sur trois niveaux, dont 50 m² de boutique", "confidence": "confirme", "sources": ["s10", "s16", "s17"] },
+    { "label": "Autre nom", "value": "X Shop", "confidence": "confirme", "sources": ["s13", "s15"] },
+    { "label": "Exploitant", "value": "Entreprise individuelle créée le 22/04/2004 (SIREN 453 108 037), rattachée au lieu par PagesJaunes", "confidence": "source_unique", "sources": ["s12", "s13"] },
+    { "label": "SNEG & Co", "value": "Adhérent depuis 2005, selon le groupement", "confidence": "source_unique", "sources": ["s15"] }
+  ],
+  "sections": [
+    {
+      "id": "trois-salles-trois-publics",
+      "title": "Trois salles de cinéma X séparées : gay et trans, libertine, mixte",
+      "icon": "users",
+      "summary": "Le Club 87 est un sex-shop prolongé d'un cinéma X et d'un sex-club ; en 2026, ses trois salles de projection séparent les publics gay et trans, libertin et mixte.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Ce n'est pas un club de soirée : le Club 87 se décrit comme un « sex shop, espaces pour adultes et plus encore ». Au-delà de la boutique, le lieu compte un cinéma X permanent et des espaces de rencontre, avec cabines, backroom, labyrinthe et glory holes, ouverts de 10 h à 20 h."
+        },
+        {
+          "kind": "list",
+          "title": "Les trois salles annoncées sur la page Labyrinthe (juillet 2026)",
+          "items": [
+            "**Gay & Trans** : intitulée ainsi sur le site, sans autre description.",
+            "**Libertin** : présentée comme une « Nouveauté » sur un visuel publié le 15 juillet 2026, avec fauteuils de cinéma et croix de Saint-André.",
+            "**Mixte** : la page Facebook y annonçait « de la nouveauté » le 10 septembre 2026, sans détailler."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le site s'adresse aux hétéros, gays, bis et trans. Sa backroom, précise-t-il, accueille les « hétéro, homosexuel, transsexuel » comme les personnes mariées, divorcées ou célibataires."
+        },
+        {
+          "kind": "text",
+          "body": "Un paragraphe vise les couples libertins et les invite à dire leurs envies à « un autre couple partenaire ». Ce couple peut se chercher avant de venir : Carré Libertin annonce une communauté composée à environ 60 % de femmes et de couples, de quoi [proposer à un couple lorrain une séance en salle libertine](aff:carre-libertin)."
+        }
+      ],
+      "sources": ["s1", "s2", "s3", "s11", "s22"]
+    },
+    {
+      "id": "entree-10-euros",
+      "title": "10 € la journée et 20 € les quatre entrées, les mêmes prix qu'en 2020",
+      "icon": "euro",
+      "summary": "L'entrée coûte 10 € et vaut toute la journée ; la carte de quatre entrées coûte 20 €. Ces prix sont déjà ceux du site en août 2020.",
+      "blocks": [
+        {
+          "kind": "table",
+          "caption": "Le prix d'entrée dans les versions successives du site officiel",
+          "headers": ["Version du site", "Une entrée", "Quatre entrées"],
+          "rows": [
+            ["Août 2020 (archive)", "10 €, valable la journée", "20 € (« Carte Pass »)"],
+            ["Février 2023 et décembre 2024 (archives)", "10 €", "20 €"],
+            ["Janvier 2026 (archive du site refondu)", "10 €", "20 €"],
+            ["Octobre 2026 (site en ligne)", "10 €, valable la journée", "20 €"]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Dans les salles, la carte de quatre entrées s'affiche sous le nom de « Carte Passeport ». Aucun tarif propre aux couples ou aux femmes n'est publié : le prix de 10 € semble valoir pour tous, ce qui reste à confirmer au 03 83 28 67 70."
+        },
+        {
+          "kind": "callout",
+          "tone": "tip",
+          "title": "Entrée gratuite pour les trans et travestis",
+          "body": "Un visuel « Happy Hour » publié le 30 juin 2026 offre l'entrée aux trans et aux travestis tous les vendredis et samedis. Une affiche visible sur la photo du fumoir, mise en ligne le 1er juillet, y ajoute le dimanche : elle est peut-être plus ancienne, mieux vaut vérifier avant de compter sur ce jour-là."
+        },
+        {
+          "kind": "text",
+          "body": "Côté boutique, la page Actus affichait en 2026 des DVD hétéro à 10 € l'unité ou 20 € les trois. Le rayon compte aussi lingerie, sex toys et poppers ; en 2020, le site revendiquait plus de 20 000 titres en vente, en location ou en projection."
+        }
+      ],
+      "sources": ["s1", "s3", "s4", "s8", "s9", "s10", "s22"]
+    },
+    {
+      "id": "trois-niveaux-400-m2",
+      "title": "400 m² sur trois niveaux, de la boutique au labyrinthe du sous-sol",
+      "icon": "building",
+      "summary": "Jusqu'en 2024, le site décrivait 400 m² : 50 m² de boutique et 350 m² d'espaces de rencontre, du rez-de-chaussée au sous-sol ; les panneaux de 2026 suivent ce partage.",
+      "blocks": [
+        {
+          "kind": "table",
+          "caption": "Répartition des espaces selon le site officiel, de 2020 à 2024",
+          "headers": ["Niveau", "Espaces"],
+          "rows": [
+            ["Rez-de-chaussée", "Boutique, DVD, cabines, cinéma"],
+            ["Étage", "Cabines, salons, glory holes, douche ; plaques coulissantes pour s'isoler ou non"],
+            ["Sous-sol", "Backroom de cruising, labyrinthe, glory holes, cabines, cinéma"]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Chaque niveau avait alors ses cabines, ses projections permanentes et son distributeur de boissons. En 2026, un panneau à l'entrée envoie toujours vers l'étage pour les « programmes hétéro » et vers le bas pour la salle vidéo, les cabines, les backrooms et le labyrinthe. Le visuel de juin 2026 parle encore d'un « Ciné X sur 3 niveaux »."
+        },
+        {
+          "kind": "text",
+          "body": "Le 1er juillet 2026, le site a publié la photo d'un « nouvel espace glory hole » : deux cabines en panneaux de bois peints en noir, marquées chacune d'une plaque « Glory Hole », avec un écran au mur. Le site cite aussi croix de Saint-André, sling, salons, « coins intimistes ouverts ou fermés », douches, casiers et fumoir."
+        },
+        {
+          "kind": "text",
+          "body": "Les cabines sont numérotées : l'une des portes photographiées porte le numéro 17. L'annuaire Gayspot en compte 25, avec quatre salons et une cage, des chiffres que le site ne donne pas."
+        }
+      ],
+      "sources": ["s2", "s3", "s8", "s10", "s16", "s22"]
+    },
+    {
+      "id": "tram-mon-desert",
+      "title": "Rue Jeanne d'Arc : tram 1 à l'arrêt Mon Désert, gare à cinq minutes",
+      "icon": "map",
+      "summary": "Le Club 87 est au 85 rue Jeanne d'Arc, desservi par la ligne 1 du tram (arrêt Mon Désert) et à cinq minutes de la gare selon le club.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le club indique la ligne 1 du tram, arrêt Mon Désert, et se dit à cinq minutes de la gare. Sa page Facebook signalait en septembre 2026 un parking à proximité, sans préciser lequel."
+        },
+        {
+          "kind": "callout",
+          "tone": "info",
+          "title": "85 ou 87 rue Jeanne d'Arc ?",
+          "body": "Le site, PagesJaunes et Mappy donnent le 85 ; le SNEG & Co écrit « 85-87 » et le registre des entreprises domicilie l'exploitant au 87. Mappy référence aussi au 87 une boutique Jacquie & Michel ; en 2020, le site du club annonçait une boutique Jacquie & Michel partenaire « juste à côté », sans doute la même."
+        },
+        {
+          "kind": "text",
+          "body": "À environ 1,2 km à vol d'oiseau, le [Sauna 51 de Laxou](/sauna-51-laxou) a sa propre fiche, comme [le Rubis de Saint-Nicolas-de-Port](/rubis-saint-nicolas-club), à environ 11 km. Les autres adresses du secteur sont réunies sur la page de la [Meurthe-et-Moselle](/departement/meurthe-et-moselle)."
+        },
+        {
+          "kind": "text",
+          "body": "À Nancy même, l'ancien [Sauna Club LG de la rue Alfred Mézières](/club-lg-nancy), à environ 1,9 km, n'a plus de site : saunalg.com présentait encore ce sauna en août 2010, et dès juin 2011 le domaine ne montrait plus qu'une page de parking."
+        },
+        {
+          "kind": "text",
+          "body": "Au 5 de cette rue, le registre indique que l'établissement de SAUNANCY a fermé le 1er juin 2010 et que la SARL La Détente y exerce depuis 2012. Son site présente en octobre 2026 un « sauna pour hommes », sans mentionner le nom LG."
+        }
+      ],
+      "sources": ["s8", "s10", "s11", "s12", "s13", "s14", "s15", "s21", "s23", "s24", "s25"]
+    },
+    {
+      "id": "x-shop-depuis-2004",
+      "title": "« X Shop » : une entreprise créée en 2004, au SNEG & Co depuis 2005",
+      "icon": "history",
+      "summary": "Aussi appelé X Shop, le lieu est exploité, selon PagesJaunes, par une entreprise individuelle créée en 2004 ; le SNEG & Co le dit adhérent depuis 2005.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le logo dit « Club 87 Nancy – Boutique & Cinéma ». PagesJaunes cite « X Shop » comme autre dénomination, le SNEG & Co, un groupement d'établissements, parle de « X Shop Club 87 », et un compte X s'appelle @XShopNancy."
+        },
+        {
+          "kind": "timeline",
+          "items": [
+            { "date": "22 avril 2004", "text": "Création de l'entreprise individuelle que PagesJaunes rattache au lieu : commerce de détail, dont le siège est aujourd'hui au 87 rue Jeanne d'Arc." },
+            { "date": "2005", "text": "Début de l'adhésion au SNEG & Co, d'après la fiche du groupement." },
+            { "date": "1er janvier 2008", "text": "Début d'activité de l'établissement inscrit au registre des entreprises." },
+            { "date": "Août 2020", "text": "Première capture du site club87-nancy.com dans les archives du web : 400 m², trois niveaux, entrée à 10 €." },
+            { "date": "Septembre 2025", "text": "Refonte du site ; six articles de blog paraissent le 25 septembre, aucun depuis." },
+            { "date": "4 juin 2026", "text": "Le SNEG & Co met le lieu en avant dans sa rubrique « Ils ont rejoint le SNEG & Co », tout en le disant adhérent depuis 2005." },
+            { "date": "Juillet 2026", "text": "Seize photos des espaces en ligne, dont le nouvel espace glory hole et la salle libertine." },
+            { "date": "Septembre-octobre 2026", "text": "La page Facebook rappelle l'ouverture 7 jours sur 7 et annonce des nouveautés au cinéma mixte." }
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le registre déclare 3 à 5 salariés pour 2024. Aucun article de presse sur le lieu n'a été trouvé, ni dans L'Est Républicain ni ailleurs."
+        }
+      ],
+      "sources": ["s1", "s7", "s10", "s11", "s12", "s13", "s15", "s22"]
+    },
+    {
+      "id": "venue-13-juin",
+      "title": "Une seule date publiée en 2026 : la venue d'une invitée le samedi 13 juin",
+      "icon": "calendar",
+      "summary": "Le Club 87 ne tient pas d'agenda de soirées : sa page Actus a annoncé une invitée le 13 juin 2026, et sa rubrique d'actualités affiche toujours « Très bientôt ».",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "La page Actus, modifiée le 30 juin 2026, annonçait le retour à Nancy d'une invitée le samedi 13 juin. L'accueil promet des événements, des soirées et des « rencontres avec des acteurs », mais la rubrique « Les Actus du Club » affiche toujours « Très bientôt » au 20 octobre 2026."
+        },
+        {
+          "kind": "list",
+          "title": "Ce que la page Facebook a publié à l'automne 2026 (lue via un site miroir)",
+          "items": [
+            "10 septembre : nouveautés au cinéma mixte et remise en boutique.",
+            "28 septembre : ouverture 7 jours sur 7, de 10 h à 20 h sans interruption.",
+            "10 octobre : ouverture le samedi et le dimanche, de 10 h à 20 h."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Pour les soirées et événements, l'accueil renvoie vers une page Partenaires : six sites, Wyylde en tête, chacun marqué « Partenaire Club 87 Nancy », sans autre précision. Faute de soirée datée au club, les 7 millions de membres que revendique Wyylde offrent une autre piste : [repérer en ligne des libertins de l'agglomération nancéienne](aff:wyylde) avant un passage au cinéma mixte."
+        }
+      ],
+      "sources": ["s1", "s3", "s5", "s11"]
+    }
+  ],
+  "horaires": {
+    "rows": { "Lundi au dimanche": "10 h – 20 h, sans interruption" },
+    "note": "Horaires du site et de la page Facebook en 2026. Les fermetures à minuit du jeudi au samedi citées par des annuaires non datés ne sont confirmées par aucune source officielle.",
+    "confidence": "confirme",
+    "sources": ["s1", "s6", "s11", "s13", "s15", "s17", "s18", "s19"]
+  },
+  "tarifs": {
+    "rows": {
+      "Une entrée (valable la journée)": "10 €",
+      "Quatre entrées (carte « Passeport »)": "20 €",
+      "Trans et travestis, vendredi et samedi": "Gratuit"
+    },
+    "note": "Aucun tarif couple ou femme publié. Une affiche photographiée en juillet 2026 étend la gratuité trans et travestis au dimanche ; le visuel de juin 2026 s'en tient au vendredi et au samedi.",
+    "confidence": "confirme",
+    "sources": ["s1", "s3", "s8", "s9", "s10", "s22"]
+  },
+  "equipements": [
+    "Boutique : lingerie, sex toys, poppers, DVD",
+    "Trois salles de cinéma X (gay et trans, libertine, mixte)",
+    "Cabines avec projection vidéo",
+    "Salons",
+    "Backroom",
+    "Labyrinthe",
+    "Glory holes (nouvel espace en 2026)",
+    "Croix de Saint-André",
+    "Sling",
+    "Coins intimes ouverts ou fermés",
+    "Douches",
+    "Casiers individuels",
+    "Fumoir",
+    "Climatisation",
+    "Distributeur de boissons fraîches et de café"
+  ],
+  "externalRatings": [
+    { "platform": "PagesJaunes", "rating": 5, "scale": 5, "count": 1, "date": "2026-10-20", "url": "https://www.pagesjaunes.fr/pros/09438044" }
+  ],
+  "officialLinks": [
+    { "label": "Site officiel", "url": "https://club87-nancy.com/", "kind": "site" },
+    { "label": "Seize photos des espaces (page Labyrinthe)", "url": "https://club87-nancy.com/labyrinthe/", "kind": "galerie" },
+    { "label": "Page Facebook", "url": "https://www.facebook.com/profile.php?id=100083189923990", "kind": "facebook" }
+  ],
+  "faq": [
+    {
+      "question": "Le Club 87 de Nancy est-il ouvert en 2026 ?",
+      "answer": "Oui. Sa page Facebook annonçait encore le 10 octobre 2026 une ouverture le samedi et le dimanche de 10 h à 20 h, le site a été mis à jour en juillet 2026 et le SNEG & Co le listait parmi ses adhérents le 4 juin 2026. Aucune annonce de fermeture n'a été trouvée."
+    },
+    {
+      "question": "Quels sont les horaires du Club 87 ?",
+      "answer": "Tous les jours de 10 h à 20 h sans interruption, selon le site officiel, la page Facebook (septembre et octobre 2026), PagesJaunes, le JDS et le SNEG & Co. Des annuaires non datés, comme nancy54 ou Lieux Coquins, évoquent une fermeture à minuit du jeudi au samedi : aucune source officielle ne le confirme en 2026."
+    },
+    {
+      "question": "Combien coûte l'entrée au Club 87 ?",
+      "answer": "10 € pour une entrée valable toute la journée, 20 € pour quatre entrées. L'entrée est gratuite pour les trans et les travestis le vendredi et le samedi, selon un visuel de juin 2026. Aucun tarif couple ou femme n'est publié."
+    },
+    {
+      "question": "Les couples et les femmes peuvent-ils venir ?",
+      "answer": "Le lieu se dit mixte, réserve une salle au cinéma libertin et parle aux couples, sans tarif spécifique ni avis décrivant leur fréquentation : appelez le 03 83 28 67 70 avant de venir. Une femme qui préfère ne pas venir seule peut d'abord [chercher sur Gleese avec qui pousser la porte de la rue Jeanne d'Arc](aff:gleese), un réseau où chaque photo de profil est modérée à la main."
+    },
+    {
+      "question": "Le Club 87 est-il un club libertin ?",
+      "answer": "Pas au sens d'un club de soirée : il ferme à 20 h et n'annonce ni bar ni piste, seulement un distributeur de boissons et de café. C'est un sex-shop doublé d'un cinéma X et d'espaces de rencontre, mixte, LGBT et libertin. Les autres adresses de la ville sont sur la [page consacrée à Nancy](/ville/nancy)."
+    },
+    {
+      "question": "Où voir des photos du Club 87 ?",
+      "answer": "La page Labyrinthe du site affiche seize photos de juillet 2026. Celles que nous avons vues montrent un couloir de cabines numérotées aux murs de tôle striée, un couloir de backroom sous lumière bleue, des fauteuils de cinéma, une croix de Saint-André, un sling, les cabines glory hole et un espace détente. La salle libertine, au décor façon marbre, détonne : photo retouchée ou image de synthèse, impossible de le dire."
+    },
+    {
+      "question": "Que disent les avis sur le Club 87 ?",
+      "answer": "Ils sont très rares : 5/5 sur un unique avis PagesJaunes de février 2019, auquel l'établissement a répondu en septembre 2023, et 4,5/5 annoncé par l'annuaire Gayspot sur deux avis, dont un seul lisible (août 2023). C'est trop peu pour juger ; les avis Google n'ont pas été consultés."
+    }
+  ],
+  "unverified": [
+    "Le prix de 10 € s'applique-t-il à chaque membre d'un couple ? Aucun tarif couple ou femme n'est publié.",
+    "La gratuité des trans et travestis vaut-elle aussi le dimanche, comme l'indique une affiche photographiée dans le club ?",
+    "La répartition des espaces par niveau date du site de 2020-2024 : a-t-elle changé depuis ?",
+    "Gayspot annonce 25 cabines, quatre salons et une cage : aucune source officielle ne donne ces chiffres.",
+    "Des soirées ou des rencontres sont-elles prévues après le 13 juin 2026 ? La rubrique d'actualités du site reste vide.",
+    "La boutique Jacquie & Michel du 87 rue Jeanne d'Arc est-elle toujours partenaire du club ?",
+    "Avis Google non consultés ; les notes relayées par d'autres annuaires n'ont pas pu être lues."
+  ],
+  "sources": [
+    { "id": "s1", "label": "Club 87 Nancy, site officiel : accueil", "url": "https://club87-nancy.com/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s2", "label": "Site officiel : page Labyrinthe (salles, backroom, équipements)", "url": "https://club87-nancy.com/labyrinthe/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s3", "label": "Site officiel : page Actus", "url": "https://club87-nancy.com/actus-test/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s4", "label": "Site officiel : page Boutique", "url": "https://club87-nancy.com/boutique/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s5", "label": "Site officiel : page Partenaires", "url": "https://club87-nancy.com/partenaires/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s6", "label": "Site officiel : page Contact", "url": "https://club87-nancy.com/contact-test/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s7", "label": "Site officiel : dates de mise à jour des pages et des médias (API WordPress)", "url": "https://club87-nancy.com/wp-json/wp/v2/media", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s8", "label": "Visuel officiel « Happy Hour », publié le 30 juin 2026", "url": "https://club87-nancy.com/wp-content/uploads/2026/06/happy-hour-club-87-nancy-trans-travestis-1.jpg", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s9", "label": "Photo officielle du fumoir, publiée le 1er juillet 2026", "url": "https://club87-nancy.com/wp-content/uploads/2026/07/fumoir-du-club-87-cinema-libertin-lgbt-a-nancy-scaled.jpg", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s10", "label": "Site officiel, archives de 2020 à 2026 (Wayback Machine)", "url": "https://web.archive.org/web/20200815164822/http://club87-nancy.com/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s11", "label": "Page Facebook Club 87 Nancy, publications de septembre et octobre 2026 relayées par findglocal", "url": "https://www.findglocal.com/FR/Nancy/102311079174783/Club-87-Nancy", "type": "reseau_social", "consulted": "2026-10-20" },
+    { "id": "s12", "label": "Annuaire des entreprises : entreprise individuelle, SIREN 453 108 037", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/453108037", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s13", "label": "PagesJaunes : Club 87", "url": "https://www.pagesjaunes.fr/pros/09438044", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s14", "label": "Mappy : Club 87", "url": "https://fr.mappy.com/poi/50addd4a84aedc6afac2d3e8", "type": "carte", "consulted": "2026-10-20" },
+    { "id": "s15", "label": "SNEG & Co : X Shop Club 87", "url": "https://www.snegandco.fr/x-shop-club-87/", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s16", "label": "Gayspot : club 87 Nancy", "url": "https://gayspot.fr/lieu-de-drague-gay/1379-club-87-nancy-nancy.html", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s17", "label": "nancy54.com : Club 87 - Jacquie et Michel Nancy (non daté)", "url": "https://www.nancy54.com/club-87-jacquie-et-michel-nancy", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s18", "label": "JDS : Club 87 Nancy", "url": "https://www.jds.fr/nancy/magasin-erotique/club-87-nancy-21113_L", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s19", "label": "Lieux Coquins : Club 87 Sex Center (fiche ancienne)", "url": "https://www.lieuxcoquins.fr/lieu/club-87-sex-center/", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s21", "label": "Base Adresse Nationale : coordonnées des adresses, distances à vol d'oiseau", "url": "https://api-adresse.data.gouv.fr/search/?q=85+rue+Jeanne+d%27Arc+54000+Nancy", "type": "autre", "consulted": "2026-10-20" },
+    { "id": "s22", "label": "Site officiel : seize photos des espaces publiées en juillet 2026 (page Labyrinthe)", "url": "https://club87-nancy.com/labyrinthe/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s23", "label": "Recherche d'entreprises : établissements du 5 rue Alfred Mézières à Nancy (SAUNANCY, SARL La Détente)", "url": "https://recherche-entreprises.api.gouv.fr/search?q=5%20rue%20alfred%20mezieres&code_postal=54000", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s24", "label": "Site du réseau Sauna Club LG (saunalg.com), fiche du sauna de Nancy, archive du 24/05/2010, et captures de 2010-2011", "url": "https://web.archive.org/web/20100524214707/http://www.saunalg.com/description.php?s=3", "type": "autre", "consulted": "2026-10-20" },
+    { "id": "s25", "label": "Site du Sauna La Détente (5 rue Alfred Mézières) : présentation et planning d'octobre 2026", "url": "https://www.sauna-ladetente.fr/", "type": "autre", "consulted": "2026-10-20" }
+  ]
+}

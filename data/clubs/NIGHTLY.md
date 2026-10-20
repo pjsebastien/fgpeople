@@ -97,4 +97,4 @@ complémentaire ». Les fiches déjà publiées concernées
 (`node scripts/club-queue.mjs --published-complement`) passent dans le même
 workflow avec `"from": "complement-published"`, puis sont recommitées.
 
-Quota de recherche : ne jamais faire tourner plus de 2 lots à la fois.
+Quota de recherche : WebSearch est limité à **200 appels par tour, partagés par tous les agents lancés dans ce tour** (chaque déclenchement horaire et chaque notification de fin de lot ouvre un nouveau tour, avec un quota neuf). Donc **un seul lot qui fait de la recherche web par tour**, de 10 à 12 éléments, et relancer le lot suivant dans le tour de la notification de fin. Deux lots lancés dans des tours différents ont chacun leur quota et peuvent tourner en parallèle ; deux lots lancés dans le même tour se le partagent et s'épuisent (recherche, complément, qualification, balayage). Deux lots en parallèle épuisent le quota WebSearch et renvoient la moitié des dossiers en complément (constaté les 19 et 20/10/2026). Un second lot n'est permis que s'il ne cherche pas (reprises, vérifications seules).

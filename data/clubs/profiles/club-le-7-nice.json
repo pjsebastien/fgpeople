@@ -1,0 +1,314 @@
+{
+  "slug": "club-le-7-nice",
+  "clubId": "new-club-le-7-nice",
+  "researchedAt": "2026-10-20",
+  "status": {
+    "value": "ouvert",
+    "summary": "Le 9 juillet 2026, la page Facebook du club annonçait encore sa soirée mousse « 100 % mecs », chaque jeudi de l'été dès 21 h 30, après des « jeudis déshabillé » lancés le 2 avril. Une photo publiée le 9 septembre 2026 est sa dernière trace datée. Le site répond toujours, et l'établissement « SAUNA 7 » reste actif au registre, où sa société a été mise à jour le 24 septembre 2026. Aucune soirée n'est encore annoncée pour l'automne.",
+    "sources": ["s8", "s7", "s5", "s10"]
+  },
+  "seo": {
+    "title": "Club Le 7 à Nice : ex-Sauna 7, cruising gay, horaires et prix",
+    "metaDescription": "Ancien sauna devenu bar de cruising réservé aux hommes : cinéma, backroom, piste dans l'ex-piscine, 10 € avec une conso en espèces, mousse le jeudi l'été.",
+    "subtitle": "Sex-club et bar de cruising gay sur trois niveaux, rue Foncet à Nice (06)",
+    "targetQueries": [
+      "le 7 nice",
+      "club le 7 nice",
+      "sauna le 7 nice",
+      "le 7 cruising bar nice",
+      "club le 7 nice horaires",
+      "le 7 nice prix entrée"
+    ]
+  },
+  "lead": "Créé en mars 1974 selon sa page Facebook et présenté par son site comme l'un des premiers saunas de Nice, Le 7 de la rue Foncet est devenu, au plus tard en 2014, un sex-club et bar de cruising réservé aux hommes, ouvert le soir dès 21 h 30. Sa piste de danse occupe l'ancienne piscine ; l'ancienne partie sauna semble ne rouvrir que pour certaines soirées, comme la mousse des jeudis de l'été 2026. L'entrée annoncée cette année-là : 10 € avec une consommation, en espèces.",
+  "glance": [
+    { "icon": "users", "label": "Public", "value": "Hommes uniquement (« 100 % male »)" },
+    { "icon": "clock", "label": "Ouverture", "value": "Jeudi au dimanche dès 21 h 30", "confidence": "a_verifier" },
+    { "icon": "euro", "label": "Entrée", "value": "10 € avec une consommation", "confidence": "source_unique" },
+    { "icon": "lock", "label": "Paiement", "value": "Espèces uniquement, carte refusée", "confidence": "source_unique" },
+    { "icon": "water", "label": "Jeudis de l'été 2026", "value": "Soirée mousse, ancien sauna rouvert" },
+    { "icon": "history", "label": "Création", "value": "Mars 1974, selon sa page Facebook", "confidence": "source_unique" }
+  ],
+  "audience": [
+    { "who": "hommes", "status": "oui", "detail": "Seul public admis ; du jeudi au dimanche dès 21 h 30, jours à confirmer hors saison", "price": "10 €" },
+    { "who": "couples", "status": "non", "detail": "Lieu réservé aux hommes ; à Nice, Le Boudoir (ex-L'AS) reçoit les couples" },
+    { "who": "femmes", "status": "non", "detail": "Entrée réservée aux hommes, soirées à thème comprises" }
+  ],
+  "highlights": [
+    "Prévoyez des espèces : la page Facebook du club précise que la carte bancaire n'est pas acceptée.",
+    "L'ancien « Sauna 7 » n'ouvre plus en journée : c'est un bar de nuit, et son hammam ne semble fonctionner que lors de certaines soirées.",
+    "Pour une soirée mousse, apportez votre serviette : en juillet 2026, le club a prévenu qu'elle n'était pas fournie.",
+    "Fermeture annoncée entre 0 h 30 et 2 h 30 selon les sources, et des visiteurs ont trouvé porte close : appelez le 04 93 62 25 02 avant de venir.",
+    "Le site officiel n'a plus bougé depuis novembre 2024 : les soirées s'annoncent sur la page Facebook « Le 7 Nice »."
+  ],
+  "keyFacts": [
+    { "label": "Concept", "value": "Sex-club et bar de cruising gay, « 100 % male »", "confidence": "confirme", "sources": ["s1", "s2", "s8"] },
+    { "label": "Création", "value": "« Mars 1974 » selon la page Facebook du club", "confidence": "source_unique", "sources": ["s6"] },
+    { "label": "Ancien nom", "value": "Sauna 7, enseigne encore inscrite au registre", "confidence": "confirme", "sources": ["s10", "s12"] },
+    { "label": "Société", "value": "CAPITOLE CAPRI, SAS créée en 2013 (lien déduit de l'enseigne et de l'adresse)", "confidence": "a_verifier", "sources": ["s10"] },
+    { "label": "Niveaux", "value": "Trois, selon la page Facebook", "confidence": "source_unique", "sources": ["s8"] },
+    { "label": "Entrée", "value": "10 € avec une consommation, espèces uniquement", "confidence": "source_unique", "sources": ["s8"] },
+    { "label": "Jours d'ouverture", "value": "Jeudi au dimanche selon le site et Facebook ; lundi selon Instagram", "confidence": "a_verifier", "sources": ["s1", "s8", "s9"] },
+    { "label": "Soirées 2026", "value": "Jeudis « déshabillé » au printemps, mousse l'été", "confidence": "confirme", "sources": ["s7", "s8"] },
+    { "label": "Audience en ligne", "value": "639 abonnés Facebook, 321 sur Instagram (20/10/2026)", "confidence": "confirme", "sources": ["s6", "s9"] }
+  ],
+  "sections": [
+    {
+      "id": "ancien-sauna-7",
+      "title": "Ancien Sauna 7, devenu Club Le 7 au plus tard en 2014",
+      "icon": "history",
+      "summary": "Créé en mars 1974 selon sa page Facebook, l'un des premiers saunas de Nice a rouvert après rénovation sous le nom de Club Le 7 ; le registre garde l'enseigne « SAUNA 7 ».",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le site du club le présente comme l'un des premiers saunas de la ville, reconverti en bar de cruising à thème pour hommes. Le blog Gay French Riviera situe le changement de nom après une rénovation, au plus tard en 2014 : c'est aussi l'année où ont été créées les pages du site actuel."
+        },
+        {
+          "kind": "timeline",
+          "items": [
+            { "date": "Mars 1974", "text": "« Établissement créé en mars 1974 », indique la page Facebook du club, seule source de cette date." },
+            { "date": "1975 et 1989", "text": "Une entreprise individuelle d'entretien corporel, créée en 1975, est inscrite au registre au 7 rue Foncet à partir du 22 août 1989, date qui peut correspondre à un transfert ou à une ressaisie." },
+            { "date": "17 octobre 2013", "text": "Cette entreprise cesse son activité ; le même jour, la SAS CAPITOLE CAPRI, créée le 1er janvier 2013, ouvre à la même adresse un établissement à l'enseigne « SAUNA 7 ». Une reprise, déduite de la concordance des dates." },
+            { "date": "Juin à août 2014", "text": "Création du site le7-nice.fr : images du thème datées de juin, page d'accueil du 12 août 2014." },
+            { "date": "Octobre 2022", "text": "Gay French Riviera décrit le cinéma Art déco d'origine et la soirée mousse des jeudis d'été." },
+            { "date": "30 novembre 2024", "text": "Dernière modification des pages d'accueil et de contact du site ; la Wayback Machine l'archive ensuite régulièrement, jusqu'au 13 juin 2026." },
+            { "date": "2026", "text": "Jeudis « déshabillé » au printemps, mousse l'été ; dernière publication datée relevée sur Facebook le 9 septembre." }
+          ]
+        },
+        {
+          "kind": "callout",
+          "tone": "info",
+          "title": "Une société identifiée par déduction",
+          "body": "Le site ne publie aucune mention légale. Le rattachement du club à CAPITOLE CAPRI, dont le siège est au 7 rue Gubernatis, repose sur l'enseigne « SAUNA 7 » et l'adresse de son établissement, actif au registre lors de notre consultation du 20 octobre 2026."
+        }
+      ],
+      "sources": ["s1", "s2", "s3", "s4", "s6", "s10", "s11", "s12", "s8"]
+    },
+    {
+      "id": "piscine-cinema-backroom",
+      "title": "Trois niveaux, une piste dans l'ancienne piscine et une Suzuki 600",
+      "icon": "building",
+      "summary": "Bar, piste de danse dans l'ancienne piscine, cinéma à films gays toute la nuit, cabines, backroom avec sling et fumoir ; le hammam ne semble ouvrir que lors de soirées spéciales.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "La page Facebook annonce trois niveaux et se présente comme « le plus grand cruising gay de la côte d'azur », une affirmation qu'aucune source extérieure ne permet de mesurer. Le site officiel détaille les espaces :"
+        },
+        {
+          "kind": "list",
+          "items": [
+            "un bar et une piste de danse aménagée dans l'ancienne piscine ;",
+            "une salle de cinéma qui passe des films gays toute la nuit, le cinéma Art déco d'origine selon Gay French Riviera (2022) ;",
+            "des cabines et une backroom équipée d'un sling ;",
+            "une moto Suzuki 600 en guise de décor ;",
+            "un fumoir, cité par la page Facebook ;",
+            "un hammam, des vestiaires et des douches."
+          ]
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Le hammam, surtout les soirs d'événement",
+          "body": "Le site vante le seul hammam pour hommes ouvert après 21 h à Nice. Mais en 2022, Gay French Riviera le disait ouvert lors de certains événements seulement, et le 9 juillet 2026 la page Facebook parlait de l'ancienne partie sauna « réouverte pour l'occasion ». Hors soirée spéciale, ne comptez pas dessus."
+        }
+      ],
+      "sources": ["s1", "s6", "s8", "s12"]
+    },
+    {
+      "id": "jeudis-2026",
+      "title": "Jeudis « déshabillé » dès le 2 avril, mousse à partir du 25 juin 2026",
+      "icon": "calendar",
+      "summary": "En 2026, toutes les soirées annoncées tombent un jeudi : tenue légère au printemps, mousse « 100 % mecs » chaque jeudi de l'été, à 10 € avec une consommation.",
+      "blocks": [
+        {
+          "kind": "table",
+          "caption": "Programme annoncé sur la page Facebook du club en 2026",
+          "headers": ["Saison", "Soirée du jeudi", "Conditions annoncées"],
+          "rows": [
+            ["Printemps, dès le 2 avril", "« Jeudis déshabillé »", "Vestiaires, 10 € avec une consommation, 21 h 30 - 0 h 30"],
+            ["Été, dès le 25 juin", "Mousse « 100 % mecs »", "Ancienne partie sauna rouverte, 10 € avec une consommation, serviette non fournie"]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Pour la mousse, la publication du 9 juillet 2026 énumère ce qui rouvre : vestiaires, douches, bain à remous, couloir, sauna vapeur et cabines. Le rendez-vous a de l'ancienneté : Gay French Riviera citait déjà la mousse du jeudi comme la soirée d'été du club en 2022."
+        },
+        {
+          "kind": "text",
+          "body": "La vidéo « PRINTEMPS 2026 » de la page comptait 1,4 K vues et 14 réactions le 20 octobre 2026."
+        },
+        {
+          "kind": "callout",
+          "tone": "info",
+          "title": "Et après l'été ?",
+          "body": "Rien n'est annoncé pour l'automne 2026 : la dernière publication datée est une photo sans texte du 9 septembre. Consultez la page Facebook « Le 7 Nice » avant de viser un jeudi précis."
+        }
+      ],
+      "sources": ["s7", "s8", "s12"]
+    },
+    {
+      "id": "bains-douches-boudoir",
+      "title": "Les Bains-Douches dès 13 h, le Morgan le mardi, Le Boudoir pour les couples",
+      "icon": "map",
+      "summary": "Sauna gay l'après-midi aux Bains-Douches, cruising le mardi et le mercredi au Morgan ou au Code selon un blog de 2025 ; couples et femmes vont au Boudoir (ex-L'AS).",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "En juillet 2025, le blog Gay French Riviera citait quatre autres adresses gays à Nice, avec des horaires qui couvrent les jours où Le 7 ne s'annonce pas :"
+        },
+        {
+          "kind": "list",
+          "items": [
+            "**Les Bains-Douches**, 7 rue Gubernatis, à moins de 200 m à vol d'oiseau : le seul sauna gay de la ville selon ce blog, sur quatre niveaux avec grand jacuzzi, ouvert tous les jours de 13 h à 22 h ;",
+            "**[le Morgan](/morgan-cruising-bar-men-s-club-gay-nice)**, bar de cruising naturiste, du mardi au dimanche vers 22 h, fermé le lundi ;",
+            "**Le Code**, au public plus fétichiste, du lundi au jeudi de 22 h à 3 h ;",
+            "**Ramdam Bar**, bar de danse dont l'arrière devient le samedi soir l'espace de cruising « Le Stock »."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le 7 n'admet ni femmes ni couples. Pour une soirée mixte, [Le Boudoir, l'ancien L'AS](/l-as-nice) annonçait le 19 octobre 2026 seize rendez-vous pour le mois, avec des soirées du jeudi au samedi de 21 h 30 à 2 h 30. Un couple y entre pour 20 €, une femme seule est invitée."
+        },
+        {
+          "kind": "text",
+          "body": "Ces seize dates d'octobre tiennent dans un mois, la durée de [la formule de Gleese à 7,49 € sans engagement](aff:gleese) : le temps d'échanger avec d'éventuels partenaires et de retenir l'une de ces soirées avec eux. À l'année, ce réseau revient à 3,75 € par mois, selon les tarifs relevés dans notre avis en août 2026.\n\nLes autres lieux sont recensés sur [notre page consacrée à Nice](/ville/nice) et [celle des Alpes-Maritimes](/departement/alpes-maritimes)."
+        }
+      ],
+      "sources": ["s13", "s18", "s19", "s20"]
+    },
+    {
+      "id": "horaires-contradictoires",
+      "title": "21 h 30, puis une fermeture annoncée entre 0 h 30 et 2 h 30",
+      "icon": "clock",
+      "summary": "Les sources de 2024 à 2026 s'accordent sur l'ouverture à 21 h 30 ; l'heure de fermeture et les jours varient, et des visiteurs ont trouvé porte close.",
+      "blocks": [
+        {
+          "kind": "table",
+          "caption": "Horaires affichés selon la source (relevé du 20 octobre 2026)",
+          "headers": ["Source", "Jours", "Horaires"],
+          "rows": [
+            ["Site officiel (page modifiée le 30/11/2024)", "Jeudi au dimanche", "21 h 30 - 1 h 30"],
+            ["Page Facebook, description", "Jeudi au dimanche", "21 h 30 - 0 h 30"],
+            ["Page Facebook, horaires affichés", "Vendredi et samedi", "21 h 30 - 2 h 30"],
+            ["Publications Facebook d'avril et juillet 2026", "Jeudi", "21 h 30 - 0 h 30"],
+            ["Biographie Instagram (vue dans un résultat de recherche) et Restaurant Guru", "Tous les jours sauf mardi et mercredi", "21 h 30 - 2 h 30"],
+            ["Gay French Riviera, juillet 2025", "Jeudi au samedi", "21 h 30 - 2 h 30"],
+            ["qlist (mise à jour du 19/10/2026)", "Jeudi", "Ouverture à 21 h 30"]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Seul le jeudi est daté en 2026, avec une fin à 0 h 30. Pour le vendredi, le samedi et le dimanche, aucune source récente ne tranche, et le lundi n'apparaît ni sur le site ni sur Facebook."
+        },
+        {
+          "kind": "text",
+          "body": "Wanderlog relaie des avis signalant des fermetures inopinées, dont une porte close le 30 mars 2023. L'annuaire Saunas4men affiche, lui, des horaires de jour (13 h - 21 h) et un jacuzzi, sans date : aucune source du club ne les confirme."
+        }
+      ],
+      "sources": ["s1", "s8", "s9", "s16", "s13", "s15", "s14", "s17"]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Lundi": "Fermé selon le site et Facebook (ouvert selon Instagram)",
+      "Mardi": "Fermé",
+      "Mercredi": "Fermé",
+      "Jeudi": "21h30 - 00h30",
+      "Vendredi": "21h30 - 00h30 ou 02h30 selon l'affichage",
+      "Samedi": "21h30 - 00h30 ou 02h30 selon l'affichage",
+      "Dimanche": "21h30 - 00h30 (selon la page Facebook)"
+    },
+    "note": "Le jeudi est le seul soir daté en 2026 (publications Facebook d'avril et de juillet). Le site, modifié pour la dernière fois en novembre 2024, indique 21 h 30 - 1 h 30 du jeudi au dimanche. Programme d'automne non annoncé au 20 octobre 2026.",
+    "confidence": "a_verifier",
+    "sources": ["s1", "s8", "s9", "s16"]
+  },
+  "tarifs": {
+    "rows": {
+      "Entrée (hommes uniquement)": "10 € avec une consommation",
+      "Paiement": "Espèces uniquement, carte bancaire refusée"
+    },
+    "note": "Tarif de la description de la page Facebook et de ses publications d'avril et de juillet 2026. Le site officiel n'affiche aucun prix. La synthèse d'avis de qlist (19/10/2026) parle d'une entrée à 10 € le samedi et gratuite les autres soirs : non confirmé par le club.",
+    "confidence": "source_unique",
+    "sources": ["s8", "s15"]
+  },
+  "equipements": [
+    "Bar",
+    "Piste de danse",
+    "Salle de cinéma",
+    "Cabines",
+    "Backroom",
+    "Sling",
+    "Fumoir",
+    "Vestiaires",
+    "Douches",
+    "Hammam (lors de soirées spéciales)",
+    "Bain à remous (lors de soirées spéciales)"
+  ],
+  "officialLinks": [
+    { "label": "Site officiel (français, anglais, italien)", "url": "https://le7-nice.fr/", "kind": "site" },
+    { "label": "Page Facebook « Le 7 Nice »", "url": "https://www.facebook.com/le7nice/", "kind": "facebook" },
+    { "label": "Instagram @club_le_7_nice", "url": "https://www.instagram.com/club_le_7_nice/", "kind": "instagram" }
+  ],
+  "faq": [
+    {
+      "question": "Le Club Le 7 à Nice est-il toujours ouvert ?",
+      "answer": "Oui, d'après les traces les plus récentes : soirées annoncées chaque jeudi de l'été 2026, photo publiée sur Facebook le 9 septembre, site en ligne et établissement actif au registre le 20 octobre 2026. Rien n'est annoncé pour l'automne : vérifiez la page Facebook ou appelez le 04 93 62 25 02."
+    },
+    {
+      "question": "Le Sauna Le 7 existe-t-il encore ?",
+      "answer": "Le lieu existe, mais plus comme sauna de jour : l'ancien Sauna 7 est un bar de cruising ouvert le soir, dont le bain à remous et le sauna vapeur ont rouvert « pour l'occasion » lors de la mousse de l'été 2026 et semblent fermés le reste du temps. Pour l'après-midi, Gay French Riviera cite Les Bains-Douches, rue Gubernatis, ouverts de 13 h à 22 h."
+    },
+    {
+      "question": "Combien coûte l'entrée, et peut-on payer par carte ?",
+      "answer": "10 € avec une consommation, selon la page Facebook du club et ses publications d'avril et de juillet 2026. Le paiement se fait en espèces uniquement. Le site officiel n'indique aucun tarif, et une synthèse d'avis relayée par qlist évoque une entrée gratuite hors samedi, que le club ne confirme nulle part."
+    },
+    {
+      "question": "Les femmes et les couples peuvent-ils entrer au 7 ?",
+      "answer": "Non. Le site se dit « 100 % male » et les soirées de l'été 2026 étaient annoncées « 100 % mecs ». À Nice, Le Boudoir (ex-L'AS) reçoit les couples et les femmes seules. À l'inverse du 7, Carré Libertin compte une majorité de femmes et de couples, autour de 60 % de sa communauté selon les chiffres annoncés : une femme seule ou un couple y cherchera [des compagnons de sortie pour Le Boudoir](aff:carre-libertin)."
+    },
+    {
+      "question": "Le Club Le 7 est-il un club échangiste ?",
+      "answer": "Non : c'est un sex-club et bar de cruising réservé aux hommes, avec cinéma, cabines et backroom, sans couples ni femmes. Un couple de passage sur la Côte d'Azur qui compte retrouver à Nice d'autres couples connus en ligne aura affaire à des inconnus. Sur Wyylde, [un badge distingue les profils authentifiés par la modération](aff:wyylde), à partir d'une photo où le membre tient un code écrit à la main. Faute d'obligation, une partie des profils n'a pas ce badge."
+    },
+    {
+      "question": "Comment joindre le club et trouver son site ?",
+      "answer": "Le club est au 7 rue Foncet, 06000 Nice, joignable au 04 93 62 25 02. Tapez le7-nice.fr sans « www » : la version avec « www » ne répondait pas le 20 octobre 2026. Le site renvoie vers une page Facebook « Club.le7.nice » ; la page active est « Le 7 Nice » (facebook.com/le7nice)."
+    },
+    {
+      "question": "Que valent les avis sur Le 7 ?",
+      "answer": "Wanderlog relaie une note Google de 4,3/5 sur 73 avis et qlist une note de 4,0/5 sur 39 avis, que nous n'avons pas pu voir sur Google. Les avis repris par ces deux sites, datés de 2019 à mai 2024 chez Wanderlog, saluent la propreté des lieux et le patron, mais jugent parfois la salle presque vide et signalent des fermetures inopinées."
+    }
+  ],
+  "unverified": [
+    "Le programme et les jours d'ouverture après l'été 2026 : aucune publication datée ne les précise.",
+    "L'heure de fermeture des vendredis, samedis et dimanches (0 h 30, 1 h 30 ou 2 h 30 selon les sources).",
+    "L'ouverture du lundi, annoncée par la biographie Instagram et Restaurant Guru, mais ni par le site ni par la page Facebook.",
+    "L'ouverture du hammam et du bain à remous en dehors des soirées spéciales.",
+    "Le lien entre la société CAPITOLE CAPRI et le club, déduit du registre faute de mentions légales sur le site.",
+    "La date de création de mars 1974, donnée par la seule page Facebook.",
+    "La note Google réelle, relayée par des agrégateurs mais non consultée sur Google.",
+    "Un éventuel tarif différent selon le soir : qlist parle d'entrée gratuite hors samedi, le club annonce 10 € sans distinction."
+  ],
+  "sources": [
+    { "id": "s1", "label": "Site officiel Club Le 7, accueil en français (espaces, horaires, coordonnées)", "url": "https://le7-nice.fr/fr/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s2", "label": "Site officiel Club Le 7, accueil en anglais (ancien sauna devenu bar de cruising)", "url": "https://le7-nice.fr/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s3", "label": "API WordPress du site le7-nice.fr (dates de création et de modification des pages)", "url": "https://le7-nice.fr/wp-json/wp/v2/pages", "type": "autre", "consulted": "2026-10-20" },
+    { "id": "s4", "label": "Wayback Machine, historique des captures de le7-nice.fr (jusqu'au 13/06/2026)", "url": "https://web.archive.org/cdx/search/cdx?url=le7-nice.fr", "type": "autre", "consulted": "2026-10-20" },
+    { "id": "s5", "label": "Relevé de l'état du site (le7-nice.fr répond, www.le7-nice.fr ne répond pas)", "url": "https://le7-nice.fr/", "type": "autre", "consulted": "2026-10-20" },
+    { "id": "s6", "label": "Page Facebook « Le 7 Nice » (création en mars 1974, 639 abonnés)", "url": "https://www.facebook.com/le7nice/", "type": "reseau_social", "consulted": "2026-10-20" },
+    { "id": "s7", "label": "Page Facebook « Le 7 Nice », vidéo « PRINTEMPS 2026 » (jeudis déshabillé)", "url": "https://www.facebook.com/le7nice/videos/-printemps-2026-votre-club-le-7-vous-propose-ses-jeudis-d%C3%A9shabill%C3%A9-tout-le-print/1314325300589892/", "type": "reseau_social", "consulted": "2026-10-20" },
+    { "id": "s8", "label": "findglocal, miroir des publications de la page Facebook « Le 7 Nice » (avril à septembre 2026)", "url": "https://www.findglocal.com/FR/Nice/112216267289691/Le-7-Nice", "type": "autre", "consulted": "2026-10-20" },
+    { "id": "s9", "label": "Instagram @club_le_7_nice (321 abonnés, 219 publications)", "url": "https://www.instagram.com/club_le_7_nice/", "type": "reseau_social", "consulted": "2026-10-20" },
+    { "id": "s10", "label": "Annuaire des entreprises, CAPITOLE CAPRI (SIREN 795 018 860), établissement « SAUNA 7 »", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/795018860", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s11", "label": "Annuaire des entreprises, entreprise individuelle au 7 rue Foncet (1989-2013)", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/304450679", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s12", "label": "Gay French Riviera, « Club Le 7: A Gay Cruising Bar in the Heart of Nice » (02/10/2022)", "url": "https://gayfrenchriviera.substack.com/p/club-le-7-in-nice", "type": "autre", "consulted": "2026-10-20" },
+    { "id": "s13", "label": "Gay French Riviera, « Cruising Bars & Gay Sauna/Bathhouse in Nice » (30/07/2025)", "url": "https://gayfrenchriviera.substack.com/p/cruising-bars-and-gay-saunabathhouse", "type": "autre", "consulted": "2026-10-20" },
+    { "id": "s14", "label": "Wanderlog, « Le 7 Cruising Bar » (note Google relayée, avis de 2019 à 2024)", "url": "https://wanderlog.com/place/details/7250445", "type": "avis", "consulted": "2026-10-20" },
+    { "id": "s15", "label": "qlist, « Club Le 7 » (4,0/5 sur 39 avis, mise à jour du 19/10/2026)", "url": "https://qlist.app/venues/Nice/Club-Le-7/SVZXc2kvTzFIVUUzWTMxNSs0YWtWUQ/fr", "type": "avis", "consulted": "2026-10-20" },
+    { "id": "s16", "label": "Restaurant Guru, « Sex-Club Le 7 » (horaires, page mise à jour le 02/10/2026)", "url": "https://restaurantguru.com/Sex-Club-Le-7-Nice-2", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s17", "label": "Saunas4men, « Le 7 » (horaires de jour non datés)", "url": "https://saunas4men.com/en/france/nice/le-7", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s18", "label": "Site officiel Lâcher Prise Le Boudoir (ex-L'AS), accueil : tarifs et horaires", "url": "https://www.leboudoirlibertin-nice.com/", "type": "officiel", "consulted": "2026-10-19" },
+    { "id": "s19", "label": "Site officiel Lâcher Prise Le Boudoir, « Nos soirées » (programme d'octobre 2026)", "url": "https://www.leboudoirlibertin-nice.com/nos-soirees", "type": "officiel", "consulted": "2026-10-19" },
+    { "id": "s20", "label": "Base Adresse Nationale, géocodage du 7 rue Foncet et du 7 rue Gubernatis (environ 170 m d'écart)", "url": "https://api-adresse.data.gouv.fr/search/?q=7+rue+Foncet+06000+Nice", "type": "autre", "consulted": "2026-10-20" }
+  ]
+}

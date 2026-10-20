@@ -1,0 +1,385 @@
+{
+  "slug": "le-33-by-ozen-rixheim",
+  "clubId": "new-le-33-by-ozen-rixheim",
+  "researchedAt": "2026-10-20",
+  "display": { "nom": "Le 33 by Ozen", "ville": "Rixheim" },
+  "status": {
+    "value": "ouvert",
+    "summary": "L'agenda du site officiel, modifié pour la dernière fois le 09/09/2026, annonçait des soirées datées jusqu'au dimanche 13/09, une pour chaque jour de la semaine ; le site a été relancé sous un nouveau domaine en avril 2026. La SARL O ZEN, immatriculée à cette adresse sous l'enseigne O ZEN, est active, avec un plan de redressement de quatre ans arrêté le 04/03/2026.",
+    "sources": ["s5", "s6", "s1", "s13", "s14"]
+  },
+  "seo": {
+    "title": "Le 33 by Ozen, Rixheim : sauna libertin mixte, prix et soirées",
+    "metaDescription": "Sauna et hammam libertin près de Mulhouse, ouvert 7 j/7 dès 14 h : journée Bi le mardi, barbecue le vendredi, règles naturistes et derniers prix connus.",
+    "subtitle": "Sauna-hammam libertin mixte à Rixheim (68), près de Mulhouse",
+    "targetQueries": [
+      "33 by ozen",
+      "le 33 by ozen rixheim",
+      "le 33 rixheim",
+      "sauna libertin rixheim",
+      "sauna libertin mulhouse",
+      "ozen rixheim",
+      "33 by ozen tarif"
+    ]
+  },
+  "lead": "Sauna sec, hammam aromatisé, table de massage : Le 33 by Ozen est un sauna club libertin mixte de Rixheim, près de Mulhouse, ouvert tous les jours dès 14 h et jusqu'à 1 h le vendredi et le samedi. Son site, relancé en avril 2026, donne un thème à chaque jour, de la journée Bi du mardi au barbecue du vendredi. Le lieu s'appelait O Zen en 2022 ; ses prix 2026, eux, ne sont pas affichés en ligne.",
+  "glance": [
+    { "icon": "clock", "label": "Ouvert 7 j/7", "value": "Dès 14 h ; jusqu'à 1 h ven. et sam." },
+    { "icon": "euro", "label": "Entrée (prix 2025)", "value": "Femme 10 € · homme 30 € · couple 35 €", "confidence": "a_verifier" },
+    { "icon": "users", "label": "Public", "value": "Mixte ; journée Bi le mardi" },
+    { "icon": "spa", "label": "Espaces", "value": "Sauna sec, hammam, salon vidéo, massage" },
+    { "icon": "calendar", "label": "Soirées 2026", "value": "Un thème par jour, agenda arrêté au 13/09" },
+    { "icon": "car", "label": "Accès", "value": "Parking gratuit, autoroute à 5 min" }
+  ],
+  "audience": [
+    { "who": "couples", "status": "oui", "detail": "Tous les jours ; paréo fourni à Madame ; un couple entré ensemble repart ensemble", "price": "35 € (2025)" },
+    { "who": "femmes", "status": "oui", "detail": "Tous les jours ; paréo fourni, tenue sexy admise selon le règlement de 2025", "price": "10 € (2025)" },
+    { "who": "hommes", "status": "oui", "detail": "Formule « Hommes » sur le site ; le mardi est la journée Bi", "price": "30 € (2025)" }
+  ],
+  "highlights": [
+    "Aucun prix à jour en ligne : la page Tarifs affiche « 0 EUR ». Derniers prix connus (2025) : 10 € femme, 30 € homme, 35 € couple. Appelez le 03 69 15 89 51.",
+    "Pièce d'identité exigée et 18 ans minimum ; l'entrée est refusée en état d'ébriété et la douche est obligatoire.",
+    "Lieu naturiste selon le règlement de 2025 : ni maillot ni sous-vêtement. Serviette, peignoir et chaussons sont fournis.",
+    "Téléphone au casier à clé, et toute sortie est définitive : impossible de ressortir puis de revenir (règlement de 2025).",
+    "Parking gratuit à proximité immédiate selon le club, à 5 minutes de la sortie d'autoroute de Rixheim."
+  ],
+  "keyFacts": [
+    { "label": "Type", "value": "Sauna-hammam club libertin mixte", "confidence": "confirme", "sources": ["s1", "s2"] },
+    { "label": "Public", "value": "Femmes, hommes et couples ; journée Bi le mardi", "confidence": "confirme", "sources": ["s3", "s10", "s5"] },
+    { "label": "Ouverture", "value": "Tous les jours dès 14 h ; jusqu'à 1 h le vendredi et le samedi", "confidence": "confirme", "sources": ["s1", "s4"] },
+    { "label": "Lundi", "value": "Ouvert depuis mai 2026, fermé en 2024 et 2025", "confidence": "confirme", "sources": ["s10", "s7", "s8", "s16"] },
+    { "label": "Dernière grille publiée", "value": "Femme 10 €, homme 30 €, couple 35 € (avril 2025)", "confidence": "a_verifier", "sources": ["s8", "s17", "s3"] },
+    { "label": "Âge minimum", "value": "18 ans, pièce d'identité exigée", "confidence": "confirme", "sources": ["s1", "s3"] },
+    { "label": "Société", "value": "SARL O ZEN (SIREN 884 380 528), créée en juin 2020 ; rôle d'exploitant déduit, non affiché sur le site actuel", "confidence": "a_verifier", "sources": ["s13", "s12"] },
+    { "label": "Reprise du fonds", "value": "Acheté 35 000 € à LE LYS par acte du 26/05/2020", "confidence": "confirme", "sources": ["s14", "s15"] },
+    { "label": "Situation de la société", "value": "Plan de redressement de quatre ans arrêté le 04/03/2026", "confidence": "confirme", "sources": ["s14"] },
+    { "label": "Note Google relayée", "value": "4,8 à 4,9 sur 5, de 68 à 123 avis selon des annuaires", "confidence": "a_verifier", "sources": ["s16", "s18", "s19", "s20"] }
+  ],
+  "sections": [
+    {
+      "id": "un-theme-par-jour",
+      "title": "Mardi Bi, jeudi afterwork, vendredi barbecue : un thème pour chaque jour de 2026",
+      "icon": "calendar",
+      "summary": "En mai puis à l'été 2026, chaque jour avait son thème, de la journée Bi du mardi au « Dimanche relax » ; le lundi, fermé en 2025, ouvre depuis mai 2026.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le programme de mai 2026, publié sur l'ancien site, attribuait une soirée à chaque jour du 6 au 30 mai. Il annonçait en capitales une nouveauté : l'ouverture du lundi, en journée mixte de 14 h à 22 h. Le lundi était fermé en 2024 et en 2025."
+        },
+        {
+          "kind": "table",
+          "caption": "Les thèmes de la semaine selon le site officiel",
+          "headers": ["Jour", "Mai 2026", "Été 2026 (date publiée)"],
+          "rows": [
+            ["Lundi", "« Chill & Spa », « Lounge Night », « Soirée détente » (jour nouveau, mixte)", "« Lundi Summer » (24/08)"],
+            ["Mardi", "« Journée Bi », 14 h-22 h", "« Mardi Bi » (18/08)"],
+            ["Mercredi", "« Mercredi coquin », « Tentation », « Plaisir »", "« Mercredi coquin » (19/08)"],
+            ["Jeudi", "« After work », apéro dînatoire offert (jusqu'à minuit le 7 mai)", "« Jeudi Afterwork » (10/09)"],
+            ["Vendredi", "« BBQ party »", "« Vendredi Barbecue party » (11/09)"],
+            ["Samedi", "« Mixte party », « Saturday Sensation », « Saturday Fever »", "« Samedi Escapade nocturne » (12/09)"],
+            ["Dimanche", "« Dimanche relax »", "« Dimanche Sunday Relax » (13/09)"]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le club accepte aussi les soirées privatisées sur demande, selon son site de mai 2026 ; le formulaire de contact actuel propose d'ailleurs un motif « Soirée privée »."
+        }
+      ],
+      "sources": ["s10", "s5", "s7", "s8", "s4"]
+    },
+    {
+      "id": "ete-2026",
+      "title": "Une inauguration le 4 juillet 2026, puis plus aucune date après le 13 septembre",
+      "icon": "sparkles",
+      "summary": "La saison d'été a commencé le samedi 04/07/2026 par une soirée d'inauguration ; au 20/10/2026, l'agenda officiel n'annonce rien après le dimanche 13/09.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "L'été s'est ouvert le samedi 04/07/2026 par une « Soirée d'inauguration », présentée comme une « nouvelle parenthèse estivale » valable pour tout juillet. Le site ne dit pas ce qui était inauguré, alors que le lieu fonctionnait déjà sous ce nom en 2024. Pour deux soirées, l'agenda indique simplement « Tarif habituel »."
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Appeler avant de venir pour un thème",
+          "body": "Aucune soirée n'est publiée après le dimanche 13/09/2026, et la page Facebook liée au site n'est pas lisible sans compte. Pour savoir quel thème tient encore, le plus sûr reste le 03 69 15 89 51."
+        },
+        {
+          "kind": "text",
+          "body": "Pour venir à plusieurs un mercredi, Gleese permet de [réunir des complices du Haut-Rhin avant un « Mercredi coquin »](aff:gleese) ; sa formule de douze mois revient à 3,75 € par mois, soit 45 € pour l'année. Hors des grandes villes, le nombre de ses membres reste en deçà de celui de Wyylde."
+        }
+      ],
+      "sources": ["s5", "s21", "s7"]
+    },
+    {
+      "id": "espaces-climatises",
+      "title": "Sauna sec, hammam aromatisé et table de massage aux huiles, le tout climatisé",
+      "icon": "spa",
+      "summary": "Six espaces annoncés : sauna à chaleur sèche, hammam, salon vidéo, espaces intimes, massage et bar-lounge ; serviette, peignoir, chaussons et casier sont fournis.",
+      "blocks": [
+        {
+          "kind": "list",
+          "title": "Les espaces décrits par le club en 2026",
+          "items": [
+            "**Sauna** à chaleur sèche",
+            "**Hammam**, présenté comme un bain de vapeur aromatisé",
+            "**Salon vidéo**",
+            "**Espaces intimes**, dont le nombre n'est pas précisé",
+            "**Table de massage** avec huiles, présentée comme nouvelle sur le site capturé en mai 2026",
+            "**Bar et lounge**, pour des boissons et des collations"
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le lieu se dit climatisé sur son site de mai 2026. La surface n'est publiée nulle part dans les sources consultées."
+        },
+        {
+          "kind": "text",
+          "body": "En 2022, le salon et le bar ne citaient que des boissons sans alcool (cafés, thé, sodas, jus de fruits), et l'entrée comprenait une boisson au choix. Le site de 2026 ne parle plus que de « boissons et collations », sans dire si une consommation reste incluse."
+        },
+        {
+          "kind": "list",
+          "title": "Remis à l'entrée, selon la page Tarifs de 2026",
+          "items": [
+            "Serviette, peignoir et casier à clé pour chacun",
+            "Chaussons non jetables",
+            "Paréo pour les femmes, y compris pour Madame quand elle vient en couple"
+          ]
+        }
+      ],
+      "sources": ["s2", "s3", "s10", "s12"]
+    },
+    {
+      "id": "prix-2022-2025",
+      "title": "Femme 10 €, homme 30 €, couple 35 € : des prix stables de 2022 à 2025, absents du site 2026",
+      "icon": "euro",
+      "summary": "Les trois prix n'ont pas bougé entre 2022 et avril 2025 ; depuis le site d'avril 2026, la page Tarifs affiche « 0 EUR », si bien qu'aucun prix actuel n'est publié.",
+      "blocks": [
+        {
+          "kind": "table",
+          "caption": "Prix d'entrée relevés, source par source",
+          "headers": ["Relevé", "Femme", "Homme", "Couple", "Précision"],
+          "rows": [
+            ["Site sauna-ozen.com, juin 2022", "10 €", "30 €", "35 €", "Une boisson au choix comprise"],
+            ["Site saunacluble33.fr, avril 2025", "10 €", "30 €", "35 €", "Lundi fermé"],
+            ["Annuaire saunaclublebali.fr, avril 2026", "10 €", "30 €", "35 €", "Serviettes et claquettes incluses"],
+            ["Site le33byozen.fr, octobre 2026", "« 0 EUR »", "« 0 EUR »", "« 0 EUR »", "Défaut de saisie manifeste"]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Selon la page Tarifs, le prix des soirées spéciales peut différer. Dans l'agenda de l'été 2026, seules deux soirées précisent un prix, « Tarif habituel », dont l'inauguration du 4 juillet ; les six autres n'en indiquent aucun. L'accueil du site évoque aussi des « formules d'abonnement », sans en donner ni le contenu ni le prix."
+        },
+        {
+          "kind": "callout",
+          "tone": "tip",
+          "body": "Faute de grille à jour, demandez le prix au 03 69 15 89 51 ou par le formulaire de contact du site, qui sert aussi aux réservations."
+        }
+      ],
+      "sources": ["s12", "s8", "s17", "s3", "s5", "s1", "s4"]
+    },
+    {
+      "id": "le-lys-o-zen-le-33",
+      "title": "Le Lys, O Zen, puis Le 33 : trois noms au 32B rue de Mulhouse depuis 2018",
+      "icon": "history",
+      "summary": "En mai 2020, la SARL O ZEN rachète 35 000 € le fonds du sauna-hammam à la société LE LYS, alors en liquidation ; le nom Le 33 by Ozen apparaît en ligne en mai 2024.",
+      "blocks": [
+        {
+          "kind": "timeline",
+          "items": [
+            { "date": "27/02/2018", "text": "Création de la société LE LYS au 32 B rue de Mulhouse. Le sauna se serait alors appelé « Le Lys », nom resté dans une adresse de page et l'adresse électronique du site O Zen." },
+            { "date": "15/01/2020", "text": "Liquidation judiciaire de LE LYS, radiée en 2023." },
+            { "date": "26/05/2020", "text": "Par acte notarié, la SARL O ZEN, alors en formation (immatriculée le 19/06/2020), achète 35 000 € à LE LYS le fonds d'un « centre de bien être, sauna, hammam » au 32 B rue de Mulhouse." },
+            { "date": "2021-2022", "text": "Le site sauna-ozen.com présente le « Sauna O ZEN » : tous les jours en journée mixte, lundi de 14 h à 20 h, entrée interdite aux moins de 25 ans." },
+            { "date": "Mai 2024", "text": "Le site saunacluble33.fr (domaine déposé le 03/04/2024) annonce une dégustation de cocktails le 3 mai au « sauna hammam Le 33 by Ozen »." },
+            { "date": "05/03/2025", "text": "Le tribunal judiciaire de Mulhouse ouvre un redressement judiciaire de la SARL O ZEN." },
+            { "date": "04/03/2026", "text": "Un plan de redressement sur quatre ans est arrêté : l'activité continue." },
+            { "date": "15/04/2026", "text": "Enregistrement du domaine le33byozen.fr, l'actuel site ; l'ancien ne répond plus en octobre 2026." }
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "L'annonce de vente publiée au BODACC en juillet 2020 désigne LE LYS comme précédent propriétaire du fonds : la reprise est donc établie. Le nom commercial « Le Lys » ne se lit, lui, que dans l'adresse d'une page et l'adresse électronique du site O Zen de 2022."
+        },
+        {
+          "kind": "text",
+          "body": "Une réserve : faute de mentions légales sur le site actuel, le rôle d'exploitant de O ZEN en 2026 se déduit de son enseigne, de son adresse et des anciens sites, qui la désignaient comme éditrice en 2022."
+        }
+      ],
+      "sources": ["s15", "s12", "s14", "s13", "s7", "s6", "s11"]
+    },
+    {
+      "id": "acces-et-alentours",
+      "title": "À 5 minutes de la sortie d'autoroute ; à Rixheim, le Sauna Mikonos serait fermé depuis 2021",
+      "icon": "map",
+      "summary": "Parking gratuit à proximité immédiate selon le club. Les autres lieux libertins du secteur cités en ligne n'ont pas pu être vérifiés en octobre 2026.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le club indique un parking gratuit à proximité immédiate et un trajet de 5 minutes depuis la sortie d'autoroute de Rixheim. Un annuaire libertin consacré à Mulhouse ne cite aucun autre sauna libertin que celui-ci."
+        },
+        {
+          "kind": "list",
+          "title": "Les autres lieux du secteur, état des connaissances au 20/10/2026",
+          "items": [
+            "[Sauna Mikonos](/sauna-mikonos-rixheim), 1 rue des Peupliers à Rixheim : des annuaires le disent fermé depuis septembre 2021, sans confirmation officielle. La société LE MYKONOS de cette adresse reste active au registre, et le domaine sauna-mykonos.fr héberge aujourd'hui un webmagazine sans rapport.",
+            "[Sauna Club LG](/sauna-club-lg-mulhouse), à Mulhouse : activité non vérifiée à ce jour.",
+            "Altromondo, un « lifestyle club » signalé rue des Artisans à Rixheim, et l'Espace Miscanthus à Berrwiller : repérés via un annuaire, non vérifiés."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Pour élargir la recherche, voyez [les lieux libertins du Haut-Rhin](/departement/haut-rhin) ou [la page consacrée à Rixheim](/ville/rixheim)."
+        }
+      ],
+      "sources": ["s4", "s19", "s22", "s17"]
+    },
+    {
+      "id": "reglement",
+      "title": "Règlement du 33 : ni maillot ni sous-vêtement, et toute sortie est définitive",
+      "icon": "shield",
+      "summary": "Pièce d'identité et 18 ans minimum ; le règlement publié en 2025 impose la nudité (tenue sexy permise aux femmes) et interdit de ressortir pour revenir.",
+      "blocks": [
+        {
+          "kind": "list",
+          "title": "À l'entrée, selon la page Tarifs de 2026",
+          "items": [
+            "Pièce d'identité obligatoire, 18 ans minimum",
+            "Refus en cas d'ébriété",
+            "Téléphone laissé au casier",
+            "Douche obligatoire"
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "L'âge minimum a baissé : en 2022, l'entrée était interdite aux moins de 25 ans. Parmi ses valeurs, le site actuel affiche le consentement (« Non, c'est non ») et l'accueil des personnes LGBTQ+."
+        },
+        {
+          "kind": "list",
+          "title": "Les « règles d'or » de l'ancien site (février 2025)",
+          "items": [
+            "Établissement entièrement naturiste : maillots et sous-vêtements interdits, « tenues sexy » admises pour les femmes",
+            "Toute sortie est définitive",
+            "Un couple venu ensemble repart ensemble",
+            "Ni appareil photo ni téléphone",
+            "Drogue et abus d'alcool proscrits",
+            "Prostitution et escorting : exclusion et signalement à la police",
+            "Femmes enceintes non admises, à cause du sauna et du hammam"
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "La règle du couple compte si vous venez avec une personne rencontrée en ligne : vous repartirez ensemble, quoi qu'il arrive dans la soirée. Avant de franchir la porte à deux, prenez donc le temps d'[apprendre à connaître votre partenaire de sauna](aff:carre-libertin). Sur Carré Libertin, la majorité des inscrits sont des femmes ou des couples : autour de 60 %, selon les chiffres du site."
+        }
+      ],
+      "sources": ["s3", "s1", "s12", "s9", "s2"]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Lundi": "14 h – 22 h",
+      "Mardi": "14 h – 22 h",
+      "Mercredi": "14 h – 22 h",
+      "Jeudi": "14 h – 22 h",
+      "Vendredi": "14 h – 1 h",
+      "Samedi": "14 h – 1 h",
+      "Dimanche": "14 h – 22 h"
+    },
+    "note": "Horaires du site officiel au 20/10/2026. Le lundi n'ouvre que depuis mai 2026. Le pied de page de l'ancien site indiquait encore une fermeture à 23 h le vendredi en mai 2026, mais son programme annonçait 1 h. La direction se réserve de les adapter à l'affluence.",
+    "confidence": "confirme",
+    "sources": ["s1", "s4", "s10"]
+  },
+  "tarifs": {
+    "rows": {
+      "Femme": "10 €",
+      "Homme": "30 €",
+      "Couple": "35 €"
+    },
+    "note": "Derniers prix publiés par le club (avril 2025), identiques en 2022 et repris par un annuaire en avril 2026. En octobre 2026, la page Tarifs du site affiche « 0 EUR » : prix actuels à confirmer par téléphone.",
+    "confidence": "a_verifier",
+    "sources": ["s8", "s12", "s17", "s3"]
+  },
+  "equipements": [
+    "Sauna à chaleur sèche",
+    "Hammam",
+    "Salon vidéo",
+    "Espaces intimes",
+    "Table de massage avec huiles",
+    "Bar et lounge",
+    "Casiers à clé",
+    "Douches",
+    "Climatisation",
+    "Serviette, peignoir et chaussons fournis"
+  ],
+  "officialLinks": [
+    { "label": "Site officiel", "url": "https://le33byozen.fr/", "kind": "site" },
+    { "label": "Agenda des soirées", "url": "https://le33byozen.fr/soirees", "kind": "agenda" },
+    { "label": "Réservation (formulaire de contact)", "url": "https://le33byozen.fr/contact", "kind": "reservation" },
+    { "label": "Page Facebook « Ozen Rixheim »", "url": "https://www.facebook.com/Ozenrixheim/", "kind": "facebook" }
+  ],
+  "faq": [
+    {
+      "question": "Combien coûte l'entrée au 33 by Ozen en 2026 ?",
+      "answer": "Le club ne publie pas de prix à jour : sa page Tarifs affiche « 0 EUR » pour les trois formules. Les derniers prix officiels, relevés en avril 2025 et identiques à ceux de 2022, étaient de 10 € pour une femme, 30 € pour un homme et 35 € pour un couple. Confirmez-les au 03 69 15 89 51."
+    },
+    {
+      "question": "Le 33 by Ozen est-il ouvert le lundi ?",
+      "answer": "Oui, depuis mai 2026, de 14 h à 22 h. Le lundi était fermé en 2024 et en 2025, et les annuaires donnent encore des horaires contradictoires pour ce jour : fiez-vous au site officiel."
+    },
+    {
+      "question": "Un homme seul peut-il entrer ?",
+      "answer": "Oui. La page Tarifs prévoit une formule « Hommes » et le lieu se présente comme mixte ; le mardi est consacré à la journée Bi. En 2025, l'entrée d'un homme coûtait 30 €, et le prix 2026 n'est pas publié."
+    },
+    {
+      "question": "Faut-il être nu au 33 by Ozen ?",
+      "answer": "Selon les règles d'or publiées en février 2025, oui : l'établissement est entièrement naturiste, maillots et sous-vêtements sont interdits, et les femmes peuvent porter une tenue sexy. Serviette, peignoir et chaussons sont fournis, plus un paréo pour les femmes."
+    },
+    {
+      "question": "Quelle note le club obtient-il sur Google ?",
+      "answer": "Nous ne l'avons pas relevée sur Google même. Des annuaires la relaient entre 4,8 et 4,9 sur 5 : 4,8 sur 81 avis en août 2025, puis 4,90 sur 122 avis sur une page mise à jour en juillet 2026."
+    },
+    {
+      "question": "Peut-on y venir avec quelqu'un rencontré sur un site libertin ?",
+      "answer": "Rien dans les règles publiées ne s'y oppose. Celles de 2025 excluent en revanche toute prostitution et tout escorting : exclusion définitive et signalement à la police, au moindre doute pour l'escorting. Si vous le cherchez sur Wyylde, comptez 8,33 € par mois en prenant [un an d'abonnement réglé d'avance](aff:wyylde), soit 99,90 € prélevés d'un coup : un peu plus que trois entrées homme au dernier tarif connu (30 €). Le renouvellement est automatique tant que vous ne le désactivez pas."
+    },
+    {
+      "question": "Existe-t-il un autre sauna libertin à Mulhouse ou à Rixheim ?",
+      "answer": "Aucun dont l'activité ait pu être prouvée en octobre 2026. Le Sauna Mikonos de Rixheim est donné pour fermé depuis 2021 par des annuaires, et l'activité du Sauna Club LG à Mulhouse n'a pas été vérifiée."
+    }
+  ],
+  "unverified": [
+    "Les prix 2026 des formules Femmes, Hommes et Couples, et le contenu des « formules d'abonnement » citées sur l'accueil du site.",
+    "Le programme après le 13/09/2026 : aucune soirée n'était publiée pour l'automne au 20/10/2026.",
+    "Ce qu'a inauguré la soirée du 04/07/2026 : rénovation, nouvel espace ou simple ouverture de saison.",
+    "Si le règlement naturiste de 2025 s'applique toujours tel quel : le site actuel n'en parle pas.",
+    "Si le bar sert de l'alcool et si une boisson reste comprise dans l'entrée, comme en 2022.",
+    "L'heure de fermeture du vendredi : 1 h sur le site actuel et dans l'agenda de septembre 2026, 23 h dans le pied de page de l'ancien site en mai 2026.",
+    "La note et les avis Google, relayés par des annuaires mais non consultés sur Google.",
+    "L'origine du nom « Le 33 », alors que le club est au 32B rue de Mulhouse.",
+    "Le nom commercial du sauna entre 2018 et 2020 : « Le Lys » n'apparaît que dans une adresse de page et une adresse électronique du site O Zen.",
+    "La surface du lieu et le nombre d'espaces intimes."
+  ],
+  "sources": [
+    { "id": "s1", "label": "Le 33 by Ozen, site officiel : accueil", "url": "https://le33byozen.fr/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s2", "label": "Le 33 by Ozen, site officiel : Le Club", "url": "https://le33byozen.fr/le-club", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s3", "label": "Le 33 by Ozen, site officiel : Tarifs", "url": "https://le33byozen.fr/tarifs", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s4", "label": "Le 33 by Ozen, site officiel : Contact et horaires", "url": "https://le33byozen.fr/contact", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s5", "label": "Le 33 by Ozen, site officiel : agenda des soirées", "url": "https://le33byozen.fr/soirees", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s6", "label": "AFNIC, enregistrements des domaines le33byozen.fr et saunacluble33.fr", "url": "https://rdap.nic.fr/domain/le33byozen.fr", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s7", "label": "Ancien site saunacluble33.fr, accueil (archive du 06/05/2024)", "url": "https://web.archive.org/web/20240506210703/https://saunacluble33.fr/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s8", "label": "Ancien site saunacluble33.fr, tarifs (archive du 18/04/2025)", "url": "https://web.archive.org/web/20250418190018/https://saunacluble33.fr/tarif/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s9", "label": "Ancien site saunacluble33.fr, « Règles d'or » (archive du 14/02/2025)", "url": "https://web.archive.org/web/20250214182818/https://saunacluble33.fr/regle-dor/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s10", "label": "Ancien site saunacluble33.fr, accueil et « le club » (archives du 14/05/2026)", "url": "https://web.archive.org/web/20260514014849/https://saunacluble33.fr/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s11", "label": "Wayback Machine, historique des captures de saunacluble33.fr", "url": "https://web.archive.org/cdx/search/cdx?url=saunacluble33.fr*", "type": "autre", "consulted": "2026-10-20" },
+    { "id": "s12", "label": "Site sauna-ozen.com, horaires, tarifs et mentions légales (archives du 25/06/2022)", "url": "https://web.archive.org/web/20220625164852/https://sauna-ozen.com/horaires-et-tarifs/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s13", "label": "Annuaire des entreprises : O ZEN", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/884380528", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s14", "label": "BODACC : annonces de la société O ZEN (achat du fonds, redressement judiciaire, plan)", "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202001291284", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s15", "label": "Annuaire des entreprises : LE LYS", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/838028637", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s16", "label": "minuitlibertin.com, fiche « Le 33 by Ozen (sauna) » (informations du 09/08/2025)", "url": "https://minuitlibertin.com/le-33-by-ozen-sauna/", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s17", "label": "saunaclublebali.fr, fiche « 33 by Ozen » (ajoutée le 07/04/2026)", "url": "https://www.saunaclublebali.fr/listing/33-by-ozen-rixheim/", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s18", "label": "top-rated.online, « 33 by OZEN Sauna Club libertin » (page mise à jour le 22/07/2026)", "url": "https://www.top-rated.online/cities/Rixheim/place/p/11673495/OZEN+Sauna+Club+libertin", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s19", "label": "lieuxlibertins.fr, saunas libertins à Mulhouse", "url": "https://lieuxlibertins.fr/mulhouse/sauna-libertin/", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s20", "label": "csc-maximin.fr, « 33 by OZEN Sauna Club libertin »", "url": "https://csc-maximin.fr/33-by-ozen-sauna-club-libertin/", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s21", "label": "Page Facebook « Sauna rixheim OZEN » (non lisible sans connexion)", "url": "https://www.facebook.com/Ozenrixheim/", "type": "reseau_social", "consulted": "2026-10-20" },
+    { "id": "s22", "label": "Sauna Mikonos, Rixheim : registre de la société LE MYKONOS et fiches lieux-gays.com, trouver-ouvert.fr vues en résultats de recherche", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/480912633", "type": "registre", "consulted": "2026-10-20" }
+  ]
+}

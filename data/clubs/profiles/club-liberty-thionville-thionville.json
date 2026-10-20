@@ -1,0 +1,1337 @@
+{
+  "slug": "club-liberty-thionville-thionville",
+  "clubId": "14805",
+  "researchedAt": "2026-10-21",
+  "display": {
+    "nom": "Club Liberty",
+    "ville": "Thionville"
+  },
+  "status": {
+    "value": "ferme",
+    "summary": "La SARL Liberty, qui avait repris en 2011 le fonds du sauna installé à l'adresse du club, a été radiée : son unique établissement est déclaré fermé au registre au 6 février 2020, et la radiation a paru au BODACC le 20 février. Passé en 2016 sur un nouveau domaine, le site du club a été mis à jour pour la dernière fois en 2018 (nouvelle grille de tarifs, archivée en août) et disparaît des archives après août 2019. Aucune entreprise de loisirs n'est active à l'adresse en octobre 2026, même si des annuaires y annoncent depuis 2025 un « Caliente Club » qu'aucune source officielle ne confirme.",
+    "sources": [
+      "s20",
+      "s22",
+      "s29",
+      "s35",
+      "s46",
+      "s47",
+      "s48"
+    ]
+  },
+  "seo": {
+    "title": "Club libertin et sauna gay à Thionville : le Liberty a fermé",
+    "metaDescription": "Sauna gay l'après-midi, soirées mixtes le soir : le Liberty de Thionville, ex-Libertyland, a fermé (SARL radiée en 2020). Tarifs, soirées et noms du lieu.",
+    "subtitle": "Club libertin et sauna gay de Thionville (57), actif de 2009 à 2018 au moins, aujourd'hui fermé",
+    "targetQueries": [
+      "club libertin thionville",
+      "sauna gay thionville",
+      "libertine thionville",
+      "libertines thionville",
+      "club echangiste thionville",
+      "libertin thionville"
+    ]
+  },
+  "lead": "De 2011 à 2018 au moins, le Liberty de Thionville vivait en deux temps dans le même local : sauna gay l'après-midi, soirées libertines mixtes le soir. De 2013 à 2018, il consacrait son dernier samedi du mois à une soirée « Rondes & Fortes », présentée comme « une première en club libertin ». Présent en ligne dès mai 2009 sous le nom de Libertyland, le club met son site à jour pour la dernière fois en 2018 ; la SARL Liberty, installée à son adresse, a été radiée en février 2020. Depuis 2025, des annuaires placent au même endroit un « Caliente Club » qu'aucune source officielle ne confirme.",
+  "glance": [
+    {
+      "icon": "closed",
+      "label": "Fermé",
+      "value": "Au plus tard en février 2020"
+    },
+    {
+      "icon": "history",
+      "label": "Activité attestée",
+      "value": "De 2009 à 2018 (site en ligne jusqu'en 2019)"
+    },
+    {
+      "icon": "warning",
+      "label": "Même adresse, 2025-2026",
+      "value": "« Caliente Club » cité par des annuaires",
+      "confidence": "a_verifier"
+    },
+    {
+      "icon": "euro",
+      "label": "Samedi soir (2018)",
+      "value": "Couple 40 € · homme seul 50 € · espèces",
+      "confidence": "source_unique"
+    },
+    {
+      "icon": "water",
+      "label": "Sauna gay le plus proche",
+      "value": "Red Sauna, Uckange, ≈ 6 km (juillet 2026)"
+    },
+    {
+      "icon": "map",
+      "label": "Club mixte vérifié",
+      "value": "K-Ress, Messancy (Belgique), ≈ 37 km"
+    }
+  ],
+  "highlights": [
+    "Fermé : la SARL Liberty a été radiée en février 2020 ; la dernière mise à jour connue de son site, une grille de tarifs, remonte à 2018.",
+    "Un « Caliente Club » est annoncé à la même adresse par plusieurs annuaires depuis 2025 : rien d'officiel ne le confirme, renseignez-vous avant d'y aller.",
+    "Les domaines libertythionville.com et liberty-club.fr ont changé de mains : l'un diffuse des annonces d'escort, l'autre un blog sans lien avec le club.",
+    "Le 03 82 34 37 50 des annuaires était celui du club de 2009 à 2019, et leur courriel semble celui d'un club de Metz : aucun ne joint plus le Liberty.",
+    "Activité vérifiée en 2026 : saunas gays Red Sauna à Uckange (6 km) et Blue Club à Metz ; soirées mixtes chez K-Ress à Messancy, côté belge."
+  ],
+  "keyFacts": [
+    {
+      "label": "Statut",
+      "value": "Fermé ; SARL Liberty, à l'adresse du club, radiée en février 2020",
+      "confidence": "confirme",
+      "sources": [
+        "s20",
+        "s22"
+      ]
+    },
+    {
+      "label": "Dernière activité publique",
+      "value": "Nouvelle grille de tarifs en 2018 (archivée le 29/08) ; site archivé jusqu'en août 2019",
+      "confidence": "confirme",
+      "sources": [
+        "s47"
+      ]
+    },
+    {
+      "label": "Même adresse depuis 2025",
+      "value": "« Caliente Club » selon plusieurs annuaires en ligne ; aucune confirmation officielle",
+      "confidence": "a_verifier",
+      "sources": [
+        "s35",
+        "s36",
+        "s53",
+        "s54",
+        "s55"
+      ]
+    },
+    {
+      "label": "Noms du club",
+      "value": "Libertyland (2009-2010), puis Liberty Thionville ou Club Liberty (2011-2019)",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s2",
+        "s30",
+        "s47",
+        "s50"
+      ]
+    },
+    {
+      "label": "Sauna gay du même local",
+      "value": "Le Boots (enseigne depuis 2005), puis Liberty Gay, l'après-midi gay du club (2011-2018)",
+      "confidence": "confirme",
+      "sources": [
+        "s6",
+        "s24",
+        "s25",
+        "s47"
+      ]
+    },
+    {
+      "label": "Société",
+      "value": "SARL Liberty, même nom et même adresse, du 20/10/2011 au 06/02/2020",
+      "confidence": "confirme",
+      "sources": [
+        "s20",
+        "s21"
+      ]
+    },
+    {
+      "label": "Public",
+      "value": "Soirées mixtes (couples, femmes et hommes seuls) ; après-midi gay, mixte le lundi et le mercredi",
+      "confidence": "confirme",
+      "sources": [
+        "s2",
+        "s6",
+        "s10"
+      ]
+    },
+    {
+      "label": "Surface",
+      "value": "Environ 200 m² de plain-pied (chiffre du sauna Le Boots, 2010)",
+      "confidence": "source_unique",
+      "sources": [
+        "s25"
+      ]
+    },
+    {
+      "label": "Paiement",
+      "value": "Espèces uniquement (2011-2018)",
+      "confidence": "confirme",
+      "sources": [
+        "s3",
+        "s13",
+        "s16",
+        "s47"
+      ]
+    },
+    {
+      "label": "Adresse",
+      "value": "3 rue de l'École-des-Mines, 57100 Thionville",
+      "confidence": "confirme",
+      "sources": [
+        "s7",
+        "s20"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "deux-ambiances",
+      "title": "Sauna sec et hammam d'un côté, bar et piste de danse de l'autre",
+      "icon": "building",
+      "summary": "Le club jouait sur deux ambiances : un espace de détente (sauna sec, hammam, douches) et un espace festif (bar, petits salons, piste de danse), avec cabines et coins-câlins.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Dès sa version Libertyland de 2009, le site décrivait un lieu organisé autour de « deux ambiances ». D'un côté, la détente : sauna sec, hammam et douches. De l'autre, un bar festif, de petits salons et une piste de danse ; l'agenda de fin 2011 parlait aussi d'un « espace discothèque »."
+        },
+        {
+          "kind": "list",
+          "title": "Équipements cités par les pages officielles (2009-2011)",
+          "items": [
+            "sauna sec et hammam (deux salles de hammam au Boots en 2010) ;",
+            "douches communes et cabines ;",
+            "coins-câlins et « circuits libertins » ;",
+            "bar (boissons avec ou sans alcool, snacks) et petits salons ;",
+            "piste de danse ;",
+            "vestiaires personnels fermant à clé."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Seul le site du sauna Le Boots, qui occupait le local l'après-midi en 2010, donne une surface : 200 m² de plain-pied. Des annuaires ajoutent un glory hole, un labyrinthe, une barre d'exhibition et des backrooms fermant à clé : aucune page officielle consultée ne les mentionne."
+        },
+        {
+          "kind": "text",
+          "body": "Le site situait le club « entre Metz et le Luxembourg » et le présentait comme un club privé libertin, « non conformiste » à partir de 2013. Une page, « Les conseils de José », du prénom de l'hôte mis en avant par le club, s'adressait aux débutants.\n\nL'itinéraire publié en 2013 partait de l'A31, sortie Yutz : suivre Thionville, puis la direction d'Hettange-Grande, tourner à la première à droite ; le club était à 100 m."
+        },
+        {
+          "kind": "callout",
+          "tone": "info",
+          "title": "Le code vestimentaire de 2011",
+          "body": "Robe ou jupe conseillées aux femmes. Pour les hommes, chemise et pantalon de ville, jean toléré, mais ni baskets ni tee-shirt. Les soirées à thème et les soirées serviette faisaient exception, et la direction se réservait le droit d'entrée."
+        }
+      ],
+      "sources": [
+        "s2",
+        "s4",
+        "s5",
+        "s8",
+        "s9",
+        "s11",
+        "s13",
+        "s25",
+        "s27",
+        "s28",
+        "s30"
+      ]
+    },
+    {
+      "id": "sauna-gay",
+      "title": "Le Boots, puis Liberty Gay : un sauna gay chaque après-midi, 16 € en 2010, 19 € en 2018",
+      "icon": "water",
+      "summary": "Le local était un sauna gay l'après-midi : Le Boots en 2010, puis Liberty Gay, tous les jours de 14 h à 19 h, à 16 € jusqu'en 2017 et 19 € en 2018. Rien d'officiel après 2019.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Avant les soirées libertines, l'adresse avait déjà son sauna : l'établissement à l'enseigne Boots y est enregistré depuis juillet 2005. En 2010, son site le présentait comme un « sauna gay » de 200 m² de plain-pied, avec zone vidéo, fumoir, sling, pièce « Démonia » équipée et salle de détente.\n\nEn 2011, l'activité passe sous le nom du club : dès mai, l'accueil de libertythionville.com propose une entrée « Liberty » et une entrée « Gay », et en novembre une page « Club Sauna Liberty Gay » donne l'adresse et le téléphone du club."
+        },
+        {
+          "kind": "table",
+          "caption": "Le sauna gay de l'après-midi, d'après les sites archivés",
+          "headers": [
+            "Période",
+            "Nom",
+            "Horaires",
+            "Entrée"
+          ],
+          "rows": [
+            [
+              "Septembre 2010",
+              "Sauna Le Boots",
+              "14 h-20 h du lundi au jeudi (22 h le mardi et le jeudi, soirs Black Out et SM) ; 14 h-19 h du vendredi au dimanche",
+              "16 € du lundi au samedi ; 10 € le dimanche, et de 18 h à 20 h du lundi au jeudi"
+            ],
+            [
+              "Novembre 2011",
+              "Club Sauna Liberty Gay",
+              "Tous les jours, 14 h-19 h",
+              "Forfait de 16 €"
+            ],
+            [
+              "Février 2015 à mars 2017",
+              "Après-midi « gay » du Liberty",
+              "Tous les jours, 14 h-19 h",
+              "16 €"
+            ],
+            [
+              "Août 2018",
+              "Après-midi « gay » du Liberty",
+              "Tous les jours, 14 h-19 h",
+              "19 €, trois boissons sans alcool comprises"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le nom Tiki Sauna a aussi circulé en 2010-2011 : le site tiki-sauna.com s'annonçait en août 2011 comme un « nouveau sauna gay et libertin à Thionville », et un annuaire lui prête la même adresse et le même téléphone. L'ordre exact des trois noms n'est pas établi.\n\nLe lieu servait aussi la prévention : une fiche publiée en novembre 2014 par l'annuaire OneHeart y signale un dépistage rapide du VIH mené par l'association AIDES, dont les dates se demandaient au fixe du club."
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Plus de Liberty Gay depuis 2019",
+          "body": "Aucune page officielle ne parle des après-midi gay après la dernière archive du site, en août 2019. Le « Caliente Club » que des annuaires placent à la même adresse depuis 2025 est décrit par l'un d'eux comme « gay et mixte en journée et soir », sans aucune source officielle : voir plus bas."
+        }
+      ],
+      "sources": [
+        "s6",
+        "s16",
+        "s23",
+        "s24",
+        "s25",
+        "s26",
+        "s28",
+        "s47",
+        "s53",
+        "s56"
+      ]
+    },
+    {
+      "id": "apres-midi-a-theme",
+      "title": "Black Out le jeudi, Bi Partie le mercredi : le sauna gay à thème de 2010 à 2018",
+      "icon": "flame",
+      "summary": "Le sauna gay avait ses rendez-vous : Black Out le jeudi, soirées SM Demonia, et des après-midi « méli-mélo » ouverts aux couples, le lundi puis aussi le mercredi de 2013 à 2018.",
+      "blocks": [
+        {
+          "kind": "list",
+          "items": [
+            "« Black Out » : le mardi et le jeudi au Boots en 2010, puis le jeudi après-midi au Liberty Gay en 2011 ;",
+            "SM : une soirée « demonia-gay » le mardi au Boots en 2010, puis une « Liberty Gay Demonia » le dernier dimanche du mois en 2011 ;",
+            "« méli-mélo » gay et mixte, ouvert aux couples : le lundi de 14 h à 19 h, puis aussi le mercredi de 14 h à 22 h à partir d'août 2013 ; 20 € pour un couple comme pour un homme de 2015 à 2018, trois boissons sans alcool comprises en 2018 ;",
+            "« Bi Partie » : le nom que le site donnait à ces après-midi du lundi et du mercredi de 2013 à 2018 (son bandeau les annonçait tous deux jusqu'à 22 h)."
+          ]
+        }
+      ],
+      "sources": [
+        "s6",
+        "s13",
+        "s15",
+        "s16",
+        "s25",
+        "s47"
+      ]
+    },
+    {
+      "id": "soirees",
+      "title": "Demonia le dernier dimanche, Cougar Libertine puis No Limite le mardi : les soirées de 2009 à 2018",
+      "icon": "mask",
+      "summary": "Un calendrier fixe : marché fétiche Demonia le dernier dimanche, Cougar Libertine puis No Limite le mardi, Rondes & Fortes le dernier samedi, Fluo Contact le premier samedi.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Les soirées mixtes réunissaient couples, femmes seules et hommes seuls, avec une « sélection de messieurs seuls » annoncée le vendredi et le samedi. Sur demande, le club organisait aussi des gang bangs « privés ou publics »."
+        },
+        {
+          "kind": "table",
+          "caption": "Rendez-vous récurrents annoncés sur le site (années où il les affiche)",
+          "headers": [
+            "Soirée",
+            "Quand",
+            "Années attestées"
+          ],
+          "rows": [
+            [
+              "« Nuit Demonia » : marché fétiche mixte, tenues fétiche, gothiques, cuir ou travesties bienvenues",
+              "Dernier dimanche du mois, 21 h-2 h",
+              "2010-2011"
+            ],
+            [
+              "Dimanche naturiste (« FKK », ou serviette et paréo)",
+              "Dimanche soir",
+              "Automne 2011"
+            ],
+            [
+              "« Cougar Libertine »",
+              "Tous les mardis",
+              "Fin 2012-2015, puis « Gougar Club du mardi » (sic) fin 2017-2018"
+            ],
+            [
+              "« No Limite », présentée comme une « toute nouvelle soirée »",
+              "Tous les mardis, dès 22 h",
+              "2016"
+            ],
+            [
+              "« Les grandes manœuvres » : uniformes (militaires, pompiers…), tarif spécial militaires sur justificatif",
+              "Mardis de janvier et février",
+              "2017 (année déduite des archives)"
+            ],
+            [
+              "« Rondes & Fortes libertines », présentée comme « une première en club libertin »",
+              "Dernier samedi du mois",
+              "2013-2018"
+            ],
+            [
+              "« Fluo Contact »",
+              "Premier samedi du mois",
+              "2014-2018"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Quelques soirées datées, tirées des archives du site (pour l'automne 2012, l'année est déduite des jours de la semaine) :"
+        },
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "31 décembre 2011",
+              "text": "« Nuit libertine » à 120 € par couple comme par homme seul ; peu d'hommes seuls, et uniquement sur réservation."
+            },
+            {
+              "date": "Automne 2012",
+              "text": "Soirée campagnarde le samedi 20 octobre, Halloween le mercredi 31 octobre, Beaujolais le jeudi 15 novembre."
+            },
+            {
+              "date": "23 mars 2013",
+              "text": "Soirée Nuisette, un samedi."
+            },
+            {
+              "date": "31 octobre 2013",
+              "text": "« Sexy Trouille Halloween Party » : couples et femmes seules invités, homme seul à 60 €, masques fournis."
+            },
+            {
+              "date": "Fin 2014 et février 2015",
+              "text": "Nouvel An puis Saint-Valentin : places limitées, réservation sur place et arrhes demandées. Le bandeau de la Saint-Valentin restera affiché, inchangé, jusqu'en 2019."
+            }
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "En 2013, le site vantait aussi un photographe pour les grandes soirées et des « balades coquines » dans la « limousine du Liberty ». Nous n'avons trouvé ces deux extras nulle part ailleurs."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s2",
+        "s3",
+        "s8",
+        "s9",
+        "s12",
+        "s13",
+        "s14",
+        "s15",
+        "s17",
+        "s30",
+        "s47"
+      ]
+    },
+    {
+      "id": "fin-d-activite",
+      "title": "Un site déménagé sur liberty-club.fr, mis à jour jusqu'en 2018 ; SARL Liberty radiée en février 2020",
+      "icon": "closed",
+      "summary": "Passé sur un nouveau domaine en 2016, le site change sa grille pour la dernière fois en 2018 et disparaît après août 2019 ; la SARL Liberty ferme son établissement en février 2020.",
+      "blocks": [
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "13 février 2015",
+              "text": "Dernière capture de libertythionville.com avec du contenu du club : réservations pour la Saint-Valentin."
+            },
+            {
+              "date": "1er août 2015",
+              "text": "libertythionville.com renvoie vers un lien d'affiliation du site de rencontres AdultFriendFinder."
+            },
+            {
+              "date": "Janvier 2016",
+              "text": "Le même site, même fixe et même hôte, réapparaît sur liberty-club.fr ; un annuaire libertin le cite à cette adresse dès juin 2016."
+            },
+            {
+              "date": "Mars 2017",
+              "text": "La grille archivée ce mois-là ne compte plus que deux soirées mixtes, le mardi et le samedi : le vendredi soir est fermé."
+            },
+            {
+              "date": "29 août 2018",
+              "text": "Première capture d'une nouvelle grille de tarifs, modifiée après décembre 2017 : dernier changement visible du site."
+            },
+            {
+              "date": "26 août 2019",
+              "text": "Dernière capture du site avec le contenu du club."
+            },
+            {
+              "date": "6 février 2020",
+              "text": "Le seul établissement de la SARL Liberty, au 3 rue de l'École-des-Mines, est déclaré fermé au registre."
+            },
+            {
+              "date": "20 février 2020",
+              "text": "Radiation de la société publiée au BODACC."
+            },
+            {
+              "date": "2021-2022",
+              "text": "liberty-club.fr devient un blog sans rapport avec le club ; libertythionville.com héberge un site chinois de jeux en ligne."
+            },
+            {
+              "date": "29 juillet 2025",
+              "text": "Un annuaire en ligne publie une fiche « Caliente Club » à l'adresse du Liberty (voir la section suivante)."
+            },
+            {
+              "date": "20 octobre 2026",
+              "text": "Aucune entreprise de loisirs active à l'adresse ; libertythionville.com diffuse des annonces d'escort."
+            }
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Entre août 2019 et février 2020, ni les archives ni le registre ne disent rien, et le BODACC ne mentionne aucune liquidation judiciaire : seulement l'immatriculation de 2012 et la radiation. Aucun article de presse sur le club n'a été trouvé en octobre 2026.\n\nOn ne peut donc pas dater la dernière soirée, seulement affirmer qu'elle a eu lieu entre 2018 et début 2020."
+        },
+        {
+          "kind": "text",
+          "body": "Les soirées du mardi et du samedi n'ont aucun successeur attesté à Thionville. Wyylde, qui revendique 7 millions de membres, permet au moins de [parcourir les profils libertins entre Thionville et la frontière luxembourgeoise](aff:wyylde), dans ce secteur que le club situait « entre Metz et le Luxembourg »."
+        }
+      ],
+      "sources": [
+        "s9",
+        "s16",
+        "s17",
+        "s18",
+        "s20",
+        "s22",
+        "s29",
+        "s35",
+        "s47",
+        "s48",
+        "s49",
+        "s62"
+      ]
+    },
+    {
+      "id": "caliente-club",
+      "title": "Un « Caliente Club » annoncé à la même adresse depuis juillet 2025, par six annuaires et aucun canal officiel",
+      "icon": "info",
+      "summary": "Depuis juillet 2025, des annuaires placent un « Caliente Club » au 3 rue de l'École-des-Mines, ouvert l'après-midi et trois soirs. Aucun site, réseau ou registre ne le confirme.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le 29 juillet 2025, l'annuaire en ligne Minuit Libertin a publié une fiche « Le Caliente Club », club libertin au 3 rue de l'École-des-Mines, révisée pour la dernière fois le 29 septembre 2026. mon-club.tel, H2O et G.Cruising le recensent aussi, comme Cylex et Firmania, vus en résultats de recherche. G.Cruising le dit « gay et mixte en journée et soir »."
+        },
+        {
+          "kind": "table",
+          "caption": "La semaine du Caliente Club selon les annuaires, face à la dernière grille du Liberty",
+          "headers": [
+            "",
+            "Caliente Club (annuaires, 2025-2026)",
+            "Liberty (site officiel, août 2018)"
+          ],
+          "rows": [
+            [
+              "Après-midi",
+              "14 h-19 h tous les jours sauf le samedi",
+              "14 h-19 h tous les jours (sauna gay), jusqu'à 22 h le mercredi"
+            ],
+            [
+              "Soirées",
+              "Mardi, vendredi et samedi, 22 h-2 h",
+              "Mardi 22 h-2 h ; samedi 22 h-3 h ; vendredi fermé"
+            ],
+            [
+              "Tarifs",
+              "Non publiés",
+              "19 à 20 € l'après-midi ; 30 à 50 € le soir"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Cette grille est, heure pour heure, celle que l'annuaire Lieux Coquins affiche pour le « Liberty Club », avec le site du Liberty : les fiches puisent sans doute à une même source ancienne.\n\nLa ressemblance ne prouve donc ni une reprise ni un changement de nom. Le registre ne montre d'ailleurs aucune entreprise à ce nom ni aucune activité en cours au n° 3."
+        },
+        {
+          "kind": "text",
+          "body": "Les annuaires relaient des notes de 3,3 à 3,8 sur 5, sur un à huit avis, que nous n'avons pas pu lire sur Google. Minuit Libertin donne aussi un numéro de mobile, que nous ne reprenons pas tant que le club ne le publie pas lui-même."
+        }
+      ],
+      "sources": [
+        "s29",
+        "s35",
+        "s46",
+        "s47",
+        "s52",
+        "s53",
+        "s54",
+        "s55",
+        "s63"
+      ]
+    },
+    {
+      "id": "saunas-gays-alentour",
+      "title": "Pride Pool Party à Uckange le 12 juillet 2026, Halloween à Metz le 30 octobre : deux saunas gays à 20 € l'entrée",
+      "icon": "water",
+      "summary": "Le plus proche, le Red Sauna d'Uckange (6 km), ouvre le samedi, le dimanche et le lundi ; le Blue Club de Metz, réservé aux hommes, ferme le mardi et du 2 au 12 novembre 2026.",
+      "blocks": [
+        {
+          "kind": "table",
+          "caption": "Saunas gays les plus proches, constatés le 21 octobre 2026 (distances à vol d'oiseau)",
+          "headers": [
+            "Lieu",
+            "Ce que montrent leurs sources"
+          ],
+          "rows": [
+            [
+              "Red Sauna, 2 cour de la Brasserie, Uckange (≈ 6 km)",
+              "« Pride Pool Party » le dimanche 12 juillet 2026, de 12 h à 19 h, avec billetterie en ligne. Ouvert le samedi, le dimanche et le lundi de 14 h à 19 h, 20 € (10 € avant 25 ans). Société active depuis octobre 2014."
+            ],
+            [
+              "Blue Club, 8 rue Sébastien-Leclerc, Metz (≈ 28 km)",
+              "Site à jour : soirée Halloween le vendredi 30 octobre 2026, fermeture du 2 au 12 novembre. Sauna masculin, interdit aux mineurs ; entrée 20 €, 10 € de 18 à 26 ans ; fermé le mardi."
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "À la même adresse d'Uckange, le Petit Futé recense un Dédale Club, « club de divertissement pour adultes » aux tarifs distincts pour les femmes, les couples et les hommes. Sa fiche n'est pas datée, et le domaine de son site, en parking dès août 2024, ne répond plus en octobre 2026."
+        }
+      ],
+      "sources": [
+        "s37",
+        "s38",
+        "s39",
+        "s41",
+        "s45",
+        "s58",
+        "s59"
+      ]
+    },
+    {
+      "id": "clubs-mixtes-alentour",
+      "title": "Quai 57 fermé en 2020 : les soirées mixtes datées les plus proches sont en Belgique et à Laxou",
+      "icon": "map",
+      "summary": "Aucun club mixte mosellan à l'activité datée en 2026 n'a été trouvé : K-Ress, à Messancy, annonçait une soirée le 22 août 2026, le Sauna 51 de Laxou deux vendredis d'octobre.",
+      "blocks": [
+        {
+          "kind": "table",
+          "caption": "Clubs et saunas mixtes autour de Thionville, constatés les 20 et 21 octobre 2026",
+          "headers": [
+            "Lieu",
+            "Constat"
+          ],
+          "rows": [
+            [
+              "[K-Ress](/k-ress-france), Messancy, Belgique (≈ 37 km)",
+              "Soirée le samedi 22 août 2026, gang bang le premier mardi et chaque troisième vendredi ; carte de membre de 30 € par an, puis 20 à 60 € l'entrée pour un couple. Le fonds est à vendre, mais le club dit rester ouvert d'ici la reprise."
+            ],
+            [
+              "Ragazza, Rehlingen-Siersburg, Sarre, Allemagne (≈ 38 km)",
+              "Club échangiste dont le site, traduit en français, a été mis à jour le 20 octobre 2026 ; dès 60 € pour un homme ou un couple, 15 € pour une femme, boissons et buffet compris ; fermé le mercredi."
+            ],
+            [
+              "[Sauna 51](/sauna-51-laxou), Laxou (≈ 76 km)",
+              "Journées libertines mixtes le mardi, le jeudi, le vendredi et le samedi ; soirées mixtes les vendredis 9 et 23 octobre 2026, à 40 € pour un couple ou un homme."
+            ],
+            [
+              "[L'Intim](/intim-metz-libertin), Metz (≈ 28 km)",
+              "Site en « Coming soon » ; la SARL CRC, enseigne LINTIM, est cessée depuis le 15 janvier 2020."
+            ],
+            [
+              "[Le Labyrinthe](/le-labyrinthe-marly), Marly (≈ 31 km)",
+              "Domaine en parking, proposé à la vente."
+            ],
+            [
+              "Quai 57, Boulange (≈ 16 km)",
+              "Club échangiste ouvert en 2015 dans une ancienne discothèque, fermé en octobre 2020 ; le bâtiment abrite aujourd'hui un fleuriste, selon Le Républicain Lorrain (juillet 2025)."
+            ],
+            [
+              "Elle et Lui (Mondelange), Le Manoir (Antilly)",
+              "Sites qui ne répondent pas."
+            ],
+            [
+              "Wanted, Saint-Marcel, Meurthe-et-Moselle (≈ 30 km)",
+              "Soirées à thème annoncées sans aucune date ; page des tarifs vide."
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Un site muet ne prouve pas une fermeture : ces adresses mosellanes peuvent fonctionner sans vitrine en ligne. Cherchez une date récente sur leurs réseaux ou appelez avant de partir, et suivez les mises à jour de la [page des lieux de Moselle](/departement/moselle)."
+        },
+        {
+          "kind": "text",
+          "body": "Faute de club mixte confirmé en Moselle, une première soirée datée se joue à Messancy ou à Laxou. Sur Carré Libertin, qui compte plus de 500 000 inscrits, vous pouvez [chercher un couple du Thionvillois pour cette première sortie](aff:carre-libertin) et convenir ensemble du club."
+        }
+      ],
+      "sources": [
+        "s33",
+        "s42",
+        "s43",
+        "s44",
+        "s45",
+        "s57",
+        "s60",
+        "s64"
+      ]
+    },
+    {
+      "id": "tarifs-2009-2018",
+      "title": "De l'entrée couple gratuite en 2010 à 40 € de 2015 à 2018, réglée en espèces",
+      "icon": "euro",
+      "summary": "Le samedi soir, le couple passe de l'entrée libre à 40 € ; l'homme seul monte de 40 à 60 €, puis redescend à 50 € en 2018. Femmes gratuites, puis à 10 €. Espèces uniquement.",
+      "blocks": [
+        {
+          "kind": "table",
+          "caption": "Entrée des soirées mixtes selon les grilles archivées",
+          "headers": [
+            "Grille",
+            "Couple (mardi / ven.-sam.)",
+            "Homme seul (mardi / ven.-sam.)",
+            "Femme seule"
+          ],
+          "rows": [
+            [
+              "Mai 2009 (Libertyland, sam. et dim.)",
+              "20 €, 6 consommations comprises",
+              "40 €, 3 consommations comprises",
+              "Gratuit"
+            ],
+            [
+              "Juillet 2010 (Libertyland, ven. au dim.)",
+              "Gratuit",
+              "40 €",
+              "Gratuit"
+            ],
+            [
+              "Mai 2011",
+              "20 € / 30 €",
+              "40 € / 50 €",
+              "Gratuit"
+            ],
+            [
+              "Automne 2011",
+              "20 € / 30 €",
+              "40 € / 50 €",
+              "10 €"
+            ],
+            [
+              "Janvier-mai 2013",
+              "20 € / 30 €",
+              "40 € / 50 €",
+              "10 €"
+            ],
+            [
+              "Août 2013",
+              "20 € / 30 €",
+              "50 € / 60 €",
+              "10 €"
+            ],
+            [
+              "Février 2015",
+              "30 € / 40 €",
+              "50 € / 60 €",
+              "Non indiqué"
+            ],
+            [
+              "Mars 2017 (plus de soirée le vendredi)",
+              "30 € / 40 € (samedi)",
+              "50 € / 60 € (samedi)",
+              "Non indiqué"
+            ],
+            [
+              "Août 2018 (trois boissons alcoolisées comprises)",
+              "30 € / 40 € (samedi)",
+              "40 € / 50 € (samedi)",
+              "Non indiqué"
+            ]
+          ]
+        },
+        {
+          "kind": "list",
+          "title": "Ce que comprenait l'entrée en 2010-2011",
+          "items": [
+            "accès illimité au hammam, au sauna sec, aux douches, aux cabines et aux coins-câlins ;",
+            "une boisson sans alcool ;",
+            "serviettes échangeables et vestiaire personnel à clé ;",
+            "buffet les vendredi, samedi et dimanche soir ;",
+            "préservatifs et lubrifiant en libre-service."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "De 2011 à 2018, le site rappelait que la direction n'acceptait ni carte bancaire ni chèque. La hausse d'août 2013 n'a touché que les hommes seuls ; celle relevée en février 2015, que les couples (le tarif femme n'y figure plus).\n\nDans la grille relevée en août 2018, l'homme seul repasse à 40 et 50 €, et chaque entrée du soir comprend trois boissons alcoolisées, les softs étant à volonté."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s3",
+        "s10",
+        "s13",
+        "s14",
+        "s16",
+        "s30",
+        "s47"
+      ]
+    },
+    {
+      "id": "boots-libertyland-liberty",
+      "title": "Du sauna Boots (2005) au club Liberty (2011) : un fonds apporté pour 5 200 €",
+      "icon": "history",
+      "summary": "Enseigne Boots au registre en 2005, club libertin en ligne dès 2009 sous le nom de Libertyland, puis, le 20 octobre 2011, fonds du Boots apporté à la nouvelle SARL Liberty.",
+      "blocks": [
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "22 juillet 2005",
+              "text": "La SARL GLS, dont le siège était à Metz, enregistre au 3 rue de l'École-des-Mines un établissement à l'enseigne Boots."
+            },
+            {
+              "date": "Mai 2009",
+              "text": "Un site présente « Le Libertyland », club libertin à Thionville, ouvert le samedi et le dimanche soir. En septembre, un annuaire le recense comme « Association le Libertyland », au 3 rue de l'École-des-Mines, avec le fixe du futur Liberty."
+            },
+            {
+              "date": "2010",
+              "text": "Le site Libertyland annonce aussi Libertyland Nature, plus de 5 hectares de forêt avec étang près de Boulay, ouvert de juin à septembre, « naturiste ou non » (informations de 2010, non vérifiées depuis : voir la [fiche de Libertyland Nature](/libertyland-nature-boulay)). Le Libertin, sauna libertin de Metz, renvoie vers le « Sauna boots Thionville »."
+            },
+            {
+              "date": "Mai 2011",
+              "text": "Première capture de libertythionville.com ; son avertissement d'accueil parle encore du « site web Libertyland »."
+            },
+            {
+              "date": "20 octobre 2011",
+              "text": "GLS apporte le fonds « sauna et hammam Le Boots », évalué à 5 200 €, à la SARL Liberty (capital de 500 €), qui commence son activité le jour même."
+            },
+            {
+              "date": "Mai à novembre 2011",
+              "text": "Le sauna de l'après-midi apparaît sous le nom de Liberty Gay : entrée « Gay » sur l'accueil du site en mai, page « Club Sauna Liberty Gay » en novembre."
+            },
+            {
+              "date": "2013",
+              "text": "GLS cède à la SARL CRC (enseigne LINTIM) un autre fonds de sauna-hammam, au 4 rue des Ferblantiers à Metz."
+            },
+            {
+              "date": "2014-2016",
+              "text": "Liquidation judiciaire de GLS, ouverte le 12 novembre 2014 et close pour insuffisance d'actif le 14 janvier 2016."
+            }
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Libertyland et Liberty partagent le même texte de présentation, le même prénom d'hôte, la même soirée Demonia, la même adresse et le même fixe. Avant la SARL de 2011, les soirées relevaient soit de l'association que nomme l'annuaire, soit de l'établissement Boots, seul enregistré à l'adresse : aucune source ne tranche."
+        }
+      ],
+      "sources": [
+        "s2",
+        "s6",
+        "s20",
+        "s21",
+        "s23",
+        "s24",
+        "s29",
+        "s30",
+        "s31",
+        "s32",
+        "s50"
+      ]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Tous les jours, après-midi gay": "14 h – 19 h",
+      "Lundi, après-midi méli-mélo": "14 h – 19 h",
+      "Mercredi, Bi Partie": "14 h – 22 h",
+      "Mardi, soirée mixte": "22 h – 2 h",
+      "Samedi, soirée mixte": "22 h – 3 h"
+    },
+    "note": "Dernière grille connue du club, relevée en août 2018 et encore en ligne en août 2019 ; plus de soirée le vendredi dès mars 2017. Le club est fermé. Le bandeau du site annonçait aussi le lundi jusqu'à 22 h.",
+    "confidence": "source_unique",
+    "sources": [
+      "s47"
+    ]
+  },
+  "tarifs": {
+    "rows": {
+      "Après-midi gay": "19 €",
+      "Après-midi méli-mélo, couple": "20 €",
+      "Après-midi méli-mélo, homme": "20 €",
+      "Couple, mardi soir": "30 €",
+      "Couple, samedi soir": "40 €",
+      "Homme seul, mardi soir": "40 €",
+      "Homme seul, samedi soir": "50 €"
+    },
+    "note": "Grille relevée en août 2018, la dernière connue : trois boissons sans alcool comprises l'après-midi ; le soir, trois boissons alcoolisées par personne et softs à volonté. Espèces uniquement. Tarif femme seule non indiqué depuis 2015 (10 € en 2011-2013).",
+    "confidence": "source_unique",
+    "sources": [
+      "s3",
+      "s10",
+      "s47"
+    ]
+  },
+  "equipements": [
+    "Sauna sec",
+    "Hammam",
+    "Douches",
+    "Cabines",
+    "Coins-câlins",
+    "Bar",
+    "Petits salons",
+    "Piste de danse",
+    "Vestiaires à clé"
+  ],
+  "faq": [
+    {
+      "question": "Le Liberty de Thionville est-il encore ouvert ?",
+      "answer": "Non. L'établissement de la SARL Liberty est déclaré fermé au 6 février 2020, et la radiation de la société a paru au BODACC le 20 février 2020. Le site du club, passé sur liberty-club.fr, a été modifié pour la dernière fois en 2018 (nouvelle grille de tarifs, archivée en août) et n'apparaît plus dans les archives après août 2019."
+    },
+    {
+      "question": "Y a-t-il encore un sauna gay à Thionville ?",
+      "answer": "Aucun n'est confirmé à Thionville même. Les après-midi gay du Liberty (tous les jours de 14 h à 19 h, 19 € en 2018) n'apparaissent plus après 2019, et le « Caliente Club » que des annuaires placent à la même adresse depuis 2025 n'a aucune source officielle. Le sauna gay actif le plus proche est le Red Sauna d'Uckange, à 6 km (pool party le 12 juillet 2026) ; plus loin, le Blue Club de Metz."
+    },
+    {
+      "question": "Quel club libertin ou échangiste reste-t-il près de Thionville ?",
+      "answer": "En Moselle, nous n'en avons trouvé aucun à l'activité datée en 2026 : le Quai 57 de Boulange a fermé en octobre 2020, le Caliente Club de Thionville et le Dédale Club d'Uckange ne sont connus que par des annuaires, et les sites de L'Intim, du Labyrinthe, d'Elle et Lui et du Manoir sont muets ou en attente. Les plus proches en activité sont K-Ress, à Messancy en Belgique (environ 37 km, soirée datée d'août 2026), Ragazza en Sarre (environ 38 km, site mis à jour en octobre 2026) et le Sauna 51 à Laxou (environ 76 km)."
+    },
+    {
+      "question": "Combien coûtait une soirée au Liberty ?",
+      "answer": "Selon la dernière grille connue, relevée en août 2018 : 30 € le mardi et 40 € le samedi pour un couple, 40 € et 50 € pour un homme seul, avec trois boissons alcoolisées comprises ; 19 € pour l'après-midi gay. Les femmes seules payaient 10 € de 2011 à 2013. Tout se réglait en espèces."
+    },
+    {
+      "question": "Pourquoi l'ancien site du Liberty affiche-t-il des annonces d'escort ?",
+      "answer": "Parce que le domaine libertythionville.com est passé à des tiers. Utilisé par le club de 2011 à février 2015, il renvoie dès août 2015 vers un lien d'affiliation d'AdultFriendFinder, héberge un site chinois de jeux en ligne en 2022, puis ces annonces d'escort, constatées le 20 octobre 2026. Le second domaine du club, liberty-club.fr, est devenu en 2021 un blog sans rapport.\n\nPour rencontrer des libertins plutôt que des annonces, Gleese diffuse chaque jour des lives HD, souvent animés par des couples, qui aident à [distinguer un couple bien réel d'une simple annonce](aff:gleese) ; les messages vocaux permettent ensuite de se parler avant de se voir."
+    },
+    {
+      "question": "Le Caliente Club est-il le nouveau nom du Liberty ?",
+      "answer": "Rien ne permet de l'affirmer. Des annuaires le situent depuis juillet 2025 à la même adresse, mais la grille qu'ils lui prêtent est exactement celle qu'un autre annuaire affiche pour l'ancien Liberty Club : elle ne prouve rien. Aucune source officielle, aucune entreprise active et aucun avis lu ne relient les deux."
+    },
+    {
+      "question": "Libertyland, Le Boots, Tiki Sauna, Liberty Gay : est-ce le même lieu ?",
+      "answer": "Pour l'essentiel, oui. Libertyland, présenté comme une association, est l'ancien nom du club libertin (2009-2010), à la même adresse. Le Boots puis Liberty Gay désignent le sauna gay de l'après-midi, dans le même local. Le nom Tiki Sauna a circulé en 2010-2011 pour ce sauna, avec la même adresse et le même téléphone selon un annuaire."
+    }
+  ],
+  "unverified": [
+    "La date de la dernière soirée : le site a été mis à jour pour la dernière fois en 2018 et archivé jusqu'en août 2019 ; rien ensuite avant la fermeture au registre, en février 2020.",
+    "Le « Caliente Club » que des annuaires placent à l'adresse depuis juillet 2025 : activité réelle, public, tarifs, exploitant et lien éventuel avec le Liberty. Aucun site officiel, aucun réseau social ni aucune entreprise active à ce nom n'ont été trouvés.",
+    "L'occupation actuelle du local du 3 rue de l'École-des-Mines : aucune entreprise de loisirs n'y est active au registre.",
+    "Le statut associatif du Libertyland (2009-2010) ne repose que sur un annuaire ; le registre des associations de Moselle n'a pas été consulté.",
+    "Le Dédale Club d'Uckange : connu par le Petit Futé seulement, site hors ligne depuis 2024.",
+    "Les lieux du Luxembourg voisin n'ont pas été revérifiés pour cette fiche ; en Sarre, seul Ragazza a été consulté.",
+    "Le téléphone fixe repris par les annuaires est celui que publiait le club de 2009 à 2019 ; son attribution actuelle n'a pas pu être vérifiée.",
+    "L'adresse électronique en le-libertin.fr qui circule sur les annuaires semble être celle d'un ancien club de Metz ; le Liberty écrivait depuis son propre domaine, aujourd'hui détourné. Le site liberty-club.fr que donnent d'autres annuaires n'est plus celui du club.",
+    "Glory hole, labyrinthe, barre d'exhibition, backrooms fermant à clé, carte de membre : listés par des annuaires, jamais par une source officielle.",
+    "Jacuzzi : cité dans l'objet social de la SARL Liberty en 2011, mais absent de toutes les pages du club ; nous ne le comptons pas parmi les équipements.",
+    "Aucune salle de cinéma n'est attestée : seule une zone vidéo figure sur le site du Boots en 2010.",
+    "Avis publics sur le Liberty : aucune note Google lue directement ; des annuaires évoquent des avis de 2018 que nous n'avons pas pu lire. Aucun article du Républicain Lorrain sur le club n'a été trouvé, mais ses archives n'ont pas pu être fouillées."
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Site officiel libertythionville.com, horaires et tarifs (archive du 14/05/2011)",
+      "url": "https://web.archive.org/web/20110514092625/http://www.libertythionville.com:80/horaires_et_tarif.html",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s2",
+      "label": "Site officiel, présentation et page d'accueil (archives du 14/05/2011)",
+      "url": "https://web.archive.org/web/20110514092835/http://www.libertythionville.com:80/presentation.html",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s3",
+      "label": "Site officiel, horaires et tarifs (archive du 30/10/2011)",
+      "url": "https://web.archive.org/web/20111030174654/http://www.libertythionville.com:80/horaire_et_tarifs.htm",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s4",
+      "label": "Site officiel, code vestimentaire (archive du 30/10/2011)",
+      "url": "https://web.archive.org/web/20111030214042/http://www.libertythionville.com:80/dress_code.htm",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s5",
+      "label": "Site officiel, présentation et conseils aux débutants (archive du 30/10/2011)",
+      "url": "https://web.archive.org/web/20111030174644/http://www.libertythionville.com:80/presentation.htm",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s6",
+      "label": "Site officiel, page Liberty Gay (archive du 12/11/2011)",
+      "url": "https://web.archive.org/web/20111112192753/http://www.libertythionville.com:80/liberty_gay.htm",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s7",
+      "label": "Site officiel, page contact (archive du 14/11/2011)",
+      "url": "https://web.archive.org/web/20111114203746/http://www.libertythionville.com:80/contact.htm",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s8",
+      "label": "Site officiel, agenda des soirées (archive du 31/12/2011)",
+      "url": "https://web.archive.org/web/20111231004517/http://www.libertythionville.com:80/agenda_des_soirees.htm",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s9",
+      "label": "Site officiel, accueil (archive du 12/01/2013)",
+      "url": "https://web.archive.org/web/20130112043815/http://www.libertythionville.com:80/accueil.htm",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s10",
+      "label": "Site officiel, horaires et tarifs (archives de janvier et mai 2013)",
+      "url": "https://web.archive.org/web/20130118073543/http://www.libertythionville.com:80/horaires%20et%20tarifs.htm",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s11",
+      "label": "Site officiel, adresse et itinéraire (archive du 23/06/2013)",
+      "url": "https://web.archive.org/web/20130623092811/http://www.libertythionville.com:80/adresse%20contact.htm",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s12",
+      "label": "Site officiel, page « les plus » (archive du 19/03/2013)",
+      "url": "https://web.archive.org/web/20130319084433/http://www.libertythionville.com:80/les%20plus.htm",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s13",
+      "label": "Site officiel, horaires et tarifs (archive du 19/08/2013)",
+      "url": "https://web.archive.org/web/20130819001801/http://www.libertythionville.com:80/horaires%20tarifs.htm",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s14",
+      "label": "Site officiel, gang bangs et Halloween 2013 (archive du 10/10/2013)",
+      "url": "https://web.archive.org/web/20131010070239/http://libertythionville.com/gang%20bang.htm",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s15",
+      "label": "Site officiel, accueil (archive du 17/12/2014)",
+      "url": "https://web.archive.org/web/20141217115057/http://libertythionville.com/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s16",
+      "label": "Site officiel, horaires et tarifs (archive du 13/02/2015, dernière grille)",
+      "url": "https://web.archive.org/web/20150213061930/http://libertythionville.com/horaires.html",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s17",
+      "label": "Site officiel, soirées et contact (archives du 13/02/2015)",
+      "url": "https://web.archive.org/web/20150213100328/http://libertythionville.com/news_soirees.html",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s18",
+      "label": "Wayback Machine, index des captures de libertythionville.com, et état du domaine constaté le 20/10/2026",
+      "url": "https://web.archive.org/cdx/search/cdx?url=libertythionville.com&matchType=domain",
+      "type": "autre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s20",
+      "label": "Annuaire des entreprises, SARL Liberty (SIREN 537 838 708)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/537838708",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s21",
+      "label": "BODACC A, immatriculation de la SARL Liberty (08/04/2012)",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20120070500",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s22",
+      "label": "BODACC B, radiation de la SARL Liberty (20/02/2020)",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:B202000362140",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s23",
+      "label": "BODACC A, apport du fonds « Le Boots » à Liberty (25/12/2011)",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20110249630",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s24",
+      "label": "Annuaire des entreprises, SARL GLS, établissement Boots (SIREN 393 572 375)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/393572375",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s25",
+      "label": "Site du Sauna Le Boots, saunaboots.com (archives de septembre 2010)",
+      "url": "https://web.archive.org/web/20100911095646/http://www.saunaboots.com:80/accueil.htm",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s26",
+      "label": "Site tiki-sauna.com (archive du 09/08/2011)",
+      "url": "https://web.archive.org/web/20110809043210/http://www.tiki-sauna.com:80/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s27",
+      "label": "sauna-club-libertin.com, fiche « Club Liberty Thionville »",
+      "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_3.php?id=14805&d=57",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s28",
+      "label": "sauna-club-libertin.com, fiche « Le Tiki Sauna »",
+      "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_3.php?id=1407&d=57",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s29",
+      "label": "Recherche d'entreprises, établissements du 3 rue de l'École-des-Mines à Thionville",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=ecole%20des%20mines&code_postal=57100",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s30",
+      "label": "Site du Libertyland, club libertin à Thionville (archives de 2009 et 2010)",
+      "url": "https://web.archive.org/web/20090515141321/http://libertyland.sexe-01.be:80/Presentation.htm",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s31",
+      "label": "Site du Libertin, sauna libertin de Metz (archive du 01/09/2010)",
+      "url": "https://web.archive.org/web/20100901061335/http://lelibertin.sexe-01.be:80/le_club.html",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s32",
+      "label": "BODACC, annonces de la SARL GLS (2013-2016)",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20130072406",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s33",
+      "label": "Annuaire des entreprises, SARL CRC (enseigne LINTIM), et état des sites de L'Intim, du Labyrinthe, d'Elle et Lui et du Manoir le 20/10/2026",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/791481377",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s35",
+      "label": "Minuit Libertin, fiche « Le Caliente Club à Thionville » (publiée le 29/07/2025, mise à jour le 29/09/2026)",
+      "url": "https://minuitlibertin.com/le-caliente-club-a-thionville/",
+      "type": "annuaire",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s36",
+      "label": "Minuit Libertin, « Trouvez un club échangiste en Moselle (57) » (mise à jour le 03/08/2026)",
+      "url": "https://minuitlibertin.com/trouvez-un-club-echangiste-en-moselle-57/",
+      "type": "annuaire",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s37",
+      "label": "Sauna Blue Club (Metz), site officiel : horaires, tarifs et événements d'octobre-novembre 2026",
+      "url": "https://www.saunablueclub.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s38",
+      "label": "Red Sauna (Uckange), site officiel : horaires, tarifs et dernier événement daté (26/04/2025)",
+      "url": "https://www.redsauna.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s39",
+      "label": "Annuaire des entreprises, RED SAUNA (SIREN 807 929 955)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/807929955",
+      "type": "registre",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s41",
+      "label": "Petit Futé, fiche « Dédale Club » à Uckange",
+      "url": "https://www.petitfute.com/v22321-uckange-57270/c9998-coquin/c1044-s-amuser-sortir/2057934-dedale-club.html",
+      "type": "annuaire",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s42",
+      "label": "K-Ress (Messancy, Belgique), site officiel : accueil, événements et tarifs (pages mises à jour le 08/08/2026)",
+      "url": "https://www.k-ress.com/events/",
+      "type": "officiel",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s43",
+      "label": "Sauna 51 (Laxou), site officiel : programme d'octobre 2026",
+      "url": "https://sauna51.fr/programme/",
+      "type": "officiel",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s44",
+      "label": "Wanted (Saint-Marcel), site officiel : accueil, événements et tarifs",
+      "url": "https://www.wanted-libertin.com/evenements/",
+      "type": "officiel",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s45",
+      "label": "Base adresse nationale et OpenStreetMap : géocodage des adresses citées (distances à vol d'oiseau depuis le 3 rue de l'École-des-Mines)",
+      "url": "https://api-adresse.data.gouv.fr/search/?q=3+rue+de+l%27Ecole+des+Mines+57100+Thionville",
+      "type": "carte",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s46",
+      "label": "Recherche d'entreprises : « Caliente » en Moselle et établissements actifs de la rue de l'École-des-Mines",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=caliente&departement=57",
+      "type": "registre",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s47",
+      "label": "Site officiel liberty-club.fr : accueil, horaires et tarifs, soirées et contact (archives du 10/01/2016 au 26/08/2019, dernière grille, relevée le 29/08/2018)",
+      "url": "https://web.archive.org/web/20180829033720/http://liberty-club.fr/horaires.html",
+      "type": "officiel",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s48",
+      "label": "Wayback Machine, index des captures de liberty-club.fr (salle de sport marseillaise jusqu'en 2013, club de 2016 à 2019, blog sans rapport depuis 2021) et état du domaine le 21/10/2026",
+      "url": "https://web.archive.org/cdx/search/cdx?url=liberty-club.fr&matchType=domain",
+      "type": "autre",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s49",
+      "label": "Clubech, fiche « Liberty Club » (archive du 20/06/2016)",
+      "url": "https://web.archive.org/web/20160620131924/http://www.clubech.fr/liberty-club/",
+      "type": "annuaire",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s50",
+      "label": "club-echangiste.net, fiche « Association le Libertyland » (archive du 30/09/2009)",
+      "url": "https://web.archive.org/web/20090930222240/http://club-echangiste.net/association-le-libertyland-235.html",
+      "type": "annuaire",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s52",
+      "label": "Lieux Coquins, fiche « Liberty Club » (horaires, site liberty-club.fr)",
+      "url": "https://www.lieuxcoquins.fr/lieu/liberty-club/",
+      "type": "annuaire",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s53",
+      "label": "G.Cruising, fiche « Caliente Club Thionville »",
+      "url": "https://gcruising.com/cruising-spot/6678,caliente-club-thionville-",
+      "type": "annuaire",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s54",
+      "label": "H2O Sauna pour lui, saunas gays de Thionville (Le Boots et Caliente Club Thionville)",
+      "url": "https://www.h2o-saunapourlui.fr/saunas-gay/moselle/thionville/",
+      "type": "annuaire",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s55",
+      "label": "mon-club.tel, fiche « Caliente Club Thionville »",
+      "url": "https://mon-club.tel/57-moselle/thionville/club-prive/81-caliente-club-thionville.html",
+      "type": "annuaire",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s56",
+      "label": "OneHeart, « Centre de dépistage AIDES – Thionville » (publié le 18/11/2014)",
+      "url": "https://www.oneheart.fr/adresses/centre-de-depistage-aides-thionville",
+      "type": "annuaire",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s57",
+      "label": "Le Quotidien (article du Républicain Lorrain), « Des fêtes sans alcool aux soirées échangistes, les drôles de nuits de la discothèque de Boulange », 14/07/2025",
+      "url": "https://lequotidien.lu/grande-region/des-fetes-sans-alcool-aux-soirees-echangistes-les-droles-de-nuits-de-la-discotheque-de-boulange/",
+      "type": "presse",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s58",
+      "label": "Red Sauna (Uckange), billetterie Weezevent de la « Pride Pool Party » du 12/07/2026",
+      "url": "https://my.weezevent.com/pride-pool-party",
+      "type": "officiel",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s59",
+      "label": "Wayback Machine, index des captures de dedaleclub.com (domaine en parking dès août 2024) et état du domaine le 21/10/2026",
+      "url": "https://web.archive.org/cdx/search/cdx?url=dedaleclub.com&matchType=domain",
+      "type": "autre",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s60",
+      "label": "Ragazza Club (Rehlingen-Siersburg, Sarre), site officiel en français : horaires et tarifs (page modifiée le 20/10/2026)",
+      "url": "https://ragazza.club/fr/",
+      "type": "officiel",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s62",
+      "label": "BODACC, toutes les annonces de la SARL Liberty (SIREN 537 838 708) : immatriculation et radiation, aucune procédure collective",
+      "url": "https://bodacc-datadila.opendatasoft.com/api/explore/v2.1/catalog/datasets/annonces-commerciales/records?where=registre%20like%20%22537838708%22",
+      "type": "registre",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s63",
+      "label": "Résultats de recherche web sur le Caliente Club et le Liberty (Cylex, Firmania, Yelp), pages elles-mêmes inaccessibles",
+      "url": "https://www.cylex-locale.fr/entreprises/caliente-club-thionville-14324057.html",
+      "type": "annuaire",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s64",
+      "label": "Base adresse nationale et OpenStreetMap : géocodage de Boulange et de Rehlingen-Siersburg (distances à vol d'oiseau depuis le 3 rue de l'École-des-Mines)",
+      "url": "https://api-adresse.data.gouv.fr/search/?q=42+rue+de+Verdun+57655+Boulange",
+      "type": "carte",
+      "consulted": "2026-10-21"
+    }
+  ]
+}

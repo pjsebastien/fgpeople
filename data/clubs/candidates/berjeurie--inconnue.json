@@ -5,5 +5,8 @@
   "foundIn": [
     "l-oiseau-bleu-calais"
   ],
-  "status": "todo"
+  "status": "rejected",
+  "duplicateOf": "o-pulsions--henin-beaumont",
+  "reason": "Doublon de l'entrée de file o-pulsions--henin-beaumont (encore à qualifier). La Berjeurie est l'ancien nom d'O'Pulsions, 160 boulevard Albert-Schweitzer, 62110 Hénin-Beaumont. Preuves vérifiées le 21/10/2026 : https://laberjeurie.com/ et https://www.laberjeurie.com/ redirigent (200) vers https://www.opulsions.com/, qui affiche l'adresse « Albert Schweitzer » à Hénin-Beaumont et contient encore des images nommées « berjeurie » et un lien « utm_source=la-berjeurie ». Les annuaires (Petit Futé, Minuit Libertin, orgia.fr, mon-club.tel, Voyage Insolite 2019) placent tous La Berjeurie à Hénin-Beaumont, à cette adresse. Aucune autre Berjeurie dans le Nord-Pas-de-Calais (WebSearch extended « \"La Berjeurie\" club libertin »). La page source (club-libertin-france.fr) ne cite que « La Berjeurie » en Nord-Pas-de-Calais, sans ville. Registre : aucune entité « Berjeurie ». find-club.mjs : absent de la base sous « Berjeurie », « O'Pulsions » et l'adresse. Dossiers : l-oiseau-bleu-calais (S30), orelax-lens (S30, S31), saunamusezvous-bethune (S34), villa-anges-club-libertin (S38), le-divin-lomme (S35, S36).",
+  "qualifiedAt": "2026-10-21"
 }

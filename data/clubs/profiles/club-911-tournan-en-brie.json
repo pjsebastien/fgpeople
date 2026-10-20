@@ -1,0 +1,615 @@
+{
+  "slug": "club-911-tournan-en-brie",
+  "clubId": "312",
+  "researchedAt": "2026-10-21",
+  "display": {
+    "nom": "Club 911",
+    "ville": "Tournan-en-Brie"
+  },
+  "status": {
+    "value": "fermeture_probable",
+    "summary": "La seule trace que nous ayons pu lire du Club 911 est une fiche d'annuaire dont le nom, l'adresse et le portable n'ont pas changé de 2007 à 2026 ; une recherche web du 21 octobre 2026 (presse locale, Facebook, avis, portable) n'a rien trouvé d'autre. À son adresse, la dernière entreprise de loisirs a cessé le 9 décembre 2014 ; le seul établissement ouvert au registre en 2026 y est celui d'une entreprise du bâtiment.",
+    "sources": [
+      "s1",
+      "s4",
+      "s6",
+      "s12",
+      "s13",
+      "s25",
+      "s26"
+    ]
+  },
+  "seo": {
+    "title": "Club 911 à Tournan-en-Brie : fermeture probable, une trace de 2007",
+    "metaDescription": "Classé club libertin en 2007 par un seul annuaire, sans site ni société à son nom : ce que révèlent le registre et l'ancien site de discothèques de la RN 4.",
+    "subtitle": "Lieu classé club libertin par un seul annuaire en 2007, au hameau de Combreux (77)",
+    "targetQueries": [
+      "club 911 tournan en brie",
+      "club 911 77",
+      "club libertin tournan en brie",
+      "club échangiste seine-et-marne"
+    ]
+  },
+  "lead": "On ne connaît au Club 911 ni site, ni horaires, ni page Facebook : sa seule trace lisible est une fiche d'annuaire qui le classait « club libertin » en 2007, inchangée depuis. À son adresse, près de l'ancienne RN 4, discothèques puis entreprise de loisirs ont toutes cessé, la dernière en décembre 2014. Faute de la moindre preuve d'activité, le lieu est très probablement fermé.",
+  "glance": [
+    {
+      "icon": "closed",
+      "label": "Fermeture probable",
+      "value": "Aucune soirée ni activité attestée"
+    },
+    {
+      "icon": "history",
+      "label": "Seule trace retrouvée",
+      "value": "Annuaire, 2007 ; mêmes coordonnées en 2026"
+    },
+    {
+      "icon": "building",
+      "label": "Au registre",
+      "value": "Aucune société « Club 911 » liée à Tournan"
+    },
+    {
+      "icon": "music",
+      "label": "Rue Damien Rigault",
+      "value": "Salles de danse et discothèques, 1995-2007"
+    },
+    {
+      "icon": "map",
+      "label": "Ouvert le plus proche",
+      "value": "L'Hyppocampe (Saint-Maur-des-Fossés), 21 km"
+    },
+    {
+      "icon": "phone",
+      "label": "Téléphone",
+      "value": "Portable relevé en 2007, jamais confirmé",
+      "confidence": "a_verifier"
+    }
+  ],
+  "highlights": [
+    "Aucun site, e-mail, horaire ni tarif n'a été retrouvé pour le Club 911 : aucune soirée n'y peut être vérifiée ni réservée.",
+    "Le seul numéro connu est un portable relevé en 2007 par un annuaire, jamais confirmé par le club et peut-être réattribué depuis.",
+    "Au 4 rue Damien Rigault, le seul établissement ouvert au registre en 2026 est celui d'une entreprise du bâtiment, créée en septembre 2014.",
+    "Aucun lieu ouvert connu plus près que Saint-Maur (21 km) : le club de Fontenay-Trésigny a fermé en 2014, l'exploitant de celui d'Émerainville a cessé en 2019."
+  ],
+  "keyFacts": [
+    {
+      "label": "Source identifiée",
+      "value": "Une fiche de sauna-club-libertin.com, inchangée de 2007 à 2026",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s4",
+        "s6"
+      ]
+    },
+    {
+      "label": "Type annoncé",
+      "value": "« Club libertin » en 2007, catégorie vide dès janvier 2010",
+      "confidence": "source_unique",
+      "sources": [
+        "s4",
+        "s5"
+      ]
+    },
+    {
+      "label": "Site, e-mail, horaires, tarifs",
+      "value": "Aucun retrouvé, à aucune date",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s4"
+      ]
+    },
+    {
+      "label": "Société exploitante",
+      "value": "Aucune identifiée ; pas d'entreprise « Club 911 » liée à Tournan",
+      "confidence": "confirme",
+      "sources": [
+        "s13"
+      ]
+    },
+    {
+      "label": "Adresse",
+      "value": "4 rue Damien Rigault (Combreux), à 30 m de l'ancienne RN 4",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s15",
+        "s16",
+        "s24"
+      ]
+    },
+    {
+      "label": "Activité au n° 4 en 2026",
+      "value": "Seul établissement ouvert : une entreprise du bâtiment créée le 1er septembre 2014",
+      "confidence": "source_unique",
+      "sources": [
+        "s12"
+      ]
+    },
+    {
+      "label": "Téléphone",
+      "value": "Portable publié par l'annuaire depuis 2007, jamais confirmé",
+      "confidence": "a_verifier",
+      "sources": [
+        "s1",
+        "s4"
+      ]
+    },
+    {
+      "label": "Lieux plus proches",
+      "value": "Fontenay-Trésigny fermé en 2014 ; exploitant d'Émerainville cessé en 2019",
+      "confidence": "source_unique",
+      "sources": [
+        "s28",
+        "s30",
+        "s31"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "fiche-annuaire-2007",
+      "title": "Une fiche d'annuaire de 2007 aux coordonnées inchangées pendant dix-neuf ans",
+      "icon": "history",
+      "summary": "Toutes les sources consultées ramènent à une fiche d'agrégateur : un nom, une adresse et un portable, inchangés de décembre 2007 à octobre 2026.",
+      "blocks": [
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "13/10/2007",
+              "text": "Première capture connue : l'un des quatre lieux de Seine-et-Marne de l'annuaire, classé « club libertin »."
+            },
+            {
+              "date": "06/12/2007",
+              "text": "La fiche donne le 4 rue Damien Rigault et un portable ; mail, site et infos sont vides."
+            },
+            {
+              "date": "15/01/2010",
+              "text": "La catégorie « club libertin » disparaît ; elle est toujours vide en 2011 et 2012."
+            },
+            {
+              "date": "2017-2026",
+              "text": "La liste départementale, capturée jusqu'en avril 2026, le cite toujours ; la fiche est inchangée le 20/10/2026."
+            }
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Une fiche figée prouve seulement que personne ne l'a corrigée. Le 21 octobre 2026, notre recherche n'a trouvé ni article de la presse locale, ni page Facebook, ni avis, et le portable n'apparaît sur aucune autre page publique. Deux guides départementaux mis à jour en 2026 ne citent que L'Angel'us de Melun."
+        },
+        {
+          "kind": "text",
+          "body": "Ses voisins de liste de 2007, Acanthus Paris (Dammarie-les-Lys) et Les Veillées du Moulin (Pommeuse), étaient fermés fin 2010."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s4",
+        "s5",
+        "s6",
+        "s17",
+        "s18",
+        "s25",
+        "s26"
+      ]
+    },
+    {
+      "id": "discotheques-rn4",
+      "title": "Discothèques et karaoké au bord de la RN 4, liquidés entre 2008 et 2010",
+      "icon": "music",
+      "summary": "De 1995 à 2007 au moins, la rue a vu se succéder salles de danse, discothèques et restaurants, tous fermés depuis ; aucun document ne les relie au Club 911.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le n° 4 se trouve dans le hameau de Combreux, à une trentaine de mètres de l'ancienne RN 4, aujourd'hui rue de Paris (D 216E), et à 240 m environ de la gare de Tournan."
+        },
+        {
+          "kind": "table",
+          "caption": "Exploitants déclarés au n° 4 depuis 2001 (registre des entreprises et BODACC)",
+          "headers": [
+            "Exploitant",
+            "Créé le",
+            "Activité déclarée",
+            "Fin"
+          ],
+          "rows": [
+            [
+              "Le King's Club Discothèque, enseigne « Chez Alexandre »",
+              "26/09/2001",
+              "Discothèque, brasserie, restauration",
+              "Liquidation clôturée le 25/02/2008"
+            ],
+            [
+              "Le Porte Bonheur de Tournan, enseigne « Chez Alexandre 5 »",
+              "01/10/2001",
+              "Restaurant, karaoké, salon de thé",
+              "Liquidation clôturée le 13/05/2009"
+            ],
+            [
+              "D2J",
+              "01/12/2004",
+              "Musique avec danse, boissons, restauration rapide",
+              "Établissement fermé le 30/04/2007, liquidation clôturée le 26/07/2010"
+            ],
+            [
+              "Entreprise individuelle sans enseigne",
+              "26/11/2012",
+              "Loisirs (code 93.29Z)",
+              "Cessée le 09/12/2014"
+            ],
+            [
+              "Entreprise individuelle",
+              "01/09/2014",
+              "Bâtiment (code 41.20B)",
+              "Active en 2026"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Six autres sociétés de la rue, déclarées de 1995 à 2001 (Le Castel SARL Musette, Wolf, Castel 77, Cinquième Événement, Silbaz, Manhattan), ont fermé leur établissement."
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Lien non établi",
+          "body": "Rien ne rattache le Club 911 à ces exploitants. L'annuaire le liste en octobre 2007, cinq mois et demi après la fermeture de l'établissement de D2J : sa fiche est plus ancienne, ou le club avait un autre exploitant."
+        }
+      ],
+      "sources": [
+        "s3",
+        "s7",
+        "s8",
+        "s9",
+        "s10",
+        "s11",
+        "s12",
+        "s15",
+        "s16",
+        "s24"
+      ]
+    },
+    {
+      "id": "homonymes-porsche",
+      "title": "Aucune société « Club 911 » à Tournan, cinq associations homonymes de Pau à Passy",
+      "icon": "info",
+      "summary": "Aucun Club 911 lié à Tournan au registre : les homonymes immatriculés sont des associations d'autres régions, et club911.net est un club de passionnés de Porsche.",
+      "blocks": [
+        {
+          "kind": "list",
+          "items": [
+            "Au registre, aucune société ni enseigne « 911 » n'est liée à Tournan ; les « Club 911 » trouvés sont cinq associations, dont le « Club 911 IDF » de Mougins, qui a eu un établissement à Barbizon (77), fermé en 2007.",
+            "Sur le web, club911.net réunit des passionnés de Porsche ; club911.com, club-911.com et club911.fr sont sans rapport avec Tournan."
+          ]
+        }
+      ],
+      "sources": [
+        "s13",
+        "s14"
+      ]
+    },
+    {
+      "id": "clubs-ouverts-saint-maur-melun-lisses",
+      "title": "Saint-Maur à 21 km, Melun à 23,5 km, Créteil à 23,7 km : cinq lieux au programme daté de l'automne 2026",
+      "icon": "map",
+      "summary": "Aucun lieu ouvert vérifié à moins de 20 km : L'Hyppocampe, L'Angel'us, Le Hublot Rouge, Le Glory's et Le Céleste annoncent des rendez-vous datés d'octobre 2026 ou après.",
+      "blocks": [
+        {
+          "kind": "table",
+          "caption": "Distances à vol d'oiseau depuis le 4 rue Damien Rigault ; activité relevée les 20 et 21/10/2026",
+          "headers": [
+            "Club",
+            "Distance",
+            "Activité constatée"
+          ],
+          "rows": [
+            [
+              "[L'Hyppocampe](/hippocampe-saint-maur-libertin), Saint-Maur-des-Fossés",
+              "21 km",
+              "Soirées d'octobre 2026 affichées depuis le 08/10"
+            ],
+            [
+              "[L'Angel'us](/angelus-club-libertin-melun), Melun",
+              "23,5 km",
+              "Agenda daté jusqu'au 18/12/2026"
+            ],
+            [
+              "[Le Glory's](/le-glory-s-creteil), Créteil",
+              "23,7 km",
+              "Bar à glory holes ; huit rendez-vous du 20 au 30/10/2026"
+            ],
+            [
+              "Le Hublot Rouge, péniche « Gat's », place Praslin, Melun",
+              "24 km environ",
+              "Vendredi et samedi dès 21 h ; quatre soirées du 23 au 31/10/2026"
+            ],
+            [
+              "[Le Céleste](/celeste-lisses-club-libertin), Lisses",
+              "28,5 km",
+              "Halloween du 31/10/2026 en billetterie"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "D'autres lieux du secteur, encore cités par des annuaires, sont fermés :\n- le Septième Ciel (Fontenay-Trésigny, 10,4 km), installé dans un Breguet Deux-Ponts, depuis juillet 2014 selon Wikipédia ;\n- le 5 et plus (Émerainville, 13,2 km), dont la société a cessé le 30 novembre 2019 ;\n- à Meaux, [Aux Secrets de Bastet](/aux-secrets-de-bastet-meaux), qui a fermé le 23 décembre 2017."
+        },
+        {
+          "kind": "text",
+          "body": "Le Hublot Rouge, dont le domaine date de mars 2026, affiche 20 € (femme seule), 60 € (couple) et 80 € (homme seul)."
+        },
+        {
+          "kind": "callout",
+          "tone": "tip",
+          "title": "Plus de 20 km de route",
+          "body": "Pour ne pas rouler seuls jusqu'à Melun ou Saint-Maur, une annonce passée sur Carré Libertin, qui avance plus de 500 000 inscrits, permet de [chercher des compagnons de route autour de Tournan](aff:carre-libertin). Avant de partager une voiture, [discuter de vive voix avec un couple briard](aff:gleese) passe sur Gleese par ses messages vocaux, réseau encore clairsemé loin des grandes villes."
+        }
+      ],
+      "sources": [
+        "s2",
+        "s19",
+        "s20",
+        "s21",
+        "s22",
+        "s23",
+        "s27",
+        "s28",
+        "s29",
+        "s30",
+        "s32"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "question": "Le Club 911 de Tournan-en-Brie est-il encore ouvert ?",
+      "answer": "Très probablement pas : on ne lui connaît ni site, ni soirée annoncée, ni société à ce nom, et notre recherche du 21 octobre 2026 (presse locale, Facebook, avis) n'a rien trouvé de plus."
+    },
+    {
+      "question": "Y a-t-il un club libertin ouvert à Tournan-en-Brie ou dans les communes voisines ?",
+      "answer": "Nous n'en avons trouvé aucun : le lieu de Fontenay-Trésigny a fermé en juillet 2014, l'exploitant de celui d'Émerainville a cessé en novembre 2019, et les lieux actifs commencent à Saint-Maur-des-Fossés (21 km) et à Melun (23,5 km)."
+    },
+    {
+      "question": "Qu'y a-t-il aujourd'hui au 4 rue Damien Rigault ?",
+      "answer": "Une entreprise individuelle du bâtiment, créée le 1er septembre 2014 : le seul établissement ouvert à ce numéro au registre en 2026."
+    },
+    {
+      "question": "Peut-on rencontrer des libertins de la Brie sans rouler jusqu'à Saint-Maur ou Melun ?",
+      "answer": "En ligne, oui : avant l'abonnement annuel de Wyylde (8,33 € par mois, reconduction automatique à désactiver), vous pouvez [jauger gratuitement les profils à 30 km de Tournan](aff:wyylde), la recherche par localisation étant ouverte aux comptes gratuits."
+    }
+  ],
+  "unverified": [
+    "Le Club 911 a-t-il eu une fiche Google Maps ? Aucune n'est apparue dans la recherche web du 21/10/2026, mais la plateforme n'a pas été consultée directement.",
+    "Qui exploitait le Club 911, et dans quel bâtiment de la rue Damien Rigault ? Aucun document ne le rattache aux discothèques de l'adresse.",
+    "Entre quelles dates le club a-t-il fonctionné ? L'annuaire ne date ni sa création ni sa dernière mise à jour.",
+    "Le portable publié par l'annuaire appartient-il encore à une personne liée au lieu ?",
+    "Une page Facebook « Club le 5 et plus » existe encore : publie-t-elle des soirées récentes ? Elle n'a pas pu être lue sans connexion."
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "sauna-club-libertin.com, fiche « CLUB 911 » (sans date)",
+      "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_3.php?id=312&d=77",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s2",
+      "label": "sauna-club-libertin.com, liste des établissements de Seine-et-Marne",
+      "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_2.php?d=77",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s3",
+      "label": "sauna-club-libertin.com, carte de la fiche Club 911",
+      "url": "https://www.sauna-club-libertin.com/v2/maps.php?id=312",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s4",
+      "label": "sauna-club-libertin.com, fiche Club 911 (archives du 06/12/2007, du 30/11/2011 et du 14/11/2012)",
+      "url": "https://web.archive.org/web/20071206154859/http://www.sauna-club-libertin.com/sauna_club_libertin_3.php?id=312&d=77",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s5",
+      "label": "sauna-club-libertin.com, liste Seine-et-Marne (archives du 13/10/2007, du 15/01/2010 et du 21/08/2013)",
+      "url": "https://web.archive.org/web/20071013200625/http://www.sauna-club-libertin.com/sauna_club_libertin_2.php?d=77",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s6",
+      "label": "Wayback Machine, index des captures de la fiche et de la liste (2017-2026)",
+      "url": "https://web.archive.org/cdx/search/cdx?url=www.sauna-club-libertin.com/v2/sauna_club_libertin_3.php?id=312%26d=77",
+      "type": "autre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s7",
+      "label": "Annuaire des entreprises, D2J (SIREN 479 892 713)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/479892713",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s8",
+      "label": "BODACC, D2J : jugement de 2009, clôture de la liquidation le 26/07/2010",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A201001543562",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s9",
+      "label": "Annuaire des entreprises et BODACC, Le King's Club Discothèque (SIREN 439 301 995)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/439301995",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s10",
+      "label": "Annuaire des entreprises et BODACC, Le Porte Bonheur de Tournan (SIREN 439 298 415)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/439298415",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s11",
+      "label": "Annuaire des entreprises, Le Castel SARL Musette, Wolf, Castel 77, Cinquième Événement, Silbaz et Manhattan (rue Damien Rigault)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/402353239",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s12",
+      "label": "Registre des entreprises, recherche « rue Damien Rigault » à Tournan-en-Brie (entreprises individuelles non nommées)",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=damien%20rigault&code_postal=77220",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s13",
+      "label": "Registre des entreprises, recherches « Club 911 » et « 911 » (France, Seine-et-Marne, 77220)",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=club%20911",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s14",
+      "label": "Noms de domaine homonymes : club911.net, club911.com (archive de 2015), club-911.com, club911.fr",
+      "url": "https://club911.net/portal",
+      "type": "autre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s15",
+      "label": "Base Adresse Nationale, 4 rue Damien Rigault, Tournan-en-Brie",
+      "url": "https://api-adresse.data.gouv.fr/search/?q=4%20rue%20Damien%20Rigault%2077220%20Tournan-en-Brie",
+      "type": "carte",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s16",
+      "label": "OpenStreetMap, géocodage du point d'adresse (hameau de Combreux)",
+      "url": "https://nominatim.openstreetmap.org/reverse?lat=48.738383&lon=2.761413&format=jsonv2",
+      "type": "carte",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s17",
+      "label": "sauna-club-libertin.com, fiche Acanthus Paris marquée fermée (archive du 15/01/2010)",
+      "url": "https://web.archive.org/web/20100115162406/http://www.sauna-club-libertin.com/sauna_club_libertin_3.php?id=287&d=77",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s18",
+      "label": "Annuaire des entreprises, structure des Veillées du Moulin à Pommeuse, cessée le 15/11/2010",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/440830081",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s19",
+      "label": "L'Hyppocampe, site officiel, page des événements (constat de sa fiche vérifiée)",
+      "url": "https://www.hyppocampe.net/%C3%A9v%C3%A8nements-libertins",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s20",
+      "label": "L'Angel'us, site officiel, agenda des soirées (constat de sa fiche vérifiée)",
+      "url": "https://www.angelus-club.com/soir%C3%A9es-agendas",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s21",
+      "label": "Le Céleste, site officiel, agenda (constat de sa fiche vérifiée)",
+      "url": "https://lecelestesaunaclub.com/agenda/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s22",
+      "label": "Aux Secrets de Bastet, site officiel : annonce de fermeture (archive du 17/01/2018, constat de sa fiche vérifiée)",
+      "url": "https://web.archive.org/web/20180117100348/http://www.aux-secrets-de-bastet.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s23",
+      "label": "Le Glory's (Créteil) : agenda tenu par l'exploitant sur lieuxdedrague.fr et site officiel (constat de sa fiche vérifiée)",
+      "url": "https://lieuxdedrague.fr/lieu-de-drague/le-glory-s-bar-a-gloryholes-cruising-loveshop-a-creteil-94/49994",
+      "type": "reseau_social",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s24",
+      "label": "OpenStreetMap, rue de Paris à Tournan-en-Brie (ancienne RN 4, D 216E) et arrêt ferroviaire de Tournan, relevés autour du 4 rue Damien Rigault",
+      "url": "https://www.openstreetmap.org/way/221380866",
+      "type": "carte",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s25",
+      "label": "saunaclublebali.fr, guide des clubs libertins de Seine-et-Marne (21/04/2026) : L'Angelus seul cité, pas de Club 911",
+      "url": "https://www.saunaclublebali.fr/clubs-libertins-seine-et-marne-77/",
+      "type": "annuaire",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s26",
+      "label": "minuitlibertin.com, clubs échangistes en Seine-et-Marne (page datée 2025-2026) : Club Angelus seul cité, pas de Club 911",
+      "url": "https://minuitlibertin.com/clubs-echangistes-en-seine-et-marne-77/",
+      "type": "annuaire",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s27",
+      "label": "Le Hublot Rouge (Melun), site officiel : péniche place Praslin, horaires, tarifs et soirées du 23 au 31/10/2026",
+      "url": "http://le-hublot-rouge.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s28",
+      "label": "Wikipédia, Aérodrome de Fontenay-Trésigny : le club échangiste Septième Ciel du Breguet Deux-Ponts (2011), fermé en juillet 2014",
+      "url": "https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Fontenay-Tr%C3%A9signy",
+      "type": "autre",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s29",
+      "label": "weblibertin, « Un club libertin dans un avion » (11/06/2012) : Le 7ème Ciel à l'aérodrome de Chaubuisson",
+      "url": "https://weblibertin.wordpress.com/2012/06/11/un-club-libertin-dans-un-avion/",
+      "type": "autre",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s30",
+      "label": "Annuaire des entreprises, Société nouvelle d'exploitation Le 5 et plus (club privé), Émerainville : cessée le 30/11/2019",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/512666892",
+      "type": "registre",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s31",
+      "label": "le5etplus.fr, ancien domaine du 5 et plus, devenu un comparateur d'assurance habitation",
+      "url": "https://le5etplus.fr/",
+      "type": "autre",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s32",
+      "label": "AFNIC (RDAP), nom de domaine le-hublot-rouge.fr enregistré le 07/03/2026",
+      "url": "https://rdap.nic.fr/domain/le-hublot-rouge.fr",
+      "type": "registre",
+      "consulted": "2026-10-21"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "new-boy-s-bar-nantes",
+  "nom": "Boy's Bar",
+  "type": "bar de cruising gay",
+  "types_normalises": ["Bar", "Gay friendly"],
+  "adresse": "4 rue Ogée",
+  "code_postal": "44000",
+  "ville": "Nantes",
+  "departement_code": "44",
+  "departement_nom": "Loire-Atlantique",
+  "region": "Pays de la Loire",
+  "pays": "France",
+  "telephone": "0228445950",
+  "email": "",
+  "site_web": "https://sites.google.com/view/boysbarnantes",
+  "equipements": ["Bar", "Cabines", "Sling", "Salon ou espace vidéo"],
+  "verification": { "status": "actif" },
+  "addedAt": "2026-10-21"
+}

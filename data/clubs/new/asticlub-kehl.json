@@ -1,0 +1,24 @@
+{
+  "id": "new-asticlub-kehl",
+  "nom": "AstiClub",
+  "type": "club libertin échangiste",
+  "types_normalises": ["Club"],
+  "adresse": "Römerstraße 82, Goldscheuer",
+  "code_postal": "77694",
+  "ville": "Kehl",
+  "departement_code": "allemagne",
+  "departement_nom": "",
+  "region": "",
+  "pays": "Allemagne",
+  "telephone": "+49 7854 98 51 57",
+  "email": "asticlubkehl@gmail.com",
+  "site_web": "https://www.asticlub.de/",
+  "equipements": [
+    "Bar (boissons à volonté comprises dans l'entrée)",
+    "Piste de danse",
+    "Barre de pole dance",
+    "Vestiaires sécurisés (caution de 10 €)"
+  ],
+  "verification": { "status": "incertain" },
+  "addedAt": "2026-10-20"
+}

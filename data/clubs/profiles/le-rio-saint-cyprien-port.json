@@ -1,0 +1,275 @@
+{
+  "slug": "le-rio-saint-cyprien-port",
+  "clubId": "1425",
+  "researchedAt": "2026-10-20",
+  "display": { "nom": "Le Rio", "ville": "Saint-Cyprien" },
+  "status": {
+    "value": "ferme",
+    "summary": "Le BODACC du 17 janvier 2018 annonce la cessation d'activité de la SARL Le Rio, dont l'unique établissement, rue Condorcet, est fermé au registre depuis le 31 décembre 2017. Le site du bar n'a plus été archivé après janvier 2011 et son domaine renvoyait vers une page de parking dès août 2012 ; la société elle-même est cessée depuis le 6 octobre 2023.",
+    "sources": ["s15", "s14", "s11"]
+  },
+  "seo": {
+    "title": "Le Rio à Saint-Cyprien : le bar échangiste ouvert en 2010, fermé",
+    "metaDescription": "Ouvert le 2 juillet 2010 près du port de Saint-Cyprien, Le Rio recevait les plus de 25 ans, femmes gratuites, couples à 30 €. Cessation publiée en 2018.",
+    "subtitle": "Bar musical libertin de la rue Condorcet à Saint-Cyprien (66), ouvert en juillet 2010 et fermé au plus tard fin 2017",
+    "targetQueries": ["le rio saint cyprien"]
+  },
+  "lead": "Le vendredi 2 juillet 2010, un bar échangiste ouvrait à quelques dizaines de mètres du port de Saint-Cyprien, et La Clau titrait trois jours plus tard sur un bar qui « bouscule les mœurs ». Réservé aux plus de 25 ans, gratuit pour les femmes, Le Rio réunissait bar, piste de danse et coins câlins. Il est fermé : son établissement l'est au registre depuis le 31 décembre 2017, et nous n'avons trouvé aucune trace d'activité après 2011.",
+  "glance": [
+    { "icon": "closed", "label": "Fermé", "value": "Au plus tard le 31 décembre 2017" },
+    { "icon": "history", "label": "Ouverture", "value": "Vendredi 2 juillet 2010, 21 h" },
+    { "icon": "calendar", "label": "Dernière soirée datée", "value": "Réveillon du 31 décembre 2010" },
+    { "icon": "euro", "label": "Entrée couple (2010)", "value": "30 €, une consommation chacun" },
+    { "icon": "users", "label": "Public (2010-2011)", "value": "25 ans minimum ; femmes gratuites" },
+    { "icon": "map", "label": "Ouverts dans le 66", "value": "Le Jet, L'Atlantis, Le Déstressium" }
+  ],
+  "highlights": [
+    "Fermé au plus tard fin 2017 selon le registre ; la dernière soirée annoncée par le bar est le réveillon de la Saint-Sylvestre 2010.",
+    "Le domaine le-rio.fr n'est plus celui du bar depuis 2012 : il a porté une agence immobilière, puis un comparatif de sites de rencontre.",
+    "Les horaires et tarifs que publient encore certains guides datent de 2010-2011 : le texte du plus détaillé n'a pas changé depuis juin 2011.",
+    "Les numéros de portable des anciens annuaires étaient ceux du bar vers 2010-2011 : ils ont pu être attribués depuis à d'autres personnes.",
+    "Aucun lieu libertin trouvé à Saint-Cyprien en octobre 2026 : les lieux actifs du département sont à Perpignan, Rivesaltes et Le Boulou."
+  ],
+  "keyFacts": [
+    { "label": "Type de lieu", "value": "Bar musical libertin, « bar échangiste » pour la presse", "confidence": "confirme", "sources": ["s5", "s15", "s19"] },
+    { "label": "Ouverture", "value": "Vendredi 2 juillet 2010", "confidence": "confirme", "sources": ["s6", "s19"] },
+    { "label": "Fermeture", "value": "Au plus tard le 31/12/2017 (établissement fermé au registre)", "confidence": "confirme", "sources": ["s14", "s15"] },
+    { "label": "Dernière soirée annoncée", "value": "Réveillon de la Saint-Sylvestre 2010", "confidence": "source_unique", "sources": ["s8", "s11"] },
+    { "label": "Société", "value": "SARL Le Rio (SIREN 523 499 804), cessée le 06/10/2023", "confidence": "confirme", "sources": ["s14", "s15"] },
+    { "label": "Emplacement", "value": "Rue Condorcet, à quelques dizaines de mètres du port (numéro inconnu)", "confidence": "source_unique", "sources": ["s19", "s14"] },
+    { "label": "Public", "value": "25 ans minimum ; entrée gratuite pour les femmes", "confidence": "confirme", "sources": ["s19", "s20", "s2"] },
+    { "label": "Surface", "value": "250 m², selon deux annuaires au texte commun", "confidence": "source_unique", "sources": ["s16", "s20"] }
+  ],
+  "sections": [
+    {
+      "id": "ouverture-2-juillet-2010",
+      "title": "Le 2 juillet 2010, un bar échangiste à quelques dizaines de mètres du port",
+      "icon": "calendar",
+      "summary": "Le bar ouvre le vendredi 2 juillet 2010 à 21 h, punch offert ; trois jours après, La Clau le décrit interdit aux moins de 25 ans et lancé avec la « bienveillance » de la mairie.",
+      "blocks": [
+        { "kind": "text", "body": "Le site du Rio annonçait l'ouverture pour le **vendredi 2 juillet 2010, à partir de 21 h**, avec un punch offert. La SARL Le Rio avait démarré son activité le 25 juin pour exploiter un « bar musical et petite restauration », et s'est immatriculée au greffe de Perpignan le 27 juillet." },
+        { "kind": "text", "body": "Le lundi 5 juillet, le média en ligne La Clau consacre un article au nouveau venu, sous le titre « Saint-Cyprien: un bar échangiste bouscule les moeurs ». Il en retient quatre traits :" },
+        { "kind": "list", "items": [
+          "l'accès interdit aux moins de 25 ans ;",
+          "des pièces cloisonnées et une entrée gratuite pour les femmes ;",
+          "une direction qui met en avant le « respect » ;",
+          "un lancement fait avec la « bienveillance » de la mairie, qui soulève des interrogations."
+        ] },
+        { "kind": "text", "body": "Selon le même article, le département comptait déjà deux établissements libertins à Perpignan, un à Rivesaltes et un au Boulou, présenté comme le plus connu et le plus actif. Le Rio devenait le cinquième." }
+      ],
+      "sources": ["s6", "s14", "s15", "s19"]
+    },
+    {
+      "id": "fin-du-rio-2011-2018",
+      "title": "Un dernier réveillon fin 2010, une cessation publiée en janvier 2018",
+      "icon": "closed",
+      "summary": "Le site du bar s'éteint après le réveillon 2010-2011 ; le registre ferme l'établissement au 31 décembre 2017 et le BODACC publie la cessation le 17 janvier 2018.",
+      "blocks": [
+        { "kind": "timeline", "items": [
+          { "date": "31 décembre 2010", "text": "Réveillon dansant de la Saint-Sylvestre, dernière soirée annoncée par le site du bar." },
+          { "date": "5 janvier 2011", "text": "Dernière capture du site du Rio par les archives du web." },
+          { "date": "Juin 2011", "text": "Première archive de la fiche du bar dans un guide de sorties en ligne ; son descriptif ne changera plus." },
+          { "date": "Août 2012", "text": "Le domaine le-rio.fr renvoie vers un service de parking de noms de domaine." },
+          { "date": "2013 à 2019", "text": "La société dépose ses comptes des exercices 2011 à 2017 ; ceux de 2014 à 2017 arrivent ensemble en février 2019, sous confidentialité." },
+          { "date": "31 décembre 2017", "text": "Fermeture au registre de l'établissement de la rue Condorcet." },
+          { "date": "17 janvier 2018", "text": "Le BODACC publie la cessation d'activité de la société." },
+          { "date": "6 octobre 2023", "text": "Après un transfert de siège sans lien avec le bar, la société est cessée." }
+        ] },
+        { "kind": "text", "body": "Ces comptes prouvent que la société existait, pas que le bar recevait du public. Entre janvier 2011 et décembre 2017, nous n'avons trouvé ni soirée datée, ni avis, ni article : Le Rio a pu fermer dès 2011 comme fin 2017. Seule certitude, il était fermé **au plus tard le 31 décembre 2017**." },
+        { "kind": "text", "body": "D'autres bars de nuit ont ouvert depuis rue Condorcet. Aucun n'est présenté comme libertin, et rien n'établit que l'un d'eux occupe l'ancien local du Rio." },
+        { "kind": "callout", "tone": "warning", "title": "Des annuaires restés en 2011", "body": "Certains annuaires présentent toujours Le Rio comme ouvert, horaires et tarifs à l'appui. Le plus détaillé, un guide de sorties, affiche le même texte depuis sa première archive du 14 juin 2011 ; il a même remplacé un temps le numéro du bar par sa propre ligne surtaxée de mise en relation." }
+      ],
+      "sources": ["s8", "s11", "s14", "s15", "s16", "s18", "s20"]
+    },
+    {
+      "id": "lieux-actifs-octobre-2026",
+      "title": "Le Boulou, Rivesaltes, Perpignan : trois lieux libertins actifs en octobre 2026",
+      "icon": "map",
+      "summary": "Nous n'avons trouvé aucun lieu libertin à Saint-Cyprien ; Le Jet, L'Atlantis et Le Déstressium annoncent tous trois des soirées en octobre 2026.",
+      "blocks": [
+        { "kind": "text", "body": "Nos recherches d'octobre 2026 n'ont trouvé aucun lieu libertin à Saint-Cyprien, à Canet-en-Roussillon ni à Argelès-sur-Mer. Un guide en ligne des clubs du département, daté du 6 mars 2026, ne cite pas Le Rio. Les lieux actifs les plus proches :" },
+        { "kind": "table", "headers": ["Lieu", "Ce que montre son site", "Couple / femme seule / homme seul"], "rows": [
+          ["[Le Jet](/le-jet-boulou), Le Boulou", "Une soirée annoncée chaque vendredi et samedi, du 16 octobre au 6 novembre 2026 (relevé du 20/10/2026)", "20 € / 10 € / 40 €"],
+          ["[L'Atlantis](/l-atlantis-rivesaltes), Rivesaltes", "Deux soirées Halloween, les 30 et 31 octobre 2026 (relevé du 16/10/2026)", "Non relevé ici"],
+          ["[Le Déstressium](/sauna-libertin-perpignan), Perpignan", "Sauna libertin ; agenda mis à jour le 15/10/2026 (relevé du 19/10/2026)", "20 € / 10 € / 40 € (35 € avant 31 ans)"]
+        ] },
+        { "kind": "text", "body": "Le Jet se présente comme le « club historique » des soirées libertines du département ; en 2010 déjà, La Clau désignait l'établissement du Boulou comme le plus connu et le plus actif. Son agenda d'automne ne compte que des vendredis et des samedis. Pour sa soirée VIP du vendredi 23 octobre, l'entrée est offerte aux couples et aux femmes seules [inscrits à l'avance sur Wyylde](aff:wyylde), avant 8 h le jour même." },
+        { "kind": "text", "body": "Pour partager la route du Boulou un samedi avec un autre couple, vous pouvez [chercher des partenaires de sortie sur la côte roussillonnaise](aff:carre-libertin) : Carré Libertin annonce environ 60 % de femmes et de couples parmi ses membres." }
+      ],
+      "sources": ["s22", "s23", "s24", "s25", "s26", "s27", "s28", "s19"]
+    },
+    {
+      "id": "conditions-d-entree",
+      "title": "25 ans minimum, femmes gratuites, hommes accompagnés le vendredi et le samedi",
+      "icon": "users",
+      "summary": "Le Rio n'admettait que les plus de 25 ans et laissait entrer les femmes sans payer ; vers 2011, les hommes seuls devaient venir accompagnés le vendredi et le samedi.",
+      "blocks": [
+        { "kind": "text", "body": "**L'âge minimum de 25 ans** est attesté par La Clau en juillet 2010 et par un guide de sorties vers 2011, qui exigeait aussi une « tenue correcte »." },
+        { "kind": "text", "body": "**Les femmes entraient gratuitement.** Le site disait « gratuit pour les femmes » en juin 2010, puis « pour les femmes seules » en août, sans préciser le cas d'une femme venue en couple." },
+        { "kind": "text", "body": "**Les hommes seuls** ne figuraient pas dans la grille du site en 2010. Vers 2011, le guide les annonçait à 50 € avec deux consommations, mais les messieurs devaient venir accompagnés le vendredi et le samedi." },
+        { "kind": "text", "body": "Entre juin 2010 et juin 2011, la grille a glissé vers la nuit : fermeture à 5 h au lieu de 3 h du jeudi au samedi, et un samedi plus cher de 10 € pour les couples. En 2010, une carte de membre à 50 € donnait l'entrée gratuite toute l'année et l'accès aux « manifestations » du bar." }
+      ],
+      "sources": ["s2", "s3", "s19", "s20"]
+    },
+    {
+      "id": "espaces-250-m2",
+      "title": "250 m² entre piste de danse, « coin psychédélique » et salons câlins",
+      "icon": "building",
+      "summary": "Deux annuaires décrivent 250 m² avec bar, piste de danse, douche et coins câlins ; le site légendait ses photos d'un « coin psychédélique » et de deux salons câlins.",
+      "blocks": [
+        { "kind": "text", "body": "Les deux annuaires qui décrivent le lieu donnent **250 m²** et la même liste : bar, piste de danse, douche, coins câlins. Leurs textes sont presque identiques, sans doute issus d'une même présentation : nous les comptons comme une seule source." },
+        { "kind": "text", "body": "En juin 2010, la visite proposée par le site se faisait uniquement en photos, légendées « le coin psychédélique », « le salon calin », « le coin salon calin » et « la douche ». La Clau parlait de « pièces cloisonnées »." },
+        { "kind": "text", "body": "Vers 2011, le guide de sorties ajoutait une programmation musicale des années 1980, une soirée à thème chaque samedi et un vestiaire gratuit. Aucune source ne mentionne de spa, de sauna ou de jacuzzi." },
+        { "kind": "list", "title": "La « charte libertine » affichée sur le site en 2010", "items": [
+          "« rien n'est obligatoire » : pas d'insistance après un refus ;",
+          "une porte fermée ou un store tiré devait être respecté ;",
+          "préservatifs mis à disposition pour des rapports protégés ;",
+          "hygiène, courtoisie et galanterie envers les femmes ;",
+          "drogue interdite, alcool sans excès."
+        ] }
+      ],
+      "sources": ["s5", "s7", "s16", "s19", "s20"]
+    },
+    {
+      "id": "carte-des-boissons-2010",
+      "title": "Du soft à 6 € à la bouteille à 100 €, et un réveillon à 120 € le couple",
+      "icon": "drink",
+      "summary": "En août 2010, un soft coûtait 6 €, une coupe de champagne 12 € et une bouteille d'alcool 100 € ; le réveillon de la Saint-Sylvestre 2010 était à 120 € par couple.",
+      "blocks": [
+        { "kind": "table", "caption": "Carte des boissons du Rio, août 2010 (site du bar)", "headers": ["Boisson", "Prix"], "rows": [
+          ["Soft", "6 €"],
+          ["Bière", "8 €"],
+          ["Cocktail sans alcool", "10 €"],
+          ["Coupe de champagne", "12 €"],
+          ["Alcool fort", "10 € avec la carte de membre, 15 € sans"],
+          ["Cocktail", "15 €"],
+          ["Desperados", "15 €"],
+          ["Demi-bouteille de champagne", "70 €"],
+          ["Bouteille de champagne « propriétaire » (75 cl)", "90 €"],
+          ["Bouteille d'alcool (75 cl)", "100 €"]
+        ] },
+        { "kind": "text", "body": "La carte de membre servait donc aussi au comptoir : elle faisait passer l'alcool fort de 15 € à 10 €." },
+        { "kind": "text", "body": "Pour la Saint-Sylvestre 2010, Le Rio annonçait un « grand réveillon dansant » : un dîner du foie gras à l'omelette norvégienne, en passant par un coq au vin, une bouteille de champagne offerte, **120 € par couple**, sur réservation avant le 15 décembre. C'est la dernière soirée datée que nous ayons trouvée." }
+      ],
+      "sources": ["s4", "s8"]
+    },
+    {
+      "id": "le-rio-fr-forum-et-domaine",
+      "title": "Un forum resté à 10 inscrits, un domaine le-rio.fr repris par des tiers",
+      "icon": "globe",
+      "summary": "Le site du bar offrait chat, livre d'or et un forum resté vide ; après 2012, le domaine le-rio.fr a servi à des tiers, puis a été supprimé le 8 octobre 2026.",
+      "blocks": [
+        { "kind": "text", "body": "Monté avec un générateur de sites gratuit, le-rio.fr proposait en 2010 une visite en photos, un plan, un livre d'or, un « Livetchat » et des bannières vers un guide de sorties, routes-libertines.fr. Le forum, ajouté au menu entre août 2010 et janvier 2011, comptait 10 inscrits et aucun message le 4 janvier 2011." },
+        { "kind": "list", "title": "Le domaine le-rio.fr après le bar", "items": [
+          "août 2012 : redirection vers un service de parking, puis liens sponsorisés en 2013 et 2014 ;",
+          "mars 2017 : domaine proposé à la vente ;",
+          "2020 : renvoi vers un site de rencontres libertines sans rapport avec le bar ;",
+          "2022 à 2024 : site d'une agence immobilière aux annonces situées à Nancy ;",
+          "avril-mai 2026 : comparatif de sites de rencontre, sans un mot sur Saint-Cyprien ;",
+          "8 octobre 2026 : domaine supprimé ; il ne répond plus le 16 octobre."
+        ] },
+        { "kind": "text", "body": "Une page Facebook « Le Rio Club », localisée à Saint-Cyprien-Plage, compte 22 abonnés. Son contenu est réservé aux comptes connectés : rien ne prouve qu'elle soit celle du bar, ni ne permet de dater son activité." }
+      ],
+      "sources": ["s1", "s9", "s10", "s11", "s12", "s13", "s21"]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Jeudi au dimanche (juin 2010)": "21 h – 3 h",
+      "Juillet-août 2010": "Tous les jours dès 22 h",
+      "Jeudi au samedi (vers 2011)": "22 h 30 – 5 h",
+      "Dimanche (vers 2011)": "Dès 21 h"
+    },
+    "note": "Bar fermé : ces grilles sont des archives. 2010 : site du bar ; 2011 : guide de sorties dont le texte n'a pas changé depuis juin 2011.",
+    "confidence": "source_unique",
+    "sources": ["s2", "s3", "s20"]
+  },
+  "tarifs": {
+    "rows": {
+      "Couple (2010)": "30 €, une consommation par personne",
+      "Couple (vers 2011)": "30 € jeudi, vendredi, dimanche · 40 € le samedi",
+      "Femme": "Gratuit",
+      "Homme seul (vers 2011)": "50 €, deux consommations",
+      "Carte de membre (2010)": "50 €, entrée gratuite toute l'année"
+    },
+    "note": "Prix relevés sur le site du bar en 2010 et dans un guide de sorties vers 2011 ; ils n'ont plus cours. Vers 2011, les hommes devaient venir accompagnés le vendredi et le samedi.",
+    "confidence": "source_unique",
+    "sources": ["s2", "s3", "s20"]
+  },
+  "equipements": ["Bar", "Piste de danse", "Coins câlins", "Douche"],
+  "officialLinks": [
+    { "label": "Site du Rio, archive de juin 2010", "url": "https://web.archive.org/web/20100629213949/http://www.le-rio.fr:80/index.html", "kind": "autre" }
+  ],
+  "corrections": {
+    "adresse": "Rue Condorcet",
+    "telephone": "",
+    "email": "",
+    "site_web": "",
+    "sources": ["s13", "s14", "s15", "s17"]
+  },
+  "faq": [
+    {
+      "question": "Le Rio de Saint-Cyprien est-il encore ouvert ?",
+      "answer": "Non. Son établissement de la rue Condorcet est fermé au registre depuis le 31 décembre 2017, et le BODACC a publié la cessation d'activité de la société le 17 janvier 2018. Aucune soirée, aucun avis ni article ne montre le bar en activité après 2011. Les annuaires qui le donnent ouvert reprennent un texte de 2011."
+    },
+    {
+      "question": "Où se trouvait Le Rio ?",
+      "answer": "Rue Condorcet, à Saint-Cyprien ; le bar écrivait « Saint-Cyprien Plage ». La Clau le situait en 2010 à quelques dizaines de mètres du port. Le numéro n'est pas connu, et rien n'établit qu'un des bars de nuit ouverts depuis dans cette rue ait repris le local."
+    },
+    {
+      "question": "Combien coûtait l'entrée au Rio ?",
+      "answer": "En 2010, 30 € pour un couple avec une consommation chacun, l'entrée libre pour les femmes, et une carte de membre à 50 € pour entrer sans payer toute l'année. Vers 2011, un guide de sorties donnait 40 € pour un couple le samedi et 50 € pour un homme seul, deux consommations comprises. Ces prix n'ont plus cours."
+    },
+    {
+      "question": "Le Rio acceptait-il les hommes seuls ?",
+      "answer": "Le site de 2010 ne les mentionnait pas. Vers 2011, un guide de sorties les annonçait à 50 €, mais seulement accompagnés le vendredi et le samedi. Comme tous les clients, ils devaient avoir au moins 25 ans."
+    },
+    {
+      "question": "Le site le-rio.fr est-il celui du bar ?",
+      "answer": "Plus depuis 2012. Le domaine a renvoyé vers un service de parking, puis porté une agence immobilière et un comparatif de sites de rencontre, avant d'être supprimé le 8 octobre 2026. Les archives du web conservent les pages du bar de juin 2010 à janvier 2011."
+    },
+    {
+      "question": "Peut-on encore sortir en libertin près de Saint-Cyprien ?",
+      "answer": "Pas sur place : les lieux actifs que nous avons recensés dans les [Pyrénées-Orientales](/departement/pyrenees-orientales) sont à Perpignan, Rivesaltes et Le Boulou, avec des soirées annoncées en octobre 2026. Pour faire connaissance avant l'une de ces soirées, Gleese propose [des lives quotidiens où des membres, souvent en couple, échangent en direct](aff:gleese), ainsi que des messages vocaux."
+    }
+  ],
+  "unverified": [
+    "Date réelle de la dernière soirée : aucune source ne montre le bar ouvert entre janvier 2011 et décembre 2017.",
+    "Numéro du local dans la rue Condorcet, et commerce qui l'occupe aujourd'hui.",
+    "Articles de L'Indépendant sur l'ouverture ou la fermeture du Rio : ses archives sont restées inaccessibles à nos outils.",
+    "Tarif d'une femme venue en couple : le site disait « gratuit pour les femmes » en juin 2010, « pour les femmes seules » en août.",
+    "Titulaire et période d'activité de la page Facebook « Le Rio Club », dont le contenu est réservé aux comptes connectés.",
+    "Un spa a parfois été attribué au Rio : aucune description du lieu, officielle ou d'annuaire, n'en fait état.",
+    "Fiche Google du lieu et avis éventuels : non trouvés."
+  ],
+  "sources": [
+    { "id": "s1", "label": "Site officiel du Rio, page d'accueil et menu (archive du 29/06/2010)", "url": "https://web.archive.org/web/20100629213949/http://www.le-rio.fr:80/index.html", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s2", "label": "Site officiel, « Tarifs et Horaires » (archive du 30/06/2010)", "url": "https://web.archive.org/web/20100630171610/http://www.le-rio.fr:80/tarifs_et_horaires.html", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s3", "label": "Site officiel, « Tarifs et horaires », version de l'été (archive du 21/08/2010)", "url": "https://web.archive.org/web/20100821113148/http://www.le-rio.fr:80/tarifs_et_horaires.html", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s4", "label": "Site officiel, « Tarifs des boissons » (archive du 21/08/2010)", "url": "https://web.archive.org/web/20100821113136/http://www.le-rio.fr:80/tarifs_des_boissons.html", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s5", "label": "Site officiel, « Règles d'or » : la charte libertine du bar (archive du 30/06/2010)", "url": "https://web.archive.org/web/20100630171605/http://www.le-rio.fr:80/regles_dor.html", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s6", "label": "Site officiel, « Soirées » : annonce de l'ouverture du 2 juillet 2010 (archive du 29/06/2010)", "url": "https://web.archive.org/web/20100629214059/http://www.le-rio.fr:80/soirees.html", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s7", "label": "Site officiel, « Visite du club » : légendes des photos (archive du 29/06/2010)", "url": "https://web.archive.org/web/20100629214243/http://www.le-rio.fr:80/visite_du_club.html", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s8", "label": "Site officiel, « Menu du jour de l'an » : réveillon de la Saint-Sylvestre 2010 (archive du 03/01/2011)", "url": "https://web.archive.org/web/20110103184108/http://www.le-rio.fr:80/menu_du_jour_de_lan.html", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s9", "label": "Site officiel, « Partenaires » (archive du 30/06/2010)", "url": "https://web.archive.org/web/20100630171600/http://www.le-rio.fr:80/partenaires.html", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s10", "label": "« Forum du RIO », lerio.forumgratuit.fr (archive du 04/01/2011)", "url": "https://web.archive.org/web/20110104183623/http://lerio.forumgratuit.fr:80/", "type": "forum", "consulted": "2026-10-16" },
+    { "id": "s11", "label": "Historique des captures de le-rio.fr (Wayback Machine) : pages du bar de juin 2010 à janvier 2011, parking en 2012, mise en vente en 2017", "url": "https://web.archive.org/cdx/search/cdx?url=le-rio.fr&matchType=domain&fl=timestamp,original,statuscode&collapse=urlkey", "type": "autre", "consulted": "2026-10-16" },
+    { "id": "s12", "label": "Archives de le-rio.fr repris par des tiers (captures de 2020 à mai 2026)", "url": "https://web.archive.org/web/20260517092621/https://le-rio.fr/", "type": "autre", "consulted": "2026-10-16" },
+    { "id": "s13", "label": "Registre AFNIC (RDAP) du domaine le-rio.fr : suppression le 08/10/2026", "url": "https://rdap.nic.fr/domain/le-rio.fr", "type": "registre", "consulted": "2026-10-16" },
+    { "id": "s14", "label": "Registre des entreprises : LE RIO (SARL), SIREN 523 499 804", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/523499804", "type": "registre", "consulted": "2026-10-16" },
+    { "id": "s15", "label": "BODACC, annonces de LE RIO (523 499 804) : création en 2010, comptes, cessation le 17/01/2018", "url": "https://bodacc-datadila.opendatasoft.com/api/explore/v2.1/catalog/datasets/annonces-commerciales/records?where=registre%20like%20%22523499804%22", "type": "registre", "consulted": "2026-10-16" },
+    { "id": "s16", "label": "sauna-club-libertin.com, fiche « LE RIO » (non datée)", "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_3.php?id=1425&d=66", "type": "annuaire", "consulted": "2026-10-16" },
+    { "id": "s17", "label": "Base adresse nationale, rue Condorcet à Saint-Cyprien (66750)", "url": "https://api-adresse.data.gouv.fr/search/?q=rue%20condorcet%2066750%20saint-cyprien", "type": "carte", "consulted": "2026-10-16" },
+    { "id": "s18", "label": "Registre des entreprises : débits de boissons de la rue Condorcet ouverts après 2010 (dont SIREN 841 349 681 et 980 361 927)", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/980361927", "type": "registre", "consulted": "2026-10-16" },
+    { "id": "s19", "label": "La Clau, « Saint-Cyprien: un bar échangiste bouscule les moeurs », 5 juillet 2010 (lu dans l'archive du 30/11/2022)", "url": "https://web.archive.org/web/20221130203547/https://www.la-clau.net/societe/saint-cyprien-un-bar-echangiste-derange-les-bonnes-moeurs-4719-22020/", "type": "presse", "consulted": "2026-10-20" },
+    { "id": "s20", "label": "Guide de Nuit, fiche « Le Rio » (texte inchangé depuis la première archive du 14/06/2011)", "url": "http://www.guidedenuit.com/discotheques_pyrenees-orientales/rio", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s21", "label": "Facebook, page « Le Rio Club » (métadonnées publiques seulement)", "url": "https://www.facebook.com/p/Le-Rio-Club-100066183775785/", "type": "reseau_social", "consulted": "2026-10-20" },
+    { "id": "s22", "label": "Le Jet Club (Le Boulou), site officiel : accueil et agenda « Nos soirées libertines » d'octobre-novembre 2026", "url": "https://www.lejetclub.fr/nos-soirees-libertines", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s23", "label": "Le Jet Club, site officiel : « Horaires et tarifs »", "url": "https://www.lejetclub.fr/horaires-tarifs-club-echangistes", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s24", "label": "L'Atlantis (Rivesaltes), site officiel : programme d'octobre 2026, dont les soirées Halloween des 30 et 31 octobre", "url": "https://www.atlantis66.com/", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s25", "label": "Le Déstressium (Perpignan), site officiel : page d'accueil, « votre sauna libertin à Perpignan »", "url": "https://ledestressium.fr/", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s26", "label": "Le Déstressium, site officiel : « Agenda » (modifié le 15/10/2026)", "url": "https://ledestressium.fr/agenda/", "type": "officiel", "consulted": "2026-10-19" },
+    { "id": "s27", "label": "Le Déstressium, site officiel : « Tarifs et horaires »", "url": "https://ledestressium.fr/tarifs-horaires-libertin/", "type": "officiel", "consulted": "2026-10-19" },
+    { "id": "s28", "label": "saunaclublebali.fr, guide des clubs libertins des Pyrénées-Orientales (06/03/2026)", "url": "https://www.saunaclublebali.fr/clubs-libertins-pyrenees-orientales-66/", "type": "annuaire", "consulted": "2026-10-20" }
+  ]
+}

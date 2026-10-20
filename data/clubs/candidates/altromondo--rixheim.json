@@ -3,7 +3,9 @@
   "ville": "Rixheim",
   "url": "https://altromondo.fr/",
   "foundIn": [
-    "club-inox-strasbourg-illkirch-graff"
+    "club-inox-strasbourg-illkirch-graff",
+    "le-33-by-ozen-rixheim"
   ],
-  "status": "todo"
+  "status": "added",
+  "slug": "altromondo-rixheim"
 }

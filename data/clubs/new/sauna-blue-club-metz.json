@@ -1,0 +1,19 @@
+{
+  "id": "new-sauna-blue-club-metz",
+  "nom": "Sauna Blue Club",
+  "type": "sauna gay masculin",
+  "types_normalises": ["Sauna", "Spa & Wellness", "Bar", "Gay friendly"],
+  "adresse": "8 rue Sébastien Leclerc",
+  "code_postal": "57000",
+  "ville": "Metz",
+  "departement_code": "57",
+  "departement_nom": "Moselle",
+  "region": "Grand Est",
+  "pays": "France",
+  "telephone": "0387180940",
+  "email": "contact@saunablueclub.fr",
+  "site_web": "https://www.saunablueclub.fr/",
+  "equipements": ["Surface de plus de 160 m² de plain-pied", "Accès aux personnes à mobilité réduite", "Sauna", "Hammam", "Vestiaire à casiers fermant à clé", "Quatre douches dont une froide", "Bar sans alcool (trois boissons incluses)", "Cabine fumeur", "Play room avec grand lit, glory holes et croix de Saint-André", "Sept cabines privatives", "Sling", "Siège gynécologique", "Grande salle vidéo", "Table de massage sur demande", "Wi-Fi gratuit", "Espace prévention"],
+  "verification": { "status": "actif" },
+  "addedAt": "2026-10-21"
+}

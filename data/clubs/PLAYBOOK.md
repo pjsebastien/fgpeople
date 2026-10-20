@@ -127,6 +127,10 @@ même SIRET, changement de nom attesté), le noter dans une section
 « Doublons » du dossier avec les preuves et le slug concerné. La fiche
 rédigée mentionne l'ancien nom dans l'histoire du lieu ; la fusion (redirection
 301 de l'ancienne fiche) est faite à la publication via `data/clubs/merged.json`.
+La cible de la fusion est **toujours la fiche personnalisée**, même si l'autre
+fiche porte le nom le plus récent : la fiche personnalisée raconte alors toutes
+les périodes du lieu. Jamais de phrase qui renvoie le lecteur vers « l'autre
+fiche » ou qui parle de « notre annuaire ».
 
 ### Lieux absents de la base
 
@@ -296,8 +300,11 @@ water, bed, car, lock, ticket, heart, mask, closed, ruler, phone, globe.
 - On sert une requête, on ne la cite pas : jamais « La requête « club
   libertin X » trouve sa réponse… » ni « Les recherches « … » » dans le texte.
 - Galerie officielle : n'en faire une section, ou la réponse à « photos »,
-  que si les images ont été regardées ; des légendes ou des noms de fichiers
-  ne suffisent pas.
+  que si les images ont été regardées (toutes, ou la galerie n'est décrite
+  qu'en termes généraux) ; des légendes ou des noms de fichiers ne suffisent pas.
+- Statut `ouvert` : un avis aperçu seulement dans un extrait de moteur de
+  recherche, sur une page inaccessible, ne compte pas comme preuve d'activité
+  récente.
 - Les erreurs de notre ancienne fiche (données d'annuaire) se corrigent dans
   `corrections` et se signalent dans `unverified`, pas dans une section du texte.
 - Dates : jamais « il y a environ 3 ans » (recopié d'un affichage Google ou
@@ -414,6 +421,12 @@ Les trois liens restent présents, mais avec un angle honnête : jours mixtes du
 lieu, couples qui viennent ces jours-là, sorties mixtes ailleurs, agenda des
 soirées de Wyylde. Ne jamais présenter ces sites comme un moyen de rencontrer
 des hommes.
+
+Pas de moule de fiche gay : ni le couple de sections « réservé aux hommes, sans
+jour mixte » + « couples et femmes, allez ailleurs », ni la phrase de chapô
+« Ce n'est pas un club libertin : … ». L'exclusivité masculine se dit dans
+`audience` et `highlights` ; les liens se logent là où le lieu a un vrai jour
+mixte ou un vrai voisin mixte.
 
 **Situations d'usage saturées**, à n'employer que si elles sont vraiment le
 fait saillant du club, et jamais dans plus de deux fiches d'un même lot :

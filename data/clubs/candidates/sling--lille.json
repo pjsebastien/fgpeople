@@ -1,0 +1,10 @@
+{
+  "nom": "Le Sling",
+  "ville": "Lille",
+  "url": "https://www.lesling.com/",
+  "foundIn": [
+    "les-bains-lille",
+    "le-divin-lomme"
+  ],
+  "status": "todo"
+}

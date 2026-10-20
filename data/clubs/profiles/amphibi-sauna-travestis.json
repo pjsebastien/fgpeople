@@ -1,0 +1,521 @@
+{
+  "slug": "amphibi-sauna-travestis",
+  "clubId": "FG067",
+  "researchedAt": "2026-10-21",
+  "display": { "nom": "Amphibi", "ville": "Paris" },
+  "status": {
+    "value": "ouvert",
+    "summary": "Deux avis Petit Futé, déposés en janvier et en avril 2026, racontent des visites de décembre 2025 et de mars 2026. Le club a retouché son site le 4 octobre 2026, et le syndicat SNEG & Co a mis à jour sa fiche d'adhérent le 6 octobre, avec les horaires actuels. La société exploitante a publié ses comptes en août 2026.",
+    "sources": ["s33", "s1", "s3", "s9", "s36", "s11", "s12"]
+  },
+  "seo": {
+    "title": "Amphibi, sauna trans et travesti de Paris 17e : prix et accès",
+    "metaDescription": "Sauna du 17e, métro Brochant, réservé aux hommes, travestis et femmes trans : entrée offerte aux deux derniers, 35 à 40 € pour les hommes, 13 h-22 h.",
+    "subtitle": "Sauna bisexuel réservé aux hommes, aux travestis et aux femmes trans, Paris 17e",
+    "targetQueries": [
+      "amphibi sauna paris",
+      "amphibi photos",
+      "l'amphibi",
+      "amphibi club paris",
+      "sauna libertin paris",
+      "club libertin gay paris",
+      "club bdsm paris",
+      "club libertin bdsm paris",
+      "hotel libertin paris",
+      "hôtel libertin paris",
+      "bar libertin paris"
+    ]
+  },
+  "lead": "Amphibi est un sauna bisexuel où n'entrent que les hommes, les travestis et les femmes trans, ces deux derniers publics gratuitement, tous les jours de 13 h à 22 h. La marque est née en 2006 rue Hallé, dans le 14e ; son site l'affiche rue Lacroix, dans le 17e, dès mars 2016. Sur 200 m² selon le club, ni alcool ni chambre : le bar sert thé, café et eau.",
+  "glance": [
+    { "icon": "clock", "label": "Horaires", "value": "Tous les jours, 13 h-22 h, fériés compris" },
+    { "icon": "euro", "label": "Entrée homme", "value": "35 € lun.-jeu. · 40 € ven.-dim." },
+    { "icon": "ticket", "label": "Travestis et trans", "value": "Entrée offerte 7 jours sur 7" },
+    { "icon": "bed", "label": "Chambres", "value": "Aucune, ni jacuzzi ni piscine" },
+    { "icon": "history", "label": "Marque née en", "value": "2006, rue Hallé (Paris 14e)" },
+    { "icon": "map", "label": "Métro", "value": "Brochant (ligne 13), à 168 m" }
+  ],
+  "audience": [
+    { "who": "hommes", "status": "oui", "detail": "Tous les jours, tenue libre ; moins de 27 ans : 25 € du lundi au jeudi", "price": "35 à 40 €" },
+    { "who": "trans", "status": "oui", "detail": "Femmes trans et travestis, entrée offerte ; tenue féminine exigée des travestis", "price": "0 €" },
+    { "who": "couples", "status": "non", "detail": "Exclus par la règle du site (fin 2022, réaffirmée en mars 2026) ; aucun jour mixte" },
+    { "who": "femmes", "status": "non", "detail": "Seules les femmes trans sont admises selon les pages en français du site" }
+  ],
+  "highlights": [
+    "Travestis : tenue féminine exigée. Le pantalon, la barbe et la perruque de farce et attrapes ou négligée sont refusés.",
+    "Moins de 27 ans : 25 € du lundi au jeudi seulement ; le week-end et les jours fériés, c'est 40 €, comme pour tous les hommes.",
+    "Aucun alcool : le bar n'en vend pas, il est interdit d'en apporter, et une personne ivre reste à la porte.",
+    "Couples et femmes non trans : des guides en ligne en 2026 les disent bienvenus, mais le site du club réserve l'entrée aux hommes, travestis et femmes trans.",
+    "Ne comptez pas sur le 09 66 92 17 40 des annuaires : PagesJaunes précise que le club n'est pas joignable par téléphone. Écrivez à bonjour@amphibi.fr."
+  ],
+  "keyFacts": [
+    { "label": "Public admis", "value": "Hommes, travestis et femmes trans", "confidence": "confirme", "sources": ["s1", "s3"] },
+    { "label": "Entrée", "value": "35 € (lun.-jeu.), 40 € (ven.-dim., fériés) ; offerte aux travestis et personnes trans", "confidence": "confirme", "sources": ["s2", "s6"] },
+    { "label": "Horaires", "value": "Tous les jours de 13 h à 22 h, jours fériés compris", "confidence": "confirme", "sources": ["s1", "s2"] },
+    { "label": "Marque", "value": "Revendiquée depuis 2006 ; rue Hallé (14e) en 2007-2008", "confidence": "confirme", "sources": ["s1", "s13", "s18"] },
+    { "label": "Rue Lacroix", "value": "Sur le site dès mars 2016 ; arrivée vers septembre 2015 selon le registre", "confidence": "a_verifier", "sources": ["s12", "s14", "s27"] },
+    { "label": "Société exploitante", "value": "SARL NCCH, créée le 01/09/2015, active", "confidence": "confirme", "sources": ["s8", "s11", "s12", "s15"] },
+    { "label": "Surface", "value": "200 m² (selon le club)", "confidence": "source_unique", "sources": ["s1"] },
+    { "label": "Syndicat professionnel", "value": "Adhérent du SNEG & Co « depuis 2006 », selon le syndicat", "confidence": "source_unique", "sources": ["s36"] },
+    { "label": "Hébergement", "value": "Aucune chambre", "confidence": "confirme", "sources": ["s1", "s2", "s19", "s22"] },
+    { "label": "Contact", "value": "Formulaire, bonjour@amphibi.fr, Instagram ; aucun téléphone publié", "confidence": "confirme", "sources": ["s1", "s8", "s10"] }
+  ],
+  "sections": [
+    {
+      "id": "qui-entre",
+      "title": "Entrée offerte aux travestis et aux femmes trans, 35 à 40 € pour les hommes",
+      "icon": "users",
+      "summary": "Entrée réservée aux hommes, aux travestis et aux femmes trans (règle réaffirmée le 30 mars 2026) ; gratuite pour ces deux derniers publics, 35 à 40 € pour les hommes.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "En français, le site ne laisse pas de marge : l'admission est « uniquement réservée » aux personnes travesties, aux femmes transgenres et aux hommes. Il se décrit comme un sauna et club privé bisexuel, pensé « pour les amateurs de travestis et de personnes transgenres »."
+        },
+        {
+          "kind": "list",
+          "title": "Ce que la grille d'octobre 2026 implique",
+          "items": [
+            "Travestis et personnes trans : rien à payer, quel que soit le jour.",
+            "Hommes de moins de 27 ans : la réduction à 25 € s'arrête le jeudi soir ; du vendredi au dimanche, ils paient 40 €.",
+            "Aucun justificatif d'âge n'est mentionné sur le site en 2026, alors que les grilles de 2008 à 2018 exigeaient une pièce d'identité pour le tarif jeune. Un avis Petit Futé de février 2025 raconte qu'une pièce d'identité a été demandée à l'accueil."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Les femmes non trans et les couples ne figurent plus parmi les publics admis. En 2008, un couple hétéro entrait pour 15 € ; en mars 2016, il entrait gratuitement du lundi au jeudi de 12 h à 14 h ; en 2018, il était encore « invité certains jours ». Aucun jour mixte n'apparaît sur le site actuel."
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Le Petit Futé annonce encore une entrée couple à 20 €",
+          "body": "Le Petit Futé affiche encore 20 € pour un couple et l'entrée offerte aux femmes, une grille proche de celle d'un second site de la société, signé 2021 et archivé jusqu'en mai 2024. Un blog mis à jour en septembre 2026 et un guide d'avril 2026 disent aussi les couples bienvenus. Le site du club ne les admet pas."
+        },
+        {
+          "kind": "text",
+          "body": "Pour un couple, un club parisien dont nous avons vérifié l'activité est le [Taken Club, sur l'île Saint-Louis](/taken-club-paris-ile-saint-louis), à 4,9 km à vol d'oiseau : ouvert du mardi au samedi dès 22 h 30, de 78 à 110 € l'entrée couple selon sa grille relue le 21 octobre 2026."
+        },
+        {
+          "kind": "text",
+          "body": "Un couple qui n'a jamais poussé la porte d'un club parisien peut chercher d'autres couples avec qui partager une première soirée au Taken parmi [les 7 millions de membres dont se prévaut Wyylde](aff:wyylde)."
+        },
+        {
+          "kind": "text",
+          "body": "Côté sauna, [l'Atlantide, près de la gare de Lyon](/atlantide-paris), se dit ouvert aux personnes trans et travesties, seules ou en couple, tous les jours de 12 h à 22 h, selon son site consulté le 21 octobre 2026."
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "La page anglaise garde une réponse abandonnée en français",
+          "body": "La page anglaise répond toujours « everyone is welcome » à la question du public admis. La FAQ française disait de même en février et en mai 2026, puis a été alignée sur la règle que l'accueil réaffirme depuis le 30 mars 2026 : travestis, femmes trans et hommes uniquement. Dans le doute, demandez par le formulaire."
+        },
+        {
+          "kind": "text",
+          "body": "Le club se dit bisexuel, pas gay : son accroche de 2026 vise « les hommes bi ». Le guide gay Patroc, à jour au 19 septembre 2026, ne le recense d'ailleurs pas parmi les saunas gays de Paris."
+        }
+      ],
+      "sources": ["s1", "s2", "s3", "s6", "s9", "s18", "s20", "s22", "s26", "s27", "s28", "s29", "s30", "s32", "s33", "s37", "s38", "s39", "s47"]
+    },
+    {
+      "id": "premiere-visite",
+      "title": "Une clé de vestiaire échangée au bar contre un bracelet, du gel et un préservatif",
+      "icon": "lock",
+      "summary": "À l'accueil, clé, serviette et tongs ; une fois changé, vous confiez la clé au barman, qui remet un bracelet garni d'un gel et d'un préservatif et fait visiter.",
+      "blocks": [
+        {
+          "kind": "list",
+          "title": "Le parcours décrit par le site",
+          "items": [
+            "Accueil : une clé de vestiaire, une serviette et une paire de tongs.",
+            "Vestiaire : pour les hommes, la consigne tient en « Venez comme vous êtes » ; serviette et tongs sont fournies.",
+            "Bar : la clé passe au barman, qui donne en échange un bracelet avec gel et préservatif, puis présente les lieux."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Pour une première visite, l'accueil du site promet qu'un membre de l'équipe sera là pour renseigner et orienter. La FAQ exige aussi de la politesse envers le personnel."
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Travestis : la tenue est vérifiée",
+          "body": "Une tenue féminine est exigée. Sont refusés le pantalon, la barbe et la perruque « de type farce et attrape » ou mal entretenue. La même règle figurait déjà sur la page « Première visite » archivée en février 2024."
+        },
+        {
+          "kind": "text",
+          "body": "La porte peut rester fermée selon l'affluence, ou devant une personne ivre ou « sous influence ». Drogue, prostitution, agressivité et non-respect du consentement entraînent une exclusion définitive."
+        }
+      ],
+      "sources": ["s1", "s3", "s4", "s24"]
+    },
+    {
+      "id": "espaces",
+      "title": "Hammam, sauna, back-room et deux croix de Saint-André sur 200 m²",
+      "icon": "spa",
+      "summary": "Sauna, hammam, bar sans alcool et fumoir, plus une back-room, des cabines fermant à clé, deux salles vidéo, deux glory holes, un sling et deux croix de Saint-André.",
+      "blocks": [
+        {
+          "kind": "list",
+          "title": "Côté détente",
+          "items": [
+            "Sauna et hammam",
+            "Douches et vestiaires fermés à clé",
+            "Bar et salons, sans alcool",
+            "Fumoir"
+          ]
+        },
+        {
+          "kind": "list",
+          "title": "Les espaces « hot »",
+          "items": [
+            "Une back-room",
+            "Des cabines isolées qui ferment à clé",
+            "Deux salles vidéo",
+            "Deux glory holes",
+            "Un sling et deux croix de Saint-André"
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Les 200 m² sont un chiffre du club, qu'aucune autre source ne confirme. L'encadré de la page d'accueil oublie le sling, présent dans les infos pratiques."
+        },
+        {
+          "kind": "text",
+          "body": "Le Petit Futé, dans un texte non daté, décrit d'abord le bar, le salon, les douches, le hammam et le sauna, puis, quelques marches plus bas, un dédale de cabines, dont une pièce à vitre sans tain. Un avis de février 2025 décrit lui aussi, au sous-sol, un labyrinthe de couloirs, de salles vidéo et de cabines."
+        },
+        {
+          "kind": "text",
+          "body": "Deux croix et un sling ne font pas un club BDSM : le site ne publie ni agenda ni soirée à thème. Les lieux consacrés à ces pratiques sont réunis sur [la page des clubs SM et fétichistes](/club-sm-fetish)."
+        },
+        {
+          "kind": "text",
+          "body": "L'inventaire a bougé. De 2010 à 2018, la liste comptait trois salles vidéo, des paréos et du thé à la menthe ; elle en compte deux en 2026. Absents de la page de 2015, une croix, le sling et le fumoir figurent dès avril 2016 sur la liste du site, à l'adresse de la rue Lacroix."
+        }
+      ],
+      "sources": ["s1", "s2", "s6", "s9", "s19", "s20", "s22", "s27", "s32", "s33"]
+    },
+    {
+      "id": "photos",
+      "title": "Dix photos officielles : bar en mosaïque, boule à facettes et miroirs au néon rouge",
+      "icon": "camera",
+      "summary": "La galerie du site montre le bar et deux salons (fichiers de mars 2025), un escalier aux néons bleus et cinq poses d'une personne en tenue féminine, de dos ou en silhouette.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Nous avons regardé les dix images de la galerie « Images du Sauna ». Les quatre vues de salles, dont les fichiers datent du 9 mars 2025, montrent :"
+        },
+        {
+          "kind": "list",
+          "items": [
+            "un bar carrelé de mosaïque sous une boule à facettes, éclairé de LED bleues et roses ;",
+            "un salon de fauteuils club, avec murs de briques, tableaux, points de laser verts et un miroir encadré de néon rouge ;",
+            "un second salon, parquet au sol et fauteuils alignés."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "S'y ajoutent un escalier baigné de néons bleus et cinq photos posées d'une personne en tenue féminine : au bar, dans un couloir, devant un miroir et dans un espace carrelé. Le nom du sauna est imprimé sur le plateau d'une table basse du salon."
+        }
+      ],
+      "sources": ["s7"]
+    },
+    {
+      "id": "avis-petit-fute-pagesjaunes",
+      "title": "3,4/5 sur Petit Futé : un personnel salué, de l'humidité et des odeurs critiquées",
+      "icon": "star",
+      "summary": "Sur 24 avis Petit Futé (2012-2026), l'accueil est le compliment le plus fréquent ; les reproches visent l'humidité, l'odeur du sous-sol et, en 2016-2017, le peu de monde.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Nous avons lu les 24 avis de membres du Petit Futé, déposés de mars 2012 à avril 2026, et les dix avis visibles sur PagesJaunes, de 2017 à 2022. Ce qui revient :"
+        },
+        {
+          "kind": "list",
+          "items": [
+            "le personnel d'accueil, salué de 2016 jusqu'aux avis de 2025 et 2026 ;",
+            "une fréquentation inégale en 2016 et 2017, plusieurs visiteurs disant n'avoir trouvé presque personne ;",
+            "l'hygiène : moisissures et humidité dans les douches et l'escalier en 2019, mauvaise odeur au sous-sol en 2021 ;",
+            "en 2025 et 2026, des travesties disent s'être senties en sécurité, l'une écrivant qu'un client irrespectueux est aussitôt mis dehors."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Sur PagesJaunes (4,5/5, 26 avis), la note ne retient que les avis de moins de quatre ans, et les plus récents datent d'octobre et novembre 2022. L'un d'eux décrit une clientèle renouvelée « depuis la réouverture après covid »."
+        },
+        {
+          "kind": "text",
+          "body": "Un annuaire libertin relaie une note Google de 4,1/5 sur 245 avis, sans date : nous ne l'avons pas vue sur Google."
+        }
+      ],
+      "sources": ["s33", "s34", "s45"]
+    },
+    {
+      "id": "sans-chambre",
+      "title": "Pas de chambre, pas de jacuzzi, pas un verre d'alcool",
+      "icon": "bed",
+      "summary": "Aucune version archivée du site depuis 2007 n'annonce de chambre, de piscine ou de jacuzzi, et le bar ne sert pas d'alcool : ce n'est ni un hôtel ni un bar libertin.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le mot « spa » n'est sur le site qu'un intitulé de rubrique, qui regroupe sauna, hammam, vestiaires et douches. Il n'y a pas de bassin, et aucune page n'a jamais mentionné d'hébergement."
+        },
+        {
+          "kind": "text",
+          "body": "Au bar, thé, café et eau sont à volonté et compris dans l'entrée. Le club ne vend pas d'alcool et interdit d'en apporter."
+        },
+        {
+          "kind": "text",
+          "body": "Pour passer la nuit sur place, il faut donc viser une autre adresse : les lieux libertins qui louent des chambres sont réunis dans [la rubrique des hébergements libertins](/hebergement-libertin), et l'ensemble des lieux de la capitale sur [la page Paris de l'annuaire](/ville/paris)."
+        }
+      ],
+      "sources": ["s1", "s2", "s3", "s19", "s22"]
+    },
+    {
+      "id": "rue-halle-rue-lacroix",
+      "title": "Du 73 rue Hallé (14e) au 15 rue Lacroix (17e), une marque née en 2006",
+      "icon": "history",
+      "summary": "La marque apparaît en 2006 dans le 14e ; la société actuelle démarre rue Lacroix en septembre 2015, et le site y affiche l'adresse dès mars 2016.",
+      "blocks": [
+        {
+          "kind": "timeline",
+          "items": [
+            { "date": "18 mai 2006", "text": "Création de la SARL Amphibi, déclarée pour l'exploitation d'un sauna, au 73 rue Hallé (14e). Le site actuel revendique toujours 2006." },
+            { "date": "28 mai 2007", "text": "Plus ancienne trace d'amphibi.fr : une intro en Flash et son compteur, « visiteur 614 »." },
+            { "date": "2007-2008", "text": "Adresse rue Hallé, ouverture tous les jours de midi à minuit." },
+            { "date": "2010-2017", "text": "Un sauna « à dominante masculine bi », ouvert « à toutes les tendances » : femmes, couples hétéros et trans ont leurs tarifs ou leurs jours." },
+            { "date": "1er septembre 2015", "text": "La SARL NCCH démarre au 15 rue Lacroix (17e) en créant un fonds de commerce de sauna." },
+            { "date": "27 octobre 2015", "text": "Liquidation judiciaire de la SARL Amphibi, close pour insuffisance d'actif le 13 décembre 2018." },
+            { "date": "Mars 2016", "text": "Nouveau site, à l'adresse du 15 rue Lacroix : ouverture de 12 h à 22 h, et la phrase de présentation de 2010 reprise mot pour mot." },
+            { "date": "Décembre 2018", "text": "Le site se présente comme « le Sauna dédié aux BI/TRAV/TRANS ». Cette version reste en ligne au moins jusqu'en janvier 2022." },
+            { "date": "2021 à 2024", "text": "Un second site de la société, signé 2021, présente un sauna « libertin et mixte » « restructuré de fond en comble », ouvert aux couples. Il est archivé jusqu'en mai 2024 et son nom de domaine a disparu depuis." },
+            { "date": "Novembre 2022", "text": "Sur amphibi.fr, entrée « exclusivement » réservée aux travestis, aux trans et aux hommes ; le second site accueille encore couples et femmes en mars 2023." },
+            { "date": "Avril 2025", "text": "Nouveau site, complété d'une page en anglais en février 2026." },
+            { "date": "30 mars 2026", "text": "Mise en ligne d'une charte en neuf articles ; le même jour, l'accueil réaffirme l'exclusivité, absente de ses versions de septembre 2025 et de février 2026." }
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le déménagement n'est annoncé nulle part. Le registre le situe vers septembre 2015, et le site affiche la rue Lacroix dès le 8 mars 2016. Au BODACC, la nouvelle société déclare la création d'un fonds de commerce, et aucune annonce ne la relie à la première : transfert ou nouveau départ, rien ne permet de trancher."
+        },
+        {
+          "kind": "text",
+          "body": "Le club, lui, se présente comme un même lieu depuis 2006 : sa page « Sur nous » de mars 2016 reprend la phrase de présentation de 2010. Le syndicat professionnel SNEG & Co le compte parmi ses adhérents « depuis 2006 ». En 2026, le club écrit « femmes transgenres » là où il disait « transsexuelles » jusqu'en 2025."
+        }
+      ],
+      "sources": ["s1", "s9", "s11", "s12", "s13", "s14", "s16", "s17", "s18", "s19", "s21", "s22", "s23", "s24", "s25", "s27", "s29", "s36", "s37"]
+    },
+    {
+      "id": "prix-2008-2026",
+      "title": "L'entrée homme passée de 20 € en 2008 à 40 € le week-end",
+      "icon": "euro",
+      "summary": "Selon les archives de ses sites, un homme seul payait 20 € en 2008, 25 € en 2015 et 2016, 26 € en 2018, 30 € en semaine en 2023 ; la fermeture a glissé de minuit à 22 h.",
+      "blocks": [
+        {
+          "kind": "table",
+          "caption": "Homme seul, plein tarif, d'après les sites officiels et leurs archives",
+          "headers": ["Relevé", "Prix", "Horaires"],
+          "rows": [
+            ["2007-2008 (rue Hallé)", "20 €", "12 h à 24 h"],
+            ["Octobre 2015", "25 €", "non relevés"],
+            ["Mars 2016 (rue Lacroix)", "25 €", "12 h à 22 h"],
+            ["Décembre 2018", "26 €", "12 h à 22 h"],
+            ["Novembre 2022", "non archivé", "12 h à 22 h"],
+            ["Mars 2023 (second site)", "30 € / 35 €", "12 h à 22 h"],
+            ["Novembre 2023 à février 2025", "non archivé", "13 h à 22 h"],
+            ["Mai 2025", "35 € / 40 €", "13 h à 23 h"],
+            ["Janvier à octobre 2026", "35 € / 40 €", "13 h à 22 h"]
+          ]
+        },
+        {
+          "kind": "list",
+          "title": "Les formules disparues",
+          "items": [
+            "2008 : 15 € pour un couple hétéro ; 5 € pour une femme ou une personne trans, invitées certains jours.",
+            "2015 : 30 € pour un couple hétéro, plus cher qu'un homme seul.",
+            "Mars 2016 : 21 € pour un homme de moins de 25 ans, pièce d'identité à l'appui ; un tarif réduit de 20 € du lundi au jeudi de 12 h à 14 h et tous les soirs de 20 h à 22 h ; 20 € pour un couple hétéro.",
+            "2018 : 20 € du lundi au jeudi de 12 h à 13 h et tous les soirs de 20 h à 22 h ; entrée offerte le jour de son anniversaire, pièce d'identité à l'appui.",
+            "Mars 2023, second site : un homme paie 30 € du lundi au samedi, 35 € le dimanche et les jours fériés ; un couple hétéro 20 € ; femmes, trans et travestis entrent gratuitement, ces derniers s'ils arrivent déjà habillés."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Un habitué bisexuel qui voudrait aussi sortir avec des femmes ou des couples, ailleurs qu'ici, peut faire le calcul : Gleese facture [une adhésion annuelle à 45 €, soit 3,75 € par mois](aff:gleese), sans engagement, à peine plus qu'une entrée du samedi rue Lacroix."
+        }
+      ],
+      "sources": ["s2", "s18", "s20", "s22", "s24", "s25", "s27", "s37"]
+    },
+    {
+      "id": "charte-et-discretion",
+      "title": "Une sonnette sans nom en 2022 et une charte en neuf articles depuis mars 2026",
+      "icon": "shield",
+      "summary": "Pas d'affichage voyant, anonymat promis, personnel tenu au secret : en 2022, un visiteur a cru le lieu fermé. La charte de mars 2026 insiste sur le consentement.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le site décrit une rue calme des Batignolles, où ni affichage ni signalétique n'attirent l'œil ; pour la Ville de Paris, la rue Lacroix relève du quartier administratif des Épinettes. Il garantit l'anonymat des clients et affirme que le personnel est tenu par contrat au secret professionnel ; aucune source extérieure ne permet de le vérifier."
+        },
+        {
+          "kind": "text",
+          "body": "La discrétion a un revers. En mars 2022, un visiteur a cru le sauna fermé : ni nom sur la sonnette, ni plaque. Un autre avis du même mois raconte pourtant une visite, et un client d'avril 2022 juge le lieu « ultra discret »."
+        },
+        {
+          "kind": "list",
+          "title": "La charte du 30 mars 2026, en bref",
+          "items": [
+            "Amphibi s'y présente comme une « entreprise commerciale indépendante ».",
+            "Respect du consentement et refus de toute discrimination.",
+            "Des créneaux peuvent être prêtés gratuitement à des initiatives communautaires, avant l'ouverture au public ; aucune n'est nommée."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le ton n'est pas nouveau : en 2017, le règlement adressé aux « Amphibiens, Amphibiennes » annonçait déjà un renvoi définitif pour une remarque raciste ou homophobe."
+        }
+      ],
+      "sources": ["s1", "s3", "s5", "s6", "s9", "s21", "s31", "s33"]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Lundi": "13 h - 22 h",
+      "Mardi": "13 h - 22 h",
+      "Mercredi": "13 h - 22 h",
+      "Jeudi": "13 h - 22 h",
+      "Vendredi": "13 h - 22 h",
+      "Samedi": "13 h - 22 h",
+      "Dimanche": "13 h - 22 h",
+      "Jours fériés": "13 h - 22 h"
+    },
+    "note": "Horaires du site officiel relevés le 20/10/2026. En mai 2025, le site annonçait une fermeture à 23 h ; elle est revenue à 22 h au plus tard en janvier 2026.",
+    "confidence": "confirme",
+    "sources": ["s1", "s2", "s25"]
+  },
+  "tarifs": {
+    "rows": {
+      "Entrée, du lundi au jeudi": "35 €",
+      "Entrée, du vendredi au dimanche et jours fériés": "40 €",
+      "Moins de 27 ans, du lundi au jeudi": "25 €",
+      "Moins de 27 ans, du vendredi au dimanche et jours fériés": "40 €",
+      "Travestis et personnes trans": "Gratuit, tous les jours"
+    },
+    "note": "Grille du site officiel relevée le 20/10/2026. L'entrée comprend le vestiaire fermé à clé, une serviette, des tongs, thé, café et eau à volonté, gels et préservatifs.",
+    "confidence": "confirme",
+    "sources": ["s2", "s3", "s4", "s6"]
+  },
+  "equipements": [
+    "Sauna",
+    "Hammam",
+    "Douches",
+    "Vestiaires fermés à clé",
+    "Bar sans alcool",
+    "Salons",
+    "Fumoir",
+    "Back-room",
+    "Cabines fermant à clé",
+    "Deux salles vidéo",
+    "Deux glory holes",
+    "Sling",
+    "Deux croix de Saint-André"
+  ],
+  "externalRatings": [
+    { "platform": "Petit Futé (24 avis de membres, mars 2012 à avril 2026)", "rating": 3.4, "scale": 5, "count": 24, "date": "2026-10-21", "url": "https://www.petitfute.com/v17231-17292-paris-75017/c9998-coquin/c1044-s-amuser-sortir/c208-sauna/604587-amphibi/tous-les-avis.html" },
+    { "platform": "PagesJaunes (note sur les avis de moins de 4 ans ; derniers avis de novembre 2022)", "rating": 4.5, "scale": 5, "count": 26, "date": "2026-10-21", "url": "https://www.pagesjaunes.fr/pros/56081131" }
+  ],
+  "officialLinks": [
+    { "label": "Site officiel", "url": "https://www.amphibi.fr/", "kind": "site" },
+    { "label": "Tarifs, horaires et installations", "url": "https://www.amphibi.fr/infos-pratiques/", "kind": "autre" },
+    { "label": "Galerie « Images du Sauna » (10 photos)", "url": "https://www.amphibi.fr/photographies/", "kind": "galerie" },
+    { "label": "Instagram @saunaamphibi", "url": "https://www.instagram.com/saunaamphibi/", "kind": "instagram" }
+  ],
+  "corrections": {
+    "adresse": "15 rue Lacroix",
+    "code_postal": "75017",
+    "telephone": "",
+    "sources": ["s1", "s8", "s11"]
+  },
+  "faq": [
+    {
+      "question": "Amphibi est-il ouvert, et à quelles heures ?",
+      "answer": "Oui : tous les jours de 13 h à 22 h, jours fériés compris, selon le site officiel retouché le 4 octobre 2026. Deux avis Petit Futé racontent des visites en décembre 2025 et en mars 2026, et le syndicat SNEG & Co, en mettant à jour sa fiche le 6 octobre 2026, y a inscrit ces horaires. La société exploitante est active au registre et a publié ses comptes en août 2026."
+    },
+    {
+      "question": "Combien coûte l'entrée à Amphibi ?",
+      "answer": "35 € du lundi au jeudi, 40 € du vendredi au dimanche et les jours fériés. Les moins de 27 ans paient 25 €, en semaine seulement. Les travestis et les personnes trans entrent gratuitement tous les jours. Vestiaire, serviette, tongs, boissons chaudes, eau, gel et préservatifs sont compris."
+    },
+    {
+      "question": "Les couples et les femmes peuvent-ils aller à Amphibi ?",
+      "answer": "Pas selon les pages en français du site, qui réservent l'entrée aux hommes, aux travestis et aux femmes trans ; la règle figurait déjà sur l'accueil en novembre 2022. La page anglaise dit encore que tout le monde est bienvenu, une formule que la FAQ française a abandonnée en 2026, et des guides affichent toujours une entrée couple à 20 €, tarif d'un ancien second site de la société : demandez confirmation par le formulaire. Un couple qui cherchait un sauna mixte peut chercher des partenaires de sortie sur [un site de rencontre libertin majoritairement fréquenté par des femmes et des couples](aff:carre-libertin), environ 60 % selon ses chiffres."
+    },
+    {
+      "question": "Quelle tenue faut-il pour entrer ?",
+      "answer": "Les hommes viennent comme ils sont : serviette, tongs et vestiaire sont fournis. Les travestis doivent porter une tenue féminine ; le pantalon, la barbe et une perruque de farce et attrapes ou mal entretenue sont refusés."
+    },
+    {
+      "question": "Y a-t-il des chambres ou un bar à alcool chez Amphibi ?",
+      "answer": "Non. Aucune des versions archivées du site, depuis 2007, n'a annoncé de chambre, de jacuzzi ou de piscine. Le bar ne vend pas d'alcool et il est interdit d'en apporter ; thé, café et eau sont à volonté, compris dans l'entrée."
+    },
+    {
+      "question": "Amphibi est-il un club BDSM ?",
+      "answer": "Non. Il compte deux croix de Saint-André et un sling parmi ses espaces « hot », mais ne publie ni agenda ni soirée à thème. C'est d'abord un sauna avec hammam, back-room, cabines et salles vidéo."
+    },
+    {
+      "question": "Comment joindre Amphibi ? Y a-t-il un numéro de téléphone ?",
+      "answer": "Le site ne publie aucun numéro en octobre 2026. Les annuaires affichent encore le 09 66 92 17 40, mais la fiche PagesJaunes, mise à jour en septembre 2026, précise que le club n'est pas joignable par téléphone. Le contact passe par le formulaire de la page d'accueil ou par bonjour@amphibi.fr. Le site renvoie aussi vers le compte Instagram @saunaamphibi, dont le contenu n'est lisible qu'avec une connexion."
+    },
+    {
+      "question": "Comment venir à Amphibi en métro ?",
+      "answer": "Station Brochant, sur la ligne 13, à 168 m selon le site. Le club dit n'avoir ni affichage équivoque ni signalétique voyante, et un visiteur de 2022 n'a trouvé aucun nom sur la sonnette : repérez le numéro 15 de la rue Lacroix, dans le 17e. En voiture, le Petit Futé prévient qu'il faut souvent tourner longtemps pour se garer."
+    }
+  ],
+  "unverified": [
+    "Note Google : pas relevée sur Google même ; un annuaire en relaie une (4,1/5 sur 245 avis) sans date.",
+    "Aucun article de presse consacré au sauna n'a été trouvé, et ses comptes Instagram, Facebook et X ne sont pas lisibles sans connexion.",
+    "Date exacte du passage de la rue Hallé à la rue Lacroix (entre fin 2008 et mars 2016 selon les archives du site), et lien éventuel entre les deux sociétés exploitantes, qu'aucune annonce légale ne relie.",
+    "Un couple ou une femme non trans qui se présente est-il refusé sans exception ? La page anglaise garde une réponse plus ouverte, abandonnée en français en 2026 ; le club n'a pas été interrogé.",
+    "Un justificatif d'âge est-il demandé pour le tarif des moins de 27 ans ? Il l'était dans les grilles de 2008 à 2018 ; le site actuel n'en parle pas, mais un avis de février 2025 évoque une pièce d'identité montrée à l'accueil.",
+    "Les travestis doivent-ils toujours arriver déjà habillés pour entrer gratuitement, comme l'exigeait le second site de la société en 2023 ?",
+    "Quelles initiatives communautaires ont bénéficié des créneaux prêtés avant l'ouverture ?",
+    "Le numéro 09 80 70 00 24, attribué au sauna dans des annuaires, n'est pas le sien : ce sont des chiffres du SIRET de l'hébergeur du site, lisibles dans les mentions légales."
+  ],
+  "sources": [
+    { "id": "s1", "label": "Site officiel d'Amphibi, page d'accueil (modifiée le 04/10/2026)", "url": "https://www.amphibi.fr/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s2", "label": "Site officiel, « Infos pratiques » : tarifs, horaires, installations et plan", "url": "https://www.amphibi.fr/infos-pratiques/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s3", "label": "Site officiel, FAQ « Vos bonnes questions à propos du sauna »", "url": "https://www.amphibi.fr/vos-bonnes-questions/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s4", "label": "Site officiel, « Qui es-tu Amphibi ? »", "url": "https://www.amphibi.fr/qui-es-tu-amphibi/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s5", "label": "Site officiel, charte d'inclusion, de respect et de lien social (30/03/2026)", "url": "https://www.amphibi.fr/charte-inclusion-respect-lien-social/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s6", "label": "Site officiel, page en anglais (créée le 03/02/2026)", "url": "https://www.amphibi.fr/amphibi-sauna-the-favorite-club-for-trans-people-in-paris/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s7", "label": "Site officiel, galerie « Images du Sauna » (10 photos regardées)", "url": "https://www.amphibi.fr/photographies/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s8", "label": "Site officiel, mentions légales (éditeur SARL NCCH)", "url": "https://www.amphibi.fr/mentions-legales/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s9", "label": "API publique WordPress du site officiel : dates de création et de modification des pages", "url": "https://www.amphibi.fr/wp-json/wp/v2/pages?per_page=50&_fields=slug,date,modified,title", "type": "autre", "consulted": "2026-10-20" },
+    { "id": "s10", "label": "Instagram @saunaamphibi (profil lié par le site, contenu non lisible sans connexion)", "url": "https://www.instagram.com/saunaamphibi/", "type": "reseau_social", "consulted": "2026-10-20" },
+    { "id": "s11", "label": "Annuaire des entreprises, SARL NCCH (SIREN 813 294 238)", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/813294238", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s12", "label": "BODACC, annonces de la SARL NCCH (immatriculation 2015, comptes 2017-2026)", "url": "https://bodacc-datadila.opendatasoft.com/api/explore/v2.1/catalog/datasets/annonces-commerciales/records?where=registre%20like%20%22813294238%22", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s13", "label": "Annuaire des entreprises, SARL Amphibi (SIREN 490 247 301, cessée)", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/490247301", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s14", "label": "BODACC, annonces de la SARL Amphibi (liquidation en 2015, clôture en 2018)", "url": "https://bodacc-datadila.opendatasoft.com/api/explore/v2.1/catalog/datasets/annonces-commerciales/records?where=registre%20like%20%22490247301%22", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s15", "label": "Recherche d'entreprises au 15 rue Lacroix, Paris 17e (seule NCCH exerce une activité de sauna)", "url": "https://recherche-entreprises.api.gouv.fr/search?q=15%20rue%20lacroix&code_postal=75017", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s16", "label": "Wayback Machine, historique des captures d'amphibi.fr (2007-2026)", "url": "https://web.archive.org/cdx/search/cdx?url=amphibi.fr&fl=timestamp,statuscode&collapse=timestamp:6", "type": "autre", "consulted": "2026-10-20" },
+    { "id": "s17", "label": "Site officiel, page d'entrée archivée le 28/05/2007", "url": "https://web.archive.org/web/20070528072938/http://www.amphibi.fr/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s18", "label": "Site officiel, images des contacts, horaires et prix archivées (2007-2008)", "url": "https://web.archive.org/web/20081111040047im_/http://www.amphibi.fr/site/contacts/images/foto__02.jpg", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s19", "label": "Site officiel, ancien site archivé le 19/12/2010 (accueil et prix)", "url": "https://web.archive.org/web/20101219115148/http://www.amphibi.fr/site/prix.php", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s20", "label": "Site officiel, page « Prix et horaires » archivée le 16/10/2015", "url": "https://web.archive.org/web/20151016041300/http://www.amphibi.fr/site/prix.php", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s21", "label": "Site officiel, accueil archivé le 31/10/2017 (règlement)", "url": "https://web.archive.org/web/20171031211514/http://www.amphibi.fr/site/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s22", "label": "Site officiel, version archivée en décembre 2018 (accueil, prix, services)", "url": "https://web.archive.org/web/20181223142456/http://www.amphibi.fr/prix-et-horaires.html", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s23", "label": "Site officiel, accueil archivé le 01/09/2020 et le 20/01/2022", "url": "https://web.archive.org/web/20220120132147/https://www.amphibi.fr/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s24", "label": "Site officiel, première version WordPress archivée (septembre 2022 à février 2025)", "url": "https://web.archive.org/web/20221130230356/https://www.amphibi.fr/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s25", "label": "Site officiel, version actuelle archivée (mai 2025 à janvier 2026)", "url": "https://web.archive.org/web/20260117044332/https://www.amphibi.fr/infos-pratiques/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s26", "label": "Patroc, « Gay Saunas in Paris » (page du 19/09/2026, Amphibi absent)", "url": "https://www.patroc.com/gay/paris/saunas.html", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s27", "label": "Site officiel, version archivée en mars et avril 2016 (accueil, « Sur nous », « Prix et horaires », « Services ») à l'adresse du 15 rue Lacroix", "url": "https://web.archive.org/web/20160322070621/http://www.amphibi.fr/prix-et-horaires.html", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s28", "label": "Site officiel, FAQ archivée le 10/02/2026 et le 08/05/2026 (ancienne réponse à « À qui s'adresse le Sauna Amphibi ? »)", "url": "https://web.archive.org/web/20260508141624/https://www.amphibi.fr/vos-bonnes-questions/", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s29", "label": "Site officiel, accueil archivé le 10/02/2026 et le 12/04/2026 (exclusivité réaffirmée dans la version du 30/03/2026)", "url": "https://web.archive.org/web/20260412215828/https://www.amphibi.fr/", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s30", "label": "Taken Club, site officiel : tarifs et horaires (relus le 21/10/2026)", "url": "https://www.taken-club.fr/fr/tarifs.php", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s31", "label": "Ville de Paris, données ouvertes « Quartiers administratifs » (15 rue Lacroix : quartier des Épinettes)", "url": "https://opendata.paris.fr/explore/dataset/quartier_paris/", "type": "carte", "consulted": "2026-10-21" },
+    { "id": "s32", "label": "Petit Futé, fiche « AMPHIBI » : texte de la rédaction (non daté), encadré pratique et note des membres", "url": "https://www.petitfute.com/v17231-17292-paris-75017/c9998-coquin/c1044-s-amuser-sortir/c208-sauna/604587-amphibi.html", "type": "annuaire", "consulted": "2026-10-21" },
+    { "id": "s33", "label": "Petit Futé, les 24 avis de membres sur Amphibi (mars 2012 à avril 2026), tous lus", "url": "https://www.petitfute.com/v17231-17292-paris-75017/c9998-coquin/c1044-s-amuser-sortir/c208-sauna/604587-amphibi/tous-les-avis.html", "type": "avis", "consulted": "2026-10-21" },
+    { "id": "s34", "label": "PagesJaunes, fiche « Amphibi » (mise à jour le 30/09/2026 ; 26 avis, les derniers de 2022)", "url": "https://www.pagesjaunes.fr/pros/56081131", "type": "avis", "consulted": "2026-10-21" },
+    { "id": "s36", "label": "SNEG & Co, fiche adhérent « Amphibi » (« Adhérent depuis 2006 », modifiée le 06/10/2026)", "url": "https://www.snegandco.fr/amphibi/", "type": "annuaire", "consulted": "2026-10-21" },
+    { "id": "s37", "label": "Second site de la SARL NCCH, amphibi-sauna1.fr, archivé (« Copyright 2021 », tarifs de mars 2023)", "url": "https://web.archive.org/web/20230323014824/https://www.amphibi-sauna1.fr/prix-et-horaires", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s38", "label": "Proud & Gay, « Sauna gay Paris : les 11 meilleurs saunas en 2026 » (mis à jour le 27/09/2026)", "url": "https://proud-and-gay.fr/blogs/proud-gay-le-blog/sauna-gay-paris", "type": "autre", "consulted": "2026-10-21" },
+    { "id": "s39", "label": "Sauna Club Le Bali, « Clubs libertins et échangistes à Paris : guide complet 2026 » (21/04/2026)", "url": "https://www.saunaclublebali.fr/clubs-libertins-paris-75/", "type": "annuaire", "consulted": "2026-10-21" },
+    { "id": "s45", "label": "Minuit Libertin, « L'Amphibi à Paris » (relaie une note Google non datée)", "url": "https://minuitlibertin.com/lamphibi-a-paris/", "type": "annuaire", "consulted": "2026-10-21" },
+    { "id": "s47", "label": "Atlantide Sauna, site officiel (public admis et horaires)", "url": "https://www.atlantide-sauna.com/", "type": "officiel", "consulted": "2026-10-21" }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "new-les-bains-douches-nice",
+  "nom": "Les Bains Douches",
+  "type": "sauna gay",
+  "types_normalises": ["Sauna", "Spa & Wellness", "Gay friendly"],
+  "adresse": "7 rue Gubernatis",
+  "code_postal": "06000",
+  "ville": "Nice",
+  "departement_code": "06",
+  "departement_nom": "Alpes-Maritimes",
+  "region": "Provence-Alpes-Côte d'Azur",
+  "pays": "France",
+  "telephone": "",
+  "email": "",
+  "site_web": "",
+  "equipements": ["Trois niveaux", "Jacuzzi", "Hammam", "Sauna", "Cabines", "Salle cinéma", "Salon détente"],
+  "verification": { "status": "actif" },
+  "addedAt": "2026-10-21"
+}
