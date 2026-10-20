@@ -1,0 +1,728 @@
+{
+  "slug": "saunamusezvous-bethune",
+  "clubId": "15114",
+  "researchedAt": "2026-10-16",
+  "display": {
+    "nom": "SaunAmusez Vous",
+    "ville": "Béthune"
+  },
+  "status": {
+    "value": "ferme",
+    "summary": "Le tribunal de commerce d'Arras a ouvert le 30 septembre 2015 la liquidation judiciaire de TOVA SAUNA, la SARL qui exploitait le sauna ; la procédure a été close pour insuffisance d'actif le 22 juin 2016 et la société radiée (BODACC du 30 juin 2016). Le site saunamusezvous.fr tombe en erreur dès mars 2016, puis son nom de domaine passe à d'autres mains : il redirige aujourd'hui vers un site de matériel de musculation.",
+    "sources": [
+      "s4",
+      "s5",
+      "s6",
+      "s17",
+      "s20"
+    ]
+  },
+  "seo": {
+    "title": "Sauna et club libertin à Béthune : SaunAmusez Vous a fermé",
+    "metaDescription": "SaunAmusez Vous, sauna libertin près de la gare de Béthune ouvert fin 2011, a fermé avec la liquidation de 2015 : espaces, tarifs 2012-2015 et preuves datées.",
+    "subtitle": "Ancien sauna libertin près de la gare de Béthune (62), ouvert fin 2011, mis en liquidation en 2015",
+    "targetQueries": [
+      "club libertin bethune",
+      "club libertin béthune",
+      "club echangiste bethune",
+      "sauna libertin bethune"
+    ]
+  },
+  "lead": "SaunAmusez Vous a ouvert en décembre 2011 au 650 avenue du Maréchal Juin, « à deux pas de la gare de Béthune » selon son site : un sauna libertin d'après-midi avec hammam, backroom, salon vidéo et cabines à thème ; son site n'annonçait ni piscine ni spa. Sa société a été mise en liquidation judiciaire en septembre 2015, puis radiée en 2016, même si la base SIRENE et un annuaire le donnent encore actif. Ses grilles successives, conservées par l'Internet Archive, montrent une femme seule le plus souvent à 5 € ou gratuite, et un homme seul de 15 à 50 €.",
+  "keyFacts": [
+    {
+      "label": "Statut",
+      "value": "Fermé : liquidation judiciaire ouverte le 30/09/2015, société radiée en 2016",
+      "confidence": "confirme",
+      "sources": [
+        "s4",
+        "s5",
+        "s6",
+        "s17",
+        "s33"
+      ]
+    },
+    {
+      "label": "Ouverture",
+      "value": "Décembre 2011 (début d'activité le 1er décembre)",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s2",
+        "s7"
+      ]
+    },
+    {
+      "label": "Société",
+      "value": "SARL TOVA SAUNA, nom commercial « SANAMUSEZ-VOUS », SIREN 538 415 670",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "label": "Adresse",
+      "value": "650 avenue du Maréchal Juin, 62400 Béthune, près de la gare",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s9",
+        "s10"
+      ]
+    },
+    {
+      "label": "Type de lieu",
+      "value": "Sauna libertin, mixte la plupart des jours, ouvert surtout l'après-midi",
+      "confidence": "confirme",
+      "sources": [
+        "s7",
+        "s8",
+        "s12",
+        "s13"
+      ]
+    },
+    {
+      "label": "Espaces",
+      "value": "Sauna, hammam, backroom, salon vidéo, cabines à thème, bar sans alcool",
+      "confidence": "confirme",
+      "sources": [
+        "s7",
+        "s13",
+        "s15"
+      ]
+    },
+    {
+      "label": "Entrée femme seule",
+      "value": "5 € le plus souvent, gratuite certains jours (grilles 2012 à 2015)",
+      "confidence": "confirme",
+      "sources": [
+        "s8",
+        "s12",
+        "s14",
+        "s16"
+      ]
+    },
+    {
+      "label": "Entrée homme seul",
+      "value": "De 15 € à 50 € selon le jour (grilles 2012 à 2015)",
+      "confidence": "confirme",
+      "sources": [
+        "s8",
+        "s12",
+        "s14",
+        "s16"
+      ]
+    },
+    {
+      "label": "Après la fermeture",
+      "value": "Aucun sauna, spa ni bar déclaré à l'adresse depuis 2016 (registre)",
+      "confidence": "source_unique",
+      "sources": [
+        "s25"
+      ]
+    }
+  ],
+  "glance": [
+    {
+      "icon": "closed",
+      "label": "Fermé",
+      "value": "Liquidation ouverte le 30/09/2015"
+    },
+    {
+      "icon": "history",
+      "label": "Période d'activité",
+      "value": "Décembre 2011 – 2015"
+    },
+    {
+      "icon": "spa",
+      "label": "Espaces",
+      "value": "Sauna, hammam, backroom, cabines à thème"
+    },
+    {
+      "icon": "euro",
+      "label": "Tarifs de fin 2015",
+      "value": "Couple 15 € · femme 5 € · homme 30 à 50 €"
+    },
+    {
+      "icon": "map",
+      "label": "Sauna ouvert proche",
+      "value": "O'Relax à Lens, environ 17 km"
+    }
+  ],
+  "highlights": [
+    "Plus de sauna libertin au 650 avenue du Maréchal Juin : la société exploitante, mise en liquidation en septembre 2015, a été radiée en juin 2016.",
+    "Le site saunamusezvous.fr, réenregistré en 2021, redirige vers un site de matériel de musculation : il ne renseigne plus sur le sauna.",
+    "Le 03 21 57 45 98, encore affiché par Yelp et un annuaire, était le numéro du sauna fermé.",
+    "O'Relax, sauna mixte libertin à Lens (environ 17 km), annonçait une soirée Halloween les 29 et 30 octobre 2026.",
+    "La Villa des Anges, à Chocques (environ 5 km), affiche des tarifs du vendredi et du samedi soir, mais aucune soirée datée : renseignez-vous avant d'y aller."
+  ],
+  "sections": [
+    {
+      "id": "lieux-autour-de-bethune",
+      "title": "Plus aucun club à Béthune : O'Relax à Lens, 17 km, seul voisin à l'activité datée",
+      "sources": [
+        "s25",
+        "s29",
+        "s30",
+        "s28",
+        "s26",
+        "s27",
+        "s34",
+        "s35",
+        "s36",
+        "s37",
+        "s13",
+        "s15"
+      ],
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le 650 avenue du Maréchal Juin ne mène plus à aucun club : depuis 2016, le registre des entreprises n'y connaît plus d'activité de sauna, de spa ou de bar. Nos recherches web des 19 et 20 octobre 2026 n'ont trouvé ni reprise du sauna ni autre lieu libertin ouvert dans Béthune même.\n\nDans un rayon de 20 km, le guide du Petit Futé ne recense qu'un club libertin, celui de Chocques. Le Jardin Secret, L'Abri des Amoureux ou Le Refuge Libertin, qu'un blog place « à Béthune » avec des tarifs, n'ont ni adresse ni site, et nous n'en avons trouvé trace nulle part ailleurs.\n\nUn autre club libertin, qui portait le nom de la ville, « Le club Bethune », a laissé une trace dans les archives : son site, qui s'annonçait « Club Libertin », est capturé de novembre 2012 à septembre 2013, et son nom de domaine était expiré dès octobre 2013. Nous ignorons son adresse et la date de sa fermeture."
+        },
+        {
+          "kind": "list",
+          "items": [
+            "**[O'Relax](/orelax-lens)**, à Lens (environ 17 km), se présente comme un « sauna mixte libertin ». Sa page Événements annonçait, au 20 octobre 2026, une soirée Halloween le jeudi 29 octobre (19 h 30-minuit) et le vendredi 30 octobre (20 h-1 h) : la formule la plus proche de l'ancien sauna béthunois.",
+            "**[La Villa des Anges](/villa-anges-club-libertin)**, à Chocques (environ 5 km à vol d'oiseau), « club privé libertin » dont la société est active au registre. Sa page de tarifs, modifiée en avril 2025, annonce le vendredi (couple 70 €) et le samedi soir (95 €), alcool compris jusqu'à 2 h, mais aucune soirée datée : renseignez-vous avant de vous déplacer.",
+            "**O'Pulsions**, à Hénin-Beaumont (environ 25 km), club libertin et échangiste absent de notre annuaire, que le Petit Futé recense à la même adresse sous le nom de La Berjeurie. Son site affiche le vendredi et le samedi de 21 h à 4 h, sans soirée datée de l'année."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le reste du département figure dans [la sélection des clubs du Pas-de-Calais](/departement/pas-de-calais). Avant de rouler un soir précis, vérifiez qu'une soirée est prévue sur [le calendrier libertin de Wyylde, consultable avec un compte gratuit](aff:wyylde) : en 2013 comme fin 2015, la page d'accueil de SaunAmusez Vous rangeait ce site, alors nommé Netéchangisme, parmi ses « partenaires »."
+        }
+      ],
+      "icon": "map",
+      "summary": "Aucune reprise ni autre lieu libertin trouvé à Béthune en octobre 2026 ; O'Relax, sauna mixte à Lens, annonce une soirée les 29 et 30 octobre ; Chocques affiche des tarifs, sans date."
+    },
+    {
+      "id": "fin-de-tova-sauna",
+      "title": "Liquidation en septembre 2015, radiation en juin 2016 : la fin de TOVA SAUNA",
+      "sources": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s13",
+        "s15",
+        "s16",
+        "s17",
+        "s18",
+        "s19",
+        "s20",
+        "s21",
+        "s24",
+        "s25",
+        "s32",
+        "s33"
+      ],
+      "blocks": [
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "Décembre 2011",
+              "text": "La SARL TOVA SAUNA (capital de 5 000 €) démarre l'activité le 1er, sous le nom commercial « SANAMUSEZ-VOUS », et s'immatricule au RCS d'Arras le 12."
+            },
+            {
+              "date": "2013 à 2015",
+              "text": "Comptes des exercices 2012, 2013 et 2014 déposés au greffe. Le site se présente toujours comme un « nouvel établissement libertin à Béthune »."
+            },
+            {
+              "date": "30 septembre 2015",
+              "text": "Le tribunal de commerce d'Arras ouvre la liquidation judiciaire."
+            },
+            {
+              "date": "Mars 2016",
+              "text": "Le site, qui affichait encore ses horaires en janvier, renvoie une erreur 404 à la capture du 6 mars."
+            },
+            {
+              "date": "Juin 2016",
+              "text": "Clôture pour insuffisance d'actif le 22, radiation publiée au BODACC le 30."
+            },
+            {
+              "date": "2017 à 2021",
+              "text": "Le domaine sert à une boutique de baskets, puis à une page de liens, avant d'être réenregistré en juin 2021 ; il pointe aujourd'hui vers un site de musculation."
+            }
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Les dernières captures du site, de décembre 2015 et janvier 2016, n'annoncent aucune fermeture, et le dernier jour d'ouverture reste inconnu : aucune trace d'activité n'a été trouvée après le 30 septembre 2015, et des horaires laissés en ligne ne prouvent pas que le sauna recevait encore. Aucune source consultée n'explique la liquidation.\n\nL'adresse avait déjà perdu un sauna : Aqua Fany, « centre de détente avec sauna, hammam, SPA et massage corporel » créé en 2008, y avait été placé en liquidation le 26 janvier 2011. Rien ne le dit libertin, et le registre ne précise pas s'il occupait les mêmes locaux, plusieurs entreprises partageant ce numéro."
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Pourquoi le sauna passe encore pour « actif » ici et là",
+          "body": "La base SIRENE affiche toujours TOVA SAUNA comme active, faute de mise à jour après la radiation (societe.com la donne pourtant « fermée définitivement »). Yelp ne marque pas le lieu comme fermé, et saunamusezvous.fr répond normalement puisqu'il redirige vers un site de fitness : un contrôle automatique de l'adresse web conclut donc à tort que le lieu fonctionne."
+        }
+      ],
+      "icon": "closed",
+      "summary": "Liquidation ouverte le 30 septembre 2015, close le 22 juin 2016, société radiée ; le site tombe en erreur en mars 2016 et son domaine sert depuis à d'autres activités."
+    },
+    {
+      "id": "espaces-et-regles",
+      "title": "Hammam, backroom, cabines à thème : le site n'annonçait ni piscine ni spa",
+      "sources": [
+        "s2",
+        "s7",
+        "s11",
+        "s12",
+        "s13",
+        "s15",
+        "s22",
+        "s23",
+        "s32"
+      ],
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le site énumérait, à l'identique en 2012, 2013 et 2015, un sauna, un hammam, un backroom, un salon vidéo, des cabines à thème et un bar sans alcool. Ni piscine ni spa n'y figurent, pas plus que dans l'annuaire qui recense encore le sauna. Au registre, l'activité déclarée comprenait aussi petite restauration et vente de DVD, de produits et de vêtements ; la grille de juin 2013 offrait un café gourmand le dimanche, et le livre d'or de l'été 2012 parle de pizzas.\n\nUne règle restait affichée d'une version à l'autre : les femmes devaient « être respectées dans leurs choix », sans aucun manque de considération toléré. Le lieu se louait aussi à l'heure pour des soirées privées, le soir ou le dimanche. Sa galerie photo, une animation Flash, n'a laissé que son titre dans les archives : nous n'avons vu aucune image de l'intérieur."
+        },
+        {
+          "kind": "text",
+          "body": "**Une seule note publique : 1/5 sur Yelp, pour un avis.** Relevé le 20 octobre 2026, ce texte non daté reproche l'eau froide des douches après 19 h, l'absence de vrai coin fumeur, un sol glissant et trois petits coins câlins impossibles à fermer. Yelp écarte deux autres avis, dont le contenu n'est pas affiché.\n\nÀ l'inverse, le livre d'or comptait 117 messages le 20 août 2012 : les neuf lus, publiés du 5 au 20 août, donnent 9 ou 10 sur 10 quand ils notent et décrivent un lieu « petit mais mignon », mais ils passaient par le club lui-même. La page Facebook liée au site est illisible sans connexion."
+        }
+      ],
+      "icon": "spa",
+      "summary": "Sauna, hammam, backroom, salon vidéo, cabines à thème et bar sans alcool, sans piscine ni spa annoncés ; location à l'heure possible ; un seul avis Yelp, noté 1/5."
+    },
+    {
+      "id": "grilles-2012-2015",
+      "title": "Quatre grilles de 2012 à 2015 : l'homme seul de 15 à 50 € selon le jour",
+      "sources": [
+        "s8",
+        "s12",
+        "s14",
+        "s31",
+        "s16",
+        "s22"
+      ],
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Sur quatre ans, la femme seule a presque toujours payé 5 € ou rien (seul le mercredi de 2012 lui coûtait 15 €), l'homme seul de 15 à 50 € selon le jour, et le tarif courant du couple est passé de 10 € en 2012 à 15 € en 2015."
+        },
+        {
+          "kind": "table",
+          "caption": "Les trois premières des quatre grilles du site officiel, d'après l'Internet Archive ; la quatrième, de fin 2015, est décrite sous le tableau",
+          "headers": [
+            "Grille",
+            "Avril 2012",
+            "Juin 2013",
+            "Février 2015"
+          ],
+          "rows": [
+            [
+              "Lundi, mardi, jeudi",
+              "12 h – 20 h",
+              "14 h – 20 h",
+              "14 h – 20 h"
+            ],
+            [
+              "Mercredi",
+              "12 h – 20 h, « spécial gay bi et hétéro », 15 € pour tous",
+              "Fermé",
+              "Fermé"
+            ],
+            [
+              "Vendredi",
+              "12 h – 23 h",
+              "14 h – 1 h, gratuit pour couples et femmes avant 18 h",
+              "14 h – 1 h"
+            ],
+            [
+              "Samedi",
+              "15 h – minuit",
+              "20 h – 2 h",
+              "Location seule, 80 € l'heure"
+            ],
+            [
+              "Dimanche",
+              "Fermé",
+              "14 h – 20 h, café gourmand compris",
+              "14 h – 20 h"
+            ],
+            [
+              "Couple",
+              "10 €",
+              "10 €, 20 € le week-end",
+              "15 €"
+            ],
+            [
+              "Femme seule",
+              "5 €",
+              "5 €, gratuit le dimanche",
+              "5 €"
+            ],
+            [
+              "Homme seul",
+              "35 €",
+              "15 € le jeudi, 20 à 40 € sinon",
+              "15 € le jeudi, 30 à 40 € sinon"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "La dernière grille, déjà en ligne fin novembre 2015 et encore en janvier 2016 (encadré des horaires et tarifs), avance l'ouverture à 13 h quatre jours sur sept, porte l'homme seul à 30 € le jeudi et rouvre le mercredi de 14 h à 18 h en « Select sexe club » : sur réservation, couples et hommes seuls, quatre hommes au plus par couple, 50 € l'entrée masculine. Pour organiser ce genre de rencontre sans lieu à Béthune, un couple peut [publier gratuitement une annonce de couple, trois photos à l'appui](aff:carre-libertin) sur Carré Libertin, ouvert en 2007, qui ne fait rien payer aux couples ni aux femmes. Aucune de ces grilles ne justifie le « ouvert tous les jours » qu'affiche encore un annuaire."
+        }
+      ],
+      "icon": "euro",
+      "summary": "Femme seule à 5 € ou gratuite, homme seul de 15 à 50 € selon le jour, couple passé de 10 € (2012) à 15 € (2015) ; le samedi est réservé à la location en 2015."
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Lundi": "13 h – 20 h",
+      "Mardi": "13 h – 20 h",
+      "Mercredi": "14 h – 18 h, « Select sexe club » sur réservation (couples et hommes seuls)",
+      "Jeudi": "13 h – 20 h",
+      "Vendredi": "13 h – 1 h",
+      "Samedi": "Fermé au public, location privée uniquement",
+      "Dimanche": "14 h – 20 h"
+    },
+    "note": "Dernière grille publiée par le club, identique sur les archives du site du 23 novembre 2015 au 13 janvier 2016. Elle n'a plus cours : le sauna a disparu avec la liquidation de sa société, ouverte en septembre 2015.",
+    "confidence": "source_unique",
+    "sources": [
+      "s31",
+      "s16",
+      "s15"
+    ]
+  },
+  "tarifs": {
+    "rows": {
+      "Couple": "15 €",
+      "Femme seule": "5 € (pas d'entrée femme seule le mercredi)",
+      "Homme seul": "30 € (lundi, mardi, jeudi, dimanche), 40 € (vendredi), 50 € (mercredi)",
+      "Location du samedi": "80 € de l'heure, boissons sans alcool à volonté"
+    },
+    "note": "Tarifs de la même grille de fin 2015, sans valeur aujourd'hui.",
+    "confidence": "source_unique",
+    "sources": [
+      "s31",
+      "s16"
+    ]
+  },
+  "equipements": [
+    "Sauna",
+    "Hammam",
+    "Backroom",
+    "Salon vidéo",
+    "Cabines à thème",
+    "Bar sans alcool"
+  ],
+  "externalRatings": [
+    {
+      "platform": "Yelp",
+      "rating": 1,
+      "scale": 5,
+      "count": 1,
+      "date": "2026-10-20",
+      "url": "https://www.yelp.fr/biz/saunamusezvous-b%C3%A9thune"
+    }
+  ],
+  "officialLinks": [
+    {
+      "label": "Ancien site officiel, archive du 24 décembre 2015",
+      "url": "https://web.archive.org/web/20151224130733/http://www.saunamusezvous.fr/",
+      "kind": "autre"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Y a-t-il encore un club libertin à Béthune ?",
+      "answer": "Pas à notre connaissance : SaunAmusez Vous a disparu avec la liquidation de sa société, ouverte le 30 septembre 2015, et notre recherche d'octobre 2026 n'a trouvé aucun autre lieu libertin ouvert dans la ville. Le plus proche dont l'activité est datée est [O'Relax, à Lens](/orelax-lens), à environ 17 km ; [La Villa des Anges, à Chocques](/villa-anges-club-libertin), à environ 5 km, affiche des tarifs du vendredi et du samedi soir sur une page modifiée en avril 2025, mais aucune soirée datée."
+    },
+    {
+      "question": "SaunAmusez Vous était-il un club échangiste ?",
+      "answer": "Plutôt un sauna libertin mixte qu'un club de nuit : il ouvrait surtout l'après-midi, jusqu'à 20 h, et ne veillait que le vendredi et, en 2012 et 2013, le samedi soir."
+    },
+    {
+      "question": "Quand le sauna libertin de Béthune a-t-il fermé ?",
+      "answer": "Le jour exact est inconnu. La liquidation judiciaire a été ouverte le 30 septembre 2015 et close le 22 juin 2016 ; le site, encore en ligne en janvier 2016, tombait en erreur en mars."
+    },
+    {
+      "question": "Le site saunamusezvous.fr et le 03 21 57 45 98 fonctionnent-ils encore ?",
+      "answer": "Le domaine, réenregistré en 2021, renvoie vers un site de matériel de musculation. Le numéro, que Yelp affiche encore, était celui du sauna : nous ne l'avons pas appelé, mais il ne vous renseignera plus sur le lieu."
+    },
+    {
+      "question": "Comment rencontrer des libertins dans le Béthunois sans sauna en ville ?",
+      "answer": "Hors de Chocques et de l'O'Relax de Lens, restent les sites de rencontre. Plus jeune et moins fourni que Wyylde, Gleese, lancé fin 2024, permet [une inscription qui se passe de carte bancaire](aff:gleese), profil vérifié par téléphone : de quoi voir gratuitement s'il compte des inscrits autour de Béthune."
+    }
+  ],
+  "unverified": [
+    "Le dernier jour d'ouverture du sauna, entre la liquidation du 30 septembre 2015 et la mise hors ligne du site en mars 2016.",
+    "Les causes de la liquidation : aucun article de presse n'a été trouvé par recherche web (y compris en ciblant La Voix du Nord et L'Avenir de l'Artois), et les archives papier de la presse régionale n'ont pas été consultées.",
+    "La date de l'unique avis Yelp, que la page n'affiche pas sans navigateur, le contenu des deux avis que Yelp ne recommande pas, et une éventuelle note Google.",
+    "L'occupant actuel des anciens locaux du sauna : le numéro 650, partagé par plusieurs entreprises, accueille notamment un institut de beauté selon un annuaire non daté, sans qu'on sache s'il s'agit des mêmes locaux.",
+    "Le contenu de la page Facebook du club, illisible sans connexion : on ignore si elle a annoncé la fermeture.",
+    "Si Aqua Fany (2008-2011) et SaunAmusez Vous occupaient les mêmes locaux.",
+    "L'adresse et la date de fermeture de « Le club Bethune », club libertin qui portait le nom de la ville, connu seulement par les archives de son site (2012-2013)."
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Annuaire des entreprises, fiche TOVA SAUNA (données SIRENE)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/538415670",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s2",
+      "label": "BODACC A, avis de création de TOVA SAUNA (annonce du 23/12/2011)",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20110248737",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s3",
+      "label": "BODACC C, dépôts des comptes 2012 à 2014",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:C2015005010840",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s4",
+      "label": "BODACC A, jugement d'ouverture de liquidation judiciaire du 30/09/2015",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A201501992450",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s5",
+      "label": "BODACC A, clôture pour insuffisance d'actif du 22/06/2016",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A201601312030",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s6",
+      "label": "BODACC B, radiation de TOVA SAUNA (annonce du 30/06/2016)",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:B201601281172",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s7",
+      "label": "Site officiel, page d'accueil, archive du 14/02/2012",
+      "url": "https://web.archive.org/web/20120214085652/http://www.saunamusezvous.fr/crbst_0.html",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s8",
+      "label": "Site officiel, horaires et tarifs, archive du 16/04/2012",
+      "url": "https://web.archive.org/web/20120416170734/http://www.saunamusezvous.fr/crbst_1.html",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s9",
+      "label": "Site officiel, page « Nous trouver », archive du 16/04/2012",
+      "url": "https://web.archive.org/web/20120416170748/http://www.saunamusezvous.fr/crbst_2.html",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s10",
+      "label": "Site officiel, page contact, archive du 29/06/2013",
+      "url": "https://web.archive.org/web/20130629040828/http://www.saunamusezvous.fr/contact.html",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s11",
+      "label": "Site officiel, livre d'or, archive du 20/08/2012 (messages modérés par le club)",
+      "url": "https://web.archive.org/web/20120820213051/http://www.saunamusezvous.fr/livre-dor/livre_lire.php?lng_sel=lg01_fr",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s12",
+      "label": "Site officiel, horaires et tarifs, archive du 29/06/2013",
+      "url": "https://web.archive.org/web/20130629040811/http://www.saunamusezvous.fr/horaires.html",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s13",
+      "label": "Site officiel, page d'accueil, archive du 22/12/2013",
+      "url": "https://web.archive.org/web/20131222074141/http://www.saunamusezvous.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s14",
+      "label": "Site officiel, horaires et tarifs, archive du 16/02/2015",
+      "url": "https://web.archive.org/web/20150216093243/http://www.saunamusezvous.fr/horaires.html",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s15",
+      "label": "Site officiel, page d'accueil, archive du 24/12/2015",
+      "url": "https://web.archive.org/web/20151224130733/http://www.saunamusezvous.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s16",
+      "label": "Site officiel, horaires et tarifs, archive du 13/01/2016 (dernière grille)",
+      "url": "https://web.archive.org/web/20160113204712/http://www.saunamusezvous.fr/horaires.html",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s17",
+      "label": "Internet Archive, historique des captures de saunamusezvous.fr",
+      "url": "https://web.archive.org/cdx/search/cdx?url=www.saunamusezvous.fr&fl=timestamp,statuscode&collapse=timestamp:6",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s18",
+      "label": "Internet Archive, saunamusezvous.fr le 14/10/2017 (boutique de chaussures)",
+      "url": "https://web.archive.org/web/20171014024408/http://www.saunamusezvous.fr/",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s19",
+      "label": "Internet Archive, saunamusezvous.fr le 17/01/2019 (page de liens)",
+      "url": "https://web.archive.org/web/20190117230734/http://www.saunamusezvous.fr/",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s20",
+      "label": "Contrôle technique du domaine saunamusezvous.fr (redirection vers lightinfitness.com)",
+      "url": "https://lightinfitness.com/",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s21",
+      "label": "AFNIC, enregistrement RDAP du domaine saunamusezvous.fr",
+      "url": "https://rdap.nic.fr/domain/saunamusezvous.fr",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s22",
+      "label": "sauna-club-libertin.com, fiche du sauna (annuaire, sans date)",
+      "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_3.php?id=15114&d=62",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s23",
+      "label": "Page Facebook liée par le site officiel (illisible sans connexion)",
+      "url": "https://www.facebook.com/pages/Saunamusez-VOUS/357636527585697",
+      "type": "reseau_social",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s24",
+      "label": "Annuaire des entreprises et BODACC, fiche AQUA FANY",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/501520936",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s25",
+      "label": "API Recherche d'entreprises, entités déclarées au 650 avenue du Maréchal Juin",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=650%20avenue%20du%20marechal%20juin&code_postal=62400",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s26",
+      "label": "La Villa des Anges (Chocques), site officiel",
+      "url": "https://la-villa-des-anges.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s27",
+      "label": "O'Pulsions (Hénin-Beaumont), site officiel : adresse, ouverture le vendredi et le samedi de 21 h à 4 h",
+      "url": "https://www.opulsions.com/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s28",
+      "label": "O'Relax (Lens), site officiel, accueil et plan du site",
+      "url": "https://orelax-379687720214.europe-west1.run.app/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s29",
+      "label": "Internet Archive, leclub-bethune.com (« Le club Bethune, Club Libertin », captures de 2012 à 2016)",
+      "url": "https://web.archive.org/cdx/search/cdx?url=leclub-bethune.com&fl=timestamp,statuscode&collapse=timestamp:6",
+      "type": "autre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s30",
+      "label": "O'Relax (Lens), site officiel, page Événements",
+      "url": "https://orelax-379687720214.europe-west1.run.app/events",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s31",
+      "label": "Site officiel, horaires et tarifs, archive du 23/11/2015 (première capture de la dernière grille)",
+      "url": "https://web.archive.org/web/20151123073849/http://www.saunamusezvous.fr/horaires.html",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s32",
+      "label": "Yelp, fiche SAUNAMUSEZVOUS (1/5, un avis recommandé, non daté)",
+      "url": "https://www.yelp.fr/biz/saunamusezvous-b%C3%A9thune",
+      "type": "avis",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s33",
+      "label": "societe.com, fiche TOVA SAUNA (« fermée définitivement », mise à jour du 18/10/2026)",
+      "url": "https://www.societe.com/societe/tova-sauna-538415670.html",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s34",
+      "label": "Petit Futé, lieux coquins à Béthune et dans un rayon de 20 km (2026)",
+      "url": "https://www.petitfute.com/v26695-bethune-62400/c9998-coquin/?distance=20",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s35",
+      "label": "La Villa des Anges (Chocques), site officiel, page Tarif (modifiée le 20/04/2025)",
+      "url": "https://la-villa-des-anges.fr/tarif/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s36",
+      "label": "Annuaire des entreprises, société LA VILLA DES ANGES (Chocques)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/832361869",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s37",
+      "label": "cerclelibertin.net, « lieux libertins à Béthune » (blog, mis à jour le 24/12/2025, lieux sans adresse)",
+      "url": "https://www.cerclelibertin.net/lieux-libertins-a-bethune-lieux-a-recommander/",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    }
+  ]
+}

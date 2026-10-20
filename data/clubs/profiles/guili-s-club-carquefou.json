@@ -1,0 +1,1106 @@
+{
+  "slug": "guili-s-club-carquefou",
+  "clubId": "131",
+  "researchedAt": "2026-10-20",
+  "display": {
+    "nom": "Guili's Club",
+    "ville": "Carquefou"
+  },
+  "status": {
+    "value": "ouvert",
+    "summary": "Le 18 octobre 2026, le Guili's Club a encore mis à jour son agenda (après-midi du lundi 19, soirée « Glory Hole » du samedi 24), huit jours après la soirée de ses 25 ans ; ses affiches annoncent des soirées jusqu'au samedi 26 décembre. La grille tarifaire date du 15 octobre 2026, l'établissement est actif au registre et les comptes 2025 de la société exploitante ont paru au BODACC le 27 septembre 2026. Réserve : une page du site propose le bail à un repreneur depuis octobre 2022, sans cession publiée à ce jour.",
+    "sources": [
+      "s3",
+      "s17",
+      "s15",
+      "s14",
+      "s2",
+      "s18",
+      "s22",
+      "s9"
+    ]
+  },
+  "seo": {
+    "title": "Guili's Club à Carquefou : club libertin échangiste, tarifs 2026",
+    "metaDescription": "Ouvert depuis 2001 près de Nantes : balnéo à 33 °C, sauna, hammam, dix salons. Femme 10 €, couple 25 à 50 €. Fermé mardi et mercredi. Programme jusqu'au 26/12.",
+    "subtitle": "Club privé libertin et échangiste avec balnéo, sauna et hammam, zone de la Belle Étoile à Carquefou (44)",
+    "targetQueries": [
+      "club libertin carquefou",
+      "club echangiste carquefou",
+      "guili's club",
+      "guili's club tarifs",
+      "guili's club carquefou"
+    ]
+  },
+  "lead": "Installé depuis 2001 dans la zone d'activité de la Belle Étoile, à Carquefou, le Guili's Club se présente comme le premier club libertin et échangiste de la région nantaise ; il a fêté ses 25 ans le 10 octobre 2026. Il ouvre cinq jours sur sept, l'après-midi comme la nuit, avec bar, piste de danse, balnéo, sauna, hammam et dix salons. Couples, femmes seules et hommes seuls y entrent à chaque ouverture, pour 10 € à 50 € selon le jour et la catégorie. Le club tourne normalement, mais son bail est proposé à un repreneur depuis octobre 2022.",
+  "keyFacts": [
+    {
+      "label": "Ouverture",
+      "value": "2001 ; 25 ans fêtés le 10 octobre 2026",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s15",
+        "s19",
+        "s25"
+      ]
+    },
+    {
+      "label": "Exploitant",
+      "value": "SARL Touchatout Business (T.A.T.) depuis octobre 2011",
+      "confidence": "confirme",
+      "sources": [
+        "s12",
+        "s18",
+        "s20"
+      ]
+    },
+    {
+      "label": "Public admis",
+      "value": "Couples, femmes seules et hommes seuls, à chaque ouverture",
+      "confidence": "confirme",
+      "sources": [
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    {
+      "label": "Jours d'ouverture",
+      "value": "Lundi, jeudi, vendredi, samedi, dimanche ; fermé mardi et mercredi",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "label": "Entrée femme",
+      "value": "10 € tous les jours (encore gratuite en février 2026)",
+      "confidence": "confirme",
+      "sources": [
+        "s2",
+        "s27",
+        "s40"
+      ]
+    },
+    {
+      "label": "Entrée couple",
+      "value": "De 25 € (lundi) à 50 € (samedi)",
+      "confidence": "confirme",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "label": "Surface",
+      "value": "360 m² selon l'annonce de vente du bail ; plus de 400 m² selon le club",
+      "confidence": "a_verifier",
+      "sources": [
+        "s9",
+        "s1"
+      ]
+    },
+    {
+      "label": "Capacité",
+      "value": "Jusqu'à 190 personnes selon le club",
+      "confidence": "source_unique",
+      "sources": [
+        "s4"
+      ]
+    },
+    {
+      "label": "Âge minimum",
+      "value": "Majeurs avec pièce d'identité ; la FAQ du club évoque 20 ans",
+      "confidence": "source_unique",
+      "sources": [
+        "s2",
+        "s4"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "six-creneaux-cinq-jours",
+      "title": "Six créneaux sur cinq jours, portes closes le mardi et le mercredi",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le Guili's Club ouvre « aussi bien de jour que de nuit », selon sa page d'accueil : trois après-midi (lundi, jeudi, vendredi), deux soirées (jeudi et vendredi), la nuit du samedi et l'après-midi du dimanche. Le mardi et le mercredi sont les jours de **fermeture hebdomadaire**, que le club dit consacrer à un nettoyage complet des installations.\n\nChaque jour porte un nom, et la grille officielle marque tous les créneaux « mixte » : il n'existe ni soirée réservée aux couples ni soirée réservée aux hommes seuls."
+        },
+        {
+          "kind": "table",
+          "caption": "Le nom donné par le club à chaque créneau (grille du 15 octobre et agenda du 18 octobre 2026)",
+          "headers": [
+            "Jour",
+            "Nom du créneau",
+            "Ce qu'on en sait"
+          ],
+          "rows": [
+            [
+              "Lundi",
+              "« Lundi libertin » (« Lundi 100 % libertin » sur l'agenda daté)",
+              "Après-midi seulement ; présenté comme un après-midi de rencontres, célibataires et timides compris"
+            ],
+            [
+              "Jeudi",
+              "« Jeudi rencontre »",
+              "Le soir, « Libertinage mode d'emploi », ouvert aux débutants comme aux habitués"
+            ],
+            [
+              "Vendredi",
+              "« Vendredi osez tout »",
+              "Le soir, « Club des rencontres », tourné vers les célibataires, les timides et les couples"
+            ],
+            [
+              "Samedi",
+              "Soirée à thème",
+              "Seule ouverture jusqu'à 4 h, un thème chaque samedi"
+            ],
+            [
+              "Dimanche",
+              "« Dimanche découverte »",
+              "Après-midi seulement, de 15 h à 19 h"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Un visuel du 18 août 2026 annonçait « la rentrée » des après-midi du dimanche au 30 août : le dimanche connaît sans doute une pause estivale, ce que le club n'écrit pas en toutes lettres."
+        },
+        {
+          "kind": "text",
+          "body": "Pendant les grandes compétitions, le club retransmet aussi les matchs de football. Un visuel du 31 mai 2026 annonçait « tous les matchs en live » de la Coupe du monde 2026, sur les trois créneaux d'ouverture ; la médiathèque du site garde des affiches de matchs depuis 2019.\n\nDeux avis Google de juillet 2026 se plaignent d'une soirée occupée par un match ; la direction répond que la retransmission était annoncée sur son site et sur l'écran de l'entrée."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s2",
+        "s3",
+        "s30",
+        "s35",
+        "s36",
+        "s17"
+      ],
+      "icon": "calendar",
+      "summary": "Après-midi le lundi, le jeudi, le vendredi et le dimanche, soirées le jeudi et le vendredi, nuit à thème le samedi ; fermé le mardi et le mercredi, tous les créneaux mixtes."
+    },
+    {
+      "id": "samedis-automne-2026",
+      "title": "Deux Gang Bang, deux Glory Hole et une Cougar Party d'ici au 26 décembre 2026",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Les thèmes se concentrent sur le samedi, de 22 h à 4 h, avec une exception le vendredi 18 décembre.\n\nOctobre a enchaîné « Sex & Love », annoncée comme une soirée pour libertins confirmés (le 3), la soirée des 25 ans (le 10) et une « Gang Bang » (le 17) ; les affiches du mois portent la mention « Octobre Rose ».\n\nLes programmes mis en ligne le 15 octobre 2026 fixent la suite jusqu'à la fin de l'année :"
+        },
+        {
+          "kind": "table",
+          "caption": "Programme officiel, octobre à décembre 2026",
+          "headers": [
+            "Date",
+            "Soirée"
+          ],
+          "rows": [
+            [
+              "Samedi 24 octobre",
+              "« Glory Hole »"
+            ],
+            [
+              "Samedi 31 octobre",
+              "« Halloween Sexy »"
+            ],
+            [
+              "Dimanche 1er novembre",
+              "Après-midi de la Toussaint, 15 h à 19 h"
+            ],
+            [
+              "Samedi 7 novembre",
+              "« Comment devenir libertine »"
+            ],
+            [
+              "Samedi 14 novembre",
+              "« Cougar Party »"
+            ],
+            [
+              "Samedi 21 novembre",
+              "« Désirs — jeux de la tentation »"
+            ],
+            [
+              "Samedi 28 novembre",
+              "« Gang Bang »"
+            ],
+            [
+              "Samedi 5 décembre",
+              "« Sexy Night Party »"
+            ],
+            [
+              "Samedi 12 décembre",
+              "« Sans retenue »"
+            ],
+            [
+              "Vendredi 18 décembre",
+              "« Mères Noël », 21 h à 2 h"
+            ],
+            [
+              "Samedi 19 décembre",
+              "« Gang Bang Party »"
+            ],
+            [
+              "Samedi 26 décembre",
+              "« Glory Hole »"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Parmi les thèmes passés, la médiathèque du site garde « Strip billard party » (septembre et décembre 2024), « Osez le candaulisme » (janvier 2026) et « Transparence » (1er mai 2026). La page d'accueil évoque des soirées avec « nos stars du X Dorcel », deux actrices nommées, sans aucune date : rien n'indique qu'il y en ait une au programme.\n\nLe club relaie ses soirées sur son site et sur Facebook, seul réseau social qu'il dit utiliser, dont la page reste illisible sans compte.\n\nPour voir ce que d'autres lieux de l'Ouest programment le même samedi, [les soirées que les clubs de la région inscrivent sur Wyylde](aff:wyylde), l'ancien Netéchangisme, se consultent avec un compte gratuit ; sans abonnement, impossible en revanche d'y répondre à un membre. Nous n'avons pas vérifié que le Guili's Club y publie ses propres dates."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s2",
+        "s3",
+        "s14",
+        "s15",
+        "s17"
+      ],
+      "icon": "sparkles",
+      "summary": "Après les 25 ans du 10 octobre, le programme court jusqu'au 26 décembre 2026 : Glory Hole le 24 octobre, Halloween le 31, Cougar Party le 14 novembre, Mères Noël le 18 décembre."
+    },
+    {
+      "id": "femme-10-euros-2026",
+      "title": "Femme invitée jusqu'en février 2026, 10 € depuis le printemps : ce qui a bougé dans la grille",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Les femmes sont longtemps entrées sans payer : en 2013, le site promettait aux femmes seules ou entre amies une entrée « entièrement gratuite », et la page tarifs indiquait encore « Femme : invitée » dans ses captures archivées du 14 octobre 2025 et du 16 février 2026. Celle du 22 avril 2026 affiche 10 €, tous les jours, quand plusieurs annuaires en sont restés à la gratuité.\n\nDans le même intervalle, l'entrée couple du lundi, comme le premier des deux prix couple du jeudi et du vendredi, est passée de 20 € à 25 €. Les autres prix n'ont pas changé depuis octobre 2023 au moins."
+        },
+        {
+          "kind": "table",
+          "caption": "Les deux lignes modifiées entre février et avril 2026 (captures archivées de la page tarifs)",
+          "headers": [
+            "Entrée",
+            "Page tarifs du 16 février 2026",
+            "Page tarifs du 15 octobre 2026"
+          ],
+          "rows": [
+            [
+              "Femme",
+              "Invitée (gratuite)",
+              "10 €"
+            ],
+            [
+              "Couple, lundi (et premier prix du jeudi et du vendredi)",
+              "20 €",
+              "25 €"
+            ]
+          ]
+        },
+        {
+          "kind": "list",
+          "title": "Lire la grille actuelle",
+          "items": [
+            "Le samedi, couple et homme seul paient le même prix, 50 € : c'est le seul jour où les deux tarifs se rejoignent.",
+            "Le jeudi et le vendredi, la grille affiche deux prix (« 25 € et 30 € » pour un couple, « 35 € et 45 € » pour un homme) sans dire lequel vaut pour l'après-midi et lequel pour la soirée. La mise en page suggère le moins cher l'après-midi ; une question à poser au 02 51 13 92 49.",
+            "Pas de supplément selon le thème : la FAQ annonce les mêmes tarifs pour toutes les soirées, la grille ne variant qu'avec le jour. Des gestes ponctuels existent, comme l'entrée offerte aux couples le jeudi 22 octobre 2026.",
+            "Les prix des boissons alcoolisées ne sont pas publiés : la page « Tarifs consommations » liée depuis l'accueil renvoyait une erreur lors de notre recherche."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "En 2016, le club offrait aussi l'« Invitation du dimanche » : une entrée de 30 € pour revenir un dimanche, remise à tout couple payant le vendredi soir. L'offre a disparu du site."
+        }
+      ],
+      "sources": [
+        "s2",
+        "s3",
+        "s4",
+        "s25",
+        "s26",
+        "s27",
+        "s31",
+        "s32",
+        "s37",
+        "s38",
+        "s40",
+        "s41"
+      ],
+      "icon": "euro",
+      "summary": "Entrée femme passée de « invitée » à 10 € entre février et avril 2026, couple du lundi de 20 à 25 € ; le samedi, couple et homme seul paient tous deux 50 €."
+    },
+    {
+      "id": "hommes-seuls",
+      "title": "Hommes seuls de 35 à 50 € : admis chaque jour, en nombre lié aux couples présents selon l'agenda",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Aucun jour n'est fermé aux hommes seuls. Ils paient de 35 € à 50 € selon le jour, plus qu'un couple sauf le samedi, où les deux tarifs sont alignés. Le club décrit sa clientèle comme surtout hétérosexuelle ou bisexuelle, une description qu'il donnait déjà en 2013.\n\nLe site se contredit en revanche sur leur nombre. La page agenda écrit que « le nombre d'hommes seuls admis est défini par le nombre de couples présents » ; la FAQ publiée en juillet 2026 répond « non » à la question d'un quota, tout en parlant d'équilibre.\n\nEt la page tarifs rappelle que la direction peut « à tout moment » limiter les entrées : un soir où les couples sont rares, un homme seul n'a aucune garantie d'entrer.\n\nVenir accompagné évite de dépendre de ce ratio : une femme et un homme entrent comme couple. Pour chercher [une partenaire de sortie sur Gleese](aff:gleese), le site s'ouvre sans carte bancaire et chaque profil y passe par une vérification du téléphone.\n\nNé fin 2024, il réunit encore moins de membres que les réseaux plus anciens : regardez combien de profils il compte autour de Nantes avant d'en attendre une rencontre."
+        }
+      ],
+      "sources": [
+        "s2",
+        "s3",
+        "s4",
+        "s25"
+      ],
+      "icon": "users",
+      "summary": "Hommes seuls admis chaque jour pour 35 à 50 €, mais l'agenda lie leur nombre à celui des couples présents et la direction peut limiter les entrées."
+    },
+    {
+      "id": "premiere-visite-jeudi",
+      "title": "Première visite : le jeudi « Libertinage mode d'emploi », sans inscription ni réservation",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Chaque jeudi, de 21 h à 2 h, la soirée « Libertinage mode d'emploi » se veut une porte d'entrée : ouverte aux débutants comme aux habitués, elle invite à observer, échanger et avancer à son rythme, et le club la résume d'une phrase, « Le premier pas est souvent le plus difficile ».\n\nLe 22 octobre 2026, l'entrée y est offerte aux couples ; un astérisque accompagne l'offre sans renvoyer à aucune condition visible sur la page. Le samedi 7 novembre 2026, la soirée « Comment devenir libertine » s'adresse, par son titre, aux novices.\n\nQuelques conditions pratiques, d'après la FAQ et l'agenda du club :\n\n- aucune inscription préalable et aucune réservation obligatoire (l'agenda conseille seulement de réserver pour les soirées les plus fréquentées) ;\n- une fois l'entrée payée, on peut rester au bar et découvrir le lieu sans participer ;\n- il faut arriver sans avoir bu ;\n- le vestiaire est obligatoire pour se changer, et les casiers sont désinfectés deux fois par jour selon le club.\n\nPour ne pas pousser la porte sans repères, un couple peut [chercher sur Carré Libertin des couples de l'agglomération nantaise](aff:carre-libertin) et leur proposer de venir ensemble un jeudi.\n\nLe site, en ligne depuis 2007, ne fait rien payer aux couples ni aux femmes seules, à condition d'afficher au moins trois photos sur le profil ; le Guili's Club n'y a aucune présence connue."
+        }
+      ],
+      "sources": [
+        "s3",
+        "s4",
+        "s14"
+      ],
+      "icon": "heart",
+      "summary": "Le jeudi soir « Libertinage mode d'emploi » (21 h-2 h) accueille débutants et habitués ; pas d'inscription ni de réservation obligatoire, et l'on peut venir sans participer."
+    },
+    {
+      "id": "cle-telephone-tenue",
+      "title": "Clé de voiture confiée, téléphone banni, pantalon refusé aux femmes",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "À l'arrivée, la direction demande qu'on lui confie la **clé de son véhicule** ; la règle figurait déjà sur le site en 2016. Les **téléphones portables** sont interdits dans tout l'établissement, comme les photos et les vidéos.\n\nLe club écrit que toute infraction entraîne la « destruction immédiate » de l'appareil et l'exclusion ; nous ignorons comment la règle s'applique en pratique, mais elle revient sur trois pages du site actuel."
+        },
+        {
+          "kind": "table",
+          "caption": "Tenue exigée selon l'accueil du site et la page « Dress-code » (septembre 2026)",
+          "headers": [
+            "Public",
+            "Demandé",
+            "Refusé"
+          ],
+          "rows": [
+            [
+              "Femmes",
+              "Tenue « sexy, élégante »",
+              "Pantalon"
+            ],
+            [
+              "Hommes",
+              "Chemise, pantalon habillé, chaussures de ville",
+              "Baskets, tee-shirt, tenue de sport"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le règlement interdit de suivre une femme ou un couple sans y être invité et tout contact sans consentement explicite. L'exclusion est définitive pour tout acte assimilable à de la prostitution ou pour des propos discriminatoires, et la direction peut refuser l'entrée sans se justifier.\n\nL'accès est réservé aux majeurs, sur présentation d'une pièce d'identité ; la FAQ parle de « personnes majeures de plus de 20 ans », une précision que les autres pages ne reprennent pas. Dans le doute, mieux vaut appeler."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s2",
+        "s4",
+        "s5",
+        "s26"
+      ],
+      "icon": "shield",
+      "summary": "Clé de voiture remise à la direction, téléphone interdit sous peine de destruction et d'exclusion, pantalon refusé aux femmes, baskets et tee-shirt refusés aux hommes."
+    },
+    {
+      "id": "balneo-salons",
+      "title": "Une balnéo d'une vingtaine de places à 33 °C et dix salons, sur 360 ou 400 m²",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le site donne deux surfaces : « plus de 400 m² » climatisés sur sa page d'accueil, 360 m² dans l'annonce de vente du bail, plus technique. Le bâtiment, à charpente bois, est accessible aux personnes à mobilité réduite selon le club et peut recevoir jusqu'à 190 personnes d'après sa FAQ.\n\nLe club y compte « six espaces », que l'on peut regrouper en trois ensembles."
+        },
+        {
+          "kind": "list",
+          "items": [
+            "**Le bar et la piste** : un bar lounge, des salons à tables basses, une piste de danse avec cage d'exhibition et barre de pole dance, bordée de salons plus feutrés. L'annonce de vente montre aussi un billard, qui a servi aux soirées « Strip billard party » de 2024 et où, selon plusieurs avis Google et la direction elle-même, le patron joue volontiers avec les clients.",
+            "**L'espace humide** : une balnéo chauffée au gaz à 33 °C, équipée de 8 jets et prévue pour une vingtaine de personnes, un sauna à chaleur sèche et un hammam à l'eucalyptus. Cet espace est naturiste et réservé à ceux qui choisissent d'en profiter ainsi.",
+            "**Les espaces coquins** : dix salons « ouverts ou fermés » et un salon de massage."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Selon le club, le bassin est vidangé chaque semaine et son eau contrôlée chaque mois par l'ARS, ce que nous n'avons pas pu recouper. Fin octobre et début novembre 2025, la balnéo a été en travaux ; un visuel du 31 octobre précisait que le sauna et le hammam restaient ouverts."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s4",
+        "s6",
+        "s7",
+        "s8",
+        "s9",
+        "s16",
+        "s17",
+        "s35"
+      ],
+      "icon": "spa",
+      "summary": "Balnéo à 33 °C de huit jets pour une vingtaine de personnes, sauna, hammam à l'eucalyptus, piste avec cage et barre de pole dance, dix salons et un salon de massage."
+    },
+    {
+      "id": "glory-hole-sm-fumeur",
+      "title": "Salon SM, webcam, « salon Glory Hole », coin fumeur : ce que le site de 2026 ne confirme pas",
+      "icon": "info",
+      "summary": "Un annuaire non daté cite un salon SM, un espace vidéo et une webcam ; le site actuel n'en parle pas, et rien ne dit si le « salon Glory Hole » du 24 octobre est permanent.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Un annuaire non daté cite encore un salon SM, un espace vidéo, un salon webcam et des coins câlins « fermant tous à clé » : le site actuel n'en dit rien. L'annonce de la soirée du 24 octobre 2026 parle bien d'un « salon Glory Hole », sans dire s'il est installé à demeure.\n\nUn espace fumeurs est cité par un avis Koifaire de septembre 2026, qui le dit ventilé, et par un guide en ligne mis à jour en mars 2025 ; le site du club n'en parle pas."
+        }
+      ],
+      "sources": [
+        "s3",
+        "s28",
+        "s33",
+        "s39"
+      ]
+    },
+    {
+      "id": "avis-koifaire-petit-fute",
+      "title": "Koifaire 4/5 sur 8 avis, Petit Futé 3,7/5 sur 6 : propreté saluée, soirs creux reprochés",
+      "icon": "star",
+      "summary": "Koifaire 4/5 sur 8 avis, Petit Futé 3,7/5 sur 6 (19 octobre 2026) ; Google 3,9/5 sur 44, selon un annuaire qui relaie la note. Propreté et accueil loués, soirs creux critiqués.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le 19 octobre 2026, Koifaire affichait 4/5 pour 8 avis (2009 à septembre 2026), le Petit Futé 3,7/5 pour 6 avis de membres (2015 à juillet 2026).\n\nPour Google, nous dépendons d'un relais : au 4 octobre 2026, l'annuaire mon-club.tel affiche 3,9/5 sur 44 avis, une note très partagée (27 avis à cinq étoiles, 9 à une seule). Ni la note ni cette répartition n'ont pu être vérifiées sur Google même ; d'autres annuaires citent des chiffres plus anciens et discordants.\n\nCe même annuaire reproduit une trentaine d'avis Google datés, de janvier 2023 à août 2026, avec les réponses de la direction : c'est là, et non sur Google, que nous les avons lus."
+        },
+        {
+          "kind": "list",
+          "title": "Ce qui revient dans les avis Google de 2024 à 2026, lus sur l'annuaire qui les relaie",
+          "items": [
+            "La propreté de la balnéo, du sauna et des salons, et l'accueil des gérants, dans la plupart des avis positifs.",
+            "Des soirs creux en semaine ou en fin de mois, avec plus d'hommes seuls que de couples. La direction admet elle-même un vendredi soir calme en janvier 2026, suivi d'un samedi « rempli de couples ».",
+            "Le billard, où le patron affronte volontiers les clients : un plaisir pour les habitués, le signe d'une soirée morne pour d'autres."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "La direction répond à presque tous les avis, brièvement aux bons, souvent très durement aux mauvais, dont elle met en cause les auteurs.\n\nSur Koifaire et le Petit Futé, les avis plus anciens sont partagés : accueil jugé froid en 2015 et en 2022, soirées sans couples en 2021 et en 2022, dress code peu respecté en 2017.\n\nDeux précautions de lecture : un avis Koifaire de décembre 2024 dit avoir été rédigé à la demande du patron, et la page « Avis clients » du site ne montre que six témoignages à cinq étoiles choisis par le club."
+        }
+      ],
+      "sources": [
+        "s11",
+        "s33",
+        "s34",
+        "s35"
+      ]
+    },
+    {
+      "id": "belle-etoile-a11",
+      "title": "Zone de la Belle Étoile, à trois minutes de l'A11 et à 2,8 km du Before Sauna Club",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le club occupe le 2 impasse Bételgeuse, dans la zone d'activité de la Belle Étoile (« Z.I. Véga » sur le site de 2016), près du rond-point du même nom. Il se place à 10 minutes du centre de Nantes et à 3 minutes de l'A11 vers Angers et Paris, et se dit facile d'accès depuis Carquefou, Ancenis, Angers et Cholet.\n\nLe grand parking privatif est présenté comme discret.\n\nIl n'y a pas de chambre sur place. Le club conseille le Novotel Carquefou, à deux minutes en voiture selon lui, ainsi que deux adresses voisines, le restaurant Tôpette à Thouaré-sur-Loire et Le Circus à Sainte-Luce-sur-Loire.\n\nÀ environ 2,8 km à vol d'oiseau, [le Before Sauna Club de Sainte-Luce-sur-Loire](/sauna-sainte-luce-loire) est un sauna libertin dont l'agenda annonçait encore, le 19 octobre 2026, des soirées jusqu'au 31 octobre ; dans Nantes, à environ 10 km, notre base recense un autre sauna libertin, [L'Orchidée Noire](/l-orchidee-noire-nantes), dont l'activité n'a pas encore été vérifiée.\n\nLes autres adresses que notre base recense dans le département, à Prinquiau et à Guémené-Penfao, sont à plus de 40 km ; le 901 de Saint-Nazaire, lui, a fermé. Voir [les lieux libertins de Loire-Atlantique](/departement/loire-atlantique)."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s3",
+        "s9",
+        "s10",
+        "s13",
+        "s25",
+        "s26",
+        "s29",
+        "s42"
+      ],
+      "icon": "map",
+      "summary": "2 impasse Bételgeuse, zone de la Belle Étoile : 10 minutes du centre de Nantes et 3 de l'A11 selon le club, grand parking privatif, pas de chambre sur place."
+    },
+    {
+      "id": "bail-a-vendre-2022",
+      "title": "Un bail de 360 m² à vendre depuis octobre 2022, aucune cession au BODACC",
+      "icon": "warning",
+      "summary": "Le site propose depuis octobre 2022 le bail « entièrement équipé » à un repreneur, y compris pour un autre commerce ; au 20 octobre 2026, aucune cession n'est publiée.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "La page « Club à vendre » propose le bail commercial « entièrement équipé » de 360 m², avec grand parking privatif. Elle vise aussi des projets d'une autre nature : pub, bar, brasserie, institut de beauté, spa.\n\nCréée en octobre 2022, elle figure au menu du site depuis au moins octobre 2023 et a été mise à jour le 15 novembre 2025."
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Ce que cela change pour vous",
+          "body": "Au 20 octobre 2026, le BODACC ne publie ni cession du fonds ni procédure collective, et la page se termine sur « la fête continue au Guili's Club ». Une vente changerait l'exploitant, voire l'activité : cette fiche sera revérifiée."
+        }
+      ],
+      "sources": [
+        "s9",
+        "s17",
+        "s22",
+        "s27"
+      ]
+    },
+    {
+      "id": "misro-tat-vente",
+      "title": "De la SARL Misro à la SARL T.A.T. : 25 ans impasse Bételgeuse, rachat à 300 000 € en 2011",
+      "blocks": [
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "15 mai 2001",
+              "text": "Création de la SARL Misro, premier exploitant, dont l'établissement de l'impasse Bételgeuse est enregistré le même jour. Le registre fixe le début d'activité au 27 décembre 2001 ; le club dit simplement avoir été fondé en 2001."
+            },
+            {
+              "date": "Janvier 2006",
+              "text": "Plus ancienne capture connue du site, qui présente « un club privé non conformiste à Nantes ». En décembre 2008, le site annonce un « nouveau look »."
+            },
+            {
+              "date": "11 octobre 2011",
+              "text": "La SARL Touchatout Business (T.A.T.) rachète l'établissement à la SARL Misro pour 300 000 €, selon l'annonce publiée au BODACC. L'annonce décrit l'activité cédée : bains, hammam, sauna, club libertin, restauration et bar sous licence 3."
+            },
+            {
+              "date": "Janvier 2013",
+              "text": "Le site décrit un espace de 400 m² « entièrement relooké » et un club « hétéro et bi ». Il attribue à Guylène et Franck, les gérants qu'il met en avant, un « nouveau souffle »."
+            },
+            {
+              "date": "Décembre 2016",
+              "text": "Le club se présente comme une « discothèque libertine » avec un espace balnéo naturiste ; il a alors un compte Twitter, un forum et une galerie photos, absents du site actuel."
+            },
+            {
+              "date": "9 octobre 2022",
+              "text": "Création de la page « Club à vendre », au menu du site depuis au moins octobre 2023."
+            },
+            {
+              "date": "Automne 2025",
+              "text": "Travaux sur la balnéo fin octobre et début novembre ; l'annonce de vente, mise à jour le 15 novembre 2025, parle d'une activité exercée « depuis plus de 25 ans »."
+            },
+            {
+              "date": "10 octobre 2026",
+              "text": "Soirée des 25 ans, de 22 h à 4 h. Le 12 octobre, les gérants remercient en ligne pour les cadeaux et les fleurs reçus pendant la « semaine des 25 ans »."
+            }
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le compte des années varie d'une page à l'autre : l'une dit encore « 22 ans au service du libertinage à Nantes », l'annonce de vente de 2025 « plus de 25 ans ». Seule l'année 2001 est sûre.\n\nLa société exploitante, une SARL au capital de 7 500 € selon les mentions légales et dont le siège est à Orée-d'Anjou (Maine-et-Loire), a publié les comptes de chaque exercice de 2007 à 2025, parfois avec plusieurs années de retard."
+        }
+      ],
+      "sources": [
+        "s7",
+        "s9",
+        "s12",
+        "s15",
+        "s16",
+        "s17",
+        "s18",
+        "s19",
+        "s20",
+        "s21",
+        "s22",
+        "s23",
+        "s24",
+        "s25",
+        "s26",
+        "s27",
+        "s31",
+        "s32"
+      ],
+      "icon": "history",
+      "summary": "Ouvert en 2001 par la SARL Misro, racheté en octobre 2011 par la SARL T.A.T. pour 300 000 €, le club a fêté ses 25 ans le 10 octobre 2026."
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Lundi": "14 h 30 – 19 h",
+      "Mardi": "Fermé",
+      "Mercredi": "Fermé",
+      "Jeudi": "14 h 30 – 19 h et 21 h – 2 h",
+      "Vendredi": "14 h 30 – 19 h et 21 h – 2 h",
+      "Samedi": "22 h – 4 h (soirée à thème)",
+      "Dimanche": "15 h – 19 h"
+    },
+    "note": "Grille officielle du 15 octobre 2026. Jours fériés selon l'agenda ; ouverture exceptionnelle le dimanche 1er novembre 2026 de 15 h à 19 h.",
+    "confidence": "confirme",
+    "sources": [
+      "s2",
+      "s3",
+      "s14"
+    ]
+  },
+  "tarifs": {
+    "rows": {
+      "Femme (tous les jours)": "10 €",
+      "Couple — lundi": "25 €",
+      "Couple — jeudi et vendredi": "25 € et 30 €",
+      "Couple — samedi": "50 €",
+      "Couple — dimanche": "30 €",
+      "Homme seul — lundi": "35 €",
+      "Homme seul — jeudi et vendredi": "35 € et 45 €",
+      "Homme seul — samedi": "50 €",
+      "Homme seul — dimanche": "40 €",
+      "Jours fériés": "Femme 10 €, homme et couple au tarif du jour"
+    },
+    "note": "Grille du 15 octobre 2026. Le jeudi et le vendredi, le club affiche deux prix sans préciser le créneau (après-midi ou soirée). Inclus : balnéo, sauna, hammam, softs, cafés et infusions, vestiaire avec casier. Carte bancaire ou espèces, ni chèque ni American Express.",
+    "confidence": "confirme",
+    "sources": [
+      "s2",
+      "s4"
+    ]
+  },
+  "equipements": [
+    "Bar lounge",
+    "Piste de danse",
+    "Cage d'exhibition",
+    "Barre de pole dance",
+    "Balnéo à 33 °C (environ 20 places)",
+    "Sauna",
+    "Hammam",
+    "Dix salons ouverts ou fermés",
+    "Salon de massage",
+    "Billard",
+    "Vestiaire avec casiers",
+    "Climatisation",
+    "Accès PMR",
+    "Parking privatif"
+  ],
+  "officialLinks": [
+    {
+      "label": "Site officiel",
+      "url": "https://www.guilis-club.com/",
+      "kind": "site"
+    },
+    {
+      "label": "Agenda des soirées",
+      "url": "https://www.guilis-club.com/soirees-libertines-au-guilis-club/",
+      "kind": "agenda"
+    },
+    {
+      "label": "Horaires et tarifs",
+      "url": "https://www.guilis-club.com/horaires-et-tarifs/",
+      "kind": "autre"
+    },
+    {
+      "label": "Page Facebook (lisible seulement avec un compte)",
+      "url": "https://www.facebook.com/guilis.club",
+      "kind": "facebook"
+    },
+    {
+      "label": "Annonce de vente du bail, avec photos du bar, de la balnéo, d'un salon et du billard",
+      "url": "https://www.guilis-club.com/guilis-club-a-vendre/",
+      "kind": "autre"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Où trouver un club libertin ou échangiste à Carquefou ?",
+      "answer": "Au Guili's Club, 2 impasse Bételgeuse, dans la zone de la Belle Étoile : il se définit lui-même comme un « club privé libertin échangiste » et fonctionne depuis 2001. C'est le seul lieu de ce genre que nous recensons [à Carquefou](/ville/carquefou) ; le plus proche ensuite est un sauna libertin de Sainte-Luce-sur-Loire, à moins de 3 km."
+    },
+    {
+      "question": "Combien coûte l'entrée au Guili's Club ?",
+      "answer": "10 € pour une femme, tous les jours ; de 25 € à 50 € pour un couple et de 35 € à 50 € pour un homme seul, le samedi étant le soir le plus cher (grille du 15 octobre 2026). Balnéo, sauna, hammam, softs et vestiaire sont compris."
+    },
+    {
+      "question": "Le Guili's Club est-il ouvert le mardi ou le mercredi ?",
+      "answer": "Non, ce sont ses deux jours de fermeture. Il ouvre l'après-midi le lundi, le jeudi, le vendredi et le dimanche, en soirée le jeudi et le vendredi, et de 22 h à 4 h le samedi."
+    },
+    {
+      "question": "Un homme seul peut-il entrer au Guili's Club ?",
+      "answer": "Oui, tous les jours, mais l'agenda du club lie leur nombre à celui des couples présents et la direction peut limiter les entrées : un appel au 02 51 13 92 49 avant la route reste prudent."
+    },
+    {
+      "question": "Faut-il réserver ou être membre ?",
+      "answer": "Non, ni inscription ni réservation obligatoire selon la FAQ du club ; l'agenda conseille seulement de réserver pour les soirées les plus fréquentées. Le club se joint par téléphone ou par le formulaire de sa page contact, sans adresse e-mail publique."
+    },
+    {
+      "question": "Le Guili's Club va-t-il fermer ou changer de propriétaire ?",
+      "answer": "Rien ne l'annonce à ce jour : le club fonctionne, a mis à jour son agenda le 18 octobre 2026 et a publié son programme jusqu'au 26 décembre. Son bail est toutefois proposé à un repreneur sur le site depuis octobre 2022, et au 20 octobre 2026 aucune cession n'apparaît au BODACC."
+    },
+    {
+      "question": "Que disent les avis sur le Guili's Club ?",
+      "answer": "Au 4 octobre 2026, un annuaire qui relaie les avis Google affiche 3,9/5 sur 44 avis, très partagés (27 à cinq étoiles, 9 à une) ; Koifaire donne 4/5 sur 8 avis et le Petit Futé 3,7/5 sur 6 (relevé du 19 octobre 2026). Les avis récents saluent la propreté et l'accueil ; les critiques visent surtout des soirs de semaine creux, avec plus d'hommes seuls que de couples."
+    }
+  ],
+  "unverified": [
+    "La note Google lue sur Google même : nous ne la connaissons que par un annuaire qui la relaie (3,9/5 sur 44 avis au 4 octobre 2026).",
+    "Lequel des deux prix affichés le jeudi et le vendredi vaut pour l'après-midi, et lequel pour la soirée.",
+    "La condition liée à l'astérisque de l'entrée offerte aux couples le 22 octobre 2026.",
+    "L'existence d'une pause estivale le dimanche (les après-midi ont repris le 30 août 2026).",
+    "Le prix des boissons alcoolisées, la page « Tarifs consommations » étant en erreur.",
+    "La présence actuelle d'un glory hole permanent, d'un salon SM, d'un espace vidéo ou d'un salon webcam, cités par un annuaire non daté.",
+    "La licence de débit de boissons : licence 3 dans l'acte de 2011, licence IV dans l'annonce de vente de 2025.",
+    "L'issue de la mise en vente du bail, annoncée depuis 2022.",
+    "L'espace fumeurs cité par un avis Koifaire de septembre 2026 et par un guide en ligne de 2025, absent du site du club."
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Site officiel, page d'accueil",
+      "url": "https://www.guilis-club.com/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s2",
+      "label": "Site officiel, « Horaires & tarifs » (modifiée le 15/10/2026)",
+      "url": "https://www.guilis-club.com/horaires-et-tarifs/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s3",
+      "label": "Site officiel, agenda « Soirées libertines au Guili's Club » (modifié le 18/10/2026)",
+      "url": "https://www.guilis-club.com/soirees-libertines-au-guilis-club/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s4",
+      "label": "Site officiel, « Infos pratiques » (FAQ, juillet 2026)",
+      "url": "https://www.guilis-club.com/le-guilis-club/club-libertin-infos-pratiques/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s5",
+      "label": "Site officiel, « Dress-code » (modifiée le 03/09/2026)",
+      "url": "https://www.guilis-club.com/le-dress-code/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s6",
+      "label": "Site officiel, « Espace détente »",
+      "url": "https://www.guilis-club.com/le-guilis-club/espace-detente/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s7",
+      "label": "Site officiel, « Espace coquin et libertin »",
+      "url": "https://www.guilis-club.com/le-guilis-club/espace-coquin-et-libertin/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s8",
+      "label": "Site officiel, « Espace dancing »",
+      "url": "https://www.guilis-club.com/le-guilis-club/espace-dancing-du-guilis-club/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s9",
+      "label": "Site officiel, « Club à vendre » (créée le 09/10/2022, modifiée le 15/11/2025)",
+      "url": "https://www.guilis-club.com/guilis-club-a-vendre/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s10",
+      "label": "Site officiel, « Services + » (hôtel et restaurants conseillés)",
+      "url": "https://www.guilis-club.com/horaires-et-tarifs/services/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s11",
+      "label": "Site officiel, « Avis clients » (témoignages choisis par le club)",
+      "url": "https://www.guilis-club.com/avis-clients-du-guilis-club-libertin/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s12",
+      "label": "Site officiel, mentions légales",
+      "url": "https://www.guilis-club.com/mentions-legales/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s13",
+      "label": "Site officiel, page contact",
+      "url": "https://www.guilis-club.com/contact-guilis-club/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s14",
+      "label": "Programmes officiels d'octobre, novembre et décembre 2026 (affiches mises en ligne le 15/10/2026)",
+      "url": "https://www.guilis-club.com/wp-content/uploads/2026/10/Soirees-OCTOBRE-26.jpg",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s15",
+      "label": "Visuels officiels des 25 ans (3, 4 et 12 octobre 2026)",
+      "url": "https://www.guilis-club.com/wp-content/uploads/2026/10/Merci-a-tous-WEB.jpg",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s16",
+      "label": "Visuels officiels sur les travaux de la balnéo (28/10 au 06/11/2025)",
+      "url": "https://www.guilis-club.com/wp-content/uploads/2025/10/Travaux-balneo-web.jpg",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s17",
+      "label": "Site officiel, dates de publication des pages et des médias (API WordPress)",
+      "url": "https://www.guilis-club.com/wp-json/wp/v2/pages",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s18",
+      "label": "Annuaire des entreprises, Touchatout Business (T.A.T.), SIREN 440 801 942",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/440801942",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s19",
+      "label": "Annuaire des entreprises, SARL Misro, SIREN 438 177 339 (cessée)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/438177339",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s20",
+      "label": "BODACC, vente du fonds « Guili's Club » à T.A.T. (annonce du 10/11/2011)",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20110218592",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s21",
+      "label": "BODACC, cessation d'activité de la SARL Misro (annonce du 16/11/2011)",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:B20110221419",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s22",
+      "label": "BODACC, avis de T.A.T. : transfert de siège (2021) et dépôts des comptes jusqu'à l'exercice 2025",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:B202101741056",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s23",
+      "label": "Site officiel, archive Wayback du 13/01/2006",
+      "url": "http://web.archive.org/web/20060113092355/http://www.guilis-club.com:80/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s24",
+      "label": "Site officiel, archive Wayback du 16/12/2008",
+      "url": "http://web.archive.org/web/20081216002954/http://www.guilis-club.com:80/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s25",
+      "label": "Site officiel, archive Wayback du 04/01/2013",
+      "url": "http://web.archive.org/web/20130104194942/http://www.guilis-club.com:80/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s26",
+      "label": "Site officiel, archive Wayback du 19/12/2016",
+      "url": "http://web.archive.org/web/20161219210443/http://www.guilis-club.com:80/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s27",
+      "label": "Site officiel, page tarifs archivée le 14/10/2025",
+      "url": "http://web.archive.org/web/20251014131110/https://www.guilis-club.com/horaires-et-tarifs/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s28",
+      "label": "sauna-club-libertin.com, fiche du club (annuaire, texte non daté)",
+      "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_3.php?id=131&d=44",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s29",
+      "label": "Base Adresse Nationale, 2 impasse Bételgeuse à Carquefou (calcul des distances)",
+      "url": "https://api-adresse.data.gouv.fr/search/?q=2+impasse+Betelgeuse+44470+Carquefou",
+      "type": "carte",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s30",
+      "label": "Visuel officiel « C'est la rentrée dimanche 30 août » (18/08/2026)",
+      "url": "https://www.guilis-club.com/wp-content/uploads/2026/08/Rentree-dimanche-2026-WEB-2.jpg",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s31",
+      "label": "Site officiel, page tarifs archivée le 12/07/2026",
+      "url": "http://web.archive.org/web/20260712205052/https://www.guilis-club.com/horaires-et-tarifs/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s32",
+      "label": "Site officiel, page tarifs archivée le 01/10/2023",
+      "url": "http://web.archive.org/web/20231001113445/https://www.guilis-club.com/horaires-et-tarifs/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s33",
+      "label": "Koifaire, fiche et avis du Guili's Club (8 avis, 2009 à septembre 2026)",
+      "url": "https://www.koifaire.com/pays-de-la-loire/guili,s,club-13993.html",
+      "type": "avis",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s34",
+      "label": "Petit Futé, avis des membres sur Guili's (6 avis, 2015 à juillet 2026)",
+      "url": "https://www.petitfute.com/v27495-carquefou-44470/c9998-coquin/c1044-s-amuser-sortir/c208-sauna/604936-guili-s/tous-les-avis.html",
+      "type": "avis",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s35",
+      "label": "mon-club.tel, fiche du club relayant 44 avis Google (mise à jour du 04/10/2026)",
+      "url": "https://mon-club.tel/f/guili-s-club-8820390/",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s36",
+      "label": "Visuel officiel « Coupe du monde 2026 : tous les matchs en live au Guili's Club » (31/05/2026)",
+      "url": "https://www.guilis-club.com/wp-content/uploads/2026/05/Coupe-du-monde-FOOT-2026-WEB.jpg",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s37",
+      "label": "Minuit Libertin, fiche du club (tarifs « au 21 juillet 2025 »)",
+      "url": "https://minuitlibertin.com/guilis-club/",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s38",
+      "label": "Guide de Nuit, fiche du club (non datée, entrée femme encore annoncée gratuite)",
+      "url": "https://www.guidedenuit.com/discotheques_loire-atlantique/guili-club",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s39",
+      "label": "toprencontre.fr, guide des clubs libertins de Nantes (modifié le 24/03/2025)",
+      "url": "https://toprencontre.fr/club-libertin-nantes/",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s40",
+      "label": "Site officiel, page tarifs archivée le 16/02/2026 (« Femme : invitée »)",
+      "url": "http://web.archive.org/web/20260216075803/https://www.guilis-club.com/horaires-et-tarifs/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s41",
+      "label": "Site officiel, page tarifs archivée le 22/04/2026 (femme 10 €)",
+      "url": "http://web.archive.org/web/20260422013643/https://www.guilis-club.com/horaires-et-tarifs/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s42",
+      "label": "Before Sauna Club, site officiel : agenda libertins (constat repris de notre fiche vérifiée)",
+      "url": "https://www.before-sauna-club.com/libertins",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    }
+  ],
+  "glance": [
+    {
+      "icon": "calendar",
+      "label": "Ouvert",
+      "value": "Lun., jeu. à dim. ; fermé mardi et mercredi"
+    },
+    {
+      "icon": "clock",
+      "label": "Horaires",
+      "value": "Après-midi dès 14 h 30 ; samedi 22 h-4 h"
+    },
+    {
+      "icon": "euro",
+      "label": "Entrée couple",
+      "value": "25 € (lundi) à 50 € (samedi)"
+    },
+    {
+      "icon": "ticket",
+      "label": "Entrée femme",
+      "value": "10 € tous les jours depuis 2026"
+    },
+    {
+      "icon": "history",
+      "label": "Depuis",
+      "value": "2001 ; 25 ans fêtés le 10 octobre 2026"
+    },
+    {
+      "icon": "warning",
+      "label": "Bail à vendre",
+      "value": "Repreneur cherché depuis 2022, club actif"
+    }
+  ],
+  "audience": [
+    {
+      "who": "couples",
+      "status": "oui",
+      "detail": "Tous les jours d'ouverture ; entrée offerte le jeudi 22 octobre 2026",
+      "price": "25 à 50 €"
+    },
+    {
+      "who": "femmes",
+      "status": "oui",
+      "detail": "Tous les jours ; gratuite jusqu'en février 2026, payante depuis le printemps",
+      "price": "10 €"
+    },
+    {
+      "who": "hommes",
+      "status": "selon",
+      "detail": "Admis chaque jour, mais l'agenda lie leur nombre à celui des couples présents",
+      "price": "35 à 50 €"
+    }
+  ],
+  "highlights": [
+    "Femmes : pantalon refusé. Hommes : chemise, pantalon habillé, chaussures de ville ; baskets, tee-shirt et tenue de sport refusés.",
+    "Téléphone interdit dans tout le club : le règlement annonce la destruction de l'appareil et l'exclusion.",
+    "À l'arrivée, la direction demande qu'on lui confie la clé de son véhicule.",
+    "Couples : selon plusieurs avis Google de 2024 à 2026, certains soirs de semaine ou de fin de mois sont creux, avec surtout des hommes seuls.",
+    "Homme seul : votre entrée dépend du nombre de couples présents selon l'agenda ; un appel au 02 51 13 92 49 évite un refus."
+  ],
+  "externalRatings": [
+    {
+      "platform": "Koifaire",
+      "rating": 4,
+      "scale": 5,
+      "count": 8,
+      "date": "2026-10-19",
+      "url": "https://www.koifaire.com/pays-de-la-loire/guili,s,club-13993.html"
+    },
+    {
+      "platform": "Petit Futé",
+      "rating": 3.7,
+      "scale": 5,
+      "count": 6,
+      "date": "2026-10-19",
+      "url": "https://www.petitfute.com/v27495-carquefou-44470/c9998-coquin/c1044-s-amuser-sortir/c208-sauna/604936-guili-s/tous-les-avis.html"
+    }
+  ]
+}

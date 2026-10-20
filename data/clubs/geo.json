@@ -2760,12 +2760,12 @@
   "query": "6 rue Romarin 69001 LYON"
  },
  "quetzal-benquet-club-libertin": {
-  "lat": 43.84196,
-  "lon": -0.526798,
+  "lat": 43.841612,
+  "lon": -0.525922,
   "precision": "housenumber",
-  "label": "401 Chemin de Triquet 40280 Benquet",
+  "label": "399 Chemin de Triquet 40280 Benquet",
   "score": 0.95,
-  "query": "401 Chemin de Triquet 40280 BENQUET"
+  "query": "399 Chemin de Triquet 40280 BENQUET"
  },
  "hippocampe-saint-maur-libertin": {
   "lat": 48.798363,

@@ -1,0 +1,799 @@
+{
+  "slug": "quetzal-benquet-club-libertin",
+  "clubId": "FG036",
+  "researchedAt": "2026-10-20",
+  "display": {
+    "nom": "Le Quetzal",
+    "ville": "Benquet"
+  },
+  "status": {
+    "value": "ferme",
+    "summary": "La billetterie du Quetzal s'arrête au samedi 12 septembre 2026, soir de « l'Ultime Night Libertine ». Le 14 septembre, son site annonçait la transformation du lieu, rouvert le 19 septembre 2026 en discothèque sous le nom de Quetzal Paradoxe, sans un mot sur le libertinage. La société exploitante, elle, reste active au registre.",
+    "sources": [
+      "s3",
+      "s4",
+      "s1",
+      "s10",
+      "s11",
+      "s14",
+      "s15"
+    ]
+  },
+  "seo": {
+    "title": "Club libertin à Benquet : Le Quetzal fermé, devenu discothèque",
+    "metaDescription": "Le Quetzal, club libertin d'environ 1 000 m² à Benquet, a tenu sa dernière soirée le 12/09/2026 avant de devenir discothèque. Tarifs, Secret Room, histoire.",
+    "subtitle": "Ancien club libertin aux portes de Mont-de-Marsan (40), reconverti en discothèque en septembre 2026",
+    "targetQueries": [
+      "club libertin benquet",
+      "club echangiste benquet",
+      "le quetzal benquet",
+      "quetzal club libertin mont-de-marsan"
+    ]
+  },
+  "lead": "Installé dans d'anciennes discothèques du chemin de Triquet, à Benquet, Le Quetzal a ouvert vers juin 2025 et fêté son premier anniversaire le 6 juin 2026. Sa dernière soirée libertine, « l'Ultime Night Libertine », a eu lieu le samedi 12 septembre 2026 ; une semaine plus tard, le bâtiment rouvrait en discothèque grand public, Le Quetzal Paradoxe. Benquet n'a donc plus de club échangiste ; les clubs ouverts que nous avons vérifiés sont à Bénesse-Maremne et près de Pau.",
+  "keyFacts": [
+    {
+      "label": "Statut",
+      "value": "Club libertin fermé après le 12/09/2026 ; discothèque Le Quetzal Paradoxe depuis le 19/09/2026",
+      "confidence": "confirme",
+      "sources": [
+        "s3",
+        "s1",
+        "s11"
+      ]
+    },
+    {
+      "label": "Période d'activité",
+      "value": "Environ quinze mois, de fin mai ou début juin 2025 au 12 septembre 2026 (jour d'ouverture non publié)",
+      "confidence": "confirme",
+      "sources": [
+        "s32",
+        "s14",
+        "s8",
+        "s30",
+        "s3"
+      ]
+    },
+    {
+      "label": "Le lieu",
+      "value": "Anciennes discothèques de Benquet fermées au milieu des années 2010, selon Sud Ouest",
+      "confidence": "source_unique",
+      "sources": [
+        "s16"
+      ]
+    },
+    {
+      "label": "Société",
+      "value": "SAS Le Quetzal (SIREN 917 993 156), créée en août 2022 en Gironde, toujours active",
+      "confidence": "confirme",
+      "sources": [
+        "s8",
+        "s14",
+        "s15"
+      ]
+    },
+    {
+      "label": "Adresse",
+      "value": "399 chemin de Triquet, 40280 Benquet (401 dans plusieurs annuaires)",
+      "confidence": "confirme",
+      "sources": [
+        "s14",
+        "s10",
+        "s21"
+      ]
+    },
+    {
+      "label": "Horaires (mai 2026)",
+      "value": "Vendredi et samedi, 21 h-4 h, « mixte sur sélection »",
+      "confidence": "confirme",
+      "sources": [
+        "s30",
+        "s18"
+      ]
+    },
+    {
+      "label": "Entrée couple (mai 2026)",
+      "value": "Offerte le vendredi (10 € de conso minimum), 60 € le samedi avec 2 consos",
+      "confidence": "confirme",
+      "sources": [
+        "s30",
+        "s18",
+        "s3"
+      ]
+    },
+    {
+      "label": "Surface",
+      "value": "Environ 1 000 m², selon Sud Ouest (2024) et un annuaire",
+      "confidence": "confirme",
+      "sources": [
+        "s16",
+        "s20"
+      ]
+    },
+    {
+      "label": "Particularité",
+      "value": "Secret Room privatisable de 2 à 10 personnes, à partir de 400 €",
+      "confidence": "confirme",
+      "sources": [
+        "s5",
+        "s8"
+      ]
+    },
+    {
+      "label": "Note publique",
+      "value": "Aucune relevée au 16/10/2026 (0 avis sur PagesJaunes, page Facebook fermée sans compte)",
+      "confidence": "confirme",
+      "sources": [
+        "s21",
+        "s22"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "ultime-night-libertine-12-septembre-2026",
+      "title": "12 septembre 2026 : l'« Ultime Night Libertine », puis la discothèque",
+      "icon": "closed",
+      "summary": "Dernière soirée libertine le samedi 12 septembre 2026 ; le 19, le lieu rouvrait en discothèque, Le Quetzal Paradoxe, dont le site ne dit pas un mot du libertinage.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "La billetterie officielle s'arrête sur un intitulé sans ambiguïté : « l'Ultime Night Libertine », le samedi 12 septembre 2026, vendue 149 € au couple avec deux consommations, nuit d'hôtel et navette. Aucune soirée postérieure n'y figure, et le dernier visuel mis en ligne date du 29 juillet 2026.\n\nLe lundi 14 septembre, la page d'accueil de le-quetzal.com a été remplacée par une annonce : le lieu « se transforme » pour devenir « le temple de la nuit des Landes ». Elle bascule au bout de quinze secondes vers quetzal-paradoxe.fr, la discothèque ouverte le samedi 19 septembre, qui a programmé des soirées « open format » les 2, 9, 10 et 16 octobre.\n\nLa SAS Le Quetzal reste active : le 11 septembre, veille de la dernière soirée, elle a changé de président et nommé un directeur général, selon l'annonce publiée au BODACC le 15 septembre. Qu'elle exploite aussi le Paradoxe, dont le site ne nomme aucune société, est probable sans être établi."
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Le Quetzal Paradoxe n'est pas un club échangiste",
+          "body": "Même adresse, même numéro, autre métier : « la plus grande discothèque des landes », selon son site, ouvre le vendredi et le samedi, « Before Quetzal » de 21 h à 23 h puis soirée jusqu'à 5 h. Tenue « correcte et élégante » exigée, bouteille obligatoire en table VIP. Au 20 octobre 2026, le libertinage n'y est mentionné nulle part."
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Des billets encore en vente pour des soirées passées",
+          "body": "Au 20 octobre 2026, reservation-le-quetzal.com affiche toujours « en stock » les billets des soirées de janvier à septembre 2026, toutes passées. Le buffet y est vendu sans remboursement possible : ne réglez rien sur ce site."
+        }
+      ],
+      "sources": [
+        "s3",
+        "s4",
+        "s6",
+        "s9",
+        "s1",
+        "s10",
+        "s11",
+        "s12",
+        "s13",
+        "s14",
+        "s15",
+        "s33"
+      ],
+      "confidence": "confirme"
+    },
+    {
+      "id": "clubs-ouverts-octobre-2026",
+      "title": "Euphoria à Bénesse-Maremne et La Plage près de Pau : les clubs ouverts en octobre 2026",
+      "icon": "map",
+      "summary": "Vérifiés le 19 octobre 2026 : Euphoria, spa libertin de 250 m² à Bénesse-Maremne (jeudi au samedi), et La Plage, à Sauvagnon près de Pau, avec un agenda jusqu'au 31 octobre.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le Quetzal était le seul club libertin connu à Benquet, et aucune source consultée n'en signale un autre dans le Marsan. Les clubs ouverts les plus proches, vérifiés le 19 octobre 2026, sont dans le sud-ouest des Landes et dans le Béarn :"
+        },
+        {
+          "kind": "list",
+          "items": [
+            "**[Euphoria Spa, à Bénesse-Maremne](/euphoria-spa-libertin-landes)** : spa et club privé de 250 m², ouvert du jeudi au samedi, soirées affichées jusqu'à Halloween (samedi 31 octobre 2026) ; hommes seuls « sur sélection » le vendredi 30 octobre.",
+            "**[La Plage, à Sauvagnon](/plage-sauvagnon-club-libertin)**, près de Pau : club libertin avec spa, soirées à l'agenda jusqu'au 31 octobre 2026."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "La Villa Libertine, près d'Hossegor, encore citée par des annuaires, n'est pas une piste sûre : son nom de domaine a été réenregistré en octobre 2021 et le site qui y répond n'affiche rien de daté après juillet 2022. [Notre fiche sur la villa](/la-villa-libertine-hossegor) explique pourquoi nous la tenons pour probablement fermée.\n\nLe reste du département est sur [notre page des Landes](/departement/landes), la région sur [la liste des lieux de Nouvelle-Aquitaine](/region/nouvelle-aquitaine).\n\nUn couple du Marsan qui payait 60 € l'entrée du samedi au Quetzal a désormais de la route à faire jusqu'au sud des Landes ou au Béarn. Entre deux sorties, [repérer des couples landais sur Carré Libertin](aff:carre-libertin) ne lui coûtera rien : ce site né en 2007, qui revendique plus de 500 000 inscrits, offre l'accès complet aux couples comme aux femmes, contre trois photos de profil."
+        }
+      ],
+      "sources": [
+        "s26",
+        "s28",
+        "s27",
+        "s29",
+        "s30"
+      ]
+    },
+    {
+      "id": "grille-tarifs-mai-2026",
+      "title": "Couple offert le vendredi, homme seul à 70 € le samedi : la grille de mai 2026",
+      "icon": "euro",
+      "summary": "Mai 2026 : vendredi offert aux couples et aux femmes (10 € de conso), samedi 60 € le couple, 10 € la femme, 70 € l'homme seul ; les soirées à thème avaient leurs prix.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "La grille standard, reprise dans l'encadré des tarifs, vient de la page « Horaires & Tarifs » du site, archivée le 12 mai 2026 ; un annuaire la reproduit à l'identique. Le club ouvrait deux soirs, de 21 h à 4 h, en « mixte sur sélection ».\n\nLe vendredi, couples et femmes seules entraient sans payer, avec 10 € de consommation minimum ; l'homme seul payait 45 €. Le samedi, il payait 70 €, plus que le couple (60 €). Les 3e et 4e samedis du mois, couples et femmes seules avaient 50 % de remise.\n\nLes consommations offertes excluaient les cocktails ; le reste s'inscrivait sur un bracelet personnel, réglé au départ."
+        },
+        {
+          "kind": "text",
+          "body": "Ces prix ne valent plus : le Marsan n'a plus de club où se retrouver le vendredi. Pour [voir qui s'inscrit sur Gleese autour de Mont-de-Marsan](aff:gleese), nul besoin de carte bancaire : ce site français lancé fin 2024 vérifie chaque profil par téléphone. Notre test le juge encore loin du volume de Wyylde, surtout hors des grandes villes."
+        }
+      ],
+      "sources": [
+        "s30",
+        "s18"
+      ]
+    },
+    {
+      "id": "samedis-a-theme-2026",
+      "title": "Cinq samedis à thème en 2026, de Coachella à 50 € à l'Ultime Night à 149 € avec hôtel",
+      "icon": "ticket",
+      "summary": "Coachella le 17 janvier (couple 50 €, buffet compris), Saint-Valentin, Identités secrètes, Anniversaire du club, puis l'Ultime Night du 12 septembre : chaque soirée avait ses prix.",
+      "blocks": [
+        {
+          "kind": "table",
+          "caption": "Soirées à thème vendues sur reservation-le-quetzal.com (relevé du 19 octobre 2026). Un tiret : aucun billet de cette catégorie vendu en ligne.",
+          "headers": [
+            "Soirée (un samedi)",
+            "Couple",
+            "Femme seule",
+            "Homme seul"
+          ],
+          "rows": [
+            [
+              "Coachella, 17 janvier, buffet dès 19 h",
+              "50 € avec 2 consos",
+              "15 €",
+              "50 € avec 1 conso"
+            ],
+            [
+              "Saint-Valentin, 14 février, buffet et 2 coupes",
+              "80 €, ou 150 € avec hôtel",
+              "—",
+              "—"
+            ],
+            [
+              "Identités secrètes, 18 avril, masque obligatoire",
+              "115 € avec hôtel et navette",
+              "—",
+              "—"
+            ],
+            [
+              "Anniversaire du club, 6 juin",
+              "60 € avec 2 consos, ou 149 € avec hôtel",
+              "10 €",
+              "—"
+            ],
+            [
+              "Ultime Night Libertine, 12 septembre",
+              "149 € avec hôtel et navette",
+              "—",
+              "—"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "À Coachella, le couple entrait à 50 € buffet compris, contre 70 € pour la formule buffet de la grille standard. Les grands samedis, le buffet se réservait aussi à part : 30 € par couple hors entrée, pour les 25 premiers, de 19 h à 21 h.\n\nLe billet de Coachella portait la mention « By Lib Family » : un couple libertin qui tient un compte TikTok sous ce nom l'annonçait dès le 18 novembre 2025 comme sa « première soirée de 2026 au Quetzal », avec une DJ.\n\nCoachella est la seule soirée de 2026 pour laquelle la billetterie vendait un billet d'homme seul ; pour les autres, elle ne proposait que des entrées couple, plus une entrée femme seule le 6 juin."
+        }
+      ],
+      "sources": [
+        "s3",
+        "s6",
+        "s30",
+        "s35"
+      ]
+    },
+    {
+      "id": "anciennes-discotheques-benquet",
+      "title": "Byblos, Rétro, Métropolys : un club bâti sur des discothèques éteintes au milieu des années 2010",
+      "icon": "history",
+      "summary": "Selon Sud Ouest (29 février 2024), un couple girondin a racheté deux discothèques de Benquet fermées au milieu des années 2010 pour en faire un club d'environ 1 000 m².",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le club a pris la place de discothèques qui ont animé Benquet pendant des décennies avant de s'éteindre au milieu des années 2010 : Sud Ouest cite le Byblos, l'Atmosphère, le Forum, le Rétro et le Métropolys. Les deux bâtiments sont un peu en retrait de la 2 × 2 voies qui relie Mont-de-Marsan à Saint-Sever.\n\nDans son article du 29 février 2024, le journal annonçait leur rachat par un couple girondin et un chantier en cours depuis près de six mois. Le projet, d'environ 1 000 m², devait ouvrir en septembre 2024 et compter, selon le titre, parmi « les plus grands clubs libertins de France ».\n\nLe 401 chemin de Triquet, que les annuaires donnent encore au Quetzal, était le siège d'une SAS Metropolys, du nom de l'une de ces boîtes : créée en 2016, liquidée en 2019, elle a été radiée en octobre 2023. Le registre, lui, place Le Quetzal au 399."
+        },
+        {
+          "kind": "callout",
+          "tone": "info",
+          "title": "Homonyme",
+          "body": "Le « Club Quetzal » inscrit au registre à Mont-de-Marsan est une association créée en 1998, sans lien avec le club libertin."
+        }
+      ],
+      "sources": [
+        "s16",
+        "s34",
+        "s14",
+        "s24"
+      ]
+    },
+    {
+      "id": "ouverture-juin-2025-chronologie",
+      "title": "Promis pour septembre 2024, ouvert vers juin 2025 : quinze mois d'activité",
+      "icon": "calendar",
+      "summary": "En avril 2025, le site annonçait encore une ouverture « prochainement » ; l'activité démarre fin mai 2025 et le club fête son premier anniversaire le 6 juin 2026.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "L'ouverture, annoncée pour septembre 2024, a glissé. Le 5 avril 2025, le site affichait encore « Le Quetzal ouvre prochainement ses portes ». Le registre fait débuter l'activité de l'établissement le 28 mai 2025, les conditions de vente s'appliquent au 1er juin, et le club fêtait son premier anniversaire le samedi 6 juin 2026.\n\nIl se présentait comme « club libertin à Mont-de-Marsan ». La société exploitante, la SAS Le Quetzal, a été immatriculée en août 2022 à Saint-Jean-d'Illac (Gironde), au capital de 1 000 €."
+        },
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "1er août 2022",
+              "text": "Immatriculation de la SAS Le Quetzal à Saint-Jean-d'Illac (33), sans activité."
+            },
+            {
+              "date": "28 avril 2023",
+              "text": "Mise en activité de la société ; établissement créé chemin de Triquet."
+            },
+            {
+              "date": "29 février 2024",
+              "text": "Sud Ouest annonce l'ouverture pour septembre 2024."
+            },
+            {
+              "date": "27 novembre 2024",
+              "text": "Activité déclarée au registre : piste de danse, discothèque, restaurant, bar, sauna, jacuzzi, salle de sport."
+            },
+            {
+              "date": "5 avril 2025",
+              "text": "Le site annonce une ouverture « prochainement »."
+            },
+            {
+              "date": "28 mai 2025",
+              "text": "Début d'activité de l'établissement de Benquet ; conditions de vente en vigueur au 1er juin."
+            },
+            {
+              "date": "6 juin 2026",
+              "text": "Soirée « Anniversaire 1 an du club »."
+            },
+            {
+              "date": "11 septembre 2026",
+              "text": "La SAS change de président et nomme un directeur général (annonce au BODACC le 15 septembre)."
+            },
+            {
+              "date": "12 septembre 2026",
+              "text": "« L'Ultime Night Libertine », dernière soirée en vente."
+            },
+            {
+              "date": "19 septembre 2026",
+              "text": "Ouverture du Quetzal Paradoxe."
+            }
+          ]
+        }
+      ],
+      "sources": [
+        "s16",
+        "s32",
+        "s31",
+        "s2",
+        "s8",
+        "s14",
+        "s15",
+        "s30",
+        "s3",
+        "s33",
+        "s11"
+      ]
+    },
+    {
+      "id": "secret-room-400-euros",
+      "title": "Une Secret Room à 400 € et des soirées vendues avec nuit d'hôtel",
+      "icon": "lock",
+      "summary": "Salle privatisable de 2 à 10 personnes, vue sur le club sans être vu, accès par un parking privé : 400 € jusqu'à quatre. Chaque soirée de 2026 existait aussi avec hôtel.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Les sources officielles documentent moins les espaces du Quetzal que sa façon de vendre la nuit : chacune des cinq soirées de 2026 existait aussi en forfait avec nuit d'hôtel et petit-déjeuner, parfois avec départ tardif. Le samedi, une navette gratuite reliait le club aux hôtels partenaires, jamais nommés.\n\nLa **Secret Room**, imaginée selon le club « à la demande de plusieurs amis proches », se privatisait de 2 à 10 personnes dès 21 h. Elle offrait la vue sur le centre du club sans être vu, un accès discret par un parking privé, un service dédié et du champagne offert.\n\nOn pouvait en sortir pour rejoindre les autres espaces, masqué ou non. Prix : 400 € jusqu'à quatre personnes, 100 € par personne au-delà."
+        }
+      ],
+      "sources": [
+        "s3",
+        "s4",
+        "s5",
+        "s8",
+        "s30"
+      ]
+    },
+    {
+      "id": "espaces-bdsm-sauna-annuaires",
+      "title": "Sauna et jacuzzi au registre, BDSM et glory hole dans les seuls annuaires",
+      "icon": "spa",
+      "summary": "Le registre déclare piste de danse, bar, sauna et jacuzzi ; espace BDSM, salle de massage et glory hole ne sont décrits que par des annuaires, sans source officielle.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "En novembre 2024, la société a déclaré au registre l'exploitation d'une piste de danse, d'un bar, d'un sauna et d'un jacuzzi, avec restaurant et salle de sport. Hors de la Secret Room, c'est la seule description des lieux qui ne vienne pas d'un tiers : la page « Le Club » du site n'a aucune capture dans les archives du web."
+        },
+        {
+          "kind": "text",
+          "body": "Les annuaires consultés en octobre 2026 en disent plus, sans source officielle pour les confirmer :\n\n- un espace BDSM et une salle de massage, cités par trois annuaires ;\n- un glory hole, cité par un seul ;\n- des coins câlins réservés aux couples et aux femmes seules sur présentation d'un bracelet, selon un annuaire ;\n- « plus de 1000 m² » selon un autre, ce qui rejoint la surface annoncée par Sud Ouest en 2024."
+        }
+      ],
+      "sources": [
+        "s15",
+        "s18",
+        "s20",
+        "s36",
+        "s16"
+      ]
+    }
+  ],
+  "equipements": [
+    "Bar",
+    "Piste de danse",
+    "Sauna",
+    "Jacuzzi",
+    "Secret Room privatisable",
+    "Parking privé",
+    "Navette gratuite le samedi vers les hôtels partenaires"
+  ],
+  "officialLinks": [
+    {
+      "label": "Ancien site du club (page de transition depuis le 14/09/2026)",
+      "url": "https://www.le-quetzal.com/",
+      "kind": "site"
+    },
+    {
+      "label": "Ancienne billetterie (dernière soirée : 12/09/2026)",
+      "url": "https://reservation-le-quetzal.com/",
+      "kind": "autre"
+    },
+    {
+      "label": "Le Quetzal Paradoxe, la discothèque qui occupe le lieu",
+      "url": "https://www.quetzal-paradoxe.fr/fr/",
+      "kind": "autre"
+    }
+  ],
+  "corrections": {
+    "adresse": "399 Chemin de Triquet",
+    "site_web": "https://www.le-quetzal.com/",
+    "sources": [
+      "s14",
+      "s10",
+      "s1",
+      "s7"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Benquet a-t-il encore un club échangiste ?",
+      "answer": "Non. Le Quetzal, seul lieu connu, a tenu sa dernière soirée libertine le 12 septembre 2026 ; le bâtiment abrite depuis une discothèque. Les clubs ouverts les plus proches, vérifiés le 19 octobre 2026, sont Euphoria, à Bénesse-Maremne, et La Plage, à Sauvagnon."
+    },
+    {
+      "question": "Quels étaient les tarifs et les horaires du Quetzal ?",
+      "answer": "Selon la grille du site archivée en mai 2026 : ouvert le vendredi et le samedi de 21 h à 4 h. Le vendredi, entrée offerte aux couples et aux femmes seules (10 € de consommation minimum), 45 € l'homme seul ; le samedi, 60 € le couple, 70 € avec buffet, 10 € la femme seule, 70 € l'homme seul. Ces prix ne s'appliquent plus."
+    },
+    {
+      "question": "Le Quetzal Paradoxe organise-t-il des soirées libertines ?",
+      "answer": "Rien ne l'indique : son site décrit une discothèque (années 80-90, électro, latino, disco) ouverte de 23 h à 5 h. À l'époque du club, le site du Quetzal renvoyait vers sa page sur Wyylde (archive d'octobre 2025), que nous n'avons pas consultée faute de compte. Pour [guetter une soirée échangiste près de Mont-de-Marsan](aff:wyylde), l'agenda de Wyylde, l'ex-Netéchangisme, se consulte avec un compte gratuit."
+    },
+    {
+      "question": "Que disent les avis sur Le Quetzal ?",
+      "answer": "Aucune note exploitable au 16 octobre 2026 : zéro avis sur PagesJaunes, page Facebook fermée sans compte, aucune note Google trouvée pour l'adresse de Benquet. Les résultats « Le Quetzal » qui remontent concernent des restaurants et un hôtel homonymes, ailleurs en France."
+    },
+    {
+      "question": "Le Quetzal était-il à Benquet ou à Mont-de-Marsan ?",
+      "answer": "À Benquet, au 399 chemin de Triquet selon le registre (401 selon des annuaires), juste au sud de Mont-de-Marsan, en retrait de la 2 × 2 voies vers Saint-Sever. Le club affichait Mont-de-Marsan dans le titre de sa billetterie."
+    }
+  ],
+  "unverified": [
+    "Le jour exact d'ouverture du club, situé entre fin mai et début juin 2025.",
+    "L'agencement des espaces après l'ouverture : espace BDSM, glory hole, salle de massage et coins câlins ne sont décrits que par des annuaires, et la surface exacte n'est pas publiée par le club.",
+    "Le nom des hôtels partenaires et le contenu de la page Wyylde du club.",
+    "La société qui exploite le Quetzal Paradoxe, que son site ne nomme pas."
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Site officiel le-quetzal.com, page d'accueil (modifiée le 14/09/2026)",
+      "url": "https://www.le-quetzal.com/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s2",
+      "label": "Billetterie officielle reservation-le-quetzal.com, page d'accueil",
+      "url": "https://reservation-le-quetzal.com/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s3",
+      "label": "Billetterie officielle, catalogue des soirées et tarifs 2026",
+      "url": "https://reservation-le-quetzal.com/wp-json/wc/store/v1/products?per_page=50",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s4",
+      "label": "Billetterie officielle, « Entrée Couple + Hôtel Ultime Night Libertine »",
+      "url": "https://reservation-le-quetzal.com/produit/entree-couple-hotel-ultime-night-libertine/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s5",
+      "label": "Billetterie officielle, « Accès à la Secret Room »",
+      "url": "https://reservation-le-quetzal.com/produit/secret-room-vip/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s6",
+      "label": "Billetterie officielle, « Repas buffet »",
+      "url": "https://reservation-le-quetzal.com/produit/repas-buffet/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s7",
+      "label": "Billetterie officielle, mentions légales",
+      "url": "https://reservation-le-quetzal.com/mentions-legales-et-politique-de-confidentialite/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s8",
+      "label": "Billetterie officielle, conditions générales de vente (en vigueur au 01/06/2025)",
+      "url": "https://reservation-le-quetzal.com/conditions-generales-de-vente/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s9",
+      "label": "Billetterie officielle, dates de publication des pages et des visuels",
+      "url": "https://reservation-le-quetzal.com/wp-json/wp/v2/media?per_page=15",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s10",
+      "label": "Le Quetzal Paradoxe, pages « Le Club » et « Venir au Quetzal Paradoxe »",
+      "url": "https://www.quetzal-paradoxe.fr/fr/le-club/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s11",
+      "label": "Le Quetzal Paradoxe, « Soirées passées »",
+      "url": "https://www.quetzal-paradoxe.fr/fr/soirees/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s12",
+      "label": "Le Quetzal Paradoxe, carte des boissons et réservation VIP",
+      "url": "https://www.quetzal-paradoxe.fr/fr/carte-boissons/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s13",
+      "label": "Le Quetzal Paradoxe, mentions légales",
+      "url": "https://www.quetzal-paradoxe.fr/fr/mentions-legales/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s14",
+      "label": "Annuaire des entreprises, SAS LE QUETZAL (SIREN 917 993 156)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/917993156",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s15",
+      "label": "BODACC, annonces de la SAS LE QUETZAL (2022-2026), dont le changement de direction publié le 15/09/2026",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:B202601762386",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s16",
+      "label": "Sud Ouest, « Le rêve d'une vie » : un couple girondin va ouvrir dans les Landes un des plus grands clubs libertins de France (29/02/2024 ; chapô et début de l'article, en accès libre, via la Wayback Machine)",
+      "url": "https://web.archive.org/web/20240301144627/https://www.sudouest.fr/landes/mont-de-marsan/le-reve-d-une-vie-un-couple-girondin-va-ouvrir-dans-les-landes-un-des-plus-grands-clubs-libertins-de-france-18770708.php",
+      "type": "presse",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s18",
+      "label": "saunaclublebali.fr, fiche « Le Quetzal » (mars 2026)",
+      "url": "https://www.saunaclublebali.fr/listing/le-quetzal-benquet/",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s20",
+      "label": "Le Club Advisor, fiche « Le Quetzal »",
+      "url": "https://www.leclub-advisor.com/club/le-quetzal",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s21",
+      "label": "PagesJaunes, « LE QUETZAL » à Benquet",
+      "url": "https://www.pagesjaunes.fr/pros/62870743",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s22",
+      "label": "Facebook, page « Le Quetzal | Benquet » (titre seul, sans connexion)",
+      "url": "https://www.facebook.com/p/Le-Quetzal-61575135789534/",
+      "type": "reseau_social",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s24",
+      "label": "Annuaire des entreprises, association CLUB QUETZAL (homonyme)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/481927523",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s26",
+      "label": "Euphoria Spa, site officiel (agenda d'octobre 2026)",
+      "url": "https://www.euphoriaspa.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s27",
+      "label": "Site au nom de La Villa Libertine (sans date postérieure à juillet 2022)",
+      "url": "https://www.lavillalibertine.fr/",
+      "type": "autre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s28",
+      "label": "La Plage (Sauvagnon), site officiel (agenda d'octobre 2026)",
+      "url": "https://www.la-plage.net/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s29",
+      "label": "Registre AFNIC (RDAP), domaine lavillalibertine.fr réenregistré le 19/10/2021",
+      "url": "https://rdap.nic.fr/domain/lavillalibertine.fr",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s30",
+      "label": "Site officiel le-quetzal.com, page « Horaires & Tarifs », archive du 12/05/2026",
+      "url": "https://web.archive.org/web/20260512105958/https://www.le-quetzal.com/fr/horaires-tarifs/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s31",
+      "label": "Site officiel le-quetzal.com, page d'accueil, archive du 02/10/2025 (liens vers Wyylde, Facebook, Instagram)",
+      "url": "https://web.archive.org/web/20251002071117/https://www.le-quetzal.com/fr/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s32",
+      "label": "Site officiel le-quetzal.com, page « ouvre prochainement ses portes », archive du 05/04/2025",
+      "url": "https://web.archive.org/web/20250405090008/http://le-quetzal.com/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s33",
+      "label": "Societe.com, fiche LE QUETZAL : chronologie des actes (changement de direction du 11/09/2026)",
+      "url": "https://www.societe.com/societe/le-quetzal-917993156.html",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s34",
+      "label": "Annuaire des entreprises et BODACC, SAS METROPOLYS (SIREN 819 965 849), 401 chemin de Triquet, radiée en 2023",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/819965849",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s35",
+      "label": "TikTok, compte « LIB-FAMILY » : annonce du 18/11/2025 de la soirée Coachella au Quetzal (lue en extrait de recherche)",
+      "url": "https://www.tiktok.com/@lib_family",
+      "type": "reseau_social",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s36",
+      "label": "Odyssée Club, guide des clubs libertins de Nouvelle-Aquitaine (août 2026)",
+      "url": "https://odyssee-club.com/clubs-libertins-bordeaux/",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    }
+  ],
+  "glance": [
+    {
+      "icon": "closed",
+      "label": "Club libertin fermé",
+      "value": "Dernière soirée le 12 septembre 2026"
+    },
+    {
+      "icon": "building",
+      "label": "Depuis le 19/09/2026",
+      "value": "Le Quetzal Paradoxe, discothèque"
+    },
+    {
+      "icon": "history",
+      "label": "En activité",
+      "value": "De juin 2025 environ à septembre 2026"
+    },
+    {
+      "icon": "euro",
+      "label": "Samedi (grille mai 2026)",
+      "value": "Couple 60 € · femme 10 € · homme 70 €"
+    },
+    {
+      "icon": "ruler",
+      "label": "Surface",
+      "value": "Environ 1 000 m² annoncés (Sud Ouest, 2024)"
+    },
+    {
+      "icon": "heart",
+      "label": "Ouverts en octobre 2026",
+      "value": "Euphoria (Bénesse-Maremne) et La Plage (64)"
+    }
+  ],
+  "audience": [
+    {
+      "who": "couples",
+      "status": "oui",
+      "detail": "Vendredi offert (10 € de conso minimum), samedi 60 € : grille de mai 2026, plus appliquée",
+      "price": "60 €"
+    },
+    {
+      "who": "femmes",
+      "status": "oui",
+      "detail": "Offerte le vendredi, 10 € le samedi, -50 % les 3e et 4e samedis (mai 2026)",
+      "price": "10 €"
+    },
+    {
+      "who": "hommes",
+      "status": "selon",
+      "detail": "Soirées « mixte sur sélection » : 45 € le vendredi, 70 € le samedi, 1 conso (mai 2026)",
+      "price": "45 à 70 €"
+    }
+  ],
+  "highlights": [
+    "Le Quetzal n'organise plus de soirées libertines : la dernière, « l'Ultime Night Libertine », a eu lieu le samedi 12 septembre 2026.",
+    "Au 399 chemin de Triquet, Le Quetzal Paradoxe est une discothèque (vendredi et samedi, 23 h-5 h) dont le site ne parle pas de libertinage.",
+    "Le 05 47 87 24 79 et le-quetzal.com mènent à la discothèque ; les annuaires qui donnent encore le club ouvert en octobre 2026 sont périmés.",
+    "Au 20 octobre 2026, la billetterie en ligne affiche encore « en stock » des billets de soirées passées : n'y achetez rien.",
+    "Clubs ouverts vérifiés le 19 octobre 2026 : Euphoria à Bénesse-Maremne (jeudi au samedi) et La Plage à Sauvagnon, près de Pau."
+  ],
+  "horaires": {
+    "rows": {
+      "Vendredi": "21 h-4 h, mixte sur sélection",
+      "Samedi": "21 h-4 h, soirée à thème, mixte sur sélection (buffet dès 19 h certains samedis)",
+      "Dimanche au jeudi": "Fermé"
+    },
+    "note": "Horaires de la page officielle « Horaires & Tarifs » archivée le 12 mai 2026, conservés pour mémoire : le club libertin a fermé après le 12 septembre 2026. Les conditions de vente de 2025 indiquaient 22 h-5 h pour la Secret Room.",
+    "confidence": "confirme",
+    "sources": [
+      "s30",
+      "s18",
+      "s6",
+      "s8"
+    ]
+  },
+  "tarifs": {
+    "rows": {
+      "Couple, vendredi": "Entrée offerte, 10 € de consommation minimum",
+      "Femme seule, vendredi": "Entrée offerte, 10 € de consommation minimum",
+      "Homme seul, vendredi": "45 € avec 1 consommation",
+      "Couple, samedi": "60 € avec 2 consommations (70 € avec buffet dînatoire, sur réservation)",
+      "Femme seule, samedi": "10 €",
+      "Homme seul, samedi": "70 € avec 1 consommation"
+    },
+    "note": "Grille officielle archivée le 12 mai 2026 : -50 % pour les couples et femmes seules les 3e et 4e samedis du mois, consommations offertes hors cocktails, paiement en espèces ou par carte. Plus appliquée depuis la fermeture ; les soirées à thème avaient leurs propres prix.",
+    "confidence": "confirme",
+    "sources": [
+      "s30",
+      "s18"
+    ]
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "slug": "anaconda-branges",
+  "clubId": "15568",
+  "researchedAt": "2026-10-19",
+  "display": { "nom": "Anaconda", "ville": "Branges" },
+  "status": {
+    "value": "fermeture_probable",
+    "summary": "Les pages de libertin71.fr, le site du sauna, renvoient une erreur dès la fin d'août 2018, un an après l'ouverture, et le domaine n'est plus enregistré en octobre 2026. Aucun guide de Saône-et-Loire mis à jour en 2026 ne cite l'Anaconda. Seule réserve : l'entreprise individuelle déclarée en 2017 n'a publié aucune cessation et reste active au répertoire Sirene.",
+    "sources": ["s23", "s3", "s7", "s8", "s24", "s1", "s2"]
+  },
+  "seo": {
+    "title": "Anaconda à Branges : sauna libertin sans activité depuis 2018",
+    "metaDescription": "Mardi gay et bi, samedi à 50 € le couple : le programme 2018 du sauna Anaconda, rue des Cours Béthy, dont le site est en erreur depuis l'été 2018.",
+    "subtitle": "Sauna libertin ouvert en 2017 rue des Cours Béthy, à Branges (71), sans trace d'activité depuis l'été 2018",
+    "targetQueries": ["club libertin branges", "anaconda branges", "anaconda club branges", "sauna libertin louhans"]
+  },
+  "lead": "Ouvert le 30 août 2017 au 155 rue des Cours Béthy, à 6,5 km à vol d'oiseau du centre de Louhans, l'Anaconda se présentait comme un club libertin équipé d'un sauna, d'un jacuzzi et d'une salle de soumission. En 2018, son site annonçait des après-midi mixtes à 20 €, un mardi gay et bi et une soirée du samedi à 50 € le couple. Ses pages sont en erreur depuis la fin d'août 2018 et aucune activité n'a été repérée depuis, même si l'entreprise reste active au registre.",
+  "glance": [
+    { "icon": "closed", "label": "Fermeture probable", "value": "Aucune trace d'activité après l'été 2018" },
+    { "icon": "history", "label": "Ouverture déclarée", "value": "30 août 2017" },
+    { "icon": "globe", "label": "Site libertin71.fr", "value": "En erreur depuis fin août 2018" },
+    { "icon": "euro", "label": "Samedi soir (2018)", "value": "Couple 50 € · homme 50 € · femme gratuit", "confidence": "source_unique" },
+    { "icon": "spa", "label": "Équipements (2018)", "value": "Sauna, jacuzzi, bar, salle de soumission", "confidence": "source_unique" },
+    { "icon": "heart", "label": "Lieu actif à Branges", "value": "Le Diderot, samedi 22 h 30 - 4 h 30" }
+  ],
+  "audience": [
+    { "who": "couples", "status": "oui", "detail": "En 2018 : après-midi mixtes, samedi soir et une soirée couples mensuelle avec buffet", "price": "20 à 80 €" },
+    { "who": "femmes", "status": "oui", "detail": "En 2018 : gratuit le samedi soir ; un après-midi réservé aux femmes le 14 mars 2018", "price": "0 à 20 €" },
+    { "who": "hommes", "status": "selon", "detail": "En 2018 : après-midi et samedi ; deux au plus à la soirée couples, sans suivre les couples", "price": "20 à 80 €" }
+  ],
+  "highlights": [
+    "Ne vous fiez pas aux annuaires qui le listent encore : le site du sauna est en erreur depuis fin août 2018 et son domaine n'est plus enregistré en octobre 2026.",
+    "L'entreprise reste inscrite comme active au registre : c'est la seule raison pour laquelle nous ne le disons pas fermé avec certitude.",
+    "Les horaires et tarifs de cette page datent de 2018 : ils racontent le passé du lieu, pas un prix actuel.",
+    "L'ouverture de 17 h à 4 h en semaine qu'un site d'avis d'employeurs prête à l'« Anaconda Club » contredit son programme de 2018 : ne vous y fiez pas.",
+    "À Branges, Le Diderot, route des Pies, ouvre le samedi de 22 h 30 à 4 h 30 et affiche une soirée à thème datée pour chaque samedi d'octobre 2026."
+  ],
+  "keyFacts": [
+    { "label": "Enseigne déclarée", "value": "Anaconda Club, entreprise individuelle (SIREN 788 269 389)", "confidence": "confirme", "sources": ["s1", "s2"] },
+    { "label": "Activité déclarée", "value": "« Sauna jacuzzi - hammam libertin »", "confidence": "confirme", "sources": ["s1", "s22"] },
+    { "label": "Début d'activité", "value": "30 août 2017", "confidence": "confirme", "sources": ["s1", "s2"] },
+    { "label": "Adresse", "value": "155 rue des Cours Béthy, 71500 Branges", "confidence": "confirme", "sources": ["s1", "s2", "s6", "s19"] },
+    { "label": "Site officiel", "value": "libertin71.fr, en erreur depuis fin août 2018, domaine libre en octobre 2026", "confidence": "confirme", "sources": ["s23", "s3"] },
+    { "label": "Situation au registre", "value": "Active, aucune radiation publiée", "confidence": "confirme", "sources": ["s1", "s2"] },
+    { "label": "Équipements annoncés en 2018", "value": "Sauna, jacuzzi, bar, espace détente, salle de soumission ; hammam promis", "confidence": "source_unique", "sources": ["s19"] },
+    { "label": "Samedi soir en 2018", "value": "Dès 21 h ; couple ou homme seul 50 €, femme seule gratuite", "confidence": "source_unique", "sources": ["s18", "s20"] }
+  ],
+  "sections": [
+    {
+      "id": "mardi-gay-samedi-50-euros-2018",
+      "title": "Mardi gay et bi, samedi à 50 € le couple : des après-midi à 20 € dès 14 h en 2018",
+      "icon": "calendar",
+      "summary": "En 2018, le site annonçait des après-midi à 20 € dès 14 h quatre jours par semaine, dont un mardi gay et bi, le mercredi fermé et une soirée mixte le samedi dès 21 h.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le site libertin71.fr, monté avec l'outil 123siteweb, n'a laissé que quelques pages dans les archives du web, entre mars et juillet 2018. Elles décrivent d'abord un sauna d'après-midi : ouverture à 14 h le lundi, le jeudi et le vendredi en formule mixte, pour 20 €, et le mardi en journée gay, au même prix. Le mercredi était le jour de fermeture."
+        },
+        {
+          "kind": "text",
+          "body": "Le mardi a changé d'étiquette en quelques mois : en mars 2018, la page des journées le présentait comme gay et travesti, en acceptant « toute personne » ; en juillet, la page tarifs parlait d'une journée « Gay & bis » ouverte aux hommes ou aux femmes."
+        },
+        {
+          "kind": "text",
+          "body": "Le samedi, la soirée commençait à 21 h : 50 € pour un couple comme pour un homme seul, entrée gratuite pour une femme seule, une coupe de champagne offerte à chacun. Une fois par mois, une soirée réservée aux couples, avec buffet et sur réservation, coûtait 80 € ; deux hommes seuls au plus y entraient, au même prix."
+        },
+        {
+          "kind": "text",
+          "body": "La page « femme seule » annonçait un mercredi 14 mars, sans doute en 2018 (le 14 mars tombait un mercredi cette année-là), réservé aux femmes dès 14 h, à 20 € sur réservation par SMS. La page tarifs interdisait aux hommes seuls de suivre les couples et leur demandait d'attendre d'être invités. Ni le dimanche ni l'heure de fermeture n'apparaissent dans les pages archivées."
+        }
+      ],
+      "sources": ["s18", "s20", "s21", "s22"]
+    },
+    {
+      "id": "sauna-jacuzzi-salle-de-soumission",
+      "title": "Sauna, jacuzzi et salle de soumission : un hammam encore promis en juillet 2018",
+      "icon": "spa",
+      "summary": "La présentation de juillet 2018 listait sauna, jacuzzi, bar, espace détente et salle de soumission ; le hammam déclaré au registre dès 2017 n'était qu'annoncé pour la fin d'année.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "En juillet 2018, la page de présentation énumérait un sauna, un jacuzzi, un bar, un espace détente, une « salle de soumission », des vestiaires, une douche et des toilettes. Le hammam, pourtant inscrit dans l'activité déclarée au registre en 2017, devait « compléter l'ensemble » en fin d'année : nous ne savons pas s'il a été installé. Aucune surface ni capacité n'a jamais été publiée."
+        },
+        {
+          "kind": "list",
+          "title": "Les règles affichées sur le site en 2018",
+          "items": [
+            "Entrée refusée aux mineurs et aux personnes ivres.",
+            "Armes, stupéfiants, alcool apporté de l'extérieur et prostitution interdits.",
+            "Paiement par carte bancaire ou en espèces, pas de chèque ; la soirée couples avec buffet se réglait d'avance.",
+            "Respect, politesse et courtoisie demandés, avec une mise en garde contre ceux qui ne respectent pas l'intimité des autres."
+          ]
+        }
+      ],
+      "sources": ["s19", "s18", "s1"]
+    },
+    {
+      "id": "libertin71-erreur-aout-2018",
+      "title": "En erreur dès la fin d'août 2018, libertin71.fr n'est plus enregistré en 2026",
+      "icon": "closed",
+      "summary": "Les pages du site passent en erreur entre fin juillet et fin août 2018 ; en octobre 2026, le domaine est libre et les guides du département mis à jour en 2026 ignorent l'Anaconda.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Les archives du web montrent les pages de **libertin71.fr** en ligne jusqu'au 31 juillet 2018, puis en erreur à partir du 23 août 2018 ; la dernière capture, en octobre 2018, est toujours une erreur. Le 16 octobre 2026, le registre des noms de domaine en .fr ne connaît plus ce nom, sans que l'on sache depuis quand il est libre."
+        },
+        {
+          "kind": "text",
+          "body": "Second indice, faible isolément mais concordant : aucun des guides de Saône-et-Loire consultés en octobre 2026, Petit Futé compris, ne nomme l'Anaconda, alors que tous sauf PagesJaunes citent Le Diderot. Parmi les guides libertins, seul sauna-club-libertin.com le garde, dans une fiche sans date qui renvoie encore au site disparu."
+        },
+        {
+          "kind": "table",
+          "caption": "Guides et annuaires consultés les 16 et 20 octobre 2026",
+          "headers": ["Source", "Mise à jour affichée", "Anaconda", "Le Diderot"],
+          "rows": [
+            ["minuitlibertin.com, Saône-et-Loire", "3 août 2026", "absent", "cité"],
+            ["saunaclublebali.fr, Saône-et-Loire", "4 avril 2026", "absent", "cité"],
+            ["Petit Futé, Branges et alentours", "« en 2026 »", "absent", "cité"],
+            ["lieuxcoquins.fr, Saône-et-Loire", "aucune", "absent", "cité"],
+            ["club-libertin-france.fr, Chalon-sur-Saône", "aucune (« © 2026 »)", "absent", "cité"],
+            ["PagesJaunes, clubs libertins à Branges", "aucune", "absent", "absent"],
+            ["sauna-club-libertin.com, Saône-et-Loire", "aucune", "fiche non datée", "cité"]
+          ]
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Lundi au vendredi 17 h-4 h : des horaires venus d'ailleurs",
+          "body": "Un site d'avis sur les employeurs prête à l'« Anaconda Club » une ouverture du lundi au vendredi de 17 h à 4 h et le samedi de 20 h à 4 h. Ces horaires contredisent le programme publié par le sauna en 2018, et la même fiche renvoie vers un domaine suisse en .ch : ce n'est pas une preuve d'activité."
+        },
+        {
+          "kind": "text",
+          "body": "Au 20 octobre 2026, ni page Facebook, ni avis de client, ni article du Journal de Saône-et-Loire ou de L'Indépendant du Louhannais n'est apparu. Une reprise discrète se repérerait d'abord dans des avis datés ou parmi [les dates que les clubs bourguignons publient sur Wyylde](aff:wyylde), agenda lisible avec un compte gratuit."
+        }
+      ],
+      "sources": ["s23", "s3", "s4", "s5", "s7", "s8", "s24", "s25", "s9", "s10", "s11", "s26", "s18", "s20"]
+    },
+    {
+      "id": "anaconda-club-au-registre",
+      "title": "Immatriculé le 28 août 2017, jamais radié : l'Anaconda Club au registre",
+      "icon": "history",
+      "summary": "Immatriculé à Chalon-sur-Saône fin août 2017, l'Anaconda Club n'a publié ni modification ni radiation ; Sirene le dit actif, sans salarié, en décembre 2025.",
+      "blocks": [
+        {
+          "kind": "timeline",
+          "items": [
+            { "date": "28 et 30 août 2017", "text": "Immatriculation au registre du commerce de Chalon-sur-Saône de l'entreprise individuelle « Anaconda Club », puis début d'activité." },
+            { "date": "7 septembre 2017", "text": "Avis de création au BODACC, seule annonce publiée pour elle : ni modification ni radiation depuis." },
+            { "date": "Mars à juillet 2018", "text": "Le site libertin71.fr est en ligne : programme, tarifs, présentation des lieux." },
+            { "date": "23 août 2018", "text": "Première capture du site en erreur ; aucune capture valide ensuite." },
+            { "date": "Décembre 2025", "text": "Dernière mise à jour Sirene : entreprise active, aucun salarié déclaré." },
+            { "date": "1er septembre 2026", "text": "Mise à jour au registre national des entreprises, toujours sans cessation." }
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "C'est cette inscription qui nous retient de classer l'Anaconda comme fermé. Elle ne prouve pas que le sauna reçoit encore du public : une entreprise individuelle reste souvent inscrite après la fin de son activité. Les dates de 1993 et de 2012 visibles au répertoire Sirene concernent probablement l'historique administratif du titulaire, pas le sauna, que le BODACC présente comme une création."
+        }
+      ],
+      "sources": ["s1", "s2", "s22", "s23"]
+    },
+    {
+      "id": "le-diderot-route-des-pies",
+      "title": "Le Diderot, 1325 route des Pies : samedis à thème et couple à 30 €",
+      "icon": "heart",
+      "summary": "À 4,2 km à vol d'oiseau, Le Diderot ouvre le samedi de 22 h 30 à 4 h 30 et annonce cinq soirées à thème en octobre 2026 ; entrée 30 € le couple, 50 € l'homme seul.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "À Branges, l'adresse qui donne des preuves de vie en 2026 est [Le Diderot, route des Pies](/le-diderot-branges). Son site annonce, dans des billets datés du 2 octobre 2026, une soirée à thème chaque samedi d'octobre, de 22 h 30 à 4 h 30, pour les couples, les femmes seules et les hommes seuls."
+        },
+        {
+          "kind": "text",
+          "body": "Sa page tarifs affiche le samedi 30 € pour un couple avec quatre consommations, 50 € pour un homme seul avec trois, et l'entrée gratuite pour une femme seule. Par rapport au samedi de l'Anaconda en 2018, le couple paie moins et l'homme seul autant. Les deux lieux ne se confondent pas : le registre rattache l'adresse du Diderot à une association, celle de l'Anaconda à une entreprise individuelle."
+        },
+        {
+          "kind": "text",
+          "body": "Le Diderot n'ouvre que le samedi soir, alors que l'Anaconda recevait quatre après-midi par semaine. Pour échanger les autres jours, Gleese permet de [faire connaissance en semaine avec des libertins bressans](aff:gleese) : profils vérifiés par téléphone, inscription sans carte bancaire. Lancé fin 2024, le réseau n'a peut-être encore personne autour de Louhans."
+        },
+        {
+          "kind": "text",
+          "body": "Côté saunas, les guides de 2026 renvoient à Chalon-sur-Saône : Euphoria Sauna, 4 rue des Cornillons, présenté comme gay et mixte et ouvert de 12 h à 19 h selon un relevé d'août 2025, et Le Chaperon Rouge. Ni l'un ni l'autre n'a été vérifié pour cette fiche."
+        }
+      ],
+      "sources": ["s12", "s17", "s13", "s14", "s15", "s7", "s8", "s6", "s18"]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Lundi, jeudi, vendredi": "Dès 14 h, après-midi mixte",
+      "Mardi": "Dès 14 h, journée « Gay & bis », hommes ou femmes",
+      "Mercredi": "Fermé (après-midi réservé aux femmes le 14 mars 2018)",
+      "Samedi": "Soirée mixte dès 21 h",
+      "Dimanche": "Non précisé"
+    },
+    "note": "Programme publié sur libertin71.fr, archivé entre mars et juillet 2018 ; l'heure de fermeture n'était jamais indiquée. Le sauna ne montre plus d'activité depuis l'été 2018 : ces horaires n'ont plus cours.",
+    "confidence": "source_unique",
+    "sources": ["s18", "s20", "s21"]
+  },
+  "tarifs": {
+    "rows": {
+      "Après-midi (lundi, mardi, jeudi, vendredi)": "20 €",
+      "Samedi soir, couple": "50 €",
+      "Samedi soir, homme seul": "50 €",
+      "Samedi soir, femme seule": "Gratuit",
+      "Soirée couples mensuelle avec buffet": "80 € le couple, sur réservation",
+      "Même soirée, homme seul (deux au plus)": "80 €",
+      "Après-midi femmes du 14 mars 2018": "20 €, sur réservation par SMS"
+    },
+    "note": "Page « Tarif » du site officiel archivée le 31 juillet 2018 : une coupe de champagne offerte le samedi, carte bancaire ou espèces, pas de chèque. La même ligne du samedi mentionnait aussi « couples H-F- mixte 30 € », sans dire à quoi ce tarif s'appliquait. Ces prix n'ont plus cours.",
+    "confidence": "source_unique",
+    "sources": ["s18", "s20", "s21"]
+  },
+  "equipements": ["Sauna", "Jacuzzi", "Bar", "Espace détente", "Salle de soumission", "Vestiaires et douche"],
+  "faq": [
+    {
+      "question": "L'Anaconda de Branges est-il encore ouvert ?",
+      "answer": "Probablement pas : son site est en erreur depuis la fin d'août 2018, son domaine a été libéré et les guides du département mis à jour en 2026 n'en parlent pas. Seule l'inscription toujours active de l'entreprise interdit de parler de fermeture certaine ; une publication ou un avis daté de 2026 ferait revoir ce verdict."
+    },
+    {
+      "question": "Que disent les avis sur l'Anaconda Club de Branges ?",
+      "answer": "Aucun avis de client n'a été trouvé en ligne au 20 octobre 2026 ; la fiche Google Maps, si elle existe, n'a pas été consultée. La seule note visible, 4/5 sur un site d'avis d'employeurs, date de février 2023 et se résume à une demande de tarifs et d'horaires. Le Petit Futé, qui ignore l'Anaconda, affiche 5/5 sur deux avis pour Le Diderot."
+    },
+    {
+      "question": "Quel club libertin est ouvert à Branges ?",
+      "answer": "Le Diderot, route des Pies, qui programme une soirée à thème chaque samedi d'octobre 2026 ; avec l'Anaconda, ce sont [les deux lieux libertins de Branges](/ville/branges) que nous recensons. Pour une première soirée à deux, [trouver un couple de la Bresse avec qui partager la sortie](aff:carre-libertin) peut aider : sur Carré Libertin, en ligne depuis 2007, femmes et couples ont l'accès complet gratuit, avec trois photos de profil."
+    },
+    {
+      "question": "L'Anaconda était-il un club ou un sauna ?",
+      "answer": "Les deux : son site s'affichait « club libertin » en page d'accueil et « sauna libertin » sur sa page tarifs, avec des après-midi de sauna en semaine et une soirée le samedi. Le registre déclare en 2017 un « sauna jacuzzi - hammam libertin ». Surface et capacité n'ont jamais été publiées."
+    },
+    {
+      "question": "Quels étaient les horaires et les tarifs de l'Anaconda ?",
+      "answer": "En 2018 : après-midi dès 14 h à 20 € le lundi, le mardi, le jeudi et le vendredi, fermeture le mercredi, soirée du samedi dès 21 h à 50 € pour un couple ou un homme seul, gratuite pour une femme seule. L'heure de fermeture et le dimanche n'étaient pas indiqués. Ces prix n'ont plus cours."
+    },
+    {
+      "question": "Y avait-il une journée gay à l'Anaconda ?",
+      "answer": "Oui en 2018 : le mardi après-midi, dès 14 h et à 20 €, était présenté en mars comme une journée gay et travesti ouverte à toute personne, puis en juillet comme une journée « Gay & bis », hommes ou femmes. Les guides de 2026 citent Euphoria Sauna, à Chalon-sur-Saône, comme sauna gay et mixte, sans que nous l'ayons vérifié."
+    },
+    {
+      "question": "Y a-t-il un sauna libertin près de Louhans ?",
+      "answer": "L'Anaconda, à 6,5 km à vol d'oiseau du centre de Louhans, était déclaré comme tel, mais il ne montre plus d'activité depuis l'été 2018. Les guides de 2026 placent les saunas libertins du département à Chalon-sur-Saône ; [les autres adresses de Saône-et-Loire](/departement/saone-et-loire) figurent sur notre page départementale."
+    }
+  ],
+  "unverified": [
+    "Date de l'arrêt éventuel : aucune annonce ni article trouvé en ligne ; les éditions papier du Journal de Saône-et-Loire et de L'Indépendant du Louhannais n'ont pas été consultées.",
+    "Fiche Google Maps et avis datés : non consultés.",
+    "Activité entre l'été 2018 et 2026 : aucune trace trouvée, ni en ligne ni dans les guides.",
+    "Installation effective du hammam annoncé pour la fin de 2018.",
+    "Ouverture le dimanche et heure de fermeture, jamais indiquées sur le site.",
+    "Le mobile publié sur le site en 2018 et repris par les annuaires est-il encore rattaché au lieu ? Un autre numéro figure sur un annuaire local ; aucun n'a été appelé."
+  ],
+  "sources": [
+    { "id": "s1", "label": "BODACC A n° 20170171, annonce n° 1017 du 7 septembre 2017 (création, Anaconda Club)", "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A201701711017", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s2", "label": "Annuaire des entreprises, SIREN 788 269 389 (répertoire Sirene)", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/788269389", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s3", "label": "AFNIC, interrogation RDAP du domaine libertin71.fr (domaine introuvable)", "url": "https://rdap.nic.fr/domain/libertin71.fr", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s4", "label": "sauna-club-libertin.com, fiche « ANACONDA » (non datée)", "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_3.php?id=15568&d=71", "type": "annuaire", "consulted": "2026-10-19" },
+    { "id": "s5", "label": "sauna-club-libertin.com, liste des lieux de Saône-et-Loire", "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_2.php?d=71", "type": "annuaire", "consulted": "2026-10-19" },
+    { "id": "s6", "label": "Base Adresse Nationale, 155 rue des Cours Béthy à Branges (distances calculées à vol d'oiseau)", "url": "https://api-adresse.data.gouv.fr/search/?q=155%20rue%20des%20Cours%20Bethy%20Branges", "type": "carte", "consulted": "2026-10-19" },
+    { "id": "s7", "label": "minuitlibertin.com, clubs échangistes en Saône-et-Loire (daté du 3 août 2026)", "url": "https://minuitlibertin.com/trouvez-un-club-echangiste-en-saone-et-loire-71/", "type": "annuaire", "consulted": "2026-10-19" },
+    { "id": "s8", "label": "saunaclublebali.fr, clubs libertins de Saône-et-Loire (4 avril 2026)", "url": "https://www.saunaclublebali.fr/clubs-libertins-saone-et-loire-71/", "type": "annuaire", "consulted": "2026-10-19" },
+    { "id": "s9", "label": "lieuxcoquins.fr, lieux de Saône-et-Loire", "url": "https://www.lieuxcoquins.fr/localisation/france/bourgogne-franche-comte/saone-et-loire-71/", "type": "annuaire", "consulted": "2026-10-19" },
+    { "id": "s10", "label": "club-libertin-france.fr, club libertin à Chalon-sur-Saône", "url": "https://club-libertin-france.fr/club-libertin-chalon-sur-saone/", "type": "annuaire", "consulted": "2026-10-19" },
+    { "id": "s11", "label": "PagesJaunes, clubs libertins à Branges et environs", "url": "https://www.pagesjaunes.fr/annuaire/branges-71/clubs-libertins", "type": "annuaire", "consulted": "2026-10-19" },
+    { "id": "s12", "label": "Le Diderot, site officiel (soirées d'octobre 2026, billets datés du 2 octobre 2026)", "url": "https://www.clublediderot.com/", "type": "officiel", "consulted": "2026-10-19" },
+    { "id": "s13", "label": "minuitlibertin.com, fiche Le Diderot (tarifs relevés en août 2025)", "url": "https://minuitlibertin.com/le-diderot/", "type": "annuaire", "consulted": "2026-10-16" },
+    { "id": "s14", "label": "Annuaire des entreprises, SIREN 413 596 495 (association, 1325 route des Pies)", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/413596495", "type": "registre", "consulted": "2026-10-16" },
+    { "id": "s15", "label": "minuitlibertin.com, fiche Euphoria Sauna (données d'août 2025)", "url": "https://minuitlibertin.com/euphoria-sauna/", "type": "annuaire", "consulted": "2026-10-19" },
+    { "id": "s17", "label": "Le Diderot, page tarifs du site officiel", "url": "https://www.clublediderot.com/fr/tarifs-club-libertin", "type": "officiel", "consulted": "2026-10-19" },
+    { "id": "s18", "label": "libertin71.fr, page « Tarif » du site officiel, archive du 31/07/2018", "url": "https://web.archive.org/web/20180731214555/http://www.libertin71.fr/437189767", "type": "officiel", "consulted": "2026-10-19" },
+    { "id": "s19", "label": "libertin71.fr, page « présentation » du site officiel, archive du 30/07/2018", "url": "https://web.archive.org/web/20180730103725/http://www.libertin71.fr/437189300", "type": "officiel", "consulted": "2026-10-19" },
+    { "id": "s20", "label": "libertin71.fr, page « journée & soirée » du site officiel, archive du 26/03/2018", "url": "https://web.archive.org/web/20180326142725/http://www.libertin71.fr/437255083", "type": "officiel", "consulted": "2026-10-19" },
+    { "id": "s21", "label": "libertin71.fr, page « femme seule » du site officiel, archive du 31/07/2018", "url": "https://web.archive.org/web/20180731203856/http://www.libertin71.fr/437189672", "type": "officiel", "consulted": "2026-10-19" },
+    { "id": "s22", "label": "libertin71.fr, page d'accueil du site officiel, archive du 26/03/2018", "url": "https://web.archive.org/web/20180326142620/http://www.libertin71.fr/", "type": "officiel", "consulted": "2026-10-19" },
+    { "id": "s23", "label": "Internet Archive, libertin71.fr en erreur 404 le 23/08/2018 (captures valides de mars au 31 juillet 2018, erreurs jusqu'en octobre 2018)", "url": "https://web.archive.org/web/20180823004524/http://www.libertin71.fr/", "type": "autre", "consulted": "2026-10-19" },
+    { "id": "s24", "label": "Petit Futé, clubs libertins et échangistes à Branges et aux alentours (« en 2026 »)", "url": "https://www.petitfute.com/v7394-branges-71500/c9998-coquin/c1044-s-amuser-sortir/c206-club-libertin/", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s25", "label": "Petit Futé, lieux coquins de Saône-et-Loire", "url": "https://www.petitfute.com/d23-saone-et-loire/c9998-coquin/c1044-s-amuser-sortir/", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s26", "label": "gowork.fr, profil non officiel « ANACONDA CLUB » (site d'avis sur les employeurs : horaires non sourcés, note unique du 4 février 2023)", "url": "https://gowork.fr/anaconda-club-branges", "type": "avis", "consulted": "2026-10-20" }
+  ]
+}

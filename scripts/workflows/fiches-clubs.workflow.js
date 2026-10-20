@@ -150,6 +150,7 @@ ${depth === 'light' ? 'Club sans trafic : vise une fiche courte et dense (250 à
 - N'utilise que les faits du dossier ; si tu rouvres une source, ajoute ce que tu trouves au dossier.
 - Plan, titres, longueur et angle dictés par la matière et les requêtes de CE club. Renseigne \`display\` si la base a le nom ou la ville en capitales ou sans accents.
 - Lisibilité (section du playbook) : \`glance\`, \`audience\` (club ouvert), \`highlights\`, et pour chaque section \`icon\` + \`summary\` ; paragraphes courts, listes et tableaux plutôt que des pavés.
+- Liens partenaires : lance \`node scripts/partner-facts.mjs ${slug}\` et appuie chaque lien sur le fait « à privilégier » (ou « autre possible ») qu'il propose, jamais sur un fait « saturé ».
 - Écris le JSON dans ${draftPath(slug)}.
 - Valide avec \`REQUIRE_SKIM=1 node scripts/build-club-profiles.mjs --check ${draftPath(slug)}\` et \`node scripts/audit-club-profiles.mjs ${slug}\` jusqu'à zéro erreur et zéro alerte.`
 }
@@ -162,7 +163,7 @@ Dossier : data/clubs/research/${slug}.md.
 
 1. Rouvre (WebFetch, curl) les sources des faits qui comptent : statut, tarifs, horaires, dates, chiffres, notes. Une source qui ne dit pas ce que la fiche lui attribue → corrige ou supprime.
 2. Chaque phrase factuelle doit s'appuyer sur une source listée ; sinon supprime-la ou requalifie-la (a_verifier + réserve écrite).
-3. Statut conforme aux règles de décision ; aucune copie, formule interdite ou phrase interchangeable ; requêtes Search Console principales servies (\`node scripts/club-context.mjs ${slug}\`) ; trois liens partenaires utiles et conformes à nos avis ; blocs de lecture rapide (glance, audience, highlights, summary de chaque section) exacts et fidèles au texte ; \`display\` renseigné si la base a le nom ou la ville en capitales.
+3. Statut conforme aux règles de décision ; aucune copie, formule interdite ou phrase interchangeable ; requêtes Search Console principales servies (\`node scripts/club-context.mjs ${slug}\`) ; trois liens partenaires utiles et conformes à nos avis, appuyés sur des faits non saturés (\`node scripts/partner-facts.mjs ${slug}\`) ; blocs de lecture rapide (glance, audience, highlights, summary de chaque section) exacts et fidèles au texte ; \`display\` renseigné si la base a le nom ou la ville en capitales.
 4. Corrige toi-même le JSON (et le dossier si besoin). Relance \`REQUIRE_SKIM=1 node scripts/build-club-profiles.mjs --check ${draftPath(slug)}\` et \`node scripts/audit-club-profiles.mjs ${slug}\`.
 5. Note la fiche APRÈS corrections selon la grille du playbook (1 à 5, exigeant). publishable = true seulement si plus aucun fait non sourcé ni problème bloquant.
 6. DERNIÈRE ACTION, obligatoire, après toute modification : \`node scripts/mark-verified.mjs ${slug} --scores '<tes notes en JSON>' --publishable <true|false>\`.`

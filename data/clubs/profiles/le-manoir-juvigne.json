@@ -1,0 +1,830 @@
+{
+  "slug": "le-manoir-juvigne",
+  "clubId": "15243",
+  "researchedAt": "2026-10-20",
+  "display": {
+    "nom": "Le Manoir",
+    "ville": "Juvigné"
+  },
+  "status": {
+    "value": "ferme",
+    "summary": "Le club a lui-même annoncé sur son site sa fermeture définitive à compter du 24 avril 2022, en mettant en cause une procédure du propriétaire des murs. Le 25 mai suivant, le tribunal de commerce de Laval plaçait en liquidation la SAS LES 4 J, son exploitant depuis 2017 ; la procédure a été close en mai 2023 et la société radiée. Aucune entreprise n'a succédé au lieu-dit La Sancie, et les deux sites successifs du club ne répondent plus.",
+    "sources": [
+      "s24",
+      "s11",
+      "s12",
+      "s13",
+      "s8",
+      "s28"
+    ]
+  },
+  "seo": {
+    "title": "Le Manoir à Juvigné (53) : club libertin fermé le 24 avril 2022",
+    "metaDescription": "Sauna et hammam de 15 places, dix hommes seuls le samedi : Le Manoir de Juvigné a fermé le 24 avril 2022. Ses tarifs de 2013 à 2022 et ses deux époques.",
+    "subtitle": "Ancien club libertin et discothèque avec sauna et hammam, au lieu-dit La Sancie à Juvigné (53)",
+    "targetQueries": [
+      "le manoir juvigné",
+      "le manoir club libertin",
+      "club libertin le manoir",
+      "le manoir libertin",
+      "manoir libertin"
+    ]
+  },
+  "lead": "Le Manoir, club libertin et discothèque du lieu-dit La Sancie à Juvigné (Mayenne), a annoncé sa fermeture définitive au 24 avril 2022 ; son exploitant a été liquidé le mois suivant. Ouvert en janvier 2013, repris en 2017 par une équipe qui y décrivait sauna, hammam, jacuzzi et donjon, il avait rouvert sous pass sanitaire à l'été 2021 et s'affichait encore ouvert début décembre. À distinguer des Manoir du Jura et de Moselle.",
+  "keyFacts": [
+    {
+      "label": "Statut",
+      "value": "Fermeture définitive annoncée au 24 avril 2022 ; exploitant liquidé en mai 2022, radié en 2023",
+      "confidence": "confirme",
+      "sources": [
+        "s24",
+        "s11",
+        "s12",
+        "s13"
+      ]
+    },
+    {
+      "label": "Adresse",
+      "value": "Lieu-dit La Sancie, 53380 Juvigné, à 1,8 km du bourg vers Saint-Pierre-des-Landes",
+      "confidence": "confirme",
+      "sources": [
+        "s4",
+        "s9",
+        "s11",
+        "s24"
+      ]
+    },
+    {
+      "label": "Ouverture",
+      "value": "Janvier 2013 selon le site du club ; fin décembre 2012 selon un média local relayé par un blog",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s31"
+      ]
+    },
+    {
+      "label": "Exploitants",
+      "value": "SARL LA SANCIE jusqu'en mars 2015, puis SAS LES 4 J à partir de juin 2017",
+      "confidence": "confirme",
+      "sources": [
+        "s9",
+        "s10",
+        "s11",
+        "s12"
+      ]
+    },
+    {
+      "label": "Concept",
+      "value": "Club libertin et discothèque ; sauna et hammam de 15 places, jacuzzi et donjon de 2018 à 2022",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s5",
+        "s12",
+        "s25",
+        "s26",
+        "s29"
+      ]
+    },
+    {
+      "label": "Public admis",
+      "value": "Couples, femmes seules et hommes seuls ; dix hommes seuls au plus le samedi (2018-2022)",
+      "confidence": "confirme",
+      "sources": [
+        "s25",
+        "s27",
+        "s29"
+      ]
+    },
+    {
+      "label": "Dernière activité attestée",
+      "value": "Réouverture sous pass sanitaire à l'été 2021, soirée du 11 septembre, encore « ouvert » le 2 décembre 2021",
+      "confidence": "source_unique",
+      "sources": [
+        "s25"
+      ]
+    },
+    {
+      "label": "Sites officiels",
+      "value": "lemanoir53.com (2013-2015), puis clublemanoir.com (2017-2022) ; aucun ne répond",
+      "confidence": "confirme",
+      "sources": [
+        "s7",
+        "s8",
+        "s28"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "fermeture-24-avril-2022",
+      "title": "« Définitivement fermé » le 24 avril 2022, un mois avant la liquidation de la SAS LES 4 J",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le site du club, archivé en mai 2022, annonçait une fermeture « définitive » à compter du 24 avril. L'équipe disait « jeter l'éponge » après une procédure engagée contre elle par le propriétaire des murs, pendant la fermeture administrative liée au Covid-19. C'est la seule version publique : nous n'avons trouvé aucune autre trace de cette procédure."
+        },
+        {
+          "kind": "text",
+          "body": "Les autres constats concordent :\n- **Le registre** : liquidation judiciaire de la SAS LES 4 J le 25 mai 2022, avec une cessation des paiements fixée au 1er janvier 2021 ; clôture pour insuffisance d'actif le 3 mai 2023, puis radiation d'office.\n- **Le lieu-dit** : aucune entreprise de bar ou de loisirs n'y est enregistrée depuis (registre revu le 20 octobre 2026).\n- **Les sites** : lemanoir53.com n'est plus enregistré ; clublemanoir.com, repris par des tiers dès la fin de 2022, ne répond plus."
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Le 02 43 58 55 48 et le 02 43 69 69 99 ne mènent plus au club",
+          "body": "Le premier était le fixe du club de 2017 à 2022, le second celui de 2013 à 2015. clublemanoir.com a été réenregistré le 30 mars 2026 par un titulaire inconnu et lemanoir53.com est libre : une page qui y apparaîtrait n'aurait aucun lien avec le club."
+        },
+        {
+          "kind": "callout",
+          "tone": "info",
+          "title": "Trois « Le Manoir » libertins en France",
+          "body": "Cette fiche concerne **Le Manoir de Juvigné, en Mayenne**. Ses homonymes, sans lien avec lui, ont leur propre page : [le Manoir du Jura](/le-manoir-petit-villiers-robert) et [celui d'Antilly, en Moselle](/le-manoir-antilly)."
+        }
+      ],
+      "sources": [
+        "s4",
+        "s6",
+        "s8",
+        "s11",
+        "s12",
+        "s13",
+        "s24",
+        "s25",
+        "s28"
+      ],
+      "icon": "closed",
+      "summary": "Le club a annoncé sa fermeture définitive au 24 avril 2022 en mettant en cause le propriétaire des murs ; liquidation le 25 mai 2022, radiation en 2023, aucun successeur."
+    },
+    {
+      "id": "sauna-hammam-15-places-sept-salons",
+      "title": "Sauna et hammam de 15 places au sous-sol, sept salons câlins à l'étage : Le Manoir de 2018-2022",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "La seconde équipe, qui se présentait comme la « Dream Team », décrivait sur son site un établissement « rénové », situé entre Laval et Fougères. Petit Futé, dont la fiche reprend les tarifs de 2021-2022, en détaille l'organisation sur trois niveaux :"
+        },
+        {
+          "kind": "list",
+          "items": [
+            "**Rez-de-chaussée** : bar licence IV aux softs gratuits et cocktails maison, piste de danse, deux podiums à barre d'exhibition, salon fumeur.",
+            "**Étage** : sept salons câlins, dont un avec un grand lit rond, et un espace réservé aux couples, fermé par digicode.",
+            "**Sous-sol** : la balnéo, avec douches, sauna, hammam carrelé et bain à bulles ; le site du club y comptait un sauna et un hammam de 15 places chacun, un jacuzzi, un coin détente et un « espace beauté ».",
+            "**Ailleurs** : donjon, coin exhibition avec glory hole, salon vidéo, boutique sex-shop et parking privé clos, selon le site ; patio et terrasse avec transats et piscine, selon le seul Petit Futé."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Tenue exigée : pas de pantalon pour les femmes, ni jean ni baskets pour les hommes ; en 2018, le club prêtait des tenues à qui sortait à l'improviste. Ses « dix commandements » demandaient entre autres de sortir couvert, de boire avec modération et de ne pas déranger les voisins."
+        },
+        {
+          "kind": "text",
+          "body": "Pour 2013-2015, le site d'alors ne parlait que d'un « espace thalasso ». L'annonce de son adhésion au SNEG & Co et un blog libertin citaient pourtant déjà sauna, hammam et spa en 2013, tout comme un annuaire resté figé sur cette année-là."
+        }
+      ],
+      "sources": [
+        "s5",
+        "s15",
+        "s24",
+        "s25",
+        "s26",
+        "s27",
+        "s29",
+        "s30",
+        "s31"
+      ],
+      "icon": "spa",
+      "summary": "Selon Petit Futé, discothèque au rez-de-chaussée, salons câlins à l'étage, balnéo au sous-sol ; le site du club citait sauna et hammam de 15 places, jacuzzi, donjon et boutique."
+    },
+    {
+      "id": "entrees-2013-2022-ten-men-only",
+      "title": "Dix hommes seuls le samedi, couple à 10 € le dimanche : les entrées de 2013 à 2022",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "De 2018 à 2022, le vendredi et le samedi jusqu'à 5 h, l'équipe animait des soirées à thème avec des jeux, et un DJ en 2018 ; le dimanche après-midi tournait autour du bar lounge et de la balnéo. Le samedi « Ten Men Only » n'admettait que dix hommes seuls, précise Petit Futé."
+        },
+        {
+          "kind": "table",
+          "caption": "Entrée du samedi soir dans les grilles publiées par le club (archives de ses deux sites).",
+          "headers": [
+            "Relevé",
+            "Couple",
+            "Femme seule",
+            "Homme seul",
+            "Compris"
+          ],
+          "rows": [
+            [
+              "Avril 2013",
+              "35 €",
+              "5 €",
+              "40 €",
+              "boisson sans alcool"
+            ],
+            [
+              "Février 2015",
+              "35 €",
+              "gratuit",
+              "45 €",
+              "boisson sans alcool"
+            ],
+            [
+              "Juillet 2018",
+              "40 €",
+              "5 €",
+              "50 €",
+              "buffet de 21 h à 22 h 30, une consommation"
+            ],
+            [
+              "Décembre 2019",
+              "30 €",
+              "invitée",
+              "45 €",
+              "une consommation, softs à volonté"
+            ],
+            [
+              "Décembre 2021",
+              "30 €",
+              "invitée",
+              "45 €",
+              "une consommation, softs à volonté"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "En décembre 2019, une nouvelle formule ouvrait tous les jours sauf le mercredi : lundi et mardi dès 14 h, gratuits pour les couples, jeudi de 14 h à 2 h à 20 €. Une plancha-tapas était servie la nuit à 7 € par personne. Le site de mai 2022 affichait encore, à côté de l'annonce de fermeture, une « Opération PETROL » (dimanche gratuit pour les couples, samedi au prix du vendredi, hors soirées spéciales), dont on ignore si elle a été appliquée."
+        },
+        {
+          "kind": "text",
+          "body": "En 2013, le samedi était annoncé « couples et femmes » malgré un tarif homme seul affiché, et le club ouvrait aussi dès 15 h le jeudi et le dimanche. De 2013 à 2015, les trios payaient de 35 à 65 € selon le jour et l'année."
+        }
+      ],
+      "sources": [
+        "s2",
+        "s6",
+        "s24",
+        "s25",
+        "s26",
+        "s27",
+        "s29"
+      ],
+      "icon": "euro",
+      "summary": "Fin 2021 : couple 20 € le vendredi, 30 € le samedi, 10 € le dimanche ; femmes invitées ; homme seul de 20 à 45 €, dix au plus le samedi. En 2013, le samedi couple coûtait 35 €."
+    },
+    {
+      "id": "mayenne-sans-club-ille-et-vilaine",
+      "title": "La Mayenne sans club recensé en 2026 : un sauna mixte à Rennes, un club à Bréal-sous-Montfort",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Un guide en ligne daté du 11 avril 2026 et l'annuaire lieuxcoquins.fr ne listent aucun lieu libertin en Mayenne (sources faibles, que rien ne contredit). Les lieux les plus proches sont en Ille-et-Vilaine (distances à vol d'oiseau entre communes), et seuls les deux premiers ont une activité datée :"
+        },
+        {
+          "kind": "list",
+          "items": [
+            "[Sauna California, rue de Léon à Rennes](/sauna-california-rennes), 51 km : agenda de la semaine du 20 au 26 octobre 2026 en ligne le 20 octobre, mixte le mardi et le jeudi dès midi, le vendredi dès 18 h et le samedi dès 20 h, gay le reste du temps.",
+            "[Le Plaisir Club de Bréal-sous-Montfort](/le-plaisir-club-breal-sous-monfort), 66 km : soirées annoncées les 16-17 et 23-24 octobre 2026. Son DJ résident a mixé au Manoir en 2018 et 2019.",
+            "[La Petite Cheminée](/petite-cheminee-saint-aubin), Saint-Aubin-du-Pavail, 37,5 km selon PagesJaunes : ouverture affichée le vendredi et le samedi soir, mais dernier témoignage daté de février 2026 ; activité non vérifiée en octobre 2026."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Petit Futé et l'annuaire club-libertin-france.fr présentent toujours Le Manoir comme le seul club de la Mayenne, horaires à l'appui : ces fiches n'ont pas enregistré sa fermeture."
+        },
+        {
+          "kind": "text",
+          "body": "Le guide cite aussi Le Mans et Angers, à plus de 90 km, non vérifiés ici. Faute de club dans le département, Gleese, réseau français ouvert fin 2024, permet de [sonder les profils mayennais vérifiés par téléphone](aff:gleese) sans carte bancaire ; notre test note que sa communauté reste loin du volume de Wyylde hors des grandes villes, à jauger donc autour de Laval."
+        }
+      ],
+      "sources": [
+        "s14",
+        "s16",
+        "s17",
+        "s18",
+        "s19",
+        "s21",
+        "s22",
+        "s23",
+        "s29",
+        "s32"
+      ],
+      "icon": "map",
+      "summary": "Aucun lieu recensé en Mayenne en 2026 ; Sauna California à Rennes (51 km) et Le Plaisir Club à Bréal-sous-Montfort (66 km) affichent des dates d'octobre 2026."
+    },
+    {
+      "id": "deux-societes-deux-sites-2013-2022",
+      "title": "Ouvert en janvier 2013, repris en juin 2017 : deux sociétés et deux sites sous l'enseigne LE MANOIR",
+      "blocks": [
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "2010-2012",
+              "text": "La SARL LA SANCIE (enseigne LE MANOIR) déclare restaurant, chambres d'hôtes, sauna et hammam, puis en 2012 « discothèque, club privé »."
+            },
+            {
+              "date": "Janvier 2013",
+              "text": "Ouverture, présentée par un média local comme celle du premier club libertin de la Mayenne ; inauguration du 11 au 14 avril."
+            },
+            {
+              "date": "Mars 2013",
+              "text": "Le club rejoint le SNEG & Co, qui l'annonce ouvert au public gay le jeudi et le dimanche."
+            },
+            {
+              "date": "Mars 2015",
+              "text": "Établissement fermé au registre le 15, deux mois après les derniers messages archivés du livre d'or ; société liquidée en 2016."
+            },
+            {
+              "date": "Juin 2017",
+              "text": "La SAS LES 4 J reprend l'enseigne ; un nouveau site, clublemanoir.com, est archivé dès le 7 juin."
+            },
+            {
+              "date": "2018-2019",
+              "text": "Soirées à thème (Pâques, élection de Mister, Beach party, Halloween), un DJ invité puis régulier ; en 2019, 39 757 € de chiffre d'affaires et 21 360 € de perte."
+            },
+            {
+              "date": "Décembre 2019",
+              "text": "Nouvelle formule : ouvert tous les jours sauf le mercredi, entrées en baisse, réveillon « Destination 2020 »."
+            },
+            {
+              "date": "2021",
+              "text": "Réouverture sous pass sanitaire l'été, « grosse soirée de la rentrée » le 11 septembre ; refermé en décembre après des annonces du gouvernement."
+            },
+            {
+              "date": "2022-2023",
+              "text": "Fermeture définitive le 24 avril 2022, liquidation le 25 mai, radiation en mai 2023."
+            }
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Rien ne dit si le lieu a ouvert entre mars 2015 et juin 2017. En 2022, l'équipe remerciait ses clients de « ces 4 ans », et sa galerie archivée fin 2019 contenait un album « L'anniversaire du club - 1 an » : la reprise effective date probablement de 2018."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s9",
+        "s10",
+        "s11",
+        "s12",
+        "s14",
+        "s20",
+        "s24",
+        "s25",
+        "s26",
+        "s27",
+        "s28",
+        "s30",
+        "s31"
+      ],
+      "icon": "history",
+      "summary": "Ouvert début 2013 par la SARL LA SANCIE, fermé au registre en mars 2015, repris en juin 2017 par la SAS LES 4 J, rouvert sous pass sanitaire en 2021 et fermé en avril 2022."
+    },
+    {
+      "id": "discotheque-libertine-thalasso-2013-2015",
+      "title": "Espace thalasso, jeudi gay et 25 ans minimum pour venir seul : la « discothèque libertine » de 2013-2015",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "« Nouveau club non conformiste » en 2013, « discothèque libertine » à partir de 2014 : le premier site décrivait une piste de danse, un bar, des vestiaires, des coins câlins aux ambiances et éclairages variés, et un « espace thalasso » aussi appelé « la balnéo ». Il fixait à 25 ans l'âge minimum pour venir seul ; accompagné, il suffisait de prouver sa majorité."
+        },
+        {
+          "kind": "text",
+          "body": "En mars 2013, l'annonce de son adhésion au SNEG & Co le disait ouvert au public gay le jeudi et le dimanche, libertin et mixte le reste de la semaine ; la grille d'avril qualifiait pourtant le dimanche de « mixte ». Fin 2014, les partenaires affichés étaient AIDES, association de lutte contre le VIH, et le site nouslibertins.com."
+        },
+        {
+          "kind": "text",
+          "body": "Sous la mention « Partenaires », un bandeau défilant faisait aussi tourner douze liens, du SNEG et d'AIDES à netechangisme.com. Ce dernier, rebaptisé Wyylde en 2018, tient un agenda des soirées en club lisible avec un compte gratuit : de quoi [repérer une soirée en club entre Rennes et Le Mans](aff:wyylde), l'abonnement restant nécessaire pour converser avec les membres."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s2",
+        "s3",
+        "s5",
+        "s6",
+        "s30"
+      ],
+      "icon": "music",
+      "summary": "Piste, bar, coins câlins et espace balnéo dit « thalasso » ; jeudi et dimanche annoncés gay en 2013, 25 ans minimum pour venir seul en 2014-2015."
+    },
+    {
+      "id": "soirees-a-theme-mai-juin-2013",
+      "title": "Infirmières, pirates, Miss et Mister Manoir en 2013, 256 messages au livre d'or en 2015",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Seul programme détaillé retrouvé dans les archives du premier site, il suit une chasse aux œufs le 31 mars et une « Journée sans culotte » le lundi 1er avril 2013 :"
+        },
+        {
+          "kind": "list",
+          "items": [
+            "3-4 mai lingerie, 10 mai talons aiguilles et bas résille, 11 mai infirmières et médecins ;",
+            "17 mai sex-toys avec défilé de lingerie, 18 mai bikinis, 24 mai soirée masquée, 25 mai corsaires et pirates ;",
+            "31 mai écolières, 1er juin police, 7 juin soubrettes, 8 juin élection de Miss et Mister Manoir ;",
+            "15 juin : barbecue sur réservation, seul repas annoncé en dehors du buffet des soirées d'inauguration."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "En février 2015, la page affichait toujours ce programme, sans agenda plus récent sur ce site. L'élection de Mister reviendra sous la seconde équipe, en 2018."
+        },
+        {
+          "kind": "text",
+          "body": "**Le livre d'or** comptait 256 messages en janvier 2015. Sa première page, seule lue, montre des visiteurs de Laval et de Vitré annonçant leur venue, et des questions sur l'accès des hommes seuls ou l'affluence du dimanche : des messages non modérés, qui ne valent pas avis. Aucune note publique n'a pu être relevée, ni pour cette époque ni pour la suivante.\n\nCe babillard a disparu avec le site. Pour annoncer une sortie, un couple peut aujourd'hui [publier depuis Laval ou Vitré une annonce de sortie à deux](aff:carre-libertin) sur Carré Libertin, en ligne depuis 2007 et gratuit en accès complet pour couples et femmes qui affichent trois photos."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s3",
+        "s26",
+        "s27",
+        "s20",
+        "s29"
+      ],
+      "icon": "sparkles",
+      "summary": "Onze soirées à thème en mai-juin 2013, de « Lingerie » à l'élection de Miss et Mister Manoir, plus un barbecue le 15 juin ; 256 messages au livre d'or en janvier 2015."
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Vendredi": "21 h 30 - 5 h, soirée à thème",
+      "Samedi": "21 h 30 - 5 h, « Ten Men Only » : dix hommes seuls au plus",
+      "Dimanche": "15 h - 20 h, bar lounge et balnéo"
+    },
+    "note": "Dernière grille publiée par le club (site officiel, archives de décembre 2021 à mai 2022). Le Manoir est fermé depuis le 24 avril 2022 : ces horaires sont historiques.",
+    "confidence": "source_unique",
+    "sources": [
+      "s24",
+      "s25",
+      "s29"
+    ]
+  },
+  "tarifs": {
+    "rows": {
+      "Couple": "20 € le vendredi, 30 € le samedi, 10 € le dimanche",
+      "Femme seule": "invitée (entrée offerte)",
+      "Homme seul": "35 € le vendredi, 45 € le samedi, 20 € le dimanche"
+    },
+    "note": "Grille de décembre 2021 à mai 2022 : une consommation offerte le samedi, boissons sans alcool à discrétion, plancha-tapas à 7 € par personne. Tarifs historiques ; les grilles de 2013 à 2019 sont comparées dans la section sur les entrées.",
+    "confidence": "source_unique",
+    "sources": [
+      "s24",
+      "s25"
+    ]
+  },
+  "equipements": [
+    "Piste de danse",
+    "Bar",
+    "Coins câlins",
+    "Espace couple",
+    "Sauna",
+    "Hammam",
+    "Jacuzzi",
+    "Donjon",
+    "Salon vidéo",
+    "Espace fumeur",
+    "Boutique sex-shop",
+    "Parking privé clos",
+    "Vestiaires"
+  ],
+  "officialLinks": [
+    {
+      "label": "Site officiel archivé (clublemanoir.com, mai 2022)",
+      "url": "https://web.archive.org/web/20220522230643/https://www.clublemanoir.com/",
+      "kind": "site"
+    },
+    {
+      "label": "Premier site officiel archivé (lemanoir53.com, février 2015)",
+      "url": "https://web.archive.org/web/20150213224129/http://lemanoir53.com/ACCUEIL.html",
+      "kind": "site"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Le Manoir à Juvigné est-il toujours ouvert ?",
+      "answer": "Non. Le club a annoncé sur son site sa fermeture définitive à compter du 24 avril 2022 ; son exploitant a été liquidé en mai 2022 et radié en 2023, sans repreneur à La Sancie. Les guides qui le présentent encore comme ouvert n'ont pas été mis à jour."
+    },
+    {
+      "question": "Pourquoi Le Manoir a-t-il fermé ?",
+      "answer": "Selon l'annonce du club, à cause d'une procédure engagée contre lui par le propriétaire des murs pendant la fermeture administrative liée au Covid-19. Le registre fixe la cessation des paiements de l'exploitant au 1er janvier 2021. La version du propriétaire n'a pas été trouvée."
+    },
+    {
+      "question": "Le Manoir club libertin du Jura ou de Moselle, est-ce le même ?",
+      "answer": "Non : celui-ci se trouvait à La Sancie, à Juvigné (53), à 27 km de Laval à vol d'oiseau. Les homonymes du Jura et de Moselle sont d'autres établissements."
+    },
+    {
+      "question": "Combien coûtait l'entrée au Manoir ?",
+      "answer": "Dans la dernière grille (décembre 2021 à mai 2022) : couple 20 € le vendredi, 30 € le samedi, 10 € le dimanche ; homme seul 35 €, 45 € et 20 € ; femmes seules invitées. Une consommation était offerte le samedi."
+    },
+    {
+      "question": "Le Manoir avait-il un sauna et un jacuzzi ?",
+      "answer": "Oui, de 2018 à 2022 : le site du club décrivait un « coin balnéo » avec un sauna et un hammam de 15 places chacun, un jacuzzi et un coin détente, situé au sous-sol selon Petit Futé. En 2013-2015, il ne parlait que d'un espace « thalasso », mais d'autres sources citaient déjà sauna et hammam."
+    },
+    {
+      "question": "Qui pouvait entrer au Manoir ?",
+      "answer": "Couples, femmes seules et hommes seuls ; le samedi, dix hommes seuls au plus de 2018 à 2022. En 2013, le jeudi et le dimanche étaient annoncés pour le public gay ; en 2014-2015, il fallait 25 ans pour venir seul."
+    },
+    {
+      "question": "Où trouver un club libertin près de Laval ou de Juvigné ?",
+      "answer": "Aucun lieu n'est recensé en Mayenne selon un guide d'avril 2026. Sauna California à Rennes (51 km) et le Plaisir Club à Bréal-sous-Montfort (66 km) affichent un programme daté d'octobre 2026 ; La Petite Cheminée, plus proche, n'a pas d'agenda daté."
+    }
+  ],
+  "unverified": [
+    "La date exacte de la reprise des soirées après juin 2017 : l'équipe parlait de quatre ans d'activité en avril 2022.",
+    "Si des soirées ont eu lieu entre la fermeture de décembre 2021 et l'annonce du 24 avril 2022.",
+    "La nature et l'issue de la procédure engagée par le propriétaire des murs, connue par la seule version du club.",
+    "Si le lieu a ouvert entre mars 2015 et juin 2017, et sous quel exploitant.",
+    "La piscine extérieure, le patio et le lit rond, décrits par le seul Petit Futé.",
+    "La nature du bâtiment de La Sancie : manoir ancien ou construction récente.",
+    "Ce qu'est devenu le lieu depuis la radiation de 2023.",
+    "Une note publique (Google ou annuaire) : aucune n'a pu être relevée."
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Site officiel lemanoir53.com, page d'accueil (archive du 31/03/2013)",
+      "url": "https://web.archive.org/web/20130331033610/http://www.lemanoir53.com/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s2",
+      "label": "Site officiel, « Tarifs et horaires » (archive du 02/04/2013)",
+      "url": "https://web.archive.org/web/20130402073213/http://www.lemanoir53.com/ACCUEIL/TARIFS-ET-HORAIRES.html",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s3",
+      "label": "Site officiel, « Les soirées et événements » (archives de 2013 et du 13/02/2015)",
+      "url": "https://web.archive.org/web/20150213183947/http://lemanoir53.com/ACCUEIL/LES-SOIREES.html",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s4",
+      "label": "Site officiel, « Localisation » et « Nous contacter » (archives du 02/04/2013)",
+      "url": "https://web.archive.org/web/20130402073218/http://www.lemanoir53.com/LOCALISATION.html",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s5",
+      "label": "Site officiel, page d'accueil (archives du 17/12/2014 et du 13/02/2015)",
+      "url": "https://web.archive.org/web/20150213224129/http://lemanoir53.com/ACCUEIL.html",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s6",
+      "label": "Site officiel, « Tarifs et horaires » et « Nous contacter » (archives du 13/02/2015)",
+      "url": "https://web.archive.org/web/20150213233244/http://lemanoir53.com/ACCUEIL/TARIFS-ET-HORAIRES.html",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s7",
+      "label": "Wayback Machine, historique des captures de lemanoir53.com (2013-2022)",
+      "url": "https://web.archive.org/cdx/search/cdx?url=lemanoir53.com&fl=timestamp,statuscode&collapse=timestamp:6",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s8",
+      "label": "RDAP Verisign et DNS : lemanoir53.com non enregistré",
+      "url": "https://rdap.verisign.com/com/v1/domain/lemanoir53.com",
+      "type": "autre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s9",
+      "label": "Annuaire des entreprises, SARL LA SANCIE (SIREN 519 879 399)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/519879399",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s10",
+      "label": "BODACC, annonces de la SARL LA SANCIE (2010-2016)",
+      "url": "https://bodacc-datadila.opendatasoft.com/api/explore/v2.1/catalog/datasets/annonces-commerciales/records?where=registre%20like%20%22519879399%22",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s11",
+      "label": "Annuaire des entreprises, SAS LES 4 J (SIREN 829 825 314)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/829825314",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s12",
+      "label": "BODACC, annonces de la SAS LES 4 J (2017-2023)",
+      "url": "https://bodacc-datadila.opendatasoft.com/api/explore/v2.1/catalog/datasets/annonces-commerciales/records?where=registre%20like%20%22829825314%22",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s13",
+      "label": "Recherche d'entreprises, sociétés domiciliées à La Sancie (53380)",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=la%20sancie&code_postal=53380",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s14",
+      "label": "Le Plaisir Club (Bréal-sous-Montfort), page « Notre DJ »",
+      "url": "https://www.plaisirclub.fr/dj",
+      "type": "autre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s15",
+      "label": "sauna-club-libertin.com, fiche Le Manoir (non datée, contenu de 2013)",
+      "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_3.php?id=15243&d=53",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s16",
+      "label": "saunaclublebali.fr, « Club libertin en Mayenne (53) : alternatives et guide 2026 » (11/04/2026)",
+      "url": "https://www.saunaclublebali.fr/clubs-libertins-mayenne-53/",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s17",
+      "label": "PagesJaunes, discothèques autour de Juvigné",
+      "url": "https://www.pagesjaunes.fr/annuaire/juvigne-53/discotheques",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s18",
+      "label": "lieuxcoquins.fr, recherche « manoir » et plan du site",
+      "url": "https://www.lieuxcoquins.fr/?s=manoir",
+      "type": "annuaire",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s19",
+      "label": "geo.api.gouv.fr, centres des communes (distances à vol d'oiseau)",
+      "url": "https://geo.api.gouv.fr/communes/53123?fields=nom,centre",
+      "type": "carte",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s20",
+      "label": "Site officiel, livre d'or (archive du 24/01/2015, messages de visiteurs)",
+      "url": "https://web.archive.org/web/20150124065838/http://www.lemanoir53.com/livredor/",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s21",
+      "label": "Le Plaisir Club (Bréal-sous-Montfort), page d'accueil",
+      "url": "https://www.plaisirclub.fr/",
+      "type": "autre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s22",
+      "label": "Sauna California (Rennes), page d'accueil et agenda",
+      "url": "https://www.saunacalifornia.com/",
+      "type": "autre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s23",
+      "label": "La Petite Cheminée (Saint-Aubin-du-Pavail), page d'accueil",
+      "url": "https://www.club-libertin-bretagne.com/",
+      "type": "autre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s24",
+      "label": "Site officiel clublemanoir.com, annonce de la fermeture définitive au 24/04/2022 (archive du 22/05/2022)",
+      "url": "https://web.archive.org/web/20220522230643/https://www.clublemanoir.com/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s25",
+      "label": "Site officiel clublemanoir.com, saison 2021-2022 : réouverture, fermeture de décembre 2021, tarifs (archives du 05/08/2021 au 28/01/2022)",
+      "url": "https://web.archive.org/web/20211202100203/https://www.clublemanoir.com/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s26",
+      "label": "Site officiel clublemanoir.com, nouvelle formule, espaces et galerie 2018-2019 (archive du 10/12/2019)",
+      "url": "https://web.archive.org/web/20191210155558/https://www.clublemanoir.com/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s27",
+      "label": "Site officiel clublemanoir.com, tarifs et soirées de l'été 2018 (archive du 28/07/2018)",
+      "url": "https://web.archive.org/web/20180728052729/https://www.clublemanoir.com/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s28",
+      "label": "Wayback Machine et RDAP : historique et état de clublemanoir.com (2003-2026)",
+      "url": "https://web.archive.org/cdx/search/cdx?url=clublemanoir.com&fl=timestamp,statuscode,original&collapse=timestamp:6",
+      "type": "autre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s29",
+      "label": "Petit Futé, fiche « Le Manoir » à Juvigné (non datée, en ligne en octobre 2026)",
+      "url": "https://www.petitfute.com/v28149-juvigne-53380/c9998-coquin/c1044-s-amuser-sortir/c206-club-libertin/1636225-le-manoir.html",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s30",
+      "label": "SNEG & Co, « Le Manoir », rubrique « Ils ont rejoint le SNEG & Co » (23/03/2013)",
+      "url": "https://www.snegandco.fr/le-manoir/",
+      "type": "autre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s31",
+      "label": "Le web libertin (blog), billets des 3 et 8 janvier 2013 sur l'ouverture du Manoir",
+      "url": "https://weblibertin.wordpress.com/2013/01/08/le-premier-club-libertin-a-ouvert-en-mayenne/",
+      "type": "autre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s32",
+      "label": "club-libertin-france.fr, « Club libertin Laval » (non daté)",
+      "url": "https://club-libertin-france.fr/club-libertin-laval/",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    }
+  ],
+  "glance": [
+    {
+      "icon": "closed",
+      "label": "Fermé",
+      "value": "Depuis le 24 avril 2022, annoncé par le club"
+    },
+    {
+      "icon": "history",
+      "label": "En activité",
+      "value": "2013-2015, puis 2017-2022"
+    },
+    {
+      "icon": "euro",
+      "label": "Entrée couple (2021)",
+      "value": "10 € dim., 20 € ven., 30 € sam."
+    },
+    {
+      "icon": "spa",
+      "label": "Espaces (2018-2022)",
+      "value": "Sauna et hammam 15 places, jacuzzi, donjon"
+    },
+    {
+      "icon": "map",
+      "label": "Plus proche en activité",
+      "value": "Sauna California, Rennes (51 km)"
+    },
+    {
+      "icon": "warning",
+      "label": "Homonymes",
+      "value": "Manoir du Jura et de Moselle : autres clubs"
+    }
+  ],
+  "audience": [
+    {
+      "who": "couples",
+      "status": "oui",
+      "detail": "Vendredi et samedi 21 h 30-5 h, dimanche 15 h-20 h (grille 2021-2022)",
+      "price": "10 à 30 €"
+    },
+    {
+      "who": "femmes",
+      "status": "oui",
+      "detail": "Entrée offerte en 2015 et de 2019 à 2022 ; 5 € en 2013 et le week-end de 2018",
+      "price": "0 €"
+    },
+    {
+      "who": "hommes",
+      "status": "selon",
+      "detail": "Dix au plus le samedi (« Ten Men Only ») ; 25 ans minimum seul en 2014-2015",
+      "price": "20 à 45 €"
+    }
+  ],
+  "highlights": [
+    "Le Manoir est fermé depuis le 24 avril 2022, date annoncée par le club lui-même ; son exploitant a été liquidé en mai 2022 et radié en 2023.",
+    "Petit Futé et l'annuaire club-libertin-france.fr le donnent encore comme le seul club de Mayenne, horaires à l'appui : ces fiches sont périmées.",
+    "Le 02 43 58 55 48, le 02 43 69 69 99 et les domaines lemanoir53.com et clublemanoir.com ne mènent plus au club.",
+    "Les « Manoir » libertins du Jura et de Moselle sont d'autres établissements, sans lien avec celui de Juvigné.",
+    "Aucun lieu libertin n'est recensé en Mayenne en 2026 ; Sauna California, à Rennes (51 km), publie un agenda à la semaine en octobre 2026."
+  ]
+}

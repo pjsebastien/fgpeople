@@ -1,0 +1,973 @@
+{
+  "slug": "l-as-nice",
+  "clubId": "15",
+  "researchedAt": "2026-10-20",
+  "display": {
+    "nom": "Le Boudoir (ex-L'AS)",
+    "ville": "Nice"
+  },
+  "status": {
+    "value": "ouvert",
+    "summary": "Le programme publié sur le site du Boudoir annonce seize rendez-vous en octobre, de « Gentlemen 4 Ladies » le jeudi 1er à Halloween le samedi 31. Ces dates sont données sans année, mais elles ne peuvent viser que 2026 : ce site a remplacé l'ancien, encore en ligne le 8 mars 2026, ses 21 photos ont été déposées le 16 février 2026, et chacune de ses pages porte « © 2026 LACHER PRISE LE BOUDOIR », l'enseigne inscrite dans ses mentions légales. L'accueil signale un « nouveau propriétaire », ce qui concorde avec le changement de gérance publié au BODACC le 23 décembre 2025 pour A.S.S., la société éditrice du site, et avec deux avis Google de février et avril 2026, relayés par un agrégateur, qui saluent déjà les nouveaux propriétaires. Enfin, l'enregistrement du nom de domaine a été mis à jour le 8 octobre 2026.",
+    "sources": [
+      "s5",
+      "s35",
+      "s31",
+      "s10",
+      "s4",
+      "s14",
+      "s38",
+      "s16"
+    ]
+  },
+  "seo": {
+    "title": "Le Boudoir (ex-L'AS) à Nice : sauna libertin, tarifs et soirées",
+    "metaDescription": "Ex-L'AS, avenue Edouard Grinda : sauna et hammam l'après-midi sauf le mercredi, soirées du jeudi au samedi, couple 20 €, homme seul 30 à 50 €.",
+    "subtitle": "Club libertin avec sauna et hammam, ex-L'AS, au 30 avenue Edouard Grinda à Nice (06)",
+    "targetQueries": [
+      "club libertin nice",
+      "sauna libertin nice",
+      "libertine nice",
+      "libertin nice",
+      "libertinage nice",
+      "clubs libertins nice"
+    ]
+  },
+  "lead": "Le club que son site appelait L'AS au début des années 2010, avec sauna, hammam et appareils de musculation, s'affiche aujourd'hui sous l'enseigne Lâcher Prise Le Boudoir. Son site annonce un nouveau propriétaire et des soirées à thème chaque jeudi, vendredi et samedi d'octobre 2026. L'après-midi, sauf le mercredi, le sauna et le hammam sont compris dans l'entrée : 20 € pour un couple, 30 € pour un homme seul.",
+  "glance": [
+    {
+      "icon": "calendar",
+      "label": "Après-midi",
+      "value": "Dès 14 h, tous les jours sauf le mercredi"
+    },
+    {
+      "icon": "clock",
+      "label": "Soirées",
+      "value": "Jeudi, vendredi, samedi : 21 h 30 - 2 h 30"
+    },
+    {
+      "icon": "couple",
+      "label": "Entrée couple",
+      "value": "20 € · femme seule invitée"
+    },
+    {
+      "icon": "euro",
+      "label": "Homme seul",
+      "value": "30 € l'après-midi · 50 € le soir"
+    },
+    {
+      "icon": "spa",
+      "label": "Sauna et hammam",
+      "value": "Compris dans l'entrée de l'après-midi"
+    },
+    {
+      "icon": "history",
+      "label": "Ex-L'AS",
+      "value": "L'AS attesté en 2010, site Boudoir en 2017"
+    }
+  ],
+  "audience": [
+    {
+      "who": "couples",
+      "status": "oui",
+      "detail": "Après-midi sauf le mercredi et soirées du jeudi au samedi ; un seul tarif affiché",
+      "price": "20 €"
+    },
+    {
+      "who": "femmes",
+      "status": "oui",
+      "detail": "« Invitées » selon la grille du site : entrée offerte",
+      "price": "0 €"
+    },
+    {
+      "who": "hommes",
+      "status": "oui",
+      "detail": "Après-midi et soirées ; chemise et pantalon soigné exigés",
+      "price": "30 à 50 €"
+    }
+  ],
+  "highlights": [
+    "Fermé le mercredi selon la grille horaire du site, malgré le bandeau « Ouvert du lundi au dimanche » qui défile sur ses pages (relevé du 19/10/2026).",
+    "Messieurs, chemise et pantalon soigné au minimum : selon la charte, jeans troués, baskets et shorts ne passent pas la porte.",
+    "Préservatif obligatoire dans tous les espaces de jeu ; la charte précise que ce sont les femmes qui sollicitent, jamais l'inverse.",
+    "Les « 50 mètres de la gare Nice Saint-Augustin » du site valent pour l'ancienne gare, désaffectée en 2022 ; le tram Parc Phoenix est à 270 m.",
+    "Le portable que donnent encore les annuaires n'apparaît plus sur le site du Boudoir, qui affiche le 04 93 72 05 30."
+  ],
+  "keyFacts": [
+    {
+      "label": "Enseigne actuelle",
+      "value": "Lâcher Prise Le Boudoir, anciennement L'AS",
+      "confidence": "confirme",
+      "sources": [
+        "s10",
+        "s17",
+        "s23"
+      ]
+    },
+    {
+      "label": "Société",
+      "value": "SARL A.S.S. (SIREN 451 772 065), éditrice du site, créée en 2004",
+      "confidence": "confirme",
+      "sources": [
+        "s10",
+        "s13"
+      ]
+    },
+    {
+      "label": "Jours d'ouverture",
+      "value": "Tous les jours dès 14 h, sauf le mercredi",
+      "confidence": "confirme",
+      "sources": [
+        "s4",
+        "s7",
+        "s9"
+      ]
+    },
+    {
+      "label": "Soirées",
+      "value": "Jeudi, vendredi et samedi, de 21 h 30 à 2 h 30",
+      "confidence": "confirme",
+      "sources": [
+        "s4",
+        "s5"
+      ]
+    },
+    {
+      "label": "Entrée couple",
+      "value": "20 € ; femme seule invitée",
+      "confidence": "confirme",
+      "sources": [
+        "s4",
+        "s24"
+      ]
+    },
+    {
+      "label": "Entrée homme seul",
+      "value": "30 € l'après-midi, 50 € les soirs du jeudi au samedi",
+      "confidence": "confirme",
+      "sources": [
+        "s4",
+        "s25"
+      ]
+    },
+    {
+      "label": "Bien-être",
+      "value": "Sauna et hammam l'après-midi, inclus dans l'entrée",
+      "confidence": "confirme",
+      "sources": [
+        "s7",
+        "s24"
+      ]
+    },
+    {
+      "label": "Surface",
+      "value": "200 m² climatisés selon le Petit Futé (février 2024)",
+      "confidence": "source_unique",
+      "sources": [
+        "s39"
+      ]
+    },
+    {
+      "label": "Établissement au n° 30",
+      "value": "Depuis le 1er janvier 2008 selon le registre",
+      "confidence": "confirme",
+      "sources": [
+        "s13"
+      ]
+    },
+    {
+      "label": "Accès",
+      "value": "Tram Parc Phoenix (lignes 2 et 3) à environ 270 m ; gare Nice Saint-Augustin à environ 700 m",
+      "confidence": "source_unique",
+      "sources": [
+        "s34",
+        "s33"
+      ]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Lundi": "14h00 - 19h00",
+      "Mardi": "14h00 - 19h00",
+      "Mercredi": "Fermé",
+      "Jeudi": "14h00 - 19h00 et 21h30 - 02h30",
+      "Vendredi": "14h00 - 19h00 et 21h30 - 02h30",
+      "Samedi": "14h00 - 19h00 et 21h30 - 02h30",
+      "Dimanche": "14h00 - 19h00"
+    },
+    "note": "Horaires du site officiel relevés le 19/10/2026. Le bandeau défilant du même site, « Ouvert du lundi au dimanche », contredit cette grille, qui ferme le mercredi comme la page sauna. La page Contact fait finir le lundi et le mardi à 20 h, l'accueil à 19 h. Le programme d'octobre 2026 place aussi un rendez-vous le lundi 5.",
+    "confidence": "confirme",
+    "sources": [
+      "s4",
+      "s5",
+      "s7",
+      "s9"
+    ]
+  },
+  "tarifs": {
+    "rows": {
+      "Couple": "20 €",
+      "Femme seule": "Invitée (entrée offerte)",
+      "Homme seul, après-midi": "30 €",
+      "Homme seul, soirées du jeudi au samedi": "50 €"
+    },
+    "note": "Grille du site officiel au 19/10/2026 ; le sauna et le hammam sont compris l'après-midi. En octobre 2025, l'homme seul payait 40 € le jeudi soir (archive du site) ; la grille ne distingue pas l'après-midi et le soir pour les couples.",
+    "confidence": "confirme",
+    "sources": [
+      "s4",
+      "s7",
+      "s24"
+    ]
+  },
+  "sections": [
+    {
+      "id": "programme-octobre-2026",
+      "title": "Seize dates en octobre 2026, du « Gentlemen 4 Ladies » du 1er à Halloween",
+      "icon": "calendar",
+      "summary": "Le site programme une soirée à thème chaque jeudi, vendredi et samedi d'octobre 2026, deux gang bangs (lundi 5 et jeudi 22) et Halloween le samedi 31.",
+      "sources": [
+        "s5",
+        "s4",
+        "s9",
+        "s12"
+      ],
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "La page « Nos soirées » liste seize rendez-vous pour octobre, sans indiquer l'année : le 1er y est un jeudi et le 31 un samedi, ce qui correspond au calendrier 2026. Le club précise que chaque soirée est ouverte à tous, sans limite de nombre."
+        },
+        {
+          "kind": "table",
+          "caption": "Programme d'octobre relevé le 19/10/2026 sur le site du club",
+          "headers": [
+            "Semaine",
+            "Jeudi",
+            "Vendredi",
+            "Samedi"
+          ],
+          "rows": [
+            [
+              "1er au 3",
+              "Gentlemen 4 Ladies",
+              "Lâcher Prise",
+              "Libérez vos fantasmes"
+            ],
+            [
+              "8 au 10",
+              "Trio",
+              "Libertines & Assumées",
+              "Fantasmes & Soumission"
+            ],
+            [
+              "15 au 17",
+              "Osez la pluralité masculine",
+              "Salopes & Pervers",
+              "Éveillez vos sens"
+            ],
+            [
+              "22 au 24",
+              "Gang Bang",
+              "Voyeurisme & Exhibitionnisme",
+              "Lâcher Prise"
+            ],
+            [
+              "29 au 31",
+              "Plus on est de fous, plus on rit",
+              "The night before Halloween",
+              "Halloween"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "S'y ajoute un gang bang le lundi 5 octobre, jour où les horaires affichés s'arrêtent pourtant à 19 h ou 20 h selon la page. Selon la page consacrée au striptease, les soirées à thème accueillent aussi des numéros de striptease et de pole dance."
+        }
+      ]
+    },
+    {
+      "id": "sauna-hammam-glory-holes-prison",
+      "title": "Sauna et hammam chaque après-midi, deux glory holes et une prison",
+      "icon": "spa",
+      "summary": "Sauna et hammam fonctionnent l'après-midi sauf le mercredi, inclus dans l'entrée ; le site décrit aussi salle aux miroirs, squirt room, deux glory holes, prison et matériel BDSM.",
+      "sources": [
+        "s6",
+        "s7",
+        "s11",
+        "s12",
+        "s21",
+        "s24",
+        "s30",
+        "s38",
+        "s39"
+      ],
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Pour qui cherche un **sauna libertin à Nice**, c'est l'atout du lieu : le sauna et le hammam tournent chaque après-midi sauf le mercredi, et leur accès est compris dans l'entrée de l'après-midi. Le Sauna du Château, rue des Ponchettes, se présente lui comme un établissement gay et gay-friendly. Le site du Boudoir énumère ensuite ses salles :"
+        },
+        {
+          "kind": "list",
+          "items": [
+            "un lounge, point de départ de la soirée, et un bar à fessée ;",
+            "une salle aux miroirs et une squirt room ;",
+            "deux glory holes ;",
+            "une « prison » à barreaux pour les jeux de domination, et une salle polyvalente baptisée Coquinade ;",
+            "un équipement BDSM réparti dans plusieurs salles : croix de Saint-André, cheval d'arçon, carcan, cage, banc à fessée et sling, plus fouets, cravaches et menottes ;",
+            "une salle fumeur, un vestiaire sécurisé et des douches."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "En octobre 2025, l'ancienne version du site décrivait en plus une pièce réservée aux couples, avec barre de pole dance, salon vidéo et aménagement SM ; la version de 2026 ne la mentionne plus. En 2016, le club décrivait un grand espace tamisé au rez-de-chaussée et un coin plus intime au sous-sol.\n\nSelon le Petit Futé (février 2024), le lieu compte 200 m² climatisés et une piste de danse avec barre de pole dance ; un avis Google de juin 2025 place l'espace « clubbing » à l'étage inférieur.\n\nLe site propose aussi des massages naturistes sur rendez-vous (californien, body body ou réciproque), des striptease en séance privée et des cours de pole dance, sans en afficher les prix."
+        }
+      ]
+    },
+    {
+      "id": "homme-seul-50-euros-couple-20",
+      "title": "Homme seul à 50 € le soir, couple à 20 € : la grille, le dress code et la charte",
+      "icon": "euro",
+      "summary": "Couple 20 €, femme seule invitée, homme seul 30 € l'après-midi et 50 € les soirs du jeudi au samedi ; chemise exigée et préservatif obligatoire.",
+      "sources": [
+        "s4",
+        "s8",
+        "s19",
+        "s24",
+        "s25"
+      ],
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "L'écart compte surtout le soir : un homme seul paie 50 € du jeudi au samedi, quand un couple entre pour 20 € et qu'une femme seule est invitée. Le jeudi soir valait encore 40 € pour un homme seul en octobre 2025 ; en janvier 2026, il était aligné sur le vendredi et le samedi.\n\nVenir à deux revient donc moins cher. Le site français Gleese, lancé fin 2024, permet de [chercher une partenaire de soirée niçoise sans enregistrer de carte bancaire](aff:gleese) ; chaque profil y est vérifié par téléphone."
+        },
+        {
+          "kind": "list",
+          "title": "Ce qu'impose la charte du Boudoir",
+          "items": [
+            "Femmes : robe, lingerie, talons, la tenue « sexy et glamour » est attendue.",
+            "Hommes : chemise et pantalon soigné au minimum ; jeans troués, baskets et shorts refusés.",
+            "Les femmes sollicitent, jamais l'inverse.",
+            "Préservatif obligatoire dans tous les espaces de jeu.",
+            "Prostitution et escorting interdits ; tout manque de respect vaut exclusion définitive."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "À titre de comparaison, en 2010, L'AS faisait entrer couples et femmes seules gratuitement et demandait 30 € à l'homme seul l'après-midi, 50 € le jeudi soir."
+        }
+      ]
+    },
+    {
+      "id": "ancienne-gare-saint-augustin-tram-parc-phoenix",
+      "title": "Près de l'ancienne gare Saint-Augustin, désaffectée en 2022, à 270 m du tram Parc Phoenix",
+      "icon": "map",
+      "summary": "Les « 50 mètres de la gare Nice Saint-Augustin » du site se comptent depuis l'ancienne gare, désaffectée en 2022 ; le tram Parc Phoenix (lignes 2 et 3) est à 270 m.",
+      "sources": [
+        "s4",
+        "s25",
+        "s32",
+        "s33",
+        "s34",
+        "s36",
+        "s37"
+      ],
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le site place le Boudoir « à 50 mètres de la gare Nice Saint-Augustin », comme le faisait déjà l'ancien site en janvier 2026. Ce repère désigne l'ancienne gare : le 1er septembre 2022, la gare a été déplacée de 400 mètres vers l'ouest, près de l'arrêt de tram Grand Arénas, et l'ancien bâtiment est désaffecté."
+        },
+        {
+          "kind": "text",
+          "body": "Qui descend du TER à Nice Saint-Augustin se trouve donc à environ 700 mètres du club, à vol d'oiseau. L'arrêt de tram Parc Phoenix, sur les lignes 2 et 3, est à environ 270 mètres, et l'arrêt de bus Grinda des Lignes d'Azur à environ 350 mètres, d'après OpenStreetMap."
+        },
+        {
+          "kind": "text",
+          "body": "Le n° 30 est une résidence d'habitation, Les Agapanthes (Domaine Saïda), d'après les adresses que les entreprises du même numéro déclarent au registre ; le site parle d'une « façade discrète ». Les Studios de la Victorine sont au 16 de la même avenue. Sur Google Maps, le club apparaît sous le nom « Le Boudoir Cosy Bar »."
+        }
+      ]
+    },
+    {
+      "id": "site-2026-galerie-visite-virtuelle",
+      "title": "Site refait en 2026 : 21 photos, une vue à 360° et un bandeau qui oublie le mercredi",
+      "icon": "camera",
+      "summary": "Le site actuel a pris la suite de l'ancien après le 8 mars 2026 : galerie de 21 photos, visite virtuelle à 360° sur Google, et un bandeau qui contredit la fermeture du mercredi.",
+      "sources": [
+        "s4",
+        "s7",
+        "s9",
+        "s10",
+        "s25",
+        "s31",
+        "s32",
+        "s35",
+        "s40",
+        "s41"
+      ],
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le site consulté le 19 octobre 2026 n'est plus celui des archives. L'ancien, sous WordPress, s'intitulait « Le Boudoir Libertin » et répondait encore le 8 mars 2026. Le nouveau, créé avec l'outil Local.fr, porte sur chaque page « © 2026 LACHER PRISE LE BOUDOIR », l'enseigne de ses mentions légales."
+        },
+        {
+          "kind": "text",
+          "body": "L'année seule ne prouverait rien : l'ancien site affichait lui aussi « Copyright © 2026 » en janvier. L'enseigne, en revanche, n'y figurait pas, et les 21 photos de la nouvelle galerie ont été déposées le 16 février 2026."
+        },
+        {
+          "kind": "text",
+          "body": "Le club présente cette galerie officielle en promettant « velours, lumières dorées, reflets complices ». Le bouton « Visite virtuelle » de l'accueil ouvre une vue à 360° publiée sur la fiche Google du lieu, intitulée « Le Boudoir Cosy Bar » et classée en club de divertissement pour adultes."
+        },
+        {
+          "kind": "text",
+          "body": "L'accueil renvoie aussi vers une page Facebook restée au nom de « Boudoir Cosy Bar » et vers le compte Instagram « Le Boudoir Libertin Nice » ; ni l'une ni l'autre ne se lit sans compte (relevé du 20/10/2026)."
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Le mercredi, le bandeau dit ouvert, la grille dit fermé",
+          "body": "Un bandeau défilant répète « Ouvert du lundi au dimanche » sur toutes les pages, sauf les mentions légales. Les horaires de l'accueil et de la page Contact indiquent pourtant le mercredi fermé, comme la page sauna et l'ancien site en janvier 2026. Relevé le 19/10/2026 : avant de venir un mercredi, appelez le 04 93 72 05 30."
+        }
+      ]
+    },
+    {
+      "id": "avis-google-3-8-nouveaux-proprietaires",
+      "title": "3,8 sur 5 pour 42 avis Google relayés, et les « nouveaux propriétaires » salués dès février 2026",
+      "icon": "star",
+      "summary": "Note Google relayée par un agrégateur : 3,8/5 sur 42 avis ; en février et avril 2026, des clients saluent les nouveaux propriétaires. Petit Futé : 3/5 sur trois avis anciens.",
+      "sources": [
+        "s38",
+        "s39"
+      ],
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Cette note n'a pas été lue sur Google même : elle vient de l'agrégateur Wanderboat, consulté le 20 octobre 2026, qui reproduit 21 des 42 avis, tous notés 4 ou 5. Les avis moins favorables, qui tirent la moyenne à 3,8, n'y figurent pas."
+        },
+        {
+          "kind": "list",
+          "title": "Ce que disent les avis reproduits",
+          "items": [
+            "L'accueil des propriétaires, la propreté et le nombre de coins câlins reviennent le plus souvent.",
+            "Juin 2025 : après-midi très calmes, lieu animé à partir du vendredi soir.",
+            "Octobre 2022 : beaucoup d'hommes seuls, quelques femmes seules et couples.",
+            "6 février et 11 avril 2026 : deux clients saluent l'accueil des nouveaux propriétaires."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Sur le Petit Futé, les membres donnent 3/5 sur trois avis déposés entre 2014 et 2020 ; le plus récent jugeait l'établissement mal géré, avant la reprise."
+        }
+      ]
+    },
+    {
+      "id": "de-l-as-au-boudoir",
+      "title": "De la salle de sport libertine de 2010 au Boudoir repris en 2025-2026",
+      "icon": "history",
+      "summary": "La société A.S.S. exploite le lieu depuis 2008 : L'AS, sur ass06.com puis ass06.fr, a cédé la place au Boudoir, dont le site annonce en 2026 un nouveau propriétaire.",
+      "sources": [
+        "s38",
+        "s42",
+        "s43",
+        "s44",
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s13",
+        "s14",
+        "s15",
+        "s16",
+        "s17",
+        "s18",
+        "s19",
+        "s20",
+        "s21",
+        "s22",
+        "s23",
+        "s25",
+        "s26",
+        "s27",
+        "s28",
+        "s31",
+        "s35"
+      ],
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le nom L'AS et le site ass06.com reprenaient les lettres de la société exploitante, A.S.S. Les annuaires le classent encore en club libertin ou en « salle de sport libertine » : en 2010, le club mettait en effet à disposition appareils de musculation et de cardio, sauna, hammam, serviettes et paréos.\n\nLe Boudoir, d'abord présenté comme le bar lounge de L'AS, a fini par donner son nom à tout le lieu."
+        },
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "2004-2008",
+              "text": "Création de la SARL A.S.S. en janvier 2004 ; son établissement du 30 avenue Edouard Grinda est en activité depuis le 1er janvier 2008."
+            },
+            {
+              "date": "Automne 2010",
+              "text": "En octobre, le site invite à « mettre le cap sur L'AS » ; en novembre, il annonce une ouverture sept jours sur sept de 14 h à 20 h, plus le jeudi soir de 20 h à minuit."
+            },
+            {
+              "date": "Mars 2012",
+              "text": "Vendredi soir réservé aux couples et aux femmes seules ; jeudi soir à thème avec buffet, gratuit pour les couples."
+            },
+            {
+              "date": "Janvier 2015",
+              "text": "Une carte mensuelle couple à 50 € donne un accès illimité, jour et soir."
+            },
+            {
+              "date": "Août 2016",
+              "text": "ass06.com présente le lieu comme « le seul lounge bar libertin de la Côte d'Azur »."
+            },
+            {
+              "date": "Octobre 2017",
+              "text": "Le domaine leboudoirlibertin-nice.com est enregistré le 2 ; le site « Le Boudoir Libertin » annonce une ouverture quotidienne dès 14 h."
+            },
+            {
+              "date": "Mars 2018",
+              "text": "Le blog ass06.fr annonce l'ouverture sept jours sur sept dès 14 h, mercredi compris, et des soirées avec buffet du jeudi au samedi."
+            },
+            {
+              "date": "2019",
+              "text": "En mai, A.S.S. ajoute un débit de boissons de licence III à son activité. ass06.com n'affiche plus qu'une page d'hébergeur expiré, puis, en 2024, un blog sans rapport ; le blog jumeau ass06.fr reste en ligne jusqu'en 2021 et titre en octobre une page au nom du Boudoir."
+            },
+            {
+              "date": "2020-2021",
+              "text": "Le chiffre d'affaires passe de 81 491 € à 48 562 €, puis 20 775 €, avant de remonter à 85 282 € en 2023. Les comptes n'en donnent pas la raison."
+            },
+            {
+              "date": "Juillet 2025",
+              "text": "L'agenda de l'ancien site annonce un « Big Opening » le vendredi 4 juillet 2025, sans en dire davantage."
+            },
+            {
+              "date": "23 décembre 2025",
+              "text": "Le BODACC publie un changement dans l'administration d'A.S.S., deux jours après le dépôt des comptes 2025 (63 358 € de chiffre d'affaires)."
+            },
+            {
+              "date": "2026",
+              "text": "Dès le 6 février, un avis Google salue les nouveaux propriétaires. Les 21 photos d'un nouveau site sont déposées le 16 février ; l'ancien, sous WordPress, répond encore le 8 mars. Le nouveau prend le nom de Lâcher Prise Le Boudoir et annonce un « nouveau propriétaire »."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "equipements": [
+    "Sauna",
+    "Hammam",
+    "Lounge bar",
+    "Salle aux miroirs",
+    "Squirt room",
+    "Deux glory holes",
+    "Prison",
+    "Bar à fessée",
+    "Croix de Saint-André",
+    "Sling",
+    "Cage",
+    "Matériel BDSM",
+    "Salle fumeur",
+    "Vestiaire sécurisé",
+    "Douches"
+  ],
+  "officialLinks": [
+    {
+      "label": "Site officiel de Lâcher Prise Le Boudoir",
+      "url": "https://www.leboudoirlibertin-nice.com/",
+      "kind": "site"
+    },
+    {
+      "label": "Programme des soirées du mois",
+      "url": "https://www.leboudoirlibertin-nice.com/nos-soirees",
+      "kind": "agenda"
+    },
+    {
+      "label": "Charte et dress code",
+      "url": "https://www.leboudoirlibertin-nice.com/le-dress-code",
+      "kind": "autre"
+    },
+    {
+      "label": "Galerie photos officielle (21 photos déposées le 16/02/2026)",
+      "url": "https://www.leboudoirlibertin-nice.com/galerie-photos",
+      "kind": "galerie"
+    },
+    {
+      "label": "Page Facebook « Boudoir Cosy Bar »",
+      "url": "https://www.facebook.com/p/Boudoir-Cosy-Bar-100052510406390/",
+      "kind": "facebook"
+    },
+    {
+      "label": "Instagram « Le Boudoir Libertin Nice » (@boudoir_libertin)",
+      "url": "https://www.instagram.com/boudoir_libertin/",
+      "kind": "instagram"
+    },
+    {
+      "label": "Visite virtuelle à 360° (fiche Google « Le Boudoir Cosy Bar »)",
+      "url": "https://www.google.com/local/place/fid/0x12cdd103c079b2b9:0x3b4bb2c6c861e83c/photosphere?iu=https://lh3.googleusercontent.com/gps-cs-s/AHVAweqT5DkuU7KlQrmPozE_Ex_sKxitFjdoadpjp3xSG5SRXnkB87GhZp57YeYzchrFrEs-YwBonQvb7mG9T9fTvSWIJG7QbuACQJL-9PG08kXvpUGOp5_O3J5LzOyN9GriS1tv89kV%3Dw160-h106-k-no-pi-0-ya121.72901-ro-0-fo100&ik=CAoSFkNJSE0wb2dLRUlDQWdJRGN4X1hjR2c%3D",
+      "kind": "autre"
+    }
+  ],
+  "corrections": {
+    "telephone": "04 93 72 05 30",
+    "site_web": "https://www.leboudoirlibertin-nice.com/",
+    "sources": [
+      "s4",
+      "s9",
+      "s23",
+      "s29"
+    ]
+  },
+  "faq": [
+    {
+      "question": "L'AS, à Nice, est-elle encore ouverte ?",
+      "answer": "Oui, sous un autre nom : le lieu du 30 avenue Edouard Grinda s'appelle aujourd'hui Lâcher Prise Le Boudoir, et son site programme des soirées chaque jeudi, vendredi et samedi d'octobre 2026. L'ancien site, ass06.com, sert depuis mai 2024 un blog sans rapport avec le club."
+    },
+    {
+      "question": "L'AS et Le Boudoir sont-ils le même établissement ?",
+      "answer": "Oui. Les mentions légales du site du Boudoir désignent comme éditrice la société A.S.S., dont l'unique établissement est au 30 avenue Edouard Grinda ; dès 2016, le site de L'AS présentait son bar sous le nom de « cosy bar », et PagesJaunes rattache encore une fiche « Boudoir Cosybar » au numéro SIRET d'A.S.S."
+    },
+    {
+      "question": "Combien coûte l'entrée au Boudoir ?",
+      "answer": "Selon la grille du site au 19 octobre 2026 : 20 € pour un couple, entrée offerte pour une femme seule, 30 € l'après-midi et 50 € les soirs du jeudi au samedi pour un homme seul. Couples et femmes seules qui cherchent des partenaires avant d'y aller peuvent [repérer des couples de Nice et du littoral sur Carré Libertin](aff:carre-libertin), gratuit pour eux dès trois photos de profil."
+    },
+    {
+      "question": "Le Boudoir est-il ouvert le mercredi ?",
+      "answer": "Non, d'après les horaires de l'accueil et de la page Contact relevés le 19 octobre 2026 : le club ouvre six jours sur sept, mercredi fermé, et la page sauna précise « sauf mercredi ». Le bandeau défilant du site, « Ouvert du lundi au dimanche », dit le contraire ; en cas de doute, le 04 93 72 05 30 tranche."
+    },
+    {
+      "question": "Où trouver un sauna libertin à Nice ?",
+      "answer": "Le Boudoir ouvre son sauna et son hammam tous les après-midi sauf le mercredi. En ville, le [Sauna du Château](/sauna-du-chateau-nice), rue des Ponchettes, ouvre tous les jours dès 13 h (22 € l'entrée) selon son site, mis à jour le 12 septembre 2026 ; il se présente comme gay et gay-friendly, toutes tendances confondues."
+    },
+    {
+      "question": "Quels autres clubs libertins à Nice ?",
+      "answer": "Toutes nos fiches niçoises n'ont pas été revérifiées : celle du [Sauna Le 16](/sauna-le-16-nice), rue Smollett, est classée en fermeture probable. Les autres adresses figurent sur [la page de Nice](/ville/nice) et [celle des Alpes-Maritimes](/departement/alpes-maritimes). Avant de vous déplacer, [l'agenda national des soirées tenu par Wyylde](aff:wyylde), l'ex-Netéchangisme, se consulte avec un compte gratuit : de quoi vérifier si une autre soirée est annoncée sur le littoral le même soir."
+    },
+    {
+      "question": "Quelle tenue faut-il pour entrer au Boudoir ?",
+      "answer": "La charte demande aux hommes une chemise et un pantalon soigné au minimum et refuse jeans troués, baskets et shorts ; pour les femmes, une tenue sexy et glamour, talons compris, est attendue."
+    },
+    {
+      "question": "Comment venir au Boudoir en tram ou en train ?",
+      "answer": "L'arrêt de tram le plus proche est Parc Phoenix, sur les lignes 2 et 3, à environ 270 m à vol d'oiseau selon OpenStreetMap. En TER, la gare Nice Saint-Augustin a été déplacée de 400 m vers l'ouest en septembre 2022 et se trouve désormais à environ 700 m : les « 50 mètres » annoncés par le site se comptent depuis l'ancienne gare, désaffectée."
+    }
+  ],
+  "unverified": [
+    "Le mercredi : fermé selon la grille horaire et la page sauna, ouvert selon le bandeau « Ouvert du lundi au dimanche » du même site.",
+    "L'heure de fermeture du lundi et du mardi : 19 h sur la page d'accueil, 20 h sur la page Contact.",
+    "Le stationnement : le site n'indique ni parking ni conseil pour venir en voiture.",
+    "Ce que recouvrait le « Big Opening » du 4 juillet 2025 annoncé par l'ancien site.",
+    "Le prix couple selon le moment : la grille n'affiche qu'un tarif de 20 €, sans distinguer l'après-midi du soir.",
+    "La forme de la reprise annoncée (« nouveau propriétaire ») : le BODACC ne mentionne qu'un changement dans l'administration de la société en décembre 2025, et des avis saluent les nouveaux propriétaires dès février 2026.",
+    "Le prix des massages naturistes, des séances de striptease et des cours de pole dance, absents du site.",
+    "Le maintien de la pièce réservée aux couples décrite en octobre 2025.",
+    "La note Google lue sur Google même : les agrégateurs relaient 3,8/5 sur 42 avis ou 3,9/5 sur 43 avis selon le relevé.",
+    "La surface et certains équipements : 200 m² selon le Petit Futé, 250 m² avec jacuzzi et parking privé selon un annuaire, ce que le site officiel ne dit pas."
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "sauna-club-libertin.com, fiche « L'AS » (id 15, club libertin)",
+      "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_3.php?id=15&d=06",
+      "type": "annuaire",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s2",
+      "label": "sauna-club-libertin.com, fiche « L'AS » (id 15434, club de remise en forme libertin)",
+      "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_3.php?id=15434&d=06",
+      "type": "annuaire",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s3",
+      "label": "sauna-club-libertin.com, fiche « Le Boudoir » (id 15493, bar libertin)",
+      "url": "https://www.sauna-club-libertin.com/v2/sauna_club_libertin_3.php?id=15493&d=06",
+      "type": "annuaire",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s4",
+      "label": "Site officiel Lâcher Prise Le Boudoir, accueil (tarifs, horaires, nouveau propriétaire)",
+      "url": "https://www.leboudoirlibertin-nice.com/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s5",
+      "label": "Site officiel, « Nos soirées » (programme d'octobre)",
+      "url": "https://www.leboudoirlibertin-nice.com/nos-soirees",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s6",
+      "label": "Site officiel, « Nos espaces »",
+      "url": "https://www.leboudoirlibertin-nice.com/nos-espaces",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s7",
+      "label": "Site officiel, « Sauna et hammam »",
+      "url": "https://www.leboudoirlibertin-nice.com/sauna-et-hammam",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s8",
+      "label": "Site officiel, dress code et charte du Boudoir",
+      "url": "https://www.leboudoirlibertin-nice.com/le-dress-code",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s9",
+      "label": "Site officiel, page Contact (horaires, tarifs)",
+      "url": "https://www.leboudoirlibertin-nice.com/contact",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s10",
+      "label": "Site officiel, mentions légales (éditeur : A.S.S., enseigne Lâcher Prise Le Boudoir)",
+      "url": "https://www.leboudoirlibertin-nice.com/mentions-legales",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s11",
+      "label": "Site officiel, « Massages »",
+      "url": "https://www.leboudoirlibertin-nice.com/massages",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s12",
+      "label": "Site officiel, « Striptease »",
+      "url": "https://www.leboudoirlibertin-nice.com/striptease",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s13",
+      "label": "Annuaire des entreprises, SARL A.S.S. (SIREN 451 772 065)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/451772065",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s14",
+      "label": "BODACC, annonces de la SARL A.S.S. (2010-2025)",
+      "url": "https://bodacc-datadila.opendatasoft.com/api/explore/v2.1/catalog/datasets/annonces-commerciales/records?where=registre%20like%20%22451772065%22",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s15",
+      "label": "Ratios financiers INPI-BCE, SARL A.S.S. (exercices 2016-2025)",
+      "url": "https://data.economie.gouv.fr/api/explore/v2.1/catalog/datasets/ratios_inpi_bce/records?where=siren%3D%22451772065%22",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s16",
+      "label": "RDAP Verisign, domaine leboudoirlibertin-nice.com (créé le 02/10/2017, modifié le 08/10/2026)",
+      "url": "https://rdap.verisign.com/com/v1/domain/leboudoirlibertin-nice.com",
+      "type": "autre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s17",
+      "label": "ass06.com, page d'accueil de L'AS, archive du 15/10/2010",
+      "url": "https://web.archive.org/web/20101015033937/http://www.ass06.com:80/Article-Club-Libertin-Nice--Cap-sur-ASS-8,73.html",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s18",
+      "label": "ass06.com, horaires de L'AS, archive du 11/11/2010",
+      "url": "https://web.archive.org/web/20101111205709/http://ass06.com:80/Article-Nos-Horaires-8,74.html",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s19",
+      "label": "ass06.com, tarifs et équipements de L'AS, archive du 11/11/2010",
+      "url": "https://web.archive.org/web/20101111205729/http://ass06.com:80/Article-Tarifs-8,72.html",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s20",
+      "label": "ass06.com, accueil de L'AS (soirées du jeudi et du vendredi), archive du 29/03/2012",
+      "url": "https://web.archive.org/web/20120329011249/http://ass06.com/Article-Club-Libertin-Nice--Cap-sur-ASS-1,73.html",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s21",
+      "label": "ass06.com, « Le seul lounge bar libertin de la Côte d'Azur », archive du 27/08/2016",
+      "url": "https://web.archive.org/web/20160827111009/http://ass06.com/Article-LE-SEUL-LOUNGE-BAR-LIBERTIN-DE-LA-C%C3%94TE-D-AZUR-1,2674.html",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s22",
+      "label": "ass06.com, « Lounge bar cosy bar », archive du 08/02/2016",
+      "url": "https://web.archive.org/web/20160208103427/http://ass06.com:80/Article-LOUNGE-BAR-COSY-BAR-4,1571.html",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s23",
+      "label": "leboudoirlibertin-nice.com, accueil « Le Boudoir Libertin », archive du 31/10/2017",
+      "url": "https://web.archive.org/web/20171031080112/http://leboudoirlibertin-nice.com/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s24",
+      "label": "leboudoirlibertin-nice.com, accueil (espaces, tarifs), archive du 17/10/2025",
+      "url": "https://web.archive.org/web/20251017075727/http://leboudoirlibertin-nice.com/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s25",
+      "label": "leboudoirlibertin-nice.com, accueil (tarifs), archive du 15/01/2026",
+      "url": "https://web.archive.org/web/20260115150346/http://leboudoirlibertin-nice.com/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s26",
+      "label": "ass06.com, carte mensuelle couple, archive du 06/01/2015",
+      "url": "https://web.archive.org/web/20150106211625/http://www.ass06.com:80/Rubrique-Nos-Tarifs,39.html",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s27",
+      "label": "ass06.com, page d'hébergeur expiré, archive du 08/07/2019",
+      "url": "https://web.archive.org/web/20190708124116/http://ass06.com/",
+      "type": "autre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s28",
+      "label": "ass06.com aujourd'hui (blog sur JM-Date, articles de mai 2024) et RDAP du domaine (réenregistré le 21/05/2024)",
+      "url": "https://rdap.verisign.com/com/v1/domain/ass06.com",
+      "type": "autre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s29",
+      "label": "PagesJaunes, fiche « Boudoir Cosybar » (SIRET 451 772 065 00012)",
+      "url": "https://www.pagesjaunes.fr/pros/57384432",
+      "type": "annuaire",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s30",
+      "label": "Sauna du Château, site officiel (autre établissement)",
+      "url": "http://www.saunaduchateau.com/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s31",
+      "label": "Site officiel, « Galerie photos » (21 photos déposées le 16/02/2026 selon les données du module de galerie)",
+      "url": "https://www.leboudoirlibertin-nice.com/galerie-photos",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s32",
+      "label": "Visite virtuelle liée depuis l'accueil du site : vue à 360° de la fiche Google « Le Boudoir Cosy Bar » (club de divertissement pour adultes)",
+      "url": "https://www.google.com/local/place/fid/0x12cdd103c079b2b9:0x3b4bb2c6c861e83c/photosphere?iu=https://lh3.googleusercontent.com/gps-cs-s/AHVAweqT5DkuU7KlQrmPozE_Ex_sKxitFjdoadpjp3xSG5SRXnkB87GhZp57YeYzchrFrEs-YwBonQvb7mG9T9fTvSWIJG7QbuACQJL-9PG08kXvpUGOp5_O3J5LzOyN9GriS1tv89kV%3Dw160-h106-k-no-pi-0-ya121.72901-ro-0-fo100&ik=CAoSFkNJSE0wb2dLRUlDQWdJRGN4X1hjR2c%3D",
+      "type": "carte",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s33",
+      "label": "Wikipédia, « Gare de Nice-Saint-Augustin » (gare déplacée de 400 m vers l'ouest le 01/09/2022, correspondance tram à l'arrêt Grand Arénas)",
+      "url": "https://fr.wikipedia.org/wiki/Gare_de_Nice-Saint-Augustin",
+      "type": "autre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s34",
+      "label": "OpenStreetMap : ancienne gare désaffectée, gare actuelle (en service depuis le 01/09/2022), arrêts Parc Phoenix (tram 2 et 3) et Grinda (bus), Studios de la Victorine ; distances à vol d'oiseau calculées depuis le n° 30",
+      "url": "https://www.openstreetmap.org/?mlat=43.6717&mlon=7.2178#map=16/43.6710/7.2150",
+      "type": "carte",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s35",
+      "label": "leboudoirlibertin-nice.com, ancien site WordPress, page « Big Opening » du 4 juillet 2025, archive du 08/03/2026",
+      "url": "https://web.archive.org/web/20260308181008/https://www.leboudoirlibertin-nice.com/agenda/ouverture-le-4-juillet/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s36",
+      "label": "Base Adresse Nationale, 30 avenue Edouard Grinda, 06200 Nice (coordonnées)",
+      "url": "https://api-adresse.data.gouv.fr/search/?q=30+avenue+edouard+grinda+nice",
+      "type": "carte",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s37",
+      "label": "Registre des entreprises, établissements déclarés au 30 avenue Edouard Grinda (résidence Les Agapanthes, Domaine Saïda)",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=30%20avenue%20edouard%20grinda&code_postal=06200",
+      "type": "registre",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s38",
+      "label": "Wanderboat, fiche « Le Boudoir Cosy Bar » : note Google relayée (3,8/5, 42 avis) et 21 avis datés de 2014 à juin 2026",
+      "url": "https://wanderboat.ai/restaurants/france/nice/le-boudoir-cosy-bar/ZKr6cAkISQq6Gn8mdnEDFQ",
+      "type": "avis",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s39",
+      "label": "Petit Futé, fiche « Le Boudoir Cosy Bar » (texte de la rédaction daté du 26/02/2024, 3 avis de membres)",
+      "url": "https://www.petitfute.com/v33027-nice-06000/c9998-coquin/c1044-s-amuser-sortir/c206-club-libertin/605021-le-boudoir-cosy-bar.html",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s40",
+      "label": "Facebook, page « Boudoir Cosy Bar » (liée depuis l'accueil du site officiel)",
+      "url": "https://www.facebook.com/p/Boudoir-Cosy-Bar-100052510406390/",
+      "type": "reseau_social",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s41",
+      "label": "Instagram, compte « Le Boudoir Libertin Nice » (@boudoir_libertin, lié depuis l'accueil du site officiel)",
+      "url": "https://www.instagram.com/boudoir_libertin/",
+      "type": "reseau_social",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s42",
+      "label": "ass06.fr, blog « ASS06, Club Libertin a Nice » : historique des captures Wayback (2010 à mai 2021)",
+      "url": "https://web.archive.org/cdx/search/cdx?url=ass06.fr&matchType=domain&fl=timestamp,original,statuscode&collapse=urlkey",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s43",
+      "label": "ass06.fr, « Nouveaux horaires : ouvert 7 jours sur 7 dès 14 h », archive du 28/03/2018",
+      "url": "https://web.archive.org/web/20180328135727/http://ass06.fr:80/Article-NOUVEAUX-HORAIRES---ATTENTION-OUVERT--7-jours-sur-7--d%C3%A8s-14-h--1,74.html",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s44",
+      "label": "ass06.fr, page « Nos dimanches hot et sex : Le Boudoir… », archive du 23/10/2019",
+      "url": "https://web.archive.org/web/20191023135930/http://ass06.fr/Article-NOS-DIMANCHES-HOT-ET-SEX--LE-Boudoir--LE-r%C3%AAve-qui-vous-poursuit-m%C3%AAme-en-journ%C3%A9e--1,2709.html",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    }
+  ]
+}

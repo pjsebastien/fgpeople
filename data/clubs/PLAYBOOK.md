@@ -168,7 +168,10 @@ La fiche est un fichier JSON conforme à `lib/types/club-profile.ts`, écrit dan
 
 ### Longueur : proportionnelle à la matière
 
-- Matière riche (site officiel détaillé, presse, histoire) : 1 200 à 2 500 mots.
+- Matière riche (site officiel détaillé, presse, histoire) : 1 200 à 2 500 mots ;
+  jusqu'à 3 500 mots pour un dossier de plus de 35 sources, à condition que
+  chaque section apporte des faits distincts (le rendu replie le détail, mais
+  un visiteur qui déplie ne doit jamais tomber sur une redite).
 - Matière moyenne : 600 à 1 200 mots.
 - Matière pauvre : 250 à 500 mots, avec une liste `unverified` concrète.
 
@@ -280,6 +283,16 @@ water, bed, car, lock, ticket, heart, mask, closed, ruler, phone, globe.
 - Section sur les avis : courte, sans bilan qui répète les autres sections, et
   jamais en tête de fiche, même quand « avis » est la première requête : le
   `summary` et la FAQ suffisent à servir cette requête.
+- Un titre de section décrit ce que contient la section, pas la section voisine.
+- Les règles quasi universelles (téléphone au vestiaire, protections, respect
+  du non) vont dans `highlights`, pas dans un titre de section, sauf si c'est
+  le fait saillant du club.
+- Club fermé, meta description : ni « où aller à la place », ni « club ouvert
+  en 2026 », « lieux actifs du … », « l'état des clubs du … » ou « tarifs
+  d'époque » en formule de fin.
+- Personnes : ne pas recouper les changements de dirigeants publiés au BODACC
+  avec des prénoms affichés sur le site, ni commenter le départ de membres de
+  l'équipe.
 - On sert une requête, on ne la cite pas : jamais « La requête « club
   libertin X » trouve sa réponse… » ni « Les recherches « … » » dans le texte.
 - Galerie officielle : n'en faire une section, ou la réponse à « photos »,
@@ -383,7 +396,10 @@ Libertin). Faits utilisables, entre autres :
 - **Gleese** : lancé fin 2024, inscription sans carte bancaire, profils
   vérifiés par téléphone, photos modérées à la main, site français.
 
-Faire tourner les faits : pas toujours le même trio (Carré Libertin « 2007 +
+**Rotation obligatoire** : `node scripts/partner-facts.mjs <slug>` propose,
+pour chaque partenaire, le fait vérifié le moins employé dans le corpus.
+Appuyer chaque lien sur ce fait (ou sur l'« autre possible »), jamais sur un
+fait signalé « saturé ». Faire tourner les faits : pas toujours le même trio (Carré Libertin « 2007 +
 trois photos », Gleese « fin 2024 + sans carte bancaire + téléphone », Wyylde
 « compte gratuit + abonnement pour répondre »). D'autres faits vérifiés
 existent : Wyylde rebaptisé en 2018 et ses 7 millions de membres revendiqués,

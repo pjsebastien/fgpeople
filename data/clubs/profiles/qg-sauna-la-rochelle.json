@@ -1,0 +1,303 @@
+{
+  "slug": "qg-sauna-la-rochelle",
+  "clubId": "new-qg-sauna-la-rochelle",
+  "researchedAt": "2026-10-20",
+  "status": {
+    "value": "ouvert",
+    "summary": "La page d'accueil de qgsauna.com, modifiée le 2 octobre 2026, détaille les horaires appliqués depuis la réouverture du vendredi 4 septembre 2026. Le fonds a changé de mains le 28 avril 2026 : la SARL RJJ Services, active au registre, l'a racheté à la société Mimosa.",
+    "sources": ["s1", "s2", "s10", "s12"]
+  },
+  "seo": {
+    "title": "QG Sauna à La Rochelle : jours mixtes, jours gays et tarifs 2026",
+    "metaDescription": "Sauna gay et libertin près du Casino, repris en avril 2026 : mixte le mardi, le vendredi, le samedi soir et le dimanche, couple à 25 €, nouveau numéro.",
+    "subtitle": "Sauna gay, bi et libertin sur trois niveaux, avenue Coligny à La Rochelle (17)",
+    "targetQueries": [
+      "qg sauna la rochelle",
+      "qg sauna",
+      "sauna libertin la rochelle",
+      "sauna gay la rochelle",
+      "qg sauna tarifs",
+      "qg sauna horaires",
+      "club libertin la rochelle"
+    ]
+  },
+  "lead": "Repris le 28 avril 2026 par la SARL RJJ Services, cinquième société à exploiter ce sauna depuis 2012, le QG Sauna de l'avenue Coligny, près du Casino, fait alterner journées gays et journées mixtes autour d'une balnéo naturiste, d'un bar licence IV et d'espaces sur trois niveaux. Son site qgsauna.com, lancé la même année avec un nouveau numéro, annonce depuis la réouverture du 4 septembre 2026 une grille qui ouvre aussi le jeudi soir. Les annuaires affichent encore l'ancien numéro, le jeudi fermé et l'entrée mixte à 20 €, passée à 25 €.",
+  "glance": [
+    { "icon": "calendar", "label": "Journées mixtes", "value": "Mar., ven., sam. soir, dim. et fériés" },
+    { "icon": "users", "label": "Journées gays", "value": "Lun., mer. (naturiste), sam. après-midi" },
+    { "icon": "clock", "label": "Jeudi soir", "value": "Toutes tendances, de 20 h à 1 h" },
+    { "icon": "couple", "label": "Entrée couple H/F", "value": "25 € avec deux consommations" },
+    { "icon": "ticket", "label": "Homme seul", "value": "25 € en mixte · 20 € en journée gay" },
+    { "icon": "history", "label": "Nouvel exploitant", "value": "Depuis le 28 avril 2026" }
+  ],
+  "audience": [
+    { "who": "couples", "status": "selon", "detail": "Journées mixtes et jeudi « toutes tendances » ; accès aux journées gays non précisé", "price": "25 €" },
+    { "who": "hommes", "status": "oui", "detail": "Chaque jour d'ouverture, en journée gay comme en journée mixte", "price": "20 à 25 €" },
+    { "who": "femmes", "status": "selon", "detail": "Entrée offerte avec une conso, ou 10 € avec deux ; accès aux journées gays non précisé", "price": "0 à 10 €" },
+    { "who": "trans", "status": "selon", "detail": "Même formule que les femmes : entrée offerte avec une conso, ou 10 € avec deux", "price": "0 à 10 €" }
+  ],
+  "highlights": [
+    "Le bon numéro est le 05 24 09 18 73 (site qgsauna.com) : le 05 17 26 57 84 et qgsauna.fr, repris par les annuaires, sont ceux de l'ancien exploitant.",
+    "Le jeudi n'est plus fermé : depuis le 4 septembre 2026, le sauna ouvre de 20 h à 1 h, toutes tendances confondues.",
+    "Aucune entrée n'est acceptée après 1 h, y compris le vendredi et le samedi soir, où le sauna ferme à 2 h.",
+    "Balnéo naturiste, maillot interdit : jacuzzi de 15 h à 23 h, hammam et sauna de 15 h à 1 h, même les jours où les portes ouvrent à midi.",
+    "Paréo exigé pour les hommes ; tenue sexy, lingerie, talons ou paréo pour les femmes. Paréo, serviette et claquettes sont compris dans l'entrée."
+  ],
+  "keyFacts": [
+    { "label": "Adresse", "value": "13 avenue Coligny, quartier du Mail, près du Casino", "confidence": "confirme", "sources": ["s1", "s5", "s10"] },
+    { "label": "Exploitant", "value": "SARL RJJ Services, enseigne QG Sauna, depuis le 28 avril 2026", "confidence": "confirme", "sources": ["s10", "s12"] },
+    { "label": "Public admis", "value": "Gay, bi et libertin mixte selon le jour", "confidence": "source_unique", "sources": ["s1"] },
+    { "label": "Jours d'ouverture", "value": "7 jours sur 7, le jeudi en soirée seulement", "confidence": "source_unique", "sources": ["s1"] },
+    { "label": "Entrée couple", "value": "25 €, deux consommations comprises", "confidence": "source_unique", "sources": ["s1"] },
+    { "label": "Espaces", "value": "Balnéo naturiste, bar licence IV, trois niveaux climatisés", "confidence": "source_unique", "sources": ["s1", "s12"] },
+    { "label": "Sauna à cette adresse", "value": "Depuis mars 2012, cinq exploitants successifs", "confidence": "confirme", "sources": ["s12", "s14", "s15", "s16", "s17", "s18"] },
+    { "label": "Nom « QG Sauna »", "value": "Attesté depuis décembre 2015", "confidence": "confirme", "sources": ["s8", "s20"] },
+    { "label": "Surface", "value": "254 m² annoncés en 2015, plus affichée depuis", "confidence": "a_verifier", "sources": ["s8", "s19"] },
+    { "label": "Téléphone", "value": "05 24 09 18 73", "confidence": "confirme", "sources": ["s1"] }
+  ],
+  "sections": [
+    {
+      "id": "reprise-rjj-services-2026",
+      "title": "Racheté 125 000 € le 28 avril 2026 : nouveau site, nouveau numéro",
+      "icon": "building",
+      "summary": "Depuis le 28 avril 2026, la SARL RJJ Services exploite le sauna, joignable via qgsauna.com et au 05 24 09 18 73, pas aux coordonnées que reprennent encore les annuaires.",
+      "blocks": [
+        { "kind": "text", "body": "La SARL RJJ Services, créée le 17 avril 2026 avec « QG Sauna » pour enseigne, a racheté le fonds à la société Mimosa par un acte du 28 avril 2026. Le prix, publié au Bodacc le 26 juillet, s'élève à 125 000 €. La vente porte sur un sauna, spa et hammam doté d'un bar licence IV." },
+        { "kind": "text", "body": "Le domaine qgsauna.com a été enregistré le 16 février 2026, deux mois avant la création de la société, et la page d'accueil créée le 25 mars. Il n'affiche ni adresse ni mentions légales. L'adresse du 13 avenue Coligny vient du registre, qui y situe le siège et l'unique établissement de la société." },
+        { "kind": "list", "title": "Ce que les annuaires n'ont pas mis à jour", "items": [
+          "**Téléphone** : 05 24 09 18 73. Le 05 17 26 57 84, encore affiché par SNEG & Co et plusieurs annuaires, était celui de l'ancien exploitant.",
+          "**Site** : qgsauna.com. L'ancien qgsauna.fr ne répond plus (dernière capture valide le 14 avril 2026) ; son nom de domaine a été réenregistré le 12 septembre 2026 par un détenteur non identifié.",
+          "**Jeudi** : ouvert le soir, alors que des annuaires l'indiquent toujours fermé.",
+          "**Horaires** : un agenda gay en ligne annonce 15 h – 2 h tous les jours, ce que le site officiel ne dit nulle part."
+        ] }
+      ],
+      "sources": ["s10", "s12", "s13", "s3", "s2", "s1", "s4", "s5", "s9", "s20", "s21", "s22"]
+    },
+    {
+      "id": "gay-mixte-toutes-tendances",
+      "title": "Gay le lundi, mixte le mardi, toutes tendances le jeudi soir",
+      "icon": "calendar",
+      "summary": "Depuis le 4 septembre 2026, le QG est mixte le mardi, le vendredi, le samedi soir et le dimanche, gay le lundi, le mercredi et le samedi après-midi, ouvert à tous le jeudi soir.",
+      "blocks": [
+        { "kind": "text", "body": "La grille du nouvel exploitant fait alterner trois publics sur la semaine. Elle s'applique depuis la réouverture du vendredi 4 septembre 2026, après cinq jours de fermeture. Comparée à celle de l'ancien exploitant, relevée sur son site en mars et avril 2026, elle change quatre choses." },
+        { "kind": "list", "items": [
+          "**Le jeudi** n'est plus un jour de fermeture : le sauna ouvre de 20 h à 1 h, « toutes tendances confondues ».",
+          "**Le lundi** devient une journée gay ; il était mixte de 12 h à 22 h selon l'ancien site, en avril 2026.",
+          "**Le dimanche** passe en mixte de 14 h à 20 h, comme les jours fériés. En mars 2026, c'était encore une journée « 100 % masculin », de 13 h à 21 h.",
+          "**Le samedi** garde ses deux temps, mais l'après-midi gay raccourcit : 14 h à 18 h au lieu de 13 h à 20 h. La soirée mixte reste de 20 h à 2 h, et le site n'annonce rien entre 18 h et 20 h."
+        ] },
+        { "kind": "text", "body": "Deux horaires limitent les arrivées. Aucune entrée n'est acceptée après 1 h, et la balnéo n'est annoncée qu'à partir de 15 h : les jours où les portes ouvrent à midi, jacuzzi, hammam et sauna ne figurent pas dans les horaires avant cette heure." },
+        { "kind": "text", "body": "Pour un couple, les créneaux annoncés sont les journées mixtes et le jeudi soir ; rien n'est dit de son accès aux journées gays. Carré Libertin, où l'accès complet ne coûte rien aux couples, fonctionne par annonces : chacun y écrit ce qu'il cherche, et l'on peut y [organiser à plusieurs couples un premier dimanche mixte](aff:carre-libertin) avenue Coligny." }
+      ],
+      "sources": ["s1", "s6", "s5", "s29"]
+    },
+    {
+      "id": "qg-ou-atlantis-jour-mixte",
+      "title": "Mixte le mardi au QG, le lundi à L'Atlantis d'Aytré, nulle part le mercredi",
+      "icon": "map",
+      "summary": "Avec L'Atlantis d'Aytré, l'autre sauna gay et libertin de l'agglomération, on trouve une journée mixte chaque jour sauf le mercredi, où les deux sont en journée gay.",
+      "blocks": [
+        { "kind": "text", "body": "Le QG n'est pas le seul sauna gay et libertin de l'agglomération. [L'Atlantis](/l-atlantis-aytre), installé rue Thalès dans la zone industrielle d'Aytré, alterne lui aussi journées gays et mixtes, mais pas les mêmes jours le lundi, le mardi et le dimanche. Relevées le 20 octobre 2026 sur les deux sites officiels, les deux grilles se complètent :" },
+        { "kind": "table", "headers": ["Jour", "QG Sauna (avenue Coligny)", "L'Atlantis (Aytré)"], "rows": [
+          ["Lundi", "gay, 12 h – 20 h", "mixte, 12 h – 20 h"],
+          ["Mardi", "mixte, 12 h – 22 h", "gay, 12 h – 20 h"],
+          ["Mercredi", "gay naturiste, 12 h – 20 h", "gay, 12 h – 20 h"],
+          ["Jeudi", "toutes tendances, 20 h – 1 h", "gay nudiste, 12 h – 22 h"],
+          ["Vendredi", "mixte, 12 h – 2 h", "mixte, 12 h – minuit"],
+          ["Samedi", "gay 14 h – 18 h, mixte 20 h – 2 h", "mixte, 14 h – minuit"],
+          ["Dimanche", "mixte, 14 h – 20 h", "gay, 14 h – 20 h"]
+        ] },
+        { "kind": "text", "body": "Un couple peut ainsi enchaîner deux journées mixtes, le lundi à Aytré puis le mardi au QG. Gleese, site français où chaque inscrit valide son numéro de téléphone, s'essaie sans carte bancaire : de quoi [partager ces deux journées avec un autre couple rochelais](aff:gleese)." },
+        { "kind": "text", "body": "L'Atlantis affiche des prix plus bas, « applicables au 1er mars 2024 » : 20 € pour un homme, 6 € pour une femme. À La Rochelle même, [Plaisir d'O](/plaisir-d-o-la-rochelle-port-neuf), sauna libertin du boulevard Aristide Rondeau, a fermé en 2016. Les autres adresses sont réunies sur la page [Charente-Maritime](/departement/charente-maritime)." },
+        { "kind": "text", "body": "Le site du QG ne publie ni agenda ni actualité. Pour une soirée à thème dans un club du département, comme [Angély's Club](/club-libertin-saint-jean) à Saint-Jean-d'Angély, l'agenda de Wyylde, l'ex-Netéchangisme rebaptisé en 2018, se consulte avec un compte gratuit : il permet de [repérer les samedis à thème des clubs charentais](aff:wyylde)." }
+      ],
+      "sources": ["s1", "s26", "s27", "s2"]
+    },
+    {
+      "id": "tarifs-25-euros",
+      "title": "25 € l'entrée mixte, 20 € la journée gay, 160 € la bouteille qui remplace l'entrée",
+      "icon": "euro",
+      "summary": "Avec la nouvelle grille, un homme seul paie 25 € en journée mixte (20 € avant), autant qu'un couple ; femmes et personnes trans entrent contre une consommation ou pour 10 €.",
+      "blocks": [
+        { "kind": "text", "body": "La nouvelle grille relève les entrées des journées mixtes ; en journée gay, les prix restent ceux de mars 2026 (20 € seul, 30 € à deux). Chaque entrée comprend une consommation, ainsi que le paréo, la serviette et les claquettes ; on peut ressortir une fois et revenir sans payer de nouveau." },
+        { "kind": "table", "caption": "Trois grilles du QG Sauna, de 2015 à 2026", "headers": ["Entrée", "Site en 2015", "Mars-avril 2026 (ancien exploitant)", "Site actuel (octobre 2026)"], "rows": [
+          ["Homme seul", "15 € (10 € la première heure et les deux dernières) ; 20 € en journée mixte", "19 € (accueil) ou 20 € (pages des journées)", "25 € en mixte, 20 € en journée gay"],
+          ["Couple homme-femme", "15 €", "22 €", "25 €, deux consommations"],
+          ["Femme seule", "gratuit", "5 €", "offerte avec une consommation, ou 10 € avec deux"],
+          ["Jeunes", "moins de 25 ans : 10 € (15 € en mixte)", "moins de 26 ans : 10 €", "moins de 26 ans : 15 € en mixte, 10 € en journée gay"],
+          ["Deux hommes, journée gay", "non précisé", "30 €", "30 €"],
+          ["Carte de 10 entrées", "non précisé", "150 €", "150 € (gay), 200 € (gay et mixte)"]
+        ] },
+        { "kind": "text", "body": "Un couple homme-femme paie 25 €, le prix d'un homme seul, avec une consommation de plus. Autre particularité : l'achat d'une bouteille d'alcool à 160 € dispense du droit d'entrée, tant que la bouteille reste au bar. Pour la formule « La Curieuse », le prix de la consommation obligatoire n'est pas affiché." }
+      ],
+      "sources": ["s1", "s5", "s6", "s29", "s8"]
+    },
+    {
+      "id": "avis-gaym-hausse-des-prix",
+      "title": "Deux avis Gaym du 1er juin contre l'entrée passée de 20 à 25 €",
+      "icon": "star",
+      "summary": "Les seuls avis lus portent sur la hausse des prix ; les notes Google de 4,4 et 4,5 relayées par des annuaires ne sont ni datées ni vérifiées.",
+      "blocks": [
+        { "kind": "text", "body": "Sur Gaym, application de rencontre gay, la fiche du lieu compte six avis. Les deux plus visibles, datés du « 01 juin » sans année, critiquent le passage de l'entrée de 20 à 25 € et de la carte de 150 à 200 € ; l'un juge le lieu « plus chère que Paris » et prédit sa fermeture." },
+        { "kind": "text", "body": "Ces montants correspondent au passage de l'ancienne grille à la nouvelle, ce qui situe très probablement ces avis en juin 2026, l'année n'étant pas affichée. En octobre 2026, aucune fermeture n'est annoncée." },
+        { "kind": "text", "body": "Des annuaires relaient une note Google de 4,5 sur 154 avis (Minuit Libertin) ou de 4,4 sur 169 (Kinkyee, plateforme non précisée), sans date. Elles n'ont pas été relevées sur Google et peuvent porter sur l'ancien exploitant autant que sur le nouveau." }
+      ],
+      "sources": ["s19", "s23", "s24"],
+      "confidence": "a_verifier"
+    },
+    {
+      "id": "quatre-ventes-du-fonds",
+      "title": "Quatre ventes du fonds depuis 2012, de 20 000 € à 125 000 €",
+      "icon": "history",
+      "summary": "Un sauna existe au 13 avenue Coligny depuis mars 2012 ; le fonds a été vendu quatre fois, 20 000 € en 2014 puis 125 000 € en 2026, et le nom QG Sauna apparaît fin 2015.",
+      "blocks": [
+        { "kind": "timeline", "items": [
+          { "date": "Mars 2012", "text": "La SARL Chico Malo crée un sauna au 13 avenue Coligny." },
+          { "date": "Mai 2014", "text": "Chico Malo est placée en liquidation judiciaire le 13 mai." },
+          { "date": "Novembre 2014", "text": "Le liquidateur cède le fonds 20 000 € à la société Magnum, qui l'exploite sous l'enseigne « BCBG »." },
+          { "date": "Juillet 2015", "text": "La société Promethee rachète le fonds 70 000 €." },
+          { "date": "Décembre 2015", "text": "Première trace du site qgsauna.fr : un « Spa et Bar Gay et libertin » de 254 m², gay six jours sur sept, mixte le mardi, entrée à 15 €." },
+          { "date": "Février-mars 2017", "text": "Mimosa, SARL fondée en 1999 et jusque-là immatriculée à Rouen, installe son siège à cette adresse puis rachète le fonds 50 000 €." },
+          { "date": "Janvier 2024", "text": "L'ancien site annonce de « nouveaux tarifs au 4 janvier 2024 », restés affichés jusqu'en avril 2026." },
+          { "date": "Avril 2026", "text": "Dernière capture valide de qgsauna.fr le 14 ; RJJ Services est créée le 17 et reprend le fonds le 28 pour 125 000 €." },
+          { "date": "Septembre 2026", "text": "Après une fermeture du 30 août au 3 septembre, réouverture le vendredi 4 avec de nouveaux horaires." },
+          { "date": "Octobre 2026", "text": "Dernière modification connue de la page d'accueil, le 2 octobre." }
+        ] },
+        { "kind": "text", "body": "Le nom « QG Sauna » n'est attesté qu'à partir de décembre 2015, après l'enseigne « BCBG » de 2014-2015, et a traversé les deux reprises suivantes. Le syndicat SNEG & Co indique de son côté que le lieu est adhérent depuis 2015." }
+      ],
+      "sources": ["s17", "s28", "s16", "s18", "s15", "s8", "s11", "s14", "s5", "s10", "s12", "s1", "s2", "s20"]
+    },
+    {
+      "id": "balneo-naturiste-trois-niveaux",
+      "title": "Jacuzzi, hammam et sauna sans maillot, trois niveaux climatisés",
+      "icon": "spa",
+      "summary": "Le site actuel décrit une balnéo entièrement naturiste (jacuzzi, hammam, sauna), un bar licence IV et des espaces répartis sur trois niveaux, le tout climatisé.",
+      "blocks": [
+        { "kind": "text", "body": "Le nouvel exploitant mise sur la fraîcheur : l'espace est présenté comme « 100% climatisé », d'où le slogan du « seul sauna qui rafraîchit ». La balnéo réunit un jacuzzi, un hammam et un sauna. Elle est entièrement naturiste, le maillot de bain y est interdit." },
+        { "kind": "list", "title": "Ce que décrit le site actuel", "items": [
+          "Jacuzzi de 15 h à 23 h ; hammam et sauna de 15 h à 1 h.",
+          "Bar avec licence IV, licence également citée dans la vente du fonds en 2026.",
+          "Des « lieux de plaisir » répartis sur trois niveaux, sans autre détail.",
+          "Dress code : paréo pour les hommes ; tenue sexy, lingerie, talons ou paréo pour les femmes."
+        ] },
+        { "kind": "callout", "tone": "info", "title": "Les équipements d'avant la reprise", "body": "En avril 2026, l'ancien site citait aussi un hammam de 20 m² avec douche froide, des cabines, une backroom avec glory hole, une salle vidéo, une salle fumeur, un labyrinthe, un sling et une croix de Saint-André. Le nouveau site n'en parle pas : leur maintien n'est pas confirmé." },
+        { "kind": "text", "body": "La surface n'est plus annoncée. Le site de 2015 parlait de 254 m². Un blog de 2023 situait les installations « sur deux étages », le site actuel parle de trois niveaux : un rez-de-chaussée et deux étages suffiraient à accorder les deux, mais aucune source ne le précise." }
+      ],
+      "sources": ["s1", "s12", "s5", "s7", "s8", "s25"]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Lundi": "12 h – 20 h · gay",
+      "Mardi": "12 h – 22 h · mixte",
+      "Mercredi": "12 h – 20 h · gay naturiste",
+      "Jeudi": "20 h – 1 h · toutes tendances confondues",
+      "Vendredi": "12 h – 2 h · mixte",
+      "Samedi": "14 h – 18 h gay · 20 h – 2 h mixte",
+      "Dimanche et jours fériés": "14 h – 20 h · mixte"
+    },
+    "note": "Grille annoncée à partir du vendredi 4 septembre 2026. Aucune entrée après 1 h. Jacuzzi de 15 h à 23 h, hammam et sauna de 15 h à 1 h.",
+    "confidence": "source_unique",
+    "sources": ["s1"]
+  },
+  "tarifs": {
+    "rows": {
+      "Couple homme-femme": "25 € (deux consommations)",
+      "Homme seul": "25 €",
+      "Femme ou personne trans, « La Curieuse »": "Entrée offerte, consommation obligatoire",
+      "Femme ou personne trans, « La Connaisseuse »": "10 € (deux consommations)",
+      "Moins de 26 ans": "15 €",
+      "Journée gay, une personne": "20 €",
+      "Journée gay, deux personnes": "30 €",
+      "Journée gay, moins de 26 ans": "10 €",
+      "10 entrées, journées gays": "150 €",
+      "10 entrées, gay et mixte": "200 €",
+      "Bouteille d'alcool": "160 €, dispense du droit d'entrée"
+    },
+    "note": "Sauf mention, l'entrée comprend une consommation (soft ou alcool en journée mixte, soft en journée gay), le paréo, la serviette et les claquettes. Une sortie avec retour est permise sans supplément.",
+    "confidence": "source_unique",
+    "sources": ["s1"]
+  },
+  "equipements": [
+    "Jacuzzi",
+    "Hammam",
+    "Sauna",
+    "Bar licence IV",
+    "Espaces sur trois niveaux",
+    "Climatisation"
+  ],
+  "officialLinks": [
+    { "label": "Site officiel (qgsauna.com)", "url": "https://qgsauna.com/", "kind": "site" }
+  ],
+  "faq": [
+    {
+      "question": "Le QG Sauna de La Rochelle est-il toujours ouvert ?",
+      "answer": "Oui. Le sauna a changé d'exploitant le 28 avril 2026 et la société repreneuse, RJJ Services, est active au registre. Après une fermeture du 30 août au 3 septembre 2026, il a rouvert le 4 septembre avec de nouveaux horaires, et sa page d'accueil a encore été modifiée le 2 octobre. Aucune annonce de fermeture n'a été trouvée."
+    },
+    {
+      "question": "Quels jours le QG Sauna est-il mixte ?",
+      "answer": "Le mardi de 12 h à 22 h, le vendredi de 12 h à 2 h, le samedi de 20 h à 2 h, le dimanche et les jours fériés de 14 h à 20 h. Le jeudi, de 20 h à 1 h, est annoncé « toutes tendances confondues ». Le lundi, le mercredi (naturiste) et le samedi de 14 h à 18 h sont des journées gays."
+    },
+    {
+      "question": "Combien coûte l'entrée au QG Sauna ?",
+      "answer": "En journée mixte : 25 € pour un homme seul, 25 € pour un couple homme-femme avec deux consommations, 15 € avant 26 ans. En journée gay : 20 € seul, 30 € à deux, 10 € avant 26 ans. Une consommation, le paréo, la serviette et les claquettes sont compris. Ces prix sont ceux affichés par le site officiel en octobre 2026."
+    },
+    {
+      "question": "Une femme seule paie-t-elle l'entrée ?",
+      "answer": "Pas avec la formule « La Curieuse » : l'entrée est offerte, mais une consommation est obligatoire, à un prix non affiché. « La Connaisseuse » coûte 10 € avec deux consommations. La même grille s'applique aux personnes transgenres. Le site ne précise pas si les femmes sont admises lors des journées gays."
+    },
+    {
+      "question": "Faut-il apporter un maillot de bain ?",
+      "answer": "Non : la balnéo est entièrement naturiste et le maillot y est interdit. Le paréo, la serviette et les claquettes sont fournis. Le dress code demande un paréo aux hommes, une tenue sexy, de la lingerie, des talons ou un paréo aux femmes."
+    },
+    {
+      "question": "Quel numéro appeler pour joindre le QG Sauna ?",
+      "answer": "Le 05 24 09 18 73, affiché sur qgsauna.com, qui propose aussi un formulaire de contact. Le 05 17 26 57 84 et le site qgsauna.fr appartenaient à l'exploitant précédent : le domaine .fr ne répond plus et a été réenregistré le 12 septembre 2026, par un détenteur que nous n'avons pas identifié."
+    },
+    {
+      "question": "Y a-t-il un autre sauna libertin à La Rochelle ?",
+      "answer": "À Aytré, commune voisine, [le sauna L'Atlantis](/l-atlantis-aytre) se présente comme sauna gay et libertin, mixte le lundi, le vendredi et le samedi selon son site. Plaisir d'O, boulevard Aristide Rondeau, est en revanche fermé depuis 2016. Les autres lieux sont réunis sur la page des [adresses libertines de La Rochelle](/ville/la-rochelle)."
+    }
+  ],
+  "unverified": [
+    "Les couples homme-femme et les femmes sont-ils admis lors des journées gays (lundi, mercredi, samedi de 14 h à 18 h) ?",
+    "Le jeudi « toutes tendances » est-il facturé au tarif mixte ou au tarif gay ?",
+    "Prix de la consommation obligatoire de la formule « La Curieuse ».",
+    "La backroom, le glory hole, la salle vidéo, le fumoir, le labyrinthe, le sling et la croix de Saint-André décrits avant la reprise existent-ils toujours ?",
+    "Surface et répartition actuelles : 254 m² annoncés en 2015, « deux étages » selon un blog de 2023, trois niveaux selon le site actuel.",
+    "Motif de la fermeture du 30 août au 3 septembre 2026 : congés ou travaux ?",
+    "Note Google actuelle : les chiffres de 4,4 et 4,5 viennent d'annuaires et n'ont pas été relevés sur Google.",
+    "La page Facebook du lieu n'a pas pu être lue sans connexion : aucune publication datée n'a été consultée."
+  ],
+  "sources": [
+    { "id": "s1", "label": "Site officiel, page d'accueil « Le QG Sauna La Rochelle »", "url": "https://qgsauna.com/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s2", "label": "Site officiel, API WordPress (page d'accueil créée le 25/03/2026, modifiée le 02/10/2026)", "url": "https://qgsauna.com/index.php/wp-json/wp/v2/pages", "type": "autre", "consulted": "2026-10-20" },
+    { "id": "s3", "label": "RDAP Verisign, domaine qgsauna.com (enregistré le 16/02/2026)", "url": "https://rdap.verisign.com/com/v1/domain/qgsauna.com", "type": "autre", "consulted": "2026-10-20" },
+    { "id": "s4", "label": "RDAP AFNIC, domaine qgsauna.fr (réenregistré le 12/09/2026, hors ligne)", "url": "https://rdap.nic.fr/domain/qgsauna.fr", "type": "autre", "consulted": "2026-10-20" },
+    { "id": "s5", "label": "Ancien site qgsauna.fr, accueil, archive du 14/04/2026", "url": "https://web.archive.org/web/20260414022140/https://qgsauna.fr/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s6", "label": "Ancien site qgsauna.fr, « Journées mixtes », archive du 14/04/2026", "url": "https://web.archive.org/web/20260414022825/https://qgsauna.fr/journees-mixtes/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s7", "label": "Ancien site qgsauna.fr, « Description », archive du 14/04/2026", "url": "https://web.archive.org/web/20260414025107/https://qgsauna.fr/description/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s8", "label": "Ancien site qgsauna.fr, accueil, archive du 24/12/2015", "url": "https://web.archive.org/web/20151224095201/http://qgsauna.fr/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s9", "label": "Ancien site qgsauna.fr, mentions légales, archive du 18/01/2026", "url": "https://web.archive.org/web/20260118012207/https://qgsauna.fr/mentions-legales/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s10", "label": "Annuaire des entreprises : RJJ SERVICES, enseigne QG SAUNA (SIREN 104 049 713)", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/104049713", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s11", "label": "Annuaire des entreprises : MIMOSA (SIREN 428 571 855)", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/428571855", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s12", "label": "BODACC du 26/07/2026 : vente du fonds de MIMOSA à RJJ SERVICES", "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20260140211", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s13", "label": "BODACC du 26/04/2026 : immatriculation de RJJ SERVICES", "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20260080244", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s14", "label": "BODACC du 20/04/2017 : vente du fonds de PROMETHEE à MIMOSA", "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20170077487", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s15", "label": "BODACC du 30/09/2015 : vente du fonds de MAGNUM à PROMETHEE", "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20150187121", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s16", "label": "BODACC du 11/11/2014 : cession du fonds de CHICO MALO à MAGNUM par le liquidateur", "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20140217232", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s17", "label": "BODACC de 2012 : création du sauna par CHICO MALO", "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20120075203", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s18", "label": "Recherche d'entreprises : établissements du 13 avenue Coligny (enseigne BCBG en 2014-2015)", "url": "https://recherche-entreprises.api.gouv.fr/search?q=13%20avenue%20coligny&code_postal=17000", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s19", "label": "Gaym, fiche du lieu « QG » (six avis)", "url": "https://www.gaym.com/les-lieux-gays/la-rochelle/qg-4531", "type": "avis", "consulted": "2026-10-20" },
+    { "id": "s20", "label": "SNEG & Co, fiche adhérent « QG Sauna »", "url": "https://www.snegandco.fr/qg-sauna/", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s21", "label": "AgendaQ, « QG Sauna »", "url": "https://www.agendaq.fr/fr/guide/qg-sauna", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s22", "label": "Sauna Club Le Bali, fiche « QG Sauna » (ajoutée en mars 2026)", "url": "https://www.saunaclublebali.fr/listing/qg-sauna-la-rochelle/", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s23", "label": "Minuit Libertin, « Le QG Sauna à La Rochelle »", "url": "https://minuitlibertin.com/le-qg-sauna-a-la-rochelle/", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s24", "label": "Kinkyee, « Club Libertin La Rochelle » (guide 2026)", "url": "https://kinkyee.fr/club-libertin/la-rochelle/", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s25", "label": "Monpetitdate, « Les clubs libertins de La Rochelle » (2023)", "url": "https://www.monpetitdate.fr/club-libertin-la-rochelle/", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s26", "label": "L'Atlantis (Aytré), site officiel, « Horaires & Tarifs »", "url": "https://www.sauna-atlantis.com/la-rochelle/horaires-tarifs/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s27", "label": "L'Atlantis (Aytré), site officiel, « Accès & Contact »", "url": "https://www.sauna-atlantis.com/la-rochelle/acces-contact/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s28", "label": "BODACC du 23/05/2014 : liquidation judiciaire de CHICO MALO (jugement du 13/05/2014)", "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A201400991235", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s29", "label": "Ancien site qgsauna.fr, « Journées gays », archive du 12/03/2026", "url": "https://web.archive.org/web/20260312015331/https://qgsauna.fr/journees-gay/", "type": "officiel", "consulted": "2026-10-20" }
+  ]
+}

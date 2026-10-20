@@ -1,0 +1,842 @@
+{
+  "slug": "la-villa-rose-caissargues",
+  "clubId": "new-la-villa-rose-caissargues",
+  "researchedAt": "2026-10-20",
+  "display": {
+    "nom": "La Villa Rose",
+    "ville": "Caissargues"
+  },
+  "status": {
+    "value": "ouvert",
+    "summary": "La page d'événements que le club tient sur Wyylde affiche, au 20 octobre 2026, vingt rendez-vous datés jusqu'au 1er novembre, dont trois soirées d'Halloween « Le Rituel ». Le site officiel répond, avec une grille tarifaire mise à jour en août 2025, et la SARL Les Pleiades qui l'édite est active au registre.",
+    "sources": [
+      "s5",
+      "s1",
+      "s3",
+      "s4",
+      "s8"
+    ]
+  },
+  "seo": {
+    "title": "La Villa Rose à Caissargues : club libertin près de Nîmes, tarifs",
+    "metaDescription": "Ex-Jardin d'Aphrodis, ce club mixte de 350 m² avec jacuzzi ouvre tous les jours : couple dès 30 €, femme seule gratuite hors samedi soir et dimanche.",
+    "subtitle": "Club libertin mixte avec jacuzzi, hammam et sauna, zone Euro 2000 à Caissargues (30)",
+    "targetQueries": [
+      "villa rose caissargues",
+      "la villa rose nîmes",
+      "club libertin caissargues",
+      "villa rose club libertin tarifs",
+      "jardin d'aphrodis caissargues",
+      "club libertin nîmes"
+    ]
+  },
+  "lead": "La Villa Rose a pris la suite du Jardin d'Aphrodis, fermé à l'été 2021 pour changer de propriétaire. Ce club libertin mixte de la zone Euro 2000, à cinq minutes de Nîmes selon lui, annonce 350 m² avec jacuzzi, hammam et sauna sec, et ouvre tous les après-midi, ainsi que le soir du jeudi au samedi. Ses offres aux couples et sa trilogie d'Halloween d'octobre 2026 sont publiées sur son agenda Wyylde.",
+  "glance": [
+    {
+      "icon": "calendar",
+      "label": "Ouvert",
+      "value": "Après-midi 7 j/7, soirs du jeudi au samedi"
+    },
+    {
+      "icon": "euro",
+      "label": "Entrée couple",
+      "value": "30 € l'après-midi, 60 € le samedi soir"
+    },
+    {
+      "icon": "heart",
+      "label": "Femme seule",
+      "value": "Gratuit, sauf samedi soir et dimanche (10 €)"
+    },
+    {
+      "icon": "spa",
+      "label": "Balnéo",
+      "value": "Jacuzzi, hammam et sauna sec sur 350 m²"
+    },
+    {
+      "icon": "history",
+      "label": "Ancien nom",
+      "value": "Le Jardin d'Aphrodis, repris en 2021"
+    },
+    {
+      "icon": "mask",
+      "label": "Halloween 2026",
+      "value": "« Le Rituel » les 24, 30 et 31 octobre"
+    }
+  ],
+  "audience": [
+    {
+      "who": "couples",
+      "status": "oui",
+      "detail": "Tous les créneaux ; certaines entrées offertes aux couples inscrits sur Wyylde",
+      "price": "30 à 60 €"
+    },
+    {
+      "who": "femmes",
+      "status": "oui",
+      "detail": "Gratuit l'après-midi et jeudi-vendredi soir ; payant samedi soir et dimanche",
+      "price": "0 à 10 €"
+    },
+    {
+      "who": "hommes",
+      "status": "selon",
+      "detail": "Admis en proportion des couples présents ; samedi soir à confirmer par téléphone",
+      "price": "35 à 60 €"
+    },
+    {
+      "who": "trans",
+      "status": "oui",
+      "detail": "Tarif dédié l'après-midi et le soir ; prix du dimanche non affiché",
+      "price": "10 €"
+    }
+  ],
+  "highlights": [
+    "Le soir, les hommes viennent en chemise, pantalon et chaussures de ville, les femmes sans pantalon : le vestiaire permet de se changer sur place.",
+    "Les hommes seuls entrent en proportion des couples présents ; Petit Futé réservait en 2024 le samedi aux couples et aux femmes : appelez le 04 66 23 26 32.",
+    "Les entrées offertes aux couples (samedi suivant un jeudi soir, samedi après-midi, trois premiers couples du dimanche) supposent une inscription sur Wyylde.",
+    "Téléphones et appareils photo sont interdits dans le club, et les rapports sexuels sont proscrits dans l'espace balnéo.",
+    "Depuis l'A9 ou l'A54, sortie « Nîmes Centre », puis environ 3 minutes vers Garons selon le club ; parking gratuit sur place."
+  ],
+  "keyFacts": [
+    {
+      "label": "Statut",
+      "value": "Ouvert, agenda daté jusqu'au 1er novembre 2026",
+      "confidence": "confirme",
+      "sources": [
+        "s5",
+        "s1"
+      ]
+    },
+    {
+      "label": "Ancien nom",
+      "value": "Le Jardin d'Aphrodis, jusqu'à l'été 2021",
+      "confidence": "confirme",
+      "sources": [
+        "s9",
+        "s5",
+        "s10",
+        "s13"
+      ]
+    },
+    {
+      "label": "Société",
+      "value": "SARL Les Pleiades (SIREN 849 456 736), éditrice du site, établissement créé le 24/08/2021",
+      "confidence": "confirme",
+      "sources": [
+        "s4",
+        "s8"
+      ]
+    },
+    {
+      "label": "Surface",
+      "value": "350 m² selon le club",
+      "confidence": "source_unique",
+      "sources": [
+        "s1",
+        "s5",
+        "s14"
+      ]
+    },
+    {
+      "label": "Bien-être",
+      "value": "Jacuzzi, hammam, sauna sec",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s10"
+      ]
+    },
+    {
+      "label": "Espaces",
+      "value": "Bar avec billard, espace couples, donjon (salle BDSM), espace VIP, salle de massage",
+      "confidence": "source_unique",
+      "sources": [
+        "s17",
+        "s1"
+      ]
+    },
+    {
+      "label": "Public admis",
+      "value": "Couples, femmes seules, personnes trans ; hommes seuls selon le nombre de couples",
+      "confidence": "confirme",
+      "sources": [
+        "s3",
+        "s6",
+        "s12"
+      ]
+    },
+    {
+      "label": "Jours d'ouverture",
+      "value": "Tous les après-midi ; soirées du jeudi au samedi ; dimanche jusqu'à 23 h",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s5"
+      ]
+    },
+    {
+      "label": "Entrée couple",
+      "value": "30 à 60 € selon le créneau (grille d'août 2025)",
+      "confidence": "confirme",
+      "sources": [
+        "s3",
+        "s11"
+      ]
+    },
+    {
+      "label": "Téléphone",
+      "value": "04 66 23 26 32, déjà celui du Jardin d'Aphrodis",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s9"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "grille-tarifs-publics",
+      "title": "Samedi soir à 60 € : quatre consommations pour un couple, deux pour un homme seul",
+      "icon": "euro",
+      "summary": "Le couple paie de 30 à 60 €, l'homme seul de 35 à 60 €, la femme seule rien ou 10 € ; tapas, buffet ou brunch sont inclus selon le créneau (grille d'août 2025).",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "La grille du site, mise à jour le 27 août 2025, change avec le créneau. Trois écarts à connaître :"
+        },
+        {
+          "kind": "list",
+          "items": [
+            "**L'après-midi**, le couple (30 €) paie moins que l'homme seul (35 €, 40 € le samedi).",
+            "**Le samedi soir**, couple et homme seul paient le même prix, 60 €, mais le couple a droit à quatre consommations et l'homme seul à deux ; un buffet cocktail est servi.",
+            "**La femme seule** entre gratuitement l'après-midi et les jeudis et vendredis soir ; elle paie 10 € le samedi soir et le dimanche."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Les jeudis et vendredis soir, les tapas sont offertes. Le dimanche, de 15 h à 23 h, le brunch est compris (40 € pour un couple, 50 € pour un homme seul). En 2024, Petit Futé relevait 45 € pour l'homme seul le jeudi et le vendredi soir (40 € aujourd'hui)."
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Homme seul : appeler avant un samedi",
+          "body": "La charte n'admet les hommes seuls qu'en proportion des couples présents. En 2024, Petit Futé écrivait que le samedi était réservé aux couples et aux femmes seules, tout en indiquant lui-même un tarif homme seul de 60 € ce jour-là, comme la grille de 2025. Le 04 66 23 26 32 permet de trancher."
+        },
+        {
+          "kind": "text",
+          "body": "Une femme seule entre sans payer du lundi au samedi après-midi. Avant une première venue en solo, elle peut [prendre le pouls des libertins gardois sur un réseau modéré](aff:gleese) : notre test de Gleese, site français lancé fin 2024, y a relevé des outils anti-harcèlement et des photos contrôlées une à une."
+        }
+      ],
+      "sources": [
+        "s3",
+        "s6",
+        "s10",
+        "s11"
+      ]
+    },
+    {
+      "id": "offres-agenda-wyylde",
+      "title": "Une entrée couple du jeudi offerte le samedi suivant, sur inscription Wyylde",
+      "icon": "calendar",
+      "summary": "Le club publie ses dates sur Wyylde : au 20 octobre 2026, vingt rendez-vous jusqu'au 1er novembre, dont une Nuit XXL le 23 et trois soirées d'Halloween « Le Rituel ».",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "La page « Programme » du site officiel ne montre qu'un module de démonstration daté de 2020. Les vraies dates sont sur la page d'événements du club sur Wyylde, liée depuis l'accueil du site et lisible sans connexion. Chaque rendez-vous y affiche son nombre d'inscrits : de 1 à 25 lors de notre relevé."
+        },
+        {
+          "kind": "table",
+          "caption": "Dates publiées sur Wyylde, relevé du 20 octobre 2026",
+          "headers": [
+            "Quand",
+            "Rendez-vous annoncé"
+          ],
+          "rows": [
+            [
+              "Du lundi au samedi, 13 h 30",
+              "Après-midi du club"
+            ],
+            [
+              "Jeudi, 20 h 30",
+              "Soirée : une entrée couple donne droit à une entrée offerte le samedi suivant"
+            ],
+            [
+              "Vendredi 23 octobre",
+              "« Nuit XXL »"
+            ],
+            [
+              "Samedi après-midi",
+              "« Mega pluralité », entrée offerte aux couples inscrits"
+            ],
+            [
+              "Samedi 24 octobre",
+              "Halloween, « Le Rituel » chapitre 1"
+            ],
+            [
+              "Vendredi 30 octobre",
+              "« Le Rituel » chapitre 2"
+            ],
+            [
+              "Samedi 31 octobre",
+              "« Le Rituel » chapitre 3"
+            ],
+            [
+              "Dimanches 25 octobre et 1er novembre, 15 h",
+              "« Les dimanches à la Villa Rose », entrée offerte aux trois premiers couples inscrits"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "La trilogie « Le Rituel » est en ligne depuis le 3 septembre 2026. La charte du club exige une tenue dans le thème lors des soirées à thème : prévoyez-la pour ces trois dates."
+        },
+        {
+          "kind": "text",
+          "body": "L'offre du jeudi précise que l'inscription à l'événement sur Wyylde est obligatoire. La page se lit sans compte, mais s'inscrire suppose d'[ouvrir un compte Wyylde avant le jeudi soir](aff:wyylde) ; la création est gratuite, et nous n'avons pas vérifié si un compte gratuit suffit pour valider l'inscription."
+        }
+      ],
+      "sources": [
+        "s5",
+        "s2",
+        "s1",
+        "s6"
+      ]
+    },
+    {
+      "id": "themes-semaine-soirees-privees",
+      "title": "Trio le lundi, gang-bang le mercredi, pluralité le samedi : la semaine affichée fin 2025",
+      "icon": "flame",
+      "summary": "Les huit visuels mis en ligne en novembre 2025 donnent un thème à chaque après-midi et au jeudi soir ; seuls ceux du jeudi soir, du samedi et du dimanche se retrouvent sur Wyylde en 2026.",
+      "blocks": [
+        {
+          "kind": "table",
+          "caption": "Visuels de l'accueil du site, mis en ligne en novembre 2025",
+          "headers": [
+            "Créneau",
+            "Thème affiché"
+          ],
+          "rows": [
+            [
+              "Lundi après-midi",
+              "Trio"
+            ],
+            [
+              "Mardi",
+              "« Le RDV des coquines »"
+            ],
+            [
+              "Mercredi après-midi",
+              "Gang-bang"
+            ],
+            [
+              "Jeudi après-midi",
+              "« Après-midi des gourmandes »"
+            ],
+            [
+              "Jeudi soir",
+              "« Toutes tendances, toutes sexualités confondues » ; une entrée le jeudi vaut une entrée le samedi suivant"
+            ],
+            [
+              "Vendredi après-midi",
+              "« Séduction et glamour »"
+            ],
+            [
+              "Samedi après-midi",
+              "« Mega pluralité » : bar, billard, pole dance, balnéo, espace couple, salle BDSM"
+            ],
+            [
+              "Dimanche, 15 h-23 h",
+              "Buffet sucré-salé dès l'ouverture, entrée offerte aux trois premiers couples inscrits"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "En octobre 2026, la page Wyylde du club reprend l'offre du jeudi soir, la « Mega pluralité » du samedi et les dimanches, mais annonce les autres après-midi sans thème. Rien ne confirme que le trio du lundi ou le gang-bang du mercredi aient encore lieu."
+        },
+        {
+          "kind": "text",
+          "body": "Un formulaire de l'accueil, « Organisez votre soirée privée », propose les thèmes anniversaire, enterrement de vie de garçon ou de jeune fille, mariage libertin, BDSM ou soirée à thème. Il était hors service le 20 octobre 2026, et la page tarifs n'indique aucun prix pour ces soirées."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s5",
+        "s3"
+      ]
+    },
+    {
+      "id": "balneo-donjon-billard",
+      "title": "Jacuzzi à 34 °C, billard au bar et donjon : les 350 m² de la galerie officielle",
+      "icon": "spa",
+      "summary": "Le club annonce 350 m² : balnéo (jacuzzi vers 34 °C, hammam, sauna sec), bar lounge avec billard, espace couples, donjon, espace VIP et salle de massage.",
+      "blocks": [
+        {
+          "kind": "list",
+          "title": "Ce que décrivent le site et sa galerie",
+          "items": [
+            "Une balnéo avec douches, jacuzzi (eau « environ 34° » selon la galerie), hammam et sauna sec ; la charte y interdit les rapports sexuels.",
+            "Un bar lounge présenté comme titulaire d'une licence IV, avec un billard, et un coin repas.",
+            "Un espace « réservé exclusivement aux couples », des coins câlins mixtes, un espace jeux et une salle de massage.",
+            "Un espace donjon, que les visuels de 2025 appellent « salle BDSM », et un espace VIP.",
+            "Deux vestiaires d'une quarantaine de casiers, avec miroir et sèche-cheveux, et un parking gratuit."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Nous avons regardé une partie des photos de la [galerie du club](https://www.club-lavillarose.fr/galerie/) : jacuzzi éclairé en violet, billard devant des banquettes à coussins zébrés, salon VIP rouge à canapé arrondi, donjon avec table en cuir à étriers. Elles ont été mises en ligne entre juin et août 2021, au moment de la reprise."
+        },
+        {
+          "kind": "text",
+          "body": "Petit Futé, en février 2024, décrivait aussi une piste de danse à deux barres de pole dance, que confirme un visuel officiel de 2025, ainsi qu'un salon vidéo, des cabines et des glory-holes dont le site ne dit rien. La surface de 350 m², reprise par PagesJaunes, vient du club lui-même."
+        },
+        {
+          "kind": "callout",
+          "tone": "info",
+          "title": "Bar : avec ou sans alcool ?",
+          "body": "Le site met en avant une licence IV et la galerie évoque une coupe de champagne, alors que Petit Futé parlait en 2024 d'un bar sans alcool. Les entrées du samedi soir incluent des consommations, sans préciser lesquelles."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s17",
+        "s6",
+        "s16",
+        "s10",
+        "s14",
+        "s3"
+      ]
+    },
+    {
+      "id": "jardin-d-aphrodis-reprise-2021",
+      "title": "Du Jardin d'Aphrodis à la Villa Rose : fermeture et reprise à l'été 2021",
+      "icon": "history",
+      "summary": "Le lieu s'appelait Le Jardin d'Aphrodis, dont le site est archivé dès 2009 ; fermé à l'été 2021 pour changement de propriétaire, il a rouvert sous le nom de Villa Rose.",
+      "blocks": [
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "Juillet 2009",
+              "text": "Première capture archivée du site lejardindaphrodis.com. La date d'ouverture du club reste inconnue."
+            },
+            {
+              "date": "1er août 2021",
+              "text": "Le site du Jardin d'Aphrodis annonce le club fermé pour changement de propriétaire et espère rouvrir début septembre. L'adresse et le téléphone sont déjà ceux d'aujourd'hui."
+            },
+            {
+              "date": "24 août 2021",
+              "text": "La SARL Les Pleiades, créée en 2019, enregistre un établissement au 7 avenue de la Dame (code NAF 96.04Z, entretien corporel)."
+            },
+            {
+              "date": "Juin à août 2021",
+              "text": "Mise en ligne des photos de la galerie du nouveau site, dont celles du donjon et de l'espace VIP en août."
+            },
+            {
+              "date": "27 septembre 2021",
+              "text": "Première capture archivée de club-lavillarose.fr, qui annonce déjà 350 m², un espace couple et une salle de massage."
+            },
+            {
+              "date": "26 février 2024",
+              "text": "Petit Futé présente la Villa Rose comme l'ancien Jardin d'Aphrodis, repris par un nouveau gérant."
+            },
+            {
+              "date": "Août et novembre 2025",
+              "text": "Mise à jour de la page tarifs (27 août), puis de l'accueil (14 novembre), où sont téléversés les visuels du programme hebdomadaire."
+            },
+            {
+              "date": "Octobre 2026",
+              "text": "Vingt rendez-vous publiés sur Wyylde, dont la trilogie d'Halloween « Le Rituel »."
+            }
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Aucune date de réouverture sous le nouveau nom n'est publiée : l'automne 2021 reste l'hypothèse la plus probable. Sur sa page Wyylde, le club se présente lui-même comme l'ancien « jardin d'Aphrodis ». Aucun article de Midi Libre ni d'Objectif Gard n'a été trouvé sur ce changement de main."
+        },
+        {
+          "kind": "text",
+          "body": "Les pages du site actuel portent des dates de création remontant à mai 2020, avant la reprise, sans explication publiée."
+        }
+      ],
+      "sources": [
+        "s9",
+        "s5",
+        "s8",
+        "s4",
+        "s16",
+        "s17",
+        "s10",
+        "s13",
+        "s7",
+        "s3",
+        "s1"
+      ]
+    },
+    {
+      "id": "avenue-de-la-dame-euro-2000",
+      "title": "7 avenue de la Dame : sortie « Nîmes Centre », puis trois minutes vers Garons",
+      "icon": "map",
+      "summary": "Le club est zone Euro 2000 à Caissargues, à trois minutes de la sortie « Nîmes Centre » selon lui, avec parking gratuit ; on le joint par téléphone, formulaire ou e-mail.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le club se trouve au 7 avenue de la Dame, dans la zone Euro 2000 de Caissargues. Sa page Contact guide les visiteurs venus de Marseille par l'A54, ou de Montpellier et d'Avignon par l'A9 : sortie « Nîmes Centre », puis trois minutes en direction de Garons. Le site annonce un parking gratuit, que Petit Futé place devant l'entrée."
+        },
+        {
+          "kind": "list",
+          "title": "Pour joindre le club",
+          "items": [
+            "Par téléphone, au 04 66 23 26 32, numéro déjà affiché par le Jardin d'Aphrodis en 2021.",
+            "Par le formulaire de la page Contact du site (non testé).",
+            "Par e-mail, à l'adresse clublavillarose@gmail.com publiée sur la page Wyylde du club ; le site, lui, n'en affiche aucune."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le 20 octobre 2026, la fenêtre « Organisez votre soirée privée » du site affichait « Formulaire de contact non trouvé » : pour une soirée privée, passez par le téléphone. La page Facebook liée depuis le site n'est pas lisible sans connexion."
+        },
+        {
+          "kind": "text",
+          "body": "Dans le même département, [Le New Bora à Castillon-du-Gard](/le-new-bora-castillon-du-gard) est présenté par un blog-annuaire de 2025 comme situé à trente minutes de Nîmes, et [le F212, avenue Maréchal-Juin](/fahrenheit-212-nimes), comme un sauna libertin nîmois. Les autres adresses sont regroupées sur [la page consacrée à Nîmes](/ville/nimes) et sur [celle du Gard](/departement/gard)."
+        }
+      ],
+      "sources": [
+        "s18",
+        "s1",
+        "s10",
+        "s9",
+        "s5",
+        "s13"
+      ]
+    },
+    {
+      "id": "premiere-visite-pareo",
+      "title": "Paréo et serviette remis à l'accueil, aucune pratique obligatoire",
+      "icon": "info",
+      "summary": "Le guide du débutant prévoit paréo et serviette à l'accueil, un passage au vestiaire, la nudité couverte au spa et dans les coins câlins, et rien d'imposé.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le guide du débutant publié par le club décrit l'arrivée : paréo et serviette remis à l'accueil, puis vestiaire. Le soir, on peut rester habillé au bar ; au spa et dans les coins câlins, on circule nu, avec serviette ou paréo. Le guide rappelle qu'aucune pratique n'est obligatoire et qu'on peut se contenter d'observer ou de danser."
+        },
+        {
+          "kind": "text",
+          "body": "Des pièces fermées permettent de s'isoler à deux, et une salle n'est ouverte qu'aux couples. La charte promet aux novices qu'on leur indiquera les codes du lieu."
+        },
+        {
+          "kind": "text",
+          "body": "Pour une première venue en couple, l'après-midi est le créneau le moins cher (30 €) et le seul ouvert du lundi au mercredi."
+        },
+        {
+          "kind": "text",
+          "body": "Ceux qui préfèrent ne pas découvrir le lieu seuls peuvent [faire connaissance avec des couples nîmois avant une première après-midi](aff:carre-libertin) : Carré Libertin, plus de 500 000 inscrits, laisse l'accès complet gratuit aux couples comme aux femmes seules."
+        }
+      ],
+      "sources": [
+        "s15",
+        "s6",
+        "s3",
+        "s1"
+      ]
+    },
+    {
+      "id": "charte-tenue-soiree",
+      "title": "Chemise et chaussures de ville le soir, pas de pantalon pour les femmes",
+      "icon": "shield",
+      "summary": "La charte exige une tenue de ville des hommes le soir et une tenue sans pantalon des femmes, interdit téléphones et appareils photo, et proscrit les rapports dans le spa.",
+      "blocks": [
+        {
+          "kind": "list",
+          "title": "Ce que fixe la charte du club (page de 2021, toujours en ligne)",
+          "items": [
+            "Entrée réservée aux majeurs, accordée selon la présentation et l'attitude.",
+            "L'après-midi : tenue décontractée, mais pas négligée.",
+            "Le soir : chemise, pantalon et chaussures de ville pour les hommes ; pas de pantalon pour les femmes, qui peuvent se changer au vestiaire.",
+            "Soirées à thème : tenue dans le thème.",
+            "Téléphones et appareils photo interdits ; les vestiaires servent à ranger sacs et téléphones.",
+            "Verres seulement au bar et dans l'espace cosy.",
+            "Ivresse, drogue et armes refusées ; le club peut exclure un client."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le contrôle de la tenue n'est pas théorique : le seul avis publié sur la fiche Petit Futé, daté du 25 février 2023, note le club 1 sur 5 après un refus à l'entrée pour le dress code. Le livre d'or du site, modéré par le club, ne montre que des messages favorables, le dernier du 1er décembre 2025."
+        }
+      ],
+      "sources": [
+        "s6",
+        "s10",
+        "s19"
+      ]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Lundi à mercredi": "13 h 30-18 h 30",
+      "Jeudi à samedi": "13 h 30-18 h 30, puis 20 h 30-2 h",
+      "Dimanche": "15 h-23 h"
+    },
+    "note": "Horaires de l'accueil du site (modifié le 14/11/2025), concordants avec les heures des événements publiés sur Wyylde pour octobre 2026. L'encadré de la page Wyylde affiche d'autres plages (13 h-18 h en semaine, 15 h-2 h le week-end) ; Petit Futé indiquait en 2024 une fin de soirée à 1 h.",
+    "confidence": "confirme",
+    "sources": [
+      "s1",
+      "s5",
+      "s10"
+    ]
+  },
+  "tarifs": {
+    "rows": {
+      "Après-midi, lundi à samedi": "Couple 30 € · homme seul 35 € (40 € le samedi) · femme seule gratuit · trans 10 €",
+      "Jeudi et vendredi soir": "Couple 35 € · homme seul 40 € · femme seule gratuit · trans 10 € · tapas offertes",
+      "Samedi soir": "Couple 60 € (4 consommations) · homme seul 60 € (2 consommations) · femme seule et trans 10 € · buffet cocktail",
+      "Dimanche, 15 h-23 h": "Couple 40 € · homme seul 50 € · femme seule 10 € · brunch compris"
+    },
+    "note": "Page tarifs du site officiel, modifiée le 27/08/2025 ; même grille relevée par un annuaire en juin 2025. Tarif trans du dimanche non indiqué. Certaines dates offrent l'entrée aux couples inscrits sur Wyylde.",
+    "confidence": "confirme",
+    "sources": [
+      "s3",
+      "s11",
+      "s5"
+    ]
+  },
+  "equipements": [
+    "Jacuzzi",
+    "Hammam",
+    "Sauna sec",
+    "Douches",
+    "Bar lounge",
+    "Billard",
+    "Pole dance",
+    "Coins câlins mixtes",
+    "Espace couples",
+    "Donjon (salle BDSM)",
+    "Espace VIP",
+    "Salle de massage",
+    "Espaces privatifs",
+    "Vestiaires",
+    "Parking gratuit"
+  ],
+  "officialLinks": [
+    {
+      "label": "Site officiel",
+      "url": "https://www.club-lavillarose.fr/",
+      "kind": "site"
+    },
+    {
+      "label": "Galerie photo",
+      "url": "https://www.club-lavillarose.fr/galerie/",
+      "kind": "galerie"
+    },
+    {
+      "label": "Agenda du club sur Wyylde",
+      "url": "https://app.wyylde.com/fr-fr/page/67864730-098d-11ec-bd58-fd23692e9d8d/club-la-villa-rose/events",
+      "kind": "agenda"
+    },
+    {
+      "label": "Tarifs",
+      "url": "https://www.club-lavillarose.fr/tarifs/",
+      "kind": "autre"
+    },
+    {
+      "label": "Charte du club",
+      "url": "https://www.club-lavillarose.fr/charte/",
+      "kind": "autre"
+    },
+    {
+      "label": "Guide du débutant",
+      "url": "https://www.club-lavillarose.fr/guide-du-debutant/",
+      "kind": "autre"
+    },
+    {
+      "label": "Page Facebook",
+      "url": "https://www.facebook.com/pages/category/Adult-Entertainment-Club/La-villa-rose-164407755263226/",
+      "kind": "facebook"
+    },
+    {
+      "label": "Contact et accès",
+      "url": "https://www.club-lavillarose.fr/contact/",
+      "kind": "autre"
+    }
+  ],
+  "faq": [
+    {
+      "question": "La Villa Rose à Caissargues est-elle toujours ouverte ?",
+      "answer": "Oui. Au 20 octobre 2026, sa page d'événements sur Wyylde annonce des rendez-vous chaque jour jusqu'au 1er novembre, dont les trois soirées d'Halloween « Le Rituel » (24, 30 et 31 octobre). Le site officiel répond et la société qui l'édite est active au registre."
+    },
+    {
+      "question": "Combien coûte l'entrée à la Villa Rose ?",
+      "answer": "Selon la grille du site (août 2025) : l'après-midi, 30 € pour un couple, 35 € pour un homme seul (40 € le samedi), gratuit pour une femme seule et 10 € pour une personne trans. Le jeudi et le vendredi soir, 35 € et 40 €, tapas offertes. Le samedi soir, 60 € pour un couple (quatre consommations) comme pour un homme seul (deux consommations). Le dimanche, brunch compris, 40 € et 50 €."
+    },
+    {
+      "question": "Un homme seul peut-il aller à la Villa Rose ?",
+      "answer": "Oui, pour 35 à 60 € selon le créneau, mais la charte ne l'admet qu'en proportion des couples présents. Petit Futé écrivait en 2024 que le samedi était réservé aux couples et aux femmes seules, tout en citant un tarif homme seul ce jour-là, et la grille de 2025 affiche 60 € le samedi soir : appelez le 04 66 23 26 32 avant de vous déplacer un samedi."
+    },
+    {
+      "question": "Quelle tenue faut-il pour une soirée à la Villa Rose ?",
+      "answer": "Le soir, chemise, pantalon et chaussures de ville pour les hommes, et pas de pantalon pour les femmes, qui peuvent se changer au vestiaire. L'après-midi, une tenue décontractée mais soignée suffit. Les soirées à thème, comme celles d'Halloween, demandent une tenue dans le thème."
+    },
+    {
+      "question": "La Villa Rose est-elle l'ancien Jardin d'Aphrodis ?",
+      "answer": "Oui. Le Jardin d'Aphrodis, à la même adresse et au même numéro de téléphone, a fermé à l'été 2021 pour changement de propriétaire. La Villa Rose a pris sa suite ; son site est édité par la SARL Les Pleiades, installée au 7 avenue de la Dame depuis le 24 août 2021."
+    },
+    {
+      "question": "À quoi ressemble la Villa Rose en photos ?",
+      "answer": "La galerie du site montre, par rubriques, la balnéo, le bar avec son billard, l'espace couples, les coins câlins, le donjon, l'espace massage, l'espace VIP et les vestiaires. Ces photos datent de l'été 2021 : nous y avons vu notamment le jacuzzi éclairé en violet et un salon VIP rouge."
+    },
+    {
+      "question": "Que disent les avis sur la Villa Rose ?",
+      "answer": "Nous n'avons pas relevé de note nous-mêmes. Deux annuaires relaient des notes Google différentes (4 sur 5 pour 76 avis, ou 4,1), non vérifiées de notre côté. Le seul avis publié sur Petit Futé (février 2023, 1 sur 5) raconte un refus à l'entrée pour une question de tenue. Le livre d'or du site, modéré par le club, compte 76 messages : ceux de 2025 louent surtout la propreté, l'accueil et la musique ; le dernier date du 1er décembre 2025."
+    },
+    {
+      "question": "La Villa Rose est-elle à Nîmes ?",
+      "answer": "Non, à Caissargues : 7 avenue de la Dame, zone Euro 2000, à cinq minutes de Nîmes selon le club. Un parking gratuit est annoncé sur place."
+    }
+  ],
+  "unverified": [
+    "Le bar sert-il de l'alcool ? Le site annonce une licence IV, Petit Futé parlait en 2024 d'un bar sans alcool.",
+    "Les hommes seuls sont-ils admis le samedi soir ? La grille de 2025 affiche un tarif ; Petit Futé les disait exclus en 2024, tout en citant lui aussi un prix.",
+    "Le salon vidéo, les cabines et les glory-holes décrits par Petit Futé en 2024 existent-ils toujours ?",
+    "Le trio du lundi, le gang-bang du mercredi et les autres thèmes d'après-midi affichés en novembre 2025 ont-ils toujours lieu ?",
+    "Un message du livre d'or de novembre 2025 parle d'une visite « depuis le changement de propriétaire » : renvoie-t-il à la reprise de 2021 ou à une reprise plus récente ?",
+    "La soirée se termine-t-elle à 2 h, comme l'indique le site, ou à 1 h, comme l'écrivait Petit Futé en 2024 ?",
+    "Quel est le tarif trans le dimanche ?",
+    "Quand la Villa Rose a-t-elle rouvert sous ce nom, et depuis quand le Jardin d'Aphrodis existait-il ?",
+    "Un compte Wyylde gratuit suffit-il pour s'inscrire aux événements qui donnent droit à une entrée offerte ?",
+    "Quelle est la note Google du club, relevée directement sur Google ?"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Site officiel de La Villa Rose, accueil (modifié le 14/11/2025)",
+      "url": "https://www.club-lavillarose.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s2",
+      "label": "Site officiel, page Programme (module de démonstration)",
+      "url": "https://www.club-lavillarose.fr/programme/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s3",
+      "label": "Site officiel, page Tarifs (modifiée le 27/08/2025)",
+      "url": "https://www.club-lavillarose.fr/tarifs/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s4",
+      "label": "Site officiel, mentions légales",
+      "url": "https://www.club-lavillarose.fr/mentions-legales",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s5",
+      "label": "Wyylde, page d'événements « club la villa rose » (liée depuis le site officiel)",
+      "url": "https://app.wyylde.com/fr-fr/page/67864730-098d-11ec-bd58-fd23692e9d8d/club-la-villa-rose/events",
+      "type": "reseau_social",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s6",
+      "label": "Site officiel, charte du club",
+      "url": "https://www.club-lavillarose.fr/charte/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s7",
+      "label": "Site officiel, dates de création et de modification des pages (API WordPress)",
+      "url": "https://www.club-lavillarose.fr/wp-json/wp/v2/pages",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s8",
+      "label": "Annuaire des entreprises, LES PLEIADES (SIREN 849 456 736)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/849456736",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s9",
+      "label": "Site du Jardin d'Aphrodis, archive du 01/08/2021",
+      "url": "https://web.archive.org/web/20210801102148/https://www.lejardindaphrodis.com/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s10",
+      "label": "Petit Futé, « La Villa Rose » à Caissargues (texte du 26/02/2024)",
+      "url": "https://www.petitfute.com/v18772-caissargues-30132/c9998-coquin/c1044-s-amuser-sortir/c208-sauna/1986556-la-villa-rose.html",
+      "type": "autre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s11",
+      "label": "Minuit Libertin, « La Villa Rose à Nîmes » (relevé du 02/06/2025)",
+      "url": "https://minuitlibertin.com/la-villa-rose-a-nimes/",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s12",
+      "label": "saunaclublebali.fr, fiche « La Villa Rose »",
+      "url": "https://www.saunaclublebali.fr/listing/la-villa-rose-caissargues/",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s13",
+      "label": "Top Rencontre, clubs libertins à Nîmes (modifié le 24/03/2025)",
+      "url": "https://toprencontre.fr/club-libertin-nimes/",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s14",
+      "label": "PagesJaunes, club libertin au 7 avenue de la Dame",
+      "url": "https://www.pagesjaunes.fr/pros/61172726",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s15",
+      "label": "Site officiel, guide du débutant",
+      "url": "https://www.club-lavillarose.fr/guide-du-debutant/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s16",
+      "label": "Site officiel, première capture archivée (27/09/2021)",
+      "url": "https://web.archive.org/web/20210927061646/https://www.club-lavillarose.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s17",
+      "label": "Site officiel, galerie photo (photos de juin à août 2021)",
+      "url": "https://www.club-lavillarose.fr/galerie/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s18",
+      "label": "Site officiel, page Contact (itinéraire)",
+      "url": "https://www.club-lavillarose.fr/contact/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s19",
+      "label": "Site officiel, livre d'or (76 messages, dernier du 01/12/2025)",
+      "url": "https://www.club-lavillarose.fr/livre-dor/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    }
+  ]
+}

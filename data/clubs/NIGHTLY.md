@@ -26,7 +26,7 @@ Les tâches CronCreate expirent au bout de 7 jours : à chaque déclenchement,
    (`{"running": [{"taskId", "kind", "items": [...], "startedAt"}]}`). Une entrée
    de plus de 4 h est périmée : `TaskStop` sur son taskId, puis la retirer.
 3. **Publier** (voir ci-dessous) si 20 fiches sont prêtes.
-4. **Lancer** si l'heure est avant 1 h 30 et que moins de 2 lots tournent :
+4. **Lancer** si l'heure est avant 1 h 30 et que moins de 2 lots tournent (entre 1 h 30 et 2 h 45, seulement un petit lot de 8 éléments au plus, qui finit avant 4 h) :
    - `node scripts/collect-candidates.mjs` (nouveaux lieux repérés) ;
    - `node scripts/club-queue.mjs --next 15` → si non vide, `Workflow` avec
      `scriptPath: scripts/workflows/fiches-clubs.workflow.js` et
