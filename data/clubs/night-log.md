@@ -34,3 +34,26 @@
 - **File restante** : 440 clubs à rechercher, 5 brouillons à compléter, 3 fiches
   publiées à compléter, 120 lieux à qualifier.
 - **En attente de décision** : Le Plaisir Club (Bréal-sous-Montfort).
+- 2026-10-21 02:3x : 20 fiches publiées dont 5 lieux nouveaux, 103 au total (commit b35271e)
+- 2026-10-21 04:4x : 16 lieux nouveaux publiés, 119 fiches au total (commit 4adab74)
+
+## Bilan de la nuit du 20 au 21 octobre 2026
+
+- **Fiches publiées** : 36 (de 83 à 119), en 2 paquets (b35271e, 4adab74), dont
+  **21 lieux absents de l'annuaire** : 31 lieux ajoutés à la base depuis le début.
+- **Qualification des nouveaux lieux** : 21 écartés au total avec preuves datées
+  (fermés : Le 16, Le 17, AC-Monkey, Lappart, Bains Montansier, BB Club, Bulles
+  Roses, Calistria, Le Cargo, Le Carré, Chalet de Montvaux… ; hors périmètre :
+  Villa Sophia, Les Avanchets, Les Caves du Marquis ; doublons : Berjeurie =
+  O'Pulsions, Le Code = Le Kreisker).
+- **Fusions 301** : La Station → Sauna Eros (Pau), Ange Club 2 → Alina Sauna
+  (Poitiers), Tiki Sauna → Club Liberty (Thionville). 7 fusions au total.
+- **Découverte clé** : WebSearch est limité à 200 appels par tour, partagés par
+  les agents lancés dans ce tour. Règle : un lot de 10 à 12 éléments par tour,
+  le suivant relancé dans le tour de la notification de fin.
+- **Problèmes corrigés** : rotation des faits partenaires (tirage parmi les 3 moins
+  employés, espaces insécables), file sans `hasDraft` pour les lieux ajoutés,
+  validation des lieux étrangers (AstiClub).
+- **File restante** : 427 clubs à rechercher, 109 lieux à qualifier, 3 fiches
+  publiées à compléter (Le 901, Le Lotus d'Or, The Strip).
+- **En attente de décision** : Le Plaisir Club (Bréal-sous-Montfort).
