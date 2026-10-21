@@ -1,0 +1,346 @@
+{
+  "slug": "le-ran-du-chabrier-saint-privat-de-champclos",
+  "clubId": "new-le-ran-du-chabrier-saint-privat-de-champclos",
+  "researchedAt": "2026-10-21",
+  "status": {
+    "value": "ouvert",
+    "summary": "La « Soirée de clôture » du samedi 29 août 2026 terminait le programme d'été affiché en juin sur le site officiel, qui annonçait une saison du 24 avril au 30 août ; un avis park4night du 22 août 2026 décrit le camping en activité (accueil multilingue, sanitaires propres, restaurant). Au 21 octobre 2026, le lieu est en pause hivernale et aucune date n'est publiée pour 2027. JANA, la société dont « Le Ran du Chabrier » est le nom commercial, est active et a déposé ses comptes 2025 en juillet 2026.",
+    "sources": ["s1", "s2", "s25", "s19", "s20"]
+  },
+  "seo": {
+    "title": "Ran du Chabrier, Saint-Privat-de-Champclos : camping libertin, tarifs",
+    "metaDescription": "Naturisme et libertinage au bord de la Cèze depuis 1965 : saison 2026 du 24 avril au 30 août, couple 20 € par jour, homme seul parrainé 30 €, soirées du samedi.",
+    "subtitle": "Camping naturiste et libertin réservé aux adultes, au bord de la Cèze (Gard)",
+    "targetQueries": [
+      "ran du chabrier",
+      "camping libertin ran du chabrier",
+      "ran du chabrier avis",
+      "ran du chabrier tarifs",
+      "camping libertin gard",
+      "camping naturiste libertin"
+    ]
+  },
+  "lead": "Créé en 1965 dans la vallée de la Cèze, au nord du Gard, le Ran du Chabrier est un domaine naturiste réservé aux adultes qui s'affiche aujourd'hui « camping libertin », avec sa propre plage sur la rivière. Il ne vit que l'été : la saison 2026 a couru du 24 avril au 30 août, avec une soirée à thème chaque samedi de fin juin à fin août, et la réouverture 2027 n'était pas datée au 21 octobre 2026. Un homme seul n'y entre que parrainé par un couple.",
+  "glance": [
+    { "icon": "calendar", "label": "Saison 2026", "value": "Du 24 avril au 30 août · fermé l'hiver" },
+    { "icon": "euro", "label": "Forfait par jour", "value": "Couple 20 € · femme 10 € · homme 30 €" },
+    { "icon": "users", "label": "Homme seul", "value": "Parrainage par un couple obligatoire" },
+    { "icon": "ticket", "label": "Adhésion", "value": "15 € par personne pour la saison" },
+    { "icon": "water", "label": "Au bord de la Cèze", "value": "Plage naturiste privée" },
+    { "icon": "history", "label": "Domaine naturiste", "value": "Depuis 1965" }
+  ],
+  "audience": [
+    { "who": "couples", "status": "oui", "detail": "Forfait journalier, plus 15 € d'adhésion par personne pour toute la saison", "price": "20 €" },
+    { "who": "femmes", "status": "oui", "detail": "Tarif « femme » de la grille 2026 ; le site n'exige aucun parrainage", "price": "10 €" },
+    { "who": "hommes", "status": "selon", "detail": "Seul : parrainage obligatoire par un couple ; la direction garde le droit de refuser", "price": "30 €" }
+  ],
+  "highlights": [
+    "Fermé l'hiver : la saison 2026 a couru du 24 avril au 30 août, et la date de réouverture 2027 n'est pas publiée au 21 octobre 2026.",
+    "Homme seul : l'entrée passe par le parrainage d'un couple, et la direction se réserve le droit de refuser un client.",
+    "Prévoyez une pièce d'identité et 15 € d'adhésion par personne ; le bracelet d'accès se garde sur soi, 50 € s'il n'est pas rendu.",
+    "Tentes, caravanes, camping-cars : emplacements libres, sans réservation en ligne, arrivée entre 8 h et 20 h. Seuls les mobil-homes se réservent en ligne.",
+    "En camping-car, un avis de juillet 2024 décrit deux derniers kilomètres non goudronnés et en lacets avant l'entrée."
+  ],
+  "keyFacts": [
+    { "label": "Type", "value": "Camping naturiste et libertin réservé aux adultes", "confidence": "confirme", "sources": ["s1", "s6", "s29", "s30"] },
+    { "label": "Création", "value": "1965", "confidence": "confirme", "sources": ["s4", "s26"] },
+    { "label": "Saison 2026", "value": "Du 24 avril au 30 août", "confidence": "confirme", "sources": ["s1", "s2"] },
+    { "label": "Hommes seuls", "value": "Parrainage obligatoire par un couple", "confidence": "confirme", "sources": ["s3", "s26"] },
+    { "label": "Adhésion", "value": "15 € par personne et par saison (association du Ran)", "confidence": "confirme", "sources": ["s3", "s5", "s26"] },
+    { "label": "Société exploitante", "value": "JANA, SAS (SIREN 509 934 832), nom commercial « Le Ran du Chabrier »", "confidence": "confirme", "sources": ["s19", "s20"] },
+    { "label": "Classement", "value": "2 étoiles selon des annuaires, classement officiel non consulté", "confidence": "a_verifier", "sources": ["s29", "s30"] },
+    { "label": "Capacité", "value": "160 emplacements (CampingFrance.com) ou 100 (park4night)", "confidence": "a_verifier", "sources": ["s29", "s25"] }
+  ],
+  "sections": [
+    {
+      "id": "femme-couple-homme-parraine",
+      "title": "Femme 10 €, couple 20 €, homme seul 30 € et parrainé par un couple",
+      "icon": "users",
+      "summary": "Un homme seul n'entre que parrainé par un couple et paie 30 € par jour ; s'y ajoutent pour tous 15 € d'adhésion à l'association du Ran, valable la saison.",
+      "blocks": [
+        { "kind": "text", "body": "La grille 2026, mise à jour le 11 mai, fixe le forfait journalier à 20 € pour un couple, 10 € pour une femme et 30 € pour un homme. Les visiteurs à la journée paient les mêmes montants, stationnement compris." },
+        { "kind": "text", "body": "Un annuaire relevait déjà ces trois prix en juin 2025 ; le Petit Futé affiche encore un tarif visiteur de 25 € pour un homme seul, antérieur à cette grille." },
+        { "kind": "callout", "tone": "warning", "title": "Hommes seuls", "body": "« Les hommes seuls doivent être obligatoirement parrainés par un couple », précise la page Tarifs, et la direction se réserve le droit de refuser un client. Le Petit Futé rapporte la même règle." },
+        { "kind": "text", "body": "Sur un forum d'avis non vérifié (GoWork), un homme seul écrivait le 18 août 2026 se trouver devant le camping et chercher un couple pour le parrainer. Mieux vaut régler la question avant la route : sur Wyylde, la certification des profils, facultative, limite les faux comptes, un critère pour [chercher votre couple parrain parmi des profils certifiés](aff:wyylde)." },
+        { "kind": "list", "title": "À prévoir à l'arrivée", "items": [
+          "Une **adhésion de 15 € par personne** à « l'association du Ran », valable toute la saison, qui ouvre l'accès au domaine privé réservé aux adultes.",
+          "Une pièce d'identité valide.",
+          "Un bracelet d'accès à garder sur soi en permanence pour circuler ; 50 € sont facturés s'il n'est pas rendu.",
+          "Un règlement d'avance, par chèque, chèque-vacances, espèces ou carte bancaire ; il peut être fractionné pour un long séjour."
+        ] }
+      ],
+      "sources": ["s3", "s5", "s26", "s27", "s31"]
+    },
+    {
+      "id": "onze-samedis-de-soiree-2026",
+      "title": "White Party, Black Night, soirée vénitienne : onze samedis de soirée à l'été 2026",
+      "icon": "mask",
+      "summary": "Du 20 juin au 29 août 2026, chaque samedi avait sa soirée avec DJ, souvent précédée d'un concert à la Paillote vers 17 h 30 ou 18 h.",
+      "blocks": [
+        { "kind": "text", "body": "Toutes les affiches de la saison, mises en ligne en juin sur la page Événements, ont été regardées. Le schéma se répète : un concert en fin d'après-midi à la Paillote, puis une soirée signée par le même DJ. Plusieurs annoncent un code vestimentaire." },
+        { "kind": "table", "caption": "Programme affiché pour l'été 2026", "headers": ["Date", "À la Paillote", "Soirée avec DJ"], "rows": [
+          ["Nuit du 20 au 21 juin", "—", "Fête de la musique"],
+          ["Samedi 27 juin", "—", "« Ange ou Démon »"],
+          ["Samedi 4 juillet", "Duo Wave, 17 h 30", "White Party, tenue blanche"],
+          ["Samedi 11 juillet", "Exuvia (pop-rock), 17 h 30", "« Transparence »"],
+          ["Mardi 14 juillet", "The Wanted (acoustique), 18 h", "—"],
+          ["Samedi 18 juillet", "Rumba del Sol, 18 h", "Soirée vénitienne : masque et tenue élégante"],
+          ["Mardi 21 juillet", "—", "Fête nationale belge, moules-frites"],
+          ["25 juillet", "Défilé de lingerie, 18 h", "Soirée des Flibustières"],
+          ["Samedi 1er août", "Exuvia, 17 h 30", "Black Night : cuir, latex, tenue noire"],
+          ["Samedi 8 août", "Duo Wave, 17 h 30", "« Fantasmes interdits », dès 21 h"],
+          ["Samedi 15 août", "Rumba del Sol, 18 h", "Soirée hippie"],
+          ["Samedi 22 août", "MAP (duo rock), 18 h", "Candy Party"],
+          ["Samedi 29 août", "—", "Soirée des écolières, clôture de la saison"]
+        ] },
+        { "kind": "list", "title": "Les rendez-vous de chaque semaine en juillet-août", "items": [
+          "Karaoké le mardi et le jeudi à la Paillote, à partir de 17 h 30.",
+          "Apéro mousse le samedi de 12 h à 14 h, avec DJ.",
+          "Concours de boules à la Paillote le dimanche : inscriptions dès 10 h, tirage à 10 h 30, dates « à définir »."
+        ] },
+        { "kind": "text", "body": "Aucune affiche ne situe clairement les soirées : celle du 25 juillet porte la seule mention « Havana Club », que le site n'explique pas. Seule celle du 8 août donne un horaire, 21 h, et annonce des « zones intimistes et tamisées ». L'affiche du défilé de lingerie porte « vendredi 25 juillet », alors que le 25 juillet 2026 tombait un samedi." },
+        { "kind": "text", "body": "Pour ne pas découvrir la White Party ou la Black Night entre inconnus, Gleese, dont l'équipe modère à la main chaque photo de profil, permet de [vous accorder avec un autre couple sur un samedi à thème](aff:gleese), puis de venir camper la même semaine." }
+      ],
+      "sources": ["s2"]
+    },
+    {
+      "id": "saison-2026-close-le-30-aout",
+      "title": "Saison 2026 close le 30 août : aucune date encore annoncée pour 2027",
+      "icon": "calendar",
+      "summary": "Le camping a ouvert du 24 avril au 30 août 2026 ; au 21 octobre, son site n'affiche pas la saison 2027. L'hiver, des clubs gardois restent ouverts, à Alès notamment.",
+      "blocks": [
+        { "kind": "text", "body": "La page d'accueil annonçait une ouverture « du 24 avril au 30 août » 2026. La grille des emplacements court, elle, du 28 avril au 3 septembre : pour les dates d'ouverture, c'est la page d'accueil qui fait foi. Les annuaires donnent d'autres périodes, d'avril à août pour park4night, de mi-avril à mi-septembre pour le Petit Futé." },
+        { "kind": "text", "body": "Au 21 octobre 2026, rien n'est publié pour 2027. Pour connaître la réouverture, le plus sûr reste l'accueil au 04 66 24 51 55 ou l'adresse contact@camping-libertin.com, tous deux indiqués sur le site." },
+        { "kind": "text", "body": "Pendant la pause, les clubs du Gard prennent le relais. À Alès, [L'Only-US](/l-only-us-ales) affichait une soirée Halloween le vendredi 30 octobre 2026 et des après-midi jusqu'au 15 novembre, selon son agenda lu le 20 octobre." },
+        { "kind": "text", "body": "À Castillon-du-Gard, [le New Bora](/le-new-bora-castillon-du-gard) programmait deux soirées d'Halloween les 30 et 31 octobre et des dates jusqu'au 28 novembre, d'après son agenda relu le 20 octobre. Les autres adresses figurent sur la [liste des lieux libertins du Gard](/departement/gard)." }
+      ],
+      "sources": ["s1", "s3", "s13", "s18", "s25", "s26", "s32", "s33", "s34"]
+    },
+    {
+      "id": "domaine-naturiste-de-1965-sur-la-ceze",
+      "title": "Un domaine naturiste de 1965 au bord de la Cèze, qui s'affiche « camping libertin »",
+      "icon": "water",
+      "summary": "Le site décrit un domaine réservé au naturisme libre et aux adultes, entre Cévennes et Provence, avec une plage naturiste privée adossée au bar de la rivière.",
+      "blocks": [
+        { "kind": "text", "body": "Le Ran du Chabrier existe depuis 1965 : le site officiel l'écrit, et le Petit Futé comptait sa « 57e saison » en 2022. Le domaine s'étend dans la vallée de la Cèze, au nord du Gard, à la limite de l'Ardèche. Sa page d'accueil le résume en deux mots : « Camping libertin »." },
+        { "kind": "text", "body": "La page Accueil, mise à jour en avril 2024, parle d'un « immense domaine réservé au naturisme libre », où l'on vit nu ou en paréo. Les mineurs n'y séjournent pas : les conditions générales réservent le camping aux adultes." },
+        { "kind": "list", "title": "Ce que le lieu met en avant", "items": [
+          "Une **plage naturiste privée** au bord de la Cèze, accessible à toute heure, attenante à la Paillote (page de 2023).",
+          "Un domaine qui borde « 2 km de rivière » selon le Petit Futé ; le site officiel ne donne pas de longueur.",
+          "Un domaine « bien abrité des vents », entre Cévennes et Provence, selon la page Région de 2023.",
+          "Des sorties suggérées alentour : Aven d'Orgnac, gorges de l'Ardèche, Concluses de Lussan, Bambouseraie."
+        ] },
+        { "kind": "callout", "tone": "info", "title": "Classement et capacité", "body": "CampingFrance.com et guide-campings.com le présentent comme classé 2 étoiles ; le classement officiel n'a pas été consulté. La capacité varie selon la source : 160 emplacements pour CampingFrance.com, 100 pour park4night." }
+      ],
+      "sources": ["s1", "s4", "s6", "s7", "s14", "s26", "s29", "s30", "s25"]
+    },
+    {
+      "id": "jana-depuis-2008",
+      "title": "JANA, créée en 2008 et SAS depuis 2024, derrière le nom « Le Ran du Chabrier »",
+      "icon": "history",
+      "summary": "Le site ne nomme aucune société ; le BODACC rattache le camping à JANA, qui a déposé ses comptes 2025 en juillet 2026, sans vente du fonds ni procédure collective.",
+      "blocks": [
+        { "kind": "text", "body": "Les mentions légales du site ne nomment aucune société. Le lien vient du BODACC : JANA, créée le 8 décembre 2008 et domiciliée au lieu-dit, y porte le nom commercial « Le Ran du Chabrier » et déclarait en 2013 exploiter un « domaine privé de naturisme » avec débit de boissons." },
+        { "kind": "text", "body": "Pour qui verse 30 % d'acompte sur un mobil-home, le registre donne un repère : au 21 octobre 2026, il ne mentionne ni vente du fonds, ni procédure collective, ni radiation, et les comptes 2025 ont été déposés en juillet 2026." },
+        { "kind": "timeline", "items": [
+          { "date": "1965", "text": "Création du domaine naturiste, selon le site officiel." },
+          { "date": "2008", "text": "Création de JANA le 8 décembre ; le même jour, l'établissement à l'enseigne du camping d'une autre société, aujourd'hui cessée, est fermé au registre. L'ancien site leranduchabrier.com est archivé en ligne de 2008 à 2016." },
+          { "date": "2019", "text": "Enregistrement du domaine camping-libertin.com, le 2 décembre." },
+          { "date": "Avril 2023", "text": "Mise en ligne des pages du site actuel." },
+          { "date": "Avril 2024", "text": "JANA passe de SARL à SAS (avis publié au BODACC le 28 avril)." },
+          { "date": "2026", "text": "Page d'accueil retouchée le 29 janvier, tarifs le 11 mai, affiches de l'été en juin ; comptes 2025 déposés en juillet." }
+        ] }
+      ],
+      "sources": ["s18", "s19", "s20", "s24", "s16", "s17", "s4"]
+    },
+    {
+      "id": "paillote-superette-discotheque",
+      "title": "La Paillote au bord de l'eau, une supérette de plus de 200 m² et une discothèque au sort incertain",
+      "icon": "food",
+      "summary": "Bar et restaurant sont regroupés à la Paillote, au bord de la Cèze, et la supérette cuit son pain ; l'ouverture de la discothèque Le Varan n'est plus attestée.",
+      "blocks": [
+        { "kind": "list", "items": [
+          "**La Paillote** : bar en bord de rivière, petits déjeuners de 8 h à 11 h 30, déjeuners de 12 h à 14 h 30, glaces et gaufres l'après-midi. Sa page de 2023 cite aussi apéros, pétanque et concours de tee-shirts mouillés.",
+          "**La restauration** : carte, plat du jour, deux menus le soir et pizzas, sur place ou à emporter. La page, retouchée en avril 2024, la place « à la paillote midi et soir ».",
+          "**La supérette** : plus de 200 m², légumes frais de la région, pain et viennoiseries cuits sur place et vendus dès 8 h.",
+          "**Les sanitaires** : trois bâtiments avec douches chaudes, machines à laver et sèche-linge ; la grille 2026 précise que les douches sont chauffées en basse saison."
+        ] },
+        { "kind": "callout", "tone": "warning", "title": "La discothèque Le Varan", "body": "Une page officielle de 2023, retirée du menu depuis, présente la « discothèque privée le Varan », gratuite pour les campeurs dès 22 h 30. La page Mobil-homes de 2024 cite encore une « discothèque gratuite »." },
+        { "kind": "text", "body": "Un avis Google du 22 juin 2025, repris par le Petit Futé, évoque pourtant sa fermeture définitive au profit d'un comptoir à la Paillote, et des « coins câlins » montés sous des tentes à côté. Les affiches de 2026 ne la nomment pas : son existence reste à confirmer auprès du camping." }
+      ],
+      "sources": ["s3", "s5", "s7", "s8", "s9", "s10", "s11", "s16", "s26", "s2"]
+    },
+    {
+      "id": "notes-park4night-petit-fute",
+      "title": "2,75/5 sur park4night, 3,0 sur le Petit Futé : l'ambiance libertine divise",
+      "icon": "star",
+      "summary": "Notes moyennes au 21 octobre 2026 : un avis d'août 2026 salue personnel et sanitaires, d'autres critiquent l'accès, l'entretien ou une ambiance libertine absente.",
+      "blocks": [
+        { "kind": "table", "caption": "Notes relevées le 21/10/2026", "headers": ["Plateforme", "Note", "Avis", "Remarque"], "rows": [
+          ["park4night", "2,75/5", "4", "avis de juillet 2024 à août 2026"],
+          ["Petit Futé", "3,0", "33", "les plus récents (juin-août 2025) en partie repris de Google"],
+          ["GoWork", "3,6/5", "19", "forum aux avis non vérifiés"],
+          ["Google", "3,8/5", "312", "chiffre relayé par un annuaire, non vu sur Google"]
+        ] },
+        { "kind": "text", "body": "Sur park4night, l'avis du 22 août 2026 (5/5) salue un personnel aimable, un accueil multilingue, des sanitaires propres et le restaurant. Celui du 12 mai 2026 (1/5) le résume, en allemand, en camping échangiste réservé aux adultes et déconseillé à qui n'en cherche pas un. En août 2024, un campeur évoquait des inondations passées, un chemin d'accès mal entretenu, l'absence de piscine et un tri des clients par la direction." },
+        { "kind": "text", "body": "Sur GoWork, un couple venu début août 2023 jugeait le libertinage absent, quand des campeurs restés du 24 août au 3 septembre 2023 racontaient au contraire de nombreuses rencontres. Trois avis Google de juin et juillet 2025, repris par le Petit Futé, signalent une baignade interdite dans la Cèze, l'un évoquant une alerte aux bactéries coliformes ; aucune source officielle consultée ne le confirme." },
+        { "kind": "text", "body": "Avec des retours aussi partagés, le récit d'autres couples aide à se décider. Carré Libertin, qui annonce environ 20 000 membres actifs chaque semaine, permet de [demander leur retour à des couples déjà passés par un camping libertin](aff:carre-libertin) avant de bloquer une semaine en mobil-home." }
+      ],
+      "sources": ["s25", "s26", "s27", "s31"]
+    },
+    {
+      "id": "emplacements-libres-et-mobil-homes",
+      "title": "Tente sans réservation, mobil-home du samedi au samedi en haute saison",
+      "icon": "bed",
+      "summary": "Tentes, caravanes et camping-cars s'installent sans réserver, de 8 h à 20 h ; seuls les mobil-homes, trois personnes au plus, se réservent en ligne avec 30 % d'acompte.",
+      "blocks": [
+        { "kind": "text", "body": "Avec votre propre matériel, inutile de réserver : les emplacements sont « libres », sans réservation en ligne pour les tentes, caravanes et camping-cars, et l'on se présente au camping entre 8 h et 20 h. En haute saison, l'emplacement se libère avant 10 h. Les prises électriques sont au standard européen." },
+        { "kind": "text", "body": "L'emplacement s'ajoute au forfait journalier et change de prix sur trois périodes (détail dans l'encadré des tarifs) : une tente passe de 8 € la nuit en basse saison à 11 € en haute saison. Un avis park4night de juillet 2024 parle de 27 à 45 € la nuit." },
+        { "kind": "list", "title": "Mobil-homes : les conditions publiées en 2024", "items": [
+          "Prix pour deux personnes, stationnement compris ; une troisième paie 50 % du prix de la location, trois au maximum.",
+          "Du samedi au samedi en haute saison (nuit ou week-end possibles sur appel), à la nuitée en basse saison.",
+          "Arrivée dès 16 h, départ entre 8 h et 11 h.",
+          "Cafetière, micro-ondes, réfrigérateur et vaisselle fournis ; draps à apporter ou à louer 20 €.",
+          "Prix non affiché, à simuler sur la centrale de réservation ; acompte de 30 %, caution de 300 € à la remise des clés.",
+          "Ménage de départ facultatif : 70 € selon les conditions de 2024, 60 € selon la page Tarifs 2026."
+        ] },
+        { "kind": "text", "body": "En camping-car, anticipez la fin du trajet : un avis park4night de juillet 2024 décrit deux derniers kilomètres non goudronnés et en lacets, un autre d'août 2024 un chemin d'accès mal entretenu. Le site propose des itinéraires depuis Lyon, Marseille et Montpellier." }
+      ],
+      "sources": ["s3", "s5", "s6", "s12", "s15", "s25"]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Saison 2026": "du 24 avril au 30 août",
+      "Accueil": "8 h – 19 h",
+      "Accès au camping": "8 h – 23 h",
+      "Arrivées sur emplacement": "8 h – 20 h",
+      "Mobil-homes": "arrivée dès 16 h, départ de 8 h à 11 h",
+      "Paillote": "petits déjeuners 8 h – 11 h 30, déjeuners 12 h – 14 h 30"
+    },
+    "note": "Saison 2027 non publiée au 21/10/2026. Horaires tirés de pages du site mises à jour en 2023 et 2024.",
+    "confidence": "source_unique",
+    "sources": ["s1", "s4", "s5", "s6", "s7"]
+  },
+  "tarifs": {
+    "rows": {
+      "Forfait journalier couple": "20 €",
+      "Forfait journalier femme": "10 €",
+      "Forfait journalier homme (parrainé)": "30 €",
+      "Adhésion à l'association du Ran": "15 € par personne, pour la saison",
+      "Visiteur à la journée, parking compris": "couple 20 €, femme 10 €, homme 30 €",
+      "Emplacement tente (nuit)": "8 € · 9 € · 11 €",
+      "Emplacement caravane (nuit)": "10 € · 11 € · 13 €",
+      "Emplacement camping-car (nuit)": "12 € · 14 € · 15 €",
+      "Électricité 10 A": "5 €",
+      "Voiture sur le parking": "6 €",
+      "Moto": "4 €",
+      "Remorque": "4 € (petite) · 5 € (auto-portée)",
+      "Animal tenu en laisse": "3 €",
+      "Location de draps (mobil-home)": "20 €",
+      "Bracelet non rendu": "50 €"
+    },
+    "note": "Grille 2026 du site officiel, « par jour et par personne » (page mise à jour le 11/05/2026). Emplacements : basse saison du 28 avril au 1er juin, mi-saison du 2 au 30 juin, haute saison du 1er juillet au 3 septembre. Taxe de séjour, frais de dossier, bracelet et sanitaires inclus. Paiement : chèque, chèque-vacances, espèces, carte bancaire (les conditions générales de 2024 ne citent pas la carte pour les emplacements).",
+    "confidence": "confirme",
+    "sources": ["s3", "s5", "s6", "s31"]
+  },
+  "equipements": [
+    "Plage naturiste privée sur la Cèze",
+    "Bar (la Paillote)",
+    "Restauration",
+    "Supérette avec pain cuit sur place",
+    "Emplacements tente, caravane et camping-car",
+    "Mobil-homes",
+    "Branchements électriques 10 A",
+    "3 blocs sanitaires",
+    "Machines à laver et sèche-linge",
+    "Parking",
+    "Karaoké"
+  ],
+  "externalRatings": [
+    { "platform": "park4night", "rating": 2.75, "scale": 5, "count": 4, "date": "2026-10-21", "url": "https://park4night.com/en/place/490487" }
+  ],
+  "officialLinks": [
+    { "label": "Site officiel", "url": "https://camping-libertin.com/", "kind": "site" },
+    { "label": "Événements de la saison", "url": "https://camping-libertin.com/evenements/", "kind": "agenda" },
+    { "label": "Centrale de réservation (mobil-homes)", "url": "https://camping-libertin.com/reservation/", "kind": "reservation" },
+    { "label": "Page Facebook", "url": "https://www.facebook.com/profile.php?id=100057202069566", "kind": "facebook" }
+  ],
+  "faq": [
+    {
+      "question": "Le Ran du Chabrier est-il ouvert en ce moment ?",
+      "answer": "Non. Le camping est saisonnier : la saison 2026 s'est terminée le 30 août, après une ouverture le 24 avril. Au 21 octobre 2026, le site officiel n'annonce pas encore les dates de 2027 ; l'accueil répond au 04 66 24 51 55."
+    },
+    {
+      "question": "Combien coûte un séjour au Ran du Chabrier ?",
+      "answer": "En 2026, le forfait journalier est de 20 € pour un couple, 10 € pour une femme et 30 € pour un homme, plus une adhésion de 15 € par personne pour la saison. Si vous campez, l'emplacement s'ajoute à la nuit : de 8 € (tente en basse saison) à 15 € (camping-car en haute saison). Un avis park4night évalue la nuit entre 27 et 45 €."
+    },
+    {
+      "question": "Un homme seul peut-il venir au Ran du Chabrier ?",
+      "answer": "Seulement parrainé par un couple, selon la page Tarifs 2026, et la direction garde le droit de refuser l'entrée. Le forfait est alors de 30 € par jour, plus l'adhésion de 15 €."
+    },
+    {
+      "question": "Faut-il réserver son emplacement ?",
+      "answer": "Non pour les tentes, caravanes et camping-cars : les emplacements sont libres, sans réservation en ligne, et l'on se présente au camping entre 8 h et 20 h. Seuls les mobil-homes se réservent par la centrale en ligne, avec un acompte de 30 % ; pour un emplacement, la page Réservation renvoie à la réception du camping."
+    },
+    {
+      "question": "Peut-on venir seulement pour la journée ?",
+      "answer": "Oui : la grille 2026 prévoit des tarifs visiteurs à la journée, stationnement compris (couple 20 €, femme 10 €, homme 30 €). Le site ne dit pas si l'adhésion de 15 € s'applique aussi aux visiteurs, ni s'ils peuvent rester aux soirées du samedi : à demander à l'accueil."
+    },
+    {
+      "question": "Les enfants et les chiens sont-ils acceptés ?",
+      "answer": "Les mineurs, non : le camping est réservé aux adultes. Les chiens sont admis, tenus en laisse et avec leur carnet de vaccination, pour 3 € par jour selon la grille 2026."
+    },
+    {
+      "question": "Quels avis le Ran du Chabrier reçoit-il ?",
+      "answer": "Des avis très partagés. Au 21 octobre 2026, park4night affiche 2,75/5 sur 4 avis, dont un 5/5 d'août 2026 pour l'accueil, les sanitaires et le restaurant, et le Petit Futé 3,0 sur 33 avis. Les critiques de 2024 et 2025 visent l'accès, des sanitaires vieillissants, les prix du restaurant et des interdictions de baignade."
+    },
+    {
+      "question": "Y a-t-il encore une discothèque au Ran du Chabrier ?",
+      "answer": "Rien ne le confirme. Une page officielle de 2023 présente la discothèque Le Varan, gratuite pour les campeurs, mais un avis de juin 2025 parle de sa fermeture définitive, et les affiches de 2026 ne la mentionnent pas. Mieux vaut poser la question à l'accueil."
+    }
+  ],
+  "unverified": [
+    "Les dates d'ouverture de la saison 2027, non publiées au 21 octobre 2026.",
+    "L'existence de la discothèque Le Varan en 2026, et le lieu où se tiennent les soirées du samedi.",
+    "Le classement officiel du camping (2 étoiles selon des annuaires) et sa capacité exacte (100 ou 160 emplacements).",
+    "Le prix d'un mobil-home, que le site ne donne que par simulation.",
+    "Le montant du forfait ménage des mobil-homes : 60 € ou 70 € selon la page consultée.",
+    "Si l'adhésion de 15 € s'applique aux visiteurs à la journée, et si ces derniers peuvent assister aux soirées.",
+    "La structure qui gère « l'association du Ran » et encaisse l'adhésion de 15 €, que le site ne présente pas.",
+    "L'adresse « 1658 impasse du Ran du Chabrier », donnée par park4night mais pas par le camping.",
+    "La note Google (3,8/5 sur 312 avis selon un annuaire), non consultée directement."
+  ],
+  "sources": [
+    { "id": "s1", "label": "Site officiel, page d'accueil (saison 2026, téléphone)", "url": "https://camping-libertin.com/", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s2", "label": "Site officiel, « Les événements 2026 du Ran » (24 affiches)", "url": "https://camping-libertin.com/evenements/", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s3", "label": "Site officiel, Tarifs 2026 (modifiée le 11/05/2026)", "url": "https://camping-libertin.com/les-tarifs-du-camping/", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s4", "label": "Site officiel, L'Accueil (horaires, création en 1965)", "url": "https://camping-libertin.com/accueil-du-camping/", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s5", "label": "Site officiel, Les Mobil-homes (modifiée le 30/04/2024)", "url": "https://camping-libertin.com/les-mobil-homes/", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s6", "label": "Site officiel, conditions générales de location (modifiées le 30/04/2024)", "url": "https://camping-libertin.com/nos-c-g-l/", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s7", "label": "Site officiel, La Paillote (page de 2023)", "url": "https://camping-libertin.com/la-paillote-du-ran/", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s8", "label": "Site officiel, Le Restaurant (modifiée le 30/04/2024)", "url": "https://camping-libertin.com/le-restaurant/", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s9", "label": "Site officiel, La Supérette", "url": "https://camping-libertin.com/la-superette-du-ran-du-chabrier/", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s10", "label": "Site officiel, Sanitaires", "url": "https://camping-libertin.com/sanitaires/", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s11", "label": "Site officiel, Discothèque le Varan (page de 2023, hors menu)", "url": "https://camping-libertin.com/la-discotheque-le-varan/", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s12", "label": "Site officiel, Réservation", "url": "https://camping-libertin.com/reservation/", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s13", "label": "Site officiel, Contact", "url": "https://camping-libertin.com/contacter-le-ran-du-chabrier/", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s14", "label": "Site officiel, La Région (page de 2023)", "url": "https://camping-libertin.com/la-region/", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s15", "label": "Site officiel, Situation et accès", "url": "https://camping-libertin.com/situation-et-acces/", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s16", "label": "Site officiel, dates de création et de modification des pages (API WordPress)", "url": "https://camping-libertin.com/wp-json/wp/v2/pages", "type": "autre", "consulted": "2026-10-21" },
+    { "id": "s17", "label": "Internet Archive, captures de camping-libertin.com et leranduchabrier.com ; RDAP du domaine", "url": "https://web.archive.org/cdx/search/cdx?url=camping-libertin.com", "type": "autre", "consulted": "2026-10-21" },
+    { "id": "s18", "label": "Site officiel, Mentions légales", "url": "https://camping-libertin.com/mentions-legales/", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s19", "label": "Annuaire des entreprises, JANA (SIREN 509 934 832)", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/509934832", "type": "registre", "consulted": "2026-10-21" },
+    { "id": "s20", "label": "BODACC, annonces de JANA (19 annonces, dernière du 23/07/2026)", "url": "https://bodacc-datadila.opendatasoft.com/api/explore/v2.1/catalog/datasets/annonces-commerciales/records?where=registre%20like%20%22509934832%22", "type": "registre", "consulted": "2026-10-21" },
+    { "id": "s24", "label": "Annuaire des entreprises, SOGESCAMP LIMITED (cessée)", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/316057645", "type": "registre", "consulted": "2026-10-21" },
+    { "id": "s25", "label": "park4night, fiche n° 490487 (note et avis)", "url": "https://park4night.com/en/place/490487", "type": "avis", "consulted": "2026-10-21" },
+    { "id": "s26", "label": "Petit Futé, fiche « Le Ran du Chabrier » (texte et avis)", "url": "https://www.petitfute.com/v19010-saint-privat-de-champclos-30430/c1166-hebergement/c1047-camping-hotellerie-de-plein-air/c178-camping/604267-le-ran-du-chabrier.html", "type": "annuaire", "consulted": "2026-10-21" },
+    { "id": "s27", "label": "GoWork, « Le Ran du Chabrier » (forum d'avis non vérifiés)", "url": "https://gowork.fr/le-ran-du-chabrier-saint-privat-de-champclos", "type": "forum", "consulted": "2026-10-21" },
+    { "id": "s29", "label": "CampingFrance.com, fiche « Le Ran du Chabrier »", "url": "https://www.campingfrance.com/uk/find-your-campsite/occitanie/gard/saint-privat-de-champclos/le-ran-du-chabrier", "type": "annuaire", "consulted": "2026-10-21" },
+    { "id": "s30", "label": "guide-campings.com, fiche « Le Ran Chabrier »", "url": "https://www.guide-campings.com/CAMPINGS/le-ran-chabrier--saint-privat-champclos-3832.htm", "type": "annuaire", "consulted": "2026-10-21" },
+    { "id": "s31", "label": "minuitlibertin.com, fiche du camping (tarifs relevés le 03/06/2025)", "url": "https://minuitlibertin.com/camping-libertin-le-ran-du-chabrier/", "type": "annuaire", "consulted": "2026-10-21" },
+    { "id": "s32", "label": "L'Only-US (Alès), site officiel : agenda du club", "url": "https://lonlyus.com/agenda/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s33", "label": "Le New Bora (Castillon-du-Gard), site officiel : plan du site des événements (modifié le 11/10/2026)", "url": "https://www.lenewbora.fr/ajde_events-sitemap.xml", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s34", "label": "Le New Bora, agenda officiel : « Vendredi 30 octobre – Halloween »", "url": "https://www.lenewbora.fr/events/vendredi-30-octobre-halloween/", "type": "officiel", "consulted": "2026-10-19" }
+  ]
+}

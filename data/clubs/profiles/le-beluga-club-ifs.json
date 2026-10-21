@@ -1,0 +1,362 @@
+{
+  "slug": "le-beluga-club-ifs",
+  "clubId": "new-le-beluga-club-ifs",
+  "researchedAt": "2026-10-21",
+  "display": { "nom": "Le Beluga Club", "ville": "Ifs" },
+  "status": {
+    "value": "ouvert",
+    "summary": "Le 21 octobre 2026, l'agenda du site annonçait huit rendez-vous jusqu'au samedi 31, nuit d'Halloween réservée aux couples et aux femmes seules ; les affiches d'octobre avaient été mises en ligne le 3 et la page des horaires et tarifs modifiée le 17 septembre. La SAS CSDBM, qui exploite le club depuis août 2021, est active au registre et a déposé ses comptes (BODACC du 11 août 2026).",
+    "sources": ["s3", "s25", "s8", "s2", "s16", "s18"]
+  },
+  "seo": {
+    "title": "Le Beluga Club à Ifs : samedi couples, tarifs et soirées à thème",
+    "metaDescription": "Club libertin de plus de 500 m² aux portes de Caen : couple dès 27 €, samedi réservé aux couples et femmes seules, buffets offerts jeudi et dimanche.",
+    "subtitle": "Club libertin de plus de 500 m² avec balnéo, ouvert cinq jours sur sept à Ifs (14)",
+    "targetQueries": ["beluga club ifs", "beluga ifs", "club libertin ifs", "club libertin caen", "beluga club tarifs", "beluga club avis"]
+  },
+  "lead": "Ouvert fin 2015 aux portes de Caen et revendu en 2021 à une nouvelle société, le Beluga Club aligne sur plus de 500 m² un bar lounge, un dancefloor, plusieurs espaces câlins et une balnéo avec jacuzzi, sauna et hammam. Il ouvre cinq jours sur sept : trois après-midi mixtes, une soirée mixte le jeudi et le vendredi, et le samedi soir pour les seuls couples et femmes seules. Chaque week-end décline un thème en deux soirées ; celui des 30 et 31 octobre 2026 fête Halloween.",
+  "glance": [
+    { "icon": "calendar", "label": "Ouvert", "value": "Lundi, puis du jeudi au dimanche" },
+    { "icon": "couple", "label": "Samedi soir", "value": "Couples et femmes seules uniquement" },
+    { "icon": "euro", "label": "Entrée couple", "value": "27 € (après-midi) à 47 € (samedi, journée)" },
+    { "icon": "clock", "label": "Vendredi et samedi", "value": "Entrées closes à 23 h 30" },
+    { "icon": "food", "label": "Buffets offerts", "value": "Jeudi 20 h et dimanche 19 h 30" },
+    { "icon": "history", "label": "Depuis", "value": "Fin 2015 ; nouvel exploitant en 2021" }
+  ],
+  "audience": [
+    { "who": "couples", "status": "oui", "detail": "Tous les jours d'ouverture ; carte VIP gratuite : 5 € de moins, sauf en ligne", "price": "27 à 47 €" },
+    { "who": "femmes", "status": "oui", "detail": "Tous les jours d'ouverture, samedi soir compris", "price": "7 à 17 €" },
+    { "who": "hommes", "status": "selon", "detail": "Lundi, jeudi, vendredi soir et dimanche ; jamais le samedi soir", "price": "37 à 52 €" }
+  ],
+  "highlights": [
+    "Vendredi et samedi, l'accueil s'arrête à 23 h 30 et la balnéo n'ouvre qu'à minuit.",
+    "Vendredi et samedi soir, jean, baskets, tee-shirt et pantalon pour les femmes sont refusés à la porte ; une entrée réservée est alors remboursée.",
+    "La carte VIP gratuite des couples retire 5 € par entrée, mais pas sur les billets réservés en ligne.",
+    "Le dimanche, plus d'entrée après 18 h ; le jeudi, aucune entre 19 h et 21 h, pendant le buffet.",
+    "Pour le GPS : rue de la Dronnière à Ifs, sans numéro ; le registre indique le 9 rue des Tisserands, dans la même zone d'activité."
+  ],
+  "keyFacts": [
+    { "label": "Ouverture", "value": "Fin 2015 (établissement inscrit le 30 novembre 2015)", "confidence": "confirme", "sources": ["s11", "s13", "s17"] },
+    { "label": "Exploitant", "value": "SAS CSDBM, enseigne « Le Beluga », depuis août 2021", "confidence": "confirme", "sources": ["s5", "s16", "s18"] },
+    { "label": "Public admis", "value": "Mixte, sauf le samedi soir (couples et femmes seules)", "confidence": "confirme", "sources": ["s1", "s2", "s25"] },
+    { "label": "Jours d'ouverture", "value": "Lundi, jeudi, vendredi, samedi, dimanche ; fermé les jours fériés", "confidence": "confirme", "sources": ["s2", "s3"] },
+    { "label": "Entrée couple", "value": "27 à 47 €, dont 10 à 20 € de consommations", "confidence": "confirme", "sources": ["s2", "s24", "s26"] },
+    { "label": "Surface", "value": "Plus de 500 m²", "confidence": "confirme", "sources": ["s1", "s11"] },
+    { "label": "Réservation", "value": "Vendredi et samedi, sur Yurplan depuis la page de la soirée", "confidence": "confirme", "sources": ["s2", "s31"] },
+    { "label": "Fermeture annuelle", "value": "Vacances d'hiver du 15 février au 4 mars 2026", "confidence": "source_unique", "sources": ["s9"] }
+  ],
+  "sections": [
+    {
+      "id": "week-ends-en-deux-soirees",
+      "title": "Un thème par week-end, mixte le vendredi puis entre couples le samedi",
+      "icon": "mask",
+      "summary": "De fin septembre à fin octobre 2026, chaque thème a occupé deux soirées : la « Part I » du vendredi, ouverte à tous de 21 h 30 à 4 h 30, puis la « Part II » du samedi, entre couples et femmes seules.",
+      "blocks": [
+        { "kind": "text", "body": "Le programme du Beluga fonctionne par paires : un thème démarre le vendredi en mixte (« Part I ») et se rejoue le samedi, de 22 h à 4 h 30, en version **couples et femmes seules** (« Part II »). Les quatre thèmes affichés du 25 septembre au 31 octobre 2026 suivent tous ce schéma." },
+        {
+          "kind": "table",
+          "caption": "Quatre thèmes de l'automne 2026, d'après l'agenda officiel",
+          "headers": ["Dates", "Soirée", "Ce qui est annoncé"],
+          "rows": [
+            ["Ven. 25 et sam. 26 septembre", "L'Obscure Party", "Tenue noire obligatoire, lumière réduite au minimum, jeux dans le noir"],
+            ["Ven. 2 et sam. 3 octobre", "Le Service des Urgences", "Tenues de médecin, d'infirmier ou de patient, et un cocktail baptisé « Sérum de Perversion »"],
+            ["Ven. 23 et sam. 24 octobre", "La Soirée des Défis Érotiques", "Une urne où tirer un défi au hasard ; 20 sextoys et accessoires pour ceux qui le relèvent"],
+            ["Ven. 30 et sam. 31 octobre", "Diables & Diablesses Dévoreurs", "Halloween : bonbons en quantité et un « petit test » au cours de la nuit"]
+          ]
+        },
+        { "kind": "text", "body": "En semaine, les rendez-vous gardent un nom fixe : « Les Lundis Coquins », « Vos envies prennent le pouvoir ! » le jeudi, les « Dimanches Câlins et Coquins ». Les archives du site montrent d'autres formats : des soirées BDSM en 2021 et 2022, et une page de réveillon de la Saint-Sylvestre à chaque fin d'année, de 2022 à 2025." },
+        { "kind": "text", "body": "La Part II du samedi se déroule sans hommes seuls. Pour [proposer la Part II d'un week-end à thème à un autre couple](aff:carre-libertin), Carré Libertin et ses plus de 500 000 inscrits donnent de quoi sonder les environs de Caen avant de réserver." }
+      ],
+      "sources": ["s3", "s24", "s25", "s26", "s27", "s28", "s29", "s30", "s38", "s39", "s15", "s8"]
+    },
+    {
+      "id": "vendredi-samedi-tenue-23h30",
+      "title": "Vendredi et samedi : tenue de soirée exigée et entrées closes à 23 h 30",
+      "icon": "shield",
+      "summary": "Le week-end, jean, baskets, tee-shirt et pantalon pour les femmes sont refusés ; l'accueil dure de 21 h 30 à 23 h 30 et la balnéo n'ouvre qu'à minuit.",
+      "blocks": [
+        {
+          "kind": "list",
+          "title": "Le code vestimentaire des soirées",
+          "items": [
+            "Messieurs : tenue « classe » obligatoire ; dames : tenue féminine et sexy.",
+            "Refusés : jean bleu, baskets et chaussures de sport, tee-shirt, pantalon pour les femmes.",
+            "Aucune tolérance à la porte ; une entrée réservée puis refusée pour la tenue est remboursée.",
+            "Certains thèmes ajoutent leur consigne : tout en noir pour l'Obscure Party, tenues d'hôpital pour le Service des Urgences."
+          ]
+        },
+        { "kind": "text", "body": "La règle vaut aussi à l'intérieur : au bar et sur le dancefloor, la tenue sexy reste de mise après l'ouverture de la balnéo, et l'on ne passe pas en serviette côté discothèque, sauf l'après-midi. Or le vendredi et le samedi, la balnéo n'ouvre qu'à minuit. Un blog relevait déjà cet horaire début 2017." },
+        { "kind": "text", "body": "La réservation passe par la page de la soirée, dans l'onglet « Le Programme » : le bouton « RESERVER » mène à la billetterie Yurplan, jusqu'à 30 minutes avant l'ouverture si la soirée n'affiche pas complet. Sans billet, on entre de 21 h 30 à 23 h 30, dans la limite des places." },
+        { "kind": "callout", "tone": "warning", "title": "La carte VIP ne vaut pas en ligne", "body": "La carte VIP, gratuite pour les couples et renouvelée à partir de dix entrées par an, ramène le vendredi à 32 € au lieu de 37 €. Elle ne s'applique pas aux réservations en ligne : un couple qui réserve sa soirée sur Yurplan paie le plein tarif." }
+      ],
+      "sources": ["s2", "s10", "s24", "s25", "s29", "s30", "s31", "s21"]
+    },
+    {
+      "id": "apres-midi-et-buffets",
+      "title": "Lundi 12 h 30, jeudi 13 h, dimanche 14 h : trois après-midi balnéo, deux buffets offerts",
+      "icon": "food",
+      "summary": "Trois après-midi mixtes autour de la balnéo, au tarif le plus bas de la semaine ; jeudi et dimanche, un buffet froid et chaud est offert aux présents avant 18 h (ou inscrits, le jeudi).",
+      "blocks": [
+        { "kind": "text", "body": "Le lundi, le jeudi et le dimanche, la journée commence par un après-midi mixte, balnéo (jacuzzi, sauna, hammam) et coins câlins ouverts dès l'arrivée, au tarif le plus bas : 27 € pour un couple, 7 € pour une femme, 37 € pour un homme." },
+        {
+          "kind": "table",
+          "caption": "Le déroulé des trois journées",
+          "headers": ["Jour", "Après-midi", "Buffet offert", "Ensuite"],
+          "rows": [
+            ["Lundi", "12 h 30 - 18 h 30", "Aucun", "Fermeture"],
+            ["Jeudi", "13 h - 19 h", "20 h - 21 h, réservation avant 18 h", "Soirée mixte de 21 h à 2 h"],
+            ["Dimanche", "14 h - 19 h, dernière entrée à 18 h", "19 h 30 - 21 h, sans réservation", "« Soirée freestyle » de 21 h à 22 h"]
+          ]
+        },
+        {
+          "kind": "list",
+          "title": "Les conditions des buffets",
+          "items": [
+            "Jeudi : buffet pour les présents avant 18 h ou les inscrits au 06 42 88 11 90 (SMS avec le nombre de personnes, ou appel après 13 h).",
+            "Jeudi : aucune entrée de 19 h à 21 h ; balnéo et coins câlins fermés de 20 h à 21 h pour l'entretien.",
+            "Dimanche : apéritif et buffet pour les présents avant 18 h, sans réservation, places limitées.",
+            "Tarif journée (couple 47 €, homme 52 €, femme 17 €) : après-midi, buffet et soirée, le jeudi et le dimanche seulement."
+          ]
+        },
+        { "kind": "text", "body": "Le SMS du jeudi annonce le nombre de convives : venir à deux couples se décide donc avant 18 h. Gleese, avec ses lives HD quotidiens et ses messages vocaux, sert à [faire connaissance de vive voix avant un jeudi à Ifs](aff:gleese), puis à grouper l'inscription." }
+      ],
+      "sources": ["s2", "s26", "s27", "s28", "s1"]
+    },
+    {
+      "id": "orphea-venus-calvados",
+      "title": "Orphéa à Chicheboville, Venus à Hérouville : deux voisins vérifiés en octobre 2026",
+      "icon": "users",
+      "summary": "L'Orphéa Club partage le même découpage, vendredi mixte et samedi couples ; le Venus Sauna reste mixte tous les jours, samedi soir compris, avec une entrée homme à 50 €.",
+      "blocks": [
+        { "kind": "text", "body": "À Chicheboville, [l'Orphéa Club](/orphea-club-chicheboville-billy) suit le même partage : vendredi mixte de 21 h 30 à 3 h 30, samedi de 22 h à 4 h 30 pour les couples et les femmes seules, sauf samedis annoncés mixtes. L'homme seul y paie 42 € (site relevé le 16 octobre 2026)." },
+        { "kind": "text", "body": "Le samedi soir, un homme seul trouve porte ouverte au [Venus Sauna](/venus-sauna-caen), installé depuis juin 2025 rue Verte, à Hérouville-Saint-Clair. Son espace mixte ouvre tous les jours, le samedi de 14 h à 2 h, avec une entrée homme à 50 € ce soir-là (grille relevée le 16 octobre 2026)." },
+        { "kind": "text", "body": "À Caen, [L'Apollon](/l-apollon-caen) est un bar de cruising réservé aux hommes, actif en octobre 2026. Les autres établissements du département figurent parmi [les lieux libertins du Calvados](/departement/calvados)." }
+      ],
+      "sources": ["s33", "s34", "s35", "s36", "s37"]
+    },
+    {
+      "id": "500-m2-balneo-salles",
+      "title": "Plus de 500 m² annoncés depuis 2015 : dancefloor, espaces câlins, jacuzzi, sauna et hammam",
+      "icon": "spa",
+      "summary": "Le site décrit plus de 500 m² avec bar lounge, dancefloor, espaces câlins et balnéo ; BDSM room, black room ou piscine à jets ne sont nommées que par la galerie et le livre d'or.",
+      "blocks": [
+        { "kind": "text", "body": "Les « plus de 500 M² » figuraient déjà sur la page d'attente du site en août 2015 ; l'accueil de 2026 reprend le chiffre." },
+        {
+          "kind": "list",
+          "title": "Ce que décrivent les pages du site",
+          "items": [
+            "Un bar lounge et un dancefloor animé par des DJ.",
+            "Plusieurs espaces câlins.",
+            "Une balnéo avec jacuzzi, sauna et hammam.",
+            "Des vestiaires et des douches (page d'une soirée BDSM d'octobre 2022).",
+            "Un parking privé sécurisé."
+          ]
+        },
+        {
+          "kind": "list",
+          "title": "Ce que seules les légendes de la galerie nomment",
+          "items": [
+            "Couloir d'alcôves, love rooms et love cage.",
+            "Salle de massage.",
+            "Black room avec glory hole et BDSM room.",
+            "Jacuzzi « à débordement » et piscine à jets."
+          ]
+        },
+        { "kind": "callout", "tone": "warning", "title": "Des visuels générés par IA, selon le site", "body": "Les mentions légales, revues le 12 janvier 2026, déclarent les visuels du site générés par intelligence artificielle, sans dire lesquels : les légendes de la galerie, seules lues, ne prouvent pas que ces salles existent." },
+        { "kind": "text", "body": "Hors galerie, seuls des messages du livre d'or, hébergé par le club, citent ces salles : une BDSM room dans trois messages d'août 2025 à juin 2026, une darkroom avec glory hole en 2024, une piscine et une salle de massage en 2023." },
+        { "kind": "text", "body": "Un annuaire d'avril 2026, qui reprend la galerie, compte deux jacuzzis à débordement et deux BDSM rooms. Le fumoir, rubrique du site en 2019, cité au livre d'or en mai 2024, n'est pas confirmé en 2026." },
+        { "kind": "text", "body": "Deux partenaires affichés par le club touchent au lieu lui-même : un photographe y propose des séances privées, club privatisé, et une boutique érotique normande en ligne y tient une vitrine." }
+      ],
+      "sources": ["s1", "s5", "s6", "s7", "s8", "s11", "s15", "s22", "s32", "s40"]
+    },
+    {
+      "id": "dronniere-tisserands",
+      "title": "Rue de la Dronnière pour s'y rendre, 9 rue des Tisserands au registre",
+      "icon": "map",
+      "summary": "Le club donne la rue de la Dronnière à Ifs, sans numéro ; sa société est inscrite au 9 rue des Tisserands, dans la même zone d'activité.",
+      "blocks": [
+        { "kind": "text", "body": "Depuis au moins 2019, le site, les affiches et la page contact indiquent la rue de la Dronnière, à Ifs, sans numéro. Mentions légales et registre placent la société au 9 rue des Tisserands, à environ 250 m du milieu de la rue de la Dronnière (Base Adresse Nationale) : sans doute le même bâtiment, non vérifié sur place." },
+        {
+          "kind": "list",
+          "items": [
+            "Parking privé sécurisé, selon le club.",
+            "Contact : 06 42 88 11 90, par appel ou SMS aux heures d'ouverture ; lebelugaclub@orange.fr.",
+            "Le fixe 09 52 75 80 35, affiché en 2019, a disparu du site.",
+            "Aucun compte Facebook ou Instagram n'est relié au site, et nos recherches n'en ont trouvé aucun."
+          ]
+        },
+        { "kind": "text", "body": "Pour dormir à deux pas, le club cite trois hôtels d'Ifs, les mêmes qu'en 2019 : un B&B au 5 rue de la Dronnière, un Kyriad route de Caen et un My Hotel rue de Rocquancourt." }
+      ],
+      "sources": ["s1", "s4", "s5", "s10", "s12", "s16", "s19"]
+    },
+    {
+      "id": "avis-google-livre-or",
+      "title": "4,3/5 sur 143 avis Google relayés, 224 messages au livre d'or",
+      "icon": "star",
+      "summary": "Un agrégateur relaie une note Google de 4,3/5 sur 143 avis (mise à jour du 16 juillet 2026) ; le livre d'or du site compte 224 messages, élogieux par nature.",
+      "blocks": [
+        { "kind": "text", "body": "Nous n'avons pas consulté la fiche Google elle-même : la note vient de Top-Rated.Online, qui en reprend les données. Ses trois avis visibles, non datés, vont d'un 5/5 sur l'accueil à un 1/5 jugeant le lieu petit, cher et fréquenté par beaucoup d'hommes seuls ; un 4/5 salue le bâtiment et la balnéo mais trouve la clientèle peu ouverte." },
+        { "kind": "text", "body": "Le livre d'or hébergé par le club compte 224 messages. Les vingt plus récents, du 20 janvier au 3 octobre 2026, parlent de premières visites en couple, de soirées à thème, de l'accueil et de la propreté ; un message du 22 mars 2026 évoque une soirée d'intégration où les débutants pouvaient se rencontrer ou discuter avec des habitués." }
+      ],
+      "sources": ["s20", "s7"]
+    },
+    {
+      "id": "fin-2015-vente-2021",
+      "title": "Ouvert fin 2015, vendu 300 000 € en juillet 2021",
+      "icon": "history",
+      "summary": "Le couple fondateur a tenu le Beluga plus de cinq ans ; en juillet 2021, le fonds est passé à la SAS CSDBM, qui l'exploite sous l'enseigne « Le Beluga ».",
+      "blocks": [
+        {
+          "kind": "timeline",
+          "items": [
+            { "date": "Août 2015", "text": "Le site souhaite la bienvenue au « BELUGA » et annonce une ouverture à la fin de l'été." },
+            { "date": "30 novembre 2015", "text": "Le registre ouvre l'établissement « Le Beluga » au 9 rue des Tisserands, au nom de la société fondatrice." },
+            { "date": "Début 2017", "text": "Un blogueur trouve le sauna et le hammam hors service, un grand jacuzzi peu chaud et un second de huit places." },
+            { "date": "29 novembre 2019", "text": "Week-end des 4 ans ; la « carte VIP pass » donne déjà droit à des tarifs réduits." },
+            { "date": "29 juillet 2021", "text": "Le fonds de « discothèque libertine, club de rencontres libertin, petite restauration » est vendu 300 000 € à la SAS CSDBM, créée six jours plus tôt." },
+            { "date": "26 août 2021", "text": "Début d'activité de la nouvelle exploitante, selon le registre." },
+            { "date": "9 et 10 décembre 2022", "text": "Le Beluga fête ses 7 ans ; le couple fondateur, qui a reçu la clientèle « pendant plus de 5 ans », est invité le samedi." },
+            { "date": "9 mars 2023", "text": "L'établissement de l'ancienne société est fermé au registre." },
+            { "date": "Janvier 2026", "text": "Refonte du site : nouvelles pages d'accueil, d'agenda et de livre d'or créées les 2 et 3 janvier, mentions légales revues le 12." },
+            { "date": "15 février - 4 mars 2026", "text": "Fermeture pour vacances d'hiver." },
+            { "date": "17 septembre 2026", "text": "Dernière modification de la page des tarifs, dont les prix dépassent de 2 € ceux relevés par un annuaire en avril." }
+          ]
+        },
+        { "kind": "text", "body": "Un guide en ligne des clubs de Caen date l'ouverture de 2020, « dans un ancien restaurant ». Les archives du site et le registre la placent fin 2015, et rien ne confirme l'ancien restaurant." }
+      ],
+      "sources": ["s11", "s17", "s13", "s21", "s16", "s18", "s14", "s8", "s9", "s2", "s22", "s23"]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Lundi": "12 h 30 - 18 h 30 (après-midi mixte)",
+      "Mardi et mercredi": "Fermé",
+      "Jeudi": "13 h - 19 h, buffet 20 h - 21 h, soirée 21 h - 2 h (mixte)",
+      "Vendredi": "21 h 30 - 4 h 30 (soirée mixte), entrées jusqu'à 23 h 30",
+      "Samedi": "22 h - 4 h 30 (couples et femmes seules), entrées jusqu'à 23 h 30",
+      "Dimanche": "14 h - 22 h (mixte), pas d'entrée après 18 h",
+      "Jours fériés": "Fermé"
+    },
+    "note": "Page Horaires et tarifs modifiée le 17 septembre 2026 et pages des soirées d'octobre 2026. Jeudi : aucune entrée de 19 h à 21 h, balnéo et coins câlins fermés de 20 h à 21 h pour l'entretien. Vendredi et samedi : balnéo ouverte à minuit. Fermeture pour vacances du 15 février au 4 mars 2026.",
+    "confidence": "confirme",
+    "sources": ["s2", "s10", "s24", "s26", "s27", "s28", "s9"]
+  },
+  "tarifs": {
+    "rows": {
+      "Couple, après-midi": "27 € (22 € avec la carte VIP), 10 € de consommations",
+      "Couple, soirée mixte (jeudi, vendredi)": "37 € (32 € VIP), 20 € de consommations",
+      "Couple, journée avec buffet (jeudi, dimanche)": "47 € (42 € VIP), 20 € de consommations",
+      "Couple, samedi soir": "47 € (42 € VIP), 20 € de consommations",
+      "Homme seul, après-midi": "37 €, 5 € de consommations",
+      "Homme seul, soirée mixte": "42 €, 10 € de consommations",
+      "Homme seul, journée avec buffet": "52 €, 10 € de consommations",
+      "Homme seul, samedi soir": "Non admis",
+      "Femme seule, après-midi": "7 €, 5 € de consommations",
+      "Femme seule, soirée (samedi compris)": "12 €, 10 € de consommations",
+      "Femme seule, journée avec buffet": "17 €, 10 € de consommations"
+    },
+    "note": "Grille officielle modifiée le 17 septembre 2026, confirmée par les pages des soirées d'octobre. Les consommations incluses sont un montant à valoir sur la carte, pas un nombre de verres. Carte VIP gratuite, réservée aux couples, non valable pour les réservations en ligne.",
+    "confidence": "confirme",
+    "sources": ["s2", "s24", "s25", "s26", "s27"]
+  },
+  "equipements": [
+    "Plus de 500 m²",
+    "Bar lounge",
+    "Dancefloor avec DJ",
+    "Espaces câlins",
+    "Jacuzzi",
+    "Sauna",
+    "Hammam",
+    "Vestiaires",
+    "Douches",
+    "Parking privé sécurisé"
+  ],
+  "officialLinks": [
+    { "label": "Site officiel du Beluga Club", "url": "https://www.lebelugaclub.fr/", "kind": "site" },
+    { "label": "Le Programme (agenda des soirées)", "url": "https://www.lebelugaclub.fr/le-programme/", "kind": "agenda" },
+    { "label": "Réservations des vendredis et samedis", "url": "https://www.lebelugaclub.fr/reservations/", "kind": "reservation" },
+    { "label": "Galerie photo officielle", "url": "https://www.lebelugaclub.fr/galerie-photo/", "kind": "galerie" }
+  ],
+  "faq": [
+    {
+      "question": "Le Beluga Club d'Ifs est-il ouvert en 2026 ?",
+      "answer": "Oui. Au 21 octobre 2026, son agenda annonçait huit rendez-vous jusqu'au 31 octobre et sa société exploitante était active au registre. Le club ouvre le lundi, le jeudi, le vendredi, le samedi et le dimanche ; il ferme le mardi, le mercredi et les jours fériés. En 2026, il a aussi fermé pour vacances du 15 février au 4 mars."
+    },
+    {
+      "question": "Combien coûte l'entrée au Beluga Club ?",
+      "answer": "Un couple paie de 27 € l'après-midi à 47 € la journée avec buffet ou le samedi soir, avec 10 à 20 € de consommations à valoir sur la carte ; la carte VIP gratuite retire 5 €, sauf en réservation en ligne. Une femme seule paie de 7 à 17 €, un homme seul de 37 à 52 €. Ces prix dépassent de 2 € ceux qu'un annuaire relevait en avril 2026."
+    },
+    {
+      "question": "Un homme seul peut-il entrer au Beluga ?",
+      "answer": "Oui, le lundi, le jeudi, le vendredi soir et le dimanche, pour 37 à 52 € selon le créneau. Le samedi soir, réservé aux couples et aux femmes seules, il n'entre qu'accompagné d'une partenaire. Sur Wyylde, la formule annuelle revient à 8,33 € par mois, payés d'avance pour douze mois, avec une reconduction automatique à couper aussitôt : un coût à peser avant de [chercher dans l'agglomération caennaise une partenaire pour le samedi](aff:wyylde)."
+    },
+    {
+      "question": "Faut-il réserver pour aller au Beluga ?",
+      "answer": "Le vendredi et le samedi, c'est conseillé : la réservation se fait sur la page de la soirée, via Yurplan, jusqu'à 30 minutes avant l'ouverture, faute de quoi la porte peut afficher complet. Le jeudi, seul le buffet se réserve, par SMS ou appel avant 18 h ; le dimanche, le buffet se prend sans réservation."
+    },
+    {
+      "question": "Quelle tenue faut-il pour entrer au Beluga ?",
+      "answer": "Pour les soirées du vendredi et du samedi, une tenue de soirée : classe pour les hommes, féminine et sexy pour les femmes. Jean bleu, baskets, tee-shirt et pantalon pour les femmes sont refusés sans exception. Au bar et sur le dancefloor, la tenue sexy reste obligatoire même après l'ouverture de la balnéo, sauf l'après-midi."
+    },
+    {
+      "question": "Que disent les avis sur le Beluga Club ?",
+      "answer": "Top-Rated.Online relaie une note Google de 4,3/5 sur 143 avis (mise à jour du 16 juillet 2026), que nous n'avons pas vue sur Google même. Les critiques visibles portent sur la taille, les prix et le nombre d'hommes seuls ; les éloges, sur le bâtiment, la balnéo et l'accueil. Le livre d'or du site compte 224 messages."
+    },
+    {
+      "question": "Quels autres clubs libertins trouver autour de Caen ?",
+      "answer": "Trois lieux voisins ont été vérifiés en octobre 2026 : l'Orphéa Club à Chicheboville (vendredi mixte, samedi couples), le Venus Sauna à Hérouville-Saint-Clair (mixte tous les jours) et L'Apollon à Caen, réservé aux hommes. D'autres adresses figurent parmi [les lieux libertins de Caen](/ville/caen)."
+    }
+  ],
+  "unverified": [
+    "Ce que montrent les 25 photos de la galerie officielle : nous n'en avons lu que les légendes.",
+    "L'existence en 2026 des salles que seules la galerie et le livre d'or nomment (love cage, black room, BDSM room, salle de massage, piscine à jets), et le nombre de jacuzzis, deux selon un annuaire.",
+    "L'existence d'un fumoir en 2026.",
+    "Si la rue de la Dronnière et le 9 rue des Tisserands désignent bien le même bâtiment.",
+    "L'âge minimum d'entrée, que le club n'affiche pas.",
+    "Quels visuels du site sont générés par intelligence artificielle, comme l'annoncent les mentions légales, et quelles photos montrent le club tel qu'il est.",
+    "Le capital actuel de la SAS CSDBM (1 000 € aux mentions légales), modifié selon une annonce BODACC du 7 janvier 2025.",
+    "La date exacte de la hausse de 2 € des tarifs, intervenue entre avril et septembre 2026."
+  ],
+  "sources": [
+    { "id": "s1", "label": "Le Beluga Club, page d'accueil (modifiée le 28/03/2026)", "url": "https://www.lebelugaclub.fr/", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s2", "label": "Le Beluga Club, « Horaires et tarifs » (modifiée le 17/09/2026)", "url": "https://www.lebelugaclub.fr/horaires-et-tarifs/", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s3", "label": "Le Beluga Club, « Le Programme » (agenda du 22 au 31/10/2026)", "url": "https://www.lebelugaclub.fr/le-programme/", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s4", "label": "Le Beluga Club, page « Contact » (adresse, téléphone, hôtels conseillés)", "url": "https://www.lebelugaclub.fr/contact-2/", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s5", "label": "Le Beluga Club, mentions légales (SAS CSDBM)", "url": "https://www.lebelugaclub.fr/mentions-legales/", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s6", "label": "Le Beluga Club, galerie photo (rubriques des 25 images)", "url": "https://www.lebelugaclub.fr/galerie-photo/", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s7", "label": "Le Beluga Club, livre d'or (224 messages)", "url": "https://www.lebelugaclub.fr/livre-dor-2/", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s8", "label": "Site officiel, dates de création et de modification des pages et des affiches (API WordPress)", "url": "https://www.lebelugaclub.fr/wp-json/wp/v2/pages", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s9", "label": "Affiche officielle « Fermeture pour vacances » (15 février - 4 mars 2026)", "url": "https://www.lebelugaclub.fr/wp-content/uploads/2026/01/beluga-fermeture-fev-26.jpg", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s10", "label": "Affiche officielle de la soirée du samedi 31 octobre 2026", "url": "https://www.lebelugaclub.fr/wp-content/uploads/2026/10/beluga-31-oct-26.png", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s11", "label": "Site officiel, archive du 01/08/2015 (ouverture annoncée)", "url": "https://web.archive.org/web/20150801175041/http://www.lebelugaclub.fr/", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s12", "label": "Site officiel, page contact, archive du 18/07/2019", "url": "https://web.archive.org/web/20190718135835/http://www.lebelugaclub.fr/contact-2/", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s13", "label": "Site officiel, « 4 ans du club », archive du 28/11/2019", "url": "https://web.archive.org/web/20191128160822/http://www.lebelugaclub.fr:80/soirees/4-ans-club/", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s14", "label": "Site officiel, « Les 7 ans du BELUGA Club », archive du 30/11/2022", "url": "https://web.archive.org/web/20221130092809/http://www.lebelugaclub.fr/les-7-ans-du-beluga-club/", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s15", "label": "Wayback Machine, historique des captures de lebelugaclub.fr (2015-2026)", "url": "https://web.archive.org/cdx/search/cdx?url=lebelugaclub.fr", "type": "autre", "consulted": "2026-10-21" },
+    { "id": "s16", "label": "Annuaire des entreprises, SAS CSDBM (Le Beluga), SIREN 901 734 574", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/901734574", "type": "registre", "consulted": "2026-10-21" },
+    { "id": "s17", "label": "Annuaire des entreprises, société fondatrice (établissement « Le Beluga », 2015-2023)", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/524147071", "type": "registre", "consulted": "2026-10-21" },
+    { "id": "s18", "label": "BODACC, annonces de la SAS CSDBM (vente du fonds, comptes)", "url": "https://bodacc-datadila.opendatasoft.com/explore/dataset/annonces-commerciales/", "type": "registre", "consulted": "2026-10-21" },
+    { "id": "s19", "label": "Base Adresse Nationale, 9 rue des Tisserands et rue de la Dronnière à Ifs", "url": "https://api-adresse.data.gouv.fr/search/?q=9+rue+des+Tisserands+14123+Ifs", "type": "carte", "consulted": "2026-10-21" },
+    { "id": "s20", "label": "Top-Rated.Online, « Le beluga club » (avis Google relayés, mise à jour du 16/07/2026)", "url": "https://www.top-rated.online/cities/Ifs/place/p/4948074/Le+beluga+club", "type": "avis", "consulted": "2026-10-21" },
+    { "id": "s21", "label": "Les nuits de Gaby, « Beluga - Club Sauna Libertin - Caen / Ifs » (visite de début 2017)", "url": "https://gaby789.over-blog.com/2017/02/beluga-club-sauna-libertin-caen/ifs.html", "type": "avis", "consulted": "2026-10-21" },
+    { "id": "s22", "label": "Sauna Club Le Bali, fiche « Le Beluga Club » (ajoutée le 09/04/2026)", "url": "https://www.saunaclublebali.fr/listing/le-beluga-club-ifs/", "type": "annuaire", "consulted": "2026-10-21" },
+    { "id": "s23", "label": "Esprits Libertins, « Guide complet des clubs libertins à Caen »", "url": "https://www.espritslibertins.com/guide-complet-des-clubs-libertins-a-caen/", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s24", "label": "Le Beluga Club, soirée « La Soirée des Défis Érotiques - Part I » (23/10/2026)", "url": "https://www.lebelugaclub.fr/events/vendredi-la-soiree-des-defis-erotiques-part-i/", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s25", "label": "Le Beluga Club, soirée « Diables & Diablesses Dévoreurs - Part II » (31/10/2026)", "url": "https://www.lebelugaclub.fr/events/samedi-diables-diablesses-devoreurs-part-ii/", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s26", "label": "Le Beluga Club, « Les Lundis Coquins du Beluga » (26/10/2026)", "url": "https://www.lebelugaclub.fr/events/lundi-coquins-du-beluga-4/", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s27", "label": "Le Beluga Club, « Jeudi - Vos envies prennent le pouvoir ! » (29/10/2026)", "url": "https://www.lebelugaclub.fr/events/jeudi-vos-envies-prennent-le-pouvoir-2/", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s28", "label": "Le Beluga Club, « Dimanches Câlins et Coquins du Beluga » (25/10/2026)", "url": "https://www.lebelugaclub.fr/events/dimanches-calins-et-coquins-du-beluga-3-4/", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s29", "label": "Le Beluga Club, soirée « L'Obscure Party Part II » (26/09/2026)", "url": "https://www.lebelugaclub.fr/events/samedi-lobscure-party-part-ii/", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s30", "label": "Le Beluga Club, soirée « Le Service des Urgences du Beluga » (02/10/2026)", "url": "https://www.lebelugaclub.fr/events/vendredi-le-service-des-urgences-du-beluga/", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s31", "label": "Le Beluga Club, page « Réservations » (Yurplan)", "url": "https://www.lebelugaclub.fr/reservations/", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s32", "label": "Le Beluga Club, page « Partenaires »", "url": "https://www.lebelugaclub.fr/partenaires/", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s33", "label": "L'Orphéa Club, page d'accueil (soirées d'octobre 2026)", "url": "https://www.orpheaclub.com/", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s34", "label": "L'Orphéa Club, page « Horaires et Tarifs »", "url": "https://www.orpheaclub.com/horaires-et-tarifs", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s35", "label": "Venus Sauna, page « Venus Caen Mixte » (horaires et tarifs)", "url": "https://venus-sauna.fr/venus-caen-mixte/", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s36", "label": "Annuaire des entreprises, SAS Tourville (Venus Sauna), SIREN 824 775 308", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/824775308", "type": "registre", "consulted": "2026-10-16" },
+    { "id": "s37", "label": "L'Apollon, page « Soirées » (affiches du 20/10/2026)", "url": "https://lapollon.fr/SOIREES/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s38", "label": "Le Beluga Club, soirée « L'Obscure Party Part I » (25/09/2026)", "url": "https://www.lebelugaclub.fr/events/vendredi-lobscure-party-part-i/", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s39", "label": "Le Beluga Club, soirée « Le Service des Urgences du Beluga », samedi (03/10/2026)", "url": "https://www.lebelugaclub.fr/events/samedi-le-service-des-urgences-du-beluga/", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s40", "label": "Le Beluga Club, page de la « BDSM Beluga Night » du 15/10/2022 (vestiaires, balnéo avec douches), toujours en ligne", "url": "https://www.lebelugaclub.fr/soiree-bdsm-inscription/", "type": "officiel", "consulted": "2026-10-21" }
+  ]
+}

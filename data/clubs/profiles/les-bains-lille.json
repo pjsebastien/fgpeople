@@ -1,0 +1,384 @@
+{
+  "slug": "les-bains-lille",
+  "clubId": "new-les-bains-lille",
+  "researchedAt": "2026-10-21",
+  "status": {
+    "value": "ouvert",
+    "summary": "Entre juin et octobre 2026, le site officiel s'est enrichi d'une offre d'agent d'entretien à embaucher « de suite ». La société exploitante est active au registre, et le dépôt de ses comptes de l'exercice clos fin septembre 2025 a paru au BODACC le 1er avril 2026.",
+    "sources": ["s1", "s7", "s8", "s9"]
+  },
+  "seo": {
+    "title": "Les Bains, sauna gay de Lille : prix, horaires, piscine à 34 °C",
+    "metaDescription": "Sauna réservé aux hommes à Lille, 1 200 m² annoncés : entrée 20 €, 15 € dès 20 h, piscine à 34 °C, trois spas, rooftop naturiste. Ouvert 7 j/7 dès midi.",
+    "subtitle": "Sauna gay masculin avec piscine, trois spas et rooftop, rue de Cambrai à Lille (59)",
+    "targetQueries": ["les bains lille", "sauna les bains lille", "sauna gay lille", "les bains lille tarif", "les bains lille horaires"]
+  },
+  "lead": "Sauna réservé aux hommes et tourné vers une clientèle gay, installé rue de Cambrai depuis 2001 au moins, Les Bains revendiquent 1 200 m² : piscine à 34 °C avec nage à contre-courant, trois spas, double sauna, double hammam, espace cruising et trois terrasses, dont un rooftop naturiste. L'entrée coûte 20 €, 15 € après 20 h, tous les jours dès midi (14 h le samedi). À l'automne 2026, le site recrute du personnel d'entretien pour une embauche immédiate, signe d'un établissement en activité.",
+  "glance": [
+    { "icon": "clock", "label": "Ouvert 7 jours sur 7", "value": "Dès 12 h (sam. 14 h), jusqu'à 0 h ou 1 h" },
+    { "icon": "euro", "label": "Entrée", "value": "20 € · 15 € dès 20 h · 10 € avant 26 ans" },
+    { "icon": "users", "label": "Public", "value": "Hommes uniquement, clientèle gay" },
+    { "icon": "water", "label": "Eau à 34 °C", "value": "Piscine, 3 spas, double hammam" },
+    { "icon": "ruler", "label": "Surface annoncée", "value": "1 200 m² et trois terrasses" },
+    { "icon": "shield", "label": "Dépistage gratuit", "value": "VIH et hépatites, tous les 15 jours" }
+  ],
+  "audience": [
+    { "who": "hommes", "status": "oui", "detail": "Tous les jours ; tarif réduit après 20 h et pour les moins de 26 ans", "price": "10 à 20 €" },
+    { "who": "couples", "status": "non", "detail": "Aucun tarif couple ni soirée mixte ; sauna libertin mixte au 112 de la même rue" },
+    { "who": "femmes", "status": "non", "detail": "« Only for Men » sur le site en 2003, « sauna-bar masculin » aujourd'hui" }
+  ],
+  "highlights": [
+    "Arrivée peu après 20 h : vérifiez qu'on vous applique les 15 € du soir ; un client dit avoir payé 20 € à 20 h 01 en mars 2025.",
+    "Le billet vaut pour toute la journée : demandez un pass en sortant si vous comptez revenir le soir.",
+    "Moins de 26 ans : l'entrée à 10 € n'est accordée que sur justificatif d'âge.",
+    "Le samedi et les jours fériés, ouverture à 14 h seulement, alors que l'accueil du site affiche « dès midi ».",
+    "Possession de stupéfiants : expulsion définitive et remise à la police, prévient le site."
+  ],
+  "keyFacts": [
+    { "label": "Type", "value": "Sauna-bar gay réservé aux hommes", "confidence": "confirme", "sources": ["s1", "s2", "s7"] },
+    { "label": "Jours d'ouverture", "value": "7 jours sur 7, de midi (14 h le samedi) à minuit ou 1 h", "confidence": "confirme", "sources": ["s1", "s4"] },
+    { "label": "Entrée", "value": "20 € ; 15 € dès 20 h ; 10 € avant 26 ans", "confidence": "confirme", "sources": ["s4", "s7"] },
+    { "label": "Surface", "value": "1 200 m², selon le lieu", "confidence": "confirme", "sources": ["s1", "s17"] },
+    { "label": "Niveaux", "value": "Quatre, selon le site en 2003 et le guide Spartacus", "confidence": "a_verifier", "sources": ["s24", "s21"] },
+    { "label": "Exploitant", "value": "Euro Sport Loisirs, SAS créée en 1997", "confidence": "confirme", "sources": ["s5", "s8", "s9"] },
+    { "label": "Rue de Cambrai", "value": "Depuis septembre 2001 au moins (archives du site)", "confidence": "confirme", "sources": ["s23", "s24", "s7"] },
+    { "label": "Effectif", "value": "6 à 9 salariés en 2024", "confidence": "source_unique", "sources": ["s8"] }
+  ],
+  "sections": [
+    {
+      "id": "bassins-sauna-hammam",
+      "title": "Piscine à 34 °C avec nage à contre-courant, trois spas et double hammam",
+      "icon": "water",
+      "summary": "Selon le site, toute l'eau est à 34 °C : un bassin à buses et contre-courant, un bassin à cascade, trois spas de 8 et 16 places, un double sauna et un double hammam.",
+      "blocks": [
+        { "kind": "text", "body": "Le lieu annonce **1 200 m²** et met l'eau au cœur de la visite, maintenue partout à 34 °C d'après sa page Visite. En 2003, le site annonçait « plus de 1000 m² » répartis « sur 4 niveaux », un chiffre que reprend le guide Spartacus ; la version actuelle ne compte plus les étages, mais évoque un rooftop en haut et invite à « descendre » vers le cruising." },
+        { "kind": "table", "caption": "Espaces d'eau et de chaleur décrits par lesbains.fr (relevé du 21/10/2026)", "headers": ["Espace", "Ce qu'en dit le site"], "rows": [
+          ["Bassin principal", "Trois buses de massage et nage à contre-courant"],
+          ["Bassin à cascade", "Présenté comme le « quatrième bassin »"],
+          ["Spas", "Trois grands spas de 8 et 16 places"],
+          ["Spa de plein air", "Sur une terrasse en rooftop, l'été et les week-ends de beau temps"],
+          ["Sauna sec", "Double, de type finlandais, entre 75 et 90 °C"],
+          ["Hammam", "Double, avec une backroom"],
+          ["Douches", "Collectives, derrière un mur de verre"]
+        ] },
+        { "kind": "callout", "tone": "info", "body": "Le spa de plein air s'ajoute-t-il aux « 3 spas » de la page d'accueil ? La page Visite le décrit à part, sans permettre de trancher." }
+      ],
+      "sources": ["s1", "s2", "s17", "s21", "s24"]
+    },
+    {
+      "id": "programme-semaine",
+      "title": "Mercredi des moins de 26 ans, fête foraine le premier vendredi du mois",
+      "icon": "calendar",
+      "summary": "Le site affiche un mardi au choix, un mercredi des moins de 26 ans, un premier vendredi festif chaque mois et une collation le dimanche, sans aucune date.",
+      "blocks": [
+        { "kind": "table", "caption": "Programme publié sur lesbains.fr, relevé le 21/10/2026", "headers": ["Jour", "Ce qu'annonce le site"], "rows": [
+          ["Mardi", "« C'est vous qui décidez » : pas de thème imposé"],
+          ["Mercredi", "Rendez-vous des « Jeunes garçons du Nord », 10 € pour les moins de 26 ans sur justificatif"],
+          ["Jeudi", "Cité dans le menu, sans description"],
+          ["Premier vendredi du mois", "Soirée dite « légendaire » : animation fête foraine, roue à tourner, lots à gagner"],
+          ["Dimanche", "Ouverture à midi, collation offerte de 13 h 30 à 15 h"]
+        ] },
+        { "kind": "text", "body": "La collation du dimanche change de nom selon la page : « brunch offert » dans les infos pratiques, « hot dog offert » sur la page Visite, « pause gourmande » au programme. Le premier vendredi, le site convie « les garçons de toute l'Europe »." },
+        { "kind": "text", "body": "Les 10 € des moins de 26 ans, mis en avant le mercredi, valent en fait tous les jours selon la grille générale." },
+        { "kind": "list", "title": "Annoncé sans date", "items": [
+          "Une soirée fetish, pour « débutant ou expérimenté », sous un bandeau « Notez la date » resté sans date",
+          "L'ouverture des terrasses naturistes, rooftop et spa extérieur compris",
+          "« Bientôt de nouvelles soirées », sans autre précision"
+        ] },
+        { "kind": "callout", "tone": "tip", "body": "L'agenda AgendaQ ajoute chaque mardi, dès 20 h, une soirée fetish et naturiste « Avec ou sans serviette » que le site ne mentionne pas. Avant de vous déplacer pour une soirée précise, appelez le 03 20 53 02 02." }
+      ],
+      "sources": ["s2", "s3", "s4", "s18"]
+    },
+    {
+      "id": "entre-hommes",
+      "title": "« Les hommes qui aiment les hommes » en 2001, « sauna-bar masculin » en 2026",
+      "icon": "users",
+      "summary": "« Espace masculin » en 2001, « Only for Men » en 2003 : le site actuel n'écrit plus de règle d'entrée, mais sa grille n'a toujours ni entrée couple ni entrée femme.",
+      "blocks": [
+        { "kind": "text", "body": "Tout ce que publie le sauna parle d'hommes : « sauna-bar masculin » en page d'accueil, « le plus grand espace masculin du nord de la France et du Sud de la Belgique » au programme, « 100 % masculin » sur sa page Facebook (vue en extrait de recherche)." },
+        { "kind": "text", "body": "Dès septembre 2001, le site parlait d'un « espace masculin pour les hommes qui aiment les hommes » ; en 2003, il précisait en anglais « Only for Men »." },
+        { "kind": "text", "body": "La grille de prix ne prévoit ni entrée couple ni entrée femme, et aucune soirée de la semaine n'est mixte ; l'agenda gay qui annonce une soirée le mardi la classe d'ailleurs « Gay Only ». La version actuelle du site n'écrit plus noir sur blanc que l'entrée est réservée aux hommes." }
+      ],
+      "sources": ["s1", "s3", "s4", "s18", "s20", "s23", "s24"]
+    },
+    {
+      "id": "prix-pass-massages",
+      "title": "15 € après 20 h, un pass pour revenir le jour même et des massages de 35 à 80 €",
+      "icon": "euro",
+      "summary": "L'entrée vaut pour la journée, les tarifs n'ont pas bougé depuis au moins avril 2025, et les massages aux huiles se paient à part, de 35 € à 80 €.",
+      "blocks": [
+        { "kind": "text", "body": "Le billet couvre toute la journée : en partant, demandez un pass pour revenir le soir sans repayer. D'après les archives du site, la grille d'entrée était déjà la même en avril 2025." },
+        { "kind": "text", "body": "Des annuaires gays affichent encore des prix plus bas, non datés : 17 € (12 € le soir) sur Saunas4men, 18 € (13 € après 20 h) dans un extrait du guide Spartacus." },
+        { "kind": "text", "body": "Les massages aux huiles essentielles ont lieu en général l'après-midi dès 14 h ; le site prend soin de préciser qu'ils n'ont rien d'une « prostitution déguisée »." }
+      ],
+      "sources": ["s1", "s2", "s4", "s7", "s16", "s21"]
+    },
+    {
+      "id": "porte-bleue-bar",
+      "title": "De la porte bleue au bar à bières, une serviette nouée à la taille",
+      "icon": "drink",
+      "summary": "Un serveur accueille à la porte bleue, remet serviette et clé de casier ; le bar sert ensuite cocktails, bières de la cave, croques, pizzas et glaces.",
+      "blocks": [
+        { "kind": "list", "title": "L'arrivée, telle que le site la décrit", "items": [
+          "Pousser la porte bleue : un serveur accueille, répond aux questions et présente les lieux.",
+          "Recevoir une serviette et la clé d'un vestiaire sécurisé, se déshabiller, nouer la serviette à la taille.",
+          "Passer au bar, « moderne, design » selon le site : cocktails, cave à bières, croques-monsieur, pizzas, snacks sucrés ou salés, glaces.",
+          "Pour fumer, un fumoir équipé d'un écran vidéo."
+        ] },
+        { "kind": "text", "body": "Pour une première fois, le site conseille de venir en semaine. L'équipe demande aussi qu'on la prévienne si un client se montre irrespectueux. En 2026, l'accroche de la page d'accueil est passée de « Nouveau Bar » à « Large Bar convivial, cave à Bières »." }
+      ],
+      "sources": ["s1", "s2", "s7"]
+    },
+    {
+      "id": "terrasses-rooftop",
+      "title": "Trois terrasses plein sud, dont un rooftop naturiste sous verrière",
+      "icon": "spa",
+      "summary": "Trois terrasses plein sud selon le site ; la plus haute, sous verrière et naturiste, a sa douche et un spa extérieur ouvert l'été et les beaux week-ends.",
+      "blocks": [
+        { "kind": "list", "items": [
+          "Trois terrasses, que la page Visite dit exposées plein sud.",
+          "En haut, un rooftop couvert d'une verrière, avec douche et spa extérieur ; le spa ouvre l'été et les week-ends de beau temps.",
+          "Une terrasse naturiste « modulable » avec spa, qui s'ouvre ou se ferme selon la météo ; la page des soirées la situe sur le rooftop."
+        ] },
+        { "kind": "text", "body": "Des clients venus le 27 août 2024 décrivent leur parcours, du sous-sol sombre jusqu'à la dernière terrasse, où ils ont pu bronzer en plein air. C'est le seul récit daté de ces espaces que nous ayons lu." }
+      ],
+      "sources": ["s1", "s2", "s3", "s13"]
+    },
+    {
+      "id": "cruising-regles",
+      "title": "Couloirs, cabines, glory holes et sling, stupéfiants proscrits",
+      "icon": "mask",
+      "summary": "Le site décrit un espace cruising fait de couloirs, de cabines, de glory holes et d'un sling, plus une backroom au hammam ; la drogue vaut une expulsion définitive.",
+      "blocks": [
+        { "kind": "text", "body": "La page Visite détaille la partie cruising sans détour : couloirs, cabines, glory holes et un sling, à quoi s'ajoute la backroom du hammam. Des clients venus en août 2024 la situent dans un sous-sol sombre." },
+        { "kind": "callout", "tone": "warning", "body": "Un client pris avec des stupéfiants est exclu pour de bon et livré à la police, prévient la page d'accueil." }
+      ],
+      "sources": ["s1", "s2", "s13"]
+    },
+    {
+      "id": "depistage",
+      "title": "Dépistage gratuit tous les quinze jours, « La totale » le premier mardi",
+      "icon": "shield",
+      "summary": "Le sauna accueille un dépistage gratuit, rapide et anonyme du VIH et des hépatites B et C tous les quinze jours, plus une séance « La totale » chaque premier mardi.",
+      "blocks": [
+        { "kind": "text", "body": "La page d'accueil annonce, **tous les quinze jours**, un dépistage « gratuit, rapide et anonyme » du VIH et des hépatites B et C. Elle cite deux associations partenaires, Aides et l'Enipse." },
+        { "kind": "text", "body": "Une ligne est apparue entre avril et octobre 2025, d'après les archives du site : chaque premier mardi du mois, « La totale », en lien avec le CeGIDD et l'Enipse. Le contenu de ces séances n'est pas détaillé." },
+        { "kind": "text", "body": "L'agenda en ligne de l'Enipse a annoncé des permanences de dépistage rapide aux Bains, de 13 h à 16 h, en novembre 2020 et en juillet 2021, et n'en publie plus depuis. Pour la prochaine séance, demandez au bar ou par téléphone." }
+      ],
+      "sources": ["s1", "s7", "s19"]
+    },
+    {
+      "id": "acces-stationnement",
+      "title": "Métro Porte de Douai ou Porte de Valenciennes, stationnement gratuit dès 19 h",
+      "icon": "car",
+      "summary": "Deux stations de métro desservent la rue de Cambrai ; en voiture, la rue est gratuite le week-end et chaque soir dès 19 h, et les parkings relais Ilévia coûtent un ticket.",
+      "blocks": [
+        { "kind": "list", "items": [
+          "Métro : stations Porte de Douai ou Porte de Valenciennes, indiquées par le site.",
+          "Stationnement gratuit autour du sauna le samedi, le dimanche et tous les jours à partir de 19 h.",
+          "Parkings relais Ilévia, au prix d'un ticket de métro.",
+          "Places gratuites vers la rue du Professeur-Langevin, à une vingtaine de minutes à pied."
+        ] }
+      ],
+      "sources": ["s4"]
+    },
+    {
+      "id": "cent-douze-meme-rue",
+      "title": "Le Cent Douze, au 112 de la même rue : 35 € le couple, gratuit pour les femmes",
+      "icon": "couple",
+      "summary": "À 190 m à vol d'oiseau, ce sauna libertin reçoit le public que Les Bains n'attendent pas : couples à 35 €, gratuits le jeudi dès 18 h, et femmes seules sans payer.",
+      "blocks": [
+        { "kind": "text", "body": "Pour partager un sauna avec sa compagne, un habitué des Bains n'a pas à changer de rue : au 112, à environ 190 m, [Le Cent Douze](/le-cent-douze-lille) se présente comme « le sauna libertin de Lille » et reçoit couples et personnes seules." },
+        { "kind": "list", "title": "Tarifs publiés par Le Cent Douze (relevé du 21/10/2026)", "items": [
+          "Couple : 35 € avec deux softs ; gratuit le jeudi à partir de 18 h, 20 € le dimanche avant 16 h.",
+          "Femme seule ou trans femme : entrée gratuite tous les jours.",
+          "Homme seul : 50 € avec un soft (59 € le jeudi après 18 h), plus une carte de membre à 10 €."
+        ] },
+        { "kind": "text", "body": "Son site annonce une soirée « Horror Halloween » le samedi 31 octobre 2026, de 19 h à 2 h. Nous n'avons lu ni avis ni presse sur ce lieu, dont la fiche n'est pas encore vérifiée." },
+        { "kind": "text", "body": "Le jeudi, gratuit pour les couples dès 18 h, se prépare à l'avance : sur Gleese, un couple qui passe en live HD se laisse voir et entendre avant toute rencontre, et l'on peut [proposer le jeudi du 112 à un couple lillois vu en live](aff:gleese)." },
+        { "kind": "text", "body": "Le site du Cent Douze range lui-même Wyylde parmi ses « sites partenaires ». Pour [préparer sur Wyylde une première visite au 112](aff:wyylde), privilégiez les membres au badge certifié : la vérification y est facultative, mais elle écarte nettement les faux comptes." }
+      ],
+      "sources": ["s25", "s26"]
+    },
+    {
+      "id": "autres-lieux-gays-lille",
+      "title": "Le Soho rue de la Madeleine, Le Sling et Cube complètent l'offre gay lilloise",
+      "icon": "map",
+      "summary": "Le Soho, rue de la Madeleine, est un autre sauna gay lillois, et un agenda gay recense deux bars de cruising, Le Sling et Cube, dont nous n'avons pas vérifié l'activité.",
+      "blocks": [
+        { "kind": "list", "items": [
+          "**Sauna Soho**, 10 rue de la Madeleine : 3,4/5 sur 186 avis selon un annuaire spécialisé, et lieu d'une permanence de dépistage de l'Enipse en 2021.",
+          "**Le Sling**, bar de cruising, 32 rue Jean-Jaurès, listé par AgendaQ.",
+          "**Cube**, bar de cruising, 5 ter rue du Vieux-Faubourg, listé par AgendaQ."
+        ] },
+        { "kind": "text", "body": "Nous n'avons pas vérifié l'activité de ces trois adresses, qui n'ont pas encore de fiche sur notre site. Les autres établissements du secteur figurent sur nos pages [Lille](/ville/lille) et [Nord](/departement/nord)." }
+      ],
+      "sources": ["s12", "s19", "s22"]
+    },
+    {
+      "id": "notes-avis",
+      "title": "3,9 sur 5 sur 241 avis Google relayés, 2,7 sur Yelp",
+      "icon": "star",
+      "summary": "Relayée par un agrégateur, la note Google est de 3,9/5 sur 241 avis au 20/10/2026 : près de la moitié à cinq étoiles, un sur six environ à une étoile. Yelp et Unilocal affichent 2,7.",
+      "blocks": [
+        { "kind": "text", "body": "Nous n'avons pas pu lire Google directement. Selon Wanderlog, qui reprend ses données au 20/10/2026, la note est de 3,9/5 sur 241 avis : 120 à cinq étoiles, mais aussi 38 à une étoile." },
+        { "kind": "list", "title": "Ce qui revient dans les avis lus", "items": [
+          "Des installations « bien tenues » et le bronzage sur la terrasse du haut, salués par des clients venus en août 2024.",
+          "Un accueil inégal selon l'équipe : agréable l'après-midi, désagréable le soir, d'après un avis de mars 2025.",
+          "Une propreté en baisse pour deux avis datant de 2022 environ (relayés par Restaurant Guru), et des sols glissants selon la synthèse automatique de Wanderlog.",
+          "Sur un annuaire gay, des avis non datés jugent l'entrée chère pour un sauna ancien et la soirée calme après 20 h."
+        ] },
+        { "kind": "text", "body": "Yelp affiche 2,7 sur 11 avis, dont le seul recommandé visible date de 2013. Unilocal donne 2,7 sur 9 avis, et Restaurant Guru relaie une note Facebook de 4,1 sur 11." }
+      ],
+      "sources": ["s11", "s13", "s14", "s15", "s16"]
+    },
+    {
+      "id": "societe-histoire",
+      "title": "Une SAS née en 1997, un sauna gay rue de Cambrai dès 2001 et un second fonds cédé en 2014",
+      "icon": "history",
+      "summary": "Euro Sport Loisirs, société créée en 1997, édite le site des Bains, que les archives situent rue de Cambrai dès 2001 ; en 2014, elle a vendu son fonds de la rue du Molinel.",
+      "blocks": [
+        { "kind": "timeline", "items": [
+          { "date": "2 janvier 1997", "text": "Création de la SAS Euro Sport Loisirs, aujourd'hui éditrice du site des Bains. Le registre date de ce jour l'établissement du 52 rue de Cambrai, son siège ; rien ne dit ce qu'il abritait alors." },
+          { "date": "Février 2001", "text": "Première capture archivée de lesbains.fr : une page « International sauna »." },
+          { "date": "Septembre 2001", "text": "Le site situe Les Bains au 52 rue de Cambrai et se dit « le plus grand sauna gay de Lille et du Nord-Pas de Calais »." },
+          { "date": "2003", "text": "Le site revendique « plus de 1000 m² » sur quatre niveaux, avec sauna, hammam, bains à remous, cave à bière et mezzanine, « Only for Men »." },
+          { "date": "Avril 2005", "text": "La société déclare un établissement au 95 B rue du Molinel." },
+          { "date": "Avril 2008", "text": "Le site se présente comme « le plus grand sauna bar nord européen »." },
+          { "date": "2010 à 2015", "text": "Site décliné en français, en anglais et en néerlandais (version « be »)." },
+          { "date": "Février 2014", "text": "Le fonds de la rue du Molinel (sauna, spa, hammam, débit de boissons) passe pour 90 000 € à la SARL DMSM, qui l'exploite dès le 13 février (avis BODACC du 14 mars 2014)." },
+          { "date": "Printemps 2024", "text": "Mise en ligne du site actuel." },
+          { "date": "2025", "text": "Ajout des séances de dépistage « La totale », le premier mardi du mois." },
+          { "date": "1er avril 2026", "text": "Publication au BODACC des comptes de l'exercice clos le 30 septembre 2025." },
+          { "date": "Juin à octobre 2026", "text": "Le site ajoute une offre d'agent d'entretien à pourvoir immédiatement." }
+        ] },
+        { "kind": "text", "body": "L'acheteur de 2014, la SARL DMSM, a pour nom commercial [Le Lokal](/le-lokal-lille). Le répertoire SIRENE rattache pourtant encore à Euro Sport Loisirs un établissement « Le Lokal » rue du Molinel : une ligne vraisemblablement jamais mise à jour, qui ne fait pas des Bains l'exploitant du Lokal." },
+        { "kind": "text", "body": "Aucune source publique ne date l'ouverture au public du sauna rue de Cambrai, antérieure à septembre 2001, ni ne raconte l'histoire du bâtiment. Le « 1er janvier 2008 » que le registre affiche comme début d'activité vaut aussi pour l'établissement de la rue du Molinel, créé en 2005 : c'est une date administrative, pas une ouverture." },
+        { "kind": "text", "body": "La société a déposé les comptes de chaque exercice depuis 2016, parfois en retard et par lots, toujours sous le régime de la confidentialité." }
+      ],
+      "sources": ["s5", "s6", "s7", "s8", "s9", "s10", "s23", "s24"]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Lundi": "12 h – minuit",
+      "Mardi": "12 h – minuit",
+      "Mercredi": "12 h – minuit",
+      "Jeudi": "12 h – minuit",
+      "Vendredi": "12 h – 1 h",
+      "Samedi": "14 h – 1 h",
+      "Dimanche": "12 h – minuit",
+      "Jours fériés": "Ouverture à 14 h (fermeture non précisée)"
+    },
+    "note": "Le site écrit à la fois « ouvert 7/7 dès midi » et « samedi et jours fériés dès 14 h ». Plusieurs annuaires affichent d'autres horaires (1 h le dimanche, ouverture à 14 h le dimanche) : seuls ceux du site officiel sont retenus.",
+    "confidence": "confirme",
+    "sources": ["s1", "s4", "s16", "s17"]
+  },
+  "tarifs": {
+    "rows": {
+      "Entrée": "20 €",
+      "Entrée à partir de 20 h": "15 € pour tous",
+      "Moins de 26 ans": "10 € sur justificatif",
+      "Serviettes": "2 fournies, 1 € à partir de la 3e",
+      "Massage 30 min": "35 €",
+      "Massage 1 h": "60 €",
+      "Massage 1 h 30": "80 €"
+    },
+    "note": "Entrée valable toute la journée : demandez un pass à la sortie pour revenir. Grille d'entrée identique en avril 2025 et en octobre 2026.",
+    "confidence": "confirme",
+    "sources": ["s1", "s2", "s4", "s7"]
+  },
+  "equipements": [
+    "Surface annoncée de 1 200 m²",
+    "Piscine à 34 °C avec buses de massage et nage à contre-courant",
+    "Bassin à cascade",
+    "Trois spas de 8 et 16 places",
+    "Spa extérieur sur le rooftop (été et beaux week-ends)",
+    "Double sauna sec finlandais (75 à 90 °C)",
+    "Double hammam avec backroom",
+    "Douches collectives",
+    "Trois terrasses plein sud, dont un rooftop sous verrière et une terrasse naturiste",
+    "Bar avec cocktails et cave à bières",
+    "Petite restauration : croques, pizzas, snacks, glaces",
+    "Massages aux huiles essentielles (payants)",
+    "Espace cruising : couloirs, cabines, glory holes, sling",
+    "Fumoir avec écran vidéo",
+    "Vestiaires sécurisés, deux serviettes fournies"
+  ],
+  "externalRatings": [
+    { "platform": "Yelp", "rating": 2.7, "scale": 5, "count": 11, "date": "2026-10-20", "url": "https://www.yelp.fr/biz/sauna-les-bains-lille-2" }
+  ],
+  "officialLinks": [
+    { "label": "Site officiel", "url": "https://www.lesbains.fr/", "kind": "site" },
+    { "label": "Programme des soirées", "url": "https://www.lesbains.fr/nos-soirees", "kind": "agenda" },
+    { "label": "Page Facebook", "url": "https://www.facebook.com/sauna.lesbains", "kind": "facebook" }
+  ],
+  "faq": [
+    {
+      "question": "Le sauna Les Bains à Lille est-il toujours ouvert ?",
+      "answer": "Oui, d'après les indices d'octobre 2026 : le site, modifié depuis juin 2026, recrute un agent d'entretien à embaucher immédiatement, et la société exploitante est active au registre. Aucune fermeture définitive n'a été annoncée ; la seule fermeture repérée, de quatre semaines « jusqu'au 1er décembre », date vraisemblablement du confinement de l'automne 2020."
+    },
+    {
+      "question": "Combien coûte l'entrée aux Bains ?",
+      "answer": "20 €, ramenés à 15 € pour tout le monde à partir de 20 h, et 10 € pour les moins de 26 ans sur justificatif. Le ticket vaut pour la journée (demandez un pass en sortant) et deux serviettes sont comprises."
+    },
+    {
+      "question": "Quels sont les horaires des Bains ?",
+      "answer": "Tous les jours de midi à minuit, jusqu'à 1 h le vendredi et le samedi ; le samedi et les jours fériés, ouverture à 14 h seulement. Certains annuaires donnent d'autres horaires pour le week-end : fiez-vous au site officiel."
+    },
+    {
+      "question": "Les femmes peuvent-elles entrer aux Bains ?",
+      "answer": "Non, selon toute vraisemblance : le site précisait « Only for Men » en 2003 et se présente toujours comme masculin, sans tarif femme ou couple ni soirée mixte. Au 112 de la même rue, le sauna libertin Le Cent Douze laisse entrer gratuitement les femmes seules, d'après les tarifs affichés sur son site en octobre 2026. Pour ne pas y aller seule, vous pouvez [chercher une complice de sortie sur Carré Libertin](aff:carre-libertin), qui compte environ 20 000 membres actifs chaque semaine."
+    },
+    {
+      "question": "Faut-il être membre ou réserver ?",
+      "answer": "Le site ne parle ni d'adhésion ni de réservation : on pousse la porte bleue, un serveur présente les lieux puis remet serviette et clé de vestiaire. Il conseille de découvrir l'établissement en semaine pour une première visite."
+    },
+    {
+      "question": "Peut-on se faire dépister du VIH aux Bains ?",
+      "answer": "Oui, selon le site : dépistage gratuit et anonyme du VIH et des hépatites B et C, à résultat rapide, tous les quinze jours, et « La totale » chaque premier mardi du mois avec le CeGIDD et l'Enipse. Les dates ne sont pas publiées : renseignez-vous au 03 20 53 02 02."
+    },
+    {
+      "question": "Quelle note les clients donnent-ils au sauna ?",
+      "answer": "3,9/5 sur 241 avis Google selon un agrégateur au 20/10/2026, avec des avis très partagés, et 2,7 sur Yelp (11 avis). L'accueil, jugé variable selon l'équipe en place, revient dans les critiques."
+    }
+  ],
+  "unverified": [
+    "Le nombre de niveaux aujourd'hui : quatre selon le site en 2003 et le guide Spartacus, que la version actuelle du site ne précise plus.",
+    "La date d'ouverture au public du sauna rue de Cambrai, antérieure à septembre 2001 ; la société et son siège à cette adresse datent de 1997.",
+    "Le spa extérieur du rooftop s'ajoute-t-il aux trois spas ou en fait-il partie ?",
+    "La soirée du mardi « Avec ou sans serviette » annoncée par AgendaQ a-t-elle toujours lieu ? Le site ne la mentionne pas.",
+    "La date de la prochaine soirée fetish, et l'heure de fermeture du premier vendredi du mois (2 h selon un ancien guide).",
+    "Le contenu des séances « La totale » et le calendrier du dépistage.",
+    "L'heure de fermeture les jours fériés.",
+    "Aucun avis Google daté de 2026 n'a pu être lu directement."
+  ],
+  "sources": [
+    { "id": "s1", "label": "Les Bains, site officiel, page d'accueil", "url": "https://www.lesbains.fr/", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s2", "label": "Les Bains, site officiel, page Visite", "url": "https://www.lesbains.fr/visite", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s3", "label": "Les Bains, site officiel, page Nos soirées", "url": "https://www.lesbains.fr/nos-soirees", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s4", "label": "Les Bains, site officiel, page Infos (horaires, tarifs, accès)", "url": "https://www.lesbains.fr/infos", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s5", "label": "Les Bains, site officiel, mentions légales", "url": "https://www.lesbains.fr/mentions-legales", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s6", "label": "Les Bains, plan du site (sitemap.xml)", "url": "https://www.lesbains.fr/sitemap.xml", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s7", "label": "Archives Wayback Machine de lesbains.fr (2001-2026)", "url": "https://web.archive.org/cdx/search/cdx?url=lesbains.fr&fl=timestamp,statuscode&collapse=timestamp:6", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s8", "label": "Annuaire des entreprises : Euro Sport Loisirs, SIREN 410 380 646", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/410380646", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s9", "label": "BODACC : dépôts des comptes d'Euro-Sport Loisirs, nom commercial Les Bains", "url": "https://bodacc-datadila.opendatasoft.com/api/explore/v2.1/catalog/datasets/annonces-commerciales/records?where=registre%20like%20%22410380646%22", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s10", "label": "BODACC A, avis A20140052514 du 14/03/2014 : vente du fonds de la rue du Molinel", "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20140052514", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s11", "label": "Wanderlog, « Sauna Les Bains » (données Google relayées)", "url": "https://wanderlog.com/place/details/1821369/sauna-les-bains", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s12", "label": "h2o-saunapourlui.fr, « Sauna gay Lens : Top 5 adresses en 2026 »", "url": "https://www.h2o-saunapourlui.fr/saunas-gay/pas-de-calais/lens/", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s13", "label": "Unilocal, « Sauna Les Bains » (avis d'internautes)", "url": "https://unilocal.net/france/lille/sauna-les-bains", "type": "avis", "consulted": "2026-10-20" },
+    { "id": "s14", "label": "Restaurant Guru, « Sauna Les Bains »", "url": "https://restaurantguru.com/Sauna-Les-Bains-Lille", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s15", "label": "Yelp, « Sauna Les Bains »", "url": "https://www.yelp.fr/biz/sauna-les-bains-lille-2", "type": "avis", "consulted": "2026-10-20" },
+    { "id": "s16", "label": "Saunas4men, « Les Bains » (fiche non datée)", "url": "https://saunas4men.com/en/france/lille/les-bains", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s17", "label": "PagesJaunes, Euro Sport Loisirs, nom commercial Les Bains", "url": "https://www.pagesjaunes.fr/pros/07535581", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s18", "label": "AgendaQ, soirée « Avec ou sans serviette » aux Bains", "url": "https://www.agendaq.fr/fr/agenda/avec-ou-sans-serviette", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s19", "label": "Enipse, permanences de santé sexuelle à Lille (2020-2021)", "url": "https://www.enipse.fr/events/lille-permanence-sante-sexuelle-trod/", "type": "autre", "consulted": "2026-10-20" },
+    { "id": "s20", "label": "Facebook, page « Sauna Les Bains » (extraits de recherche, page non lue)", "url": "https://www.facebook.com/sauna.lesbains", "type": "reseau_social", "consulted": "2026-10-20" },
+    { "id": "s21", "label": "Spartacus Gay Guide, « Les Bains » (extrait de recherche, page inaccessible)", "url": "https://spartacus.gayguide.travel/saunas/europe/france/lille/6477_Les+Bains", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s22", "label": "AgendaQ, agenda gay de Lille (Soho, Le Sling, Cube)", "url": "https://www.agendaq.fr/fr/agenda?cc=fr&tx=178", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s23", "label": "Les Bains, site officiel, archive du 22/09/2001", "url": "https://web.archive.org/web/20010922105516/http://www.lesbains.fr/", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s24", "label": "Les Bains, site officiel, archive du 24/05/2003", "url": "https://web.archive.org/web/20030524234524/http://www.lesbains.fr/", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s25", "label": "Le Cent Douze (Lille), site officiel : accueil (horaires), page « Tarifs & dress code » et affiche « Horror Halloween » du 31/10/2026", "url": "https://www.lecentdouze-libertin-lille.fr/tarifs-dress-code", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s26", "label": "Base adresse nationale : géocodage des 52 et 112 rue de Cambrai (environ 190 m à vol d'oiseau)", "url": "https://api-adresse.data.gouv.fr/search/?q=112+rue+de+Cambrai+59000+Lille", "type": "carte", "consulted": "2026-10-21" }
+  ]
+}

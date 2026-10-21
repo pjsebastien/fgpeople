@@ -1,0 +1,317 @@
+{
+  "slug": "asticlub-kehl",
+  "clubId": "new-asticlub-kehl",
+  "researchedAt": "2026-10-20",
+  "display": { "nom": "AstiClub", "ville": "Kehl" },
+  "status": {
+    "value": "incertain",
+    "summary": "Le 18 janvier 2026, dans le livre d'or que le club venait d'ouvrir, des clients remercient pour leur soirée et promettent de revenir pour la Saint-Valentin : c'est la dernière trace datée d'une soirée. Le site, refait en janvier 2026, répond toujours le 20 octobre 2026, mais son agenda n'annonce aucune date : sans soirée datée depuis neuf mois, nous ne pouvons pas dire si le club reçoit encore.",
+    "sources": ["s5", "s4", "s11", "s12"]
+  },
+  "seo": {
+    "title": "AstiClub à Kehl : prix d'entrée, horaires et statut incertain",
+    "metaDescription": "Pärchenclub de Kehl-Goldscheuer à 15 km de Strasbourg : couple 50 €, femme 10 €, homme seul 90 €, boissons comprises. Agenda vide en octobre 2026.",
+    "subtitle": "Club échangiste (« Pärchenclub ») du quartier de Goldscheuer, à Kehl, sur la rive allemande du Rhin face à Strasbourg",
+    "targetQueries": [
+      "asticlub",
+      "asti club kehl",
+      "asti pärchenclub kehl",
+      "club échangiste kehl",
+      "club libertin allemagne près de strasbourg",
+      "asticlub tarifs",
+      "asticlub horaires"
+    ]
+  },
+  "lead": "En ligne depuis au moins 2006, l'AstiClub est un « Pärchenclub » de Goldscheuer, un quartier de Kehl, tourné vers la clientèle d'en face : site bilingue, réservation sur un WhatsApp français, Strasbourg à 15 km selon le club. L'entrée, boissons à volonté comprises, coûte 50 € en couple, 10 € pour une femme seule et 90 € pour un homme seul. Le site a été refait en janvier 2026, mais l'agenda est vide en octobre et le dernier témoignage de soirée date du 18 janvier 2026.",
+  "glance": [
+    { "icon": "warning", "label": "Statut", "value": "Incertain : agenda vide au 20/10/2026" },
+    { "icon": "clock", "label": "Horaires affichés", "value": "Lun.-mer. après-midi, ven. et sam. soir", "confidence": "source_unique" },
+    { "icon": "euro", "label": "Entrée couple", "value": "50 €, boissons à volonté comprises", "confidence": "source_unique" },
+    { "icon": "users", "label": "Homme seul", "value": "90 € ; pas admis le dernier samedi du mois", "confidence": "source_unique" },
+    { "icon": "map", "label": "Depuis Strasbourg", "value": "15 km selon le club, rive allemande" },
+    { "icon": "history", "label": "En ligne depuis", "value": "Mai 2006 au moins (archives du site)" }
+  ],
+  "audience": [
+    { "who": "couples", "status": "oui", "detail": "Tous les jours d'ouverture, y compris le samedi de fin de mois qui leur est réservé", "price": "50 €" },
+    { "who": "femmes", "status": "oui", "detail": "Tous les jours d'ouverture ; entrée gratuite en 2013, payante aujourd'hui", "price": "10 €" },
+    { "who": "hommes", "status": "selon", "detail": "Admis sauf le dernier samedi du mois, soirée réservée aux couples et aux femmes", "price": "90 €" }
+  ],
+  "highlights": [
+    "Agenda vide au 20/10/2026 et aucune soirée datée depuis janvier : faites confirmer l'ouverture par WhatsApp ou par e-mail avant de passer le Rhin.",
+    "Le dernier samedi du mois, la soirée est réservée aux couples et aux femmes : un homme seul n'entre pas ce soir-là.",
+    "Le jeudi est fermé hors soirées « Speed-Gaming », et le dimanche ne figure plus dans les horaires : ne venez pas ces jours-là sans réponse du club.",
+    "Téléphone au vestiaire et aucun enregistrement : le vestiaire sécurisé demande une caution de 10 €, rendue en fin de soirée.",
+    "Les tarifs affichés « peuvent varier selon les évènements », prévient le site : demandez le prix du soir en réservant."
+  ],
+  "keyFacts": [
+    { "label": "Nom", "value": "AstiClub (enseigne : ASTI-Pärchenclub)", "confidence": "confirme", "sources": ["s1", "s7", "s21"] },
+    { "label": "Type", "value": "Club échangiste : bar, piste de danse, barre de pole dance", "confidence": "confirme", "sources": ["s1", "s7", "s19"] },
+    { "label": "Public admis", "value": "Couples, femmes seules, hommes seuls", "confidence": "confirme", "sources": ["s1"] },
+    { "label": "Dernier samedi du mois", "value": "Soirée réservée aux couples et aux femmes (visuel de janvier 2026)", "confidence": "source_unique", "sources": ["s7"] },
+    { "label": "Entrée", "value": "Couple 50 €, femme seule 10 €, homme seul 90 €, boissons comprises", "confidence": "source_unique", "sources": ["s2"] },
+    { "label": "Jours d'ouverture", "value": "Lundi à mercredi, vendredi, samedi ; jeudi seulement pour les « Speed-Gaming »", "confidence": "source_unique", "sources": ["s2"] },
+    { "label": "En activité depuis", "value": "Au moins 2006 (premières archives du site)", "confidence": "confirme", "sources": ["s17", "s18"] },
+    { "label": "Dernière trace datée", "value": "Livre d'or du 18 janvier 2026", "confidence": "source_unique", "sources": ["s5"] },
+    { "label": "Avis publics", "value": "Aucun au 20/10/2026 (Yelp, Restaurant Guru, Jevena)", "confidence": "confirme", "sources": ["s20", "s21", "s22"] }
+  ],
+  "sections": [
+    {
+      "id": "couple-50-homme-90",
+      "title": "Couple 50 €, femme 10 €, homme 90 € : le dernier samedi, sans hommes seuls",
+      "icon": "couple",
+      "summary": "Boissons à volonté comprises, l'entrée coûte 50 € en couple, 10 € pour une femme et 90 € pour un homme seul, qui n'entre pas le dernier samedi du mois.",
+      "blocks": [
+        { "kind": "text", "body": "Le site ouvre le club à trois publics : couples, femmes seules et hommes seuls. Le prix d'entrée inclut les boissons à volonté, et le club prévient que ses tarifs « peuvent varier selon les évènements »." },
+        {
+          "kind": "table",
+          "caption": "Prix d'entrée affichés par le club, boissons à volonté comprises",
+          "headers": ["Public", "Mars 2013 (ancien site)", "2026 (site actuel)"],
+          "rows": [
+            ["Couple", "30 €", "50 €"],
+            ["Femme seule", "Gratuit", "10 €"],
+            ["Homme seul", "80 €", "90 €"]
+          ]
+        },
+        { "kind": "text", "body": "Depuis 2013, l'entrée couple a pris 20 €, celle de l'homme seul 10 €, et les femmes seules, autrefois invitées, paient désormais. L'ancien site annonçait aussi une soirée « gang-bang » mensuelle à 99 € tout compris pour l'homme seul ; les pages consultées du site actuel n'en parlent plus." },
+        { "kind": "callout", "tone": "info", "title": "Le dernier samedi du mois", "body": "Un visuel mis en ligne sur le site le 18 janvier 2026 réserve chaque dernier samedi du mois aux couples et aux femmes (« Nur Paare & Ladys Abend » dans sa version allemande). L'agenda n'en annonce aucune date : faites-vous confirmer la soirée en réservant." },
+        { "kind": "text", "body": "Ce samedi-là, un homme n'entre qu'en couple. S'il cherche en ligne [une partenaire strasbourgeoise au profil certifié sur Wyylde](aff:wyylde), il écarte une partie des faux comptes : la certification y reste facultative, mais c'est la modération qui la valide." }
+      ],
+      "sources": ["s1", "s2", "s7", "s11", "s14"]
+    },
+    {
+      "id": "trois-apres-midi-deux-soirs",
+      "title": "Lundi à mercredi de 14 h à 20 h, puis vendredi et samedi soir : le dimanche a disparu",
+      "icon": "clock",
+      "summary": "Le site affiche trois après-midi (lundi à mercredi, 14 h-20 h) et deux soirées (vendredi 20 h-1 h, samedi 21 h-2 h) ; le jeudi n'ouvre que pour des « Speed-Gaming ».",
+      "blocks": [
+        { "kind": "text", "body": "Le club fonctionne en deux temps : des après-midi en début de semaine, des soirées le vendredi et le samedi. Le jeudi est fermé « sauf lors de nos Speed-Gaming », une formule que le site n'explique nulle part. Le dimanche ne figure pas dans la grille." },
+        {
+          "kind": "table",
+          "caption": "Horaires publiés par le club en 2013 et en 2026",
+          "headers": ["Jour", "Mars 2013", "2026"],
+          "rows": [
+            ["Lundi", "14 h – 20 h", "14 h – 20 h"],
+            ["Mardi, mercredi", "14 h – 1 h", "14 h – 20 h"],
+            ["Jeudi", "14 h – 1 h", "Fermé, sauf « Speed-Gaming »"],
+            ["Vendredi", "14 h – 2 h", "20 h – 1 h"],
+            ["Samedi", "20 h – 2 h", "21 h – 2 h"],
+            ["Dimanche", "Dès 14 h", "Non indiqué"]
+          ]
+        },
+        { "kind": "text", "body": "À l'entrée, une grille « Öffnungszeiten » au logo « Velvet », photographiée au plus tard le 10 janvier 2026, reprend, autant qu'on puisse la lire, les créneaux du site pour le lundi au mercredi, le vendredi et le samedi. Le jeudi y semble intitulé « Afterwork », à des heures illisibles sur la photo." },
+        { "kind": "text", "body": "Les horaires « 8 h-18 h » que donnent certains annuaires allemands ne correspondent à aucune des grilles publiées par le club que nous avons consultées." },
+        { "kind": "text", "body": "Les après-midi de semaine conviennent à qui ne sort pas le soir. Pour trouver un couple libre un mardi à 14 h, [faites connaissance pendant les lives HD de Gleese](aff:gleese), diffusés chaque jour, puis fixez l'après-midi par message vocal." }
+      ],
+      "sources": ["s2", "s7", "s11", "s13", "s25"]
+    },
+    {
+      "id": "livre-d-or-agenda-vide",
+      "title": "Livre d'or ouvert le 18 janvier 2026, agenda vide le 20 octobre",
+      "icon": "warning",
+      "summary": "Le site a été refait entre le 10 janvier et le 5 février 2026 ; depuis, aucune soirée datée, aucun avis public, et un agenda qui affiche « Aucune soirée prévue ».",
+      "blocks": [
+        {
+          "kind": "timeline",
+          "items": [
+            { "date": "10 janvier 2026", "text": "Retouche de plusieurs photos de la galerie, d'après leurs métadonnées." },
+            { "date": "17 janvier 2026", "text": "Mise en ligne des photos, du logo et du sitemap (l'index des pages) du site." },
+            { "date": "18 janvier 2026", "text": "Ouverture du livre d'or : un message de l'équipe, un autre de clients qui remercient pour leur soirée et annoncent leur retour pour la Saint-Valentin." },
+            { "date": "28 janvier 2026", "text": "Ajout de la bannière du seul site partenaire affiché, Entre Coquins." },
+            { "date": "5 février 2026", "text": "Dernière modification de la feuille de style du site." },
+            { "date": "Mars à juin 2026", "text": "La Wayback Machine archive la page d'entrée les 13 mars, 4 avril, 18 mai et 14 juin." },
+            { "date": "20 octobre 2026", "text": "Toutes les pages répondent, mais l'agenda indique « Aucune soirée prévue »." }
+          ]
+        },
+        { "kind": "text", "body": "Un site entretenu ne prouve pas qu'un club reçoit. Les deux messages du livre d'or datent du jour de son ouverture et sont publiés sur le site du club lui-même : l'indice reste faible." },
+        { "kind": "text", "body": "Aucun avis public ne complète le tableau : 0 avis sur Yelp, Restaurant Guru et Jevena au 20 octobre 2026. Le compte Instagram @asticlub.kehl annonce 49 publications et 39 abonnés, mais ses publications restent invisibles sans connexion." },
+        { "kind": "text", "body": "Le plus simple reste d'écrire au club sur WhatsApp. Pour recouper sa réponse, vous pouvez [interroger des libertins alsaciens actifs cette semaine](aff:carre-libertin) : Carré Libertin revendique quelque 20 000 membres actifs chaque semaine, et certains ont peut-être poussé la porte du club depuis janvier." }
+      ],
+      "sources": ["s4", "s5", "s7", "s8", "s11", "s12", "s20", "s21", "s22", "s24"]
+    },
+    {
+      "id": "free-fr-2006-site-2026",
+      "title": "Du site en .free.fr de 2006 au site bilingue de janvier 2026",
+      "icon": "history",
+      "summary": "Le club a un site depuis au moins mai 2006 ; son fixe actuel figure déjà sur OpenStreetMap en 2012, et l'ancienne adresse en .free.fr renvoie aujourd'hui vers asticlub.de.",
+      "blocks": [
+        {
+          "kind": "timeline",
+          "items": [
+            { "date": "Mai 2006", "text": "Première capture d'asticlub.free.fr, l'ancien site du club, par la Wayback Machine : la page d'entrée accueille déjà les visiteurs en français et en allemand." },
+            { "date": "Janvier 2007", "text": "Sur un second domaine, asti-club.de, le club souhaite la bienvenue en allemand, avec des rubriques sur l'accès depuis Strasbourg et Kehl, les horaires et les prix d'entrée." },
+            { "date": "Avril 2012", "text": "Le club entre sur OpenStreetMap comme club échangiste du 82 Römerstraße, avec le fixe qu'il utilise toujours." },
+            { "date": "Mars 2013", "text": "La page Club de l'ancien site présente une nouvelle responsable qui parle français, allemand et espagnol." },
+            { "date": "Décembre 2025", "text": "Sur la vitrine de la façade, des affiches au logo « Velvet », un nom absent du site, annoncent une fête de Noël avec buffet et « Sexy Dance » le vendredi 19 et une « Before Sylvester Party » le samedi 27. Ces jours de la semaine correspondent à 2025 ; la photo a été retouchée le 10 janvier 2026." },
+            { "date": "Janvier 2026", "text": "Mise en ligne d'asticlub.de, bilingue ; asticlub.free.fr y redirige désormais." }
+          ]
+        },
+        { "kind": "text", "body": "Le nom varie selon les supports : « Asti-Club » en 2007, « ASTI CLUB » sur l'ancien site, « ASTI PÄRCHENCLUB » sur le chevalet de la porte, « AstiClub » aujourd'hui. « Pärchenclub », littéralement « club de couples », désigne en allemand un club échangiste." },
+        { "kind": "text", "body": "Les annuaires n'ont pas suivi : Yelp renvoie encore vers asti-club.de, domaine que le club n'utilise plus, tandis qu'OpenStreetMap et Jevena pointent vers l'adresse en .free.fr." }
+      ],
+      "sources": ["s1", "s7", "s11", "s15", "s17", "s18", "s19", "s20", "s21"]
+    },
+    {
+      "id": "galerie-neon-pole-dance",
+      "title": "Treize photos, une seule salle : estrade de pole dance, canapés et bar bleu",
+      "icon": "camera",
+      "summary": "Les treize images de janvier 2026 montrent la façade, une grande salle rouge avec estrade de pole dance et canapés, un coin salon et le bar ; aucune ne montre de coin câlin.",
+      "blocks": [
+        {
+          "kind": "list",
+          "items": [
+            "La façade, sur trois photos : un perron de cinq marches, le numéro 82, une enseigne « OPEN » lumineuse, le chevalet « ASTI PÄRCHENCLUB », une affichette d'interdiction aux moins de 18 ans et une vitrine d'affiches de soirées.",
+            "La grande salle baignée de rouge, vue sous plusieurs angles : néon « AstiClub », estrade polygonale bordée de LED avec sa barre de pole dance, statues de lions, boule à facettes, écrans muraux et écran de projection.",
+            "Le long de ses murs, des canapés autour de tables basses, des tables hautes avec tabourets de bar et des photos de nu encadrées.",
+            "Un coin salon : canapé, tableau de nu, porte des toilettes des dames.",
+            "Le bar éclairé en bleu, avec cinq tabourets et des étagères de bouteilles.",
+            "Le visuel qui annonce la soirée couples et femmes du dernier samedi du mois."
+          ]
+        },
+        { "kind": "text", "body": "Aucune des treize images ne montre de coin câlin, de lit, de sauna ou de jacuzzi ; l'accueil du site ne cite que le bar, la piste de danse et la barre de pole dance. Au fond de la salle, une porte à rideau noir mène hors champ : demandez au club ce qu'elle dessert et la surface du lieu." }
+      ],
+      "sources": ["s1", "s7", "s11"]
+    },
+    {
+      "id": "pont-pflimlin-romerstrasse",
+      "title": "15 km depuis Strasbourg, par Kehl-Marlen ou le pont Pflimlin, jusqu'au 82 Römerstraße",
+      "icon": "map",
+      "summary": "Le club se dit à 15 km de Strasbourg ; son plan de 2012 proposait deux routes jusqu'à Goldscheuer, par Sundheim et Kehl-Marlen ou par le pont Pflimlin.",
+      "blocks": [
+        { "kind": "text", "body": "Le club écrit son adresse « Kehl-Goldscheuer » : Goldscheuer est un quartier de Kehl, la ville allemande qui fait face à Strasbourg sur l'autre rive du Rhin. La page Plan du site renvoie vers un itinéraire Google Maps." },
+        { "kind": "text", "body": "En 2012, l'ancien plan décrivait deux itinéraires : depuis la frontière, par Sundheim puis à travers Kehl-Marlen jusqu'à l'entrée de Goldscheuer, ou par le pont Pflimlin, direction Kehl-Goldscheuer. Le club se trouvait alors « sur le parking à l'arrière », à côté du cabaret Klein Paris. La photo de façade de 2026 montre, elle, une entrée sous le numéro 82, en haut d'un perron de cinq marches." },
+        { "kind": "text", "body": "Ce voisin, le Klein-Paris, tient un blog non daté, archivé jusqu'en juin 2025, qui donne les mêmes numéros que le club, fixe et portable. Aucune source n'explique le lien entre les deux enseignes, ni ne dit si le bar fonctionne encore." },
+        { "kind": "text", "body": "À Kehl, ne confondez pas le club avec le [Sauna Atrium](/sauna-atrium-77696-kehl-cote-allemagne-5-mn-de-strasbourg), au 68 Schulstraße : il est fermé, sa société exploitante ayant été dissoute en 2018, et l'Atlantis Sauna qui avait pris sa suite a fermé à son tour pendant la crise sanitaire." },
+        { "kind": "text", "body": "Côté français, voyez les [lieux libertins de Strasbourg](/ville/strasbourg) et ceux du [reste du Bas-Rhin](/departement/bas-rhin)." }
+      ],
+      "sources": ["s1", "s7", "s9", "s16", "s23", "s26", "s27"]
+    },
+    {
+      "id": "whatsapp-en-33",
+      "title": "Un club allemand qui prend ses réservations sur un portable français en +33",
+      "icon": "phone",
+      "summary": "Réservation par WhatsApp au +33 6 83 39 11 65 ou par e-mail, via un formulaire où l'on indique homme, femme ou couple et le nombre de personnes.",
+      "blocks": [
+        { "kind": "text", "body": "Le site est bilingue, français et allemand, et le numéro WhatsApp est français alors que le fixe est allemand. Les mentions légales précisent que les réservations passent par WhatsApp." },
+        {
+          "kind": "list",
+          "items": [
+            "Formulaire de la page Contact : homme, femme ou couple, nombre de personnes, envoi par e-mail ou par WhatsApp.",
+            "WhatsApp : +33 6 83 39 11 65.",
+            "Fixe : +49 7854 98 51 57, inchangé depuis au moins 2012.",
+            "E-mail : asticlubkehl@gmail.com."
+          ]
+        },
+        { "kind": "text", "body": "Sur place, le règlement interdit tout enregistrement audio ou vidéo, et les téléphones restent au vestiaire. Celui-ci est sécurisé, contre une caution de 10 € rendue en fin de soirée. Une pièce d'identité peut être exigée : l'entrée est interdite aux mineurs." }
+      ],
+      "sources": ["s1", "s3", "s6", "s10", "s19"]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Lundi": "14 h – 20 h",
+      "Mardi": "14 h – 20 h",
+      "Mercredi": "14 h – 20 h",
+      "Jeudi": "Fermé, sauf soirées « Speed-Gaming »",
+      "Vendredi": "20 h – 1 h",
+      "Samedi": "21 h – 2 h",
+      "Dimanche": "Non indiqué"
+    },
+    "note": "Horaires du site officiel, non datés (site refait en janvier 2026). L'agenda n'annonçait aucune soirée le 20/10/2026 : faites confirmer l'ouverture avant de venir.",
+    "confidence": "source_unique",
+    "sources": ["s2", "s4"]
+  },
+  "tarifs": {
+    "rows": {
+      "Couple": "50 €",
+      "Femme seule": "10 €",
+      "Homme seul": "90 € (pas admis le dernier samedi du mois)"
+    },
+    "note": "Boissons à volonté comprises. Selon le site, les tarifs peuvent varier selon les événements. Caution de 10 € pour le vestiaire, rendue en fin de soirée.",
+    "confidence": "source_unique",
+    "sources": ["s2", "s3", "s7"]
+  },
+  "equipements": [
+    "Bar (boissons à volonté comprises dans l'entrée)",
+    "Piste de danse",
+    "Estrade avec barre de pole dance",
+    "Canapés, coin salon et tables hautes",
+    "Vestiaire sécurisé (caution de 10 €)"
+  ],
+  "officialLinks": [
+    { "label": "Site officiel", "url": "https://www.asticlub.de/", "kind": "site" },
+    { "label": "Galerie photo (13 images, janvier 2026)", "url": "https://www.asticlub.de/galerie.php", "kind": "galerie" },
+    { "label": "Agenda des soirées", "url": "https://www.asticlub.de/soirees.php", "kind": "agenda" },
+    { "label": "Formulaire de réservation", "url": "https://www.asticlub.de/contact.php", "kind": "reservation" },
+    { "label": "Instagram @asticlub.kehl", "url": "https://www.instagram.com/asticlub.kehl/", "kind": "instagram" }
+  ],
+  "faq": [
+    {
+      "question": "L'AstiClub de Kehl est-il toujours ouvert ?",
+      "answer": "Nous ne pouvons pas l'affirmer. Le site, refait en janvier 2026, répond toujours le 20 octobre 2026, mais l'agenda n'annonce aucune soirée et le dernier témoignage de soirée date du 18 janvier 2026. Avant de passer la frontière, faites confirmer l'ouverture sur WhatsApp au +33 6 83 39 11 65."
+    },
+    {
+      "question": "Quel est le prix d'entrée de l'AstiClub ?",
+      "answer": "Selon le site officiel : 50 € pour un couple, 10 € pour une femme seule, 90 € pour un homme seul, boissons à volonté comprises. Ces prix peuvent varier les soirs d'événement, et le vestiaire demande une caution de 10 €, rendue en fin de soirée."
+    },
+    {
+      "question": "Un homme seul peut-il entrer à l'AstiClub ?",
+      "answer": "Oui, pour 90 €, aux heures d'ouverture affichées. Seule exception connue : le dernier samedi du mois, présenté en janvier 2026 comme une soirée réservée aux couples et aux femmes."
+    },
+    {
+      "question": "Quels sont les horaires de l'AstiClub ?",
+      "answer": "Lundi, mardi et mercredi de 14 h à 20 h, vendredi de 20 h à 1 h, samedi de 21 h à 2 h. Le jeudi est fermé hors « Speed-Gaming » et le dimanche n'est pas mentionné. Les horaires « 8 h-18 h » de certains annuaires ne viennent pas du club."
+    },
+    {
+      "question": "Asti-Club, ASTI-Pärchenclub et AstiClub désignent-ils le même lieu ?",
+      "answer": "Tout l'indique. L'ancienne adresse asticlub.free.fr redirige aujourd'hui vers asticlub.de, le fixe actuel figurait déjà en 2012 sur la fiche OpenStreetMap du club, et le chevalet « ASTI PÄRCHENCLUB » apparaît sur la photo de façade publiée en janvier 2026. Le nom « Asti-Club » est celui du domaine asti-club.de en 2007, que Yelp attribue encore à l'ASTI-Pärchenclub."
+    },
+    {
+      "question": "Existe-t-il des avis sur l'AstiClub ?",
+      "answer": "Aucun avis public au 20 octobre 2026 : Yelp, Restaurant Guru et Jevena affichent 0 avis. Le livre d'or du site, ouvert le 18 janvier 2026, ne contient que deux messages de ce jour-là, dont un de l'équipe."
+    },
+    {
+      "question": "Comment aller à l'AstiClub depuis Strasbourg ?",
+      "answer": "Le club se dit à 15 km de Strasbourg, dans le quartier de Goldscheuer, à Kehl. Son plan de 2012 proposait deux routes : depuis la frontière par Sundheim et Kehl-Marlen, ou par le pont Pflimlin en direction de Kehl-Goldscheuer. La page Plan du site actuel propose un itinéraire Google Maps."
+    }
+  ],
+  "unverified": [
+    "Le club reçoit-il encore ? Aucune soirée datée après le 18 janvier 2026 n'a été trouvée, et l'agenda est vide le 20 octobre 2026.",
+    "La soirée couples et femmes du dernier samedi du mois a-t-elle toujours lieu ? Elle n'apparaît que sur un visuel de janvier 2026.",
+    "Que recouvrent les « Speed-Gaming » qui font ouvrir le club certains jeudis ? Le site ne les explique pas, et la grille d'horaires affichée à l'entrée semble parler d'« Afterwork ».",
+    "Le club ouvre-t-il encore le dimanche ? Le site actuel n'en dit rien ; en 2013, il ouvrait dès 14 h.",
+    "Que dessert la porte à rideau noir du fond de la salle ? Les treize photos de la galerie ne montrent qu'une salle, un bar et un coin salon, et aucune source ne décrit de coin câlin ni ne donne de surface.",
+    "Que désigne le logo « Velvet » des affiches de la vitrine (fêtes de décembre 2025, grille d'horaires) ? Le site du club n'emploie jamais ce nom.",
+    "Quel lien unit le club et le bar Klein-Paris, son voisin, qui affiche les mêmes numéros de téléphone ? Aucune source ne l'explique.",
+    "Quelle entreprise exploite le club ? Les mentions légales ne donnent aucun numéro d'immatriculation, et aucun registre allemand n'a été trouvé en ligne.",
+    "Le compte Instagram @asticlub.kehl publie-t-il encore ? Ses publications ne sont pas lisibles sans connexion."
+  ],
+  "sources": [
+    { "id": "s1", "label": "AstiClub, site officiel : accueil (français et allemand), adresse, téléphones, publics admis, équipements", "url": "https://www.asticlub.de/accueil.php", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s2", "label": "AstiClub, site officiel : horaires et tarifs", "url": "https://www.asticlub.de/horaires.php", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s3", "label": "AstiClub, site officiel : règlement (enregistrements, téléphones, vestiaire)", "url": "https://www.asticlub.de/regles.php", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s4", "label": "AstiClub, site officiel : agenda (« Aucune soirée prévue »)", "url": "https://www.asticlub.de/soirees.php", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s5", "label": "AstiClub, site officiel : livre d'or (deux messages du 18 janvier 2026)", "url": "https://www.asticlub.de/livre_dor.php", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s6", "label": "AstiClub, site officiel : mentions légales (Impressum)", "url": "https://www.asticlub.de/impressum.php", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s7", "label": "AstiClub, site officiel : galerie (13 images, toutes regardées : façade et vitrine d'affiches, salle, bar, visuel de la soirée couples et femmes)", "url": "https://www.asticlub.de/galerie.php", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s8", "label": "AstiClub, site officiel : page Liens (bannière Entre Coquins)", "url": "https://www.asticlub.de/liens.php", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s9", "label": "AstiClub, site officiel : plan d'accès", "url": "https://www.asticlub.de/plan.php", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s10", "label": "AstiClub, site officiel : formulaire de réservation", "url": "https://www.asticlub.de/contact.php", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s11", "label": "Dates de mise en ligne des fichiers du site officiel (en-têtes HTTP et métadonnées des photos), relevées le 20/10/2026", "url": "https://www.asticlub.de/sitemap.xml", "type": "autre", "consulted": "2026-10-20" },
+    { "id": "s12", "label": "Wayback Machine, captures d'asticlub.de (mars à juin 2026)", "url": "https://web.archive.org/cdx/search/cdx?url=asticlub.de", "type": "autre", "consulted": "2026-10-20" },
+    { "id": "s13", "label": "Ancien site asticlub.free.fr : horaires (archive du 09/03/2013)", "url": "https://web.archive.org/web/20130309190559/http://asticlub.free.fr/Pages_Fr/Club/Horaires.html", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s14", "label": "Ancien site asticlub.free.fr : tarifs et soirée mensuelle (archive du 16/03/2013)", "url": "https://web.archive.org/web/20130316032315/http://asticlub.free.fr/Pages_Fr/Club/Tarifs.html", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s15", "label": "Ancien site asticlub.free.fr : présentation du club (archive du 15/03/2013)", "url": "https://web.archive.org/web/20130315061141/http://asticlub.free.fr/Pages_Fr/Club/Club.html", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s16", "label": "Ancien site asticlub.free.fr : plan d'accès (archive du 31/12/2012)", "url": "https://web.archive.org/web/20121231101728/http://asticlub.free.fr/Pages_Fr/Club/Plan.html", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s17", "label": "Wayback Machine, captures d'asticlub.free.fr depuis le 16/05/2006 (redirection vers asticlub.de vérifiée le 20/10/2026)", "url": "https://web.archive.org/cdx/search/cdx?url=asticlub.free.fr", "type": "autre", "consulted": "2026-10-20" },
+    { "id": "s18", "label": "Ancien domaine asti-club.de : accueil du club (archive du 19/01/2007)", "url": "https://web.archive.org/web/20070119/http://www.asti-club.de/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s19", "label": "OpenStreetMap, nœud « Asti Club » (club échangiste, créé le 05/04/2012)", "url": "https://www.openstreetmap.org/node/1702287005", "type": "carte", "consulted": "2026-10-20" },
+    { "id": "s20", "label": "Jevena, fiche « Asti Club » (0 avis)", "url": "https://www.jevena.com/swingerclub/in/kehl/cda71633-8810-483c-baaf-1fe596abe8cd", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s21", "label": "Yelp, fiche « ASTI-Pärchenclub » (non revendiquée, 0 avis)", "url": "https://www.yelp.com/biz/asti-p%C3%A4rchenclub-kehl", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s22", "label": "Restaurant Guru, fiche « ASTI-Pärchenclub » (0 avis)", "url": "https://restaurantguru.com/ASTI-Paerchenclub-Kehl", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s23", "label": "Klein-Paris, blog du bar voisin (non daté, mêmes numéros de téléphone que le club ; dernière capture Wayback en juin 2025)", "url": "https://klein-paris.blog4ever.com/", "type": "autre", "consulted": "2026-10-20" },
+    { "id": "s24", "label": "Instagram, compte @asticlub.kehl (métadonnées publiques seulement)", "url": "https://www.instagram.com/asticlub.kehl/", "type": "reseau_social", "consulted": "2026-10-20" },
+    { "id": "s25", "label": "Öffnungszeitenportal, fiche « Asti Club » (horaires « 8 h-18 h » non issus du club)", "url": "https://oeffnungszeitenportal.de/swingerclub/kehl-goldscheuer/asti-club-oeffnungszeiten/", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s26", "label": "Sauna Atrium (Kehl) : dissolution de la société exploitante en 2018, registre du commerce de Fribourg repris par webvalid.de", "url": "https://www.webvalid.de/company/Atrium+Concept+GmbH+Entspannungs-+und+Fitnesscenter,+Kehl/HRB+371473", "type": "registre", "consulted": "2026-10-19" },
+    { "id": "s27", "label": "Atlantis Sauna Kehl, site officiel du repreneur de l'Atrium (message de fermeture)", "url": "https://sites.google.com/view/saunaatlantiskehl/accueil", "type": "officiel", "consulted": "2026-10-19" }
+  ]
+}

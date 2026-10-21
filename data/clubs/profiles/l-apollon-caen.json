@@ -1,0 +1,333 @@
+{
+  "slug": "l-apollon-caen",
+  "clubId": "new-l-apollon-caen",
+  "researchedAt": "2026-10-20",
+  "display": { "nom": "L'Apollon", "ville": "Caen" },
+  "status": {
+    "value": "ouvert",
+    "summary": "Le 20 octobre 2026, le bar a mis en ligne les affiches de ses après-midis naturistes des dimanches 25 octobre et 8 novembre. SNEG & Co le comptait parmi ses adhérents en juillet 2026, et la société du 16 rue Varignon reste active au registre.",
+    "sources": ["s1", "s6", "s10", "s8"]
+  },
+  "seo": {
+    "title": "L'Apollon à Caen : cruising bar 100 % hommes, horaires et entrée",
+    "metaDescription": "Bar de drague gay rue Varignon, réservé aux hommes : 12 € avec une boisson, ouvert dès 17 h en semaine et 22 h le week-end, dimanches naturistes à 14 €.",
+    "subtitle": "Cruising bar gay réservé aux hommes majeurs, rue Varignon à Caen (14)",
+    "targetQueries": ["apollon caen", "l'apollon caen", "apollon bar caen", "bar gay caen", "cruising caen", "apollon caen horaires"]
+  },
+  "lead": "Ouvert en 2001 selon ses gérants et présenté par Gay Viking comme le plus ancien établissement gay de Caen, L'Apollon est un cruising bar réservé aux hommes majeurs ; Gay Viking y décrit backroom, sling et glory hole. Mis en vente en 2022, il fonctionne toujours : le 20 octobre 2026, il affichait ses après-midis naturistes des 25 octobre et 8 novembre. Ce n'est pas un club échangiste : ni couples ni femmes n'y entrent.",
+  "glance": [
+    { "icon": "clock", "label": "Ouvert", "value": "Mar.-jeu. 17 h-2 h · ven.-sam. 22 h-3 h" },
+    { "icon": "euro", "label": "Entrée", "value": "12 € avec une boisson · étudiant 6 €" },
+    { "icon": "users", "label": "Public", "value": "Hommes majeurs uniquement" },
+    { "icon": "calendar", "label": "Après-midi naturiste", "value": "2e et 4e dimanches, 17 h-21 h, 14 €" },
+    { "icon": "flame", "label": "Équipements", "value": "Backroom, sling, glory hole, fumoir" },
+    { "icon": "history", "label": "Ouvert depuis", "value": "2001, selon ses gérants", "confidence": "source_unique" }
+  ],
+  "audience": [
+    { "who": "hommes", "status": "oui", "detail": "Seul public admis, majeurs ; tarif étudiant à 6 €", "price": "12 €" },
+    { "who": "couples", "status": "non", "detail": "Bar exclusivement masculin : l'Orphéa ou le Venus mixte pour sortir à deux" },
+    { "who": "femmes", "status": "non", "detail": "Aucune soirée mixte annoncée ; affiches « 100 % hommes »" }
+  ],
+  "highlights": [
+    "Le vendredi et le samedi, la porte n'ouvre qu'à 22 h : le samedi dès 17 h de PagesJaunes et d'autres annuaires correspond à l'horaire affiché par le bar en 2013.",
+    "L'entrée du soir (12 €) comprend une boisson mais pas le vestiaire ; les dimanches naturistes coûtent 14 €, vestiaire compris.",
+    "Aucune ouverture annoncée le dimanche ni le lundi, hormis trois après-midis par mois : 2e et 4e dimanches, 2e lundi, de 17 h à 21 h.",
+    "Le dimanche et le 2e lundi, le thème est obligatoire (naturiste, ou slip le lundi) ; en semaine, la tenue est libre, disait le gérant en 2015.",
+    "Pour se garer, le bar renvoie au parking Indigo Presqu'île - Tribunal, avenue Victor-Hugo, à une dizaine de minutes à pied selon lui."
+  ],
+  "keyFacts": [
+    { "label": "Type", "value": "Cruising bar gay (bar de drague)", "confidence": "confirme", "sources": ["s2", "s4", "s12"] },
+    { "label": "Public admis", "value": "Hommes majeurs uniquement", "confidence": "confirme", "sources": ["s6", "s12", "s13"] },
+    { "label": "Jours d'ouverture", "value": "Du mardi au samedi le soir, plus trois après-midis à thème par mois", "confidence": "confirme", "sources": ["s2", "s6"] },
+    { "label": "Entrée", "value": "12 € avec une boisson, 6 € pour un étudiant", "confidence": "confirme", "sources": ["s2", "s12"] },
+    { "label": "Ouverture", "value": "2001, selon ses gérants (Gay Viking, 2007, 2015 et 2022)", "confidence": "source_unique", "sources": ["s27", "s28", "s11"] },
+    { "label": "Société probable", "value": "SARL Le Clerfeu, créée en juillet 2001 (lien déduit de l'adresse ; un annuaire la nomme « Apollon »)", "confidence": "a_verifier", "sources": ["s8", "s9", "s42"] },
+    { "label": "Mise en vente", "value": "Annoncée par le bar en octobre 2022 ; aucune cession publiée depuis", "confidence": "confirme", "sources": ["s29", "s11", "s9"] },
+    { "label": "Syndicat", "value": "Adhérent du SNEG depuis 2003", "confidence": "source_unique", "sources": ["s10"] },
+    { "label": "Boutique", "value": "Poppers sur place et en ligne (PoppersCaen)", "confidence": "confirme", "sources": ["s3", "s19", "s12"] },
+    { "label": "Stationnement", "value": "Parking Indigo Presqu'île - Tribunal, à environ 10 minutes à pied selon le bar", "confidence": "source_unique", "sources": ["s5"] }
+  ],
+  "sections": [
+    {
+      "id": "reserve-aux-hommes",
+      "title": "Un cruising bar 100 % hommes, pourtant listé dans deux guides libertins de 2026",
+      "icon": "users",
+      "summary": "L'Apollon se dit « cruising bar » : un bar de drague gay où seuls les hommes majeurs entrent, que deux guides libertins de 2026 listent avec les clubs mixtes de Caen et du Calvados.",
+      "blocks": [
+        { "kind": "text", "body": "Sur son site, le lieu se nomme **« L'Apollon Cruising Bar »**. Le principe : une entrée payante avec une boisson comprise, un bar, et des espaces de drague entre hommes. Le site communautaire Gay Viking précise que l'établissement est « exclusivement pour les hommes »." },
+        { "kind": "text", "body": "Les affiches publiées par le bar en octobre 2026 portent la mention « 100 % hommes ». Les agendas gays Everyday Pride et AgendaQ le classent en « gay only » et en bar-backroom." },
+        { "kind": "callout", "tone": "warning", "title": "Pas un club pour couples", "body": "Deux guides libertins de Caen et du Calvados, mis à jour en 2026, le listent avec les clubs mixtes tout en le disant gay ; le Petit Futé range même sa fiche « Apollon Bar » dans la rubrique « club libertin ». Aucune soirée mixte n'apparaît sur son site : un couple ou une femme seule y trouvera porte close." }
+      ],
+      "sources": ["s2", "s4", "s6", "s12", "s14", "s15", "s25", "s26", "s37"]
+    },
+    {
+      "id": "sling-backroom-glory-hole",
+      "title": "Backroom, glory hole et un sling de cuir visible sur les photos du bar",
+      "icon": "camera",
+      "summary": "Gay Viking décrit une backroom, un espace vidéo, un sling, un glory hole et un fumoir ; trois photos en ligne sur le site depuis février 2026 montrent le sling et la salle du bar.",
+      "blocks": [
+        { "kind": "list", "title": "Les espaces décrits", "items": [
+          "**Backroom** : citée par les gérants dès 2007, puis par Gay Viking dans sa fiche du lieu (2019, mise à jour en 2025) et dans son guide gay de Caen.",
+          "**Sling** : décrit par les gérants en 2007 et par Gay Viking ; une photo du site le montre en cuir clouté, suspendu par des chaînes devant un mur de pierre.",
+          "**Glory hole** et **espace vidéo** : parmi les sources que nous avons pu lire, seul Gay Viking les cite.",
+          "**Fumoir** : en 2007, les gérants espéraient ouvrir un espace fumeur l'année suivante ; en 2015, ils citaient le fumoir intérieur parmi les espaces créés depuis 2001.",
+          "**Cabines** : mentionnées par les gérants en 2007, par l'annuaire QLIST en 2026 et par le Petit Futé, qui évoque aussi un labyrinthe (fiche vue seulement en résultat de recherche) ; rien ne les montre sur le site actuel."
+        ] },
+        { "kind": "text", "body": "Les deux autres photos montrent la même salle sous une lumière bleue, puis rouge : tabourets hauts, tables rondes, poufs, une cloison vitrée, une machine à fumée et, au mur, les affichettes des horaires. Les hommes des affiches de soirées, eux, sont des images générées par IA." },
+        { "kind": "text", "body": "Ni la surface ni le nombre de pièces ne sont publiés." }
+      ],
+      "sources": ["s6", "s11", "s12", "s13", "s17", "s27", "s28", "s37"]
+    },
+    {
+      "id": "apres-midis-naturistes",
+      "title": "Naturiste les dimanches 25 octobre et 8 novembre 2026, de 17 h à 21 h",
+      "icon": "calendar",
+      "summary": "Les 2e et 4e dimanches, le bar ouvre l'après-midi en naturiste, à 14 € avec vestiaire et une boisson ; le 2e lundi, la tenue demandée est « slip ou naturiste ».",
+      "blocks": [
+        { "kind": "table", "caption": "Après-midis à thème annoncés par le bar", "headers": ["Rendez-vous", "Quand", "Horaire", "Entrée"], "rows": [
+          ["Après-midi naturiste « 100 % hommes »", "2e et 4e dimanches du mois", "17 h - 21 h", "14 €, vestiaire et une boisson compris"],
+          ["« Slip ou naturiste »", "2e lundi du mois", "17 h - 21 h", "14 € avec deux boissons et vestiaire selon Gay Viking ; prix non affiché par le bar"]
+        ] },
+        { "kind": "text", "body": "Les deux affiches de la page Soirées ont été créées et mises en ligne le 20 octobre 2026. Le 25 octobre tombe bien le 4e dimanche d'octobre, et le 8 novembre le 2e dimanche de novembre." },
+        { "kind": "text", "body": "Le rendez-vous est ancien : en 2007, les gérants expliquaient avoir ajouté un second dimanche naturiste par mois pour répondre à la demande, et le site affichait déjà les 2e et 4e dimanches en 2013." },
+        { "kind": "text", "body": "Ces jours-là, le thème est obligatoire, alors qu'en semaine chacun vient dans la tenue qu'il veut, précisait le gérant en 2015. Gay Viking décrit aussi un dress code libre, sauf soirée spéciale, « souvent fétichiste »." },
+        { "kind": "text", "body": "Gay Viking mentionne enfin des soirées fetish, une élection de Mister Leather et une ouverture spéciale pendant la Pride de Caen. Aucune de ces soirées n'était annoncée sur le site au 20 octobre 2026." }
+      ],
+      "sources": ["s2", "s6", "s12", "s27", "s28", "s30"]
+    },
+    {
+      "id": "entree-et-horaires",
+      "title": "Entrée à 12 € et ouverture à 22 h le week-end, contrairement à PagesJaunes",
+      "icon": "clock",
+      "summary": "Le soir, l'entrée coûte 12 € avec une boisson (6 € pour un étudiant) ; le vendredi et le samedi, la porte ouvre à 22 h, alors que PagesJaunes annonce 17 h le samedi.",
+      "blocks": [
+        { "kind": "text", "body": "Le prix affiché par le bar comprend une consommation, pas le vestiaire, que Gay Viking et l'annuaire QLIST disent facultatif à 2 €. Les agendas Everyday Pride et AgendaQ annoncent 14 € comme prix général ; le bar ne publie ce montant que pour ses après-midis naturistes." },
+        { "kind": "table", "caption": "Horaires du vendredi au lundi selon les sources", "headers": ["Source", "Vendredi", "Samedi", "Dimanche et lundi"], "rows": [
+          ["Site officiel et affichettes du bar (photo en ligne depuis février 2026)", "22 h - 3 h", "22 h - 3 h", "Après-midis à thème seulement"],
+          ["Everyday Pride et AgendaQ (octobre 2026)", "22 h - 3 h", "22 h - 3 h", "Après-midis à thème seulement"],
+          ["Restaurant Guru (page du 16/08/2026)", "22 h - 3 h", "22 h - 3 h", "Fermé"],
+          ["PagesJaunes (fiche relue le 20/10/2026, mise à jour du 02/10/2026)", "22 h - 2 h", "17 h - 3 h", "Dimanche 17 h - 2 h ; lundi fermé"],
+          ["Schlouk Map, et Cruising Gays (fiche de 2010)","22 h - 3 h", "17 h - 3 h", "Fermé ou non indiqué"],
+          ["Ancien site du bar (février 2013)", "22 h - 3 h", "17 h - 3 h", "2e et 4e dimanches, 17 h - 21 h"]
+        ] },
+        { "kind": "text", "body": "Le samedi dès 17 h de PagesJaunes correspond à l'horaire que le bar affichait en 2013, encore repris par Schlouk Map et par Cruising Gays, dont la fiche n'a pas été revue depuis 2010." },
+        { "kind": "text", "body": "En 2022, Gay Viking donnait déjà l'ouverture à 22 h le vendredi et le samedi, mais sa fiche du lieu, mise à jour en octobre 2025, indique encore 17 h - 2 h du mardi au samedi." }
+      ],
+      "sources": ["s2", "s6", "s11", "s12", "s14", "s15", "s16", "s17", "s30", "s39", "s40", "s41"]
+    },
+    {
+      "id": "vente-2022",
+      "title": "À vendre en 2022 pour 150 000 €, toujours ouvert en octobre 2026",
+      "icon": "building",
+      "summary": "Le bar a mis son fonds en vente en octobre 2022 ; aucune cession n'a été publiée depuis, et la société de l'adresse dépose toujours ses comptes.",
+      "blocks": [
+        { "kind": "timeline", "items": [
+          { "date": "Octobre 2022", "text": "Le bar met son fonds en vente sur le site du SNEG & Co, boutique en ligne comprise, pour 150 000 € ; Gay Viking relaie l'annonce le 2 novembre." },
+          { "date": "Décembre 2025 - avril 2026", "text": "La SARL Le Clerfeu, exploitante probable, publie ses comptes de l'exercice clos en juin 2025, puis une modification de capital, ramené à 4 000 € (contre 8 000 € auparavant, selon une annonce légale relayée par Societe.com)." },
+          { "date": "Juillet 2026", "text": "SNEG & Co publie une fiche « Apollon Bar » : « Adhérent depuis 2003 »." },
+          { "date": "Septembre 2026 (non vérifié)", "text": "Fermeture du 6 septembre au 1er octobre, selon l'agenda Everyday Pride cité dans deux résultats de recherche du 20 octobre ; mention introuvable sur l'agenda, sur le site et sur la page Facebook, illisible sans compte." },
+          { "date": "20 octobre 2026", "text": "Mise en ligne des affiches des après-midis naturistes des 25 octobre et 8 novembre." }
+        ] },
+        { "kind": "text", "body": "Depuis l'annonce de 2022, le BODACC ne publie ni vente du fonds, ni procédure collective, ni radiation, et nos recherches du 20 octobre 2026 n'ont trouvé aucun article de presse sur une reprise. On ne peut donc pas affirmer que le bar a changé de mains." }
+      ],
+      "sources": ["s6", "s8", "s9", "s10", "s11", "s14", "s18", "s29", "s36"]
+    },
+    {
+      "id": "vitrine-poppers",
+      "title": "Une page « Tarifs » consacrée aux poppers, de 8 à 17 € le flacon",
+      "icon": "info",
+      "summary": "Sur le site, la page « Tarifs » ne donne pas le prix d'entrée mais montre une vitrine de poppers étiquetés de 8 à 17 € ; le bar les vend aussi en ligne, sous le nom PoppersCaen.",
+      "blocks": [
+        { "kind": "text", "body": "La photo de la page Tarifs montre deux vitrines de flacons devant un mur de briques, étiquetés 10, 13, 14 et 17 €, avec une promotion à 8 €. Le prix d'entrée, lui, se trouve sur la page Horaire." },
+        { "kind": "text", "body": "La vente n'est pas nouvelle : dès 2013, l'ancien site annonçait des poppers vendus au bar, et ses captures de 2015 montrent aussi des pages de gels et d'articles SM. La boutique en ligne PoppersCaen, au 16 rue Varignon et au même téléphone, faisait partie du fonds mis en vente en 2022." },
+        { "kind": "text", "body": "En 2023, l'ancien site précisait qu'on pouvait acheter poppers et CBD (fleurs, résine, huile, arrivés en janvier) à l'entrée du bar, sans droit d'entrée ni consommation, à partir de 18 ans. La page Tarifs d'octobre 2026 ne montre plus que des poppers." }
+      ],
+      "sources": ["s3", "s7", "s11", "s19", "s29", "s33"]
+    },
+    {
+      "id": "prix-depuis-2013",
+      "title": "Sans droit d'entrée en semaine en 2013, 12 € avec une boisson en 2026",
+      "icon": "euro",
+      "summary": "En 2013, le bar ne demandait pas de droit d'entrée du mardi au jeudi ni le samedi, seulement une consommation ; en 2024 et 2025, il vendait une carte de dix entrées à 140 €.",
+      "blocks": [
+        { "kind": "table", "caption": "Prix d'entrée relevés avant 2026", "headers": ["Relevé", "Le soir", "Après-midi naturiste"], "rows": [
+          ["Février 2013, ancien site", "Mardi-jeudi et samedi : pas de droit d'entrée, une consommation obligatoire ; vendredi : 8 € avec deux consommations", "8 € avec deux consommations, vestiaire offert"],
+          ["Juillet 2019, ancien site", "Non précisé", "10 € plus 1 € de vestiaire"],
+          ["Mai 2025, annuaire Minuit Libertin (non confirmé par le bar)", "Mardi-jeudi 10 € ; vendredi, samedi et 2e lundi 12 €", "12 €"],
+          ["Gay Viking, fiche mise à jour en 2025", "12 € avec une consommation ; étudiant 6 € ; vestiaire 2 €", "12 € avec une consommation"]
+        ] },
+        { "kind": "text", "body": "En 2024 et 2025, le site proposait une carte VIP : dix entrées avec vestiaire, la onzième offerte, pour 140 €, « avec 2 consos de la formule » et renseignements au comptoir. Elle n'apparaît plus sur le site d'octobre 2026, qui affiche 12 € le soir et 14 € le dimanche." }
+      ],
+      "sources": ["s2", "s6", "s12", "s30", "s32", "s34", "s35", "s38"]
+    },
+    {
+      "id": "histoire",
+      "title": "Ouvert en 2001, fermé pour congés en septembre 2013, bail renouvelé en 2015",
+      "icon": "history",
+      "summary": "Ouvert en 2001 selon ses gérants et adhérent du SNEG depuis 2003, le bar fermait pour congés du 8 au 22 septembre 2013 et renouvelait son bail pour neuf ans en 2015.",
+      "blocks": [
+        { "kind": "timeline", "items": [
+          { "date": "2001", "text": "Ouverture du bar, d'après ses gérants (Gay Viking, 2007 et 2015). En juillet est créée la SARL Le Clerfeu, débit de boissons au 16 rue Varignon : très probablement l'exploitante, mais le lien est déduit : aucune enseigne déclarée au registre, pas de mentions légales, seul un annuaire d'entreprises affichant son établissement sous le nom « Apollon »." },
+          { "date": "2003", "text": "Adhésion au syndicat SNEG, d'après la fiche publiée par SNEG & Co." },
+          { "date": "Septembre 2007", "text": "Gay Viking présente un lieu « à trois facettes » : bar, sexe-club et sex-shop ; les gérants y décrivent déjà sling, cabines et backroom." },
+          { "date": "Avril 2012", "text": "Première capture de lapollon.fr dans les archives du web ; les captures de 2013 à 2016 montrent des pages horaires, tarifs, plan, photos, prévention et boutique." },
+          { "date": "Septembre 2013", "text": "Le bar ferme pour congés du 8 au 22 septembre, selon son site." },
+          { "date": "Novembre 2015", "text": "Le gérant annonce à Gay Viking la signature d'un nouveau bail de neuf ans." }
+        ] }
+      ],
+      "sources": ["s7", "s8", "s10", "s11", "s27", "s28", "s31", "s42"]
+    },
+    {
+      "id": "autres-lieux-pour-hommes",
+      "title": "L'après-midi à l'Arc en Ciel ou au Venus masculin, le soir rue Varignon",
+      "icon": "map",
+      "summary": "L'Arc en Ciel, à une soixantaine de mètres, et l'espace masculin du Venus à Hérouville-Saint-Clair reçoivent les hommes l'après-midi jusqu'à 19 h ; L'Apollon ouvre à 17 h ou 22 h.",
+      "blocks": [
+        { "kind": "text", "body": "En 2022, Gay Viking présentait L'Apollon comme le seul établissement 100 % masculin de Caen. En octobre 2026, deux saunas proposent aussi, selon leurs sites, des créneaux réservés aux hommes, tous deux l'après-midi." },
+        { "kind": "table", "caption": "Créneaux réservés aux hommes autour de Caen (relevés des 19 et 20 octobre 2026)", "headers": ["Lieu", "Créneaux hommes", "Entrée homme", "Notre constat"], "rows": [
+          ["[Venus Sauna, espace masculin](/venus-sauna-caen), Hérouville-Saint-Clair", "Lundi-vendredi 13 h-19 h, samedi 14 h-19 h, 1er et 3e dimanches 14 h-19 h", "18 € ; 10 € pour un étudiant de moins de 26 ans", "Ouvert : soirées mixtes datées jusqu'au 31 octobre 2026"],
+          ["[Arc en Ciel](/arc-en-ciel-caen), impasse Dumont, Caen", "« 100 % Mec » du lundi au samedi, 13 h-19 h", "20 € sans consommation", "Site en ligne le 20/10/2026, sans date d'événement : activité non vérifiée"]
+        ] },
+        { "kind": "text", "body": "Les dimanches se complètent : le Venus ouvre son espace masculin les 1er et 3e, L'Apollon ses après-midis naturistes les 2e et 4e. D'après la Base Adresse Nationale, l'Arc en Ciel (8 impasse Dumont) est à une soixantaine de mètres du 16 rue Varignon. Les autres lieux recensés sont sur [notre page des sorties à Caen](/ville/caen)." }
+      ],
+      "sources": ["s11", "s20", "s21", "s22", "s23", "s6"]
+    },
+    {
+      "id": "sortir-en-couple",
+      "title": "Couple ou femme : vendredi mixte à l'Orphéa, espace mixte du Venus",
+      "icon": "couple",
+      "summary": "Une femme ou un couple n'entre pas à L'Apollon ; les soirées mixtes vérifiées autour de Caen se tiennent à l'Orphéa (23 et 24 octobre 2026) et dans l'espace mixte du Venus.",
+      "blocks": [
+        { "kind": "text", "body": "Un homme bi qui veut sortir avec sa compagne, ou un couple arrivé ici par un guide libertin, a deux adresses actives en octobre 2026, et une troisième à confirmer :" },
+        { "kind": "list", "items": [
+          "[l'Orphéa Club](/orphea-club-chicheboville-billy), à Chicheboville : soirée mixte annoncée le vendredi 23 octobre 2026 de 21 h 30 à 3 h 30 (couple 35 €, femme seule 10 €, homme seul 42 €), puis le samedi 24 octobre ;",
+          "l'espace mixte du Venus Sauna, à Hérouville-Saint-Clair : couple 25 €, femme 5 €, homme 40 € (50 € le samedi soir) ;",
+          "l'Arc en Ciel, à une soixantaine de mètres : soirées mixtes le vendredi et le samedi de 21 h à 3 h (couple 28 € le vendredi et 38 € le samedi, femme seule 7 €, homme seul 40 €), selon son site, sans événement daté qui prouve son activité."
+        ] },
+        { "kind": "text", "body": "Carré Libertin et Gleese sont des sites libertins mixtes, qui ne visent pas les hommes cherchant des hommes. Pour une première soirée mixte, [repérer les libertins normands déjà habitués des clubs](aff:carre-libertin) parmi les quelque 20 000 membres actifs chaque semaine de Carré Libertin évite d'arriver sans repère." },
+        { "kind": "text", "body": "Gleese mise sur les lives HD quotidiens et les messages vocaux : de quoi [entendre la voix d'un couple avant de le retrouver au Venus](aff:gleese), plutôt que de juger sur un profil écrit." }
+      ],
+      "sources": ["s20", "s23", "s24"]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Mardi à jeudi": "17 h - 2 h",
+      "Vendredi et samedi": "22 h - 3 h",
+      "Dimanche": "2e et 4e du mois : après-midi naturiste, 17 h - 21 h",
+      "Lundi": "2e du mois : après-midi « slip ou naturiste », 17 h - 21 h"
+    },
+    "note": "Aucun horaire annoncé les autres dimanches et lundis. PagesJaunes publie d'autres horaires (samedi dès 17 h, dimanche jusqu'à 2 h), non confirmés par le bar. Ouverture possible les veilles de jours fériés selon un annuaire (2025) : à confirmer par téléphone.",
+    "confidence": "confirme",
+    "sources": ["s2", "s6", "s14", "s15", "s16", "s38"]
+  },
+  "tarifs": {
+    "rows": {
+      "Entrée du soir": "12 €, une boisson comprise, sans vestiaire",
+      "Étudiant": "6 €",
+      "Après-midi naturiste (dimanche)": "14 €, vestiaire et une boisson compris",
+      "2e lundi (slip ou naturiste)": "14 € avec deux boissons et vestiaire, selon Gay Viking",
+      "Vestiaire le soir": "2 €, facultatif, selon Gay Viking et QLIST"
+    },
+    "note": "Le site affiche l'entrée sur la page « Horaire » ; sa page « Tarifs » ne montre que les prix des poppers.",
+    "confidence": "confirme",
+    "sources": ["s2", "s6", "s12", "s17"]
+  },
+  "equipements": ["Bar", "Backroom", "Sling", "Glory hole", "Espace vidéo", "Fumoir", "Vestiaire", "Vitrine de poppers"],
+  "officialLinks": [
+    { "label": "Site officiel", "url": "https://lapollon.fr/", "kind": "site" },
+    { "label": "Affiches des après-midis à thème et photos du bar (page Soirées)", "url": "https://lapollon.fr/SOIREES/", "kind": "galerie" },
+    { "label": "Page Facebook « Lapollon cruising gay »", "url": "https://www.facebook.com/lapollon.fr/", "kind": "facebook" },
+    { "label": "Compte Instagram « lapollon.fr »", "url": "https://www.instagram.com/lapollon.fr/", "kind": "instagram" }
+  ],
+  "faq": [
+    {
+      "question": "Quels sont les horaires de L'Apollon à Caen ?",
+      "answer": "Du mardi au jeudi de 17 h à 2 h, le vendredi et le samedi de 22 h à 3 h, selon l'affiche du site et les affichettes visibles dans le bar. S'y ajoutent des après-midis de 17 h à 21 h : naturiste les 2e et 4e dimanches, « slip ou naturiste » le 2e lundi. PagesJaunes annonce encore le samedi dès 17 h, un horaire que le bar affichait en 2013."
+    },
+    {
+      "question": "Combien coûte l'entrée à L'Apollon ?",
+      "answer": "12 € le soir, une consommation comprise mais sans vestiaire, et 6 € pour un étudiant. Les après-midis naturistes du dimanche coûtent 14 €, vestiaire et boisson compris. Le vestiaire du soir serait à 2 € selon Gay Viking, un prix que le bar n'affiche pas."
+    },
+    {
+      "question": "Quand a lieu le prochain après-midi naturiste ?",
+      "answer": "Le bar a annoncé le dimanche 25 octobre puis le dimanche 8 novembre 2026, de 17 h à 21 h, « 100 % hommes », à 14 € avec vestiaire et une boisson. La règle est fixe : les 2e et 4e dimanches de chaque mois."
+    },
+    {
+      "question": "L'Apollon ferme-t-il en septembre ?",
+      "answer": "Peut-être. Un agenda en ligne annonçait une fermeture du 6 septembre au 1er octobre 2026, mention vue deux fois dans les résultats d'un moteur de recherche le 20 octobre 2026, jamais sur la page de l'agenda elle-même. En 2013, le bar avait fermé du 8 au 22 septembre. Rien ne prouve que ce soit chaque année : appelez le 02 31 93 00 82 avant d'y aller en fin d'été."
+    },
+    {
+      "question": "Un couple ou une femme peut-il entrer à L'Apollon ?",
+      "answer": "Non : le bar est réservé aux hommes majeurs et n'annonce aucune soirée mixte. Un couple se tournera vers [les clubs mixtes du Calvados](/departement/calvados), dont l'Orphéa et le Venus. Pour rencontrer d'autres couples en ligne, Wyylde revendique 7 millions de membres, mais son tarif le plus bas, [8,33 € par mois en formule annuelle](aff:wyylde), se paie douze mois d'avance et se reconduit seul si l'on ne coupe pas l'option."
+    },
+    {
+      "question": "L'Apollon a-t-il été vendu ?",
+      "answer": "Le bar a publié une annonce de vente de son fonds sur le site du SNEG & Co en octobre 2022, relayée par Gay Viking. Depuis, le BODACC ne publie aucune cession, et la SARL du 16 rue Varignon, créée en 2001, dépose toujours ses comptes ; en 2026, elle a seulement réduit son capital. Rien ne permet de dire que l'exploitant a changé."
+    },
+    {
+      "question": "Que disent les avis sur L'Apollon ?",
+      "answer": "Nous n'avons vu aucune note sur sa plateforme d'origine ; des annuaires en relaient trois. Minuit Libertin cite 4,2 sur 63 avis Google, Restaurant Guru 4,5 sur 9 avis Facebook (page d'août 2026), QLIST 4,0 sur 38 sans origine précisée. Les trois avis lisibles sur Restaurant Guru, postés vers 2019-2022, parlent d'accueil, de tenue libre et d'entrée discrète ; PagesJaunes n'en affiche aucun."
+    },
+    {
+      "question": "Où se garer pour aller à L'Apollon ?",
+      "answer": "La page Accès du site renvoie au parking Indigo Caen Presqu'île - Tribunal, 17 avenue Victor-Hugo, à une dizaine de minutes à pied selon le bar. Gay Viking situe la rue Varignon près du port de plaisance et du canal."
+    }
+  ],
+  "unverified": [
+    "La date d'ouverture : 2001 selon les seuls gérants (Gay Viking, 2007 et 2015), ce que la création de la SARL en juillet 2001 rend cohérent sans le prouver.",
+    "Le lien entre la SARL Le Clerfeu et L'Apollon, déduit de l'adresse et de l'activité : aucune enseigne déclarée, pas de mentions légales ; seul l'annuaire Hoodspot associe son SIRET au nom « Apollon ».",
+    "La fermeture du 6 septembre au 1er octobre 2026, vue seulement dans des résultats de recherche de l'agenda Everyday Pride, et l'existence de congés chaque année en septembre, attestés seulement en 2013.",
+    "Le prix du vestiaire le soir et le tarif exact du 2e lundi, absents du site.",
+    "La présence actuelle de cabines, citées par les gérants en 2007 et par QLIST en 2026, et d'un labyrinthe évoqué par des guides en ligne.",
+    "Le maintien de la carte VIP de dix entrées, proposée en 2024 et 2025, et de la vente de CBD, annoncée en 2023.",
+    "Les soirées fetish, l'élection Mister Leather et l'ouverture pendant la Pride de Caen : aucune date récente trouvée.",
+    "Le contenu des pages Facebook et du compte Instagram, illisibles sans compte, et la note Google, connue seulement par un annuaire.",
+    "Le tarif du mardi au jeudi en 2025 : 10 € selon un annuaire, alors que le bar affiche 12 € en 2026.",
+    "Le motif de la réduction de capital publiée au BODACC en avril 2026."
+  ],
+  "sources": [
+    { "id": "s1", "label": "L'Apollon, site officiel, accueil", "url": "https://lapollon.fr/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s2", "label": "L'Apollon, site officiel, page Horaire (affiche horaires et entrée)", "url": "https://lapollon.fr/HORAIRE/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s3", "label": "L'Apollon, site officiel, page Tarifs (photo de la vitrine de poppers)", "url": "https://lapollon.fr/TARIFS/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s4", "label": "L'Apollon, site officiel, page Contact", "url": "https://lapollon.fr/CONTACT/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s5", "label": "L'Apollon, site officiel, page Accès", "url": "https://lapollon.fr/venir-chez-nous/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s6", "label": "L'Apollon, site officiel, page Soirées (deux affiches du 20/10/2026, trois photos de février 2026)", "url": "https://lapollon.fr/SOIREES/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s7", "label": "Wayback Machine, archives de lapollon.fr (2012-2026)", "url": "https://web.archive.org/web/*/lapollon.fr*", "type": "autre", "consulted": "2026-10-20" },
+    { "id": "s8", "label": "Annuaire des entreprises, SARL Le Clerfeu (SIREN 438 713 992)", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/438713992", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s9", "label": "BODACC, annonces du RCS de Caen pour le SIREN 438 713 992", "url": "https://bodacc-datadila.opendatasoft.com/explore/dataset/annonces-commerciales/", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s10", "label": "SNEG & Co, fiche « Apollon Bar » (juillet 2026)", "url": "https://www.snegandco.fr/apollon-bar/", "type": "autre", "consulted": "2026-10-20" },
+    { "id": "s11", "label": "Gay Viking, « À Caen, le bar gay l'Apollon recherche un repreneur après 22 ans de service » (02/11/2022)", "url": "https://gayviking.fr/a-caen-le-bar-gay-lapollon-recherche-un-repreneur-apres-22-ans-de-service/", "type": "presse", "consulted": "2026-10-20" },
+    { "id": "s12", "label": "Gay Viking, « L'Apollon, cruising bar à Caen » (2019, mis à jour en octobre 2025)", "url": "https://gayviking.fr/lapollon-cruising-bar-a-caen/", "type": "presse", "consulted": "2026-10-20" },
+    { "id": "s13", "label": "Gay Viking, « Guide gay à Caen »", "url": "https://gayviking.fr/guide-gay-a-caen/", "type": "presse", "consulted": "2026-10-20" },
+    { "id": "s14", "label": "Everyday Pride, fiche du lieu et agenda « Cruising »", "url": "https://everydaypride.eu/b/lapollon", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s15", "label": "AgendaQ, fiche « L'Apollon »", "url": "https://www.agendaq.fr/fr/guide/lapollon", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s16", "label": "PagesJaunes, fiche « Lapollon » (mise à jour du 02/10/2026, relue le 20/10/2026)", "url": "https://www.pagesjaunes.fr/pros/08793555", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s17", "label": "QLIST, fiche « Apollo » (note relayée, plateforme d'origine non précisée)", "url": "https://qlist.app/venues/Caen/Apollo/d2ZVNGU3bWpweS8vZGtGZHpQdzJTQQ", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s18", "label": "Facebook, page « Lapollon cruising gay » (non lisible sans compte)", "url": "https://www.facebook.com/lapollon.fr/", "type": "reseau_social", "consulted": "2026-10-20" },
+    { "id": "s19", "label": "PoppersCaen, boutique en ligne liée au bar", "url": "https://popperscaen.fr/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s20", "label": "Arc en Ciel (Caen), site officiel, horaires et tarifs", "url": "https://www.club-arc-en-ciel.com/horaires-tarifs/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s21", "label": "Base Adresse Nationale, coordonnées du 16 rue Varignon et du 8 impasse Dumont", "url": "https://api-adresse.data.gouv.fr/search/?q=16+rue+Varignon+14000+Caen", "type": "carte", "consulted": "2026-10-20" },
+    { "id": "s22", "label": "Venus Sauna, site officiel, page « Venus Caen Masculin »", "url": "https://venus-sauna.fr/venus-caen-masculin/", "type": "officiel", "consulted": "2026-10-19" },
+    { "id": "s23", "label": "Venus Sauna, site officiel, page « Venus Caen Mixte » et affiches de soirées", "url": "https://venus-sauna.fr/venus-caen-mixte/", "type": "officiel", "consulted": "2026-10-19" },
+    { "id": "s24", "label": "Orphéa Club, site officiel, page d'accueil (soirées des 23 et 24 octobre 2026)", "url": "https://www.orpheaclub.com/", "type": "officiel", "consulted": "2026-10-19" },
+    { "id": "s25", "label": "Sauna Club Le Bali, « Clubs libertins dans le Calvados : le guide 2026 »", "url": "https://www.saunaclublebali.fr/clubs-libertins-calvados-14/", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s26", "label": "Minuit Libertin, « Découvrez les clubs libertins à Caen » (mis à jour le 03/08/2026)", "url": "https://minuitlibertin.com/decouvrez-les-clubs-libertins-a-caen/", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s27", "label": "Gay Viking, entretien avec les deux gérants de L'Apollon (01/09/2007)", "url": "https://gayviking.fr/franck-et-bruno-patron-de-lapollon-cruising-bar-a-caen/", "type": "presse", "consulted": "2026-10-20" },
+    { "id": "s28", "label": "Gay Viking, portrait du gérant de L'Apollon (28/11/2015)", "url": "https://gayviking.fr/franck-de-lapollon-acteur-de-la-vie-gay-a-caen/", "type": "presse", "consulted": "2026-10-20" },
+    { "id": "s29", "label": "SNEG & Co, annonce « Bar à vendre à Caen » (26/10/2022)", "url": "https://www.snegandco.fr/bar-a-vendre-a-caen/", "type": "autre", "consulted": "2026-10-20" },
+    { "id": "s30", "label": "L'Apollon, ancien site, page Horaires (archive du 11/02/2013)", "url": "https://web.archive.org/web/20130211095553/http://www.lapollon.fr:80/index.php?p=1_2_HORAIRES", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s31", "label": "L'Apollon, ancien site, actualités (archive du 15/09/2013 : congés de septembre 2013)", "url": "https://web.archive.org/web/20130915090627/http://lapollon.fr/index.php?news&nid=1", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s32", "label": "L'Apollon, ancien site, actualités (archive du 16/07/2019)", "url": "https://web.archive.org/web/20190716102246/http://lapollon.fr/index.php?news&amp;nid=1", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s33", "label": "L'Apollon, ancien site, page « Poppers et CBD » (archive du 01/02/2023)", "url": "https://web.archive.org/web/20230201134217/http://lapollon.fr/index.php?p=1_10_POPPERS-ET-CBD", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s34", "label": "L'Apollon, ancien site, actualités (archive du 12/09/2024 : carte VIP)", "url": "https://web.archive.org/web/20240912160539/http://lapollon.fr/index.php?news=&nid=3", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s35", "label": "L'Apollon, site officiel, accueil (archive du 13/06/2025)", "url": "https://web.archive.org/web/20250613154539/http://www.lapollon.fr/?utm_source=pinkuk", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s36", "label": "Societe.com, fiche « CLERFEU » (annonce légale de réduction du capital, 13/02/2026)", "url": "https://www.societe.com/societe/le-clerfeu-438713992.html", "type": "autre", "consulted": "2026-10-20" },
+    { "id": "s37", "label": "Petit Futé, fiche « Apollon Bar », rubrique « club libertin » (page non lisible, vue en résultat de recherche)", "url": "https://www.petitfute.co.uk/v4608-caen-14000/c9998-coquin/c1044-s-amuser-sortir/c206-club-libertin/493857-apollon-bar.html", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s38", "label": "Minuit Libertin, fiche « L'Apollon Caen » (horaires et prix au 06/05/2025, note Google relayée)", "url": "https://minuitlibertin.com/lapollon-caen/", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s39", "label": "Restaurant Guru, fiche « Apollon » (mise à jour du 16/08/2026, note Facebook relayée)", "url": "https://restaurantguru.com/Apollon-Caen", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s40", "label": "Schlouk Map, fiche « L'Apollon »", "url": "https://www.schlouk-map.com/en/places/lapollon-1", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s41", "label": "Cruising Gays, fiche « L'Apollon » (dernière mise à jour en 2010)", "url": "https://www.cruisinggays.com/caen/bars/76805-lapollon", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s42", "label": "Hoodspot, fiche « APOLLON » (SIRET 438 713 992 00016)", "url": "https://annuaire.petitesaffiches.fr/bar-cafe-discotheque/apollon-43871399200016/", "type": "annuaire", "consulted": "2026-10-20" }
+  ]
+}

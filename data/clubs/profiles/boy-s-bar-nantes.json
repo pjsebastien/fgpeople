@@ -1,0 +1,856 @@
+{
+  "slug": "boy-s-bar-nantes",
+  "clubId": "new-boy-s-bar-nantes",
+  "researchedAt": "2026-10-21",
+  "display": {
+    "nom": "Boy's Bar",
+    "ville": "Nantes"
+  },
+  "status": {
+    "value": "ouvert",
+    "summary": "Le 19 octobre 2026, le Boy's Bar annonçait sur Threads sa soirée DJ du samedi 24 octobre, de 22 h à 4 h ; trois autres affiches publiées entre le 15 et le 20 octobre fixent ses mardis et jeudis naturistes et son samedi à 10 €. Ouvert en décembre 2024 dans l'ancien Block Men, le bar a fêté sa première année le 6 décembre 2025. La SARL KEVEX, active au registre à la même adresse, semble l'exploiter, sans mention légale qui le confirme.",
+    "sources": [
+      "s8",
+      "s9",
+      "s7",
+      "s6",
+      "s1",
+      "s20",
+      "s10",
+      "s11"
+    ]
+  },
+  "seo": {
+    "title": "Boy's Bar Nantes : l'ex-Block Men, soirées naturistes et tarifs",
+    "metaDescription": "Rue Ogée, le Boy's Bar a remplacé le Block Men fin 2024 : mardi et jeudi naturistes de 20 h à 23 h, samedi 22 h-4 h, entrée 10 € avec une boisson.",
+    "subtitle": "Bar de cruising gay, successeur du Block Men, rue Ogée à Nantes (44)",
+    "targetQueries": [
+      "boy's bar nantes",
+      "block men nantes",
+      "blockmen nantes",
+      "bar cruising nantes",
+      "bar gay rue ogée nantes"
+    ]
+  },
+  "lead": "Le Boy's Bar a repris en décembre 2024 le local du Block Men, bar de cruising gay de la rue Ogée fermé la même année, et a fêté sa première année le 6 décembre 2025. Ses affiches d'octobre 2026 annoncent des soirées naturistes le mardi et le jeudi de 20 h à 23 h, puis sans code vestimentaire, et un samedi de 22 h à 4 h, entrée 10 € avec une boisson. Les photos officielles montrent un bar, des cabines, un sling et une salle vidéo.",
+  "glance": [
+    {
+      "icon": "history",
+      "label": "Ex-Block Men",
+      "value": "Nouveau nom depuis décembre 2024"
+    },
+    {
+      "icon": "calendar",
+      "label": "Ouvert",
+      "value": "Du mardi au samedi soir ; fermé le lundi",
+      "confidence": "source_unique"
+    },
+    {
+      "icon": "flame",
+      "label": "Naturiste",
+      "value": "Mardi et jeudi, 20 h-23 h (octobre 2026)"
+    },
+    {
+      "icon": "clock",
+      "label": "Samedi",
+      "value": "22 h-4 h (affiche du 17 octobre 2026)"
+    },
+    {
+      "icon": "euro",
+      "label": "Entrée",
+      "value": "10 € avec une boisson"
+    },
+    {
+      "icon": "users",
+      "label": "Public",
+      "value": "Hommes ; aucune règle d'accès publiée",
+      "confidence": "a_verifier"
+    }
+  ],
+  "audience": [
+    {
+      "who": "hommes",
+      "status": "oui",
+      "detail": "Seul public des affiches ; naturiste le mardi et le jeudi de 20 h à 23 h",
+      "price": "10 €"
+    },
+    {
+      "who": "couples",
+      "status": "inconnu",
+      "detail": "Aucune règle publiée ; OpenStreetMap classe le bar « hommes uniquement »"
+    },
+    {
+      "who": "femmes",
+      "status": "inconnu",
+      "detail": "Rien sur le site ; affiches et programmation entièrement masculines"
+    }
+  ],
+  "highlights": [
+    "Des guides affichent encore le Block Men, son 02 40 12 16 87 et d'anciens horaires : le bar s'appelle Boy's Bar et répond au 02 28 44 59 50.",
+    "Le mardi et le jeudi, de 20 h à 23 h, la soirée est naturiste ; après 23 h, plus de code vestimentaire, jusqu'à 2 h passées.",
+    "Le programme ne paraît qu'en affiches (Instagram, Threads, site Google) : horaires et prix ont changé plusieurs fois depuis 2025, vérifiez celle du jour.",
+    "Les Secret Party se font uniquement sur inscription par message privé aux comptes du bar.",
+    "Les affiches donnent le 4 rue Ogée, le registre et les anciens guides le 3 : OpenStreetMap place les deux enseignes au même point."
+  ],
+  "keyFacts": [
+    {
+      "label": "Enseigne",
+      "value": "Boy's Bar, « cruising, bar, club à Nantes »",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "label": "Ouverture",
+      "value": "Décembre 2024 ; premier anniversaire le 6 décembre 2025",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s11",
+        "s23"
+      ]
+    },
+    {
+      "label": "Ancien nom du lieu",
+      "value": "Block Men, bar de cruising fermé en 2024",
+      "confidence": "source_unique",
+      "sources": [
+        "s20",
+        "s17",
+        "s14",
+        "s18"
+      ]
+    },
+    {
+      "label": "Exploitant présumé",
+      "value": "SARL KEVEX (SIREN 934 200 569), active",
+      "confidence": "a_verifier",
+      "sources": [
+        "s10",
+        "s11"
+      ]
+    },
+    {
+      "label": "Public",
+      "value": "Hommes ; aucune règle d'accès publiée par le bar",
+      "confidence": "a_verifier",
+      "sources": [
+        "s1",
+        "s20",
+        "s22"
+      ]
+    },
+    {
+      "label": "Soirées naturistes",
+      "value": "Mardi et jeudi, 20 h – 23 h (octobre 2026)",
+      "confidence": "confirme",
+      "sources": [
+        "s6",
+        "s9"
+      ]
+    },
+    {
+      "label": "Entrée",
+      "value": "10 € avec une consommation",
+      "confidence": "confirme",
+      "sources": [
+        "s7",
+        "s9",
+        "s2"
+      ]
+    },
+    {
+      "label": "Équipements photographiés",
+      "value": "Bar, cabines, sling, salle vidéo",
+      "confidence": "confirme",
+      "sources": [
+        "s4"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "semaine-octobre-2026",
+      "title": "Naturiste le mardi et le jeudi de 20 h à 23 h, samedi jusqu'à 4 h",
+      "icon": "calendar",
+      "summary": "En octobre 2026 : mardi et jeudi naturistes de 20 h à 23 h puis tenue libre, samedi de 22 h à 4 h ; mercredi, vendredi et dimanche restent à confirmer.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le Boy's Bar ne publie ni texte ni règlement : tout passe par des affiches, sur son site Google, Instagram et Threads. Les quatre publiées sur Threads du 15 au 20 octobre 2026 donnent la semaine en cours, toutes à 10 € avec une consommation."
+        },
+        {
+          "kind": "table",
+          "caption": "Affiches publiées sur Threads en octobre 2026",
+          "headers": [
+            "Jour",
+            "Formule",
+            "Horaires",
+            "Publiée le"
+          ],
+          "rows": [
+            [
+              "Mardi",
+              "Naturiste, puis « no dress code »",
+              "20 h-23 h, puis 23 h-2 h passées",
+              "20 octobre"
+            ],
+            [
+              "Jeudi",
+              "Naturiste, puis « no dress code »",
+              "20 h-23 h, puis 23 h-2 h passées",
+              "15 octobre"
+            ],
+            [
+              "Samedi",
+              "« No dress code »",
+              "22 h-4 h",
+              "17 octobre"
+            ],
+            [
+              "Samedi 24 octobre",
+              "Soirée DJ Buckley",
+              "22 h-4 h",
+              "19 octobre"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le jeudi a changé de visage. Sur les affiches du site, antérieures à novembre 2025, il offrait une soirée « no dress code » de 20 h ou 21 h jusqu'à 2 h, sans créneau naturiste ; en octobre 2026, il reprend la formule du mardi."
+        },
+        {
+          "kind": "text",
+          "body": "Le mercredi n'a aucune affiche en octobre 2026. Sur le site, une affiche de Noël sans année le rendait naturiste de 21 h à 23 h, comme le mardi, et une autre, non datée, l'annonçait en « Black-out » naturiste de 20 h à 23 h."
+        },
+        {
+          "kind": "text",
+          "body": "L'après-midi naturiste du deuxième dimanche du mois, de 14 h à 20 h, lancé le 12 octobre 2025, n'a pas reparu non plus."
+        }
+      ],
+      "sources": [
+        "s5",
+        "s6",
+        "s7",
+        "s8",
+        "s9",
+        "s2",
+        "s1",
+        "s3"
+      ]
+    },
+    {
+      "id": "entree-dix-euros",
+      "title": "Dix euros avec une boisson, gratuit le week-end jusqu'à la fin de 2025",
+      "icon": "euro",
+      "summary": "L'entrée coûte 10 € avec une consommation en octobre 2026 ; le vendredi et le samedi étaient gratuits en 2025, jusqu'à une affiche « Nouveau » de fin d'année.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Chaque prix affiché par le Boy's Bar inclut une consommation. Sur les affiches de semaine du site (page modifiée en novembre 2025), le mardi et le jeudi coûtaient déjà 10 €, alors que les soirées « no dress code » du vendredi et du samedi étaient gratuites."
+        },
+        {
+          "kind": "text",
+          "body": "En tête de la page week-end du site, modifiée le 30 décembre 2025, une affiche de Noël marquée « Nouveau » fait passer ces deux soirs à 10 €. L'affiche du samedi publiée le 17 octobre 2026 confirme ce prix."
+        },
+        {
+          "kind": "list",
+          "title": "Soirées gratuites d'après les affiches de 2025",
+          "items": [
+            "les soirées DJ des 26 septembre, 31 octobre et 20 décembre ;",
+            "le premier anniversaire, le 6 décembre, et le nouvel an, ouvert de 23 h à 6 h ;",
+            "le week-end de Pâques, la Marche des fiertés et la Fête de la musique."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "L'après-midi naturiste du dimanche, lancé le 12 octobre 2025, était annoncé à 12 € avec une consommation."
+        }
+      ],
+      "sources": [
+        "s2",
+        "s3",
+        "s7",
+        "s1",
+        "s6",
+        "s9"
+      ]
+    },
+    {
+      "id": "block-men-boys-bar",
+      "title": "Du Block Men au Boy's Bar : un site verrouillé en juin 2024, une réouverture en décembre",
+      "icon": "history",
+      "summary": "Le site du Block Men est verrouillé le 24 juin 2024 ; le Boy's Bar ouvre dans le même local en décembre 2024, exploité selon toute vraisemblance par la SARL KEVEX.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "OpenStreetMap, contrôlé sur place le 14 juillet 2026, garde l'ancien nom Block Men sur le point du Boy's Bar. En mai 2024, le site du Block Men se décrivait encore comme un « cruising bar » ouvert du mardi au samedi de 21 h à 4 h."
+        },
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "1991-2004",
+              "text": "Au registre, la SARL Club Le Pierrot (1991-1995), puis la SARL Le Tilak (1995-2004) ont un établissement au 3 rue Ogée."
+            },
+            {
+              "date": "Avant 2003",
+              "text": "D'après l'ancien site du Block Men, ces caves voûtées abritent l'une des « premières boîtes de nuit gay » de Nantes, puis un club libertin, avant de devenir sex-club gay en 2003."
+            },
+            {
+              "date": "2003-2013",
+              "text": "La société JC BAR tient l'établissement ; en 2009, l'enseigne « Le Block Men » apparaît au registre, portée de janvier à juin par ALFA-BAR."
+            },
+            {
+              "date": "13 juin 2013",
+              "text": "Reprise annoncée par le Block Men. Le BODACC du 19 juin publie le rachat par 2DLM du « bar d'ambiance » du 3 rue Ogée, pour 68 000 €."
+            },
+            {
+              "date": "15 mai 2024",
+              "text": "Liquidation judiciaire de 2DLM, exploitante présumée du Block Men. Le 24 juin, blockmen.fr n'affiche plus que « Ce domaine a été verrouillé »."
+            },
+            {
+              "date": "3 décembre 2024",
+              "text": "La SARL KEVEX, créée en octobre au 3 rue Ogée, commence son activité de bar à thèmes ; le Boy's Bar fêtera ses un an le 6 décembre 2025."
+            },
+            {
+              "date": "18 décembre 2025",
+              "text": "La liquidation de 2DLM est close pour insuffisance d'actif."
+            }
+          ]
+        },
+        {
+          "kind": "callout",
+          "tone": "info",
+          "title": "Deux liens déduits",
+          "body": "Le site du Boy's Bar ne publie aucune mention légale : KEVEX lui est rattachée par l'adresse et les dates, comme 2DLM l'est au Block Men par l'adresse et la reprise de juin 2013."
+        }
+      ],
+      "sources": [
+        "s20",
+        "s17",
+        "s16",
+        "s13",
+        "s12",
+        "s14",
+        "s18",
+        "s15",
+        "s10",
+        "s11",
+        "s1"
+      ]
+    },
+    {
+      "id": "block-men-en-ligne",
+      "title": "Block Men en ligne : un numéro périmé et un domaine passé aux casinos",
+      "icon": "warning",
+      "summary": "Le guide Gaym affiche encore le Block Men, son 02 40 12 16 87 et d'anciens horaires ; l'ancien domaine blockmen-nantes.fr héberge un comparatif de casinos.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le changement de nom n'a pas gagné tous les annuaires. Le guide Gaym garde une fiche Block Men avec l'ancien numéro, l'adresse blockmen-nantes.fr et des horaires dépassés. AgendaQ connaît le Boy's Bar, mais génère ses dates automatiquement."
+        },
+        {
+          "kind": "table",
+          "headers": [
+            "Repère",
+            "Block Men (jusqu'en 2024)",
+            "Boy's Bar (octobre 2026)"
+          ],
+          "rows": [
+            [
+              "Téléphone",
+              "02 40 12 16 87",
+              "02 28 44 59 50"
+            ],
+            [
+              "En ligne",
+              "blockmen.fr, verrouillé le 24 juin 2024",
+              "Site Google, Instagram et Threads @boysbarnantes"
+            ],
+            [
+              "Soirs",
+              "Mardi au samedi, 21 h-4 h",
+              "Mardi au samedi, samedi jusqu'à 4 h"
+            ],
+            [
+              "Tenue",
+              "Mardi naturiste ; « slip, boxer ou à poil » les autres soirs, selon son site",
+              "Naturiste mardi et jeudi jusqu'à 23 h, tenue libre ensuite"
+            ],
+            [
+              "Numéro affiché",
+              "3 rue Ogée",
+              "4 rue Ogée (3 au registre)"
+            ]
+          ]
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "body": "Le domaine blockmen-nantes.fr, piraté en juin 2024 selon une archive, affiche en octobre 2026 un comparatif de casinos en ligne sans rapport avec le bar."
+        },
+        {
+          "kind": "text",
+          "body": "Le 3 ou le 4 ? Les affiches du Boy's Bar portent le 4 rue Ogée ; le registre, l'ancien site du Block Men et AgendaQ donnent le 3. Le point OpenStreetMap du bar tombe sur le n° 3 de la Base Adresse Nationale."
+        }
+      ],
+      "sources": [
+        "s24",
+        "s22",
+        "s17",
+        "s18",
+        "s19",
+        "s20",
+        "s21",
+        "s1",
+        "s10"
+      ]
+    },
+    {
+      "id": "cabines-sling-video",
+      "title": "Box rouge, sling contre la pierre brute et salle vidéo à matelas : la galerie d'avril 2025",
+      "icon": "camera",
+      "summary": "Cinq photos officielles (avril 2025) montrent bar, box rouge, cabine, salle vidéo à matelas et sling ; sur Gaym, un avis de janvier 2025 trouve le lieu « pas bien grand ».",
+      "blocks": [
+        {
+          "kind": "list",
+          "title": "Ce que montrent les cinq photos",
+          "items": [
+            "le bar : étagères de bouteilles rétroéclairées, écran au logo, ardoise de prix ;",
+            "un box éclairé en rouge, avec chaîne pendante et tabouret, orné d'un dessin d'homme barbu ;",
+            "une cabine carrelée de gris, à banquette noire ;",
+            "une salle à matelas aux murs tendus de filet de camouflage, avec un écran vidéo et une porte numérotée « 15 » ;",
+            "un sling à chaînes et sangles bleues, contre une paroi de pierre brute."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "La pierre brute rappelle les caves voûtées que décrivait l'ancien site du Block Men. La galerie, mise à jour le 30 avril 2025, ne montre ni vestiaire ni douche."
+        },
+        {
+          "kind": "text",
+          "body": "Sur le guide communautaire Gaym, deux avis de janvier 2025 : l'un trouve le lieu « pas bien grand » mais le personnel attentif, l'autre le dit propre et accueillant et salue les nouveaux patrons. Wanderlog relaie une note Google de 4,6/5 sur 37 avis, non datée et non vérifiée sur Google."
+        }
+      ],
+      "sources": [
+        "s4",
+        "s17",
+        "s23",
+        "s25"
+      ]
+    },
+    {
+      "id": "b4-guilis-alentours",
+      "title": "Le B4 en « 100 % mecs » l'après-midi, le Guili's en mixte à Carquefou",
+      "icon": "map",
+      "summary": "Le lundi et l'après-midi, quand le Boy's Bar est fermé, le Before Sauna Club de Sainte-Luce reçoit les hommes dès 14 h, sauf le jeudi ; en mixte, le Guili's ou le samedi du B4.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le Boy's Bar n'ouvre qu'en soirée et ferme le lundi. Le [Before Sauna Club de Sainte-Luce-sur-Loire](/sauna-sainte-luce-loire) réserve, d'après ses grilles lues le 16 octobre 2026, ses après-midi aux hommes dès 14 h, sauf le jeudi : 12 € avant 30 ans, 18 € au-delà."
+        },
+        {
+          "kind": "text",
+          "body": "Le dimanche, ce créneau y est naturiste jusqu'à 18 h. Le soir, le B4 passe en « toutes tendances », puis en soirée libertine le samedi : couples et femmes dès 20 h, dix hommes seuls au plus à partir de 21 h, à 60 €."
+        },
+        {
+          "kind": "text",
+          "body": "Un habitué bi du Boy's Bar tenté par ce samedi, où les hommes seuls sont comptés, peut aussi s'y présenter avec un couple contacté auparavant parmi [les plus de 500 000 inscrits de Carré Libertin](aff:carre-libertin)."
+        },
+        {
+          "kind": "text",
+          "body": "Pour un couple ou une femme qui cherchait un lieu mixte, le [Guili's Club de Carquefou](/guili-s-club-carquefou) reçoit couples, femmes et hommes seuls à chaque ouverture. Sa grille du 15 octobre 2026 fixe l'entrée couple de 25 € (lundi) à 50 € (samedi, soirée à thème de 22 h à 4 h) ; il ferme le mardi et le mercredi."
+        },
+        {
+          "kind": "text",
+          "body": "À 50 € l'entrée couple le samedi, mieux vaut ne pas découvrir le Guili's seuls : sur Wyylde, qui revendique 7 millions de membres, vous pouvez [repérer des couples nantais prêts à faire la route jusqu'à Carquefou](aff:wyylde). Les [autres adresses nantaises](/ville/nantes) et [celles de toute la Loire-Atlantique](/departement/loire-atlantique) sont regroupées à part."
+        }
+      ],
+      "sources": [
+        "s27",
+        "s28",
+        "s29",
+        "s30",
+        "s1"
+      ]
+    },
+    {
+      "id": "affiches-2025",
+      "title": "Secret Party sur inscription, bal des pompiers, show X : 2025 en trente affiches",
+      "icon": "sparkles",
+      "summary": "Les deux pages d'affiches du site racontent 2025 : Pâques, Marche des fiertés, bal des pompiers, quatre Secret Party sur inscription, soirée commune avec Le Bon Mercoeur.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "La « Secret Party » revient au moins quatre fois en 2025 : le 10 juillet (« + de 30 participants », selon l'affiche), le 11 septembre, le 9 octobre et le dimanche 21 décembre, de 15 h à 20 h. On n'y entre que sur inscription, par message privé aux comptes du bar."
+        },
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "18-19 avril 2025",
+              "text": "Week-end de Pâques, de 18 h à 2 h, entrée gratuite et chocolats offerts."
+            },
+            {
+              "date": "14 juin 2025",
+              "text": "Marche des fiertés : DJ set et show X d'un strip-teaseur à 23 h 45."
+            },
+            {
+              "date": "21 juin 2025",
+              "text": "Fête de la musique, de 21 h à 2 h."
+            },
+            {
+              "date": "13 juillet 2025",
+              "text": "Bal des pompiers, un dimanche, de 23 h à 4 h passées."
+            },
+            {
+              "date": "12 septembre 2025",
+              "text": "Soirée de La Rouzounette, roue de jeu à l'appui ; nouvelle date le 19 décembre, « venez gagner des cadeaux »."
+            },
+            {
+              "date": "11 décembre 2025",
+              "text": "Soirée partagée avec le bar lounge Le Bon Mercoeur, rue Mercoeur : gogo à 21 h chez lui, show X à minuit au Boy's Bar."
+            },
+            {
+              "date": "31 décembre 2025",
+              "text": "Nouvel an de 23 h à 6 h, entrée gratuite ; fermé le 1er janvier au soir."
+            }
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Une soirée carnaval, de 22 h à 4 h, figure aussi sur la page, sans date. Le site n'a plus bougé depuis le 30 décembre 2025 : les annonces de 2026 passent par Instagram et Threads."
+        }
+      ],
+      "sources": [
+        "s2",
+        "s3",
+        "s1"
+      ]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Lundi": "Fermé",
+      "Mardi": "20 h – 2 h passées (naturiste jusqu'à 23 h)",
+      "Mercredi": "20 h – 2 h selon le site (décembre 2025) et OpenStreetMap (juillet 2026)",
+      "Jeudi": "20 h – 2 h passées (naturiste jusqu'à 23 h)",
+      "Vendredi": "21 h – 2 h selon le site (décembre 2025) ; 22 h – 4 h selon OpenStreetMap",
+      "Samedi": "22 h – 4 h",
+      "Dimanche": "Fermé, sauf le deuxième dimanche du mois, 14 h – 20 h (annoncé en 2025)"
+    },
+    "note": "Mardi, jeudi et samedi : affiches des 15, 17 et 20 octobre 2026. Les autres jours viennent de l'accueil du site, modifié le 30 décembre 2025, sans confirmation depuis.",
+    "confidence": "source_unique",
+    "sources": [
+      "s1",
+      "s6",
+      "s7",
+      "s9",
+      "s20",
+      "s8"
+    ]
+  },
+  "tarifs": {
+    "rows": {
+      "Mardi et jeudi": "10 € avec une consommation (octobre 2026)",
+      "Mercredi": "10 € avec une consommation (affiche de Noël sans année, non confirmé en 2026)",
+      "Vendredi et samedi": "10 € avec une consommation depuis fin 2025 (gratuit auparavant)",
+      "Dimanche après-midi naturiste": "12 € avec une consommation (octobre 2025)",
+      "Soirées spéciales": "Souvent gratuites en 2025 (DJ, anniversaire, nouvel an, fêtes)"
+    },
+    "note": "Prix relevés sur les affiches officielles ; jeudi, samedi et mardi confirmés par les affiches des 15, 17 et 20 octobre 2026.",
+    "confidence": "source_unique",
+    "sources": [
+      "s2",
+      "s3",
+      "s7",
+      "s9",
+      "s1",
+      "s6",
+      "s8"
+    ]
+  },
+  "equipements": [
+    "Bar",
+    "Cabines",
+    "Sling",
+    "Salle vidéo"
+  ],
+  "officialLinks": [
+    {
+      "label": "Site officiel",
+      "url": "https://sites.google.com/view/boysbarnantes/accueil",
+      "kind": "site"
+    },
+    {
+      "label": "Galerie photos",
+      "url": "https://sites.google.com/view/boysbarnantes/galerie-photos",
+      "kind": "galerie"
+    },
+    {
+      "label": "Affiches de la semaine",
+      "url": "https://sites.google.com/view/boysbarnantes/th%C3%A8me-semaine",
+      "kind": "agenda"
+    },
+    {
+      "label": "Affiches week-end et jours fériés",
+      "url": "https://sites.google.com/view/boysbarnantes/th%C3%A8me-week-end-et-jours-f%C3%A9ri%C3%A9s",
+      "kind": "agenda"
+    },
+    {
+      "label": "Instagram @boysbarnantes",
+      "url": "https://www.instagram.com/boysbarnantes/",
+      "kind": "instagram"
+    },
+    {
+      "label": "Threads @boysbarnantes",
+      "url": "https://www.threads.com/@boysbarnantes",
+      "kind": "autre"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Le Block Men de la rue Ogée est-il fermé ?",
+      "answer": "Oui, sous ce nom. La société qui l'exploitait selon toute vraisemblance, 2DLM, a été placée en liquidation le 15 mai 2024, et blockmen.fr a été verrouillé le 24 juin 2024. Le local a rouvert en décembre 2024 sous l'enseigne Boy's Bar, toujours en bar de cruising gay, actif en octobre 2026."
+    },
+    {
+      "question": "Quels sont les horaires du Boy's Bar ?",
+      "answer": "D'après ses affiches d'octobre 2026 : mardi et jeudi dès 20 h, naturiste jusqu'à 23 h, puis jusqu'à 2 h passées ; samedi de 22 h à 4 h. L'accueil du site, mis à jour fin 2025, ajoute le mercredi de 20 h à 2 h, le vendredi de 21 h à 2 h et la fermeture du lundi. En cas de doute, le bar répond au 02 28 44 59 50."
+    },
+    {
+      "question": "Combien coûte l'entrée au Boy's Bar ?",
+      "answer": "10 € avec une consommation le mardi, le jeudi et le samedi d'après les affiches d'octobre 2026, soirée DJ du 24 octobre comprise. Les soirées DJ, l'anniversaire et le nouvel an étaient gratuits en 2025 ; l'après-midi naturiste du dimanche coûtait 12 € avec une boisson en octobre 2025."
+    },
+    {
+      "question": "Les couples et les femmes peuvent-ils entrer ?",
+      "answer": "Le bar ne publie aucune règle d'accès, mais toutes ses affiches s'adressent aux hommes et OpenStreetMap le classe « hommes uniquement » : appelez avant de venir. Pour une soirée mixte, le samedi libertin du Before Sauna Club, à Sainte-Luce-sur-Loire, reçoit couples et femmes dès 20 h (55 € le couple, 10 € la femme, grille lue le 16 octobre 2026). Un couple qui préfère ne pas découvrir ce samedi seul peut [chercher des complices de la région sur Gleese](aff:gleese), où chaque photo de profil est modérée à la main."
+    },
+    {
+      "question": "Comment participer à une Secret Party ?",
+      "answer": "Uniquement sur inscription, par message privé aux comptes du bar (« en DM », disent les affiches). Au moins quatre éditions ont été annoncées en 2025, dont une le dimanche 21 décembre de 15 h à 20 h ; celle du 11 septembre coûtait 10 € avec une boisson. Aucune édition 2026 n'apparaît sur le site ni dans les publications Threads lisibles sans compte."
+    },
+    {
+      "question": "Que disent les avis sur le Boy's Bar ?",
+      "answer": "Wanderlog relaie une note Google de 4,6/5 sur 37 avis, non datée et que nous n'avons pas pu vérifier sur Google. Sur Gaym, deux avis de janvier 2025 : l'un trouve le lieu petit mais le personnel attentif, l'autre le juge propre et accueillant. Aucun article de presse n'a été trouvé sur l'ouverture du bar."
+    }
+  ],
+  "unverified": [
+    "Le Boy's Bar est-il réservé aux hommes ? Aucune règle d'accès n'est publiée ; seuls OpenStreetMap et des annuaires l'affirment.",
+    "Horaires du mercredi et du vendredi en octobre 2026 : 20 h – 2 h et 21 h – 2 h sur le site en décembre 2025, 22 h – 4 h le vendredi selon OpenStreetMap.",
+    "L'après-midi naturiste du deuxième dimanche du mois (14 h – 20 h, lancé le 12 octobre 2025) a-t-il toujours lieu ?",
+    "Le mercredi « Black-out » naturiste existe-t-il encore ?",
+    "Le lien entre la SARL KEVEX et l'enseigne Boy's Bar : aucune mention légale sur le site.",
+    "Le numéro exact : 4 rue Ogée selon le bar, 3 rue Ogée au registre.",
+    "La note Google (4,6/5 sur 37 avis selon Wanderlog) n'a pas été vue sur Google.",
+    "Vestiaire, douches, consignes de sécurité : rien n'est publié.",
+    "L'adresse de la page Facebook dont le logo figure sur les affiches."
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Boy's Bar, site officiel : accueil (modifié le 30/12/2025, affiches et grille horaire)",
+      "url": "https://sites.google.com/view/boysbarnantes/accueil",
+      "type": "officiel",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s2",
+      "label": "Site officiel : « thème semaine », onze affiches (modifié le 21/11/2025)",
+      "url": "https://sites.google.com/view/boysbarnantes/th%C3%A8me-semaine",
+      "type": "officiel",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s3",
+      "label": "Site officiel : « thème week-end et jours fériés », dix-neuf affiches (modifié le 30/12/2025)",
+      "url": "https://sites.google.com/view/boysbarnantes/th%C3%A8me-week-end-et-jours-f%C3%A9ri%C3%A9s",
+      "type": "officiel",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s4",
+      "label": "Site officiel : galerie photos, cinq photos (modifiée le 30/04/2025)",
+      "url": "https://sites.google.com/view/boysbarnantes/galerie-photos",
+      "type": "officiel",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s5",
+      "label": "Threads, compte officiel @boysbarnantes",
+      "url": "https://www.threads.com/@boysbarnantes",
+      "type": "reseau_social",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s6",
+      "label": "Threads, affiche « Mardi naturiste », 10 € avec une conso, publiée le 20/10/2026",
+      "url": "https://www.threads.com/@boysbarnantes/post/DetBCRVkdmS",
+      "type": "reseau_social",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s7",
+      "label": "Threads, affiche « Samedi no dress code », 10 € avec une conso, publiée le 17/10/2026",
+      "url": "https://www.threads.com/@boysbarnantes/post/Delzy_nkfeJ",
+      "type": "reseau_social",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s8",
+      "label": "Threads, affiche de la soirée DJ du samedi 24 octobre, publiée le 19/10/2026",
+      "url": "https://www.threads.com/@boysbarnantes/post/DerpU5_EezM",
+      "type": "reseau_social",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s9",
+      "label": "Threads, affiche « Jeudi naturiste », 10 € avec une conso, publiée le 15/10/2026",
+      "url": "https://www.threads.com/@boysbarnantes/post/DegAj06Ec5L",
+      "type": "reseau_social",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s10",
+      "label": "Registre des entreprises : SARL KEVEX, 3 rue Ogée",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/934200569",
+      "type": "registre",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s11",
+      "label": "BODACC : mise en activité de KEVEX au 03/12/2024 (annonce du 12/12/2024)",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:B202402401466",
+      "type": "registre",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s12",
+      "label": "Registre des entreprises : 2DLM, débit de boissons au 3 rue Ogée (2013-2025)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/792753345",
+      "type": "registre",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s13",
+      "label": "BODACC : rachat du bar d'ambiance du 3 rue Ogée par 2DLM (19/06/2013)",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20130116546",
+      "type": "registre",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s14",
+      "label": "BODACC : liquidation judiciaire de 2DLM (jugement du 15/05/2024)",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202401042500",
+      "type": "registre",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s15",
+      "label": "BODACC : clôture de la liquidation de 2DLM (18/12/2025)",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202600013370",
+      "type": "registre",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s16",
+      "label": "Registre des entreprises : établissements successifs du 3 rue Ogée (Club Le Pierrot, Le Tilak, JC BAR, ALFA-BAR)",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=3%20rue%20ogee&code_postal=44000",
+      "type": "registre",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s17",
+      "label": "Ancien site du Block Men, archive du 22/05/2024",
+      "url": "https://web.archive.org/web/20240522150834/http://blockmen.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s18",
+      "label": "Archives Wayback de blockmen.fr (2008-2025, domaine verrouillé le 24/06/2024)",
+      "url": "https://web.archive.org/cdx/search/cdx?url=blockmen.fr",
+      "type": "autre",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s19",
+      "label": "blockmen-nantes.fr : comparatif de casinos en octobre 2026, archive piratée du 17/06/2024",
+      "url": "https://blockmen-nantes.fr/",
+      "type": "autre",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s20",
+      "label": "OpenStreetMap : « Boy's bar », ancien nom Block Men, contrôle sur place du 14/07/2026",
+      "url": "https://www.openstreetmap.org/node/2590481065",
+      "type": "carte",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s21",
+      "label": "Base Adresse Nationale : 3 et 4 rue Ogée, Nantes",
+      "url": "https://api-adresse.data.gouv.fr/search/?q=3%20rue%20Og%C3%A9e%20Nantes",
+      "type": "carte",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s22",
+      "label": "AgendaQ, fiche « Boy's bar Nantes » (agrégateur)",
+      "url": "https://www.agendaq.fr/fr/guide/boys-bar-nantes",
+      "type": "annuaire",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s23",
+      "label": "Gaym, fiche « Boys Bar » et avis de janvier 2025",
+      "url": "https://www.gaym.com/les-lieux-gays/nantes/boys-bar-5605",
+      "type": "annuaire",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s24",
+      "label": "Gaym, ancienne fiche « Block Men »",
+      "url": "https://www.gaym.com/les-lieux-gays/nantes/block-men-2852",
+      "type": "annuaire",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s25",
+      "label": "Wanderlog, « Boy's bar » (note Google relayée, non datée)",
+      "url": "https://wanderlog.com/place/details/16998498/boys-bar",
+      "type": "annuaire",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s27",
+      "label": "Before Sauna Club (Sainte-Luce-sur-Loire), site officiel : ambiance 100 % mecs",
+      "url": "https://www.before-sauna-club.com/gay",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s28",
+      "label": "Before Sauna Club, site officiel : grilles horaires et tarifs",
+      "url": "https://www.before-sauna-club.com/horaires-tarifs-libertins",
+      "type": "officiel",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s29",
+      "label": "Before Sauna Club, site officiel : soirée libertine du samedi",
+      "url": "https://www.before-sauna-club.com/libertins",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s30",
+      "label": "Guili's Club (Carquefou), site officiel : horaires et tarifs (modifiée le 15/10/2026)",
+      "url": "https://www.guilis-club.com/horaires-et-tarifs/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    }
+  ]
+}

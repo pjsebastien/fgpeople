@@ -1,0 +1,332 @@
+{
+  "slug": "le-chaperon-rouge-chalon-sur-saone",
+  "clubId": "new-le-chaperon-rouge-chalon-sur-saone",
+  "researchedAt": "2026-10-21",
+  "status": {
+    "value": "ouvert",
+    "summary": "Une soirée réservée aux couples était annoncée pour le samedi 17 octobre 2026, sur une page d'accueil mise à jour le 14 octobre qui annonce aussi l'ouverture sept jours sur sept. L'entreprise à l'enseigne Le Chaperon Rouge est active au registre, avec son établissement de l'impasse de la Tranchée.",
+    "sources": ["s1", "s6", "s11"]
+  },
+  "seo": {
+    "title": "Le Chaperon Rouge, Chalon-sur-Saône : sauna libertin ouvert 7 j/7",
+    "metaDescription": "Love shop né en 2006, sauna avec jacuzzi : entrée femme 5 €, couple 15 €, homme 20 à 25 €. Mercredi et jeudi LGBTQ+, lundi ouvert depuis octobre 2026.",
+    "subtitle": "Love shop et sauna libertin avec jacuzzi, impasse de la Tranchée à Chalon-sur-Saône (71)",
+    "targetQueries": [
+      "le chaperon rouge chalon sur saone",
+      "chaperon rouge sauna chalon",
+      "sauna libertin chalon sur saone",
+      "chaperon rouge chalon horaires",
+      "chaperon rouge chalon tarifs",
+      "sex shop chalon sur saone"
+    ]
+  },
+  "lead": "À Chalon-sur-Saône, Le Chaperon Rouge réunit une boutique coquine et un sauna libertin avec jacuzzi, ouverts en journée jusqu'à 19 h (22 h le vendredi) et, depuis octobre 2026, sept jours sur sept. L'entrée coûte 5 € à une femme seule et 15 € à un couple, comme en 2020 ; le mercredi et le jeudi, journées à tendance LGBTQ+, restent ouverts à tous selon le site. Né en 2006 rue des Cornillons, le commerce est installé impasse de la Tranchée depuis 2008 et organise quelques soirées sur réservation, comme celle des couples du samedi 17 octobre 2026.",
+  "glance": [
+    { "icon": "calendar", "label": "Tous les jours", "value": "Depuis octobre 2026, lundi compris" },
+    { "icon": "clock", "label": "Horaires", "value": "12 h-19 h · vendredi 22 h · dimanche dès 14 h" },
+    { "icon": "euro", "label": "Entrée", "value": "Femme 5 € · couple 15 € · homme 20 à 25 €" },
+    { "icon": "users", "label": "Mercredi et jeudi", "value": "Tendance LGBTQ+, ouverts à tous" },
+    { "icon": "spa", "label": "Côté sauna", "value": "Sauna, jacuzzi, coins câlins" },
+    { "icon": "history", "label": "Depuis", "value": "2006, impasse de la Tranchée depuis 2008" }
+  ],
+  "audience": [
+    { "who": "couples", "status": "oui", "detail": "Tous les jours ; la soirée du samedi 17 octobre 2026 leur était réservée", "price": "15 €" },
+    { "who": "femmes", "status": "oui", "detail": "Tous les jours ; serviette et paréo fournis à l'arrivée", "price": "5 €" },
+    { "who": "hommes", "status": "oui", "detail": "Tous les jours, 20 € le mercredi et le jeudi ; pas aux soirées couples", "price": "20 à 25 €" },
+    { "who": "trans", "status": "oui", "detail": "Citées par la FAQ du site, lingerie acceptée ; aucun tarif propre affiché" }
+  ],
+  "highlights": [
+    "Hors soirées, le sauna ferme à 19 h, sauf le vendredi (22 h) : c'est un lieu d'après-midi, et le dimanche il n'ouvre qu'à 14 h.",
+    "Rien à apporter : serviette, paréo pour les femmes, vestiaire, gel douche, sèche-cheveux, préservatifs et gel sont fournis.",
+    "Lingerie acceptée partout, sauf dans le jacuzzi et le sauna.",
+    "Le site actuel n'affiche aucun téléphone ; le 03 85 48 63 89, publié jusqu'en mars 2025, reste à confirmer pour réserver une soirée.",
+    "Des annuaires disent le mercredi et le jeudi réservés aux hommes ; le site d'octobre 2026 les dit ouverts à tous."
+  ],
+  "keyFacts": [
+    { "label": "Concept", "value": "Love shop et sauna libertin avec jacuzzi", "confidence": "confirme", "sources": ["s1", "s4"] },
+    { "label": "Ouverture", "value": "Mai 2006, rue des Cornillons ; impasse de la Tranchée depuis le 1er octobre 2008", "confidence": "confirme", "sources": ["s3", "s11"] },
+    { "label": "Jours d'ouverture", "value": "Tous les jours depuis octobre 2026", "confidence": "confirme", "sources": ["s1", "s2"] },
+    { "label": "Public", "value": "Mixte ; mercredi et jeudi à tendance LGBTQ+, ouverts à tous selon le site", "confidence": "confirme", "sources": ["s2"] },
+    { "label": "Entrée couple", "value": "15 €, comme en 2020", "confidence": "confirme", "sources": ["s2", "s9"] },
+    { "label": "Entrée homme seul", "value": "25 € (journée mixte), 20 € (mercredi et jeudi)", "confidence": "confirme", "sources": ["s2"] },
+    { "label": "Exploitant probable", "value": "Entreprise individuelle à l'enseigne Le Chaperon Rouge, SIREN 449 353 663, active", "confidence": "a_verifier", "sources": ["s11"] },
+    { "label": "Téléphone", "value": "03 85 48 63 89, d'après le site jusqu'en mars 2025", "confidence": "a_verifier", "sources": ["s5", "s9", "s13"] },
+    { "label": "Stationnement", "value": "Parking privé dans une rue discrète (site, mars 2025)", "confidence": "source_unique", "sources": ["s5"] }
+  ],
+  "sections": [
+    {
+      "id": "boutique-et-sauna",
+      "title": "Love shop et sauna sous le même toit depuis 2008, jacuzzi depuis fin 2014",
+      "icon": "spa",
+      "summary": "Le site de 2026 présente un magasin (lingerie, jouets, huiles, poppers, vape) et un sauna avec jacuzzi et coins câlins ; il ne parle plus de la backroom de 2015.",
+      "blocks": [
+        { "kind": "text", "body": "Le lieu se présente comme un « love shop » plutôt qu'un sex-shop à l'ancienne. Le magasin propose lingerie, jouets et huiles, plus un rayon que le site qualifie lui-même d'« un peu plus hard » ; poppers et huiles de massage sont annoncés toujours en stock." },
+        { "kind": "text", "body": "Une page « Vap Shop », créée fin juillet 2026, présente un rayon de cigarettes électroniques, puffs et e-liquides. Comme tout le magasin, il est interdit aux mineurs." },
+        { "kind": "list", "title": "Côté sauna, d'après le site officiel", "items": [
+          "un sauna ;",
+          "un jacuzzi, annoncé comme nouveau à la fin de 2014, dont un avis publié par le site salue le retour ;",
+          "des coins câlins, dont un nouveau annoncé avec des travaux, sans date sûre ;",
+          "un glory hole, cité sur la page d'accueil de mars 2025 ;",
+          "vestiaires et douches."
+        ] },
+        { "kind": "callout", "tone": "info", "title": "Backroom et sling en 2015, cabines selon les annuaires : à vérifier", "body": "La backroom à sling et la croix de Saint-André viennent des billets du site en 2015 ; aucune page de 2026 n'en parle. Les cabines n'apparaissent sur aucune page officielle consultée (2014-2026) : seuls saunaclublebali.fr, en mars 2026 (cabines privatives, sling, backroom, « bar sans alcool »), et lieuxcoquins.fr (cabines, backroom, bar) les citent." }
+      ],
+      "sources": ["s1", "s4", "s5", "s6", "s7", "s9", "s13", "s17", "s22", "s23", "s24", "s25"]
+    },
+    {
+      "id": "jours-et-publics",
+      "title": "Mercredi et jeudi à tendance LGBTQ+, lundi mixte depuis octobre 2026",
+      "icon": "users",
+      "summary": "Cinq journées mixtes et deux journées à tendance LGBTQ+ (mercredi, jeudi), toutes ouvertes à tous selon le site ; des annuaires les disent encore réservées aux hommes.",
+      "blocks": [
+        { "kind": "list", "items": [
+          "**Lundi** : journée mixte, nouvelle en octobre 2026. Le lieu était fermé ce jour-là en août 2025 et encore en mars 2026, selon deux annuaires.",
+          "**Mercredi et jeudi** : « ambiance à tendance LGBTQ+ », ouverte à tous ; l'homme seul y paie 20 € au lieu de 25 €.",
+          "**Vendredi** : le seul jour où le sauna reste ouvert jusqu'à 22 h.",
+          "**Dimanche** : ouverture à 14 h, deux heures plus tard que les autres jours."
+        ] },
+        { "kind": "text", "body": "Selon le site, ces deux journées « mettent davantage à l'honneur » la clientèle LGBTQ+ sans fermer la porte aux autres. Une femme ou un couple peut donc entrer le mercredi ou le jeudi, en sachant à qui le lieu destine ces jours-là en priorité." },
+        { "kind": "text", "body": "Ailleurs, la version diffère. Saunaclublebali.fr, dans une fiche ajoutée en mars 2026, écrit que ces deux jours sont « exclusivement » masculins. Une vidéo non datée de la page Facebook au nom du sauna annonce, elle, des « Journée Bi & Gay », la formule du site en 2020." },
+        { "kind": "text", "body": "Selon le blog du site, le dimanche avait ouvert au début de 2016 pour des couples qui ne pouvaient pas venir en semaine. Dix ans plus tard, hors soirées, le lieu ne reçoit toujours que l'après-midi." },
+        { "kind": "text", "body": "Venir à deux suppose donc un partenaire libre à ces heures-là. Pour [chercher autour de Chalon quelqu'un de disponible en journée](aff:gleese), Gleese coûte 3,75 € par mois avec la formule d'un an (45 €), mais son vivier reste mince hors des grandes villes." }
+      ],
+      "sources": ["s1", "s2", "s9", "s14", "s17", "s18", "s27"]
+    },
+    {
+      "id": "entrees-2020-2026",
+      "title": "Couple à 15 € et femme à 5 € depuis 2020, homme seul passé de 20 à 25 €",
+      "icon": "euro",
+      "summary": "Entre l'archive d'août 2020 et la grille d'octobre 2026, seule l'entrée de l'homme seul a augmenté ; le sauna est aussi passé de six à sept jours d'ouverture.",
+      "blocks": [
+        { "kind": "table", "caption": "Entrées du sauna d'après le site officiel", "headers": ["Public", "Août 2020", "Octobre 2026"], "rows": [
+          ["Femme seule", "5 €", "5 €"],
+          ["Couple", "15 €", "15 €"],
+          ["Homme seul, journée mixte", "20 €", "25 €"],
+          ["Mercredi et jeudi", "15 € (« Sauna Bi & Gay »)", "20 € (homme seul)"]
+        ] },
+        { "kind": "text", "body": "En août 2020, l'horaire publié comptait six jours : pas de dimanche, et un lundi réduit à l'après-midi, de 14 h à 19 h. Le dimanche figure de nouveau sur l'accueil archivé en octobre 2024, puis en mars 2025." },
+        { "kind": "text", "body": "La grille d'octobre 2026 est la première retrouvée qui couvre les sept jours. Le prix des soirées, lui, n'est publié nulle part." }
+      ],
+      "sources": ["s2", "s5", "s9", "s22"]
+    },
+    {
+      "id": "premiere-visite",
+      "title": "Serviette, paréo, vestiaire et préservatifs fournis, lingerie interdite au jacuzzi",
+      "icon": "shield",
+      "summary": "D'après la FAQ du site, tout est fourni à l'arrivée, rien n'est obligatoire, et la lingerie est admise partout sauf dans le sauna et le jacuzzi.",
+      "blocks": [
+        { "kind": "list", "title": "Fourni à l'arrivée, selon la FAQ", "items": [
+          "serviettes, et paréos pour les femmes ;",
+          "un vestiaire attribué, « comme à la piscine » ;",
+          "douche, gel douche et sèche-cheveux ;",
+          "préservatifs et gel, gratuits et à volonté."
+        ] },
+        { "kind": "text", "body": "La FAQ pose une seule règle : rien n'est obligatoire, pour vous comme pour les autres. On peut venir pour le sauna, le jacuzzi ou un café sans aller plus loin." },
+        { "kind": "text", "body": "Cette règle fait du lieu un cadre simple pour un premier rendez-vous avec des libertins connus en ligne. Sur Wyylde, [organiser ce premier après-midi avec un couple de Saône-et-Loire](aff:wyylde) demande un abonnement : le moins cher, 8,33 € par mois, se paie pour l'année d'un coup (99,90 €) et repart seul si vous ne désactivez pas le renouvellement." },
+        { "kind": "text", "body": "La lingerie est acceptée ; la FAQ cite les femmes et les personnes trans qui aiment la porter. Seule limite : ni dans le jacuzzi, ni dans le sauna." },
+        { "kind": "text", "body": "Peur de croiser une connaissance ? La FAQ admet que c'est déjà arrivé, rappelle que ce qui se passe au sauna y reste, et fait remarquer que la personne croisée est là, elle aussi." },
+        { "kind": "callout", "tone": "info", "title": "Le règlement de 2020", "body": "Le site de 2020 interdisait les rapports non protégés, toute prostitution et la consommation d'alcool, sous peine d'exclusion définitive. Le site actuel ne republie pas ce règlement : à reconfirmer sur place." }
+      ],
+      "sources": ["s2", "s9"]
+    },
+    {
+      "id": "soirees-sur-reservation",
+      "title": "Le soir sur réservation : couples le 17 octobre 2026, plage le 13 juin",
+      "icon": "calendar",
+      "summary": "Le sauna ferme à 19 h (22 h le vendredi), mais le lieu organise des soirées : « Bienvenue en été » le 13 juin 2026, une soirée réservée aux couples le 17 octobre 2026.",
+      "blocks": [
+        { "kind": "list", "items": [
+          "**2015-2016** : le blog du site annonçait déjà des soirées privées, dont celles des samedis 26 septembre 2015 et 27 février 2016.",
+          "**11 octobre 2025** : un billet du site annonce le « retour des soirées privées », après une première soirée.",
+          "**Samedi 13 juin 2026, de 21 h à 1 h** : soirée « Bienvenue en été », en maillot et accessoires de plage, punch sans alcool offert à l'arrivée.",
+          "**Samedi 17 octobre 2026** : soirée couple, uniquement pour les couples qui veulent en rencontrer d'autres, sur réservation."
+        ] },
+        { "kind": "text", "body": "Au 21 octobre 2026, aucune date suivante n'était annoncée. L'un des avis publiés par le site réclame justement des soirées à thème." },
+        { "kind": "callout", "tone": "warning", "title": "Réserver, mais par quel moyen ?", "body": "Le site demande de réserver sans dire comment : il n'affiche aucun numéro, et son bouton « Nous contacter » renvoie vers une page de démonstration du thème du site. Le seul numéro connu, le 03 85 48 63 89, date de l'ancien site (jusqu'en mars 2025). Le plus sûr reste de poser la question à l'accueil un après-midi, comme y invitait déjà le billet d'octobre 2025." },
+        { "kind": "text", "body": "La soirée couple ne s'adresse qu'aux couples venus en rencontrer d'autres. Pour ne pas découvrir tout le monde le soir même, vous pouvez [repérer quelques couples du Chalonnais avant la date](aff:carre-libertin) sur Carré Libertin, qui annonce environ 20 000 membres actifs chaque semaine." }
+      ],
+      "sources": ["s1", "s2", "s4", "s5", "s6", "s8", "s23", "s28"]
+    },
+    {
+      "id": "rue-des-cornillons-et-environs",
+      "title": "Rue des Cornillons : le Chaperon Rouge au n° 1 en 2006, Euphoria Sauna au n° 4 en 2026",
+      "icon": "map",
+      "summary": "Le Chaperon Rouge a débuté au n° 1. Au n° 4, Anteus a fermé en janvier 2024 et Euphoria Sauna annonce en 2026 une ouverture tous les jours, sans filiation établie.",
+      "blocks": [
+        { "kind": "text", "body": "Les deux adresses prêtent à confusion. Le Chaperon Rouge a ouvert en 2006 au **1** rue des Cornillons, alors que le [sauna Anteus](/sauna-anteus-chalon-sur-saone) est référencé au **4**." },
+        { "kind": "text", "body": "Au registre, le n° 4 relève d'autres sociétés. L'établissement de celle qui portait le sigle ANTEUS y a fermé le 4 janvier 2024, et une société d'entretien corporel y a été créée en juin 2023." },
+        { "kind": "text", "body": "C'est aujourd'hui Euphoria Sauna qui reçoit à cette adresse, d'après son site. Consulté le 21 octobre 2026, celui-ci annonce un « nouveau propriétaire », une ouverture tous les jours et des journées tantôt mixtes, tantôt réservées aux hommes." },
+        { "kind": "text", "body": "Ce site est archivé depuis février 2024. Aucune source consultée ne dit en revanche si Euphoria a succédé à Anteus, ni s'il relève de la société créée en 2023 : la filiation est probable, pas établie." },
+        { "kind": "list", "title": "Ailleurs en Saône-et-Loire", "items": [
+          "Au nord de Mâcon, à environ 46 km : le [Rubis](/le-rubis-club-macon) est fermé ; le site du Petit Saint Jean, qui lui avait succédé au 554 route de Mâcon, s'arrête en 2021, et La Volupté y annonçait des soirées les samedis d'octobre 2026.",
+          "À Branges : l'[Anaconda](/anaconda-branges) est probablement fermé, son site étant en erreur depuis août 2018."
+        ] },
+        { "kind": "text", "body": "Les autres adresses du secteur sont réunies sur les pages [Chalon-sur-Saône](/ville/chalon-sur-saone) et [Saône-et-Loire](/departement/saone-et-loire)." }
+      ],
+      "sources": ["s3", "s11", "s12", "s16", "s19", "s20", "s21", "s29", "s30"]
+    },
+    {
+      "id": "jsl-2015",
+      "title": "En 2015, un tiers de Chalonnais et une croix de Saint-André",
+      "icon": "building",
+      "summary": "En 2015, un article du JSL repris par le site décrit des clients venus de Mâcon ou Dijon, trois coins câlins et une croix ; un billet annonce une backroom à sling.",
+      "blocks": [
+        { "kind": "text", "body": "Le Journal de Saône-et-Loire a consacré au lieu un article que le site a reproduit en 2015 (archive du 17 octobre 2015). Le gérant y estimait à 35 % la part des clients chalonnais ; les autres venaient notamment de Mâcon, Bourbon-Lancy, Lons-le-Saunier ou Dijon." },
+        { "kind": "text", "body": "Selon le même article, la clientèle était en majorité hétérosexuelle, avec beaucoup de couples échangistes ou curieux de s'y essayer." },
+        { "kind": "list", "title": "Les espaces décrits en 2015", "items": [
+          "trois coins câlins, l'un avec une fenêtre pour être vu, un autre avec des glory holes ;",
+          "des écrans, dont certains au plafond des coins câlins ;",
+          "une croix de Saint-André ;",
+          "une backroom fermée à partir du 21 septembre 2015 pour être refaite : un sling y remplace la banquette, avec des entraves annoncées pour octobre."
+        ] }
+      ],
+      "sources": ["s23", "s24"]
+    },
+    {
+      "id": "de-2003-a-2025",
+      "title": "Entreprise créée en 2003, enseigne en 2006, impasse de la Tranchée en 2008",
+      "icon": "history",
+      "summary": "Le site dit « né en 2006 » mais aussi « installé depuis 2005 » ; au registre, l'entreprise date de 2003, l'enseigne de mai 2006, et l'adresse actuelle d'octobre 2008.",
+      "blocks": [
+        { "kind": "timeline", "items": [
+          { "date": "Août 2003", "text": "Création de l'entreprise individuelle qui porte aujourd'hui l'enseigne (SIREN 449 353 663), toujours active au registre." },
+          { "date": "Mars 2005", "text": "Premier établissement de cette entreprise, place de Beaune, sans enseigne et classé dans le commerce de détail. La page « Vap Shop » du site dit le lieu « installé depuis 2005 »." },
+          { "date": "Mai 2006", "text": "L'enseigne Le Chaperon Rouge apparaît au 1 rue des Cornillons. Le site dit le commerce « né en 2006 » à cette adresse, pour raviver la flamme des couples et les conseiller." },
+          { "date": "1er octobre 2008", "text": "Installation au 8 impasse de la Tranchée, pour s'agrandir : magasin et sauna y sont réunis. L'établissement de la rue des Cornillons est fermé le même jour au registre." },
+          { "date": "Novembre 2008", "text": "Première capture archivée de lechaperonrouge.fr, en ligne sans longue interruption depuis." },
+          { "date": "Fin 2014", "text": "Le blog offre l'entrée du mardi aux quatre premiers couples vêtus de rouge, puis le café à volonté à partir du mercredi 3 décembre." },
+          { "date": "Mars 2025", "text": "L'accueil fête « 19 ans d'existence » ; en octobre 2026, le site affiche toujours « 19 ans »." }
+        ] },
+        { "kind": "text", "body": "L'exploitant semble être l'entreprise individuelle de 2003, dont le siège est l'établissement de l'impasse de la Tranchée. Son rôle dans le sauna se déduit de l'enseigne et de l'adresse, sans document qui le confirme." }
+      ],
+      "sources": ["s1", "s3", "s5", "s7", "s10", "s11", "s25", "s26"]
+    },
+    {
+      "id": "notes-et-avis",
+      "title": "3,3/5 sur trois avis au Petit Futé, cinq témoignages choisis par le site",
+      "icon": "star",
+      "summary": "3,3/5 sur 3 avis au Petit Futé (2015, 2024, 2025), partagés entre propreté et lieu jugé vieilli ; les cinq avis du site, non datés, louent accueil, propreté et prix.",
+      "blocks": [
+        { "kind": "text", "body": "Le Petit Futé affiche 3,3/5 sur 3 avis de membres (relevé du 21 octobre 2026). Aucune autre note n'a pu être lue directement sur sa plateforme." },
+        { "kind": "list", "items": [
+          "**Avril 2015** : un avis apprécie le jacuzzi, le café et la propreté.",
+          "**Novembre 2024** : un client constate depuis octobre 2024 des locaux et des serviettes plus propres, et un accueil qui écarte les clients insistants.",
+          "**Décembre 2025** : un visiteur trouve le lieu plutôt vétuste, hormis une pièce neuve, et sans aucune animation ce jour-là."
+        ] },
+        { "kind": "text", "body": "Le site publie cinq avis de clients, non datés et sélectionnés par le lieu. Ils évoquent l'accueil, la propreté, des tarifs jugés raisonnables, le retour d'un jacuzzi et des rénovations en cours ; l'un d'eux demande des soirées à thème." }
+      ],
+      "sources": ["s1", "s15"]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Lundi": "12 h – 19 h (journée mixte)",
+      "Mardi": "12 h – 19 h",
+      "Mercredi": "12 h – 19 h (tendance LGBTQ+)",
+      "Jeudi": "12 h – 19 h (tendance LGBTQ+)",
+      "Vendredi": "12 h – 22 h",
+      "Samedi": "12 h – 19 h",
+      "Dimanche": "14 h – 19 h"
+    },
+    "note": "Grille du site officiel, page modifiée le 14 octobre 2026. Le lundi est ouvert depuis octobre 2026. Les soirées ponctuelles ont leurs propres horaires.",
+    "confidence": "confirme",
+    "sources": ["s1", "s2"]
+  },
+  "tarifs": {
+    "rows": {
+      "Femme seule": "5 €",
+      "Couple": "15 €",
+      "Homme seul, journée mixte": "25 €",
+      "Homme seul, mercredi et jeudi": "20 €"
+    },
+    "note": "Entrées du sauna affichées par le site officiel en octobre 2026. Serviettes, paréos, vestiaire, préservatifs et gel sont fournis selon sa FAQ. Prix des soirées non publiés.",
+    "confidence": "confirme",
+    "sources": ["s2"]
+  },
+  "equipements": [
+    "Sauna",
+    "Jacuzzi",
+    "Coins câlins",
+    "Glory hole (site, mars 2025)",
+    "Vestiaires",
+    "Douches",
+    "Love shop (lingerie, jouets, huiles, poppers)",
+    "Rayon vape",
+    "Parking privé (site, mars 2025)"
+  ],
+  "externalRatings": [
+    { "platform": "Petit Futé (3 avis de membres, avril 2015 à décembre 2025)", "rating": 3.3, "scale": 5, "count": 3, "date": "2026-10-21", "url": "https://www.petitfute.com/v7413-chalon-sur-saone-71100/c9998-coquin/c1044-s-amuser-sortir/c208-sauna/604402-sauna-le-chaperon-rouge/tous-les-avis.html" }
+  ],
+  "officialLinks": [
+    { "label": "Site officiel", "url": "https://www.lechaperonrouge.fr/", "kind": "site" },
+    { "label": "Horaires, tendances, tarifs et FAQ", "url": "https://www.lechaperonrouge.fr/my-journal/", "kind": "autre" }
+  ],
+  "faq": [
+    {
+      "question": "Le Chaperon Rouge est-il ouvert le lundi ?",
+      "answer": "Oui, depuis octobre 2026 : le lundi est une journée mixte, de 12 h à 19 h. En août 2025 et en mars 2026, des annuaires le donnaient encore fermé ce jour-là ; la grille du site, modifiée le 14 octobre 2026, est la plus récente."
+    },
+    {
+      "question": "Les femmes et les couples peuvent-ils venir le mercredi et le jeudi ?",
+      "answer": "Oui selon le site officiel, qui présente ces journées comme « à tendance LGBTQ+ » tout en les disant ouvertes à tous. Des annuaires les décrivent encore comme masculines, et une vidéo Facebook non datée comme « Bi & Gay » ; en cas de doute, posez la question à l'accueil."
+    },
+    {
+      "question": "Combien coûte l'entrée au sauna du Chaperon Rouge ?",
+      "answer": "5 € pour une femme seule, 15 € pour un couple, 25 € pour un homme seul en journée mixte et 20 € le mercredi et le jeudi (site officiel, octobre 2026). Serviette, vestiaire, préservatifs et gel sont fournis. Le prix des soirées n'est pas publié."
+    },
+    {
+      "question": "Faut-il réserver ?",
+      "answer": "Le site ne parle de réservation que pour les soirées, comme celle des couples du 17 octobre 2026. Il ne donne ni téléphone ni formulaire ; le 03 85 48 63 89, affiché jusqu'en mars 2025, reste à confirmer."
+    },
+    {
+      "question": "Quels sont les horaires de la boutique ?",
+      "answer": "En 2026, le site publie une seule grille pour tout le lieu, de 12 h à 19 h (22 h le vendredi, 14 h à 19 h le dimanche), sans horaires propres au magasin. En 2020, la boutique ouvrait dès 10 h du mardi au samedi. Tout le magasin, rayon vape compris, est interdit aux mineurs."
+    },
+    {
+      "question": "Peut-on se garer sur place ?",
+      "answer": "En mars 2025, le site parlait d'une rue discrète avec un parking privé. La version actuelle n'en dit plus rien : l'information reste à reconfirmer."
+    }
+  ],
+  "unverified": [
+    "Le numéro de téléphone actuel : le site n'en affiche plus, et le 03 85 48 63 89 vient de sa version antérieure à mars 2025.",
+    "Le moyen de réserver une soirée et le prix d'entrée des soirées.",
+    "La présence actuelle de la backroom à sling et de la croix de Saint-André décrites par le site en 2015, et des cabines que seuls des annuaires citent : le site actuel n'en parle pas.",
+    "Le lien entre Euphoria Sauna, au 4 rue des Cornillons, et l'ancien sauna Anteus ou la société créée à cette adresse en 2023.",
+    "La date des rénovations évoquées par les avis du site (nouveau coin câlin, retour du jacuzzi).",
+    "Le maintien du règlement de 2020 (rapports protégés obligatoires, alcool et prostitution interdits).",
+    "Le rattachement officiel de la page Facebook « Sauna Le Chaperon Rouge », que le site ne lie pas.",
+    "Les notes Google et GoWork, que nous n'avons pas pu lire directement."
+  ],
+  "sources": [
+    { "id": "s1", "label": "Site officiel, page d'accueil (modifiée le 14 octobre 2026)", "url": "https://www.lechaperonrouge.fr/", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s2", "label": "Site officiel, « Les infos » : horaires, tendances, tarifs et FAQ (modifiée le 14 octobre 2026)", "url": "https://www.lechaperonrouge.fr/my-journal/", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s3", "label": "Site officiel, « A Notre propos »", "url": "https://www.lechaperonrouge.fr/about-me/", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s4", "label": "Site officiel, « Nos Services »", "url": "https://www.lechaperonrouge.fr/services/", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s5", "label": "Site officiel, page d'accueil archivée le 17 mars 2025 (Internet Archive)", "url": "https://web.archive.org/web/20250317081904/https://www.lechaperonrouge.fr/", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s6", "label": "Site officiel, dates de publication et de modification des pages et billets (API WordPress)", "url": "https://www.lechaperonrouge.fr/wp-json/wp/v2/pages", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s7", "label": "Site officiel, « Vap Shop »", "url": "https://www.lechaperonrouge.fr/vap-shop/", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s8", "label": "Site officiel, page d'accueil archivée le 16 juin 2026 : soirée « Bienvenue en été » (Internet Archive)", "url": "https://web.archive.org/web/20260616051141/https://www.lechaperonrouge.fr/", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s9", "label": "Site officiel, pages « Horaires » et « Contact » archivées le 12 août 2020 (Internet Archive)", "url": "https://web.archive.org/web/20200812041347/https://www.lechaperonrouge.fr/horaires/", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s10", "label": "Historique des captures de lechaperonrouge.fr, 2008-2026 (Wayback Machine)", "url": "https://web.archive.org/cdx/search/cdx?url=lechaperonrouge.fr", "type": "autre", "consulted": "2026-10-21" },
+    { "id": "s11", "label": "Annuaire des entreprises, SIREN 449 353 663, enseigne Le Chaperon Rouge", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/449353663", "type": "registre", "consulted": "2026-10-21" },
+    { "id": "s12", "label": "Registre des entreprises, établissements du 4 rue des Cornillons à Chalon-sur-Saône", "url": "https://recherche-entreprises.api.gouv.fr/search?q=4%20rue%20des%20Cornillons&code_postal=71100", "type": "registre", "consulted": "2026-10-21" },
+    { "id": "s13", "label": "lieuxcoquins.fr, « Sauna Le Chaperon Rouge » (fiche non datée)", "url": "https://www.lieuxcoquins.fr/lieu/sauna-le-chaperon-rouge/", "type": "annuaire", "consulted": "2026-10-21" },
+    { "id": "s14", "label": "minuitlibertin.com, « Sauna Le Chaperon Rouge » (horaires au 17 août 2025)", "url": "https://minuitlibertin.com/sauna-le-chaperon-rouge/", "type": "annuaire", "consulted": "2026-10-21" },
+    { "id": "s15", "label": "Petit Futé, « Sauna Le Chaperon Rouge » : 3,3/5 sur 3 avis de membres (2015, 2024, 2025)", "url": "https://www.petitfute.com/v7413-chalon-sur-saone-71100/c9998-coquin/c1044-s-amuser-sortir/c208-sauna/604402-sauna-le-chaperon-rouge/tous-les-avis.html", "type": "annuaire", "consulted": "2026-10-21" },
+    { "id": "s16", "label": "Base Adresse Nationale, 8 impasse de la Tranchée (distances à vol d'oiseau)", "url": "https://api-adresse.data.gouv.fr/search/?q=8%20impasse%20de%20la%20Tranchee%20Chalon-sur-Saone", "type": "carte", "consulted": "2026-10-21" },
+    { "id": "s17", "label": "saunaclublebali.fr, fiche « Le Chaperon Rouge » (ajoutée le 25 mars 2026)", "url": "https://www.saunaclublebali.fr/listing/le-diderot-chalon-sur-saone/", "type": "annuaire", "consulted": "2026-10-21" },
+    { "id": "s18", "label": "Page Facebook « Sauna Le Chaperon Rouge », non liée par le site : vidéo « jacuzzi » non datée", "url": "https://www.facebook.com/lechaperonrouge71/videos/jacuzzi/793182717829505/", "type": "reseau_social", "consulted": "2026-10-21" },
+    { "id": "s19", "label": "Historique des captures de lepetitsaintjean.fr, successeur du Rubis (Wayback Machine)", "url": "http://web.archive.org/cdx/search/cdx?url=lepetitsaintjean.fr&matchType=domain", "type": "autre", "consulted": "2026-10-19" },
+    { "id": "s20", "label": "Site officiel de La Volupté, événements d'octobre 2026", "url": "https://lavolupte-club.com/evenements/", "type": "officiel", "consulted": "2026-10-19" },
+    { "id": "s21", "label": "libertin71.fr, site de l'Anaconda, en erreur 404 le 23 août 2018 (Internet Archive)", "url": "https://web.archive.org/web/20180823004524/http://www.libertin71.fr/", "type": "autre", "consulted": "2026-10-19" },
+    { "id": "s22", "label": "Site officiel, page d'accueil archivée le 15 octobre 2024 (Internet Archive)", "url": "https://web.archive.org/web/20241015184745/https://www.lechaperonrouge.fr/", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s23", "label": "Site officiel, billet « Une BackRoom toute neuve » (2015), archivé le 18 février 2016 (Internet Archive)", "url": "https://web.archive.org/web/20160218141953/http://www.lechaperonrouge.fr/une-backroom-toute-neuve/", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s24", "label": "Site officiel, « Le JSL parle de nous » : article du Journal de Saône-et-Loire reproduit, archivé le 17 octobre 2015 (Internet Archive)", "url": "https://web.archive.org/web/20151017221210/http://www.lechaperonrouge.fr/ls-jsl-parle-de-nous/", "type": "presse", "consulted": "2026-10-21" },
+    { "id": "s25", "label": "Site officiel, billet « Entrée offerte aux couples le mardi » et menu « Nouveau !!! Jacuzzi », archivés le 20 novembre 2014 (Internet Archive)", "url": "https://web.archive.org/web/20141120220756/http://www.lechaperonrouge.fr/entree-offerte-aux-couples-le-mardi/", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s26", "label": "Site officiel, billet sur le café offert à volonté, archivé le 4 janvier 2015 (Internet Archive)", "url": "https://web.archive.org/web/20150104075710/http://www.lechaperonrouge.fr/cafe-a-volonte-au-sauna-jacuzzi-chalon-sur-saone/", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s27", "label": "Site officiel, billet « Ouvert le dimanche », archivé le 8 janvier 2016 (Internet Archive)", "url": "https://web.archive.org/web/20160108010139/http://www.lechaperonrouge.fr/ouverture-le-dimanche/", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s28", "label": "Site officiel, billet sur la soirée privée du samedi 26 septembre 2015, archivé le 17 octobre 2015 (Internet Archive)", "url": "https://web.archive.org/web/20151017213453/http://www.lechaperonrouge.fr/soiree-privee-le-samedi-26-septembre-a-partir-de-20h30/", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s29", "label": "Site officiel d'Euphoria Sauna, 4 rue des Cornillons : accueil et « Horaires & tarifs »", "url": "https://euphoria-sauna.fr/", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s30", "label": "Historique des captures d'euphoria-sauna.fr, février 2024 à juillet 2026 (Wayback Machine)", "url": "https://web.archive.org/cdx/search/cdx?url=euphoria-sauna.fr", "type": "autre", "consulted": "2026-10-21" }
+  ]
+}

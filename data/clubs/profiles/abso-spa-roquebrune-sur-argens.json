@@ -1,0 +1,952 @@
+{
+  "slug": "abso-spa-roquebrune-sur-argens",
+  "clubId": "new-abso-spa-roquebrune-sur-argens",
+  "researchedAt": "2026-10-20",
+  "display": {
+    "nom": "Abso Spa",
+    "ville": "Roquebrune-sur-Argens"
+  },
+  "status": {
+    "value": "ouvert",
+    "summary": "Archivé le 12 octobre 2026, le site du groupe L'Absolu dit le spa ouvert tous les jours et réserve le dimanche 18 octobre aux couples et aux femmes seules pour un après-midi « sexy balnéo ». Le billet n'écrit pas l'année, mais le plan du site le dit modifié le 6 octobre 2026, et ce 18 octobre est un dimanche. La société qui a racheté le fonds des lieux en 2019, exploitante présumée, est toujours active au registre. Au 20 octobre 2026, aucune annonce de fermeture ou de reprise n'apparaît, ni dans les actualités du site ni dans la presse.",
+    "sources": [
+      "s2",
+      "s19",
+      "s3",
+      "s1",
+      "s5",
+      "s6",
+      "s7",
+      "s27"
+    ]
+  },
+  "seo": {
+    "title": "Abso Spa à Roquebrune-sur-Argens : tarifs, pool party, horaires",
+    "metaDescription": "Spa libertin du groupe L'Absolu ouvert 7 j/7 dès midi : sauna, hammam XXL, piscine, dimanches couples et femmes seules, club jusqu'à 3 h le week-end.",
+    "subtitle": "Spa libertin avec piscine, restaurant et club sur la RN 7 à Roquebrune-sur-Argens (83)",
+    "targetQueries": [
+      "abso spa",
+      "abso spa roquebrune",
+      "abso spa roquebrune sur argens",
+      "abso spa tarif",
+      "abso spa avis",
+      "abso spa pool party",
+      "club libertin roquebrune sur argens",
+      "spa libertin var",
+      "club libertin frejus"
+    ]
+  },
+  "lead": "Sauna, hammam, jacuzzi et thermes romains ouvrent tous les jours dès midi à l'Abso Spa, qui devient restaurant puis discothèque le vendredi et le samedi soir ; l'été, sa piscine sur patio accueille des pool parties. Ce spa libertin du groupe L'Absolu, dont le club de Mougins est à une demi-heure, occupe depuis l'été 2019 au plus tard l'ancien site du sauna L'Inattendue. Ses billets d'octobre, sans année mais modifiés le 6 octobre 2026, le montrent actif, avec des dimanches réservés aux couples et aux femmes seules.",
+  "glance": [
+    {
+      "icon": "calendar",
+      "label": "Ouvert",
+      "value": "Tous les jours, balnéo de 12 h à 20 h"
+    },
+    {
+      "icon": "music",
+      "label": "Soirées",
+      "value": "Mar. et jeu. jusqu'à 1 h, ven. et sam. 3 h"
+    },
+    {
+      "icon": "couple",
+      "label": "Dimanche",
+      "value": "Couples et femmes seules uniquement"
+    },
+    {
+      "icon": "euro",
+      "label": "Entrée couple",
+      "value": "30 à 60 € (grille de juin 2025)",
+      "confidence": "a_verifier"
+    },
+    {
+      "icon": "water",
+      "label": "Pool parties",
+      "value": "De juin à septembre, de 12 h à 20 h"
+    },
+    {
+      "icon": "history",
+      "label": "Depuis",
+      "value": "Été 2019, ex-site de L'Inattendue"
+    }
+  ],
+  "audience": [
+    {
+      "who": "couples",
+      "status": "oui",
+      "detail": "Tous les jours ; seuls admis avec les femmes seules le dimanche (prix de 2025)",
+      "price": "30 à 60 €"
+    },
+    {
+      "who": "femmes",
+      "status": "oui",
+      "detail": "Tous les jours, dimanche compris (prix de 2025)",
+      "price": "10 à 20 €"
+    },
+    {
+      "who": "hommes",
+      "status": "selon",
+      "detail": "Lundi-samedi, sélection le 17/10/2026 ; seul le 70 € du samedi est recoupé en 2026",
+      "price": "50 à 70 €"
+    }
+  ],
+  "highlights": [
+    "Le dimanche, seuls les couples et les femmes seules entrent : la grille de 2025 ne prévoit aucun tarif homme seul ce jour-là.",
+    "Dès 20 h, pantalon, chemise et chaussures de ville pour les hommes, robe et talons pour les femmes ; l'après-midi, nu ou en paréo.",
+    "Douche obligatoire avant d'entrer dans la balnéo, et pas de sexe dans le jacuzzi : deux règles écrites sur la page du spa en 2025.",
+    "Les derniers prix lisibles datent de juin 2025 et la page a changé en juillet 2026 : faites confirmer l'entrée au 07 83 99 12 69.",
+    "En octobre 2026, une soirée du samedi à L'Absolu, à Mougins, donnait droit à l'entrée du dimanche au spa."
+  ],
+  "keyFacts": [
+    {
+      "label": "Ouverture",
+      "value": "Été 2019 au plus tard",
+      "confidence": "confirme",
+      "sources": [
+        "s14",
+        "s7"
+      ]
+    },
+    {
+      "label": "Groupe",
+      "value": "L'Absolu, avec un club et un hôtel à Mougins",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s8"
+      ]
+    },
+    {
+      "label": "Public admis",
+      "value": "Mixte ; le dimanche, couples et femmes seules",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s2",
+        "s4"
+      ]
+    },
+    {
+      "label": "Jours d'ouverture",
+      "value": "Tous les jours dès 12 h",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s4"
+      ]
+    },
+    {
+      "label": "Balnéo",
+      "value": "Sauna, hammam, jacuzzi, thermes romains, piscine",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s2",
+        "s9"
+      ]
+    },
+    {
+      "label": "Restaurant et club",
+      "value": "Vendredi et samedi soir, jusqu'à 3 h",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "label": "Société exploitante",
+      "value": "SARL ZION, SIREN 848 264 024 (rôle déduit du registre)",
+      "confidence": "a_verifier",
+      "sources": [
+        "s6",
+        "s7"
+      ]
+    },
+    {
+      "label": "Distinction",
+      "value": "« Premier spa libertin de France » selon Hot Vidéo (2021)",
+      "confidence": "source_unique",
+      "sources": [
+        "s9"
+      ]
+    },
+    {
+      "label": "Téléphone",
+      "value": "07 83 99 12 69 (réservations) ; fixe 09 54 84 09 07",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s2",
+        "s18"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "balneo",
+      "title": "Sauna « exhibitionniste », hammam XXL et thermes romains dès midi",
+      "icon": "spa",
+      "summary": "Tous les jours de 12 h à 20 h, la balnéo réunit sauna, hammam, jacuzzi, thermes romains, salle de massage et piscine extérieure sur patio.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le site du groupe présente l'Abso Spa comme un « complexe libertin nouvelle génération » : une balnéo, un restaurant, une discothèque et un espace extérieur."
+        },
+        {
+          "kind": "list",
+          "title": "Les espaces nommés par le site en octobre 2026",
+          "items": [
+            "un sauna baptisé « Grand Sauna Exhibitionniste » ;",
+            "un hammam annoncé XXL, avec aromathérapie ;",
+            "un double jacuzzi, dit XXL sur la page d'accueil ;",
+            "des thermes romains et une salle de massage ;",
+            "une piscine et un patio extérieur."
+          ]
+        },
+        {
+          "kind": "list",
+          "title": "Ce que la page du spa détaillait en mars 2025",
+          "items": [
+            "le sauna doit son surnom à une grande paroi vitrée ; il a aussi un mur de briques de sel et un éclairage de chromathérapie ;",
+            "une douche norvégienne, à l'eau glacée, attend à la sortie des bains chauds ;",
+            "les thermes romains servent de coin câlin, avec une croix de Saint-André."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Dehors, la même page décrit une piscine chauffée bordée de transats, de lits doubles à baldaquin et d'une paillote, avec un bar face au bassin. Cannes Tendances, en septembre 2026, y ajoute un niveau VIP en surplomb du patio ; la grille de 2025 louait aussi des lits privatifs sur un « rooftop »."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s2",
+        "s4",
+        "s9"
+      ]
+    },
+    {
+      "id": "coins-calins",
+      "title": "Du lit rond de « Game of Sex » au sling de « Fetish Perversion » : huit coins câlins",
+      "icon": "heart",
+      "summary": "En mars 2025, la page du spa décrivait huit coins câlins à thème, dont un espace réservé aux couples, un coin fétiche et trois espaces à glory hole, plus un dancefloor à mezzanine.",
+      "blocks": [
+        {
+          "kind": "table",
+          "caption": "Les coins câlins décrits par la page officielle (archive du 20/03/2025)",
+          "headers": [
+            "Espace",
+            "Ce que la page en dit"
+          ],
+          "rows": [
+            [
+              "Love Twin",
+              "Deux chambres face à face, éclairées au néon et reliées par un grand hublot"
+            ],
+            [
+              "Game of Sex",
+              "Décor médiéval inspiré de Game of Thrones, grand lit rond à baldaquin, miroirs pour regarder"
+            ],
+            [
+              "Fetish Perversion",
+              "Sofa Kamasutra, sling, chaise de soumission et carcan"
+            ],
+            [
+              "Dark Room",
+              "Le salon cinéma, plongé dans la pénombre le soir"
+            ],
+            [
+              "Glory Hole Fantasy, Sex in the City",
+              "Glory hole, l'un sous une fresque new-yorkaise ; présenté comme une nouveauté"
+            ],
+            [
+              "Absolu Dream",
+              "Réservé aux couples : miroirs, barres lumineuses, cuir rouge"
+            ],
+            [
+              "Gentlemen Corner",
+              "L'espace des hommes seuls, avec une paroi à glory hole"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Côté club, la page décrit un dancefloor avec barres de pole dance, trois « VIP beds » où l'on reste à sa table, et une mezzanine qui domine la piste. À l'arrivée, un bracelet électronique ouvre le vestiaire et enregistre les consommations."
+        },
+        {
+          "kind": "text",
+          "body": "La page décrivait encore ces coins en juin 2025 ; sa version modifiée le 8 juillet 2026 n'a pas pu être lue. Cannes Tendances compte en septembre 2026 plus d'une dizaine d'espaces à thème : lesquels gardent ces noms, nous l'ignorons."
+        }
+      ],
+      "sources": [
+        "s4",
+        "s21",
+        "s20",
+        "s9"
+      ],
+      "confidence": "a_verifier"
+    },
+    {
+      "id": "pool-parties",
+      "title": "Pool parties de juin à septembre, mixtes le samedi",
+      "icon": "water",
+      "summary": "L'été, la piscine accueille des pool parties de 12 h à 20 h : mixtes le samedi, réservées aux couples le dimanche selon la page d'accueil de 2026.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "La page d'accueil archivée le 12 octobre 2026 annonce des pool parties de 12 h à 20 h, « de juin à septembre ». Le samedi est mixte, le dimanche affiché « 100 % couples »."
+        },
+        {
+          "kind": "text",
+          "body": "En mars 2025, la page du spa donnait une saison plus longue, de mai à septembre, avec patio et piscine ouverts tous les jours pendant ces mois. Elle se contredisait déjà sur le dimanche : ouvert aux couples et aux femmes seules dans un paragraphe, « couples only » dans un autre."
+        },
+        {
+          "kind": "list",
+          "title": "Les locations au bord de la piscine (grille de 2025)",
+          "items": [
+            "deux transats et une bouteille de rosé : 50 € ;",
+            "un lit et une bouteille de rosé : 100 € ;",
+            "un lit et un magnum de champagne : 200 €."
+          ]
+        }
+      ],
+      "sources": [
+        "s1",
+        "s4",
+        "s2"
+      ]
+    },
+    {
+      "id": "dimanche",
+      "title": "Le dimanche sans hommes seuls : balnéo nue ou en paréo, goûter de 17 h à 19 h",
+      "icon": "couple",
+      "summary": "Chaque dimanche de 12 h à 20 h, la balnéo est réservée aux couples et aux femmes seules ; le 18 octobre 2026, goûter et massages étaient offerts.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le billet du dimanche 18 octobre 2026 résume la formule : balnéo de 12 h à 20 h tous les dimanches, goûter de 17 h à 19 h, entrée réservée aux couples et aux femmes seules. Ce jour-là, goûter et massages étaient offerts tout l'après-midi. Le même rendez-vous figurait au programme du dimanche 11 octobre."
+        },
+        {
+          "kind": "callout",
+          "tone": "info",
+          "title": "Des billets sans année, modifiés le 6 octobre 2026",
+          "body": "Les billets écrivent « Dimanche 18 Octobre » sans année, et le flux du site les date de 2025, où ce jour tombait un samedi. Le plan du site les dit modifiés le 6 octobre 2026, année où le 18 octobre est un dimanche."
+        },
+        {
+          "kind": "text",
+          "body": "La tenue demandée l'après-midi s'inspire du Cap d'Agde : naturiste, nu ou en paréo. Serviettes et tongs sont fournies."
+        },
+        {
+          "kind": "callout",
+          "tone": "tip",
+          "title": "Le samedi à Mougins ouvre le dimanche à Roquebrune",
+          "body": "Selon le même billet, une soirée le samedi à L'Absolu, le club du groupe à Mougins, donne l'entrée du lendemain à l'Abso Spa. Réservations au 07 83 99 12 69."
+        },
+        {
+          "kind": "text",
+          "body": "Une femme seule payait 20 € le dimanche selon la grille de 2025, un couple 60 €. Celles qui préfèrent ne pas pousser la porte sans connaître personne peuvent d'abord nouer contact dans le Var : [Carré Libertin annonce environ 20 000 membres actifs par semaine](aff:carre-libertin), pour y chercher un couple avec qui partager l'après-midi."
+        }
+      ],
+      "sources": [
+        "s2",
+        "s19",
+        "s3",
+        "s4"
+      ]
+    },
+    {
+      "id": "soirees",
+      "title": "Menu maison à 25 €, puis club de 22 h à 3 h le vendredi et le samedi",
+      "icon": "music",
+      "summary": "Restaurant puis discothèque jusqu'à 3 h le vendredi et le samedi, soirée de 20 h à 1 h le mardi et le jeudi ; tenue de ville exigée dès 20 h.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le vendredi et le samedi, le restaurant ouvre à 20 h selon le billet du 17 octobre 2026 (20 h 30 selon la page d'accueil), puis le club tourne de 22 h à 3 h."
+        },
+        {
+          "kind": "text",
+          "body": "Le samedi 17 octobre 2026, la soirée « Balnéo & Octobre Rose » était mixte, avec DJ et show, et annoncée « spécial femme bi ». Les hommes seuls y entraient sur sélection, sous l'intitulé « Trio Select ». Le menu, à 25 € par personne, réunissait entrée, plat, dessert, vin et café, présentés comme faits maison."
+        },
+        {
+          "kind": "list",
+          "title": "La tenue exigée dès 20 h",
+          "items": [
+            "hommes : pantalon, chemise et chaussures de ville ;",
+            "femmes : robe et talons."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le billet du 17 octobre accorde aussi aux hommes seuls une « remise Wyylde » : 60 € au lieu de 70 €. Il ne précise pas si un compte gratuit suffit pour en profiter."
+        },
+        {
+          "kind": "text",
+          "body": "Posez la question au 07 83 99 12 69 avant de [souscrire la formule annuelle de Wyylde](aff:wyylde) : elle revient à 8,33 € par mois, mais se paie douze mois d'avance et se renouvelle seule si vous ne coupez pas la reconduction."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "id": "semaine-type",
+      "title": "Gang bang le lundi, apéro du staff le mardi : la semaine type affichée en 2025",
+      "icon": "calendar",
+      "summary": "En 2025, le spa donnait un rendez-vous à chaque soir de semaine ; fin septembre 2026, le site remettait à jour des billets aux intitulés proches, sans jours lisibles.",
+      "blocks": [
+        {
+          "kind": "table",
+          "caption": "Les « rituels » du lundi au vendredi, page du spa (archive du 20/03/2025)",
+          "headers": [
+            "Jour",
+            "Rendez-vous annoncé"
+          ],
+          "rows": [
+            [
+              "Lundi",
+              "Gang bang privé autour d'une libertine"
+            ],
+            [
+              "Mardi",
+              "Apéro du staff, DJ de 19 h à 1 h, entrée offerte aux couples inscrits sur Wyylde"
+            ],
+            [
+              "Mercredi",
+              "Invitations pour les membres Wyylde inscrits, selon le thème"
+            ],
+            [
+              "Jeudi",
+              "Après-midi naturiste ; le soir, balnéo tamisée avec massages et bougies"
+            ],
+            [
+              "Vendredi soir",
+              "Soirée de pluralité masculine"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "La soirée du samedi s'appelait déjà Trio Select. S'y ajoutaient chaque mois une soirée pour les femmes bi et, le dernier samedi, une soirée fétiche et BDSM au dress code obligatoire."
+        },
+        {
+          "kind": "text",
+          "body": "Cette grille figurait encore sur la page en juin 2025. Les 29 et 30 septembre 2026, le site a modifié des billets du spa aux titres proches : « apéro hard staff », « massage balnéo night », gang bang, soirée Wyylde gratuite pour les couples. Nous n'en connaissons que l'adresse web : faites confirmer jours et conditions."
+        }
+      ],
+      "sources": [
+        "s4",
+        "s21",
+        "s19",
+        "s3"
+      ],
+      "confidence": "a_verifier"
+    },
+    {
+      "id": "tarifs",
+      "title": "Couple dès 30 €, femme seule à 10 € en semaine : la grille officielle de 2025",
+      "icon": "euro",
+      "summary": "Grille de juin 2025, identique à celle de mars ; la page, modifiée le 8 juillet 2026, n'a pas été archivée depuis. Seul le tarif homme seul du samedi, 70 €, est recoupé en 2026.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Pour un couple, le dimanche est le jour le plus cher (60 €). En semaine, une femme seule paie cinq fois moins qu'un homme seul : 10 € contre 50 €."
+        },
+        {
+          "kind": "text",
+          "body": "La page invitait aussi à s'inscrire sur la fiche Wyylde de chaque événement pour obtenir une réduction ou des consommations offertes."
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Des prix qui varient selon les sources",
+          "body": "En septembre 2025, l'annuaire Minuit Libertin donnait 30 € pour un couple en semaine, 50 € le vendredi soir et 60 € le samedi, sans parler des consommations. Un blog de 2021 relevait 40 € ou 50 € pour un couple selon le jour. Faites confirmer le prix du jour."
+        }
+      ],
+      "sources": [
+        "s4",
+        "s21",
+        "s20",
+        "s2",
+        "s10",
+        "s11"
+      ],
+      "confidence": "a_verifier"
+    },
+    {
+      "id": "histoire",
+      "title": "Des Castagniers de L'Inattendue au spa : un fonds racheté 40 000 € en 2019",
+      "icon": "history",
+      "summary": "Le spa occupe depuis l'été 2019 au plus tard l'ancien sauna L'Inattendue, liquidé en 2018, dont le fonds a été revendu 40 000 € en janvier 2019.",
+      "blocks": [
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "4 juin 2018",
+              "text": "Liquidation judiciaire de la SARL L'Inattendue, dont [le sauna libertin, fermé depuis](/l-inattendue-club-libertin-sauna-roquebrune-sur-argens), occupait cette adresse."
+            },
+            {
+              "date": "8 janvier 2019",
+              "text": "Le fonds est vendu 40 000 € à la SARL ZION, pour une activité déclarée d'« espace Spa libertin » avec sauna, hammam, jacuzzi, massages et patio avec piscine (avis BODACC du 20 février 2019)."
+            },
+            {
+              "date": "Août 2019",
+              "text": "Première présentation retrouvée sur le site du groupe : l'Abso Spa, « nouvelle destination », ouvert 7 j/7 de 12 h à 21 h."
+            },
+            {
+              "date": "2021",
+              "text": "Hot Vidéo l'aurait désigné « premier spa libertin de France », selon Cannes Tendances ; la distinction n'a pas été retrouvée à la source."
+            }
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Un blog de 2021 situe l'ouverture « en lieu et place » de l'ancien sauna, après des mois de travaux. En 2025, la page du spa se proclamait elle-même « 1er spa libertin de France », sans citer de palmarès."
+        },
+        {
+          "kind": "text",
+          "body": "Le lien entre l'Abso Spa et la SARL ZION est une déduction : même lieu-dit, spa libertin avec piscine déclaré au rachat, seule société active des Castagniers classée en entretien corporel. Mais le registre ne lui connaît aucune enseigne, et la page contact du site ne nomme aucune société."
+        },
+        {
+          "kind": "text",
+          "body": "Créée le 1er octobre 2018, ZION est active, déclarait 10 à 19 salariés en 2024 et ne fait l'objet d'aucune procédure collective au BODACC."
+        }
+      ],
+      "sources": [
+        "s16",
+        "s7",
+        "s14",
+        "s9",
+        "s11",
+        "s6",
+        "s22",
+        "s18",
+        "s4"
+      ]
+    },
+    {
+      "id": "avis",
+      "title": "Une note Google de 4,4 à 4,5 sur 5, relayée par trois annuaires",
+      "icon": "star",
+      "summary": "Trois annuaires relaient 4,4 à 4,5 sur 5 pour 340 à 400 avis Google, chiffre non vérifié sur Google ; les avis reproduits louent surtout la propreté et le personnel.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Restaurant Guru, dans une page mise à jour le 10 septembre 2026, relaie une note Google de 4,5 sur 5 pour 396 avis. L'annuaire h2o-saunapourlui affichait 4,5 pour 385 avis le 19 octobre 2026, Bottin.fr 4,4 pour plus de 340 votes le 20 octobre. Nous n'avons pas pu vérifier ces chiffres sur Google."
+        },
+        {
+          "kind": "text",
+          "body": "L'annuaire info-spa reproduit neuf avis Google, non datés. Quatre saluent la propreté, cinq le personnel, deux l'espace extérieur et la piscine. Chaque critique ne revient que dans un seul avis : clientèle de « jeunes clubbers » le samedi soir, addition qui grimpe vite, pas de climatisation dans les coins câlins."
+        },
+        {
+          "kind": "text",
+          "body": "La page TripAdvisor du spa nous refusait l'accès le 20 octobre 2026 : ni sa note ni ses avis ne sont repris ici."
+        }
+      ],
+      "sources": [
+        "s12",
+        "s15",
+        "s23",
+        "s24",
+        "s13"
+      ],
+      "confidence": "a_verifier"
+    },
+    {
+      "id": "acces",
+      "title": "Sur la RN 7 aux Castagniers, commune voisine de Fréjus",
+      "icon": "map",
+      "summary": "Le spa est au 1479 route Nationale 7, lieu-dit Les Castagniers, 83520 Roquebrune-sur-Argens ; le site donne en 2026 le 07 83 99 12 69 et un fixe.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Au 07 83 99 12 69 des réservations, seul numéro de la page d'accueil de 2026, la page contact archivée le 12 octobre ajoute un fixe, le 09 54 84 09 07, déjà publié en 2019."
+        },
+        {
+          "kind": "text",
+          "body": "Cannes Tendances et Minuit Libertin comptent une trentaine de minutes depuis Cannes par l'A8, sortie Puget-sur-Argens ou Le Muy. Tous deux, comme un blog de 2021, signalent un parking sur place ; le pack VIP de 2025 y réservait une place."
+        },
+        {
+          "kind": "text",
+          "body": "Bottin.fr, qui reprend les attributs de la fiche Google, signale un parking, une entrée et des toilettes accessibles aux personnes à mobilité réduite, et le paiement par carte ou sans contact. Le spa ne le dit pas lui-même : faites-le confirmer."
+        },
+        {
+          "kind": "text",
+          "body": "À Fréjus, [le hammam libertin Le Klub](/klub-frejus-libertin-oriental) annonçait sur sa page Wyylde, relevée le 19 octobre 2026, une soirée le samedi 24 octobre et une autre pour Halloween. Les autres adresses du département sont réunies sur [la page consacrée au Var](/departement/var)."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s18",
+        "s4",
+        "s9",
+        "s10",
+        "s11",
+        "s23",
+        "s14",
+        "s17"
+      ]
+    },
+    {
+      "id": "groupe-absolu",
+      "title": "Absolu Forever, Villa Sophia, Abso Spa : un week-end couple de 400 à 600 €",
+      "icon": "building",
+      "summary": "Le spa est l'un des trois lieux du groupe L'Absolu, avec un club et un hôtel à Mougins ; deux forfaits week-end les associent pour 400 ou 600 €.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le spa n'a pas de site à lui : il est présenté sur clubabsolu.com, aux côtés de [l'Absolu Forever, le club du groupe à Mougins](/l-absolu-mougins), et de l'Abso Hôtel « Villa Sophia », également à Mougins, à une demi-heure de route."
+        },
+        {
+          "kind": "table",
+          "caption": "Formules « Abso Week-end couple » (page d'accueil, octobre 2026)",
+          "headers": [
+            "Formule",
+            "Contenu",
+            "Prix"
+          ],
+          "rows": [
+            [
+              "Une nuit",
+              "Nuit à la Villa Sophia, journée balnéo à l'Abso Spa, soirée à l'Absolu Forever",
+              "400 €"
+            ],
+            [
+              "Deux nuits",
+              "Deux nuits, la même journée et la même soirée, plus un dîner au restaurant de l'Abso Spa",
+              "600 €"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Ces forfaits se réservent par couple. Si vous voulez y associer un autre couple, vous pouvez d'abord [chercher sur Gleese des partenaires pour ce week-end](aff:gleese) : douze mois d'abonnement y coûtent 45 €, soit 3,75 € par mois."
+        },
+        {
+          "kind": "text",
+          "body": "Le spa renvoie aussi vers Mougins : les couples et femmes seules venus le 17 octobre 2026 avaient droit au brunch « Trio Select » du lendemain à L'Absolu. Le caractère libertin de l'hôtel lui-même n'a pas été vérifié."
+        },
+        {
+          "kind": "text",
+          "body": "La page Wyylde du club de Mougins, vers laquelle pointe le Linktree du groupe, annonçait le 20 octobre 2026 vingt soirées et brunchs jusqu'au 20 décembre, tous à Mougins ; le spa n'y apparaît que dans les forfaits."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s2",
+        "s8",
+        "s25"
+      ]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Lundi": "12 h – 20 h (balnéo et snack)",
+      "Mardi": "12 h – 20 h (balnéo) ; soirée 20 h – 1 h",
+      "Mercredi": "12 h – 20 h (balnéo et snack)",
+      "Jeudi": "12 h – 20 h (balnéo) ; soirée 20 h – 1 h",
+      "Vendredi": "12 h – 20 h (balnéo) ; restaurant puis club jusqu'à 3 h",
+      "Samedi": "12 h – 20 h (balnéo) ; restaurant puis club jusqu'à 3 h",
+      "Dimanche": "12 h – 20 h (balnéo, couples et femmes seules)"
+    },
+    "note": "Page d'accueil officielle archivée le 12/10/2026. Le billet du 17/10/2026 précise : restaurant de 20 h à 22 h, club de 22 h à 3 h (la page d'accueil dit 20 h 30). Pool parties de 12 h à 20 h, de juin à septembre. Bottin.fr et findglocal affichent les mêmes horaires en octobre 2026.",
+    "confidence": "confirme",
+    "sources": [
+      "s1",
+      "s2",
+      "s23",
+      "s26"
+    ]
+  },
+  "tarifs": {
+    "rows": {
+      "Couple, spa du lundi au vendredi": "30 € sans consommation, 40 € avec deux",
+      "Couple, pool party ou club (vendredi, samedi)": "50 €, deux consommations",
+      "Couple, dimanche": "60 €, deux consommations",
+      "Homme seul, du lundi au vendredi": "50 €, une consommation",
+      "Homme seul, samedi": "70 €, une consommation",
+      "Homme seul, dimanche": "Pas d'entrée",
+      "Femme seule, du lundi au vendredi": "10 €, une consommation",
+      "Femme seule, samedi et dimanche": "20 €, une consommation",
+      "Pack VIP bouteille": "150 € (bouteille, deux entrées, table VIP, parking sur réservation)",
+      "Menu du restaurant (17/10/2026)": "25 € (entrée, plat, dessert, vin et café)"
+    },
+    "note": "Grille officielle relevée à l'identique en mars et en juin 2025 ; la page a été modifiée le 8 juillet 2026, version non archivée. Une des quatre copies de la grille affiche 50 € pour la femme seule en semaine, coquille probable (les trois autres disent 10 €). Le 17/10/2026, l'entrée homme seul du samedi était annoncée à 70 €, ramenée à 60 € avec une remise Wyylde.",
+    "confidence": "a_verifier",
+    "sources": [
+      "s4",
+      "s21",
+      "s20",
+      "s2"
+    ]
+  },
+  "equipements": [
+    "Sauna",
+    "Hammam",
+    "Jacuzzi",
+    "Thermes romains",
+    "Douche norvégienne",
+    "Piscine extérieure",
+    "Patio",
+    "Salle de massage",
+    "Coins câlins à thème",
+    "Snack",
+    "Restaurant",
+    "Discothèque",
+    "Dark room",
+    "Bar extérieur",
+    "Parking"
+  ],
+  "officialLinks": [
+    {
+      "label": "Page Abso Spa sur le site du groupe L'Absolu",
+      "url": "https://clubabsolu.com/homepages/abso-spa/",
+      "kind": "site"
+    },
+    {
+      "label": "Agenda des événements du groupe",
+      "url": "https://clubabsolu.com/blog/agenda-2-2/",
+      "kind": "agenda"
+    },
+    {
+      "label": "Linktree du groupe L'Absolu",
+      "url": "https://linktr.ee/clubabsolu",
+      "kind": "autre"
+    }
+  ],
+  "faq": [
+    {
+      "question": "L'Abso Spa est-il toujours ouvert ?",
+      "answer": "Oui. La page d'accueil, archivée le 12 octobre 2026, le dit ouvert tous les jours dès 12 h, et des billets sans année, modifiés le 6 octobre 2026, annonçaient des après-midi balnéo les dimanches 11 et 18 octobre. Au 20 octobre 2026, aucune annonce de fermeture ou de reprise n'apparaît."
+    },
+    {
+      "question": "Combien coûte l'entrée à l'Abso Spa ?",
+      "answer": "Selon la dernière grille lisible (juin 2025) : couple de 30 à 60 €, femme seule 10 ou 20 €, homme seul 50 € en semaine et 70 € le samedi. Seul ce dernier prix est recoupé en 2026 (60 € avec la remise Wyylde le 17 octobre) : faites confirmer le reste au 07 83 99 12 69."
+    },
+    {
+      "question": "Quand ont lieu les pool parties de l'Abso Spa ?",
+      "answer": "De juin à septembre, de 12 h à 20 h, selon la page d'accueil d'octobre 2026 : mixtes le samedi, réservées aux couples le dimanche. En 2025, la saison commençait en mai. Le billet du 18 octobre 2026 admet les femmes seules le dimanche ; pour une pool party, faites-le confirmer."
+    },
+    {
+      "question": "Un homme seul peut-il venir le dimanche ?",
+      "answer": "Non : le dimanche est réservé aux couples et aux femmes seules, sans tarif homme seul dans la grille de 2025. Les hommes seuls sont admis du lundi au samedi ; le samedi 17 octobre 2026, ils entraient sur sélection, sous l'intitulé « Trio Select »."
+    },
+    {
+      "question": "Quelle tenue prévoir à l'Abso Spa ?",
+      "answer": "L'après-midi, nu, naturiste ou en paréo ; serviettes et tongs sont fournies. Dès 20 h, pantalon, chemise et chaussures de ville pour les hommes, robe et talons pour les femmes, selon le billet du 17 octobre 2026."
+    },
+    {
+      "question": "Y a-t-il un club libertin à Roquebrune-sur-Argens ou à Fréjus ?",
+      "answer": "À Roquebrune-sur-Argens, l'Abso Spa est le seul lieu libertin dont nous ayons constaté l'activité en 2026 ; L'Inattendue, à la même adresse, a fermé en 2018. À Fréjus, commune voisine, [Le Klub](/klub-frejus-libertin-oriental) annonçait des soirées pour fin octobre 2026 lors d'un relevé du 19 octobre."
+    },
+    {
+      "question": "Que valent les avis sur l'Abso Spa ?",
+      "answer": "Trois annuaires relaient une note Google de 4,4 à 4,5 sur 5 pour 340 à 400 avis (396 sur Restaurant Guru en septembre 2026), non vérifiée sur Google. Les avis non datés reproduits par info-spa louent la propreté et le personnel ; l'un trouve le samedi soir tourné vers de jeunes trentenaires venus faire la fête, un autre une addition qui grimpe vite."
+    }
+  ],
+  "unverified": [
+    "Tarifs 2026 : la dernière grille lisible date de juin 2025 ; la page du spa, modifiée le 8 juillet 2026, n'a pas été archivée dans cette version. Seul le tarif homme seul du samedi (70 €, 60 € avec la remise Wyylde) est recoupé en octobre 2026.",
+    "Les coins câlins et la semaine type décrits par la page du spa jusqu'en juin 2025 existent-ils encore en 2026 ? Aucune page officielle de 2026 lue ne les détaille.",
+    "Les femmes seules sont-elles admises aux pool parties du dimanche ? La page d'accueil de 2026 dit « 100 % couples », la page de 2025 et le billet du 18 octobre 2026 les acceptent le dimanche.",
+    "Les conditions de la « remise Wyylde » accordée aux hommes seuls (compte gratuit ou abonnement) ne sont pas précisées.",
+    "Le rôle de la SARL ZION est déduit du registre : clubabsolu.com refusait nos consultations le 20 octobre 2026 (refus d'accès, puis serveur injoignable le soir), aucune page de mentions légales n'est archivée, et la page contact ne nomme aucune société.",
+    "La distinction « premier spa libertin de France » attribuée à Hot Vidéo en 2021 n'a été retrouvée ni chez Hot Vidéo, ni sur la page presse du site, ni par une recherche web du 20 octobre 2026 : seul Cannes Tendances la mentionne.",
+    "Les notes Google (4,4 à 4,5) ne sont connues que par des annuaires ; Restaurant Guru donne aussi des horaires différents (21 h le dimanche, 2 h le mardi et le jeudi), quand Bottin.fr reprend ceux du site.",
+    "Le spa a-t-il une page Facebook ou Wyylde à lui ? Un annuaire reprend une page Facebook « Abso Spa », illisible sans connexion, et le Linktree du groupe ne renvoie qu'à la page Wyylde du club de Mougins.",
+    "Conditions de stationnement (gratuit ou non, nombre de places) non publiées ; l'accès pour les personnes à mobilité réduite et le paiement par carte ne sont signalés que par un annuaire."
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Site officiel du groupe L'Absolu, page d'accueil (archive du 12/10/2026)",
+      "url": "https://web.archive.org/web/20261012104807/https://clubabsolu.com/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s2",
+      "label": "Site officiel, flux RSS : billets des soirées du 17 et du 18 octobre 2026 (archive du 12/10/2026)",
+      "url": "https://web.archive.org/web/20261012170355/https://clubabsolu.com/feed/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s3",
+      "label": "Site officiel, page « Agenda Events » (archive du 12/10/2026)",
+      "url": "https://web.archive.org/web/20261012105024/https://clubabsolu.com/blog/agenda-2-2/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s4",
+      "label": "Site officiel, page « Abso Spa » : horaires et tarifs 2025 (archive du 20/03/2025)",
+      "url": "https://web.archive.org/web/20250320073347/https://clubabsolu.com/homepages/abso-spa/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s5",
+      "label": "Internet Archive, historique des captures de clubabsolu.com",
+      "url": "https://web.archive.org/cdx/search/cdx?url=clubabsolu.com",
+      "type": "autre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s6",
+      "label": "Registre des entreprises (Sirene), SARL ZION, SIREN 848 264 024",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/848264024",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s7",
+      "label": "BODACC, vente du fonds de L'Inattendue à la SARL ZION (avis du 20 février 2019)",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A201900362208",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s8",
+      "label": "Linktree officiel « ABSOLU Group »",
+      "url": "https://linktr.ee/clubabsolu",
+      "type": "reseau_social",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s9",
+      "label": "Cannes Tendances, « Abso Spa : le spa libertin du Club Absolu à 30 min de Cannes » (mis à jour le 3 septembre 2026)",
+      "url": "https://cannes-tendances.com/le-nouveau-joyau-de-absolu-groupe-abso-spa/",
+      "type": "presse",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s10",
+      "label": "Minuit Libertin, fiche « Abso Spa à Roquebrune-sur-Argens » (relevé du 24 septembre 2025)",
+      "url": "https://minuitlibertin.com/abso-spa-a-roquebrune-sur-argens/",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s11",
+      "label": "Libertinage sans complexe, « Avis sur Abso SPA » (blog, vers 2021)",
+      "url": "https://libertinage-sans-complexe.com/avis-sur-abso-spa-a-roquebrunes-sur-argens/",
+      "type": "autre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s12",
+      "label": "Restaurant Guru, « Abso Spa - Club & Balnéo » (page du 10/09/2026, note Google relayée)",
+      "url": "https://restaurantguru.com/Abso-Spa-Roquebrune-sur-Argens",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s13",
+      "label": "TripAdvisor, page « Abso Spa » (inaccessible, vue dans un résultat de recherche)",
+      "url": "https://www.tripadvisor.com/Attraction_Review-g651750-d28273834-Reviews-Abso_Spa-Roquebrune_sur_Argens_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_.html",
+      "type": "avis",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s14",
+      "label": "Site officiel, page « Abso-Spa » de 2019 (archive du 26/08/2019)",
+      "url": "https://web.archive.org/web/20190826003322/https://www.clubabsolu.com/abso-spa-first-swinger-cannes-mougins-club-libertin-roquebrune-frejus/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s15",
+      "label": "h2o-saunapourlui, « Sauna gay Fréjus » (note Google relayée)",
+      "url": "https://www.h2o-saunapourlui.fr/saunas-gay/var/frejus/",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s16",
+      "label": "BODACC, conversion en liquidation judiciaire de la SARL L'Inattendue (4 juin 2018)",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A201801072091",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s17",
+      "label": "Le Klub (Fréjus), page Wyylde du club, onglet Événements (relevé du 19/10/2026)",
+      "url": "https://app.wyylde.com/fr-fr/page/b00ac2a0-c0bf-11e8-a6a2-2913d1888a94/le-klub-hammam-libertin/events",
+      "type": "reseau_social",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s18",
+      "label": "Site officiel, page « Contact » : adresses et téléphones des trois lieux (archive du 12/10/2026)",
+      "url": "https://web.archive.org/web/20261012105033/https://clubabsolu.com/pages/contact/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s19",
+      "label": "Site officiel, plan du site des billets avec dates de modification (archive du 12/10/2026)",
+      "url": "https://web.archive.org/web/20261012105315/https://clubabsolu.com/wp-sitemap-posts-post-1.xml",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s20",
+      "label": "Site officiel, plan du site des pages : page « Abso Spa » modifiée le 8 juillet 2026 (archive du 12/10/2026)",
+      "url": "https://web.archive.org/web/20261012105317/https://clubabsolu.com/wp-sitemap-posts-page-1.xml",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s21",
+      "label": "Site officiel, page « Abso Spa » : tarifs, coins câlins et rituels (archive du 10/06/2025)",
+      "url": "https://web.archive.org/web/20250610141644/https://clubabsolu.com/homepages/abso-spa/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s22",
+      "label": "Registre des entreprises, sociétés domiciliées au lieu-dit Les Castagniers (83380 et 83520)",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=castagniers&code_postal=83380",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s23",
+      "label": "Bottin.fr, fiche « Abso Spa » : horaires, note Google relayée, accessibilité et paiement",
+      "url": "https://www.bottin.fr/fiche-locale/bcgbhaegeabibdcggegj--abso-spa--roquebrune-sur-argens.htm",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s24",
+      "label": "info-spa.com, « Spa à Roquebrune-sur-Argens » : neuf avis Google reproduits, non datés",
+      "url": "https://www.info-spa.com/ville/roquebrune-sur-argens_83380/",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s25",
+      "label": "Wyylde, page « Absolu Forever » (club du groupe à Mougins), onglet Événements",
+      "url": "https://app.wyylde.com/fr-fr/page/baca7a00-0323-11d8-917a-4f9afb7ee193/absolu-forever/events",
+      "type": "reseau_social",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s26",
+      "label": "findglocal, « Abso Spa, 1479 RN7 » (reprise d'une page Facebook)",
+      "url": "https://www.findglocal.com/FR/Roquebrune-Sur-Argens/345167916407682/Abso-Spa",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s27",
+      "label": "Site officiel, page « News » : aucune annonce de fermeture ni de reprise (archive du 12/10/2026)",
+      "url": "https://web.archive.org/web/20261012105102/https://clubabsolu.com/blog/abso-news/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    }
+  ]
+}

@@ -1,0 +1,402 @@
+{
+  "slug": "le-cap-moneteau",
+  "clubId": "new-le-cap-moneteau",
+  "researchedAt": "2026-10-21",
+  "display": { "nom": "Le Cap", "ville": "Monéteau" },
+  "status": {
+    "value": "ouvert",
+    "summary": "Une soirée Halloween est annoncée pour le samedi 31 octobre 2026, au bout d'un programme de samedis à thème commencé le 25 juillet, et le club a fêté ses cinq ans le 19 septembre. La SAS qui l'exploite est active au registre, mis à jour le 26 septembre 2026.",
+    "sources": ["s2", "s1", "s3", "s4"]
+  },
+  "seo": {
+    "title": "Le Cap, Monéteau : club libertin du samedi aux portes d'Auxerre",
+    "metaDescription": "Club libertin de 470 m² à Monéteau, près d'Auxerre : le samedi de 22 h à 5 h, couple 60 €, pas de pantalon pour les femmes, samedis à thème jusqu'à Halloween.",
+    "subtitle": "Club privé libertin de 470 m², ouvert le samedi soir à Monéteau (89), aux portes d'Auxerre",
+    "targetQueries": [
+      "le cap moneteau",
+      "le cap club privé",
+      "club libertin auxerre",
+      "club echangiste auxerre",
+      "libertine auxerre",
+      "libertin auxerre",
+      "club échangiste yonne",
+      "le cap moneteau tarifs",
+      "le cap moneteau avis"
+    ]
+  },
+  "lead": "Hors sauna, Le Cap est le seul club libertin en activité repéré autour d'Auxerre en octobre 2026 : 470 m² présentés comme « entièrement rénovés », ouverts uniquement le samedi, de 22 h à 5 h, presque toujours autour d'un thème. Il s'est installé en 2021 à Monéteau, dans les murs de l'Olisbos, fermé en 2018, et a fêté ses cinq ans le 19 septembre 2026. Couples, femmes seules et hommes seuls y entrent tous les samedis, sous un dress code strict et sans téléphone.",
+  "glance": [
+    { "icon": "calendar", "label": "Ouvert", "value": "Le samedi, de 22 h à 5 h" },
+    { "icon": "euro", "label": "Entrée couple", "value": "60 € avec deux consommations" },
+    { "icon": "users", "label": "Femme seule / homme seul", "value": "20 € / 75 €, une consommation" },
+    { "icon": "ruler", "label": "Surface", "value": "470 m² annoncés « entièrement rénovés »" },
+    { "icon": "history", "label": "Depuis", "value": "2021, cinq ans fêtés en septembre 2026" },
+    { "icon": "map", "label": "Situation", "value": "Monéteau, aux portes d'Auxerre" }
+  ],
+  "audience": [
+    { "who": "couples", "status": "oui", "detail": "Tous les samedis ; aucune soirée réservée aux couples n'est annoncée", "price": "60 €" },
+    { "who": "femmes", "status": "oui", "detail": "Tous les samedis, entrée avec une consommation", "price": "20 €" },
+    { "who": "hommes", "status": "oui", "detail": "Tous les samedis ; aucun quota publié, réservation conseillée par téléphone", "price": "75 €" }
+  ],
+  "highlights": [
+    "Le club n'ouvre que le samedi, de 22 h à 5 h : un annuaire évoquait d'autres soirs en 2025, le site officiel n'en annonce aucun.",
+    "Femmes : pantalon interdit, robe, jupe et talons appréciés. Hommes : chemise, pantalon élégant et chaussures de ville ; baskets et jean troué interdits.",
+    "Le téléphone reste au vestiaire dès l'entrée : l'avoir sur soi ou s'en servir dans le club peut valoir une exclusion.",
+    "Les prix peuvent changer lors des soirées spéciales ; le club conseille de réserver au 06 75 26 92 28.",
+    "Parking privé et sécurisé, à l'abri des regards, ouvert aux camping-cars et aux vans ; espace fumeur couvert en terrasse."
+  ],
+  "keyFacts": [
+    { "label": "Exploitant", "value": "SAS LE CAP (SIREN 902 025 824), active", "confidence": "confirme", "sources": ["s3", "s1"] },
+    { "label": "Ouverture", "value": "2021 (société immatriculée en août 2021)", "confidence": "confirme", "sources": ["s3", "s4", "s10"] },
+    { "label": "Jours d'ouverture", "value": "Le samedi, de 22 h à 5 h", "confidence": "confirme", "sources": ["s1", "s2", "s6", "s9"] },
+    { "label": "Public admis", "value": "Couples, femmes seules, hommes seuls", "confidence": "confirme", "sources": ["s1"] },
+    { "label": "Entrée couple", "value": "60 € avec deux consommations (2026)", "confidence": "confirme", "sources": ["s1"] },
+    { "label": "Surface", "value": "470 m²", "confidence": "confirme", "sources": ["s1", "s8"] },
+    { "label": "Paiement", "value": "Espèces et carte bancaire", "confidence": "confirme", "sources": ["s1"] },
+    { "label": "Accès PMR", "value": "Oui, selon le site du club", "confidence": "confirme", "sources": ["s1"] },
+    { "label": "Rénovation", "value": "« Ouverture définitive » annoncée en juillet 2026", "confidence": "a_verifier", "sources": ["s2"] }
+  ],
+  "sections": [
+    {
+      "id": "samedis-a-theme",
+      "title": "De Masques & Désirs à Halloween : des samedis à thème jusqu'au 31 octobre 2026",
+      "icon": "mask",
+      "summary": "Depuis le 25 juillet 2026, le site du club affiche une soirée à thème presque chaque samedi ; le programme publié court jusqu'à Halloween, le 31 octobre.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le Cap n'ouvre qu'un soir par semaine, le samedi de 22 h à 5 h, et son site donne un thème à presque chacun. Le programme commence le 25 juillet 2026 par une « Soirée découverte du libertinage », destinée aux curieux et aux débutants."
+        },
+        {
+          "kind": "text",
+          "body": "L'été a enchaîné une soirée Ibiza le 8 août, Candy Lips le 15 et Mille et une nuits le 22. Depuis le 8 août, chaque affiche datée annonce son DJ, et la plupart précisent la tenue attendue."
+        },
+        {
+          "kind": "table",
+          "caption": "Programme affiché sur le site officiel au 21 octobre 2026",
+          "headers": ["Samedi", "Soirée", "À noter"],
+          "rows": [
+            ["5 septembre", "La rentrée du Cap", "Tenues d'écolier ou de prof : chemise blanche, jupe plissée"],
+            ["12 septembre", "Blackout", "Club plongé dans la pénombre"],
+            ["19 septembre", "Les 5 ans du Cap", "Noir et argent ; apéritif dînatoire de 20 h à 23 h"],
+            ["3 octobre", "Masques & Désirs", "Masque et tenue chic"],
+            ["10 octobre", "Black & Red", "Tenue noire, rouge ou les deux"],
+            ["17 octobre", "Dentelle chic", "Une touche de dentelle dans la tenue"],
+            ["24 octobre", "Soirée libre & découverte", "Sans thème, ouverte à qui découvre le lieu"],
+            ["31 octobre", "Halloween, la nuit des créatures", "Tenue sombre ou monstrueuse"]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Deux dates visent donc les premières fois : le 25 juillet et le 24 octobre. Une « Nuit des tentations » figure aussi sur la page, sans date. Le club conseille de réserver ses soirées au 06 75 26 92 28."
+        },
+        {
+          "kind": "text",
+          "body": "Pour ne pas franchir seuls la porte d'une soirée découverte, Carré Libertin, où femmes et couples formeraient environ 60 % des membres selon ses chiffres, permet de [chercher un couple débutant dans l'Yonne](aff:carre-libertin) et de venir à deux couples."
+        }
+      ],
+      "sources": ["s1", "s2", "s6"]
+    },
+    {
+      "id": "tarifs-2026",
+      "title": "Couple à 60 €, homme seul à 75 € : 5 € de plus que le relevé d'un annuaire en 2025",
+      "icon": "euro",
+      "summary": "La grille 2026 inclut une ou deux consommations ; un annuaire relevait en octobre 2025 des entrées couple et homme seul inférieures de 5 €.",
+      "blocks": [
+        {
+          "kind": "table",
+          "caption": "Entrée du samedi : relevé d'annuaire de 2025 et grille officielle de 2026",
+          "headers": ["Public", "Octobre 2025 (Minuit Libertin)", "2026 (site officiel)", "Inclus en 2026"],
+          "rows": [
+            ["Couple", "55 €", "60 €", "2 consommations"],
+            ["Femme seule", "20 €", "20 €", "1 consommation"],
+            ["Homme seul", "70 €", "75 €", "1 consommation"]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "La colonne 2025 vient d'un annuaire, dont d'autres informations ne sont pas confirmées par le club. Elle donne une tendance, pas un tarif."
+        },
+        {
+          "kind": "text",
+          "body": "Le club prévient que ses prix sont « modifiables en soirées spéciales ». Pour les cinq ans, le 19 septembre 2026, l'apéritif dînatoire coûtait 25 € par personne en plus de l'entrée, sur réservation avant le 16 septembre."
+        },
+        {
+          "kind": "text",
+          "body": "Le paiement se fait en espèces ou par carte. Le site ne publie aucun quota d'hommes seuls ni aucun samedi qui leur serait fermé."
+        }
+      ],
+      "sources": ["s1", "s2", "s7"]
+    },
+    {
+      "id": "dress-code-reglement",
+      "title": "Pas de pantalon pour les femmes, pas de téléphone pour personne : un règlement en 13 articles",
+      "icon": "shield",
+      "summary": "Pantalon interdit aux femmes, chemise et chaussures de ville pour les hommes, portables au vestiaire : le règlement du club tient en 13 articles centrés sur le consentement.",
+      "blocks": [
+        {
+          "kind": "table",
+          "caption": "Dress code affiché par le club",
+          "headers": ["Public", "Demandé ou apprécié", "Interdit"],
+          "rows": [
+            ["Femmes", "Tenue chic et sexy ; robe, jupe et talons appréciés", "Pantalon"],
+            ["Hommes", "Chemise, pantalon élégant, chaussures de ville", "Baskets, jean troué"]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Ce code n'est pas nouveau : en 2022, le premier site du club refusait déjà le pantalon aux femmes, le tee-shirt et les baskets aux hommes."
+        },
+        {
+          "kind": "text",
+          "body": "La règle la plus stricte concerne le téléphone. Il se dépose au vestiaire dès l'entrée ; l'avoir sur soi dans le club, s'en servir, photographier ou filmer peut valoir une exclusion."
+        },
+        {
+          "kind": "list",
+          "title": "Les autres articles du règlement",
+          "items": [
+            "Entrer au Cap « ne donne aucun droit sur autrui » : il faut demander avant tout contact, et regarder n'autorise pas à participer.",
+            "En cas de malaise, on prévient l'équipe.",
+            "Entrée réservée aux majeurs, pièce d'identité exigible ; la direction se réserve le droit d'admission.",
+            "Substances illicites interdites ; le bar peut refuser de servir de l'alcool.",
+            "Protections et produits d'hygiène fournis."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Si vous retrouvez au Cap un couple connu en ligne, mieux vaut fixer les règles du jeu avant le samedi. La messagerie de Gleese permet de [poser vos limites par message vocal](aff:gleese), et ses lives HD quotidiens montrent des membres en direct avant que vous leur écriviez."
+        }
+      ],
+      "sources": ["s1", "s5"]
+    },
+    {
+      "id": "espaces-470-m2",
+      "title": "470 m², deux barres de pole dance et une croix de Saint-André en play room",
+      "icon": "ruler",
+      "summary": "Bar, piste de danse, chambres à thème, coin BDSM, grand lit rond et douches, plus deux terrasses dont un espace fumeur couvert, selon le site du club.",
+      "blocks": [
+        {
+          "kind": "list",
+          "title": "Selon le site officiel",
+          "items": [
+            "Bar et piste de danse équipée de deux barres de pole dance",
+            "Chambres à thème et espaces de jeux, ouverts ou fermés",
+            "Coin BDSM et play room avec croix de Saint-André",
+            "Grand lit rond",
+            "Douches et vestiaire",
+            "Deux terrasses, dont un espace fumeur couvert ; terrasse chauffée",
+            "Climatisation et Wi-Fi"
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "La fiche du club sur DISH, la plateforme qui héberge son site, ajoute une cage sur la piste, une salle de massage et une seconde croix de Saint-André. Ces trois éléments ne figurent que là : à vérifier sur place."
+        },
+        {
+          "kind": "text",
+          "body": "Le parking est privé et sécurisé, « à l'abri des regards », et accueille camping-cars et vans. Le club se dit accessible aux personnes à mobilité réduite, à l'intérieur comme à l'extérieur, et propose d'y organiser des événements privés."
+        }
+      ],
+      "sources": ["s1", "s8", "s7", "s4"]
+    },
+    {
+      "id": "olisbos-2021-reouverture",
+      "title": "Dans les murs de l'Olisbos depuis 2021, puis une « ouverture définitive » en juillet 2026",
+      "icon": "history",
+      "summary": "Le Cap occupe depuis 2021 l'adresse de l'Olisbos, fermé en 2018, avec une autre société ; une nuit de préouverture le 11 juillet 2026 laisse deviner des travaux.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le 14 rue des Isles a un passé libertin plus ancien que Le Cap. Des établissements à l'enseigne L'Olisbos s'y succèdent à partir de 2004 ; le dernier exploitant, la SARL LYS, est mis en liquidation judiciaire le 24 avril 2018, et le site de [l'Olisbos, fermé depuis](/l-olisbos-auxerre), affiche encore en novembre 2018 sa « fermeture définitive »."
+        },
+        {
+          "kind": "text",
+          "body": "Le Cap n'en est pas la reprise : au BODACC, le fonds de la SAS LE CAP est une création, pas un rachat. Le site actuel du club ne mentionne pas l'Olisbos."
+        },
+        {
+          "kind": "timeline",
+          "items": [
+            { "date": "4 août 2021", "text": "Immatriculation de la SAS LE CAP, capital 1 500 € ; activité déclarée : discothèque, petite restauration, bar, location de salles." },
+            { "date": "25 août 2021", "text": "Commencement d'activité au BODACC (9 novembre 2021 pour l'établissement, selon le registre)." },
+            { "date": "Déc. 2021 – mars 2022", "text": "Le premier site, lecapclubprive.com, se présente comme « Votre Club libertin situé à Monéteau » ; ce domaine n'existe plus en octobre 2026." },
+            { "date": "13 septembre (2025, année déduite)", "text": "Un extrait de moteur de recherche de la page Facebook du club, fermée aux visiteurs non connectés, annonce ses « 4 années » pour un samedi 13 septembre. L'année n'y figure pas : 2025 est déduite du jour de la semaine." },
+            { "date": "Samedi 11 juillet 2026", "text": "Nuit exclusive et « Retrouvailles », avant l'« ouverture définitive » (année déduite de l'ordre des affiches)." },
+            { "date": "25 juillet 2026", "text": "Premier samedi du programme affiché, avec une soirée découverte." },
+            { "date": "19 septembre 2026", "text": "Les 5 ans du Cap, en noir et argent." }
+          ]
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Une fermeture pour travaux, de durée inconnue",
+          "body": "L'annonce du 11 juillet parle de « finaliser les derniers détails pour l'ouverture définitive », et le site se dit « entièrement rénové » : une interruption a donc probablement précédé l'été 2026. Son début et sa durée sont inconnus ; un annuaire relevait encore des tarifs en octobre 2025."
+        }
+      ],
+      "sources": ["s12", "s15", "s16", "s3", "s4", "s5", "s14", "s10", "s2", "s1", "s7"]
+    },
+    {
+      "id": "notes-relayees",
+      "title": "4,9 sur 41 avis selon un annuaire, aucune note lue sur Google",
+      "icon": "star",
+      "summary": "Deux annuaires relaient une note Google de 4,8 à 4,9 sur une quarantaine d'avis, sans date ; PagesJaunes, DISH et Restaurant Guru n'en affichent aucun.",
+      "blocks": [
+        {
+          "kind": "list",
+          "items": [
+            "Minuit Libertin : 4,9 sur 41 avis Google, sans date de relevé.",
+            "Bottin.fr : 4,8 sur 5, « + de 40 votes », sans date, dont 85 % de notes maximales.",
+            "PagesJaunes, DISH et Restaurant Guru : aucun avis affiché au 21 octobre 2026."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Ces notes n'ont pas été vues sur Google même, et aucun texte d'avis n'a pu être lu. Elles sont élevées, mais rien ne dit sur quelle période elles portent. Aucun article de presse sur le club n'a été trouvé."
+        }
+      ],
+      "sources": ["s7", "s9", "s6", "s8", "s13"],
+      "confidence": "source_unique"
+    },
+    {
+      "id": "auxerre-yonne",
+      "title": "Le Cap, seul club libertin actif repéré autour d'Auxerre : le Rubix fermé en 2015, le Venusia muet",
+      "icon": "map",
+      "summary": "Le Rubix d'Appoigny est fermé depuis 2015 et le site du Venusia ne répond plus ; en 2026, seuls un sauna à Auxerre et un bar naturiste à Joigny affichent une activité datée.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Monéteau fait partie de l'agglomération d'Auxerre, et plusieurs annuaires rangent d'ailleurs Le Cap « à Auxerre ». Les deux autres clubs libertins connus dans le secteur, à Appoigny et à Vergigny, ne montrent plus d'activité. Hors sauna, Le Cap est donc le seul club libertin en activité repéré autour d'Auxerre en octobre 2026."
+        },
+        {
+          "kind": "list",
+          "title": "Deux clubs du secteur, l'un fermé, l'autre muet",
+          "items": [
+            "[Le Rubix, à Appoigny](/le-rubix-appoigny) : la société de l'enseigne Rubix Club est cessée, son établissement est fermé au registre depuis le 12 mars 2015, et son nom de domaine était proposé à la vente le 19 octobre 2026.",
+            "[Le Venusia, à Vergigny](/le-venusia-vergigny) : son site restait sans réponse le 19 octobre 2026, et le guide clubech.fr le classait « fermé », d'après le titre de sa page vu dans un moteur de recherche."
+          ]
+        },
+        {
+          "kind": "list",
+          "title": "Trois autres lieux de l'Yonne, cités par un guide en ligne d'avril 2026",
+          "items": [
+            "[Le Sauna Icaunais Mixte, ancien KLS](/sauna-kls-auxerre), 8 rue Denis-Papin à Auxerre : il se dit ouvert 7 jours sur 7 depuis avril 2025, et son site publie des annonces datées jusqu'au 15 août 2026.",
+            "La P'tite Pause, à Joigny, se présente comme un bar naturiste pour adultes, ouvert du mercredi au samedi de 14 h à 20 h ; son site publiait des actualités datées des 7, 10 et 12 octobre 2026.",
+            "L'Implicite, sauna échangiste à Villeblevin, près de Sens : son site ne montre rien de plus récent qu'une grille de tarifs de janvier 2025."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Ce guide ne cite pas Le Cap. Les lieux recensés sont regroupés sur [la page des établissements d'Auxerre](/ville/auxerre) et [celle de l'Yonne](/departement/yonne)."
+        },
+        {
+          "kind": "text",
+          "body": "Pour trouver dans l'Yonne des partenaires avec qui venir un samedi, Wyylde propose une certification de profil : facultative, elle limite les faux comptes, et rien n'empêche de [ne retenir que les profils certifiés de l'Auxerrois](aff:wyylde)."
+        }
+      ],
+      "sources": ["s6", "s7", "s18", "s19", "s20", "s11", "s17", "s21", "s22"]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Samedi": "22 h – 5 h",
+      "Du dimanche au vendredi": "Fermé"
+    },
+    "note": "Un annuaire évoquait en 2025 des ouvertures occasionnelles le vendredi et le dimanche ; le site officiel n'en annonce aucune.",
+    "confidence": "confirme",
+    "sources": ["s1", "s2", "s6", "s9", "s7"]
+  },
+  "tarifs": {
+    "rows": {
+      "Couple": "60 € (2 consommations)",
+      "Femme seule": "20 € (1 consommation)",
+      "Homme seul": "75 € (1 consommation)"
+    },
+    "note": "Grille « Soirée Club 2026 » du site officiel, modifiable lors des soirées spéciales. Paiement en espèces ou par carte.",
+    "confidence": "confirme",
+    "sources": ["s1"]
+  },
+  "equipements": [
+    "Surface de 470 m²",
+    "Bar",
+    "Piste de danse avec deux barres de pole dance",
+    "Chambres à thème",
+    "Espaces de jeux ouverts ou fermés",
+    "Coin BDSM",
+    "Play room avec croix de Saint-André",
+    "Grand lit rond",
+    "Douches",
+    "Vestiaire",
+    "Deux terrasses dont un espace fumeur couvert",
+    "Terrasse chauffée",
+    "Climatisation",
+    "Wi-Fi",
+    "Parking privé et sécurisé (camping-cars et vans acceptés)",
+    "Accès PMR"
+  ],
+  "officialLinks": [
+    { "label": "Site officiel", "url": "https://le-cap-moneteau.eatbu.com/", "kind": "site" },
+    { "label": "Page Facebook liée au site", "url": "https://www.facebook.com/profile.php?id=61592144109288", "kind": "facebook" }
+  ],
+  "faq": [
+    {
+      "question": "Le Cap à Monéteau est-il ouvert en 2026 ?",
+      "answer": "Oui. Le site officiel annonce des samedis à thème du 25 juillet au 31 octobre 2026, Halloween compris, et le club a fêté ses cinq ans le 19 septembre 2026. La SAS qui l'exploite est active au registre. Il n'ouvre que le samedi, de 22 h à 5 h."
+    },
+    {
+      "question": "Y a-t-il un club libertin ouvert à Auxerre ?",
+      "answer": "Le Cap, à Monéteau dans l'agglomération d'Auxerre, est le seul club libertin en activité repéré en octobre 2026. L'Olisbos, à la même adresse, a fermé en 2018 ; le Rubix d'Appoigny est fermé au registre depuis 2015, et le site du Venusia, à Vergigny, ne répondait plus le 19 octobre 2026. À Auxerre même, le Sauna Icaunais Mixte (ancien KLS), rue Denis-Papin, se dit ouvert 7 jours sur 7 et publiait encore des annonces en août 2026."
+    },
+    {
+      "question": "Combien coûte une soirée au Cap ?",
+      "answer": "Selon la grille 2026 du site : 60 € pour un couple avec deux consommations, 20 € pour une femme seule et 75 € pour un homme seul, avec une consommation chacun. Les prix peuvent changer lors des soirées spéciales. Le club accepte les espèces et la carte."
+    },
+    {
+      "question": "Les hommes seuls sont-ils acceptés au Cap ?",
+      "answer": "Oui, tous les samedis, à 75 € avec une consommation. Le club ne publie ni quota ni soirée réservée aux couples, mais il conseille de réserver au 06 75 26 92 28. Chemise, pantalon élégant et chaussures de ville sont exigés."
+    },
+    {
+      "question": "Quelle tenue faut-il pour entrer au Cap ?",
+      "answer": "Pour les femmes, le pantalon n'est pas accepté ; robe, jupe et talons sont appréciés. Pour les hommes, chemise, pantalon élégant et chaussures de ville, sans baskets ni jean troué. Certains samedis ajoutent un thème, comme le noir et argent des 5 ans, le 19 septembre 2026."
+    },
+    {
+      "question": "Que valent les avis sur Le Cap ?",
+      "answer": "Deux annuaires relaient une note Google élevée, 4,9 sur 41 avis et 4,8 sur plus de 40 votes, sans date. Ni la note sur Google même ni le texte des avis n'ont pu être lus, et PagesJaunes n'en affiche aucun."
+    },
+    {
+      "question": "Le Cap a-t-il repris l'Olisbos ?",
+      "answer": "Non, d'après les registres. Le Cap occupe depuis 2021 le 14 rue des Isles, ancienne adresse de l'Olisbos fermé en 2018, mais avec une autre société et un fonds créé, sans rachat. Aucune source ne relie les deux exploitants."
+    }
+  ],
+  "unverified": [
+    "Le début, la durée et le motif de l'interruption qui a précédé la nuit du 11 juillet 2026.",
+    "La note Google du club, vue sur Google même, et le contenu des avis.",
+    "Ce que montre la galerie photo officielle, annoncée « en cours de modifications » en octobre 2026.",
+    "La cage, la salle de massage et la seconde croix de Saint-André, mentionnées par la seule fiche DISH.",
+    "Les ouvertures occasionnelles du vendredi et du dimanche évoquées par un annuaire en 2025.",
+    "Le contenu des pages Facebook du club, fermées aux visiteurs non connectés.",
+    "Le compte Instagram @cap_club_prive : la fiche DISH l'attribue au club, mais ni le site actuel ni celui de 2022 n'y renvoient, et il n'est lisible qu'après connexion."
+  ],
+  "sources": [
+    { "id": "s1", "label": "Le Cap, site officiel : accueil, tarifs 2026, règlement intérieur, dress code, services et mentions légales", "url": "https://le-cap-moneteau.eatbu.com/?lang=fr", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s2", "label": "Le Cap, site officiel : agenda des soirées (blocs « Découvrir notre événement »)", "url": "https://le-cap-moneteau.eatbu.com/?lang=fr", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s3", "label": "Annuaire des entreprises, SAS LE CAP (SIREN 902 025 824)", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/902025824", "type": "registre", "consulted": "2026-10-21" },
+    { "id": "s4", "label": "BODACC, annonces de la SAS LE CAP (création en 2021, dépôt des comptes en 2025)", "url": "https://bodacc-datadila.opendatasoft.com/api/explore/v2.1/catalog/datasets/annonces-commerciales/records?where=registre%20like%20%22%25902025824%25%22", "type": "registre", "consulted": "2026-10-21" },
+    { "id": "s5", "label": "Ancien site officiel lecapclubprive.com, archive du 21/03/2022", "url": "https://web.archive.org/web/20220321173811/https://www.lecapclubprive.com/", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s6", "label": "PagesJaunes, fiche « Le Cap Club Prive »", "url": "https://www.pagesjaunes.fr/pros/63357590", "type": "annuaire", "consulted": "2026-10-21" },
+    { "id": "s7", "label": "Minuit Libertin, « Le Cap à Auxerre » (tarifs relevés le 08/10/2025, note Google relayée)", "url": "https://minuitlibertin.com/le-cap-a-auxerre/", "type": "annuaire", "consulted": "2026-10-21" },
+    { "id": "s8", "label": "DISH, fiche « LE CAP, Monéteau »", "url": "https://www.dish.guide/fr/le-cap-6/", "type": "annuaire", "consulted": "2026-10-21" },
+    { "id": "s9", "label": "Bottin.fr, fiche « Le Cap club prive » (note Google relayée)", "url": "https://www.bottin.fr/fiche-locale/iiegcjdcjeficgcbfdj--le-cap-club-prive--moneteau.htm", "type": "annuaire", "consulted": "2026-10-21" },
+    { "id": "s10", "label": "Facebook, page « Le Cap Club Privé » (extrait de moteur de recherche : « 4 années » fêtées le samedi 13 septembre)", "url": "https://www.facebook.com/people/Le-Cap-Club-Priv%C3%A9/100072327465118/", "type": "reseau_social", "consulted": "2026-10-21" },
+    { "id": "s11", "label": "Sauna Club Le Bali, « Guide clubs libertins Yonne (89) », 04/04/2026", "url": "https://www.saunaclublebali.fr/clubs-libertins-yonne-89/", "type": "annuaire", "consulted": "2026-10-21" },
+    { "id": "s12", "label": "Recherche d'entreprises, établissements au 14 rue des Isles à Monéteau", "url": "https://recherche-entreprises.api.gouv.fr/search?q=14%20rue%20des%20isles%20moneteau", "type": "registre", "consulted": "2026-10-21" },
+    { "id": "s13", "label": "Restaurant Guru, fiche « Le Cap Club Privé »", "url": "https://restaurantguru.com/Le-Cap-club-prive-Auxerre", "type": "annuaire", "consulted": "2026-10-21" },
+    { "id": "s14", "label": "Test d'accès du 21/10/2026 : site actuel en ligne, domaine lecapclubprive.com éteint", "url": "https://le-cap-moneteau.eatbu.com/", "type": "autre", "consulted": "2026-10-21" },
+    { "id": "s15", "label": "BODACC, SARL LYS, exploitante de L'Olisbos (liquidation judiciaire du 24/04/2018)", "url": "https://bodacc-datadila.opendatasoft.com/api/explore/v2.1/catalog/datasets/annonces-commerciales/records?where=registre%20like%20%22%25802890350%25%22", "type": "registre", "consulted": "2026-10-21" },
+    { "id": "s16", "label": "L'Olisbos, ancien site officiel, archive du 22/11/2018 (« fermeture définitive »)", "url": "https://web.archive.org/web/20181122101221/http://www.olisbos-libertin.com/club/", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s17", "label": "Sauna Icaunais Mixte (Auxerre), site officiel : ouvert 7 jours sur 7 depuis avril 2025, annonces datées jusqu'au 15/08/2026", "url": "https://www.sauna-auxerre.fr/", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s18", "label": "Registre des entreprises, RUBIX GPNF, enseigne « Rubix Club » à Appoigny : société cessée, établissement fermé le 12/03/2015", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/539757245", "type": "registre", "consulted": "2026-10-16" },
+    { "id": "s19", "label": "Test d'accès aux sites du Venusia et du Rubix, 19/10/2026 : Venusia sans réponse, lerubix.com redirigé vers une vente de noms de domaine", "url": "http://www.venusia-rencontre-libertin-vergigny.com", "type": "autre", "consulted": "2026-10-19" },
+    { "id": "s20", "label": "clubech.fr, page « Le Venusia (fermé) » (titre vu en résultat de recherche)", "url": "http://www.clubech.fr/venusia/", "type": "annuaire", "consulted": "2026-10-19" },
+    { "id": "s21", "label": "Site officiel de La P'tite Pause, bar naturiste à Joigny : horaires, actualités datées des 7, 10 et 12/10/2026", "url": "https://www.ptitepause.com/", "type": "officiel", "consulted": "2026-10-19" },
+    { "id": "s22", "label": "Site officiel de L'Implicite (Villeblevin), horaires et tarifs 2025", "url": "https://www.limplicite.com/tarifsethoraires.html", "type": "officiel", "consulted": "2026-10-19" }
+  ]
+}

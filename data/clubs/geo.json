@@ -3230,5 +3230,29 @@
   "label": "164 Avenue des Graviers 03200 Abrest",
   "score": 0.96,
   "query": "164 avenue des Graviers 03200 Abrest"
+ },
+ "le-cap-moneteau": {
+  "lat": 47.830149,
+  "lon": 3.576247,
+  "precision": "housenumber",
+  "label": "14 Rue des Isles 89470 Monéteau",
+  "score": 0.95,
+  "query": "14 rue des Isles 89470 Monéteau"
+ },
+ "l-autre-quai-nantes": {
+  "lat": 47.20956,
+  "lon": -1.56587,
+  "precision": "housenumber",
+  "label": "68 Quai de la Fosse 44100 Nantes",
+  "score": 0.98,
+  "query": "68 quai de la Fosse 44100 Nantes"
+ },
+ "le-chaperon-rouge-chalon-sur-saone": {
+  "lat": 46.783903,
+  "lon": 4.845079,
+  "precision": "housenumber",
+  "label": "8 Impasse de la Tranchée 71100 Chalon-sur-Saône",
+  "score": 0.97,
+  "query": "8 impasse de la Tranchée 71100 Chalon-sur-Saône"
  }
 }

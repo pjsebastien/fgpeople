@@ -1,0 +1,19 @@
+{
+  "id": "new-l-autre-quai-nantes",
+  "nom": "L'Autre Quai",
+  "type": "bar de cruising gay",
+  "types_normalises": ["Bar", "Gay friendly"],
+  "adresse": "68 quai de la Fosse",
+  "code_postal": "44100",
+  "ville": "Nantes",
+  "departement_code": "44",
+  "departement_nom": "Loire-Atlantique",
+  "region": "Pays de la Loire",
+  "pays": "France",
+  "telephone": "0240716805",
+  "email": "",
+  "site_web": "http://www.lautrequai.com/",
+  "equipements": ["Bar", "Backroom", "Dark room", "Cabines", "Sling", "Glory hole", "Salon ou espace vidéo", "Vestiaire", "Surface de 220 m² sur deux niveaux"],
+  "verification": { "status": "actif" },
+  "addedAt": "2026-10-21"
+}

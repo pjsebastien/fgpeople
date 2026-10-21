@@ -1,0 +1,19 @@
+{
+  "id": "new-le-chaperon-rouge-chalon-sur-saone",
+  "nom": "Le Chaperon Rouge",
+  "type": "sauna libertin et love shop",
+  "types_normalises": ["Sauna", "Spa & Wellness", "Gay friendly"],
+  "adresse": "8 impasse de la Tranchée",
+  "code_postal": "71100",
+  "ville": "Chalon-sur-Saône",
+  "departement_code": "71",
+  "departement_nom": "Saône-et-Loire",
+  "region": "Bourgogne-Franche-Comté",
+  "pays": "France",
+  "telephone": "0385486389",
+  "email": "",
+  "site_web": "https://www.lechaperonrouge.fr/",
+  "equipements": ["Love shop (lingerie, jouets, huiles)", "Rayon vape et e-liquides", "Sauna", "Jacuzzi", "Coins câlins", "Glory hole", "Vestiaires", "Douches", "Parking privé"],
+  "verification": { "status": "actif" },
+  "addedAt": "2026-10-21"
+}

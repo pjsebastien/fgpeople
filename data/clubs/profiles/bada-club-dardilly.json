@@ -1,0 +1,891 @@
+{
+  "slug": "bada-club-dardilly",
+  "clubId": "new-bada-club-dardilly",
+  "researchedAt": "2026-10-20",
+  "display": {
+    "nom": "Bada Club",
+    "ville": "Dardilly"
+  },
+  "status": {
+    "value": "ouvert",
+    "summary": "Le site officiel annonçait un Grand Bada le samedi 10 octobre 2026 et met en avant une soirée Halloween le samedi 31 octobre, billet modifié le 13 octobre ; BADACLUB SAS, la société qui exploite le lieu depuis son ouverture le 3 juin 2026, a fait publier le dépôt de ses comptes 2025 au BODACC le 15 octobre 2026.",
+    "sources": [
+      "s1",
+      "s3",
+      "s4",
+      "s12",
+      "s15",
+      "s17"
+    ]
+  },
+  "seo": {
+    "title": "Bada Club Dardilly, ex-Badaboom : tarifs, hommes seuls, horaires",
+    "metaDescription": "Ouvert le 3 juin 2026 dans l'ancien Badaboom : sauna naturiste du mardi au samedi, Grand Bada habillé le samedi soir, couple 30 à 60 €, homme seul 75 €.",
+    "subtitle": "Sauna libertin naturiste et club du samedi soir sur 1 200 m² à Dardilly (69)",
+    "targetQueries": [
+      "bada club",
+      "bada club dardilly",
+      "badaboom dardilly",
+      "bada club avis",
+      "bada club tarifs",
+      "club libertin dardilly",
+      "sauna libertin lyon"
+    ]
+  },
+  "lead": "Dans les locaux réaménagés de l'ancien Badaboom, que son site disait fermé pour travaux en décembre 2022, le Bada Club a ouvert le 3 juin 2026 ; sa société exploitante s'appelait BADABOOM jusqu'en 2022. Sur 1 200 m² près de la sortie A6 « Porte de Lyon », il tourne en sauna libertin naturiste du mardi au samedi après-midi, puis en club habillé le samedi soir. Les hommes seuls y entrent trois jours sur cinq, à 75 €.",
+  "glance": [
+    {
+      "icon": "calendar",
+      "label": "Ouvert",
+      "value": "Du mardi au samedi ; fermé dim. et lundi"
+    },
+    {
+      "icon": "euro",
+      "label": "Entrée couple",
+      "value": "30 € (mercredi) à 60 € (jeudi, samedi)"
+    },
+    {
+      "icon": "users",
+      "label": "Homme seul",
+      "value": "75 € mar. dès 20 h, mer. et ven."
+    },
+    {
+      "icon": "spa",
+      "label": "Formule",
+      "value": "Sauna naturiste, club habillé le samedi soir"
+    },
+    {
+      "icon": "ruler",
+      "label": "Surface",
+      "value": "1 200 m², zone couples et zone mixte"
+    },
+    {
+      "icon": "history",
+      "label": "Ouvert depuis",
+      "value": "3 juin 2026, dans l'ancien Badaboom"
+    }
+  ],
+  "audience": [
+    {
+      "who": "couples",
+      "status": "oui",
+      "detail": "Les cinq jours d'ouverture ; une zone du club leur est réservée",
+      "price": "30 à 60 €"
+    },
+    {
+      "who": "femmes",
+      "status": "oui",
+      "detail": "Tous les jours d'ouverture, Grand Bada du samedi soir compris",
+      "price": "15 €"
+    },
+    {
+      "who": "hommes",
+      "status": "selon",
+      "detail": "Mardi dès 20 h, mercredi, vendredi ; jeudi et samedi seulement avec un couple",
+      "price": "75 €"
+    }
+  ],
+  "highlights": [
+    "Samedi soir, tenue de soirée exigée : talons et pas de pantalon pour les femmes, chemise ou polo, pantalon et chaussures de ville pour les hommes.",
+    "Le samedi, fermeture de 20 h à 22 h : le billet de l'après-midi ne vaut pas pour la nuit, mais le retour le soir même coûte 10 €.",
+    "Aucun numéro de rue publié : visez la sortie A6 « Porte de Lyon » ; le club annonce un parking privé gratuit et fermé.",
+    "Serviette, paréo, casier et softs à volonté compris, alcool non compris ; carte bancaire ou espèces, American Express refusée.",
+    "Fermé le dimanche et le lundi, malgré les soirées de ces deux jours annoncées par un guide lyonnais au moment de l'ouverture."
+  ],
+  "keyFacts": [
+    {
+      "label": "Ouverture",
+      "value": "3 juin 2026, dans les locaux réaménagés de l'ancien Badaboom",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s18",
+        "s22"
+      ]
+    },
+    {
+      "label": "Société",
+      "value": "BADACLUB SAS (ex-BADABOOM), SIREN 879 395 887, créée le 18/11/2019",
+      "confidence": "confirme",
+      "sources": [
+        "s10",
+        "s15",
+        "s16"
+      ]
+    },
+    {
+      "label": "Avant 2026",
+      "value": "Le Badaboom, club de 600 m² ouvert le vendredi et le samedi soir (site archivé, 2020)",
+      "confidence": "source_unique",
+      "sources": [
+        "s27",
+        "s28"
+      ]
+    },
+    {
+      "label": "Formule",
+      "value": "Sauna libertin naturiste du mardi au samedi après-midi, club habillé le samedi soir",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s3"
+      ]
+    },
+    {
+      "label": "Surface",
+      "value": "1 200 m², une zone réservée aux couples et une zone mixte",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s6",
+        "s7",
+        "s18"
+      ]
+    },
+    {
+      "label": "Public admis",
+      "value": "Couples et femmes seules tous les jours ; hommes seuls mardi dès 20 h, mercredi et vendredi",
+      "confidence": "confirme",
+      "sources": [
+        "s2",
+        "s3",
+        "s22"
+      ]
+    },
+    {
+      "label": "Entrée",
+      "value": "Femme seule 15 €, couple 30 à 60 €, homme seul 75 €",
+      "confidence": "confirme",
+      "sources": [
+        "s2",
+        "s3",
+        "s22",
+        "s23"
+      ]
+    },
+    {
+      "label": "Fermeture hebdomadaire",
+      "value": "Dimanche et lundi",
+      "confidence": "confirme",
+      "sources": [
+        "s3",
+        "s21"
+      ]
+    },
+    {
+      "label": "Téléphones du site",
+      "value": "04 82 29 32 18 (données du site) et 07 56 90 36 17 (page Contact)",
+      "confidence": "source_unique",
+      "sources": [
+        "s2",
+        "s8"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "hommes-seuls-trois-jours",
+      "title": "Hommes seuls le mardi soir, le mercredi et le vendredi, à 75 €",
+      "icon": "users",
+      "summary": "Couples et femmes seules entrent les cinq jours d'ouverture ; l'homme seul le mardi dès 20 h, le mercredi et le vendredi à 75 €, le jeudi et le samedi seulement avec un couple.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Chaque journée porte un nom, et ce nom dit souvent qui est attendu. Grille relevée sur le site officiel le 20 octobre 2026 :"
+        },
+        {
+          "kind": "table",
+          "caption": "Qui entre, jour par jour",
+          "headers": [
+            "Jour",
+            "Intitulé du club",
+            "Homme seul"
+          ],
+          "rows": [
+            [
+              "Mardi",
+              "Les Premières Fois",
+              "Admis à partir de 20 h"
+            ],
+            [
+              "Mercredi",
+              "Les Mercredis À Plusieurs",
+              "Admis"
+            ],
+            [
+              "Jeudi",
+              "Adopte un Couple",
+              "Refusé, sauf avec un couple"
+            ],
+            [
+              "Vendredi",
+              "La Fièvre du Vendredi",
+              "Admis"
+            ],
+            [
+              "Samedi",
+              "L'Aprèm des Coquins, puis Le Grand Bada",
+              "Refusé, sauf avec un couple"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "L'homme seul paie **75 €** les jours où il est admis ; la femme seule **15 €** tous les jours, sauf 20 € au Grand Bada du 10 octobre 2026. Le couple paie de 30 € le mercredi à 60 € le jeudi et le samedi."
+        },
+        {
+          "kind": "text",
+          "body": "Le mercredi, journée la moins chère pour les couples, est associé au gang bang : l'adresse d'un billet du site porte la mention « mercredis gangbang », et l'annuaire Sauna Club Le Bali désigne ce jour ainsi. Le contenu du billet, chargé en JavaScript, n'a pas pu être lu."
+        },
+        {
+          "kind": "text",
+          "body": "Le jeudi « Adopte un Couple » et le samedi, l'homme seul n'est pas admis. Il entre pourtant s'il arrive avec un couple, comme les autres jours : 75 € pour lui, en plus des 60 € du couple."
+        },
+        {
+          "kind": "text",
+          "body": "Seul, il vous faut donc d'abord [trouver le couple qui vous fera passer la porte un jeudi ou un samedi](aff:carre-libertin). Carré Libertin déclare environ 60 % de femmes et de couples pour 40 % d'hommes ; un homme s'y inscrit sans payer, mais doit s'abonner pour ouvrir une conversation."
+        }
+      ],
+      "sources": [
+        "s2",
+        "s3",
+        "s4",
+        "s23"
+      ]
+    },
+    {
+      "id": "sauna-nu-grand-bada",
+      "title": "Nu au sauna jusqu'au samedi 20 h, talons exigés au Grand Bada de 22 h",
+      "icon": "spa",
+      "summary": "En semaine et le samedi après-midi, on circule nu ou en serviette ; le samedi de 22 h à 5 h, le Grand Bada impose une tenue de soirée, après deux heures de fermeture.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Du mardi au vendredi, et le samedi de 14 h à 20 h, le Bada Club est un sauna libertin naturiste. Les vêtements restent au vestiaire ; le club fournit serviette et paréo, et accepte les vôtres. Le vendredi, ses horaires ajoutent la mention « ambiance clubbing », jusqu'à 3 h."
+        },
+        {
+          "kind": "list",
+          "title": "Tenue exigée au Grand Bada (samedi, 22 h-5 h)",
+          "items": [
+            "Femmes : talons obligatoires, pantalon interdit.",
+            "Hommes : chemise ou polo, pantalon et chaussures de ville ; pas de survêtement."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le samedi, **le lieu ferme de 20 h à 22 h** entre les deux formules. Le billet de l'après-midi ne vaut pas pour la nuit, mais revenir le soir même coûte 10 €, au couple comme à la femme seule."
+        },
+        {
+          "kind": "text",
+          "body": "Deux annuaires présentent encore le samedi soir comme réservé aux couples. La FAQ du club y admet aussi les femmes seules, à 15 €, et c'est elle que nous retenons."
+        }
+      ],
+      "sources": [
+        "s2",
+        "s3",
+        "s19",
+        "s23"
+      ]
+    },
+    {
+      "id": "1200-m2-deux-zones",
+      "title": "1 200 m² coupés en deux : une zone 100 % couples, une zone mixte",
+      "icon": "building",
+      "summary": "Le club revendique 1 200 m² avec sauna finlandais, hammam, jacuzzi, plus de quinze coins câlins, labyrinthe et backroom, répartis entre une zone couples et une zone mixte.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le site décrit deux zones sous le même toit, l'une réservée aux couples, l'autre mixte, entre lesquelles on circule librement. Il présente ce découpage comme unique dans la région lyonnaise, ce que nous n'avons pas vérifié ; le Badaboom avait déjà deux zones en 2020."
+        },
+        {
+          "kind": "text",
+          "body": "Une page du site parle de 1 200 m² « de plain-pied », alors que la page d'un fournisseur du club situe les coins câlins et le cinéma « à l'étage supérieur ». Une autre page revendique plus de 300 visiteurs par semaine, un chiffre que rien d'extérieur ne permet de contrôler."
+        },
+        {
+          "kind": "list",
+          "title": "Équipements cités par le club",
+          "items": [
+            "Sauna finlandais, hammam et jacuzzi",
+            "Plus de quinze coins câlins, et des salons câlins",
+            "Labyrinthe et backroom",
+            "Salle de cinéma",
+            "Bars, pistes de danse et espace clubbing",
+            "Espace détente, douches et vestiaire à casiers"
+          ]
+        },
+        {
+          "kind": "list",
+          "title": "Annoncés ailleurs, absents des pages lisibles du site",
+          "items": [
+            "Suites privées et fumoir : site du Bada Bar et article d'ouverture de Sortir à Lyon ; la fiche du même guide précise deux suites thématiques, dont une BDSM.",
+            "Love room, glory hole dans le labyrinthe et buffet en espace détente : fiche de Sortir à Lyon.",
+            "Vestiaires séparés pour couples, hommes seuls et femmes seules, et spa privatisable : article d'ouverture de Sortir à Lyon. Le site, lui, propose de privatiser le club pour un enterrement de vie de garçon ou de jeune fille ou un anniversaire, sur devis.",
+            "Barre de pole dance et DJ le samedi soir : Sauna Club Le Bali ; le site a publié un billet de recrutement de DJ."
+          ]
+        }
+      ],
+      "sources": [
+        "s1",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s18",
+        "s19",
+        "s20",
+        "s23",
+        "s24",
+        "s28",
+        "s30"
+      ]
+    },
+    {
+      "id": "sortie-a6-porte-de-lyon",
+      "title": "Sortie A6 « Porte de Lyon », secteur Néronde : parking fermé, pas de numéro de rue",
+      "icon": "car",
+      "summary": "Le club n'affiche que « Porte de Lyon, 69570 Dardilly », annonce 10 à 15 minutes depuis la Presqu'île ou la Part-Dieu et dispose d'un parking privé gratuit et fermé.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le club ne publie aucun numéro de voie. Le registre des entreprises situe l'établissement à « Neronde Porte de Lyon », et Sortir à Lyon le place avenue de la Porte de Lyon, secteur Néronde. Depuis la Presqu'île ou la Part-Dieu, le club compte 10 à 15 minutes par l'A6."
+        },
+        {
+          "kind": "text",
+          "body": "Sur place, la FAQ promet un **parking privé, gratuit et fermé**. Le site affiche deux numéros : le 04 82 29 32 18 dans ses données de référencement, repris par PagesJaunes et Sortir à Lyon, et le 07 56 90 36 17 sur sa page Contact. Un troisième numéro, donné par Sauna Club Le Bali, n'est pas retenu."
+        },
+        {
+          "kind": "list",
+          "title": "Avant de partir",
+          "items": [
+            "Réservation : inutile, sauf pour une table ou un groupe.",
+            "Paiement : carte bancaire ou espèces ; American Express refusée."
+          ]
+        }
+      ],
+      "sources": [
+        "s2",
+        "s3",
+        "s8",
+        "s15",
+        "s19",
+        "s21",
+        "s23"
+      ]
+    },
+    {
+      "id": "voisins-bada-bar-cocoon",
+      "title": "Bada Bar quai Gailleton, Cocoon Club à Tassin : aucun autre lieu à Dardilly",
+      "icon": "map",
+      "summary": "Le site du Bada Bar, à Lyon 2e, présente le club comme sa « suite logique » ; aucun autre lieu libertin n'est apparu à Dardilly ni à Écully, Limonest ou Champagne-au-Mont-d'Or.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le site du [Bada Bar](/bada-bar-rencontres-libertines), bar libertin du quai Gailleton à Lyon (2e), présente le club de Dardilly comme sa « suite logique », et le site du club fait du bar son « before ». Le lien est ancien : en décembre 2022, le site du Badaboom, fermé pour travaux, renvoyait déjà ses clients vers le Bada Bar. Aucun document consulté ne rattache pour autant les deux lieux à une même société."
+        },
+        {
+          "kind": "text",
+          "body": "Notre recherche d'octobre 2026 n'a trouvé aucun autre lieu libertin à Dardilly, Écully, Limonest ou Champagne-au-Mont-d'Or. Le plus proche à l'ouest est [Le Cocoon Club, à Tassin-la-Demi-Lune](/le-cocoon-club-tassin-la-demi-lune), dont nous n'avons pas vérifié l'activité. À Lyon, [Le Diamant](/le-diamant-lyon) affichait le 19 octobre 2026 un programme de soirées daté jusqu'au samedi 12 décembre 2026."
+        },
+        {
+          "kind": "text",
+          "body": "Pour comparer les formules, voyez les [saunas libertins de Lyon](/sauna-libertin/ville/lyon) et l'ensemble des [lieux libertins du Rhône](/departement/rhone)."
+        }
+      ],
+      "sources": [
+        "s4",
+        "s20",
+        "s26",
+        "s29",
+        "s30"
+      ]
+    },
+    {
+      "id": "badaboom-devenu-badaclub",
+      "title": "BADABOOM SAS, créée en novembre 2019, rebaptisée BADACLUB en 2022",
+      "icon": "history",
+      "summary": "BADACLUB SAS, qui exploite le Bada Club, est née BADABOOM SAS le 18 novembre 2019 et a changé de nom en janvier 2022, plus de quatre ans avant l'ouverture de juin 2026.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le site cite « Badaboom » et « Bada Boom » parmi ses autres noms et présente le club comme l'ancien Badaboom, réaménagé. Au registre, sa société exploitante est l'ancienne BADABOOM SAS, établie « Porte de Lyon » à Dardilly. Le 07 56 90 36 17 de la page Contact actuelle figurait déjà sur le site du Badaboom en 2020."
+        },
+        {
+          "kind": "text",
+          "body": "PagesJaunes affiche toujours le lieu sous le nom de Badaboom, avec les horaires actuels."
+        },
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "18 novembre 2019",
+              "text": "Création de BADABOOM SAS, code NAF 56.30Z (débit de boissons)."
+            },
+            {
+              "date": "Février 2020",
+              "text": "Le BODACC publie un changement dans l'administration de la société."
+            },
+            {
+              "date": "Mai 2020",
+              "text": "Première capture archivée du site badaboom-club.fr, qui présente un « nouveau club libertin » de 600 m² à la Porte de Lyon."
+            },
+            {
+              "date": "12 février 2021",
+              "text": "Début d'activité de l'établissement de Dardilly, selon le registre."
+            },
+            {
+              "date": "Novembre 2021",
+              "text": "Première capture archivée du domaine bada-club.fr, qui n'est alors qu'une redirection."
+            },
+            {
+              "date": "20 janvier 2022",
+              "text": "Changement de dénomination publié au BODACC : BADABOOM devient BADACLUB."
+            },
+            {
+              "date": "Décembre 2022",
+              "text": "Le site du Badaboom annonce le club « fermé pour travaux » et renvoie vers le Bada Bar, à Lyon."
+            },
+            {
+              "date": "17 juin 2025",
+              "text": "Dernière capture archivée de bada-club.fr : l'hébergement du site est suspendu."
+            },
+            {
+              "date": "3 juin 2026",
+              "text": "Ouverture du Bada Club ; Sortir à Lyon annonçait l'inauguration ce mercredi-là à partir de 20 h."
+            },
+            {
+              "date": "15 octobre 2026",
+              "text": "Dépôt des comptes 2025 publié au BODACC, comme ceux de chaque exercice depuis 2020."
+            }
+          ]
+        }
+      ],
+      "sources": [
+        "s1",
+        "s2",
+        "s8",
+        "s14",
+        "s15",
+        "s16",
+        "s17",
+        "s18",
+        "s21",
+        "s27",
+        "s29"
+      ]
+    },
+    {
+      "id": "badaboom-avant-2026",
+      "title": "Le Badaboom de 2020 : 600 m², vendredi et samedi soir, un agenda arrêté en avril",
+      "icon": "info",
+      "summary": "Archivé en 2020, le site du Badaboom décrivait un club de 600 m² en deux zones, ouvert le vendredi et le samedi soir ; son agenda n'a jamais dépassé le 10 avril 2020.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Les captures de mai et d'août 2020 du site badaboom-club.fr présentent un « nouveau club libertin » de 600 m², à dix minutes de Lyon, ouvert le vendredi de 21 h à 4 h et le samedi de 21 h à 5 h. Un ancien descriptif du Petit Futé, lu en extrait de recherche seulement, donnait la même surface."
+        },
+        {
+          "kind": "list",
+          "title": "Les deux zones du Badaboom, selon son site en 2020",
+          "items": [
+            "Zone couples et femmes seules, avec piste de danse, bar et douches.",
+            "Zone mixte, ouverte aussi aux hommes seuls, avec son propre bar et ses coins câlins.",
+            "Passage à sens unique : la zone couples accède à la zone mixte, pas l'inverse, sous le contrôle d'un agent d'accueil.",
+            "Dans les deux zones : blackrooms, labyrinthes et un glory hole."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "L'agenda archivé s'arrête à sept soirées du 20 mars au 10 avril 2020, encore affichées telles quelles en octobre 2022. Nous ignorons si le club a rouvert entre 2020 et 2022. Une page commerciale d'un fournisseur, du 22 juillet 2026, parle d'un retour « six ans après sa fermeture »."
+        },
+        {
+          "kind": "text",
+          "body": "Le registre date de février 2021 le début d'activité de l'établissement, soit après les dates de ces soirées annoncées en 2020 : nous n'avons pas trouvé l'explication de cet écart."
+        }
+      ],
+      "sources": [
+        "s15",
+        "s24",
+        "s25",
+        "s27",
+        "s28"
+      ]
+    },
+    {
+      "id": "avis-pagesjaunes-et-site",
+      "title": "4,7/5 affiché par le club, 3,5/5 sur PagesJaunes pour deux avis",
+      "icon": "star",
+      "summary": "La seule note indépendante relevée, sur PagesJaunes, est de 3,5/5 pour 2 avis au 20 octobre 2026 ; le 4,7/5 du site porte sur dix avis que le club publie lui-même.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le 4,7/5 affiché par le club repose sur dix avis qu'il recueille et publie ; les cinq que nous avons lus datent du 8 juillet au 30 août 2026. C'est une vitrine, pas un relevé indépendant."
+        },
+        {
+          "kind": "text",
+          "body": "Sur PagesJaunes, un avis de 2/5 publié le 30 septembre 2026 salue le sauna mais reproche au club son ambiance et sa musique trop forte, pour une visite datée du 21 septembre, un lundi, jour de fermeture selon le site. L'autre, un 5/5 de décembre 2025, précède l'ouverture et ne raconte aucune visite. Nous n'avons pas relevé de note Google."
+        }
+      ],
+      "sources": [
+        "s2",
+        "s9",
+        "s21"
+      ]
+    },
+    {
+      "id": "agenda-automne-2026",
+      "title": "Soirée officielle Wyylde le 10 octobre, Halloween masqué le 31",
+      "icon": "calendar",
+      "summary": "Après L'École du Vice le 5 septembre, le site a annoncé une soirée officielle Wyylde le samedi 10 octobre 2026 et une soirée Halloween le samedi 31 octobre, de 22 h à 5 h.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le blog du club ne s'affiche que dans un navigateur : nous en connaissons les titres par le plan du site et quelques lignes par des extraits de moteur de recherche. Les dates relevées :"
+        },
+        {
+          "kind": "list",
+          "items": [
+            "Samedi 5 septembre 2026 : « L'École du Vice », soirée de rentrée.",
+            "Samedi 10 octobre 2026 : Grand Bada en « soirée officielle Wyylde », de 22 h à 5 h, pour couples et femmes seules ; la femme seule y payait 20 €.",
+            "Samedi 31 octobre 2026 : soirée Halloween de 22 h à 5 h, masques autorisés et stand de maquillage, selon l'extrait d'un billet modifié le 13 octobre."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "La soirée du 10 octobre est le seul lien public entre le club et un site de rencontre que nous ayons trouvé. Pour arriver au prochain Grand Bada déjà accompagnés, vous pouvez [repérer des partenaires de sortie dans la métropole lyonnaise](aff:wyylde) parmi les quelque 7 millions de membres que Wyylde dit compter."
+        },
+        {
+          "kind": "text",
+          "body": "À l'ouverture, Sortir à Lyon annonçait un club ouvert sept jours sur sept, avec « La Mise en Bouche » le lundi et « La Messe Coquine » le dimanche. Le site n'en parle plus et indique une fermeture le dimanche et le lundi."
+        }
+      ],
+      "sources": [
+        "s3",
+        "s4",
+        "s11",
+        "s12",
+        "s13",
+        "s18"
+      ]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Mardi": "13 h - 1 h (hommes seuls à partir de 20 h)",
+      "Mercredi": "13 h - 2 h",
+      "Jeudi": "13 h - 2 h",
+      "Vendredi": "13 h - 3 h",
+      "Samedi": "14 h - 20 h (sauna), puis 22 h - 5 h (Grand Bada)",
+      "Dimanche et lundi": "Fermé"
+    },
+    "note": "Relevé sur le site officiel le 20/10/2026 (FAQ modifiée le 28/09/2026). En juin 2026, un guide lyonnais annonçait une ouverture sept jours sur sept, que le site n'affiche plus.",
+    "confidence": "confirme",
+    "sources": [
+      "s2",
+      "s3",
+      "s18",
+      "s21"
+    ]
+  },
+  "tarifs": {
+    "rows": {
+      "Couple": "45 € mardi, 30 € mercredi, 60 € jeudi, 45 € vendredi, 60 € samedi",
+      "Femme seule": "15 € tous les jours",
+      "Homme seul": "75 € (mardi dès 20 h, mercredi, vendredi) ; non admis jeudi et samedi",
+      "Homme accompagnant un couple": "75 € tous les jours, en plus de l'entrée du couple",
+      "Retour au Grand Bada après l'après-midi du samedi": "10 € (couple ou femme seule)"
+    },
+    "note": "Compris selon la FAQ officielle : serviette, paréo, casier et softs à volonté ; alcool non compris. La page Tarifs du même site parle d'une « première consommation » incluse.",
+    "confidence": "confirme",
+    "sources": [
+      "s2",
+      "s3",
+      "s5"
+    ]
+  },
+  "equipements": [
+    "Surface de 1 200 m²",
+    "Zone réservée aux couples et zone mixte",
+    "Sauna finlandais",
+    "Hammam",
+    "Jacuzzi",
+    "Plus de quinze coins câlins",
+    "Labyrinthe et backroom",
+    "Salle de cinéma",
+    "Bars, pistes de danse et espace clubbing",
+    "Espace détente et douches",
+    "Vestiaire à casiers, serviette et paréo fournis",
+    "Parking privé gratuit et fermé"
+  ],
+  "officialLinks": [
+    {
+      "label": "Site officiel du Bada Club",
+      "url": "https://bada-club.fr/",
+      "kind": "site"
+    },
+    {
+      "label": "Agenda des soirées",
+      "url": "https://bada-club.fr/soirees/agenda/",
+      "kind": "agenda"
+    },
+    {
+      "label": "Instagram (compte badaboom.club, lié par le site)",
+      "url": "https://www.instagram.com/badaboom.club/",
+      "kind": "instagram"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Le Bada Club de Dardilly est-il l'ancien Badaboom ?",
+      "answer": "Oui. Il a ouvert le 3 juin 2026 dans les locaux du Badaboom, réaménagés. Sa société exploitante, créée en 2019 sous le nom de BADABOOM SAS, s'appelle BADACLUB depuis janvier 2022, et le numéro mobile de sa page Contact est celui qu'affichait le Badaboom en 2020. Le site du club cite encore « Badaboom » parmi ses autres noms, et PagesJaunes affiche toujours la fiche sous ce nom."
+    },
+    {
+      "question": "Un homme seul peut-il entrer au Bada Club ?",
+      "answer": "Le mardi à partir de 20 h, le mercredi et le vendredi, pour 75 €. Le jeudi et le samedi, il n'entre qu'avec un couple : il paie alors 75 €, et le couple son tarif du jour."
+    },
+    {
+      "question": "Combien coûte l'entrée au Bada Club ?",
+      "answer": "Femme seule 15 € ; couple 30 € le mercredi, 45 € le mardi et le vendredi, 60 € le jeudi et le samedi ; homme seul 75 €. Selon la FAQ du club, serviette, paréo, casier et softs à volonté sont compris, pas l'alcool. Carte bancaire ou espèces, sans American Express."
+    },
+    {
+      "question": "Le Bada Club est-il ouvert le dimanche ou le lundi ?",
+      "answer": "Non. Le site indiquait au 20 octobre 2026 une fermeture le dimanche et le lundi. Les soirées « La Mise en Bouche » (lundi) et « La Messe Coquine » (dimanche), annoncées par Sortir à Lyon en juin 2026, n'apparaissent plus."
+    },
+    {
+      "question": "Comment se passe une première visite au Bada Club ?",
+      "answer": "Selon le club : vestiaire, un verre au bar, puis circulation libre dans les 1 200 m², du spa aux coins câlins, à la salle de cinéma et à l'espace clubbing. Le mardi, baptisé « Les Premières Fois », coûte 45 € au couple et n'ouvre aux hommes seuls qu'à 20 h. Un couple qui ne veut pas s'y risquer seul peut [trouver un couple tout aussi novice pour ces Premières Fois](aff:gleese) sur Gleese, dont les modérateurs contrôlent une à une les photos de profil."
+    },
+    {
+      "question": "Comment aller au Bada Club depuis Lyon et où se garer ?",
+      "answer": "Par l'A6, sortie « Porte de Lyon » : le club annonce 10 à 15 minutes depuis la Presqu'île ou la Part-Dieu, et un parking privé gratuit et fermé. Aucun numéro de rue n'est publié ; en cas de doute, appelez l'un des deux numéros du site, le 04 82 29 32 18 ou le 07 56 90 36 17."
+    },
+    {
+      "question": "Que valent les avis sur le Bada Club ?",
+      "answer": "Le club affiche 4,7/5 sur dix avis qu'il publie lui-même. Le seul relevé indépendant, sur PagesJaunes, était de 3,5/5 pour 2 avis le 20 octobre 2026, dont un seul raconte une visite (2/5 : le sauna y est salué, l'ambiance du club critiquée)."
+    }
+  ],
+  "unverified": [
+    "Le numéro de voie : le club n'affiche que « Porte de Lyon », 69570 Dardilly.",
+    "Lequel des deux numéros du site répond en priorité : 04 82 29 32 18 ou 07 56 90 36 17.",
+    "Ce que comprend l'entrée : softs à volonté selon la FAQ, « première consommation » selon la page Tarifs.",
+    "Les suites (dont une BDSM), le fumoir, la love room, le glory hole et la barre de pole dance, cités par des annuaires mais pas par les pages lisibles du site.",
+    "Le contenu des billets du blog (soirée Wyylde, Halloween, mercredis gang bang), connus par leur titre ou par extrait, et la galerie photo, non regardée.",
+    "Un canal Telegram du club, évoqué par le seul titre d'un billet du site.",
+    "Si le Badaboom a rouvert entre son agenda de mars-avril 2020 et l'annonce de travaux de décembre 2022, et la date exacte de son ouverture.",
+    "Le nombre de niveaux : « plain-pied » selon une page du site, un étage supérieur selon la page d'un fournisseur.",
+    "L'accueil des personnes trans, que le site ne mentionne pas.",
+    "La note Google du lieu, non relevée."
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Bada Club, site officiel, page d'accueil (texte de présentation)",
+      "url": "https://bada-club.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s2",
+      "label": "Bada Club, données structurées du site (horaires, entrées par soirée, autres noms, téléphone, note des avis)",
+      "url": "https://bada-club.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s3",
+      "label": "Bada Club, foire aux questions de l'accueil (public, tarifs, dress code, accès, paiement), modifiée le 28/09/2026",
+      "url": "https://bada-club.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s4",
+      "label": "Bada Club, plan du site (titres et dates de modification des pages et billets)",
+      "url": "https://bada-club.fr/sitemap.xml",
+      "type": "officiel",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s5",
+      "label": "Bada Club, page « Tarifs et conditions d'entrée »",
+      "url": "https://bada-club.fr/infos/tarifs/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s6",
+      "label": "Bada Club, pages « Notre concept » et « Zone Couples et Zone Mixte »",
+      "url": "https://bada-club.fr/club/deux-zones/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s7",
+      "label": "Bada Club, page « Nos espaces »",
+      "url": "https://bada-club.fr/club/espaces/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s8",
+      "label": "Bada Club, page « Contact et accès »",
+      "url": "https://bada-club.fr/contact/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s9",
+      "label": "Bada Club, page « Avis et témoignages » (avis hébergés par le club)",
+      "url": "https://bada-club.fr/avis/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s10",
+      "label": "Bada Club, mentions légales (BADACLUB SAS, RCS Lyon 879 395 887)",
+      "url": "https://bada-club.fr/mentions-legales/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s11",
+      "label": "Bada Club, billet « Soirée officielle Wyylde, 10 octobre » (extrait de moteur de recherche)",
+      "url": "https://bada-club.fr/blog/soiree-officielle-wyylde-bada-club-10-octobre/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s12",
+      "label": "Bada Club, billet « Soirée Halloween, 31 octobre » (extrait de moteur de recherche)",
+      "url": "https://bada-club.fr/blog/soiree-halloween-bada-club-31-octobre/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s13",
+      "label": "Bada Club, billet « L'École du Vice, rentrée des classes » (extrait de moteur de recherche)",
+      "url": "https://bada-club.fr/blog/ecole-du-vice-rentree-des-classes-bada-club/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s14",
+      "label": "Wayback Machine, historique des captures de bada-club.fr (2021-2025)",
+      "url": "https://web.archive.org/cdx/search/cdx?url=bada-club.fr&fl=timestamp,statuscode&collapse=timestamp:8",
+      "type": "autre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s15",
+      "label": "Annuaire des entreprises, BADACLUB (SIREN 879 395 887)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/879395887",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s16",
+      "label": "BODACC, changement de dénomination BADABOOM en BADACLUB (20/01/2022) et annonce du 06/02/2020",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:B202200143375",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s17",
+      "label": "BODACC, dépôt des comptes de l'exercice 2025 (15/10/2026) et dépôts des exercices 2020 à 2024",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:C202601987577",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s18",
+      "label": "Sortir à Lyon, « Bada Club Dardilly : club libertin & spa (Lyon Ouest) » (article d'ouverture, non daté)",
+      "url": "https://www.sortir-lyon.com/ouverture-bada-club-dardilly-club-libertin-spa-lyon-ouest",
+      "type": "autre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s19",
+      "label": "Sortir à Lyon, fiche « Badaclub, sauna libertin et club libertin à Dardilly »",
+      "url": "https://www.sortir-lyon.com/etablissements/coquins/badaclub-sauna-club-libertin-lyon-ouest",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s20",
+      "label": "Bada Bar (Lyon 2e), page « Le Bada Club »",
+      "url": "https://www.bada-bar.fr/club.html",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s21",
+      "label": "PagesJaunes, fiche « Badaboom » à Dardilly (horaires mis à jour le 20/10/2026, 2 avis)",
+      "url": "https://www.pagesjaunes.fr/pros/59928244",
+      "type": "avis",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s22",
+      "label": "Minuit Libertin, « Bada Club à Dardilly (Lyon) » (publié le 19/10/2026)",
+      "url": "https://minuitlibertin.com/bada-club",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s23",
+      "label": "Sauna Club Le Bali, fiche « Bada Club » (ajoutée le 22/06/2026)",
+      "url": "https://www.saunaclublebali.fr/listing/bada-club-dardilly/",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s24",
+      "label": "Système ZAP, « Le nouveau BadaClub Dardilly : renaissance » (page commerciale du 22/07/2026)",
+      "url": "https://www.systemezap.com/le-nouveau-badaclub-dardilly-renaissance/",
+      "type": "autre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s25",
+      "label": "Petit Futé, ancienne fiche « Badaboom » devenue « Bada Club & Spa » (accès refusé, lue en extrait de recherche)",
+      "url": "https://www.petitfute.co.uk/v36043-dardilly-69570/c9998-coquin/c1044-s-amuser-sortir/c206-club-libertin/1844582-badaboom.html",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s26",
+      "label": "Diamant Libertin (Lyon), page d'accueil et agenda des soirées",
+      "url": "https://www.diamant-libertin.com/",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s27",
+      "label": "Badaboom, ancien site officiel, accueil et agenda (archives du 15/05/2020, du 09/08/2020 et du 06/10/2022)",
+      "url": "https://web.archive.org/web/20200515132741/https://www.badaboom-club.fr/fr",
+      "type": "officiel",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s28",
+      "label": "Badaboom, ancien site officiel, page « Le club » (archive du 09/08/2020)",
+      "url": "https://web.archive.org/web/20200809105844/https://www.badaboom-club.fr/fr/le-club",
+      "type": "officiel",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s29",
+      "label": "Badaboom, ancien site officiel, accueil annonçant le club fermé pour travaux (archive du 07/12/2022)",
+      "url": "https://web.archive.org/web/20221207124544/https://badaboom-club.fr/fr",
+      "type": "officiel",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s30",
+      "label": "Bada Club, pages « Bada Bar », « Privatisation », « Club libertin à Lyon » et « Guide débutant » (textes pré-rendus)",
+      "url": "https://bada-club.fr/lyon/club-libertin-lyon/",
+      "type": "officiel",
+      "consulted": "2026-10-21"
+    }
+  ]
+}

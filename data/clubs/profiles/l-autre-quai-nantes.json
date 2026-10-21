@@ -1,0 +1,275 @@
+{
+  "slug": "l-autre-quai-nantes",
+  "clubId": "new-l-autre-quai-nantes",
+  "researchedAt": "2026-10-21",
+  "display": { "nom": "L'Autre Quai", "ville": "Nantes" },
+  "status": {
+    "value": "ouvert",
+    "summary": "Le 15 octobre 2026, le compte Bluesky du bar a relayé la vidéo d'un client qui trouvait le bar « méga cool ». Du 3 au 6 avril 2026, L'Autre Quai organisait chez lui la deuxième Nantes Fetish Week, vendue sur Yurplan, et les affiches de son agenda ont été déposées sur son serveur en mars et en juin 2026. L'EURL LJC, active au registre à cette adresse, semble l'exploiter : le lien est déduit, aucune enseigne n'étant déclarée.",
+    "sources": ["s7", "s8", "s5", "s11", "s12"]
+  },
+  "seo": {
+    "title": "L'Autre Quai (Nantes) : bar cruising gay, soirées fetish et horaires",
+    "metaDescription": "Bar de cruising entre hommes sur 220 m², quai de la Fosse : mercredi naturiste et cagoule à 15 €, jeudi gratuit jusqu'à 22 h, Nantes Fetish Week.",
+    "subtitle": "Bar de cruising gay sur deux niveaux, 68 quai de la Fosse à Nantes (44)",
+    "targetQueries": ["l'autre quai nantes", "autre quai nantes cruising", "bar cruising nantes", "l'autre quai nantes horaires", "nantes fetish week"]
+  },
+  "lead": "Réservé aux hommes, L'Autre Quai est un bar de cruising de 220 m² sur deux niveaux, que son site décrit dans les mêmes termes depuis décembre 2005. Il ouvre du mercredi au dimanche, avec une soirée naturiste et cagoule chaque mercredi et des thèmes qui changent selon la semaine du mois. Le bar a organisé les deux premières Nantes Fetish Week, en novembre 2025 puis en avril 2026.",
+  "glance": [
+    { "icon": "calendar", "label": "Ouvert", "value": "Du mercredi au dimanche, jusqu'à 4 h" },
+    { "icon": "users", "label": "Public", "value": "Hommes uniquement (« entre mecs »)" },
+    { "icon": "euro", "label": "Entrée", "value": "Gratuite à 17 € selon le créneau", "confidence": "source_unique" },
+    { "icon": "mask", "label": "Mercredi 19 h-23 h", "value": "Naturiste et cagoule, dress code exigé" },
+    { "icon": "ruler", "label": "Surface", "value": "220 m² sur deux niveaux", "confidence": "source_unique" },
+    { "icon": "history", "label": "Quai de la Fosse", "value": "Depuis 2005 au moins (site archivé)" }
+  ],
+  "audience": [
+    { "who": "hommes", "status": "oui", "detail": "Seul public admis ; tenue fetish, nue ou cagoulée exigée le mercredi de 19 h à 23 h", "price": "0 à 17 €" },
+    { "who": "couples", "status": "non", "detail": "Le bar se dit « entre mecs » et « #menonly » ; un guide en ligne affirme l'inverse" },
+    { "who": "femmes", "status": "non", "detail": "Non admises selon le site et le compte Bluesky du bar" }
+  ],
+  "highlights": [
+    "Le mercredi de 19 h à 23 h, l'entrée exige une tenue fetish, naturiste ou cagoule ; le bar prête une cagoule à qui n'en a pas.",
+    "Jeudi et dimanche, entrée offerte de 19 h à 22 h, puis 12 € avec une consommation ; le jeudi, le vestiaire coûte 2 € de plus.",
+    "Les dimanches naturiste, Hard et cagoule, la tenue du thème est exigée de 14 h à 19 h ; seul le dimanche « tout est permis » accepte la tenue de ville.",
+    "Aucun prix n'est publié pour le vendredi et le samedi (22 h-4 h) : renseignez-vous au 02 40 71 68 05.",
+    "Tapez l'adresse du site en http:// : en https, le navigateur bloque la page sur une erreur de certificat."
+  ],
+  "keyFacts": [
+    { "label": "Type", "value": "Bar de cruising gay, « lieu de rencontres entre mecs »", "confidence": "confirme", "sources": ["s1", "s7"] },
+    { "label": "Présence attestée", "value": "Depuis décembre 2005 (première archive du site)", "confidence": "confirme", "sources": ["s6"] },
+    { "label": "Surface", "value": "220 m² sur deux niveaux", "confidence": "source_unique", "sources": ["s1"] },
+    { "label": "Jours d'ouverture", "value": "Du mercredi au dimanche ; fermé lundi et mardi", "confidence": "confirme", "sources": ["s1", "s7"] },
+    { "label": "Entrée", "value": "Gratuite à 17 € selon le jour et l'heure", "confidence": "source_unique", "sources": ["s2"] },
+    { "label": "Événement", "value": "Nantes Fetish Week, novembre 2025 et avril 2026", "confidence": "confirme", "sources": ["s8", "s9", "s7"] },
+    { "label": "Téléphone", "value": "02 40 71 68 05", "confidence": "confirme", "sources": ["s3", "s12"] },
+    { "label": "Exploitant probable", "value": "EURL LJC (SIREN 453 243 560), active", "confidence": "a_verifier", "sources": ["s11", "s12"] }
+  ],
+  "sections": [
+    {
+      "id": "mercredi-naturiste-cagoule",
+      "title": "Le mercredi, cagoule prêtée et dress code exigé jusqu'à 23 h",
+      "icon": "mask",
+      "summary": "De 19 h à 23 h, on entre en tenue fetish, nu ou cagoulé, pour 15 € avec les softs à volonté ; à 23 h, le dress code tombe et l'entrée passe à 12 €.",
+      "blocks": [
+        { "kind": "text", "body": "C'est la soirée la plus encadrée de la semaine. De 19 h à 23 h, la tenue est imposée : fetish, naturiste ou cagoule, et le bar prête une cagoule à qui n'en apporte pas. L'entrée coûte 15 € et donne droit aux boissons sans alcool à volonté." },
+        { "kind": "text", "body": "À 23 h, l'agenda bascule sur « tout est permis » jusqu'à 4 h : 12 € avec une consommation, vestiaire compris. La même formule figurait déjà dans l'agenda archivé en juin 2026." },
+        { "kind": "callout", "tone": "info", "title": "Cuir, chaps, latex, uniforme", "body": "Ce sont les tenues que la page d'accueil associe aux soirées « hard men », l'autre registre du bar avec le naturisme. Le deuxième dimanche du mois porte ce nom de Hard Men, selon le compte Bluesky du bar." }
+      ],
+      "sources": ["s2", "s6", "s1", "s7"]
+    },
+    {
+      "id": "jeudi-dimanche-themes",
+      "title": "Black Out, Obey, Fluo ou Shirtless le jeudi, Hard Men le deuxième dimanche",
+      "icon": "calendar",
+      "summary": "Le thème du jeudi et du dimanche après-midi dépend de la semaine du mois ; ces deux jours, l'entrée est offerte de 19 h à 22 h.",
+      "blocks": [
+        {
+          "kind": "table",
+          "caption": "Thèmes relevés dans l'agenda officiel (juin-juillet et octobre 2026) et sur le compte Bluesky du bar",
+          "headers": ["Semaine du mois", "Jeudi, dès 19 h", "Dimanche, 14 h-19 h"],
+          "rows": [
+            ["1re", "Black Out", "Naturiste, dress code exigé"],
+            ["2e", "Obey, avec un accessoire prêté (harnais, cagoule, plug…)", "Hard (« Hard Men » sur Bluesky), dress code exigé"],
+            ["3e", "Fluo", "Cagoule et naturiste, cagoule prêtée"],
+            ["4e", "Shirtless", "Tout est permis, tenue libre"],
+            ["5e", "Shirtless", "« Big Sex Day », dress code libre (Bluesky, mars 2025)"]
+          ]
+        },
+        { "kind": "text", "body": "Le jeudi, l'entrée est gratuite de 19 h à 22 h, happy hour comprise ; ensuite, 12 € avec une consommation, plus 2 € de vestiaire. Le dimanche, l'après-midi à thème coûte 17 €, softs à volonté. Le dimanche « tout est permis », l'agenda précise qu'on peut aussi venir dans sa tenue habituelle." },
+        { "kind": "text", "body": "Le deuxième jeudi s'écrit « OBE » suivi d'un caractère spécial dans l'agenda archivé de juillet 2026 ; le guide AgendaQ le nomme Obey. En août 2025, le bar annonçait plutôt sur Bluesky une soirée « Sneakers » pour ce même deuxième jeudi : les thèmes changent d'une année à l'autre." },
+        { "kind": "list", "title": "Le dimanche, de 19 h à 22 h", "items": ["Entrée offerte", "La pinte au prix du demi", "Deux softs pour le prix d'un", "Le deuxième verre d'alcool à 2 €"] },
+        { "kind": "text", "body": "Dès 22 h, l'entrée du dimanche revient à 12 € avec une consommation. En 2025, le programme publié sur Bluesky ajoutait un buffet ou des hot-dogs vers 18 h-19 h, sans confirmation pour 2026." }
+      ],
+      "sources": ["s2", "s6", "s7", "s13"]
+    },
+    {
+      "id": "deux-niveaux-220-m2",
+      "title": "220 m² sur deux niveaux, de la backroom au glory hole",
+      "icon": "building",
+      "summary": "Backroom, darkroom, vidéos, slings, cabines et glory hole : la liste vient du site, dont la description n'a pas changé depuis décembre 2005.",
+      "blocks": [
+        { "kind": "text", "body": "Tout ce qu'on sait de l'intérieur vient du bar lui-même, dans un texte déjà présent sur la première archive du site, le 18 décembre 2005. La visite virtuelle, en Flash, ne s'affiche plus dans un navigateur actuel, et nous n'avons vu aucune photo." },
+        { "kind": "list", "title": "Annoncé par le site", "items": ["Un bar et un vestiaire", "Une backroom et une darkroom", "Des vidéos gays", "Des slings et des cabines", "Un glory hole"] },
+        { "kind": "text", "body": "Le guide AgendaQ ajoute un fumoir intérieur, des cabines de douche et le wifi, sans confirmation officielle. OpenStreetMap indique un accès en fauteuil roulant : sur deux niveaux, mieux vaut le faire préciser par téléphone." }
+      ],
+      "sources": ["s1", "s6", "s2", "s13", "s12"]
+    },
+    {
+      "id": "video-client-octobre-2026",
+      "title": "Une vidéo #fetishnantes relayée par le bar, seul retour client trouvé pour 2026",
+      "icon": "star",
+      "summary": "Hors la vidéo d'un client relayée le 15 octobre 2026, les avis publics tiennent en trois notes gayspot (4,7/5, la dernière en décembre 2024) ; aucune note Google relevée.",
+      "blocks": [
+        { "kind": "text", "body": "Le 15 octobre 2026, un client a publié une vidéo accompagnée d'un message enthousiaste sur le bar et du mot-dièse #fetishnantes ; le compte Bluesky de L'Autre Quai l'a relayée le jour même. Nous n'avons trouvé aucun autre retour daté de 2026." },
+        { "kind": "text", "body": "L'annuaire gayspot affiche 4,7/5 sur trois notes, la dernière contribution datant du 5 décembre 2024 : trop peu pour en tirer une tendance. GayTravelr reprend les horaires sans aucune note et présente le bar comme ouvert aussi aux hétérosexuels, ce que contredisent le site et le compte Bluesky." }
+      ],
+      "sources": ["s7", "s15", "s14", "s1"]
+    },
+    {
+      "id": "chronologie",
+      "title": "Des élections Mister Leather de 2010 et 2013 au réveillon « Cock'in » de 2025",
+      "icon": "history",
+      "summary": "Site en ligne dès 2005, élections Mister Leather en 2010 et 2013, compte Bluesky ouvert en janvier 2025 ; l'exploitant n'est identifié que par déduction.",
+      "blocks": [
+        {
+          "kind": "timeline",
+          "items": [
+            { "date": "21 avril 2004", "text": "Création de l'EURL LJC, aujourd'hui domiciliée au 68 quai de la Fosse (lien avec le bar déduit, voir ci-dessous)." },
+            { "date": "18 décembre 2005", "text": "Première capture archivée du site, qui présente déjà un « cruising-bar gay » de 220 m² sur deux niveaux." },
+            { "date": "1er janvier 2008", "text": "Début d'activité de l'établissement de l'EURL LJC à cette adresse, selon le registre." },
+            { "date": "23 mai 2010", "text": "Élection « Mister Leather », dont la galerie officielle garde un album de 16 photos, que nous n'avons pas regardées." },
+            { "date": "23 mai 2013", "text": "Nouvelle élection « Mister Leather » (album de 3 photos)." },
+            { "date": "29 janvier 2025", "text": "Ouverture du compte Bluesky du bar." },
+            { "date": "27 février 2025", "text": "Le bar annonce l'entrée gratuite et l'happy hour de 19 h à 22 h le jeudi et le dimanche, formule toujours affichée en octobre 2026." },
+            { "date": "14 et 15 juin 2025", "text": "Marche des fiertés : soirée de 20 h à 4 h sans dress code, entrée gratuite « sur présentation de la carte », puis ouverture le dimanche après-midi." },
+            { "date": "31 décembre 2025", "text": "Réveillon « Cock'in », annoncé le 18 décembre dans le dernier message propre du bar sur Bluesky." }
+          ]
+        },
+        { "kind": "text", "body": "Le registre ne mentionne aucune enseigne. L'EURL LJC, débit de boissons qui déclare une ou deux personnes salariées, est active et a son unique établissement à cette adresse ; c'est OpenStreetMap qui rattache son numéro SIREN au bar." }
+      ],
+      "sources": ["s11", "s6", "s4", "s7", "s12", "s2"]
+    },
+    {
+      "id": "rue-ogee-sainte-luce",
+      "title": "Le Boy's Bar à 10 € et les après-midi du B4 à 12 ou 18 €",
+      "icon": "map",
+      "summary": "Rue Ogée, le Boy's Bar fait payer 10 € avec une boisson ses mardis et jeudis naturistes ; le B4 de Sainte-Luce réserve ses après-midi aux hommes et ouvre ses soirées à tous.",
+      "blocks": [
+        {
+          "kind": "table",
+          "caption": "Constats datés, repris des sites et réseaux de chaque lieu",
+          "headers": ["Lieu", "Créneau entre hommes", "Entrée", "Relevé"],
+          "rows": [
+            ["L'Autre Quai", "Mercredi naturiste et cagoule, 19 h-23 h", "15 €, softs à volonté", "Agenda du 21/10/2026"],
+            ["Boy's Bar, rue Ogée", "Mardi et jeudi naturistes, 20 h-23 h", "10 € avec une consommation", "Affiches des 15 et 20/10/2026"],
+            ["B4, Sainte-Luce-sur-Loire", "Après-midi 100 % mecs, sauf le jeudi", "12 € (18-29 ans), 18 € (30 ans et plus)", "Grilles lues le 16/10/2026"]
+          ]
+        },
+        { "kind": "text", "body": "Le [Boy's Bar de la rue Ogée](/boy-s-bar-nantes), ouvert en décembre 2024, est l'autre bar de cruising de Nantes. Le [sauna B4, aux portes de la ville](/sauna-sainte-luce-loire), s'ouvre à tous les publics le soir : couples, femmes et personnes trans y rejoignent les hommes en « toutes tendances »." },
+        { "kind": "text", "body": "Le samedi, le B4 passe en soirée libertine dès 20 h : couple 55 €, femme 10 €, dix hommes seuls au plus à partir de 21 h. À Carquefou, le [Guili's Club](/guili-s-club-carquefou), club libertin mixte qui a fêté ses 25 ans en octobre 2026, compte 25 à 50 € le couple et 10 € la femme." },
+        { "kind": "text", "body": "Pour une première soirée mixte à deux, mieux vaut arriver avec des repères. Sur Carré Libertin et ses [plus d'un demi-million de profils inscrits](aff:carre-libertin), vous pouvez chercher un couple de Loire-Atlantique qui connaît déjà Carquefou ou Sainte-Luce." },
+        { "kind": "text", "body": "Gleese, qui diffuse des lives HD chaque jour, permet aussi [d'échanger par messages vocaux avant l'Halloween du B4](aff:gleese), annoncée pour le samedi 31 octobre 2026." }
+      ],
+      "sources": ["s2", "s16", "s17", "s18", "s19", "s20", "s21", "s22", "s23"]
+    },
+    {
+      "id": "nantes-fetish-week",
+      "title": "Nantes Fetish Week : trois nuits au quai de la Fosse en novembre 2025 et en avril 2026",
+      "icon": "ticket",
+      "summary": "L'Autre Quai a organisé et accueilli les deux premières éditions ; la troisième, annoncée du 9 au 11 octobre 2026, n'a pas de lieu confirmé.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": ["Édition", "Dates", "Ce qui l'atteste"],
+          "rows": [
+            ["1re", "Du samedi 8 novembre 2025, 22 h, au mardi 11 novembre, 4 h", "Billetterie Yurplan ; prévente relayée sur Bluesky le 4 septembre 2025"],
+            ["2e", "Du vendredi 3 avril 2026, 20 h, au lundi 6 avril, 3 h 30", "Billetterie Yurplan, avec L'Autre Quai pour organisateur"],
+            ["3e", "Du vendredi 9 au dimanche 11 octobre 2026", "Agenda fétichiste Puppy Calendar, sans lieu nommé"]
+          ]
+        },
+        { "kind": "text", "body": "Pour les deux premières éditions, la billetterie désigne le bar à la fois comme lieu et comme organisateur ; en mai 2025, son compte Bluesky présentait le projet comme préparé avec « Le PM », sans plus de précision." },
+        { "kind": "text", "body": "Pour la troisième, rien ne le relie à L'Autre Quai : un extrait de moteur de recherche prête à son agenda une « FET!CH WEEK 9-10-11 OCTOBRE », invérifiable sur l'agenda consulté le 21 octobre, qui commence après ces dates." },
+        { "kind": "text", "body": "Le guide AgendaQ associe aussi au bar un « Before CO2 fetish ». En avril 2025, le compte Bluesky du bar annonçait déjà une soirée harnais montée avec le CO2 de Nantes, avec un shot offert aux porteurs de harnais." }
+      ],
+      "sources": ["s8", "s9", "s7", "s10", "s2", "s13"]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Lundi": "Fermé",
+      "Mardi": "Fermé",
+      "Mercredi": "19 h – 4 h (naturiste et cagoule jusqu'à 23 h)",
+      "Jeudi": "19 h – 4 h (entrée offerte jusqu'à 22 h)",
+      "Vendredi": "22 h – 4 h",
+      "Samedi": "22 h – 4 h",
+      "Dimanche": "14 h – 4 h (après-midi à thème jusqu'à 19 h)"
+    },
+    "note": "Horaires du site officiel et du compte Bluesky du bar, relevés le 21 octobre 2026. OpenStreetMap indique une ouverture à 20 h le mercredi et le jeudi, et à 22 h le dimanche.",
+    "confidence": "confirme",
+    "sources": ["s1", "s7", "s12"]
+  },
+  "tarifs": {
+    "rows": {
+      "Mercredi 19 h – 23 h": "15 €, softs à volonté ; dress code obligatoire",
+      "Mercredi 23 h – 4 h": "12 € avec une consommation et le vestiaire",
+      "Jeudi 19 h – 22 h": "Entrée gratuite, happy hour",
+      "Jeudi après 22 h": "12 € avec une consommation ; vestiaire 2 €",
+      "Dimanche 14 h – 19 h": "17 €, softs à volonté ; dress code du thème exigé, sauf le dimanche « tout est permis »",
+      "Dimanche 19 h – 22 h": "Entrée offerte, happy hours",
+      "Dimanche après 22 h": "12 € avec une consommation",
+      "Vendredi et samedi": "Non publié"
+    },
+    "note": "Agenda officiel des soirées du 21 au 29 octobre 2026, lu le 21 octobre 2026 ; la même grille figurait dans l'archive de juin 2026.",
+    "confidence": "source_unique",
+    "sources": ["s2", "s6"]
+  },
+  "equipements": ["Bar", "Backroom", "Darkroom", "Vidéos gays", "Slings", "Cabines", "Glory hole", "Vestiaire"],
+  "officialLinks": [
+    { "label": "Site officiel (en http)", "url": "http://www.lautrequai.com/", "kind": "site" },
+    { "label": "Agenda des soirées", "url": "http://www.lautrequai.com/agenda.php", "kind": "agenda" },
+    { "label": "Compte Bluesky du bar", "url": "https://bsky.app/profile/lautrequai.bsky.social", "kind": "autre" }
+  ],
+  "faq": [
+    {
+      "question": "L'Autre Quai est-il toujours ouvert ?",
+      "answer": "Oui. La société qui semble l'exploiter est active au registre, le bar a organisé la deuxième Nantes Fetish Week du 3 au 6 avril 2026, et de nouvelles affiches d'agenda ont été mises en ligne en mars et en juin 2026. Le 15 octobre 2026, son compte Bluesky relayait encore la vidéo d'un client."
+    },
+    {
+      "question": "Quels sont les horaires de L'Autre Quai à Nantes ?",
+      "answer": "Mercredi et jeudi de 19 h à 4 h, vendredi et samedi de 22 h à 4 h, dimanche de 14 h à 4 h ; fermé le lundi et le mardi, selon le site et le compte Bluesky du bar. OpenStreetMap donne 20 h le mercredi et le jeudi : en cas de doute, appelez le 02 40 71 68 05."
+    },
+    {
+      "question": "Combien coûte l'entrée ?",
+      "answer": "Tout dépend du créneau : gratuit le jeudi et le dimanche de 19 h à 22 h, 12 € avec une consommation en fin de soirée, 15 € le mercredi naturiste et 17 € le dimanche après-midi, softs à volonté dans ces deux derniers cas. Aucun prix n'est publié pour le vendredi et le samedi."
+    },
+    {
+      "question": "Un couple ou une femme peut-il entrer à L'Autre Quai ?",
+      "answer": "Non : le bar se présente comme un lieu de rencontres « entre mecs » et son compte Bluesky porte le mot-dièse #menonly. Pour une soirée mixte, le samedi libertin du B4 et le Guili's Club de Carquefou étaient tous deux actifs en octobre 2026. Pour y aller avec un autre couple rencontré en ligne, sachez que [l'abonnement annuel de Wyylde, réglé en une fois](aff:wyylde), ne ramène le mois à 8,33 € qu'avec douze mois payés d'avance, renouvelés d'office si vous ne désactivez pas la reconduction."
+    },
+    {
+      "question": "Qu'est-ce que la Nantes Fetish Week ?",
+      "answer": "Un week-end fétichiste de trois nuits, vendu sur Yurplan, dont L'Autre Quai a organisé les deux premières éditions chez lui. Le lieu de la troisième, du 9 au 11 octobre 2026, n'a pas été confirmé."
+    },
+    {
+      "question": "Y a-t-il d'autres lieux gays ou libertins à Nantes ?",
+      "answer": "Oui : le Boy's Bar, rue Ogée, pour le cruising, et le B4 à Sainte-Luce-sur-Loire, sauna aux après-midi réservés aux hommes. Les autres adresses de la ville sont réunies sur [la page des lieux nantais](/ville/nantes), celles du département sur [la page Loire-Atlantique](/departement/loire-atlantique)."
+    }
+  ],
+  "unverified": [
+    "Prix d'entrée du vendredi et du samedi soir (22 h – 4 h) : aucun n'est publié.",
+    "Heure d'ouverture du mercredi et du jeudi : 19 h selon le site et Bluesky, 20 h selon OpenStreetMap.",
+    "Lien entre l'EURL LJC et l'enseigne L'Autre Quai : déduit de l'adresse et d'OpenStreetMap, aucune mention légale ne le confirme.",
+    "Lieu de la troisième Nantes Fetish Week (9-11 octobre 2026).",
+    "Thème du cinquième dimanche en 2026 (« Big Sex Day » en mars 2025) et graphie exacte du deuxième jeudi (« OBE » suivi d'un caractère spécial, Obey selon AgendaQ).",
+    "Fumoir intérieur, cabines de douche et wifi, cités par AgendaQ seulement.",
+    "Accès en fauteuil roulant, indiqué par OpenStreetMap pour un lieu sur deux niveaux.",
+    "Code postal : 44100 dans les publications du bar, 44300 au registre.",
+    "Note Google non relevée ; comptes Facebook, Instagram et X cités par AgendaQ non consultés."
+  ],
+  "sources": [
+    { "id": "s1", "label": "L'Autre Quai, site officiel : accueil et page principale (description, horaires)", "url": "http://www.lautrequai.com/main.php", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s2", "label": "Site officiel : agenda des soirées du 21 au 29 octobre 2026", "url": "http://www.lautrequai.com/agenda.php", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s3", "label": "Site officiel : itinéraires et téléphone", "url": "http://www.lautrequai.com/itin.php", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s4", "label": "Site officiel : galerie (titres des albums, photos non regardées)", "url": "http://www.lautrequai.com/galerie.php", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s5", "label": "Site officiel : affiches de l'agenda, déposées le 06/03/2026 et le 16/06/2026 (en-têtes HTTP)", "url": "http://www.lautrequai.com/agenda/1781605839.jpg", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s6", "label": "Internet Archive : captures de lautrequai.com, du 18/12/2005 au 11/07/2026 (dont l'agenda du 18/06/2026)", "url": "https://web.archive.org/web/20051218182810/http://www.lautrequai.com/", "type": "autre", "consulted": "2026-10-21" },
+    { "id": "s7", "label": "L'Autre Quai Nantes sur Bluesky (bio, programmes 2025, repost du 15/10/2026)", "url": "https://bsky.app/profile/lautrequai.bsky.social", "type": "reseau_social", "consulted": "2026-10-21" },
+    { "id": "s8", "label": "Yurplan : « Nantes_Fetish_Week #2 », 3-6 avril 2026", "url": "https://yp.events/45d302d6-f37c-42cf-a118-ac8711ed4e49/Nantes-Fetish-Week-2", "type": "autre", "consulted": "2026-10-21" },
+    { "id": "s9", "label": "Yurplan : « Nantes Fetish Week », 8-11 novembre 2025", "url": "https://yp.events/8edcb67f-3f7a-427b-ada4-e9f5dc4ed7d2/Nantes-Fetish-Week", "type": "autre", "consulted": "2026-10-21" },
+    { "id": "s10", "label": "Puppy Calendar : « Nantes Fetish Week #3 », 9-11 octobre 2026", "url": "https://puppycalendar.eu/event/nantes-fetish-week-3", "type": "annuaire", "consulted": "2026-10-21" },
+    { "id": "s11", "label": "Annuaire des entreprises : EURL LJC (SIREN 453 243 560)", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/453243560", "type": "registre", "consulted": "2026-10-21" },
+    { "id": "s12", "label": "OpenStreetMap : point « L'Autre Quai » (contrôle du 26/01/2026)", "url": "https://www.openstreetmap.org/node/1226122251", "type": "carte", "consulted": "2026-10-21" },
+    { "id": "s13", "label": "AgendaQ : « Etablissements L'Autre quai »", "url": "https://www.agendaq.fr/fr/guide/lautre-quai", "type": "annuaire", "consulted": "2026-10-21" },
+    { "id": "s14", "label": "GayTravelr : « L'Autre Quai »", "url": "https://gaytravelr.com/france/nantes/cruise-bars/lautre-quai", "type": "annuaire", "consulted": "2026-10-21" },
+    { "id": "s15", "label": "gayspot.fr : « L'Autre Quai » (4,7/5 sur 3 notes)", "url": "https://gayspot.fr/lieu-de-drague-gay/1373-l-autre-quai-nantes.html", "type": "annuaire", "consulted": "2026-10-21" },
+    { "id": "s16", "label": "Boy's Bar sur Threads : affiche « Jeudi naturiste », 10 € avec une conso, publiée le 15/10/2026", "url": "https://www.threads.com/@boysbarnantes/post/DegAj06Ec5L", "type": "reseau_social", "consulted": "2026-10-21" },
+    { "id": "s17", "label": "Boy's Bar sur Threads : affiche « Mardi naturiste », 10 € avec une conso, publiée le 20/10/2026", "url": "https://www.threads.com/@boysbarnantes/post/DetBCRVkdmS", "type": "reseau_social", "consulted": "2026-10-21" },
+    { "id": "s18", "label": "Boy's Bar, site officiel : accueil (premier anniversaire le 6 décembre 2025)", "url": "https://sites.google.com/view/boysbarnantes/accueil", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s19", "label": "Before Sauna Club (B4), site officiel : grilles horaires et tarifs", "url": "https://www.before-sauna-club.com/horaires-tarifs-libertins", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s20", "label": "Before Sauna Club (B4), site officiel : ambiance 100 % mecs", "url": "https://www.before-sauna-club.com/gay", "type": "officiel", "consulted": "2026-10-16" },
+    { "id": "s21", "label": "Before Sauna Club (B4), site officiel : ambiance libertins et agenda d'octobre 2026", "url": "https://www.before-sauna-club.com/libertins", "type": "officiel", "consulted": "2026-10-19" },
+    { "id": "s22", "label": "Guili's Club, site officiel : « Horaires & tarifs » (grille du 15/10/2026)", "url": "https://www.guilis-club.com/horaires-et-tarifs/", "type": "officiel", "consulted": "2026-10-19" },
+    { "id": "s23", "label": "Guili's Club, visuels officiels des 25 ans (octobre 2026)", "url": "https://www.guilis-club.com/wp-content/uploads/2026/10/Merci-a-tous-WEB.jpg", "type": "officiel", "consulted": "2026-10-19" }
+  ]
+}

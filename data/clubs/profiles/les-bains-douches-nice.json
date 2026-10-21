@@ -1,0 +1,847 @@
+{
+  "slug": "les-bains-douches-nice",
+  "clubId": "new-les-bains-douches-nice",
+  "researchedAt": "2026-10-21",
+  "status": {
+    "value": "incertain",
+    "summary": "Les vœux publiés le 7 janvier 2026 sur la page Facebook sont la dernière annonce datée du sauna que nous ayons pu lire au 21 octobre 2026. Trois avis de février, mars et mai 2026 (ce dernier sur des visites en avril, à 15 € en espèces) ne sont connus que par des extraits de recherche : la page GayOut qui les publie reste inaccessible. La société exploitante est active au registre, Wanderlog relaie une fiche Google « en activité » et aucune fermeture n'a été annoncée, mais sans preuve directe d'activité depuis plus de neuf mois, nous ne pouvons pas confirmer que le sauna reçoit encore.",
+    "sources": [
+      "s21",
+      "s2",
+      "s12",
+      "s4",
+      "s10"
+    ]
+  },
+  "seo": {
+    "title": "Les Bains Douches Nice : sauna gay à 15 €, horaires et avis",
+    "metaDescription": "Sauna gay sur trois niveaux rue Gubernatis : jacuzzi, hammam, salle cinéma, 15 € en espèces, 13 h-21 h affichés. Dernière annonce datée : janvier 2026.",
+    "subtitle": "Sauna gay sur trois niveaux, au 7 rue Gubernatis à Nice (06)",
+    "targetQueries": [
+      "bains douches nice",
+      "les bains douches nice",
+      "sauna gay nice",
+      "bains douches nice horaires",
+      "bains douches nice tarif",
+      "bains douches nice avis"
+    ]
+  },
+  "lead": "Les Bains Douches se présentent sur leurs réseaux comme « le seul sauna gay de Nice » : trois niveaux avec jacuzzi, hammam, sauna, cabines et salle cinéma, annoncés ouverts chaque jour de 13 h à 21 h, pour 15 € en espèces. Créé en 1997 selon sa page Facebook, le lieu est exploité depuis 2013 par la société qui tient aussi le Club Le 7, à 170 m de là. Son activité actuelle reste à confirmer : la dernière annonce datée du sauna remonte au 7 janvier 2026.",
+  "glance": [
+    {
+      "icon": "warning",
+      "label": "Statut incertain",
+      "value": "Dernière annonce datée : 7 janvier 2026"
+    },
+    {
+      "icon": "clock",
+      "label": "Horaires affichés",
+      "value": "Tous les jours, 13 h-21 h"
+    },
+    {
+      "icon": "euro",
+      "label": "Entrée",
+      "value": "15 €, espèces uniquement",
+      "confidence": "source_unique"
+    },
+    {
+      "icon": "spa",
+      "label": "Espaces",
+      "value": "3 niveaux : jacuzzi, hammam, sauna"
+    },
+    {
+      "icon": "history",
+      "label": "Depuis",
+      "value": "Juin 1997, selon sa page Facebook",
+      "confidence": "source_unique"
+    },
+    {
+      "icon": "map",
+      "label": "Voisin",
+      "value": "Club Le 7 à 170 m, même société"
+    }
+  ],
+  "audience": [
+    {
+      "who": "hommes",
+      "status": "oui",
+      "detail": "Sauna gay, 13 h-21 h tous les jours selon ses réseaux ; entrée en espèces",
+      "price": "15 €"
+    },
+    {
+      "who": "couples",
+      "status": "inconnu",
+      "detail": "Aucune règle publiée et aucun jour mixte annoncé"
+    },
+    {
+      "who": "femmes",
+      "status": "inconnu",
+      "detail": "Rien de publié ; les guides décrivent un public masculin"
+    }
+  ],
+  "highlights": [
+    "Aucune annonce datée depuis le 7 janvier 2026 : vérifiez sur la page Facebook ou le compte Instagram du sauna qu'il reçoit encore avant de vous déplacer.",
+    "Espèces uniquement : la page Facebook précise que la carte bancaire n'est pas acceptée, et plusieurs guides le confirment.",
+    "Fermeture à 21 h selon le sauna, et non 22 h comme l'écrivent plusieurs guides ; des visiteurs la disent parfois plus précoce (qlist).",
+    "Pas de site web : horaires et tarif ne sont publiés que sur Facebook et Instagram, et aucun numéro n'y est lisible sans compte.",
+    "Prévoyez vos préservatifs : la synthèse d'avis de qlist signale qu'il n'y en a pas, ni de lubrifiant, dans les cabines."
+  ],
+  "keyFacts": [
+    {
+      "label": "Concept",
+      "value": "Sauna gay",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s3",
+        "s6"
+      ]
+    },
+    {
+      "label": "Création",
+      "value": "27 juin 1997, selon la page Facebook",
+      "confidence": "source_unique",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "label": "Dernière annonce datée",
+      "value": "Vœux publiés sur Facebook le 7 janvier 2026",
+      "confidence": "confirme",
+      "sources": [
+        "s21",
+        "s2"
+      ]
+    },
+    {
+      "label": "Exploitant",
+      "value": "CAPITOLE CAPRI (SAS), depuis le 1er janvier 2013",
+      "confidence": "confirme",
+      "sources": [
+        "s4",
+        "s5"
+      ]
+    },
+    {
+      "label": "Niveaux",
+      "value": "Trois, selon le sauna (quatre selon deux guides)",
+      "confidence": "confirme",
+      "sources": [
+        "s2",
+        "s3",
+        "s6",
+        "s8"
+      ]
+    },
+    {
+      "label": "Entrée",
+      "value": "15 €, espèces uniquement",
+      "confidence": "source_unique",
+      "sources": [
+        "s2",
+        "s21"
+      ]
+    },
+    {
+      "label": "Horaires",
+      "value": "13 h-21 h, du lundi au dimanche",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "label": "Canaux officiels",
+      "value": "Facebook et Instagram, aucun site web",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s3"
+      ]
+    },
+    {
+      "label": "Immeuble",
+      "value": "Construit vers 1893, deux étages sur rez-de-chaussée",
+      "confidence": "source_unique",
+      "sources": [
+        "s16"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "trois-niveaux-jacuzzi",
+      "title": "Jacuzzi, hammam, sauna et salle cinéma sur trois niveaux",
+      "icon": "spa",
+      "summary": "Le sauna décrit lui-même trois niveaux avec jacuzzi, hammam, sauna, cabines, salle cinéma et salon ; dark room, bar et fumoir ne sont cités que par des guides.",
+      "blocks": [
+        {
+          "kind": "list",
+          "title": "Ce que listent sa page Facebook et son compte Instagram",
+          "items": [
+            "Un jacuzzi, que les guides qualifient de grand",
+            "Un hammam et un sauna",
+            "Des cabines",
+            "Une salle cinéma et un salon détente"
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "L'immeuble, construit vers 1893 selon la base PSS-Archi, compte deux étages sur rez-de-chaussée. Deux guides annoncent pourtant quatre niveaux (Gay French Riviera en juillet 2025, Petit Futé), et un avis Travel Gay de novembre 2019 trouvait le troisième étage fermé."
+        },
+        {
+          "kind": "list",
+          "title": "Cités seulement par des guides, absents de la description officielle",
+          "items": [
+            "Dark room : Gay French Riviera, Petit Futé, GayCities (au troisième niveau, selon un avis)",
+            "Bar : Gay French Riviera, Travel Gay, Saunas4men",
+            "Fumoir intérieur : Petit Futé (« depuis les travaux », non datés) et Strobo",
+            "Douches et casiers à cadenas : Strobo ; labyrinthe : Saunas4men"
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "D'anciens avis décrivent le jacuzzi tantôt tiède, tantôt brûlant (Travel Gay, Saunas4men) : son état actuel n'a pas pu être vérifié."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s2",
+        "s3",
+        "s16",
+        "s6",
+        "s8",
+        "s7",
+        "s14",
+        "s13",
+        "s15"
+      ]
+    },
+    {
+      "id": "quinze-euros-especes",
+      "title": "15 € en espèces selon Facebook, 13 € dans un avis de mai 2022",
+      "icon": "euro",
+      "summary": "La page Facebook affiche 15 € et refuse la carte bancaire ; des avis citent 13 € en 2017 et en 2022, 14 € en 2019 ; Petit Futé affiche encore 10 €.",
+      "blocks": [
+        {
+          "kind": "table",
+          "caption": "Prix d'entrée relevés, du plus récent au plus ancien",
+          "headers": [
+            "Source",
+            "Date",
+            "Entrée"
+          ],
+          "rows": [
+            [
+              "Page Facebook du sauna (miroirs)",
+              "Non datée, lue le 21/10/2026",
+              "15 €, espèces uniquement"
+            ],
+            [
+              "Avis relayé par GayOut, vu seulement dans un extrait de recherche",
+              "Mai 2026",
+              "15 € en espèces (non confirmé)"
+            ],
+            [
+              "Avis Saunas4men",
+              "Mai 2022",
+              "13 €"
+            ],
+            [
+              "Avis Saunas4men",
+              "Décembre 2019",
+              "14 €, jugé trop cher"
+            ],
+            [
+              "Avis Travel Gay, repris sur Saunas4men",
+              "Juin 2017",
+              "13 €"
+            ],
+            [
+              "Fiches Petit Futé et Saunas4men",
+              "Non datées, ancien tarif",
+              "10 € ; 8 € avant 25 ans chez Petit Futé"
+            ]
+          ]
+        }
+      ],
+      "sources": [
+        "s2",
+        "s21",
+        "s12",
+        "s7",
+        "s15",
+        "s8"
+      ]
+    },
+    {
+      "id": "fermeture-21-h",
+      "title": "Fermeture à 21 h selon le sauna, 22 h selon cinq guides",
+      "icon": "clock",
+      "summary": "Facebook et Instagram annoncent 13 h-21 h tous les jours ; cinq guides écrivent 22 h, et la synthèse d'avis de qlist parle de fermetures « généralement avant 21h00 ».",
+      "blocks": [
+        {
+          "kind": "table",
+          "caption": "Horaires publiés, du sauna lui-même aux guides",
+          "headers": [
+            "Source",
+            "Date",
+            "Horaires"
+          ],
+          "rows": [
+            [
+              "Facebook et Instagram du sauna",
+              "Lus les 20 et 21/10/2026",
+              "13 h-21 h, 7 j/7"
+            ],
+            [
+              "Strobo",
+              "Lu le 20/10/2026",
+              "13 h-21 h, 7 j/7"
+            ],
+            [
+              "PagesJaunes",
+              "Mise à jour du 29/09/2026",
+              "13 h-22 h, tous les jours"
+            ],
+            [
+              "Travel Gay",
+              "Archive du 12/10/2025",
+              "13 h-22 h, semaine et week-end"
+            ],
+            [
+              "Gay French Riviera",
+              "Juillet 2025",
+              "13 h-22 h, tous les jours"
+            ],
+            [
+              "Petit Futé, Saunas4men",
+              "Non daté",
+              "13 h-22 h, tous les jours"
+            ],
+            [
+              "Synthèse d'avis de qlist",
+              "Relevé du 20/10/2026",
+              "Fermeture « généralement avant 21h00 »"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Retenez 21 h, l'horaire que le sauna publie lui-même, et arrivez bien avant : des visiteurs décrivent des fermetures plus précoces."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s3",
+        "s13",
+        "s9",
+        "s7",
+        "s6",
+        "s8",
+        "s15",
+        "s11"
+      ]
+    },
+    {
+      "id": "autres-adresses-gays",
+      "title": "Sauna de l'après-midi, quand Le 7, Le Code et le Morgan ouvrent vers 22 h",
+      "icon": "map",
+      "summary": "Seul sauna gay de Nice selon Gay French Riviera (2025) : Le 7, Le Code et le Morgan sont des bars de cruising du soir, et le Sun House n'est plus un sauna gay depuis 2016.",
+      "blocks": [
+        {
+          "kind": "table",
+          "caption": "Les autres adresses gays de Nice selon Gay French Riviera (juillet 2025) ; horaires du Morgan d'après son site (octobre 2026)",
+          "headers": [
+            "Lieu",
+            "Genre",
+            "Horaires annoncés"
+          ],
+          "rows": [
+            [
+              "Club Le 7, 7 rue Foncet",
+              "Bar de cruising, même société",
+              "Jeudi au samedi, 21 h 30-2 h 30"
+            ],
+            [
+              "Le Code, 4 rue Jean-Pierre Papon",
+              "Club de cruising, public fétichiste",
+              "Lundi au jeudi 22 h-3 h ; dimanche après-midi et soir"
+            ],
+            [
+              "Le Morgan, 3 rue Claudia",
+              "Bar de cruising naturiste",
+              "Mardi au dimanche, 22 h-2 h 30"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "[Club Le 7](/club-le-7-nice), à environ 170 m, appartient lui aussi à CAPITOLE CAPRI. Le 9 juillet 2026, sa page Facebook annonçait une soirée mousse « 100 % mecs » chaque jeudi de l'été, dès 21 h 30."
+        },
+        {
+          "kind": "text",
+          "body": "Le site du [Morgan](/morgan-cruising-bar-men-s-club-gay-nice) annonce une soirée chaque soir du mardi 20 au dimanche 25 octobre 2026. Le Code, « bar à thèmes et hammam réservé aux hommes » selon PagesJaunes, est exploité par une société installée à cette adresse depuis 2011 et active au registre sous l'enseigne « CODE »."
+        },
+        {
+          "kind": "text",
+          "body": "Rue Jules Gilly, le Sun House, dit Le Block, figure encore parmi les saunas gays de Nice sur Saunas4men. Selon Travel Gay, il est devenu en décembre 2016 le Club Papillon, un club de strip-tease hétérosexuel. La société SUNHOUSE y a fermé son établissement le 30 avril 2023, et un guide modifié en mars 2025 dit [Le Papillon](/le-papillon-nice) fermé."
+        }
+      ],
+      "sources": [
+        "s6",
+        "s1",
+        "s17",
+        "s4",
+        "s18",
+        "s25",
+        "s28",
+        "s24",
+        "s27",
+        "s22",
+        "s23",
+        "s26",
+        "s20"
+      ]
+    },
+    {
+      "id": "sortir-a-deux",
+      "title": "Aucun jour mixte annoncé : le Sauna du Château et le Boudoir pour sortir à deux",
+      "icon": "couple",
+      "summary": "Le sauna n'annonce aucun jour mixte. À Nice, le Sauna du Château se dit mixte et ouvre 7 j/7 dès 13 h ; le club libertin Le Boudoir publie seize rendez-vous pour octobre 2026.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Rue des Ponchettes, le [Sauna du Château](/sauna-du-chateau-nice) se présente comme un « sauna mixte » de 500 m², ouvert 7 j/7 dès 13 h, avec une entrée en journée à 30 € pour un couple mixte (site mis à jour le 12 septembre 2026)."
+        },
+        {
+          "kind": "text",
+          "body": "Le club libertin [Le Boudoir (ex-L'AS)](/l-as-nice) publie seize rendez-vous pour octobre 2026, jusqu'à Halloween le samedi 31. Avec environ 20 000 membres actifs chaque semaine, Carré Libertin aide à [trouver un couple azuréen pour l'un de ces rendez-vous](aff:carre-libertin)."
+        },
+        {
+          "kind": "text",
+          "body": "Sur Gleese, les lives HD quotidiens et les messages vocaux servent à [vérifier qu'un couple ressemble à son profil](aff:gleese) avant de lui fixer rendez-vous. Les autres adresses sont sur [la page des lieux libertins de Nice](/ville/nice)."
+        }
+      ],
+      "sources": [
+        "s29",
+        "s19"
+      ]
+    },
+    {
+      "id": "depuis-1997",
+      "title": "Ouvert en 1997, repris en 2013, sous plan de redressement depuis 2021",
+      "icon": "history",
+      "summary": "Créé en juin 1997 selon Facebook, le sauna est exploité depuis 2013 par CAPITOLE CAPRI : redressement en 2019, liquidation en 2020, puis plan de dix ans en 2021.",
+      "blocks": [
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "Vers 1893",
+              "text": "Construction de l'immeuble, deux étages sur rez-de-chaussée (PSS-Archi, d'après les archives municipales)."
+            },
+            {
+              "date": "27 juin 1997",
+              "text": "Date de création de l'établissement inscrite sur sa page Facebook."
+            },
+            {
+              "date": "1er janvier 2013",
+              "text": "CAPITOLE CAPRI démarre au 7 rue Gubernatis, avec le fonds « bains douche sauna hammam » apporté par une entreprise individuelle, valorisé 20 000 € (BODACC du 10/09/2013)."
+            },
+            {
+              "date": "Octobre 2013",
+              "text": "La même société achète 155 000 € le fonds du 7 rue Foncet, aujourd'hui le Club Le 7."
+            },
+            {
+              "date": "Juin 2017",
+              "text": "Un utilisateur de Travel Gay signale le lieu définitivement fermé ; le guide corrige l'information quatre jours plus tard."
+            },
+            {
+              "date": "21 mars 2019",
+              "text": "Ouverture d'un redressement judiciaire."
+            },
+            {
+              "date": "30 juillet 2020",
+              "text": "Conversion en liquidation judiciaire."
+            },
+            {
+              "date": "22 septembre 2021",
+              "text": "Jugement arrêtant un plan de redressement de dix ans."
+            },
+            {
+              "date": "7 janvier 2026",
+              "text": "Vœux de nouvelle année sur Facebook, dernière publication datée lisible."
+            }
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Les annonces du BODACC n'expliquent pas comment la société est passée de la liquidation au plan de 2021. Aucune source ne dit que le sauna ait fermé pendant cette période. Au registre, la société est active et son siège, rue Gubernatis, déclarait 1 ou 2 salariés en 2024 (dernière mise à jour le 24 septembre 2026)."
+        }
+      ],
+      "sources": [
+        "s16",
+        "s1",
+        "s5",
+        "s4",
+        "s7",
+        "s2"
+      ]
+    },
+    {
+      "id": "notes-et-avis",
+      "title": "3,4/5 sur Google selon Wanderlog : jacuzzi et prix salués, propreté discutée",
+      "icon": "star",
+      "summary": "Les notes vont de 2,3/5 (Petit Futé) à 3,4/5 (Google, relayée par Wanderlog) ; les avis saluent le jacuzzi et le prix, et divisent sur la propreté et l'accueil.",
+      "blocks": [
+        {
+          "kind": "table",
+          "caption": "Notes relevées",
+          "headers": [
+            "Plateforme",
+            "Note",
+            "Relevé"
+          ],
+          "rows": [
+            [
+              "Google, relayée par Wanderlog",
+              "3,4/5 sur 110 avis",
+              "21/10/2026"
+            ],
+            [
+              "Travel Gay",
+              "3,2 sur 123 votes",
+              "Archive du 12/10/2025"
+            ],
+            [
+              "qlist",
+              "3,0/5 sur 54 avis",
+              "20/10/2026"
+            ],
+            [
+              "Petit Futé",
+              "2,3/5 sur 12 avis, le dernier de décembre 2023",
+              "20/10/2026"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Depuis 2015 au moins, les avis lus sur Travel Gay, Petit Futé et Saunas4men se partagent : lieu propre et personnel aimable pour les uns, odeurs, entretien insuffisant et accueil brusque pour les autres. La synthèse de Wanderlog retient le grand jacuzzi et des prix raisonnables, et pointe la propreté et l'équipement vieillissant."
+        },
+        {
+          "kind": "text",
+          "body": "Côté fréquentation, un avis GayCities non daté situe l'affluence entre 14 h et 18 h ; d'après la synthèse de qlist, le dimanche après-midi est le plus animé et la clientèle plutôt âgée, alors que le texte du Petit Futé évoque des jeunes attirés par le prix."
+        },
+        {
+          "kind": "text",
+          "body": "En 2026, les avis relayés par GayOut, aperçus seulement dans des résultats de recherche, restent partagés : en février, l'un juge le lieu ancien mais bien tenu ; en mars, un autre réclame une rénovation."
+        }
+      ],
+      "sources": [
+        "s10",
+        "s7",
+        "s11",
+        "s8",
+        "s15",
+        "s14",
+        "s12"
+      ]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Lundi au dimanche": "13 h - 21 h"
+    },
+    "note": "Horaire des pages Facebook et Instagram du sauna. Plusieurs guides indiquent 22 h. Aucune annonce datée depuis le 7 janvier 2026.",
+    "confidence": "confirme",
+    "sources": [
+      "s1",
+      "s2",
+      "s3"
+    ]
+  },
+  "tarifs": {
+    "rows": {
+      "Entrée": "15 €"
+    },
+    "note": "Espèces uniquement, carte bancaire refusée, selon la page Facebook. Montant non daté ; un avis de mai 2026, vu seulement dans un extrait de recherche, cite aussi 15 €.",
+    "confidence": "source_unique",
+    "sources": [
+      "s2",
+      "s12"
+    ]
+  },
+  "equipements": [
+    "Trois niveaux",
+    "Jacuzzi",
+    "Hammam",
+    "Sauna",
+    "Cabines",
+    "Salle cinéma",
+    "Salon détente"
+  ],
+  "externalRatings": [
+    {
+      "platform": "Petit Futé",
+      "rating": 2.3,
+      "scale": 5,
+      "count": 12,
+      "date": "2026-10-20",
+      "url": "https://www.petitfute.com/v33027-nice-06000/c9998-coquin/c1044-s-amuser-sortir/c208-sauna/492381-les-bains-douches.html"
+    }
+  ],
+  "officialLinks": [
+    {
+      "label": "Page Facebook « Sauna Les Bains Douches | Nice »",
+      "url": "https://www.facebook.com/lesbainsdouchesnice/",
+      "kind": "facebook"
+    },
+    {
+      "label": "Instagram @lesbainsdouchesnice",
+      "url": "https://www.instagram.com/lesbainsdouchesnice/",
+      "kind": "instagram"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Quels sont les horaires des Bains Douches à Nice ?",
+      "answer": "De 13 h à 21 h tous les jours, selon les pages Facebook et Instagram du sauna. Plusieurs guides disent 22 h : arrivez bien avant 21 h."
+    },
+    {
+      "question": "Combien coûte l'entrée, et la carte bancaire est-elle acceptée ?",
+      "answer": "L'entrée est à 15 € selon la page Facebook, qui ne date pas ce tarif ; un avis de mai 2026, aperçu seulement dans un extrait de recherche, cite le même montant. Le paiement se fait en espèces : la carte bancaire n'est pas acceptée."
+    },
+    {
+      "question": "Les Bains Douches sont-ils toujours ouverts ?",
+      "answer": "Nous ne pouvons pas le confirmer. La dernière annonce datée du sauna est un message de vœux publié sur Facebook le 7 janvier 2026 ; des avis de février à mai 2026 sur GayOut n'ont été vus que dans des extraits de recherche, la page étant inaccessible. La société exploitante est active au registre et aucune fermeture n'a été annoncée : vérifiez la page Facebook ou Instagram avant de vous déplacer."
+    },
+    {
+      "question": "Y a-t-il un autre sauna gay à Nice ?",
+      "answer": "Gay French Riviera n'en citait pas d'autre en juillet 2025 : Club Le 7, Le Code et le Morgan sont des bars de cruising qui ouvrent le soir, vers 21 h 30 ou 22 h (Le Code annonce aussi des séances le dimanche après-midi). Le Sun House de la rue Jules Gilly n'est plus un sauna gay depuis décembre 2016, selon Travel Gay. Le Sauna du Château, rue des Ponchettes, se présente comme mixte."
+    },
+    {
+      "question": "Les couples et les femmes sont-ils admis ?",
+      "answer": "Le sauna ne publie aucune règle sur ce point, mais il se présente comme sauna gay et les guides décrivent un public masculin. Pour une sortie mixte à Nice, le Sauna du Château et le club Le Boudoir reçoivent les couples. Parmi les 7 millions de membres que revendique Wyylde, vous pouvez aussi [chercher des complices installés sur la Côte d'Azur](aff:wyylde)."
+    }
+  ],
+  "unverified": [
+    "L'activité actuelle : aucune annonce datée depuis le 7 janvier 2026, et les avis de février à mai 2026 relayés par GayOut n'ont été vus que dans des résultats de recherche (page inaccessible le 21/10/2026).",
+    "Le numéro 04 93 80 28 26, donné par tous les annuaires, n'apparaît sur aucun canal du sauna lisible sans compte.",
+    "L'heure réelle de fermeture : 21 h officiellement, 22 h selon plusieurs guides, plus tôt selon des visiteurs.",
+    "La dark room, le bar, le fumoir et le labyrinthe cités par des guides, et l'état actuel du jacuzzi.",
+    "Les soirées nues et à thème « régulières » décrites par Gay French Riviera et Travel Gay : aucune date n'a été trouvée.",
+    "L'accès des femmes et des couples : le sauna n'a publié aucune règle.",
+    "L'accueil des personnes trans : un seul avis, sur Petit Futé en décembre 2023, affirme qu'elles sont refusées ; le sauna n'a rien publié à ce sujet.",
+    "L'activité actuelle du Code : la société qui l'exploite est active au registre, mais aucune soirée datée de 2026 n'a été lue."
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Page Facebook « Sauna Les Bains Douches | Nice » (balises publiques : abonnés, horaires, date de création)",
+      "url": "https://www.facebook.com/lesbainsdouchesnice/",
+      "type": "reseau_social",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s2",
+      "label": "findglocal, miroir de la page Facebook du sauna (description, entrée, paiement, publication du 07/01/2026)",
+      "url": "https://www.findglocal.com/FR/Nice/1134361506715861/Sauna-Les-Bains-Douches",
+      "type": "autre",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s3",
+      "label": "Instagram @lesbainsdouchesnice (biographie : trois niveaux, équipements, horaires)",
+      "url": "https://www.instagram.com/lesbainsdouchesnice/",
+      "type": "reseau_social",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s4",
+      "label": "Annuaire des entreprises, CAPITOLE CAPRI (SIREN 795 018 860), siège 7 rue Gubernatis et établissement « SAUNA 7 »",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/795018860",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s5",
+      "label": "BODACC, onze annonces de CAPITOLE CAPRI (2013-2024)",
+      "url": "https://bodacc-datadila.opendatasoft.com/api/explore/v2.1/catalog/datasets/annonces-commerciales/records?where=registre%20like%20%22795018860%22",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s6",
+      "label": "Gay French Riviera, « Cruising Bars & Gay Sauna/Bathhouse in Nice » (30/07/2025)",
+      "url": "https://gayfrenchriviera.substack.com/p/cruising-bars-and-gay-saunabathhouse",
+      "type": "autre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s7",
+      "label": "Travel Gay, fiche « Les Bains-Douches » et ses avis, archive du 12/10/2025",
+      "url": "https://web.archive.org/web/20251012205353/https://www.travelgay.com/venue/les-bains-douches",
+      "type": "annuaire",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s8",
+      "label": "Petit Futé, « Les Bains Douches » (texte de la rédaction, 12 avis de membres)",
+      "url": "https://www.petitfute.com/v33027-nice-06000/c9998-coquin/c1044-s-amuser-sortir/c208-sauna/492381-les-bains-douches.html",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s9",
+      "label": "PagesJaunes, « Les Bains Douches » (mis à jour le 29/09/2026)",
+      "url": "https://www.pagesjaunes.fr/pros/07769456",
+      "type": "annuaire",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s10",
+      "label": "Wanderlog, « Les Bains-Douches » : note Google relayée et statut de la fiche Google",
+      "url": "https://wanderlog.com/place/details/6753645/les-bains-douches",
+      "type": "avis",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s11",
+      "label": "qlist, « Les Bains-Douches » (note, public visé, synthèse d'avis)",
+      "url": "https://qlist.app/venues/Nice/The-Bathhouses/QzJDUllSZW1vTjkyTmpLTEFxelY3dw/fr",
+      "type": "avis",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s12",
+      "label": "GayOut, fiche « Les Bains-Douches » (page inaccessible, avis de 2026 vus dans des résultats de recherche)",
+      "url": "https://www.gayout.com/he/europe/france/nice/saunas/les-bains-douches-10271",
+      "type": "avis",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s13",
+      "label": "Strobo, guide « Les Bains-Douches sauna » (services listés)",
+      "url": "https://www.strobomag.com/fr/guide/les-bains-douches-sauna",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s14",
+      "label": "GayCities, « Les Bains Douches » (description et avis)",
+      "url": "https://nice.gaycities.com/bathhouses/302569-les-bains-douches",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s15",
+      "label": "Saunas4men, « Le Bain Douche » (équipements, tarif, avis)",
+      "url": "https://saunas4men.com/en/france/nice/le-bain-douche",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s16",
+      "label": "PSS-Archi, « Sauna Les Bains Douches » (immeuble vers 1893, R+2)",
+      "url": "https://www.pss-archi.eu/immeubles/FR-06088-81917.html",
+      "type": "autre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s17",
+      "label": "Base Adresse Nationale, géocodage du 7 rue Gubernatis (distance au 7 rue Foncet)",
+      "url": "https://api-adresse.data.gouv.fr/search/?q=7+rue+Gubernatis+06000+Nice",
+      "type": "carte",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s18",
+      "label": "findglocal, miroir des publications de la page Facebook « Le 7 Nice » (avril à septembre 2026)",
+      "url": "https://www.findglocal.com/FR/Nice/112216267289691/Le-7-Nice",
+      "type": "autre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s19",
+      "label": "Lâcher Prise Le Boudoir, site officiel, « Nos soirées » (programme d'octobre)",
+      "url": "https://www.leboudoirlibertin-nice.com/nos-soirees",
+      "type": "officiel",
+      "consulted": "2026-10-19"
+    },
+    {
+      "id": "s20",
+      "label": "h2o-saunapourlui, « Sauna gay Nice (06000) : Top 5 adresses en 2026 » (Le 7 Cruising Bar, Le Code au 4 rue JP Papon)",
+      "url": "https://www.h2o-saunapourlui.fr/saunas-gay/alpes-maritimes/nice/",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s21",
+      "label": "findhealthclinics, second miroir de la page Facebook du sauna (description : « Only cash », 3 niveaux, entrée 15 €, CB refusée ; publication du 07/01/2026)",
+      "url": "https://www.findhealthclinics.org/FR/Nice/1134361506715861/Sauna-Les-Bains-Douches",
+      "type": "autre",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s22",
+      "label": "Travel Gay, fiche « Club Papillon » (10 rue Jules Gilly), archive du 30/06/2022",
+      "url": "https://web.archive.org/web/20220630122637/https://www.travelgay.com/venue/club-papillon",
+      "type": "annuaire",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s23",
+      "label": "Annuaire des entreprises, SUNHOUSE (SIREN 510 183 585), enseigne « SUNHOUSE LE BLOCK », 10-12 rue Jules Gilly",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/510183585",
+      "type": "registre",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s24",
+      "label": "Annuaire des entreprises, SARL AD (SIREN 533 328 787), enseigne « CODE », 4 rue Papon",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/533328787",
+      "type": "registre",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s25",
+      "label": "Morgan Club, site officiel (agenda des soirées d'octobre 2026)",
+      "url": "http://morganclub.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s26",
+      "label": "toprencontre, « Les 8 meilleurs clubs libertins à Nice » (Club Papillon marqué « Fermé », modifié le 25/03/2025)",
+      "url": "https://toprencontre.fr/club-libertin-nice/",
+      "type": "annuaire",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s27",
+      "label": "Saunas4men, saunas gays de Nice (liste : Le Bain Douche, Sauna Sun-House, Le 7)",
+      "url": "https://saunas4men.com/en/france/nice",
+      "type": "annuaire",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s28",
+      "label": "PagesJaunes, saunas et hammams à Nice (fiche « Le Code », 4 rue Papon)",
+      "url": "https://www.pagesjaunes.fr/annuaire/nice-06/saunas-hammams",
+      "type": "annuaire",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s29",
+      "label": "Sauna du Château, site officiel (sauna mixte, horaires et entrées, mis à jour le 12/09/2026)",
+      "url": "http://www.saunaduchateau.com/",
+      "type": "officiel",
+      "consulted": "2026-10-21"
+    }
+  ]
+}

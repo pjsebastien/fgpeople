@@ -1,0 +1,33 @@
+{
+  "id": "new-le-cap-moneteau",
+  "nom": "Le Cap",
+  "type": "club privé libertin avec piste de danse",
+  "types_normalises": ["Club", "Discothèque"],
+  "adresse": "14 rue des Isles",
+  "code_postal": "89470",
+  "ville": "Monéteau",
+  "departement_code": "89",
+  "departement_nom": "Yonne",
+  "region": "Bourgogne-Franche-Comté",
+  "pays": "France",
+  "telephone": "0675269228",
+  "email": "lecapclubprive@gmail.com",
+  "site_web": "https://le-cap-moneteau.eatbu.com/",
+  "equipements": [
+    "Surface de 470 m²",
+    "Bar",
+    "Piste de danse avec deux barres de pole dance",
+    "Chambres à thème",
+    "Coin BDSM",
+    "Play room avec croix de Saint-André",
+    "Grand lit rond",
+    "Douches",
+    "Vestiaire",
+    "Deux terrasses dont un espace fumeur couvert",
+    "Climatisation",
+    "Parking privé et sécurisé (camping-cars et vans acceptés)",
+    "Accès PMR"
+  ],
+  "verification": { "status": "actif" },
+  "addedAt": "2026-10-21"
+}

@@ -1,0 +1,310 @@
+{
+  "slug": "sauna-blue-club-metz",
+  "clubId": "new-sauna-blue-club-metz",
+  "researchedAt": "2026-10-21",
+  "status": {
+    "value": "ouvert",
+    "summary": "Mis à jour le 14 octobre 2026, le site du Blue Club annonce une soirée Halloween le vendredi 30 octobre, des congés du 2 au 12 novembre et un passage d'AIDeS le 29 novembre. Wellho, la SAS qui exploite le sauna depuis novembre 2018, a déposé ses comptes de l'exercice clos fin septembre 2025, publiés au BODACC le 19 juin 2026.",
+    "sources": ["s1", "s2", "s4", "s6"]
+  },
+  "seo": {
+    "title": "Sauna Blue Club Metz : le sauna gay de la gare, prix et horaires",
+    "metaDescription": "Sauna gay réservé aux hommes près de la gare de Metz : 160 m², hammam, 7 cabines, entrée 20 € (10 € après 18 h), fermé le mardi. Halloween le 30 octobre.",
+    "subtitle": "Sauna gay de 160 m² réservé aux hommes, quartier de la gare à Metz (57)",
+    "targetQueries": [
+      "sauna gay metz",
+      "blue club metz",
+      "sauna blue club metz",
+      "sauna blue club metz horaires",
+      "sauna blue club metz tarifs",
+      "sauna blue club metz avis",
+      "sauna gay gare metz"
+    ]
+  },
+  "lead": "Le Blue Club se présente comme le seul sauna gay de Metz : plus de 160 m² de plain-pied près de la gare, avec sauna, hammam, play room et sept cabines, ouverts aux hommes majeurs six jours sur sept. Son bar ne sert aucun alcool, et trois boissons sont comprises dans l'entrée à 20 €. Exploité depuis novembre 2018 par la SAS Wellho, il annonce une soirée Halloween le vendredi 30 octobre 2026, puis des congés du 2 au 12 novembre.",
+  "glance": [
+    { "icon": "clock", "label": "Horaires", "value": "14 h-20 h, dès 12 h mercredi et vendredi" },
+    { "icon": "closed", "label": "Fermetures", "value": "Le mardi ; congés du 2 au 12 novembre 2026" },
+    { "icon": "euro", "label": "Entrée", "value": "20 € ; 10 € de 18 à 26 ans ou après 18 h" },
+    { "icon": "users", "label": "Public", "value": "Hommes majeurs uniquement" },
+    { "icon": "spa", "label": "Espaces", "value": "160 m² : sauna, hammam, 7 cabines, play room" },
+    { "icon": "calendar", "label": "Prochaine soirée", "value": "Halloween, vendredi 30 octobre, 19 h-minuit" }
+  ],
+  "audience": [
+    { "who": "hommes", "status": "oui", "detail": "Majeurs ; pièce d'identité demandée en cas de doute ; tarif réduit jusqu'à 26 ans", "price": "20 €" },
+    { "who": "couples", "status": "selon", "detail": "Couples d'hommes seulement, 30 € à deux ; couples homme-femme refusés", "price": "30 €" },
+    { "who": "femmes", "status": "non", "detail": "Refusées : le règlement réserve l'établissement aux personnes de sexe masculin" }
+  ],
+  "highlights": [
+    "Fermé chaque mardi, et du lundi 2 au jeudi 12 novembre 2026 pour congés ; réouverture le vendredi 13 novembre à 12 h.",
+    "Pas d'alcool, même apporté : le bar ne sert que des boissons sans alcool, et l'accès est refusé à qui arrive ivre ou drogué.",
+    "Paiement à l'entrée en espèces, par carte ou sans contact, jamais par chèque ; les suppléments, comme une serviette en plus, se règlent à la sortie.",
+    "Le téléphone n'est permis qu'au bar et au vestiaire ; on ne fume, cigarette électronique comprise, que dans la cabine fumeur du bar.",
+    "Grande serviette fournie, tongs sur demande, savon aux douches, gel et préservatifs au bar ; une pièce d'identité peut être exigée en cas de doute sur l'âge."
+  ],
+  "keyFacts": [
+    { "label": "Type", "value": "Sauna gay réservé aux hommes majeurs", "confidence": "confirme", "sources": ["s1", "s8", "s10"] },
+    { "label": "Surface", "value": "Plus de 160 m² de plain-pied", "confidence": "source_unique", "sources": ["s1", "s3"] },
+    { "label": "Exploitant", "value": "SAS Wellho (SIREN 842 515 231), enseigne Blue Club Sauna", "confidence": "confirme", "sources": ["s1", "s4"] },
+    { "label": "Repris le", "value": "16 novembre 2018, à la SARL Blue Club", "confidence": "confirme", "sources": ["s6", "s7", "s3"] },
+    { "label": "Exploité depuis", "value": "Au moins octobre 2007 (SARL Blue Club)", "confidence": "a_verifier", "sources": ["s5", "s7"] },
+    { "label": "Ouverture", "value": "Six jours sur sept, fermé le mardi", "confidence": "confirme", "sources": ["s1", "s9", "s3"] },
+    { "label": "Entrée plein tarif", "value": "20 € (19 € en 2021)", "confidence": "confirme", "sources": ["s1", "s3", "s10"] },
+    { "label": "Bar", "value": "Sans alcool, trois boissons comprises", "confidence": "confirme", "sources": ["s1", "s8"] },
+    { "label": "Prévention", "value": "Dépistages AIDeS tous les trois mois", "confidence": "source_unique", "sources": ["s1"] },
+    { "label": "Syndicat", "value": "Membre du SNEG & Co", "confidence": "confirme", "sources": ["s1", "s8"] }
+  ],
+  "sections": [
+    {
+      "id": "sauna-hammam",
+      "title": "Hammam aux dix parfums, sauna au menthol sur demande",
+      "icon": "spa",
+      "summary": "Sauna, hammam parfumé au choix parmi une dizaine de senteurs, quatre douches dont une froide et casiers fermant à clé, sur plus de 160 m² de plain-pied.",
+      "blocks": [
+        { "kind": "text", "body": "Tout tient sur un seul niveau de plus de 160 m², la surface que le site affichait déjà en 2021. Le **hammam** fonctionne avec un générateur qui règle vapeur et température, sous un éclairage aux couleurs changeantes ; une douche froide se trouve à proximité.\n\nSon parfum varie : le club propose une dizaine de senteurs aux huiles essentielles, de l'eucalyptus-menthe au romarin en passant par la fleur d'oranger, et demande aux clients leur préférence. Le « parfum de la semaine » affiché au 21 octobre 2026 était l'eucalyptus-menthe.\n\nAu **sauna**, un seau d'eau parfumée sert à arroser les pierres pour monter l'humidité, et des boules de sel de l'Himalaya chauffent dans la cabine. Le bar fournit sur demande des cristaux de menthol à poser sur les pierres, pour un effet « glaçon »." },
+        { "kind": "list", "title": "Douches et vestiaire", "items": [
+          "Trois douches chaudes et une froide, savon fourni",
+          "Un casier fermant à clé attribué à l'arrivée",
+          "Une grande serviette remise au vestiaire ; tongs et petite serviette sur demande",
+          "Le coin « Bonne Mine » : produits d'hygiène, sèche-cheveux et pèse-personne"
+        ] }
+      ],
+      "sources": ["s1", "s3"]
+    },
+    {
+      "id": "play-room-cabines",
+      "title": "Sept cabines, un sling et une play room à trois glory holes",
+      "icon": "lock",
+      "summary": "Côté jeux : une play room avec grand lit, films, trois glory holes et croix de Saint-André, sept cabines privatives, un sling, un siège gynécologique et une grande salle vidéo.",
+      "blocks": [
+        { "kind": "text", "body": "Le règlement distingue le sauna et le hammam, lieux de silence, des cabines de la « zone sombre », où il renvoie les rencontres plus bruyantes. Le club en compte sept, dont une grande, avec des ambiances baptisées « Boîte à Rêves », « Face à Face » ou « Rougissant »." },
+        { "kind": "table", "caption": "Équipements décrits par le site officiel, octobre 2026", "headers": ["Espace", "Équipement"], "rows": [
+          ["Play room", "Canapés et films, grand lit, trois glory holes, croix de Saint-André ; table et huile de massage sur demande"],
+          ["Cabines", "Sept cabines privatives, dont une grande ; un sling et un siège gynécologique"],
+          ["Salle vidéo", "Une grande salle, avec essuie-tout et désinfectant à disposition"],
+          ["Sanitaires", "Deux WC, dont un équipé pour le lavement intime, et un urinoir"]
+        ] }
+      ],
+      "sources": ["s1"]
+    },
+    {
+      "id": "tarifs-2021-2026",
+      "title": "20 € l'entrée, 5 € après 18 h pour les moins de 26 ans",
+      "icon": "euro",
+      "summary": "Le plein tarif est passé de 19 € en 2021 à 20 € ; les 22-26 ans, qui payaient 14 €, entrent désormais à 10 €, et l'entrée individuelle coûte moitié moins après 18 h.",
+      "blocks": [
+        { "kind": "text", "body": "Deux créneaux allègent la note. Entre 12 h et 14 h, possible seulement le mercredi et le vendredi, l'entrée coûte 13 € ; après 18 h, elle tombe à 10 €, ou 5 € avant 26 ans, pour les deux dernières heures d'ouverture." },
+        { "kind": "table", "caption": "Grille du site officiel en juillet 2021 et en octobre 2026", "headers": ["Catégorie", "2021", "2026"], "rows": [
+          ["Plus de 26 ans", "19 €", "20 €"],
+          ["22 à 26 ans", "14 €", "10 €"],
+          ["18 à 22 ans", "10 €", "10 €"],
+          ["Couple d'hommes", "30 €", "30 €"],
+          ["De 12 h à 14 h", "12 € (mercredi et vendredi)", "13 €"]
+        ] },
+        { "kind": "text", "body": "L'entrée vaut pour la journée, avec une sortie et un retour offerts ; chaque ré-entrée suivante coûte 2 €. Le club ne rembourse rien si un espace n'a pas servi." },
+        { "kind": "list", "title": "Le programme de fidélité (carte gratuite et nominative)", "items": [
+          "5 € de réduction sur l'entrée suivante, en demandant la carte après une première visite",
+          "Une entrée offerte toutes les dix entrées payées au plein tarif, sans réduction",
+          "Une entrée offerte la semaine de votre anniversaire, le jour de votre choix",
+          "Pas de date d'expiration, mais une carte perdue remet le compteur à zéro"
+        ] }
+      ],
+      "sources": ["s1", "s3", "s10"]
+    },
+    {
+      "id": "automne-2026",
+      "title": "Halloween le vendredi 30 octobre, puis congés jusqu'au 12 novembre",
+      "icon": "calendar",
+      "summary": "Soirée Halloween le 30 octobre de 19 h à minuit (10 €), fermeture à 19 h le 1er novembre, congés du 2 au 12 novembre et réouverture le vendredi 13 à midi.",
+      "blocks": [
+        { "kind": "table", "caption": "Calendrier affiché sur le site officiel au 21 octobre 2026", "headers": ["Date", "Ce qui change"], "rows": [
+          ["Du 14 octobre au 1er novembre", "Ambiance Halloween"],
+          ["Vendredi 30 octobre", "Soirée Halloween de 19 h à minuit, entrée 10 €"],
+          ["Dimanche 1er novembre", "Fermeture exceptionnelle à 19 h"],
+          ["Du lundi 2 au jeudi 12 novembre", "Fermé pour congés"],
+          ["Vendredi 13 novembre", "Réouverture à 12 h"],
+          ["Dimanche 29 novembre", "Passage des volontaires d'AIDeS, de 15 h à 17 h 30"]
+        ] },
+        { "kind": "text", "body": "Dress code de la soirée du 30 octobre : nu, en sous-vêtements, en tenue « dog », en cuir, en latex, ou déguisé, sexy ou horreur. Des pizzas sont proposées en supplément, à régler en espèces à l'arrivée.\n\nLe club promet une soirée par mois jusqu'à minuit, annoncée au vestiaire, sur Blue Club TV, sur le site et sur ses réseaux. Au 21 octobre 2026, aucune n'était encore annoncée après Halloween." },
+        { "kind": "callout", "tone": "info", "body": "Le site n'écrit pas l'année de ces dates. Elles valent pour 2026 : la page a été mise en ligne en mai 2025, modifiée le 14 octobre 2026, et le 30 octobre 2025 tombait un jeudi." }
+      ],
+      "sources": ["s1", "s2"]
+    },
+    {
+      "id": "histoire",
+      "title": "La SARL Blue Club en 2007, Wellho depuis le 16 novembre 2018",
+      "icon": "history",
+      "summary": "Racheté en octobre 2007 par la SARL Blue Club, le fonds a été cédé le 16 novembre 2018 à la SAS Wellho, exploitant actuel ; l'activité d'avant 2007 reste mal documentée.",
+      "blocks": [
+        { "kind": "timeline", "items": [
+          { "date": "Octobre 2007", "text": "La SARL Blue Club, créée le 27 octobre, achète un fonds au 8 rue Sébastien-Leclerc ; l'annonce légale n'en précise pas la nature." },
+          { "date": "Septembre 2018", "text": "Création de la SAS Wellho, au capital de 1 000 €." },
+          { "date": "16 novembre 2018", "text": "Wellho rachète le fonds de la SARL Blue Club par acte notarié signé à Ars-sur-Moselle ; le site parlera ensuite d'une « nouvelle direction depuis fin 2018 »." },
+          { "date": "2019", "text": "Chiffres publiés au répertoire : 79 960 € de chiffre d'affaires et 6 376 € de résultat net." },
+          { "date": "Juillet 2021", "text": "Le site affiche déjà 160 m², les horaires de 2026 et la fermeture du mardi, avec une entrée à 19 €." },
+          { "date": "Mai 2025", "text": "Publication de la page unique qui forme le site actuel." },
+          { "date": "Avril 2026", "text": "Le syndicat SNEG & Co publie une fiche du lieu dans la rubrique de ses nouveaux adhérents." },
+          { "date": "Juin 2026", "text": "Publication au BODACC du dépôt des comptes de l'exercice clos le 30 septembre 2025." }
+        ] },
+        { "kind": "text", "body": "Avant 2007, la trace se perd. La fiche du SNEG & Co présente le lieu comme « adhérent depuis 1998 » tout en le rangeant parmi les nouveaux membres de 2026 : aucune autre source ne confirme cette date, ni l'enseigne d'avant 2007.\n\nLa SARL Blue Club figure toujours comme active au répertoire des entreprises, sans salarié, alors qu'elle a vendu son fonds en 2018 : rien n'indique un second lieu sous ce nom." }
+      ],
+      "sources": ["s2", "s3", "s4", "s5", "s6", "s7", "s8"]
+    },
+    {
+      "id": "quartier-gare",
+      "title": "Près du Centre Pompidou-Metz : 580 places gratuites à la patinoire",
+      "icon": "car",
+      "summary": "Le club est dans le quartier de la gare ; on se gare en payant à la gare, gratuitement rue Saint-Livier ou à la patinoire, ou dans la rue le dimanche et les jours fériés.",
+      "blocks": [
+        { "kind": "text", "body": "Le Blue Club se situe dans le quartier de la gare, « à deux pas » du Centre Pompidou-Metz selon son site, doublé de versions anglaise et allemande, qui oriente aussi ses visiteurs vers l'office de tourisme et le centre commercial Muse. L'entrée est de plain-pied, et le club se dit aménagé pour les personnes à mobilité réduite." },
+        { "kind": "list", "title": "Se garer", "items": [
+          "Payant : parkings aérien et souterrain de la gare, ou l'un des 16 parkings de la ville",
+          "Gratuit, à une dizaine de minutes à pied : rue Saint-Livier, ou parking de la patinoire (580 places, boulevard Saint-Symphorien, Longeville-lès-Metz)",
+          "Dans la rue, gratuit de 12 h à 14 h, de 19 h à 9 h, et toute la journée les dimanches et jours fériés",
+          "Parkings relais en périphérie, puis bus Mettis jusqu'à la gare"
+        ] },
+        { "kind": "callout", "tone": "tip", "title": "Couples homme-femme et femmes", "body": "Le Blue Club ne les reçoit pas. Les annuaires situent deux clubs échangistes près de Metz, mais aucun n'avait de site en ligne le 21 octobre 2026 (distances à vol d'oiseau) :\n- [L'Intim](/intim-metz-libertin), rue des Ferblantiers, à 5,7 km : le domaine lintim57.fr n'affiche qu'une page d'attente ;\n- [Le Labyrinthe](/le-labyrinthe-marly), à Marly, à 3,6 km : le domaine le-labyrinthe.com est passé chez un service de parking.\n\nAvant de chercher un club plus loin en [Moselle](/departement/moselle), [comptez les libertins connectés récemment à moins de 30 km de Metz](aff:carre-libertin) : Carré Libertin annonce environ 20 000 membres actifs chaque semaine, toutes régions confondues." }
+      ],
+      "sources": ["s1", "s11", "s12", "s13", "s14"]
+    },
+    {
+      "id": "reglement",
+      "title": "Un règlement en neuf chapitres, le consentement en tête",
+      "icon": "shield",
+      "summary": "Le règlement s'ouvre sur le consentement, impose douche et nudité, bannit drogues, verre et armes, et exclut les auteurs de propos homophobes, racistes, anti-bi ou anti-hétéro.",
+      "blocks": [
+        { "kind": "text", "body": "Le règlement intérieur, publié en entier sur le site, commence par le consentement : une charte affichée au vestiaire et diffusée sur Blue Club TV rappelle de l'obtenir avant et pendant un rapport. Un manquement vaut un rappel, puis l'exclusion s'il se répète." },
+        { "kind": "list", "title": "Ce qu'il impose aussi", "items": [
+          "Une douche complète avant le sauna ou le hammam ; une hygiène jugée insuffisante peut valoir un refus d'accès, sans remboursement",
+          "Aucun textile dans les espaces, maillot de bain compris, et une serviette assez grande pour protéger les bancs du sauna",
+          "Ni drogue, même « festive », ni verre, arme ou objet dangereux ; pas d'accès avec une plaie ouverte",
+          "Nourriture et boissons apportées : au bar seulement",
+          "Pour un lavement, la clé de l'eau se prend et se rend au bar, et chacun nettoie derrière lui"
+        ] },
+        { "kind": "text", "body": "Les menaces et les propos racistes, homophobes, « anti-bi » ou « anti-hétéro » entraînent l'exclusion. Après une ou plusieurs infractions, le personnel peut aussi interdire l'accès." }
+      ],
+      "sources": ["s1"]
+    },
+    {
+      "id": "prevention-aides",
+      "title": "AIDeS tous les trois mois : dépistage du VIH, de la syphilis et des hépatites",
+      "icon": "heart",
+      "summary": "Des volontaires d'AIDeS passent tous les trois mois pour des dépistages et des kits IST ; le reste du temps, gel et préservatifs sont fournis aux frais du club.",
+      "blocks": [
+        { "kind": "text", "body": "Le rendez-vous trimestriel avec AIDeS comprend, selon le règlement, une orientation, des dépistages du VIH, de la syphilis et des hépatites B et C, et la remise de kits de prélèvement IST avec suivi. Le prochain est fixé au dimanche 29 novembre 2026, de 15 h à 17 h 30.\n\nEntre deux passages, la « Blue Zone » du vestiaire tient documentation et actualités, et Blue Club TV diffuse des messages de prévention. Gel et préservatifs sont à disposition au bar, à la charge du club ; des modèles XL ou sans latex sont fournis sur demande.\n\nLe club se dit membre du SNEG & Co, syndicat des établissements gays, et d'ENIPSE, et soutient Couleurs Gaies et AIDeS Lorraine. Le SNEG & Co confirme l'adhésion sur son propre site." }
+      ],
+      "sources": ["s1", "s8"]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Lundi": "14 h – 20 h",
+      "Mardi": "Fermé",
+      "Mercredi": "12 h – 20 h",
+      "Jeudi": "14 h – 20 h",
+      "Vendredi": "12 h – 20 h",
+      "Samedi": "14 h – 20 h",
+      "Dimanche": "14 h – 20 h"
+    },
+    "note": "Une soirée par mois jusqu'à minuit. Ouvert les jours fériés selon le site, qui renvoie à ses actualités pour confirmation. Automne 2026 : fermeture à 19 h le dimanche 1er novembre, congés du lundi 2 au jeudi 12 novembre, réouverture le vendredi 13 novembre à 12 h.",
+    "confidence": "confirme",
+    "sources": ["s1", "s9", "s3"]
+  },
+  "tarifs": {
+    "rows": {
+      "Plus de 26 ans": "20 €",
+      "De 18 à 26 ans": "10 €",
+      "Couple d'hommes": "30 €",
+      "De 12 h à 14 h": "13 €",
+      "Après 18 h, plus de 26 ans": "10 €",
+      "Après 18 h, moins de 26 ans": "5 €",
+      "Soirée Halloween (30 octobre 2026)": "10 €",
+      "Ré-entrée, à partir de la deuxième": "2 €",
+      "Serviette supplémentaire": "2 €",
+      "Glace": "0,50 €",
+      "Poppers": "10 €",
+      "Clé perdue": "20 €"
+    },
+    "note": "Entrée valable toute la journée, première ré-entrée offerte. Compris : trois boissons sans alcool, eau plate ou pétillante à volonté, une grande serviette, tongs sur demande. Espèces, carte ou sans contact ; chèques refusés.",
+    "confidence": "confirme",
+    "sources": ["s1", "s10"]
+  },
+  "equipements": [
+    "Plus de 160 m² de plain-pied, accessible aux personnes à mobilité réduite",
+    "Sauna avec seau d'eau parfumée et boules de sel de l'Himalaya",
+    "Hammam à générateur de vapeur, une dizaine de parfums",
+    "Quatre douches, dont une froide",
+    "Vestiaire à casiers fermant à clé, coin « Bonne Mine »",
+    "Bar sans alcool avec canapés et Blue Club TV",
+    "Cabine fumeur",
+    "Play room : grand lit, films, trois glory holes, croix de Saint-André",
+    "Table de massage sur demande",
+    "Sept cabines privatives, dont une grande",
+    "Sling",
+    "Siège gynécologique",
+    "Grande salle vidéo",
+    "Deux WC, dont un équipé pour le lavement, et un urinoir",
+    "Espace prévention « Blue Zone »",
+    "Wi-Fi gratuit"
+  ],
+  "externalRatings": [
+    { "platform": "PagesJaunes", "rating": 5, "scale": 5, "count": 2, "date": "2026-10-21", "url": "https://www.pagesjaunes.fr/pros/08249103" }
+  ],
+  "officialLinks": [
+    { "label": "Site officiel", "url": "https://www.saunablueclub.fr/", "kind": "site" },
+    { "label": "Facebook", "url": "https://www.facebook.com/saunablueclub/", "kind": "facebook" },
+    { "label": "Instagram", "url": "https://www.instagram.com/sauna_blue_club57/", "kind": "instagram" }
+  ],
+  "faq": [
+    {
+      "question": "Quels sont les horaires du sauna Blue Club à Metz ?",
+      "answer": "De 14 h à 20 h, sauf le mardi, jour de fermeture ; le mercredi et le vendredi, l'ouverture avance à 12 h. Une soirée par mois prolonge jusqu'à minuit : la prochaine, Halloween, a lieu le vendredi 30 octobre 2026. Le club ferme ensuite pour congés du 2 au 12 novembre et rouvre le vendredi 13 à 12 h."
+    },
+    {
+      "question": "Combien coûte l'entrée au Blue Club ?",
+      "answer": "20 € après 26 ans, 10 € de 18 à 26 ans, 30 € pour un couple d'hommes. L'entrée descend à 13 € entre 12 h et 14 h, et à 10 € après 18 h (5 € avant 26 ans). Trois boissons sans alcool, une grande serviette et une ré-entrée sont comprises."
+    },
+    {
+      "question": "Une femme ou un couple homme-femme peut-il entrer au Blue Club ?",
+      "answer": "Non : le règlement réserve l'établissement aux « personnes de sexe masculin », et le seul tarif à deux concerne un couple d'hommes. Faute de club mixte dont l'activité soit vérifiée autour de Metz, un couple peut [mesurer la présence de couples lorrains sur le plus gros site libertin français](aff:wyylde), Wyylde, qui revendique 7 millions de membres. Moins cher, [le réseau libertin Gleese, à partir de 3,75 € par mois en formule annuelle](aff:gleese), coûte moins de la moitié de l'abonnement annuel de Wyylde."
+    },
+    {
+      "question": "Le Blue Club est-il le seul sauna gay de Metz ?",
+      "answer": "Le club l'affirme sur son site, déjà en 2021 et toujours en 2026. Nos recherches d'octobre 2026 n'ont fait apparaître aucun autre sauna gay ouvert à [Metz](/ville/metz) ; c'est un constat, pas une certitude."
+    },
+    {
+      "question": "Le Blue Club est-il accessible en fauteuil roulant ?",
+      "answer": "Le club se dit de plain-pied et accessible, avec des installations configurées pour les personnes à mobilité réduite. Nous n'avons pas pu vérifier sur place la largeur des passages ni l'équipement des sanitaires : appelez le 03 87 18 09 40 avant de venir."
+    },
+    {
+      "question": "Que valent les avis sur le sauna Blue Club ?",
+      "answer": "Trop peu d'avis publics pour dégager une tendance. Le 21 octobre 2026, PagesJaunes affichait 5/5 sur deux avis, de janvier 2017 et de décembre 2024 ; Gayspot annonçait 5/5 sur deux avis, dont un seul visible, de septembre 2026. La note Google n'a pas été relevée."
+    }
+  ],
+  "unverified": [
+    "Le site dit le club ouvert les jours fériés, mais renvoie à ses actualités : à vérifier avant chaque férié.",
+    "Aucune soirée mensuelle n'était annoncée après Halloween au 21 octobre 2026 : dates de décembre inconnues.",
+    "Le tarif de 13 € entre 12 h et 14 h vaut-il aussi pour les moins de 26 ans, dont l'entrée normale coûte 10 € ? Le site ne le précise pas.",
+    "Activité et enseigne du lieu avant octobre 2007, et adhésion au SNEG & Co « depuis 1998 » : non recoupées.",
+    "Photos des espaces et vidéos de visite guidée du site officiel non regardées : rien n'en est décrit ici.",
+    "Note Google non relevée ; pages Facebook, Instagram et Tripadvisor illisibles sans connexion.",
+    "Le règlement parle de « personnes de sexe masculin » sans préciser l'accueil des hommes trans : à demander au club.",
+    "Accessibilité en fauteuil : largeur des passages et sanitaires adaptés non vérifiés sur place."
+  ],
+  "sources": [
+    { "id": "s1", "label": "Site officiel du Blue Club : accueil, espaces, horaires, tarifs, fidélité, règlement intérieur, parkings et mentions légales", "url": "https://www.saunablueclub.fr/", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s2", "label": "Site officiel, plan du site et API WordPress : page publiée le 04/05/2025, modifiée le 14/10/2026", "url": "https://www.saunablueclub.fr/page-sitemap.xml", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s3", "label": "Site officiel, archive Wayback du 27/07/2021 (surface, horaires et tarifs de 2021)", "url": "https://web.archive.org/web/20210727193828/https://www.saunablueclub.fr/", "type": "officiel", "consulted": "2026-10-21" },
+    { "id": "s4", "label": "Annuaire des entreprises : WELLHO, nom commercial Blue Club Sauna (SIREN 842 515 231)", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/842515231", "type": "registre", "consulted": "2026-10-21" },
+    { "id": "s5", "label": "Annuaire des entreprises : SARL BLUE CLUB (SIREN 501 042 667)", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/501042667", "type": "registre", "consulted": "2026-10-21" },
+    { "id": "s6", "label": "BODACC, annonces de WELLHO (création 2018, achat du fonds, dépôts des comptes jusqu'en 2026)", "url": "https://bodacc-datadila.opendatasoft.com/explore/dataset/annonces-commerciales/table/?q=842515231", "type": "registre", "consulted": "2026-10-21" },
+    { "id": "s7", "label": "BODACC, annonces de la SARL BLUE CLUB (achat d'un fonds en 2007, vente en 2018)", "url": "https://bodacc-datadila.opendatasoft.com/explore/dataset/annonces-commerciales/table/?q=501042667", "type": "registre", "consulted": "2026-10-21" },
+    { "id": "s8", "label": "SNEG & Co, fiche « Blue Club » publiée le 09/04/2026", "url": "https://www.snegandco.fr/blue-club/", "type": "autre", "consulted": "2026-10-21" },
+    { "id": "s9", "label": "PagesJaunes, « Sauna Blue Club » (horaires, 2 avis)", "url": "https://www.pagesjaunes.fr/pros/08249103", "type": "annuaire", "consulted": "2026-10-21" },
+    { "id": "s10", "label": "Gayspot, « Blue Club Sauna » (tarifs, avis de septembre 2026)", "url": "https://gayspot.fr/lieu-de-drague-gay/1438-blue-club-sauna-metz.html", "type": "annuaire", "consulted": "2026-10-21" },
+    { "id": "s11", "label": "Base adresse nationale : géocodage du 8 rue Sébastien-Leclerc et distances aux lieux voisins", "url": "https://api-adresse.data.gouv.fr/search/?q=8+rue+Sebastien+Leclerc+57000+Metz", "type": "carte", "consulted": "2026-10-21" },
+    { "id": "s12", "label": "Site de L'Intim, état le 21/10/2026 : page « Coming Soon »", "url": "http://www.lintim57.fr", "type": "autre", "consulted": "2026-10-21" },
+    { "id": "s13", "label": "Domaine du Labyrinthe, état le 21/10/2026 : serveur de parking de noms de domaine", "url": "https://www.le-labyrinthe.com", "type": "autre", "consulted": "2026-10-21" },
+    { "id": "s14", "label": "Minuit Libertin, « Trouvez un club échangiste en Moselle (57) », modifié le 03/08/2026", "url": "https://minuitlibertin.com/trouvez-un-club-echangiste-en-moselle-57/", "type": "annuaire", "consulted": "2026-10-21" }
+  ]
+}

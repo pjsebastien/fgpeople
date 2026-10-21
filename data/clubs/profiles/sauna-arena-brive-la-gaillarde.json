@@ -1,0 +1,343 @@
+{
+  "slug": "sauna-arena-brive-la-gaillarde",
+  "clubId": "new-sauna-arena-brive-la-gaillarde",
+  "researchedAt": "2026-10-20",
+  "display": { "nom": "Sauna Arena", "ville": "Brive-la-Gaillarde" },
+  "status": {
+    "value": "ouvert",
+    "summary": "Le site officiel, refait le 30 novembre 2025, a vu sa page « À propos » retouchée le 21 juin 2026 : elle compte désormais « 16 ans » depuis la reprise de 2010. Deux avis des 9 et 13 mai 2026, vus seulement sur un agrégateur qui les dit issus de Google, décrivent le lieu en activité. L'établissement « ARENA » est actif au registre ; aucune soirée ni publication datée n'a été trouvée, ni aucune annonce de fermeture lors de notre recherche d'octobre 2026.",
+    "sources": ["s4", "s7", "s18", "s12"]
+  },
+  "seo": {
+    "title": "Sauna Arena à Brive : sauna gay, horaires, tarifs et photos",
+    "metaDescription": "Sauna masculin près de la gare de Brive : 19 € l'entrée (10 € avant 25 ans), ouvert de 13 h à 19 h sauf le mercredi, carte refusée. Jacuzzi, hammam, cabines.",
+    "subtitle": "Sauna gay réservé aux hommes, avec jacuzzi et hammam, près de la gare de Brive-la-Gaillarde (19)",
+    "targetQueries": [
+      "sauna arena brive",
+      "sauna gay brive",
+      "sauna brive-la-gaillarde",
+      "sauna arena brive horaires",
+      "sauna arena brive tarifs",
+      "sauna arena brive photos",
+      "le cantou 19 brive"
+    ]
+  },
+  "lead": "Ancien Cantou 19, repris en 2010 par son exploitant actuel, le Sauna Arena est un sauna réservé aux hommes, fréquenté par une clientèle gay, ouvert l'après-midi six jours sur sept. L'entrée coûte 19 € (10 € avant 25 ans), boisson chaude comprise, et ne se règle pas par carte bancaire. Les photos officielles de novembre 2025 montrent un jacuzzi, un hammam, un sauna en bois, des cabines et un petit bar.",
+  "glance": [
+    { "icon": "users", "label": "Public", "value": "Hommes uniquement (sauna gay)" },
+    { "icon": "calendar", "label": "Ouvert", "value": "13 h-19 h sauf mercredi (dim. dès 14 h)" },
+    { "icon": "euro", "label": "Entrée", "value": "19 € · 10 € avant 25 ans" },
+    { "icon": "lock", "label": "Paiement", "value": "Carte bancaire refusée" },
+    { "icon": "spa", "label": "Espaces", "value": "Jacuzzi, hammam, sauna sec, cabines" },
+    { "icon": "map", "label": "Gare SNCF", "value": "Environ 360 m à vol d'oiseau" }
+  ],
+  "audience": [
+    { "who": "hommes", "status": "oui", "detail": "Tous les jours sauf le mercredi, de 13 h à 19 h (14 h-19 h le dimanche)", "price": "19 € (10 € avant 25 ans)" },
+    { "who": "couples", "status": "non", "detail": "Sauna masculin : aucun créneau mixte annoncé par le site officiel" },
+    { "who": "femmes", "status": "non", "detail": "Aucune entrée femme au tarif ; lieu mixte relevé : le Mikado, à Saint-Pantaléon" }
+  ],
+  "highlights": [
+    "La carte bancaire est refusée : prévoyez 19 € (10 € avant 25 ans) par un autre moyen ; deux annuaires parlent d'espèces.",
+    "Fermé le mercredi selon le site officiel, malgré l'agenda AgendaQ qui l'affiche ouvert ; les nuits citées par des annuaires ont quitté le site au plus tard en 2018.",
+    "Réservé aux hommes : un annuaire le présente comme un club libertin pour couples à 50 €, ce que contredit le site officiel.",
+    "Une boisson chaude est incluse dans l'entrée ; le bar ne sert que café, thé et boissons sans alcool.",
+    "Le 10 rue Auguste-Comte est à environ 360 m à vol d'oiseau de la gare SNCF ; le site ne dit rien du stationnement."
+  ],
+  "keyFacts": [
+    { "label": "Public admis", "value": "Hommes uniquement (sauna masculin, clientèle gay)", "confidence": "confirme", "sources": ["s1", "s8", "s15", "s16"] },
+    { "label": "Ancien nom", "value": "Le Cantou 19, jusqu'au printemps 2010", "confidence": "confirme", "sources": ["s33", "s35", "s37", "s38"] },
+    { "label": "Reprise", "value": "2010, fonds acheté 40 000 €", "confidence": "confirme", "sources": ["s4", "s13", "s14"] },
+    { "label": "Exploitant", "value": "Entrepreneur individuel, enseigne « ARENA », actif au registre", "confidence": "confirme", "sources": ["s12"] },
+    { "label": "Jours d'ouverture", "value": "Tous les jours sauf le mercredi, l'après-midi", "confidence": "confirme", "sources": ["s2", "s15"] },
+    { "label": "Entrée", "value": "19 € ; 10 € pour les moins de 25 ans, boisson chaude comprise", "confidence": "confirme", "sources": ["s3", "s7"] },
+    { "label": "Paiement", "value": "Carte bancaire non acceptée", "confidence": "confirme", "sources": ["s3", "s15", "s18"] },
+    { "label": "Équipements", "value": "Jacuzzi, hammam, sauna sec, cabines, vidéos, bar sans alcool", "confidence": "confirme", "sources": ["s4", "s6"] },
+    { "label": "Accès", "value": "Environ 360 m à vol d'oiseau de la gare SNCF", "confidence": "confirme", "sources": ["s5", "s20", "s21"] }
+  ],
+  "sections": [
+    {
+      "id": "photos-novembre-2025",
+      "title": "Jacuzzi octogonal, hammam carrelé, sauna en bois : les neuf photos du 30 novembre 2025",
+      "icon": "camera",
+      "summary": "La galerie officielle montre un jacuzzi éclairé en violet contre des pierres apparentes, un hammam, un sauna en bois, des cabines, un salon, un bar et un vestiaire.",
+      "blocks": [
+        { "kind": "text", "body": "La page « Images » du site officiel réunit neuf photos mises en ligne le 30 novembre 2025, dont les fichiers portent la date du jour. Elles couvrent les espaces cités par la page « À propos », sans aucun client, souvent sous un éclairage tamisé." },
+        { "kind": "list", "items": [
+          "**Jacuzzi** : bassin octogonal à jets, éclairé en violet, adossé à un mur de pierres apparentes sous un plafond imitation marbre.",
+          "**Hammam** : petite pièce carrelée en clair, avec une banquette maçonnée et une fenêtre.",
+          "**Sauna sec** : cabine en lames de bois, banquette en L et poêle à pierres.",
+          "**Cabines** : murs sombres et banquettes noires, dont une à deux niveaux.",
+          "**Couloir** : pierres apparentes, barre d'appui et colonne de douche entre les portes.",
+          "**Salon** : banquette à coussins rouges, table basse, vitrine d'accessoires et écran mural.",
+          "**Bar et vestiaire** : un comptoir à trois tabourets hauts, deux blocs de casiers métalliques numérotés."
+        ] },
+        { "kind": "text", "body": "Quatre autres clichés du même jour, restés dans la bibliothèque du site, montrent un rideau de chaînettes métalliques, une cabine dotée d'une vitre intérieure et le coin du bar. On y voit une fontaine à eau et deux distributeurs, l'un de gel, l'autre de préservatifs." },
+        { "kind": "text", "body": "Des climatiseurs muraux apparaissent sur deux photos, ce qui concorde avec la climatisation annoncée. Ni la surface ni le nombre de niveaux ne sont indiqués, sur le site comme dans les guides consultés." }
+      ],
+      "sources": ["s6", "s7", "s4"]
+    },
+    {
+      "id": "sauna-masculin",
+      "title": "Un sauna masculin depuis au moins 2010, sans créneau mixte",
+      "icon": "users",
+      "summary": "« Sauna Masculin » sur le site, « espace Gay » au temps du Cantou 19 en 2010 : l'affichette du bar ne connaît que deux entrées, « hommes » et « moins de 25 ans ».",
+      "blocks": [
+        { "kind": "text", "body": "Le titre de page du site officiel est « Un Sauna Masculin à Brive la Gaillarde », comme sur l'ancien site en mai 2011 ; en mars 2010, le Cantou 19 parlait d'« un espace Gay ». Le site actuel n'emploie pas ce mot : ce sont saunas4men, gayspot et l'agenda AgendaQ (« Gay only ») qui le rangent parmi les lieux gays." },
+        { "kind": "text", "body": "Deux détails des photos de novembre 2025 vont dans le même sens : des numéros du magazine Têtu dans le salon, et une affichette de tarifs à deux lignes seulement, « hommes » à 19 € et « moins de 25 ans » à 10 €. Une fiche d'annuaire ajoutée en mars 2026 précise qu'aucune séance mixte n'est proposée." },
+        { "kind": "callout", "tone": "warning", "title": "Pas un club pour couples, malgré un annuaire", "body": "La page « club libertin Brive-la-Gaillarde » de club-libertin-france.fr décrit l'Arena comme un club libertin, voire une boîte de nuit, avec une entrée couple à 50 €, homme seul à 70 € et une ouverture jusqu'à 2 h le week-end. Le site officiel ne dit rien de tel : 19 € l'entrée, fermeture à 19 h." }
+      ],
+      "sources": ["s1", "s8", "s34", "s16", "s17", "s48", "s7", "s15", "s19", "s3", "s2"]
+    },
+    {
+      "id": "couples-mikado",
+      "title": "Couples et femmes seules : le Mikado de Saint-Pantaléon-de-Larche et ses six créneaux",
+      "icon": "couple",
+      "summary": "L'Arena ne reçoit ni couples ni femmes. Autour de Brive, le Mikado, club et sauna libertin de Saint-Pantaléon-de-Larche, publie six créneaux par semaine sur son site.",
+      "blocks": [
+        { "kind": "text", "body": "Une femme ou un couple qui cherchait un sauna à Brive ne trouvera donc pas de place rue Auguste-Comte. En ville, [Le Délire](/le-delire-brive-la-gaillarde), rue Jean Labrunie, est probablement fermé : à cette adresse, la seule activité compatible avec un sauna a cessé au registre le 15 avril 2005, sans enseigne qui la relie formellement au club." },
+        { "kind": "text", "body": "L'adresse mixte en activité relevée autour de Brive est le Mikado, club et sauna libertin de l'avenue du Colombier, à Saint-Pantaléon-de-Larche, à l'ouest de la ville. Sa page d'horaires, modifiée le 1er octobre 2026, annonce :" },
+        { "kind": "list", "items": [
+          "le mardi et le jeudi de 14 h à 19 h, puis le jeudi soir de 21 h 30 à 2 h 30 ;",
+          "le vendredi de 22 h à 5 h, réservé aux couples et aux femmes seules ;",
+          "le samedi de 22 h à 5 h et le dimanche de 15 h à minuit ;",
+          "des entrées couple de 30 à 40 €, et l'entrée offerte aux femmes seules le mardi, le jeudi et le dimanche."
+        ] },
+        { "kind": "text", "body": "Le vendredi, fermé aux hommes seuls, se prête à une première sortie entre couples. Carré Libertin, qui annonce environ 20 000 membres actifs chaque semaine, permet de [convenir d'un vendredi au Mikado avec un couple corrézien](aff:carre-libertin) avant de s'y présenter." }
+      ],
+      "sources": ["s1", "s23", "s22"]
+    },
+    {
+      "id": "cantou-19",
+      "title": "Avant l'Arena, le Cantou 19 : le jumeau corrézien d'un sauna de Périgueux",
+      "icon": "history",
+      "summary": "En mars 2010, le site des saunas Le Cantou présentait au 10 rue Auguste-Comte, avec le téléphone actuel de l'Arena, « Le Cantou 19 », jumeau du Cantou 24 de Périgueux.",
+      "blocks": [
+        { "kind": "text", "body": "Avant la reprise de 2010, le sauna portait un autre nom. Le site des « Sauna Le Cantou » en présentait deux, l'un en Périgord, l'autre en Corrèze : sa page de contact, archivée le 13 mars 2010, donne pour le Cantou 19 le 10 rue Auguste-Comte et le 05 55 88 33 47, toujours le numéro de l'Arena." },
+        { "kind": "list", "title": "Le Cantou 19 en mars 2010, d'après son site", "items": [
+          "un « espace Gay » avec jacuzzi, hammam, sauna et cabines, soit déjà l'essentiel des équipements actuels ;",
+          "une entrée à 16 €, ramenée à 12 € pendant une happy hour de 19 h à 20 h ;",
+          "une ouverture tous les jours de 13 h à minuit, jusqu'à 2 h le vendredi et le samedi, de 14 h à 20 h le dimanche."
+        ] },
+        { "kind": "text", "body": "En mai 2010, la page du Cantou 19 annonçait des journées naturistes le mardi et le jeudi, et un avis du même mois saluait un lieu « naturiste ». Le 16 mai, la page de contact ne citait plus que le Cantou 24 ; l'exploitant actuel a démarré le 14 juin." },
+        { "kind": "text", "body": "Le Cantou 24, présenté comme sauna libertin et gay, occupait le 14 rue La Fayette à Périgueux, l'adresse actuelle d'Atlantis 24. Deux annuaires, misterwhat et koifaire, répertorient encore « Le Cantou 19 » à l'adresse et au numéro de l'Arena." }
+      ],
+      "sources": ["s33", "s34", "s35", "s51", "s38", "s36", "s50", "s14", "s27", "s37"]
+    },
+    {
+      "id": "reprise-2010",
+      "title": "Un fonds acheté 40 000 € en 2010, un site de 2011 resté en ligne jusqu'en novembre 2025",
+      "icon": "history",
+      "summary": "L'exploitant actuel a repris le fonds en juin 2010 ; l'ancien site, archivé dès mai 2011, a été remplacé le 30 novembre 2025 par une version refaite, retouchée en juin 2026.",
+      "blocks": [
+        { "kind": "timeline", "items": [
+          { "date": "Mars 2010", "text": "Le sauna s'appelle encore Le Cantou 19. Sa date d'ouverture n'a pas été retrouvée." },
+          { "date": "Juin 2010", "text": "Vente du fonds annoncée dans La Vie Corrézienne du 25 juin ; l'activité du nouvel exploitant démarre le 14 juin, selon une rectification publiée en mars 2011." },
+          { "date": "9 novembre 2010", "text": "Le BODACC publie l'achat du fonds au prix de 40 000 €, sous le libellé « centre de remise en forme, vente de boissons et produits alimentaires diététiques »." },
+          { "date": "Mai 2011", "text": "Plus ancienne capture du site de l'Arena : rubriques Soirées, Photos, Plan d'accès et Livre d'or ; soirées naturistes le lundi et le jeudi." },
+          { "date": "25 mai 2013", "text": "« Soirée Bears » avec buffet à partir de 20 h, dernière soirée à thème vue sur le site ; la page « Soirées » reste vide dans les captures suivantes." },
+          { "date": "30 novembre 2025", "text": "Mise en ligne d'un nouveau site de six pages, avec des photos datées du jour même ; horaires et tarifs sont mis à jour les 2 et 3 décembre." },
+          { "date": "21 juin 2026", "text": "Dernière retouche de la page « À propos », qui compte « 16 ans » depuis la reprise." }
+        ] },
+        { "kind": "text", "body": "Au registre, l'établissement porte l'enseigne « ARENA » et le code des centres de culture physique (93.13Z), un libellé administratif générique. La Wayback Machine conserve 64 captures mensuelles du site entre mai 2011 et juin 2026." }
+      ],
+      "sources": ["s33", "s4", "s12", "s13", "s14", "s8", "s39", "s40", "s41", "s7", "s11"]
+    },
+    {
+      "id": "tarifs-horaires-2010-2025",
+      "title": "16 € jusqu'en 2018, 19 € aujourd'hui : le samedi jusqu'à 1 h a disparu entre 2016 et 2018",
+      "icon": "euro",
+      "summary": "L'entrée est restée à 16 € de 2010 à 2018, puis 17 € en 2019 et 19 € en décembre 2025 ; ouvert jusqu'à 1 h le samedi en 2016, le sauna ferme aujourd'hui à 19 h.",
+      "blocks": [
+        { "kind": "table", "caption": "Tarifs et horaires relevés sur le site officiel (archives, puis site actuel)", "headers": ["Relevé", "Entrée", "Moins de 25 ans", "Horaires"], "rows": [
+          ["Mars 2010 (Cantou 19)", "16 € (12 € de 19 h à 20 h)", "Non indiqué", "Tous les jours 13 h-minuit ; ven.-sam. 14 h-2 h ; dim. 14 h-20 h"],
+          ["Mai 2011", "16 €", "10 €", "Lun.-jeu. 13 h-23 h ; ven.-sam. 14 h-2 h ; dim. 14 h-20 h"],
+          ["Février 2013", "16 €", "10 €", "Lun.-jeu. 13 h-20 h ; ven.-sam. 14 h-1 h ; dim. 14 h-19 h"],
+          ["Février 2015", "16 €", "10 €", "Lun.-jeu. 13 h-20 h ; ven. 14 h-23 h ; sam. 14 h-1 h ; dim. 14 h-19 h"],
+          ["Février 2016", "16 €", "10 €", "Lun.-ven. 13 h-20 h ; sam. 14 h-1 h ; dim. 14 h-19 h"],
+          ["Août 2018", "16 €", "10 €", "Lun.-sam. 13 h-20 h ; dim. 14 h-19 h"],
+          ["Juin 2019 à décembre 2024", "17 €", "10 €", "Lun.-sam. 13 h-20 h ; dim. 14 h-19 h"],
+          ["Depuis décembre 2025", "19 €", "10 €", "13 h-19 h sauf mercredi ; dim. et fériés 14 h-19 h"]
+        ] },
+        { "kind": "text", "body": "De 2010 à 2025, l'entrée pleine a pris 3 € ; le tarif des moins de 25 ans, affiché à 10 € dès 2011, n'a pas bougé. Les horaires ont reculé par étapes : fin à 20 h en semaine dès 2013, fin des nuits du samedi entre février 2016 et août 2018, puis fermeture du mercredi, apparue entre décembre 2024 et décembre 2025." },
+        { "kind": "text", "body": "Les archives gardent aussi des fermetures ponctuelles : tous les dimanches de janvier à mars 2016, ceux du 15 juillet à fin août 2017 et, sur la page archivée en août 2018, les 25 décembre et 1er janvier, avec une ouverture de 13 h à 18 h les 24 et 31 décembre." },
+        { "kind": "text", "body": "Les horaires que publie saunas4men (23 h le vendredi, 1 h le samedi) sont ceux de février 2015, et AgendaQ affiche le mercredi ouvert, ce que dément le site officiel. La page des tarifs prévient que la carte bancaire n'est pas acceptée ; deux annuaires parlent d'espèces, l'un ajoute les chèques." }
+      ],
+      "sources": ["s34", "s9", "s42", "s43", "s44", "s45", "s46", "s47", "s10", "s2", "s3", "s16", "s48", "s15", "s18"]
+    },
+    {
+      "id": "saunas-masculins-voisins",
+      "title": "Aucun autre sauna masculin en Corrèze : Périgueux à 64 km, Limoges à 78 km",
+      "icon": "map",
+      "summary": "Les guides gays consultés ne citent que l'Arena en Corrèze. Les plus proches sont à Périgueux et à Limoges ; celui de Bergerac est fermé au registre depuis août 2026.",
+      "blocks": [
+        { "kind": "text", "body": "Ni saunas4men ni h2o-saunapourlui, deux guides des saunas gays relus le 20 octobre 2026, ni nos recherches web du même jour ne font apparaître un autre sauna masculin à Brive ou ailleurs en Corrèze. Les plus proches se trouvent dans les départements voisins, à ces distances à vol d'oiseau :" },
+        { "kind": "list", "items": [
+          "**Périgueux, 64 km** : Atlantis 24, 14 rue La Fayette, à l'adresse de l'ancien Cantou 24, se présente comme « Sauna Gay & Libertin ». Sa société est active depuis 2011 ; son site n'a pas bougé depuis mars 2020, mais un avis daté du 9 juin 2026, relayé par un agrégateur, y décrit une visite.",
+          "**Limoges, 78 km** : le Sauna Eros – Elle & Lui, rue Jean-Jaurès, dont le site décrit un côté mixte et un côté gay ; l'exploitant actuel, immatriculé en janvier 2019, est actif au registre.",
+          "**Bergerac, 89 km** : le Sauna de la Gare, boulevard Joseph-Santraille, n'a plus d'établissement ouvert au registre depuis le 15 août 2026, bien que son site, inchangé depuis janvier 2020, réponde encore."
+        ] },
+        { "kind": "text", "body": "Pour Limoges, nous n'avons trouvé aucune preuve d'activité datée de 2026, et celle de Périgueux ne tient qu'à cet avis relayé : renseignez-vous auprès du lieu avant de faire la route." }
+      ],
+      "sources": ["s25", "s24", "s26", "s27", "s33", "s49", "s28", "s29", "s30", "s31", "s32"]
+    },
+    {
+      "id": "avis",
+      "title": "Petit, propre, sans carte bancaire : 3,8 sur 5 pour 30 avis relayés en juillet 2026",
+      "icon": "star",
+      "summary": "Un agrégateur affiche 3,80/5 sur 30 avis présentés comme Google (15/07/2026) : lieu très petit et propre ; fermeture à 19 h et refus de la carte critiqués en 2025-2026.",
+      "blocks": [
+        { "kind": "text", "body": "Le site top-rated.online affiche 3,80 sur 5 pour 30 avis qu'il présente comme issus de Google, sur une page mise à jour le 15 juillet 2026 ; le guide h2o-saunapourlui donne la même note, sans date. Nous n'avons pas vu ces avis sur Google lui-même. Les thèmes qui reviennent :" },
+        { "kind": "list", "items": [
+          "la petite taille du lieu, « très petit, intime », relevée dans les avis positifs comme négatifs ;",
+          "la propreté et l'accueil du patron, souvent salués ;",
+          "une fréquentation variable, parfois faible selon les jours ;",
+          "la fermeture à 19 h, jugée trop précoce en octobre 2025 par deux clients qui finissent leur journée à 18 h, puis de nouveau en mai 2026 ;",
+          "le refus de la carte bancaire, reproché en octobre 2025 et en mai 2026."
+        ] },
+        { "kind": "text", "body": "Un avis d'une étoile de décembre 2023, relayé par le même site, raconte un client invité à partir vers 18 h 30, un soir d'hiver où le patron n'attendait plus d'entrées ; il décrit un jacuzzi où « on tient à peine à 2 » et un sauna pour cinq personnes serrées." },
+        { "kind": "text", "body": "Sur saunas4men, cinq avis datés d'octobre 2014 à janvier 2020 insistent sur la propreté et l'amabilité du patron. Ceux de 2014 et de 2020 regrettaient l'absence de gel dans les cabines ; celui de 2014 mentionnait aussi une terrasse extérieure, dont le site actuel ne parle pas. Une photo de novembre 2025 montre un distributeur de gel près du bar." }
+      ],
+      "sources": ["s18", "s24", "s16", "s7"],
+      "confidence": "source_unique"
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Lundi": "13 h – 19 h",
+      "Mardi": "13 h – 19 h",
+      "Mercredi": "Fermé",
+      "Jeudi": "13 h – 19 h",
+      "Vendredi": "13 h – 19 h",
+      "Samedi": "13 h – 19 h",
+      "Dimanche": "14 h – 19 h",
+      "Jours fériés": "14 h – 19 h"
+    },
+    "note": "Page « Horaires » du site officiel, modifiée le 02/12/2025. Aucune fermeture annuelle n'y est annoncée.",
+    "confidence": "confirme",
+    "sources": ["s2", "s15"]
+  },
+  "tarifs": {
+    "rows": {
+      "Entrée": "19 €",
+      "Moins de 25 ans": "10 €"
+    },
+    "note": "Une boisson chaude comprise. Carte bancaire non acceptée. Page « Tarifs » modifiée le 03/12/2025.",
+    "confidence": "confirme",
+    "sources": ["s3", "s7"]
+  },
+  "equipements": [
+    "Jacuzzi",
+    "Hammam",
+    "Sauna sec",
+    "Cabines de détente",
+    "Espace vidéo",
+    "Bar sans alcool (café, thé)",
+    "Salon",
+    "Vestiaire à casiers",
+    "Climatisation"
+  ],
+  "officialLinks": [
+    { "label": "Site officiel", "url": "https://sauna-arena.fr/", "kind": "site" },
+    { "label": "Galerie « Images » : neuf photos du 30/11/2025 (jacuzzi, hammam, sauna, cabines, bar)", "url": "https://sauna-arena.fr/images/", "kind": "galerie" },
+    { "label": "Contact (téléphone, e-mail, formulaire)", "url": "https://sauna-arena.fr/contact/", "kind": "autre" }
+  ],
+  "faq": [
+    {
+      "question": "Le Sauna Arena accepte-t-il les couples ou les femmes ?",
+      "answer": "Non. Le site se présente comme un sauna masculin et l'affichette du bar ne connaît que les entrées « hommes » et « moins de 25 ans ». Au Mikado de Saint-Pantaléon-de-Larche, une femme seule entre sans payer le mardi, le jeudi et le dimanche. Si vous préférez y aller accompagnée, Gleese, dont la formule annuelle revient à 3,75 € par mois (45 € réglés en une fois), sert à [échanger avec des libertins du bassin de Brive avant un jeudi après-midi au Mikado](aff:gleese)."
+    },
+    {
+      "question": "Quels sont les horaires du Sauna Arena ?",
+      "answer": "De 13 h à 19 h le lundi, le mardi, le jeudi, le vendredi et le samedi ; de 14 h à 19 h le dimanche et les jours fériés ; fermé le mercredi. Ces horaires datent de la mise à jour du site du 2 décembre 2025, qui n'annonce aucune fermeture estivale. L'agenda AgendaQ affiche pourtant le mercredi ouvert : avant de venir ce jour-là ou un jour férié, le 05 55 88 33 47 permet de vérifier."
+    },
+    {
+      "question": "Combien coûte l'entrée et peut-on payer par carte ?",
+      "answer": "19 €, ou 10 € pour les moins de 25 ans, avec une boisson chaude comprise. La carte bancaire n'est pas acceptée ; deux annuaires évoquent les espèces, l'un aussi les chèques, sans confirmation du site."
+    },
+    {
+      "question": "Le Sauna Arena est-il loin de la gare de Brive ?",
+      "answer": "Non : d'après les coordonnées de la Base adresse nationale et celles que publie la SNCF, le 10 rue Auguste-Comte se trouve à environ 360 m à vol d'oiseau de la gare. Le site officiel ne donne ni plan d'accès ni information de stationnement."
+    },
+    {
+      "question": "Y a-t-il des soirées au Sauna Arena ?",
+      "answer": "Aucune n'est annoncée aujourd'hui. Les archives du site montrent des soirées naturistes le lundi et le jeudi en mai 2011, puis une « Soirée Bears » avec buffet le samedi 25 mai 2013 ; dans les captures suivantes, jusqu'en décembre 2024, la page « Soirées » est vide. Le site refait en novembre 2025 n'a plus cette rubrique, et nous n'avons trouvé aucun compte du sauna sur les réseaux sociaux en octobre 2026."
+    },
+    {
+      "question": "Le Cantou 19 de Brive et le Sauna Arena sont-ils le même lieu ?",
+      "answer": "Oui. Le Cantou 19 était le nom du sauna du 10 rue Auguste-Comte jusqu'au printemps 2010, avec le même téléphone que l'Arena aujourd'hui (05 55 88 33 47) ; l'exploitant actuel a repris le fonds en juin 2010. Des annuaires affichent encore l'ancien nom. Son ancien jumeau, le Cantou 24, occupait à Périgueux l'adresse actuelle d'Atlantis 24."
+    },
+    {
+      "question": "Y a-t-il un autre sauna gay près de Brive ?",
+      "answer": "Pas en Corrèze, d'après les deux guides des saunas gays relus le 20 octobre 2026 et nos recherches web du même jour. Les plus proches sont Atlantis 24 à Périgueux, à 64 km à vol d'oiseau, dont la dernière trace datée est un avis de juin 2026 relayé par un agrégateur, et le Sauna Eros – Elle & Lui à Limoges, à 78 km, sans preuve d'activité datée de 2026. Le Sauna de la Gare de Bergerac est fermé au registre depuis le 15 août 2026."
+    },
+    {
+      "question": "Existe-t-il un club libertin mixte à Brive-la-Gaillarde ?",
+      "answer": "Pas rue Auguste-Comte, et Le Délire est probablement fermé : à son adresse, la seule activité compatible au registre a cessé en avril 2005. Le lieu mixte en activité relevé est le Mikado, à Saint-Pantaléon-de-Larche. Wyylde, qui revendique 7 millions de membres, aide à [trouver des complices pour un samedi soir au Mikado](aff:wyylde) ; sa formule la moins chère, 8,33 € par mois, se paie douze mois d'avance (99,90 €) et se renouvelle seule si l'on ne désactive pas la reconduction. Les autres adresses sont recensées sur [la page Brive-la-Gaillarde](/ville/brive-la-gaillarde) et [celle de la Corrèze](/departement/correze)."
+    }
+  ],
+  "unverified": [
+    "La date d'ouverture du Cantou 19, prédécesseur de l'Arena, et depuis quand un sauna occupe le 10 rue Auguste-Comte.",
+    "La surface et le nombre de niveaux : ni le site ni les guides ne les donnent.",
+    "Les moyens de paiement acceptés hors carte bancaire (espèces, chèques) : le site ne les précise pas.",
+    "La terrasse extérieure citée dans un avis de 2014 : absente du site actuel.",
+    "Une éventuelle fermeture d'été ou de congés : la page des horaires n'en annonce aucune, alors que l'ancien site en signalait (dimanches d'hiver 2016, été 2017, fêtes de fin d'année sur la page d'août 2018).",
+    "Le mercredi : le site officiel l'annonce fermé, l'agenda AgendaQ ouvert de 13 h à 19 h.",
+    "La note Google réelle : 3,80/5 sur 30 avis n'a été vue que sur un agrégateur.",
+    "Le justificatif éventuellement demandé pour le tarif des moins de 25 ans.",
+    "Un compte sur les réseaux sociaux ou un article de La Montagne : ni le site ni nos recherches web d'octobre 2026 n'en ont trouvé.",
+    "L'activité en 2026 du Sauna Eros de Limoges (aucune preuve datée) et d'Atlantis 24 à Périgueux (un seul avis de juin 2026, relayé par un agrégateur)."
+  ],
+  "sources": [
+    { "id": "s1", "label": "Site officiel du Sauna Arena, accueil (« Un Sauna Masculin à Brive la Gaillarde »)", "url": "https://sauna-arena.fr/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s2", "label": "Site officiel, page « Horaires » (modifiée le 02/12/2025)", "url": "https://sauna-arena.fr/horaires/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s3", "label": "Site officiel, page « Tarifs » (modifiée le 03/12/2025)", "url": "https://sauna-arena.fr/tarifs/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s4", "label": "Site officiel, page « A propos » (modifiée le 21/06/2026)", "url": "https://sauna-arena.fr/a-propos/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s5", "label": "Site officiel, page « Contact »", "url": "https://sauna-arena.fr/contact/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s6", "label": "Site officiel, galerie « Images » (neuf photos du 30/11/2025, regardées)", "url": "https://sauna-arena.fr/images/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s7", "label": "Site officiel, bibliothèque de médias et dates de modification des pages (API WordPress)", "url": "https://sauna-arena.fr/wp-json/wp/v2/media", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s8", "label": "Site officiel, archive de l'accueil du 01/05/2011", "url": "https://web.archive.org/web/20110501004734/http://sauna-arena.fr/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s9", "label": "Site officiel, archive de la page « Tarifs & Horaires » du 02/05/2011", "url": "https://web.archive.org/web/20110502004558/http://www.sauna-arena.fr:80/tarif.htm", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s10", "label": "Site officiel, archive de la page « Tarifs & Horaires » du 01/12/2024", "url": "https://web.archive.org/web/20241201182546/http://sauna-arena.fr/tarif.htm", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s11", "label": "Wayback Machine, historique des captures de sauna-arena.fr (64 captures, 2011-2026)", "url": "https://web.archive.org/cdx/search/cdx?url=sauna-arena.fr&fl=timestamp,statuscode&collapse=timestamp:6", "type": "autre", "consulted": "2026-10-20" },
+    { "id": "s12", "label": "Registre des entreprises, établissement « ARENA », 10 rue Auguste Comte (actif depuis 2010)", "url": "https://annuaire-entreprises.data.gouv.fr/etablissement/42329086500025", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s13", "label": "BODACC A du 09/11/2010, achat du fonds de commerce", "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20100217106", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s14", "label": "BODACC B du 08/03/2011, rectification de la date de début d'activité", "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:B20110047483", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s15", "label": "saunaclublebali.fr, fiche « Sauna Arena » (ajoutée le 17/03/2026)", "url": "https://www.saunaclublebali.fr/listing/sauna-arena-brive-la-gaillarde/", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s16", "label": "saunas4men.com, fiche « Arena » et avis d'internautes", "url": "https://saunas4men.com/en/france/brive-la-gaillarde/arena", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s17", "label": "gayspot.fr, fiche « Sauna Arena »", "url": "https://gayspot.fr/lieu-de-drague-gay/1478-sauna-arena-brive-la-gaillarde.html", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s18", "label": "top-rated.online, fiche « SAUNA ARENA » (note relayée, page du 15/07/2026)", "url": "https://www.top-rated.online/cities/Brive-la-Gaillarde/place/p/13092162/SAUNA+ARENA", "type": "avis", "consulted": "2026-10-20" },
+    { "id": "s19", "label": "club-libertin-france.fr, « Club libertin Brive-la-Gaillarde » (contredit par le site officiel)", "url": "https://club-libertin-france.fr/club-libertin-brive-la-gaillarde/", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s20", "label": "Base adresse nationale, géocodage du 10 rue Auguste Comte", "url": "https://api-adresse.data.gouv.fr/search/?q=10%20rue%20Auguste%20Comte%2019100%20Brive-la-Gaillarde", "type": "carte", "consulted": "2026-10-20" },
+    { "id": "s21", "label": "SNCF Open Data, gares de voyageurs (position de la gare de Brive-la-Gaillarde)", "url": "https://ressources.data.sncf.com/explore/dataset/gares-de-voyageurs/", "type": "carte", "consulted": "2026-10-20" },
+    { "id": "s22", "label": "Le Mikado, site officiel, page « Horaires et tarifs » (modifiée le 01/10/2026)", "url": "https://lemikado.net/horaires-club-libertin/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s23", "label": "Registre des entreprises, établissement du 6 rue Jean Labrunie à Brive (fermé le 15/04/2005)", "url": "https://annuaire-entreprises.data.gouv.fr/etablissement/35273828000036", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s24", "label": "h2o-saunapourlui.fr, « Sauna gay Brive-La-Gaillarde » (guide 2026 : seul l'Arena en Corrèze, 3,8 sur 30 avis relayés)", "url": "https://www.h2o-saunapourlui.fr/saunas-gay/correze/brive-la-gaillarde/", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s25", "label": "saunas4men.com, saunas gays de Brive-la-Gaillarde (seul l'Arena recensé)", "url": "https://saunas4men.com/en/france/brive-la-gaillarde", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s26", "label": "Atlantis 24 (Périgueux), site officiel (« Sauna Gay & Libertin », accueil modifié le 11/03/2020)", "url": "https://www.sauna-atlantis.com/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s27", "label": "Registre des entreprises, société L'ATLANTIS 24, 14 rue La Fayette à Périgueux (créée en 2011, active)", "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/530963644", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s28", "label": "Sauna Eros Elle & Lui (Limoges), site officiel, page d'accueil (côté mixte et côté gay)", "url": "https://www.sauna-eros-elleetlui-limoges.com/accueil", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s29", "label": "Registre des entreprises, établissement « EROS - ELLE ET LUI », 6-8 rue Jean-Jaurès à Limoges (créé le 25/01/2019, actif)", "url": "https://annuaire-entreprises.data.gouv.fr/etablissement/84772796300013", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s30", "label": "Registre des entreprises, établissement « SAUNA DE LA GARE », 20 boulevard Joseph-Santraille à Bergerac (fermé le 15/08/2026)", "url": "https://annuaire-entreprises.data.gouv.fr/etablissement/43863499000024", "type": "registre", "consulted": "2026-10-20" },
+    { "id": "s31", "label": "Sauna de la Gare (Bergerac), site officiel (dernière modification le 05/01/2020)", "url": "http://www.sauna-gare.com/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s32", "label": "Base adresse nationale, géocodage des adresses de Périgueux, Limoges et Bergerac (distances calculées depuis le 10 rue Auguste Comte)", "url": "https://api-adresse.data.gouv.fr/search/?q=14%20rue%20La%20Fayette%2024000%20Perigueux", "type": "carte", "consulted": "2026-10-20" },
+    { "id": "s33", "label": "Sauna Le Cantou, site officiel du prédécesseur, archive de la page « Contact » du 13/03/2010 (Le Cantou 19, 10 rue Auguste Comte, 05 55 88 33 47)", "url": "https://web.archive.org/web/20100313150748/http://www.saunalecantou.com/contact.php", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s34", "label": "Sauna Le Cantou, archive de la page « Le Cantou 19 » du 13/03/2010 (espace gay, 16 €, horaires)", "url": "https://web.archive.org/web/20100313150743/http://www.saunalecantou.com/cantou19.php", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s35", "label": "Sauna Le Cantou, archive de l'accueil du 15/03/2010 (deux saunas, en Périgord et en Corrèze)", "url": "https://web.archive.org/web/20100315063323/http://saunalecantou.com/", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s36", "label": "Sauna Le Cantou, archive de la page « Contact » du 16/05/2010 (seul le Cantou 24 de Périgueux)", "url": "https://web.archive.org/web/20100516160521/http://www.saunalecantou.com/contact.php", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s37", "label": "misterwhat.fr, fiche « Le Cantou 19 » (10 rue Auguste Comte, 05 55 88 33 47)", "url": "https://www.misterwhat.fr/company/2637628-le-cantou-19-brive-la-gaillarde", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s38", "label": "koifaire.com, fiche « Le Cantou 19 » (même adresse et téléphone, avis du 19/05/2010)", "url": "https://www.koifaire.com/limousin/le,cantou,19-4319.html", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s39", "label": "Site officiel de l'Arena, archive de la page « Soirées » du 02/05/2011 (soirées naturistes le lundi et le jeudi)", "url": "https://web.archive.org/web/20110502004553/http://www.sauna-arena.fr:80/soiree.htm", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s40", "label": "Site officiel de l'Arena, archive de la page « Soirées » du 23/06/2013 (« Soirée Bears » du 25 mai 2013)", "url": "https://web.archive.org/web/20130623074138/http://www.sauna-arena.fr:80/soiree.htm", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s41", "label": "Site officiel de l'Arena, archive de la page « Soirées » du 01/12/2024 (aucune soirée annoncée)", "url": "https://web.archive.org/web/20241201163943/http://sauna-arena.fr/soiree.htm", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s42", "label": "Site officiel de l'Arena, archive de la page « Tarifs & Horaires » du 09/02/2013", "url": "https://web.archive.org/web/20130209192451/http://www.sauna-arena.fr:80/tarif.htm", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s43", "label": "Site officiel de l'Arena, archive de la page « Tarifs & Horaires » du 21/02/2015", "url": "https://web.archive.org/web/20150221225740/http://sauna-arena.fr/tarif.htm", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s44", "label": "Site officiel de l'Arena, archive de la page « Tarifs & Horaires » du 06/02/2016 (dimanches de janvier à mars 2016 fermés)", "url": "https://web.archive.org/web/20160206053847/http://www.sauna-arena.fr:80/tarif.htm", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s45", "label": "Site officiel de l'Arena, archive de la page « Tarifs & Horaires » du 07/07/2017 (horaires d'été 2017)", "url": "https://web.archive.org/web/20170707103936/http://sauna-arena.fr/tarif.htm", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s46", "label": "Site officiel de l'Arena, archive de la page « Tarifs & Horaires » du 30/08/2018", "url": "https://web.archive.org/web/20180830003002/http://sauna-arena.fr/tarif.htm", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s47", "label": "Site officiel de l'Arena, archive de la page « Tarifs & Horaires » du 21/06/2019 (entrée à 17 €)", "url": "https://web.archive.org/web/20190621003101/http://www.sauna-arena.fr:80/tarif.htm", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s48", "label": "AgendaQ, fiche « Arena sauna » (« Gay only », mercredi affiché ouvert)", "url": "https://www.agendaq.fr/fr/guide/arena-sauna", "type": "annuaire", "consulted": "2026-10-20" },
+    { "id": "s49", "label": "top-rated.online, fiche « Sauna Atlantis 24 » à Périgueux (avis relayé du 09/06/2026)", "url": "https://www.top-rated.online/cities/P%C3%A9rigueux/place/p/9963237/Sauna+Atlantis+24", "type": "avis", "consulted": "2026-10-20" },
+    { "id": "s50", "label": "Sauna Le Cantou, archive de la page « Le Cantou 24 » du 21/03/2011 (14 rue Lafayette, sauna libertin et gay)", "url": "https://web.archive.org/web/20110321153759/http://www.saunalecantou.com/cantou24.php", "type": "officiel", "consulted": "2026-10-20" },
+    { "id": "s51", "label": "Sauna Le Cantou, archive de la page « Le Cantou 19 » du 16/05/2010 (journées naturistes le mardi et le jeudi)", "url": "https://web.archive.org/web/20100516134535/http://www.saunalecantou.com/cantou19.php", "type": "officiel", "consulted": "2026-10-20" }
+  ]
+}

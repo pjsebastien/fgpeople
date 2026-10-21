@@ -1,0 +1,1055 @@
+{
+  "slug": "altromondo-rixheim",
+  "clubId": "new-altromondo-rixheim",
+  "researchedAt": "2026-10-20",
+  "display": {
+    "nom": "Altromondo",
+    "ville": "Rixheim"
+  },
+  "status": {
+    "value": "ouvert",
+    "summary": "Le 20/10/2026, 33 des 145 places de la soirée Halloween du 31 octobre étaient déjà réservées sur le site officiel, qui publie quatorze soirées jusqu'aux 12 ans du club, le 12/12/2026. La SAS L'ALTROMONDO, immatriculée à cette adresse, est active ; son inscription au registre a été mise à jour le 24/09/2026.",
+    "sources": [
+      "s1",
+      "s5",
+      "s9",
+      "s16"
+    ]
+  },
+  "seo": {
+    "title": "Altromondo, Rixheim : 700 m², piscine chauffée et tarifs 2026",
+    "metaDescription": "Club libertin de 700 m² près de Mulhouse : couple 65 € le vendredi, 85 € le samedi, buffet compris, piscine chauffée, homme seul sur réservation le samedi.",
+    "subtitle": "Club libertin de 700 m² avec piscine extérieure à Rixheim (68), entre Mulhouse et Bâle",
+    "targetQueries": [
+      "altromondo",
+      "altromondo rixheim",
+      "altromondo avis",
+      "altromondo tarif",
+      "altromondo piscine",
+      "club libertin rixheim",
+      "club libertin mulhouse"
+    ]
+  },
+  "lead": "Sept cents mètres carrés de club, treize espaces à thème et, dehors, 1 000 m² avec une piscine chauffée : l'Altromondo se dit, sur son propre site, le plus grand club « lifestyle » de l'est de la France. Installé à Rixheim, entre Mulhouse et Bâle, il n'ouvre plus que le vendredi et le samedi soir, plus le dimanche après-midi en été, avec buffet et boissons compris dans l'entrée. Son site officiel affiche quatorze soirées jusqu'au 12 décembre 2026, jour de ses douze ans.",
+  "glance": [
+    {
+      "icon": "calendar",
+      "label": "Soirées",
+      "value": "Vendredi 20 h-2 h, samedi 20 h-3 h"
+    },
+    {
+      "icon": "euro",
+      "label": "Entrée couple",
+      "value": "65 € (ven.) · 85 € (sam., réservé)"
+    },
+    {
+      "icon": "ruler",
+      "label": "Surface",
+      "value": "700 m² + 1 000 m² en extérieur"
+    },
+    {
+      "icon": "water",
+      "label": "Piscine",
+      "value": "Chauffée, dans l'espace Altrobeach"
+    },
+    {
+      "icon": "users",
+      "label": "Homme seul",
+      "value": "105 à 125 € ; réservation exigée le samedi"
+    },
+    {
+      "icon": "history",
+      "label": "Ouvert depuis",
+      "value": "Fin 2014 (12 ans le 12/12/2026)",
+      "confidence": "a_verifier"
+    }
+  ],
+  "audience": [
+    {
+      "who": "couples",
+      "status": "oui",
+      "detail": "Vendredi et samedi ; sans réservation possible une fois la soirée lancée",
+      "price": "65 à 95 €"
+    },
+    {
+      "who": "femmes",
+      "status": "oui",
+      "detail": "Vendredi et samedi ; le samedi, 10 € de moins avec réservation",
+      "price": "25 à 45 €"
+    },
+    {
+      "who": "hommes",
+      "status": "selon",
+      "detail": "Réservation confirmée le samedi ; pas le 14/11 ; groupes d'hommes refusés",
+      "price": "105 à 125 €"
+    }
+  ],
+  "highlights": [
+    "Prévoyez des espèces : chaque fiche de soirée demande de régler l'entrée en liquide pour accélérer le passage.",
+    "Le samedi, un couple qui réserve après 19 h 30 paie 95 €, comme sans réservation, au lieu de 85 €.",
+    "Talons hauts, ni pantalon long ni tenue de ville pour elles ; chemise et pas de chaussures de sport pour eux. Sinon, refus à l'entrée.",
+    "Ne vous garez pas dans la rue : le club l'interdit. Visez ses 16 places privées ou le parking de l'Intermarché.",
+    "Pendant les soirées, le club ne prend pas les appels : écrivez par WhatsApp ou SMS ; le courriel ne sert pas aux réservations."
+  ],
+  "keyFacts": [
+    {
+      "label": "Ouverture",
+      "value": "Fin 2014 (12 ans fêtés le 12/12/2026)",
+      "confidence": "a_verifier",
+      "sources": [
+        "s15",
+        "s2",
+        "s9"
+      ]
+    },
+    {
+      "label": "Société",
+      "value": "SAS L'ALTROMONDO, créée le 01/07/2013, active (rôle d'exploitant déduit)",
+      "confidence": "a_verifier",
+      "sources": [
+        "s16",
+        "s17"
+      ]
+    },
+    {
+      "label": "Surface",
+      "value": "700 m² intérieurs, 1 000 m² extérieurs",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s15",
+        "s18"
+      ]
+    },
+    {
+      "label": "Espaces",
+      "value": "13 espaces à thème, bar, piste de danse, piscine chauffée",
+      "confidence": "confirme",
+      "sources": [
+        "s2",
+        "s3",
+        "s18",
+        "s19"
+      ]
+    },
+    {
+      "label": "Jours d'ouverture",
+      "value": "Vendredi et samedi soir ; dimanche après-midi en été selon le site",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s5"
+      ]
+    },
+    {
+      "label": "Public admis",
+      "value": "Couples, femmes seules, hommes seuls sur réservation",
+      "confidence": "confirme",
+      "sources": [
+        "s6",
+        "s19"
+      ]
+    },
+    {
+      "label": "Entrée couple",
+      "value": "65 € le vendredi, 85 € le samedi avec réservation",
+      "confidence": "confirme",
+      "sources": [
+        "s6",
+        "s18"
+      ]
+    },
+    {
+      "label": "Paiement",
+      "value": "En espèces",
+      "confidence": "confirme",
+      "sources": [
+        "s6",
+        "s15"
+      ]
+    },
+    {
+      "label": "Parking",
+      "value": "16 places privées",
+      "confidence": "confirme",
+      "sources": [
+        "s11"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "treize-espaces",
+      "title": "Treize espaces sur 700 m², dont un wagon de l'Orient-Express et un donjon",
+      "icon": "building",
+      "summary": "Au rez-de-chaussée, bar, piste de danse et buffet ; à l'étage, les espaces à thème, dont un donjon, un wagon Orient-Express et une cabine téléphonique anglaise (JDS, 2025).",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le site officiel annonce 700 m² intérieurs et « 13 espaces thématiques ». Le JDS (mars 2025) les répartit sur deux niveaux : bar, piste de danse et buffet en bas, une dizaine d'espaces à thème à l'étage. La fiche de la Soirée Débutants parle, elle, de « découvrir le Labyrinthe »."
+        },
+        {
+          "kind": "list",
+          "title": "Les décors décrits par la presse",
+          "items": [
+            "Un wagon de l'Orient-Express (JDS, 2025)",
+            "Une cabine téléphonique anglaise (JDS, 2025)",
+            "Un donjon (JDS, 2025)",
+            "Des coins câlins sur les thèmes de l'Égypte, des templiers et du BDSM (Pokaa, 2024)"
+          ]
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Sauna et jacuzzi : à confirmer",
+          "body": "L'archive de décembre 2014 cite un sauna et un grand jacuzzi. Pokaa les compte dans les 700 m² intérieurs, mais les a trouvés fermés pour rénovation en février 2024 ; le JDS mentionne encore sauna et spa en mars 2025, dans le même passage que l'espace extérieur. Le site d'octobre 2026 n'en parle plus : demandez au club avant de venir pour eux."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s2",
+        "s7",
+        "s15",
+        "s18",
+        "s19"
+      ]
+    },
+    {
+      "id": "agenda-automne-2026",
+      "title": "De la Bi Party du 23 octobre aux « 12 ans de passion » du 12 décembre",
+      "icon": "calendar",
+      "summary": "Quatorze soirées sont publiées du 23/10 au 12/12/2026, toutes un vendredi ou un samedi ; le 20/10, 33 des 145 places de la soirée Halloween étaient déjà réservées.",
+      "blocks": [
+        {
+          "kind": "table",
+          "caption": "Soirées publiées sur le site officiel (relevé du 20/10/2026)",
+          "headers": [
+            "Date",
+            "Soirée",
+            "À noter"
+          ],
+          "rows": [
+            [
+              "Ven. 23/10",
+              "Bi Party",
+              "Annoncée « pour tous », femmes et hommes bi"
+            ],
+            [
+              "Sam. 24/10",
+              "Latino Party",
+              "Grille du samedi"
+            ],
+            [
+              "Ven. 30/10",
+              "VIP Friday",
+              "Couple à 45 € avec la carte VIP"
+            ],
+            [
+              "Sam. 31/10",
+              "Halloween Night",
+              "33 réservations sur 145 au 20/10 ; déguisement ou tenue chic"
+            ],
+            [
+              "Ven. 06/11",
+              "Soirée Débutants",
+              "Découverte du « Labyrinthe », sans obligation"
+            ],
+            [
+              "Sam. 07/11",
+              "Retro Party 80s & 90s",
+              "Grille du samedi"
+            ],
+            [
+              "Ven. 13/11",
+              "Gang Bang",
+              "« Pluralité masculine »"
+            ],
+            [
+              "Sam. 14/11",
+              "La Nuit des Couples et Femmes",
+              "Pas d'entrée pour l'homme seul"
+            ],
+            [
+              "Ven. 20/11",
+              "Soirée du Cuni",
+              "« Pluralité masculine »"
+            ],
+            [
+              "Sam. 21/11",
+              "Night of Bling Bling",
+              "Grille du samedi"
+            ],
+            [
+              "Ven. 27/11",
+              "Fuck My Wife",
+              "« Pluralité masculine »"
+            ],
+            [
+              "Sam. 28/11",
+              "Cap d'Agde, la suite",
+              "40 réservations sur 120 ; photo du visage pour l'homme seul"
+            ],
+            [
+              "Ven. 11/12",
+              "The Curvies' Night",
+              "Homme seul à 105 €, uniquement sur réservation confirmée"
+            ],
+            [
+              "Sam. 12/12",
+              "12 ans de passion",
+              "Tarifs majorés après le 28/11 ; tirage au sort"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Les vendredis de novembre alternent la Soirée Débutants et trois soirées de « pluralité masculine ». Les samedis misent sur des thèmes festifs (latino, années 80-90, Halloween, « bling bling »), animés par un DJ. Les fiches affichent un compteur de réservations et une liste d'attente."
+        },
+        {
+          "kind": "text",
+          "body": "Du lundi au jeudi, aucune soirée n'est publiée. Dans la même commune, [Le 33 by Ozen](/le-33-by-ozen-rixheim), sauna libertin mixte, annonçait sur son agenda officiel, modifié en dernier le 09/09/2026, une soirée par jour de la semaine (relevé du 20/10/2026). Les autres adresses figurent sur les pages des [lieux libertins de Rixheim](/ville/rixheim) et [du Haut-Rhin](/departement/haut-rhin)."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s5",
+        "s6",
+        "s7",
+        "s8",
+        "s9",
+        "s10",
+        "s26",
+        "s27",
+        "s25"
+      ]
+    },
+    {
+      "id": "soiree-debutants",
+      "title": "Le 6 novembre, une Soirée Débutants guidée par l'équipe et les habitués",
+      "icon": "heart",
+      "summary": "Le vendredi 6/11 s'adresse aux novices : l'équipe et les habitués promettent de les guider sans les brusquer ni rien leur imposer, aux tarifs habituels du vendredi.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "La fiche de la soirée vise les débutants, les timides et ceux qui n'ont pas ou peu d'expérience en club. Elle promet que l'équipe et les habitués mettront les nouveaux venus à l'aise « sans vous brusquer », sans obligation de participer, et présente aussi la date aux initiés comme l'occasion de croiser de nouveaux visages."
+        },
+        {
+          "kind": "list",
+          "items": [
+            "Horaires : de 20 h à 2 h, buffet chaud jusqu'à 22 h 30.",
+            "Entrée : 65 € le couple, 25 € la femme seule, 105 € l'homme seul qui réserve (115 € sans).",
+            "Fréquence : le JDS décrivait en 2025 des soirées débutants régulières ; une seule figure à l'agenda d'octobre à décembre 2026."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Pour ne pas arriver sans repères, faites connaissance avant : sur Gleese, qui diffuse des lives HD chaque jour et permet les messages vocaux, vous pouvez [chercher d'autres couples débutants du Haut-Rhin](aff:gleese) et convenir de venir le même soir."
+        }
+      ],
+      "sources": [
+        "s7",
+        "s5",
+        "s19"
+      ]
+    },
+    {
+      "id": "grille-entree",
+      "title": "Couple à 85 € le samedi s'il réserve avant 19 h 30, 95 € sinon",
+      "icon": "euro",
+      "summary": "Le vendredi, couple 65 € et femme seule 25 € ; le samedi, 85 € et 35 € avec réservation, 10 € de plus sans. L'entrée comprend softs, mousseux, punch et buffet chaud.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le vendredi, réserver ne change rien au prix d'un couple ou d'une femme seule. Le samedi, la réservation fait gagner 10 € au couple comme à la femme seule ; pour un couple, elle doit être demandée avant 19 h 30, faute de quoi la fiche de soirée applique le tarif sans réservation."
+        },
+        {
+          "kind": "table",
+          "caption": "Ce que l'entrée comprend, en plus des boissons sans alcool",
+          "headers": [
+            "Compris",
+            "Vendredi",
+            "Samedi"
+          ],
+          "rows": [
+            [
+              "Vin mousseux et punch",
+              "20 h – 23 h",
+              "20 h – minuit"
+            ],
+            [
+              "Grand buffet et repas chaud",
+              "20 h – 22 h 30",
+              "20 h – 23 h"
+            ],
+            [
+              "Fin de soirée",
+              "2 h",
+              "3 h"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Les montants couple n'ont pas bougé depuis février 2024 au moins : Pokaa relevait déjà 65 € le vendredi et 85 € le samedi. L'entrée se règle en espèces, comme en 2014."
+        },
+        {
+          "kind": "list",
+          "title": "Deux dates hors grille",
+          "items": [
+            "Vendredi 30/10 (VIP Friday) : 45 € pour le couple muni de la carte VIP, que le club dit avoir distribuée lors d'un samedi précédent ; 65 € sans.",
+            "Samedi 12/12 (12 ans) : 95 € par couple, 45 € par femme et 135 € par homme en réservant jusqu'au 28/11, puis 105, 55 et 145 €. Un tirage au sort à 23 h fait gagner jusqu'à trois mois d'entrée gratuite."
+          ]
+        },
+        {
+          "kind": "callout",
+          "tone": "info",
+          "body": "Un annuaire mis en ligne en avril 2026 affiche un couple à 55 € le vendredi et à 75 € le samedi : ces montants ne correspondent pas aux fiches de soirée d'octobre 2026."
+        }
+      ],
+      "sources": [
+        "s6",
+        "s9",
+        "s15",
+        "s18",
+        "s22",
+        "s26"
+      ]
+    },
+    {
+      "id": "homme-seul",
+      "title": "L'homme seul à 125 € le samedi, sur réservation confirmée et jamais en groupe",
+      "icon": "users",
+      "summary": "Le vendredi, 105 € avec réservation ou 115 € sans ; le samedi, 125 € sur demande confirmée ; aucun tarif le 14/11, et pas de groupes d'hommes selon le JDS.",
+      "blocks": [
+        {
+          "kind": "list",
+          "items": [
+            "Vendredi : 105 € avec réservation, 115 € sans ; le 11/12 (The Curvies' Night), 105 € uniquement sur réservation confirmée.",
+            "Samedi : 125 €, uniquement sur demande faite à l'avance et confirmée par le club.",
+            "Samedi 28/11 : la demande doit être accompagnée d'une photo du visage.",
+            "Samedi 14/11, « La Nuit des Couples et Femmes » : aucun tarif homme seul.",
+            "Selon le JDS (2025), aucun groupe d'hommes n'est admis."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le règlement du site présente le club comme réservé « principalement aux couples » et rappelle que les femmes décident seules de leurs jeux : insister est interdit. En 2014, la page d'accueil affichait déjà la règle « 2 Couples = 1 homme seul »."
+        },
+        {
+          "kind": "text",
+          "body": "La fiche du 14 novembre ne prévoit donc d'entrée masculine qu'en couple. Carré Libertin, qui annonce environ 20 000 membres actifs chaque semaine, permet de [proposer la Nuit des Couples et Femmes à une partenaire du sud de l'Alsace](aff:carre-libertin) en s'y prenant quelques semaines avant."
+        }
+      ],
+      "sources": [
+        "s4",
+        "s6",
+        "s8",
+        "s10",
+        "s15",
+        "s19",
+        "s27"
+      ]
+    },
+    {
+      "id": "altrobeach",
+      "title": "Altrobeach : piscine chauffée, tipis et arène à mousse sur 1 000 m²",
+      "icon": "water",
+      "summary": "Dehors, 1 000 m² avec piscine chauffée, tipis, transats, coins câlins et grand bar ; le dimanche de 14 h à 21 h 30 n'est annoncé qu'« en saison été ».",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "L'Altrobeach est l'espace extérieur du club : piscine chauffée, transats, tipis, coins câlins, grand bar en plein air et une « arèna mousse ». Le site n'indique pas les mois où la piscine est en service."
+        },
+        {
+          "kind": "list",
+          "title": "Le dimanche, selon les sources",
+          "items": [
+            "Site officiel (octobre 2026) : de 14 h à 21 h 30, « en saison été ».",
+            "Pokaa (février 2024) : le dimanche était fermé.",
+            "Annuaire minuitlibertin (août 2025) : de 14 h à 20 h, sans mention de saison, aux tarifs du vendredi.",
+            "Agenda d'octobre à décembre 2026 : aucun dimanche programmé."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "En pratique, le dimanche après-midi est une formule d'été : vérifiez qu'une date est publiée, ou écrivez au club, avant de prendre la route."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s3",
+        "s5",
+        "s18",
+        "s19",
+        "s21"
+      ]
+    },
+    {
+      "id": "tenue-et-reglement",
+      "title": "Talons hauts exigés pour elles, chemise et pantalon pour eux, refus à la porte sinon",
+      "icon": "mask",
+      "summary": "Le club refuse l'entrée si la tenue ne suit pas son code ; le règlement impose aussi le préservatif et bannit tabac, vapotage et drogue à l'intérieur.",
+      "blocks": [
+        {
+          "kind": "table",
+          "caption": "Code vestimentaire des fiches de soirée",
+          "headers": [
+            "",
+            "Exigé",
+            "Refusé"
+          ],
+          "rows": [
+            [
+              "Femmes",
+              "Tenue sexy ou élégante, talons hauts",
+              "Pantalon long, tenue de ville"
+            ],
+            [
+              "Hommes",
+              "Chemise, pantalon long ou jean correct, allure chic",
+              "Chaussures de sport"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le JDS résumait en 2025 une « tenue chic et élégante exigée » ; Pokaa jugeait ce code « vieille école » en 2024. Le règlement de 2026 maintient le refus à l'entrée."
+        },
+        {
+          "kind": "list",
+          "title": "Les nuances d’une fiche à l’autre",
+          "items": [
+            "Chaussures d'homme : plusieurs fiches citent les « sneakers » à côté des chaussures de ville, mais celle du 6/11 écarte les « baskets ». Des chaussures de ville évitent le doute.",
+            "Halloween (31/10) : déguisement accepté, pour elles comme pour eux, à la place de la tenue habituelle."
+          ]
+        },
+        {
+          "kind": "list",
+          "title": "Le reste du règlement",
+          "items": [
+            "Préservatif obligatoire.",
+            "Ni tabac ni vapotage à l'intérieur.",
+            "Drogue interdite : le club annonce la remise à la police.",
+            "Personnes « impliquées dans la prostitution » exclues.",
+            "Entrée refusée en état d'ivresse.",
+            "Rien à manger ni à boire hors du bar et de la salle de restauration."
+          ]
+        }
+      ],
+      "sources": [
+        "s4",
+        "s6",
+        "s7",
+        "s18",
+        "s19"
+      ]
+    },
+    {
+      "id": "reserver-joindre",
+      "title": "Réserver sur la fiche de soirée, écrire par WhatsApp au 06 77 38 55 57",
+      "icon": "phone",
+      "summary": "Les réservations passent par les fiches de soirée ; le club se joint par WhatsApp ou SMS, ne décroche pas pendant les événements et ne prend pas de réservation par courriel.",
+      "blocks": [
+        {
+          "kind": "list",
+          "items": [
+            "Réservation : bouton de chaque fiche de soirée ; le formulaire de la page contact indique « réservations non ouvertes ».",
+            "Téléphone : WhatsApp et SMS au 06 77 38 55 57 ; le club prévient qu'il ne peut pas répondre aux appels pendant ses événements.",
+            "Courriel : info@altromondo.fr, qui « ne sert pas aux réservations ».",
+            "Couples et femmes seules : les fiches du vendredi autorisent la venue sans attendre de confirmation une fois la soirée commencée ; le samedi, le tarif sans réservation coûte 10 € de plus.",
+            "Langues : le site existe en français, en allemand et en anglais."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "La page d'accueil range plusieurs sites sous l'intitulé « nos partenaires » : JoyClub, Swinger-Travel, l'hôtel libertin Canaria Dreams & Young et Wyylde, avec un lien qui porte un code partenaire du club."
+        },
+        {
+          "kind": "text",
+          "body": "Wyylde, vers lequel le club renvoie depuis son accueil, propose une certification facultative des profils. Avant de fixer ici une première soirée avec des inconnus rencontrés en ligne, [écrivez d'abord aux couples mulhousiens au badge certifié](aff:wyylde) : le badge limite les faux comptes."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s6",
+        "s7",
+        "s13"
+      ]
+    },
+    {
+      "id": "histoire",
+      "title": "Du jeudi au dimanche en 2014, avec nuit sur place et petit-déjeuner à 50 €",
+      "icon": "history",
+      "summary": "La société démarre en juillet 2013 ; le site annonce l'ouverture en décembre 2014, quatre jours par semaine. Le club fête ses 12 ans le 12/12/2026.",
+      "blocks": [
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "Juillet 2013",
+              "text": "Début d'activité de la SAS L'ALTROMONDO à Rixheim le 01/07, immatriculation publiée au BODACC en octobre. Objet déclaré : bien-être et loisirs, bar d'ambiance, soirées à thème, mise en relation de personnes."
+            },
+            {
+              "date": "Juin 2014",
+              "text": "Enregistrement du domaine altromondo.fr (01/06/2014)."
+            },
+            {
+              "date": "Décembre 2014",
+              "text": "Le site annonce l'ouverture du « plus grand club libertin de l'Est » et sa soirée du Nouvel An (archive du 16/12/2014)."
+            },
+            {
+              "date": "Février 2024",
+              "text": "Pokaa publie le récit d'une soirée du samedi ; ce soir-là, jacuzzi et sauna sont fermés pour rénovation."
+            },
+            {
+              "date": "Février 2026",
+              "text": "Dépôt sur l'accueil du site d'une nouvelle vidéo de présentation, nommée « ALTROMONDO_2026 »."
+            },
+            {
+              "date": "12 décembre 2026",
+              "text": "Soirée « Altromondo - 12 ans de passion »."
+            }
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le décompte des « 12 ans » et le compteur « depuis 2014 » du site situent l'ouverture fin 2014, ce qui concorde avec l'archive de décembre ; aucun document daté ne fixe le jour exact."
+        },
+        {
+          "kind": "text",
+          "body": "Le site ne publie pas de mentions légales : le rôle d'exploitant de la SAS se déduit de son nom, de son adresse et de son objet."
+        },
+        {
+          "kind": "table",
+          "caption": "Ce qui a changé entre 2014 et 2026",
+          "headers": [
+            "",
+            "Décembre 2014",
+            "Octobre 2026"
+          ],
+          "rows": [
+            [
+              "Jours d'ouverture",
+              "Du jeudi au dimanche",
+              "Vendredi et samedi, dimanche en été"
+            ],
+            [
+              "Samedi",
+              "Couples et femmes seulement",
+              "Hommes seuls sur réservation, sauf exception"
+            ],
+            [
+              "Couple, vendredi",
+              "85 €",
+              "65 €"
+            ],
+            [
+              "Homme seul",
+              "125 €",
+              "105 à 125 €"
+            ],
+            [
+              "Femme seule",
+              "30 € (40 € le samedi)",
+              "25 € (35 à 45 € le samedi)"
+            ],
+            [
+              "Fin du samedi",
+              "4 h",
+              "3 h"
+            ],
+            [
+              "Âge minimum affiché",
+              "21 ans (femmes), 23 ans (hommes)",
+              "« Adultes », sans âge précisé"
+            ],
+            [
+              "Dormir sur place",
+              "50 € par couple, petit-déjeuner compris",
+              "Non : cinq hôtels conseillés"
+            ],
+            [
+              "Parking privé",
+              "10 places",
+              "16 places"
+            ],
+            [
+              "Paiement",
+              "Espèces, en euros ou en francs suisses",
+              "Espèces"
+            ]
+          ]
+        }
+      ],
+      "sources": [
+        "s1",
+        "s2",
+        "s4",
+        "s6",
+        "s9",
+        "s11",
+        "s12",
+        "s15",
+        "s16",
+        "s17",
+        "s18",
+        "s19",
+        "s20"
+      ]
+    },
+    {
+      "id": "presse-et-notes",
+      "title": "Pokaa en 2024, le JDS en 2025, et des notes relayées entre 3,3 et 4,5",
+      "icon": "star",
+      "summary": "Deux médias régionaux ont décrit le club de l'intérieur ; aucune note n'a été vue directement, et celles que relaient des intermédiaires vont de 3,3 à 4,5.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le récit de Pokaa (13/02/2024), écrit à la première personne, estime la fréquentation d'un samedi à 150 ou 200 personnes, surtout âgées de 35 à 45 ans. Le JDS (26/03/2025) évoque une clientèle venue de 200 km à la ronde."
+        },
+        {
+          "kind": "list",
+          "title": "Notes vues chez des intermédiaires, jamais sur Google lui-même",
+          "items": [
+            "4,5/5 sur 154 avis Google, selon l'annuaire minuitlibertin (relevé d'août 2025).",
+            "3,7/5 sur 3 avis sur le Petit Futé (résultat de recherche du 20/10/2026).",
+            "3,3/5 sur 165 avis selon Restaurant Guru (résultat de recherche du 20/10/2026)."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le livre d'or du site officiel s'arrête au 29 septembre 2024."
+        }
+      ],
+      "sources": [
+        "s14",
+        "s18",
+        "s19",
+        "s21",
+        "s23",
+        "s24"
+      ]
+    },
+    {
+      "id": "parking-hotels",
+      "title": "Seize places privées, la rue interdite au stationnement et cinq hôtels conseillés",
+      "icon": "car",
+      "summary": "Le club dispose de 16 places et recommande le parking de l'Intermarché ; il ne loge pas ses clients, mais liste cinq hôtels situés de 8 à 15 minutes en voiture.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "L'accueil du site interdit formellement de se garer dans la rue. La page parking ajoute les trottoirs et les abords du rond-point marqués de bandes jaunes, annonce 16 places privées et recommande le parking de l'Intermarché."
+        },
+        {
+          "kind": "text",
+          "body": "Le club ne propose plus de nuit sur place. Sa page hébergement liste cinq hôtels à Rixheim, Sausheim, Mulhouse et Baldersheim, entre 8 et 15 minutes de route."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s11",
+        "s12"
+      ]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Vendredi": "20 h – 2 h",
+      "Samedi": "20 h – 3 h",
+      "Dimanche (été)": "14 h – 21 h 30",
+      "Lundi à jeudi": "Aucune soirée publiée"
+    },
+    "note": "Dimanche annoncé « en saison été » sur l'accueil du site ; aucun dimanche à l'agenda d'octobre à décembre 2026.",
+    "confidence": "confirme",
+    "sources": [
+      "s1",
+      "s5",
+      "s6"
+    ]
+  },
+  "tarifs": {
+    "rows": {
+      "Couple, vendredi": "65 €",
+      "Femme seule, vendredi": "25 €",
+      "Homme seul, vendredi": "105 € réservé, 115 € sans réservation",
+      "Couple, samedi": "85 € réservé avant 19 h 30, 95 € sinon",
+      "Femme seule, samedi": "35 € réservé, 45 € sans réservation",
+      "Homme seul, samedi": "125 €, sur réservation confirmée",
+      "12 ans (samedi 12/12)": "Couple 95 €, femme 45 €, homme 135 € jusqu'au 28/11"
+    },
+    "note": "Entrée en espèces. Compris : boissons sans alcool, mousseux et punch jusqu'à 23 h (vendredi) ou minuit (samedi), grand buffet et repas chaud. Relevé sur les fiches des soirées d'octobre à décembre 2026.",
+    "confidence": "confirme",
+    "sources": [
+      "s6",
+      "s9"
+    ]
+  },
+  "equipements": [
+    "Bar et piste de danse",
+    "Grand buffet et repas chaud inclus",
+    "Salle de restauration",
+    "13 espaces à thème",
+    "Donjon",
+    "Piscine chauffée extérieure",
+    "Tipis, transats et coins câlins extérieurs",
+    "Grand bar extérieur",
+    "Arène à mousse",
+    "Parking privé de 16 places"
+  ],
+  "officialLinks": [
+    {
+      "label": "Site officiel",
+      "url": "https://altromondo.fr/",
+      "kind": "site"
+    },
+    {
+      "label": "Agenda des soirées",
+      "url": "https://altromondo.fr/events/",
+      "kind": "agenda"
+    },
+    {
+      "label": "Code vestimentaire et règles",
+      "url": "https://altromondo.fr/dresscode/",
+      "kind": "autre"
+    },
+    {
+      "label": "Facebook",
+      "url": "https://www.facebook.com/altromondoclub",
+      "kind": "facebook"
+    },
+    {
+      "label": "Instagram",
+      "url": "https://www.instagram.com/altromondo.club",
+      "kind": "instagram"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Combien coûte l'entrée à l'Altromondo ?",
+      "answer": "Selon les fiches de soirée d'octobre à décembre 2026 : le vendredi, 65 € pour un couple, 25 € pour une femme seule et 105 € pour un homme seul qui réserve (115 € sans). Le samedi, 85 € pour un couple et 35 € pour une femme avec réservation (95 € et 45 € sans), 125 € pour un homme seul. Buffet chaud, softs, mousseux et punch sont compris ; l'entrée se paie en espèces."
+    },
+    {
+      "question": "Faut-il réserver pour aller à l'Altromondo ?",
+      "answer": "Le club demande une réservation, à faire sur la fiche de chaque soirée, et l'exige de l'homme seul le samedi, avec confirmation. Les fiches du vendredi acceptent les couples et les femmes sans confirmation une fois la soirée lancée ; le samedi, venir sans réserver coûte 10 € de plus, et pour un couple une demande faite après 19 h 30 compte comme une arrivée sans réservation."
+    },
+    {
+      "question": "Un homme seul peut-il entrer à l'Altromondo ?",
+      "answer": "Oui, la plupart des soirs : 105 € (réservé) ou 115 € le vendredi, 125 € le samedi sur réservation confirmée, avec photo du visage pour le 28/11. Le samedi 14/11, « La Nuit des Couples et Femmes », ne prévoit aucun tarif pour lui, et le JDS précise que les groupes d'hommes ne sont pas admis."
+    },
+    {
+      "question": "L'Altromondo est-il ouvert le dimanche ?",
+      "answer": "Seulement l'après-midi en été, de 14 h à 21 h 30, d'après l'accueil du site. Aucun dimanche ne figure à l'agenda d'octobre à décembre 2026, et Pokaa trouvait le dimanche fermé en février 2024. Écrivez au club par WhatsApp avant de vous déplacer."
+    },
+    {
+      "question": "Y a-t-il une piscine à l'Altromondo ?",
+      "answer": "Oui : l'Altrobeach, l'espace extérieur de 1 000 m², comprend une piscine chauffée, des tipis, des transats et un grand bar. Le site ne donne pas ses mois de service ; le seul créneau de journée, le dimanche après-midi, n'est annoncé qu'en été."
+    },
+    {
+      "question": "Quels avis sur l'Altromondo ?",
+      "answer": "Nous n'avons pas lu de note directement sur Google. Un annuaire relayait en août 2025 une note Google de 4,5/5 sur 154 avis ; Restaurant Guru affiche 3,3/5 sur 165 avis. Côté presse, Pokaa (2024) et le JDS (2025) ont décrit le club de l'intérieur."
+    },
+    {
+      "question": "Où se garer pour aller à l'Altromondo ?",
+      "answer": "Sur les 16 places privées du club ou au parking de l'Intermarché, qu'il recommande. Le stationnement dans la rue, sur les trottoirs et autour du rond-point est interdit par le club."
+    }
+  ],
+  "unverified": [
+    "Le sauna et le jacuzzi cités en 2014, 2024 et 2025 sont-ils toujours en service ? Les pages du site consultées en octobre 2026 n'en parlent pas.",
+    "Les mois de service de la piscine et de l'Altrobeach, et les dates des dimanches d'été.",
+    "L'âge minimum actuel : 21 ans pour les femmes et 23 ans pour les hommes en 2014, simplement « adultes » sur le site en 2026.",
+    "Comment obtenir aujourd'hui la carte VIP qui ramène l'entrée couple à 45 € le 30/10 : la fiche dit seulement qu'elle a été distribuée lors d'un samedi précédent.",
+    "L'identité de l'exploitant : le site ne publie pas de mentions légales ; la SAS L'ALTROMONDO est la seule société active à cette adresse dont le nom correspond.",
+    "La note Google actuelle, non consultée directement."
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Altromondo, site officiel : accueil",
+      "url": "https://altromondo.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s2",
+      "label": "Altromondo, site officiel : page Altroclub",
+      "url": "https://altromondo.fr/night-club/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s3",
+      "label": "Altromondo, site officiel : page Altrobeach",
+      "url": "https://altromondo.fr/altrobeach/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s4",
+      "label": "Altromondo, site officiel : code vestimentaire et règles",
+      "url": "https://altromondo.fr/dresscode/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s5",
+      "label": "Altromondo, site officiel : liste des événements et compteurs de réservation",
+      "url": "https://altromondo.fr/events/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s6",
+      "label": "Altromondo, site officiel : fiches des soirées d'octobre à décembre 2026 (ici la Latino Party du 24/10)",
+      "url": "https://altromondo.fr/events/?event=32320",
+      "type": "officiel",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s7",
+      "label": "Altromondo, site officiel : fiche de la Soirée Débutants du 06/11/2026",
+      "url": "https://altromondo.fr/events/?event=32456",
+      "type": "officiel",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s8",
+      "label": "Altromondo, site officiel : fiche de « La Nuit des Couples et Femmes » du 14/11/2026",
+      "url": "https://altromondo.fr/events/?event=32480",
+      "type": "officiel",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s9",
+      "label": "Altromondo, site officiel : fiche « Altromondo - 12 ans de passion » du 12/12/2026",
+      "url": "https://altromondo.fr/events/?event=32338",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s10",
+      "label": "Altromondo, site officiel : fiche « Cap d'Agde - la suite » du 28/11/2026",
+      "url": "https://altromondo.fr/events/?event=29214",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s11",
+      "label": "Altromondo, site officiel : page parking",
+      "url": "https://altromondo.fr/parking/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s12",
+      "label": "Altromondo, site officiel : page hébergement",
+      "url": "https://altromondo.fr/accommodation/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s13",
+      "label": "Altromondo, site officiel : page contact",
+      "url": "https://altromondo.fr/contact-us/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s14",
+      "label": "Altromondo, site officiel : livre d'or",
+      "url": "https://altromondo.fr/guestbook/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s15",
+      "label": "Altromondo, site officiel, archive du 16/12/2014 (Wayback Machine)",
+      "url": "https://web.archive.org/web/20141216182737/http://altromondo.fr/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s16",
+      "label": "Annuaire des entreprises : L'ALTROMONDO (SIREN 794 867 341)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/794867341",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s17",
+      "label": "BODACC : immatriculation de L'ALTROMONDO (avis du 24/10/2013) et annonces suivantes",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20130206854",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s18",
+      "label": "Pokaa, « Rixheim coquin : je me suis envoyée en l'air dans un club libertin alsacien », 13/02/2024",
+      "url": "https://pokaa.fr/2024/02/13/rixheim-coquin-je-me-suis-envoyee-en-lair-dans-un-club-libertin-alsacien/",
+      "type": "presse",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s19",
+      "label": "JDS Mulhouse, « L'Altromondo à Rixheim… ou l'amour \"autrement\" », 26/03/2025",
+      "url": "https://www.jds.fr/mulhouse/magazine/actu-magazine/l-altromondo-a-rixheim-ou-l-amour-autrement-893204_A",
+      "type": "presse",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s20",
+      "label": "AFNIC, enregistrement du domaine altromondo.fr",
+      "url": "https://rdap.nic.fr/domain/altromondo.fr",
+      "type": "registre",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s21",
+      "label": "minuitlibertin.com, fiche « Altromondo à Rixheim » (informations du 09/08/2025)",
+      "url": "https://minuitlibertin.com/altromondo-a-rixheim/",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s22",
+      "label": "saunaclublebali.fr, fiche « Altromondo » (ajoutée le 07/04/2026)",
+      "url": "https://www.saunaclublebali.fr/listing/altromondo-rixheim/",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s23",
+      "label": "Petit Futé, fiche « ALTROMONDO - Club libertin - Rixheim » (vue en résultat de recherche)",
+      "url": "https://www.petitfute.co.uk/v801-rixheim-68170/c9998-coquin/c1044-s-amuser-sortir/c206-club-libertin/1604176-altromondo.html",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s24",
+      "label": "Restaurant Guru, « Lifestyle Club Libertin Altromondo » (vue en résultat de recherche)",
+      "url": "https://restaurantguru.com/Lifestyle-Club-Libertin-Altromondo-Rixheim",
+      "type": "avis",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s25",
+      "label": "Le 33 by Ozen, site officiel : agenda des soirées (constat repris de sa fiche)",
+      "url": "https://le33byozen.fr/soirees",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s26",
+      "label": "Altromondo, site officiel : fiche de la « VIP Friday » du 30/10/2026",
+      "url": "https://altromondo.fr/events/?event=32454",
+      "type": "officiel",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s27",
+      "label": "Altromondo, site officiel : fiche de « The Curvies' Night » du 11/12/2026",
+      "url": "https://altromondo.fr/events/?event=32776",
+      "type": "officiel",
+      "consulted": "2026-10-21"
+    }
+  ]
+}

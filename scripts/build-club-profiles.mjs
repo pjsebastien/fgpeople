@@ -31,7 +31,11 @@ const TYPES = ['Club', 'Sauna', 'Spa & Wellness', 'Restaurant', 'Bar', 'Héberge
 export function validateNewClub(c) {
   const e = [];
   const str = (v) => typeof v === 'string' && v.trim().length > 0;
-  for (const k of ['id', 'nom', 'type', 'ville', 'departement_code', 'departement_nom', 'region', 'pays']) if (!str(c[k])) e.push(`${k} manquant`);
+  // Hors de France, la base d'origine laisse département et région vides (rangement par pays).
+  const required = c.pays && c.pays !== 'France'
+    ? ['id', 'nom', 'type', 'ville', 'departement_code', 'pays']
+    : ['id', 'nom', 'type', 'ville', 'departement_code', 'departement_nom', 'region', 'pays'];
+  for (const k of required) if (!str(c[k])) e.push(`${k} manquant`);
   if (c.id && !c.id.startsWith('new-')) e.push('id doit commencer par « new- »');
   if (!Array.isArray(c.types_normalises) || !c.types_normalises.length || !c.types_normalises.every((t) => TYPES.includes(t))) {
     e.push(`types_normalises invalides (valeurs permises : ${TYPES.join(', ')})`);

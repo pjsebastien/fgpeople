@@ -1,0 +1,950 @@
+{
+  "slug": "camping-libertin-la-roseraie-brugheas",
+  "clubId": "new-camping-libertin-la-roseraie-brugheas",
+  "researchedAt": "2026-10-21",
+  "status": {
+    "value": "ouvert",
+    "summary": "Fermé pour l'hiver, pas définitivement : la page d'accueil, qui dit la saison 2026 « finie », annonce la réouverture le 22 mai 2027 à 14 h. Le livre d'or a reçu des messages datés du 26 mai au 30 août 2026, un avis PagesJaunes date du 16 juillet 2026 et la SAS De La Roseraie est active au registre (mise à jour du 24 septembre 2026).",
+    "sources": [
+      "s1",
+      "s13",
+      "s18",
+      "s16"
+    ]
+  },
+  "seo": {
+    "title": "Camping libertin La Roseraie (Brugheas, Vichy) : tarifs et règles",
+    "metaDescription": "Saison 2027 du 22 mai au 13 septembre : journée à 45 € en couple, 60 € pour un homme seul sous quota, mobil-homes dès 93 € la nuit, 5 ha et 30 jeux coquins.",
+    "subtitle": "Camping 100 % libertin et saisonnier de 5 hectares, près de Vichy (Allier)",
+    "targetQueries": [
+      "camping libertin la roseraie",
+      "camping libertin brugheas",
+      "camping libertin vichy",
+      "camping libertin allier",
+      "camping libertin auvergne",
+      "camping la roseraie brugheas tarifs",
+      "camping libertin la roseraie avis",
+      "camping libertin homme seul"
+    ]
+  },
+  "lead": "Un homme seul n'entre à La Roseraie qu'à la journée, dans la limite de 15 % des couples présents, et n'y passe plus la nuit depuis 2020 : ce camping proche de Vichy dit appliquer ses règles « à la lettre ». Réservé depuis le 15 juin 2015 aux libertins et aux candaulistes de plus de 21 ans, il aligne sur 5 hectares tournés vers la chaîne des Puys deux bus coquins, un chalet de jeux chauffé et une trentaine de jeux, avec une soirée à thème chaque soir. Fermé pour l'hiver, il rouvrira le 22 mai 2027 pour une saison qui s'achèvera le 13 septembre.",
+  "glance": [
+    {
+      "icon": "calendar",
+      "label": "Saison 2027",
+      "value": "Du 22 mai au 13 septembre"
+    },
+    {
+      "icon": "euro",
+      "label": "Journée (tarifs 2026)",
+      "value": "Couple 45 € · femme 25 € · homme 60 €"
+    },
+    {
+      "icon": "users",
+      "label": "Hommes seuls",
+      "value": "15 % des couples présents, jamais la nuit"
+    },
+    {
+      "icon": "map",
+      "label": "Terrain",
+      "value": "5 ha face à la chaîne des Puys",
+      "confidence": "source_unique"
+    },
+    {
+      "icon": "bed",
+      "label": "Nuit pour un couple",
+      "value": "De 37 à 134 € selon l'hébergement"
+    },
+    {
+      "icon": "history",
+      "label": "Libertin depuis",
+      "value": "Le 15 juin 2015"
+    }
+  ],
+  "audience": [
+    {
+      "who": "couples",
+      "status": "oui",
+      "detail": "Tous les jours de la saison, sans réserver ; séjour ou journée, ensemble pendant la visite",
+      "price": "45 €"
+    },
+    {
+      "who": "femmes",
+      "status": "oui",
+      "detail": "Tous les jours, sans quota ; une nuit possible sur invitation d'un couple résident",
+      "price": "25 €"
+    },
+    {
+      "who": "hommes",
+      "status": "selon",
+      "detail": "Journée seulement, 12 au plus (15 % des couples) ; appeler l'avant-veille",
+      "price": "60 €"
+    }
+  ],
+  "highlights": [
+    "Hors saison, tout est fermé : réouverture le samedi 22 mai 2027 à 14 h. Les propriétaires ayant évoqué une vente pour leur retraite, revérifiez l'annonce au printemps.",
+    "Hommes seuls : appelez le 04 70 32 43 33 l'avant-veille pour être inscrits ; les appels en numéro masqué restent sans réponse.",
+    "Visiteurs : arrivée entre 10 h 30 et 18 h (accueil fermé de 12 h à 14 h), pièce d'identité et serviette de bain exigées, sortie définitive.",
+    "Téléphones et appareils photo sont interdits dans tous les espaces communs : ils ne sortent que dans votre hébergement ou dans l'espace photo.",
+    "Pas de sexe dans l'eau de la piscine, silence dans les allées après 1 h, ni short ni tongs pour les hommes aux soirées à thème."
+  ],
+  "keyFacts": [
+    {
+      "label": "Concept",
+      "value": "Camping libertin et candauliste, adultes de plus de 21 ans",
+      "confidence": "confirme",
+      "sources": [
+        "s1",
+        "s9"
+      ]
+    },
+    {
+      "label": "Saison 2027",
+      "value": "Du 22 mai (14 h) au 13 septembre (11 h)",
+      "confidence": "confirme",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "label": "Libertin depuis",
+      "value": "Le 15 juin 2015",
+      "confidence": "confirme",
+      "sources": [
+        "s5",
+        "s14",
+        "s25"
+      ]
+    },
+    {
+      "label": "Exploitant",
+      "value": "SAS De La Roseraie (SIREN 537 423 683), active, créée en 2011",
+      "confidence": "confirme",
+      "sources": [
+        "s4",
+        "s16",
+        "s17"
+      ]
+    },
+    {
+      "label": "Superficie",
+      "value": "5 hectares",
+      "confidence": "source_unique",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "label": "Capacité",
+      "value": "58 emplacements nus, plus mobil-homes et bengalis-toile",
+      "confidence": "confirme",
+      "sources": [
+        "s7",
+        "s10",
+        "s12"
+      ]
+    },
+    {
+      "label": "Journée visiteur (2026)",
+      "value": "Couple 45 €, femme seule 25 €, homme seul 60 €",
+      "confidence": "confirme",
+      "sources": [
+        "s3"
+      ]
+    },
+    {
+      "label": "Hommes seuls",
+      "value": "15 % des couples présents (12 au plus), jamais la nuit depuis 2020",
+      "confidence": "confirme",
+      "sources": [
+        "s2",
+        "s7",
+        "s8"
+      ]
+    },
+    {
+      "label": "Classement",
+      "value": "Trois étoiles, affichées par le camping",
+      "confidence": "a_verifier",
+      "sources": [
+        "s1",
+        "s4"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "jeux-et-espaces",
+      "title": "Cinq hectares, deux bus coquins et une trentaine de jeux",
+      "icon": "sparkles",
+      "summary": "Piscine avec lits d'exhibe, petit bois, chalet chauffé, deux bus coquins et une trentaine de jeux : tout est compris dans le prix de la journée ou du séjour.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le camping revendique 5 hectares avec vue sur la chaîne des Puys et annonce « 30 jeux coquins ». Une journée visiteur, un emplacement ou une location donnent accès à l'ensemble, sans supplément."
+        },
+        {
+          "kind": "list",
+          "title": "Les principaux espaces, d'après le site officiel",
+          "items": [
+            "**La piscine**, plage refaite à l'hiver 2025-2026, avec trois lits d'exhibe et une centaine de transats ; une « plage champêtre » s'y ajoute depuis 2018.",
+            "**Le petit bois coquin** et ses lits collectifs, flanqué depuis 2022 de quatre balançoires.",
+            "**Le grand chalet**, salle de jeux chauffée ouverte en 2018 : deux doubles croix de Saint-André, un pilori, un lit rond de 1,80 m.",
+            "**Deux bus** : le bus « rose », autocar de 45 places vidé de ses sièges en 2019, et un second, installé en 2022, qui sert aussi de chambre noire de 8 h à 20 h.",
+            "**Sous les chapiteaux**, la piste de danse et un lit collectif de 7 m sur 2,50 m, derrière un rideau translucide.",
+            "**Au bloc sanitaire**, douches d'exhibe et glory hole ; un double glory hole a rejoint les jeux en 2024.",
+            "**L'espace hommes seuls**, ouvert en 2021 avec un fauteuil gynécologique."
+          ]
+        },
+        {
+          "kind": "callout",
+          "tone": "info",
+          "title": "Réservé aux couples",
+          "body": "Le « bus noir » et le chalet coquin sont réservés aux couples : les hommes seuls venus à la journée n'y entrent pas. Le bus rose leur est ouvert depuis 2024. Après 1 h du matin, le chalet et les deux bus restent éclairés jusqu'à 4 h."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s2",
+        "s5",
+        "s7",
+        "s10",
+        "s11"
+      ]
+    },
+    {
+      "id": "journee-visiteur",
+      "title": "Journée à 45 € en couple, 25 € seule, 60 € pour un homme seul inscrit d'avance",
+      "icon": "users",
+      "summary": "Couples et femmes seules entrent tous les jours sans réserver ; un homme seul s'inscrit par téléphone, dans la limite de 15 % des couples présents, et repart avant 0 h 30.",
+      "blocks": [
+        {
+          "kind": "table",
+          "caption": "Entrée à la journée, tarifs 2026",
+          "headers": [
+            "Visiteur",
+            "Tarif",
+            "Conditions d'entrée"
+          ],
+          "rows": [
+            [
+              "Couple",
+              "45 €",
+              "Tous les jours, sans réserver ; les deux partenaires restent ensemble"
+            ],
+            [
+              "Femme seule",
+              "25 €",
+              "Tous les jours, sans quota"
+            ],
+            [
+              "Homme seul",
+              "60 €",
+              "Inscription par téléphone l'avant-veille ; 12 au plus"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Les visiteurs arrivent entre 10 h 30 et 18 h, accueil fermé de 12 h à 14 h, et repartent avant 0 h 30. Pièce d'identité, serviette de bain et bracelet « Visiteur » sont obligatoires, et un cadenas est remis pour le vestiaire. Toute sortie est définitive et le pique-nique est interdit."
+        },
+        {
+          "kind": "text",
+          "body": "Le quota d'hommes seuls, 15 % des couples présents, vient du questionnaire de satisfaction des deux premières saisons. Le site parle tantôt de conseil, tantôt d'obligation de s'inscrire : sans appel préalable, l'entrée dépend des couples présents ce jour-là. Depuis 2020, aucun homme seul ne dort au camping."
+        },
+        {
+          "kind": "callout",
+          "tone": "tip",
+          "title": "Rester pour la nuit",
+          "body": "Un couple ou une femme seule invités par des résidents peuvent dormir sur place en le signalant à l'accueil, au bar ou au gardien : 45 € la nuitée pour un couple, 25 € pour une femme seule. Aux hommes seuls, le site indique un hôtel à 700 m."
+        }
+      ],
+      "sources": [
+        "s2",
+        "s3",
+        "s8"
+      ]
+    },
+    {
+      "id": "saison-2027-et-vente",
+      "title": "Fermé jusqu'au 22 mai 2027, et une vente dont les propriétaires doutent désormais",
+      "icon": "calendar",
+      "summary": "Ouvert de fin mai à mi-septembre, le camping rouvrira le 22 mai 2027 ; ses propriétaires, qui pensaient vendre pour leur retraite, se demandent s'ils le veulent encore.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Hors saison, tout est fermé, ce qui explique sans doute le bandeau « Probablement fermé définitivement » que PagesJaunes affichait le 21 octobre 2026. La page d'accueil, qui dit la saison 2026 « finie », annonce la réouverture le samedi 22 mai 2027 à 14 h et la fermeture le lundi 13 septembre à 11 h."
+        },
+        {
+          "kind": "list",
+          "title": "Les indices d'activité relevés le 21 octobre 2026",
+          "items": [
+            "Des messages du livre d'or datés du 26 mai au 30 août 2026.",
+            "Un avis PagesJaunes du 16 juillet 2026.",
+            "La SAS De La Roseraie active au registre, mise à jour le 24 septembre 2026.",
+            "Un site archivé pour la dernière fois le 18 août 2026, tarifs 2026 en ligne."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Dans leur réponse aux avis Google négatifs, sur la page d'accueil, les propriétaires se disent si satisfaits de leur clientèle qu'ils se demandent s'ils veulent « encore » vendre pour prendre leur retraite. Un bouton « Camping à vendre », désactivé, dort dans le code de la page d'accueil. Aucune cession n'était publiée au BODACC au 21 octobre 2026."
+        },
+        {
+          "kind": "text",
+          "body": "Le site de rencontre lancé par le camping en 2017 ne s'ouvrait plus le 21 octobre 2026, à cause d'une erreur de certificat. Pour continuer à faire des rencontres pendant les huit mois de fermeture, [l'abonnement annuel de Gleese à 3,75 € par mois](aff:gleese) revient à 45 € l'année, le prix d'une seule journée en couple à La Roseraie."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s7",
+        "s13",
+        "s15",
+        "s16",
+        "s17",
+        "s18",
+        "s23"
+      ]
+    },
+    {
+      "id": "hebergements-et-prix",
+      "title": "Mobil-homes de 93 à 134 € la nuit, sept nuits payées cinq en basse saison",
+      "icon": "bed",
+      "summary": "Mobil-homes de 4 à 6 places, bengalis-toile et 58 emplacements nus ; sept nuits payées cinq en basse saison, piscine, jeux et soirées compris, sans carte d'adhérent.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le camping compte 58 emplacements nus, dont 7 de 100 m² pour grands camping-cars, plus des mobil-homes et des bengalis-toile. Une autre page parle de 80 emplacements au total ; le nombre de locations n'est pas publié."
+        },
+        {
+          "kind": "table",
+          "caption": "Les locations décrites par le site",
+          "headers": [
+            "Location",
+            "Surface",
+            "Couchage et équipement"
+          ],
+          "rows": [
+            [
+              "Mobil-home « standard »",
+              "24-28 m²",
+              "4 personnes, 2 chambres, terrasse non couverte"
+            ],
+            [
+              "Mobil-home « confort »",
+              "24-30 m²",
+              "4 personnes, 2 chambres, terrasse couverte"
+            ],
+            [
+              "Mobil-home 3 chambres",
+              "33-37 m²",
+              "6 personnes, terrasse non couverte"
+            ],
+            [
+              "Bengali-toile",
+              "16 m²",
+              "4 personnes, 2 chambres, cuisine, sans eau ni sanitaire"
+            ]
+          ]
+        },
+        {
+          "kind": "list",
+          "title": "Les conditions de la grille 2026",
+          "items": [
+            "Basse saison (22 mai – 27 juin, 29 août – 14 septembre) : sept nuits réservées, cinq payées, sur la première semaine.",
+            "Haute saison (27 juin – 28 août) : locations du samedi au samedi ; emplacements deux nuits minimum dès le 20 juin.",
+            "Locations : acompte de 30 %, cautions de 300 € et 80 €, draps et linge non fournis, lits de 140.",
+            "Hors juillet-août, après deux nuits, on peut rester jusqu'à 0 h 30 le jour du départ ; un retard non autorisé coûte 45 €."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Le mobil-home de trois chambres accueille six personnes : à deux couples, la nuit de basse saison revient à 107 € plus 45 € pour le second couple, soit 76 € par couple, hors taxe de séjour."
+        },
+        {
+          "kind": "text",
+          "body": "Partager plusieurs nuits sous le même toit avec un autre couple suppose de savoir à qui l'on a affaire : sur Wyylde, vous pouvez [ne proposer ce mobil-home qu'à des couples certifiés](aff:wyylde), une vérification facultative, validée par la modération, qui réduit le risque de tomber sur un faux compte."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s3",
+        "s7",
+        "s8",
+        "s10",
+        "s12"
+      ]
+    },
+    {
+      "id": "paillotte-et-soirees",
+      "title": "La Paillotte : apéro coquin quatre soirs sur sept, piste ouverte chaque nuit jusqu'à 1 h",
+      "icon": "music",
+      "summary": "Le restaurant-bar sert midi et soir ; lundi, mercredi, vendredi et samedi, un apéro de 18 h à 20 h précède un repas à tables communes, et la piste ouvre chaque soir de 22 h à 1 h.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "La Paillotte, restaurant-bar du camping, est tenue depuis 2020 par un membre de la famille des propriétaires. Elle sert une carte de brasserie midi et soir, aussi à emporter."
+        },
+        {
+          "kind": "table",
+          "caption": "Programme hebdomadaire de la saison 2026",
+          "headers": [
+            "Jour",
+            "Apéro (18 h – 20 h) et repas (20 h 30)",
+            "Soirée à thème (22 h – 1 h)"
+          ],
+          "rows": [
+            [
+              "Lundi",
+              "Apéro coquin, puis soirée pizza",
+              "Transparence"
+            ],
+            [
+              "Mardi",
+              "Carte brasserie",
+              "Pink Party"
+            ],
+            [
+              "Mercredi",
+              "Apéro coquin, puis repas de groupe",
+              "Résilles"
+            ],
+            [
+              "Jeudi",
+              "Carte brasserie",
+              "Anges & Démons"
+            ],
+            [
+              "Vendredi",
+              "Apéro coquin, puis moules-frites",
+              "Tenues chics"
+            ],
+            [
+              "Samedi",
+              "Apéro coquin, puis repas de groupe",
+              "White Party"
+            ],
+            [
+              "Dimanche",
+              "Carte brasserie",
+              "Soirée déguisée"
+            ]
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Les repas de groupe se servent à 20 h 30 précises sur de grandes tables communes, sur réservation au bar avant 18 h. L'apéro qui les précède, avec punch et sangria maison, est ouvert à tous, inscrits au repas ou non."
+        },
+        {
+          "kind": "text",
+          "body": "Pour arriver à ces repas de groupe en terrain connu, vous pouvez [chercher avant l'été un couple prêt à vous accompagner à la Paillotte](aff:carre-libertin) sur Carré Libertin, où femmes et couples forment environ 60 % des inscrits, selon les chiffres annoncés par la plateforme."
+        },
+        {
+          "kind": "callout",
+          "tone": "warning",
+          "title": "Tenue exigée",
+          "body": "Aux soirées à thème, short et tongs sont refusés aux hommes à la Paillotte : le camping demande une « tenue correcte », consigne reconduite chaque saison depuis 2015. Toute boisson apportée de l'extérieur à la soirée vaut une exclusion immédiate."
+        }
+      ],
+      "sources": [
+        "s2",
+        "s5",
+        "s6"
+      ]
+    },
+    {
+      "id": "acces-et-environs",
+      "title": "À moins de 7 km de Vichy : parking visiteurs à l'entrée et hôtel signalé à 700 m",
+      "icon": "map",
+      "summary": "Le camping est à moins de 7 km du centre de Vichy à vol d'oiseau ; dans les environs, un sauna réservé aux hommes à Abrest, et un club fermé à Domérat.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le camping se trouve au lieu-dit La Boucharde, à Brugheas, à moins de 7 km à vol d'oiseau du centre de Vichy et à environ 3 km de celui de Serbannes. Ces distances partent d'un géocodage approximatif de l'adresse."
+        },
+        {
+          "kind": "list",
+          "items": [
+            "**Visiteurs** : parking à l'entrée du camping ; le véhicule y reste aussi pour une nuit sur invitation.",
+            "**Campeurs** : un véhicule par emplacement ou location ; les autres se garent gratuitement sur un parking privé extérieur.",
+            "**Véhicules aménagés** : le site signale un stationnement gratuit possible en face, dans la zone artisanale.",
+            "**Hommes seuls** qui veulent dormir à proximité : le site indique un hôtel à 700 m."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "À 5,7 km, à Abrest, le [Sauna Club 6e Sens](/sauna-club-6e-sens-abrest) est un établissement exclusivement masculin, sans jour mixte annoncé ; son site était encore mis à jour le 24 juin 2026. À 69,5 km, le [Lotus d'Or de Domérat](/le-lotus-d-or-montlucon-domerat) est fermé : sa société exploitante a été placée en liquidation judiciaire le 16 avril 2021."
+        },
+        {
+          "kind": "text",
+          "body": "Les autres adresses du département figurent parmi les [lieux libertins de l'Allier](/departement/allier), et d'autres séjours du même genre parmi les [hébergements libertins](/hebergement-libertin)."
+        }
+      ],
+      "sources": [
+        "s2",
+        "s3",
+        "s8",
+        "s19",
+        "s20",
+        "s21",
+        "s22"
+      ]
+    },
+    {
+      "id": "de-2011-a-2026",
+      "title": "Racheté en 2011, libertin depuis le 15 juin 2015 : bus, chalet et jeux ajoutés presque chaque hiver",
+      "icon": "history",
+      "summary": "La SAS De La Roseraie a acheté le camping en 2011 et l'a converti le 15 juin 2015 ; depuis, presque chaque hiver apporte un jeu, un bus ou des travaux, détaillés par le site.",
+      "blocks": [
+        {
+          "kind": "timeline",
+          "items": [
+            {
+              "date": "2011",
+              "text": "La SAS De La Roseraie achète le fonds du camping pour 235 011 € (BODACC du 15 novembre 2011)."
+            },
+            {
+              "date": "Janvier 2015",
+              "text": "Le site annonce qu'un camping « trois étoiles » en activité passera au « 100 % libertin » en juin."
+            },
+            {
+              "date": "15 juin 2015",
+              "text": "Premier jour d'ouverture en libertin."
+            },
+            {
+              "date": "2016",
+              "text": "Plage de la piscine agrandie, lits d'exhibe, piste de danse sous chapiteau."
+            },
+            {
+              "date": "2017",
+              "text": "Site de rencontre propre au camping."
+            },
+            {
+              "date": "2018",
+              "text": "Chalet de jeux chauffé ; La Montagne publie « Une nuit au camping libertin de Brugheas » (relais du 1er septembre)."
+            },
+            {
+              "date": "2019",
+              "text": "Premier bus coquin, aménagé dans un autocar de 45 places."
+            },
+            {
+              "date": "2020",
+              "text": "Paillotte confiée à un membre de la famille ; plus d'hommes seuls la nuit."
+            },
+            {
+              "date": "2021",
+              "text": "Espace hommes seuls et jeu « Aux bonheurs des Dames »."
+            },
+            {
+              "date": "2022",
+              "text": "Second bus coquin et quatre balançoires."
+            },
+            {
+              "date": "2024",
+              "text": "Bus rose ouvert aux hommes seuls."
+            },
+            {
+              "date": "2025",
+              "text": "Raccordement à l'assainissement collectif."
+            },
+            {
+              "date": "2026",
+              "text": "Plage de la piscine refaite, toits des chapiteaux changés, panneaux solaires annoncés."
+            }
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "La page d'accueil dit avoir « repris » le camping en 2015 ; le registre montre un achat dès 2011, et l'archive de janvier 2015 confirme qu'il fonctionnait avant sa conversion."
+        },
+        {
+          "kind": "text",
+          "body": "Le site se dit « premier vrai camping libertin du Monde » et revendique plus de 11 000 couples accueillis à septembre 2026, deux affirmations qu'aucune source indépendante ne vérifie. Son classement trois étoiles n'a pas été contrôlé auprès d'Atout France."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s7",
+        "s14",
+        "s16",
+        "s17",
+        "s24"
+      ]
+    },
+    {
+      "id": "avis-livre-d-or-pagesjaunes",
+      "title": "51 pages de livre d'or, trois avis PagesJaunes dont un 1/5 en juillet 2026",
+      "icon": "star",
+      "summary": "Le livre d'or, modéré par le camping, revient sur la propreté et la cuisine ; sur PagesJaunes, trois avis seulement, dont un 1/5 de juillet 2026 qui juge les règles trop strictes.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Le livre d'or du site compte 51 pages ; les messages de l'été 2026 reviennent sur la propreté, la cuisine et les règles strictes rappelées à l'arrivée. Le camping se réserve le droit d'en retirer les critiques qu'il juge « non justifiées » : ce n'est pas une note indépendante."
+        },
+        {
+          "kind": "text",
+          "body": "PagesJaunes affichait le 21 octobre 2026 une note de 1/5 pour trois avis, qui ne correspond pas à la moyenne des notes publiées : ceux de 2019 et de 2022 donnaient 5/5 ; celui du 16 juillet 2026 reproche un manque d'ambiance, des mobil-homes vétustes et l'interdiction faite au mari de circuler seul dans le camping."
+        },
+        {
+          "kind": "text",
+          "body": "Les propriétaires décrivent leurs avis Google comme très bons ou très mauvais, et consacrent une partie de leur page d'accueil à répondre aux plus sévères. Ces avis n'ont pas pu être consultés."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s13",
+        "s18"
+      ],
+      "confidence": "source_unique"
+    },
+    {
+      "id": "regles-et-livre-rouge",
+      "title": "Quatre règles rappelées à chaque arrivée, et un « livre rouge » des exclus à vie",
+      "icon": "shield",
+      "summary": "Respect des femmes, aucun appareil photo hors de son hébergement, pas de sexe dans la piscine, silence après 1 h : une plainte contre un homme seul vaut exclusion à vie.",
+      "blocks": [
+        {
+          "kind": "text",
+          "body": "Sur la page d'accueil, le règlement tient plus de place que les équipements. Les propriétaires y écrivent qu'ils appliquent leurs règles « à la lettre », sans exception, et que ceux qui ne veulent pas s'y plier peuvent s'épargner le déplacement."
+        },
+        {
+          "kind": "list",
+          "title": "Les règles rappelées à l'arrivée et sur la page d'accueil du site",
+          "items": [
+            "**Le refus d'une femme est définitif** : elle ne doit pas avoir à dire non deux fois.",
+            "**Aucun appareil capable de photographier ou d'enregistrer** dans les lieux communs ; les photos se prennent dans son hébergement ou dans l'espace photo, avec l'accord des intéressés.",
+            "**Pas de rapports dans l'eau de la piscine**, par hygiène.",
+            "**Silence dans les allées après 1 h**, quand la piste ferme.",
+            "**Espaces réservés aux couples** respectés, à commencer par le chalet et le bus noir."
+          ]
+        },
+        {
+          "kind": "text",
+          "body": "Une plainte d'une femme ou d'un couple contre un homme seul l'inscrit au « livre rouge » : exclusion à vie, sans remboursement. Le règlement intérieur prévoit aussi une « liste rouge » pour toute infraction grave. Les mineurs sont refusés, même accompagnés, et la page d'accueil fixe l'âge d'entrée au-delà de 21 ans."
+        },
+        {
+          "kind": "text",
+          "body": "Autres consignes : les véhicules ne circulent dans le camping que de 9 h à 22 h, la recharge des voitures électriques est interdite (bornes limitées à 6 ampères), et un gardien reste joignable 24 h sur 24 pendant les séjours."
+        }
+      ],
+      "sources": [
+        "s1",
+        "s2",
+        "s8",
+        "s9",
+        "s11",
+        "s10"
+      ]
+    }
+  ],
+  "horaires": {
+    "rows": {
+      "Saison 2027": "Du samedi 22 mai (14 h) au lundi 13 septembre (11 h)",
+      "Visiteurs à la journée": "Arrivée 10 h 30 – 12 h et 14 h – 18 h ; départ avant 0 h 30",
+      "Campeurs": "Arrivée 14 h – 19 h ; départ 10 h (location) ou 11 h (emplacement)",
+      "La Paillotte, juillet-août": "11 h – 1 h",
+      "La Paillotte, mai, juin, septembre": "Bar fermé 14 h 30 – 17 h 30 en semaine ; bar et restaurant fermés le mardi jusqu'à 17 h 30",
+      "Apéro coquin": "Lundi, mercredi, vendredi et samedi, 18 h – 20 h",
+      "Soirée dansante": "Tous les soirs de la saison, 22 h – 1 h"
+    },
+    "note": "Dates 2027 annoncées sur la page d'accueil ; horaires relevés sur les pages de la saison 2026. En 2026, le restaurant-bar fermait aussi le mardi midi à partir du 25 août.",
+    "confidence": "confirme",
+    "sources": [
+      "s1",
+      "s2",
+      "s3",
+      "s5",
+      "s6",
+      "s10"
+    ]
+  },
+  "tarifs": {
+    "rows": {
+      "Journée couple": "45 €",
+      "Journée femme seule": "25 €",
+      "Journée homme seul": "60 € (sur quota)",
+      "Nuit sur invitation": "45 € (couple) · 25 € (femme seule)",
+      "Emplacement nu": "37 à 40 € · 42 à 45 €",
+      "Mobil-home 24-28 m²": "93 € · 120 €",
+      "Mobil-home 24-30 m², terrasse couverte": "100 € · 127 €",
+      "Mobil-home 33-37 m², 3 chambres": "107 € · 134 €",
+      "Bengali-toile": "72 € · 99 €",
+      "Suppléments": "Électricité 6 €/jour · animal 3 €/jour · taxe de séjour 0,40 €/jour/pers. · dossier 12 €"
+    },
+    "note": "Tarifs 2026, TVA comprise, pour un couple ou une femme seule ; hébergements : prix de la nuit en basse saison (22/05-27/06 et 29/08-14/09) · en haute saison (27/06-28/08). Ceux de 2027 n'étaient pas publiés au 21/10/2026. Pas de carte d'adhérent ; piscine, jeux et soirées compris.",
+    "confidence": "confirme",
+    "sources": [
+      "s3"
+    ]
+  },
+  "equipements": [
+    "Piscine avec plage, transats et trois lits d'exhibe",
+    "Restaurant-bar La Paillotte",
+    "Piste de danse sous chapiteau, soirée à thème chaque soir",
+    "Petit bois coquin",
+    "Une trentaine de jeux coquins",
+    "Grand lit collectif de 7 m",
+    "Chalet coquin chauffé (croix de Saint-André, pilori)",
+    "Deux bus coquins, dont un servant de chambre noire",
+    "Quatre balançoires coquines",
+    "Espace hommes seuls avec fauteuil gynécologique",
+    "Douches d'exhibe et glory hole au bloc sanitaire",
+    "Bengalis-toile coquins",
+    "Espace photo",
+    "Vestiaire visiteurs fermé à clé",
+    "Mobil-homes et bengalis-toile en location",
+    "58 emplacements nus, dont 7 pour grands camping-cars",
+    "Station de vidange pour camping-cars",
+    "Lave-linge et sèche-linge à jetons",
+    "Wifi gratuit",
+    "Foot, volley, pétanque et badminton (matériel fourni)",
+    "Parcours canin"
+  ],
+  "officialLinks": [
+    {
+      "label": "Site officiel",
+      "url": "https://www.campinglibertinlaroseraie.com/",
+      "kind": "site"
+    },
+    {
+      "label": "Formulaire de réservation",
+      "url": "https://www.campinglibertinlaroseraie.com/reservation.php",
+      "kind": "reservation"
+    },
+    {
+      "label": "Programme des repas et soirées à thème",
+      "url": "https://www.campinglibertinlaroseraie.com/soirees-repas-themes.php",
+      "kind": "agenda"
+    },
+    {
+      "label": "Tarifs 2026",
+      "url": "https://www.campinglibertinlaroseraie.com/tarifs.php",
+      "kind": "autre"
+    },
+    {
+      "label": "Page Facebook",
+      "url": "https://www.facebook.com/campinglibertin/",
+      "kind": "facebook"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Le camping libertin La Roseraie est-il ouvert en ce moment ?",
+      "answer": "Non : il est fermé pour l'hiver, pas définitivement. La page d'accueil annonce la saison 2027 du samedi 22 mai à 14 h au lundi 13 septembre à 11 h ; les propriétaires ayant évoqué une vente pour leur retraite, revérifiez l'annonce avant de réserver."
+    },
+    {
+      "question": "Combien coûte l'entrée à La Roseraie pour une journée ?",
+      "answer": "En 2026 : 45 € pour un couple, 25 € pour une femme seule, 60 € pour un homme seul, sans carte d'adhérent. Piscine, jeux et soirée dansante sont compris, les repas non. Les tarifs 2027 n'étaient pas publiés le 21 octobre 2026."
+    },
+    {
+      "question": "Un homme seul peut-il venir au camping libertin de Brugheas ?",
+      "answer": "Oui, à la journée, pour 60 € en 2026, dans la limite de 15 % des couples présents (12 au plus) : téléphonez l'avant-veille au 04 70 32 43 33, sans numéro masqué. Départ à 0 h 30 au plus tard, pas d'accès au chalet ni au bus noir, et pas de nuit sur place depuis 2020."
+    },
+    {
+      "question": "Faut-il réserver pour séjourner au camping ?",
+      "answer": "C'est conseillé, et la réservation passe obligatoirement par le formulaire du site, avec 12 € de frais de dossier et 30 % d'acompte. En haute saison, les locations se font du samedi au samedi. Couples et femmes seules venus à la journée entrent sans réserver."
+    },
+    {
+      "question": "Peut-on venir en camping-car ?",
+      "answer": "Oui : 7 des 58 emplacements font 100 m² pour les grands camping-cars, et la vidange est gratuite. En 2026, un couple paie 40 € la nuit en basse saison, 45 € en haute, plus 6 € d'électricité ; prévoyez une prise européenne et 50 m de rallonge."
+    },
+    {
+      "question": "Quel âge faut-il avoir pour entrer ?",
+      "answer": "Plus de 21 ans selon la page d'accueil ; le règlement intérieur refuse les mineurs, même accompagnés. Une pièce d'identité est demandée à chaque visiteur."
+    },
+    {
+      "question": "Le camping La Roseraie est-il à vendre ?",
+      "answer": "Rien d'officiel : les propriétaires disent hésiter à vendre pour prendre leur retraite, et un bouton « Camping à vendre » figure, désactivé, dans le code du site. Aucune cession n'était publiée au BODACC le 21 octobre 2026."
+    },
+    {
+      "question": "Peut-on prendre des photos dans le camping ?",
+      "answer": "Pas dans les espaces communs, où tout appareil capable de photographier ou d'enregistrer est interdit. Les photos restent permises dans votre hébergement ou dans l'espace photo, avec l'accord des personnes concernées."
+    }
+  ],
+  "unverified": [
+    "Le classement trois étoiles affiché par le camping n'a pas été vérifié auprès d'Atout France.",
+    "Le nombre exact de mobil-homes et de bengalis-toile n'est pas publié ; le site parle à la fois de 58 emplacements nus et de 80 emplacements.",
+    "Les tarifs 2027 n'étaient pas publiés au 21 octobre 2026.",
+    "Le projet de vente évoqué par les propriétaires : aucune cession n'était publiée au 21 octobre 2026.",
+    "Les avis Google, que les propriétaires disent très partagés, n'ont pas pu être consultés.",
+    "Les photos et vidéos des galeries officielles n'ont pas été regardées.",
+    "Le contenu de l'article de La Montagne de 2018, derrière un mur de connexion, n'a pas pu être lu.",
+    "La page Facebook du camping n'est pas lisible sans connexion : son activité récente n'est pas connue."
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Site officiel, page d'accueil (fin de saison 2026, dates 2027, réponse aux avis, présentation)",
+      "url": "https://www.campinglibertinlaroseraie.com/",
+      "type": "officiel",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s2",
+      "label": "Site officiel, page « Visiteurs »",
+      "url": "https://www.campinglibertinlaroseraie.com/visiteurs.php",
+      "type": "officiel",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s3",
+      "label": "Site officiel, « Tarifs 2026 »",
+      "url": "https://www.campinglibertinlaroseraie.com/tarifs.php",
+      "type": "officiel",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s4",
+      "label": "Site officiel, mentions légales",
+      "url": "https://www.campinglibertinlaroseraie.com/mentions.php",
+      "type": "officiel",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s5",
+      "label": "Site officiel, « Les services » (Paillotte, soirées, services gratuits)",
+      "url": "https://www.campinglibertinlaroseraie.com/services.php",
+      "type": "officiel",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s6",
+      "label": "Site officiel, « Repas, apéro et soirées à thème »",
+      "url": "https://www.campinglibertinlaroseraie.com/soirees-repas-themes.php",
+      "type": "officiel",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s7",
+      "label": "Site officiel, « Nouveautés » (aménagements de 2016 à 2026)",
+      "url": "https://www.campinglibertinlaroseraie.com/nouveautes.php",
+      "type": "officiel",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s8",
+      "label": "Site officiel, « Femmes et hommes seuls »",
+      "url": "https://www.campinglibertinlaroseraie.com/hommes-femmes-seuls.php",
+      "type": "officiel",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s9",
+      "label": "Site officiel, règlement intérieur",
+      "url": "https://www.campinglibertinlaroseraie.com/reglements.php",
+      "type": "officiel",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s10",
+      "label": "Site officiel, « Hébergements »",
+      "url": "https://www.campinglibertinlaroseraie.com/hebergements.php",
+      "type": "officiel",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s11",
+      "label": "Site officiel, présentation des règles rappelées à l'arrivée",
+      "url": "https://www.campinglibertinlaroseraie.com/presentation.php",
+      "type": "officiel",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s12",
+      "label": "Site officiel, page « Camping-caristes »",
+      "url": "https://www.campinglibertinlaroseraie.com/campingcaristes-libertins.php",
+      "type": "officiel",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s13",
+      "label": "Site officiel, livre d'or « Donner votre avis » (messages de clients modérés par le camping)",
+      "url": "https://www.campinglibertinlaroseraie.com/avis.php",
+      "type": "officiel",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s14",
+      "label": "Site officiel, archive du 01/01/2015 (annonce de la conversion au libertinage)",
+      "url": "https://web.archive.org/web/20150101035958/http://www.campinglibertinlaroseraie.com/",
+      "type": "officiel",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s15",
+      "label": "Wayback Machine, index des captures de campinglibertinlaroseraie.com (2015-2026)",
+      "url": "https://web.archive.org/cdx/search/cdx?url=campinglibertinlaroseraie.com",
+      "type": "autre",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s16",
+      "label": "Registre des entreprises : SAS De La Roseraie (SIREN 537 423 683)",
+      "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/537423683",
+      "type": "registre",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s17",
+      "label": "BODACC : annonces de la SAS De La Roseraie (achat du fonds en 2011, comptes jusqu'en 2025)",
+      "url": "https://bodacc-datadila.opendatasoft.com/explore/dataset/annonces-commerciales/table/?q=537423683",
+      "type": "registre",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s18",
+      "label": "PagesJaunes, fiche « De La Roseraie » (trois avis, bandeau de fermeture)",
+      "url": "https://www.pagesjaunes.fr/pros/53474071",
+      "type": "avis",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s19",
+      "label": "Base Adresse Nationale : géocodage de l'adresse et distances à vol d'oiseau",
+      "url": "https://api-adresse.data.gouv.fr/search/?q=4+La+Boucharde+03700+Brugheas",
+      "type": "carte",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s20",
+      "label": "Sauna Club 6e Sens (Abrest), site officiel : présentation d'un établissement exclusivement masculin",
+      "url": "https://6sens-sauna.com/",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s21",
+      "label": "Sauna Club 6e Sens (Abrest), site officiel : dates de modification des pages",
+      "url": "https://6sens-sauna.com/wp-json/wp/v2/pages",
+      "type": "officiel",
+      "consulted": "2026-10-20"
+    },
+    {
+      "id": "s22",
+      "label": "BODACC, avis du 22/04/2021 : liquidation judiciaire de la SARL DDMMJ (Lotus d'Or, Domérat)",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202100792278",
+      "type": "registre",
+      "consulted": "2026-10-16"
+    },
+    {
+      "id": "s23",
+      "label": "Site de rencontre du camping (rencontre-libertine-laroseraie.com), erreur de certificat",
+      "url": "http://www.rencontre-libertine-laroseraie.com",
+      "type": "officiel",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s24",
+      "label": "La Montagne, « Une nuit au camping libertin de Brugheas (Allier) », relayé par Scoop.it (2018, texte non consultable)",
+      "url": "https://www.scoop.it/topic/camping-en-france/p/4101209824/2018/09/01/une-nuit-au-camping-libertin-de-brugheas-allier-brugheas-03700-la-montagne",
+      "type": "presse",
+      "consulted": "2026-10-21"
+    },
+    {
+      "id": "s25",
+      "label": "clubech.fr, fiche « Camping La Roseraie » (archive du 28/11/2021)",
+      "url": "https://web.archive.org/web/20211128170328/http://www.clubech.fr/camping-la-roseraie/",
+      "type": "annuaire",
+      "consulted": "2026-10-20"
+    }
+  ]
+}
